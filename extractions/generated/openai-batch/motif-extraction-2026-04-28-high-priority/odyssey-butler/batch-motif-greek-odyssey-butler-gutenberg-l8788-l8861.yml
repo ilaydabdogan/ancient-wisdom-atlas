@@ -1,0 +1,569 @@
+---
+record_id: batch.motif.greek-odyssey-butler-gutenberg-l8788-l8861
+source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+passage_locator:
+  label: ULYSSES REVEALS HIMSELF TO TELEMACHUS. / BOOK XVII / BOOK XVIII / BOOK XIX;
+    lines 8788-8861
+  start: '8788'
+  end: '8861'
+  translation: The Odyssey
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Penelope tells the disguised Ulysses of her grief, asks him to interpret
+    a dream in which an eagle kills her geese and explains that the geese are the
+    suitors and the eagle is her returned husband. Ulysses confirms the omen as foretelling
+    the suitors’ deaths. Penelope reflects on true and false dreams, announces the
+    bow-and-axes contest by which she will choose a suitor, and then goes upstairs
+    to lament until Minerva sends sleep upon her.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Penelope describes continual sorrow, wakefulness at night, and uncertainty
+    over whether to remain in Ulysses’ house or leave with one of the suitors.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Penelope reports a dream in which twenty geese feeding at a trough are killed
+    by a great eagle that descends from a mountain and later speaks with a human voice.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: In the dream, the speaking eagle says the geese are the suitors and identifies
+    itself as Penelope’s husband returned to bring the suitors to a disgraceful end.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: After waking, Penelope sees her actual geese still eating as usual at the
+    trough.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Ulysses interprets the dream as a portent that the suitors will die and none
+    will escape.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Penelope distinguishes dreams that come through the gate of ivory from those
+    that come through the gate of horn, saying the former are fatuous and the latter
+    meaningful.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Penelope announces a contest in which suitors must string Ulysses’ bow and
+    shoot an arrow through twelve axes; the successful man will be the one she follows.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Ulysses says that Ulysses will return before the suitors can string the bow
+    and shoot through the iron.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: Penelope goes upstairs with her maidens, laments her husband, and Minerva
+    sends sweet sleep over her eyelids.
+  category: sequence
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Penelope
+  description: Wife of Ulysses who speaks of grief, reports the dream, announces the
+    contest, and later goes upstairs to lament.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+  - ev:7
+  - ev:9
+- id: fig:2
+  name_or_label: Ulysses, addressed as Stranger
+  description: The man addressed by Penelope as a stranger; he interprets the dream
+    and predicts Ulysses’ return before the bow contest can be completed by the suitors.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:5
+  - ev:8
+- id: fig:3
+  name_or_label: Telemachus / Penelope’s son
+  description: Penelope’s grown son, who is said to urge her to leave because the
+    suitors are consuming his property.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Suitors
+  description: Men wooing Penelope, giving presents, consuming Telemachus’ property,
+    and expected to compete in the bow-and-axes contest.
+  role_refs:
+  - role:6
+  - role:7
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: fig:5
+  name_or_label: Dream eagle
+  description: A great eagle in Penelope’s dream descends from a mountain, kills the
+    geese, returns to a rafter, speaks with a human voice, and identifies itself as
+    the returned husband.
+  role_refs:
+  - role:8
+  - role:9
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:6
+  name_or_label: Dream geese
+  description: Twenty geese in Penelope’s dream are killed by the eagle; the eagle
+    says they are the suitors.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:7
+  name_or_label: Maids / maidens
+  description: Female attendants who gather around Penelope in the dream and later
+    accompany her upstairs.
+  role_refs:
+  - role:11
+  evidence_refs:
+  - ev:2
+  - ev:9
+- id: fig:8
+  name_or_label: Minerva
+  description: A goddess who sheds sweet sleep over Penelope’s eyelids after she laments.
+  role_refs:
+  - role:12
+  evidence_refs:
+  - ev:9
+- id: fig:9
+  name_or_label: Nightingale, daughter of Pandareus
+  description: A bird in Penelope’s comparison, singing plaintively after killing
+    her child Itylus by mishap.
+  role_refs:
+  - role:13
+  evidence_refs:
+  - ev:10
+roles:
+- id: role:1
+  label: grieving wife
+  assigned_to:
+  - fig:1
+  basis: Penelope says she weeps, lies awake, and later laments her husband.
+  evidence_refs:
+  - ev:1
+  - ev:9
+- id: role:2
+  label: dream recipient
+  assigned_to:
+  - fig:1
+  basis: Penelope recounts a dream and asks for interpretation.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: dream interpreter
+  assigned_to:
+  - fig:2
+  basis: Ulysses states that the dream has only one interpretation and foretells the
+    suitors’ death.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: predictor of return
+  assigned_to:
+  - fig:2
+  basis: He says Ulysses will return before the suitors can complete the bow contest.
+  evidence_refs:
+  - ev:8
+- id: role:5
+  label: heir whose property is consumed
+  assigned_to:
+  - fig:3
+  basis: Penelope says her son is angered because the suitors are eating up his property.
+  evidence_refs:
+  - ev:1
+- id: role:6
+  label: wooers
+  assigned_to:
+  - fig:4
+  basis: Penelope calls them suitors who woo her and bring presents.
+  evidence_refs:
+  - ev:1
+- id: role:7
+  label: contestants
+  assigned_to:
+  - fig:4
+  basis: Penelope says she will make the suitors attempt the bow-and-axes trial.
+  evidence_refs:
+  - ev:7
+- id: role:8
+  label: dream killer
+  assigned_to:
+  - fig:5
+  basis: The eagle kills all twenty geese in the dream.
+  evidence_refs:
+  - ev:2
+- id: role:9
+  label: speaking omen figure
+  assigned_to:
+  - fig:5
+  basis: The eagle speaks in a human voice and explains the dream as a good omen.
+  evidence_refs:
+  - ev:3
+- id: role:10
+  label: dream victims
+  assigned_to:
+  - fig:6
+  basis: The geese are killed by the eagle and identified as the suitors.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:11
+  label: attendants
+  assigned_to:
+  - fig:7
+  basis: Maids gather around Penelope in the dream, and maidens attend her upstairs.
+  evidence_refs:
+  - ev:2
+  - ev:9
+- id: role:12
+  label: divine sleep-giver
+  assigned_to:
+  - fig:8
+  basis: Minerva sends sweet sleep over Penelope’s eyelids.
+  evidence_refs:
+  - ev:9
+- id: role:13
+  label: simile of lamenting mother
+  assigned_to:
+  - fig:9
+  basis: Penelope compares her mind to the nightingale singing plaintively after killing
+    Itylus.
+  evidence_refs:
+  - ev:10
+symbols:
+- id: sym:1
+  label: twenty geese
+  literal_form: Twenty household geese eating mash from a trough; in the dream they
+    are killed and explained as the suitors.
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: great eagle
+  literal_form: A great eagle descending from a mountain, killing the geese, soaring
+    into the sky, returning to a rafter, and speaking with a human voice.
+  associated_figures:
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: mountain
+  literal_form: The place from which the dream eagle swoops down.
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: gates of horn and ivory
+  literal_form: Two gates through which dreams proceed; ivory dreams are fatuous,
+    horn dreams are meaningful.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: bow and twelve axes
+  literal_form: Ulysses’ bow and twelve axes set in a row, through which an arrow
+    must be shot in the contest.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: sym:6
+  label: tear-flooded couch
+  literal_form: The couch Penelope says she has never ceased to flood with tears since
+    Ulysses departed.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:7
+  label: sweet sleep
+  literal_form: Sleep sent by Minerva over Penelope’s eyelids after lamentation.
+  associated_figures:
+  - fig:1
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Penelope describes grief and uncertainty
+  summary: Penelope tells the stranger that sorrow keeps her awake and that she is
+    uncertain whether to remain in Ulysses’ house with her son or leave with one of
+    the suitors.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Dream of eagle and geese
+  summary: Penelope recounts a dream in which an eagle kills her twenty geese, then
+    returns and says the geese are the suitors and the eagle is her returned husband.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Dream interpreted as omen
+  summary: Ulysses tells Penelope that the dream clearly portends the death of the
+    suitors with none escaping.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Penelope discusses true and false dreams
+  summary: Penelope describes the gates of ivory and horn and expresses doubt that
+    her dream came through the truthful gate of horn.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: Announcement of bow-and-axes contest
+  summary: Penelope says she will hold a contest using Ulysses’ bow and twelve axes,
+    and that the successful suitor will be the one she follows from the house.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: scene:6
+  label: Lamentation and divinely sent sleep
+  summary: Penelope goes upstairs with her maidens, laments Ulysses, and Minerva sends
+    sleep over her eyelids.
+  figure_refs:
+  - fig:1
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: ominous dream with internal interpretation
+  taxonomy_refs: []
+  basis: Penelope’s dream contains animal figures whose meaning is explained within
+    the dream itself, and Ulysses confirms the interpretation as a portent.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The passage itself frames the dream as potentially uncertain through Penelope’s
+    later remarks about true and false dreams.
+- id: motif:2
+  label: returning husband destroys suitors
+  taxonomy_refs:
+  - return
+  basis: The dream eagle identifies itself as the husband returned to bring the suitors
+    to a disgraceful end, and Ulysses says the suitors’ death is portended.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:8
+  confidence: high
+  cautions: The dream is reported before its fulfillment in this passage, and Penelope
+    questions whether it is a true dream.
+- id: motif:3
+  label: true and false dreams distinguished by gates
+  taxonomy_refs: []
+  basis: Penelope states that dreams come through either the gate of ivory or the
+    gate of horn, with different truth values.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: No broader taxonomy reference is assigned because none of the supplied
+    motif-family labels directly names this dream classification.
+- id: motif:4
+  label: marriage contest using the hero’s weapon
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: Penelope announces that suitors must string Ulysses’ bow and shoot through
+    twelve axes; the successful contestant will be the man she follows from the house.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The royal_legitimacy taxonomy link is tentative; the passage emphasizes
+    marriage choice and possession of Ulysses’ house rather than an explicit kingship
+    ritual.
+- id: motif:5
+  label: divinity grants sleep after lamentation
+  taxonomy_refs: []
+  basis: After Penelope laments her husband, Minerva sends sweet sleep over her eyelids.
+  evidence_refs:
+  - ev:9
+  confidence: medium
+  cautions: The passage gives a brief divine action but does not elaborate its larger
+    function.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 8788-8816
+  quote_or_summary: Penelope tells the stranger of sleepless grief, compares her anguish
+    to a lamenting nightingale, and says she is uncertain whether to stay with her
+    son and guard the household or leave with one of the suitors; she adds that her
+    son is angry because the suitors consume his property.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain translation; summarized.
+- id: ev:2
+  type: summary
+  locator: 8816-8828
+  quote_or_summary: Penelope reports dreaming of twenty geese at a trough and a great
+    eagle that swoops down from a mountain, kills them all, flies into the sky, and
+    leaves them dead while she grieves and her maids gather around.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain translation; summarized.
+- id: ev:3
+  type: quote
+  locator: 8828-8836
+  quote_or_summary: The eagle says that the geese are the suitors and that it is Penelope’s
+    own husband returned to bring them to a disgraceful end.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain translation; short quotation paraphrased as summary.
+- id: ev:4
+  type: summary
+  locator: 8836-8838
+  quote_or_summary: Penelope wakes and sees her geese at the trough eating their mash
+    as usual.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain translation; summarized.
+- id: ev:5
+  type: summary
+  locator: 8839-8844
+  quote_or_summary: 'Ulysses replies that the dream has only one interpretation: Ulysses
+    has shown how it will be fulfilled, and the suitors’ death is portended with none
+    escaping.'
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain translation; summarized.
+- id: ev:6
+  type: summary
+  locator: 8845-8854
+  quote_or_summary: Penelope says dreams are strange and not always true; dreams from
+    the ivory gate are fatuous, while those from the horn gate mean something to those
+    who see them, though she doubts her own came from horn.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain translation; summarized.
+- id: ev:7
+  type: summary
+  locator: 8854-8870
+  quote_or_summary: Penelope says dawn will bring the day she leaves Ulysses’ house;
+    she will hold a contest with twelve axes and Ulysses’ bow, following whichever
+    suitor can string the bow and shoot through all twelve axes.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain translation; summarized.
+- id: ev:8
+  type: summary
+  locator: 8871-8875
+  quote_or_summary: Ulysses tells Penelope not to defer the tournament, because Ulysses
+    will return before the suitors can string the bow and shoot through the iron.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain translation; summarized.
+- id: ev:9
+  type: summary
+  locator: 8876-8886
+  quote_or_summary: Penelope says she will go upstairs to the couch she has flooded
+    with tears since Ulysses left; she goes with her maidens, laments her husband,
+    and Minerva sends sweet sleep over her eyelids.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain translation; summarized.
+- id: ev:10
+  type: summary
+  locator: 8796-8802
+  quote_or_summary: Penelope compares her troubled mind to the nightingale, daughter
+    of Pandareus, singing plaintively after killing her child Itylus by mishap.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain translation; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is supported by the supplied passage. Motif labels are
+    candidate-level and require human review, especially taxonomy mapping for royal_legitimacy.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used. No comparison claims were added because the passage does not itself support a specific cross-textual or historical comparison.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-odyssey-butler-gutenberg__l8788-l8861
+  passage_sha256=17982334e8bb864fa46aa5895f05f33068168e95512afd6f60a572bd08c881bd
+

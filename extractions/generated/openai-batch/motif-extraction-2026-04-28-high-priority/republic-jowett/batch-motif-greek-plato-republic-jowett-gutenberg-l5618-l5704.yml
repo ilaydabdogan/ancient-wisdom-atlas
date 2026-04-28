@@ -1,0 +1,500 @@
+---
+record_id: batch.motif.greek-plato-republic-jowett-gutenberg-l5618-l5704
+source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+passage_locator:
+  label: The Republic / THE REPUBLIC / INTRODUCTION AND ANALYSIS.; lines 5618-5704
+  start: '5618'
+  end: '5704'
+  translation: The Republic
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage argues that poetry inflames emotion and should be excluded
+    from the ideal state except for hymns to gods and praises of famous men; it frames
+    poetry and philosophy as ancient rivals, permits poetry to defend herself if she
+    can prove usefulness, and then turns to an argument for the immortality and simplicity
+    of the soul, ending with an image of the soul like the sea-god Glaucus, encrusted
+    by worldly accretions.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Poetry is said to excite feelings injuriously by encouraging sympathetic weeping
+    and laughter at behavior one would reject in oneself.
+  category: action
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:2
+  text: Poetry is described as feeding and watering passions and desires, letting
+    them rule instead of ruling them.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:3
+  text: The state is said to permit only hymns to the Gods and praises of famous men,
+    with law and reason rather than pleasure and pain as rulers.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:4
+  text: Poetry is personified as a female figure who might charge the speakers with
+    discourtesy and may return only if she makes a defence of herself.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:5
+  text: The passage names an ancient quarrel between poetry and philosophy and cites
+    hostile poetic sayings about philosophers.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:6
+  text: The soul is argued to be immortal because neither its own corruptions nor
+    bodily evils are said to destroy it.
+  category: attribute
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: obs:7
+  text: Souls are said always to exist in the same number, neither diminishing nor
+    increasing.
+  category: attribute
+  evidence_refs:
+  - ev:9
+- id: obs:8
+  text: The soul is compared to the sea-god Glaucus, bruised and maimed in the sea
+    which is the world and covered with shells and stones from earthly entertainments.
+  category: object
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Poetry
+  description: Personified as a female figure with charms, accused of exciting passions,
+    expelled, and invited to defend herself if she can show usefulness as well as
+    delight.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: Homer
+  description: Named as a great poet and tragedian, and described by his encomiasts
+    as the educator of Hellas.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: Gods
+  description: Named as the proper subjects of hymns allowed in the state.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Famous men
+  description: Named as the proper subjects of praise allowed in the state.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Philosophy
+  description: Set against poetry in an ancient quarrel and associated with rational
+    reflection on the soul and the divine, immortal, and eternal.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+  - ev:11
+- id: fig:6
+  name_or_label: Philosophers
+  description: Mentioned in hostile poetic sayings as those ready to circumvent Zeus
+    and as paupers.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+- id: fig:7
+  name_or_label: Zeus
+  description: Mentioned in a cited poetic saying about philosophers ready to circumvent
+    Zeus.
+  role_refs: []
+  evidence_refs:
+  - ev:6
+- id: fig:8
+  name_or_label: Soul
+  description: Described as immortal, everlasting, not destroyed by internal or external
+    evil, and visible in the present condition as disfigured by worldly accretions.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:10
+- id: fig:9
+  name_or_label: Body
+  description: Contrasted with the soul and said to be destroyed by disease or by
+    badness communicated through food, while bodily evil cannot destroy the soul.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:8
+- id: fig:10
+  name_or_label: Sea-god Glaucus
+  description: Used as an image for the soul in its present condition, bruised, maimed,
+    and covered with shells and stones.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:10
+roles:
+- id: role:1
+  label: passion-exciting art
+  assigned_to:
+  - fig:1
+  basis: Poetry is said to feed and water passions and desires and let them rule.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: banished but conditionally returnable figure
+  assigned_to:
+  - fig:1
+  basis: Poetry is expelled, apologized to, and allowed to return only if she can
+    make a defence of herself.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: claimed educator of Hellas
+  assigned_to:
+  - fig:2
+  basis: Homer’s encomiasts affirm that he is the educator of Hellas.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: approved subject of civic poetry
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The only permitted poetry is hymns to the Gods and praises of famous men.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: rational rival to poetry
+  assigned_to:
+  - fig:5
+  basis: Philosophy is placed in an ancient quarrel with poetry and is associated
+    with reasoned contemplation of the soul.
+  evidence_refs:
+  - ev:6
+  - ev:11
+- id: role:6
+  label: targets of poetic ridicule
+  assigned_to:
+  - fig:6
+  basis: Poetic sayings cited in the passage deride philosophers.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: immortal subject of moral concern
+  assigned_to:
+  - fig:8
+  basis: The soul is argued to be immortal and tied to the good or evil at stake in
+    human life.
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: role:8
+  label: mortal counterpart contrasted with soul
+  assigned_to:
+  - fig:9
+  basis: The body is described as destructible by bodily disease or communicated badness,
+    unlike the soul.
+  evidence_refs:
+  - ev:8
+- id: role:9
+  label: mythic image of the soul’s obscured condition
+  assigned_to:
+  - fig:10
+  basis: Glaucus is used as the likeness for the soul in its worldly, encrusted condition.
+  evidence_refs:
+  - ev:10
+symbols:
+- id: sym:1
+  label: sea as world
+  literal_form: the sea which is the world
+  associated_figures:
+  - fig:8
+  - fig:10
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:10
+- id: sym:2
+  label: shells and stones as accretions
+  literal_form: shells and stones incrusted upon the soul from the entertainments
+    of earth
+  associated_figures:
+  - fig:8
+  - fig:10
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+- id: sym:3
+  label: light of reason
+  literal_form: the light of reason by which the soul must be viewed
+  associated_figures:
+  - fig:5
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:11
+- id: sym:4
+  label: feeding and watering passions
+  literal_form: poetry feeds and waters the passions and desires
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Emotional contagion through poetry
+  summary: The passage describes hearers who weep at heroic suffering or laugh at
+    comic buffoonery and are thereby drawn into similar emotional habits in their
+    own lives.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Civic restriction and apology to poetry
+  summary: Poetry is expelled from the state except for hymns and praises, then addressed
+    as a charming but dangerous beloved who may return only if she proves herself
+    useful.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Ancient quarrel of poetry and philosophy
+  summary: The passage states that poetry and philosophy have an ancient quarrel and
+    cites hostile poetic sayings about philosophers and Zeus.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+- id: scene:4
+  label: Argument for the immortal soul
+  summary: The passage argues that every thing has its own good and evil, that injustice
+    and related corruptions do not destroy the soul as disease destroys the body,
+    and that the soul must therefore be immortal and everlasting.
+  figure_refs:
+  - fig:8
+  - fig:9
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+- id: scene:5
+  label: Glaucus image of the worldly soul
+  summary: The soul is to be viewed by reason and philosophy, but in its present condition
+    is likened to Glaucus, disfigured in the worldly sea and covered with shells and
+    stones.
+  figure_refs:
+  - fig:5
+  - fig:8
+  - fig:10
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:10
+  - ev:11
+candidate_motifs:
+- id: motif:1
+  label: Wisdom and reason governing desire
+  taxonomy_refs:
+  - wisdom
+  basis: The passage contrasts rule by law and reason with rule by pleasure, pain,
+    passions, and desires, and links philosophy with contemplation of the divine and
+    eternal.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:11
+  confidence: high
+  cautions: This is a philosophical ethical pattern rather than a narrative myth episode.
+- id: motif:2
+  label: Duality of body and immortal soul
+  taxonomy_refs:
+  - duality
+  basis: The passage distinguishes body and soul, treating bodily destruction as unlike
+    the soul’s condition and arguing that the soul is immortal and everlasting.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: The passage is argumentative and metaphysical; it does not narrate a mythic
+    separation event.
+- id: motif:3
+  label: Obscured divine or immortal nature under worldly accretions
+  taxonomy_refs: []
+  basis: The soul is compared to Glaucus, a sea-god whose true form is obscured by
+    bruising, maiming, shells, and stones in the worldly sea.
+  evidence_refs:
+  - ev:10
+  - ev:11
+  confidence: medium
+  cautions: The motif label generalizes from a single metaphor in the passage; no
+    taxonomy reference is supplied beyond the literal water symbol.
+- id: motif:4
+  label: Rivalry of poetry and philosophy
+  taxonomy_refs: []
+  basis: The passage explicitly names an ancient quarrel between poetry and philosophy
+    and frames poetry as charming but potentially dangerous unless subordinated to
+    rational usefulness.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: This is a literary-philosophical rivalry pattern, not a mythic episode
+    in the narrow sense.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares its criticism of poetry with an older literary
+    pattern, naming an ancient quarrel between poetry and philosophy and citing poetic
+    sayings as traces of that quarrel.
+  claim_level: same_function
+  target: ancient quarrel between poetry and philosophy in poets' writings
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage supports only an internal literary comparison; it does
+    not establish a broader historical origin or cross-cultural connection.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 5618-5631
+  quote_or_summary: Poetry has the power of “injuriously exciting the feelings,” as
+    when hearers sympathize with a hero’s extended lament.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: lines 5631-5638
+  quote_or_summary: The passage says that weeping at others’ sorrows leads to weeping
+    at one’s own, and stage laughter at buffoonery can make one a buffoon at home.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 5638-5641
+  quote_or_summary: "“Poetry feeds and waters the passions and desires; she lets them
+    rule instead of ruling them.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:4
+  type: summary
+  locator: lines 5641-5649
+  quote_or_summary: Homer is called by supporters the educator of Hellas, but the
+    state will prohibit poetry beyond hymns to the Gods and praises of famous men;
+    law and reason, not pleasure and pain, are to rule.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 5650-5667
+  quote_or_summary: The speakers apologize to personified poetry, acknowledge her
+    charms, and allow her to return only if she can defend herself as useful as well
+    as delightful.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: quote
+  locator: lines 5652-5659
+  quote_or_summary: There is “an ancient quarrel between poetry and philosophy,” with
+    cited poetic sayings about a she-dog, philosophers circumventing Zeus, and philosophers
+    as paupers.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:7
+  type: summary
+  locator: lines 5674-5683
+  quote_or_summary: The passage argues that all things have inherent good and evil;
+    the soul’s corruptions include injustice, intemperance, and cowardice, but these
+    do not destroy it as disease destroys the body.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 5683-5693
+  quote_or_summary: The body and soul are distinguished; bodily evils such as disease
+    or violence cannot destroy the soul unless they make it unholy and unjust, which
+    is denied.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 5694-5700
+  quote_or_summary: Because neither internal nor external evil destroys the soul,
+    it is called immortal and everlasting; souls are said to remain the same in number,
+    neither diminishing nor increasing.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: quote
+  locator: lines 5700-5704
+  quote_or_summary: The soul is seen “like the sea-god Glaucus,” bruised in “the sea
+    which is the world,” and covered with shells and stones.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:11
+  type: summary
+  locator: lines 5698-5704
+  quote_or_summary: The soul should be viewed by the light of reason, pure as at birth,
+    or as reflected in philosophy when conversing with the divine, immortal, and eternal.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is strong because the passage is explicit. Motif labels
+    are cautious because the passage is philosophical analysis with limited narrative
+    action.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy references were limited to available motif families and symbols supported by the passage.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-plato-republic-jowett-gutenberg__l5618-l5704
+  passage_sha256=a9e74ebe8bb83ff71a6c495c0501636ba1086297cf1174c2c516f4338e089244
+

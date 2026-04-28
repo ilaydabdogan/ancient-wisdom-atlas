@@ -1,0 +1,264 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l1868-l1878
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE MONKEY AS KING / THE THIEVES AND THE COCK / THE FARMER AND FORTUNE /
+    JUPITER AND THE MONKEY; lines 1868-1878
+  start: '1868'
+  end: '1878'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Jupiter announces a prize for the beast whose offspring he judges most
+    beautiful. A Monkey presents her baby, which the gods mock, but she declares that
+    she will always think her own baby the most beautiful.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Jupiter issues a proclamation to all the beasts.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Jupiter offers a prize to the beast who, in his judgment, has produced the
+    most beautiful offspring.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A Monkey arrives carrying a baby monkey in her arms.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The baby monkey is described as hairless, flat-nosed, and frightening in appearance.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The gods laugh when they see the baby monkey.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The Monkey hugs her baby and says she will always think it the most beautiful,
+    regardless of Jupiter's prize decision.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Jupiter
+  description: Divine figure who proclaims the contest and offers the prize.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: the beasts
+  description: The animals addressed by Jupiter's proclamation and eligible for the
+    prize.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: the Monkey
+  description: A monkey who carries her baby to Jupiter's contest and defends its
+    beauty.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:4
+  name_or_label: baby monkey
+  description: The Monkey's offspring, described as hairless, flat-nosed, and frightening
+    in appearance.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: the gods
+  description: Divine onlookers who laugh at the baby monkey.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: divine judge and prize-giver
+  assigned_to:
+  - fig:1
+  basis: Jupiter offers a prize according to his own judgment.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: contest participant
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The beasts are invited to produce offspring for judgment; the Monkey comes
+    among the rest.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: mother defending offspring
+  assigned_to:
+  - fig:3
+  basis: The Monkey carries, hugs, and praises her baby despite others' laughter.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:4
+  label: offspring presented for judgment
+  assigned_to:
+  - fig:4
+  basis: The baby monkey is presented in the contest for most beautiful offspring.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:5
+  label: laughing divine audience
+  assigned_to:
+  - fig:5
+  basis: The gods laugh after seeing the baby monkey.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: prize for beautiful offspring
+  literal_form: prize
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: baby held in arms
+  literal_form: baby monkey carried and hugged by its mother
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+scenes:
+- id: scene:1
+  label: Jupiter announces a beauty contest for offspring
+  summary: Jupiter proclaims to the beasts that he will award a prize for the most
+    beautiful offspring.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Monkey presents her baby
+  summary: The Monkey brings her baby, which is described unfavorably, and the gods
+    laugh at it.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Monkey asserts her baby's beauty
+  summary: The Monkey embraces her baby and states that, whatever Jupiter decides,
+    she will always regard her baby as most beautiful.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: divine judgment contest
+  taxonomy_refs:
+  - divine_judgment
+  basis: A divine figure, Jupiter, establishes a contest and reserves judgment over
+    which offspring is most beautiful.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage presents a comic fable contest rather than a solemn mythic
+    trial or punishment scene.
+- id: motif:2
+  label: parental partiality toward offspring
+  taxonomy_refs: []
+  basis: The Monkey insists that her own baby is the most beautiful despite divine
+    laughter and the expected external judgment.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: No supplied taxonomy reference directly matches this fable motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1868-1872
+  quote_or_summary: Jupiter proclaims to all beasts that he will award a prize to
+    the one who, in his judgment, produces the most beautiful offspring.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1872-1874
+  quote_or_summary: The Monkey comes with the others, carrying a baby monkey described
+    as hairless, flat-nosed, and unattractive.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 1874-1875
+  quote_or_summary: "“the gods all burst into peal on peal of laughter”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: summary
+  locator: lines 1875-1878
+  quote_or_summary: The Monkey hugs her baby and says Jupiter may give the prize as
+    he likes, but she will always think her own baby the most beautiful.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif assignment to divine_judgment
+    is cautious because the scene is a comic fable contest. No comparison claims were
+    made from the passage alone.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l1868-l1878
+  passage_sha256=0dc69dc984c23a6fbe396290573045406432ce5813f4d38c76ae6bdc32269387
+

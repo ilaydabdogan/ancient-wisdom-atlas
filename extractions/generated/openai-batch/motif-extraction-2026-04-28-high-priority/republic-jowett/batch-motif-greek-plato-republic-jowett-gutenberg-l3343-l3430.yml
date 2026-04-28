@@ -1,0 +1,453 @@
+---
+record_id: batch.motif.greek-plato-republic-jowett-gutenberg-l3343-l3430
+source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+passage_locator:
+  label: The Republic / THE REPUBLIC / INTRODUCTION AND ANALYSIS.; lines 3343-3430
+  start: '3343'
+  end: '3430'
+  translation: The Republic
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage summarizes Plato’s hierarchy of knowledge as an ascent toward
+    the idea of good, describes the philosopher as a lover of wisdom and truth, compares
+    ancient and modern conceptions of the philosopher, discusses Adeimantus’ objection
+    to Socratic reasoning, and introduces an allegory distinguishing the people from
+    professional politicians under the image of a noble but slow-perceiving captain.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Knowledge is described through stages or steps in an ascent to the idea of
+    good, followed by a descent within the region of ideas.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: 'Four divisions of knowledge are paired with four faculties: pure intelligence,
+    active intelligence, faith, and perception of shadows.'
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The philosopher is described as a spectator of all time and existence whose
+    desires are absorbed in the love of wisdom and truth.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage says the philosopher does not fear death or think much of human
+    life.
+  category: attribute
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:5
+  text: The modern philosopher is said to fix his mind on laws of nature, history,
+    acknowledged truths, classification according to nature, and the divisions of
+    science.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Adeimantus objects to the form of Socratic reasoning and accuses the method
+    of extracting answers by the way questions are put.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Language is described as less precise than numbers or symbols, which weakens
+    arguments with many steps.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Socrates is said to answer Adeimantus’ objection and to explain the anomaly
+    of philosophers being useless or rogues through an allegory.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: In the allegory, the people are distinguished from professional politicians
+    and are represented by the image of a noble captain who is not quick in perception.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Socrates
+  description: Speaker and reasoner who is said to meet Adeimantus’ objection and
+    explain an anomaly by allegory.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: The philosopher
+  description: Ideal figure described as a spectator of all time and existence, lover
+    of wisdom and truth, noble in character, and not greatly afraid of death.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: The modern philosopher
+  description: Figure who studies laws of nature, history, acknowledged truths, classification,
+    and the unity and divisions of knowledge.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Adeimantus
+  description: Interlocutor who objects to the form of Socratic reasoning and argues
+    that philosophers are useless or rogues in experience.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: Plato
+  description: Authorial figure in the analysis, said to be aware of the imperfection
+    of his method and to intimate a shift beyond the Socratic method.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:6
+  name_or_label: The people
+  description: Group distinguished from professional politicians in the allegory and
+    spoken of with pity under the image of a noble captain.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: Professional politicians
+  description: Group distinguished from the people in the allegory.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:5
+- id: fig:8
+  name_or_label: Noble captain
+  description: Allegorical image for the people, described as noble but not very quick
+    in perception.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: Socratic questioner
+  assigned_to:
+  - fig:1
+  basis: Adeimantus objects that Socratic reasoning extracts answers by the way questions
+    are put.
+  evidence_refs:
+  - ev:4
+- id: role:2
+  label: Lover of wisdom and truth
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The philosopher’s desires are absorbed in the love of wisdom and truth; the
+    modern philosopher is presented as a parallel figure pursuing knowledge.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: Classifier of knowledge
+  assigned_to:
+  - fig:3
+  basis: The modern philosopher is aware of classifying according to nature and of
+    divisions of science.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: Objector
+  assigned_to:
+  - fig:4
+  basis: Adeimantus objects to the form of Socratic reasoning and argues against the
+    ideal of philosophers by appeal to experience.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:5
+  label: Allegorical explainer
+  assigned_to:
+  - fig:1
+  basis: Socrates explains the anomaly about philosophers through an allegory.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: Reflective authorial figure
+  assigned_to:
+  - fig:5
+  basis: The analysis says Plato is aware of the imperfection of his method and intimates
+    a transition beyond the negative and interrogative method.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:7
+  label: Allegorized populace
+  assigned_to:
+  - fig:6
+  basis: The people are distinguished from politicians and represented under the image
+    of the noble captain.
+  evidence_refs:
+  - ev:5
+- id: role:8
+  label: Political professionals
+  assigned_to:
+  - fig:7
+  basis: Professional politicians are distinguished from the people in the allegory.
+  evidence_refs:
+  - ev:5
+- id: role:9
+  label: Allegorical captain
+  assigned_to:
+  - fig:8
+  basis: The noble captain is explicitly named as an image in the allegory.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: Ascent to the idea of good
+  literal_form: Stages or steps in an ascent to the idea of good, followed by descent
+    in the region of ideas.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - ascent
+  - wisdom
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Four divisions of knowledge
+  literal_form: Four divisions matched to pure intelligence, active intelligence,
+    faith, and perception of shadows.
+  associated_figures: []
+  taxonomy_refs:
+  - wisdom
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Shadows
+  literal_form: The fourth faculty is described as perception of shadows.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: Chain of existence
+  literal_form: Each individual is described as a link in a never-ending chain of
+    existence.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: Noble captain
+  literal_form: Image of a noble captain who is not very quick in his perceptions.
+  associated_figures:
+  - fig:6
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Hierarchy of knowledge and ascent to good
+  summary: The passage presents knowledge as ordered stages ascending toward the idea
+    of good and assigns four faculties to four divisions of knowledge.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Portrait of the philosopher
+  summary: The philosopher is characterized by love of wisdom and truth, broad vision
+    of existence, nobility of soul, and lack of fear of death.
+  figure_refs:
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Ancient and modern philosophical parallel
+  summary: The passage translates Plato’s conception into modern terms, describing
+    the modern philosopher’s study of nature, history, classification, scientific
+    divisions, unity of knowledge, and place in a vast chain of existence.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Adeimantus’ methodological objection
+  summary: Adeimantus challenges Socratic reasoning, and the passage reflects on the
+    instability of words and the limits of applying numerical precision to logic.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Allegory of the people and the noble captain
+  summary: Socrates is said to explain the negative reputation of philosophers through
+    an allegory in which the people are separated from professional politicians and
+    imaged as a noble but slow-perceiving captain.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Ascent through knowledge toward the good
+  taxonomy_refs:
+  - ascent
+  - wisdom
+  basis: The passage explicitly describes stages or steps in an ascent to the idea
+    of good and connects this ascent with higher forms of knowledge.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is philosophical and metaphorical rather than a narrated mythic journey.
+- id: motif:2
+  label: Wisdom-seeking philosopher
+  taxonomy_refs:
+  - wisdom
+  basis: The philosopher is defined by love of wisdom and truth and by contemplation
+    of all time and existence.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage is analytical commentary, not a mythic tale.
+- id: motif:3
+  label: Unity of knowledge as distant goal
+  taxonomy_refs:
+  - wisdom
+  basis: The modern philosopher is said to have a vision of the unity of knowledge
+    as a far-off result of work by many minds in many ages.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The motif is abstract and intellectual, with no personified or narrative
+    symbol beyond the stated vision.
+- id: motif:4
+  label: Allegorical ruler or captain as populace
+  taxonomy_refs: []
+  basis: The people are represented by the image of a noble captain who is not quick
+    in perception, in an allegory explaining political and philosophical conditions.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: Only the opening of the allegory appears in this passage; its fuller narrative
+    details are outside the provided range.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares the ancient philosopher with the modern philosopher
+    as parallel wisdom-seeking figures, while noting altered conditions of knowledge.
+  claim_level: same_function
+  target: Ancient philosopher and modern philosopher
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is internal to Jowett’s analysis and concerns intellectual
+    function, not historical contact or shared mythic origin.
+- id: claim:2
+  claim: The passage compares Plato’s vision of the unity of knowledge with a modern
+    vision of unity achieved through many minds and many ages.
+  claim_level: same_motif
+  target: Plato’s unity of knowledge and modern unity of knowledge
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim is about a recurring philosophical pattern, not a narrative
+    mythological motif.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 3343-3357
+  quote_or_summary: 'Knowledge is described as stages in an ascent to the idea of
+    good and as four divisions with corresponding faculties: pure intelligence, active
+    intelligence, faith, and perception of shadows.'
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; excerpt summarized.
+- id: ev:2
+  type: summary
+  locator: 3359-3370
+  quote_or_summary: The philosopher is described as a spectator of all time and existence,
+    gifted by nature, devoted to wisdom and truth, beautiful in soul, and unafraid
+    of death.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; excerpt summarized.
+- id: ev:3
+  type: summary
+  locator: 3371-3403
+  quote_or_summary: The passage compares the ancient conception of the philosopher
+    with the modern one, emphasizing laws of nature, history, classification, analogies,
+    divisions of science, unity of knowledge, mathematical preliminaries, nobility
+    of character, and the individual as a link in a never-ending chain of existence.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; excerpt summarized.
+- id: ev:4
+  type: summary
+  locator: 3405-3423
+  quote_or_summary: Adeimantus objects to Socratic reasoning; the passage discusses
+    how words shift in long arguments and how language lacks the precision of numbers
+    or symbols.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; excerpt summarized.
+- id: ev:5
+  type: summary
+  locator: 3425-3430
+  quote_or_summary: Socrates is said to meet the objection and explain through an
+    allegory in which the people are distinguished from professional politicians and
+    represented by the image of a noble captain who is slow in perception.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; excerpt summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is philosophical analysis rather than mythic narrative. Motif
+    candidates are therefore abstract and should be reviewed for inclusion criteria.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy references are limited to available motif families where directly supported by the passage.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-plato-republic-jowett-gutenberg__l3343-l3430
+  passage_sha256=2ed062fd87de76796f38c94c34361f609d43061acf7bea8173f522577b0984c8
+

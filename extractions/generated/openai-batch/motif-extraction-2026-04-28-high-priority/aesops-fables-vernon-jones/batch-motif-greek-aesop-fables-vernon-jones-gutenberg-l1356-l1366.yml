@@ -1,0 +1,246 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l1356-l1366
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE GOODS AND THE ILLS / THE HARES AND THE FROGS / THE FOX AND THE STORK
+    / THE WOLF IN SHEEP'S CLOTHING; lines 1356-1366
+  start: '1356'
+  end: '1366'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: "“he clothed himself in a sheepskin”"
+  summary: A wolf disguises himself in a sheepskin to enter a flock unnoticed. The
+    shepherd is deceived and pens him with the sheep, but later kills him by mistake
+    while seeking mutton.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A wolf decides to disguise himself so he can prey on a flock of sheep without
+    being detected.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The wolf puts on a sheepskin and enters among the sheep while they are at
+    pasture.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The shepherd is deceived by the disguise and shuts the wolf in with the flock
+    for the night.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: That night the shepherd needs mutton for the table and mistakenly takes the
+    wolf for a sheep.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The shepherd kills the wolf with a knife on the spot.
+  category: action
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Wolf
+  description: A wolf who disguises himself in a sheepskin and enters the sheep flock.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Shepherd
+  description: The caretaker of the flock who is deceived by the wolf’s disguise and
+    later kills him by mistake.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Flock of sheep
+  description: The sheep among whom the disguised wolf slips and with whom he is penned
+    for the night.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+roles:
+- id: role:1
+  label: disguised predator
+  assigned_to:
+  - fig:1
+  basis: The wolf disguises himself to prey on the sheep without detection.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: deceiver caught by mistaken identity
+  assigned_to:
+  - fig:1
+  basis: The wolf successfully deceives the shepherd but is then killed because he
+    is mistaken for a sheep.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: deceived flock-keeper
+  assigned_to:
+  - fig:2
+  basis: The shepherd is completely deceived and pens the wolf with the flock.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: unwitting executioner
+  assigned_to:
+  - fig:2
+  basis: The shepherd kills the wolf while mistaking him for a sheep intended as mutton.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: intended prey group
+  assigned_to:
+  - fig:3
+  basis: The wolf enters the flock in order to prey upon the sheep.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: sheepskin disguise
+  literal_form: sheepskin worn by the wolf
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: sheepfold at night
+  literal_form: flock penned for the night
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: knife
+  literal_form: knife used by the shepherd to kill the wolf
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Disguise and entry among the flock
+  summary: The wolf puts on a sheepskin and joins the sheep at pasture in order to
+    avoid detection.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Deception of the shepherd
+  summary: The shepherd accepts the disguised wolf as part of the flock and shuts
+    him in for the night.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Mistaken slaughter
+  summary: The shepherd seeks mutton, mistakes the disguised wolf for a sheep, and
+    kills him with a knife.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: predator disguised among prey
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The wolf crosses into the flock by wearing a sheepskin, using disguise to
+    breach the boundary between predator and prey.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The taxonomy reference is broad; the passage shows disguise and boundary-crossing
+    but not an explicit named trickster figure.
+- id: motif:2
+  label: deceiver destroyed by his own disguise
+  taxonomy_refs: []
+  basis: The wolf’s disguise succeeds in fooling the shepherd, but that same mistaken
+    identity causes the shepherd to kill him as if he were a sheep.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: Motif label is descriptive and not tied to a supplied taxonomy ID.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 1356-1361
+  quote_or_summary: The wolf resolves to disguise himself to prey on sheep undetected;
+    he clothes himself in a sheepskin and slips among the sheep at pasture.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; brief summary with short quoted phrase used.
+- id: ev:2
+  type: summary
+  locator: lines 1361-1363
+  quote_or_summary: The shepherd is completely deceived, and when the flock is penned
+    for the night the wolf is shut in with the rest.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 1363-1366
+  quote_or_summary: That night the shepherd needs mutton, takes hold of the wolf by
+    mistake for a sheep, and kills him with a knife on the spot.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif candidates are descriptive;
+    the broad taxonomy match to trickster_boundary should be reviewed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage text was used; no external Aesop tradition or comparative material was added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l1356-l1366
+  passage_sha256=0d4a7ae418fb88e7150267a570e9af8fc3e52b6a490ad63513d1607cdd6a20a1
+

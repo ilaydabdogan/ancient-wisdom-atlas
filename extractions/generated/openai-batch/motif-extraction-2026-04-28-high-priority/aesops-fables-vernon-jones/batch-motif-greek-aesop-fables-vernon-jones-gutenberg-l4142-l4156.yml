@@ -1,0 +1,234 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l4142-l4156
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE CRAB AND THE FOX / THE FOX AND THE GRASSHOPPER / THE FARMER, HIS BOY,
+    AND THE ROOKS / THE ASS AND THE DOG; lines 4142-4156
+  start: '4142'
+  end: '4156'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: An Ass and a Dog travel together and find a sealed packet. The Ass opens
+    it and reads writing about fodder. The Dog, bored, asks whether it contains anything
+    about meat and bones. When the Ass finds nothing of that kind, the Dog tells him
+    to throw it away.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: An Ass and a Dog are traveling together.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: They find a sealed packet lying on the ground.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Ass picks up the packet, breaks the seal, and reads its writing aloud.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The writing concerns grass, barley, hay, and other fodder liked by Asses.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The Dog becomes bored and asks the Ass to skip ahead to see whether the packet
+    mentions meat and bones.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The Ass searches through the packet and finds no mention of meat and bones.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The Dog tells the Ass to throw the packet away because he sees no use in it.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Ass
+  description: An Ass traveling with a Dog; he opens and reads the found packet aloud.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: Dog
+  description: A Dog traveling with the Ass; he becomes bored by the fodder-related
+    contents and wants information about meat and bones.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: traveling companion
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage says the Ass and Dog were on their travels together.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: reader of the found packet
+  assigned_to:
+  - fig:1
+  basis: The Ass picks up the packet, breaks its seal, and reads it aloud.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: bored listener and rejecter
+  assigned_to:
+  - fig:2
+  basis: The Dog is bored by the reading, asks for meat and bones, and then tells
+    the Ass to discard the packet.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: sealed packet
+  literal_form: sealed packet lying on the ground
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: fodder writing
+  literal_form: writing about grass, barley, hay, and other fodder
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: meat and bones
+  literal_form: meat and bones sought by the Dog in the packet
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Discovery and reading of the packet
+  summary: While traveling together, the Ass and Dog find a sealed packet. The Ass
+    opens it and reads aloud writing about fodder.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Dog rejects the packet
+  summary: The Dog, bored by fodder-related contents, asks for meat and bones. When
+    none are found, he dismisses the packet as useless.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: usefulness judged by personal appetite
+  taxonomy_refs: []
+  basis: The Dog dismisses the packet after learning it contains material useful or
+    interesting to the Ass but nothing about meat and bones.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage gives no explicit moral in the supplied text; the motif label
+    is an interpretive summary of the narrative action.
+- id: motif:2
+  label: found writing with contents suited to one hearer but not another
+  taxonomy_refs: []
+  basis: A found packet is read aloud; its contents concern fodder favored by Asses,
+    while the Dog seeks different contents and loses interest.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: This is a passage-level narrative pattern rather than a named taxonomy
+    motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4142-4147
+  quote_or_summary: An Ass and a Dog travel together, find a sealed packet on the
+    ground, and the Ass opens it and begins reading the writing aloud.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 4147-4150
+  quote_or_summary: "“all about grass and barley and hay--in short, all the kinds
+    of fodder that Asses are fond of”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: quote
+  locator: lines 4150-4154
+  quote_or_summary: "“Just skip a few pages, friend, and see if there isn't something
+    about meat and bones.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: summary
+  locator: lines 4154-4156
+  quote_or_summary: The Ass looks through the packet and finds nothing about meat
+    and bones; the Dog tells him to throw it away and asks what good such a thing
+    is.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward from the supplied passage. Motif candidates
+    are cautious because no explicit moral or comparative frame is included in the
+    passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the provided passage itself does not support a specific cross-textual comparison.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l4142-l4156
+  passage_sha256=014e519be274d4bf947ef813603f3e94ccce5dbacbe2a928523d8c07adf76b91
+

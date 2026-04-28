@@ -1,0 +1,313 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l3889-l3904
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE CAGE-BIRD AND THE BAT / THE ASS AND HIS PURCHASER / THE KID AND THE WOLF
+    / THE DEBTOR AND HIS SOW; lines 3889-3904
+  start: '3889'
+  end: '3904'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: An Athenian debtor, unable to pay and refused delay by his creditor, takes
+    his only sow to market. When a buyer asks about her litters, the debtor claims
+    she bears females at the Mysteries and males at the Panathenaea. The narration
+    explains the associated Athenian festival sacrifices, and the creditor adds an
+    even more absurd claim that the sow bears kids at the Dionysia.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A man of Athens is in debt and is pressed for payment by his creditor.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The debtor has no means to pay immediately and asks for delay, but the creditor
+    refuses.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The debtor brings his only sow to market to sell it, and the creditor is also
+    present there.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A buyer asks whether the sow produces good litters.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The debtor says the sow produces females at the Mysteries and males at the
+    Panathenaea.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage explains that Athenians sacrifice a sow at one festival, a boar
+    at another, and a kid at the Dionysia.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The creditor tells the buyer not to be surprised and adds that at the Dionysia
+    the sow has kids.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: A Man of Athens / the Debtor
+  description: A debtor from Athens who cannot pay and tries to sell his only sow.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: creditor
+  description: The person pressing the debtor for money; he is present at the market
+    and comments on the debtor’s claim.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: fig:3
+  name_or_label: buyer
+  description: A buyer at the market who asks about the sow’s litters.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Sow
+  description: The debtor’s only sow, offered for sale and described through claims
+    about festival-linked offspring.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+roles:
+- id: role:1
+  label: debtor
+  assigned_to:
+  - fig:1
+  basis: He has fallen into debt and is pressed by a creditor.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: seller making an implausible claim
+  assigned_to:
+  - fig:1
+  basis: He offers the sow for sale and claims it produces specific sexes of offspring
+    at specific festivals.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: creditor
+  assigned_to:
+  - fig:2
+  basis: He presses the debtor for payment and refuses delay.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: speaker of ironic amplification
+  assigned_to:
+  - fig:2
+  basis: He adds the claim that the sow has kids at the Dionysia after the debtor’s
+    claims about festival births.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: prospective buyer
+  assigned_to:
+  - fig:3
+  basis: He asks whether the sow produces good litters.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: animal for sale
+  assigned_to:
+  - fig:4
+  basis: The debtor takes his only sow to market and offers her for sale.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: sow
+  literal_form: The debtor’s only sow, offered for sale and associated in speech with
+    festival-timed offspring.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: sym:2
+  label: festival sacrifice animals
+  literal_form: Sow, boar, and kid named in connection with Athenian festival sacrifices.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: market sale
+  literal_form: The debtor takes the sow to market to sell it.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Debt demand and refusal of delay
+  summary: A debtor is pressed by his creditor for money, cannot pay immediately,
+    asks for time, and is refused.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Sow offered at market
+  summary: The debtor brings his only sow to market for sale while the creditor is
+    present, and a buyer asks about her litters.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Festival-birth claims
+  summary: The debtor claims that the sow produces female and male offspring at named
+    festivals; the narration explains related sacrifice customs; the creditor adds
+    an exaggerated claim about the sow producing kids at the Dionysia.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: implausible sales boast exposed by a sharper retort
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The debtor makes a market claim about the sow’s festival-specific offspring,
+    and the creditor answers with an even more absurd claim, exposing or amplifying
+    the deception.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The taxonomy reference is approximate; the passage is a fable joke rather
+    than an explicit mythic trickster narrative.
+- id: motif:2
+  label: debt pressure leading to sale of last animal
+  taxonomy_refs: []
+  basis: The debtor cannot pay, is denied delay, and brings his only sow to market
+    to sell.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is a narrative situation rather than a securely cross-cultural mythic
+    motif.
+- id: motif:3
+  label: ritual calendar used for comic exaggeration
+  taxonomy_refs:
+  - sacrifice
+  basis: Claims about the sow’s offspring are keyed to named Athenian festivals, and
+    the passage explains animal sacrifices associated with those festivals.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The ritual references function as comic context in the fable; no sacred
+    action occurs in the narrative scene itself.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3889-3893
+  quote_or_summary: An Athenian man falls into debt, is pressed by his creditor, cannot
+    pay at the time, asks for delay, and is refused.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 3893-3897
+  quote_or_summary: The debtor takes his only sow to market to sell; the creditor
+    is present; a buyer asks whether the sow produces good litters.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 3897-3900
+  quote_or_summary: "“she produces females at the Mysteries and males at the Panathenea.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: summary
+  locator: lines 3900-3903
+  quote_or_summary: The passage states that Athenians sacrifice a sow at one festival,
+    a boar at another, and a kid at the Dionysia.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: lines 3903-3904
+  quote_or_summary: "“at the Dionysia this Sow has kids!”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labels are candidate analytic
+    groupings and should be reviewed, especially taxonomy alignment.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage text was used; despite the locator label listing multiple fables, the provided text contains only “THE DEBTOR AND HIS SOW.”
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l3889-l3904
+  passage_sha256=4dbc701925ef8f08b0d0b32a20ce94774926d9cfc45a6e3adfcf17207deb7a49
+

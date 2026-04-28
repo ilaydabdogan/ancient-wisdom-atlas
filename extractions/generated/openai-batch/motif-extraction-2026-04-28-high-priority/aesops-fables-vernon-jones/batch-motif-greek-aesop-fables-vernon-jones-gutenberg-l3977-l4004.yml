@@ -1,0 +1,299 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l3977-l4004
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE MULE / THE HOUND AND THE FOX / THE FATHER AND HIS DAUGHTERS / THE THIEF
+    AND THE INNKEEPER; lines 3977-4004
+  start: '3977'
+  end: '4004'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A thief staying at an inn sees the innkeeper wearing a fine new coat during
+    a festival. Wanting the coat, he sits beside the innkeeper, speaks with him, and
+    pretends that repeated yawning will turn him into a wolf. The frightened innkeeper
+    slips out of his coat and locks himself inside, leaving the thief to depart with
+    the coat.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A thief hires a room at an inn and stays there while looking for something
+    to steal.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: On a festival day, the innkeeper appears in a fine new coat and sits before
+    the inn door.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The thief wants to possess the innkeeper’s coat.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The thief sits beside the innkeeper and talks with him.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The thief yawns and howls like a wolf.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The thief says that after three yawns he becomes a ravening wolf and attacks
+    men’s throats.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The innkeeper believes the thief’s statement and becomes frightened.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: When the thief begins to yawn for the third time, the innkeeper slips out
+    of his coat and locks himself inside the inn.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The thief leaves with the coat.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Thief
+  description: A person who hires a room at the inn while looking for something to
+    steal and later departs with the innkeeper’s coat.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:2
+  name_or_label: Innkeeper
+  description: The keeper of the inn, wearing a fine new coat, who believes the thief’s
+    story and flees indoors.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: thief
+  assigned_to:
+  - fig:1
+  basis: The passage identifies the figure as a thief and says he looks for something
+    to steal.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: deceiver by false animal-transformation claim
+  assigned_to:
+  - fig:1
+  basis: He claims that three yawns will make him a wolf, using this claim while trying
+    to obtain the coat.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:3
+  label: innkeeper
+  assigned_to:
+  - fig:2
+  basis: The passage identifies him as the innkeeper and places him at the inn door.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: frightened victim of theft
+  assigned_to:
+  - fig:2
+  basis: He believes the claim, fears being eaten by a wolf, leaves his coat behind,
+    and locks himself indoors.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: fine new coat
+  literal_form: The innkeeper’s fine new coat
+  associated_figures:
+  - fig:2
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: sym:2
+  label: wolf-form claim
+  literal_form: Claimed transformation into a ravening wolf after three yawns
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: three yawns
+  literal_form: A sequence of three yawns presented as the trigger for becoming a
+    wolf
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:4
+  label: locked inn door
+  literal_form: The inn door locked behind the fleeing innkeeper
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Thief notices the coat
+  summary: The thief, staying at the inn for a chance to steal, sees the innkeeper
+    wearing a fine new coat during a festival and desires it.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: False wolf-transformation story
+  summary: The thief sits with the innkeeper, yawns, howls like a wolf, and claims
+    that after three yawns he turns into a ravening wolf.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Innkeeper flees and coat is stolen
+  summary: The innkeeper, frightened by the thief’s apparent third yawn, slips out
+    of his coat, locks himself indoors, and the thief leaves with the coat.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: theft by deceptive performance
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The thief obtains the coat by staging yawns and wolf-like howls and persuading
+    the innkeeper to act out of fear.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: 'The taxonomy reference is approximate: the passage shows trickery involving
+    a claimed human-animal boundary crossing, but the thief is not explicitly a sacred
+    or mythic trickster.'
+- id: motif:2
+  label: claimed shapeshifting used as a ruse
+  taxonomy_refs:
+  - shapeshifter
+  basis: The thief says he will become a ravening wolf after three yawns, but the
+    narrative presents this as a deception rather than an actual transformation.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: low
+  cautions: No real shapeshifting occurs in the passage; the motif is only present
+    as a false claim within the plot.
+- id: motif:3
+  label: fear exploited to surrender property
+  taxonomy_refs: []
+  basis: The innkeeper’s fear of being eaten by a wolf causes him to abandon his coat,
+    enabling the theft.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is a plot pattern rather than a supplied taxonomy motif family.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 3977-3983
+  quote_or_summary: A thief hires a room at an inn looking for something to steal;
+    during a festival the innkeeper appears in a fine new coat and sits before the
+    inn door, and the thief wants the coat.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 3984-3988
+  quote_or_summary: The thief sits beside the innkeeper, talks with him, then yawns
+    and howls like a wolf; the innkeeper asks what is wrong.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: 3989-3995
+  quote_or_summary: The thief claims that when he has “yawned three times” he becomes
+    “a ravening wolf” and attacks men’s throats.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: summary
+  locator: 3996-3999
+  quote_or_summary: After a second yawn and howl, the innkeeper believes the thief
+    and is terrified at the prospect of facing a wolf.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 4000-4004
+  quote_or_summary: As the thief begins a third yawn, the innkeeper fears being eaten,
+    slips out of his coat, bolts inside, locks the door, and the thief leaves with
+    the coat.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal plot elements are clear. Motif taxonomy assignments are cautious
+    because the alleged wolf transformation is a trick, not an actual metamorphosis,
+    and no comparison is directly supported by the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the provided passage text was used; despite the locator label naming multiple fables, the supplied passage contains only “THE THIEF AND THE INNKEEPER.”
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l3977-l4004
+  passage_sha256=030312fa649e86282e1ed3f467b712e18e38ec7ea09054c597b0a0bee51e20e8
+

@@ -1,0 +1,282 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l2168-l2179
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE BOY AND THE FILBERTS / THE FROGS ASKING FOR A KING / THE OLIVE-TREE AND
+    THE FIG-TREE / THE LION AND THE BOAR; lines 2168-2179
+  start: '2168'
+  end: '2179'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A lion and a boar arrive at a spring on a hot summer day, quarrel over
+    who should drink first, and begin fighting. When they notice vultures waiting
+    to feed on whichever of them is killed, they stop fighting and choose friendship
+    instead.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The setting is a hot and thirsty day in the height of summer.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A Lion and a Boar arrive at a little spring at the same moment to drink.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Lion and the Boar quarrel over who should drink first.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The quarrel becomes a fight, and the Lion and the Boar attack one another
+    fiercely.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The Lion and the Boar stop briefly to take breath and see vultures seated
+    on a rock above them.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The vultures appear to be waiting for one combatant to be killed so they can
+    feed on the carcass.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The sight of the vultures causes the Lion and the Boar to stop fighting and
+    make peace.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The Lion and the Boar say that it is better to be friends than to fight and
+    be eaten by vultures.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Lion
+  description: A lion who comes to the spring to drink, fights with the boar, and
+    then agrees to friendship.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: Boar
+  description: A boar who comes to the spring to drink, fights with the lion, and
+    then agrees to friendship.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: Vultures
+  description: Vultures seated on a rock above, apparently waiting to feed on the
+    carcass of a killed combatant.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: rival drinker
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Both the Lion and the Boar arrive at the spring to drink and quarrel over
+    precedence.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: reconciled combatant
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: After seeing the vultures, the two stop their quarrel and choose friendship
+    over fighting.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: waiting scavenger
+  assigned_to:
+  - fig:3
+  basis: The vultures are described as waiting for one of the fighters to be killed
+    so they can feed on the carcass.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: spring
+  literal_form: little spring
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: rock above
+  literal_form: rock above the fighters
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: vultures
+  literal_form: vultures seated on a rock
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Arrival at the spring
+  summary: On a hot summer day, the Lion and the Boar come to a little spring at the
+    same time to drink.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Quarrel and fight
+  summary: The Lion and the Boar quarrel about who should drink first, and the quarrel
+    turns into a furious fight.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Vultures observed
+  summary: While pausing for breath, the Lion and the Boar see vultures on a rock
+    above, apparently waiting to feed on the loser.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Reconciliation
+  summary: The Lion and the Boar are sobered by the sight and decide that friendship
+    is better than fighting and being eaten by vultures.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: rivals reconcile when a third party awaits their destruction
+  taxonomy_refs:
+  - wisdom
+  basis: The two rivals stop their fight after seeing vultures waiting to benefit
+    from one fighter's death.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The supplied taxonomy has no exact fable-specific category for this pattern;
+    'wisdom' is a broad family reference.
+- id: motif:2
+  label: conflict over access to water
+  taxonomy_refs: []
+  basis: The Lion and the Boar quarrel over who should drink first at a spring.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage treats the water dispute as the occasion for the moral action
+    rather than as a developed water motif.
+- id: motif:3
+  label: external threat produces peace between enemies
+  taxonomy_refs:
+  - wisdom
+  basis: The sight of scavengers waiting for their deaths causes the combatants to
+    make up their quarrel.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This overlaps with motif:1 and is phrased as a broad narrative pattern
+    rather than a formal taxonomy ID.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 2168-2171
+  quote_or_summary: On a hot summer day, a Lion and a Boar come down to a little spring
+    at the same moment to drink.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 2171-2174
+  quote_or_summary: They quarrel about who should drink first, and the quarrel becomes
+    a fierce fight.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 2174-2177
+  quote_or_summary: While pausing for breath, they see vultures on a rock above, apparently
+    waiting to feed on the carcass of one that is killed.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: 2177-2179
+  quote_or_summary: '"We had much better be friends than fight and be eaten by vultures."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation from public domain text.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based only on the supplied passage. Motif labels are descriptive
+    and broad because the available taxonomy does not include exact fable-type categories.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  The passage label includes several fable titles, but the supplied passage text contains only 'THE LION AND THE BOAR'; extraction is limited to the supplied passage text.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l2168-l2179
+  passage_sha256=f8dc3bf2ab52c3204ea0476083b77c18a74365aede494806315ee56eef6dde88
+

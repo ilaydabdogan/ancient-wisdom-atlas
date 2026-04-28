@@ -1,0 +1,294 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l3674-l3689
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE ARCHER AND THE LION / THE WOLF AND THE GOAT / THE SICK STAG / THE ASS
+    AND THE MULE; lines 3674-3689
+  start: '3674'
+  end: '3689'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A man loads an Ass and a Mule for a journey. On a rough, steep road the
+    Ass asks the Mule to take part of his load, but the Mule refuses. The exhausted
+    Ass falls and dies. The driver transfers the Ass's load and skin to the Mule,
+    who recognizes that his refusal to help has caused him to bear an even greater
+    burden.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A man has an Ass and a Mule and loads both animals for a journey.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The route becomes rough and steep among hills.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Ass becomes exhausted and asks the Mule to relieve him of part of his
+    load.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The Mule refuses the Ass's request for help.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Ass stumbles, falls down a steep place, and is killed.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The driver puts the Ass's load and the Ass's skin on the Mule.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The Mule says that he has received what he deserved because he refused to
+    help the Ass earlier.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: man / driver
+  description: The owner or driver who loads the Ass and Mule, travels with them,
+    and transfers the Ass's load and skin to the Mule after the Ass dies.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:2
+  name_or_label: Ass
+  description: A loaded animal who struggles on the steep road, asks for help, falls,
+    and dies.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Mule
+  description: A loaded animal who refuses to help the Ass and later carries the Ass's
+    load and skin.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: driver of burden animals
+  assigned_to:
+  - fig:1
+  basis: The man loads both animals for a journey and later places the Ass's load
+    and skin on the Mule.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:2
+  label: overburdened supplicant
+  assigned_to:
+  - fig:2
+  basis: The Ass becomes exhausted and asks the Mule to relieve him of part of his
+    load.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: refuser of aid who later bears the burden
+  assigned_to:
+  - fig:3
+  basis: The Mule refuses the Ass's request and later carries both the Ass's load
+    and skin.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: load
+  literal_form: The burdens placed on the Ass and Mule, later combined on the Mule.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: sym:2
+  label: rough steep road
+  literal_form: A rough and steep road among hills where the Ass becomes exhausted.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: Ass's skin
+  literal_form: The flayed skin of the dead Ass, placed on top of the Mule's double
+    load.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Loaded journey begins
+  summary: A man loads an Ass and a Mule and begins a journey with them.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Exhaustion on the steep road
+  summary: On a rough and steep part of the road, the Ass becomes exhausted and asks
+    the Mule to take part of his load, but the Mule refuses.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Death of the Ass
+  summary: The Ass, worn out, stumbles and falls down a steep place and is killed.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Burden transferred to the Mule
+  summary: The driver adds the dead Ass's load and skin to the Mule's burden.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Mule's recognition
+  summary: The Mule reflects that his present burden is deserved because he refused
+    to help the Ass earlier.
+  figure_refs:
+  - fig:3
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Refusal to share a burden results in a greater burden
+  taxonomy_refs:
+  - wisdom
+  basis: The Mule refuses to take part of the Ass's load, and after the Ass dies the
+    Mule must carry both the load and the skin.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The broad taxonomy reference 'wisdom' is used because the passage is an
+    animal fable with an explicit practical moral; no narrower supplied taxonomy term
+    fits the pattern.
+- id: motif:2
+  label: Animal fable with self-recognized moral consequence
+  taxonomy_refs:
+  - wisdom
+  basis: The Mule states that he has only received what he deserved after his earlier
+    refusal to help.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: This is a passage-level moral pattern rather than a named mythological
+    motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3674-3677
+  quote_or_summary: A man who has an Ass and a Mule loads both animals and sets out
+    on a journey.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 3677-3679
+  quote_or_summary: The road is first level, then becomes rough and steep among hills.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 3679-3682
+  quote_or_summary: The Ass is exhausted and asks the Mule to relieve him of part
+    of his load, but the Mule refuses.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 3682-3683
+  quote_or_summary: From weariness the Ass stumbles, falls down a steep place, and
+    is killed.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 3683-3686
+  quote_or_summary: The driver adds the Ass's load to the Mule's load, flays the Ass,
+    and places the skin on top of the double load.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: quote
+  locator: lines 3686-3689
+  quote_or_summary: '"I have only got what I deserved: if I had been willing to help
+    the Ass at first, I should not now be carrying his load and his skin into the
+    bargain."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied passage. Comparison claims are omitted
+    because the passage itself does not support a specific external comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  The provided passage text covers only 'THE ASS AND THE MULE' despite the broader locator label.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l3674-l3689
+  passage_sha256=b0edd0c9a914fe7725776997f6458303b14c703aa3fc4a244774d3ad9c3efcc9
+

@@ -1,0 +1,258 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l2511-l2524
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE ASS AND THE OLD PEASANT / THE OX AND THE FROG / THE MAN AND THE IMAGE
+    / HERCULES AND THE WAGGONER; lines 2511-2524
+  start: '2511'
+  end: '2524'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A waggoner's loaded wagon becomes stuck in a muddy lane. He calls on Hercules
+    for help, but Hercules tells him to put his own shoulder to the wheel and urge
+    on his horses before asking divine assistance. The fable ends with the maxim that
+    heaven helps those who help themselves.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A waggoner drives a team along a muddy lane with a full load behind them.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The wagon wheels sink deeply in mire, and the horses cannot move them.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The waggoner stands helplessly and repeatedly calls upon Hercules for assistance.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Hercules appears and instructs the waggoner to put his shoulder to the wheel
+    and goad the horses before calling on him.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Hercules states that a person who will not help himself cannot expect Hercules
+    or anyone else to aid him.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The passage ends with the maxim, "Heaven helps those who help themselves."
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Waggoner
+  description: A driver whose loaded wagon becomes stuck in a muddy lane and who calls
+    on Hercules for assistance.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Horses
+  description: The waggoner's team, unable to move the wagon once its wheels sink
+    in the mire.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: Hercules
+  description: A god invoked by the waggoner who appears and instructs him to act
+    before expecting divine aid.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: helpless petitioner
+  assigned_to:
+  - fig:1
+  basis: The waggoner stands helplessly and calls upon Hercules for assistance while
+    not acting to move the wagon himself.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:2
+  label: draught animals
+  assigned_to:
+  - fig:2
+  basis: The horses are the team pulling the wagon and are urged to move it.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: role:3
+  label: divine admonisher
+  assigned_to:
+  - fig:3
+  basis: Hercules appears in response to the call and tells the waggoner that he must
+    make his own effort before expecting help.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: stuck wagon
+  literal_form: wagon wheels sunk deep in mire
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: shoulder to the wheel
+  literal_form: putting one's shoulder to the wheel
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: divine assistance
+  literal_form: Hercules' aid invoked by the waggoner
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+scenes:
+- id: scene:1
+  label: Wagon stuck in mire
+  summary: The waggoner's loaded wagon becomes stuck in a muddy lane, and the horses
+    cannot move it.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Invocation and admonition
+  summary: The waggoner calls upon Hercules for assistance; Hercules appears and tells
+    him to make his own physical effort and urge the horses before seeking divine
+    help.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: divine aid requires human effort
+  taxonomy_refs:
+  - wisdom
+  basis: The fable explicitly teaches that the waggoner must put his shoulder to the
+    wheel and goad the horses before expecting Hercules' help, summarized by the maxim
+    that heaven helps those who help themselves.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The taxonomy reference is broad; the passage is a moral fable rather than
+    an extended mythic narrative.
+- id: motif:2
+  label: ineffective prayer without action
+  taxonomy_refs:
+  - wisdom
+  basis: The waggoner calls loudly on Hercules while standing helplessly, and Hercules
+    rebukes the expectation of aid without self-help.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: This is a practical moral pattern; no narrower supplied taxonomy category
+    directly matches it.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 2511-2513
+  quote_or_summary: A waggoner drives his team along a muddy lane with a full load
+    behind them.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 2513-2515
+  quote_or_summary: The wagon wheels sink deeply in mire, and the horses' efforts
+    cannot move them.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 2515-2517
+  quote_or_summary: The waggoner stands looking helplessly on and repeatedly calls
+    upon Hercules for assistance.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: 2517-2520
+  quote_or_summary: '"Put your shoulder to the wheel, man, and goad on your horses"'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation.
+- id: ev:5
+  type: summary
+  locator: 2520-2523
+  quote_or_summary: Hercules says that if the waggoner will not lift a finger to help
+    himself, he cannot expect Hercules or anyone else to aid him.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: quote
+  locator: '2524'
+  quote_or_summary: '"Heaven helps those who help themselves."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: Extraction is based only on the supplied passage. No comparison claims were
+    added because the passage itself does not provide an explicit cross-textual comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the provided passage text, despite the broader locator label, was used for extraction.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l2511-l2524
+  passage_sha256=a73befb7331637722d05d8cd9d3bf86ee8ffaadfcfababd0c1cc0cd354b60580
+

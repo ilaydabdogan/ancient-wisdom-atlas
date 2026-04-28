@@ -1,0 +1,308 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l3819-l3833
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE BULL AND THE CALF / THE TREES AND THE AXE / THE ASTRONOMER / THE LABOURER
+    AND THE SNAKE; lines 3819-3833
+  start: '3819'
+  end: '3833'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: '"I can never be your friend because of my lost tail, nor you mine because
+    of your lost child."'
+  summary: A labourer's son dies after being bitten by a snake. The grieving father
+    tries to kill the snake with an axe and cuts off the tip of its tail. He later
+    pretends to seek reconciliation, but the snake refuses, citing both the lost tail
+    and the lost child. The moral states that injuries are not forgotten in the presence
+    of those who caused them.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A labourer's little son is bitten by a snake and dies from the wound.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The father is described as overcome with grief and angry at the snake.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The father takes an axe, stands close to the snake's hole, and waits for a
+    chance to kill the snake.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: When the snake comes out, the father strikes at it but only cuts off the tip
+    of its tail before it returns into the hole.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The father pretends that he wants to make up the quarrel in order to get the
+    snake to come out again.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The snake says friendship is impossible because of its lost tail and the father's
+    lost child.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The stated moral says injuries are never forgotten in the presence of those
+    who caused them.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Labourer
+  description: The father of the child; he grieves, seeks to kill the snake, and later
+    pretends to seek reconciliation.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Labourer's little son
+  description: A child who is bitten by the snake and dies from the wound.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Snake
+  description: The animal that bites the child, is attacked by the father, loses the
+    tip of its tail, and refuses friendship.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: grieving father
+  assigned_to:
+  - fig:1
+  basis: The labourer is the father of the dead child and is described as beside himself
+    with grief.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: would-be avenger
+  assigned_to:
+  - fig:1
+  basis: He takes an axe and waits near the snake's hole for a chance to kill it.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: dead child
+  assigned_to:
+  - fig:2
+  basis: The child is bitten by the snake and dies of the wound.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: biting snake
+  assigned_to:
+  - fig:3
+  basis: The snake bites the child, causing the fatal wound.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: injured adversary
+  assigned_to:
+  - fig:3
+  basis: The snake loses the tip of its tail when the father strikes at it and later
+    refuses friendship.
+  evidence_refs:
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: snake
+  literal_form: Snake
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: axe
+  literal_form: axe
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: snake's hole
+  literal_form: Snake's hole
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: lost tail
+  literal_form: tip of the snake's tail cut off by the axe blow
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:5
+  label: lost child
+  literal_form: dead son of the labourer
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+scenes:
+- id: scene:1
+  label: Child bitten and killed
+  summary: The labourer's little son is bitten by a snake and dies from the wound,
+    leaving the father grief-stricken and angry.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Father attacks the snake
+  summary: The father takes an axe to the snake's hole, waits for the snake, and cuts
+    off the tip of its tail when he tries to kill it.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Failed reconciliation
+  summary: 'The father pretends to seek reconciliation, but the snake refuses friendship
+    because both sides remember an injury: the tail and the child.'
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: human and serpent in lasting enmity after mutual injury
+  taxonomy_refs:
+  - serpent
+  basis: The snake kills the man's child; the man injures the snake by cutting off
+    the tip of its tail; the snake states that friendship cannot follow these losses.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The available taxonomy supports the serpent element, but not a more specific
+    fable-index motif for mutual injury or failed reconciliation.
+- id: motif:2
+  label: irreconcilable injury remembered in the offender's presence
+  taxonomy_refs: []
+  basis: The fable's explicit moral says injuries are never forgotten in the presence
+    of those who caused them, and the narrative illustrates this through the lost
+    child and lost tail.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is a moral-pattern extraction rather than a named taxonomy motif.
+- id: motif:3
+  label: feigned reconciliation after attempted revenge
+  taxonomy_refs: []
+  basis: After failing to kill the snake, the father pretends that he wants to make
+    up the quarrel in order to draw it out again.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage presents the pretense directly, but the broader motif status
+    would require comparison beyond the supplied passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3819-3822
+  quote_or_summary: The fable introduces the labourer, whose little son is bitten
+    by a snake and dies; the father is overcome with grief and anger.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary used.
+- id: ev:2
+  type: summary
+  locator: lines 3822-3826
+  quote_or_summary: The father takes an axe, waits near the snake's hole, strikes
+    at the snake, and cuts off the tip of its tail before it retreats.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary used.
+- id: ev:3
+  type: quote
+  locator: lines 3826-3830
+  quote_or_summary: The father pretends to seek reconciliation; the snake replies,
+    "I can never be your friend because of my lost tail, nor you mine because of your
+    lost child."
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:4
+  type: quote
+  locator: lines 3831-3833
+  quote_or_summary: '"Injuries are never forgotten in the presence of those who caused
+    them."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The narrative details and moral are explicit. Candidate motifs are limited
+    to the supplied passage and available taxonomy; no passage-supported comparison
+    claims were added.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  The supplied locator label names multiple fables, but the provided passage text contains only "THE LABOURER AND THE SNAKE"; extraction is limited to that supplied passage.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l3819-l3833
+  passage_sha256=464b4c3333e926ec19043cba8be320e09dbcbed70c3c0b5383159371b17b0387
+

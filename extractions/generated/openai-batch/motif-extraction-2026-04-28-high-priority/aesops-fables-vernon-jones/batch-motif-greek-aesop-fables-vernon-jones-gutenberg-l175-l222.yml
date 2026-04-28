@@ -1,0 +1,453 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l175-l222
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: BY G. K. CHESTERTON / AND ILLUSTRATIONS / BY ARTHUR RACKHAM / INTRODUCTION;
+    lines 175-222
+  start: '175'
+  end: '222'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Chesterton argues that fables teach simple truths by using animals as fixed
+    symbolic figures rather than psychologically complex humans. He compares this
+    animal language to heraldry, hieroglyphics, an alphabet, primitive picture-writing,
+    and prehistoric animal images, and says animal fables across named traditions
+    tend toward the same moral lessons about accidental superiority, pride, and excessive
+    cleverness.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage says fables teach plain truths simply by turning people into simplified
+    figures and by using non-speaking animals.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage contrasts animal figures such as a wolf or fox with human equivalents
+    such as a baron or diplomatist, saying humanization introduces complexity.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Animals in fable are compared to animals on heraldic shields and to ancient
+    hieroglyphics.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage describes a symbolic animal language or alphabet in which creatures
+    are linked with simple and strong truths.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Examples of fable lessons include a stream and fountain, a mouse and lion,
+    a fox and dishes, a crow and cheese, and a goat on a mountain-top.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage says ancient and universal animal tales resemble prehistoric cavern
+    images, which are also described as animal images.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The passage names Aesop, Adam, Reynard the Fox, and La Fontaine as possible
+    or comparative reference points for fable traditions.
+  category: other
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: 'The passage states general morals: superiority is insolent because accidental,
+    pride precedes a fall, and one can be too clever by half.'
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: animals in fables
+  description: Non-human living figures used to express simple truths in fables.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: wolf
+  description: An animal example that would become a 'wolfish baron' if converted
+    into a human figure.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: fox
+  description: An animal example that would become a 'foxy diplomatist' if converted
+    into a human figure; also appears in an example involving flat and deep dishes.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:4
+  name_or_label: lion
+  description: Appears as a chivalric heraldic animal and in the example where a mouse
+    is too weak to fight a lion but can affect the cords holding it.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:5
+  name_or_label: sacred ibis
+  description: A sacred bird described as standing on one leg forever when used in
+    the symbolic language.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: mouse
+  description: An animal said to be too weak to fight a lion but too strong for the
+    cords that can hold a lion.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: crow
+  description: A bird whom the gods forbid to sing but nevertheless provide with cheese.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:8
+  name_or_label: goat
+  description: An animal whose insult from a mountain-top is attributed to the mountain
+    rather than to the goat.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:9
+  name_or_label: human beings
+  description: Humans are described as too mysterious to be drawn in simpler states
+    and as too complex when substituted for fable animals.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:4
+roles:
+- id: role:1
+  label: symbolic truth-bearer
+  assigned_to:
+  - fig:1
+  basis: Animals are said to hand down truisms and connect simpler creatures with
+    simpler truths.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: fable example animal
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:6
+  - fig:7
+  - fig:8
+  basis: These animals appear in illustrative examples of fable logic or fable morals.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: fixed emblematic animal
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: The lion and ibis are presented as rigid heraldic or sacred symbolic forms.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: unsuitable symbolic substitute
+  assigned_to:
+  - fig:9
+  basis: The passage says human figures introduce psychological complexity and that
+    early humans found themselves too mysterious to draw.
+  evidence_refs:
+  - ev:1
+  - ev:4
+symbols:
+- id: sym:1
+  label: animal alphabet
+  literal_form: A symbolic language of animals, including ass, bull, cow, lion, ibis,
+    and other creatures.
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: wolf as simplified type
+  literal_form: wolf
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: fox as clever type
+  literal_form: fox
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:4
+  label: lion as powerful emblem
+  literal_form: lion
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:5
+  label: mountain-top
+  literal_form: mountain
+  associated_figures:
+  - fig:8
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: stream and fountain
+  literal_form: flowing stream and fountain
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:7
+  label: prehistoric caverns
+  literal_form: oldest pre-historic caverns containing animal images
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:4
+- id: sym:8
+  label: rocks bearing truths
+  literal_form: rocks on which truths or legends are described as graven or written
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+scenes:
+- id: scene:1
+  label: Defense of animal fable
+  summary: The passage argues that fables use animals because human substitutions
+    would obscure simple truths with human complexity.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:9
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Animal language as emblem and alphabet
+  summary: Animals are presented as fixed signs like heraldry, hieroglyphics, or alphabetic
+    examples that preserve philosophical certainties.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Catalogue of fable examples
+  summary: Several fable-like examples are listed to illustrate lessons about power,
+    weakness, cleverness, divine provision, and positional superiority.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Universal animal legends
+  summary: The passage links animal fables with prehistoric animal images and says
+    various fable traditions reach essentially the same moral outcome.
+  figure_refs:
+  - fig:1
+  - fig:9
+  symbol_refs:
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: animals as bearers of wisdom
+  taxonomy_refs:
+  - wisdom
+  basis: The passage explicitly says animal fables hand down truisms, philosophical
+    certainties, and simple truths.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is a reflective introduction about fable form rather than a narrative
+    fable episode.
+- id: motif:2
+  label: fixed animal emblem used instead of human character
+  taxonomy_refs: []
+  basis: The passage contrasts rigid animal signs with complex human figures and compares
+    animals to heraldic and hieroglyphic signs.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: No specific taxonomy reference was supplied for emblematic animals.
+- id: motif:3
+  label: pride and accidental superiority before reversal
+  taxonomy_refs: []
+  basis: The passage states that superiority is accidental and insolent, that pride
+    goes before a fall, and that cleverness can be excessive.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage states the moral generally and does not narrate a full fall
+    or reversal in this excerpt.
+- id: motif:4
+  label: weak creature able to affect strong creature
+  taxonomy_refs: []
+  basis: The mouse is described as unable to fight the lion but able to overcome the
+    cords that hold the lion.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: This is a brief allusion to a fable example, not the full narrative.
+comparison_claims:
+- id: claim:1
+  claim: The passage presents animal fable as functionally comparable to heraldry,
+    ancient hieroglyphics, alphabetic signs, and primitive picture-writing because
+    all use fixed images to communicate meaning.
+  claim_level: same_function
+  target: heraldry, ancient hieroglyphics, alphabetic animal signs, and primitive
+    picture-writing
+  evidence_refs:
+  - ev:2
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is Chesterton's literary argument in the introduction;
+    it does not demonstrate historical contact or shared origin.
+- id: claim:2
+  claim: The passage claims that fable traditions associated with Aesop, Reynard the
+    Fox, and La Fontaine have essentially the same moral tendency.
+  claim_level: same_function
+  target: Aesop, Reynard the Fox, and La Fontaine fable traditions
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage makes a broad assertion and provides no detailed textual
+    comparison within this excerpt.
+- id: claim:3
+  claim: The passage draws a visual and thematic analogy between universal animal
+    tales and animal images in prehistoric caverns.
+  claim_level: visual_similarity
+  target: animal fables and prehistoric cavern animal images
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The analogy is general and does not identify specific archaeological
+    images or particular fables.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 175-186
+  quote_or_summary: Fable is justified as a way to teach plain truths simply through
+    non-speaking animals; replacing wolf or fox with human types such as baron or
+    diplomatist would force attention back to human complexity.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 187-200
+  quote_or_summary: Animals used austerely like heraldic shields or ancient hieroglyphics
+    hand down truisms; the lion and ibis are fixed signs, and creatures become a kind
+    of animal alphabet for philosophical certainties.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 200-209
+  quote_or_summary: 'The passage lists fable examples: a stream cannot befoul its
+    fountain; a mouse cannot fight a lion but can overcome lion-binding cords; a fox
+    may gain from a flat dish and lose from a deep one; a crow denied song receives
+    cheese; a goat''s insult from a mountain-top is attributed to the mountain.'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 209-215
+  quote_or_summary: Animal tales are called ancient and universal, compared with animal
+    images in the oldest prehistoric caverns; humans in simpler states are said to
+    have felt too mysterious to be drawn.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 215-222
+  quote_or_summary: 'Whether fables began with Aesop or Adam, and whether compared
+    with Reynard the Fox or La Fontaine, the passage says the upshot is essentially
+    the same: superiority is insolent because accidental, pride precedes a fall, and
+    one may be too clever by half.'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is an interpretive introduction rather than a narrative myth
+    or fable, so motifs are mostly meta-fable patterns and explicitly stated moral
+    formulas.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used; taxonomy references are limited to supplied motif and symbol lists.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l175-l222
+  passage_sha256=e16e6db19c3145d2a52b3b5ae241768623e72230e8d5d7b9af5779b39f09a471
+

@@ -1,0 +1,416 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l3621-l3646
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE MILLER, HIS SON, AND THEIR ASS / THE STAG AND THE VINE / THE LAMB CHASED
+    BY A WOLF / THE ARCHER AND THE LION; lines 3621-3646
+  start: '3621'
+  end: '3646'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: Give a wide berth to those who can do damage at a distance.
+  summary: A lamb pursued by a wolf takes refuge in a temple and chooses possible
+    sacrifice over being eaten. An archer wounds a lion from a distance with an arrow;
+    the lion flees, reasoning that anyone who sends such a dangerous messenger must
+    be more dangerous himself.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A wolf chases a lamb.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The lamb takes refuge in a temple.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The wolf says the priest will catch the lamb and offer it as a sacrifice on
+    the altar if it remains in the temple precincts.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The lamb replies that it prefers being sacrificed to being eaten by the wolf.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: An archer goes into the hills with his bow for sport, and the animals flee
+    at his sight except for the lion.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The lion stays behind and challenges the archer to fight.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The archer shoots an arrow at the lion, hits him, and calls the arrow his
+    messenger.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The lion runs away after feeling the sting of the arrow.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: A fox, having seen the event, urges the lion not to be a coward and to show
+    fight.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The lion refuses to stay, saying that someone who sends such a messenger before
+    him must be terrible to deal with.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: The passage ends with a maxim advising a wide berth for those who can damage
+    others at a distance.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Wolf
+  description: Predator chasing the lamb and urging it out of the temple precincts.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Lamb
+  description: Pursued animal that takes refuge in a temple and chooses possible sacrifice
+    over being eaten by the wolf.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Priest
+  description: Temple priest mentioned by the wolf as one who may catch and sacrifice
+    the lamb.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Archer
+  description: Hunter with a bow who goes into the hills, shoots the lion with an
+    arrow, and describes the arrow as his messenger.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: Lion
+  description: Animal that initially challenges the archer but flees after being struck
+    by the arrow.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:6
+  name_or_label: Fox
+  description: Observer who urges the lion to stay and fight.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: Animals
+  description: Collective group that flees at the sight of the archer, except for
+    the lion.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: pursuing predator
+  assigned_to:
+  - fig:1
+  basis: The wolf chases the lamb and tries to lure it from sanctuary.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: refuge seeker
+  assigned_to:
+  - fig:2
+  basis: The lamb takes refuge in the temple.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: potential sacrificial victim
+  assigned_to:
+  - fig:2
+  basis: The wolf says the priest may sacrifice the lamb, and the lamb accepts that
+    risk.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: potential sacrificer
+  assigned_to:
+  - fig:3
+  basis: The priest is mentioned as someone who may catch the lamb and offer it in
+    sacrifice.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: distant attacker
+  assigned_to:
+  - fig:4
+  basis: The archer wounds the lion from a distance by shooting an arrow.
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: role:6
+  label: challenger who retreats
+  assigned_to:
+  - fig:5
+  basis: The lion challenges the archer but runs away after the arrow strikes him.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+- id: role:7
+  label: observer and exhorter
+  assigned_to:
+  - fig:6
+  basis: The fox sees the event and urges the lion to stay and fight.
+  evidence_refs:
+  - ev:5
+- id: role:8
+  label: fleeing animals
+  assigned_to:
+  - fig:7
+  basis: The animals flee when they see the archer.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: temple refuge
+  literal_form: temple and precincts
+  associated_figures:
+  - fig:2
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: altar sacrifice
+  literal_form: sacrifice on the altar
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: bow
+  literal_form: bow
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: arrow as messenger
+  literal_form: arrow called a messenger
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: sym:5
+  label: hills
+  literal_form: hills
+  associated_figures:
+  - fig:4
+  - fig:5
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Lamb takes temple refuge from wolf
+  summary: A wolf chases a lamb; the lamb enters a temple, and the wolf warns that
+    remaining there may lead to sacrifice on the altar. The lamb says it prefers sacrifice
+    to being eaten by the wolf.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Archer wounds lion at a distance
+  summary: An archer goes into the hills with a bow. Most animals flee, while the
+    lion challenges him. The archer shoots the lion with an arrow and calls the arrow
+    his messenger.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:7
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Lion explains his retreat
+  summary: After being struck, the lion runs away. A fox urges him to fight, but the
+    lion says a man who sends such a dangerous messenger must be terrible himself.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: choosing a lesser danger over a greater predator
+  taxonomy_refs: []
+  basis: The lamb weighs the risk of temple sacrifice against being eaten by the wolf
+    and chooses to remain in the temple.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is a fable-level practical-choice motif rather than a named taxonomy
+    motif in the supplied list.
+- id: motif:2
+  label: sacrificial victim at the altar
+  taxonomy_refs:
+  - sacrifice
+  basis: The wolf explicitly describes the lamb being caught by the priest and offered
+    in sacrifice on the altar; the lamb repeats acceptance of sacrifice as preferable
+    to being eaten.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The sacrifice is threatened or hypothetical within the fable, not actually
+    performed.
+- id: motif:3
+  label: distant weapon as messenger of greater power
+  taxonomy_refs: []
+  basis: The archer wounds the lion with an arrow, calls it his messenger, and the
+    lion infers that the sender is even more dangerous.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The motif is expressed as a fable action and moral, not as a supplied
+    taxonomy category.
+- id: motif:4
+  label: prudence before remote harm
+  taxonomy_refs:
+  - wisdom
+  basis: The closing maxim advises keeping away from those able to do damage at a
+    distance.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The link to the broad taxonomy category 'wisdom' is general and should
+    be reviewed.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3621-3624, THE LAMB CHASED BY A WOLF
+  quote_or_summary: A wolf chases a lamb, and the lamb takes refuge in a temple.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:2
+  type: quote
+  locator: lines 3624-3628, THE LAMB CHASED BY A WOLF
+  quote_or_summary: The wolf says the priest may offer the lamb 'up in sacrifice on
+    the altar'; the lamb replies it would 'rather be sacrificed any day than be eaten
+    up by a Wolf.'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 3630-3635, THE ARCHER AND THE LION
+  quote_or_summary: An archer goes into the hills with his bow; the animals flee except
+    the lion, who stays and challenges him.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:4
+  type: quote
+  locator: lines 3635-3638, THE ARCHER AND THE LION
+  quote_or_summary: The archer shoots and hits the lion, saying, 'There, you see what
+    my messenger can do.'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 3638-3642, THE ARCHER AND THE LION
+  quote_or_summary: The lion runs away after feeling the arrow; a fox who saw it urges
+    the lion not to be cowardly and to fight.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:6
+  type: quote
+  locator: lines 3642-3644, THE ARCHER AND THE LION
+  quote_or_summary: The lion says that when the archer sends such a messenger before
+    him, he himself must be 'a terrible fellow to deal with.'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+- id: ev:7
+  type: quote
+  locator: line 3646, THE ARCHER AND THE LION
+  quote_or_summary: Give a wide berth to those who can do damage at a distance.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based only on the supplied passage. Motif labels are descriptive;
+    only 'sacrifice' and broad 'wisdom' align with supplied taxonomy refs, and both
+    should be reviewed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the supplied passage does not itself establish a comparison with another text or tradition.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l3621-l3646
+  passage_sha256=b3d6ae72c8f3c900c2afe53e54574e597b1bcdf027393f3748f1b94ef3a46f02
+

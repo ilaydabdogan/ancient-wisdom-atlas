@@ -1,0 +1,359 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l3907-l3930
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE KID AND THE WOLF / THE DEBTOR AND HIS SOW / THE BALD HUNTSMAN / THE HERDSMAN
+    AND THE LOST BULL; lines 3907-3930
+  start: '3907'
+  end: '3930'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: In one fable, a bald huntsman wearing a wig loses both hat and wig in the
+    wind and responds with a joke about the hair not staying on its original head.
+    In another, a herdsman vows to sacrifice a calf to Jupiter if he finds the thief
+    who took his lost bull; when he finds a lion eating the bull, he prays to escape
+    and promises a full-grown bull instead.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A man without hair wears a wig and goes hunting.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A gust of wind carries away the man's hat and wig, amusing the hunting party.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The man responds to the incident with a joke about the wig hair not staying
+    on either head.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A herdsman tending cattle notices that a fine young bull is missing.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The herdsman vows to sacrifice a calf to Jupiter if he discovers the thief.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The herdsman enters a thicket and sees a lion devouring the lost bull.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Frightened, the herdsman raises his hands to heaven and asks Jupiter for escape,
+    promising a full-grown bull.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Bald huntsman
+  description: A man who has lost all his hair, wears a wig, and goes out hunting.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: The hunt
+  description: The hunting party that is amused when the man's hat and wig are blown
+    away.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Herdsman
+  description: A cattle tender who searches for a missing young bull, vows a sacrifice
+    to Jupiter, and later prays to escape a lion.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:4
+  name_or_label: Young Bull
+  description: One of the finest cattle in the herd; it is lost and later found being
+    devoured by a lion.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: Jupiter
+  description: The deity addressed by the herdsman in a vow and later in a plea for
+    escape.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:6
+  name_or_label: Lion
+  description: An animal seen in a thicket devouring the lost bull.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: self-mocking sufferer of mishap
+  assigned_to:
+  - fig:1
+  basis: He loses his hat and wig to the wind but joins the joke and comments humorously
+    on the wig.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: amused witnesses
+  assigned_to:
+  - fig:2
+  basis: The hunting party is amused by the loss of the hat and wig.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: searcher for lost animal
+  assigned_to:
+  - fig:3
+  basis: He misses a young bull and goes to look for it.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: conditional votary
+  assigned_to:
+  - fig:3
+  basis: He promises animal sacrifice to Jupiter first for discovering the thief and
+    then for escaping danger.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:5
+  label: lost and consumed animal
+  assigned_to:
+  - fig:4
+  basis: The young bull is missing and later seen being eaten by the lion.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:6
+  label: invoked deity
+  assigned_to:
+  - fig:5
+  basis: Jupiter is addressed as recipient of the promised sacrifices and plea for
+    safety.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:7
+  label: dangerous predator
+  assigned_to:
+  - fig:6
+  basis: The lion is found devouring the bull and is feared by the herdsman.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: wig and exposed baldness
+  literal_form: Wig, hair, hat blown away by wind
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: conditional sacrifice
+  literal_form: Promised calf and later promised full-grown bull for Jupiter
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:3
+  label: raised hands to heaven
+  literal_form: Gesture of raising hands to heaven while calling on Jupiter
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: thicket with predator
+  literal_form: Thicket where a lion devours the lost bull
+  associated_figures:
+  - fig:4
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Huntsman's wig blown away
+  summary: A bald man wearing a wig goes hunting; wind carries away his hat and wig,
+    and the hunt laughs.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Huntsman's joking reply
+  summary: The bald huntsman responds by joking that the wig hair did not stay on
+    its original head, so it is unsurprising that it did not stay on his.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Herdsman's vow while searching
+  summary: After missing a young bull, the herdsman searches unsuccessfully and vows
+    a calf sacrifice to Jupiter if he finds the thief.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Discovery of the lion
+  summary: The herdsman enters a thicket and sees a lion eating the lost bull.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:6
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Revised prayer for escape
+  summary: Terrified, the herdsman raises his hands to heaven, invokes Jupiter, and
+    promises a full-grown bull if he escapes unharmed.
+  figure_refs:
+  - fig:3
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Humorous acceptance of public embarrassment
+  taxonomy_refs:
+  - wisdom
+  basis: The bald huntsman loses the wig that conceals his baldness and answers public
+    laughter with a witty acceptance of the mishap.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The wisdom classification is broad; the passage presents humor and practical
+    wit rather than explicit moral teaching in the supplied text.
+- id: motif:2
+  label: Conditional vow of sacrifice to a deity
+  taxonomy_refs:
+  - sacred_exchange
+  - sacrifice
+  basis: The herdsman promises Jupiter a calf if the thief is found, then promises
+    a full-grown bull if he escapes the lion.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The passage shows vowed sacrifice and divine appeal, but it does not report
+    any divine response or completed offering.
+- id: motif:3
+  label: Search for stolen or lost animal reveals greater danger
+  taxonomy_refs: []
+  basis: The herdsman seeks a missing bull expecting a thief but finds a lion devouring
+    it, shifting the concern from recovery to personal survival.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: No supplied taxonomy reference directly matches this fable pattern.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3907-3914
+  quote_or_summary: A bald man wearing a wig goes hunting; a strong gust blows away
+    his hat and wig, amusing the hunt.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: quote
+  locator: lines 3914-3916
+  quote_or_summary: '"the hair that wig is made of didn''t stick to the head on which
+    it grew; so it''s no wonder it won''t stick to mine."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 3918-3924
+  quote_or_summary: A herdsman misses a fine young bull, searches without success,
+    and vows to sacrifice a calf to Jupiter if he discovers the thief.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 3924-3926
+  quote_or_summary: Continuing his search, the herdsman enters a thicket and sees
+    a lion devouring the lost bull.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 3926-3930
+  quote_or_summary: Terrified, the herdsman raises his hands to heaven, calls on Jupiter,
+    and promises a full-grown bull if he escapes unharmed.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward from the supplied English passage.
+    Motif taxonomy mapping is limited by the broad available taxonomy and should be
+    reviewed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the supplied passage does not itself support comparison beyond internal motif identification.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l3907-l3930
+  passage_sha256=034a537a004bce570559466717f28065b76a90b2272b90e72b1739f929fd279d
+

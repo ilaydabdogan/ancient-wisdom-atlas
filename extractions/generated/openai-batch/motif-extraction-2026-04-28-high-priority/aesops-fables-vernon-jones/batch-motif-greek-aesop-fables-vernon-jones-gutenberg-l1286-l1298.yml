@@ -1,0 +1,237 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l1286-l1298
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE CROW AND THE PITCHER / THE BOYS AND THE FROGS / THE NORTH WIND AND THE
+    SUN / THE MISTRESS AND HER SERVANTS; lines 1286-1298
+  start: '1286'
+  end: '1298'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A thrifty widow keeps two servants hard at work and wakes them when the
+    cock crows. The servants, hoping to sleep longer, kill the cock, but the mistress
+    then wakes them even earlier and sets them to work in the middle of the night.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A widow has two servants and keeps them hard at work.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The servants are made to rise when the cock crows in the morning.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The servants dislike rising early, especially in winter.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The servants think the cock's crow wakes their mistress early.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The servants catch the cock and wring its neck.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: After the cock is killed, the mistress wakes the servants earlier than before
+    and sets them to work in the middle of the night.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Widow / Mistress
+  description: A thrifty and industrious widow who has two servants and sets them
+    to work.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: Two servants
+  description: Two servants kept hard at work who dislike getting up early and kill
+    the cock.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Cock
+  description: The cock whose crow ordinarily wakes the mistress; it is caught and
+    killed by the servants.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: Mistress and work-setter
+  assigned_to:
+  - fig:1
+  basis: She owns or commands the two servants, has them woken, and sets them to work.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: Servants seeking longer sleep
+  assigned_to:
+  - fig:2
+  basis: They dislike early rising and act against the cock because they believe it
+    causes their early waking.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: Crowing time-signal
+  assigned_to:
+  - fig:3
+  basis: Its crow is described as the usual sound by which the mistress wakes early.
+  evidence_refs:
+  - ev:2
+  - ev:4
+symbols:
+- id: sym:1
+  label: Cock's crow
+  literal_form: Cock and its morning crow
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: Middle of the night work
+  literal_form: Servants set to work in the middle of the night
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Early-morning labor routine
+  summary: The mistress keeps two servants hard at work and has them rise when the
+    cock crows.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Killing of the cock
+  summary: The servants, believing the cock causes their early waking, catch it and
+    wring its neck.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Unintended earlier waking
+  summary: Without the cock's crow, the mistress wakes the servants earlier than before
+    and makes them work in the middle of the night.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Counterproductive removal of a perceived cause
+  taxonomy_refs: []
+  basis: The servants kill the cock because they think it causes early waking, but
+    the result is earlier waking and more severe labor.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage does not state an explicit moral; the motif label is inferred
+    from the narrative sequence.
+- id: motif:2
+  label: Attack on a time-signal worsens hardship
+  taxonomy_refs: []
+  basis: The cock's crow functions as the usual waking signal; after the servants
+    kill it, their mistress wakes them in the middle of the night.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: This is a narrow passage-level motif rather than a supplied taxonomy category.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1286-1288
+  quote_or_summary: A thrifty, industrious widow has two servants and keeps them hard
+    at work.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1288-1292
+  quote_or_summary: The servants must rise when the cock crows; they dislike this,
+    especially in winter, and believe the cock wakes their mistress early.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 1292-1293
+  quote_or_summary: '"So they caught it and wrung its neck."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: summary
+  locator: lines 1293-1298
+  quote_or_summary: Because the mistress no longer hears the usual crow, she wakes
+    the servants earlier than ever and sets them to work in the middle of the night.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal narrative details are clear. Motif labels are passage-level abstractions
+    and should be reviewed. No comparison claims are made because the passage itself
+    provides no comparative framing.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the provided passage and metadata. Available taxonomy references did not include a precise fit for the passage-level motifs.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l1286-l1298
+  passage_sha256=17cc653073aa296a54e61a4242ac35e2162a1213fe3f12c775919431168bc84f
+

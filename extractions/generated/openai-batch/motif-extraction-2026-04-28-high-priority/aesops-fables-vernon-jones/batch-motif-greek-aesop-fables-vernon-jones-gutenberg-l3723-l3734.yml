@@ -1,0 +1,282 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l3723-l3734
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE ASS AND THE MULE / BROTHER AND SISTER / THE HEIFER AND THE OX / THE KINGDOM
+    OF THE LION; lines 3723-3734
+  start: '3723'
+  end: '3734'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: '"the weak take their place without fear by the side of the strong"'
+  summary: A lion reigns over the beasts as a gentle and just king. He calls a general
+    assembly and establishes laws for equality and harmony, so natural enemies may
+    live together in peace. A hare rejoices that the weak can stand beside the strong
+    without fear.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The Lion reigns over the beasts of the earth.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Lion is described as not cruel or tyrannical, but gentle and just.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Lion calls a general assembly of the beasts.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Lion draws up a code of laws for all to live in equality and harmony.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Wolf and lamb, tiger and stag, leopard and kid, and dog and hare are named
+    as animals who should dwell side by side in peace and friendship.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The hare says it has longed for the day when the weak can take their place
+    without fear beside the strong.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Lion
+  description: The reigning king over the beasts, described as gentle and just.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Beasts of the earth
+  description: The animals over whom the Lion reigns and whom he summons to a general
+    assembly.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Hare
+  description: One of the beasts; speaks in praise of the day when the weak need not
+    fear the strong.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Named animal pairs
+  description: Wolf and lamb, tiger and stag, leopard and kid, and dog and hare are
+    listed as dwelling side by side in peace and friendship.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: just king
+  assigned_to:
+  - fig:1
+  basis: The Lion reigns and is described as gentle and just, not cruel or tyrannical.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: lawgiver
+  assigned_to:
+  - fig:1
+  basis: The Lion calls an assembly and draws up a code of laws.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: assembled subjects
+  assigned_to:
+  - fig:2
+  basis: The beasts are called into a general assembly under the Lion's reign.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: speaker for the weak
+  assigned_to:
+  - fig:3
+  basis: The hare voices relief that the weak may stand beside the strong without
+    fear.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: reconciled animal opposites
+  assigned_to:
+  - fig:4
+  basis: Animals normally placed in predator-prey pairings are listed as living side
+    by side in peace and friendship.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: lion-king
+  literal_form: Lion reigning over beasts
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: code of laws
+  literal_form: A code of laws drawn up by the Lion
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: peaceful animal pairings
+  literal_form: Wolf with lamb, tiger with stag, leopard with kid, dog with hare
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: weak beside strong
+  literal_form: The weak taking their place without fear beside the strong
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: The Lion's just reign
+  summary: The Lion rules the beasts without cruelty or tyranny and is described as
+    gentle and just.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Assembly and lawgiving
+  summary: The Lion gathers the beasts and establishes laws intended to create equality
+    and harmony among all.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Peace among weak and strong
+  summary: Animal pairs are imagined living together peacefully, and the hare rejoices
+    that weak creatures can stand beside strong ones without fear.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: just animal king establishes peaceful order
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The Lion's authority is framed through gentle and just kingship, and his
+    reign produces laws for harmony among the beasts.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage presents kingship in fable form rather than a full royal legitimation
+    narrative.
+- id: motif:2
+  label: law-based harmony among natural enemies
+  taxonomy_refs:
+  - covenant
+  basis: A code of laws is established so all beasts may live in equality, harmony,
+    peace, and friendship, including paired animals such as wolf and lamb.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: low
+  cautions: The passage does not describe an oath, pact, divine covenant, or reciprocal
+    ritual; the taxonomy reference is only a loose fit for law-bound communal order.
+- id: motif:3
+  label: weak and strong reconciled
+  taxonomy_refs:
+  - duality
+  basis: The hare explicitly contrasts the weak and the strong and welcomes their
+    fearless coexistence.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The duality is social and ethical rather than cosmic or metaphysical.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3723-3726
+  quote_or_summary: The Lion reigns over the beasts and is described as never cruel
+    or tyrannical, but gentle and just as a king ought to be.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; brief summary.
+- id: ev:2
+  type: summary
+  locator: lines 3726-3729
+  quote_or_summary: During his reign, the Lion calls a general assembly and draws
+    up laws for all to live in perfect equality and harmony.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; brief summary.
+- id: ev:3
+  type: summary
+  locator: lines 3729-3732
+  quote_or_summary: Wolf and lamb, tiger and stag, leopard and kid, and dog and hare
+    are to dwell side by side in unbroken peace and friendship.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; brief summary.
+- id: ev:4
+  type: quote
+  locator: lines 3732-3734
+  quote_or_summary: 'The hare says: "the weak take their place without fear by the
+    side of the strong."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif taxonomy assignments are cautious
+    because the available taxonomy contains only broad motif-family labels and the
+    fable passage is brief.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly support comparison to another text or tradition.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l3723-l3734
+  passage_sha256=6e6212062f7036d46d0086e055d34b5f8214a976849937f6fa06547b732ee63d
+

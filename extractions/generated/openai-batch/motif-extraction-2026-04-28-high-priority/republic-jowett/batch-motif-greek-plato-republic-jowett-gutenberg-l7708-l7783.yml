@@ -1,0 +1,430 @@
+---
+record_id: batch.motif.greek-plato-republic-jowett-gutenberg-l7708-l7783
+source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+passage_locator:
+  label: The Republic / THE REPUBLIC / INTRODUCTION AND ANALYSIS.; lines 7708-7783
+  start: '7708'
+  end: '7783'
+  translation: The Republic
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Jowett's analysis discusses Plato's Idea of the good, comparing it with
+    related Platonic concepts such as the creator in the Timaeus, beauty in the Symposium,
+    dialectic, and gradations of knowledge. It describes dialectic as a process that
+    divides and reunites, pierces hypotheses, and reaches a first principle. It also
+    compares Plato with Hegel and includes a Swift passage imagining Homer, Aristotle,
+    commentators, a ghost, and the lower world.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Idea of good is described as both a cause and an idea, and is said to
+    be called by that name only in the Republic.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Idea of good is compared with the creator of the Timaeus, who is described
+    as creating all things out of goodness.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage says the Idea of good is represented in the Symposium under the
+    aspect of beauty and is attained there by stages of initiation, as in the Republic
+    by regular gradations of knowledge.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Dialectic is described as dividing a whole into natural parts and reuniting
+    scattered parts into a natural or organized whole.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Dialectic is described as piercing the veil of hypotheses and reaching the
+    final cause or first principle of all.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The highest process of thought is described as the soul conversing with herself
+    or holding communion with eternal truth and beauty.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: An embedded Swift quotation depicts Homer and Aristotle appearing among commentators
+    and says a ghost reports that commentators keep distant from their principals
+    in the lower world because of shame and guilt.
+  category: setting
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Plato and Hegel are compared as both conceiving the world as a correlation
+    of abstractions, though with a stated difference in how gradations are understood.
+  category: relationship
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Idea of good
+  description: An idea and cause discussed as central to Plato's Republic and related
+    to other Platonic concepts.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: creator of the Timaeus
+  description: A creator described in the passage as creating all things out of goodness.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: soul
+  description: The soul is described as conversing with herself or holding communion
+    with eternal truth and beauty.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+- id: fig:4
+  name_or_label: Socrates
+  description: Associated with the everlasting question and answer, called the ceaseless
+    interrogative of Socrates.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: Homer
+  description: In the embedded Swift quotation, Homer appears among commentators and
+    is introduced to Didymus and Eustathius.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:7
+- id: fig:6
+  name_or_label: Aristotle
+  description: In the embedded Swift quotation, Aristotle appears among commentators
+    and reacts impatiently to an account of Scotus and Ramus.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:7
+- id: fig:7
+  name_or_label: nameless ghost
+  description: In the embedded Swift quotation, a ghost whispers about commentators
+    in the lower world.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: supreme cause or principle
+  assigned_to:
+  - fig:1
+  basis: The passage describes the Idea of good as a cause and as reaching relation
+    to the final cause or first principle through dialectic.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:2
+  label: benevolent creator
+  assigned_to:
+  - fig:2
+  basis: The creator of the Timaeus is described as creating all things out of goodness.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: seeker in communion with truth and beauty
+  assigned_to:
+  - fig:3
+  basis: The soul is described as conversing with herself or holding communion with
+    eternal truth and beauty.
+  evidence_refs:
+  - ev:6
+- id: role:4
+  label: interrogative teacher
+  assigned_to:
+  - fig:4
+  basis: Socrates is associated with everlasting question and answer.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: ancient authority confronted with commentators
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: The Swift quotation stages Homer and Aristotle among later commentators,
+    some of whom have misrepresented them.
+  evidence_refs:
+  - ev:7
+- id: role:6
+  label: underworld informant
+  assigned_to:
+  - fig:7
+  basis: The ghost whispers information about the lower-world relation between commentators
+    and their principals.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: veil of hypotheses
+  literal_form: veil
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:2
+  label: stages of initiation
+  literal_form: stages
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - initiation
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: regular gradations of knowledge
+  literal_form: gradations
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - wisdom
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: lower world
+  literal_form: lower world
+  associated_figures:
+  - fig:5
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:5
+  label: eternal truth and beauty
+  literal_form: truth and beauty
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - wisdom
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Attainment of the good by initiation and knowledge
+  summary: The passage relates the Idea of good to beauty in the Symposium and describes
+    attainment by stages of initiation or regular gradations of knowledge.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:2
+  label: Dialectic reaching first principle
+  summary: Dialectic distinguishes, divides, reunites, defines, connects, pierces
+    hypotheses, and reaches the final cause or first principle.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Soul in communion with truth and beauty
+  summary: The highest thought is described as the soul conversing with herself or
+    communing with eternal truth and beauty, linked with Socratic question and answer.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:6
+- id: scene:4
+  label: Swift's lower-world meeting of authors and commentators
+  summary: The embedded quotation imagines Homer and Aristotle appearing with commentators,
+    while a ghost explains that commentators keep away from their principals in the
+    lower world because they misrepresented them.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: staged initiation toward higher knowledge or beauty
+  taxonomy_refs:
+  - initiation
+  - wisdom
+  basis: The passage explicitly says beauty in the Symposium is attained by stages
+    of initiation and the good by regular gradations of knowledge.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: This is philosophical analysis, not a narrative ritual episode.
+- id: motif:2
+  label: dialectical passage beyond appearances to first principle
+  taxonomy_refs:
+  - wisdom
+  basis: Dialectic is described as piercing the veil of hypotheses and reaching the
+    final cause or first principle of all.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The veil is a metaphor in philosophical exposition; no concrete mythic
+    episode is narrated.
+- id: motif:3
+  label: benevolent creation from goodness
+  taxonomy_refs: []
+  basis: The creator of the Timaeus is described as creating all things out of goodness
+    and is compared with the Idea of good.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage gives only a brief comparative statement and does not narrate
+    the creation.
+- id: motif:4
+  label: lower-world encounter with dead authorities and a ghost
+  taxonomy_refs: []
+  basis: The embedded Swift quotation includes Homer, Aristotle, a nameless ghost,
+    commentators, and the lower world.
+  evidence_refs:
+  - ev:7
+  confidence: low
+  cautions: This material is quoted from Swift as an illustrative aside, not from
+    Plato's Republic itself; the passage does not describe a journey through the afterlife.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself compares the Republic's Idea of good with the creator
+    of the Timaeus on the basis of goodness as causal power.
+  claim_level: same_function
+  target: creator of the Timaeus
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is made in Jowett's analysis and is functional rather
+    than a claim that the figures are identical.
+- id: claim:2
+  claim: The passage links the Idea of good with the Symposium's beauty by describing
+    both as objects reached through ordered stages or gradations.
+  claim_level: same_function
+  target: beauty in the Symposium
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage says the correspondence is under the aspect of beauty and
+    to the extent of staged attainment; it does not equate the concepts fully.
+- id: claim:3
+  claim: The passage compares Plato and Hegel as thinkers who conceive the world as
+    a correlation of abstractions.
+  claim_level: same_function
+  target: Hegelian succession of moments in the unity of the idea
+  evidence_refs:
+  - ev:8
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage immediately notes a difference between Plato's order of
+    thought or ideas and Hegel's historical development of mind.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 7708-7712
+  quote_or_summary: The Idea of good is said to be named only in the Republic, to
+    have traces in other Platonic dialogues, and to be both a cause and an idea.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 7711-7713
+  quote_or_summary: The Idea of good is compared with the creator of the Timaeus,
+    who created all things out of goodness.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 7716-7719
+  quote_or_summary: The Idea of good is represented in the Symposium as beauty and
+    is supposed to be attained there by stages of initiation, as here by regular gradations
+    of knowledge.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 7722-7727
+  quote_or_summary: Dialectic distinguishes natures and classes, divides a whole into
+    natural parts, reunites scattered parts, defines universal ideas, and connects
+    them.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 7727-7729
+  quote_or_summary: Dialectic is described as piercing the veil of hypotheses and
+    reaching the final cause or first principle of all.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 7730-7735
+  quote_or_summary: The highest process of thought is described as the soul conversing
+    with herself or communing with eternal truth and beauty, and as Socrates' ceaseless
+    question and answer.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 7755-7776
+  quote_or_summary: In the embedded Swift quotation, Homer and Aristotle appear with
+    commentators; a nameless ghost says commentators stay distant from their principals
+    in the lower world because they misrepresented them.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: 7751-7754, 7777-7783
+  quote_or_summary: The passage identifies Hegel's succession of moments as a modern
+    approach to Plato's universal science, says Plato and Hegel both conceived the
+    world as a correlation of abstractions, and then distinguishes Hegel's historical
+    development from Plato's order of thought or ideas.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is philosophical analysis with some comparative statements and
+    an embedded literary quotation; motif extraction is therefore mostly abstract
+    and should be reviewed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy references were limited to supplied available refs and applied only where directly supported.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-plato-republic-jowett-gutenberg__l7708-l7783
+  passage_sha256=e381ae0d2e02d5a1c90be8ce3aecc3a69d089e1c44c16be36425ad5513f07862
+

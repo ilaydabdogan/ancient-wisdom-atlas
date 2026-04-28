@@ -1,0 +1,301 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l1760-l1783
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE FISHERMAN AND THE SPRAT / THE BOASTING TRAVELLER / THE CRAB AND HIS MOTHER
+    / THE ASS AND HIS SHADOW; lines 1760-1783
+  start: '1760'
+  end: '1783'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: In one fable, an Old Crab criticizes her son for walking sideways, but
+    cannot herself walk straight when asked to demonstrate. In another, a traveller
+    and an ass's owner quarrel over whether hiring the ass includes use of its shadow;
+    while they fight, the ass escapes.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: An Old Crab tells her son that he should not walk sideways and ought to walk
+    straight.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Young Crab asks his mother to show him how to walk straight and says he
+    will follow her example.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Old Crab tries but fails to walk straight, and recognizes that fault-finding
+    with her child was foolish.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: A man hires an Ass for a summertime journey, with the owner following behind
+    to drive the animal.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: During a rest in the heat of the day, the traveller wants to lie down in the
+    Ass's shadow, while the owner also wants to be out of the sun.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The owner says the traveller hired only the Ass and not its shadow; the traveller
+    says his bargain gives him control of the Ass for the time being.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The traveller and owner move from words to blows, and the Ass runs away while
+    they fight.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Old Crab
+  description: A mother crab who criticizes her son’s sideways walking and then fails
+    to demonstrate walking straight.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Young Crab
+  description: The Old Crab’s son, who asks his mother to show the correct way to
+    walk.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Traveller
+  description: A man who hires an Ass for a journey and disputes with the owner over
+    use of the Ass’s shadow.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Ass owner
+  description: The owner of the hired Ass, who follows behind to drive it and disputes
+    the traveller’s use of its shadow.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: Ass
+  description: A hired animal whose shadow becomes the subject of dispute and who
+    runs away while the men fight.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:4
+roles:
+- id: role:1
+  label: fault-finding parent unable to model her own instruction
+  assigned_to:
+  - fig:1
+  basis: The Old Crab tells her son to walk straight but fails when asked to show
+    how.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: child requesting example
+  assigned_to:
+  - fig:2
+  basis: The Young Crab asks his mother to demonstrate the instruction he is expected
+    to follow.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: hirer disputing control of hired animal
+  assigned_to:
+  - fig:3
+  basis: The traveller argues that hiring the Ass gives him control over it for the
+    time being, including use of its shadow.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: owner disputing terms of hire
+  assigned_to:
+  - fig:4
+  basis: The owner says the traveller hired the Ass only, not its shadow.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: hired animal lost during quarrel
+  assigned_to:
+  - fig:5
+  basis: The Ass runs away while the traveller and owner fight.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: sideways walking
+  literal_form: The crabs’ sideways manner of walking
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Ass's shadow
+  literal_form: The shadow cast by the hired Ass in the heat of the day
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: summertime heat and sun
+  literal_form: A journey in summertime and a stop in the heat of the day to get out
+    of the sun
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: The Old Crab fails to demonstrate her precept
+  summary: The Old Crab tells her son to walk straight; when he asks her to show him
+    how, she tries and fails, realizing the fault in her criticism.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: The dispute over the Ass's shadow
+  summary: A traveller hires an Ass, then disputes with the owner over whether he
+    may use the Ass’s shadow for shade during a hot rest stop.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: The Ass escapes during the fight
+  summary: The argument between the traveller and owner escalates into blows, and
+    the Ass runs away while they are fighting.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: example stronger than instruction
+  taxonomy_refs:
+  - wisdom
+  basis: The fable explicitly concludes that example is better than precept after
+    the Old Crab cannot model the behavior she demands of her son.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: high
+  cautions: The taxonomy reference is broad; the passage gives a moral lesson rather
+    than a mythic wisdom episode.
+- id: motif:2
+  label: quarrel over a trivial claim causing greater loss
+  taxonomy_refs:
+  - wisdom
+  basis: The traveller and owner fight over use of the Ass’s shadow, and the Ass escapes
+    while they are fighting.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The supplied passage does not state an explicit moral for this fable;
+    the motif label is a concise abstraction from the narrated sequence.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1760-1766
+  quote_or_summary: In THE CRAB AND HIS MOTHER, the Old Crab criticizes her son’s
+    sideways walking; the Young Crab asks her to demonstrate straight walking; she
+    fails and realizes her fault-finding was foolish.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: lines 1770-1776
+  quote_or_summary: In THE ASS AND HIS SHADOW, a man hires an Ass for a summertime
+    journey; during a hot rest stop, the traveller wants to lie in the Ass’s shadow
+    and the owner also wants shade.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 1776-1780
+  quote_or_summary: The owner claims the hiring covered the Ass but not its shadow,
+    while the traveller claims control of the Ass for the hired period.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 1780-1783
+  quote_or_summary: The dispute escalates from words to blows, and the Ass runs away
+    while the men are fighting.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: quote
+  locator: line 1768
+  quote_or_summary: "“Example is better than precept.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is based directly on the supplied passage. Motif labels
+    are limited to broad wisdom-pattern abstractions; no comparison claims are made
+    because the passage itself does not support external comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only supplied passage text and metadata. Available taxonomy refs were applied only where the broad wisdom category was directly supported by fable morals or lesson-like structure.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l1760-l1783
+  passage_sha256=f261063ef28cc61da54af97d0855a50404a23cad2c65a072f6ef161829f53a0c
+

@@ -1,0 +1,371 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l1073-l1097
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE DOG AND THE SOW / THE FOX AND THE CROW / THE HORSE AND THE GROOM / THE
+    WOLF AND THE LAMB; lines 1073-1097
+  start: '1073'
+  end: '1097'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: In one fable, a groom spends much time grooming a horse while stealing
+    and selling part of its oats; the horse declines in condition and asks to be fed
+    more and combed less. In another, a wolf finds a lamb away from the flock, invents
+    accusations as excuses to kill it, ignores the lamb's replies, and devours it.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A groom spends long hours clipping and combing a horse in his charge.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The groom daily steals part of the horse's allowance of oats and sells it
+    for his own profit.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The horse's condition worsens over time.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The horse tells the groom that if he wants it to look sleek and well, he should
+    comb it less and feed it more.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A wolf comes upon a lamb straying from the flock.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The wolf seeks a plausible excuse before killing the helpless lamb.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The wolf accuses the lamb of insulting him the previous year, feeding in his
+    pastures, and drinking from his spring.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The lamb answers that it was not born the previous year, has not tasted grass,
+    and has drunk only its mother's milk.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The wolf says he will not go without his dinner, then springs upon and devours
+    the lamb.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Groom
+  description: A caretaker of a horse who clips and combs it while stealing part of
+    its oats.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Horse
+  description: An animal under the groom's charge whose condition worsens and who
+    speaks to the groom.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Wolf
+  description: A predator who finds a lamb, invents grievances, and devours it.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: Lamb
+  description: A helpless young animal straying from the flock who answers the wolf's
+    accusations before being devoured.
+  role_refs:
+  - role:7
+  - role:8
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: caretaker
+  assigned_to:
+  - fig:1
+  basis: The groom has charge of the horse and performs grooming actions.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: thief of food allowance
+  assigned_to:
+  - fig:1
+  basis: The groom steals part of the horse's oats and sells it.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: dependent animal
+  assigned_to:
+  - fig:2
+  basis: The horse is in the groom's charge and depends on its allowance of oats.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: speaker of practical complaint
+  assigned_to:
+  - fig:2
+  basis: The horse tells the groom to feed it more and comb it less.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: predator
+  assigned_to:
+  - fig:3
+  basis: The wolf springs upon and devours the lamb.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: false accuser
+  assigned_to:
+  - fig:3
+  basis: The wolf makes accusations that the lamb answers as impossible or untrue.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: prey
+  assigned_to:
+  - fig:4
+  basis: The lamb is called helpless and is devoured by the wolf.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:8
+  label: accused respondent
+  assigned_to:
+  - fig:4
+  basis: The lamb replies to the wolf's accusations with factual denials.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: oats
+  literal_form: The horse's allowance of oats, partly stolen and sold by the groom.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: combing and clipping
+  literal_form: The grooming actions performed for long hours on the horse.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: flock
+  literal_form: The group from which the lamb is straying.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: pastures
+  literal_form: The wolf's alleged pastures where he accuses the lamb of feeding.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: spring
+  literal_form: The wolf's alleged spring from which he accuses the lamb of drinking.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: mother's milk
+  literal_form: The only drink the lamb says it has had.
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - milk
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Grooming with stolen feed
+  summary: The groom attends to the horse's outward appearance while stealing and
+    selling part of its oats, causing the horse's condition to worsen.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Horse's complaint
+  summary: The horse tells the groom that feeding it more is necessary if he wants
+    it to look well.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Wolf finds lamb
+  summary: The wolf encounters a lamb straying from the flock and looks for a plausible
+    excuse to kill it.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Accusations and denials
+  summary: The wolf makes several accusations, and the lamb responds that each is
+    impossible or untrue.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Devouring despite replies
+  summary: The wolf ignores the lamb's replies and devours it.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: outward care paired with withheld sustenance
+  taxonomy_refs: []
+  basis: The groom clips and combs the horse but steals its oats, and the horse says
+    it needs more feeding rather than more combing.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is a plain passage-level motif label, not a matched taxonomy motif.
+- id: motif:2
+  label: predator invents pretext against weaker victim
+  taxonomy_refs: []
+  basis: The wolf seeks a plausible excuse before killing the lamb and makes accusations
+    that the lamb refutes.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: No historical or cross-cultural comparison is asserted.
+- id: motif:3
+  label: power ignores innocence and consumes victim
+  taxonomy_refs: []
+  basis: After the lamb answers the accusations, the wolf states he will not go without
+    dinner and devours it.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is extracted from the narrative sequence only.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1073-1078
+  quote_or_summary: A groom spends long hours clipping and combing the horse in his
+    charge, while daily stealing and selling part of its oats; the horse's condition
+    worsens.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:2
+  type: quote
+  locator: lines 1079-1081
+  quote_or_summary: '"If you really want me to look sleek and well, you must comb
+    me less and feed me more."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 1084-1087
+  quote_or_summary: A wolf finds a lamb straying from the flock and looks for a plausible
+    excuse to kill so helpless a creature.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 1088-1095
+  quote_or_summary: The wolf accuses the lamb of a prior insult, feeding in his pastures,
+    and drinking from his spring; the lamb replies that it was not born then, has
+    not tasted grass, and has drunk only its mother's milk.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 1096-1097
+  quote_or_summary: The wolf says he will not go without dinner, springs upon the
+    lamb, and devours it.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary generated from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: Extraction is based only on the supplied passage. Comparison claims are omitted
+    because the passage does not itself support cross-textual or historical comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  The source label includes four fable titles, but the provided passage text includes only two fables; extraction is limited to the supplied text.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l1073-l1097
+  passage_sha256=f0c160969e30430ba12b497d707099d273c0e308f260c9911bfc9a0cf13bbba7
+

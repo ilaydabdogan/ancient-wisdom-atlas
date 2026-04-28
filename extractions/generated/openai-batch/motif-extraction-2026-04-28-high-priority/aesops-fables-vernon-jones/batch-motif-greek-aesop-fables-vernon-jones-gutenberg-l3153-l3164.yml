@@ -1,0 +1,263 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l3153-l3164
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE LION AND THE BULL / THE WOLF, THE FOX, AND THE APE / THE EAGLE AND THE
+    COCKS / THE ESCAPED JACKDAW; lines 3153-3164
+  start: '3153'
+  end: '3164'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A man catches a jackdaw, ties string to its leg, and gives it to his children
+    as a pet. The jackdaw later escapes back to its old haunts, but the string catches
+    in a tree, trapping it. Realizing it cannot get free, the jackdaw laments that
+    gaining freedom has cost its life.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A man catches a jackdaw and ties a piece of string to one of its legs.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The man gives the jackdaw to his children as a pet.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The jackdaw dislikes living with people.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: After appearing fairly tame and being watched less closely, the jackdaw slips
+    away and flies back to its old haunts.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The string remains on the jackdaw’s leg and becomes entangled in the branches
+    of a tree.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The jackdaw cannot free itself despite trying.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The jackdaw says that in gaining freedom it has lost its life.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Man
+  description: A man who catches the jackdaw, ties string to its leg, and gives it
+    to his children.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Jackdaw
+  description: A caught bird kept as a pet, later escaping and becoming trapped by
+    the string on its leg.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Children
+  description: The man’s children, to whom the jackdaw is given as a pet.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: captor and giver
+  assigned_to:
+  - fig:1
+  basis: The man catches the jackdaw, ties string to its leg, and gives it to his
+    children.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: captive pet
+  assigned_to:
+  - fig:2
+  basis: The jackdaw is caught, tethered, and given to children as a pet.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: escapee trapped by tether
+  assigned_to:
+  - fig:2
+  basis: The jackdaw escapes but the remaining string entangles in a tree and prevents
+    its freedom.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: recipients of pet
+  assigned_to:
+  - fig:3
+  basis: The children receive the jackdaw as a pet.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: string tether
+  literal_form: piece of string tied to one of the jackdaw’s legs
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: tree branches
+  literal_form: branches of a tree where the string becomes entangled
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: old haunts
+  literal_form: the jackdaw’s former places to which it flies back
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Capture and tethering
+  summary: A man catches a jackdaw, ties string to its leg, and gives it to his children
+    as a pet.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Escape to former haunts
+  summary: The jackdaw dislikes human company and, when less closely watched, slips
+    away and flies back to its old haunts.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Fatal entanglement
+  summary: The string on the jackdaw’s leg catches in tree branches, preventing it
+    from getting free.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Lament over freedom and death
+  summary: The jackdaw realizes its situation is hopeless and laments that gaining
+    freedom has cost its life.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: escape from captivity ending in fatal entanglement
+  taxonomy_refs: []
+  basis: The jackdaw escapes captivity but remains tethered; the tether catches in
+    a tree and leaves it unable to free itself.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is a passage-specific fable pattern rather than a mapped motif-family
+    reference from the supplied taxonomy.
+- id: motif:2
+  label: apparent freedom undone by a remaining bond
+  taxonomy_refs: []
+  basis: The bird gains physical distance from its keepers, but the string tied during
+    captivity remains and causes its destruction.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The motif label is interpretive but closely grounded in the literal sequence
+    and final speech.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 3153-3156
+  quote_or_summary: A man catches a jackdaw, ties string to one leg, and gives it
+    to his children as a pet.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: 3156-3159
+  quote_or_summary: The jackdaw dislikes living with people; when it seems tame and
+    is watched less closely, it slips away and flies back to its old haunts.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: 3159-3162
+  quote_or_summary: The string is still on the jackdaw’s leg, becomes entangled in
+    tree branches, and the jackdaw cannot get free despite trying.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: quote
+  locator: 3162-3164
+  quote_or_summary: "“Alas, in gaining my freedom I have lost my life.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward from the supplied passage. Motif labels
+    are candidate descriptions only; no comparison claims are made because the passage
+    itself does not support external comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage was used. No external taxonomy IDs beyond the supplied symbol reference for tree were added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l3153-l3164
+  passage_sha256=4c840d5efe0ae17fc9546ac6ffd7db9055f58937fa463260b178dfea073cc531
+

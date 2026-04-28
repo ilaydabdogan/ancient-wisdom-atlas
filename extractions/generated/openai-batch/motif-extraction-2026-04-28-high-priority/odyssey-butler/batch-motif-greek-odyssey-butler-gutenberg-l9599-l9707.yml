@@ -1,0 +1,492 @@
+---
+record_id: batch.motif.greek-odyssey-butler-gutenberg-l9599-l9707
+source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+passage_locator:
+  label: BOOK XIX / BOOK XX / BOOK XXI / BOOK XXII; lines 9599-9707
+  start: '9599'
+  end: '9707'
+  translation: The Odyssey
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: At the beginning of Book XXII, Ulysses reveals himself, kills Antinous
+    and other suitors with arrows, rejects Eurymachus' offer of compensation, and
+    prepares with Telemachus and loyal servants for armed combat after his arrows
+    run out.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Ulysses removes his rags, stands on the pavement, and places his arrows at
+    his feet before speaking of another mark after the contest.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Ulysses shoots Antinous in the throat while Antinous is holding a two-handled
+    gold cup to drink wine.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The suitors initially think Antinous has been killed by mistake and rebuke
+    Ulysses as a stranger.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Ulysses identifies the suitors' offenses as wasting his substance, forcing
+    women servants to lie with them, wooing his wife while he lived, and fearing neither
+    god nor man.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Eurymachus says Antinous led the wrongdoing, claims Antinous wanted to kill
+    Telemachus and rule Ithaca, and offers compensation in oxen, gold, and bronze.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Ulysses refuses compensation and says he will not stop until he has paid all
+    the suitors in full.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Eurymachus urges the suitors to fight, use tables as shields, rush Ulysses,
+    and escape into town to raise an alarm.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Ulysses kills Eurymachus with an arrow to the breast, and Eurymachus falls
+    over his table.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: Amphinomus attacks Ulysses at the door, but Telemachus strikes him from behind
+    with a spear.
+  category: action
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: Telemachus fetches shields, spears, and helmets from the store room and arms
+    himself, the swineherd, and the stockman near Ulysses.
+  category: action
+  evidence_refs:
+  - ev:10
+- id: obs:11
+  text: Ulysses shoots suitors until his arrows run out, then sets aside the bow and
+    arms himself with shield, helmet, and two bronze-shod spears.
+  category: sequence
+  evidence_refs:
+  - ev:11
+figures:
+- id: fig:1
+  name_or_label: Ulysses
+  description: The returned householder who removes his rags, uses the bow and arrows
+    against the suitors, rejects compensation, and arms himself for battle.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+  - ev:11
+- id: fig:2
+  name_or_label: Antinous
+  description: A leading suitor killed by Ulysses while holding a gold cup of wine.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:3
+  name_or_label: the suitors
+  description: The men in Ulysses' house who are accused of consuming his goods, abusing
+    servants, wooing his wife, and fearing neither god nor man.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Eurymachus
+  description: A suitor who speaks after Antinous' death, offers compensation, then
+    urges the suitors to fight before being killed by Ulysses.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:5
+  - ev:7
+  - ev:8
+- id: fig:5
+  name_or_label: Telemachus
+  description: Ulysses' son, who kills Amphinomus from behind and brings armor from
+    the store room.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: fig:6
+  name_or_label: Amphinomus
+  description: A suitor who draws his sword and attacks Ulysses at the door before
+    Telemachus kills him.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:9
+- id: fig:7
+  name_or_label: the swineherd
+  description: A loyal servant who arms himself and takes position near Ulysses.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:10
+- id: fig:8
+  name_or_label: the stockman
+  description: A loyal servant who arms himself and takes position near Ulysses.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:10
+roles:
+- id: role:1
+  label: returning avenger
+  assigned_to:
+  - fig:1
+  basis: Ulysses declares that he has returned from Troy and that the suitors will
+    die for their conduct in his house.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:2
+  label: armed householder
+  assigned_to:
+  - fig:1
+  basis: Ulysses defends the doorway and later arms himself with shield, helmet, and
+    spears.
+  evidence_refs:
+  - ev:11
+- id: role:3
+  label: offending suitor
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:6
+  basis: The suitors are accused of wasting Ulysses' property, abusing servants, and
+    wooing his wife while he was alive.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: spokesman for negotiation and resistance
+  assigned_to:
+  - fig:4
+  basis: Eurymachus offers compensation and later calls on the suitors to fight Ulysses.
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: role:5
+  label: son and helper
+  assigned_to:
+  - fig:5
+  basis: Telemachus stands by his father, kills Amphinomus, and fetches armor at Ulysses'
+    command.
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: role:6
+  label: loyal armed ally
+  assigned_to:
+  - fig:5
+  - fig:7
+  - fig:8
+  basis: Telemachus, the swineherd, and the stockman arm themselves and take positions
+    near Ulysses.
+  evidence_refs:
+  - ev:10
+symbols:
+- id: sym:1
+  label: bow and arrows
+  literal_form: Ulysses' bow, quiver, and arrows
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:11
+- id: sym:2
+  label: gold cup
+  literal_form: two-handled gold cup held by Antinous for wine
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: tables as shields
+  literal_form: tables proposed by Eurymachus as protection against arrows
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:4
+  label: armor
+  literal_form: shields, spears, brass helmets with horse-hair plumes, and bronze-shod
+    spears
+  associated_figures:
+  - fig:1
+  - fig:5
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+  - ev:11
+- id: sym:5
+  label: doorway
+  literal_form: the pavement and doorway where Ulysses stands and from which the suitors
+    seek to drive him
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:9
+  - ev:11
+scenes:
+- id: scene:1
+  label: Ulysses casts off disguise and opens the slaughter
+  summary: Ulysses removes his rags, takes his bow and arrows, invokes whether Apollo
+    will grant the next shot, and kills Antinous as Antinous holds a cup.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Accusation and failed compensation
+  summary: After the suitors protest, Ulysses accuses them of offenses against his
+    household. Eurymachus blames Antinous and offers restitution, but Ulysses refuses
+    to stop the killing.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:3
+  label: Suitors attempt armed resistance
+  summary: Eurymachus urges the suitors to shield themselves with tables and rush
+    Ulysses, but Ulysses kills him with an arrow, and Telemachus kills Amphinomus
+    as he attacks the door.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+- id: scene:4
+  label: Allies arm beside Ulysses
+  summary: Telemachus retrieves armor from the store room; he, the swineherd, and
+    the stockman arm themselves beside Ulysses, who later takes up shield, helmet,
+    and spears when his arrows are spent.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:10
+  - ev:11
+candidate_motifs:
+- id: motif:1
+  label: returning ruler punishes household usurpers
+  taxonomy_refs:
+  - return
+  - royal_legitimacy
+  basis: Ulysses explicitly identifies himself as returned from Troy and condemns
+    the suitors for occupying his household, wooing his wife, wasting his goods, and
+    plotting against his son and local authority.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage presents the violent punishment directly; broader royal-legitimacy
+    interpretation rests on Eurymachus' claim that Antinous wanted to be chief man
+    in Ithaca.
+- id: motif:2
+  label: disguised hero reveals himself through decisive weapon use
+  taxonomy_refs:
+  - return
+  basis: Ulysses tears off his rags, stands with his bow and arrows, and begins killing
+    the suitors after the contest has ended.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The prior disguise and bow contest are only partly visible in the supplied
+    passage.
+- id: motif:3
+  label: rejected restitution before vengeance
+  taxonomy_refs:
+  - divine_judgment
+  basis: Eurymachus offers material compensation, but Ulysses rejects it and declares
+    he will continue until all have paid in full.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: 'The divine-judgment taxonomy reference is cautious: the passage mentions
+    fear of God and man and Apollo, but the killings are carried out by Ulysses rather
+    than an explicit divine sentence.'
+- id: motif:4
+  label: father and son join in armed restoration of household
+  taxonomy_refs:
+  - divine_parent_child
+  - return
+  basis: Telemachus kills an attacker, stands at his father's side, fetches armor,
+    and arms himself and the loyal servants near Ulysses.
+  evidence_refs:
+  - ev:9
+  - ev:10
+  confidence: medium
+  cautions: The available taxonomy has divine_parent_child, but this father-son pair
+    is human in the passage; the reference is therefore uncertain and should be reviewed.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 9599-9605
+  quote_or_summary: Ulysses tears off his rags, takes his bow and quiver, lays arrows
+    at his feet, and says the contest is ended before aiming at another mark.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source; summary used.
+- id: ev:2
+  type: summary
+  locator: lines 9607-9616
+  quote_or_summary: Ulysses shoots Antinous in the throat while Antinous holds a two-handled
+    gold cup for wine; Antinous falls and blood flows.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source; summary used.
+- id: ev:3
+  type: summary
+  locator: lines 9616-9626
+  quote_or_summary: The suitors rise in confusion, see no weapons on the walls, rebuke
+    Ulysses as a stranger, and think Antinous was killed by mistake.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source; summary used.
+- id: ev:4
+  type: summary
+  locator: lines 9629-9637
+  quote_or_summary: Ulysses tells the suitors they thought he would not return from
+    Troy, accuses them of wasting his goods, abusing women servants, wooing his wife,
+    and fearing neither God nor man, and says they shall die.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source; summary used.
+- id: ev:5
+  type: summary
+  locator: lines 9638-9654
+  quote_or_summary: Eurymachus addresses Ulysses, says Antinous led the wrongs, claims
+    Antinous wanted to kill Telemachus and rule Ithaca, and offers fines in oxen,
+    gold, and bronze.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source; summary used.
+- id: ev:6
+  type: summary
+  locator: lines 9656-9660
+  quote_or_summary: Ulysses refuses any present or future goods and says he will not
+    stay his hand until all the suitors are paid in full; they must fight or try to
+    flee.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source; summary used.
+- id: ev:7
+  type: summary
+  locator: lines 9662-9671
+  quote_or_summary: Eurymachus tells the suitors Ulysses will give no quarter and
+    urges them to draw swords, hold tables against arrows, rush him, and reach the
+    town to raise an alarm.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source; summary used.
+- id: ev:8
+  type: summary
+  locator: lines 9673-9679
+  quote_or_summary: Eurymachus draws a bronze blade and springs at Ulysses, but Ulysses
+    shoots him in the breast; he falls over the table and dies.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source; summary used.
+- id: ev:9
+  type: summary
+  locator: lines 9681-9689
+  quote_or_summary: Amphinomus attacks Ulysses at the door, and Telemachus strikes
+    him from behind with a spear before returning to his father's side.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source; summary used.
+- id: ev:10
+  type: summary
+  locator: lines 9690-9701
+  quote_or_summary: Telemachus asks to bring armor, fetches four shields, eight spears,
+    and four brass helmets, and arms himself, the swineherd, and the stockman near
+    Ulysses.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source; summary used.
+- id: ev:11
+  type: summary
+  locator: lines 9701-9707
+  quote_or_summary: Ulysses shoots suitors while his arrows last; when they run out,
+    he sets the bow by the door post and takes a shield, helmet, and two bronze-shod
+    spears.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source; summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is based directly on the supplied passage. Motif labels
+    are candidate interpretations and require review, especially taxonomy mappings
+    where available labels are broad.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the supplied passage does not itself make a comparative claim to another text, tradition, or motif family beyond internal patterns.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-odyssey-butler-gutenberg__l9599-l9707
+  passage_sha256=5c99b465db885e871789a2fb087ee2421dd2c3fe7813cf730992e296c5747c88
+

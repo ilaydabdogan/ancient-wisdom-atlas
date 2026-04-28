@@ -1,0 +1,268 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l546-l580
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE STAG AND THE VINE / THE LAMB CHASED BY A WOLF / THE ARCHER AND THE LION
+    / THE WOLF AND THE GOAT; lines 546-580
+  start: '546'
+  end: '580'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage is a sequence of fable title headings. The locator highlights
+    four headings: a stag and a vine; a lamb chased by a wolf; an archer and a lion;
+    and a wolf and a goat.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage consists of fable title headings rather than narrative prose.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: One highlighted title names a stag and a vine.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: One highlighted title states that a lamb is chased by a wolf.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: One highlighted title names an archer and a lion.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: One highlighted title names a wolf and a goat.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Another title in the supplied passage names travellers and a plane-tree.
+  category: relationship
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Stag
+  description: Animal named in the title 'The Stag and the Vine.'
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Lamb
+  description: Animal described in the title as being chased by a wolf.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Wolf in 'The Lamb Chased by a Wolf'
+  description: Animal described in the title as chasing the lamb.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Archer
+  description: Human figure named in the title 'The Archer and the Lion.'
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Lion
+  description: Animal named in the title 'The Archer and the Lion.'
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Wolf in 'The Wolf and the Goat'
+  description: Animal named in the title 'The Wolf and the Goat.'
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: Goat
+  description: Animal named in the title 'The Wolf and the Goat.'
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: named title participant
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  basis: The figure is named in one of the title headings.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:2
+  label: chased figure
+  assigned_to:
+  - fig:2
+  basis: The title explicitly says the lamb is chased.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: chaser
+  assigned_to:
+  - fig:3
+  basis: The title explicitly says the lamb is chased by a wolf.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: occupational human figure
+  assigned_to:
+  - fig:4
+  basis: The title identifies the human figure as an archer.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: vine
+  literal_form: vine
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: plane-tree
+  literal_form: plane-tree
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Sequence of fable headings
+  summary: The supplied lines list multiple fable titles, including the four highlighted
+    titles about a stag and vine, a lamb and wolf, an archer and lion, and a wolf
+    and goat.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:2
+  label: Lamb chased by wolf
+  summary: A title presents a lamb as being chased by a wolf.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: predator pursuit of vulnerable animal
+  taxonomy_refs: []
+  basis: The title explicitly presents a wolf chasing a lamb.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: Only the title is supplied; no narrative details or moral are present
+    in the passage.
+- id: motif:2
+  label: armed human paired with dangerous animal
+  taxonomy_refs: []
+  basis: The title pairs an archer with a lion.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: The passage gives only the title and does not state an action or outcome.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 546-580
+  quote_or_summary: The passage is a list of fable title headings, including titles
+    such as 'The Stag and the Vine,' 'The Lamb Chased by a Wolf,' 'The Archer and
+    the Lion,' and 'The Wolf and the Goat.'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short title summary used.
+- id: ev:2
+  type: quote
+  locator: lines 546-580, title heading
+  quote_or_summary: THE STAG AND THE VINE
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short title quoted.
+- id: ev:3
+  type: quote
+  locator: lines 546-580, title heading
+  quote_or_summary: THE LAMB CHASED BY A WOLF
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short title quoted.
+- id: ev:4
+  type: quote
+  locator: lines 546-580, title heading
+  quote_or_summary: THE ARCHER AND THE LION
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short title quoted.
+- id: ev:5
+  type: quote
+  locator: lines 546-580, title heading
+  quote_or_summary: THE WOLF AND THE GOAT
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short title quoted.
+- id: ev:6
+  type: quote
+  locator: lines 546-580, title heading
+  quote_or_summary: THE TRAVELLERS AND THE PLANE-TREE
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short title quoted.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: The extraction is limited because the supplied passage contains title headings
+    only, not the fable narratives. Literal figures and title-level actions are clear,
+    but motif identification is necessarily tentative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not support historical or cross-traditional comparison.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l546-l580
+  passage_sha256=484d51425d44d00fee131b08ace3f88ee415d6f4a050e734d4e9369e9a3f03f0
+

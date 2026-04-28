@@ -6,12 +6,12 @@
 
 - Generated on: 2026-04-28
 - Canonical texts checked: 58
-- Texts with extraction records: 34
-- Texts without extraction records: 24
-- Texts needing full extraction: 58
-- Texts needing review or normalization: 34
-- Extraction records counted: 114
-- Candidate motifs counted: 290
+- Texts with extraction records: 39
+- Texts without extraction records: 19
+- Texts needing full extraction: 53
+- Texts needing review or normalization: 39
+- Extraction records counted: 714
+- Candidate motifs counted: 2760
 
 ## Status Logic
 
@@ -32,13 +32,8 @@ The target is intentionally rough: about one extraction record per 4,000 words, 
 | `no_extractions` | 0 | 3 | 0 | buddhist | [Jataka tales](../texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md) |
 | `no_extractions` | 0 | 4 | 0 | buddhist | [More Jataka Tales](../texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md) |
 | `no_extractions` | 0 | 6 | 0 | buddhist | [The Giant Crab, and Other Tales from Old India](../texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md) |
-| `no_extractions` | 0 | 33 | 0 | comparative | [The Golden Bough: A Study in Comparative Religion (Vol. 1 of 2)](../texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md) |
-| `no_extractions` | 0 | 37 | 0 | comparative | [The Golden Bough: A Study in Comparative Religion (Vol. 2 of 2)](../texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md) |
-| `no_extractions` | 0 | 11 | 0 | greek | [Aesop's Fables; a new translation](../texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md) |
 | `no_extractions` | 0 | 10 | 0 | greek | [Phaedrus](../texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md) |
 | `no_extractions` | 0 | 9 | 0 | greek | [Symposium](../texts/public-domain/greek/project-gutenberg/symposium-jowett.md) |
-| `no_extractions` | 0 | 33 | 0 | greek | [The Odyssey](../texts/public-domain/greek/project-gutenberg/odyssey-butler.md) |
-| `no_extractions` | 0 | 40 | 0 | greek | [The Republic](../texts/public-domain/greek/project-gutenberg/republic-jowett.md) |
 | `no_extractions` | 0 | 27 | 0 | greek_roman | [Myths and Legends of Ancient Greece and Rome](../texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md) |
 | `no_extractions` | 0 | 18 | 0 | japanese | [Japanese Fairy Tales](../texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md) |
 | `no_extractions` | 0 | 26 | 0 | norse | [Myths of the Norsemen: From the Eddas and Sagas](../texts/public-domain/norse/project-gutenberg/myths-of-the-norsemen-guerber.md) |
@@ -62,8 +57,8 @@ The target is intentionally rough: about one extraction record per 4,000 words, 
 | `thin` | 2 | 13 | 6 | hindu | [Maha-bharata](../texts/public-domain/hindu/project-gutenberg/mahabharata-dutt.md) |
 | `thin` | 4 | 40 | 13 | hindu | [The Ramayan of Valmiki](../texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md) |
 | `thin` | 2 | 9 | 4 | indigenous_australian | [Australian Legendary Tales: folk-lore of the Noongahburrahs as told to the Piccaninnies](../texts/public-domain/indigenous-australian/project-gutenberg/australian-legendary-tales-parker.md) |
-| `thin` | 2 | 40 | 8 | islamic | [The Koran (Al-Qur'an)](../texts/public-domain/islamic/project-gutenberg/koran-sale.md) |
 | `thin` | 2 | 40 | 6 | islamic | [The Koran (Al-Qur'an)](../texts/public-domain/islamic/project-gutenberg/koran-rodwell.md) |
+| `thin` | 2 | 40 | 8 | islamic | [The Koran (Al-Qur'an)](../texts/public-domain/islamic/project-gutenberg/koran-sale.md) |
 | `thin` | 2 | 28 | 6 | islamicate_folklore | [The Arabian Nights Entertainments](../texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md) |
 | `thin` | 1 | 15 | 2 | sufi | [Mystics and Saints of Islam](../texts/public-domain/sufi/project-gutenberg/mystics-and-saints-of-islam-field.md) |
 | `thin` | 1 | 4 | 2 | sufi | [The Confessions of Al Ghazzali](../texts/public-domain/sufi/project-gutenberg/confessions-al-ghazzali-field.md) |
@@ -74,6 +69,11 @@ The target is intentionally rough: about one extraction record per 4,000 words, 
 
 | Status | Needs Review | Generated | Motifs | Tradition | Text |
 | --- | ---: | ---: | ---: | --- | --- |
+| `dense_draft` | 197 | 197 | 519 | greek | [Aesop's Fables; a new translation](../texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md) |
+| `dense_draft` | 167 | 167 | 895 | comparative | [The Golden Bough: A Study in Comparative Religion (Vol. 2 of 2)](../texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md) |
+| `dense_draft` | 139 | 139 | 603 | greek | [The Republic](../texts/public-domain/greek/project-gutenberg/republic-jowett.md) |
+| `dense_draft` | 61 | 61 | 315 | greek | [The Odyssey](../texts/public-domain/greek/project-gutenberg/odyssey-butler.md) |
+| `dense_draft` | 36 | 36 | 138 | comparative | [The Golden Bough: A Study in Comparative Religion (Vol. 1 of 2)](../texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md) |
 | `developing` | 23 | 21 | 34 | norse | [The Poetic Edda](../texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md) |
 | `developing` | 13 | 11 | 28 | persian | [Persian Literature, Volume 1](../texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md) |
 | `developing` | 5 | 0 | 15 | jewish_christian | [Deuteronomy](../texts/public-domain/biblical/world-english-bible-classic/deuteronomy.md) |
@@ -146,13 +146,8 @@ ruby scripts/batch_prepare_motif_requests.rb \
 | high | `no extractions` | 0 | 3 | 0 | buddhist | [Jataka tales](../texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md) |
 | high | `no extractions` | 0 | 4 | 0 | buddhist | [More Jataka Tales](../texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md) |
 | high | `no extractions` | 0 | 6 | 0 | buddhist | [The Giant Crab, and Other Tales from Old India](../texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md) |
-| high | `no extractions` | 0 | 33 | 0 | comparative | [The Golden Bough: A Study in Comparative Religion (Vol. 1 of 2)](../texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md) |
-| high | `no extractions` | 0 | 37 | 0 | comparative | [The Golden Bough: A Study in Comparative Religion (Vol. 2 of 2)](../texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md) |
-| high | `no extractions` | 0 | 11 | 0 | greek | [Aesop's Fables; a new translation](../texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md) |
 | high | `no extractions` | 0 | 10 | 0 | greek | [Phaedrus](../texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md) |
 | high | `no extractions` | 0 | 9 | 0 | greek | [Symposium](../texts/public-domain/greek/project-gutenberg/symposium-jowett.md) |
-| high | `no extractions` | 0 | 33 | 0 | greek | [The Odyssey](../texts/public-domain/greek/project-gutenberg/odyssey-butler.md) |
-| high | `no extractions` | 0 | 40 | 0 | greek | [The Republic](../texts/public-domain/greek/project-gutenberg/republic-jowett.md) |
 | high | `no extractions` | 0 | 27 | 0 | greek_roman | [Myths and Legends of Ancient Greece and Rome](../texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md) |
 | high | `no extractions` | 0 | 18 | 0 | japanese | [Japanese Fairy Tales](../texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md) |
 | high | `no extractions` | 0 | 26 | 0 | norse | [Myths of the Norsemen: From the Eddas and Sagas](../texts/public-domain/norse/project-gutenberg/myths-of-the-norsemen-guerber.md) |
@@ -176,8 +171,8 @@ ruby scripts/batch_prepare_motif_requests.rb \
 | high | `thin` | 2 | 13 | 2 | hindu | [Maha-bharata](../texts/public-domain/hindu/project-gutenberg/mahabharata-dutt.md) |
 | high | `thin` | 4 | 40 | 4 | hindu | [The Ramayan of Valmiki](../texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md) |
 | high | `thin` | 2 | 9 | 2 | indigenous_australian | [Australian Legendary Tales: folk-lore of the Noongahburrahs as told to the Piccaninnies](../texts/public-domain/indigenous-australian/project-gutenberg/australian-legendary-tales-parker.md) |
-| high | `thin` | 2 | 40 | 2 | islamic | [The Koran (Al-Qur'an)](../texts/public-domain/islamic/project-gutenberg/koran-sale.md) |
 | high | `thin` | 2 | 40 | 2 | islamic | [The Koran (Al-Qur'an)](../texts/public-domain/islamic/project-gutenberg/koran-rodwell.md) |
+| high | `thin` | 2 | 40 | 2 | islamic | [The Koran (Al-Qur'an)](../texts/public-domain/islamic/project-gutenberg/koran-sale.md) |
 | high | `thin` | 2 | 28 | 2 | islamicate_folklore | [The Arabian Nights Entertainments](../texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md) |
 | high | `thin` | 1 | 15 | 1 | sufi | [Mystics and Saints of Islam](../texts/public-domain/sufi/project-gutenberg/mystics-and-saints-of-islam-field.md) |
 | high | `thin` | 1 | 4 | 1 | sufi | [The Confessions of Al Ghazzali](../texts/public-domain/sufi/project-gutenberg/confessions-al-ghazzali-field.md) |
@@ -199,3 +194,8 @@ ruby scripts/batch_prepare_motif_requests.rb \
 | medium | `developing` | 3 | 10 | 3 | mesopotamian | [An Old Babylonian Version of the Gilgamesh Epic](../texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md) |
 | medium | `developing` | 23 | 40 | 23 | norse | [The Poetic Edda](../texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md) |
 | medium | `developing` | 13 | 36 | 13 | persian | [Persian Literature, Volume 1](../texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md) |
+| medium | `dense draft` | 36 | 33 | 36 | comparative | [The Golden Bough: A Study in Comparative Religion (Vol. 1 of 2)](../texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md) |
+| medium | `dense draft` | 167 | 37 | 167 | comparative | [The Golden Bough: A Study in Comparative Religion (Vol. 2 of 2)](../texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md) |
+| medium | `dense draft` | 197 | 11 | 197 | greek | [Aesop's Fables; a new translation](../texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md) |
+| medium | `dense draft` | 61 | 33 | 61 | greek | [The Odyssey](../texts/public-domain/greek/project-gutenberg/odyssey-butler.md) |
+| medium | `dense draft` | 139 | 40 | 139 | greek | [The Republic](../texts/public-domain/greek/project-gutenberg/republic-jowett.md) |

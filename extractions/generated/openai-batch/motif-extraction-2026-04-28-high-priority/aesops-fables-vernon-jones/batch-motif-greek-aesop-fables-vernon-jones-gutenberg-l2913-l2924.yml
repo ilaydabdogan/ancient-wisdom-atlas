@@ -1,0 +1,272 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l2913-l2924
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE OLD HOUND / THE CLOWN AND THE COUNTRYMAN / THE LARK AND THE FARMER /
+    THE LION AND THE ASS; lines 2913-2924
+  start: '2913'
+  end: '2924'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A lion and an ass hunt together. At a cave containing wild goats, the lion
+    waits at the entrance while the ass goes inside and brays to drive the goats out.
+    The lion kills the goats as they emerge. Afterward the ass boasts of frightening
+    them, and the lion replies that the braying would have frightened him too if he
+    had not known it came from an ass.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A lion and an ass become hunting partners and go hunting together.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: They come to a cave containing a number of wild goats.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The lion stands at the mouth of the cave and waits for the goats to come out.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The ass goes inside the cave and brays loudly to frighten the goats into the
+    open.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The lion strikes down the goats one by one as they appear.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: When the cave is empty, the ass claims that he scared the goats well.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The lion says the ass’s braying would have made him run if he had not known
+    the speaker was an ass.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Lion
+  description: A lion who partners with the ass, waits at the cave mouth, kills the
+    goats as they emerge, and answers the ass’s boast.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:7
+- id: fig:2
+  name_or_label: Ass
+  description: An ass who partners with the lion, enters the cave, brays to frighten
+    the goats out, and boasts afterward.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+- id: fig:3
+  name_or_label: Wild goats
+  description: A number of wild goats inside the cave who are frightened out and struck
+    down by the lion.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: hunting partner
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The lion and ass set up as partners and hunt together.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: noise-maker / driver of prey
+  assigned_to:
+  - fig:2
+  basis: The ass goes inside the cave and brays to frighten the goats out.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: ambushing hunter
+  assigned_to:
+  - fig:1
+  basis: The lion waits at the cave mouth and strikes down the goats as they appear.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:4
+  label: hunted animals
+  assigned_to:
+  - fig:3
+  basis: The goats are in the cave, driven out, and killed by the lion.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: cave
+  literal_form: cave
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Partnership and arrival at the cave
+  summary: A lion and an ass go hunting together and reach a cave where wild goats
+    are located.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Driving prey from the cave
+  summary: The lion waits at the mouth of the cave while the ass enters and brays
+    to frighten the goats out.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Killing and boast
+  summary: The lion kills the goats as they emerge. After the cave is emptied, the
+    ass boasts of frightening them, and the lion gives an ironic reply.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: partnership of unequal animals in a hunt
+  taxonomy_refs: []
+  basis: The lion and ass act as partners, but the lion performs the killing while
+    the ass serves by making noise to drive prey out.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: No available motif-family taxonomy entry directly matches this fable pattern.
+- id: motif:2
+  label: boast answered by ironic correction
+  taxonomy_refs:
+  - wisdom
+  basis: After the ass boasts that he scared the goats well, the lion responds with
+    an ironic remark that depends on knowing the noise came from an ass.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The taxonomy reference to wisdom is broad; the passage is a fable with
+    an implied lesson, but no explicit moral is included in the supplied text.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 2913-2915
+  quote_or_summary: A lion and an ass become partners and go hunting together.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain; full text allowed.
+- id: ev:2
+  type: summary
+  locator: 2915-2917
+  quote_or_summary: They come to a cave containing a number of wild goats.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain; full text allowed.
+- id: ev:3
+  type: summary
+  locator: 2917-2918
+  quote_or_summary: The lion stands at the mouth of the cave and waits for the goats
+    to come out.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain; full text allowed.
+- id: ev:4
+  type: summary
+  locator: 2918-2920
+  quote_or_summary: The ass goes inside and brays loudly to frighten the goats into
+    the open.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain; full text allowed.
+- id: ev:5
+  type: summary
+  locator: 2920-2921
+  quote_or_summary: The lion strikes the goats down one by one as they appear.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain; full text allowed.
+- id: ev:6
+  type: quote
+  locator: 2921-2923
+  quote_or_summary: "“Well, I scared them pretty well, didn't I?”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain; full text allowed.
+- id: ev:7
+  type: summary
+  locator: 2923-2924
+  quote_or_summary: The lion says that, had he not known the speaker was an ass, he
+    would have turned and run himself.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain; full text allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The literal extraction is straightforward from the supplied English passage.
+    Motif classification is limited because the available taxonomy has no close specific
+    match for this fable’s comic hunting-and-boasting pattern.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only supplied passage and metadata; no external comparisons added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l2913-l2924
+  passage_sha256=2a3f7463cedcc67ae976b812479ab3da047cfa28bb99d556e4f22ba0fb97ae93
+

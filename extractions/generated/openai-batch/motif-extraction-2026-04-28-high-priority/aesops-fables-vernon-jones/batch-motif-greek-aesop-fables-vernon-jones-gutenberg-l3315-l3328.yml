@@ -1,0 +1,295 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l3315-l3328
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE FARMER AND THE STORK / THE CHARGER AND THE MILLER / THE GRASSHOPPER AND
+    THE OWL / THE GRASSHOPPER AND THE ANTS; lines 3315-3328
+  start: '3315'
+  end: '3328'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: In winter, Ants dry damp stored corn after rain. A starving Grasshopper
+    asks them for a few grains. The Ants ask what she did during the summer and why
+    she did not store food. She says she was busy singing. The Ants tell her that
+    if she spent summer singing, she should spend winter dancing, then resume work.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The setting is a fine winter day after a long spell of rain, with stored corn
+    made damp.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Ants are drying their store of corn.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Grasshopper approaches and asks the Ants to spare a few grains because
+    she is starving.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Ants stop work briefly and ask what the Grasshopper did during the previous
+    summer and why she did not collect winter food.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Grasshopper replies that she was too busy singing to collect food.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The Ants answer that if she spent summer singing, she can spend winter dancing,
+    then they chuckle and return to work.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Ants
+  description: A group of Ants drying their stored corn in winter and responding to
+    the Grasshopper’s request.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: Grasshopper
+  description: A starving Grasshopper who asks for grains and says she spent the summer
+    singing.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:4
+roles:
+- id: role:1
+  label: food-storing workers
+  assigned_to:
+  - fig:1
+  basis: The Ants have a store of corn and continue working to dry it.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:2
+  label: hungry supplicant
+  assigned_to:
+  - fig:2
+  basis: The Grasshopper begs for a few grains and says she is starving.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: questioning responders
+  assigned_to:
+  - fig:1
+  basis: The Ants question the Grasshopper about her summer conduct and answer her
+    request with a rebuke.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:4
+  label: summer singer without stored food
+  assigned_to:
+  - fig:2
+  basis: The Grasshopper says she was too busy singing to store food for winter.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: winter
+  literal_form: winter season
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: sym:2
+  label: summer
+  literal_form: previous summer season
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: stored corn and grains
+  literal_form: corn store and a few grains of food
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: singing and dancing
+  literal_form: singing in summer and dancing in winter
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: Ants drying winter food stores
+  summary: On a winter day after rain, the Ants dry damp stored corn.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Grasshopper requests food
+  summary: The starving Grasshopper asks the Ants to spare a few grains.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Question about summer conduct
+  summary: The Ants ask what the Grasshopper did during the summer and why she did
+    not store food for winter.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Singing answer and dancing rebuke
+  summary: The Grasshopper says she was busy singing; the Ants reply that she should
+    spend winter dancing and then continue working.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:4
+  - sym:1
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: failure to prepare for seasonal scarcity
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage contrasts summer, when food could have been collected, with winter,
+    when the Grasshopper is starving and the Ants rely on stored corn.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The taxonomy reference is broad; the fable is about conduct across seasons
+    rather than a cosmological seasonal myth.
+- id: motif:2
+  label: industrious provision contrasted with improvident leisure
+  taxonomy_refs:
+  - wisdom
+  basis: The Ants work and store corn, while the Grasshopper explains that she spent
+    summer singing and is left without food in winter.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The wisdom classification is inferred from the fable’s practical contrast
+    and rebuke, not from an explicit stated moral in the provided passage.
+- id: motif:3
+  label: refusal or rebuke after a plea for food
+  taxonomy_refs: []
+  basis: The Grasshopper begs for grains, but the Ants respond by questioning her
+    past behavior and telling her to dance in winter after singing in summer.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The passage implies denial through the rebuke and return to work, but
+    does not explicitly state that no grains were given.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 3315-3318
+  quote_or_summary: On a fine winter day after a long rainy spell, Ants dry their
+    damp store of corn.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 3318-3320
+  quote_or_summary: A Grasshopper comes and asks for a few grains, saying she is starving.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 3320-3323
+  quote_or_summary: The Ants briefly stop work and ask what she did all summer and
+    why she did not collect winter food.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: 3323-3325
+  quote_or_summary: "“I was so busy singing that I hadn't the time.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation.
+- id: ev:5
+  type: summary
+  locator: 3325-3328
+  quote_or_summary: The Ants say that if she spent summer singing, she should spend
+    winter dancing; they chuckle and resume work.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is short and clear. Motif labels are candidate analytical summaries
+    based only on the provided text and available taxonomy refs. No comparison claims
+    were added because the passage itself does not make a cross-textual comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage text was used; although the locator label names multiple fables, extraction is limited to “THE GRASSHOPPER AND THE ANTS.”
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l3315-l3328
+  passage_sha256=0debdda04f6cc89cca9fab6164086d13b066f5b71d07d80dd2b3a9ee642e4118
+

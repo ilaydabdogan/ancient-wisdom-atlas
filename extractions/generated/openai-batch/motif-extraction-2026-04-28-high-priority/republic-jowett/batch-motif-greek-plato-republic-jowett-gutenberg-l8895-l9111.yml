@@ -1,0 +1,447 @@
+---
+record_id: batch.motif.greek-plato-republic-jowett-gutenberg-l8895-l9111
+source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+passage_locator:
+  label: INTRODUCTION AND ANALYSIS. / THE REPUBLIC. / PERSONS OF THE DIALOGUE. / BOOK
+    I.; lines 8895-9111
+  start: '8895'
+  end: '9111'
+  translation: The Republic
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: justice is the giving to each man what is proper to him
+  summary: Socrates questions Polemarchus about Simonides' definition of justice as
+    giving each person what is owed or proper. Through analogies with medicine, piloting,
+    farming, crafts, games, money deposits, and warfare, Socrates tests whether justice
+    means benefiting friends and harming enemies. He develops a reductio in which
+    a good keeper becomes a good thief, invokes Homer on Autolycus as excellent in
+    theft and perjury, and then challenges whether friends and enemies are known truly
+    or only by appearance.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A proposed definition says justice gives each person what is proper to him
+    and calls this a debt.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Polemarchus accepts the formulation that justice gives good to friends and
+    evil to enemies.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Socrates compares justice with specialized arts such as medicine, piloting,
+    husbandry, shoemaking, building, music, and military skill.
+  category: sequence
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:4
+  text: The dialogue argues that justice appears useful for keeping money or objects
+    safe when they are not being used.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Socrates infers from examples that the person best at guarding or keeping
+    a thing may also be best at stealing it.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Homer is cited as saying that Autolycus excelled above all men in theft and
+    perjury.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Polemarchus denies that justice is an art of theft, although Socrates presents
+    that as an implication of the argument.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The discussion distinguishes apparent friends and enemies from those who are
+    truly good or evil.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Polemarchus rejects as immoral the conclusion that it is just to injure those
+    who do no wrong.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Socrates
+  description: Speaker who questions the proposed definitions of justice and develops
+    the analogies and inferences.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Polemarchus
+  description: Interlocutor addressed by Socrates who answers questions and revises
+    or resists conclusions about justice.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: Simonides
+  description: Poet whose statement about justice as giving what is owed or proper
+    is interpreted and examined.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:4
+  name_or_label: Homer
+  description: Poet cited by Socrates in connection with Autolycus and with an inferred
+    account of justice as theft.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: Autolycus
+  description: Maternal grandfather of Odysseus, cited as excellent above all men
+    in theft and perjury.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Odysseus
+  description: Named as the grandson of Autolycus.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: dialectical questioner
+  assigned_to:
+  - fig:1
+  basis: Socrates repeatedly asks questions, tests definitions, and draws inferences
+    from the answers.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+- id: role:2
+  label: interlocutor defending and revising a definition
+  assigned_to:
+  - fig:2
+  basis: Polemarchus answers Socrates, accepts some inferences, denies the theft conclusion,
+    and prefers a revised formulation.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+- id: role:3
+  label: poetic authority cited in argument
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: Simonides and Homer are cited as poets whose statements are brought into
+    the argument about justice.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: role:4
+  label: exemplar of theft and perjury
+  assigned_to:
+  - fig:5
+  basis: Autolycus is described through the Homeric citation as excelling in theft
+    and perjury.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: kinship reference
+  assigned_to:
+  - fig:6
+  basis: Odysseus is mentioned only as the grandson of Autolycus.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: deposit of gold
+  literal_form: gold or money deposited for safekeeping
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: debt
+  literal_form: what is owed or due to another person
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: pruning-hook
+  literal_form: tool kept safely or used by a vine-dresser
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: shield
+  literal_form: object kept safely or used by a soldier
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: lyre
+  literal_form: object kept safely or used by a musician
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: theft and perjury
+  literal_form: acts attributed to Autolycus in the Homeric citation
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Interpreting Simonides on justice
+  summary: Socrates and Polemarchus interpret Simonides as meaning that justice gives
+    each person what is proper or owed, including good to friends and evil to enemies.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Testing justice by comparison with crafts
+  summary: Socrates tests when justice is useful by comparing it to arts with specific
+    functions, including medicine, piloting, warfare, husbandry, shoemaking, building,
+    music, and money partnership.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Keeper becomes thief
+  summary: Socrates argues from examples of skill in guarding, fighting, disease,
+    and military movement that a good keeper is also a good thief, applying this to
+    the just person who keeps money.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:6
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Homeric example of Autolycus
+  summary: Socrates cites Homer on Autolycus, the maternal grandfather of Odysseus,
+    as excellent in theft and perjury, and links the citation to the argument about
+    justice.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:5
+  label: Revising friends and enemies
+  summary: Socrates questions whether friends and enemies are so in reality or only
+    in appearance, leading Polemarchus to reject harming those who do no wrong and
+    to prefer doing good to the just and harm to the unjust.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: giving each person what is due
+  taxonomy_refs: []
+  basis: The passage states that justice is interpreted as giving each person what
+    is proper to him and treating that as a debt.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is a philosophical definition rather than a narrative mythic motif.
+- id: motif:2
+  label: benefit friends and harm enemies
+  taxonomy_refs: []
+  basis: Polemarchus accepts that justice gives good to friends and evil to enemies,
+    and the phrase recurs in Socrates' summary.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: high
+  cautions: The passage immediately subjects the formula to refutation and revision.
+- id: motif:3
+  label: guardian as thief
+  taxonomy_refs:
+  - trickster_boundary
+  basis: Socrates argues that the skill that makes someone a good keeper also makes
+    him a good thief, and applies this to the just man and to Homeric Autolycus.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The taxonomy link is cautious; the passage names theft and perjury but
+    does not explicitly frame Autolycus as a trickster or boundary figure.
+- id: motif:4
+  label: mistaken appearance of friend and enemy
+  taxonomy_refs: []
+  basis: The passage observes that people may err about good and evil, so apparent
+    friends and enemies may not be truly good or evil.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: This functions as an ethical argument in dialogue form rather than as
+    a mythic episode.
+comparison_claims:
+- id: claim:1
+  claim: Socrates explicitly aligns Polemarchus' inferred position with Homer and
+    Simonides as if all agreed that justice is an art of theft practiced for friends
+    and against enemies.
+  claim_level: same_motif
+  target: Homeric Autolycus citation and Simonides' maxim on giving what is due
+  evidence_refs:
+  - ev:4
+  - ev:5
+  counter_evidence_refs:
+  - ev:5
+  confidence: medium
+  limitations: The claim is part of Socrates' reductio; Polemarchus immediately denies
+    that he intended justice to be theft.
+- id: claim:2
+  claim: The passage uses a Homeric figure associated with theft and perjury to illuminate
+    a philosophical argument about the relation between guarding and stealing.
+  claim_level: same_function
+  target: Homeric Autolycus as an example in Socratic ethical argument
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage provides only a brief quotation and does not narrate an
+    Autolycus myth.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 8895-8918
+  quote_or_summary: Socrates discusses returning a deposit of gold, enemy debts, and
+    Simonides' dark saying that justice gives each person what is proper, termed a
+    debt.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; brief summary used.
+- id: ev:2
+  type: summary
+  locator: 8919-8957
+  quote_or_summary: By analogy with medicine, cookery, the physician, the pilot, war,
+    and alliances, Polemarchus accepts that justice gives good to friends and evil
+    to enemies.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; brief summary used.
+- id: ev:3
+  type: summary
+  locator: 8958-9015
+  quote_or_summary: The discussion tests justice in peace, contracts, partnerships,
+    money, deposits, pruning-hooks, shields, and lyres, concluding that justice seems
+    useful for keeping things unused.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; brief summary used.
+- id: ev:4
+  type: quote
+  locator: 9016-9049
+  quote_or_summary: 'Socrates infers that a good keeper is a good thief and cites
+    Homer on Autolycus: “excellent above all men in theft and perjury.”'
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:5
+  type: summary
+  locator: 9050-9059
+  quote_or_summary: Socrates says Polemarchus, Homer, and Simonides agree that justice
+    is an art of theft for helping friends and harming enemies; Polemarchus denies
+    this and says he no longer knows what he said.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; brief summary used.
+- id: ev:6
+  type: summary
+  locator: 9060-9111
+  quote_or_summary: Socrates asks whether friends and enemies are real or only apparent;
+    since people err about good and evil, Polemarchus rejects harming the innocent
+    and prefers doing good to the just and harm to the unjust.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; brief summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The dialogue content and named references are explicit. Motif classification
+    is cautious because the passage is philosophical argument with only a brief Homeric
+    mythic allusion.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata. No external taxonomy IDs beyond the provided available references were added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-plato-republic-jowett-gutenberg__l8895-l9111
+  passage_sha256=49b5d3205eb81b6cc6506428b09fbe24efae5f90c0ccf1e3f775d03926abcabf
+

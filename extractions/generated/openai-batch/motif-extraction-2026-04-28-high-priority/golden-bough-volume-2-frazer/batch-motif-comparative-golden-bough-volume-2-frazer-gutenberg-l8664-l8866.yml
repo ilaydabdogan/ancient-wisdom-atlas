@@ -1,0 +1,513 @@
+---
+record_id: batch.motif.comparative-golden-bough-volume-2-frazer-gutenberg-l8664-l8866
+source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+passage_locator:
+  label: 'The Golden Bough: A Study in Comparative Religion (Vol. 2 of 2) / CONTENTS
+    / NOTE. OFFERINGS OF FIRST-FRUITS. / INDEX.; lines 8664-8866'
+  start: '8664'
+  end: '8866'
+  translation: 'The Golden Bough: A Study in Comparative Religion (Vol. 2 of 2)'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is an alphabetical index segment from Frazer's comparative
+    study. It lists topics and cross-references concerning fire festivals, tree worship,
+    vegetation figures such as Adonis and Attis, animal worship, scapegoats, harvest
+    and first-fruit offerings, soul beliefs, rain-making, sacred or restricted kings,
+    and ritual practices in multiple cultures.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is an index listing topics, locations, figures, and referenced
+    page ranges, not a continuous mythic narrative.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The index includes fire-related customs such as fire festivals, Easter bonfires,
+    midsummer fires, and Ash Wednesday customs.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Adonis is indexed with myth and worship, a connection with vegetation, gardens,
+    rites similar to those of Osiris, a lament, and an identification or association
+    as a pig.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Attis is indexed with myth and festival, as a tree-spirit or corn-spirit,
+    with a probable slaying of his high priest in the character of the god, a relation
+    to Lityerses, and an association as a pig.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Animal worship is indexed with sacred animals carried in procession, animals
+    used as scapegoats, animals eaten to obtain their qualities, respect shown to
+    killed animals, belief in animal resurrection, and animals burnt as representatives
+    of vegetation spirit.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The index includes harvest and first-fruit practices, including the cutting
+    of the last sheaf, a priest sowing the first rice seed and plucking the first
+    ripe rice, and offerings of first-fruits.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The index lists soul-related beliefs and practices including soul-abstraction,
+    restoring the soul, reflection as soul, shadow beliefs, and external soul stories.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Several entries concern ritual rulers or priests, including weather kings,
+    priestly kings, kings responsible for general welfare, kings confined to palaces,
+    bodily restrictions, uncut priestly hair, and iron taboos.
+  category: relationship
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: Rain-making is indexed for multiple regions and peoples, including Abyssinia,
+    Apache Indians, Arcadia, heathen Arabs, and Australia.
+  category: action
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: Tree-related entries include trees planted at births, sacred groves, tree
+    worshippers, oak as a sacred tree, and Attis as a tree-spirit or corn-spirit.
+  category: object
+  evidence_refs:
+  - ev:10
+  - ev:4
+- id: obs:11
+  text: The index includes scapegoat practices, including animal scapegoats, scapegoats
+    in Albania and Athens, and beating the scapegoat in Arcadia.
+  category: action
+  evidence_refs:
+  - ev:5
+  - ev:11
+figures:
+- id: fig:1
+  name_or_label: Adonis
+  description: Indexed as a figure of myth and worship connected with vegetation,
+    gardens, lament, rites similar to Osiris, and an association as a pig.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: Osiris
+  description: Mentioned in the index as having rites similar to those of Adonis.
+  role_refs: []
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Attis
+  description: Indexed as a figure of myth and festival, described as a tree-spirit
+    or corn-spirit, connected with a slain high priest, related to Lityerses, and
+    associated as a pig.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Dionysus
+  description: Indexed in relation to an Argive tradition and the annual marriage
+    of the queen to Dionysus at Athens.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:12
+- id: fig:5
+  name_or_label: Ariadne
+  description: Indexed with a marriage entry.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:12
+- id: fig:6
+  name_or_label: Sacred animal
+  description: A collective index figure for animals treated as sacred, carried in
+    procession, used as scapegoats, eaten for qualities, respected after being killed,
+    believed to resurrect, or burnt as vegetation representatives.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: Ritual king or priest
+  description: A collective index figure for weather kings, priestly kings, confined
+    kings, welfare-responsible kings, and priests with ritual restrictions.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: vegetation-associated figure
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: Adonis is indexed with a connection to vegetation; Attis is indexed as a
+    tree-spirit or corn-spirit.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:2
+  label: slain divine representative
+  assigned_to:
+  - fig:3
+  basis: The index states the probability that the high priest of Attis was slain
+    in the character of the god.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: ritual marriage participant
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: The index lists Ariadne's marriage and the annual marriage of the queen to
+    Dionysus at Athens.
+  evidence_refs:
+  - ev:12
+- id: role:4
+  label: scapegoat or transferred-burden bearer
+  assigned_to:
+  - fig:6
+  basis: Animal worship entries include animals employed as scapegoats, and separate
+    entries list scapegoats in specific places.
+  evidence_refs:
+  - ev:5
+  - ev:11
+- id: role:5
+  label: sacramental or quality-bearing animal
+  assigned_to:
+  - fig:6
+  basis: The index states that animals were eaten to obtain their quality and describes
+    animal worship types and sacred-animal processions.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: sacral ruler or restricted ritual specialist
+  assigned_to:
+  - fig:7
+  basis: Entries list weather kings, priestly kings, kings responsible for welfare,
+    confined kings, kings with bodily requirements, priests with uncut hair, and iron
+    taboos for ritual officeholders.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: fire
+  literal_form: Fire festivals, Easter bonfires, midsummer fires, burning a poplar,
+    and Ash Wednesday fire-related customs.
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: tree
+  literal_form: Trees planted at births, sacred groves, tree worship, sacred oak,
+    and Attis as tree-spirit or corn-spirit.
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:10
+  - ev:4
+- id: sym:3
+  label: water or rain
+  literal_form: Rain-making entries and the drowning of the sacred Egyptian bull Apis.
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:9
+  - ev:13
+- id: sym:4
+  label: first-fruits and first grain
+  literal_form: First rice seed, first ripe rice, first-fruit offerings, harvest festivals,
+    and last-sheaf customs.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: external or separable soul
+  literal_form: Reflection as soul, shadow belief, soul-abstraction, soul-restoration,
+    and external soul stories.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: pig association
+  literal_form: Adonis and Attis each indexed as a pig.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: seasonal vegetation rite
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The index clusters vegetation figures, gardens, tree or corn spirits, harvest
+    customs, first-fruit offerings, and fire festivals.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:10
+  confidence: high
+  cautions: The passage is an index; details of the rites occur elsewhere in the source.
+- id: motif:2
+  label: dying or lamented vegetation figure
+  taxonomy_refs:
+  - dying_and_returning
+  - death_rebirth
+  basis: Adonis is indexed with a lament and vegetation connection; Attis is indexed
+    as a tree-spirit or corn-spirit with a probable slaying of his high priest in
+    the character of the god.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The index does not itself narrate death and return; it only points to
+    topics and page references.
+- id: motif:3
+  label: sacrifice and scapegoat transfer
+  taxonomy_refs:
+  - sacrifice
+  basis: Entries include sacrificial blood drunk before prophesying, the sacred bull
+    Apis drowned, the probable slaying of Attis's high priest, animals used as scapegoats,
+    and scapegoat practices in several places.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:11
+  - ev:13
+  - ev:14
+  confidence: high
+  cautions: The index groups many practices without giving full ritual sequences.
+- id: motif:4
+  label: sacred exchange through first-fruits
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The passage indexes offerings of first-fruits, harvest festivals, and ritual
+    handling of first rice seed and first ripe rice by a priest.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The recipient and ritual logic of exchange are not described in this index
+    passage.
+- id: motif:5
+  label: animal death, respect, and resurrection belief
+  taxonomy_refs:
+  - resurrection
+  - sacrifice
+  basis: Animal worship entries mention respect shown to killed animals, belief in
+    resurrection of animals, animal scapegoats, sacramental eating, and burning animals
+    as representatives of vegetation spirit.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage lists this as an indexed topic rather than as a single narrative
+    tradition.
+- id: motif:6
+  label: sacred marriage rite
+  taxonomy_refs:
+  - sacred_marriage
+  basis: The index refers to Ariadne's marriage and to the annual marriage of the
+    queen to Dionysus at Athens.
+  evidence_refs:
+  - ev:12
+  confidence: high
+  cautions: The passage does not describe the rite beyond the index entries.
+- id: motif:7
+  label: sacral kingship and ritual restriction
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The index lists weather kings, priestly kings, kings responsible for welfare,
+    confined kings, bodily restrictions for kings, and ritual taboos affecting officeholders.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: The available taxonomy term is broader than the exact index wording; the
+    passage emphasizes ritual status and restriction more than explicit legitimacy.
+comparison_claims:
+- id: claim:1
+  claim: The index explicitly states that the rites of Adonis are similar to those
+    of Osiris.
+  claim_level: same_function
+  target: Osiris rites
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage gives only an index entry and does not describe the specific
+    shared features.
+- id: claim:2
+  claim: The index explicitly marks a relation between Attis and Lityerses.
+  claim_level: same_function
+  target: Lityerses
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The nature of the relation is not stated in this passage.
+- id: claim:3
+  claim: The index places Adonis and Attis in parallel by listing each as associated
+    with a pig.
+  claim_level: visual_similarity
+  target: Adonis and Attis pig association
+  evidence_refs:
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage supplies only parallel index labels and does not explain
+    the meaning of the pig association.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8664-8866
+  quote_or_summary: Alphabetical index entries from Aachen through Australia list
+    topics, cultures, rites, figures, and page references.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source metadata; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 8664-8866; entries Aachen, Albania, Algeria, Altmark, Angoulême,
+    Ash Wednesday customs
+  quote_or_summary: The index lists a fire festival at Aachen, Easter Eve and Easter
+    bonfire customs, midsummer fires in Algeria, burning a poplar on St. Peter's Day,
+    and Ash Wednesday customs.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source metadata; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 8664-8866; entry Adonis
+  quote_or_summary: Adonis is indexed under myth and worship, connection with vegetation,
+    gardens, rites similar to Osiris, probable cult origin, lament, and as a pig.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source metadata; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 8664-8866; entry Attis
+  quote_or_summary: Attis is indexed under myth and festival, as a tree-spirit or
+    corn-spirit, probable slaying of his high priest in the character of the god,
+    probable cult origin, relation to Lityerses, and as a pig.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source metadata; concise summary used.
+- id: ev:5
+  type: summary
+  locator: lines 8664-8866; entry Animal worship
+  quote_or_summary: Animal worship entries include sacred animals in procession, animals
+    as scapegoats, animals eaten to obtain qualities, respect for killed animals,
+    belief in animal resurrection, and animals burnt as representatives of vegetation
+    spirit.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source metadata; concise summary used.
+- id: ev:6
+  type: summary
+  locator: lines 8664-8866; entries Aberdeenshire, Alfoers, Amboina, Ashantee
+  quote_or_summary: Harvest and first-fruit entries include the last sheaf, a priest
+    sowing first rice seed and plucking first ripe rice, first-fruit offerings in
+    Amboina, and a harvest festival in Ashantee.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source metadata; concise summary used.
+- id: ev:7
+  type: summary
+  locator: lines 8664-8866; entries Amboina, Alfoers, Andamanese, Arabia, Arabian
+    stories, Aru Islands, Annamites
+  quote_or_summary: Soul-related entries include soul abstraction, restoring the soul,
+    reflection as soul, shadow beliefs, external soul stories, and soul superstitions.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source metadata; concise summary used.
+- id: ev:8
+  type: summary
+  locator: lines 8664-8866; entries Africa, Aethiopian kings, Alfoers, Angoy, Antaymour
+    kings, Archon of Plataeae, Arval Brothers
+  quote_or_summary: Ruler and priest entries include weather kings, priestly kings,
+    reluctance to accept crowns, confined kings, kings responsible for welfare, bodily
+    restrictions, uncut priestly hair, and iron taboos.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source metadata; concise summary used.
+- id: ev:9
+  type: summary
+  locator: lines 8664-8866; entries Abyssinia, Apache Indians, Arcadia, Arabs, Australia
+  quote_or_summary: Rain-making is indexed for Abyssinia, Apache Indians, Arcadia,
+    heathen Arabs, and Australia.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source metadata; concise summary used.
+- id: ev:10
+  type: summary
+  locator: lines 8664-8866; entries Aargau, Arician Grove, Arval Brothers, Aryans
+  quote_or_summary: Tree-related entries include trees planted at births, sacred groves,
+    tree worship among Aryans, and the oak as sacred tree.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source metadata; concise summary used.
+- id: ev:11
+  type: summary
+  locator: lines 8664-8866; entries Albania, Arcadia, Athens, Animal worship
+  quote_or_summary: Scapegoat-related entries include scapegoat in Albania, scapegoats
+    in Athens, beating the scapegoat in Arcadia, and animals employed as scapegoats.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source metadata; concise summary used.
+- id: ev:12
+  type: summary
+  locator: lines 8664-8866; entries Ariadne, Athens, Argive tradition concerning Dionysus
+  quote_or_summary: The index lists Ariadne's marriage, the annual marriage of the
+    queen to Dionysus at Athens, and an Argive tradition concerning Dionysus.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source metadata; concise summary used.
+- id: ev:13
+  type: summary
+  locator: lines 8664-8866; entry Apis
+  quote_or_summary: Apis, the sacred Egyptian bull, is indexed as drowned.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source metadata; concise summary used.
+- id: ev:14
+  type: summary
+  locator: lines 8664-8866; entries Aegira, Apollo Diradiotes
+  quote_or_summary: Blood is indexed as drunk at Aegira before prophesying and as
+    the blood of a sacrificial lamb drunk in the temple of Apollo Diradiotes.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source metadata; concise summary used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is an index section. Literal topic extraction is fairly secure,
+    but motif reconstruction is limited because the indexed rituals and myths are
+    not narrated in this excerpt.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No taxonomy IDs beyond those supplied in the request were added. Empty scenes reflect the lack of continuous narrative scenes in the index passage.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:comparative-golden-bough-volume-2-frazer-gutenberg__l8664-l8866
+  passage_sha256=db23957943744f006ca93a5441ac995fa5a91473f341a6141d51efcb7fb2ae74
+

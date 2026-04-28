@@ -1,0 +1,242 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l3444-l3454
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE BELLY AND THE MEMBERS / THE BALD MAN AND THE FLY / THE ASS AND THE WOLF
+    / THE MONKEY AND THE CAMEL; lines 3444-3454
+  start: '3444'
+  end: '3454'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: At an assembly of beasts, the Monkey dances and receives applause. The
+    Camel, moved by envy and desire for the same approval, attempts to dance, appears
+    ridiculous, is mocked, and is driven away.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: All the beasts are gathered together.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Monkey gives a dancing exhibition and entertains the company.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Monkey receives great applause at the finish.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Camel is excited to envy by the Monkey’s applause and wants to win the
+    assembly’s favor by the same means.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The Camel rises and begins dancing.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The Camel’s dancing is described as ridiculous, grotesque, and ungainly.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The beasts ridicule the Camel and drive him away.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Monkey
+  description: An animal performer who dances at the gathering and entertains the
+    company.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Camel
+  description: An animal who envies the Monkey’s applause, tries to dance, is mocked,
+    and is driven away.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: beasts
+  description: The gathered company or assembly that applauds the Monkey and later
+    ridicules and expels the Camel.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+roles:
+- id: role:1
+  label: successful entertainer
+  assigned_to:
+  - fig:1
+  basis: The Monkey dances, entertains the company, and receives applause.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: envious imitator
+  assigned_to:
+  - fig:2
+  basis: The Camel envies the applause and attempts to gain favor by dancing in the
+    same way.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: audience and social judges
+  assigned_to:
+  - fig:3
+  basis: The beasts applaud the Monkey, then ridicule and drive away the Camel.
+  evidence_refs:
+  - ev:2
+  - ev:4
+symbols:
+- id: sym:1
+  label: dance exhibition
+  literal_form: public dancing before an assembly
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: applause
+  literal_form: great applause at the finish of the Monkey’s dance
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: ridicule and expulsion
+  literal_form: the beasts mock the Camel and drive him away
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Monkey’s successful performance
+  summary: At a gathering of beasts, the Monkey dances, entertains the company, and
+    receives great applause.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Camel’s failed imitation
+  summary: The Camel envies the applause, tries to dance for the same favor, appears
+    ridiculous, and is mocked and driven away by the beasts.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: envy leading to failed imitation
+  taxonomy_refs: []
+  basis: The Camel’s envy of the Monkey’s applause leads him to imitate the performance,
+    but the imitation results in ridicule and expulsion.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: No supplied taxonomy motif family directly matches this fable pattern.
+- id: motif:2
+  label: public approval and public humiliation
+  taxonomy_refs: []
+  basis: The same assembly that applauds one performer ridicules and drives away another
+    when the second performance fails.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: This is a social-action pattern in the passage rather than a named taxonomy
+    motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 3444-3447
+  quote_or_summary: "“At a gathering of all the beasts the Monkey gave an exhibition
+    of dancing and entertained the company vastly.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:2
+  type: summary
+  locator: 3447-3450
+  quote_or_summary: The Monkey receives great applause, which makes the Camel envious
+    and desirous of winning the assembly’s favor by the same means.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: 3450-3453
+  quote_or_summary: The Camel gets up, begins dancing, and is described as making
+    a ridiculous and grotesque display of his ungainly body.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: quote
+  locator: 3453-3454
+  quote_or_summary: "“the beasts all fell upon him with ridicule and drove him away.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The narrative actions and roles are explicit. Motif labels are descriptive
+    because no supplied taxonomy reference directly fits the passage. No comparison
+    claims are made because the passage itself gives no comparative framing.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Extraction uses only the supplied passage and metadata.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l3444-l3454
+  passage_sha256=fdb5a68ed0a7d107ac471df15ac71b8e865fff83f5bf2d7748434dc3d11c138e
+

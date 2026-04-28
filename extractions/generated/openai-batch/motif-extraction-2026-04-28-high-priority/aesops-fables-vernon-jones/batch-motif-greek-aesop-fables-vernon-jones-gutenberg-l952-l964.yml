@@ -1,0 +1,286 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l952-l964
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE HUNTER AND THE WOODMAN / THE HORSE AND THE ASS / THE FOX AND THE GRAPES
+    / THE GOOSE THAT LAID THE GOLDEN EGGS; lines 952-964
+  start: '952'
+  end: '964'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: Much wants more and loses all.
+  summary: A man and his wife own a goose that lays one golden egg each day. Wanting
+    wealth faster, they kill the goose because they imagine it contains gold inside,
+    but find it is an ordinary goose and lose both the imagined hoard and the daily
+    source of wealth.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A man and his wife possess a goose that lays a golden egg every day.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The man and wife think they are not becoming rich quickly enough.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: They imagine the goose is made of gold inside and decide to kill it to obtain
+    all the precious metal at once.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: When they cut the goose open, they find it is like any other goose.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: They do not become rich all at once and no longer receive the daily addition
+    to their wealth.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The stated moral says that wanting more can cause one to lose everything.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Man
+  description: One of the owners of the goose.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Wife
+  description: One of the owners of the goose.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:3
+  name_or_label: Goose
+  description: A goose that lays a golden egg every day; after being cut open, it
+    is found to be like any other goose.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:4
+roles:
+- id: role:1
+  label: possessors
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage says the man and his wife possess the goose.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: daily producer of wealth
+  assigned_to:
+  - fig:3
+  basis: The goose lays a golden egg every day.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: greedy destroyers of the source of gain
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: They want wealth faster and kill the goose to get the imagined gold inside.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: killed animal
+  assigned_to:
+  - fig:3
+  basis: The goose is cut open by its owners.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: golden egg
+  literal_form: A Golden Egg laid every day by the goose.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: goose
+  literal_form: A Goose possessed by the man and wife and killed after they imagine
+    it contains gold.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: precious metal inside the bird
+  literal_form: The imagined store of gold inside the goose.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Daily golden egg
+  summary: The man and his wife possess a goose that lays a golden egg each day.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Decision to kill the goose
+  summary: The owners decide to kill the goose because they want wealth faster and
+    imagine the bird contains gold inside.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Loss of the source of wealth
+  summary: After cutting the goose open, the owners find it is ordinary and lose both
+    the hoped-for immediate riches and the daily gain.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: greed destroys a continuing source of benefit
+  taxonomy_refs:
+  - wisdom
+  basis: The narrative and moral present a lesson in which the owners' desire for
+    more immediate wealth causes them to lose their ongoing daily gain.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The taxonomy reference is broad; the passage is a moral fable rather than
+    a mythic wisdom scene.
+- id: motif:2
+  label: killing the wealth-producing animal
+  taxonomy_refs: []
+  basis: The owners kill a goose that produces a golden egg each day because they
+    imagine it contains a store of gold, but the act ends the benefit.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: No supplied taxonomy family directly matches this fable motif.
+- id: motif:3
+  label: false inference about hidden treasure inside a living source
+  taxonomy_refs: []
+  basis: The owners infer that the goose must be made of gold inside and act on that
+    mistaken belief.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: This is a localized narrative pattern within the fable, not a named taxonomy
+    motif in the supplied list.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 952-955
+  quote_or_summary: "“A Man and his Wife had the good fortune to possess a Goose which
+    laid a Golden Egg every day.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:2
+  type: summary
+  locator: lines 955-957
+  quote_or_summary: The man and wife begin to think they are not getting rich fast
+    enough.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 957-960
+  quote_or_summary: They imagine the bird is made of gold inside and decide to kill
+    it to secure the whole store of precious metal at once.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 960-961
+  quote_or_summary: When they cut it open, they find it is just like any other goose.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 961-963
+  quote_or_summary: They neither become rich at once nor continue receiving the daily
+    addition to their wealth.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: quote
+  locator: line 964
+  quote_or_summary: "“Much wants more and loses all.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The fable’s literal sequence is clear. Motif labels are descriptive and need
+    review because the supplied taxonomy has no precise entry for the golden-egg goose
+    pattern.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the supplied passage itself does not establish a comparison with another motif family, text, or tradition.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l952-l964
+  passage_sha256=549eff8f8a05d54f74df2a741f9b28daca475c9732cfea67a7d6efe5e766bf58
+

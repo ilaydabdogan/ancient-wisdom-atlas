@@ -1,0 +1,283 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l2208-l2220
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE LION AND THE BOAR / THE WALNUT-TREE / THE MAN AND THE LION / THE TORTOISE
+    AND THE EAGLE; lines 2208-2220
+  start: '2208'
+  end: '2220'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A tortoise envies birds flying in the air and asks an eagle to teach him
+    to fly. The eagle warns that the tortoise lacks wings, but the tortoise persists
+    with pleas and promises of treasure. The eagle carries him high into the sky and
+    releases him; the tortoise falls and is shattered on a rock.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The tortoise is discontented with his lowly life and envies birds moving in
+    the air.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The tortoise asks an eagle to teach him to fly.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The eagle says the attempt is idle because the tortoise has not been provided
+    with wings by nature.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The tortoise continues pleading and promises treasure, claiming flight is
+    a learnable craft of the air.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The eagle picks up the tortoise in his talons and soars to a great height
+    in the sky.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The eagle lets the tortoise go; the tortoise falls headlong and is dashed
+    to pieces on a rock.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Tortoise
+  description: A tortoise dissatisfied with his lowly life, envious of birds, and
+    seeking to learn to fly.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: Eagle
+  description: An eagle who warns the tortoise against trying to fly, then carries
+    him high and releases him.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: birds
+  description: Birds seen by the tortoise disporting themselves in the air.
+  role_refs: []
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: discontented petitioner
+  assigned_to:
+  - fig:1
+  basis: The tortoise is described as discontented and begs the eagle to teach him
+    to fly.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: reluctant helper and carrier
+  assigned_to:
+  - fig:2
+  basis: The eagle protests against the request but eventually agrees and carries
+    the tortoise in his talons.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:3
+  label: overreaching non-flyer
+  assigned_to:
+  - fig:1
+  basis: The tortoise lacks wings but insists that flight can be learned and dies
+    after being released in the sky.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+symbols:
+- id: sym:1
+  label: air
+  literal_form: air
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: wings
+  literal_form: wings
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: sky height
+  literal_form: great height in the sky
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: rock
+  literal_form: rock
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Tortoise asks to learn flight
+  summary: The tortoise envies birds in the air and begs the eagle to teach him to
+    fly.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Eagle warns against impossible flight
+  summary: The eagle says the tortoise's attempt is futile because nature has not
+    given him wings, but the tortoise persists with pleas and promises of treasure.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Ascent and fall
+  summary: The eagle carries the tortoise high into the sky and releases him, causing
+    the tortoise to fall onto a rock and be broken apart.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: failed ascent by a wingless creature
+  taxonomy_refs:
+  - ascent
+  basis: The tortoise, lacking wings, seeks flight, is carried high into the sky,
+    and dies after being released.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage is a fable about animal conduct rather than a sacred or cosmological
+    ascent; the taxonomy match is functional and limited.
+- id: motif:2
+  label: destructive overreaching against nature
+  taxonomy_refs: []
+  basis: The tortoise ignores the eagle's warning that nature did not give him wings
+    and insists on learning flight, leading to his destruction.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: No supplied taxonomy family directly names this fable pattern.
+- id: motif:3
+  label: ignored warning followed by fatal consequence
+  taxonomy_refs:
+  - wisdom
+  basis: The eagle warns the tortoise that the attempt is futile, but the tortoise
+    persists and dies as a result.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The wisdom association is broad; the passage presents a practical warning
+    rather than an explicit wisdom figure or doctrine.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2208-2212
+  quote_or_summary: A tortoise, discontented with his lowly life and envious of birds
+    in the air, begs an eagle to teach him to fly.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 2212-2214
+  quote_or_summary: The eagle protests that the attempt is futile because nature has
+    not given the tortoise wings.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 2214-2217
+  quote_or_summary: The tortoise persists with entreaties and promises of treasure,
+    insisting that flight is only a craft to be learned.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 2217-2219
+  quote_or_summary: The eagle consents, picks up the tortoise in his talons, and soars
+    with him to a great height in the sky.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 2219-2220
+  quote_or_summary: The eagle lets the tortoise go; the tortoise falls headlong and
+    is dashed to pieces on a rock.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Passage action and figures are explicit. Motif taxonomy mapping is cautious
+    because available taxonomy families are broad and only partly aligned with the
+    fable's overreaching pattern. No comparison claims were made because the passage
+    itself does not support external comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage text was used; no details from adjacent fables in the locator label were extracted.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l2208-l2220
+  passage_sha256=ca772a5983a6e1637fd0935c403d8787f1d6bb54bb830d791a107dae2b18b453
+

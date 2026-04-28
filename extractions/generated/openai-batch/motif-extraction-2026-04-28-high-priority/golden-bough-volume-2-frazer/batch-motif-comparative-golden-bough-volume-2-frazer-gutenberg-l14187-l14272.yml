@@ -1,0 +1,342 @@
+---
+record_id: batch.motif.comparative-golden-bough-volume-2-frazer-gutenberg-l14187-l14272
+source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+passage_locator:
+  label: CONTENTS / NOTE. OFFERINGS OF FIRST-FRUITS. / INDEX. / FOOTNOTES; lines 14187-14272
+  start: '14187'
+  end: '14272'
+  translation: 'The Golden Bough: A Study in Comparative Religion (Vol. 2 of 2)'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage consists of scholarly footnotes. The substantive notes summarize
+    cited customs involving girls or brides being secluded at puberty or during tattooing,
+    with details such as wreaths, cages, separate huts, avoidance of the sun, and
+    head coverings or veils.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A cited New Ireland description says girls wear wreaths of scented herbs around
+    the waist and neck.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The same cited description says an old woman or a little child occupies the
+    lower floor of the cage.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The cited New Ireland confinement is said to last only a month in Powell's
+    account, while Brown's longer period is suggested to apply to chiefs' daughters.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Among the Goajiras of Colombia, rich people are said to keep daughters shut
+    up in separate huts at puberty for one to four years, while poor people do so
+    for only a fortnight or a month.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: In Fiji, brides being tattooed are said to have been kept from the sun.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The note lists caps, hoods, and veils as items worn by girls at such seasons
+    in other cited examples.
+  category: object
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: girls secluded at puberty
+  description: Girls described in cited customs as confined or shut up during puberty-related
+    observances.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: chiefs' daughters
+  description: Daughters of chiefs for whom a longer confinement period is suggested
+    in the note.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: old woman or little child
+  description: An old woman or little child said to occupy the lower floor of the
+    cage in one cited New Ireland description.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Goajira daughters
+  description: Daughters among the Goajiras of Colombia described as shut up in separate
+    huts at puberty for durations varying by wealth.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Fiji brides being tattooed
+  description: Brides in Fiji described as kept from the sun while being tattooed.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: secluded female initiate or participant
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  basis: The figures are described as girls or brides confined, shut up, or kept from
+    the sun during puberty or tattooing contexts.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: high-status daughter
+  assigned_to:
+  - fig:2
+  basis: The longer confinement period is suggested to have been prescribed for chiefs'
+    daughters.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: co-resident attendant or companion
+  assigned_to:
+  - fig:3
+  basis: The old woman or little child is described as occupying the lower floor of
+    the cage.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: wreaths of scented herbs
+  literal_form: wreaths worn around the waist and neck
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: cage
+  literal_form: cage with a lower floor occupied by an old woman or little child
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: separate huts
+  literal_form: huts in which daughters are shut up at puberty
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: sun avoidance
+  literal_form: being kept from the sun
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: head coverings and veils
+  literal_form: caps, hoods, and veils worn by girls at such seasons
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: New Ireland confinement description
+  summary: A cited description of a New Ireland custom says girls wear scented herb
+    wreaths, occupy a cage arrangement involving an old woman or child on the lower
+    floor, and undergo confinement for a stated period.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Goajira puberty seclusion
+  summary: Goajira daughters are described as shut up in separate huts at puberty,
+    with duration differing according to family wealth.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Fiji tattooing seclusion from the sun
+  summary: Fiji brides undergoing tattooing are described as kept from the sun; Frazer
+    notes this may have modified a Melanesian puberty-seclusion custom.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Girls wearing coverings at such seasons
+  summary: A comparative note points to cited examples of girls wearing caps, hoods,
+    and veils during similar seasonal or life-stage observances.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: puberty seclusion of girls
+  taxonomy_refs:
+  - initiation
+  basis: Several notes describe girls or daughters being confined, shut up in huts,
+    or otherwise secluded at puberty or related life-stage observances.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: The passage is a scholarly footnote compilation rather than a mythic narrative;
+    the motif is extracted as a ritual pattern.
+- id: motif:2
+  label: ritual protection from sun or public exposure
+  taxonomy_refs:
+  - initiation
+  basis: The Fiji note says brides being tattooed were kept from the sun and suggests
+    this may relate to the Melanesian custom of secluding girls at puberty.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The reason for sun avoidance is explicitly questioned by Frazer, and the
+    connection to puberty seclusion is presented as tentative.
+- id: motif:3
+  label: status-shaped duration of seclusion
+  taxonomy_refs:
+  - initiation
+  basis: The notes distinguish longer confinement for chiefs' daughters and for rich
+    Goajira families from shorter periods for poor families.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: This is a social-pattern observation from cited ethnographic notes, not
+    a narrative motif.
+comparison_claims:
+- id: claim:1
+  claim: Frazer treats Powell's New Ireland description as similar to the New Britain
+    custom cited from Brown and Danks.
+  claim_level: same_function
+  target: New Britain and New Ireland girls' confinement customs
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage gives only footnote-level details and does not reproduce
+    the full customs being compared.
+- id: claim:2
+  claim: Frazer cautiously suggests that Fiji brides being kept from the sun during
+    tattooing may be a modification of the Melanesian custom of secluding girls at
+    puberty.
+  claim_level: same_function
+  target: Melanesian puberty seclusion custom
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The statement is explicitly tentative, and the original reason for
+    the Fiji practice is said to be uncertain.
+- id: claim:3
+  claim: The Goajira example is presented as a parallel in which puberty seclusion
+    duration varies with wealth, comparable in form to the New Ireland distinction
+    between ordinary girls and chiefs' daughters.
+  claim_level: same_function
+  target: New Ireland and Goajira puberty seclusion duration by status or wealth
+  evidence_refs:
+  - ev:1
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage compares social duration patterns, not shared origin or
+    historical contact.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 14204-14218
+  quote_or_summary: 'Note 615 cites New Britain/New Ireland materials: girls wear
+    scented herb wreaths around waist and neck; an old woman or child occupies the
+    lower floor of the cage; confinement may last a month in Powell''s account, with
+    longer duration suggested for chiefs'' daughters.'
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 14218-14223
+  quote_or_summary: The same note says that among the Goajiras of Colombia, rich people
+    keep daughters shut up in separate huts at puberty for one to four years, while
+    poor people can do so only for a fortnight or a month.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 14223-14228
+  quote_or_summary: The note says Fiji brides being tattooed were kept from the sun
+    and adds that this was perhaps a modification of the Melanesian custom of secluding
+    girls at puberty; Frazer doubts that complexion improvement was the original reason.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 14245-14256
+  quote_or_summary: Note 620 gives references for caps, hoods, and veils worn by girls
+    at such seasons.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The extract is largely bibliographic footnotes. Motif and symbol extraction
+    relies on the substantive explanatory details within notes 615 and 620, not on
+    a continuous primary narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No claims of historical contact or common inheritance are made; comparison claims are limited to similarities or tentative functional relationships explicitly signaled in the passage.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:comparative-golden-bough-volume-2-frazer-gutenberg__l14187-l14272
+  passage_sha256=7dca84d816be5be3bf0daee1f9270d1ec3c4547e622f1747c7053f51f6b0fd4c
+

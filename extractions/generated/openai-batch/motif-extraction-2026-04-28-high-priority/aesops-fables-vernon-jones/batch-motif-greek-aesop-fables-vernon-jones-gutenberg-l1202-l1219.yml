@@ -1,0 +1,352 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l1202-l1219
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE OLD WOMAN AND THE DOCTOR / THE MOON AND HER MOTHER / MERCURY AND THE
+    WOODMAN / THE ASS, THE FOX, AND THE LION; lines 1202-1219
+  start: '1202'
+  end: '1219'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: Betray a friend, and you'll often find you have ruined yourself.
+  summary: An Ass and a Fox forage together, encounter a Lion, and the Fox bargains
+    to betray the Ass in exchange for his own freedom. The Fox leads the Ass into
+    a hunter's hidden pit, but the Lion kills the Fox first and then eats the trapped
+    Ass. The stated moral warns that betraying a friend may ruin the betrayer.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: An Ass and a Fox enter a partnership and go out together to forage for food.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Ass and the Fox see a Lion approaching and become frightened.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Fox privately offers the Lion a way to seize the Ass if the Lion promises
+    to let the Fox go free.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The Lion agrees to the Fox's proposal.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The Fox leads the Ass near a hidden pit made by a hunter as an animal trap,
+    and the Ass falls into it.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: After the Ass is trapped, the Lion kills the Fox first and then feasts on
+    the Ass.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The passage ends with a moral warning that betraying a friend may ruin the
+    betrayer.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Ass
+  description: A foraging companion of the Fox who is led into a hidden pit and later
+    eaten by the Lion.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Fox
+  description: A foraging companion of the Ass who bargains with the Lion, betrays
+    the Ass, and is killed by the Lion.
+  role_refs:
+  - role:1
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: Lion
+  description: A predator who accepts the Fox's offer, kills the Fox, and then eats
+    the Ass.
+  role_refs:
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+- id: fig:4
+  name_or_label: Hunter
+  description: An unnamed hunter who had dug the hidden pit as a trap for wild animals.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: foraging companion
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The Ass and Fox form a partnership and forage together.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: betrayer of companion
+  assigned_to:
+  - fig:2
+  basis: The Fox arranges for the Lion to get the Ass and leads the Ass into the trap.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:7
+- id: role:3
+  label: predator
+  assigned_to:
+  - fig:3
+  basis: The Lion threatens the pair and later kills the Fox and eats the Ass.
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: role:4
+  label: betrayed victim
+  assigned_to:
+  - fig:1
+  basis: The Ass is the companion whom the Fox offers to the Lion and leads into the
+    pit.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:5
+  label: participant in broken bargain
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The Fox bargains for freedom after delivering the Ass, but the Lion kills
+    the Fox first.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+- id: role:6
+  label: trap-maker
+  assigned_to:
+  - fig:4
+  basis: The hidden pit is described as having been dug by a hunter as a trap for
+    wild animals.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: hidden pit trap
+  literal_form: A hidden pit dug by a hunter as a trap for wild animals.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:2
+  label: whispered bargain
+  literal_form: The Fox whispers an offer into the Lion's ear.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Foraging partnership and fear of the Lion
+  summary: The Ass and Fox go out together for food and become frightened when they
+    see a Lion approaching.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Fox bargains with the Lion
+  summary: The Fox privately offers to secure the Ass for the Lion in exchange for
+    being allowed to go free, and the Lion agrees.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Ass led into the hidden pit
+  summary: The Fox rejoins the Ass and leads him by a hunter's hidden pit, into which
+    the Ass falls.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Lion kills the betrayer and eats the victim
+  summary: Once the Ass is trapped, the Lion kills the Fox first and then feeds on
+    the Ass.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: Moral of betrayal
+  summary: The passage states that betrayal of a friend can lead to the betrayer's
+    own ruin.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: betrayer destroyed by own treachery
+  taxonomy_refs: []
+  basis: The Fox betrays the Ass to save himself, but the Lion kills the Fox before
+    eating the Ass.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: This is a fable moral pattern rather than a specifically mythic motif
+    in the supplied taxonomy.
+- id: motif:2
+  label: false bargain with a stronger predator
+  taxonomy_refs: []
+  basis: The Fox secures the Lion's promise of freedom, but after the Ass is trapped
+    the Lion turns on the Fox.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  confidence: high
+  cautions: The passage does not explicitly describe the Lion as breaking an oath,
+    only as acting after agreeing to the Fox's proposal.
+- id: motif:3
+  label: companion lured into trap
+  taxonomy_refs: []
+  basis: The Fox rejoins the Ass and contrives to lead him by a hidden pit, where
+    the Ass falls in.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The trap is an existing hunter's pit rather than one created by the Fox.
+- id: motif:4
+  label: cunning animal trickster at a dangerous boundary
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The Fox uses cunning speech and manipulation at the moment of encounter with
+    the Lion and at the hidden pit, crossing from partnership to betrayal.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The taxonomy reference is approximate; the passage supports trickery and
+    boundary-like danger, but does not frame the Fox as a sacred or cosmic trickster.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1202-1205
+  quote_or_summary: An Ass and a Fox enter a partnership and go out together to forage
+    for food.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1204-1206
+  quote_or_summary: They see a Lion coming toward them and are both very frightened.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 1206-1209
+  quote_or_summary: 'The Fox whispers to the Lion: "I''ll manage that you shall get
+    hold of the Ass ... if you''ll promise to let me go free."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: summary
+  locator: line 1209
+  quote_or_summary: The Lion agrees to the Fox's offer.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 1209-1213
+  quote_or_summary: The Fox rejoins the Ass and leads him by a hidden pit dug by a
+    hunter as a trap for wild animals; the Ass falls into it.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 1213-1217
+  quote_or_summary: When the Ass is caught and unable to escape, the Lion turns first
+    to the Fox, kills him, and then feasts on the Ass.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: quote
+  locator: line 1219
+  quote_or_summary: '"Betray a friend, and you''ll often find you have ruined yourself."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward from the supplied fable. Motif labels
+    are candidate analytical summaries and should be reviewed, especially the approximate
+    taxonomy mapping to trickster_boundary. No comparison claims were made because
+    the passage itself does not support comparison to another text or tradition.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage text was used. Although the passage locator label names several adjacent fables, the provided passage text contains only 'THE ASS, THE FOX, AND THE LION'.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l1202-l1219
+  passage_sha256=5fd228e78e90293bf04705841ec4759733e4b83f4adbb11eba202ff630fc60e2
+

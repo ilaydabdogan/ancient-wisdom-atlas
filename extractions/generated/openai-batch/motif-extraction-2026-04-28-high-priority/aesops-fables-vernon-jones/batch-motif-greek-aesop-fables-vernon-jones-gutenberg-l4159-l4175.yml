@@ -1,0 +1,335 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l4159-l4175
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE FOX AND THE GRASSHOPPER / THE FARMER, HIS BOY, AND THE ROOKS / THE ASS
+    AND THE DOG / THE ASS CARRYING THE IMAGE; lines 4159-4175
+  start: '4159'
+  end: '4175'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A man places an Image on an Ass to take it to a town temple. People bow
+    out of reverence for the Image, but the Ass mistakes their reverence as honor
+    paid to himself. The Ass becomes conceited, refuses to proceed, and is beaten
+    by his driver, who rebukes him for imagining that people worship an ass. The moral
+    states that rude shocks await those who take credit due to others.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A man places an Image on the back of an Ass to take it to a temple in town.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: People encountered on the road uncover and bow their heads.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The people’s gestures are directed toward the Image out of reverence.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Ass thinks the gestures are expressions of respect for himself.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Ass becomes conceited and stops, refusing to go farther while carrying
+    the load.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The driver beats the obstinate Ass with a stick and rebukes him.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The closing moral says that those who take credit due to others should expect
+    rude shocks.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Ass
+  description: The animal carrying the Image; he misreads the people’s reverence as
+    respect for himself and refuses to continue.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Image
+  description: The Image placed on the Ass’s back and carried toward a temple; the
+    people’s reverence is for it.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Driver
+  description: The driver of the Ass, who strikes and rebukes him when he refuses
+    to proceed.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: People on the road
+  description: People met along the road who uncover and bow their heads out of reverence
+    for the Image.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Certain man
+  description: The man who puts the Image on the Ass to take it to a temple.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: load-bearer
+  assigned_to:
+  - fig:1
+  basis: The Ass carries the Image on his back.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: mistaken claimant of honor
+  assigned_to:
+  - fig:1
+  basis: The Ass thinks reverence for the Image is respect for himself and becomes
+    conceited.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: true object of reverence
+  assigned_to:
+  - fig:2
+  basis: The people bow out of reverence for the Image.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: disciplining driver
+  assigned_to:
+  - fig:3
+  basis: The driver beats and rebukes the Ass after the Ass refuses to proceed.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: reverent bystanders
+  assigned_to:
+  - fig:4
+  basis: The people uncover and bow their heads for the Image.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: transporter of sacred image
+  assigned_to:
+  - fig:5
+  basis: The man places the Image on the Ass to take it to a temple.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: Image
+  literal_form: An Image carried on the back of an Ass to a temple.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: Temple
+  literal_form: A town temple as the destination for the Image.
+  associated_figures:
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Bowing and uncovering heads
+  literal_form: Gestures made by people on the road out of reverence for the Image.
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: Stick
+  literal_form: The driver’s stick used to strike the obstinate Ass.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Image loaded for temple transport
+  summary: A man puts an Image on the Ass’s back to carry it to a town temple.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Reverence misread by the Ass
+  summary: People along the road bow to the Image, and the Ass mistakenly interprets
+    their reverence as honor paid to himself.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Refusal and correction
+  summary: The conceited Ass stops and refuses to proceed, so the driver strikes him
+    and says people are not worshiping an ass.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Moral on taking another’s credit
+  summary: The moral states that people who claim credit due to others will receive
+    rude shocks.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: False credit for another’s honor
+  taxonomy_refs:
+  - wisdom
+  basis: The Ass mistakes reverence for the Image as respect for himself, and the
+    moral explicitly warns against taking credit due to others.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  confidence: high
+  cautions: The taxonomy reference is broad; the passage is a moral fable rather than
+    a mythic wisdom episode.
+- id: motif:2
+  label: Pride corrected by humiliation or punishment
+  taxonomy_refs: []
+  basis: The Ass becomes conceited, refuses to move, and is beaten and rebuked by
+    his driver.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is a local fable pattern; no specific supplied mythic motif family
+    directly matches it.
+- id: motif:3
+  label: Carrier mistaken for sacred recipient
+  taxonomy_refs: []
+  basis: The Ass carries a revered Image and interprets reverence toward the carried
+    object as reverence toward himself.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage supports the pattern internally, but no broader comparative
+    claim is made by the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4159-4162
+  quote_or_summary: A man puts an Image on the back of his Ass to take it to one of
+    the town’s temples.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 4162-4164
+  quote_or_summary: People met on the road uncover and bow their heads out of reverence
+    for the Image.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 4164-4166
+  quote_or_summary: The Ass thinks the people are honoring him and begins to give
+    himself airs.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 4166-4169
+  quote_or_summary: The Ass becomes so conceited that he stops and refuses to proceed
+    with his load.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: lines 4169-4173
+  quote_or_summary: The driver hits the Ass with his stick and says, “do you suppose
+    it's come to this, that men pay worship to an Ass?”
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation from public domain text.
+- id: ev:6
+  type: quote
+  locator: lines 4174-4175
+  quote_or_summary: "“Rude shocks await those who take to themselves the credit that
+    is due to others.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation from public domain text.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labels are based on the fable’s
+    explicit plot and moral; comparison claims are omitted because the passage itself
+    does not support cross-text comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage text was used; no external fable-index or motif-index identifiers were added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l4159-l4175
+  passage_sha256=403fcda5ca0b3421a9af2998bcd74787d09790922fbb6b49f4ee51b12918092f
+

@@ -1,0 +1,332 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l3692-l3707
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE WOLF AND THE GOAT / THE SICK STAG / THE ASS AND THE MULE / BROTHER AND
+    SISTER; lines 3692-3707
+  start: '3692'
+  end: '3707'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'A boy and girl, brother and sister, see themselves in a mirror for the
+    first time. The boy boasts of his handsomeness; the girl is upset by her plainness
+    and complains to their father. The father responds affectionately and instructs
+    both children to use the mirror as a prompt for moral improvement: the boy should
+    become as good as he is handsome, and the girl should compensate for plain features
+    with sweetness of disposition.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A man has two children, a boy and a girl.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The boy is described as good-looking, and the girl is described as plain.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The children play together in their mother's chamber.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The children find a mirror and see their own features for the first time.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The boy boasts to his sister about his good looks.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The girl is vexed by her awareness of her plainness and takes the boy's remarks
+    as an insult.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The girl runs to her father, reports the brother's conceit, and accuses him
+    of meddling with their mother's things.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The father laughs, kisses both children, and gives each a lesson about making
+    good use of the glass.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The father tells the boy to strive to be as good as the mirror shows him to
+    be handsome.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The father tells the girl to make up for plain features by sweetness of disposition.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Brother / boy
+  description: A boy, one of two children, described as handsome and as boasting after
+    seeing himself in the mirror.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: Sister / girl
+  description: A girl, one of two children, described as plain, upset by seeing herself
+    in the mirror, and reporting her brother to their father.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Father / certain man
+  description: The father of the two children; he responds to the complaint by laughing,
+    kissing them, and instructing them morally.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: Mother
+  description: The mother is not directly present but is associated with the chamber
+    and the things the boy is accused of meddling with.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:4
+roles:
+- id: role:1
+  label: sibling pair
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage identifies the children as a boy and a girl, brother and sister,
+    playing together.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: parental moral instructor
+  assigned_to:
+  - fig:3
+  basis: The father gives both children an explicit lesson about how to use the mirror
+    as a guide to conduct.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: boastful handsome child
+  assigned_to:
+  - fig:1
+  basis: The boy sees he is handsome and boasts to his sister about his looks.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: aggrieved plain child
+  assigned_to:
+  - fig:2
+  basis: The girl is vexed by her plainness, treats the remarks as insulting, and
+    complains to the father.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: absent household figure
+  assigned_to:
+  - fig:4
+  basis: The mother is mentioned through her chamber and possessions, but she does
+    not act or speak in the passage.
+  evidence_refs:
+  - ev:2
+  - ev:4
+symbols:
+- id: sym:1
+  label: mirror / glass
+  literal_form: A mirror, later called the glass, found in the mother's chamber.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:2
+  label: mother's chamber
+  literal_form: The mother's chamber where the children play and find the mirror.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: physical features
+  literal_form: 'The children''s reflected features: the boy''s handsomeness and the
+    girl''s plainness.'
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+scenes:
+- id: scene:1
+  label: Children discover their reflections
+  summary: Brother and sister play in their mother's chamber, find a mirror, and see
+    their own features for the first time.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Boast and complaint
+  summary: The boy boasts of his handsome appearance; the girl is hurt by comparison
+    and complains to their father, accusing the boy of conceit and meddling with their
+    mother's things.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Father's moral lesson
+  summary: The father responds affectionately and tells both children to use the mirror
+    as a prompt for moral conduct rather than vanity or distress over appearance.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: sibling pair receiving moral instruction
+  taxonomy_refs:
+  - sibling_pair
+  - wisdom
+  basis: The passage centers on a brother and sister whose contrasting reactions to
+    the mirror lead to a father's moral instruction.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The available taxonomy terms are broad; the fable's immediate pattern
+    is ethical instruction rather than a mythic sibling-pair episode.
+- id: motif:2
+  label: mirror as prompt for self-knowledge and ethical conduct
+  taxonomy_refs:
+  - wisdom
+  basis: The mirror reveals appearance, and the father explicitly redirects this discovery
+    toward moral improvement and disposition.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: medium
+  cautions: "“Mirror” is not among the supplied symbol taxonomy refs, so the motif
+    is recorded in plain language with only the broader wisdom motif family."
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 3692-3694
+  quote_or_summary: The fable introduces a man with two children, a boy and a girl;
+    the boy is good-looking, while the girl is plain.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 3694-3697
+  quote_or_summary: While playing together in their mother's chamber, the children
+    find a mirror and see their own features for the first time.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 3697-3700
+  quote_or_summary: The boy boasts about his handsomeness; the girl is upset by her
+    plainness and interprets his remarks as an insult.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 3700-3703
+  quote_or_summary: The girl runs to her father, tells him of her brother's conceit,
+    and accuses the brother of meddling with their mother's things.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: 3703-3707
+  quote_or_summary: 'The father tells them to make good use of the glass: the boy
+    should be as good as he is handsome, and the girl should offset plain features
+    with sweetness of disposition.'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; brief quotation/summarized content from allowed
+    full text.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is straightforward and self-contained. Motif assignment is somewhat
+    broad because the supplied taxonomy has no specific mirror, vanity, or moralized
+    self-knowledge category.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Extraction uses only the supplied passage and metadata. No comparison claims were added because the passage itself does not support a specific cross-textual or historical comparison.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l3692-l3707
+  passage_sha256=fc973475ed422f011a324601c8be3d94d06a9c25067972351dd24ac538b3df12
+

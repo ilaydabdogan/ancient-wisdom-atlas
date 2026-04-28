@@ -1,0 +1,380 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l1369-l1391
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE HARES AND THE FROGS / THE FOX AND THE STORK / THE WOLF IN SHEEP'S CLOTHING
+    / THE STAG IN THE OX-STALL; lines 1369-1391
+  start: '1369'
+  end: '1391'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A hunted Stag hides in an ox-stall under hay. An Ox warns him that he risks
+    capture and later says the master’s keen eyes will find him. Farm-hands fail to
+    notice the Stag, but the master enters, inspects the stable, discovers him in
+    the hay, and has him killed for the table.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A Stag is chased from his lair by hounds and takes refuge in a farmyard stable
+    where oxen are stalled.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Stag hides under a pile of hay in a vacant stall, with only the tips of
+    his horns visible.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: An Ox asks why the Stag has entered and warns that he risks being captured
+    by the herdsmen.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Stag asks to stay until night, saying he can escape under cover of darkness.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Several farm-hands enter during the afternoon to attend the cattle but do
+    not notice the Stag.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The Ox warns that if the master comes, the Stag will be found because nothing
+    escapes the master’s keen eyes.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The master enters, criticizes the care of the oxen, seizes hay from the pile
+    where the Stag is hidden, detects him, and has him killed for the table.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Stag
+  description: A hunted animal who hides in the ox-stall under hay and is later discovered
+    and killed.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:2
+  name_or_label: Hounds
+  description: The animals chasing the Stag from his lair.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Oxen
+  description: Animals stalled in the stable; one speaks to the hidden Stag and warns
+    him.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:4
+  name_or_label: Farm-hands or herdsmen
+  description: People who enter to attend the cattle but fail to notice the hidden
+    Stag; later the master calls his men.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:5
+  name_or_label: Master
+  description: The owner or overseer whose keen eyes are said to miss nothing; he
+    discovers the Stag and orders him killed.
+  role_refs:
+  - role:6
+  - role:7
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: fugitive animal
+  assigned_to:
+  - fig:1
+  basis: The Stag is chased by hounds and seeks refuge in the farmyard stable.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: hidden victim
+  assigned_to:
+  - fig:1
+  basis: The Stag lies concealed under hay but is detected by the master and killed.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:3
+  label: pursuers
+  assigned_to:
+  - fig:2
+  basis: The hounds chase the Stag from his lair.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: warning bystander
+  assigned_to:
+  - fig:3
+  basis: One Ox warns the Stag about the danger of capture and about the master’s
+    keen eyes.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:5
+  label: ordinary caretakers
+  assigned_to:
+  - fig:4
+  basis: Farm-hands enter to attend the cattle without noticing the Stag; they are
+    also the kind of people the Ox identifies as a danger.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:6
+  label: keen-eyed inspector
+  assigned_to:
+  - fig:5
+  basis: The Ox says nothing escapes the master’s keen eyes, and the master discovers
+    the Stag.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:7
+  label: agent of capture and death
+  assigned_to:
+  - fig:5
+  basis: After detecting the Stag, the master calls his men and has him killed for
+    the table.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: ox-stall or stable refuge
+  literal_form: Stable with stalled oxen and a vacant stall
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: concealing hay
+  literal_form: Pile of hay covering the Stag
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: sym:3
+  label: visible horn tips
+  literal_form: Tips of the Stag’s horns protruding from the hay
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: cover of darkness
+  literal_form: Night or darkness proposed as cover for escape
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: keen eyes
+  literal_form: The master’s keen eyes
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: table
+  literal_form: The table for which the Stag is killed
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Flight and concealment in the ox-stall
+  summary: The Stag flees the hounds, enters a stable, and hides under hay in a vacant
+    stall with only his horn tips showing.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Ox warns the hidden Stag
+  summary: An Ox questions the Stag’s decision to hide there and warns him of capture,
+    while the Stag says he will wait for night to escape.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Farm-hands fail to notice
+  summary: Several farm-hands enter to tend the cattle but do not see the hidden Stag,
+    causing him to think himself safe and thank the Oxen.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Master discovers and kills the Stag
+  summary: The Ox warns that the master will detect him; the master enters, inspects
+    the stall, takes hay from the hiding place, discovers the Stag, and has him killed.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:5
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Hunted animal seeks refuge in a dangerous hiding place
+  taxonomy_refs: []
+  basis: The Stag, fleeing hounds, hides in a farmyard stable where the Ox warns he
+    may be captured by humans.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is a descriptive passage-level motif, not a supplied taxonomy family.
+- id: motif:2
+  label: Concealment fails before a more observant authority
+  taxonomy_refs: []
+  basis: Farm-hands do not notice the hidden Stag, but the master’s inspection reveals
+    him, matching the Ox’s warning about the master’s keen eyes.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage does not state a separate moral; the motif is inferred from
+    the narrated sequence.
+- id: motif:3
+  label: Overconfidence after incomplete escape
+  taxonomy_refs:
+  - wisdom
+  basis: The Stag congratulates himself after lesser observers miss him, but the Ox’s
+    wiser warning proves correct when the master arrives.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The taxonomy reference to wisdom is broad and should be reviewed because
+    the passage presents practical warning rather than explicit wisdom teaching.
+- id: motif:4
+  label: Escape deferred until night is prevented by daylight discovery
+  taxonomy_refs: []
+  basis: The Stag plans to escape under cover of darkness, but the master discovers
+    him before that plan succeeds.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: medium
+  cautions: Night escape remains only an intended plan, not an enacted scene.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 1369-1374
+  quote_or_summary: A Stag chased by hounds enters a farmyard stable, hides under
+    hay in a vacant stall, and remains concealed except for the tips of his horns.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 1374-1378
+  quote_or_summary: An Ox asks why the Stag has come in and warns of capture by herdsmen;
+    the Stag asks to stay until night, when he expects to escape under darkness.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 1378-1382
+  quote_or_summary: Farm-hands enter during the afternoon to tend the cattle but do
+    not notice the Stag, who begins to congratulate himself and thank the Oxen.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: 1382-1385
+  quote_or_summary: "“If the master comes, you will certainly be found out, for nothing
+    ever escapes his keen eyes.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation.
+- id: ev:5
+  type: summary
+  locator: 1385-1391
+  quote_or_summary: The master enters, complains about the oxen’s care, takes hay
+    from the pile where the Stag is hidden, detects him, calls his men, and has him
+    killed for the table.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based entirely on the supplied passage. Candidate motifs are
+    descriptive and require human review for alignment with any wider motif taxonomy.
+    No comparison claims were made because the passage itself does not provide an
+    explicit comparative frame.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Although the supplied locator label names several fables, the supplied passage text only includes “THE STAG IN THE OX-STALL”; extraction is limited to that text.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l1369-l1391
+  passage_sha256=a5e058855bb4642b52e6b45e447bdbe8c3765984cb8cbfe164b7162ab6867afe
+

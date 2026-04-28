@@ -1,0 +1,280 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l2012-l2026
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE BOY BATHING / THE QUACK FROG / THE SWOLLEN FOX / THE MOUSE, THE FROG,
+    AND THE HAWK; lines 2012-2026
+  start: '2012'
+  end: '2026'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A Mouse and a Frog become friends despite living in different elements.
+    The Frog ties them together with thread so they cannot be separated. When the
+    Frog jumps into a pool, the Mouse drowns. A Hawk seizes the drowned Mouse, and
+    because the Frog cannot undo the knot, the Frog is carried off and eaten too.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Mouse and the Frog form a friendship, although the Mouse lives on land
+    and the Frog is at home on land and in water.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Frog ties himself and the Mouse together by the leg with a piece of thread
+    so they will not be separated.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The arrangement works while they remain on dry land.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: At the edge of a pool, the Frog jumps into the water and takes the Mouse with
+    him.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Mouse drowns and floats on the surface behind the Frog.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A Hawk sees the drowned Mouse, descends, and seizes him in its talons.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The Frog cannot loosen the knot binding him to the Mouse and is carried off
+    and eaten with him by the Hawk.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Mouse
+  description: A land-dwelling animal who is tied to the Frog and drowns when taken
+    into the pool.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Frog
+  description: An animal at home on land and in water who ties himself to the Mouse,
+    jumps into the pool, and is later carried off and eaten because he cannot loosen
+    the knot.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: Hawk
+  description: A predatory bird who sees the Mouse, seizes him in its talons, and
+    eats both the Mouse and the Frog.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: land-dwelling victim
+  assigned_to:
+  - fig:1
+  basis: The Mouse lives entirely on land and drowns after being taken into the pool.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: amphibious companion who initiates binding
+  assigned_to:
+  - fig:2
+  basis: The Frog is at home on land and in water and ties himself to the Mouse by
+    the leg.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: predator
+  assigned_to:
+  - fig:3
+  basis: The Hawk pounces on the Mouse, seizes him in its talons, and eats both bound
+    animals.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:4
+  label: bound companions
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The Mouse and Frog are tied together by the leg with thread and cannot separate
+    before the Hawk takes them.
+  evidence_refs:
+  - ev:2
+  - ev:5
+symbols:
+- id: sym:1
+  label: pool water
+  literal_form: the pool into which the Frog jumps
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: thread and knot
+  literal_form: a piece of thread tying the Mouse and Frog together by the leg; the
+    knot cannot be loosened
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:3
+  label: dry land
+  literal_form: dry land where the tied companions initially fare well
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Unequal friendship and binding
+  summary: The Mouse and Frog become friends despite different habitats, and the Frog
+    ties them together by the leg with thread.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Entry into the pool and drowning
+  summary: The Frog jumps into the pool with the Mouse attached; the Frog swims and
+    croaks, while the Mouse drowns and floats behind him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Hawk seizes the bound pair
+  summary: A Hawk seizes the drowned Mouse, and the Frog, unable to undo the knot,
+    is carried off and eaten with the Mouse.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Fatal binding of unequal companions
+  taxonomy_refs: []
+  basis: Two companions with incompatible habitats are physically tied together; the
+    binding leads first to the Mouse’s drowning and then to the Frog’s death when
+    he cannot free himself.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The label is descriptive and not tied to a supplied taxonomy family.
+- id: motif:2
+  label: Predator profits from another’s misfortune
+  taxonomy_refs: []
+  basis: The Hawk finds the drowned Mouse, seizes him, and also consumes the Frog
+    because the Frog remains bound to the Mouse.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage presents this as an event sequence; any broader moral or comparative
+    reading requires review.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2012-2016
+  quote_or_summary: A Mouse and Frog form a friendship; the Mouse lives entirely on
+    land, while the Frog is at home on land and in water.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary provided.
+- id: ev:2
+  type: summary
+  locator: lines 2016-2018
+  quote_or_summary: The Frog ties himself and the Mouse together by the leg with thread
+    so they will never be separated.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary provided.
+- id: ev:3
+  type: summary
+  locator: lines 2018-2022
+  quote_or_summary: On dry land the arrangement works, but at a pool the Frog jumps
+    in with the Mouse, swims and croaks, and the Mouse drowns and floats behind him.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary provided.
+- id: ev:4
+  type: summary
+  locator: lines 2022-2024
+  quote_or_summary: A Hawk sees the Mouse, descends, and seizes him in its talons.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary provided.
+- id: ev:5
+  type: summary
+  locator: lines 2024-2026
+  quote_or_summary: The Frog cannot loosen the knot binding him to the Mouse, so he
+    is carried off with the Mouse and eaten by the Hawk.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary provided.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal sequence and figures are clear. Motif labels are descriptive
+    rather than matched to an external taxonomy. No comparison claims are made because
+    the passage itself does not supply a comparative reference.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Although the supplied locator label names several fables, the provided passage text contains only “THE MOUSE, THE FROG, AND THE HAWK,” so this extraction is limited to that fable.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l2012-l2026
+  passage_sha256=3d5e7f05833a1b3cecf401458168a82a892b40d07bba135cd7435aeb9407f6c8
+

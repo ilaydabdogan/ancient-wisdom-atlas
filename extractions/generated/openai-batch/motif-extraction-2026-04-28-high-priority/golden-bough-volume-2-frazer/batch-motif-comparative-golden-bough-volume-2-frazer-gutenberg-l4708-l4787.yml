@@ -1,0 +1,520 @@
+---
+record_id: batch.motif.comparative-golden-bough-volume-2-frazer-gutenberg-l4708-l4787
+source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+passage_locator:
+  label: 'The Golden Bough: A Study in Comparative Religion (Vol. 2 of 2) / CONTENTS;
+    lines 4708-4787'
+  start: '4708'
+  end: '4787'
+  translation: 'The Golden Bough: A Study in Comparative Religion (Vol. 2 of 2)'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'Frazer summarizes patterns in public expulsions of accumulated evils:
+    immediate and mediate expulsions share the aim of clearing communal ills; a boat
+    or scapegoat may serve as a vehicle for evils; periodic rites often occur annually
+    at seasonal, agricultural, or new-year transitions; periods of social licence
+    may precede or follow the expulsion; and some rites employ a divine man or animal
+    as a scapegoat to whom evils are transferred before being slain.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: 'The passage states that immediate and mediate expulsions of evil are identical
+    in intention: a total clearance of ills affecting a people.'
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage describes a practice in which invisible evils are sent away in
+    a tangible boat.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage defines a scapegoat as a vehicle that conveys evils away.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage states that periodic general clearances of evils commonly take
+    place yearly and often coincide with seasonal changes.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage states that New Britain and Peru are examples where devils are
+    or were driven out at the beginning of the rainy season.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage states that some agricultural communities of India and the Hindoo
+    Koosh hold demon-clearance rites at harvest, while others hold them at sowing-time.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The passage states that public banishment of evil spirits inaugurates the
+    new year among several named peoples, including Iroquois, Tonquinese, Siamese,
+    and Tibetans.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The passage states that public periodic expulsion of devils is commonly preceded
+    or followed by a period of general licence in which ordinary restraints are relaxed.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: The passage states that a divine man or animal may be employed as a scapegoat.
+  category: relationship
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: The passage states that evils may be believed to be transferred to a god who
+    is afterwards slain.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:11
+  text: The passage states that the killing of a god may later be misinterpreted as
+    the killing of an ordinary victim or execution of a criminal.
+  category: sequence
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: accumulated evils, devils, demons, or evil spirits
+  description: Harmful beings or influences described as infesting a people and being
+    expelled or banished.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+- id: fig:2
+  name_or_label: village, district, tribe, or people undergoing clearance
+  description: The communal group whose ills are cleared by public expulsion rites.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:3
+  name_or_label: scapegoat
+  description: A vehicle for conveying evils away; later specified as potentially
+    a divine man or animal in some customs.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:8
+- id: fig:4
+  name_or_label: divine man or animal
+  description: A divine human or animal used as a public scapegoat in rites where
+    evils are transferred to it.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:8
+- id: fig:5
+  name_or_label: god who is afterwards slain
+  description: A god to whom evils are believed to be transferred and who is then
+    killed.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: fig:6
+  name_or_label: criminal or ordinary victim
+  description: A later perceived category into which the slain divine victim may be
+    reinterpreted.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:9
+roles:
+- id: role:1
+  label: afflicted community
+  assigned_to:
+  - fig:2
+  basis: The passage says the ceremony aims to clear all ills that have been infesting
+    a people.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: expelled harmful presence
+  assigned_to:
+  - fig:1
+  basis: The passage repeatedly describes evils, devils, demons, or evil spirits as
+    expelled, driven out, or banished.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+- id: role:3
+  label: vehicle or bearer of evils
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The passage calls the scapegoat a vehicle and notes divine men or animals
+    may be used as public scapegoats.
+  evidence_refs:
+  - ev:2
+  - ev:8
+- id: role:4
+  label: slain divine victim
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: The passage says evils are transferred to a god who is afterwards slain and
+    discusses killing a divine man or animal.
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: role:5
+  label: later reinterpreted victim
+  assigned_to:
+  - fig:6
+  basis: The passage says the divine character may be forgotten and the victim regarded
+    as ordinary or as a criminal being executed.
+  evidence_refs:
+  - ev:9
+symbols:
+- id: sym:1
+  label: boat as evils-vehicle
+  literal_form: boat
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - ark_vessel
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: scapegoat as evils-vehicle
+  literal_form: scapegoat
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: seasonal boundary
+  literal_form: close of winter or beginning/end of rainy season
+  associated_figures: []
+  taxonomy_refs:
+  - seasonal_cycle
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: agricultural turning point
+  literal_form: sowing-time or harvest
+  associated_figures: []
+  taxonomy_refs:
+  - seasonal_cycle
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: new year threshold
+  literal_form: beginning of the new year
+  associated_figures: []
+  taxonomy_refs:
+  - seasonal_cycle
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: divine scapegoat sacrifice
+  literal_form: divine man or animal used as scapegoat and slain
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs:
+  - sacrifice
+  evidence_refs:
+  - ev:8
+  - ev:9
+scenes:
+- id: scene:1
+  label: Generalized communal clearance of evils
+  summary: A community performs an expulsion rite intended to remove accumulated ills,
+    whether those ills are conceived as invisible or embodied in a material form.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Evils conveyed away by vessel or scapegoat
+  summary: Invisible evils are imagined as being sent away by a tangible vehicle such
+    as a boat, and the scapegoat is described as such a vehicle.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Annual seasonal or new-year expulsion
+  summary: Periodic clearances of evils commonly occur annually at seasonal changes,
+    agricultural moments such as sowing or harvest, or at the beginning of the new
+    year.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Licence surrounding the expulsion
+  summary: A period of general licence may precede or follow the expulsion, with ordinary
+    restraints relaxed because the clearance is anticipated or has just occurred.
+  figure_refs:
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+- id: scene:5
+  label: Divine scapegoat slain after transfer of evils
+  summary: A divine man, animal, or god may serve as a scapegoat to receive transferred
+    evils and then be killed; later interpretation may obscure the victim's divine
+    status.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: public expulsion of communal evils
+  taxonomy_refs: []
+  basis: The passage identifies the aim of the ceremonies as the total public clearance
+    or banishment of evils affecting a people.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  confidence: high
+  cautions: The passage is a comparative scholarly synthesis rather than a single
+    mythic narrative.
+- id: motif:2
+  label: scapegoat or vehicle carrying away evils
+  taxonomy_refs:
+  - ark_vessel
+  basis: The passage explicitly connects a boat carrying invisible evils away with
+    the scapegoat as a tangible vehicle for removal.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The taxonomy reference applies most directly to the vessel image; the
+    scapegoat itself is not separately listed in the supplied symbol taxonomy.
+- id: motif:3
+  label: annual seasonal cleansing at transition point
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage says periodic clearances are commonly annual and coincide with
+    seasonal changes, agricultural epochs, or the new year.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The examples are presented by Frazer across multiple societies and are
+    not all described in equal detail in this passage.
+- id: motif:4
+  label: ritual licence before or after purification
+  taxonomy_refs: []
+  basis: The passage describes a period of general licence surrounding the public
+    expulsion of devils, with ordinary restraints relaxed.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: The passage gives Frazer's explanation for the licence, but the extraction
+    records only the pattern stated here.
+- id: motif:5
+  label: divine scapegoat killed after receiving evils
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage states that evils may be transferred to a god who is afterwards
+    slain and emphasizes divine men or animals as scapegoats.
+  evidence_refs:
+  - ev:8
+  confidence: high
+  cautions: The passage does not state resurrection or return, so no dying-and-returning
+    classification is assigned.
+- id: motif:6
+  label: misremembered divine killing as ordinary execution
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage suggests that later ages may forget the divine character of the
+    slain man or animal and interpret the killing as execution of an ordinary victim
+    or criminal.
+  evidence_refs:
+  - ev:9
+  confidence: medium
+  cautions: This is presented as Frazer's suspicion and interpretive hypothesis rather
+    than direct ritual description.
+comparison_claims:
+- id: claim:1
+  claim: 'The passage explicitly treats immediate and mediate expulsions of evil as
+    having the same intended function: total clearance of communal ills.'
+  claim_level: same_function
+  target: immediate expulsion of invisible evils and mediate expulsion through material
+    embodiment or vehicle
+  evidence_refs:
+  - ev:1
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim concerns function as stated by the author, not historical
+    relationship between particular rites.
+- id: claim:2
+  claim: The passage presents annual seasonal or new-year banishment of evil spirits
+    as a recurring pattern across several named peoples.
+  claim_level: same_motif
+  target: public banishment of evil spirits at seasonal or new-year transitions among
+    Iroquois, Tonquinese, Siamese, Tibetans, and other examples named in the passage
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage is a broad comparative summary and does not provide detailed
+    local evidence for each named tradition in this excerpt.
+- id: claim:3
+  claim: The passage compares the boat carrying away invisible evils and the scapegoat
+    as two forms of a tangible vehicle for removing evils.
+  claim_level: same_function
+  target: boat-borne expulsion of evils and scapegoat expulsion
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage asserts functional equivalence but does not establish shared
+    origin.
+- id: claim:4
+  claim: The passage links divine scapegoat sacrifice with the broader custom of killing
+    a god, suggesting that later sacrificial executions may preserve a misunderstood
+    divine-victim pattern.
+  claim_level: same_motif
+  target: divine man or animal as scapegoat and later ordinary victim or criminal
+    execution, including the Sacaean festival at Babylon as cited by Frazer
+  evidence_refs:
+  - ev:8
+  - ev:9
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage frames this as suspicion and interpretation; it does not
+    demonstrate historical contact or continuity in the excerpt.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 4708-4717
+  quote_or_summary: 'Frazer states that immediate and mediate expulsions of evil are
+    identical in intention: to make a total clearance of the ills infesting a people.'
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: 4717-4723
+  quote_or_summary: Evils may be sent away in a boat, giving a visible vehicle for
+    invisible evils; Frazer adds, “a scapegoat is nothing more than such a vehicle.”
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:3
+  type: summary
+  locator: 4724-4733
+  quote_or_summary: Periodic clearances commonly occur yearly and often coincide with
+    marked seasonal changes such as the close of winter or the beginning/end of the
+    rainy season.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 4733-4736
+  quote_or_summary: New Britain and Peru are cited as places where devils are or were
+    driven out at the beginning of the rainy season.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 4736-4745
+  quote_or_summary: Agricultural communities may align demon expulsion with sowing
+    or harvest; India and the Hindoo Koosh are cited as examples with rites at harvest
+    or sowing-time.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 4745-4752
+  quote_or_summary: The general expulsion of devils commonly marks the new year; Iroquois,
+    Tonquinese, Siamese, Tibetans, and others are cited for solemn public banishment
+    of evil spirits at the year's beginning.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 4753-4771
+  quote_or_summary: Public periodic expulsion of devils is commonly preceded or followed
+    by a period of general licence; examples mentioned include Guinea, Tonquin, Lhásá,
+    the Hos, and the Iroquois.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: 4772-4778
+  quote_or_summary: Frazer highlights the employment of a divine man or animal as
+    a scapegoat and states that evils are believed to be transferred to a god who
+    is afterwards slain.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: 4778-4787
+  quote_or_summary: Frazer argues that the divine character of the slain man or animal
+    may be forgotten, so the killing of a god may be confounded with execution of
+    a criminal, as he says occurred in the Sacaean festival at Babylon.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is itself a comparative scholarly synthesis, making literal extraction
+    straightforward but requiring caution in treating Frazer's interpretive generalizations
+    as motif claims.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy references are limited to supplied motif families and symbols.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:comparative-golden-bough-volume-2-frazer-gutenberg__l4708-l4787
+  passage_sha256=4efabc9b71e1b8b0ad72b4a4024793e1150ecffe417a7f1e2a0ef6620a4dcafd
+

@@ -1,0 +1,459 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l3568-l3602
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE MAN AND HIS TWO SWEETHEARTS / THE EAGLE, THE JACKDAW, AND THE SHEPHERD
+    / THE WOLF AND THE BOY / THE MILLER, HIS SON, AND THEIR ASS; lines 3568-3602
+  start: '3568'
+  end: '3602'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: "“in trying to please all he had pleased none”"
+  summary: A miller and his son take their ass to market. After repeatedly changing
+    their behavior in response to criticism from passersby, they end by carrying the
+    ass; the animal breaks free at a bridge, falls into the river, and drowns. The
+    miller returns home ashamed and convinced that trying to please everyone has pleased
+    no one and cost him the ass.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The miller and his young son drive their ass toward market in hopes of selling
+    him.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A troop of girls laughs at the pair for walking when they could ride, and
+    the miller has his son mount the ass.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Old acquaintances criticize the son for riding while the miller walks, and
+    the miller then rides while the son walks behind.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Women and children criticize the miller for riding while his son walks, and
+    the miller makes his son ride behind him.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Travellers warn that the ass will be exhausted by carrying both riders and
+    suggest that the miller would do better to carry the ass.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The miller and son tie the ass’s legs with a rope, sling him on a pole, and
+    carry him between them into town.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The townspeople laugh at the sight and mock the father and son, with some
+    calling them lunatics.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: At a bridge over the river, the ass becomes frightened, struggles, breaks
+    the ropes, falls into the water, and drowns.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The miller goes home vexed and ashamed, concluding that he pleased no one
+    by trying to please all and lost his ass as well.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Miller
+  description: A father who owns the ass and is taking him to market to sell.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: fig:2
+  name_or_label: Miller’s young son
+  description: The miller’s young son, who accompanies him on the road to market.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: Ass
+  description: The animal being taken to market for sale; he is ridden, carried, and
+    finally drowned.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: Troop of girls
+  description: Girls on the road who laugh and say the miller and son are foolish
+    for walking instead of riding.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: Old cronies
+  description: Old acquaintances of the miller who criticize the son for riding while
+    the miller walks.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Women and children
+  description: A party of women and children who criticize the miller for riding while
+    his son walks.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: Travellers
+  description: Travellers who question the miller and warn that the ass will be exhausted
+    under the load of two riders.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:8
+  name_or_label: Townspeople
+  description: People who run out in crowds to laugh at and mock the father and son
+    carrying the ass.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: ass owner and seller
+  assigned_to:
+  - fig:1
+  basis: The miller says the ass is his own and that he is taking it to market to
+    sell.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: one who changes conduct to satisfy others
+  assigned_to:
+  - fig:1
+  basis: The miller repeatedly follows outside advice and finally concludes that trying
+    to please all has pleased none.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:7
+- id: role:3
+  label: accompanying son
+  assigned_to:
+  - fig:2
+  basis: The son accompanies the miller and alternately rides, walks, and helps carry
+    the ass.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:4
+  label: market animal and object of burden
+  assigned_to:
+  - fig:3
+  basis: The ass is being taken to market, carries riders, is carried by the father
+    and son, and dies in the river.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:6
+- id: role:5
+  label: critic or adviser on the road
+  assigned_to:
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  basis: Each group comments on the miller’s behavior and prompts a change in how
+    the ass, father, and son travel.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:6
+  label: public mockers
+  assigned_to:
+  - fig:8
+  basis: The townspeople laugh at and mock the father and son when they enter carrying
+    the ass.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: ass
+  literal_form: Ass taken to market, ridden, carried, and drowned
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+- id: sym:2
+  label: road to market
+  literal_form: Dusty road on which the father and son meet successive groups of people
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: rope and pole
+  literal_form: Rope binding the ass’s legs and pole used to carry him
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:4
+  label: bridge over the river
+  literal_form: Bridge over the river where the ass breaks loose and falls into the
+    water
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Journey to market begins
+  summary: The miller and his son take the ass toward market for sale and first alter
+    their conduct after girls ridicule them for walking.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Successive criticisms on the road
+  summary: Old cronies, then women and children, criticize who rides and who walks,
+    leading the miller to reverse the arrangement and then to put both himself and
+    his son on the ass.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Advice to carry the ass
+  summary: Travellers object that both riders will exhaust the ass, and the miller
+    agrees to try carrying the animal instead.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Ridicule in town
+  summary: The miller and his son enter town carrying the ass tied to a pole, and
+    crowds laugh at and mock them.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:8
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Loss at the bridge
+  summary: At the bridge over the river, the frightened ass struggles free, falls
+    into the water, and drowns; the miller returns home ashamed.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Trying to please everyone leads to pleasing no one
+  taxonomy_refs:
+  - wisdom
+  basis: The narrative repeatedly shows the miller obeying each new criticism and
+    ends with the explicit conclusion that he pleased none by trying to please all.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:7
+  confidence: high
+  cautions: The taxonomy reference is broad; the passage is a moral fable rather than
+    a mythic wisdom instruction scene.
+- id: motif:2
+  label: 'Reversal of expected burden: humans carry the pack animal'
+  taxonomy_refs: []
+  basis: After travellers suggest that riding will exhaust the ass, the miller and
+    son bind the ass and carry him on a pole, provoking public laughter.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is a comic narrative device in the fable; no broader taxonomy reference
+    is supplied.
+- id: motif:3
+  label: Following conflicting public advice brings loss
+  taxonomy_refs:
+  - wisdom
+  basis: Different groups offer incompatible judgments, the miller changes course
+    each time, and the final result is the drowning of the ass and the failure of
+    the market journey.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: Closely overlaps with motif:1; separated here to mark the sequence of
+    conflicting advisers as a distinct pattern.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 3568-3574
+  quote_or_summary: The miller and his young son drive their ass to market to sell
+    him; girls on the road mock them for walking, so the son mounts the ass.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; concise summary.
+- id: ev:2
+  type: summary
+  locator: 3575-3580
+  quote_or_summary: Old acquaintances say the son will be spoiled if he rides while
+    the miller walks, so the miller rides and the son walks behind.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; concise summary.
+- id: ev:3
+  type: summary
+  locator: 3581-3586
+  quote_or_summary: Women and children call the miller selfish for riding while the
+    boy walks, so the miller has his son get up behind him.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; concise summary.
+- id: ev:4
+  type: summary
+  locator: 3587-3593
+  quote_or_summary: Travellers ask about the ass and warn that with such a load he
+    will be exhausted before market; they say the miller would do better to carry
+    him.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; concise summary.
+- id: ev:5
+  type: summary
+  locator: 3594-3598
+  quote_or_summary: The miller and son tie the ass’s legs, sling him on a pole, and
+    carry him into town; crowds come out to laugh and mock them.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; concise summary.
+- id: ev:6
+  type: summary
+  locator: 3599-3601
+  quote_or_summary: At a bridge over the river, the ass is frightened by the noise
+    and unusual situation, struggles, breaks the ropes, falls into the water, and
+    drowns.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; concise summary.
+- id: ev:7
+  type: quote
+  locator: 3601-3602
+  quote_or_summary: "“in trying to please all he had pleased none, and had lost his
+    Ass into the bargain.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied passage. Comparison claims are omitted
+    because the passage does not itself support a specific cross-textual or historical
+    comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No figures or scenes were extracted from the other fable titles in the locator because their text was not included in the supplied passage.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l3568-l3602
+  passage_sha256=011018e9d186b32090c401963fe2e3dc4c25e129ed48705e6642486cc7225cda
+

@@ -1,0 +1,345 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l3763-l3778
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE KINGDOM OF THE LION / THE ASS AND HIS DRIVER / THE LION AND THE HARE
+    / THE WOLVES AND THE DOGS; lines 3763-3778
+  start: '3763'
+  end: '3778'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: the Wolves set upon them and tore them to pieces.
+  summary: The Wolves persuade the Dogs that they are naturally similar and should
+    stop serving mankind by handing over the flocks. The Dogs follow the Wolves into
+    their den, where the Wolves kill them. The stated moral says traitors deserve
+    their fate.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The Wolves address the Dogs and ask why they should remain enemies.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Wolves say Dogs are like Wolves in most ways, differing mainly in training.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Wolves describe themselves as living freely and the Dogs as enslaved to
+    mankind.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Wolves say mankind beat the Dogs, put heavy collars on them, make them
+    guard flocks and herds, and feed them only bones.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The Wolves urge the Dogs to hand over the flocks and promise shared feasting.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The Dogs are persuaded and accompany the Wolves into their den.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Once the Dogs are inside the den, the Wolves attack and tear them to pieces.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The moral states that traitors richly deserve their fate.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Wolves
+  description: A group who speak to the Dogs, persuade them to enter the den, and
+    then kill them.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Dogs
+  description: A group described as servants of mankind who are persuaded by the Wolves
+    and killed in the den.
+  role_refs:
+  - role:3
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Mankind
+  description: The Dogs' human masters, described in the Wolves' speech as beating,
+    collaring, feeding, and compelling the Dogs to guard flocks and herds.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Flocks and herds
+  description: Animals watched by the Dogs for mankind and requested by the Wolves.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: persuaders
+  assigned_to:
+  - fig:1
+  basis: They argue that the Dogs should stop serving mankind and hand over the flocks.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: killers
+  assigned_to:
+  - fig:1
+  basis: They attack the Dogs inside the den and tear them to pieces.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: persuaded party
+  assigned_to:
+  - fig:2
+  basis: They allow themselves to be persuaded by the Wolves' words.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: guardians of flocks and herds
+  assigned_to:
+  - fig:2
+  basis: The Wolves say mankind compels them to keep watch over flocks and herds.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: traitors in moral framing
+  assigned_to:
+  - fig:2
+  basis: The moral follows their decision to hand over the flocks and enter the Wolves'
+    den, stating that traitors deserve their fate.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:6
+  label: human masters
+  assigned_to:
+  - fig:3
+  basis: The Wolves describe mankind as controlling and using the Dogs.
+  evidence_refs:
+  - ev:2
+- id: role:7
+  label: contested livestock
+  assigned_to:
+  - fig:4
+  basis: The Dogs guard them for mankind, and the Wolves ask that they be handed over.
+  evidence_refs:
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: heavy collars
+  literal_form: heavy collars around the Dogs' necks
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: bones
+  literal_form: bones given to the Dogs as food
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: den
+  literal_form: the Wolves' den into which the Dogs enter
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: flocks and herds
+  literal_form: the flocks and herds watched by the Dogs
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+scenes:
+- id: scene:1
+  label: Wolves propose alliance with Dogs
+  summary: The Wolves tell the Dogs they are similar and should no longer remain enemies.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Wolves denounce the Dogs' service to mankind
+  summary: The Wolves characterize the Dogs' condition as servitude marked by beating,
+    collars, guarding labor, and poor food.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Dogs defect and enter the den
+  summary: The Wolves urge the Dogs to hand over the flocks and feast together; the
+    Dogs are persuaded and accompany them into the den.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Wolves kill the Dogs
+  summary: After the Dogs are inside, the Wolves attack and tear them to pieces.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Moral judgment on traitors
+  summary: The concluding moral states that traitors richly deserve their fate.
+  figure_refs:
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: false alliance leading to destruction
+  taxonomy_refs: []
+  basis: The Wolves propose reconciliation and shared feasting, but after the Dogs
+    follow them into the den, the Wolves kill them.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage presents the event as a short fable rather than an extended
+    mythic pattern.
+- id: motif:2
+  label: betrayal of duty punished
+  taxonomy_refs: []
+  basis: The Dogs are persuaded to hand over the flocks they guard, and the moral
+    frames them as traitors who deserve their fate.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The identification follows the passage's explicit moral, not an external
+    taxonomy.
+- id: motif:3
+  label: enemy rhetoric exploiting grievance
+  taxonomy_refs: []
+  basis: The Wolves persuade the Dogs by emphasizing their harsh treatment by mankind
+    and promising better life and shared feasting.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: This is a narrative pattern inferred from the speech; the passage does
+    not name it as a motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3763-3767
+  quote_or_summary: The Wolves ask the Dogs why they should remain enemies and say
+    they are alike except for training.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; concise summary.
+- id: ev:2
+  type: summary
+  locator: lines 3767-3771
+  quote_or_summary: The Wolves contrast their freedom with the Dogs' service to mankind,
+    mentioning beating, heavy collars, guarding flocks and herds, and bones as food.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; concise summary.
+- id: ev:3
+  type: summary
+  locator: lines 3771-3773
+  quote_or_summary: The Wolves tell the Dogs to hand over the flocks and promise that
+    all will feast together.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; concise summary.
+- id: ev:4
+  type: quote
+  locator: lines 3773-3776
+  quote_or_summary: The Dogs are persuaded and enter the den; then "the Wolves set
+    upon them and tore them to pieces."
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation.
+- id: ev:5
+  type: quote
+  locator: line 3778
+  quote_or_summary: '"Traitors richly deserve their fate."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction relies on the supplied passage text. Candidate motifs are plain
+    descriptive labels without external taxonomy mapping. No comparison claims are
+    made because the passage itself does not support a specific external comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  The supplied locator label names multiple fables, but the supplied passage text contains only THE WOLVES AND THE DOGS; extraction is limited to that passage.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l3763-l3778
+  passage_sha256=25f2e7db3222930d1260e43eb34f4ba55f034ed7303f0bfc42a8e98f5116dd77
+

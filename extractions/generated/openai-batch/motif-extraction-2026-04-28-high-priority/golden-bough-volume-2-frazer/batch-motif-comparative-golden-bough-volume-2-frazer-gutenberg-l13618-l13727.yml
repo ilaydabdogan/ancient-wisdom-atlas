@@ -1,0 +1,487 @@
+---
+record_id: batch.motif.comparative-golden-bough-volume-2-frazer-gutenberg-l13618-l13727
+source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+passage_locator:
+  label: CONTENTS / NOTE. OFFERINGS OF FIRST-FRUITS. / INDEX. / FOOTNOTES; lines 13618-13727
+  start: '13618'
+  end: '13727'
+  translation: 'The Golden Bough: A Study in Comparative Religion (Vol. 2 of 2)'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is a set of scholarly notes citing sources for ritual examples.
+    It mentions discrepancies in accounts of an Inca festival; a possible demon-expulsion
+    rite involving a car and an agricultural festival; a sea-slug rite with men in
+    a temple and women and boys confined at home; New Year or year-end expulsions
+    of wicked souls or devils in Tonquin, Cambodia, and Siam; and a Westphalian practice
+    of driving out the Süntevögel or butterfly by knocking on houses and doors, with
+    feared misfortunes if the rite is omitted.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The note reports that accounts of an Inca festival differ on its month and
+    on the number of runners in Cuzco.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A rite is described as possibly involving devils driven out upon a car, or
+    a car with contents used as a bribe to induce them to go.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The car-related rite is grouped with expulsions of demons accompanying an
+    agricultural festival.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: In one account, a sea-slug was eaten by men alone during four days in a temple.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: In the same account, women and boys remained shut up in their houses during
+    the four days.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A Tonquin ceremony is described as an expulsion of wicked souls at the New
+    Year, combined in one account with sacrifice to the honoured dead.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: For Siam, the passage discusses an expulsion of devils occurring on the last
+    day of the year or in the fourth month, with comparison to Cambodia.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: In Westphalia, children go from house to house on St. Peter’s Day, knocking
+    with hammers and singing rhymes bidding the Süntevögel or butterfly to depart.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: In an alternate Westphalian form, household members go through all rooms and
+    knock on all doors to drive away the Sunnenvögel.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: If the Westphalian ceremony is omitted, the passage says misfortunes are expected,
+    including vermin in the house, sick cattle, and butterflies multiplying at milk-bowls.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Inca festival runners in Cuzco
+  description: Runners mentioned in discrepant accounts of an Inca festival, with
+    the number given as either four or four hundred.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Devils or demons
+  description: Beings said to be driven out upon a car or induced to go by a car with
+    contents.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Men eating the sea-slug
+  description: Men who eat the sea-slug and remain in the temple for four days in
+    one account.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Women and boys
+  description: Women and boys who remain shut up in their houses during the four-day
+    sea-slug rite.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Wicked souls
+  description: Souls expelled at the New Year in an account of Tonquin.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Honoured dead
+  description: Dead persons to whom sacrifice is made in Tavernier’s account of the
+    Tonquin ceremony.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Westphalian children
+  description: Children who go from house to house, knock with hammers, sing rhymes,
+    and receive presents.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+- id: fig:8
+  name_or_label: People of the house
+  description: Householders who may go through rooms and knock on doors to drive away
+    the Sunnenvögel.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+- id: fig:9
+  name_or_label: Süntevögel, Sunnenvögel, or Sommervögel
+  description: The entity identified in the note as the butterfly and ordered or driven
+    to depart.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: ritual runner
+  assigned_to:
+  - fig:1
+  basis: The note contrasts accounts giving different numbers of runners in Cuzco.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: entity expelled or driven away
+  assigned_to:
+  - fig:2
+  - fig:5
+  - fig:9
+  basis: Devils, wicked souls, and the Süntevögel are described as being expelled,
+    driven out, or told to depart.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+- id: role:3
+  label: male ritual participant
+  assigned_to:
+  - fig:3
+  basis: Men alone eat the sea-slug and stay in the temple for four days.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: secluded group
+  assigned_to:
+  - fig:4
+  basis: Women and boys remain shut up in their houses during the four days.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: sacrifice recipient
+  assigned_to:
+  - fig:6
+  basis: The honoured dead are associated with sacrifice in Tavernier’s account.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: expulsion performer
+  assigned_to:
+  - fig:7
+  - fig:8
+  basis: Children and householders perform knocking actions to make the Süntevögel
+    depart.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: car with contents
+  literal_form: car and its contents
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: sea-slug
+  literal_form: sea-slug eaten by men alone
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: temple
+  literal_form: temple where men live for four days
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: houses and rooms
+  literal_form: houses, rooms, and doors involved in confinement or knocking rites
+  associated_figures:
+  - fig:4
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: sym:5
+  label: hammers
+  literal_form: hammers used for knocking on houses
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: butterfly
+  literal_form: Süntevögel, Sunnenvögel, or Sommervögel, identified as the butterfly
+  associated_figures:
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: milk-bowls
+  literal_form: milk-bowls where butterflies are expected to multiply if the rite
+    is omitted
+  associated_figures: []
+  taxonomy_refs:
+  - milk
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Car-related expulsion of devils at an agricultural festival
+  summary: The note discusses whether devils are carried away on a car or induced
+    to go by a car with contents, and places the case among demon expulsions accompanying
+    agricultural festivals.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Sea-slug rite with gendered separation
+  summary: Men eat a sea-slug and live for four days in a temple, while women and
+    boys stay shut up in their houses.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: New Year expulsion and sacrifice in Tonquin
+  summary: A New Year rite expels wicked souls, and one account combines this with
+    sacrifice to the honoured dead.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Westphalian expulsion of the Süntevögel
+  summary: On St. Peter’s Day, children or householders knock on houses, rooms, or
+    doors to make the Süntevögel depart; omission is expected to cause household and
+    livestock misfortunes.
+  figure_refs:
+  - fig:7
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: ritual expulsion of demons, wicked souls, or evil
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage repeatedly describes expulsions of devils, wicked souls, demons,
+    or the Süntevögel in agricultural, New Year, year-end, or fixed-date contexts.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage is a footnote cluster and often summarizes or compares secondary
+    accounts rather than giving full ritual narratives.
+- id: motif:2
+  label: offering or inducement used to make harmful beings depart
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The note says a car with contents may be regarded as a bribe to induce devils
+    to go rather than as a vehicle carrying them away.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: 'The wording is explicitly tentative: the author presents alternative
+    interpretations.'
+- id: motif:3
+  label: calendrical purification or expulsion at New Year or year-end
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage mentions expulsion of wicked souls at New Year in Tonquin and
+    discusses devil expulsion on the last day of the year in Siam, with comparison
+    to Cambodia.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The details are brief and include uncertainty about calendar reckoning.
+- id: motif:4
+  label: sacrifice to honoured dead linked with expulsion rite
+  taxonomy_refs:
+  - sacrifice
+  basis: One account of the Tonquin ceremony combines the expulsion of wicked souls
+    at New Year with sacrifice to the honoured dead.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage notes that this is Tavernier’s account and that Baron criticized
+    Tavernier unfavourably.
+- id: motif:5
+  label: household knocking rite to avert misfortune
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The Westphalian rite uses knocking on houses or doors to drive away the Süntevögel,
+    and omission is said to bring vermin, sick cattle, and butterflies at milk-bowls.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The harmful entity is glossed as the butterfly in this note; broader interpretation
+    is not supplied in the passage.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself groups the car-related case with other expulsions of demons
+    connected to agricultural festivals.
+  claim_level: same_motif
+  target: expulsions of demons accompanying agricultural festivals
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The note states that classification of the car case is uncertain and
+    may instead be a mediate expulsion or a bribe.
+- id: claim:2
+  claim: The passage treats the Westphalian Süntevögel practice as a Westphalian form
+    of the expulsion of evil.
+  claim_level: same_function
+  target: expulsion of evil rites
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage gives no historical-contact claim and only identifies functional
+    similarity.
+- id: claim:3
+  claim: The Tonquin, Cambodia, and Siam notes support a cautious comparison of calendrical
+    expulsion rites around New Year, year-end, or comparable month reckonings.
+  claim_level: same_function
+  target: New Year or year-end expulsion of wicked souls or devils in mainland Southeast
+    Asian examples
+  evidence_refs:
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The calendar discussion is complicated by differing month systems and
+    brief source summaries.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 13618-13633
+  quote_or_summary: The note cites Garcilasso, Molina, and Acosta on an Inca festival,
+    noting discrepancies about the month and the number of runners in Cuzco.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 13642-13650
+  quote_or_summary: The note says devils may be driven out upon a car, or the car
+    and its contents may be a bribe to induce them to go; the case is taken with expulsions
+    of demons accompanying an agricultural festival.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 13657-13661
+  quote_or_summary: According to Wilkes, a sea-slug was eaten by men alone, who lived
+    for four days in the temple, while women and boys remained shut in their houses.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 13666-13672
+  quote_or_summary: A Tonquin ceremony is discussed; Tavernier’s account combines
+    the expulsion of wicked souls at New Year with sacrifice to the honoured dead.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 13675-13683
+  quote_or_summary: For Siam, Bastian and Pallegoix are cited on an expulsion occurring
+    on the last day of the year, though also in the fourth month; the note relates
+    this calendar issue to Cambodia.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 13696-13706
+  quote_or_summary: A Westphalian expulsion of evil drives out the Süntevögel, Sunnenvögel,
+    or Sommervögel, identified as the butterfly; children knock on houses with hammers
+    and sing for it to depart, or householders knock on doors through the rooms.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 13706-13711
+  quote_or_summary: If the Westphalian ceremony is omitted, expected misfortunes include
+    rats, mice, and vermin in the house, sick cattle, and butterflies multiplying
+    at the milk-bowls.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is composed of footnotes and bibliographic comments, so ritual
+    information is fragmentary. Strongest extraction concerns explicitly described
+    expulsion rites and the Westphalian knocking practice.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No historical-contact or common-inheritance claim is made; comparisons are limited to functions and groupings explicitly present in the passage.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:comparative-golden-bough-volume-2-frazer-gutenberg__l13618-l13727
+  passage_sha256=f54575cd6a1b7c9823dd281ce9d1d45b79102bfa6977adab17a6909fbc3f4921
+

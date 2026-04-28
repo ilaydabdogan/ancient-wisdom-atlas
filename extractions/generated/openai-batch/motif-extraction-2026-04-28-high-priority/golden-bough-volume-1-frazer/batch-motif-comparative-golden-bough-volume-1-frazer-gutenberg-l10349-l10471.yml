@@ -1,0 +1,384 @@
+---
+record_id: batch.motif.comparative-golden-bough-volume-1-frazer-gutenberg-l10349-l10471
+source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+passage_locator:
+  label: CHAPTER II. THE PERILS OF THE SOUL. / HEINE. / CHAPTER III. KILLING THE GOD.
+    / FOOTNOTES; lines 10349-10471
+  start: '10349'
+  end: '10471'
+  translation: 'The Golden Bough: A Study in Comparative Religion (Vol. 1 of 2)'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage consists chiefly of footnotes. One note explains a custom in
+    which people search for a sick person's missing soul, suspect that doctors or
+    a head-doctor may have swallowed it, hold the head-doctor upside down to empty
+    it out, wash his head, and pour the water on the patient to restore the soul.
+    Other notes cite sources for practices such as hunting souls and compare them
+    cautiously with Ezekiel xiii. Further notes mention beliefs about a hyaena causing
+    a dog to fall by treading on its moon-cast shadow, and Chinese brass mirrors hung
+    over idols to frighten evil spirits.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A missing soul is sought in the head-doctor's box.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: When the soul is not found in the box, the people consider that the head-doctor
+    may have swallowed it.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The head-doctor is held up by the heels in order to empty out the soul.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Water used to wash the head-doctor's head is poured on the patient's head
+    because it may contain the missing soul.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: The recovered soul is described as often conveyed into the sick person's head.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:6
+  text: Frazer reports a suggestion that the practice of hunting souls denounced in
+    Ezekiel xiii. 17 sqq. was akin to the practices discussed in the text.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: A cited passage describes a hyaena treading on the moon-cast shadow of a dog
+    on a roof, after which the dog falls to the hyaena and is eaten.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: Chinese brass mirrors are said to be hung over household idols so that evil
+    spirits entering the house will see themselves and be scared away.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: sick person or patient
+  description: The person whose missing soul is to be restored.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: head-doctor
+  description: A doctor whose box is searched and who is suspected of having swallowed
+    the missing soul.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: other doctors
+  description: Doctors who were first supposed to have swallowed the soul.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: hyaena
+  description: An animal described as causing a dog to fall by treading on the dog's
+    moon-cast shadow, then devouring it.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: dog
+  description: A dog on a roof whose shadow is trodden by the hyaena and who falls
+    to be devoured.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: evil spirits
+  description: Spirits entering a house who are expected to be frightened by seeing
+    themselves in mirrors.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: household idols
+  description: Idols over which brass mirrors are hung in Chinese houses.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: recipient of soul restoration
+  assigned_to:
+  - fig:1
+  basis: The water that may contain the missing soul is poured on the patient's head
+    to restore the soul to him.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: suspected soul-holder
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The note says other doctors were first supposed to have swallowed the soul,
+    and later the head-doctor may be suspected of swallowing it.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: animal predator using shadow action
+  assigned_to:
+  - fig:4
+  basis: The hyaena treads on the dog's shadow, the dog falls, and the hyaena devours
+    it.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: animal victim linked to shadow
+  assigned_to:
+  - fig:5
+  basis: The dog falls after its shadow is acted on and is then devoured.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: spirit repelled by reflection
+  assigned_to:
+  - fig:6
+  basis: Evil spirits entering the house and seeing themselves in mirrors are expected
+    to be scared away.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: household cult object associated with mirrors
+  assigned_to:
+  - fig:7
+  basis: Brass mirrors are hung over idols in houses.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: missing or recovered soul
+  literal_form: soul
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: head-doctor's box
+  literal_form: box
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: head as place of soul restoration
+  literal_form: head
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: washing water possibly carrying the soul
+  literal_form: water
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:5
+  label: moon-cast shadow
+  literal_form: shadow cast by moonlight
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: brass mirror
+  literal_form: brass mirror
+  associated_figures:
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:7
+  label: reflected image
+  literal_form: spirits seeing themselves in mirrors
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Testing and restoring a missing soul
+  summary: After failing to find the patient's soul in the head-doctor's box, people
+    suspect the head-doctor may have swallowed it, hold him upside down to empty it
+    out, wash his head, and pour the water on the patient's head to restore the soul.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Hyaena acts on a dog's shadow
+  summary: A hyaena is described as treading on the shadow of a dog cast by the moon,
+    causing the dog to fall and be devoured.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Mirrors frighten entering spirits
+  summary: Brass mirrors are hung over idols in Chinese houses so that evil spirits
+    entering the house see themselves and are scared away.
+  figure_refs:
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Hunting and restoring a lost soul
+  taxonomy_refs: []
+  basis: The note describes searching for a missing soul, testing whether a ritual
+    specialist has swallowed it, and returning it to the sick person through water
+    poured on the head.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage is a footnote summarizing a custom and its interpretation;
+    the larger narrative context is outside the supplied lines.
+- id: motif:2
+  label: Soul or vital essence transferred through water to the head
+  taxonomy_refs:
+  - water
+  basis: Water used on the head-doctor's head may contain the missing soul and is
+    poured on the patient's head to restore it.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The taxonomy reference is to the literal symbol water, not a specific
+    motif-family identifier.
+- id: motif:3
+  label: Shadow as vulnerable extension of a being
+  taxonomy_refs: []
+  basis: The cited hyaena passage links an action on the dog's shadow with the dog
+    falling and being devoured.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The note quotes or summarizes an emended ancient passage; no broader interpretation
+    is given in the supplied text.
+- id: motif:4
+  label: Apotropaic mirror repels spirits
+  taxonomy_refs: []
+  basis: The note says brass mirrors are hung over idols because spirits who see themselves
+    in the mirrors will be scared away.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage gives only a brief explanatory note and no narrative elaboration.
+comparison_claims:
+- id: claim:1
+  claim: The passage reports a scholarly suggestion that the practice of hunting souls
+    denounced in Ezekiel xiii. 17 sqq. was akin to the soul-hunting practices described
+    in Frazer's surrounding text.
+  claim_level: same_motif
+  target: Ezekiel xiii. 17 sqq. and the soul-hunting practices discussed by Frazer
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage reports another scholar's suggestion and does not quote
+    Ezekiel or detail the exact practices from the surrounding text within this line
+    range.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 10349-10360, footnote 457
+  quote_or_summary: Failing to find the soul in the head-doctor's box, people may
+    suppose he swallowed it, hold him up by the heels to empty out the soul, and pour
+    head-washing water on the patient's head to restore the soul.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 10361-10384, footnote 458
+  quote_or_summary: Frazer cites many sources and notes W. Robertson Smith's suggestion
+    that the practice of hunting souls denounced in Ezekiel xiii. 17 sqq. must have
+    been akin to those described in the text.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 10405-10413, footnote 467
+  quote_or_summary: A cited Latin passage says that when a hyaena treads on the moon-cast
+    shadow of a dog on a roof, the dog falls to it and is devoured.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 10434-10438, footnote 475
+  quote_or_summary: Chinese brass mirrors are hung over household idols because evil
+    spirits entering the house and seeing themselves in the mirrors are thought to
+    be scared away.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summary generated from supplied passage.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The supplied passage is mostly footnotes, so the extraction relies on brief
+    explanatory notes rather than full narrative passages. Motif labels are plain
+    descriptive labels except where an available symbol taxonomy reference is literal
+    and directly supported.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No unsupported taxonomy motif-family IDs were assigned. Comparison claims are limited to the explicit Ezekiel comparison reported in the passage.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:comparative-golden-bough-volume-1-frazer-gutenberg__l10349-l10471
+  passage_sha256=65ac583d2833de33ab5e78e73a72d705518f017927e5bb7fb55ae6973a4f7cda
+

@@ -1,0 +1,502 @@
+---
+record_id: batch.motif.comparative-golden-bough-volume-2-frazer-gutenberg-l179-l256
+source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+passage_locator:
+  label: 'The Golden Bough: A Study in Comparative Religion (Vol. 2 of 2) / CONTENTS;
+    lines 179-256'
+  start: '179'
+  end: '256'
+  translation: 'The Golden Bough: A Study in Comparative Religion (Vol. 2 of 2)'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: Both dog and wolf appear as embodiments of the corn-spirit in harvest-customs.
+  summary: The passage surveys European harvest customs in which the dog, wolf, last
+    sheaf, human harvesters, and a wether are treated as manifestations or bearers
+    of the corn-spirit. It describes naming, catching, killing, threshing, storing,
+    and midwinter procession customs connected with this figure.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage states that both dog and wolf appear as embodiments of the corn-spirit
+    in harvest customs.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: In several localities the person who binds or cuts the last sheaf, the last
+    sheaf itself, or the act of finishing reaping is named with dog terms such as
+    Wheat-dog, Peas-pug, Bitch, or Dog of the harvest.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: In north-eastern French harvest speech, a harvester who falls behind is said
+    to have encountered or been bitten by the White Dog or White Bitch.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: In German harvest customs, the Wolf is said to sit in the last sheaf or last
+    standing corn, and the person who cuts or binds it is said to have, fetch, or
+    be bitten by the Wolf.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A woman who binds the last sheaf may be called Wolf for a year and, in Rügen,
+    bites household women on returning home and receives meat.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Some customs give the last sheaf the shape of a wolf, preserve it in the barn,
+    sprinkle it with beer or brandy, or make the Wolf sheaf in human form and clothes.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: At threshing, the Wolf is described as hiding in the corn or last bundle until
+    driven out or killed by flail strokes; one custom leads a straw-covered man called
+    the Wolf in procession.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: French harvesters cry that they will catch the Wolf near the end of reaping;
+    in Guyenne a garlanded wether called the Wolf of the field is led round the field
+    and then killed.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The passage suggests that the Wolf may be thought to live during winter in
+    the farmhouse and reappear at midwinter in customs involving a man with wolf skin,
+    a stuffed wolf, or a leaf-covered man called the Wolf.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Corn-dog / White Dog / White Bitch
+  description: Dog or bitch figure named in harvest customs and speech, associated
+    with the last sheaf, delayed harvesters, and finishing reaping.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Corn-wolf / Wolf
+  description: Wolf figure said to be in the last sheaf or last standing corn, caught
+    or killed at harvest and threshing, and sometimes brought home on the last wagon.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Last-sheaf cutter, binder, or thresher
+  description: Human harvest participant who cuts, binds, or strikes the final corn
+    or sheaf and is thereby linked with Dog or Wolf names and actions.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Woman called Wolf in Rügen
+  description: Woman who binds the last sheaf and is addressed as Wolf; on returning
+    home she bites the lady of the house and stewardess and receives meat.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Straw-covered man called the Wolf
+  description: Man enveloped in threshed-out straw, led by a chain in procession after
+    threshing, and identified as the Wolf.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Wether called the Wolf of the field
+  description: Garlanded wether led around the field in Guyenne after the last corn
+    is reaped and then killed on the field.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Corn-spirit
+  description: Entity identified by the passage as embodied in dog, wolf, and wether
+    harvest forms and as present in the last sheaf.
+  role_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: Embodiment of the corn-spirit
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:6
+  basis: The passage explicitly treats dog and wolf as embodiments of the corn-spirit
+    and says the wether killing represents the death of the corn-spirit present in
+    the last sheaf.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: Bearer or captor of the last-sheaf spirit
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The person who cuts or binds the last corn is said to kill, have, fetch,
+    catch, or be the Dog or Wolf.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: role:3
+  label: Ritual representative of the caught Wolf
+  assigned_to:
+  - fig:5
+  basis: The passage says the straw-covered man called the Wolf represents the corn-spirit
+    caught escaping from the threshed corn.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: Killed field animal
+  assigned_to:
+  - fig:6
+  basis: The wether called the Wolf of the field is led round the field and killed
+    there.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Dog harvest name
+  literal_form: Dog, White Dog, White Bitch, Wheat-dog, Rye-dog, Potato-dog, Peas-pug
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Wolf harvest name
+  literal_form: Wolf, Corn-wolf, Rye-wolf, Potato-wolf, Wheat-wolf, Oats-wolf
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: Last sheaf or last standing corn
+  literal_form: Last sheaf, last bunch of standing corn, last bundle, last corn
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: Wolf-shaped or human-shaped sheaf
+  literal_form: Last sheaf shaped as a wolf or made in human form and dressed in clothes
+  associated_figures:
+  - fig:2
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: Threshing strokes
+  literal_form: Flail strokes and threshing of the last sheaf until reduced to chopped
+    straw
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:5
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: Garlanded wether
+  literal_form: Wether with horns decked in flowers and corn-ears and body encircled
+    with garlands and ribbons
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:7
+  label: Midwinter wolf display
+  literal_form: Wolf skin over a man’s head, stuffed wolf, or leaf-covered man called
+    the Wolf
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Dog names at the end of harvest
+  summary: The passage lists customs in which the last sheaf, the person handling
+    it, or the end of reaping is described with dog names and with phrases about killing
+    the Dog.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Wolf in the last sheaf
+  summary: German customs locate the Wolf in the last sheaf or standing corn, transfer
+    the Wolf name to the person who cuts or binds it, and sometimes bring home or
+    store a shaped Wolf sheaf.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:7
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Wolf driven out or killed at threshing
+  summary: At threshing the Wolf is treated as hidden in the last bundle, driven out
+    or killed by flail strokes, or represented by a straw-covered man led in procession.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:5
+  - fig:7
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: French catching and killing of the Wolf
+  summary: French harvesters announce catching the Wolf in the final corn; in Guyenne
+    a garlanded wether called the Wolf of the field is led around the field and killed.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:6
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Midwinter reappearance of the Wolf
+  summary: The Wolf is said to live through winter in the farmhouse and to reappear
+    at midwinter in processions using wolf skins, stuffed wolves, or a leaf-covered
+    man called the Wolf.
+  figure_refs:
+  - fig:2
+  - fig:7
+  symbol_refs:
+  - sym:2
+  - sym:7
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Animal embodiment of the corn-spirit
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage repeatedly identifies dog, wolf, and wether forms with the corn-spirit
+    in harvest customs.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: The taxonomy reference is broad; the passage concerns harvest ritual rather
+    than a narrative myth.
+- id: motif:2
+  label: Last sheaf as locus of a spirit
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The last sheaf or last standing corn is named Dog, Bitch, Wolf, or wether
+    and is treated as containing or representing the corn-spirit.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage reports regional customs through Frazer’s comparative framework.
+- id: motif:3
+  label: Killing or catching the harvest spirit
+  taxonomy_refs:
+  - sacrifice
+  - seasonal_cycle
+  basis: The passage describes killing the Dog, striking down or killing the Wolf
+    at threshing, catching the Wolf, and killing the wether as the death of the corn-spirit.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: Not every example is a sacrifice in a strict offering sense; some are
+    verbal formulas or symbolic acts.
+- id: motif:4
+  label: Theriomorphic and anthropomorphic forms of the same spirit
+  taxonomy_refs: []
+  basis: The passage says wolf-shaped sheaves and human-shaped dressed sheaves show
+    a confusion between animal and human conceptions of the corn-spirit.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: This is Frazer’s interpretation of the customs rather than a quoted native
+    explanation.
+- id: motif:5
+  label: Winter survival and spring renewal of the harvest spirit
+  taxonomy_refs:
+  - dying_and_returning
+  - seasonal_cycle
+  basis: The passage says the Wolf may be thought to live in the farmhouse during
+    winter and reappear at midwinter as lengthening days herald spring.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The wording is cautious in the source; it suggests rather than proves
+    a full death-and-return pattern.
+comparison_claims:
+- id: claim:1
+  claim: 'The passage treats dog and wolf harvest figures as performing the same function:
+    embodying or naming the corn-spirit at the end of harvest.'
+  claim_level: same_function
+  target: Dog and wolf forms of the corn-spirit in European harvest customs
+  evidence_refs:
+  - ev:1
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage compares reported customs, not direct historical derivation
+    among regions.
+- id: claim:2
+  claim: The passage explicitly describes a mixture of wolf and wether conceptions
+    in the Guyenne custom, where the wether is called the Wolf of the field and killed
+    after the last corn is reaped.
+  claim_level: same_function
+  target: Wolf and wether forms of the corn-spirit in French harvest customs
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is local to the reported custom and depends on Frazer’s
+    explanation of the term and act.
+- id: claim:3
+  claim: The passage connects the harvest Wolf with midwinter procession forms, suggesting
+    continuity between harvest-spirit customs and seasonal renewal observances.
+  claim_level: same_function
+  target: Harvest Wolf and midwinter wolf procession customs
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage uses tentative language and does not establish historical
+    contact or common inheritance.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 179-190
+  quote_or_summary: 'Dog harvest customs: dog and wolf are introduced as embodiments
+    of the corn-spirit; examples include Wheat-dog, Peas-pug, White Dog or White Bitch,
+    Dog of the harvest, and formulas about killing the Wheat-dog, Rye-dog, or Potato-dog.'
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain; evidence summarized with short phrases from the passage.
+- id: ev:2
+  type: summary
+  locator: lines 191-211
+  quote_or_summary: 'German wolf customs: the Wolf is said to sit in the last sheaf;
+    the last bunch or sheaf is called Wolf; the binder or cutter may be called Wolf;
+    in Rügen the woman called Wolf bites household women and receives meat; some sheaves
+    are wolf-shaped or human-shaped and dressed.'
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 212-223
+  quote_or_summary: 'Threshing customs: the Wolf is thought to hide among cut corn
+    or in the last bundle until driven out by flails; at Wanzleben a straw-covered
+    man called Wolf is led by a chain; in Trier the last sheaf is threshed to chopped
+    straw to kill the Corn-wolf.'
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 224-241
+  quote_or_summary: 'French harvest customs: reapers call out about catching the Wolf;
+    near Chambéry a ring is formed around the last standing corn; in Guyenne a garlanded
+    wether called the Wolf of the field is led around the field and killed, interpreted
+    as the death of the corn-spirit in the last sheaf.'
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 242-256
+  quote_or_summary: 'Winter customs: the Wolf may be thought to live in the farmhouse
+    during winter and reappear at midwinter; Polish Christmas customs include a man
+    with wolf skin, a stuffed wolf carried for money, and an indicated older custom
+    of a leaf-covered man called the Wolf.'
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is explicit about dog, wolf, wether, last-sheaf, killing, and
+    seasonal-return patterns. Motif labels and taxonomy links are interpretive and
+    should be reviewed because the text is a comparative scholarly synthesis rather
+    than a single primary tradition.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the provided passage and metadata. No external taxonomy IDs were added beyond supplied motif family refs.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:comparative-golden-bough-volume-2-frazer-gutenberg__l179-l256
+  passage_sha256=3cd8e428bca99555ca6072473f2f42696845acaddd25bfb45c8a3afd06d2a710
+

@@ -1,0 +1,318 @@
+---
+record_id: batch.motif.comparative-golden-bough-volume-1-frazer-gutenberg-l10942-l11093
+source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+passage_locator:
+  label: CHAPTER II. THE PERILS OF THE SOUL. / HEINE. / CHAPTER III. KILLING THE GOD.
+    / FOOTNOTES; lines 10942-11093
+  start: '10942'
+  end: '11093'
+  translation: 'The Golden Bough: A Study in Comparative Religion (Vol. 1 of 2)'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: This passage is a sequence of footnotes citing ethnographic, classical,
+    biblical, and folklore sources. Substantive details include a Latin quotation
+    about preserved hair to be cut by a father at altars, a citation to Numbers 6:5,
+    and a note about explanations for delaying the cutting of girls' nails among Indians
+    identified by the cited sources as Tinneh or Chepewyan, compared with European
+    explanations for a similar custom.
+  language: English with one Latin quotation
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage consists primarily of numbered footnotes and bibliographic citations.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A quoted passage from Valerius Flaccus names Eurytion and states that his
+    preserved hair will be cut by his father at Aonian altars when he returns.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: One footnote cites Numbers 6:5 without giving further explanatory text in
+    this excerpt.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: 'One note reports an alleged reason that girls'' nails should not be cut sooner:
+    otherwise the girls would be lazy and unable to embroider in porcupine quill-work.'
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:5
+  text: The same note states that the alleged Indian reason is probably a late invention,
+    like European reasons assigned for a similar custom, with the commonest European
+    reason being that the child would become a thief.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: A footnote lists multiple European folklore sources immediately before the
+    note comparing European reasons for a similar custom.
+  category: other
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Eurytion
+  description: Named figure in the Latin quotation whose preserved hair is to be cut
+    upon his return.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Eurytion's father
+  description: Figure in the Latin quotation who will cut Eurytion's hair at Aonian
+    altars.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Indians identified in cited sources as Tinneh or Chepewyan
+  description: Group to whom the note attributes an explanation for delaying the cutting
+    of girls' nails.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: Girls
+  description: Girls whose nails are the subject of the cutting restriction or delay
+    mentioned in the note.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Europeans assigning reasons for a similar custom
+  description: European comparanda mentioned as assigning reasons for a similar custom,
+    including the claim that the child would become a thief.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: bearer of preserved hair
+  assigned_to:
+  - fig:1
+  basis: The Latin quotation says Eurytion's hair is preserved and will later be cut.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: parental cutter of hair at altars
+  assigned_to:
+  - fig:2
+  basis: The father is said to cut the hair at Aonian altars after Eurytion's return.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: group associated with nail-cutting explanation
+  assigned_to:
+  - fig:3
+  basis: The note attributes the reason for delayed nail cutting to the Indians mentioned
+    in the cited sources.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: subjects of nail-cutting restriction
+  assigned_to:
+  - fig:4
+  basis: The note discusses girls' nails and what would happen if they were cut sooner.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: comparative source of analogous explanations
+  assigned_to:
+  - fig:5
+  basis: The note compares the alleged Indian reason with reasons assigned in Europe
+    for a similar custom.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: preserved hair
+  literal_form: hair kept uncut until a later cutting
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: Aonian altars
+  literal_form: altars at which hair will be cut
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: girls' nails
+  literal_form: nails whose cutting is delayed or restricted
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: porcupine quill-work
+  literal_form: embroidery in porcupine quill-work
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: child becoming a thief
+  literal_form: European explanatory consequence for a similar custom
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Return and cutting of preserved hair
+  summary: The Latin quotation presents Eurytion as keeping hair preserved until his
+    father cuts it at Aonian altars after his return.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Explanation for delayed cutting of girls' nails
+  summary: The note reports an explanation that cutting girls' nails too soon would
+    make them lazy and unable to perform porcupine quill-work.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+- id: scene:3
+  label: Comparison with European explanations
+  summary: The note compares the alleged Indian explanation with European explanations
+    for a similar custom, especially the claim that the child would become a thief.
+  figure_refs:
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Preserved hair followed by ritual cutting at altars
+  taxonomy_refs: []
+  basis: The Latin quotation describes hair preserved until a father cuts it at altars
+    after the son's return.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The excerpt gives only the quoted lines and does not explain the wider
+    ritual or narrative context.
+- id: motif:2
+  label: Delayed cutting of girls' nails with consequence explanation
+  taxonomy_refs: []
+  basis: The note reports that cutting girls' nails sooner was said to cause laziness
+    and inability to embroider in porcupine quill-work.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The note itself questions the explanation as probably a later invention.
+- id: motif:3
+  label: Analogous explanations for similar body-cutting customs
+  taxonomy_refs: []
+  basis: The note explicitly compares the Indian explanation with European explanations
+    for a similar custom.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The European custom is not described in detail in this excerpt.
+comparison_claims:
+- id: claim:1
+  claim: The passage cautiously compares the alleged Indian explanation for delayed
+    cutting of girls' nails with European explanations for a similar custom.
+  claim_level: same_function
+  target: European reasons assigned for a similar custom, especially the belief that
+    the child would become a thief
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage gives a comparison of explanations, but it does not fully
+    describe the European custom or establish historical contact.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 10942-11093
+  quote_or_summary: The passage is a set of numbered footnotes, mostly bibliographic
+    references, spanning notes 647-694.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source text.
+- id: ev:2
+  type: quote
+  locator: lines 11043-11046
+  quote_or_summary: 'Valerius Flaccus, Argonautica i.378 sq.: “Tectus et Eurytion
+    servato colla capillo, / Quem pater Aonias reducem tondebit ad aras.”'
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source text.
+- id: ev:3
+  type: citation
+  locator: line 11056
+  quote_or_summary: Footnote 687 cites Numbers vi.5.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source text.
+- id: ev:4
+  type: summary
+  locator: lines 11058-11068
+  quote_or_summary: Footnote 688 lists multiple European folklore and ethnological
+    references, including works by Köhler, Henderson, Panzer, Zingerle, Wolf, Knoop,
+    Veckenstedt, Haltrieh, and Krause.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source text.
+- id: ev:5
+  type: quote
+  locator: lines 11072-11078
+  quote_or_summary: The note says the reason alleged by the Indians was that if girls'
+    nails were cut sooner they would be lazy and unable to embroider in porcupine
+    quill-work, and adds that this is probably a late invention like European reasons
+    for a similar custom, commonly that the child would become a thief.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source text.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: This line range is mainly footnotes rather than narrative exposition. Motif
+    extraction is therefore limited to the few notes that contain explicit substantive
+    details.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No taxonomy references were assigned because the available taxonomy list does not include precise hair-cutting or nail-cutting taboo categories, and broader categories would be interpretive beyond the excerpt.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:comparative-golden-bough-volume-1-frazer-gutenberg__l10942-l11093
+  passage_sha256=e2fea8e9ab4e0967e8f3b245065a54e30842eac2507bb2450bcf9d997a62aa88
+

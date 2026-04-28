@@ -1,0 +1,289 @@
+---
+record_id: batch.motif.comparative-golden-bough-volume-2-frazer-gutenberg-l13084-l13161
+source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+passage_locator:
+  label: CONTENTS / NOTE. OFFERINGS OF FIRST-FRUITS. / INDEX. / FOOTNOTES; lines 13084-13161
+  start: '13084'
+  end: '13161'
+  translation: 'The Golden Bough: A Study in Comparative Religion (Vol. 2 of 2)'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage consists mainly of footnotes citing sources for ethnographic
+    examples. Brief notes mention Canadian Indians killing every elk they could overtake
+    lest an animal escape and warn others; a rule that a dog must not eat a salmon
+    heart; and a Conchucos sacred fox whose killed body was represented by a stuffed
+    skin set up.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A note says Canadian Indians used to kill every elk they could overtake in
+    the chase.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The stated reason for killing every overtaken elk was to prevent any elk from
+    escaping to warn their fellows.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A cited source says a dog must never be permitted to eat the heart of a salmon.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: To prevent dogs from eating salmon hearts, people cut the heart out before
+    selling the fish.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A note says the fox was the sacred animal of the Conchucos in Peru.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: When such a fox had been killed, its skin was stuffed and set up.
+  category: action
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Canadian Indians
+  description: Group said to kill every elk they could overtake in the chase.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: elk / elan
+  description: Animal pursued and killed so that none would escape to warn their fellows.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: dog
+  description: Animal that must not be permitted to eat the heart of a salmon.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: salmon
+  description: Fish whose heart is removed before sale to prevent a dog from eating
+    it.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Conchucos in Peru
+  description: People for whom the fox is described as a sacred animal.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: fox
+  description: Sacred animal of the Conchucos; when killed, its skin was stuffed and
+    set up.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: chasers and killers of elk
+  assigned_to:
+  - fig:1
+  basis: The note says they killed every elk they could overtake in the chase.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: potential warning animal
+  assigned_to:
+  - fig:2
+  basis: The note says no elk should escape to warn their fellows.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: prohibited eater
+  assigned_to:
+  - fig:3
+  basis: The cited statement says a dog must not be permitted to eat the salmon heart.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: fish with protected heart
+  assigned_to:
+  - fig:4
+  basis: The salmon heart is removed before sale to prevent dog consumption.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: people associated with sacred fox
+  assigned_to:
+  - fig:5
+  basis: The note identifies the fox as the sacred animal of the Conchucos in Peru.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: sacred animal represented after death
+  assigned_to:
+  - fig:6
+  basis: The fox is called sacred, and its skin is stuffed and set up after it has
+    been killed.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: salmon heart
+  literal_form: heart of a salmon
+  associated_figures:
+  - fig:4
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: stuffed fox skin
+  literal_form: stuffed skin of a killed fox set up
+  associated_figures:
+  - fig:6
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: sacred fox
+  literal_form: fox as sacred animal
+  associated_figures:
+  - fig:6
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Killing elk to prevent warning
+  summary: Canadian Indians are said to kill all elk they overtake in the chase so
+    that none escape and warn other elk.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Preventing dog from eating salmon heart
+  summary: A rule forbids a dog from eating a salmon heart; the heart is removed before
+    the fish is sold.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Stuffing and setting up sacred fox skin
+  summary: When a sacred fox of the Conchucos in Peru is killed, its skin is stuffed
+    and set up.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Killing all game so none warn the herd
+  taxonomy_refs: []
+  basis: The note explicitly states that every overtaken elk was killed lest any escape
+    to warn their fellows.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage is a footnote summary and does not provide a full narrative
+    or ritual context.
+- id: motif:2
+  label: Food taboo protecting an animal heart from a dog
+  taxonomy_refs: []
+  basis: The cited statement says a dog must not eat a salmon heart, and the heart
+    is removed to prevent this.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage does not explain the reason for the prohibition.
+- id: motif:3
+  label: Ritual preservation or display of a killed sacred animal
+  taxonomy_refs: []
+  basis: The fox is described as sacred, and after it is killed its skin is stuffed
+    and set up.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage does not state the purpose of stuffing and setting up the
+    skin.
+comparison_claims:
+- id: claim:1
+  claim: The note invites comparison between the killed sacred fox whose skin is stuffed
+    and set up and the bouphonia discussed elsewhere in the work.
+  claim_level: same_function
+  target: bouphonia
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The passage only says to compare the bouphonia and gives no details
+    of the comparison within this line range.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 13084-13089; footnote 370
+  quote_or_summary: Canadian Indians are said to have killed every elk they could
+    overtake in the chase so that none would escape to warn the others.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 13119-13121; footnote 385
+  quote_or_summary: "“a dog must never be permitted to eat the heart of a salmon”;
+    the note adds that the heart is cut out before sale to prevent this."
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: summary
+  locator: lines 13157-13161; footnote 393
+  quote_or_summary: A fox, described as the sacred animal of the Conchucos in Peru,
+    had its skin stuffed and set up after being killed; the note adds a comparison
+    to the bouphonia.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: low
+  notes: The passage is a footnote section with brief ethnographic notes rather than
+    a continuous mythic narrative; candidate motifs are therefore limited and require
+    review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only details present in the provided line range were extracted; bibliographic citations without passage-level action or symbol content were not treated as motif evidence.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:comparative-golden-bough-volume-2-frazer-gutenberg__l13084-l13161
+  passage_sha256=376052b5f9838916b65a31e81ad56a8cb52b8204fd1ac9d4fbfd222b630d932c
+

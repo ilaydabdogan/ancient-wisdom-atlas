@@ -1,0 +1,265 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l3490-l3501
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE MONKEY AND THE CAMEL / THE SICK MAN AND THE DOCTOR / THE TRAVELLERS AND
+    THE PLANE-TREE / THE FLEA AND THE OX; lines 3490-3501
+  start: '3490'
+  end: '3501'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A flea asks an ox why such a large strong animal serves humans and works
+    for them, while the flea lives on humans and drinks their blood without working.
+    The ox replies that humans treat him kindly by feeding, housing, and patting him.
+    The flea answers that if humans patted him, nothing would be left of him.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A flea addresses an ox and contrasts the ox's size and strength with its service
+    to mankind.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The flea says it lives on human bodies, drinks human blood, and does no work
+    for this benefit.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The ox says men are kind to him, feed and house him well, and sometimes pat
+    his head and neck.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The flea says it avoids being patted because such contact would leave nothing
+    of it.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage presents a sequence of question, reply, and counter-reply between
+    two animals.
+  category: sequence
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Flea
+  description: A small creature that says it lives on human bodies and drinks human
+    blood without working.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Ox
+  description: A big strong animal that serves mankind, does hard work, and says humans
+    feed, house, and pat it kindly.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Men / mankind
+  description: Humans served by the ox; they feed, house, and pat the ox, and are
+    fed upon by the flea.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+roles:
+- id: role:1
+  label: questioning critic
+  assigned_to:
+  - fig:1
+  basis: The flea asks why the ox is content to serve mankind.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: serving laborer
+  assigned_to:
+  - fig:2
+  basis: The ox is described as serving mankind and doing their hard work.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: parasitic beneficiary
+  assigned_to:
+  - fig:1
+  basis: The flea says it lives on humans and drinks their blood without working.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: grateful recipient of care
+  assigned_to:
+  - fig:2
+  basis: The ox says it is grateful because humans feed and house it and show fondness
+    by patting it.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: human providers and hosts
+  assigned_to:
+  - fig:3
+  basis: Humans are described as feeding and housing the ox, while also being bodies
+    from which the flea drinks blood.
+  evidence_refs:
+  - ev:1
+  - ev:2
+symbols:
+- id: sym:1
+  label: blood
+  literal_form: Blood drunk by the flea from human bodies.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: patting gesture
+  literal_form: Humans patting the ox on the head and neck as a sign of fondness;
+    the flea says such patting would destroy it.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: hard work
+  literal_form: The ox's labor performed for mankind.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Flea questions the ox's service
+  summary: The flea asks why the strong ox serves mankind and labors while the flea
+    takes blood from humans without working.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Ox explains gratitude for human care
+  summary: The ox replies that humans are kind because they feed and house him and
+    show fondness by patting him.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Flea explains avoidance of touch
+  summary: The flea says humans would also pat it if allowed, but it avoids this because
+    being patted would destroy it.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: service rewarded by care contrasted with parasitic taking
+  taxonomy_refs: []
+  basis: The ox serves humans and receives food, housing, and affection; the flea
+    takes blood without work but must avoid human touch.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is a passage-level fable pattern rather than a match to a supplied
+    mythological motif family.
+- id: motif:2
+  label: small creature boasts of advantage over larger laboring creature
+  taxonomy_refs: []
+  basis: The flea contrasts its small size and workless feeding with the large strong
+    ox's hard service.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The boast is implicit in the flea's comparison and is limited to the dialogue
+    provided.
+- id: motif:3
+  label: different natures make the same human gesture beneficial to one and dangerous
+    to another
+  taxonomy_refs: []
+  basis: Patting signifies fondness for the ox, but the flea says it would be destroyed
+    by being patted.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage does not attach a formal moral to this contrast.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 3490-3495
+  quote_or_summary: The flea asks why a "big strong fellow" like the ox serves mankind
+    and works, while the flea lives on human bodies and drinks their blood without
+    working.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; brief excerpt/summary used for evidence.
+- id: ev:2
+  type: quote
+  locator: 3495-3499
+  quote_or_summary: The ox replies that men are kind, feed and house him well, and
+    show fondness by patting his head and neck.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; brief excerpt/summary used for evidence.
+- id: ev:3
+  type: quote
+  locator: 3499-3501
+  quote_or_summary: The flea says humans would pat it too if allowed, but it avoids
+    this because "there would be nothing left of me."
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; brief excerpt/summary used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal dialogue and roles are clear. Motif labels are descriptive passage-level
+    candidates; no external comparison is asserted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No supplied taxonomy motif family or symbol was confidently applicable beyond descriptive passage-level motifs.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l3490-l3501
+  passage_sha256=5574872b0aee4836502c3fcb3691bcf8561a54bee6569a4a89f529358496e20c
+

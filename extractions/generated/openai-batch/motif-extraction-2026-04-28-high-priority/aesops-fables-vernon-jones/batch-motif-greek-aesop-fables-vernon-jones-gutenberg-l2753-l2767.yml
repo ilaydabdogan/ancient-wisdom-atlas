@@ -1,0 +1,290 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l2753-l2767
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE CAT AND THE COCK / THE HARE AND THE TORTOISE / THE SOLDIER AND HIS HORSE
+    / THE OXEN AND THE BUTCHERS; lines 2753-2767
+  start: '2753'
+  end: '2767'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The oxen, angered by the butchers' killing of them, plan revenge by killing
+    the butchers. While some sharpen their horns, an old ox warns that experienced
+    butchers at least slaughter without unnecessary pain, whereas inexperienced replacements
+    would cause greater suffering, since humans will not stop eating beef.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The oxen decide to take revenge on the butchers because the butchers have
+    caused havoc among them.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The oxen plot to put the butchers to death on an appointed day.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The oxen gather to discuss how best to carry out their plan.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The more violent oxen sharpen their horns for the fight.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: An old ox addresses the other oxen as brothers and acknowledges their reason
+    to hate the butchers.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The old ox says the butchers understand their trade and avoid causing unnecessary
+    pain.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The old ox warns that if the butchers are killed, inexperienced people will
+    replace them and inflict greater suffering by bungling the slaughter.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The old ox says that even if all the butchers perish, mankind will not go
+    without beef.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Oxen
+  description: A group of oxen who plan revenge against the butchers and discuss killing
+    them.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Butchers
+  description: People who slaughter oxen and are the intended targets of the oxen's
+    revenge.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:3
+  name_or_label: Old Ox
+  description: An older ox who stands and argues against killing the butchers.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: Mankind
+  description: Humans who, according to the old ox, will continue to want beef even
+    if the butchers perish.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Inexperienced replacements
+  description: Others without experience who would be set to slaughter the oxen if
+    the butchers were killed.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: aggrieved plotters
+  assigned_to:
+  - fig:1
+  basis: The oxen seek revenge and plot to kill the butchers.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: skilled slaughterers
+  assigned_to:
+  - fig:2
+  basis: The butchers are said to understand their trade and avoid unnecessary pain.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: counseling elder
+  assigned_to:
+  - fig:3
+  basis: The old ox rises and gives cautionary advice to the other oxen.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:4
+  label: continuing consumers
+  assigned_to:
+  - fig:4
+  basis: Mankind is said to continue wanting beef regardless of whether the butchers
+    live.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: worse successors
+  assigned_to:
+  - fig:5
+  basis: The old ox predicts inexperienced replacements would slaughter badly and
+    cause greater suffering.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: horns sharpened for battle
+  literal_form: sharpened horns
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: beef
+  literal_form: beef
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Oxen plot revenge
+  summary: The oxen decide to avenge the butchers' killing of them by plotting to
+    kill the butchers on a set day.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Council and preparation
+  summary: The oxen gather to discuss their plan, and the more violent among them
+    sharpen their horns for the conflict.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Old ox warns against the plan
+  summary: An old ox argues that killing the skilled butchers would not stop humans
+    from eating beef and would likely lead to more painful slaughter by inexperienced
+    replacements.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: revenge restrained by pragmatic counsel
+  taxonomy_refs:
+  - wisdom
+  basis: The oxen intend violent revenge, but an old ox counsels against it by reasoning
+    that their condition would become worse under inexperienced replacements.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The available taxonomy has no specific animal-fable or prudential-politics
+    category; the wisdom classification is broad.
+- id: motif:2
+  label: better a known skilled enemy than worse successors
+  taxonomy_refs:
+  - wisdom
+  basis: The old ox argues that the butchers are harmful but skilled, while their
+    replacements would still slaughter the oxen and cause more pain.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is a passage-level moral pattern rather than an explicit named motif
+    in the supplied taxonomy.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2753-2757
+  quote_or_summary: The oxen decide to revenge themselves on the butchers for the
+    havoc among their ranks and plot to kill them on a given day.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 2757-2759
+  quote_or_summary: The oxen gather to discuss the plan, and the more violent ones
+    sharpen their horns for the fight.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 2759-2763
+  quote_or_summary: An old ox rises and says the oxen have reason to hate the butchers,
+    but the butchers understand their trade and avoid unnecessary pain.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 2763-2766
+  quote_or_summary: The old ox says that if the butchers are killed, inexperienced
+    people will be set to slaughter the oxen and will inflict great suffering by bungling
+    it.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 2766-2767
+  quote_or_summary: The old ox concludes that even if all the butchers die, mankind
+    will never go without beef.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Passage is short and clear. Motif labeling is interpretive and constrained
+    by the broad available taxonomy.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata; no comparison claims added because the passage does not itself support an explicit cross-text comparison.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l2753-l2767
+  passage_sha256=a237bf316dc137f3c616b2b247aca9076ec5a1dc7847825c16d60f0d0c2dc5ab
+

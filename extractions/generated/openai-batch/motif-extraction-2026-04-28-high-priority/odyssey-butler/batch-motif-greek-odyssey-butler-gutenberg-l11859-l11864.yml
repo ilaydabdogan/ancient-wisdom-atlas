@@ -1,0 +1,261 @@
+---
+record_id: batch.motif.greek-odyssey-butler-gutenberg-l11859-l11864
+source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+passage_locator:
+  label: BOOK XXII / BOOK XXIII / BOOK XXIV / FOOTNOTES:; lines 11859-11864
+  start: '11859'
+  end: '11864'
+  translation: The Odyssey
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A footnote says Dolius is to be understood as not yet knowing that his
+    son Melanthius had been tortured, mutilated, and left to die by Ulysses’ orders,
+    or that his daughter Melantho had been hanged. It further suggests Dolius was
+    simple-minded and that his name was ironic, comparing this to a man on Mt. Eryx
+    called “Guileless” though regarded as cunning.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Dolius is described as not yet knowing what had happened to his children.
+  category: attribute
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:2
+  text: Melanthius is described as Dolius’ son and as having been tortured, mutilated,
+    and left to die by Ulysses’ orders on the preceding day.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Melantho is described as Dolius’ daughter and as having been hanged.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Dolius is characterized by the commentator as probably exceptionally simple-minded,
+    with an ironic name.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The commentator reports being shown a man on Mt. Eryx who was called Sonza
+    Malizia, translated as “Guileless,” while being regarded as exceptionally cunning.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Dolius
+  description: A man said not yet to know of the punishments of his son Melanthius
+    and daughter Melantho; described by the commentator as probably simple-minded.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Melanthius
+  description: Dolius’ son, described as tortured, mutilated, and left to die by Ulysses’
+    orders on the preceding day.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Melantho
+  description: Dolius’ daughter, described as having been hanged.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Ulysses
+  description: Named as the person whose orders led to Melanthius being tortured,
+    mutilated, and left to die.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: Sonza Malizia / “Guileless”
+  description: A man on Mt. Eryx said to be called “Guileless” while being held exceptionally
+    cunning.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: unaware father
+  assigned_to:
+  - fig:1
+  basis: Dolius is said not yet to know of his son’s and daughter’s fates.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: punished son
+  assigned_to:
+  - fig:2
+  basis: Melanthius is identified as Dolius’ son and as tortured, mutilated, and left
+    to die.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: hanged daughter
+  assigned_to:
+  - fig:3
+  basis: Melantho is identified as Dolius’ daughter and as hanged.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: order-giver
+  assigned_to:
+  - fig:4
+  basis: The violence against Melanthius is said to have occurred by Ulysses’ orders.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: ironically named cunning man
+  assigned_to:
+  - fig:5
+  basis: The man is called “Guileless” but is regarded as exceptionally cunning.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Mt. Eryx
+  literal_form: mountain place-name
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: ironic name
+  literal_form: name or epithet meaning the opposite of the attributed character
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Footnote on Dolius’ ignorance of his children’s deaths or punishments
+  summary: The note explains that Dolius should be understood as not yet knowing that
+    Melanthius had been tortured, mutilated, and left to die by Ulysses’ orders, and
+    that Melantho had been hanged.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Comparison of ironic naming
+  summary: The commentator suggests Dolius’ name was ironic and compares this with
+    a Mt. Eryx man called “Guileless” despite being considered cunning.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: unaware kin after punishment of family members
+  taxonomy_refs: []
+  basis: Dolius is presented as not yet knowing that his son and daughter have suffered
+    severe punishments or death.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: This is a brief explanatory footnote rather than a developed narrative
+    episode.
+- id: motif:2
+  label: ironic or contrary name
+  taxonomy_refs: []
+  basis: The note explicitly describes Dolius’ name as ironical and compares it with
+    a man called “Guileless” though considered cunning.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The motif is drawn from commentator explanation and anecdote, not from
+    direct epic narration in this passage.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself compares Dolius’ allegedly ironic name with a Mt. Eryx
+    example of a man called “Guileless” despite being regarded as cunning.
+  claim_level: same_function
+  target: ironic or contrary naming pattern
+  evidence_refs:
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is an editor-translator’s anecdotal note and does not
+    establish historical contact or shared tradition.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 11859-11862
+  quote_or_summary: The note says Dolius is to be supposed not yet to know that his
+    son Melanthius had been tortured, mutilated, and left to die by Ulysses’ orders
+    on the preceding day.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:2
+  type: summary
+  locator: 11862-11863
+  quote_or_summary: The note says Dolius’ daughter Melantho had been hanged.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:3
+  type: quote
+  locator: '11863'
+  quote_or_summary: "“Dolius was probably exceptionally simple-minded, and his name
+    was ironical.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: summary
+  locator: 11863-11864
+  quote_or_summary: The commentator says that on Mt. Eryx he was shown a man called
+    Sonza Malizia or “Guileless,” though he was held to be exceptionally cunning.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source; summary supplied.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward, but motif relevance is limited because
+    the passage is a translator’s footnote and not direct epic narration.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No available motif-family taxonomy reference was assigned because the passage primarily concerns punitive aftermath and ironic naming, which are not listed among the supplied motif families.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-odyssey-butler-gutenberg__l11859-l11864
+  passage_sha256=f1c96922321a2dcdb578a5ea2bd61957c38d666889a8f272ba9d8448996189e0
+

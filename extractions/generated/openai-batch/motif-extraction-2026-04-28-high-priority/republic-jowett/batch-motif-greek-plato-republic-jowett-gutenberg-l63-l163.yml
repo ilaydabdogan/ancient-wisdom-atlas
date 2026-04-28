@@ -1,0 +1,396 @@
+---
+record_id: batch.motif.greek-plato-republic-jowett-gutenberg-l63-l163
+source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+passage_locator:
+  label: The Republic / THE REPUBLIC / INTRODUCTION AND ANALYSIS.; lines 63-163
+  start: '63'
+  end: '163'
+  translation: The Republic
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage introduces Plato's Republic as a central and philosophically
+    supreme dialogue, describes Plato's contributions to knowledge and logic, and
+    explains that the Republic was part of a larger unfinished design involving an
+    ideal history of Athens. It discusses the Critias fragment and the Atlantis narrative
+    as a mythical account of war between Athenians and Atlantis, linked to Solon,
+    liberty, the Persia-Hellas conflict, and possible divine favor from Apollo and
+    Athene.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Republic is described as central among Plato's dialogues and as reaching
+    the highest point of ancient philosophy.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Plato is described as conceiving a method of knowledge, and the analyses of
+    Socrates and Plato are presented as foundations for later logic and psychology.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Republic is described as the third part of a larger design that would
+    have included an ideal history of Athens and political and physical philosophy.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The fragment of the Critias is said to have produced a famous fiction compared
+    in importance to Troy and Arthur and to have inspired some early navigators.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The mythical tale is described as concerning wars of the Athenians against
+    the Island of Atlantis and as supposedly founded on an unfinished poem of Solon.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The projected tale would have told of a struggle for liberty intended to represent
+    the conflict of Persia and Hellas.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The passage imagines that a completed version might have celebrated Marathon
+    and Salamis and attributed victory to ancient Athenian order and to the favor
+    of Apollo and Athene.
+  category: action
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Plato
+  description: Author and philosopher whose Republic and broader unfinished design
+    are discussed.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Socrates
+  description: Named with Plato as a source of analyses underlying logic and psychology.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Solon
+  description: The unfinished poem on which the Atlantis tale is said to be founded
+    is attributed to him.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: Athenians
+  description: Collective group described as fighting against the Island of Atlantis
+    in the mythical tale.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:5
+  name_or_label: Island of Atlantis
+  description: Island opponent in the mythical account of wars against the Athenians.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: Apollo
+  description: Deity whose favor is mentioned as a possible explanation of Athenian
+    victory.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+- id: fig:7
+  name_or_label: Athene
+  description: Deity whose favor is mentioned as a possible explanation of Athenian
+    victory.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: philosophical author and designer
+  assigned_to:
+  - fig:1
+  basis: The passage attributes the Republic and the larger design to Plato and describes
+    his philosophical achievements.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: source of philosophical analysis
+  assigned_to:
+  - fig:2
+  basis: The sciences of logic and psychology are said to be based on analyses of
+    Socrates and Plato.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: attributed poetic source
+  assigned_to:
+  - fig:3
+  basis: The Atlantis tale is said to be founded upon an unfinished poem of Solon.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: defending civic group
+  assigned_to:
+  - fig:4
+  basis: The Athenians are named as participants in wars against Atlantis and as associated
+    with liberty and later victory imagery.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:5
+  label: opposing island polity
+  assigned_to:
+  - fig:5
+  basis: The Island of Atlantis is named as the opponent in the wars of the Athenians.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: divine favorer
+  assigned_to:
+  - fig:6
+  - fig:7
+  basis: Apollo and Athene are named as divine sources to whom victory might have
+    been attributed.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: Atlantis island
+  literal_form: Island of Atlantis
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:2
+  label: Athenian civic order
+  literal_form: ancient good order of Athens
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:3
+  label: divine favor
+  literal_form: favor of Apollo and Athene
+  associated_figures:
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:4
+  label: victory sites
+  literal_form: Marathon and Salamis
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Republic as philosophical center
+  summary: The passage presents the Republic as central among Plato's dialogues and
+    as the place where ancient philosophy reaches a high point.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Unfinished larger design
+  summary: The Republic is placed within a larger unrealized project that would have
+    included an ideal history of Athens and other branches of philosophy.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Atlantis war narrative
+  summary: The passage describes a mythical tale of wars between the Athenians and
+    the Island of Atlantis, supposedly based on Solon's unfinished poem.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Liberty and divinely favored victory
+  summary: The projected tale is framed as a struggle for liberty representing Persia
+    and Hellas, with possible celebration of Marathon and Salamis and attribution
+    of victory to Athenian order and to Apollo and Athene.
+  figure_refs:
+  - fig:4
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: wisdom through philosophical method
+  taxonomy_refs:
+  - wisdom
+  basis: The passage emphasizes Plato's conception of a method of knowledge and the
+    development of major forms of thought in the Republic.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is a philosophical-literary motif in the introductory analysis, not
+    a mythic episode narrated in the dialogue itself.
+- id: motif:2
+  label: legendary island war
+  taxonomy_refs: []
+  basis: The passage identifies the Atlantis material as a mythical tale about wars
+    of the Athenians against the Island of Atlantis.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage summarizes an unfinished or projected narrative rather than
+    giving the mythic episode in full.
+- id: motif:3
+  label: civic liberty struggle
+  taxonomy_refs: []
+  basis: The Atlantis tale is said to have told of a struggle for liberty and to represent
+    the conflict of Persia and Hellas.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The liberty frame is presented as the translator-commentator's analysis
+    of Plato's intended subject.
+- id: motif:4
+  label: divinely favored civic victory
+  taxonomy_refs: []
+  basis: The passage imagines victory being attributed to ancient Athenian order and
+    the favor of Apollo and Athene.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: This is framed as a conjecture about how Plato might have completed the
+    imaginary narrative.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares the cultural importance of the Atlantis fiction
+    with the tale of Troy and the legend of Arthur.
+  claim_level: same_function
+  target: tale of Troy and legend of Arthur
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison concerns fame or importance, not a demonstrated shared
+    plot structure or historical connection.
+- id: claim:2
+  claim: The passage states that the Atlantis conflict was intended to represent the
+    conflict of Persia and Hellas.
+  claim_level: same_function
+  target: conflict of Persia and Hellas
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim is limited to the passage's stated representational function
+    and does not establish direct historical identity between Atlantis and Persia.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 82-91
+  quote_or_summary: The Republic is called 'the centre around which the other Dialogues
+    may be grouped' and the place where philosophy reaches 'the highest point' attained
+    by ancient thinkers.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:2
+  type: summary
+  locator: lines 92-116
+  quote_or_summary: Plato is described as conceiving a method of knowledge; analyses
+    of Socrates and Plato are said to underlie later logic and psychology, and many
+    forms of thought are said to be found in the Republic.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 123-126
+  quote_or_summary: The Republic is described as the third part of a larger design
+    including an ideal history of Athens and political and physical philosophy.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 126-130
+  quote_or_summary: The Critias fragment is said to have given birth to a 'world-famous
+    fiction,' second in importance only to Troy and Arthur, and to have inspired some
+    early navigators.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:5
+  type: summary
+  locator: lines 130-135
+  quote_or_summary: The mythical tale is described as a history of wars of the Athenians
+    against the Island of Atlantis, supposedly founded on an unfinished poem of Solon.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: quote
+  locator: lines 135-137
+  quote_or_summary: The tale 'would have told of a struggle for Liberty' intended
+    to represent the conflict of Persia and Hellas.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:7
+  type: summary
+  locator: lines 144-154
+  quote_or_summary: The passage speculates that the unfinished narrative might have
+    celebrated Marathon and Salamis and more probably attributed victory to ancient
+    Athenian order and to the favor of Apollo and Athene.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is an introduction and analysis rather than a primary myth narrative;
+    mythic extraction is strongest for the Atlantis discussion and weakest for broad
+    philosophical motifs.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No unsupported taxonomy symbol references were assigned; available motif taxonomy was used only for the clearly supported wisdom motif.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-plato-republic-jowett-gutenberg__l63-l163
+  passage_sha256=a364665a8c2757a27b8ea2b11df5b051c38e3b90fd62e07b808da36319e45540
+

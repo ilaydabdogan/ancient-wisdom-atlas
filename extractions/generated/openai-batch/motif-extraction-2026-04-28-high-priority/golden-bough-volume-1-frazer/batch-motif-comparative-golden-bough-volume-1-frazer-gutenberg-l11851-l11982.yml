@@ -1,0 +1,445 @@
+---
+record_id: batch.motif.comparative-golden-bough-volume-1-frazer-gutenberg-l11851-l11982
+source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+passage_locator:
+  label: CHAPTER II. THE PERILS OF THE SOUL. / HEINE. / CHAPTER III. KILLING THE GOD.
+    / FOOTNOTES; lines 11851-11982
+  start: '11851'
+  end: '11982'
+  translation: 'The Golden Bough: A Study in Comparative Religion (Vol. 1 of 2)'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A series of footnotes cites sources for folk customs, Adonis and Attis
+    rites, Cybele-related festival materials, Attis’s reported death and ritual mourning,
+    claims of Attis’s revival or resurrection, an agricultural interpretation involving
+    seeds, and source notes for the myth of Osiris.
+  language: English with Greek and Latin excerpts
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: At Smyrna, a blossom of the agnus castus is said to be used on St. John’s
+    Day for a similar omen-drawing purpose, though the method differs.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A Greek citation refers to sepulchral gardens for Adonis.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: One cited tradition says Attis was killed by a boar; another story about Attis
+    is also noted as current at Pessinus.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage cites sources on a festival associated with Cybele.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: A described ceremony places a simulacrum or idol supine on a litter, mourns
+    it with ordered laments, buries it, and mourns it.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Frazer states that the ceremony described by Firmicus may be the mourning
+    and funeral rites of Attis.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The Hilaria is connected in the note with resurrection, with a claim that
+    one recently buried had revived.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The death and life of Attis are glossed in the cited passage as corresponding
+    to collected and sown or reborn seeds.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The idol is described as being brought out of burial, after which the participant
+    rejoices.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: A Greek statement cited by Damascius is summarized as indicating salvation
+    from Hades, and Firmicus preserves a formula addressing initiates of a saved god.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: The connected form of the Osiris myth is said to be known from Plutarch, with
+    additional details from Egyptian sources.
+  category: other
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Attis
+  description: A mythic figure whose death, funeral rites, and claimed resurrection
+    or revival are discussed in the notes.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Phrygians
+  description: A group said in the cited Firmicus passage to consecrate the queen’s
+    love with annual mourning and to claim that the recently buried figure revived.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+- id: fig:3
+  name_or_label: the queen
+  description: A queen whose love is said to be consecrated by the Phrygians with
+    annual mourning.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+- id: fig:4
+  name_or_label: Adonis
+  description: A named figure associated in the cited Greek phrase with sepulchral
+    gardens.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Osiris
+  description: A named figure whose myth is mentioned in a source note.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: slain mythic figure
+  assigned_to:
+  - fig:1
+  basis: A cited tradition says Attis was killed by a boar.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: buried-and-revived ritual figure
+  assigned_to:
+  - fig:1
+  basis: The notes connect Attis with funeral rites, resurrection, revival after burial,
+    and the bringing of an idol out of burial.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:3
+  label: annual mourners
+  assigned_to:
+  - fig:2
+  basis: The Phrygians are said to consecrate the queen’s love with annual mourning
+    and to claim that the buried figure revived.
+  evidence_refs:
+  - ev:6
+- id: role:4
+  label: beloved queen associated with mourning
+  assigned_to:
+  - fig:3
+  basis: The cited Firmicus passage refers to the queen’s love being consecrated with
+    annual laments.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: figure associated with sepulchral gardens
+  assigned_to:
+  - fig:4
+  basis: The cited Greek phrase refers to burial or sepulchral gardens for Adonis.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: subject of mythic source note
+  assigned_to:
+  - fig:5
+  basis: The passage notes sources for the myth of Osiris.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: agnus castus blossom
+  literal_form: a blossom of the agnus castus used on St. John’s Day for omen drawing
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: sepulchral gardens
+  literal_form: gardens described as burial or sepulchral gardens for Adonis
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: boar
+  literal_form: boar that kills Attis in one cited tradition
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: ritual idol or simulacrum
+  literal_form: an image laid supine on a litter, mourned, buried, and later brought
+    out of burial
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:5
+  label: burial or sepulture
+  literal_form: the burial place or act from which the idol is brought out
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:6
+  label: seeds
+  literal_form: collected and sown or reborn seeds used to explain death and renewed
+    life
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: St. John’s Day blossom omen
+  summary: At Smyrna, an agnus castus blossom is used on St. John’s Day for omen drawing,
+    with a different method from the related practice being cited.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Attis killed by a boar
+  summary: A cited tradition attributes the death of Attis to a boar, while the note
+    also acknowledges another story.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Mourning and burial of the idol
+  summary: A ritual image is laid on a litter, lamented, buried, and mourned; Frazer
+    identifies this as probably related to Attis’s mourning and funeral rites.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Revival and Hilaria rejoicing
+  summary: 'The notes connect the Hilaria with resurrection: the buried figure is
+    said to have revived, the idol is brought from burial, and rejoicing follows.'
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: Agricultural explanation of death and life
+  summary: The death and renewed life of Attis are explained through the annual handling
+    of seeds, from collection and storage to sowing or rebirth.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: slain god or hero killed by boar
+  taxonomy_refs: []
+  basis: One cited tradition says Attis was killed by a boar.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The note also mentions another story, so the boar-death version is only
+    one attested variant in this passage.
+- id: motif:2
+  label: ritual mourning and burial of a divine image
+  taxonomy_refs:
+  - death_rebirth
+  basis: The ceremony describes a simulacrum laid on a litter, lamented, buried, and
+    mourned, and Frazer relates it to Attis’s funeral rites.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage presents the identification with Attis as probable rather
+    than absolutely certain.
+- id: motif:3
+  label: buried figure revived or resurrected
+  taxonomy_refs:
+  - resurrection
+  - dying_and_returning
+  - death_rebirth
+  basis: The Hilaria and cited Firmicus passages describe the recently buried figure
+    as revived, the idol brought out from burial, and rejoicing after mourning.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The wording is mediated through Frazer’s scholarly note and cited late
+    antique sources.
+- id: motif:4
+  label: seasonal seed cycle as explanation of divine death and life
+  taxonomy_refs:
+  - seasonal_cycle
+  - death_rebirth
+  basis: The cited explanation equates death with collected or stored seeds and life
+    with seeds sown or reborn annually.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: This is an interpretive gloss preserved in the cited source, not a full
+    narrative in the passage.
+- id: motif:5
+  label: plant used for omen drawing on a calendrical feast day
+  taxonomy_refs: []
+  basis: The agnus castus blossom is used at Smyrna on St. John’s Day to draw omens.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage refers to a 'similar purpose' whose fuller context lies outside
+    the supplied excerpt.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself links Attis’s death and revived life to the annual seed
+    cycle, treating burial or death and renewed life as analogous to seed storage
+    and sowing or rebirth.
+  claim_level: same_function
+  target: seasonal agricultural cycle of seeds
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This comparison is reported through a cited late antique interpretation
+    and is not independently developed in the excerpt.
+- id: claim:2
+  claim: Frazer compares Damascius’s notice of the Hilaria and Firmicus’s formula
+    for initiates of a saved god with Firmicus’s burial-and-rejoicing ceremony, concluding
+    that the ceremony is probably the resurrection of Attis.
+  claim_level: same_motif
+  target: Hilaria, Firmicus’s saved-god formula, and the burial/rejoicing ceremony
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage phrases the conclusion as probable, so the identification
+    should remain cautious.
+- id: claim:3
+  claim: The passage notes a similar St. John’s Day omen practice using agnus castus
+    at Smyrna, while also saying that the method of drawing the omens differs.
+  claim_level: same_function
+  target: a preceding omen-drawing custom referred to outside this excerpt
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs:
+  - ev:1
+  confidence: low
+  limitations: The compared practice is not included in the supplied passage, and
+    the excerpt only preserves a footnote reference.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 11855-11862; footnote 938
+  quote_or_summary: At Smyrna, a blossom of the agnus castus is used on St. John’s
+    Day for a similar purpose, though omens are drawn differently.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 11873-11874; footnote 942
+  quote_or_summary: A Greek citation refers to sepulchral gardens for Adonis.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 11879-11887; footnote 944
+  quote_or_summary: Hermesianax is cited for the statement that Attis was killed by
+    a boar; another story is attributed to Timotheus and identified with a Pessinus
+    version.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: citation
+  locator: lines 11893-11900; footnotes 947-948
+  quote_or_summary: Sources are cited for the festival, including references under
+    Cybele and late antique authors.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; citation summarized.
+- id: ev:5
+  type: summary
+  locator: lines 11907-11915; footnote 951
+  quote_or_summary: A ceremony is described in which a simulacrum is placed supine
+    on a litter, lamented, buried, and mourned; Frazer says it may be the mourning
+    and funeral rites of Attis.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 11916-11936; footnote 952
+  quote_or_summary: The Hilaria, resurrection, annual mourning, a claim that the buried
+    figure revived, seed-cycle explanation, idol brought from burial, rejoicing, salvation
+    from Hades, and a saved-god formula are cited and compared.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 11975-11978; footnote 965
+  quote_or_summary: The connected myth of Osiris is said to be known from Plutarch,
+    with additional details recovered from Egyptian sources.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The excerpt consists mainly of scholarly footnotes rather than continuous
+    mythic narrative. Literal details about Attis’s death, ritual mourning, burial,
+    revival, and seed-cycle interpretation are relatively clear, but several identifications
+    are mediated by Frazer’s inferences and cited sources.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only information present in the supplied passage and metadata was used. Taxonomy references were limited to available motif-family terms; no unsupported symbol taxonomy IDs were added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:comparative-golden-bough-volume-1-frazer-gutenberg__l11851-l11982
+  passage_sha256=1d810b55f4acd0c2a091daa6f2596e1e6adfb21b8f2f34d1f43a9e1cf34dfa54
+

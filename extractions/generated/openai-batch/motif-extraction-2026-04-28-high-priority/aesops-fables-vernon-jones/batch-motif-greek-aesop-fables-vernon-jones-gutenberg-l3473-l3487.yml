@@ -1,0 +1,275 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l3473-l3487
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE ASS AND THE WOLF / THE MONKEY AND THE CAMEL / THE SICK MAN AND THE DOCTOR
+    / THE TRAVELLERS AND THE PLANE-TREE; lines 3473-3487
+  start: '3473'
+  end: '3487'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: Many a service is met with ingratitude.
+  summary: Two travellers rest in the shade of a plane-tree on a hot road. One traveller
+    calls the tree useless because it bears no fruit, and the tree rebukes him for
+    abusing it while benefiting from its shade. The moral states that services are
+    often met with ingratitude.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Two travellers walk along a bare, dusty road in the heat of a summer day.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The travellers turn aside to a plane-tree for shelter from the sun beneath
+    its deep shade and spreading branches.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: One traveller says the plane-tree is useless because it bears no fruit and
+    gives no service to humans.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The plane-tree speaks and rebukes the traveller as ungrateful while he is
+    enjoying its shade.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The stated moral is that many services are answered with ingratitude.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Two Travellers
+  description: Two travellers walking together on a hot, dusty road and resting beneath
+    the plane-tree.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Critical traveller
+  description: One of the travellers who calls the plane-tree useless while resting
+    in its shade.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Plane-tree
+  description: A plane-tree with spreading branches and deep shade; it speaks indignantly
+    to the traveller.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:4
+  name_or_label: Companion traveller
+  description: The companion to whom the critical traveller makes his remark.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: traveller and shelter-seeker
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:4
+  basis: The travellers are walking on the road and take shelter beneath the tree.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: ungrateful beneficiary
+  assigned_to:
+  - fig:2
+  basis: The traveller disparages the tree while benefiting from its shade.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: benefactor providing shelter
+  assigned_to:
+  - fig:3
+  basis: The plane-tree provides shade and shelter from the sun.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:4
+  label: speaking rebuker
+  assigned_to:
+  - fig:3
+  basis: The plane-tree interrupts and rebukes the traveller for ingratitude.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: plane-tree
+  literal_form: Tree with spreading branches and deep shade
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: shade as shelter
+  literal_form: Deep shade beneath the plane-tree's foliage
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:3
+  label: scorching sun
+  literal_form: Burning rays or scorching sun on a summer day
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+scenes:
+- id: scene:1
+  label: Travellers sheltered by the plane-tree rebuke it
+  summary: On a hot, dusty road, two travellers rest under a plane-tree. One criticizes
+    the tree as useless, and the tree responds that he is ungrateful because he is
+    using its shade while abusing it.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: ingratitude toward a benefactor
+  taxonomy_refs: []
+  basis: The traveller receives shelter from the plane-tree but calls it useless,
+    and the tree explicitly calls him ungrateful; the moral generalizes the point.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is a fable moral motif rather than one of the supplied mythic motif-family
+    taxonomy items.
+- id: motif:2
+  label: personified tree as moral speaker
+  taxonomy_refs: []
+  basis: The plane-tree speaks, expresses indignation, and articulates the moral rebuke.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage personifies the tree but does not present it as sacred or
+    cosmological.
+- id: motif:3
+  label: unrecognized useful service
+  taxonomy_refs: []
+  basis: The traveller denies that the tree is of service while he is literally using
+    the service of its shade.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is a practical moral pattern, not a demonstrated cross-cultural mythic
+    comparison.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself frames the event as an example of the general moral pattern
+    in which service is answered by ingratitude.
+  claim_level: same_motif
+  target: service met with ingratitude
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is an internal comparison to the passage's stated moral, not evidence
+    for historical contact, common inheritance, or a broader taxonomy placement.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3473-3475
+  quote_or_summary: Two travellers walk on a bare, dusty road during the heat of a
+    summer day.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:2
+  type: summary
+  locator: lines 3475-3478
+  quote_or_summary: They come to a plane-tree and shelter joyfully from the sun in
+    the deep shade of its spreading branches.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:3
+  type: summary
+  locator: lines 3478-3481
+  quote_or_summary: One traveller tells his companion that the plane-tree is useless
+    because it bears no fruit and is of no service to humans.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:4
+  type: summary
+  locator: lines 3481-3486
+  quote_or_summary: The plane-tree interrupts indignantly, calls the traveller ungrateful,
+    and points out that he is abusing it while enjoying the cool shade of its foliage.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:5
+  type: quote
+  locator: line 3487
+  quote_or_summary: Many a service is met with ingratitude.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation supplied.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: medium
+  notes: 'The narrative and moral are explicit. Taxonomy linkage is limited: only
+    the literal tree symbol matches the supplied symbol taxonomy; no supplied mythic
+    motif family is directly supported.'
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No external sources or unprovided comparisons were used.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l3473-l3487
+  passage_sha256=cb81d7c725afc0cf24bea86b86b6c4a137e06558fab07c1b5b0812df92b1e452
+

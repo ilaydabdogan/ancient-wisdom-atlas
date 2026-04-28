@@ -1,0 +1,398 @@
+---
+record_id: batch.motif.comparative-golden-bough-volume-1-frazer-gutenberg-l10045-l10211
+source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+passage_locator:
+  label: CHAPTER II. THE PERILS OF THE SOUL. / HEINE. / CHAPTER III. KILLING THE GOD.
+    / FOOTNOTES; lines 10045-10211
+  start: '10045'
+  end: '10211'
+  translation: 'The Golden Bough: A Study in Comparative Religion (Vol. 1 of 2)'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A footnote section citing classical and ethnographic sources. The notes
+    mention Dionysus’s marriage, oak trees consecrated to Jove and groves to Diana,
+    restrictions in a cited Japanese account that a person’s feet did not touch the
+    earth and the sun did not shine on the head, terminology for calling back the
+    soul, detention of a sleeper’s soul by spirits with illness as a consequence,
+    and a similar Hindu story in which a lizard form of the soul is not mentioned.
+  language: English with Greek, Latin, and Dutch/Makassarese/Buginese terms
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A cited classical note refers to the marriage of Dionysus and to gerarae/gerairai-related
+    terms.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A cited Servius note states that every oak is consecrated to Jove and every
+    grove to Diana.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A cited account of Japan states that the person’s feet did not touch the ground,
+    the sun’s rays did not illuminate the head, and the person did not proceed into
+    the open air.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: 'A note explains two words: one means the sound made in calling fowls, and
+    the other means the soul.'
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The expression given for the ceremonies described is ápakoêrróe soemāñgá.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: A note refers to the detention of a sleeper’s soul by spirits and consequent
+    illness.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: A note says that a similar story is told by Hindus, but the lizard form of
+    the soul is not mentioned there.
+  category: relationship
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Dionysus
+  description: Named in a cited Greek phrase concerning the marriage of Dionysus.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Jove
+  description: Named as the deity to whom every oak is consecrated in the cited Servius
+    note.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Diana
+  description: Named as the deity to whom every grove is consecrated in the cited
+    Servius note.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: unnamed person in cited Japanese account
+  description: A person whose feet do not touch the earth, whose head is not illuminated
+    by sun rays, and who does not go into the open air.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: sleeper
+  description: A sleeper whose soul may be detained, leading to illness.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: spirits
+  description: Beings said to detain the sleeper’s soul.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: divine marriage referent
+  assigned_to:
+  - fig:1
+  basis: The passage cites sources under the phrase Dionysus’s marriage.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: deity associated with consecrated natural forms
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The cited note associates oaks with Jove and groves with Diana by consecration.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: person under contact and exposure restrictions
+  assigned_to:
+  - fig:4
+  basis: The cited account says the person’s feet did not touch earth, the head was
+    not reached by sun rays, and the person did not go into open air.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: afflicted sleeper
+  assigned_to:
+  - fig:5
+  basis: The note links a sleeper’s detained soul with consequent illness.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: soul-detaining beings
+  assigned_to:
+  - fig:6
+  basis: The note identifies spirits as detaining the sleeper’s soul.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: oak
+  literal_form: quercus / oak
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: grove
+  literal_form: lucus / grove
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: earth or ground
+  literal_form: terra / ground touched by feet
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: sun rays
+  literal_form: radii Solis / rays of the sun illuminating the head
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: soul
+  literal_form: soemāñgá / soul
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:6
+  label: lizard form of the soul
+  literal_form: lizard form of soul mentioned only as absent from a similar Hindu
+    story
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Dionysus marriage citation
+  summary: The notes cite sources for the marriage of Dionysus and related ritual
+    terms.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Consecrated oak and grove
+  summary: A cited note assigns oaks to Jove and groves to Diana by consecration.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Restricted contact and exposure
+  summary: A cited Japanese account describes a person kept from touching the earth
+    with the feet, from having the head lit by the sun, and from going into open air.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Soul-calling terminology
+  summary: The note explains terms for the sound used in calling fowls and for the
+    soul, and gives an expression for related ceremonies.
+  figure_refs: []
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Sleeper’s soul detained
+  summary: The note refers to a sleeper’s soul being detained by spirits, with illness
+    as a consequence.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:5
+- id: scene:6
+  label: Similar Hindu story without lizard soul form
+  summary: The note reports a similar Hindu story but specifies that the lizard form
+    of the soul is not mentioned in it.
+  figure_refs: []
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: sacred marriage of Dionysus
+  taxonomy_refs:
+  - sacred_marriage
+  basis: The passage explicitly cites sources under the phrase Dionysus’s marriage.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: Only the footnote citation is present; no narrative details of the marriage
+    are included in this passage.
+- id: motif:2
+  label: consecrated tree or grove associated with deities
+  taxonomy_refs: []
+  basis: The passage states that every oak is consecrated to Jove and every grove
+    to Diana.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The available taxonomy includes tree, but the motif family sacred_tree_axis
+    is not directly supported because no axis or world-center function is stated.
+- id: motif:3
+  label: avoidance of ground, sunlight, and open air for a restricted person
+  taxonomy_refs: []
+  basis: The cited Japanese account says the person’s feet did not touch the ground,
+    the head was not lit by the sun, and the person did not go into open air.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage does not identify the person by title in the quoted note and
+    does not explain the reason for the restrictions.
+- id: motif:4
+  label: calling back the soul
+  taxonomy_refs: []
+  basis: The passage defines terms for a calling sound and for the soul and gives
+    an expression for ceremonies described in the text.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The actual ceremonial actions are not described in this footnote excerpt.
+- id: motif:5
+  label: detained sleeper’s soul causing illness
+  taxonomy_refs: []
+  basis: The passage directly refers to detention of a sleeper’s soul by spirits and
+    consequent illness.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage supplies the motif in a note rather than in a full narrative
+    example.
+- id: motif:6
+  label: animal or lizard form of the soul as a variant marker
+  taxonomy_refs: []
+  basis: The passage mentions a lizard form of the soul only to say that it is not
+    present in a similar Hindu story.
+  evidence_refs:
+  - ev:6
+  confidence: low
+  cautions: The lizard-soul form is not narrated in this excerpt; it is referenced
+    as a feature absent from the compared Hindu story.
+comparison_claims:
+- id: claim:1
+  claim: The passage reports a Hindu story as similar to another story, while noting
+    that the lizard form of the soul is absent in the Hindu version.
+  claim_level: same_motif
+  target: Hindu similar story noted in footnote 414
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs:
+  - ev:6
+  confidence: low
+  limitations: The excerpt does not include either full story, so the basis of similarity
+    and the role of the lizard-soul variant cannot be verified from this passage alone.
+evidence:
+- id: ev:1
+  type: citation
+  locator: lines 10045-10211, footnote 353
+  quote_or_summary: Cites sources for Διονύσου γάμος and γεραραί / γεραῖραι.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; short citation summarized.
+- id: ev:2
+  type: quote
+  locator: lines 10045-10211, footnote 359
+  quote_or_summary: 'Servius note: “omnis quercus Jovi est consecrata, et omnis lucus
+    Dianae.”'
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; brief quotation.
+- id: ev:3
+  type: quote
+  locator: lines 10045-10211, footnote 376
+  quote_or_summary: Latin note says the person’s feet never touched the earth, the
+    sun’s rays never illuminated the head, and the person did not go into open air.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized with brief wording from the note.
+- id: ev:4
+  type: summary
+  locator: lines 10045-10211, footnote 410
+  quote_or_summary: Explains that one word means the sound made in calling fowls,
+    another means the soul, and gives the expression ápakoêrróe soemāñgá for ceremonies
+    described in the text.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 10045-10211, footnote 413
+  quote_or_summary: Refers to detention of a sleeper’s soul by spirits and consequent
+    illness.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 10045-10211, footnote 414
+  quote_or_summary: Notes a similar Hindu story and says the lizard form of the soul
+    is not mentioned.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: low
+  notes: This line range consists almost entirely of footnotes and citations. Extraction
+    is limited to explicit details in the notes; narrative context from the main text
+    is not included.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No external sources or context were used beyond the supplied passage and metadata.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:comparative-golden-bough-volume-1-frazer-gutenberg__l10045-l10211
+  passage_sha256=060f7fcb06eee4af1ed34c6f66a8e230ad7475263188986161c727e278d71cc9
+

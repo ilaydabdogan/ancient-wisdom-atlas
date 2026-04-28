@@ -1,0 +1,238 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l2927-l2938
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE CLOWN AND THE COUNTRYMAN / THE LARK AND THE FARMER / THE LION AND THE
+    ASS / THE PROPHET; lines 2927-2938
+  start: '2927'
+  end: '2938'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A prophet earns hire by telling fortunes in the marketplace. When told
+    that thieves have robbed his house, he rushes away in distress. Bystanders laugh,
+    and one notes that he claims to know others' futures but cannot perceive what
+    is in store for himself.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A prophet sits in the marketplace and tells fortunes for those who engage
+    his services.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A runner informs the prophet that thieves have broken into his house and taken
+    everything they could seize.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The prophet immediately rushes away, tearing his hair and cursing the thieves.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The bystanders are amused by the prophet's reaction.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: One bystander says the prophet claims to know what will happen to others but
+    cannot perceive what is in store for himself.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Prophet
+  description: A fortune-teller in the marketplace whose own house is robbed.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: Messenger or runner
+  description: A person who runs up and tells the prophet that his house has been
+    robbed.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Thieves
+  description: Unseen robbers who break into the prophet's house and carry off goods.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Bystanders
+  description: People present in the marketplace who are amused by the prophet's misfortune.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: Speaking bystander
+  description: One bystander who comments on the prophet's inability to foresee his
+    own affairs.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: fortune-teller for hire
+  assigned_to:
+  - fig:1
+  basis: He tells the fortunes of those who engage his services.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: victim of theft
+  assigned_to:
+  - fig:1
+  basis: His house is reported broken into and stripped by thieves.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: news-bringer
+  assigned_to:
+  - fig:2
+  basis: This figure runs up to report the robbery.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: housebreakers
+  assigned_to:
+  - fig:3
+  basis: They break into the prophet's house and take goods.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: amused observers
+  assigned_to:
+  - fig:4
+  basis: They are said to be amused by the prophet's reaction.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: critic of failed foresight
+  assigned_to:
+  - fig:5
+  basis: This bystander contrasts the prophet's public claims with his inability to
+    foresee his own misfortune.
+  evidence_refs:
+  - ev:5
+symbols: []
+scenes:
+- id: scene:1
+  label: Fortune-telling in the marketplace interrupted by news of burglary
+  summary: A prophet is practicing fortune-telling in the marketplace when a runner
+    reports that the prophet's own house has been robbed; the prophet rushes off in
+    distress, and bystanders mock the gap between his claims and his self-knowledge.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: seer unable to foresee personal misfortune
+  taxonomy_refs:
+  - wisdom
+  basis: The fable turns on the contrast between the prophet's claimed knowledge of
+    others' futures and his failure to anticipate the theft at his own house.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  confidence: medium
+  cautions: The available taxonomy has only a broad 'wisdom' category; the passage
+    more specifically concerns failed or pretended foresight.
+- id: motif:2
+  label: public expert exposed by private failure
+  taxonomy_refs: []
+  basis: The prophet's professional claim is undercut when he cannot perceive a danger
+    affecting himself, and a bystander explicitly points out the inconsistency.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  confidence: high
+  cautions: This is a passage-level fable pattern rather than a supplied taxonomy
+    category.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 2927-2930
+  quote_or_summary: A prophet sits in the marketplace and tells fortunes for anyone
+    who hires him.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 2930-2933
+  quote_or_summary: A person runs up and reports that the prophet's house has been
+    broken into by thieves who carried off whatever they could take.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 2933-2935
+  quote_or_summary: The prophet immediately rushes off, tearing his hair and calling
+    curses down on the thieves.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 2935-2936
+  quote_or_summary: The bystanders are amused by the prophet's behavior.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: 2936-2938
+  quote_or_summary: "“Our friend professes to know what is going to happen to others,
+    but it seems he's not clever enough to perceive what's in store for himself.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif assignment to the supplied taxonomy
+    is less exact because the passage's specific pattern is failed foresight rather
+    than a named taxonomy item.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No symbols from the supplied symbol taxonomy are present in the passage. No comparison claims were added because the passage does not itself establish a comparison with another text or tradition.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l2927-l2938
+  passage_sha256=8b2db52d9c037a3528ac96b35b39e55185fd5c762ebcdf55370e418f1ea07791
+

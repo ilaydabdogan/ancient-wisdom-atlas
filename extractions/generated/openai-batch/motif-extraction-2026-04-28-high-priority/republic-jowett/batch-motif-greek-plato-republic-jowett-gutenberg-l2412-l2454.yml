@@ -1,0 +1,271 @@
+---
+record_id: batch.motif.greek-plato-republic-jowett-gutenberg-l2412-l2454
+source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+passage_locator:
+  label: The Republic / THE REPUBLIC / INTRODUCTION AND ANALYSIS.; lines 2412-2454
+  start: '2412'
+  end: '2454'
+  translation: The Republic
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage analyzes Socrates’ account of justice in the Republic as related
+    to the parts of the soul and classes of the State. It contrasts justice with temperance,
+    describes justice as universal order and harmony among parts, and situates the
+    discussion alongside questions in Plato’s Protagoras and Aristotle’s Nicomachean
+    Ethics about whether virtues are one or many. It also distinguishes justice from
+    the more universal idea of the good.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Socrates is described as seeking the nature of justice by a method of residues.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The first three virtues are said to correspond to three parts of the soul
+    and three classes in the State.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Temperance is described as having the nature of harmony and as being difficult
+    to distinguish from justice in the Republic.
+  category: attribute
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:4
+  text: Justice is described as a universal virtue of the whole soul and as perfect
+    order in which natures and classes do their own business.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage states that a question about whether virtues are one or many is
+    discussed in Plato’s Protagoras and Aristotle’s Nicomachean Ethics.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage presents four cardinal virtues with one virtue supreme over the
+    rest.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Justice or order in moral nature is compared with the more universal conception
+    of the good in speculative knowledge.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Socrates
+  description: Named as the one proceeding to discover the nature of justice.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Plato
+  description: Named as authorial figure associated with earlier dialogues and with
+    the point of view from which justice is foundational.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Aristotle
+  description: Named in reference to the Nicomachean Ethics and contrasted with the
+    conception of universal justice under discussion.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: modern logician
+  description: A generic figure said to be inclined to object that ideas cannot be
+    separated like chemical substances.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: philosophical investigator of justice
+  assigned_to:
+  - fig:1
+  basis: Socrates is said to proceed to discover the nature of justice.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: dialogue author and philosophical reference point
+  assigned_to:
+  - fig:2
+  basis: The passage refers to Plato’s dialogues and to Plato’s point of view on justice
+    as foundational.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: comparative ethical authority
+  assigned_to:
+  - fig:3
+  basis: Aristotle’s Nicomachean Ethics and his conception of universal justice are
+    cited for comparison.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: hypothetical critic of conceptual separation
+  assigned_to:
+  - fig:4
+  basis: The modern logician is said to object that ideas run into one another rather
+    than separate cleanly.
+  evidence_refs:
+  - ev:1
+symbols: []
+scenes:
+- id: scene:1
+  label: Analysis of justice, temperance, and the ordered whole
+  summary: The passage explains Socrates’ method of identifying justice in relation
+    to other virtues, parts of the soul, and classes of the State, then describes
+    justice as universal order and temperance as harmony.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Comparison with wider ethical discussions of virtue
+  summary: The passage links the Republic’s account of cardinal virtues and justice
+    to discussions in Plato’s Protagoras and Aristotle’s Nicomachean Ethics, and then
+    contrasts justice with the more universal good.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: ordered harmony of parts within a whole
+  taxonomy_refs: []
+  basis: Justice is described as perfect order, division and co-operation among citizens,
+    and a universal virtue of the whole soul; temperance is also described as harmony.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This is an ethical-philosophical pattern rather than a narrative mythic
+    motif.
+- id: motif:2
+  label: wisdom through ethical classification
+  taxonomy_refs:
+  - wisdom
+  basis: The passage analyzes virtues, their relation to soul and State, and the movement
+    from justice or order to the good in speculative knowledge.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The taxonomy link to wisdom is broad; the passage concerns philosophical
+    analysis rather than a wisdom tale.
+- id: motif:3
+  label: one and many virtues
+  taxonomy_refs: []
+  basis: The passage explicitly raises the question whether virtues are one or many
+    and answers with four cardinal virtues and one supreme over the rest.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: This is a conceptual pattern within ethical philosophy, not a mythological
+    narrative motif.
+comparison_claims:
+- id: claim:1
+  claim: The passage states that the Republic’s definition of justice is verbally
+    the same as a provisional definition of temperance in Plato’s Charmides.
+  claim_level: linguistic_similarity
+  target: 'Plato’s Charmides: provisional definition of temperance'
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs:
+  - ev:2
+  confidence: high
+  limitations: The passage also says the Charmides definition is later rejected and
+    that justice and temperance differ at least in degree.
+- id: claim:2
+  claim: The passage links the Republic’s treatment of the virtues to the question,
+    discussed in Plato’s Protagoras and Aristotle’s Nicomachean Ethics, of whether
+    the virtues are one or many.
+  claim_level: same_function
+  target: Plato’s Protagoras and Aristotle’s Nicomachean Ethics on unity or plurality
+    of virtues
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage gives only a brief secondary-style comparison and does
+    not quote or summarize the external passages in detail.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 2412-2425
+  quote_or_summary: Socrates seeks justice by a method of residues; virtues correspond
+    to parts of soul and classes in the State; a modern logician might object that
+    ideas run into one another; justice is said to be verbally the same as a provisional
+    definition of temperance in the Charmides.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summary only.
+- id: ev:2
+  type: summary
+  locator: 2426-2438
+  quote_or_summary: Justice and temperance are difficult to distinguish; temperance
+    is harmony of discordant elements, while justice is perfect order in which natures
+    and classes do their own business, with division and co-operation among citizens;
+    justice is foundational from Plato’s point of view.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summary only.
+- id: ev:3
+  type: summary
+  locator: 2439-2448
+  quote_or_summary: The passage cites the question whether virtues are one or many
+    in Plato’s Protagoras and Aristotle’s Nicomachean Ethics, and answers that there
+    are four cardinal virtues with one supreme over the rest.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summary only.
+- id: ev:4
+  type: summary
+  locator: 2449-2454
+  quote_or_summary: Justice or order in first education and moral nature is followed
+    by the more universal conception of the good in second education and speculative
+    knowledge; both may be described as law, order, and harmony, but the good embraces
+    all time and existence while justice is limited to man.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summary only.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is philosophical analysis rather than mythic narrative, so motif
+    candidates are broad conceptual patterns and require review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No concrete taxonomy-listed symbols such as cave, fire, water, tree, serpent, mountain, or milk occur in the passage.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-plato-republic-jowett-gutenberg__l2412-l2454
+  passage_sha256=c9635e089437564a88e5b187ce8971ca8abad9e22d57c10edd2b6088e2ac6261
+

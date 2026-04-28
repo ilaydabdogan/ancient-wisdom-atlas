@@ -1,0 +1,298 @@
+---
+record_id: batch.motif.comparative-golden-bough-volume-1-frazer-gutenberg-l9858-l10043
+source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+passage_locator:
+  label: CHAPTER II. THE PERILS OF THE SOUL. / HEINE. / CHAPTER III. KILLING THE GOD.
+    / FOOTNOTES; lines 9858-10043
+  start: '9858'
+  end: '10043'
+  translation: 'The Golden Bough: A Study in Comparative Religion (Vol. 1 of 2)'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage is chiefly a sequence of footnotes. The substantive note 350
+    recounts a Wotjak response to bad harvests: they attributed the calamity to the
+    wrath of the god Keremet because he was unmarried, processed to a sacred grove
+    in decorated wagons, feasted overnight, cut and carried home a square piece of
+    turf, and a cited interpretation suggests they may have intended a marriage between
+    Keremet and the fruitful earth-wife. Note 351 cites Greek sacred-marriage attestations
+    at Cnossus, Samos, and Athens.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Wotjaks of Russia were described as distressed by a series of bad harvests.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Wotjaks attributed the bad harvests to the wrath of one of their gods,
+    Keremet, because he was unmarried.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: They went in procession to a sacred grove, riding on gaily decorated wagons
+    as when fetching home a bride.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: At the sacred grove they feasted all night.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The next morning they cut a square piece of turf in the grove and took it
+    home.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The reporting writer says the meaning of the ceremony is not easy to determine,
+    and cites Bechterew’s suggestion that the rite may have been intended to marry
+    Keremet to the fruitful earth-wife.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: A following footnote cites sacred-marriage attestations at Cnossus, Samos,
+    and Athens.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Wotjaks of Russia
+  description: A community described as suffering bad harvests and carrying out the
+    procession, feast, and turf-cutting rite.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Keremet
+  description: One of the Wotjaks’ gods, described as wrathful because unmarried.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:3
+  name_or_label: mukyl’c in, the earth-wife
+  description: A kindly and fruitful earth-wife named in the cited interpretation
+    as a possible spouse for Keremet.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: ritual community responding to harvest failure
+  assigned_to:
+  - fig:1
+  basis: The Wotjaks are said to experience bad harvests and to perform the procession,
+    feast, and turf-cutting actions.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: unmarried wrathful god
+  assigned_to:
+  - fig:2
+  basis: Keremet is identified as a god whose wrath at being unmarried was blamed
+    for the calamity.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: fruitful proposed divine spouse
+  assigned_to:
+  - fig:3
+  basis: The cited interpretation suggests Keremet was to be married to the kindly
+    and fruitful earth-wife.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: sacred grove
+  literal_form: A sacred grove visited by the procession and used as the site of feasting
+    and turf-cutting.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: gaily-decked wagons
+  literal_form: Decorated wagons used in a procession likened to fetching home a bride.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: square piece of turf
+  literal_form: A square piece of turf cut in the sacred grove and carried home.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: earth-wife
+  literal_form: The kindly and fruitful mukyl’c in, described as an earth-wife in
+    the cited explanation.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Harvest failure attributed to divine unmarried status
+  summary: The Wotjaks are described as suffering repeated bad harvests and blaming
+    the wrath of Keremet because he was unmarried.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Bridal-style procession to sacred grove
+  summary: The community travels to the sacred grove in decorated wagons, in a manner
+    compared to fetching home a bride, and feasts there overnight.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Turf carried home after grove rite
+  summary: The next morning the participants cut a square piece of turf in the grove
+    and take it home.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Interpretation as divine marriage
+  summary: A cited explanation proposes that the rite may have been intended to marry
+    Keremet to the fruitful earth-wife so that she might influence him favorably.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: sacred marriage to remedy agricultural distress
+  taxonomy_refs:
+  - sacred_marriage
+  basis: The passage explicitly frames the ceremony as possibly intended to marry
+    Keremet to the fruitful earth-wife after bad harvests were attributed to his unmarried
+    state.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: high
+  cautions: The passage reports this as an interpretation, not as a certain explanation
+    of the rite.
+- id: motif:2
+  label: ritual response to harvest failure
+  taxonomy_refs: []
+  basis: The actions are introduced as a response to a series of bad harvests and
+    culminate in a possible divine marriage involving a fruitful earth-wife.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage does not state that the rite was seasonal or recurring; it
+    only links it to bad harvests in this reported instance.
+comparison_claims:
+- id: claim:1
+  claim: The Wotjak rite as interpreted in note 350 can be cautiously compared with
+    the sacred-marriage references cited for Cnossus, Samos, and Athens in note 351
+    at the level of a shared sacred-marriage motif.
+  claim_level: same_motif
+  target: Greek sacred-marriage attestations at Cnossus, Samos, and Athens cited in
+    note 351
+  evidence_refs:
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The Greek examples are citation-only in this passage, with no narrative
+    details provided here; the passage does not claim historical contact or direct
+    dependence.
+evidence:
+- id: ev:1
+  type: summary
+  locator: footnote 350
+  quote_or_summary: The Wotjaks of Russia, distressed by bad harvests, ascribed the
+    calamity to the wrath of Keremet because he was unmarried.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: footnote 350
+  quote_or_summary: They processed to the sacred grove in gaily-decked wagons, as
+    when fetching home a bride, and feasted there all night.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: footnote 350
+  quote_or_summary: The next morning they cut a square piece of turf in the grove
+    and took it home.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: footnote 350
+  quote_or_summary: "“Perhaps, as Bechterew thinks, they meant to marry Keremet to
+    the kindly and fruitful mukyl’c in, the earth-wife.”"
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; short quotation.
+- id: ev:5
+  type: summary
+  locator: footnote 351
+  quote_or_summary: The note cites sacred-marriage references at Cnossus in Crete,
+    Samos, and Athens.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: low
+  notes: Most of the supplied range is bibliographic footnotes. Extraction relies
+    mainly on the substantive content of footnote 350 and the citation-only comparison
+    material in footnote 351.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No taxonomy IDs beyond the supplied lists were added. The sacred grove was linked to the available symbol taxonomy term 'tree' because the literal form is a grove; this should be reviewed.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:comparative-golden-bough-volume-1-frazer-gutenberg__l9858-l10043
+  passage_sha256=6d36a3b80422f882bcfd9bcfbe09a7eeda41ec786b205ad367b9b76597f5cb40
+

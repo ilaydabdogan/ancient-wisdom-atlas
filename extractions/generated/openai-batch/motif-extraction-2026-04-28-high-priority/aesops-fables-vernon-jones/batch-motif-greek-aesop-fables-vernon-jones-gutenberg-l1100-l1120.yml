@@ -1,0 +1,292 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l1100-l1120
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE HORSE AND THE GROOM / THE WOLF AND THE LAMB / THE PEACOCK AND THE CRANE
+    / THE CAT AND THE BIRDS; lines 1100-1120
+  start: '1100'
+  end: '1120'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage contains two fables. In one, a Peacock boasts of her brilliant
+    plumage to a Crane, who replies that the Crane can fly into the clouds while the
+    Peacock remains earthbound. In the other, a Cat disguises himself as a doctor
+    and visits sick Birds in an aviary, but the Birds refuse to admit him; the moral
+    states that a villain may disguise himself but will not deceive the wise.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A Peacock taunts a Crane about the dullness of the Crane's plumage and boasts
+    of her own brilliant colours.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Crane acknowledges the Peacock's brighter colours but contrasts this with
+    the Crane's ability to soar into the clouds while the Peacock is confined to the
+    earth.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A Cat hears that Birds in an aviary are ailing.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The Cat dresses as a doctor, carries professional instruments, and presents
+    himself at the aviary door.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The Birds answer the Cat from inside and do not let him in.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The stated moral says that a villain may disguise himself but will not deceive
+    the wise.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Peacock
+  description: A bird with brilliant colours who boasts of her plumage to the Crane.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Crane
+  description: A bird with duller plumage who replies that she can soar into the clouds.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Cat
+  description: An animal who disguises himself as a doctor and comes to the aviary
+    door.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Birds
+  description: Ailing birds in an aviary who refuse to admit the Cat.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: boastful taunter
+  assigned_to:
+  - fig:1
+  basis: The Peacock taunts the Crane and boasts about her own brilliant colours.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: answering comparator
+  assigned_to:
+  - fig:2
+  basis: The Crane replies by comparing her power of flight with the Peacock's earthbound
+    condition.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: disguised intruder
+  assigned_to:
+  - fig:3
+  basis: The Cat dresses as a doctor and appears at the aviary door after hearing
+    the Birds are ill.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: und deceived rejecters
+  assigned_to:
+  - fig:4
+  basis: The Birds refuse to let the disguised Cat in, and the moral says disguise
+    does not deceive the wise.
+  evidence_refs:
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: brilliant plumage
+  literal_form: The Peacock's brilliant colours and the Crane's duller plumage.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: flight into the clouds
+  literal_form: The Crane's ability to soar into the clouds, contrasted with the Peacock
+    being confined to earth.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: doctor disguise
+  literal_form: The Cat's medical costume and instruments.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: aviary door
+  literal_form: The door at which the Cat presents himself and through which the Birds
+    refuse to admit him.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: Peacock and Crane compare qualities
+  summary: The Peacock mocks the Crane's dull feathers and praises her own colours;
+    the Crane replies that flight into the clouds is superior to the Peacock's earthbound
+    condition.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Cat disguised as doctor at the aviary
+  summary: The Cat hears that the Birds are sick, arrives dressed as a doctor with
+    instruments, and asks about their health, but the Birds keep him outside.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Moral of failed disguise
+  summary: The fable concludes that a villain may disguise himself but will not deceive
+    the wise.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: External beauty contrasted with useful ability
+  taxonomy_refs:
+  - wisdom
+  basis: The Peacock's boast about colourful plumage is answered by the Crane's practical
+    advantage of flight.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage frames the contrast through animal speech rather than through
+    an explicit moral in this excerpt.
+- id: motif:2
+  label: Villainous disguise exposed by prudent victims
+  taxonomy_refs:
+  - wisdom
+  - trickster_boundary
+  basis: The Cat disguises himself as a doctor to approach sick Birds, but they refuse
+    him entry; the moral states that disguise cannot deceive the wise.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage does not state the Cat's intended harm directly; villainy
+    is inferred from the closing moral and the Cat's deceptive disguise.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1100-1105
+  quote_or_summary: A Peacock taunts a Crane for dull plumage and says her own brilliant
+    colours are finer.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source text.
+- id: ev:2
+  type: summary
+  locator: lines 1105-1108
+  quote_or_summary: The Crane concedes the Peacock's gayer colours but says she can
+    soar into the clouds while the Peacock is confined to earth.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source text.
+- id: ev:3
+  type: summary
+  locator: lines 1112-1113
+  quote_or_summary: A Cat hears that Birds in an aviary are ailing.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source text.
+- id: ev:4
+  type: summary
+  locator: lines 1113-1116
+  quote_or_summary: The Cat gets himself up as a doctor, takes medical instruments,
+    and presents himself at the door.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source text.
+- id: ev:5
+  type: summary
+  locator: lines 1116-1118
+  quote_or_summary: The Birds answer that they will do well when they have seen the
+    last of the Cat, and they do not let him in.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source text.
+- id: ev:6
+  type: quote
+  locator: lines 1120
+  quote_or_summary: A villain may disguise himself, but he will not deceive the wise.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source text.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labels are candidate abstractions
+    from the fables and their moral; no external comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage text and metadata were used.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l1100-l1120
+  passage_sha256=4b1032bf980dc6c7c6096903fa7667d06c599aef609c4f3e4ad1572fb6bfb007
+

@@ -1,0 +1,281 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l1427-l1441
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE STAG IN THE OX-STALL / THE MILKMAID AND HER PAIL / THE DOLPHINS, THE
+    WHALES, AND THE SPRAT / THE FOX AND THE MONKEY; lines 1427-1441
+  start: '1427'
+  end: '1441'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A Fox and a Monkey travel together and dispute which is better born. Passing
+    through a cemetery full of monuments, the Monkey sighs and claims the monuments
+    honor his eminent forefathers. The Fox replies that the Monkey can lie safely
+    because none of his ancestors will rise to expose him. The stated moral says boasters
+    brag most when they cannot be detected.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A Fox and a Monkey are traveling together on a road.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Fox and the Monkey dispute which of them is better born.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The road passes through a cemetery full of monuments.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Monkey stops, looks around, and gives a great sigh.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The Monkey says the monuments were put up in honor of his forefathers, whom
+    he calls eminent men.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The Fox replies that the Monkey is safe to lie because none of his ancestors
+    will rise up and expose him.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The appended moral states that boasters brag most when they cannot be detected.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Fox
+  description: A fox traveling with the Monkey; he questions the Monkey’s sigh and
+    answers the Monkey’s claim with a retort about lying safely among dead ancestors.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: Monkey
+  description: A monkey traveling with the Fox; he disputes noble birth, sighs in
+    a cemetery, and claims the monuments honor his forefathers.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Monkey’s ancestors or forefathers
+  description: Forefathers claimed by the Monkey to have been eminent men honored
+    by the cemetery monuments; the Fox says they will not rise up to expose the Monkey.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: traveling disputant
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The Fox and Monkey travel together and argue about which is better born.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: boaster of ancestry
+  assigned_to:
+  - fig:2
+  basis: The Monkey claims the cemetery monuments honor his eminent forefathers, and
+    the moral identifies the behavior as boasting when detection is impossible.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:3
+  label: witty challenger of false claim
+  assigned_to:
+  - fig:1
+  basis: The Fox answers the Monkey by saying he is safe to lie because the ancestors
+    cannot rise to expose him.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: absent dead witnesses
+  assigned_to:
+  - fig:3
+  basis: The ancestors are invoked in the Monkey’s claim, and the Fox stresses that
+    they cannot rise to expose him.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: road
+  literal_form: road
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: cemetery with monuments
+  literal_form: cemetery full of monuments; tombs
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: great sigh
+  literal_form: the Monkey’s great sigh
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Roadside dispute over birth
+  summary: The Fox and Monkey travel together and argue over which of them is better
+    born.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Claim among cemetery monuments
+  summary: At a cemetery full of monuments, the Monkey stops, sighs, and says the
+    monuments honor his eminent forefathers.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Fox’s retort
+  summary: The Fox says the Monkey can lie freely because none of his ancestors will
+    rise up to expose him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: False noble ancestry claim in a place of the dead
+  taxonomy_refs: []
+  basis: The Monkey claims that cemetery monuments honor his eminent forefathers while
+    the Fox treats the claim as a lie that cannot be disproved by the dead.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage presents this as a brief fable episode rather than a developed
+    genealogy motif.
+- id: motif:2
+  label: Boasting when detection is impossible
+  taxonomy_refs: []
+  basis: The Fox says the dead ancestors cannot expose the Monkey, and the moral generalizes
+    that boasters brag most when they cannot be detected.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is explicitly a moralized fable pattern, not necessarily a mythological
+    motif family in the supplied taxonomy.
+- id: motif:3
+  label: Witty exposure of deception
+  taxonomy_refs:
+  - wisdom
+  basis: The Fox responds to the Monkey’s claim with a clever retort that identifies
+    the boast as a lie.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The taxonomy reference to wisdom is broad; the passage supports clever
+    speech, not sacred or philosophical wisdom.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 1427-1430
+  quote_or_summary: A Fox and a Monkey travel together and dispute which of them is
+    better born.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:2
+  type: summary
+  locator: 1430-1433
+  quote_or_summary: They come to a place where the road passes through a cemetery
+    full of monuments; the Monkey stops, looks around, and sighs.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:3
+  type: quote
+  locator: 1434-1437
+  quote_or_summary: "“All the monuments that you see here were put up in honour of
+    my forefathers”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation from supplied passage.
+- id: ev:4
+  type: quote
+  locator: 1437-1440
+  quote_or_summary: "“you're quite safe: I'm sure none of your ancestors will rise
+    up and expose you.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation from supplied passage.
+- id: ev:5
+  type: quote
+  locator: '1441'
+  quote_or_summary: "“Boasters brag most when they cannot be detected.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The fable’s figures, actions, and moral are explicit. Motif candidates are
+    descriptive and mostly outside the supplied comparative taxonomy; no passage-supported
+    comparison claims were added.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage text was used. Although the locator label lists multiple fables, the provided passage contains only “THE FOX AND THE MONKEY.”
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l1427-l1441
+  passage_sha256=a77e02b010646f0127c4ca31820d50ef52b8dbb5c454c46ebf92e322a37ae870
+

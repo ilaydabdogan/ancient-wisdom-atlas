@@ -1,0 +1,507 @@
+---
+record_id: batch.motif.greek-odyssey-butler-gutenberg-l11379-l11488
+source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+passage_locator:
+  label: BOOK XXII / BOOK XXIII / BOOK XXIV / FOOTNOTES:; lines 11379-11488
+  start: '11379'
+  end: '11488'
+  translation: The Odyssey
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'Editorial footnotes discuss Odyssey episodes and localizations: Ulysses
+    bound in connection with mast-fishing practices, Circe’s route instructions, the
+    Wanderers or Planctae, Scylla and Charybdis, the Sirens, fishing methods, Charybdis
+    drawing down water, Ulysses’ night departure and foggy waking, and an identifiable
+    cave called the grotta del toro.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The commentator reports seeing men fastened halfway up a boat mast, with their
+    feet on a crosspiece, while spearing sword-fish.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The commentator says this observed mast-fishing practice influenced his translation
+    of a term connected with the binding of Ulysses.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The notes describe a route problem involving Circe’s instructions, the Wanderers
+    or Planctae, Scylla, and Charybdis.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The notes say Ulysses later mentions the Wandering rocks as lying between
+    the Sirens and Scylla and Charybdis.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The notes say smoke and whirlwinds of fire associated with Scylla suggest
+    allusion to Stromboli and perhaps Etna.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The notes identify the island of the two Sirens with Salinas, the ancient
+    Didyme or twin island.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The notes describe the two Sirens as whistling gusts or avalanches of air
+    descending from two lofty mountains.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The commentator reports seeing fishermen chew bread into paste, throw it into
+    the sea to attract fish, and spear the fish without using a line.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The notes discuss Charybdis as sucking down water when Ulysses arrived and
+    mention the keel and mast being carried down.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The notes say Ulysses set out after dark, fell into deep sleep, and woke on
+    a foggy morning.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: The notes identify a cave with the modern grotta del toro and report that
+    it is held to contain treasure.
+  category: setting
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Ulysses
+  description: Hero mentioned in relation to binding, routes prescribed by Circe,
+    passage by Scylla and Charybdis, Charybdis drawing down water, and a foggy waking
+    after night departure.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: Circe
+  description: Figure whose prescribed route for Ulysses is discussed in the footnotes.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Scylla
+  description: Maritime danger placed in sequence with the Wanderers and Charybdis;
+    associated in the note with smoke and whirlwinds of fire.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Charybdis
+  description: Maritime danger described as sucking down water and associated with
+    the keel and mast being carried down.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: fig:5
+  name_or_label: The two Sirens
+  description: Two Sirens identified by the commentator with whistling gusts or avalanches
+    of air from the mountains of Salinas.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: The Wanderers / Planctae / Wandering rocks
+  description: Rocks or maritime obstacle discussed as part of Ulysses’ route between
+    the Sirens and Scylla and Charybdis.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:9
+- id: fig:7
+  name_or_label: Mast-fishers
+  description: Men observed by the commentator fastened halfway up a mast while spearing
+    sword-fish.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: sea-traveling hero
+  assigned_to:
+  - fig:1
+  basis: Ulysses is discussed as bound, following a sea route, encountering Scylla
+    and Charybdis, and returning under sleep and fog.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+  - ev:7
+- id: role:2
+  label: route-giver
+  assigned_to:
+  - fig:2
+  basis: The note refers to the route prescribed by Circe for Ulysses.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: maritime hazard
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:6
+  basis: Scylla, Charybdis, and the Wanderers are discussed as obstacles or dangers
+    on Ulysses’ sea route.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+  - ev:9
+- id: role:4
+  label: paired dangerous voices or winds
+  assigned_to:
+  - fig:5
+  basis: The two Sirens are identified with whistling gusts or avalanches of air from
+    twin mountains.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: ethnographic comparator
+  assigned_to:
+  - fig:7
+  basis: The observed mast-fishers are used by the commentator as a comparison for
+    the binding of Ulysses.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: mast and crosspiece
+  literal_form: Boat mast with a small crosspiece supporting a man’s feet
+  associated_figures:
+  - fig:1
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: wandering rocks
+  literal_form: The Wanderers, Planctae, or Wandering rocks
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:9
+- id: sym:3
+  label: fire and smoke
+  literal_form: Whirlwinds of fire and smoke associated with Scylla
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: sea water and currents
+  literal_form: Sea, currents, and Charybdis sucking down water
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:5
+  label: twin mountains
+  literal_form: Two lofty mountains of Salinas, ancient Didyme or twin island
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: cave with treasure tradition
+  literal_form: Cave called the grotta del toro, held to contain treasure
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Mast-fishing and the binding of Ulysses
+  summary: The commentator compares men fastened to boat masts while spearing sword-fish
+    with the Odyssey’s description of Ulysses being bound.
+  figure_refs:
+  - fig:1
+  - fig:7
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Route among the Wanderers, Scylla, and Charybdis
+  summary: The notes discuss how Ulysses’ route should pass the Wanderers or another
+    difficulty before Scylla and Charybdis, and note inconsistency in the route sequence.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+  - ev:9
+- id: scene:3
+  label: The two Sirens and Salinas
+  summary: The notes identify the two Sirens with the twin island Salinas and interpret
+    them as whistling gusts or avalanches of air descending from its mountains.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Fishing with bread paste and spears
+  summary: The commentator describes fishermen attracting fish by throwing chewed
+    bread paste into the sea and then spearing them without a line.
+  figure_refs: []
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Night departure, sleep, fog, and cave localization
+  summary: The notes say Ulysses sets out after dark, falls into deep sleep, wakes
+    in fog, and is connected with a cave identified as the grotta del toro.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: hero bound to a mast
+  taxonomy_refs: []
+  basis: The note explicitly relates observed men fastened to a mast with the Odyssey’s
+    binding of Ulysses.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage is an editorial footnote, not the primary narrative description
+    of the binding.
+- id: motif:2
+  label: perilous sea route through multiple hazards
+  taxonomy_refs: []
+  basis: The notes describe Ulysses’ route through or near the Wanderers, Scylla,
+    and Charybdis, including Charybdis sucking down water.
+  evidence_refs:
+  - ev:2
+  - ev:6
+  - ev:9
+  confidence: high
+  cautions: The extracted motif is based on the commentator’s summary and discussion
+    of route inconsistencies.
+- id: motif:3
+  label: paired dangerous beings localized as natural winds
+  taxonomy_refs: []
+  basis: The two Sirens are identified with whistling gusts or avalanches of air from
+    twin mountains on Salinas.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: This is the commentator’s naturalizing interpretation of the Sirens, not
+    a direct narrative statement from the epic.
+- id: motif:4
+  label: return under concealment by night, sleep, and fog
+  taxonomy_refs:
+  - return
+  basis: The note says Ulysses leaves after dark, falls into deep sleep, and wakes
+    on a foggy morning before recognizing the situation.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: Only a compressed editorial summary of the return setting is present in
+    this passage.
+- id: motif:5
+  label: treasure cave
+  taxonomy_refs: []
+  basis: The note identifies a cave, the grotta del toro, and says it is held to contain
+    a treasure.
+  evidence_refs:
+  - ev:8
+  confidence: low
+  cautions: The treasure belief is attached to a modern cave identification rather
+    than to the Odyssey narrative in this passage.
+comparison_claims:
+- id: claim:1
+  claim: The observed practice of men fastened to boat masts while spearing sword-fish
+    is presented as a visual analogue for the binding of Ulysses.
+  claim_level: visual_similarity
+  target: Mediterranean mast-fishing practice compared with Ulysses bound to the mast
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim is the commentator’s inference from personal observation
+    and translation choice.
+- id: claim:2
+  claim: The smoke and whirlwinds of fire associated with Scylla are interpreted as
+    suggesting volcanic localities such as Stromboli and possibly Etna.
+  claim_level: visual_similarity
+  target: Scylla’s smoke and fire compared with volcanic phenomena at Stromboli or
+    Etna
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage says this suggests allusion; it does not demonstrate historical
+    dependence.
+- id: claim:3
+  claim: The two Sirens are interpreted as natural wind phenomena descending from
+    the twin mountains of Salinas.
+  claim_level: same_function
+  target: Sirens compared with whistling gusts or avalanches of air from Salinas
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is a naturalizing interpretation by the commentator and may not
+    reflect the primary epic tradition.
+- id: claim:4
+  claim: The Wanderers or Planctae are said to derive from sailors’ tales about navigating
+    the Aeolian islands as a group.
+  claim_level: historical_contact
+  target: Planctae compared with sailors’ tales of Aeolian island navigation
+  evidence_refs:
+  - ev:9
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage attributes the argument to Buttmann and the commentator;
+    no independent evidence is provided here.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 11379-11392; footnote [99]
+  quote_or_summary: The commentator reports seeing men fastened halfway up a boat
+    mast on a crosspiece while spearing sword-fish and links this to the binding of
+    Ulysses and the translation of ἰστοπέδη.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source; summary used.
+- id: ev:2
+  type: summary
+  locator: lines 11394-11414; footnote [100]
+  quote_or_summary: The note discusses problems in Circe’s prescribed route, the Wanderers
+    or Planctae, Scylla and Charybdis, and Ulysses’ later mention of the Wandering
+    rocks between the Sirens and Scylla and Charybdis.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source; summary used.
+- id: ev:3
+  type: summary
+  locator: lines 11414-11419; footnote [100]
+  quote_or_summary: The note says the whirlwinds of fire and smoke connected with
+    Scylla suggest allusion to Stromboli and perhaps Etna, and places Scylla on the
+    Italian side.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source; summary used.
+- id: ev:4
+  type: summary
+  locator: lines 11425-11432; footnote [102]
+  quote_or_summary: The note identifies the island of the two Sirens with Salinas,
+    ancient Didyme or the twin island, and interprets the Sirens as whistling gusts
+    or avalanches of air descending from two lofty mountains.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source; summary used.
+- id: ev:5
+  type: summary
+  locator: lines 11436-11440; footnote [104]
+  quote_or_summary: The commentator reports seeing fishermen chew bread into paste,
+    throw it into the sea to attract fish, and spear the fish without using a line.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source; summary used.
+- id: ev:6
+  type: summary
+  locator: lines 11445-11451; footnote [106]
+  quote_or_summary: The note says a line may be missing to explain the keel and mast
+    being carried down into Charybdis and describes Charybdis as sucking down water
+    when Ulysses arrived.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source; summary used.
+- id: ev:7
+  type: summary
+  locator: lines 11470-11479; footnote [112]
+  quote_or_summary: The note explains that Ulysses is made to set out after dark,
+    fall into deep sleep, and wake on a foggy morning so the audience can accept the
+    setting.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source; summary used.
+- id: ev:8
+  type: summary
+  locator: lines 11480-11483; footnote [113]
+  quote_or_summary: The note identifies a cave with the grotta del toro and says it
+    is held to contain a treasure.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source; summary used.
+- id: ev:9
+  type: summary
+  locator: lines 11406-11414; footnote [100]
+  quote_or_summary: The note says the Planctae were argued to derive not from a single
+    locality but from sailors’ tales about the difficulties of navigating the Aeolian
+    islands as a whole.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source; summary used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is editorial commentary and footnotes rather than continuous
+    primary narrative; extraction therefore emphasizes mentioned figures, symbols,
+    and cautious comparison claims explicitly made in the notes.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy references were applied sparingly and only where directly supported by the passage.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-odyssey-butler-gutenberg__l11379-l11488
+  passage_sha256=9a8c36578b4c0478be7cb2cb753e0c86982fc0c2dcf5ba65234c72bd1ef0604d
+

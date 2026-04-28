@@ -1,0 +1,392 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l4297-l4320
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE PIG AND THE SHEEP / THE GARDENER AND HIS DOG / THE RIVERS AND THE SEA
+    / THE LION IN LOVE; lines 4297-4320
+  start: '4297'
+  end: '4320'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Two fables are presented. In the first, the Rivers complain that the Sea
+    makes their sweet waters salty, and the Sea tells them to keep away if they wish
+    to remain sweet. In the second, a Lion seeks to marry a cottager's daughter; the
+    cottager requires the Lion to have his teeth and nails removed, then drives him
+    away once he is disarmed.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: All the Rivers combine to protest against the Sea for making their waters
+    salt.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Rivers say they are sweet and drinkable before mingling with the Sea,
+    but briny and unpalatable afterward.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Sea replies that the Rivers should keep away if they want to remain sweet.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A Lion falls deeply in love with a cottager's daughter and wants to marry
+    her.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The cottager does not want to give his daughter to a fearsome husband but
+    also does not want to offend the Lion.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The cottager tells the Lion he cannot consent to the marriage unless the Lion
+    lets him draw his teeth and pare his nails.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The stated reason for removing the Lion's teeth and nails is that the daughter
+    is terribly afraid of them.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The Lion agrees to the removal of his teeth and nails because he is much in
+    love.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: After the Lion is disarmed, the cottager is no longer afraid and drives him
+    away with a club.
+  category: sequence
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: the Rivers
+  description: Collective rivers whose waters are described as sweet and drinkable
+    before reaching the Sea.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: the Sea
+  description: Body of water accused by the Rivers of making their waters salt; replies
+    that they should keep away.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:3
+  name_or_label: the Lion
+  description: A fearsome lion who loves a cottager's daughter, seeks marriage, and
+    submits to having teeth and nails removed.
+  role_refs:
+  - role:3
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:4
+  name_or_label: the cottager's daughter
+  description: Daughter whom the Lion wants to marry; said to be terribly afraid of
+    the Lion's teeth and nails.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: fig:5
+  name_or_label: the Cottager
+  description: Father of the daughter; sets a condition for the Lion's marriage request
+    and later drives the disarmed Lion away.
+  role_refs:
+  - role:5
+  - role:7
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:8
+roles:
+- id: role:1
+  label: complainants
+  assigned_to:
+  - fig:1
+  basis: The Rivers combine to protest against the Sea's action.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: respondent to complaint
+  assigned_to:
+  - fig:2
+  basis: The Sea answers the Rivers' accusation with a brief instruction to keep away.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: marriage-seeking suitor
+  assigned_to:
+  - fig:3
+  basis: The Lion wants to marry the cottager's daughter.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: desired bride
+  assigned_to:
+  - fig:4
+  basis: The Lion wants to marry the cottager's daughter.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: father withholding consent
+  assigned_to:
+  - fig:5
+  basis: The cottager is unwilling to give his daughter to the Lion and sets a condition
+    for consent.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:6
+  label: disarmed powerful animal
+  assigned_to:
+  - fig:3
+  basis: The Lion allows his teeth to be drawn and nails pared, after which he is
+    described as disarmed.
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: role:7
+  label: deviser of expedient
+  assigned_to:
+  - fig:5
+  basis: The cottager hits upon an expedient that removes the Lion's dangerous teeth
+    and nails, then drives him away.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:8
+symbols:
+- id: sym:1
+  label: water changed by mingling
+  literal_form: sweet river waters becoming salt, briny, and unpalatable after mingling
+    with the Sea
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: salt sea
+  literal_form: the Sea whose waters are salt/briny
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: teeth and nails
+  literal_form: the Lion's teeth and nails, removed as a condition for marriage consent
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: sym:4
+  label: club
+  literal_form: club used by the cottager to drive away the disarmed Lion
+  associated_figures:
+  - fig:5
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Rivers protest to the Sea
+  summary: The Rivers accuse the Sea of making their sweet waters salty after they
+    mingle with it, and the Sea tells them to stay away if they want to remain sweet.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Lion asks to marry cottager's daughter
+  summary: A Lion loves a cottager's daughter and seeks marriage, while the father
+    fears the Lion and hesitates to refuse openly.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Cottager disarms and expels the Lion
+  summary: The cottager makes removal of the Lion's teeth and nails a condition for
+    marriage consent; after the Lion agrees and is disarmed, the cottager drives him
+    away with a club.
+  figure_refs:
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: avoid corrupting contact
+  taxonomy_refs: []
+  basis: The Rivers' problem is presented as the result of mingling with the Sea,
+    and the Sea's answer is simply to keep away to remain sweet.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: This is a fable-level practical pattern, not explicitly a mythic taxonomy
+    motif in the supplied passage.
+- id: motif:2
+  label: dangerous suitor disarmed by marriage condition
+  taxonomy_refs: []
+  basis: The Lion's desired marriage is made conditional on removal of his teeth and
+    nails; once this is done, he can be driven away.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The passage gives a secular animal-fable scenario, not a sacred-marriage
+    motif.
+- id: motif:3
+  label: love makes the powerful vulnerable
+  taxonomy_refs: []
+  basis: The Lion agrees to lose his teeth and nails because he is much in love, and
+    this loss enables the cottager to expel him.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The interpretation is limited to the explicit sequence of love, consent
+    to disarmament, and expulsion.
+- id: motif:4
+  label: practical cunning over brute force
+  taxonomy_refs:
+  - wisdom
+  basis: The cottager avoids openly offending the Lion, devises an expedient, and
+    overcomes him after removing his dangerous features.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:8
+  confidence: medium
+  cautions: The supplied taxonomy item 'wisdom' is broad; the passage supports practical
+    cleverness rather than a formal wisdom myth.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 4297-4300
+  quote_or_summary: All the Rivers combine to protest that the Sea makes their waters
+    salt.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: quote
+  locator: 4300-4303
+  quote_or_summary: '"we are sweet and drinkable" before mingling with the Sea, after
+    which the waters become "briny and unpalatable."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:3
+  type: quote
+  locator: 4303-4304
+  quote_or_summary: 'The Sea replies: "Keep away from me and you''ll remain sweet."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:4
+  type: summary
+  locator: 4307-4309
+  quote_or_summary: A Lion falls deeply in love with a cottager's daughter and wants
+    to marry her.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: 4309-4312
+  quote_or_summary: The father is unwilling to give his daughter to so fearsome a
+    husband but does not want to offend the Lion, so he devises an expedient.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:6
+  type: summary
+  locator: 4312-4316
+  quote_or_summary: The cottager tells the Lion that he cannot consent unless allowed
+    to draw the Lion's teeth and pare his nails, because the daughter is afraid of
+    them.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:7
+  type: summary
+  locator: 4316-4318
+  quote_or_summary: Because he is so much in love, the Lion readily agrees to the
+    removal of his teeth and nails.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:8
+  type: summary
+  locator: 4318-4320
+  quote_or_summary: Once the Lion is disarmed, the cottager no longer fears him and
+    drives him away with a club.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied passage. Motif labels are candidate
+    fable patterns; broader comparative claims were not made because the passage itself
+    does not establish them.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added; the passage supports internal fable motifs but not historical or cross-tradition comparison on its own.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l4297-l4320
+  passage_sha256=8314faeba7741f1a5a65e7b26d5bd4d99f48ce5d301a3b0b2d7713518ed083f8
+

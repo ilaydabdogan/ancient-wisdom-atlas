@@ -1,0 +1,388 @@
+---
+record_id: batch.motif.greek-plato-republic-jowett-gutenberg-l2230-l2329
+source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+passage_locator:
+  label: The Republic / THE REPUBLIC / INTRODUCTION AND ANALYSIS.; lines 2230-2329
+  start: '2230'
+  end: '2329'
+  translation: The Republic
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: Only our ancestral deity sitting upon the centre and navel of the earth will
+    be trusted by us...
+  summary: The passage discusses leaving religious ordering to Apollo at Delphi, then
+    analyzes themes in Plato concerning duty, happiness, utility, right, political
+    order, the whole, limits on the State, and several humorous illustrative images.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The remaining work of legislation is said to be nothing for the speakers,
+    because the ordering of religion is left to Apollo, the god of Delphi.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The ancestral deity is described as sitting at the centre and navel of the
+    earth, and no foreign god is to be supreme in the realms.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The analysis states that the founding aim of the State was its well-being,
+    not the happiness of the citizens, who were to be guardians rather than holiday-makers.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage frames a philosophical question about the relation of duty to
+    happiness and of right to utility.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage asserts an order in which duty comes first and happiness follows,
+    while treating utility as a secondary but useful principle.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The passage extends the same question to politics, stating that political
+    measures are often judged by their effect on human happiness while right and truth
+    remain the highest aims of government.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The passage identifies the conception of a whole as foundational for both
+    politics and art, with related terms including harmony, symmetry, measure, proportion,
+    and unity.
+  category: other
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The passage lists humorous pictures including lean dogs and fatted sheep,
+    an active boxer upsetting stout gentlemen, troublesome patients, and a statesman
+    who believes he is six feet high because he is told so.
+  category: object
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Apollo, god of Delphi
+  description: A deity to whom the ordering of religion is left.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Socrates
+  description: Presented as the speaker whose argument is drawn out and deepened by
+    Adeimantus' objection.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+  - ev:9
+- id: fig:3
+  name_or_label: Adeimantus
+  description: Named as the source of an objection that draws out and deepens Socrates'
+    argument.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:9
+- id: fig:4
+  name_or_label: Pericles
+  description: Named as a statesman associated with idealism gathered from Anaxagoras'
+    teaching.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:10
+- id: fig:5
+  name_or_label: Anaxagoras
+  description: Named as the teacher from whom Pericles is said to have gathered idealism.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:10
+roles:
+- id: role:1
+  label: Delphic religious authority
+  assigned_to:
+  - fig:1
+  basis: Religion is assigned to Apollo of Delphi, described as the ancestral deity
+    at the earth's centre and navel.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: philosophical arguer
+  assigned_to:
+  - fig:2
+  basis: The passage presents Socrates as associated with reflection and an argument
+    deepened by objection.
+  evidence_refs:
+  - ev:4
+  - ev:9
+- id: role:3
+  label: objector in argument
+  assigned_to:
+  - fig:3
+  basis: Adeimantus' objection is said to draw out and deepen Socrates' argument.
+  evidence_refs:
+  - ev:9
+- id: role:4
+  label: ideal statesman example
+  assigned_to:
+  - fig:4
+  basis: Pericles is cited in connection with statesmen possessing idealism above
+    ambition.
+  evidence_refs:
+  - ev:10
+- id: role:5
+  label: philosophical teacher
+  assigned_to:
+  - fig:5
+  basis: Anaxagoras is named as the source of teaching from which Pericles is said
+    to have gathered idealism.
+  evidence_refs:
+  - ev:10
+symbols:
+- id: sym:1
+  label: centre and navel of the earth
+  literal_form: A sacred central place associated with Apollo at Delphi.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - world_center
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: whole
+  literal_form: The conception of a whole applied to politics and art.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:3
+  label: humorous animal and athletic pictures
+  literal_form: Lean dogs, fatted sheep, a light active boxer, stout gentlemen, troublesome
+    patients, and an overestimated statesman.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Religious ordering assigned to Delphi
+  summary: The passage states that the speakers leave religion, the greatest remaining
+    legislative matter, to Apollo at Delphi, the ancestral deity at the earth's centre
+    and navel.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Duty, happiness, right, and utility analyzed
+  summary: The passage reflects on the State's purpose and develops an ethical analysis
+    in which duty and right precede happiness and utility.
+  figure_refs:
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Political extension of the ethical question
+  summary: The same issue is applied to politics, where expediency and happiness are
+    weighed against right and truth as the highest aims of government.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:10
+- id: scene:4
+  label: Analytical notes on whole, scale, and comic images
+  summary: The passage lists notes on Adeimantus' objection, the whole in politics
+    and art, the State's limited size, and humorous images used in the argument.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:11
+candidate_motifs:
+- id: motif:1
+  label: sacred world center
+  taxonomy_refs:
+  - world_center
+  basis: Delphi's ancestral deity is described as seated at the centre and navel of
+    the earth and entrusted with religious ordering.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage is an analytical prose discussion, not a narrative myth episode;
+    the world-center element appears as a religious-geographic image.
+- id: motif:2
+  label: right and duty before happiness
+  taxonomy_refs: []
+  basis: The passage repeatedly orders duty and right before happiness and utility,
+    while allowing utility a secondary role.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: This is a philosophical pattern rather than a mythological motif from
+    the supplied taxonomy.
+- id: motif:3
+  label: ordered whole as political and artistic principle
+  taxonomy_refs: []
+  basis: The passage states that the conception of a whole underlies politics and
+    art, with harmony, symmetry, measure, proportion, and unity as related terms.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The motif is abstract and aesthetic-political; it is not presented as
+    a mythic scene.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself compares Plato's requirement that the State be limited
+    in size with Aristotle's Politics, where the small size of Greek cities is described
+    as being converted into a principle.
+  claim_level: same_function
+  target: Aristotle, Politics; traditional model of a Greek state
+  evidence_refs:
+  - ev:11
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim relies on the commentator's summary within this passage and
+    does not quote Aristotle directly.
+- id: claim:2
+  claim: The passage links the discussion of utility and happiness to related treatments
+    in the introductions to Gorgias and Philebus.
+  claim_level: same_function
+  target: Gorgias and Philebus introductory discussions
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The passage only gives a parenthetical cross-reference and does not
+    provide details of those other discussions.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 2230-2234
+  quote_or_summary: '"to Apollo the god of Delphi we leave the ordering of the greatest
+    of all things—that is to say, religion."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source text.
+- id: ev:2
+  type: quote
+  locator: lines 2234-2237
+  quote_or_summary: '"our ancestral deity sitting upon the centre and navel of the
+    earth"; no foreign god is to be supreme.'
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source text.
+- id: ev:3
+  type: summary
+  locator: lines 2239-2245
+  quote_or_summary: The passage says the discussion has concerned the well-being of
+    the State rather than the happiness of citizens, who were to be guardians, not
+    holiday-makers.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source text.
+- id: ev:4
+  type: quote
+  locator: lines 2243-2247
+  quote_or_summary: The passage frames the question as touching "the relation of duty
+    to happiness, of right to utility."
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source text.
+- id: ev:5
+  type: summary
+  locator: lines 2248-2279
+  quote_or_summary: The passage states that duty comes before happiness, that utility
+    is not the foundation of ethics, and that the greatest happiness principle is
+    secondary though often easier to apply.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source text.
+- id: ev:6
+  type: summary
+  locator: lines 2280-2304
+  quote_or_summary: 'The passage applies the issue to politics: expediency has a large
+    sphere, but right and truth are still the highest aims of government and individuals.'
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source text.
+- id: ev:7
+  type: quote
+  locator: lines 2310-2315
+  quote_or_summary: The passage notes "the conception of a whole" in politics and
+    art, with harmony, symmetry, measure, proportion, and unity.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source text.
+- id: ev:8
+  type: summary
+  locator: lines 2320-2329
+  quote_or_summary: 'The passage lists humorous pictures: lean dogs and fatted sheep,
+    an active boxer upsetting stout gentlemen, charming patients, and a statesman
+    misled about his height.'
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source text.
+- id: ev:9
+  type: summary
+  locator: lines 2307-2309
+  quote_or_summary: The passage says Adeimantus' objection is designed to draw out
+    and deepen Socrates' argument.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source text.
+- id: ev:10
+  type: summary
+  locator: lines 2294-2299
+  quote_or_summary: The passage says higher statesmen have idealism like that which
+    Pericles is said to have gathered from Anaxagoras' teaching.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source text.
+- id: ev:11
+  type: summary
+  locator: lines 2316-2319
+  quote_or_summary: The passage states that the State should be limited in size after
+    the traditional Greek model, and compares this with Aristotle's Politics.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source text.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward. Motif confidence is lower because
+    the passage is philosophical commentary rather than mythic narrative; the Delphi
+    world-center image is the clearest taxonomy-supported motif.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata; taxonomy references limited to explicit or strongly supported elements.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-plato-republic-jowett-gutenberg__l2230-l2329
+  passage_sha256=16864ac1bfd1232535df66b3e165b57de275996fe8041609abd315c9faf64e7b
+

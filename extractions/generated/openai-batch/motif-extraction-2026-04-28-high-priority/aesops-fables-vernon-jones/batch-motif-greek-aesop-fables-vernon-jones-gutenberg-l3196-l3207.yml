@@ -1,0 +1,259 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l3196-l3207
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE ESCAPED JACKDAW / THE FARMER AND THE FOX / VENUS AND THE CAT / THE CROW
+    AND THE SWAN; lines 3196-3207
+  start: '3196'
+  end: '3207'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: "“You may change your habits, but not your nature.”"
+  summary: A crow envies a swan’s white feathers and believes bathing in the same
+    waters will make him white. He leaves his former feeding place near sacrificial
+    altars, lives by pools and streams, repeatedly bathes, fails to change color,
+    and dies of hunger. The moral states that habits may change but nature does not.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A crow sees a swan’s beautiful white plumage and feels envy.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The crow thinks the swan’s whiteness is due to the water where the swan bathes
+    and swims.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The crow leaves the neighborhood of the altars, where he had obtained food
+    from meat offered in sacrifice.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The crow goes to live among pools and streams.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The crow bathes and washes his feathers many times each day.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The crow’s feathers do not become whiter.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The crow dies of hunger.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The passage ends with a moral about changing habits but not nature.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Crow
+  description: A crow who envies the swan’s white plumage, leaves his former food
+    source, repeatedly bathes, and dies of hunger.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Swan
+  description: A swan with beautiful white plumage who constantly bathes and swims
+    in water.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: envious imitator
+  assigned_to:
+  - fig:1
+  basis: The crow envies the swan’s plumage and imitates the swan’s bathing in an
+    attempt to become whiter.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: admired model
+  assigned_to:
+  - fig:2
+  basis: The swan’s white plumage is the trait admired and imitated by the crow.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: water
+  literal_form: water in which the swan bathes and swims; pools and streams where
+    the crow goes to live
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: white plumage
+  literal_form: the swan’s beautiful white feathers, which the crow wants to acquire
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:3
+  label: sacrificial meat at altars
+  literal_form: bits of meat offered in sacrifice near the altars, formerly used by
+    the crow for food
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Crow envies swan
+  summary: The crow sees the swan’s beautiful white plumage and concludes that the
+    swan’s bathing water causes the whiteness.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Crow abandons former food source
+  summary: The crow leaves the altars where he had fed on sacrificial meat and settles
+    among pools and streams.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Bathing fails and hunger follows
+  summary: The crow repeatedly bathes and washes but does not become whiter, and he
+    eventually dies of hunger.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Stated moral
+  summary: The fable states that habits may be changed, but nature cannot be changed.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: failed attempt to change innate nature by imitation
+  taxonomy_refs: []
+  basis: The crow imitates the swan’s bathing in order to acquire white plumage, but
+    his feathers remain unchanged and the moral explicitly distinguishes changeable
+    habits from unchangeable nature.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is a passage-level didactic motif label rather than a supplied taxonomy
+    motif family.
+- id: motif:2
+  label: envy leads to self-harming abandonment of livelihood
+  taxonomy_refs: []
+  basis: Because of envy, the crow leaves the altars where he had food and relocates
+    to water, after which he dies of hunger.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage does not explicitly state the causal chain as a general rule
+    beyond the specific narrative and moral.
+- id: motif:3
+  label: mistaken cause of desirable trait
+  taxonomy_refs: []
+  basis: The crow incorrectly attributes the swan’s white plumage to bathing water
+    and acts on that belief.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: The text implies the belief is mistaken through the failed result, but
+    does not analytically explain the true cause of the swan’s whiteness.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 3196-3200
+  quote_or_summary: "“A Crow was filled with envy on seeing the beautiful white plumage
+    of a Swan,” and thought it came from the water where the swan bathed and swam."
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source text; short quotation used for evidence.
+- id: ev:2
+  type: summary
+  locator: 3200-3203
+  quote_or_summary: The crow leaves the altars, where he had lived by eating bits
+    of sacrificial meat, and goes to live among pools and streams.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source text; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: 3203-3206
+  quote_or_summary: Though the crow bathes and washes his feathers many times daily,
+    they do not become whiter, and he eventually dies of hunger.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source text; summarized evidence.
+- id: ev:4
+  type: quote
+  locator: '3207'
+  quote_or_summary: "“You may change your habits, but not your nature.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source text; short quotation used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: uncertain
+  notes: Extraction relies only on the supplied passage. No comparison claims are
+    made because the passage itself does not support a specific external comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  The source locator label mentions multiple fables, but the provided passage text contains only “THE CROW AND THE SWAN”; extraction is limited to that text.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l3196-l3207
+  passage_sha256=078e17f066449473a70b08c6acfc4bddd1d29d881a08039a3088ac316dc1f117
+

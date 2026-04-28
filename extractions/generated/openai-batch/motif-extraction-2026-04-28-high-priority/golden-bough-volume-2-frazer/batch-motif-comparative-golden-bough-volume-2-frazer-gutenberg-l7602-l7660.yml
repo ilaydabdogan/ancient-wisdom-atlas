@@ -1,0 +1,473 @@
+---
+record_id: batch.motif.comparative-golden-bough-volume-2-frazer-gutenberg-l7602-l7660
+source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+passage_locator:
+  label: 'The Golden Bough: A Study in Comparative Religion (Vol. 2 of 2) / CONTENTS;
+    lines 7602-7660'
+  start: '7602'
+  end: '7660'
+  translation: 'The Golden Bough: A Study in Comparative Religion (Vol. 2 of 2)'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Frazer argues that beliefs about an external soul may be deliberately concealed,
+    especially because personal relics and names are feared as instruments of sorcery.
+    He compares this secrecy with fairy tales in which a giant hides the location
+    of his soul. He then interprets puberty initiation rites involving simulated death
+    and revival as the extraction and transfer of a youth’s soul to a totem, comparing
+    this to a Basque hunter story in which a bear kills a man and gives him its soul.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage says the Batta do not explicitly state that their external soul
+    is in their totem, but they give other reasons for respecting the sacred animal
+    or plant of the clan.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that a person who believes his life is bound to an external
+    object is unlikely to reveal that fact to a stranger.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage lists hair and nail clippings, spittle, food remnants, and a name
+    as personal items that may be feared as usable by a sorcerer for destruction.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The fairy-tale giant is described as giving false or evasive answers when
+    the princess asks where he keeps his soul.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage says that some puberty initiations include a pretense of killing
+    the youth and bringing him to life again.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage explains these initiatory rites as involving the extraction of
+    the youth’s soul and its transfer to his totem.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The Basque hunter story reports that a bear killed the hunter and breathed
+    its soul into him; the bear’s body died, while the hunter said he was a bear.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The passage states that, in the totemistic ceremony as interpreted by Frazer,
+    the lad dies as a man and lives again as an animal, with the animal’s soul in
+    him and his human soul in the animal.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Batta
+  description: A people discussed as respecting the sacred animal or plant of the
+    clan without explicitly saying the external soul is in the totem.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Generic person described as 'savage' in the passage
+  description: A generalized figure described as secretive about inmost beliefs and
+    fearful of sorcery involving personal remains or names.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Sorcerer
+  description: A feared agent who may use personal relics or a name to destroy someone.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Princess in the fairy tale
+  description: A figure who asks the giant where he keeps his soul and eventually
+    obtains the secret through coaxing and wheedling.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Giant in the fairy tale
+  description: A figure who keeps his soul hidden and initially gives false or evasive
+    answers about its location.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Lads at puberty
+  description: Youths undergoing initiatory rites in which they are pretended to be
+    killed and brought to life again.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: fig:7
+  name_or_label: Basque hunter
+  description: A hunter who says he was killed by a bear and revived with the bear’s
+    soul, becoming a bear in identity.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+- id: fig:8
+  name_or_label: Bear in the Basque hunter story
+  description: An animal that kills the hunter, breathes its soul into him, and then
+    has a dead body.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: concealer of external soul or soul-location
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:5
+  basis: The passage emphasizes secrecy around the external soul or its hiding place,
+    including the Batta case, the generalized ethnographic figure, and the fairy-tale
+    giant.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: person vulnerable to sorcery through personal remains
+  assigned_to:
+  - fig:2
+  basis: The passage says personal relics and the name may be used by a sorcerer and
+    are therefore concealed or destroyed.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: magical aggressor
+  assigned_to:
+  - fig:3
+  basis: The sorcerer is described as able to use personal remains or a name for destruction.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: seeker of soul-secret
+  assigned_to:
+  - fig:4
+  basis: The princess asks the giant where he keeps his soul and obtains the secret
+    only after coaxing.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: initiate undergoing simulated death and revival
+  assigned_to:
+  - fig:6
+  basis: The lads at puberty undergo rites involving a pretense of killing and restoring
+    to life.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: recipient of animal soul
+  assigned_to:
+  - fig:7
+  basis: The hunter says the bear breathed its soul into him after killing him.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: animal soul donor
+  assigned_to:
+  - fig:8
+  basis: The bear is said to have breathed its own soul into the hunter.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: external soul
+  literal_form: A life or soul bound up with an external object or hidden in a separate
+    place.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: totem animal or plant
+  literal_form: The sacred animal or plant of a clan, described as a possible location
+    or recipient of a person’s soul.
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+- id: sym:3
+  label: personal relics and name
+  literal_form: Hair clippings, nail clippings, spittle, remnants of food, and name.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: hidden soul-place
+  literal_form: The undisclosed place where the fairy-tale giant keeps his soul.
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: bear soul
+  literal_form: The bear’s soul breathed into the hunter in the Basque hunter story.
+  associated_figures:
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Concealment of the external soul and personal relics
+  summary: The passage describes secrecy about an external soul and anxiety that personal
+    remains or a name might be used in sorcery.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Princess questions the giant about his soul
+  summary: In a fairy tale comparison, the princess asks where the giant keeps his
+    soul; he answers falsely or evasively until the secret is obtained.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Puberty initiation as simulated death and revival
+  summary: Lads at puberty undergo rites in which they are pretended to be killed
+    and revived; Frazer interprets this as extraction of the youth’s soul and transfer
+    to the totem.
+  figure_refs:
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: scene:4
+  label: Basque hunter revived with bear soul
+  summary: A hunter says a bear killed him, breathed its soul into him, died in body,
+    and left the hunter animated by the bear’s soul.
+  figure_refs:
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: hidden external soul
+  taxonomy_refs: []
+  basis: The passage repeatedly discusses a life or soul kept outside the body and
+    deliberately concealed, including the totem case and the fairy-tale giant.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: The available taxonomy list has no exact external-soul category; no taxonomy
+    reference is assigned.
+- id: motif:2
+  label: initiation through simulated death and revival
+  taxonomy_refs:
+  - initiation
+  - death_rebirth
+  - resurrection
+  basis: The passage explicitly describes puberty rites as a pretense of killing the
+    lad and bringing him to life again, and calls this a simulation of death and resurrection.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The interpretation is Frazer’s comparative explanation, not an independent
+    ritual account in this passage.
+- id: motif:3
+  label: soul exchange between human and totem animal
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The passage states that the initiatory rite involves an exchange of life
+    or souls between the man and his totem, and gives the Basque bear story as an
+    analogy.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage frames the exchange as an interpretive reconstruction of totemistic
+    ceremony.
+- id: motif:4
+  label: dangerous secret knowledge of soul-location
+  taxonomy_refs:
+  - forbidden_knowledge
+  basis: The passage describes the soul’s hiding-place as a secret whose revelation
+    would imperil the soul, and compares this to a fairy-tale giant whose soul-secret
+    is extracted.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The taxonomy reference is approximate; the passage concerns secrecy and
+    danger rather than a formal prohibition narrative.
+- id: motif:5
+  label: human-animal identity through transferred soul
+  taxonomy_refs: []
+  basis: The hunter says he is a bear because he is animated by the bear’s soul; the
+    initiated lad is said to live again as an animal with the animal’s soul in him.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage describes soul transfer and identity; it does not clearly
+    describe bodily transformation.
+comparison_claims:
+- id: claim:1
+  claim: The passage compares the fairy-tale giant’s concealment of his soul-location
+    with the secrecy attributed to people who believe their external soul is bound
+    to an object or totem.
+  claim_level: same_function
+  target: fairy-tale external-soul giant compared with concealed external-soul belief
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is Frazer’s own analogy; the passage does not establish historical
+    contact between fairy tale and ethnographic practice.
+- id: claim:2
+  claim: The passage treats the Basque hunter story, in which a bear gives its soul
+    to a killed man, as analogous to a totemistic puberty ceremony involving death,
+    revival, and soul exchange.
+  claim_level: same_function
+  target: Basque bear-soul story compared with totemistic initiation death-and-revival
+    ceremony
+  evidence_refs:
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The analogy is explicitly asserted in the passage, but the underlying
+    ethnographic interpretation remains the author’s hypothesis.
+- id: claim:3
+  claim: The passage groups puberty rites involving simulated killing and revival
+    with a broader death-and-rebirth initiation pattern.
+  claim_level: same_motif
+  target: death-and-rebirth initiation pattern
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage states that such rites are common among many tribes but
+    provides no detailed examples in this excerpt.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 7602-7608
+  quote_or_summary: The Batta are said not to explicitly affirm that the external
+    soul is in the totem, though they respect the clan’s sacred animal or plant; the
+    author adds that a person believing life is bound to an external object would
+    be unlikely to reveal it.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 7609-7618
+  quote_or_summary: The passage describes fear of assassination by sorcery and lists
+    hair, nails, spittle, food remnants, and name as things that might be used destructively,
+    leading to concealment or destruction of them.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 7619-7633
+  quote_or_summary: In a fairy tale, a princess asks a giant where he keeps his soul;
+    he gives false or evasive answers until the secret is obtained. The author compares
+    the giant’s reticence with secrecy about the soul’s hiding-place.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 7634-7647
+  quote_or_summary: The passage says that among many tribes, especially totemic ones,
+    puberty initiation often includes a pretense of killing a lad and restoring him
+    to life; this is explained as extracting the youth’s soul and transferring it
+    to the totem.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 7648-7655
+  quote_or_summary: The passage describes an exchange of life or souls and recounts
+    a Basque hunter who said a bear killed him, breathed its soul into him, and died
+    in body while the hunter became a bear by being animated by the bear’s soul.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 7655-7660
+  quote_or_summary: 'The author says this is analogous to the totemistic killing-and-revival
+    ceremony: the lad dies as a man, lives again as an animal, contains the animal’s
+    soul, and has his human soul lodged in the animal; he therefore calls himself
+    Bear or Wolf and treats such animals as brethren.'
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is itself comparative and interpretive. Literal extraction is
+    high-confidence, while motif and comparison labels depend on Frazer’s stated analogies
+    and should be reviewed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Source terminology such as 'savage' is retained only in paraphrase as a historical term from Frazer’s passage; it is not endorsed.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:comparative-golden-bough-volume-2-frazer-gutenberg__l7602-l7660
+  passage_sha256=ee3cc8eeda5b5cc9af2fe6b47ed7e35f067c51d212103772288481bc11c3f6d0
+

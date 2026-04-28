@@ -1,0 +1,532 @@
+---
+record_id: batch.motif.greek-plato-republic-jowett-gutenberg-l5331-l5398
+source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+passage_locator:
+  label: The Republic / THE REPUBLIC / INTRODUCTION AND ANALYSIS.; lines 5331-5398
+  start: '5331'
+  end: '5398'
+  translation: The Republic
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage summarizes an argument in which the soul is imagined as a composite
+    of a many-headed beast, a lion, and a man hidden under human skin. Injustice nourishes
+    the beast and starves the man, while justice strengthens the man, allies with
+    the lion, restrains the monster, and brings inner unity. The passage then connects
+    vices to the release or distortion of these inner figures, describes education
+    and law as nurturing a higher principle, and concludes with the ideal city as
+    a heavenly pattern for ordering life.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage proposes making an image of the soul in order to personify an
+    argument about justice and injustice.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The imagined soul contains a multitudinous beast with many animal heads, a
+    lion, and a man, all joined and concealed by human skin.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The supporter of injustice is described as feeding the beasts and starving
+    the man.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The maintainer of justice strengthens the man, nourishes the gentle principle,
+    allies with the lion heart, and keeps down the many-headed hydra.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The noble is described as subjecting the beast to the man, or to the God in
+    man; the ignoble subjects the man to the beast.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Selling the fairer and diviner part of oneself for wealth is compared to,
+    and judged worse than, Eriphyle selling her husband’s life for a necklace.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Intemperance is described as letting loose the multiform monster, while pride
+    and sullenness increase the lion and serpent element.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Education and law are described as giving self-control and nursing a higher
+    principle in the young.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Punishment is described as silencing the brute within, liberating the gentler
+    element, and allowing temperance, justice, and wisdom to unite in the soul.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The man of understanding honors knowledge, regulates the body, wealth, and
+    honors, and seeks order and harmony in the soul.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: The ideal city is said to have no place on earth, but to have a pattern in
+    heaven by which one may order life.
+  category: setting
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: unjust man or supporter of injustice
+  description: A person addressed as believing that injustice can profit if it has
+    the reputation of justice; he is described as feeding the beasts and starving
+    the man within.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: just man or maintainer of justice
+  description: A person who strengthens the man within, nourishes the gentle principle,
+    allies with the lion heart, and restrains the many-headed hydra.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: multitudinous beast or many-headed hydra
+  description: A many-headed, changeable beast composed of tame and wild animal heads;
+    later called a hydra, multiform monster, or brute within.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:6
+- id: fig:4
+  name_or_label: lion or lion heart
+  description: A second form in the soul-image, smaller than the beast and larger
+    than the man; it can ally with the man but can also grow with pride and sullenness.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:5
+  name_or_label: man, God in man, or gentler element
+  description: The smallest form in the soul-image, associated with the gentle, fairer,
+    diviner, and higher principle within the person.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:6
+  name_or_label: Eriphyle
+  description: A mythic figure cited as having sold her husband’s life for a necklace.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: law
+  description: Personified as desiring to nurse a higher principle in the young.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+- id: fig:8
+  name_or_label: man of understanding
+  description: A person who honors knowledge, restrains bodily and material pursuits,
+    and orders life according to the heavenly pattern of the city.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:7
+  - ev:8
+roles:
+- id: role:1
+  label: advocate or example of injustice
+  assigned_to:
+  - fig:1
+  basis: The passage addresses the supporter of injustice and describes him as nourishing
+    the beasts while starving the man within.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: agent of inner order and justice
+  assigned_to:
+  - fig:2
+  - fig:8
+  basis: The just or understanding person strengthens the rational element, restrains
+    the brute, and orders life according to knowledge and the heavenly pattern.
+  evidence_refs:
+  - ev:2
+  - ev:7
+  - ev:8
+- id: role:3
+  label: appetitive or brute element
+  assigned_to:
+  - fig:3
+  basis: The beast is fed by injustice, restrained by justice, released by intemperance,
+    and silenced by punishment.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+- id: role:4
+  label: spirited element
+  assigned_to:
+  - fig:4
+  basis: The lion heart can ally with the man to restrain the hydra, but pride and
+    sullenness increase the lion and serpent element.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:5
+  label: higher rational or divine element
+  assigned_to:
+  - fig:5
+  basis: The man or God in man is described as the noblest, gentler, fairer, diviner,
+    and higher part to be strengthened or liberated.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+- id: role:6
+  label: negative mythic exemplar of corrupt exchange
+  assigned_to:
+  - fig:6
+  basis: Eriphyle is cited as one who sold her husband’s life for a necklace.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: educator and nurturer of self-control
+  assigned_to:
+  - fig:7
+  basis: Law is said to desire to nurse a higher principle in the young.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: composite soul under human skin
+  literal_form: A many-headed beast, lion, and man joined together and concealed beneath
+    human skin.
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: many-headed hydra
+  literal_form: The many-headed monster that justice attempts to keep down.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: lion heart
+  literal_form: A lion within the soul-image, capable of alliance with the man but
+    also capable of growth through pride and sullenness.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:4
+  label: God in man
+  literal_form: The higher or diviner part to which the beast should be subjected.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: serpent element
+  literal_form: A serpent element mentioned alongside the lion in connection with
+    pride and sullenness.
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: lion becoming a monkey
+  literal_form: The lion habituated to become a monkey when the spirited element is
+    subjected to avarice.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:7
+  label: gold and necklace
+  literal_form: Gold, money, and Eriphyle’s necklace as objects connected with selling
+    what is noble or beloved.
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:8
+  label: heavenly pattern of the city
+  literal_form: A pattern of the ideal city said to be in heaven, after which a person
+    may order life.
+  associated_figures:
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Construction of the soul-image
+  summary: The passage instructs the listener to imagine a soul made of a many-headed
+    beast, a lion, and a man hidden together under human skin.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Justice and injustice feeding different inner figures
+  summary: Injustice feeds the beasts and starves the man, while justice strengthens
+    the man, allies with the lion, restrains the hydra, and seeks unity.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Moral sale of the higher self
+  summary: The passage argues that subjecting the divine part to the beast for gold
+    would be worse than selling children to brutal men or than Eriphyle selling her
+    husband’s life for a necklace.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:4
+  - sym:7
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Vices as disturbances of inner animal elements
+  summary: Intemperance, pride, sullenness, luxury, flattery, and meanness are described
+    through the release, growth, relaxation, or degradation of inner animal elements.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Education, law, and punishment as internal cure
+  summary: Education and law nurture the higher principle and self-control, while
+    punishment is described as silencing the brute and freeing the gentler element.
+  figure_refs:
+  - fig:3
+  - fig:5
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:6
+  label: Ordering life by the heavenly city
+  summary: The man of understanding honors knowledge, maintains harmony in body, wealth,
+    honors, and soul, and acts according to the heavenly pattern of the ideal city.
+  figure_refs:
+  - fig:8
+  symbol_refs:
+  - sym:8
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: inner conflict between beast and higher self
+  taxonomy_refs:
+  - duality
+  basis: The passage repeatedly contrasts the beast with the man or God in man, and
+    defines noble and ignoble conduct by which part rules the other.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The soul-image is triadic rather than strictly dual, since it includes
+    beast, lion, and man.
+- id: motif:2
+  label: subduing the inner monster
+  taxonomy_refs: []
+  basis: Justice is described as keeping down the many-headed hydra, while punishment
+    silences the brute within and liberates the gentler element.
+  evidence_refs:
+  - ev:2
+  - ev:6
+  confidence: high
+  cautions: The monster is explicitly psychological and allegorical in this passage.
+- id: motif:3
+  label: wisdom as inner harmony and ordered life
+  taxonomy_refs:
+  - wisdom
+  basis: The passage says the understanding person honors knowledge, preserves order
+    and harmony in the soul, and unites temperance, justice, and wisdom.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: This is a philosophical motif rather than a narrative quest episode.
+- id: motif:4
+  label: heavenly pattern guiding earthly conduct
+  taxonomy_refs:
+  - wisdom
+  basis: The ideal city is said to have a pattern in heaven, and the person who wishes
+    may order life after that image.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: The passage does not narrate ascent to heaven; it presents the heavenly
+    pattern as a normative model.
+- id: motif:5
+  label: corrupt exchange of the noble for wealth
+  taxonomy_refs: []
+  basis: The passage asks whether one would sell the fairer and diviner part for wealth
+    and compares this to Eriphyle selling her husband’s life for a necklace.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The exchange is used as an ethical analogy, not developed as an independent
+    mythic episode.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares selling the fairer and diviner part of oneself
+    for wealth with the Greek mythic example of Eriphyle selling her husband’s life
+    for a necklace, presenting both as corrupt exchanges of something noble or beloved
+    for material gain.
+  claim_level: same_function
+  target: Eriphyle’s sale of her husband’s life for a necklace
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage gives only a brief allusive comparison and does not recount
+    the wider Eriphyle narrative.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5331-5341
+  quote_or_summary: 'The soul-image is introduced: a many-headed, changeable beast,
+    a lion, and a man are joined and concealed beneath human skin.'
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source text; summary supplied for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 5341-5353
+  quote_or_summary: Injustice feeds the beasts and starves the man; justice strengthens
+    the man, nourishes the gentle principle, allies with the lion heart, restrains
+    the many-headed hydra, and brings the parts into unity.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source text; summary supplied for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 5354-5365
+  quote_or_summary: The noble subjects the beast to the man or God in man; selling
+    the diviner part for wealth is compared with selling children to brutal men and
+    with Eriphyle selling her husband’s life for a necklace.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source text; summary supplied for extraction.
+- id: ev:4
+  type: summary
+  locator: lines 5365-5372
+  quote_or_summary: Intemperance lets loose the multiform monster; pride and sullenness
+    increase the lion and serpent element; luxury relaxes spirit; flattery and meanness
+    subject the spirited element to avarice and make the lion become a monkey.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source text; summary supplied for extraction.
+- id: ev:5
+  type: summary
+  locator: lines 5372-5380
+  quote_or_summary: Those lacking an internal better principle are placed under the
+    control of a better principle in another; education gives self-control and law
+    nurses a higher principle in the young.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source text; summary supplied for extraction.
+- id: ev:6
+  type: summary
+  locator: lines 5381-5388
+  quote_or_summary: The passage asks what is gained by becoming wicked or escaping
+    discovery; punishment would silence the brute, free the gentler element, and unite
+    temperance, justice, and wisdom in the soul.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source text; summary supplied for extraction.
+- id: ev:7
+  type: summary
+  locator: lines 5388-5394
+  quote_or_summary: The man of understanding honors knowledge, restrains the body,
+    regulates wealth and honors, and seeks order and harmony in the soul.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source text; summary supplied for extraction.
+- id: ev:8
+  type: summary
+  locator: lines 5394-5398
+  quote_or_summary: The ideal city is said to have no earthly place, but a pattern
+    in heaven; one may order life after that image whether or not such a state exists
+    on earth.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source text; summary supplied for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is explicit about its allegorical soul-image and its Eriphyle
+    comparison. Motif taxonomy mapping is more tentative because the passage is philosophical
+    analysis rather than mythic narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy references are limited to available supplied IDs.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-plato-republic-jowett-gutenberg__l5331-l5398
+  passage_sha256=c329592a4472528e3070c8d782678917ef906d8c95ecaef80f6577ae865b007e
+

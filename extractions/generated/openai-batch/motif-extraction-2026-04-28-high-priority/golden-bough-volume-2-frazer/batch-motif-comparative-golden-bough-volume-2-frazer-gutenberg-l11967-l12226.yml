@@ -1,0 +1,244 @@
+---
+record_id: batch.motif.comparative-golden-bough-volume-2-frazer-gutenberg-l11967-l12226
+source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+passage_locator:
+  label: CONTENTS / NOTE. OFFERINGS OF FIRST-FRUITS. / INDEX. / FOOTNOTES; lines 11967-12226
+  start: '11967'
+  end: '12226'
+  translation: 'The Golden Bough: A Study in Comparative Religion (Vol. 2 of 2)'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is a footnote section citing works on corn-demons, rye wolf
+    and rye dog, harvest customs, and related folk practices. One footnote states
+    that in Shropshire the corn-spirit is conceived in the form of a gander; harvest-related
+    expressions and supper names in parts of England also use goose or gosling terminology.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage lists bibliographic sources for topics including corn-demons,
+    rye wolf, rye dog, field cults, harvest customs, and Germanic harvest festivals.
+  category: other
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:2
+  text: A footnote says that in Shropshire the corn-spirit is conceived in the form
+    of a gander.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:3
+  text: The same footnote says the expression for overthrowing a load at harvest in
+    Shropshire is “to lose the goose.”
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:4
+  text: The same footnote says the penalty formerly used was loss of the goose at
+    the harvest supper.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:5
+  text: The same footnote says that in some parts of England the harvest supper was
+    called the Harvest Gosling or the Inning Goose.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: corn-spirit
+  description: A harvest-related spirit described in one note as conceived in the
+    form of a gander in Shropshire.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: gander or goose
+  description: The animal form and terminology associated with the corn-spirit, a
+    harvest mishap, a penalty, and harvest supper names.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: harvest or corn-spirit figure
+  assigned_to:
+  - fig:1
+  basis: The passage explicitly calls it the corn-spirit and links it to harvest practice.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: animal embodiment or harvest-term figure
+  assigned_to:
+  - fig:2
+  basis: The gander is named as the form of the corn-spirit, and goose/gosling terms
+    are used for harvest expressions, penalties, and supper names.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: goose or gander
+  literal_form: gander; goose; gosling
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:2
+  label: harvest supper
+  literal_form: harvest supper called the Harvest Gosling or the Inning Goose in some
+    parts of England
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Shropshire harvest goose terminology
+  summary: 'The note links a gander-form corn-spirit with Shropshire harvest language:
+    overthrowing a load is called losing the goose, and an associated penalty is loss
+    of the goose at the harvest supper.'
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:2
+  label: English harvest supper names
+  summary: The note says that in some parts of England the harvest supper was called
+    by goose-related names, Harvest Gosling or Inning Goose.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: corn-spirit embodied as a harvest animal
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The note explicitly states that the corn-spirit is conceived as a gander
+    in Shropshire and connects goose terminology with harvest acts and suppers.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage is a footnote, not a full narrative account; the broader ritual
+    context is only partly present in this excerpt.
+- id: motif:2
+  label: harvest meal named for a symbolic animal
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage says that some English harvest suppers were called the Harvest
+    Gosling or the Inning Goose.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: Only the names are given here; no detailed ceremony is described in this
+    passage.
+comparison_claims:
+- id: claim:1
+  claim: The passage cautiously supports a comparison between Shropshire gander-form
+    corn-spirit terminology and goose/gosling names for harvest suppers in other parts
+    of England, because both link goose imagery to harvest customs.
+  claim_level: same_motif
+  target: English and Shropshire harvest goose/gander customs
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is internal to Frazer’s note and rests on terminology
+    rather than detailed descriptions of parallel rituals.
+evidence:
+- id: ev:1
+  type: summary
+  locator: footnotes 1-33 within lines 11967-12226
+  quote_or_summary: The notes cite Mannhardt and other sources on corn-demons, rye
+    wolf, rye dog, forest and field cults, harvest customs, and related Germanic folk
+    practices.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: citation
+  locator: footnotes 41-49 within lines 11967-12226
+  quote_or_summary: Several notes cite Die Korndämonen, Folk-lore Journal, Ostpreussen
+    materials, and Mannhardt’s works in connection with agricultural and harvest folklore.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; citation-level evidence.
+- id: ev:3
+  type: quote
+  locator: footnote 34 within lines 11967-12226
+  quote_or_summary: "“in Shropshire, where the corn-spirit is conceived in the form
+    of a gander”"
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: quote
+  locator: footnote 34 within lines 11967-12226
+  quote_or_summary: "“the expression for overthrowing a load at harvest is ‘to lose
+    the goose’”"
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; short quotation.
+- id: ev:5
+  type: summary
+  locator: footnote 34 within lines 11967-12226
+  quote_or_summary: The footnote says the former penalty was loss of the goose at
+    the harvest supper.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: quote
+  locator: footnote 34 within lines 11967-12226
+  quote_or_summary: "“the harvest supper was called the Harvest Gosling, or the Inning
+    Goose”"
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The extractable content is limited because the passage is primarily a footnote
+    list. Motif extraction relies chiefly on footnote 34, which contains substantive
+    harvest-goose material.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No taxonomy symbol refs were assigned because the available symbol list does not include goose, gander, grain, harvest, or corn-spirit.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:comparative-golden-bough-volume-2-frazer-gutenberg__l11967-l12226
+  passage_sha256=74ef25dbd06630f494eafbedf96f17bdf0f09a5d4cef8217a2de54e42ea67954
+

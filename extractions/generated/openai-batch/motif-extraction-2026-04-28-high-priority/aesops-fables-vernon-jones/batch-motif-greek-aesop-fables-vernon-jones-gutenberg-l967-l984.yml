@@ -1,0 +1,289 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l967-l984
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE HORSE AND THE ASS / THE FOX AND THE GRAPES / THE GOOSE THAT LAID THE
+    GOLDEN EGGS / THE CAT AND THE MICE; lines 967-984
+  start: '967'
+  end: '984'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A cat enters a mouse-infested house, eats mice one by one, and then tries
+    to lure the remaining mice from their holes by pretending to be dead. A mouse
+    recognizes the danger and refuses to approach. The closing moral says the wise
+    are not deceived by innocent appearances in those already known to be dangerous.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The house is described as overrun with mice.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The cat hears of the mouse-filled house, goes there, stays in it, catches
+    mice individually, and eats them.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The surviving mice decide to remain in their holes.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The cat decides to coax the mice out by a trick.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The cat climbs the wall, hangs by her hind legs from a peg, and pretends to
+    be dead.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A mouse looks out, sees the cat hanging, and says the mice will not come near
+    even if the cat turns herself into a bag of meal.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The moral states that wise people will not be deceived by innocent appearances
+    from those already found dangerous.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Cat
+  description: A cat who enters the house, eats mice, and later pretends to be dead
+    to lure them out.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Mice
+  description: The mice in the house, many of whom are eaten; the remaining mice withdraw
+    into their holes.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Mouse speaker
+  description: A mouse who peeps out, sees the cat hanging, and warns that the mice
+    will not come near.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: predator
+  assigned_to:
+  - fig:1
+  basis: The cat catches the mice one by one and eats them.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: deceiver
+  assigned_to:
+  - fig:1
+  basis: The cat tries to coax the mice out by a trick and pretends to be dead.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: threatened prey
+  assigned_to:
+  - fig:2
+  basis: The mice are eaten by the cat and then hide in their holes.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: cautious recognizer of danger
+  assigned_to:
+  - fig:3
+  basis: The mouse recognizes the hanging cat as still dangerous and refuses to approach.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: holes as refuge
+  literal_form: The mice’s holes, where they decide to stay for safety.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: feigned dead body
+  literal_form: The cat hanging by her hind legs from a peg and pretending to be dead.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: bag of meal comparison
+  literal_form: The mouse says the cat may turn herself into a bag of meal and still
+    not lure them near.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Cat occupies the mouse-filled house
+  summary: The cat hears that a house has many mice, enters it, settles there, and
+    eats mice one by one.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Mice withdraw into hiding
+  summary: The remaining mice can no longer endure the cat’s attacks and decide to
+    stay in their holes.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Cat feigns death as a lure
+  summary: The cat decides to use a trick, hangs from a peg by her hind legs, and
+    pretends to be dead.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Mouse refuses the deception
+  summary: A mouse sees the cat and says that no disguise, even becoming like a bag
+    of meal, will make the mice approach.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Moral on wisdom and danger
+  summary: The moral generalizes the episode as a warning not to trust innocent appearances
+    in those already known to be dangerous.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: predator feigns harmlessness to lure prey
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The cat uses a trick, pretending to be dead in order to coax the mice out
+    of their holes.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The available taxonomy has only broad motif-family labels; the passage
+    supports deception by a predator, but not a developed boundary-crossing trickster
+    figure.
+- id: motif:2
+  label: wisdom gained from prior danger prevents deception
+  taxonomy_refs:
+  - wisdom
+  basis: The mouse refuses to approach because the cat has already proved dangerous;
+    the moral states that the wise are not deceived by innocent airs from such figures.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is a moralized fable motif rather than a mythic wisdom episode.
+- id: motif:3
+  label: safe withdrawal from a known threat
+  taxonomy_refs: []
+  basis: The mice survive by staying in their holes after the cat has eaten many of
+    them.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage emphasizes prudence and resistance to trickery more than the
+    refuge itself.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 967-971
+  quote_or_summary: A house is overrun with mice; a cat hears of it, moves in, catches
+    the mice one by one, and eats them.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 971-972
+  quote_or_summary: The mice can no longer endure the cat’s attacks and decide to
+    stay in their holes.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 972-975
+  quote_or_summary: The cat says she must coax the mice out by a trick, climbs the
+    wall, hangs by her hind legs from a peg, and pretends to be dead.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:4
+  type: quote
+  locator: lines 975-979
+  quote_or_summary: "“you may turn yourself into a bag of meal hanging there, if you
+    like, yet you won't catch us coming anywhere near you.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation from supplied passage.
+- id: ev:5
+  type: quote
+  locator: lines 981-984
+  quote_or_summary: "“If you are wise you won't be deceived by the innocent airs of
+    those whom you have once found to be dangerous.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The basic episode and moral are explicit. Motif-family mapping is cautious
+    because the available taxonomy is broad and not fable-specific. No comparison
+    claims are made because the supplied passage does not itself compare this fable
+    with another tradition or corpus.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage text was used. Although the locator label names several fables, the provided passage contains only “THE CAT AND THE MICE.”
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l967-l984
+  passage_sha256=b7062dda44c43447824261765cd0ecf4be178f6d8d0dec0a1eb3eb7be7c22ec0
+

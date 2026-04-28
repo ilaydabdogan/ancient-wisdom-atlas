@@ -1,0 +1,221 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l3805-l3816
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE WOLVES AND THE DOGS / THE BULL AND THE CALF / THE TREES AND THE AXE /
+    THE ASTRONOMER; lines 3805-3816
+  start: '3805'
+  end: '3816'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: An astronomer habitually goes out at night to observe the stars. While
+    walking outside the town gates and looking upward, he fails to watch his path
+    and falls into a dry well. A passer-by hears him, learns what happened, and says
+    he deserves his misfortune for looking so hard at the sky that he did not see
+    where his feet were going.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: An astronomer regularly goes out at night to observe the stars.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The astronomer walks outside the town gates while gazing upward into the sky.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Because he is not looking where he is going, the astronomer falls into a dry
+    well.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A passer-by hears the astronomer groaning in the well and comes to its edge.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: After learning what happened, the passer-by tells the astronomer that he deserves
+    what he has got.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Astronomer
+  description: A person whose habit is to go out at night and observe the stars; he
+    falls into a dry well while gazing upward.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Passer-by
+  description: An unnamed person passing by who hears the astronomer, comes to the
+    well, learns what happened, and comments on it.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: Star observer
+  assigned_to:
+  - fig:1
+  basis: The passage states that the astronomer habitually goes out at night to observe
+    the stars.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: Unwatchful walker
+  assigned_to:
+  - fig:1
+  basis: The astronomer gazes at the sky, does not look where he is going, and falls
+    into a dry well.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: Commenting witness
+  assigned_to:
+  - fig:2
+  basis: The passer-by hears the groaning, learns what happened, and speaks a judgment
+    about the astronomer's fall.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: Stars and sky
+  literal_form: stars and sky observed at night
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: Dry well
+  literal_form: dry well into which the astronomer falls
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: Town gates
+  literal_form: outside the town gates
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Night observation and fall
+  summary: The astronomer walks outside the town gates at night, gazing upward at
+    the sky, and falls into a dry well because he is not watching his path.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Passer-by's rebuke
+  summary: A passer-by hears the astronomer in the well, learns what happened, and
+    tells him that he deserves his misfortune for watching the sky while failing to
+    watch the ground.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Looking at the heavens while neglecting the ground
+  taxonomy_refs:
+  - wisdom
+  basis: The passage presents a figure focused on the sky who suffers a fall because
+    he fails to notice the immediate path under his feet, followed by a corrective
+    comment from a passer-by.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: The passage itself gives a practical rebuke rather than an explicit abstract
+    moral; the taxonomy link to wisdom is broad.
+- id: motif:2
+  label: Fall into a well through inattention
+  taxonomy_refs: []
+  basis: The central event is the astronomer's fall into a dry well while not looking
+    where he is going.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is a literal narrative pattern in the passage, with no supplied taxonomy
+    reference specific to wells or falls.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 3805-3807
+  quote_or_summary: An astronomer habitually goes out at night to observe the stars.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary generated from provided passage.
+- id: ev:2
+  type: summary
+  locator: 3807-3810
+  quote_or_summary: While outside the town gates, the astronomer gazes into the sky,
+    does not watch where he is going, and falls into a dry well.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary generated from provided passage.
+- id: ev:3
+  type: summary
+  locator: 3810-3812
+  quote_or_summary: A passer-by hears the astronomer groaning, comes to the edge of
+    the well, and looks down.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary generated from provided passage.
+- id: ev:4
+  type: quote
+  locator: 3812-3816
+  quote_or_summary: '"you deserve all you''ve got."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation from provided passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labeling is limited to the immediate
+    fable pattern and broad wisdom category; no external comparison is made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage text was used; despite the locator label naming multiple fables, the provided passage contains only THE ASTRONOMER.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l3805-l3816
+  passage_sha256=b315c6e17899e8ecc1d0bcd54b5a4514e72dd3d80c7f09b57aac9e3db6e1fa4d
+

@@ -1,0 +1,479 @@
+---
+record_id: batch.motif.comparative-golden-bough-volume-2-frazer-gutenberg-l12692-l12818
+source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+passage_locator:
+  label: CONTENTS / NOTE. OFFERINGS OF FIRST-FRUITS. / INDEX. / FOOTNOTES; lines 12692-12818
+  start: '12692'
+  end: '12818'
+  translation: 'The Golden Bough: A Study in Comparative Religion (Vol. 2 of 2)'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage consists of footnotes. Several notes cite sources for Mexican
+    sacramental eating of a paste bone and for the recognized use of dough, bread,
+    wax, apple, fig, and cake substitutes in sacrifices when the proper animal victim
+    was unavailable or unaffordable.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A note says a Mexican festival included making the semblance of a bone from
+    paste and eating it sacramentally as the bone of the god.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A note states that ancient practice allowed images made of dough or other
+    materials to be sacrificed as substitutes for animals.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage says bread or wax images could be offered when an animal could
+    not easily be obtained for sacrifice.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A cited North-American Indian case says a dreamed requirement for twenty elans
+    was met by sacrificing twenty loaves when the animals could not be procured.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Poor people who could not afford real animals are said to have offered dough
+    images of them.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Bakers are said to have made cakes in the likeness of animals sacrificed to
+    the gods.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: When Cyzicus lacked a black cow for rites of Proserpine, the people made a
+    cow of dough and placed it at the altar.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: In a Boeotian sacrifice to Hercules, an apple with chips representing legs
+    and horns was substituted for a ram.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The Athenians and Locrians are cited as offering substitutes for oxen, including
+    an ox made from figs and sticks.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: At the Athenian Diasia, cakes shaped like animals were sacrificed.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: Poorer Egyptians are said to have offered dough images of pigs and eaten them
+    sacramentally.
+  category: action
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Mexicans
+  description: People described in a note as making and sacramentally eating a paste
+    bone at a festival.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: ancient sacrificers
+  description: General ancient practitioners described as using dough, bread, wax,
+    or other images in place of animal victims.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: North-American Indian dreamer and sick girl's parents
+  description: A dreamer required a sacrifice of elans, and the girl's parents were
+    allowed to sacrifice loaves instead.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: poor sacrificers
+  description: People unable to afford real animals who offered dough images instead.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: bakers
+  description: Craftspeople said to bake cakes in the likeness of sacrificial animals.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: people of Cyzicus
+  description: People who made a dough cow for Proserpine's rites when a black cow
+    was unavailable.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: Boeotian, Athenian, and Locrian sacrificers
+  description: Groups cited as using apple, cake, fig, and stick substitutes in sacrifices.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: fig:8
+  name_or_label: poorer Egyptians
+  description: People described as offering dough pig images and eating them sacramentally.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: sacramental eater of ritual image
+  assigned_to:
+  - fig:1
+  - fig:8
+  basis: The passage describes paste or dough images being eaten sacramentally.
+  evidence_refs:
+  - ev:1
+  - ev:8
+- id: role:2
+  label: substitute-offering sacrificer
+  assigned_to:
+  - fig:2
+  - fig:4
+  - fig:6
+  - fig:7
+  - fig:8
+  basis: The passage repeatedly describes offering non-animal substitutes for animal
+    victims.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: role:3
+  label: dream recipient of sacrificial requirement
+  assigned_to:
+  - fig:3
+  basis: The North-American Indian is described as dreaming that a sacrifice of twenty
+    elans was necessary.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: authorized substitute sacrificer
+  assigned_to:
+  - fig:3
+  basis: The sick girl's parents were allowed to sacrifice twenty loaves instead of
+    twenty elans.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: maker of sacrificial likenesses
+  assigned_to:
+  - fig:5
+  basis: Bakers are described as making cakes in the likeness of sacrificial animals.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: paste bone
+  literal_form: Semblance of a bone made from paste and eaten as the bone of the god.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: substitute animal image
+  literal_form: Images of animals made of dough, bread, wax, cake, apple, figs, sticks,
+    or chips.
+  associated_figures:
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: sym:3
+  label: loaves substituted for elans
+  literal_form: Twenty loaves offered instead of twenty elans.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: dough cow at altar
+  literal_form: A cow made of dough and placed at the altar for Proserpine's rites.
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: apple ram substitute
+  literal_form: An apple with four chips for legs and two chips for horns, used in
+    place of a ram.
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: dough pig image
+  literal_form: Dough images of pigs offered and eaten sacramentally.
+  associated_figures:
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Mexican sacramental paste bone
+  summary: At a cited Mexican festival, a paste object resembling a bone is made and
+    eaten sacramentally as the bone of the god.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: General rule of substitute sacrifice
+  summary: The passage states a recognized principle that bread, wax, dough, or other
+    images may stand in for animals that are unavailable or unaffordable.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: scene:3
+  label: Loaves replace elans
+  summary: A required sacrifice of twenty elans for a sick girl's recovery is replaced
+    by the sacrifice of twenty loaves when elans cannot be obtained.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Dough cow for Proserpine
+  summary: During a siege, the people of Cyzicus make a dough cow and place it at
+    the altar because a black cow cannot be procured for Proserpine's rites.
+  figure_refs:
+  - fig:6
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Fruit and cake animal substitutes
+  summary: Boeotian, Athenian, and Locrian examples describe apples, figs, sticks,
+    and animal-shaped cakes being used as sacrificial substitutes.
+  figure_refs:
+  - fig:7
+  symbol_refs:
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:6
+  label: Egyptian dough pigs eaten sacramentally
+  summary: Poorer Egyptians offer dough images of pigs and eat them sacramentally.
+  figure_refs:
+  - fig:8
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: substitute victim in sacrifice
+  taxonomy_refs:
+  - sacrifice
+  - sacred_exchange
+  basis: The passage gives multiple examples in which a material or edible likeness
+    stands in for an animal victim in sacrifice.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The passage is a comparative footnote rather than a single narrative episode.
+- id: motif:2
+  label: sacramental eating of divine or victim image
+  taxonomy_refs:
+  - sacrifice
+  - sacred_exchange
+  basis: The passage describes a paste bone eaten as a god's bone and dough pig images
+    eaten sacramentally.
+  evidence_refs:
+  - ev:1
+  - ev:8
+  confidence: medium
+  cautions: The passage provides brief notes and cross-references rather than full
+    ritual descriptions.
+- id: motif:3
+  label: ritual substitution under scarcity
+  taxonomy_refs:
+  - sacrifice
+  basis: Several examples explicitly say substitutes are used because proper animals
+    cannot be procured or afforded.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The examples come from different cited contexts and are summarized by
+    the author.
+comparison_claims:
+- id: claim:1
+  claim: 'The passage groups diverse examples under the same functional pattern: edible
+    or material likenesses replacing animal victims in sacrificial rites.'
+  claim_level: same_function
+  target: cross-cultural substitute sacrifice pattern
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage does not establish historical contact or common inheritance;
+    it only juxtaposes examples for comparison.
+- id: claim:2
+  claim: The Mexican paste bone and Egyptian dough pigs share the described function
+    of sacramental eating of a ritual food-image.
+  claim_level: same_function
+  target: sacramental consumption of ritual image
+  evidence_refs:
+  - ev:1
+  - ev:8
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage gives only brief footnote summaries and does not provide
+    the full ritual contexts.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 12710-12715 / note 266
+  quote_or_summary: A Mexican festival is dated; another festival is said to have
+    made the semblance of a bone from paste and eaten it sacramentally as the bone
+    of the god.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source text; summarized rather than quoted.
+- id: ev:2
+  type: summary
+  locator: lines 12729-12735 / note 271
+  quote_or_summary: Ancient practice is described as recognizing sacrifices of dough
+    or other images as substitutes for animals; bread or wax images could be used
+    when an animal was not easily obtained.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source text; summarized rather than quoted.
+- id: ev:3
+  type: summary
+  locator: lines 12735-12740 / note 271
+  quote_or_summary: A North-American Indian dreamed that twenty elans were needed
+    for a sick girl's recovery, but because the elans could not be procured, her parents
+    were allowed to sacrifice twenty loaves instead.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source text; summarized rather than quoted.
+- id: ev:4
+  type: summary
+  locator: lines 12740-12747 / note 271
+  quote_or_summary: Poor people unable to sacrifice real animals offered dough images;
+    bakers made cakes in the likeness of animals sacrificed to the gods.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source text; summarized rather than quoted.
+- id: ev:5
+  type: summary
+  locator: lines 12747-12751 / note 271
+  quote_or_summary: When Cyzicus was besieged and lacked a black cow for Proserpine's
+    rites, the people made a dough cow and placed it at the altar.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source text; summarized rather than quoted.
+- id: ev:6
+  type: summary
+  locator: lines 12751-12760 / note 271
+  quote_or_summary: A Boeotian sacrifice to Hercules used an apple with chips for
+    legs and horns in place of a ram; Athenian and Locrian examples include substitutes
+    for oxen, including figs and sticks.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source text; summarized rather than quoted.
+- id: ev:7
+  type: summary
+  locator: lines 12760-12763 / note 271
+  quote_or_summary: At the Athenian Diasia, cakes shaped like animals were sacrificed.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source text; summarized rather than quoted.
+- id: ev:8
+  type: summary
+  locator: lines 12763-12765 / note 271
+  quote_or_summary: Poorer Egyptians are said to have offered dough images of pigs
+    and eaten them sacramentally.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source text; summarized rather than quoted.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is a set of footnotes, with one extended comparative note on
+    substitute sacrificial images. Extraction is limited to the information explicitly
+    present in the provided lines.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No historical-contact or common-inheritance claims are made. Taxonomy references are limited to supplied motif families that fit the stated sacrificial pattern.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:comparative-golden-bough-volume-2-frazer-gutenberg__l12692-l12818
+  passage_sha256=1864d86938974c3be4bd87f48901dde7d0b61882b5b17b22c9ac579f9aa83b25
+

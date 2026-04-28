@@ -1,0 +1,284 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l3210-l3223
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE FARMER AND THE FOX / VENUS AND THE CAT / THE CROW AND THE SWAN / THE
+    STAG WITH ONE EYE; lines 3210-3223
+  start: '3210'
+  end: '3223'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: "“Misfortune often assails us from an unexpected quarter.”"
+  summary: A one-eyed stag grazes by the sea and watches the land for hounds, assuming
+    the sea poses no danger. Sailors on the water see him and shoot him with an arrow.
+    Dying, he reflects that ruin came from the direction he had not feared.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The stag is blind in one eye and grazes close to the sea-shore.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The stag keeps his sound eye turned toward the land to watch for hounds.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The stag turns his blind eye toward the sea because he does not suspect danger
+    from that direction.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Sailors coasting along the shore see the stag and shoot an arrow at him.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The arrow mortally wounds the stag.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: As he lies dying, the stag says he feared danger from land but ruin came from
+    the sea.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The stated moral says misfortune often comes from an unexpected quarter.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Stag with one eye
+  description: A stag blind in one eye, grazing near the sea-shore and watching the
+    land with his sound eye.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Sailors
+  description: Sailors coasting along the shore who see the stag and shoot him with
+    an arrow.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Hounds
+  description: Hounds are the danger the stag expects from the land; none are said
+    to attack him.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+roles:
+- id: role:1
+  label: vulnerable animal
+  assigned_to:
+  - fig:1
+  basis: The stag is blind in one eye and is mortally wounded.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: misdirected watcher
+  assigned_to:
+  - fig:1
+  basis: The stag watches land for hounds while leaving the sea unwatched by his blind
+    eye.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: unexpected attackers
+  assigned_to:
+  - fig:2
+  basis: The sailors attack from the sea, the quarter from which the stag had expected
+    no peril.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: anticipated threat
+  assigned_to:
+  - fig:3
+  basis: The stag watches the land for the approach of hounds, though no hounds assail
+    him in the passage.
+  evidence_refs:
+  - ev:1
+  - ev:3
+symbols:
+- id: sym:1
+  label: sea
+  literal_form: The sea beside the shore where the stag grazes and from which the
+    sailors come.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: land
+  literal_form: The landward direction watched by the stag for hounds.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:3
+  label: one blind eye
+  literal_form: The stag’s blind eye, which he turns toward the sea.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: arrow
+  literal_form: The arrow shot by sailors that mortally wounds the stag.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Grazing and watchfulness at the shore
+  summary: The one-eyed stag grazes near the sea, using his sound eye to watch the
+    land for hounds and leaving the seaward side unwatched.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Attack from the sea
+  summary: Sailors traveling along the shore see the stag and shoot him with an arrow,
+    mortally wounding him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Dying realization and moral
+  summary: The dying stag reflects that he feared the land but was ruined from the
+    sea; the fable states that misfortune often comes from an unexpected direction.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: misfortune from an unexpected quarter
+  taxonomy_refs:
+  - wisdom
+  basis: The narrative and explicit moral state that the stag’s ruin comes from the
+    direction he did not fear.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The taxonomy reference to wisdom is broad; the passage’s explicit motif
+    is practical moral instruction rather than a named mythic motif family.
+- id: motif:2
+  label: misplaced vigilance
+  taxonomy_refs:
+  - wisdom
+  basis: The stag watches the land against expected hounds but does not guard against
+    danger from the sea.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: This is an inferred pattern from the sequence of actions, not an explicit
+    taxonomy label in the passage.
+- id: motif:3
+  label: partial blindness and vulnerability
+  taxonomy_refs: []
+  basis: The stag’s blindness in one eye determines which direction he can watch and
+    contributes to the fatal surprise.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage treats the eye condition literally; symbolic significance
+    should not be overextended without comparison.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 3210-3216
+  quote_or_summary: A one-eyed stag grazes close to the sea-shore, turns his sound
+    eye toward land to watch for hounds, and turns his blind eye toward the sea because
+    he expects no danger there.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:2
+  type: summary
+  locator: 3216-3219
+  quote_or_summary: Some sailors coasting along the shore see the stag and shoot an
+    arrow at him, mortally wounding him.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:3
+  type: quote
+  locator: 3219-3222
+  quote_or_summary: "“I bethought me of the dangers of the land, whence none assailed
+    me: but I feared no peril from the sea, yet thence has come my ruin.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+- id: ev:4
+  type: quote
+  locator: '3223'
+  quote_or_summary: "“Misfortune often assails us from an unexpected quarter.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labels are candidate abstractions
+    from the fable and moral; no external comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage text was used; although the locator label lists multiple fables, the extraction covers only “THE STAG WITH ONE EYE.”
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l3210-l3223
+  passage_sha256=647ccadb0619efb31ecef75293c8c52f5918c110cf03ad3cb626e30bdf861d34
+

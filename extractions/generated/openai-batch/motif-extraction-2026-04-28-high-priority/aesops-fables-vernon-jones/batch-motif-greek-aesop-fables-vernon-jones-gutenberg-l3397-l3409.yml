@@ -1,0 +1,237 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l3397-l3409
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE TWO FROGS / THE COBBLER TURNED DOCTOR / THE ASS, THE COCK, AND THE LION
+    / THE BELLY AND THE MEMBERS; lines 3397-3409
+  start: '3397'
+  end: '3409'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The body’s members rebel against the belly, accusing it of idleness while
+    they labor for it. They stop serving it and leave it to starve, but the entire
+    body soon fails, and the members realize too late that their revolt was foolish.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The members of the body rebel against the belly.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The members accuse the belly of living in luxury and sloth while doing no
+    work.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The members say they do hard work and minister to the belly’s wants.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The members stop serving the belly and leave it to starve.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: After the belly is left to starve, the whole body begins to fail, and the
+    members share in the collapse.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The members realize too late that their action was foolish.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: The Belly
+  description: A personified belly accused by the body’s members of idleness and dependence.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: The Members of the Body
+  description: Personified body members who rebel, speak against the belly, stop serving
+    it, and later suffer in the general collapse.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: The Body
+  description: The whole body that begins to fail after the belly is left to starve.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: Accused idle recipient
+  assigned_to:
+  - fig:1
+  basis: The members accuse the belly of luxury, sloth, and receiving service without
+    work.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: Rebellious laboring collective
+  assigned_to:
+  - fig:2
+  basis: The members claim they do the hard work, declare they will serve no longer,
+    and act on that declaration.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: Participants in shared collapse
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The whole body fails, and the members share in the general collapse.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Personified body
+  literal_form: The Body with its Belly and Members
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+scenes:
+- id: scene:1
+  label: Rebellion against the belly
+  summary: The body’s members accuse the belly of idle luxury and declare that they
+    will no longer serve it.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Starvation and collective failure
+  summary: The members leave the belly to starve; afterward the whole body fails and
+    the members share in the collapse.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Rebellion of body parts against the belly
+  taxonomy_refs: []
+  basis: Personified members revolt against the belly, but their refusal to sustain
+    it causes the whole body, including themselves, to fail.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is a passage-specific motif label, not a supplied taxonomy reference.
+- id: motif:2
+  label: Wisdom learned too late from failed revolt
+  taxonomy_refs:
+  - wisdom
+  basis: The members recognize only after the collapse that their action was foolish.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The available taxonomy includes “wisdom,” but the passage frames the realization
+    as belated practical understanding rather than an explicit wisdom teaching.
+- id: motif:3
+  label: Interdependence of unequal functions
+  taxonomy_refs: []
+  basis: The members believe the belly is useless, but when they stop supporting it,
+    the entire body fails, showing that the parts’ functions are mutually dependent.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The interdependence reading is strongly implied by the sequence, but the
+    passage does not state a separate moral sentence.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3397-3400
+  quote_or_summary: The fable begins with the members of the body rebelling against
+    the belly.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary provided.
+- id: ev:2
+  type: summary
+  locator: lines 3399-3405
+  quote_or_summary: The members tell the belly that it lives in luxury and sloth,
+    does no work, while they do hard work and minister to its wants.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary provided.
+- id: ev:3
+  type: summary
+  locator: lines 3405-3407
+  quote_or_summary: The members declare they will no longer serve the belly, carry
+    out the decision, and leave it to starve.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary provided.
+- id: ev:4
+  type: summary
+  locator: lines 3407-3409
+  quote_or_summary: The whole body soon begins to fail, and the members share in the
+    general collapse.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary provided.
+- id: ev:5
+  type: summary
+  locator: line 3409
+  quote_or_summary: The members see too late that they had been foolish.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary provided.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The literal extraction is straightforward. Motif labels are candidate analytic
+    labels grounded in the passage; no passage-supported cross-text comparison is
+    made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata. No external comparisons added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l3397-l3409
+  passage_sha256=5403e7a08580d541881a7341aad3c37e85eb1f5eefff5cae957e805c19291b6e
+

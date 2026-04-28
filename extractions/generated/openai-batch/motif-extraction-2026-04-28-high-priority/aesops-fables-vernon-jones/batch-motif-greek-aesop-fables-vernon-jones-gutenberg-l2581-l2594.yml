@@ -1,0 +1,264 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l2581-l2594
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE LION, THE BEAR, AND THE FOX / THE BLACKAMOOR / THE TWO SOLDIERS AND THE
+    ROBBER / THE LION AND THE WILD ASS; lines 2581-2594
+  start: '2581'
+  end: '2594'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: Might makes right.
+  summary: A Lion and a Wild Ass hunt together with an agreed division of labor. After
+    a successful hunt, the Lion divides the spoil into three parts and claims all
+    three shares for himself, citing kingship, partnership, and finally threat of
+    force. The fable closes with the moral that might makes right.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A Lion and a Wild Ass go hunting together.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Wild Ass is assigned to run down the prey by speed, and the Lion is assigned
+    to come up and kill it.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The hunt is successful.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: When sharing the spoil, the Lion divides it into three equal portions.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The Lion claims the first portion because he is King of the beasts.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The Lion claims the second portion because he is the Wild Ass’s partner.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: The Lion threatens the Wild Ass into surrendering the third portion and leaving
+    quickly.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The stated moral is “Might makes right.”
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Lion
+  description: A lion who hunts with the Wild Ass, claims to be King of the beasts,
+    divides the spoil, and takes all shares through claim and threat.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Wild Ass
+  description: A wild ass who hunts with the Lion and is described as having superior
+    speed for running down prey.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+roles:
+- id: role:1
+  label: dominant claimant
+  assigned_to:
+  - fig:1
+  basis: The Lion claims each portion of the spoil for himself and threatens the Wild
+    Ass over the final portion.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: king of beasts
+  assigned_to:
+  - fig:1
+  basis: The Lion states that he is King of the beasts as the reason for taking the
+    first share.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: hunting partner
+  assigned_to:
+  - fig:2
+  basis: The Wild Ass goes hunting with the Lion and is named by the Lion as his partner.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: coerced weaker party
+  assigned_to:
+  - fig:2
+  basis: The Lion threatens the Wild Ass into giving up the third share and leaving.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: lion as royal force
+  literal_form: Lion called King of the beasts
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: three portions of spoil
+  literal_form: three equal portions of hunting spoil
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: hunting spoil
+  literal_form: prey or spoil from the successful hunt
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+scenes:
+- id: scene:1
+  label: Joint hunt
+  summary: The Lion and Wild Ass hunt together, with the Wild Ass running down prey
+    and the Lion dispatching it.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Division of the spoil
+  summary: After the successful hunt, the Lion divides the spoil into three portions
+    and claims all of them through rank, partnership, and threat.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Stated moral
+  summary: The fable concludes with the explicit moral that power determines right.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: might makes right
+  taxonomy_refs:
+  - wisdom
+  basis: The passage explicitly ends with the moral “Might makes right,” after showing
+    the Lion using superior power to take the whole spoil.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The taxonomy reference is broad; the passage supplies a moral aphorism
+    rather than an esoteric or mythic wisdom episode.
+- id: motif:2
+  label: strong partner seizes all shares
+  taxonomy_refs: []
+  basis: A stronger hunting partner divides common spoil and claims every share, ending
+    with a threat against the weaker partner.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: No supplied taxonomy family precisely names this fable pattern.
+- id: motif:3
+  label: unequal alliance in the hunt
+  taxonomy_refs: []
+  basis: The Lion and Wild Ass cooperate in hunting, but the alliance becomes unequal
+    when the Lion monopolizes the reward.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage emphasizes the unjust division more than the hunting alliance
+    itself.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 2581-2585
+  quote_or_summary: A Lion and a Wild Ass go hunting together; the Wild Ass is to
+    run down prey by superior speed, and the Lion is to come up and dispatch it. They
+    meet with success.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 2585-2589
+  quote_or_summary: When sharing the spoil, the Lion divides it into three equal portions
+    and says he will take the first because he is King of the beasts and the second
+    because he is the Wild Ass’s partner.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 2589-2593
+  quote_or_summary: For the third portion, the Lion tells the Wild Ass to give it
+    up and leave quickly, or the third share will make him sorry.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: '2594'
+  quote_or_summary: "“Might makes right.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is straightforward for the supplied passage. Motif taxonomy mapping
+    is limited because the available motif families do not include a precise fable-type
+    category for coercive division of spoils. No comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the provided passage and metadata. The passage text supplied begins with “THE LION AND THE WILD ASS,” despite the passage label listing several adjacent fables.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l2581-l2594
+  passage_sha256=042fa7c5612c0766f095d225fc17984f46c05c434b77ae2d1a336a33b29f924d
+

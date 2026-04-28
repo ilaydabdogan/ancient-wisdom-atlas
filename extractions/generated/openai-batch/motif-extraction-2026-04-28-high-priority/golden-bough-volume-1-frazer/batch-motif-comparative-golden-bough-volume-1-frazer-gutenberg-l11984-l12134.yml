@@ -1,0 +1,523 @@
+---
+record_id: batch.motif.comparative-golden-bough-volume-1-frazer-gutenberg-l11984-l12134
+source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+passage_locator:
+  label: CHAPTER II. THE PERILS OF THE SOUL. / HEINE. / CHAPTER III. KILLING THE GOD.
+    / FOOTNOTES; lines 11984-12134
+  start: '11984'
+  end: '12134'
+  translation: 'The Golden Bough: A Study in Comparative Religion (Vol. 1 of 2)'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage consists of notes citing ancient and modern sources on Egyptian
+    Osiris rites: the calendrical uncertainty of the festival of Osiris''s death,
+    annual lamentations and ceremonies of finding and burying Osiris, Plutarch''s
+    references to dismemberments and revivals, agricultural interpretations identifying
+    Osiris with grain or fruitful power, ritual actions involving wood, linen, libations,
+    and a lunar-shaped chest, and a comparison between Isis and Demeter in which both
+    goddesses sit at a well during a search for a lost loved one.'
+  language: English, with cited Greek and Latin excerpts
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The note says Athyr corresponded to November in the Alexandrian year, but
+    the old Egyptian vague year caused festival dates to move through the astronomical
+    year.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that no inference can be drawn from fixed Athyr in November
+    about the original date of the celebration of Osiris's death.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage says it is possible that the death of Osiris may originally have
+    been a harvest festival, although the Egyptian harvest falls in April rather than
+    November.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The passage cites annual ceremonies of finding and burying Osiris and mentions
+    lamentations connected with them.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A cited Plutarch passage is used for Osiris's dismemberments, revivals, regenerations,
+    and burials.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A cited Firmicus passage reports an explanation in which Osiris is said to
+    be grain seeds, Isis the earth, and Typhon heat.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: In the agricultural explanation, ripened crops are gathered for human life,
+    separated from the earth, stored, and sown again as winter approaches.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The agricultural explanation calls the storing of crops the death of Osiris
+    and the renewed yearly growth from the earth the finding of Osiris.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: A cited Eusebius passage presents Osiris among the Egyptians as fruitful power
+    disappearing into earth in the sowing and being consumed as food.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: A cited Plutarch passage mentions cutting wood, splitting linen, and pouring
+    libations in connection with mystical matters.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: Another cited Plutarch passage says that in the so-called burials of Osiris,
+    wood is cut and fashioned into a lunar-shaped chest.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:12
+  text: The passage states that myths of Isis and Demeter agree in that both goddesses,
+    while searching for a loved and lost one, sat down sad and weary on the edge of
+    a well.
+  category: relationship
+  evidence_refs:
+  - ev:8
+- id: obs:13
+  text: The passage states that those initiated at Eleusis were forbidden to sit on
+    a well.
+  category: action
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Osiris
+  description: Egyptian god whose death, finding, burial, dismemberments, revivals,
+    regenerations, and agricultural identifications are discussed in the notes.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:7
+- id: fig:2
+  name_or_label: Isis
+  description: Goddess identified in an agricultural explanation with the earth and
+    compared with Demeter as a goddess searching for a loved and lost one.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:8
+- id: fig:3
+  name_or_label: Typhon
+  description: Figure identified in an agricultural explanation with heat.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Demeter
+  description: Goddess compared with Isis because both are said to sit by a well during
+    a search for a lost loved one.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:8
+- id: fig:5
+  name_or_label: Eleusinian initiates
+  description: People initiated at Eleusis who are said to have been forbidden to
+    sit on a well.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: dead, found, and buried god
+  assigned_to:
+  - fig:1
+  basis: The passage refers to the death of Osiris and annual ceremonies of finding
+    and burying Osiris.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: earth in agricultural explanation
+  assigned_to:
+  - fig:2
+  basis: The cited Firmicus explanation identifies Isis as earth.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: grain or fruitful power in agricultural explanation
+  assigned_to:
+  - fig:1
+  basis: The cited Firmicus and Eusebius passages identify Osiris with grain seeds
+    or fruitful power.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:4
+  label: searching goddess at a well
+  assigned_to:
+  - fig:2
+  - fig:4
+  basis: The passage says both Isis and Demeter sat sad and weary at a well while
+    searching for the loved and lost one.
+  evidence_refs:
+  - ev:8
+- id: role:5
+  label: heat in agricultural explanation
+  assigned_to:
+  - fig:3
+  basis: The cited Firmicus explanation identifies Typhon as heat.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: initiated group under ritual prohibition
+  assigned_to:
+  - fig:5
+  basis: The passage states that Eleusinian initiates were forbidden to sit on a well.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: death of Osiris festival date
+  literal_form: Athyr / November / moving old Egyptian festival date
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: grain seeds and crops
+  literal_form: frugum semina; ripened crops gathered, stored, and sown again
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: earth as generative medium
+  literal_form: earth receiving seed and producing annual growth
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: heat
+  literal_form: Typhon as heat that matures crops
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: ritual wood, linen, and libations
+  literal_form: cut wood, split linen, poured libations
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: lunar-shaped chest
+  literal_form: wood fashioned into a moon-shaped chest in the burials of Osiris
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:7
+  label: well edge
+  literal_form: edge of a well where Isis and Demeter are said to sit
+  associated_figures:
+  - fig:2
+  - fig:4
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Calendrical uncertainty of Osiris death festival
+  summary: The passage explains that the old Egyptian vague year prevents secure inference
+    from Athyr's later November placement to the original date of the festival of
+    Osiris's death.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Annual finding and burial rites for Osiris
+  summary: The passage cites annual lamentations and ceremonies of finding and burying
+    Osiris.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Dismemberment and revival terminology for Osiris
+  summary: The passage cites Plutarch for Osiris's dismemberments, revivals, regenerations,
+    and burials.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Agricultural explanation of Osiris, Isis, and Typhon
+  summary: The cited explanation identifies Osiris with grain seeds, Isis with earth,
+    and Typhon with heat, treating crop storage as Osiris's death and renewed growth
+    as his finding.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:5
+  label: Ritual materials in Osiris burial rites
+  summary: The passage cites ritual actions of cutting wood, splitting linen, pouring
+    libations, and making a lunar-shaped chest from wood for the burials of Osiris.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:6
+  label: Isis and Demeter at the well
+  summary: The passage compares Isis and Demeter as goddesses who sit sadly and wearily
+    on the edge of a well during a search for a lost loved one, and notes a related
+    Eleusinian prohibition against sitting on a well.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Death, finding, and burial of a god in annual rites
+  taxonomy_refs:
+  - death_rebirth
+  - dying_and_returning
+  basis: The passage mentions the death of Osiris and annual ceremonies of finding
+    and burying him, with associated lamentations.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage is a set of scholarly footnotes and does not narrate the full
+    rite; the original festival date is explicitly uncertain.
+- id: motif:2
+  label: Dismemberment followed by revivals and regenerations
+  taxonomy_refs:
+  - death_rebirth
+  - resurrection
+  - dying_and_returning
+  basis: The cited Plutarch note refers to Osiris's dismemberments, revivals, regenerations,
+    and burials.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage reports a citation rather than giving an extended primary
+    narrative.
+- id: motif:3
+  label: Agricultural death and renewed growth of a deity identified with grain
+  taxonomy_refs:
+  - seasonal_cycle
+  - death_rebirth
+  - dying_and_returning
+  basis: The agricultural explanations identify Osiris with grain seeds or fruitful
+    power; crop storage is called his death and renewed growth from the earth his
+    finding.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is presented as an interpretive explanation by cited sources, not
+    necessarily as the only meaning of the rites.
+- id: motif:4
+  label: Ritual burial equipment and offerings for a dead god
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage cites cutting wood, splitting linen, pouring libations, and making
+    a lunar-shaped chest in connection with Osiris's burials.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The exact ritual sequence and sacrificial status of the libations are
+    not fully described in the passage.
+- id: motif:5
+  label: Goddess searching for a lost beloved sits by a well
+  taxonomy_refs:
+  - stolen_beloved
+  - divine_beloved
+  basis: The passage says Isis and Demeter both, in search of the loved and lost one,
+    sit sad and weary on the edge of a well.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: The passage does not specify in this excerpt whether the loved figure
+    was stolen; the taxonomy reference is therefore approximate and needs review.
+- id: motif:6
+  label: Initiatory prohibition tied to mythic action at a well
+  taxonomy_refs:
+  - initiation
+  basis: The passage says Eleusinian initiates were forbidden to sit on a well because
+    of the mythic episode in which the searching goddess sits there.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: The passage gives the prohibition but not its ritual context beyond Eleusinian
+    initiation.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly states that the myths of Isis and Demeter agree in
+    the detail that both goddesses sit, sad and weary, on the edge of a well while
+    searching for the loved and lost one.
+  claim_level: same_motif
+  target: 'Isis and Demeter myths: searching goddess at a well'
+  evidence_refs:
+  - ev:8
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim is limited to the shared detail identified in the passage
+    and does not establish historical contact or a broader equivalence of the two
+    myths.
+- id: claim:2
+  claim: The passage supports a cautious functional comparison between Osiris's death/finding
+    and the cycle of storing and re-sowing grain in agricultural interpretation.
+  claim_level: same_function
+  target: Agricultural seasonal-cycle pattern of grain death and renewed growth
+  evidence_refs:
+  - ev:4
+  - ev:5
+  counter_evidence_refs:
+  - ev:1
+  confidence: medium
+  limitations: The passage also warns that the original date of Osiris's death festival
+    cannot be inferred from the later fixed calendar, so the harvest-festival setting
+    remains possible rather than proven.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 11984-11994; footnote 970
+  quote_or_summary: Athyr corresponded to November in the Alexandrian year, but the
+    old Egyptian vague year shifted festival dates; therefore no inference can be
+    drawn about the original date of Osiris's death festival, though it may possibly
+    have been a harvest festival.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 11996-12001; footnote 971
+  quote_or_summary: The note cites sources for lamentations and for annual ceremonies
+    of finding and burying Osiris.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 12013-12016; footnote 974
+  quote_or_summary: The cited Plutarch passage is associated with Osiris's dismemberments,
+    revivals, regenerations, and burials.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 12034-12042; footnote 984
+  quote_or_summary: Firmicus reports an explanation in which Osiris is grain seeds,
+    Isis earth, and Typhon heat; crop storage is called Osiris's death and renewed
+    annual generation from earth his finding.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 12042-12045; footnote 984
+  quote_or_summary: Eusebius says Osiris among the Egyptians represents fruitful power
+    that disappears into earth in sowing and is consumed as food.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 12048-12051; footnote 986
+  quote_or_summary: Plutarch is cited for cutting wood, splitting linen, and pouring
+    libations as matters mixed with mystical rites.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 12051-12053; footnote 986
+  quote_or_summary: Plutarch is cited for cutting wood and making a lunar-shaped chest
+    in the so-called burials of Osiris.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 12068-12075; footnote 995
+  quote_or_summary: The note says the myths of Isis and Demeter agree because both
+    goddesses, searching for the loved and lost one, sat sad and weary on the edge
+    of a well; Eleusinian initiates were therefore forbidden to sit on a well.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is largely footnotes and citations rather than a continuous mythic
+    narrative. Literal extraction is relatively secure; motif taxonomy assignments
+    require human review because many details are reported through cited secondary
+    or ancient explanatory sources.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used. No historical-contact claim is made.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:comparative-golden-bough-volume-1-frazer-gutenberg__l11984-l12134
+  passage_sha256=1d2969ea8b57c175131c3bb88f134432191ee654c1a39821de8d6586558e2575
+

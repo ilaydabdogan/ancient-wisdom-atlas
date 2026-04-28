@@ -1,0 +1,200 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l3412-l3423
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE COBBLER TURNED DOCTOR / THE ASS, THE COCK, AND THE LION / THE BELLY AND
+    THE MEMBERS / THE BALD MAN AND THE FLY; lines 3412-3423
+  start: '3412'
+  end: '3423'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A fly bites a bald man on the head. The man strikes himself while trying
+    to kill it, but the fly escapes and mocks him for injuring himself over a small
+    bite. The man answers that he does not resent his own unintended blow, but would
+    endure more to kill the blood-sucking insect.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A fly settles on the head of a bald man and bites him.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The bald man slaps himself while trying to kill the fly.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The fly escapes after the slap.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The fly mocks the bald man by contrasting its small bite with the heavy smack
+    he gave himself.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The bald man says he bears no grudge for his own blow because he did not intend
+    to harm himself.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The bald man describes the fly as a contemptible insect that lives by sucking
+    human blood and says he would have endured more to kill it.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Bald Man
+  description: A man with a bald head who is bitten by a fly and strikes himself while
+    trying to kill it.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Fly
+  description: A fly that bites the bald man, escapes, and speaks in derision.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+roles:
+- id: role:1
+  label: injured retaliator
+  assigned_to:
+  - fig:1
+  basis: The bald man harms himself while attempting to kill the fly, then explains
+    his willingness to endure pain for revenge against it.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: role:2
+  label: provoking mocker
+  assigned_to:
+  - fig:2
+  basis: The fly bites the man, escapes, and mocks him after he slaps himself.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+symbols: []
+scenes:
+- id: scene:1
+  label: Fly bites and escapes the slap
+  summary: A fly bites the bald man's head. The man slaps himself in an attempt to
+    kill it, but the fly gets away.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Exchange after the failed blow
+  summary: The fly mocks the man for hurting himself over a small bite, and the man
+    replies that the self-inflicted blow was unintended but that he would endure more
+    to destroy the fly.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: self-injury in attempted retaliation
+  taxonomy_refs: []
+  basis: The man, trying to kill the fly for biting him, instead strikes himself,
+    creating a contrast between intended revenge and self-inflicted harm.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: No supplied taxonomy family precisely matches this fable motif.
+- id: motif:2
+  label: intent distinguishes blame for harm
+  taxonomy_refs:
+  - wisdom
+  basis: The bald man distinguishes between his own unintended self-harm and the fly's
+    intentional harmful biting, presenting a practical moral distinction about intention.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage does not state a separate explicit moral; the motif label
+    is inferred from the dialogue.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3412-3423
+  quote_or_summary: A fly settles on the head of a bald man and bites him.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:2
+  type: summary
+  locator: lines 3412-3423
+  quote_or_summary: The man slaps himself in eagerness to kill the fly, but the fly
+    escapes.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:3
+  type: summary
+  locator: lines 3412-3423
+  quote_or_summary: The fly derides him, asking what he will do to himself for the
+    heavy smack he gave himself after trying to kill it for one little bite.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:4
+  type: summary
+  locator: lines 3412-3423
+  quote_or_summary: The man replies that he bears no grudge for the blow because he
+    never intended himself harm.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:5
+  type: summary
+  locator: lines 3412-3423
+  quote_or_summary: The man calls the fly a contemptible blood-sucking insect and
+    says he would have borne more for the satisfaction of killing it.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized from provided passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif candidates are passage-based
+    but do not map closely to the supplied taxonomy except a broad wisdom association.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the provided passage text was used; despite the locator label naming multiple fables, the supplied passage contains only “THE BALD MAN AND THE FLY.”
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l3412-l3423
+  passage_sha256=9c8df4db27b82d395c39bffcb85fcb30552bd3d05f1c6f61a9a17a7e31f3c731
+

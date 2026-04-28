@@ -1,0 +1,395 @@
+---
+record_id: batch.motif.greek-plato-republic-jowett-gutenberg-l3508-l3587
+source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+passage_locator:
+  label: The Republic / THE REPUBLIC / INTRODUCTION AND ANALYSIS.; lines 3508-3587
+  start: '3508'
+  end: '3587'
+  translation: The Republic
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage analyzes Plato's higher method of knowledge, his conception
+    of ideas as steps within a connected whole, the relation between ancient anticipations
+    of truth and modern philosophy, the image of the ideal state as drawn on a blank
+    tablet from a heavenly or otherworldly pattern, and the division of knowledge
+    between sensible, mathematical, and intellectual domains.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage says Plato gives only a glimpse, not a clear explanation, of a
+    higher method of knowledge.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The described method proceeds by regular steps toward a system of universal
+    knowledge and treats ideas as steps, grades, or moments within a connected whole.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage says Plato is hastening toward the end of the intellectual world
+    before developing the sciences in detail.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage compares ancient anticipations or prophetic glimpses of truth
+    with hypotheses in modern inductive science.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage uses the image of a blank tablet on which an artist fills in the
+    lineaments of the ideal state.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The passage asks whether the ideal state is a pattern laid up in heaven or
+    a vacancy contemplated with wonder.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The passage says Plato represents ideals figuratively as belonging to another
+    world.
+  category: setting
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The passage describes Plato's divisions of knowledge as based on an antithesis
+    of sensible and intellectual, with number as an intermediate term.
+  category: relationship
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Plato
+  description: The philosopher whose higher method of knowledge, ideal state, and
+    divisions of knowledge are discussed.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:8
+- id: fig:2
+  name_or_label: artist
+  description: A figurative artist who fills the lineaments of the ideal state onto
+    a blank tablet.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:3
+  name_or_label: Greek genius
+  description: A generalized figure described as contemplating the expanse of heaven
+    and earth and recognizing uniformities and first principles at a distance.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Descartes, Kant, Hegel, and Bacon
+  description: Modern philosophers named as making similar attempts related to visions
+    of a priori knowledge.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:9
+roles:
+- id: role:1
+  label: philosopher of higher knowledge
+  assigned_to:
+  - fig:1
+  basis: The passage attributes to Plato a higher method of knowledge proceeding toward
+    universal knowledge.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: framer of ideal state
+  assigned_to:
+  - fig:1
+  basis: The passage says Plato supposes the artist will fill in the lineaments of
+    the ideal state after the tablet is made blank.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: figurative maker
+  assigned_to:
+  - fig:2
+  basis: The artist is the figure who fills in the lineaments of the ideal state.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: contemplator of heaven and earth
+  assigned_to:
+  - fig:3
+  basis: The passage describes the genius of the Greek as contemplating the expanse
+    of heaven and earth and recognizing first principles in the distance.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: modern comparanda
+  assigned_to:
+  - fig:4
+  basis: These philosophers are named as offering similar attempts in modern philosophy.
+  evidence_refs:
+  - ev:9
+symbols:
+- id: sym:1
+  label: steps or grades of thought
+  literal_form: ideas as steps, grades, or moments of thought
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - wisdom
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: end of the intellectual world
+  literal_form: the end of the intellectual world
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - wisdom
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: blank tablet
+  literal_form: tablet made blank
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: heavenly pattern
+  literal_form: pattern laid up in heaven
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: another world of ideals
+  literal_form: ideals belonging to another world
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: conducting medium
+  literal_form: Pythagorean principle of number as a conducting medium between being
+    and phenomena
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Higher method of knowledge
+  summary: The passage describes Plato's higher method as a barely explained movement
+    by steps toward universal knowledge and a connected whole of ideas.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Ancient glimpses and modern hypotheses
+  summary: The passage says ancient anticipations or prophetic glimpses of truth function
+    in relation to ancient philosophy as hypotheses do in modern inductive science,
+    and it links Plato's vision to named modern philosophers.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:9
+- id: scene:3
+  label: Ideal state drawn from a blank tablet
+  summary: The passage presents the ideal state through the figure of an artist filling
+    a blank tablet and asks whether the model is a heavenly pattern or a vacant object
+    of contemplation.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: scene:4
+  label: Threefold division of knowledge
+  summary: The passage describes a division between sensible and intellectual knowledge,
+    with number and figure placed between being and phenomena as a conducting medium.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: ascent through ordered knowledge
+  taxonomy_refs:
+  - ascent
+  - wisdom
+  basis: The passage describes a higher method proceeding by regular steps, with ideas
+    as grades of thought, toward universal knowledge and the end of the intellectual
+    world.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: This is philosophical analysis and metaphor, not a narrative ascent episode.
+- id: motif:2
+  label: otherworldly ideal pattern
+  taxonomy_refs:
+  - wisdom
+  basis: The passage asks whether the ideal state is a pattern laid up in heaven and
+    says Plato represents ideals as belonging to another world.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The passage frames the image as a figure of philosophical idealization
+    rather than a mythic revelation.
+- id: motif:3
+  label: cosmic contemplation yielding first principles
+  taxonomy_refs:
+  - wisdom
+  basis: The passage says the Greek genius, contemplating heaven and earth, seemed
+    to recognize uniformities and first principles in the distance.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: The description is generalized and analytic, not a specific mythic scene.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares ancient anticipations or prophetic glimpses
+    of truth to the role of hypotheses in modern inductive science.
+  claim_level: same_function
+  target: modern inductive science hypotheses
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is functional and epistemological, not a claim of historical
+    contact or shared mythic inheritance.
+- id: claim:2
+  claim: The passage states that Plato's vision of a priori knowledge may be explained
+    by similar attempts in the modern philosophy of Descartes, Kant, Hegel, and Bacon.
+  claim_level: same_function
+  target: modern philosophical attempts at a priori or systematic knowledge
+  evidence_refs:
+  - ev:9
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison concerns philosophical method, not mythology, ritual,
+    or narrative motif transmission.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 3508-3513
+  quote_or_summary: The passage says Plato gives only a glimpse and no clear explanation
+    of his higher method of knowledge.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: 3513-3520
+  quote_or_summary: '"regular steps to a system of universal knowledge"; ideas are
+    described as "steps or grades or moments of thought" in a connected whole.'
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: quote
+  locator: 3524-3526
+  quote_or_summary: Plato is said to be hastening to the "end of the intellectual
+    world" without making a beginning of the sciences.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: summary
+  locator: 3540-3553
+  quote_or_summary: Ancient anticipations, divinations, or prophetic glimpses of truths
+    are compared to hypotheses in modern inductive science; the Greek genius contemplates
+    heaven and earth and recognizes uniformities and first principles in the distance.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 3558-3560
+  quote_or_summary: Plato supposes that after the tablet is made blank an artist will
+    fill in the lineaments of the ideal state.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: quote
+  locator: 3560-3562
+  quote_or_summary: The passage asks whether this is a "pattern laid up in heaven"
+    or a vacancy gazed at with wonder.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; short quotation.
+- id: ev:7
+  type: summary
+  locator: 3564-3567
+  quote_or_summary: The passage says Plato represents these ideals figuratively as
+    belonging to another world.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: 3572-3587
+  quote_or_summary: The passage describes Plato's divisions of knowledge as based
+    on the antithesis of sensible and intellectual; number and figure become an intermediate
+    conducting medium between being and phenomena.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: 3535-3540
+  quote_or_summary: The passage says Plato's vision of a priori knowledge can be explained
+    by similar attempts of Descartes, Kant, Hegel, and Bacon in modern philosophy.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is expository philosophical analysis, so symbolic and motif extraction
+    is limited to explicit metaphors and comparisons in the text.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No narrative mythic episode is present; candidate motifs are based on explicit metaphors of ascent, otherworldly ideals, and wisdom.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-plato-republic-jowett-gutenberg__l3508-l3587
+  passage_sha256=ce21d0072ebc8806a43d01069b6cdd6853ff3d56ed40dc6030a114a7bcc223f1
+

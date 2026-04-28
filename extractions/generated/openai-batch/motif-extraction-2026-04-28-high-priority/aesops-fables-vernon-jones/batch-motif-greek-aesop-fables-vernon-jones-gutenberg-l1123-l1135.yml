@@ -1,0 +1,291 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l1123-l1135
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE WOLF AND THE LAMB / THE PEACOCK AND THE CRANE / THE CAT AND THE BIRDS
+    / THE SPENDTHRIFT AND THE SWALLOW; lines 1123-1135
+  start: '1123'
+  end: '1135'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: One swallow does not make summer.
+  summary: A spendthrift who has wasted his fortune sees a swallow in early spring,
+    assumes summer has arrived, sells his coat, and then suffers when frost comes
+    and kills the swallow. He blames the dead bird for his own cold. The fable ends
+    with the proverb that one swallow does not make summer.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The spendthrift has wasted his fortune and has only the clothes he is wearing.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The spendthrift sees a swallow on a fine day in early spring.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The spendthrift interprets the swallow and fair weather as evidence that summer
+    has come.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The spendthrift sells his coat because he thinks he can do without it.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A sharp frost arrives and kills the swallow.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The spendthrift speaks to the dead swallow and says he is perishing of cold
+    because of it.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The passage ends with the moral that one swallow does not make summer.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Spendthrift
+  description: A person who has wasted his fortune and sells his coat after assuming
+    summer has arrived.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: Swallow
+  description: A bird seen in early spring, later killed by frost, and blamed by the
+    spendthrift.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: Rash interpreter of a sign
+  assigned_to:
+  - fig:1
+  basis: The spendthrift assumes summer has arrived after seeing a swallow in early
+    spring.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: Victim of his own imprudence
+  assigned_to:
+  - fig:1
+  basis: After selling his coat, he suffers from cold when frost comes.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:3
+  label: Mistaken seasonal sign
+  assigned_to:
+  - fig:2
+  basis: The swallow is taken by the spendthrift as evidence that summer has come,
+    though frost follows.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+- id: role:4
+  label: Dead bird blamed by another
+  assigned_to:
+  - fig:2
+  basis: The swallow is killed by frost, and the spendthrift addresses its dead body
+    as the cause of his suffering.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: Swallow as seasonal sign
+  literal_form: Swallow
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: sym:2
+  label: Coat as protection from cold
+  literal_form: Coat
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:3
+  label: Sharp frost
+  literal_form: Frost
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Misreading early spring
+  summary: The spendthrift, reduced to only his clothes, sees a swallow on a fine
+    early-spring day and concludes that summer has come.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Sale of the coat
+  summary: Because he thinks he no longer needs his coat, the spendthrift sells it
+    for whatever it will fetch.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Frost and blame
+  summary: A sharp frost kills the swallow, and the spendthrift, suffering from cold,
+    blames the dead bird.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Proverbial moral
+  summary: The fable closes with the proverb that one swallow does not make summer.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Premature inference from a single sign
+  taxonomy_refs:
+  - wisdom
+  basis: The fable’s plot and final proverb warn against treating one swallow as sufficient
+    proof that summer has arrived.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+  confidence: high
+  cautions: The taxonomy reference is broad; the passage is a moral fable rather than
+    a mythic wisdom episode.
+- id: motif:2
+  label: Rash disposal of necessary protection
+  taxonomy_refs:
+  - wisdom
+  basis: The spendthrift sells his coat after a mistaken judgment about the season
+    and then suffers from cold.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: This is a practical moral pattern inferred from the fable’s action, not
+    an explicitly named traditional motif.
+- id: motif:3
+  label: Blaming the sign for the interpreter’s error
+  taxonomy_refs:
+  - wisdom
+  basis: The spendthrift blames the dead swallow even though his own interpretation
+    and sale of the coat caused his suffering.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The causal lesson is implied by the narrative and moral rather than stated
+    directly beyond the proverb.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 1123-1125
+  quote_or_summary: The spendthrift has wasted his fortune and has nothing left except
+    the clothes he is wearing.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:2
+  type: summary
+  locator: 1125-1127
+  quote_or_summary: On a fine day in early spring, he sees a swallow and thinks summer
+    has come.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:3
+  type: summary
+  locator: 1127-1128
+  quote_or_summary: Believing he can do without his coat, he sells it for what it
+    will fetch.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:4
+  type: summary
+  locator: 1128-1130
+  quote_or_summary: The weather changes, and a sharp frost kills the swallow.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:5
+  type: quote
+  locator: 1130-1132
+  quote_or_summary: "“Miserable bird! Thanks to you I am perishing of cold myself.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation.
+- id: ev:6
+  type: quote
+  locator: '1135'
+  quote_or_summary: "“One swallow does not make summer.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Narrative elements are explicit in the supplied passage. Motif labels are
+    cautious summaries of the fable’s moral pattern. No comparison claims were added
+    because the passage itself does not support a specific cross-textual comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage text was used. Although the locator label lists multiple fables, the passage text supplied for extraction contains only “THE SPENDTHRIFT AND THE SWALLOW.”
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l1123-l1135
+  passage_sha256=5f1ea179e0aed22a4c58d7706ace6ebbb16e6646c8a54714b63c7e7d74d0f790
+

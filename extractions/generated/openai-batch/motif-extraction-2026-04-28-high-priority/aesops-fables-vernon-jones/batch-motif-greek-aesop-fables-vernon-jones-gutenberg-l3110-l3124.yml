@@ -1,0 +1,339 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l3110-l3124
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE MOUSE AND THE BULL / THE HARE AND THE HOUND / THE TOWN MOUSE AND THE
+    COUNTRY MOUSE / THE LION AND THE BULL; lines 3110-3124
+  start: '3110'
+  end: '3124'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: The net is spread in vain in sight of the bird.
+  summary: A lion invites a bull to dine under the pretext of sacrificing a sheep.
+    The bull arrives at the lion's den, sees cooking preparations but no sheep, infers
+    that he is the intended victim, and leaves. The closing moral states that an openly
+    visible trap is ineffective.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A lion sees a fine fat bull pasturing among cattle and seeks a way to get
+    him into his clutches.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The lion sends word that he is sacrificing a sheep and invites the bull to
+    dine with him.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The bull accepts the invitation and arrives at the lion's den.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: At the den, the bull sees saucepans and spits but no sign of a sheep.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The bull turns away and walks off quietly.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The lion asks why the bull is leaving, and the bull says the preparations
+    show that the victim was to be a bull, not a sheep.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The closing moral compares the situation to a net spread openly in sight of
+    a bird.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Lion
+  description: A lion who sees a fat bull, devises a means to get him into his clutches,
+    and invites him to dine under the claim of sacrificing a sheep.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: fig:2
+  name_or_label: Bull
+  description: A fine fat bull pasturing among cattle who accepts the lion's invitation,
+    observes the preparations, infers danger, and leaves.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Herd of cattle
+  description: The cattle among whom the bull is pasturing when the lion sees him.
+  role_refs: []
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: Deceptive inviter
+  assigned_to:
+  - fig:1
+  basis: The lion sends an invitation under the stated pretext of sacrificing a sheep
+    while seeking to get the bull into his clutches.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: Predator or would-be killer
+  assigned_to:
+  - fig:1
+  basis: The lion intends to get the bull into his clutches, and the bull identifies
+    himself as the intended victim.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:3
+  label: Intended victim
+  assigned_to:
+  - fig:2
+  basis: The bull concludes from the preparations that the victim was to be a bull
+    rather than a sheep.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: Cautious observer
+  assigned_to:
+  - fig:2
+  basis: The bull notices the saucepans and spits, sees no sheep, and leaves before
+    entering the trap.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: Lion's den
+  literal_form: den
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: Cooking preparations
+  literal_form: saucepans and spits
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:3
+  label: Claimed sacrificial sheep
+  literal_form: sheep
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: sym:4
+  label: Bull as inferred victim
+  literal_form: bull
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: Visible net
+  literal_form: net spread in sight of a bird
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: Bird seeing the trap
+  literal_form: bird
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Lion notices the bull and forms a plan
+  summary: The lion sees a fat bull among cattle and looks for a way to get him into
+    his power.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Invitation under sacrificial pretext
+  summary: The lion tells the bull he is sacrificing a sheep and invites him to dine.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Bull inspects the den
+  summary: The bull arrives at the den and sees cooking equipment but no sheep.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Bull leaves and explains his inference
+  summary: The bull walks away and tells the lion that the preparations showed the
+    intended victim was a bull rather than a sheep.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:5
+  label: Closing moral image
+  summary: The moral states that a net set in open view is useless against a bird
+    that can see it.
+  figure_refs: []
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Trap avoided by recognizing visible signs
+  taxonomy_refs:
+  - wisdom
+  basis: The bull sees the preparations and no sheep, infers the danger, and leaves
+    before becoming the victim; the moral explicitly says an openly visible net is
+    spread in vain.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The taxonomy reference to wisdom is broad; the passage presents practical
+    caution rather than formal instruction.
+- id: motif:2
+  label: False hospitality conceals predation
+  taxonomy_refs: []
+  basis: The lion invites the bull to dine, but the invitation functions as a means
+    of getting the bull into his clutches.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  confidence: high
+  cautions: The passage does not show the attack occurring; the predatory intent is
+    inferred within the fable and voiced by the bull.
+- id: motif:3
+  label: Sacrificial pretext masks the intended victim
+  taxonomy_refs:
+  - sacrifice
+  basis: The lion claims to be sacrificing a sheep, while the bull concludes that
+    the intended victim was actually to be a bull.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: No actual ritual sacrifice is performed; sacrifice appears as a deceptive
+    pretext in the plot.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 3110-3112
+  quote_or_summary: A lion saw a fine fat bull among cattle and sought means of getting
+    him into his clutches.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short excerpt summarized.
+- id: ev:2
+  type: quote
+  locator: 3112-3114
+  quote_or_summary: The lion sent word that he was sacrificing a sheep and invited
+    the bull to dine with him.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short excerpt summarized.
+- id: ev:3
+  type: quote
+  locator: 3114-3116
+  quote_or_summary: The bull accepted, arrived at the lion's den, and saw saucepans
+    and spits but no sheep.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short excerpt summarized.
+- id: ev:4
+  type: quote
+  locator: 3116-3117
+  quote_or_summary: The bull turned on his heel and walked quietly away.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short excerpt summarized.
+- id: ev:5
+  type: quote
+  locator: 3117-3122
+  quote_or_summary: The bull says the preparations showed that the victim was to be
+    a bull and not a sheep.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short excerpt summarized.
+- id: ev:6
+  type: quote
+  locator: '3124'
+  quote_or_summary: "“The net is spread in vain in sight of the bird.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation from public domain text.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is short and explicit. Motif labels are descriptive; taxonomy
+    links are broad and should be reviewed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the supplied passage does not itself support a comparison to another corpus or tradition.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l3110-l3124
+  passage_sha256=6b3f42ee4576f547bb9eb21a8d8a36b4ef7cf834ffcb23adcabeb515478a1214
+

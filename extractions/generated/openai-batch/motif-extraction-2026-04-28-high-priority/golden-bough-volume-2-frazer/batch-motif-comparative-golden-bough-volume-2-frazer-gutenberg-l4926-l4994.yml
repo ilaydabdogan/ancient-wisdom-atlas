@@ -1,0 +1,554 @@
+---
+record_id: batch.motif.comparative-golden-bough-volume-2-frazer-gutenberg-l4926-l4994
+source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+passage_locator:
+  label: 'The Golden Bough: A Study in Comparative Religion (Vol. 2 of 2) / CONTENTS;
+    lines 4926-4994'
+  start: '4926'
+  end: '4994'
+  translation: 'The Golden Bough: A Study in Comparative Religion (Vol. 2 of 2)'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Frazer interprets ritual beatings with squills, branches, rods, and other
+    plants as acts intended to purify, avert harmful influences, and renew reproductive
+    or vital force, especially in connection with a human scapegoat understood as
+    a representative of a vegetation god. He then lists analogies from several regions
+    where people, images, effigies, or ritual substitutes are beaten with plants,
+    sticks, torches, or nettles for purification, health, fertility, hunting success,
+    or strength.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that squills were attributed magical power to avert evil
+    influences and were used at doors and in purificatory rites.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Arcadian custom described involves beating an image of Pan with squills
+    at a festival or when hunters returned without game.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The human scapegoat is described as being beaten on the genital organs with
+    squills and similar plants before being put to death.
+  category: action
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:4
+  text: Frazer identifies the annually sacrificed scapegoat at the Thargelia as a
+    representative of a creative and fertilising god of vegetation.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The representative of the god is said to be annually slain so that divine
+    life may remain vigorous and unweakened by age.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: In cases such as drought or famine, the passage says the god’s representative
+    might be slain so that the god, born young again, could renew nature’s stagnant
+    energies.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: The passage groups Mamurius Veturius, a slave in the Chaeronean ceremony,
+    the effigy of Death in northern Europe, and a Babylonian criminal playing the
+    god as examples of figures beaten or scourged in ritual contexts.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The stated purpose of scourging the divine sufferer is to dispel malignant
+    influences rather than to intensify suffering.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: The passage lists analogies in which Brazilian Indians, sick people, Peruvians
+    at an autumn festival, Quixos Indians, boys at Mowat, Albanians, Croatians and
+    Slavonians, Russians, and Germans strike or beat persons with plants, sticks,
+    torches, or branches for health, purification, strength, luck, or practical success.
+  category: action
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: human scapegoat
+  description: A human victim beaten with plants and annually sacrificed at the Thargelia;
+    interpreted in the passage as a representative of a vegetation god.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: image of Pan
+  description: An image beaten with squills in Arcadia at a festival or when hunters
+    returned empty-handed.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: creative and fertilising god of vegetation
+  description: A divine figure whose representative is said to be slain and renewed
+    to maintain divine vigour and the energies of nature.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: successor or new embodiment of the old god
+  description: The new god or new embodiment said to take the place of the slain representative.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Mamurius Veturius
+  description: A figure mentioned as being beaten with rods.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: slave at the Chaeronean ceremony
+  description: A slave mentioned as being beaten with agnus castus, a tree to which
+    magical properties were ascribed.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: effigy of Death in northern Europe
+  description: An effigy said to be assailed with sticks and stones.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:8
+  name_or_label: Babylonian criminal who played the god
+  description: A criminal said to have played the god and to have been scourged before
+    being crucified.
+  role_refs:
+  - role:6
+  - role:7
+  evidence_refs:
+  - ev:3
+- id: fig:9
+  name_or_label: cross-cultural participants in beating rites
+  description: Groups or persons in the listed analogies who beat themselves or others
+    with plants, torches, nettles, sticks, rods, or branches.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: scapegoat victim
+  assigned_to:
+  - fig:1
+  basis: The passage calls the figure a human scapegoat and says he was beaten and
+    sacrificed.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: representative of vegetation god
+  assigned_to:
+  - fig:1
+  basis: The passage explicitly says the scapegoat is to be recognized as a representative
+    of the creative and fertilising god of vegetation.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: purified divine image
+  assigned_to:
+  - fig:2
+  basis: The beating of Pan’s image with squills is explained as purification from
+    harmful influences impeding divine functions.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: fertility and vegetation deity
+  assigned_to:
+  - fig:3
+  basis: The god is described as creative, fertilising, and responsible for producing
+    the fruits of the earth.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: renewed successor
+  assigned_to:
+  - fig:4
+  basis: The passage says reproductive powers might be transmitted to the successor,
+    the new god or new embodiment of the old god.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: ritually beaten substitute or effigy
+  assigned_to:
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  basis: These figures are listed as examples of persons or effigies beaten, assailed,
+    or scourged in analogous rites.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: divine sufferer
+  assigned_to:
+  - fig:8
+  basis: The Babylonian criminal is described as playing the god and included in the
+    discussion of the divine sufferer.
+  evidence_refs:
+  - ev:3
+- id: role:8
+  label: participants in purificatory or strengthening beatings
+  assigned_to:
+  - fig:9
+  basis: The passage lists groups who beat themselves or others to remove harm, cure
+    sickness, gain speed, promote strength, health, luck, or freedom from pains and
+    vermin.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: squills
+  literal_form: Squills used to beat the victim or image and described as averting
+    evil influences.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: wild fig branches and other plants
+  literal_form: Branches of wild fig and similar plants used in beating the human
+    scapegoat.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: genital organs
+  literal_form: The body part on which the human scapegoat is beaten to release reproductive
+    energies.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: agnus castus tree
+  literal_form: A tree with ascribed magical properties used to beat the slave at
+    Chaeronea.
+  associated_figures:
+  - fig:6
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: rods, sticks, stones, and branches
+  literal_form: Implements used in ritual beatings of Mamurius Veturius, the effigy
+    of Death, boys, children, servants, and other persons.
+  associated_figures:
+  - fig:5
+  - fig:7
+  - fig:9
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+- id: sym:6
+  label: torches
+  literal_form: Torches used by people in Peru to strike each other at an autumn festival.
+  associated_figures:
+  - fig:9
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+- id: sym:7
+  label: nettles
+  literal_form: Nettles used by Quixos wives to whip husbands before hunting expeditions
+    and as a cure for sickness.
+  associated_figures:
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:8
+  label: fresh green birch twigs and other seasonal branches
+  literal_form: Cornel, palm, and birch branches or twigs used in spring or Eastertide
+    beatings for health, luck, and protection from ailments.
+  associated_figures:
+  - fig:9
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Interpretation of scapegoat beating with plants
+  summary: Frazer explains the beating of the human scapegoat with squills and related
+    plants as an attempt to free reproductive powers from harmful influences before
+    sacrifice.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Annual death and renewal of vegetation god representative
+  summary: The representative of the vegetation god is slain annually so that divine
+    life remains vigorous, and the god or successor is imagined as renewed and able
+    to restore nature’s energies.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Analogous scourging of ritual figures
+  summary: Several ritual figures or substitutes are beaten, assailed, or scourged,
+    and the passage explains this as dispelling malignant influences from a divine
+    sufferer or equivalent figure.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Cross-cultural beatings for health, purification, vitality, and luck
+  summary: The passage lists examples from Brazil, Peru, South America, New Guinea,
+    Central Europe, Russia, and Germany in which people strike themselves or others
+    with plants, torches, nettles, sticks, rods, or branches to avert harm, cure sickness,
+    improve hunting, strengthen boys, promote health, or bring luck.
+  figure_refs:
+  - fig:9
+  symbol_refs:
+  - sym:5
+  - sym:6
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: ritual beating to avert harm or purify
+  taxonomy_refs: []
+  basis: The passage repeatedly explains beating with squills, branches, rods, torches,
+    nettles, and other implements as removing harmful or malignant influences or making
+    participants healthy.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: This is Frazer’s comparative interpretation of reported customs rather
+    than a single mythic narrative.
+- id: motif:2
+  label: scapegoat as vegetation god representative
+  taxonomy_refs:
+  - sacrifice
+  basis: The human scapegoat is described as the representative of a creative and
+    fertilising vegetation god and as annually sacrificed.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The representative status is an interpretive claim within the passage.
+- id: motif:3
+  label: death and renewal of divine vitality
+  taxonomy_refs:
+  - death_rebirth
+  - dying_and_returning
+  basis: The passage says the god’s representative is slain so that divine life remains
+    vigorous, and in special crises the god is imagined as born young again to renew
+    nature.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage describes ritual logic of renewal, not a detailed narrative
+    of a god returning from death.
+- id: motif:4
+  label: seasonal or festival renewal rites
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The Thargelia is identified as an early harvest festival, and the analogies
+    include autumn, spring, Palm Sunday, Good Friday, and Eastertide beatings connected
+    with health and renewal.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+  confidence: medium
+  cautions: The seasonal settings vary across examples and are not all tied to the
+    same ritual complex.
+- id: motif:5
+  label: magically potent plant implement
+  taxonomy_refs: []
+  basis: Squills, agnus castus, nettles, cornel, palm, and birch are presented as
+    plants or branches used in rites to avert evil, cure sickness, strengthen, or
+    bring luck.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: Available taxonomy has tree and other broad symbols, but no specific plant-magic
+    motif family.
+comparison_claims:
+- id: claim:1
+  claim: The passage presents the Arcadian beating of Pan’s image, the human scapegoat
+    beating, and later examples of beating people with plants as sharing a purificatory
+    or harm-averting function.
+  claim_level: same_function
+  target: plant-based ritual beatings used to remove harmful influences
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim follows Frazer’s comparative framing; the passage does not
+    provide independent primary documentation for each analogy.
+- id: claim:2
+  claim: The passage compares Mamurius Veturius, the Chaeronean slave, the northern
+    European effigy of Death, and the Babylonian criminal who played the god as ritual
+    figures whose beating or scourging dispels malignant influences rather than increases
+    suffering.
+  claim_level: same_function
+  target: scourging of ritual substitutes or divine sufferers
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The examples are only briefly listed, and the passage gives little
+    local context for each custom.
+- id: claim:3
+  claim: The passage connects annual or crisis sacrifice of a vegetation-god representative
+    with renewal of divine and natural vitality.
+  claim_level: same_motif
+  target: slain and renewed vegetation representative maintaining fertility
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is internal to Frazer’s interpretive model and is not
+    supported here by a full narrative tradition.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 4926-4938
+  quote_or_summary: Squills are said to avert evil and to be used in purificatory
+    rites; the image of Pan and the human scapegoat are beaten with squills or similar
+    plants to remove harmful influences and release reproductive energies.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 4938-4951
+  quote_or_summary: The scapegoat at the Thargelia is interpreted as a representative
+    of the creative and fertilising vegetation god, annually slain to keep divine
+    life vigorous; in drought or famine, the god is imagined as born young again to
+    restore nature’s energies.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 4951-4961
+  quote_or_summary: Mamurius Veturius, the Chaeronean slave, the northern European
+    effigy of Death, and the Babylonian criminal playing the god are listed as beaten
+    or scourged figures; the stated purpose is to dispel malignant influences from
+    the divine sufferer.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 4962-4971
+  quote_or_summary: Analogies include Brazilian Indians beating their genital organs
+    with the white aninga, sick people beaten with leaves or branches to remove noxious
+    influences, and Peruvians striking one another with torches while saying that
+    harm should go away.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 4971-4979
+  quote_or_summary: Quixos Indians have their wives whip them with nettles for hunting
+    success or sickness cures, and at Mowat in New Guinea boys are lightly beaten
+    with sticks in December to make them strong and hardy.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 4980-4994
+  quote_or_summary: Spring and Eastertide customs in Albania, Croatia, Slavonia, Russia,
+    and Germany involve striking people or animals with cornel branches, rods, palm
+    branches, or birch twigs for health, luck, or protection from sickness, vermin,
+    and pains.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is strong because the passage is explicit. Motif and comparison
+    confidence is moderated because the source is a comparative scholarly interpretation
+    rather than a primary ritual text.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy references are limited to available motif families and symbols.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:comparative-golden-bough-volume-2-frazer-gutenberg__l4926-l4994
+  passage_sha256=22cda2829e59fd4e9e2d473a53865492c8d8d232d638e35cf882e5d91dd87472
+

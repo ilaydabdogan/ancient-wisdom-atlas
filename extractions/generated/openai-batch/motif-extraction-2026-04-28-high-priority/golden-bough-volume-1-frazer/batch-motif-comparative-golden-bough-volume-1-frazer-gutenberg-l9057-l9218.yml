@@ -1,0 +1,367 @@
+---
+record_id: batch.motif.comparative-golden-bough-volume-1-frazer-gutenberg-l9057-l9218
+source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+passage_locator:
+  label: CHAPTER II. THE PERILS OF THE SOUL. / HEINE. / CHAPTER III. KILLING THE GOD.
+    / FOOTNOTES; lines 9057-9218
+  start: '9057'
+  end: '9218'
+  translation: 'The Golden Bough: A Study in Comparative Religion (Vol. 1 of 2)'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is a set of footnotes citing sources for Frazer's discussion.
+    It includes references to the Arician sanctuary and the figure called the King
+    of the Wood, descriptions of him as armed and vigilant, Latin citations about
+    rule gained or held by force, notes on votive offerings depicting women with children
+    and childbirth, a possible Arician festival date in August, and references to
+    water associated with Egeria.
+  language: English with quoted Greek and Latin
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A footnote reports Strabo's description of a figure as always sword-bearing,
+    watching for attacks, and ready to defend himself.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage gives ancient source citations for the title 'King of the Wood'.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Quoted Latin excerpts associate the Arician grove or temple of Diana/Trivia
+    with kingship held by force, flight, or swords.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A note on votive offerings says that some represent women holding children,
+    and one represents a delivery.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A note says water at the site was diverted to supply Albano and then gives
+    references for Egeria.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: A note says it has been inferred, though not conclusively, that the Arician
+    festival fell on August 13.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: A quoted Statius passage describes a time of intense summer heat, with Sirius
+    burning the fields.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The passage refers to archaeological excavation of the site in 1885 and gives
+    sources for the finds.
+  category: setting
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: King of the Wood
+  description: A titled figure associated with the Arician wood, described through
+    cited sources as armed and watchful against attack.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Diana / Trivia
+  description: A deity named in Latin excerpts as connected with the Arician grove
+    or woodland temple.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Egeria
+  description: A named figure for whom the footnote gives comparative ancient references
+    in connection with the local water note.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Women with children and woman in delivery
+  description: Figures represented in votive offerings found at or connected with
+    the site.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: armed defender
+  assigned_to:
+  - fig:1
+  basis: Strabo's cited description has the figure bearing a sword, watching for attacks,
+    and ready to defend himself.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: woodland king or ritual ruler
+  assigned_to:
+  - fig:1
+  basis: The passage explicitly cites the title 'King of the Wood' and Latin excerpts
+    about rule or kingship in the Arician grove.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: deity of the Arician grove or woodland temple
+  assigned_to:
+  - fig:2
+  basis: The quoted lines name Trivia's Arician grove and Diana's woodland temple.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: named figure associated with local water references
+  assigned_to:
+  - fig:3
+  basis: The note mentions diverted water and then cites sources for Egeria.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: votive maternity or childbirth figures
+  assigned_to:
+  - fig:4
+  basis: The note says votive offerings include women with children in their arms
+    and a representation of delivery.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: sword
+  literal_form: Sword or swords, including the Greek description of the figure as
+    sword-bearing and Latin references to rule gained through swords.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: sacred grove or wood
+  literal_form: Arician grove, wood, or woodland temple of Diana/Trivia.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: water
+  literal_form: Water at the site, later diverted to supply Albano, mentioned in a
+    note that also references Egeria.
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: votive maternity images
+  literal_form: Votive offerings representing women with children and a delivery.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: summer heat and Sirius
+  literal_form: A cited Statius passage describing the hottest sky and Sirius burning
+    the fields.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Armed watch in the grove
+  summary: The footnotes present the King of the Wood as a sword-bearing figure who
+    watches for attack and is ready to defend himself.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Arician grove of Diana/Trivia
+  summary: Cited Latin lines place Diana or Trivia in an Arician grove or woodland
+    temple and connect the place with rule obtained or held through force.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Votive offerings at the site
+  summary: The notes describe finds that include votive representations of women with
+    children and childbirth.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: scene:4
+  label: Water and Egeria references
+  summary: The notes mention site water diverted to Albano and cite ancient sources
+    for Egeria.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Possible high-summer Arician festival
+  summary: The footnote reports an uncertain inference that the Arician festival fell
+    on August 13 and quotes a description of oppressive summer heat and Sirius.
+  figure_refs: []
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: armed ritual kingship in a sacred grove
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The passage links the title 'King of the Wood' with a sword-bearing, attack-watching
+    figure and with cited lines about rule held or obtained by force in Diana's Arician
+    grove.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage is only footnotes and excerpts; it does not narrate the full
+    rite or explicitly explain the institution.
+- id: motif:2
+  label: rule acquired through violent succession
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The Latin citations summarized in the note refer to kingdoms or rule held
+    by the strong and won through swords.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The wording is cited poetically and without the full surrounding argument
+    in this passage.
+- id: motif:3
+  label: maternity and childbirth votives at a sanctuary
+  taxonomy_refs: []
+  basis: The note records votive offerings depicting women with children and a delivery.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The footnote does not explicitly state the ritual purpose or recipient
+    of the votive offerings.
+- id: motif:4
+  label: sacred or mythically associated water
+  taxonomy_refs: []
+  basis: The note mentions local water at the site and immediately cites sources for
+    Egeria.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: The passage does not describe a mythic episode involving the water, and
+    Egeria's role is not explained here.
+- id: motif:5
+  label: seasonal festival in high summer
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage reports an uncertain inference that the Arician festival was
+    on August 13 and quotes a source describing intense heat and Sirius burning the
+    fields.
+  evidence_refs:
+  - ev:5
+  confidence: low
+  cautions: The footnote itself says the date inference is not conclusive.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 9069-9072, footnote 4
+  quote_or_summary: Strabo is cited as describing the figure as always sword-bearing,
+    watching for attacks, and ready to defend himself.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 9074-9094, footnote 5
+  quote_or_summary: The note cites sources for the title 'King of the Wood' and quotes
+    Latin lines about Trivia's Arician grove, Diana's woodland temple, and rule or
+    kingship held or gained through swords and force.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized with brief cited phrases omitted.
+- id: ev:3
+  type: summary
+  locator: lines 9096-9100, footnote 6
+  quote_or_summary: The note says some votive offerings represent women with children
+    in their arms and one represents a delivery.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 9115-9118, footnote 11
+  quote_or_summary: The note says the water was diverted to supply Albano and gives
+    ancient references for Egeria.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 9102-9111, footnote 7
+  quote_or_summary: The note says it has been inferred, not conclusively, that the
+    Arician festival fell on August 13; the cited Statius lines describe the hottest
+    sky and Sirius burning the fields.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 9059-9067, footnote 2
+  quote_or_summary: The site was excavated in 1885 by Sir John Savile Lumley, with
+    cited reports for the site, excavations, and finds.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: The passage is a footnote apparatus rather than a narrative passage. Extraction
+    is limited to motifs and symbols directly visible in the cited notes and excerpts.
+    No comparison claims were added because the passage lists many references but
+    does not itself state a substantive cross-cultural comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No taxonomy identifiers beyond the supplied lists were invented. Candidate motifs are conservative and based only on the provided passage.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:comparative-golden-bough-volume-1-frazer-gutenberg__l9057-l9218
+  passage_sha256=1c58756080ccc33c444243cfbaad23b3e20f05d0f2b7271244e8e2f0a6face78
+

@@ -1,0 +1,327 @@
+---
+record_id: batch.motif.comparative-golden-bough-volume-2-frazer-gutenberg-l13496-l13616
+source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+passage_locator:
+  label: CONTENTS / NOTE. OFFERINGS OF FIRST-FRUITS. / INDEX. / FOOTNOTES; lines 13496-13616
+  start: '13496'
+  end: '13616'
+  translation: 'The Golden Bough: A Study in Comparative Religion (Vol. 2 of 2)'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage consists of footnotes citing sources and briefly noting customs
+    involving cures by transference, possible sin-eating, food placed on a corpse,
+    expulsion of a devil from a sick house, riddles connected with dreams or a corpse
+    in the village, and Iroquois White Dog sacrifice or feast.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage cites collections of cures by transference in works by Strackerjan,
+    W. G. Black, and Grimm.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage reports a statement that bread and salt were placed on the breast
+    of a corpse, while warning that the authority did not speak from personal knowledge
+    and that the evidence should be treated cautiously.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage states that Dyaks drive the devil at the point of a sword from
+    a house where there is sickness.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage states that, in a cited Huron context, each man demanded the subject
+    of his dream in the form of a riddle for others to solve.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage states that in Bolang Mongondou riddles may be asked only when
+    there is a corpse in the village.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage cites accounts of Iroquois White Dog sacrifice or White Dog feast.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: corpse
+  description: A corpse associated with bread and salt placed on its breast and with
+    a village setting where riddles may be asked.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: devil
+  description: A devil driven from a house where there is sickness.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: White Dog
+  description: A White Dog associated with cited Iroquois sacrifice or feast accounts.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: dream claimant
+  description: A man who demands the subject of his dream in riddle form.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: deceased body in ritual or custom setting
+  assigned_to:
+  - fig:1
+  basis: Bread and salt are reported as being placed on a corpse, and riddles are
+    restricted to times when a corpse is in the village.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:2
+  label: expelled harmful being
+  assigned_to:
+  - fig:2
+  basis: The devil is said to be driven from a sick house at sword point.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: sacrificial or feast animal
+  assigned_to:
+  - fig:3
+  basis: The cited titles refer to Iroquois sacrifice of the White Dog and White Dog
+    feast.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: dream-subject requester
+  assigned_to:
+  - fig:4
+  basis: The man demands the subject of his dream as a riddle.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: bread and salt on corpse
+  literal_form: bread and salt placed upon the breast of a corpse
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: sword used in expulsion
+  literal_form: sword point used to drive a devil from a sick house
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: riddle as ritual speech
+  literal_form: riddle used to demand or identify the subject of a dream, and restricted
+    in one place to the presence of a corpse in the village
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: White Dog
+  literal_form: White Dog named in Iroquois sacrifice or feast citations
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Bread and salt placed on corpse
+  summary: A reported custom places bread and salt on the breast of a corpse; the
+    passage explicitly cautions that the evidence is indirect and uncertain.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Devil driven from sick house
+  summary: A devil is driven at sword point from a house where sickness is present.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Riddle observance linked to dreams and death setting
+  summary: One cited practice has men demand dream-subjects as riddles; another restricts
+    riddles to times when a corpse is in the village.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Iroquois White Dog sacrifice or feast cited
+  summary: The passage cites scholarly accounts of an Iroquois White Dog sacrifice
+    or White Dog feast without giving ritual details in this excerpt.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: cure by transference
+  taxonomy_refs: []
+  basis: The footnote identifies cited collections of cures by transference.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The excerpt gives only bibliographic references and does not describe
+    individual cure procedures.
+- id: motif:2
+  label: food placed on corpse as possible sin-eating survival
+  taxonomy_refs: []
+  basis: The passage reports bread and salt on a corpse and notes that this was interpreted
+    by the informant as a survival of sin-eating.
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: The author explicitly says the authority did not speak from personal knowledge
+    and that the evidence must be received with caution.
+- id: motif:3
+  label: exorcistic expulsion from a sick house
+  taxonomy_refs: []
+  basis: The passage states that Dyaks drive the devil at the point of the sword from
+    a house where there is sickness.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: Only one brief comparative note is given, with no ritual sequence or local
+    terminology.
+- id: motif:4
+  label: riddle observance connected with dreams, divination, or corpse presence
+  taxonomy_refs: []
+  basis: The passage describes dream-subject demands in riddle form and notes a restriction
+    on asking riddles when a corpse is in the village.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The claim that enigmas were originally a kind of divination is the author's
+    conjecture in a footnote, not a detailed primary report in this excerpt.
+- id: motif:5
+  label: White Dog sacrifice or feast
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage cites works titled or described as accounts of Iroquois sacrifice
+    of the White Dog and Iroquois White Dog feast.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The excerpt is citation-only and supplies no ritual details beyond the
+    name of the feast or sacrifice.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself treats riddle observances as comparable across the Huron
+    dream-riddle report, examples cited from other works, and the Bolang Mongondou
+    restriction on riddles when a corpse is present.
+  claim_level: same_function
+  target: riddle as superstitious or divinatory observance
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The comparison is made in a footnote and is supported here only by
+    brief references, not by detailed descriptions of each practice.
+- id: claim:2
+  claim: The note compares a Dyak practice of driving a devil from a sick house with
+    other sickness-related expulsion customs cited nearby.
+  claim_level: same_function
+  target: expulsion of harmful being or sickness from a house
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The excerpt gives only the Dyak example explicitly and refers to surrounding
+    cited material without reproducing full accounts.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 13496-13504
+  quote_or_summary: Footnotes cite Strackerjan, W. G. Black, and Grimm for collections
+    of cures by transference.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 13516-13529
+  quote_or_summary: A note reports Moggridge's statement about bread and salt on a
+    corpse as possible sin-eating, but cautions that he lacked personal knowledge
+    and that the evidence should be treated carefully.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 13556-13560
+  quote_or_summary: "“The Dyaks also drive the devil at the point of the sword from
+    a house where there is sickness.”"
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: summary
+  locator: lines 13570-13580
+  quote_or_summary: A note compares Huron dream-subject riddles, riddles as superstitious
+    observance or possible divination, and a Bolang Mongondou rule that riddles may
+    be asked only when there is a corpse in the village.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: citation
+  locator: lines 13591-13616
+  quote_or_summary: Footnotes cite several sources for Iroquois traditions, including
+    works on the “Iroquois sacrifice of the White Dog” and “Iroquois White Dog feast.”
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summarized citation.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: low
+  notes: The excerpt is mostly bibliographic footnotes with a few brief descriptions
+    of customs. Motif candidates are therefore preliminary and need checking against
+    the cited main text or primary sources.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No additional taxonomy IDs were assigned except sacrifice for the White Dog citation, because the excerpt does not provide enough detail to support broader taxonomy mapping.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:comparative-golden-bough-volume-2-frazer-gutenberg__l13496-l13616
+  passage_sha256=6b36bcacb9d8207eb5b48b2bd21f36550e5c1dec2bf985c3d7cb1723faec692f
+

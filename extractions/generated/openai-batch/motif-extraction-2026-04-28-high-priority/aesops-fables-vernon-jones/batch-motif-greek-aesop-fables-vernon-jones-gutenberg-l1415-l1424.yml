@@ -1,0 +1,194 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l1415-l1424
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE WOLF IN SHEEP'S CLOTHING / THE STAG IN THE OX-STALL / THE MILKMAID AND
+    HER PAIL / THE DOLPHINS, THE WHALES, AND THE SPRAT; lines 1415-1424
+  start: '1415'
+  end: '1424'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Dolphins and Whales quarrel and fight fiercely for some time. A Sprat attempts
+    to stop the battle and reconcile them, but a Dolphin rejects mediation by such
+    a small figure, preferring continued fighting even to death.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Dolphins quarrel with the Whales.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Dolphins and Whales begin fighting, and the battle is fierce and prolonged.
+  category: action
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: A Sprat steps in and tries to persuade the fighters to stop and make friends.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: One Dolphin answers the Sprat contemptuously.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Dolphin says they would rather continue fighting until all are killed
+    than be reconciled by a Sprat.
+  category: speech
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Dolphins
+  description: Animal group that quarrels and fights with the Whales; one Dolphin
+    speaks contemptuously to the Sprat.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Whales
+  description: Animal group that quarrels and fights with the Dolphins.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Sprat
+  description: Small fish who intervenes and tries to persuade the combatants to stop
+    fighting and make friends.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: combatants
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The Dolphins and Whales quarrel and then fight a fierce, prolonged battle.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: attempted mediator
+  assigned_to:
+  - fig:3
+  basis: The Sprat steps in and tries to persuade the fighters to stop and make friends.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: contemptuous rejecter of mediation
+  assigned_to:
+  - fig:1
+  basis: One Dolphin dismisses reconciliation by a Sprat and prefers continued fighting.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: small mediator
+  literal_form: Sprat
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+scenes:
+- id: scene:1
+  label: Prolonged battle between sea animals
+  summary: The Dolphins and Whales move from quarrel to fierce fighting that lasts
+    without sign of ending.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Rejected mediation by the Sprat
+  summary: A Sprat intervenes to stop the fighting and promote friendship, but a Dolphin
+    rejects the attempt contemptuously.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: low-status mediator rejected by powerful combatants
+  taxonomy_refs: []
+  basis: The Sprat attempts to reconcile the fighting Dolphins and Whales, but a Dolphin
+    rejects mediation specifically because it comes from a Sprat.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage does not provide an explicit moral beyond the narrated rejection.
+- id: motif:2
+  label: destructive pride in conflict
+  taxonomy_refs: []
+  basis: The Dolphin says the fighters would rather continue until all are killed
+    than accept reconciliation by the Sprat.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The label interprets the Dolphin’s contemptuous speech as pride; the passage
+    itself states contempt and refusal.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 1415-1418
+  quote_or_summary: "“The Dolphins quarrelled with the Whales” and soon began fighting."
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source text.
+- id: ev:2
+  type: summary
+  locator: lines 1418-1422
+  quote_or_summary: The battle is fierce and prolonged; a Sprat steps in and tries
+    to persuade them to stop fighting and make friends.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source text.
+- id: ev:3
+  type: quote
+  locator: lines 1422-1424
+  quote_or_summary: A Dolphin says they would rather keep fighting until all are killed
+    than “be reconciled by a Sprat like you.”
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source text.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based only on the supplied passage. Motif labels are plain
+    descriptive patterns without taxonomy mapping.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not support a specific cross-textual or historical comparison.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l1415-l1424
+  passage_sha256=fb869c4e7e7534280625531df184170890d9be4801f94366895cc4c6774f032f
+

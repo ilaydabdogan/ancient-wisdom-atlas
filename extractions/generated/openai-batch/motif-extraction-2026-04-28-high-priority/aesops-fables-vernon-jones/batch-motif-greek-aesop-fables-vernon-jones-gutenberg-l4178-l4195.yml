@@ -1,0 +1,300 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l4178-l4195
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE FARMER, HIS BOY, AND THE ROOKS / THE ASS AND THE DOG / THE ASS CARRYING
+    THE IMAGE / THE ATHENIAN AND THE THEBAN; lines 4178-4195
+  start: '4178'
+  end: '4195'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: An Athenian and a Theban travel together and debate the merits of their
+    respective civic heroes. The Theban praises Hercules as the greatest hero and
+    now honored among the gods, while the Athenian argues Theseus is superior because
+    his fortune was blessed and Hercules had once been a servant. The Athenian wins
+    the argument through glib speech, and the Theban replies that if the heroes become
+    angry, he hopes Athens suffers from Hercules’ anger and Thebes only from Theseus’.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: An Athenian and a Theban are traveling together on the road and passing the
+    time in conversation.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:2
+  text: Their conversation turns to heroes after they discuss various subjects.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:3
+  text: Each traveler praises the heroes of his own city.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The Theban asserts that Hercules was the greatest hero to have lived on earth
+    and now holds a foremost place among the gods.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The Athenian insists that Theseus was superior, arguing that Theseus’ fortune
+    was blessed while Hercules had once been forced to act as a servant.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The Athenian gains the point because he is described as glib, while the Theban
+    is no match for him in talking.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The Theban ends the exchange by wishing that, if the heroes become angry,
+    Athens may suffer Hercules’ anger and Thebes only Theseus’ anger.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Athenian
+  description: A traveler from Athens who argues for the superiority of Theseus and
+    is described as glib.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Theban
+  description: A traveler from Thebes who argues for the greatness of Hercules and
+    concludes with a retort about the heroes’ anger.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:7
+- id: fig:3
+  name_or_label: Hercules
+  description: The hero praised by the Theban as the greatest hero on earth and now
+    foremost among the gods; also said by the Athenian to have once acted as a servant.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+- id: fig:4
+  name_or_label: Theseus
+  description: The hero praised by the Athenian as superior to Hercules because his
+    fortune was blessed.
+  role_refs:
+  - role:2
+  - role:6
+  evidence_refs:
+  - ev:5
+  - ev:7
+roles:
+- id: role:1
+  label: traveling conversationalist
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The two named civic figures are on the road together and converse as travelers.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: praised civic hero
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The travelers praise heroes associated with their own cities and debate Hercules
+    and Theseus.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:3
+  label: glib debater
+  assigned_to:
+  - fig:1
+  basis: The Athenian wins the argument and is explicitly called glib.
+  evidence_refs:
+  - ev:6
+- id: role:4
+  label: outmatched debater
+  assigned_to:
+  - fig:2
+  basis: The Theban is described as no match for the Athenian in talking.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: hero whose anger is wished upon Athens
+  assigned_to:
+  - fig:3
+  basis: The Theban hopes Athens may suffer from the anger of Hercules if the heroes
+    are angry.
+  evidence_refs:
+  - ev:7
+- id: role:6
+  label: hero whose anger is wished upon Thebes
+  assigned_to:
+  - fig:4
+  basis: The Theban hopes Thebes may suffer only from the anger of Theseus if the
+    heroes are angry.
+  evidence_refs:
+  - ev:7
+symbols: []
+scenes:
+- id: scene:1
+  label: Travelers converse on the road
+  summary: An Athenian and a Theban travel together and talk as they go.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Debate over civic heroes
+  summary: The travelers compare the heroes of their own cities, with the Theban praising
+    Hercules and the Athenian praising Theseus.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Theban’s retaliatory wish
+  summary: After losing the argument to the Athenian’s glib speech, the Theban responds
+    by wishing Athens may face Hercules’ anger and Thebes only Theseus’ anger.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Rival praise of local heroes
+  taxonomy_refs: []
+  basis: Two travelers from different cities each praise a hero associated with his
+    own city and dispute which hero is greater.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is a passage-level descriptive motif label, not a supplied taxonomy
+    reference.
+- id: motif:2
+  label: Glib speech wins an argument but invites ironic reversal
+  taxonomy_refs:
+  - wisdom
+  basis: The Athenian wins the verbal contest through glibness, but the Theban’s final
+    wish reframes the victory by making the superior hero’s anger more dangerous to
+    Athens.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The link to the broad taxonomy family “wisdom” is interpretive because
+    the passage presents a fable-like verbal lesson but does not state an explicit
+    moral.
+- id: motif:3
+  label: Heroic anger as civic danger
+  taxonomy_refs: []
+  basis: The Theban imagines the heroes becoming angry and assigns the more dangerous
+    anger of Hercules to Athens and the lesser anger of Theseus to Thebes.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The heroes’ anger is hypothetical within the Theban’s retort, not an event
+    that occurs in the narrative.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: citation
+  locator: '4178'
+  quote_or_summary: 'Title: “THE ATHENIAN AND THE THEBAN.”'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source metadata; short title cited.
+- id: ev:2
+  type: summary
+  locator: 4179-4181
+  quote_or_summary: An Athenian and a Theban are on the road together and converse
+    as travelers.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:3
+  type: summary
+  locator: 4181-4184
+  quote_or_summary: After discussing various subjects, they begin talking about heroes,
+    and each praises heroes of his own city.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:4
+  type: summary
+  locator: 4184-4186
+  quote_or_summary: The Theban says Hercules was the greatest earthly hero and now
+    holds a foremost place among the gods.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:5
+  type: summary
+  locator: 4186-4189
+  quote_or_summary: The Athenian says Theseus was superior because his fortune was
+    blessed, while Hercules had once been forced to serve.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:6
+  type: summary
+  locator: 4189-4191
+  quote_or_summary: The Athenian gains the point because he is glib, and the Theban
+    is no match for him in talking.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:7
+  type: quote
+  locator: 4191-4195
+  quote_or_summary: The Theban says he hopes that when the heroes are angry, Athens
+    may suffer Hercules’ anger and Thebes only Theseus’.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source metadata; brief summary of quoted speech.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is limited to the supplied passage. Motif labels are descriptive
+    and require human review, especially the broad “wisdom” taxonomy link.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No external comparison claims were added because the passage itself does not support a specific cross-text or cross-tradition comparison beyond its internal contrast of Hercules and Theseus.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l4178-l4195
+  passage_sha256=06aeb9cbfa12c3677c001451764ee6737bb50078254bddc6888a783c07fd7143
+

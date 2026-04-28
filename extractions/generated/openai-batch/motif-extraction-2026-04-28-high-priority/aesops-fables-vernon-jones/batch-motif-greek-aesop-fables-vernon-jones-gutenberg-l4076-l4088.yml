@@ -1,0 +1,240 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l4076-l4088
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE ASS AND HIS MASTERS / THE PACK-ASS, THE WILD ASS, AND THE LION / THE
+    ANT / THE FROGS AND THE WELL; lines 4076-4088
+  start: '4076'
+  end: '4088'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: Think twice before you act.
+  summary: Two frogs leave a dried marsh during a hot summer and consider settling
+    in a deep well. One frog wants to jump in, but the other warns that if the well
+    dries up too, they may be unable to get out. The fable closes with a moral urging
+    deliberation before action.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Two frogs live together in a marsh.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A hot summer causes the marsh to dry up.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The frogs leave the dried marsh to look for another place to live.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The frogs come to a deep well.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: One frog proposes jumping into the well and settling there.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The other frog is described as wiser and warns against entering too quickly.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The cautious frog asks how they would get out if the well dried up like the
+    marsh.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The closing moral tells the audience to think twice before acting.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Two Frogs
+  description: A pair of frogs who live together in a marsh and leave when it dries
+    up.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Proposing frog
+  description: One of the frogs who looks into the well and suggests jumping in to
+    settle there.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Cautious frog
+  description: The other frog, described as having a wiser head, who advises against
+    jumping in too quickly.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: Displaced inhabitants
+  assigned_to:
+  - fig:1
+  basis: The frogs’ marsh dries up, and they leave to seek another place to live.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: Impulsive proposer
+  assigned_to:
+  - fig:2
+  basis: This frog suggests jumping into the well and settling there after seeing
+    it.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: Prudent adviser
+  assigned_to:
+  - fig:3
+  basis: This frog is described as wiser and cautions that they may be trapped if
+    the well later dries up.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: Damp dwelling place
+  literal_form: marsh; deep well; damp places
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: Deep well
+  literal_form: deep well
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+scenes:
+- id: scene:1
+  label: Departure from the dried marsh
+  summary: During a hot summer, the marsh where the two frogs live dries up, so they
+    leave to find another place to live.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Decision at the deep well
+  summary: The frogs arrive at a deep well. One frog wants to jump in and settle there,
+    while the wiser frog warns that they might be unable to escape if the well also
+    dries up.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Moral conclusion
+  summary: The fable states the moral that one should think twice before acting.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Prudence before irreversible action
+  taxonomy_refs:
+  - wisdom
+  basis: The wiser frog advises against jumping into the well without considering
+    whether they could escape if it dried up, and the explicit moral urges thinking
+    twice before acting.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage is a brief animal fable; the taxonomy reference is limited
+    to the explicit prudential teaching rather than a larger mythic wisdom cycle.
+- id: motif:2
+  label: Seeking new habitation after environmental loss
+  taxonomy_refs: []
+  basis: The frogs leave their dried marsh during a hot summer to look for another
+    place to live.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: This is a narrative situation rather than an explicit named motif in the
+    supplied taxonomy.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4076-4080
+  quote_or_summary: Two frogs live together in a marsh; in a hot summer the marsh
+    dries up, so they leave to find another place to live because frogs prefer damp
+    places.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: quote
+  locator: lines 4080-4083
+  quote_or_summary: They came to a deep well, and one frog said it looked like a nice
+    cool place and suggested, “let us jump in and settle here.”
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 4083-4087
+  quote_or_summary: The other frog, described as wiser, says not to go so fast and
+    asks how they would get out if the well dried up like the marsh.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:4
+  type: quote
+  locator: line 4088
+  quote_or_summary: "“Think twice before you act.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal narrative and moral are explicit. Motif assignment to wisdom
+    is supported by the moral, while broader motif classification remains limited
+    because the passage is concise.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly compare this fable to another tradition, text, or motif family beyond its own moral pattern.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l4076-l4088
+  passage_sha256=ee79e6538396797319cafcc04e979595e001a29ad0f756f7f2e5abf849f5e109
+

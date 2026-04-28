@@ -1,0 +1,296 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l4212-l4227
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE ASS CARRYING THE IMAGE / THE ATHENIAN AND THE THEBAN / THE GOATHERD AND
+    THE GOAT / THE SHEEP AND THE DOG; lines 4212-4227
+  start: '4212'
+  end: '4227'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The Sheep complain that the shepherd gives special food to the Dog though
+    the Sheep provide wool, lambs, and milk. The Dog replies that he protects them
+    from thieves and wolves by keeping watch. The Sheep accept that his honored treatment
+    is justified.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Sheep complain to the shepherd about unequal treatment between themselves
+    and the Dog.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Sheep state that they provide wool, lambs, and milk, while they receive
+    only grass that they must find themselves.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Sheep state that the Dog provides nothing, yet receives food from the
+    shepherd's own table.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The Dog overhears the complaint and answers that the Sheep would be stolen
+    by thieves or eaten by wolves without him.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The Dog says he keeps constant watch over the Sheep.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The Sheep acknowledge that the Dog spoke the truth and stop complaining about
+    his favored regard by the master.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: The Sheep
+  description: A group of sheep who complain about the shepherd's treatment and later
+    accept the Dog's explanation.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: fig:2
+  name_or_label: The shepherd / master
+  description: The keeper of the Sheep and Dog; described as receiving products from
+    the Sheep and feeding the Dog from his table.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:6
+- id: fig:3
+  name_or_label: The Dog
+  description: The shepherd's Dog, fed with table scraps, who states that he protects
+    the Sheep by keeping watch.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: Thieves and wolves
+  description: Threats named by the Dog as dangers to the Sheep if he did not guard
+    them.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: complainants
+  assigned_to:
+  - fig:1
+  basis: The Sheep voice a grievance about the shepherd's unequal treatment.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: providers of goods
+  assigned_to:
+  - fig:1
+  basis: The Sheep say they provide wool, lambs, and milk.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: owner or keeper
+  assigned_to:
+  - fig:2
+  basis: The shepherd is addressed by the Sheep and is called the Dog's master at
+    the end.
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: role:4
+  label: guardian
+  assigned_to:
+  - fig:3
+  basis: The Dog says he keeps watch and prevents thieves and wolves from harming
+    the Sheep.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:5
+  label: threats to the flock
+  assigned_to:
+  - fig:4
+  basis: The Dog names thieves and wolves as dangers from which the Sheep are protected.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: milk
+  literal_form: milk provided by the Sheep
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - milk
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: wool, lambs, and milk
+  literal_form: goods the Sheep say they provide to the shepherd
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - milk
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: table food
+  literal_form: tit-bits from the shepherd's own table given to the Dog
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: constant watch
+  literal_form: the Dog's ongoing watch over the Sheep
+  associated_figures:
+  - fig:3
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Complaint about unequal reward
+  summary: The Sheep tell the shepherd that they provide useful goods but receive
+    only grass, while the Dog is fed table food despite, in their view, providing
+    nothing.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Guardian's defense and acceptance
+  summary: The Dog answers that his watch protects the Sheep from thieves and wolves;
+    the Sheep accept the truth of this and cease their grievance.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: unrecognized protective service
+  taxonomy_refs: []
+  basis: The Sheep resent the Dog's favored treatment until he explains that his unseen
+    work protects them from theft and predation.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: This is a passage-level fable pattern label, not a supplied taxonomy motif
+    family.
+- id: motif:2
+  label: complaint about unequal reward corrected by hidden usefulness
+  taxonomy_refs:
+  - wisdom
+  basis: The Sheep's complaint is resolved when they learn or acknowledge the practical
+    reason for the Dog's reward.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:6
+  confidence: medium
+  cautions: The link to the broad 'wisdom' family is interpretive and should be reviewed.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4212-4215
+  quote_or_summary: The Sheep complain to the shepherd about the difference between
+    his treatment of them and his Dog.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary used.
+- id: ev:2
+  type: quote
+  locator: lines 4215-4218
+  quote_or_summary: "“We provide you with wool and lambs and milk and you give us
+    nothing but grass...”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: summary
+  locator: lines 4218-4220
+  quote_or_summary: The Sheep say the shepherd gets nothing from the Dog, yet feeds
+    him with tit-bits from his own table.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary used.
+- id: ev:4
+  type: quote
+  locator: lines 4220-4223
+  quote_or_summary: "“Thieves would steal you! Wolves would eat you!”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:5
+  type: summary
+  locator: lines 4223-4225
+  quote_or_summary: The Dog says the Sheep would be afraid even to graze if he did
+    not keep constant watch over them.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary used.
+- id: ev:6
+  type: summary
+  locator: lines 4225-4227
+  quote_or_summary: The Sheep acknowledge the Dog's statement as true and no longer
+    object to the regard shown him by his master.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif labels are inferred from the
+    fable's narrative pattern and require human review; no passage-supported cross-text
+    comparison is made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  The supplied locator label names multiple fables, but the provided passage text contains only 'THE SHEEP AND THE DOG'; extraction is limited to the supplied passage text.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l4212-l4227
+  passage_sha256=6c6f3cc5561ee5a1a10b64ac08e6fb809297ebb63bf1fbabafbe9038803d0add
+

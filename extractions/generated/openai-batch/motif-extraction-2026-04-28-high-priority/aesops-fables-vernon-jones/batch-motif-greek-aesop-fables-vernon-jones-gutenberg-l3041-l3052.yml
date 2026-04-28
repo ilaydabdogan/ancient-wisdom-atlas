@@ -1,0 +1,235 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l3041-l3052
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE EAGLE, THE CAT, AND THE WILD SOW / THE WOLF AND THE SHEEP / THE TUNNY-FISH
+    AND THE DOLPHIN / THE THREE TRADESMEN; lines 3041-3052
+  start: '3041'
+  end: '3052'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: Every man for himself.
+  summary: Citizens debate what material should be used for new town fortifications.
+    A carpenter recommends wood, a stone-mason recommends stone because wood burns,
+    and a tanner recommends leather. The stated moral is that every person acts for
+    himself.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Citizens of a city debate the best material for fortifications intended to
+    increase the town’s security.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A carpenter advises using wood, saying it is readily obtainable and easy to
+    work.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A stone-mason objects to wood because it is inflammable and recommends stones
+    instead.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A tanner says there is nothing like leather.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The fable closes with the moral, “Every man for himself.”
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: citizens of a certain city
+  description: A civic group debating the material for fortifications.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Carpenter
+  description: A tradesman who recommends wood for the fortifications.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Stone-mason
+  description: A tradesman who rejects wood as inflammable and recommends stones.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Tanner
+  description: A tradesman who recommends leather.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: deliberating civic group
+  assigned_to:
+  - fig:1
+  basis: The citizens debate what material should be used in the town’s fortifications.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: self-interested tradesman-adviser
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:4
+  basis: Each tradesman recommends a material associated with his own trade or expertise,
+    and the moral states, “Every man for himself.”
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: town fortifications
+  literal_form: fortifications to be erected for the security of the town
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: wood
+  literal_form: wood proposed by the carpenter
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: stones
+  literal_form: stones proposed by the stone-mason
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: leather
+  literal_form: leather proposed by the tanner
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: debate over fortification materials
+  summary: 'The city’s citizens consider materials for defensive fortifications, and
+    three tradesmen each recommend a different material: wood, stones, and leather.'
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: self-interested counsel
+  taxonomy_refs:
+  - wisdom
+  basis: The tradesmen’s recommendations align with their own trades, and the explicit
+    moral states that each person acts for himself.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The available taxonomy has only a broad “wisdom” category; the passage
+    supports a didactic fable motif more specifically than the supplied taxonomy can
+    represent.
+- id: motif:2
+  label: professional bias in public advice
+  taxonomy_refs: []
+  basis: In a civic debate, the carpenter, stone-mason, and tanner each propose the
+    material most connected with his own profession.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is a plain narrative pattern from the passage, not a cross-textual
+    classification.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3041-3045
+  quote_or_summary: Citizens of a city debate the best material for new fortifications
+    meant to improve town security.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 3045-3047
+  quote_or_summary: A carpenter recommends wood, describing it as readily procurable
+    and easily worked.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 3047-3049
+  quote_or_summary: A stone-mason objects that wood is inflammable and recommends
+    stones instead.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 3049-3051
+  quote_or_summary: "“In my opinion there's nothing like leather.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation.
+- id: ev:5
+  type: quote
+  locator: line 3052
+  quote_or_summary: "“Every man for himself.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labeling is limited by the broad
+    supplied taxonomy and should be reviewed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the supplied passage itself does not identify a specific external comparator or tradition.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l3041-l3052
+  passage_sha256=af2c6114ff6ef280d258521d9caa36f618c3b74082bca7e131277f3830c915de
+

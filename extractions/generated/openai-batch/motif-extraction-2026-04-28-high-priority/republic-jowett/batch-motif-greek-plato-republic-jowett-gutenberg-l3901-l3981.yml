@@ -1,0 +1,494 @@
+---
+record_id: batch.motif.greek-plato-republic-jowett-gutenberg-l3901-l3981
+source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+passage_locator:
+  label: The Republic / THE REPUBLIC / INTRODUCTION AND ANALYSIS.; lines 3901-3981
+  start: '3901'
+  end: '3981'
+  translation: The Republic
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Socrates and Glaucon discuss the place of solid geometry, astronomy, harmonics,
+    mathematics, and dialectic in education. Socrates distinguishes bodily seeing
+    and empirical hearing from intellectual apprehension, says the sciences are only
+    a prelude, and describes dialectic as withdrawing from sense toward the idea of
+    good, using the image of a royal road out of the cave into light and the elevation
+    of the soul.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Astronomy is proposed as a branch of education, and Glaucon initially defends
+    it by practical uses in husbandry, navigation, and military tactics.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Education is described as more than useful information; it is called a purification
+    of the eye of the soul, through which truth is seen.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The sequence of mathematical studies is corrected to include plane geometry,
+    geometry of solids, and then astronomy understood as solids in motion.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Socrates rejects ordinary star-gazing as scientific astronomy and says knowledge
+    is seen with the mind rather than with the eyes.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The visible heavens are described as an embroidered copy that falls short
+    of a divine Original and is affected by material imperfection.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Harmonics is described as a sister science to astronomy, adapted to the ear
+    as astronomy is to the eye.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Musicians and Pythagorean harmonists are criticized for relying on heard consonances
+    rather than pursuing unheard numerical harmony through problems.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The mathematical sciences are called a prelude, while dialectic is described
+    as true reasoning and as the music of the intellectual world.
+  category: attribute
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: Dialectic is said to withdraw from sense and arrive by pure intellect at contemplation
+    of the idea of good.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: The progress of education is imaged as a royal road out of the cave into light,
+    involving blinking at the sun, contemplating shadows of reality, and acquiring
+    a new faculty of sight.
+  category: sequence
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Socrates
+  description: Primary speaker who directs the discussion of education, mathematics,
+    astronomy, harmonics, and dialectic.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:7
+  - ev:8
+  - ev:9
+- id: fig:2
+  name_or_label: Glaucon
+  description: Interlocutor who replies to Socrates and offers or receives points
+    in the discussion.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:7
+- id: fig:3
+  name_or_label: Pythagoreans
+  description: Group referenced as authorities on mathematical applications and harmonical
+    motion.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: Musicians and empirics
+  description: Practitioners described as placing their ears in the place of their
+    minds and as manipulating lyre strings while disputing notes and tempering.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: Daedalus or another great artist
+  description: An artist named in an analogy for beautiful figures used for illustration
+    but not for exact mathematical truth.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: philosophical instructor
+  assigned_to:
+  - fig:1
+  basis: Socrates orders the curriculum and explains the intellectual aim of the sciences.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:7
+  - ev:8
+- id: role:2
+  label: critic of sense-based inquiry
+  assigned_to:
+  - fig:1
+  basis: Socrates rejects ordinary star-gazing and empirical harmonics as substitutes
+    for intellectual understanding.
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: role:3
+  label: responding interlocutor
+  assigned_to:
+  - fig:2
+  basis: Glaucon answers Socrates, asks clarifying questions, and comments on the
+    proposed studies.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:7
+- id: role:4
+  label: mathematical-harmonic practitioners
+  assigned_to:
+  - fig:3
+  basis: The Pythagoreans are consulted about mathematical applications and are described
+    as investigating heard consonances.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:5
+  label: empirical listeners and string-manipulators
+  assigned_to:
+  - fig:4
+  basis: The musicians and empirics are depicted as judging notes by ear and twisting
+    or torturing lyre strings.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: artist used for analogy
+  assigned_to:
+  - fig:5
+  basis: Daedalus is invoked as an example of a great artist whose drawn figures may
+    illustrate but not provide mathematical truth.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: eye of the soul
+  literal_form: An inner eye contrasted with the bodily eye and associated with seeing
+    truth.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: heavens as copy
+  literal_form: The magnificence of the heavens described as embroidery of a copy
+    short of the divine Original.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: divine Original
+  literal_form: An original model contrasted with the visible heavens as an imperfect
+    copy.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: lyre strings
+  literal_form: Strings twisted and tortured by empirics in disputes over musical
+    tempering.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: prelude and hymn of dialectic
+  literal_form: Mathematical sciences called a prelude; dialectic called a hymn or
+    music of the intellectual world.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: cave
+  literal_form: A cave from which there is a royal road into light.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:9
+- id: sym:7
+  label: light and sun
+  literal_form: Light outside the cave and the sun at which the eyes blink.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:8
+  label: shadows
+  literal_form: Shadows on the wall and shadows of reality used in the description
+    of progressive sight.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: sym:9
+  label: elevation of the soul
+  literal_form: The soul’s elevation to contemplation of the highest ideal of being.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Ordering the mathematical curriculum
+  summary: Socrates and Glaucon discuss education, usefulness, the purification of
+    the soul’s eye, and the order of geometry and astronomy.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Critique of visible astronomy
+  summary: Socrates distinguishes mind-based knowledge from ordinary star-gazing and
+    treats the visible heavens as an imperfect copy rather than a source of exact
+    truth.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Critique of empirical harmonics
+  summary: Astronomy and harmonics are paired as sciences of eye and ear, while musicians
+    and Pythagorean harmonists are criticized for not reaching unheard numerical harmony.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Dialectic beyond the prelude
+  summary: The sciences are called a prelude, while dialectic is presented as reasoning
+    that withdraws from sense and reaches the idea of good.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:5
+  - sym:8
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: scene:5
+  label: Royal road out of the cave
+  summary: The progress of education is described through imagery of leaving the cave
+    for light, blinking at the sun, turning to shadows of reality, and elevating the
+    soul toward the highest being.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:6
+  - sym:7
+  - sym:8
+  - sym:9
+  evidence_refs:
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: Intellectual ascent from sense to good
+  taxonomy_refs:
+  - ascent
+  - wisdom
+  basis: The passage repeatedly contrasts sense perception with mind and culminates
+    in the soul’s elevation to contemplation of the highest ideal of being.
+  evidence_refs:
+  - ev:3
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: This is a philosophical educational image rather than a narrative mythic
+    ascent by a named hero.
+- id: motif:2
+  label: Cave-to-light transformation of sight
+  taxonomy_refs:
+  - ascent
+  basis: The passage invokes a royal road out of the cave into light, blinking at
+    the sun, and acquiring a new faculty of sight.
+  evidence_refs:
+  - ev:9
+  confidence: high
+  cautions: The cave image is an analytical reference to an allegorical pattern rather
+    than a full retelling in this passage.
+- id: motif:3
+  label: Duality of sense and intellect
+  taxonomy_refs:
+  - duality
+  - wisdom
+  basis: The passage opposes bodily eye and soul’s eye, visible heavens and divine
+    Original, empirical hearing and unheard numerical harmony, and sense and pure
+    intellect.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+  - ev:8
+  confidence: high
+  cautions: The motif is conceptual and philosophical, not personified as a mythic
+    pair.
+- id: motif:4
+  label: Imperfect visible copy and higher original
+  taxonomy_refs:
+  - wisdom
+  basis: The visible heavens are described as a copy falling short of the divine Original,
+    and true understanding is placed in intellectual problems rather than sensory
+    appearance.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: No available taxonomy reference exactly names a copy-original motif; mapped
+    broadly to wisdom only.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself supports a cautious identification with an ascent-pattern
+    in which education moves the soul from sensory appearances toward a higher intellectual
+    object.
+  claim_level: same_motif
+  target: ascent motif family
+  evidence_refs:
+  - ev:8
+  - ev:9
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The ascent is metaphorical and philosophical; the passage does not
+    narrate a physical journey or mythic hero ascent.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 3901-3912
+  quote_or_summary: Astronomy is proposed; Glaucon names practical uses; Socrates
+    says education is not merely useful information but a purification of the eye
+    of the soul by which truth is seen.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 3913-3926
+  quote_or_summary: 'Socrates corrects the order of studies: planes, solids, then
+    solids in motion; solid geometry lacks state support but may progress with assistance.'
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: 3927-3938
+  quote_or_summary: "“The vision of knowledge of which I speak is seen not with the
+    eyes, but with the mind.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: summary
+  locator: 3938-3951
+  quote_or_summary: The heavens are described as the embroidery of a copy below the
+    divine Original; their visible beauty can illustrate but cannot yield exact equality
+    or numerical relations because matter disturbs symmetry.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 3952-3960
+  quote_or_summary: 'The passage introduces harmonical motion as a sister science:
+    adapted to the ear as astronomy is to the eye, with possible further mathematical
+    applications.'
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 3960-3970
+  quote_or_summary: Musicians put ears in place of minds; empirics dispute notes and
+    manipulate lyre strings; Pythagorean harmonists investigate heard consonances
+    but not unheard numerical harmony found in problems.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 3971-3976
+  quote_or_summary: The sciences are called the prelude, and Socrates distinguishes
+    a mere mathematician from a dialectician, calling true reasoning the hymn of dialectic
+    and music of the intellectual world.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: 3976-3979
+  quote_or_summary: Dialectic is compared with the effort of sight moving from shadows
+    to the images that gave the shadows, and is said to withdraw from sense toward
+    contemplation of the idea of good.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: quote
+  locator: 3979-3981
+  quote_or_summary: "“the royal road out of the cave into the light” and “the elevation
+    of the soul to the contemplation of the highest ideal of being.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is explicit about its educational and allegorical imagery. Motif
+    classification is moderately confident because the material is philosophical exposition
+    rather than a full mythic narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used. No external traditions or unsupported taxonomy IDs were added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-plato-republic-jowett-gutenberg__l3901-l3981
+  passage_sha256=009ffa821ae0f31e6f4d831df5aefc5e63d35ed4039f7ecc53a5cb32d865c80b
+

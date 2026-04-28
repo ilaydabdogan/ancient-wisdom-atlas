@@ -1,0 +1,456 @@
+---
+record_id: batch.motif.comparative-golden-bough-volume-1-frazer-gutenberg-l12267-l12411
+source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+passage_locator:
+  label: CHAPTER II. THE PERILS OF THE SOUL. / HEINE. / CHAPTER III. KILLING THE GOD.
+    / FOOTNOTES; lines 12267-12411
+  start: '12267'
+  end: '12411'
+  translation: 'The Golden Bough: A Study in Comparative Religion (Vol. 1 of 2)'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'A sequence of scholarly footnotes cites ancient and modern sources on
+    Dionysus and related rites: a mangled body pieced together by Apollo or Rhea;
+    Dionysian festivals held biennially or annually; animal embodiments and ritual
+    treatment of goats, fawns, and skins in Dionysian worship; divine titles connected
+    with eating or killing animals; and a note on Mediterranean harvest timing.'
+  language: English with Greek terms and classical citations
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: One note reports a variant in which a mangled body was pieced together by
+    Rhea rather than Apollo.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The festivals of Dionysus are described as biennial in many places, with some
+    Dionysian festivals also described as annual.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A title or gloss connects Dionysus with a young goat or kid appearing in spring.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage says fawns appear to have been torn in pieces at Dionysian rites,
+    while cautioning that direct evidence for the fawn as an embodiment of the god
+    is lacking.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Fawn-skins are said to have been worn by both the god and his worshippers.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Female Bacchanals are said to have worn goat-skins.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Several divine titles are listed as derived from eating animals, including
+    titles of Hera, Apollo, and Artemis.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Several divine titles are listed as derived from killing animals, including
+    titles of Dionysus, Rhea or Hecate, and Apollo.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: A final note states that harvest on Mediterranean coasts never falls as late
+    as autumn.
+  category: setting
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Dionysus
+  description: A deity whose festivals, animal associations, rites, worshippers, and
+    animal-killing title are discussed in the notes.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Apollo
+  description: Named as a figure who pieced together the mangled body in one version
+    and as a deity with animal-eating or animal-killing titles.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: fig:3
+  name_or_label: Rhea
+  description: Named as a figure who, in another version, pieced together the mangled
+    body; also named with Hecate in an animal-killing title.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: fig:4
+  name_or_label: female Bacchanals
+  description: Female Dionysian worshippers described as wearing goat-skins.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Hera
+  description: Named with a title connected with eating goats at Sparta.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: Artemis
+  description: Named with a title connected with eating boars in Samos.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:7
+  name_or_label: Hecate
+  description: Named with Rhea in a title connected with dog-killing.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: festival deity
+  assigned_to:
+  - fig:1
+  basis: The notes discuss biennial and annual festivals of Dionysus.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: animal-associated deity
+  assigned_to:
+  - fig:1
+  basis: The notes connect Dionysus with a young goat or kid, possible fawn embodiment,
+    fawn-skins, and goat rites.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:3
+  label: deity with animal-killing title
+  assigned_to:
+  - fig:1
+  basis: Dionysus is listed with the title αἱγόβολος in a note about divine titles
+    derived from killing animals.
+  evidence_refs:
+  - ev:6
+- id: role:4
+  label: restorer of mangled body
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The passage states that the mangled body was pieced together not by Apollo
+    but by Rhea in another version.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: deity bearing animal-eating or animal-killing title
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:5
+  - fig:6
+  - fig:7
+  basis: The passage lists divine titles connected with eating or killing animals
+    for these deities.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: ritual animal-skin wearer
+  assigned_to:
+  - fig:4
+  basis: Female Bacchanals are said to have worn goat-skins.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: mangled body pieced together
+  literal_form: mangled body restored by being pieced together
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: young goat or kid
+  literal_form: small goat or kid appearing in spring
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: fawn torn in rites
+  literal_form: fawn torn in pieces at Dionysian rites
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: fawn-skin
+  literal_form: skin of a fawn worn by the god and worshippers
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: goat-skin
+  literal_form: goat-skin worn by female Bacchanals
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: animal-eating and animal-killing divine epithets
+  literal_form: divine titles derived from eating or killing animals
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: festival periodicity
+  literal_form: biennial and annual Dionysian festivals
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Piecing together a mangled body
+  summary: A variant tradition is noted in which a mangled body is pieced together
+    by Rhea rather than Apollo.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Dionysian festival cycle
+  summary: Dionysian festivals are described as biennial in many places, with some
+    also annual; Frazer suggests some may formerly have been annual before the interval
+    lengthened.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Dionysian animal-skin and tearing rites
+  summary: The notes associate Dionysian worship with a young goat or kid, tearing
+    fawns in pieces, wearing fawn-skins, and female Bacchanals wearing goat-skins.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Divine titles from animal consumption or killing
+  summary: The notes list deities whose titles are interpreted as deriving from eating
+    or killing animals.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Mangled body restored by divine agency
+  taxonomy_refs:
+  - death_rebirth
+  basis: A note reports that a mangled body was pieced together by Apollo or, in another
+    version, by Rhea.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The footnote does not by itself state full resurrection or return to life;
+    the taxonomy reference is therefore broad and tentative.
+- id: motif:2
+  label: Ritual animal embodiment of a god
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage links Dionysian rites with goats or kids, torn fawns, fawn-skins
+    worn by god and worshippers, and goat-skins worn by female Bacchanals.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The text explicitly cautions that direct evidence for the fawn as another
+    embodiment of the god is lacking.
+- id: motif:3
+  label: Festival periodicity and seasonal timing
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: Dionysian festivals are described as biennial or annual, a spring kid is
+    mentioned, and the passage notes Mediterranean harvest timing.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:7
+  confidence: medium
+  cautions: The passage is a set of notes and does not present a continuous mythic
+    narrative.
+- id: motif:4
+  label: Divine titles based on killing or eating animals
+  taxonomy_refs:
+  - sacrifice
+  basis: The notes list multiple deities with epithets interpreted as deriving from
+    eating or killing animals.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The observation is comparative and lexical rather than a single narrative
+    episode.
+comparison_claims:
+- id: claim:1
+  claim: The passage cautiously groups fawn-tearing in Dionysian rites with other
+    animal embodiments of Dionysus, while explicitly noting lack of direct evidence
+    for the fawn embodiment.
+  claim_level: same_function
+  target: goat or kid as Dionysian embodiment and possible fawn embodiment
+  evidence_refs:
+  - ev:3
+  - ev:4
+  counter_evidence_refs:
+  - ev:4
+  confidence: low
+  limitations: The comparison is internal to Frazer's note and is qualified by his
+    statement that direct evidence is lacking.
+- id: claim:2
+  claim: The passage compares divine titles derived from eating animals with titles
+    derived from killing animals and says the latter are probably to be similarly
+    explained.
+  claim_level: same_function
+  target: animal-eating and animal-killing divine epithets across Greek deities
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim is limited to lexical/title parallels listed in the footnote,
+    not to full mythic equivalence among the deities.
+evidence:
+- id: ev:1
+  type: quote
+  locator: note 1050, within lines 12267-12411
+  quote_or_summary: '"Others said that the mangled body was pieced together, not by
+    Apollo but by Rhea."'
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source text supplied by Project Gutenberg metadata.
+- id: ev:2
+  type: summary
+  locator: note 1057, within lines 12267-12411
+  quote_or_summary: The note says Dionysus' festivals were biennial in many places,
+    probably formerly annual in some cases, and that some Dionysian festivals were
+    annual.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source text supplied by Project Gutenberg metadata.
+- id: ev:3
+  type: quote
+  locator: note 1076, within lines 12267-12411
+  quote_or_summary: A Greek gloss is cited for Dionysus as "the small goat" or young
+    goat appearing in spring.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source text supplied by Project Gutenberg metadata.
+- id: ev:4
+  type: summary
+  locator: note 1079, within lines 12267-12411
+  quote_or_summary: The note says fawns also appear to have been torn in pieces at
+    Dionysian rites; it suggests the fawn may have been another embodiment of the
+    god but adds that direct evidence is lacking. It also says fawn-skins were worn
+    by the god and his worshippers and goat-skins by female Bacchanals.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source text supplied by Project Gutenberg metadata.
+- id: ev:5
+  type: quote
+  locator: note 1081, within lines 12267-12411
+  quote_or_summary: Euripides is cited with Greek describing "goat-killing" blood
+    and an "omophagous" grace or rite.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source text supplied by Project Gutenberg metadata.
+- id: ev:6
+  type: summary
+  locator: note 1083, within lines 12267-12411
+  quote_or_summary: The note lists Hera goat-eater, Apollo meat-eater, Artemis boar-eater,
+    and titles derived from killing animals such as Dionysus goat-striker, Rhea or
+    Hecate dog-slayer, and Apollo wolf-slayer or lizard-slayer.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source text supplied by Project Gutenberg metadata.
+- id: ev:7
+  type: quote
+  locator: note 1088, within lines 12267-12411
+  quote_or_summary: '"on the Mediterranean coasts the harvest never falls so late
+    as autumn."'
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source text supplied by Project Gutenberg metadata.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: low
+  notes: The passage is primarily footnotes rather than a continuous narrative. Several
+    extracted motifs are therefore based on explicit note statements and cautious
+    summaries, not on a full mythic episode in this line range.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only information present in the supplied passage and metadata was used. Taxonomy references were limited to available motif families and omitted where no provided taxonomy item fit.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:comparative-golden-bough-volume-1-frazer-gutenberg__l12267-l12411
+  passage_sha256=57e9eb3884ee5f8c03266f0adc6a9be41e87564a0139c4fcb3f07f6fba6b288c
+

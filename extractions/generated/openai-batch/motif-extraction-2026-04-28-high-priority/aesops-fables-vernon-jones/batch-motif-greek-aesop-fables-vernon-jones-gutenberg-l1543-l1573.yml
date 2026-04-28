@@ -1,0 +1,430 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l1543-l1573
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE DOG, THE COCK, AND THE FOX / THE GNAT AND THE BULL / THE BEAR AND THE
+    TRAVELLERS / THE SLAVE AND THE LION; lines 1543-1573
+  start: '1543'
+  end: '1573'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A runaway slave hides in a cave that is a lion’s den. The lion approaches
+    with an injured paw instead of attacking. The slave removes a thorn and tends
+    the wound; the lion heals and treats him as a friend. Later the slave returns
+    to town, is captured, and is condemned to be thrown to beasts in a public arena.
+    The lion in the arena is the same lion, recognizes him, and shows affection. The
+    crowd asks that the slave be spared, and the governor frees both the slave and
+    the lion.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A slave runs away from a cruel master and goes into the desert to avoid capture.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The slave enters an apparently unoccupied cave, which is actually a lion’s
+    den.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The lion appears but does not attack; it fawns, whines, and lifts a swollen,
+    inflamed paw.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The slave finds a large thorn embedded in the lion’s foot, removes it, and
+    dresses the wound.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The lion’s wound heals completely, and the lion regards the man as a friend.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The slave and lion share the cave for some time.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The slave leaves the lion and returns to town because he longs for human society.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The slave is recognized, chained, returned to his former master, and condemned
+    to be thrown to beasts at a public spectacle.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: In the arena, a large ferocious-looking lion is released among the beasts,
+    and the slave is cast in with them.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The lion recognizes the slave, bounds to him, and lies at his feet with affection
+    and delight.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: The spectators demand that the slave’s life be spared.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:12
+  text: The governor, impressed by the beast’s gratitude and fidelity, decrees liberty
+    for both the slave and the lion.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Runaway slave
+  description: A slave who flees a cruel master, helps an injured lion, is later condemned
+    to the arena, and is ultimately freed.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:6
+- id: fig:2
+  name_or_label: Lion
+  description: A lion with a thorn in its swollen paw; after being helped by the slave,
+    it later recognizes him in the arena and shows affection.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: Former master
+  description: The slave’s cruel master, to whom the captured slave is returned and
+    who orders public punishment.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:4
+  name_or_label: Spectators / audience
+  description: The public audience at the spectacle who ask that the slave’s life
+    be spared.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:5
+  name_or_label: Governor of the town
+  description: The official who decrees liberty for the slave and the lion after witnessing
+    the lion’s gratitude and fidelity.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: Fugitive
+  assigned_to:
+  - fig:1
+  basis: The slave runs away from a cruel master and hides in the desert and cave.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: Healer of injured animal
+  assigned_to:
+  - fig:1
+  basis: The slave removes the thorn from the lion’s paw and dresses the wound.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: Condemned captive who is spared
+  assigned_to:
+  - fig:1
+  basis: The slave is chained, sentenced to be thrown to beasts, then spared and freed.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:4
+  label: Injured animal seeking aid
+  assigned_to:
+  - fig:2
+  basis: The lion approaches without attacking and presents its swollen paw.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: Grateful animal and rescuer
+  assigned_to:
+  - fig:2
+  basis: The lion treats the slave as a friend and later protects him by recognizing
+    him in the arena.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+- id: role:6
+  label: Cruel master and punitive owner
+  assigned_to:
+  - fig:3
+  basis: The master is described as cruel and orders the slave’s punishment after
+    his capture.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:7
+  label: Witnessing public
+  assigned_to:
+  - fig:4
+  basis: The audience sees the lion’s behavior and calls for the slave to be spared.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:8
+  label: Liberating authority
+  assigned_to:
+  - fig:5
+  basis: The governor decrees liberty for both the slave and the lion.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: Cave / lion’s den
+  literal_form: Cave used as shelter by the slave and as the lion’s den
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: Thorn in paw
+  literal_form: Large thorn embedded in the ball of the lion’s foot
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Chains
+  literal_form: Chains placed on the captured slave
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: Arena / public spectacle
+  literal_form: Theatre arena where beasts are loosed and the slave is cast among
+    them
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Flight and refuge in the lion’s den
+  summary: The slave flees his cruel master, enters the desert, and hides in a cave
+    that is actually a lion’s den.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Healing the lion’s paw
+  summary: The lion appears, presents its swollen paw, and the slave removes a thorn
+    and tends the wound.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Friendship in the cave
+  summary: After the wound heals, the lion regards the slave as a friend, and they
+    share the cave for a time.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Return, capture, and condemnation
+  summary: The slave leaves the lion, returns to town, is recognized and chained,
+    and is sentenced by his former master to be thrown to beasts.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Recognition in the arena
+  summary: The slave is placed among beasts in the arena; the lion recognizes him
+    and lies at his feet affectionately.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+- id: scene:6
+  label: Public mercy and liberation
+  summary: The audience asks that the slave be spared, and the governor grants liberty
+    to both the slave and lion.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Aid to an injured animal repaid by gratitude
+  taxonomy_refs: []
+  basis: The slave removes a thorn and treats the lion’s wound; later the lion recognizes
+    him in the arena and shows affection, leading to his rescue.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: No supplied taxonomy family directly names the grateful-animal pattern,
+    so no taxonomy reference is assigned.
+- id: motif:2
+  label: Human-animal friendship formed through healing
+  taxonomy_refs: []
+  basis: The lion’s wound heals after the slave’s treatment, and the lion regards
+    the man as a friend; they share the cave together.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is a passage-level motif label inferred from the narrated relationship,
+    not a supplied taxonomy ID.
+- id: motif:3
+  label: Recognition by animal averts execution
+  taxonomy_refs: []
+  basis: The slave is condemned to the beasts, but the lion recognizes him and displays
+    affection, causing the crowd and governor to spare and free him.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage presents the recognition and reprieve clearly, but does not
+    compare it to other texts.
+- id: motif:4
+  label: Freedom granted to both human and animal
+  taxonomy_refs: []
+  basis: After the lion’s fidelity is witnessed, the governor decrees liberty for
+    both the slave and the lion.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: This is a concluding outcome motif rather than a broad supplied motif
+    family.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1543-1551
+  quote_or_summary: A slave flees a cruel master, goes into the desert, and enters
+    a cave that is actually a lion’s den.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1551-1559
+  quote_or_summary: The lion appears but does not attack; it fawns, whines, lifts
+    its swollen paw, and the slave removes a large thorn and dresses the wound.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 1559-1563
+  quote_or_summary: The lion’s wound heals, the lion treats the man as a friend, and
+    they share the cave for some time.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 1563-1569
+  quote_or_summary: The slave longs for human society, leaves the lion, returns to
+    town, is recognized and chained, and his former master orders him thrown to beasts
+    at a public spectacle.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 1569-1572
+  quote_or_summary: In the arena, a huge ferocious-looking lion is released; when
+    the slave is cast in, the lion recognizes him, approaches, and lies at his feet
+    affectionately.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 1572-1573
+  quote_or_summary: The audience calls for the slave to be spared, and the governor,
+    marveling at the beast’s gratitude and fidelity, grants freedom to both.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: uncertain
+  notes: The narrative sequence and figures are explicit. Motif labels are descriptive
+    and passage-based; no external comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the provided passage text was used. Supplied passage label was broader than the actual provided text; extraction is limited to “THE SLAVE AND THE LION.”
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l1543-l1573
+  passage_sha256=be21ad3cf85c618bdd2e1d3a54b938c5c825c0a5e87f91556f0d7cc0bb754e08
+

@@ -1,0 +1,277 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l3359-l3376
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE GRASSHOPPER AND THE ANTS / THE FARMER AND THE VIPER / THE TWO FROGS /
+    THE COBBLER TURNED DOCTOR; lines 3359-3376
+  start: '3359'
+  end: '3376'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: An unskilful cobbler abandons his trade and claims to possess a universal
+    antidote against poison. The king tests him by pretending to mix poison into the
+    remedy, whereupon the cobbler confesses that he knows nothing of medicine and
+    that the antidote is worthless. The king rebukes the people for trusting with
+    their lives someone they would not trust with their boots.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A cobbler who cannot make a living at his trade gives up mending boots and
+    begins doctoring.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The cobbler claims to have the secret of a universal antidote against all
+    poisons.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The cobbler gains reputation through self-promotion.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The king decides to test the cobbler's remedy when the cobbler becomes ill.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The king pours a dose of antidote into a cup, pretends to mix poison with
+    it, adds water, and commands the cobbler to drink it.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The cobbler, fearing poison, confesses that he knows nothing about medicine
+    and that his antidote is worthless.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The king summons his subjects and rebukes them for entrusting their lives
+    to a man they would not entrust with their boots.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: the Cobbler
+  description: An unskilful cobbler who abandons boot-mending, poses as a doctor,
+    claims a universal antidote, and later confesses his ignorance of medicine.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: the King
+  description: The ruler of the country who tests the claimed antidote and rebukes
+    his subjects.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: the King's subjects
+  description: The people addressed by the king as those who entrusted their lives
+    to the cobbler.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: unskilful tradesman
+  assigned_to:
+  - fig:1
+  basis: He is described as an unskilful cobbler unable to make a living at his trade.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: false doctor
+  assigned_to:
+  - fig:1
+  basis: He claims a universal antidote but confesses he knows nothing about medicine
+    and that the antidote is worthless.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: tester and judge
+  assigned_to:
+  - fig:2
+  basis: The king devises a test of the remedy and publicly judges the people's folly.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:4
+  label: misled public
+  assigned_to:
+  - fig:3
+  basis: The king says they entrusted their lives to the cobbler despite not trusting
+    him with boots.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: claimed antidote
+  literal_form: A supposed universal antidote against all poisons.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: cup
+  literal_form: A cup used by the king in the test of the antidote.
+  associated_figures:
+  - fig:2
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: water
+  literal_form: Water added by the king while pretending to mix poison into the antidote.
+  associated_figures:
+  - fig:2
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: boots
+  literal_form: Boots used in the king's rebuke as the cobbler's neglected and mistrusted
+    proper trade.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: The cobbler becomes a doctor
+  summary: An unskilful cobbler abandons his trade, begins doctoring, and advertises
+    a universal antidote against poison.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: The king tests the remedy
+  summary: When the cobbler falls ill, the king tests the claimed antidote by preparing
+    it in a cup, pretending to add poison, adding water, and ordering the cobbler
+    to drink.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Confession and rebuke
+  summary: The frightened cobbler admits his remedy is worthless, and the king rebukes
+    the subjects for trusting him with their lives.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: False healer exposed by a practical test
+  taxonomy_refs: []
+  basis: The cobbler claims medical power, but the king's staged test causes him to
+    admit that he knows nothing about medicine and that the antidote is worthless.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is a fable motif rather than a mythic motif; no broader comparative
+    claim is made from the passage alone.
+- id: motif:2
+  label: Public folly in trusting an unqualified pretender
+  taxonomy_refs:
+  - wisdom
+  basis: The king's final speech emphasizes the folly of entrusting lives to someone
+    not trusted even with his own trade.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The taxonomy reference to wisdom is broad and didactic; it should be reviewed
+    by a human.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3359-3365
+  quote_or_summary: The cobbler is unskilful, abandons mending boots, takes up doctoring,
+    claims a universal antidote against poisons, and gains reputation through self-promotion.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary used.
+- id: ev:2
+  type: summary
+  locator: lines 3365-3371
+  quote_or_summary: When the cobbler becomes ill, the king tests the remedy by placing
+    the antidote in a cup, pretending to mix poison, adding water, and ordering him
+    to drink.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary used.
+- id: ev:3
+  type: summary
+  locator: lines 3371-3373
+  quote_or_summary: Fearing that he will be poisoned, the cobbler confesses that he
+    knows nothing about medicine and that his antidote is worthless.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary used.
+- id: ev:4
+  type: quote
+  locator: lines 3373-3376
+  quote_or_summary: '"Here is this Cobbler to whom no one will send his boots to be
+    mended, and yet you have not hesitated to entrust him with your lives!"'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; brief quotation used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is short and literal details are clear. Motif classification
+    is limited because the supplied taxonomy is broad and the passage itself does
+    not support external comparison claims.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage text was used. No comparison claims were added because the passage does not itself support them.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l3359-l3376
+  passage_sha256=d792e67fad2dacf05d06c75fe73f75ea7b7058c162d3fbee56dcf55a5dd8062e
+

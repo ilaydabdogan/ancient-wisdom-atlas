@@ -1,0 +1,420 @@
+---
+record_id: batch.motif.comparative-golden-bough-volume-2-frazer-gutenberg-l12549-l12690
+source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+passage_locator:
+  label: CONTENTS / NOTE. OFFERINGS OF FIRST-FRUITS. / INDEX. / FOOTNOTES; lines 12549-12690
+  start: '12549'
+  end: '12690'
+  translation: 'The Golden Bough: A Study in Comparative Religion (Vol. 2 of 2)'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is a set of footnotes from Frazer citing sources for rites
+    connected with cattle reverence, Apis, sacrifice, and especially first-fruits
+    ceremonies. The most detailed notes summarize a Zulu first-fruits feast involving
+    a bull, the king, a green calabash, burning, and a prohibition on eating new fruits
+    before the festival; and describe American Indian and Cherokee first-fruits-related
+    practices involving a sacred square, green boughs, a central tree, and renewal
+    of vessels.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: At a Zulu feast of first-fruits, a bull is killed and its gall is drunk by
+    the king and the people.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: In killing the bull, the men are said to use only their naked hands.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The bull's flesh is given to boys, who may eat what they like and burn the
+    rest; the men may not taste it.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: As a final ceremony, the king breaks a green calabash in the presence of the
+    people.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: The breaking of the green calabash is said to signify that the king opens
+    the new year and permits the people to eat the season's fruits.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:6
+  text: A person who eats the new fruits before the festival is said either to die
+    or to be put to death.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:7
+  text: A similar ceremony is reported among the Cherokees in comparison with the
+    Creek ceremony cited in the same note.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:8
+  text: In the Cherokee ceremony, an arbour of green boughs is made in the sacred
+    square.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: A bushy-topped shade-tree is cut down close to the roots and planted in the
+    centre of the sacred square.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:10
+  text: Every man provides himself with a green bough.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:11
+  text: One cited account says old vessels are burned and new vessels are prepared
+    for the festival.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Zulu king
+  description: The king participates in drinking the bull's gall and breaks the green
+    calabash to open the new year and allow eating of seasonal fruits.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Zulu people
+  description: The people are present at the first-fruits feast and drink the bull's
+    gall with the king.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Bull
+  description: A bull is killed in the Zulu first-fruits ceremony; its gall is drunk
+    and its flesh is distributed to boys.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Men at the Zulu ceremony
+  description: The men kill the bull with their naked hands and are forbidden to taste
+    its flesh.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: Boys at the Zulu ceremony
+  description: The boys receive the bull's flesh, may eat some, and burn the rest.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:6
+  name_or_label: Person eating new fruits before the festival
+  description: A person who eats the new fruits before the festival is said to die
+    or to be put to death.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+- id: fig:7
+  name_or_label: Cherokee men
+  description: In the Cherokee ceremony, every man provides himself with a green bough.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: ritual officiant
+  assigned_to:
+  - fig:1
+  basis: The king performs the final act of breaking the green calabash in public.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: seasonal authorizer
+  assigned_to:
+  - fig:1
+  basis: The act is said to open the new year and grant permission to eat the fruits
+    of the season.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: ritual participant
+  assigned_to:
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:7
+  basis: These groups take part in specified actions within the described ceremonies.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:4
+  label: sacrificial animal
+  assigned_to:
+  - fig:3
+  basis: The bull is killed during the first-fruits ceremony and its parts are ritually
+    consumed or disposed of.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: taboo violator
+  assigned_to:
+  - fig:6
+  basis: The figure is defined by eating new fruits before the festival and suffering
+    death or execution.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: bull
+  literal_form: Bull killed at the Zulu first-fruits feast
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: gall
+  literal_form: Gall of the killed bull drunk by king and people
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: green calabash
+  literal_form: Green calabash broken by the king at the final ceremony
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: new fruits
+  literal_form: Fruits of the season that may be eaten only after the festival permission
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:5
+  label: burning
+  literal_form: Burning the remaining bull flesh; burning old vessels in another cited
+    account
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:6
+  label: green boughs
+  literal_form: Green boughs used to make an arbour and carried by every man in the
+    Cherokee ceremony
+  associated_figures:
+  - fig:7
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:3
+- id: sym:7
+  label: central shade-tree
+  literal_form: Bushy-topped shade-tree cut near the roots and planted in the centre
+    of the sacred square
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:3
+- id: sym:8
+  label: old and new vessels
+  literal_form: Old vessels burned and new vessels prepared for the festival
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Zulu first-fruits feast and opening of the new year
+  summary: A bull is killed with naked hands; its gall is drunk by the king and people;
+    boys receive the flesh and burn the remainder; the king breaks a green calabash
+    to open the new year and permit eating the season's fruits; premature eating is
+    linked with death or execution.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Cherokee sacred square with green boughs and central tree
+  summary: An arbour of green boughs is made in the sacred square; a shade-tree is
+    cut and planted in the centre; every man carries or provides a green bough.
+  figure_refs:
+  - fig:7
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Festival renewal of vessels
+  summary: One cited account reports that old vessels are burned and new ones prepared
+    for the festival.
+  figure_refs: []
+  symbol_refs:
+  - sym:8
+  - sym:5
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: first-fruits rite authorizing seasonal consumption
+  taxonomy_refs:
+  - seasonal_cycle
+  - sacred_exchange
+  basis: The Zulu ceremony is explicitly identified as a first-fruits feast, and the
+    king's final act grants permission to eat the fruits of the season.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage is a footnote summary, not a primary ritual text.
+- id: motif:2
+  label: sacrificial bull in seasonal festival
+  taxonomy_refs:
+  - sacrifice
+  basis: A bull is killed in the first-fruits ceremony, its gall is drunk, and its
+    flesh is ritually distributed and burned.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The note summarizes a source and does not provide a full ritual sequence
+    beyond selected details.
+- id: motif:3
+  label: taboo on eating new fruits before ritual permission
+  taxonomy_refs: []
+  basis: The passage states that eating the new fruits before the festival results
+    in death or execution.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage gives two alternatives, death or being put to death, without
+    clarifying whether the death is supernatural, legal, or both.
+- id: motif:4
+  label: ritual burning and renewal of festival vessels
+  taxonomy_refs: []
+  basis: One account says old vessels were burned and new ones prepared for the festival.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage gives only a brief note and does not explain the meaning of
+    the vessel renewal.
+- id: motif:5
+  label: green boughs and central tree in sacred square
+  taxonomy_refs:
+  - sacred_tree_axis
+  basis: The Cherokee ceremony places a cut shade-tree in the centre of the sacred
+    square and uses green boughs for an arbour and for each man.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The central placement of the tree is explicit, but an axis or world-center
+    meaning is not stated in the passage.
+comparison_claims:
+- id: claim:1
+  claim: The passage supports a cautious comparison between Creek and Cherokee ceremonies
+    as similar first-fruits-related rites.
+  claim_level: same_function
+  target: Creek ceremony and Cherokee ceremony cited in Frazer's note on first-fruits
+    rites
+  evidence_refs:
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage only says the Cherokee ceremony is similar and gives selected
+    Cherokee details; it does not provide the full Creek ritual in this excerpt.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 12621-12634, footnote 257
+  quote_or_summary: 'Zulu first-fruits feast: a bull is killed; its gall is drunk
+    by king and people; the king breaks a green calabash to open the new year and
+    allow eating seasonal fruits; premature eating brings death or execution.'
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source text.
+- id: ev:2
+  type: summary
+  locator: lines 12636-12652, footnote 258
+  quote_or_summary: Sources are cited for an American Indian ceremony, with a note
+    that a similar ceremony was observed by the Cherokees.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source text.
+- id: ev:3
+  type: summary
+  locator: lines 12656-12661, footnote 260
+  quote_or_summary: Among the Cherokees, an arbour of green boughs is made in the
+    sacred square; a shade-tree is planted at the centre; every man provides a green
+    bough.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source text.
+- id: ev:4
+  type: summary
+  locator: lines 12663-12665, footnote 261
+  quote_or_summary: One account says old vessels were burned and new vessels prepared
+    for the festival.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source text.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The extraction is based on footnote summaries in a comparative work rather
+    than a continuous primary narrative. Motif candidates are strongest where the
+    note gives concrete ritual actions.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only details present in the supplied line range were used; bibliographic citations without ritual content were not separately extracted.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:comparative-golden-bough-volume-2-frazer-gutenberg__l12549-l12690
+  passage_sha256=30c4ab4f50cb60b2e473b520c2d0bf32e67ade45ef60d782c4fecf6f58f518dc
+

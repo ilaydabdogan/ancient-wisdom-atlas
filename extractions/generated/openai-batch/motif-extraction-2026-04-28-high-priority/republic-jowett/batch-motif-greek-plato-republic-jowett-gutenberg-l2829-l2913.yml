@@ -1,0 +1,530 @@
+---
+record_id: batch.motif.greek-plato-republic-jowett-gutenberg-l2829-l2913
+source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+passage_locator:
+  label: The Republic / THE REPUBLIC / INTRODUCTION AND ANALYSIS.; lines 2829-2913
+  start: '2829'
+  end: '2913'
+  translation: The Republic
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage summarizes laws and customs for an ideal State: communal life
+    is said to prevent internal strife; youths are to be trained for war under safeguards;
+    brave warriors receive public honors, feast privileges, and reproductive privileges;
+    fallen warriors and benefactors receive posthumous sacred honors; Hellenic warfare
+    is to be restrained and oriented toward reconciliation; an interlocutor presses
+    Socrates on whether such a State is possible, using the image of a third wave.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A community of one mind and with little private property is described as avoiding
+    lawsuits, flattery of the rich, household cares, and unpaid borrowing.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Citizens and their children are compared to Olympic victors and are promised
+    better maintenance during life and honourable burial after death.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Children are to be taken to look on at battle, as potters’ boys learn by looking
+    at the wheel.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Young warriors are to be kept under experienced veterans and given swift,
+    tractable horses for escape.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Cowards and deserters are to be degraded, while a hero is crowned, given fellowship,
+    kissed, granted more wives, and given privileged food and seats at a feast.
+  category: sequence
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: obs:6
+  text: A warrior who dies in battle is declared to be of the golden race, believed
+    to become a guardian angel, and worshipped after death according to an oracle.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:7
+  text: The passage prohibits enslaving Hellenes, despoiling dead bodies, offering
+    Hellenic arms in temples, burning houses, and excessive devastation of Hellenic
+    territory.
+  category: action
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: obs:8
+  text: War is divided into civil discord among Hellenes and foreign war; conflict
+    among Hellenes is framed as a family quarrel requiring reconciliation.
+  category: relationship
+  evidence_refs:
+  - ev:10
+- id: obs:9
+  text: The interlocutor asks whether the ideal State is possible, and Socrates compares
+    the question to a third wave that may drown him.
+  category: speech
+  evidence_refs:
+  - ev:11
+figures:
+- id: fig:1
+  name_or_label: Citizens of the ideal State
+  description: Citizens described as one-minded, free from lesser evils, maintained
+    during life, and honourably buried after death.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Parents and children / young warriors
+  description: Parents bring children to observe battle; young warriors are to learn
+    but not be exposed to excessive danger.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Experienced veterans
+  description: Veterans are assigned care of young warriors in military settings.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Hero or brave warrior
+  description: A brave warrior receives crowns, fellowship, kisses, reproductive privilege,
+    and special food and seats at a feast.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:5
+  name_or_label: Fallen warrior and other benefactors of the State
+  description: A warrior who dies in battle, and other benefactors who die, receive
+    posthumous honors and worship.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:7
+- id: fig:6
+  name_or_label: Hellenes and barbarians as enemies
+  description: The passage distinguishes warfare against Hellenes from warfare against
+    barbarians and sets different norms for each.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:8
+  - ev:10
+- id: fig:7
+  name_or_label: Socrates and interlocutor
+  description: The interlocutor presses Socrates to address the possibility of the
+    ideal State; Socrates answers with the image of the third wave.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:11
+roles:
+- id: role:1
+  label: communal civic body
+  assigned_to:
+  - fig:1
+  basis: The citizens are described as one-minded, with minimal private ownership
+    and reduced social evils.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: youths in martial training
+  assigned_to:
+  - fig:2
+  basis: Children and young warriors observe battle, learn, ride, and are protected
+    from excessive danger.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: protective military guides
+  assigned_to:
+  - fig:3
+  basis: Experienced veterans care for the young warriors.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: honoured living hero
+  assigned_to:
+  - fig:4
+  basis: The hero receives public gestures, feasting privileges, and more wives.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:5
+  label: honoured dead / guardian figure
+  assigned_to:
+  - fig:5
+  basis: The fallen warrior is said to become one of Hesiod’s guardian angels and
+    to receive worship after death.
+  evidence_refs:
+  - ev:7
+- id: role:6
+  label: regulated enemy category
+  assigned_to:
+  - fig:6
+  basis: The passage gives rules for treatment of Hellenic enemies and contrasts Hellenic
+    and barbarian warfare.
+  evidence_refs:
+  - ev:8
+  - ev:10
+- id: role:7
+  label: philosophical questioner and respondent
+  assigned_to:
+  - fig:7
+  basis: The interlocutor asks about possibility, and Socrates responds using the
+    wave image.
+  evidence_refs:
+  - ev:11
+symbols:
+- id: sym:1
+  label: Olympic victor crown of blessing
+  literal_form: Olympic victors and crowns of blessings
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: potter’s wheel as training model
+  literal_form: potters’ boys looking on at the wheel
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: wings as swift horses
+  literal_form: wings, explained as swift and tractable steeds
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: heroic crown
+  literal_form: crown given by youths in the army
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: right hand of fellowship
+  literal_form: the right hand of fellowship
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: heroic kiss
+  literal_form: being kissed as an honor
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:7
+  label: feast bowl and privileged meat
+  literal_form: bowl, best seats, meats, and Homeric long chines
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:8
+  label: golden race and guardian angel
+  literal_form: golden race; Hesiod’s guardian angels
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:9
+  label: third wave
+  literal_form: the first, second, and third wave with a towering crest
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:11
+scenes:
+- id: scene:1
+  label: Communal civic order and blessings
+  summary: The ideal community is described as reducing strife and lesser social evils,
+    while granting its citizens life support and honourable burial.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Training youths for war
+  summary: Parents bring children to observe battle; young warriors are supervised
+    by veterans and provided swift horses for escape.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Reward and punishment in the army
+  summary: Cowards and deserters are degraded; brave warriors are publicly honoured
+    with crowns, fellowship, kisses, wives, and feast privileges.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Posthumous honour for fallen warriors
+  summary: A warrior who dies in battle is assigned to the golden race, believed to
+    become a guardian spirit, and worshipped after death; other benefactors receive
+    similar honours.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:8
+  evidence_refs:
+  - ev:7
+- id: scene:5
+  label: Rules for treating enemies
+  summary: The passage rejects enslavement and desecration of Hellenes and frames
+    Hellenic conflict as civil discord to be resolved by punishment of the guilty
+    and reconciliation.
+  figure_refs:
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+- id: scene:6
+  label: The third wave of questioning
+  summary: The interlocutor demands that Socrates address the possibility of the ideal
+    State, and Socrates describes the question as a third wave likely to drown him.
+  figure_refs:
+  - fig:7
+  symbol_refs:
+  - sym:9
+  evidence_refs:
+  - ev:11
+candidate_motifs:
+- id: motif:1
+  label: communal family-like polity preventing internal strife
+  taxonomy_refs: []
+  basis: The citizens are presented as one-minded, sharing life in a way that removes
+    many causes of conflict and treats the State as one family.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:10
+  confidence: high
+  cautions: This is a political-philosophical pattern in the passage rather than a
+    narrative myth episode.
+- id: motif:2
+  label: martial initiation of youths through controlled exposure to battle
+  taxonomy_refs:
+  - initiation
+  basis: Young warriors observe battle, are trained to ride, and are supervised by
+    veterans while learning warfare.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage frames this as education and military policy; the initiation
+    classification is functional and should be reviewed.
+- id: motif:3
+  label: heroic honours for the living warrior
+  taxonomy_refs: []
+  basis: A brave warrior is crowned, receives fellowship and kisses, is granted more
+    wives, and is given the best seats and meats at a feast.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: No supplied taxonomy family directly names heroic feasting or warrior
+    reward.
+- id: motif:4
+  label: fallen warrior becomes posthumous guardian and receives cult honours
+  taxonomy_refs: []
+  basis: The warrior who dies in battle is declared golden race, believed to become
+    a guardian angel, and worshipped according to the oracle.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: The wording depends on Jowett’s English rendering, especially the phrase
+    'guardian angels'.
+- id: motif:5
+  label: dual distinction between civil discord and foreign war
+  taxonomy_refs:
+  - duality
+  basis: The passage explicitly divides war into civil and foreign types and treats
+    Hellenic war as discord within a family.
+  evidence_refs:
+  - ev:10
+  confidence: medium
+  cautions: The taxonomy link to duality is broad and conceptual rather than a specific
+    mythic dualism.
+- id: motif:6
+  label: ordeal of successive waves in argument
+  taxonomy_refs: []
+  basis: Socrates says he has escaped the first and second wave, while the third wave
+    may drown him.
+  evidence_refs:
+  - ev:11
+  confidence: medium
+  cautions: The wave image is metaphorical within a philosophical dialogue summary,
+    not a literal flood or water myth.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly uses Homer as precedent for honouring brave men with
+    large meat portions at a feast.
+  claim_level: same_function
+  target: Homeric heroic feasting and distribution of honour portions
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage only cites Homeric authority for the feast honour; it does
+    not provide a detailed Homeric scene.
+- id: claim:2
+  claim: The passage explicitly aligns the battle-dead hero with Hesiod’s golden race
+    and guardian figures.
+  claim_level: same_motif
+  target: Hesiod’s golden race as guardian figures
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage is an English summary and uses the translation phrase 'guardian
+    angels,' which may not map exactly onto Hesiodic Greek terminology.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 2829-2841
+  quote_or_summary: A one-minded community with little private property is said to
+    prevent strife, lawsuits, flattery, household cares, borrowing, and nonpayment.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: 2841-2848
+  quote_or_summary: "“ours will be Olympic victors, and crowned with blessings”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:3
+  type: summary
+  locator: 2855-2862
+  quote_or_summary: Parents take children to look on at battle, compared with potters’
+    boys learning by watching the wheel; the sight of young ones encourages bravery.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: 2862-2868
+  quote_or_summary: "“they should have wings—that is to say, swift and tractable steeds”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:5
+  type: summary
+  locator: 2869-2877
+  quote_or_summary: Cowards and deserters are degraded; the hero is crowned by youths,
+    receives the right hand of fellowship, is kissed, and has more wives.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: quote
+  locator: 2877-2882
+  quote_or_summary: "“Fill the bowl then, and give the best seats and meats to the
+    brave”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:7
+  type: summary
+  locator: 2882-2888
+  quote_or_summary: The battle-dead hero is declared golden race, believed to become
+    one of Hesiod’s guardian angels, and worshipped after death as prescribed by the
+    oracle; other benefactors receive the same honours.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: 2889-2897
+  quote_or_summary: The passage rejects enslaving Hellenes and despoiling the dead,
+    saying the soul has fled and the dead body should not be treated as the enemy.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: 2897-2902
+  quote_or_summary: The arms of Hellenes should not be dedicated in temples because
+    they are taken from brethren; Hellenic houses should not be burned and only annual
+    produce should be carried off.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: quote
+  locator: 2902-2910
+  quote_or_summary: "“war is of two kinds, civil and foreign”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:11
+  type: summary
+  locator: 2910-2913
+  quote_or_summary: The interlocutor asks whether the State is possible; Socrates
+    says he has escaped the first and second wave and now faces the towering crest
+    of the third.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif mapping is partly conceptual
+    because the passage is a philosophical summary rather than a myth narrative; explicit
+    Homer and Hesiod comparisons are directly supported.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the provided passage text and metadata. No external source details were added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-plato-republic-jowett-gutenberg__l2829-l2913
+  passage_sha256=d10f27c2410cebb56d4010c83c69682fdf2009bf2b56569bf34d8e1b233b162e
+

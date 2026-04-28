@@ -1,0 +1,448 @@
+---
+record_id: batch.motif.greek-plato-republic-jowett-gutenberg-l4150-l4239
+source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+passage_locator:
+  label: The Republic / THE REPUBLIC / INTRODUCTION AND ANALYSIS.; lines 4150-4239
+  start: '4150'
+  end: '4239'
+  translation: The Republic
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Jowett’s introductory analysis discusses Plato’s treatment of mathematics,
+    astronomy, harmonics, vision, and the idea of good. The passage contrasts ancient
+    and modern views, notes Pythagorean influence, describes sense perception as confused
+    flux ordered by reason, and distinguishes classes of harmonists in relation to
+    Plato’s ideal of abstract harmony.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage says a modern mathematician may sympathize with Plato’s delight
+    in pure mathematics and his preference for studying number and figure in themselves.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that Plato related mathematical sciences to one another
+    and to the idea of good, described as a common principle of truth and being.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage says Plato is criticized for supposing that the heavens could
+    be constructed a priori by mathematical problems and that harmony could be determined
+    without reference to the human ear.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The passage describes mathematics as an educational instrument that strengthens
+    attention, order, construction, and the grasp of quantitative differences.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage says Plato’s attempt to connect mathematics with higher moral
+    and intellectual ideas shows the influence of ancient Pythagorean notions.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The passage says pure numbers, disengaged from phenomena, had a kind of sacredness
+    for an ancient philosopher.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: The passage describes Plato’s account of sense as Heraclitean flux and compares
+    confused perception to what might appear to the half-awakened eye of an infant.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The passage says the mind is first aroused by trying to set this chaos in
+    order, leading to distinct conceptions and to the distinction between the visible
+    and the intelligible.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: The passage distinguishes Pythagoreans, mere empirics, and Plato’s abstract
+    ideal of harmony in relation to the good.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Plato
+  description: Philosopher whose views on mathematics, astronomy, harmonics, vision,
+    and the good are analyzed in the passage.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: modern mathematician
+  description: A contemporary evaluator imagined as sympathizing with Plato’s delight
+    in pure mathematics while also recognizing errors.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: metaphysical philosopher
+  description: A philosophical evaluator who recognizes mathematics as an educational
+    instrument but denies its direct connection with higher moral and intellectual
+    ideas.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Pythagoreans
+  description: Ancient mathematical and musical authorities associated with pure numbers,
+    ethical symbols, and harmonics.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:5
+  name_or_label: ancient philosopher
+  description: A generalized ancient thinker for whom abstract numbers could have
+    sacredness.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: half-awakened infant
+  description: An image used to describe confused and blurred sense perception.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: Glaucon
+  description: Interlocutor mentioned in the discussion of harmonics, where he appears
+    to confuse Pythagoreans with mere empirics.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:8
+  name_or_label: Socrates
+  description: Interlocutor mentioned as joining Glaucon in describing empirical harmonists.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:9
+  name_or_label: Damon
+  description: Musical authority mentioned as someone Socrates was to consult in an
+    earlier discussion on music.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: philosophical subject
+  assigned_to:
+  - fig:1
+  basis: The passage analyzes Plato’s positions on mathematics, perception, harmonics,
+    and the good.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:2
+  label: modern evaluator
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The passage frames the modern mathematician and metaphysical philosopher
+    as evaluators of Plato’s doctrines.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: Pythagorean authority or influence
+  assigned_to:
+  - fig:4
+  basis: The passage explicitly traces influence to ancient Pythagorean notions and
+    calls Pythagoreans masters in harmonics.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:4
+  label: recipient of numerical sacredness
+  assigned_to:
+  - fig:5
+  basis: The passage says abstract numbers had a kind of sacredness in the eyes of
+    an ancient philosopher.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: image of confused perception
+  assigned_to:
+  - fig:6
+  basis: The infant’s half-awakened eye is used to illustrate confused and blurred
+    sensory appearance.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: dialogue interlocutor
+  assigned_to:
+  - fig:7
+  - fig:8
+  basis: Glaucon and Socrates are mentioned in the account of harmonics and empirical
+    experimentation with sounds.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: musical authority
+  assigned_to:
+  - fig:9
+  basis: Damon is named as the authority to be consulted in the earlier discussion
+    on music.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: number and figure
+  literal_form: pure mathematics; number and figure in themselves
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: heavens
+  literal_form: the heavens as an object Plato is said to construct a priori by mathematical
+    problems
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: idea of good
+  literal_form: common principle of truth and being; source and measure of all things
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: sym:4
+  label: pure numbers
+  literal_form: numbers conceived as pure abstractions with real and separate existence
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: chaos of sense
+  literal_form: confused impressions of sense that the mind attempts to set in order
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs:
+  - chaos
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: harmony
+  literal_form: harmonics and the Platonic idea of harmony studied abstractly in relation
+    to the good
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Modern mathematical assessment of Plato
+  summary: A modern mathematician is imagined as valuing Plato’s devotion to pure
+    mathematics while also recognizing limitations in Plato’s approach to astronomy
+    and harmonics.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Metaphysical account of mathematics and Pythagorean influence
+  summary: A metaphysical philosopher evaluates mathematics as educational, while
+    the passage connects Plato’s abstract numbers and moral elevation to Pythagorean
+    notions.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Ordering the flux of vision
+  summary: The passage explains Plato’s analysis of vision by describing sense as
+    flux and reason as arranging confused sensory impressions into distinct conceptions.
+  figure_refs:
+  - fig:1
+  - fig:6
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Classes of harmonists
+  summary: The passage distinguishes Pythagoreans, empirical experimenters, and Plato’s
+    ideal study of harmony as abstract knowledge related to the good.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:7
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:3
+  - sym:6
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Mathematics as a path to wisdom and order
+  taxonomy_refs:
+  - wisdom
+  basis: The passage presents mathematics as strengthening attention and order, and
+    connects mathematical sciences with the idea of good as a principle of truth and
+    being.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: This is philosophical analysis rather than a mythic narrative; the motif
+    label abstracts from the passage’s explicit educational and metaphysical language.
+- id: motif:2
+  label: Ordering sensory chaos into intelligible form
+  taxonomy_refs:
+  - chaos
+  - wisdom
+  basis: The passage describes sense as confused flux or chaos and says reason frames
+    distinct conceptions, producing the distinction of visible and intelligible.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The word chaos is used in a philosophical-psychological explanation, not
+    in a cosmogonic myth.
+- id: motif:3
+  label: Sacredness of abstract number
+  taxonomy_refs:
+  - wisdom
+  basis: The passage says pure numbers, separated from phenomena, had a kind of sacredness
+    for an ancient philosopher and were linked with Pythagorean notions.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The sacredness is stated as an intellectual or philosophical valuation,
+    not as a ritual object or deity.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly attributes Plato’s effort to connect mathematics with
+    higher moral and intellectual ideas to ancient Pythagorean influence.
+  claim_level: historical_contact
+  target: ancient Pythagorean notions
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage is a later analytical commentary and does not provide detailed
+    historical mechanisms or primary Pythagorean texts.
+- id: claim:2
+  claim: The passage compares Plato’s consultation of Pythagoreans on harmonics with
+    the earlier proposed consultation of Damon on music.
+  claim_level: same_function
+  target: Damon as musical authority and Pythagoreans as harmonic authorities
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is limited to shared advisory or expert function within
+    the discussion of music and harmonics.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4150-4182
+  quote_or_summary: The passage says a modern mathematician would sympathize with
+    Plato’s delight in pure mathematics, note his view of related sciences and the
+    idea of good, and also recognize errors about constructing the heavens and harmony
+    a priori.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: lines 4183-4204
+  quote_or_summary: The passage describes mathematics as educational, traces Plato’s
+    connection of mathematics with higher ideas to Pythagorean notions, discusses
+    pure abstract numbers, and says such numbers had a kind of sacredness for an ancient
+    philosopher.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 4205-4223
+  quote_or_summary: 'The passage explains Plato’s analysis of vision: sense is treated
+    as Heraclitean flux, confused like the half-awakened infant’s sight, and the mind
+    tries to set this chaos in order through reason.'
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 4224-4239
+  quote_or_summary: The passage describes Plato’s conception of harmonics by distinguishing
+    Pythagoreans, mere empirical listeners, and the Platonic idea of abstract harmony
+    studied as universal knowledge in relation to the good.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is philosophical commentary rather than a mythic narrative. Literal
+    extraction is strong, while motif classification is interpretive and should be
+    reviewed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No external sources or unstated taxonomy identifiers were used. Candidate motifs are limited to patterns directly supported by the supplied passage.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-plato-republic-jowett-gutenberg__l4150-l4239
+  passage_sha256=03a61410629b2398bb4d11c3026a5401cff50e338033135c03081adf35cf9396
+

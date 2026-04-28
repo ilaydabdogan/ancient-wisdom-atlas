@@ -1,0 +1,350 @@
+---
+record_id: batch.motif.greek-plato-republic-jowett-gutenberg-l2076-l2139
+source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+passage_locator:
+  label: The Republic / THE REPUBLIC / INTRODUCTION AND ANALYSIS.; lines 2076-2139
+  start: '2076'
+  end: '2139'
+  translation: The Republic
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: There is a tendency in us which says ‘Drink.’ There is another which says,
+    ‘Do not drink; it is not good for you.’
+  summary: The passage analyzes Plato’s second paradox as raising questions about
+    mind and body, higher and lower principles in human nature, self-command, health,
+    diet, and medicine, then notes several stylistic features in the surrounding discussion
+    of the Republic.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: 'The passage frames the mind-body relation as a set of questions: control,
+    antagonism or harmony, two or one, and possible causal priority.'
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Human nature is described as containing a higher and a lower principle that
+    may break apart, oppose one another, or be reconciled in a shared aim.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: When reconciled, the body is described as friend, ally, servant, or instrument
+    of the mind.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The mind is described as having an almost superhuman power to banish disease
+    and weakness and call out hidden strength.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: The passage gives the example of one tendency saying to drink and another
+    saying not to drink because it is not good.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The passage states that care and thought over many years may make humans almost
+    free agents in health, while freedom remains limited by laws of nature and mind.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: The analysis criticizes Plato for depreciating diet, preferring definite diseases
+    and definite treatments, fearing invalidism, and not recognizing time as healer.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The passage states that the mind can influence the body through control of
+    eating and drinking.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: The style notes mention affected ignorance of music, tentative construction
+    of the State, the State described as both reality and imagination, preparation
+    for expelling poets, and several companion images or examples.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: The passage mentions the image of gold and silver citizens and the argument
+    from the practice of Asclepius.
+  category: object
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Plato
+  description: Named thinker whose treatment of medicine, diet, the State, poets,
+    music, and examples is discussed by the analyst.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Man / composite creature
+  description: Human being considered as a composite creature containing mind, body,
+    and higher and lower principles.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Mind
+  description: Principle associated with control, responsibility, banishing weakness,
+    calling out strength, and influencing the body.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Body
+  description: Principle related to health, disease, appetites, and capable of becoming
+    the mind’s friend, ally, servant, or instrument.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:5
+  name_or_label: Asclepius
+  description: Named figure invoked through an argument from his medical practice.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: Phocylides
+  description: Named figure associated with a maxim mentioned in a satirical jest.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: philosopher under analysis
+  assigned_to:
+  - fig:1
+  basis: The passage explicitly evaluates Plato’s views and style.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:2
+  label: human subject of inner division
+  assigned_to:
+  - fig:2
+  basis: The human being is described as a composite creature with higher and lower
+    principles that divide or reconcile.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: governing or coordinating principle
+  assigned_to:
+  - fig:3
+  basis: The mind is described as controlling or influencing the body and coordinating
+    reason, desires, intellect, and senses.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:4
+  label: allied or instrumental principle
+  assigned_to:
+  - fig:4
+  basis: The body may become the mind’s friend, ally, servant, or instrument.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: medical-practice exemplar
+  assigned_to:
+  - fig:5
+  basis: Asclepius is cited in connection with an argument from medical practice.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: maxim-associated figure
+  assigned_to:
+  - fig:6
+  basis: Phocylides is mentioned in relation to a satirical jest about a maxim.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: higher and lower principles
+  literal_form: higher and lower principles in human nature
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - duality
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: opposed drinking commands
+  literal_form: one tendency says to drink; another says not to drink
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - duality
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: gold and silver citizens
+  literal_form: image of the gold and silver citizens
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Mind and body questioned as divided or harmonious
+  summary: The passage asks whether mind and body are opposed or harmonious and describes
+    higher and lower human principles that may conflict or reconcile.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Example of opposed appetitive commands
+  summary: The inner conflict is illustrated by a tendency commanding drink and another
+    forbidding it on grounds of health.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Critique of Plato on medicine and diet
+  summary: The analyst says Plato depreciates diet, prefers definite treatment, fears
+    invalidism, and misses the gradual healing role of time and the control of eating
+    and drinking.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Style notes and associated examples
+  summary: The passage lists minor matters of style and examples including music,
+    the State, poets, litigation, invalidism, Phocylides, gold and silver citizens,
+    and Asclepius.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: inner duality of higher and lower principles
+  taxonomy_refs:
+  - duality
+  basis: The passage repeatedly frames human nature as divided between higher and
+    lower principles, mind and body, reason and desire, and opposed tendencies.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is a philosophical analysis rather than a narrative myth episode.
+- id: motif:2
+  label: wisdom as self-command and harmonizing reason with desire
+  taxonomy_refs:
+  - wisdom
+  basis: The passage treats the rightful superiority of the restraining principle,
+    the coordination of reason and desire, and care over time as a form of responsible
+    self-rule.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The available passage does not personify Wisdom or present a mythic sage;
+    the motif is inferred from ethical-philosophical language.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2076-2096
+  quote_or_summary: The passage asks how far mind can control body, whether they are
+    antagonistic or harmonious, describes higher and lower principles that may take
+    up arms or reconcile, and says the body may become the mind’s ally or instrument.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: quote
+  locator: lines 2096-2107
+  quote_or_summary: One tendency says, ‘Drink’; another says, ‘Do not drink; it is
+    not good for you,’ followed by remarks on rightful superiority, responsibility
+    for health, and limited human freedom.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:3
+  type: summary
+  locator: lines 2108-2124
+  quote_or_summary: The analyst criticizes Plato’s treatment of medicine, diet, invalidism,
+    gradual remedies, time as healer, and the influence of mind on body through eating
+    and drinking.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: lines 2125-2136
+  quote_or_summary: 'The passage lists stylistic points: affected ignorance of music,
+    tentative construction of the State, the State as reality and imagination, and
+    links preparing for the expulsion of poets.'
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:5
+  type: summary
+  locator: lines 2136-2139
+  quote_or_summary: The passage mentions companion pictures of the lover of litigation
+    and valetudinarian, a jest about Phocylides’ maxim, the image of gold and silver
+    citizens, and an argument from Asclepius’ practice.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif assignment is limited because
+    the passage is analytical and philosophical rather than mythic narrative; comparison
+    claims were left empty.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No external comparisons were added because the passage itself does not support a specific comparative claim beyond the internal duality pattern.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-plato-republic-jowett-gutenberg__l2076-l2139
+  passage_sha256=49cbc23f2587bd176a298528c1f73d1845e729960d704809387bf5ee469cc271
+

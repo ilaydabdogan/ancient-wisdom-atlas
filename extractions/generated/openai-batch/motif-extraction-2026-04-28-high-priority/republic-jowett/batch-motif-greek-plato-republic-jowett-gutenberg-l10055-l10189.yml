@@ -1,0 +1,334 @@
+---
+record_id: batch.motif.greek-plato-republic-jowett-gutenberg-l10055-l10189
+source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+passage_locator:
+  label: INTRODUCTION AND ANALYSIS. / THE REPUBLIC. / PERSONS OF THE DIALOGUE. / BOOK
+    I.; lines 10055-10189
+  start: '10055'
+  end: '10189'
+  translation: The Republic
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Socrates leads Thrasymachus through an argument that the just person is
+    wise and good while the unjust is evil and ignorant. He then argues that injustice
+    produces division, hatred, fighting, and incapacity for common action in states,
+    armies, groups, families, and individuals, whereas justice produces harmony and
+    friendship. The passage ends with the claim that the gods are just, making the
+    unjust their enemy and the just their friend.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The dialogue contrasts the just person with the unjust person and associates
+    the just with wisdom and goodness, and the unjust with evil and ignorance.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Thrasymachus makes admissions reluctantly; the narrator describes him perspiring
+    and blushing.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Socrates asks whether an unjust state can enslave other states and whether
+    such power can be exercised with or without justice.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage states that groups such as a state, army, band of robbers and
+    thieves, or other gang of wrongdoers cannot act if they injure one another.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage states that injustice creates divisions, hatreds, and fighting,
+    while justice imparts harmony and friendship.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage applies the divisive effect of injustice to pairs, cities, armies,
+    families, other bodies, and single persons.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The passage states that the gods are just, that the unjust person is their
+    enemy, and that the just person is their friend.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Socrates / narrator-speaker
+  description: The first-person speaker who questions Thrasymachus and develops the
+    argument about justice and injustice.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Thrasymachus
+  description: The respondent who makes admissions reluctantly, objects to being constrained
+    in speech, and answers Socrates' questions.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: fig:3
+  name_or_label: the just
+  description: Persons or agents characterized as wise, good, friends of the gods,
+    and capable of harmony and friendship.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: fig:4
+  name_or_label: the unjust
+  description: Persons or agents characterized as evil, ignorant, divisive, enemies
+    of themselves, enemies of the just, and enemies of the gods.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: unjust collective bodies
+  description: Examples include a state, army, band of robbers and thieves, gang of
+    evildoers, city, family, or other body affected by injustice.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:6
+  name_or_label: the gods
+  description: Divine beings described in the passage as just.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: questioning examiner
+  assigned_to:
+  - fig:1
+  basis: The speaker asks repeated questions and carries the examination of justice
+    and injustice forward.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:2
+  label: reluctant respondent
+  assigned_to:
+  - fig:2
+  basis: Thrasymachus admits points reluctantly, objects to the manner of questioning,
+    and finally declines to oppose the argument.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: role:3
+  label: wise and good party
+  assigned_to:
+  - fig:3
+  basis: The just are identified with wisdom, goodness, virtue, harmony, friendship,
+    and friendship with the gods.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: role:4
+  label: ignorant and divisive party
+  assigned_to:
+  - fig:4
+  basis: The unjust are identified with evil and ignorance and are described as producing
+    quarrel, enmity, and disunity.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: role:5
+  label: collective body vulnerable to internal division
+  assigned_to:
+  - fig:5
+  basis: States, armies, gangs, families, and other bodies are said to become incapable
+    of united action when injustice is present.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:6
+  label: just divine beings
+  assigned_to:
+  - fig:6
+  basis: The passage explicitly grants that the gods are just.
+  evidence_refs:
+  - ev:5
+symbols: []
+scenes:
+- id: scene:1
+  label: Reluctant agreement that justice is wisdom
+  summary: Socrates secures Thrasymachus' admission that the just is wise and good
+    and that the unjust is evil and ignorant; Thrasymachus is described as reluctant,
+    sweating, and blushing.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Testing injustice as power in collective action
+  summary: Socrates asks whether an unjust state or group can act successfully if
+    its members injure one another, leading to the claim that injustice causes division
+    while justice enables harmony and friendship.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Injustice as inner and social disunity
+  summary: The argument extends the effects of injustice to pairs, cities, armies,
+    families, other bodies, and individuals, making them enemies to themselves, to
+    the just, and finally to the gods.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Wisdom and justice identified
+  taxonomy_refs:
+  - wisdom
+  basis: Justice is explicitly identified with wisdom and virtue, while injustice
+    is identified with ignorance and vice.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is a philosophical argument rather than a narrative mythic episode;
+    the taxonomy reference is used only for the explicit wisdom theme.
+- id: motif:2
+  label: Moral duality of just and unjust
+  taxonomy_refs:
+  - duality
+  basis: The passage repeatedly contrasts just/unjust, wise/ignorant, good/evil, friendship/enmity,
+    and harmony/division.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The duality is conceptual and ethical, not embodied in mythic twins, paired
+    deities, or cosmological opposites.
+- id: motif:3
+  label: Injustice as internal division
+  taxonomy_refs: []
+  basis: Injustice is said to make collectives and individuals incapable of united
+    action by producing sedition, distraction, hatred, quarrel, and enmity.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: No supplied taxonomy reference precisely names this political-psychological
+    pattern.
+- id: motif:4
+  label: Friendship or enmity with just gods
+  taxonomy_refs: []
+  basis: The passage states that the gods are just, so the unjust is their enemy and
+    the just their friend.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage does not describe divine punishment, judgment, ritual, or
+    an afterlife scene; therefore no stronger divine-judgment motif is assigned.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 10055-10076
+  quote_or_summary: Socrates elicits that the just is like the wise and good and the
+    unjust like the evil and ignorant; Thrasymachus admits this reluctantly, perspiring
+    and blushing.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; short summary used.
+- id: ev:2
+  type: summary
+  locator: lines 10077-10113
+  quote_or_summary: Socrates resumes the question whether injustice has strength,
+    using the example of an unjust state enslaving other states and asking whether
+    such power can exist with or without justice.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; short summary used.
+- id: ev:3
+  type: quote
+  locator: lines 10114-10139
+  quote_or_summary: "“injustice creates divisions and hatreds and fighting, and justice
+    imparts harmony and friendship”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; brief quotation used.
+- id: ev:4
+  type: summary
+  locator: lines 10140-10167
+  quote_or_summary: Injustice among two people, in a city, army, family, other body,
+    or single person is said to produce quarrel, disunity, incapacity for united action,
+    and enmity toward self and the just.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; short summary used.
+- id: ev:5
+  type: summary
+  locator: lines 10168-10189
+  quote_or_summary: Socrates obtains agreement that the gods are just; from this he
+    concludes that the unjust is enemy of the gods and the just is their friend, while
+    Thrasymachus declines to oppose him.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; short summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is a philosophical dialogue with abstract ethical motifs rather
+    than mythic narrative imagery. No comparison claims are made because the passage
+    itself does not support an external comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only provided passage and metadata were used. Symbols array is empty because no supplied concrete symbol such as cave, fire, water, serpent, tree, mountain, or milk appears in the passage.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-plato-republic-jowett-gutenberg__l10055-l10189
+  passage_sha256=fcf3ff21430ed190a91001283bc3c9321cad8fee7cc7f4b27fac90fb6591fa91
+

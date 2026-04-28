@@ -1,0 +1,328 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l4249-l4268
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE GOATHERD AND THE GOAT / THE SHEEP AND THE DOG / THE SHEPHERD AND THE
+    WOLF / THE LION, JUPITER, AND THE ELEPHANT; lines 4249-4268
+  start: '4249'
+  end: '4268'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A lion is ashamed because he fears a cock's crowing and complains to Jupiter.
+    Jupiter says the lion should be content with only one failing. The lion then meets
+    an elephant, learns that the elephant fears a gnat entering his ear, and is comforted
+    by realizing that even a huge animal fears something small.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The lion is large and strong, with sharp teeth and claws, but fears the sound
+    of a cock crowing and runs away when he hears it.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The lion complains to Jupiter about being made with this fear.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Jupiter tells the lion that he has done the best he could for him and that
+    the lion should be content because this is his only failing.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The lion remains ashamed of his timidity and wishes he might die.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The lion meets the elephant and notices that the elephant keeps cocking up
+    his ears as if listening for something.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: A gnat hums by, and the elephant says he is afraid that it will get into his
+    ear and kill him.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The lion's spirits rise when he compares his fear of a cock with the elephant's
+    fear of a gnat.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Lion
+  description: A large, strong lion with sharp teeth and claws who fears a cock's
+    crowing and later takes comfort from the elephant's fear.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:6
+- id: fig:2
+  name_or_label: Jupiter
+  description: A divine figure addressed by the lion; he says he did the best he could
+    for the lion and that the lion should be content with only one failing.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Elephant
+  description: A great beast who keeps his ears raised and says he fears a gnat entering
+    his ear.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: Cock
+  description: A cock whose crowing frightens the lion; the cock is not directly present
+    in the narrated encounter.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: fig:5
+  name_or_label: Gnat
+  description: A small buzzing insect whose possible entry into the elephant's ear
+    frightens the elephant.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: powerful animal with a particular fear
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: Both the lion and the elephant are described as large or great, yet each
+    is afraid of a smaller creature or sound.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+- id: role:2
+  label: divine respondent
+  assigned_to:
+  - fig:2
+  basis: Jupiter answers the lion's complaint about how he was made.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: complainant seeking relief from shame
+  assigned_to:
+  - fig:1
+  basis: The lion complains bitterly to Jupiter and is ashamed of his timidity.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: example that changes another's mood
+  assigned_to:
+  - fig:3
+  basis: The elephant's fear of a gnat causes the lion's spirits to rise.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:5
+  label: small or lesser feared creature
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: The cock's crowing frightens the lion, and the gnat frightens the elephant.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: cock crowing as fear trigger
+  literal_form: the sound of a cock crowing
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: sym:2
+  label: gnat as fear trigger
+  literal_form: a wretched little buzzing insect / gnat
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:3
+  label: raised ears as watchfulness
+  literal_form: the elephant cocking up his ears as if listening
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Lion complains to Jupiter
+  summary: The lion, despite his strength, is distressed by his fear of a cock's crowing
+    and complains to Jupiter, who tells him he should be content with only one failing.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Lion learns the elephant's fear
+  summary: The lion meets the elephant, notices his alert ears, and hears him say
+    that he fears a gnat entering his ear.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Lion is comforted by comparison
+  summary: The lion feels better after reasoning that the elephant, though huge, fears
+    a gnat, while the lion fears a cock, which is much larger than a gnat.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: powerful creature afraid of something small
+  taxonomy_refs: []
+  basis: The lion is strong but fears a cock's crowing, and the huge elephant fears
+    a gnat entering his ear.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: This is a passage-level fable pattern rather than a supplied formal taxonomy
+    motif.
+- id: motif:2
+  label: consolation through discovering another's weakness
+  taxonomy_refs:
+  - wisdom
+  basis: The lion's mood improves when he learns that the elephant has a fear that
+    appears even more disproportionate than his own.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The link to the broad taxonomy family “wisdom” is interpretive and should
+    be reviewed.
+- id: motif:3
+  label: one failing amid great strengths
+  taxonomy_refs:
+  - wisdom
+  basis: Jupiter tells the lion that, since fear of cock-crowing is his only failing,
+    he should be content.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The moral lesson is implied through Jupiter's speech and the later comparison,
+    but no explicit moral is given in the supplied passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 4249-4254
+  quote_or_summary: The lion is described as large and strong, with sharp teeth and
+    claws, yet he cannot bear a cock crowing and runs away when he hears it.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 4254-4258
+  quote_or_summary: The lion complains to Jupiter, who says it is not his fault, that
+    he did the best he could, and that the lion should be content because this is
+    his only failing.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 4258-4260
+  quote_or_summary: The lion remains uncomforted, is ashamed of his timidity, and
+    wishes he might die.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 4260-4263
+  quote_or_summary: The lion meets the elephant, talks with him, and asks why the
+    elephant keeps cocking up his ears as though listening.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: 4263-4266
+  quote_or_summary: "“I'm terribly afraid of its getting into my ear: if it once gets
+    in, I'm dead and done for.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:6
+  type: summary
+  locator: 4266-4268
+  quote_or_summary: The lion's spirits rise because, if the huge elephant fears a
+    gnat, the lion need not be ashamed of fearing a cock, which is much bigger than
+    a gnat.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward from the supplied English passage.
+    Motif labels are descriptive and passage-level; taxonomy assignment to “wisdom”
+    is broad and should be reviewed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage text was used. No comparison claims were added because the passage does not itself establish a comparison with another text or tradition.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l4249-l4268
+  passage_sha256=36e9fa9ffa8a94cea0e5fa9590ccbfd82475d7c79ac68769c67a6c9e98e776a3
+

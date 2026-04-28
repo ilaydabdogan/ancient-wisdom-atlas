@@ -1,0 +1,446 @@
+---
+record_id: batch.motif.greek-plato-republic-jowett-gutenberg-l1265-l1334
+source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+passage_locator:
+  label: The Republic / THE REPUBLIC / INTRODUCTION AND ANALYSIS.; lines 1265-1334
+  start: '1265'
+  end: '1334'
+  translation: The Republic
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage summarizes Socrates' move from a question about justice in
+    the individual to justice in the State, describes the origin of society from human
+    needs and division of labor, contrasts a simple rustic city with a luxurious city,
+    traces luxury to war, and introduces guardians modeled on watchdogs who must combine
+    fierceness toward enemies with gentleness toward friends through philosophy and
+    education.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Socrates says he will look for justice in the State first and then in the
+    individual, comparing this to reading large letters before smaller ones because
+    of weak eyes.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The State is said to begin when individuals gather in one place to satisfy
+    needs through exchange.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The first named wants are food, a house, and a coat.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The city requires specialized workers, including a husbandman, builder, weaver,
+    cobbler, merchants, ship-related trade, market, money, retail trades, and hired
+    servants.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The simple city's inhabitants build their own houses, make their own clothes,
+    produce corn and wine, eat simple foods, drink moderately, live amicably, and
+    limit children.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Glaucon objects that the simple city lacks relish and calls it a city of pigs.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The luxurious city adds comforts, arts, ornaments, entertainers, cooks, attendants,
+    animal keepers, and physicians.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The luxurious city needs neighboring land, and this need is identified as
+    the origin of war.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The city requires a camp, and citizens are converted into soldiers.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: Guardians require both gentleness toward friends and fierceness toward enemies.
+  category: attribute
+  evidence_refs:
+  - ev:8
+- id: obs:11
+  text: Dogs are used as an image for guardians because they are gentle to friends
+    and fierce to strangers.
+  category: relationship
+  evidence_refs:
+  - ev:8
+- id: obs:12
+  text: The human watchdogs must be philosophers or lovers of learning and require
+    education.
+  category: attribute
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Socrates
+  description: Speaker who praises the sons of Ariston, shifts the inquiry to the
+    State, constructs the city, and argues about guardians.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:8
+- id: fig:2
+  name_or_label: sons of Ariston
+  description: Praised by Socrates as eloquent speakers on behalf of injustice whose
+    character is said to show they are not influenced by their own arguments.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Glaucon
+  description: Interlocutor who objects to the simple city and asks for comforts of
+    life.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: citizens of the simple city
+  description: People who build houses, make clothes, produce corn and wine, eat simple
+    foods, drink moderately, and live on good terms.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: guardians or human watchdogs
+  description: Warlike natures required for the city, needing gentleness to friends,
+    fierceness to enemies, philosophy, and education.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: fig:6
+  name_or_label: dogs
+  description: Animals described as keen, swift, strong, gentle to friends, fierce
+    to strangers, and used as an image for guardians.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:7
+  - ev:8
+roles:
+- id: role:1
+  label: inquirer and city-constructor
+  assigned_to:
+  - fig:1
+  basis: Socrates proposes to look for justice in the State first and begins to construct
+    the State.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: eloquent defenders of injustice
+  assigned_to:
+  - fig:2
+  basis: They are described as arguing eloquently on behalf of injustice while not
+    being influenced by their own arguments.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: objector to the simple city
+  assigned_to:
+  - fig:3
+  basis: Glaucon asks whether the people will have relish and calls the simple city
+    a city of pigs.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: self-sufficient rustic citizens
+  assigned_to:
+  - fig:4
+  basis: They produce their own dwellings, clothing, food, and drink and live moderately
+    with one another.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: soldier-defenders
+  assigned_to:
+  - fig:5
+  basis: The city requires a camp, citizens become soldiers, and some warlike natures
+    have aptitude for military duties.
+  evidence_refs:
+  - ev:7
+- id: role:6
+  label: philosopher-guardians
+  assigned_to:
+  - fig:5
+  basis: The human watchdogs must be philosophers or lovers of learning so that they
+    will be gentle.
+  evidence_refs:
+  - ev:8
+- id: role:7
+  label: model for guardians
+  assigned_to:
+  - fig:6
+  basis: Dogs are presented as gentle to friends and fierce to strangers, suggesting
+    an answer to who can be a guardian.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: large letters before small letters
+  literal_form: reading large letters first and then smaller letters because of weak
+    eyes
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: State as first object of inquiry
+  literal_form: the State examined before the individual
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: fire for roasting food
+  literal_form: fire used to roast chestnuts
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: watchdog image
+  literal_form: dog gentle to friends and fierce to strangers
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:5
+  label: market and money
+  literal_form: market and money enabling buyers and sellers to meet
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Inquiry turns from individual to State
+  summary: Socrates, unable to abandon justice, proposes to examine justice in the
+    State before the individual by analogy with reading larger letters first.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Origin and organization of the city
+  summary: Society begins from human needs and exchange, then expands through division
+    of labor, trade, money, market exchange, and hired service.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Simple rustic city
+  summary: The inhabitants live in self-built houses, make clothing, produce food
+    and wine, eat and drink moderately, share simple relishes, roast chestnuts at
+    the fire, and maintain good relations.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Luxury and the origin of war
+  summary: Glaucon asks for comforts beyond the simple life; the luxurious city adds
+    arts, ornaments, attendants, animal keepers, and physicians, then needs neighboring
+    land, giving rise to war.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Guardians as philosophical watchdogs
+  summary: The enlarged city needs soldiers and guardians whose warlike nature must
+    be tempered by gentleness; dogs provide the image for combining fierceness toward
+    strangers with gentleness toward friends, and education in philosophy is required.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: macrocosm examined before microcosm
+  taxonomy_refs: []
+  basis: Socrates proposes to read the larger letters first by examining justice in
+    the State before justice in the individual.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is an analytic-philosophical pattern in the passage rather than a
+    mythic narrative motif.
+- id: motif:2
+  label: origin of society from human need
+  taxonomy_refs: []
+  basis: The passage states that society arises from human wants and the possibility
+    of satisfying them through exchange.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage presents a political origin account, not a divine or cosmogonic
+    origin myth.
+- id: motif:3
+  label: luxury produces conflict
+  taxonomy_refs: []
+  basis: The move from simple to luxurious city requires more resources, including
+    neighboring land, and is identified as the origin of war.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The causal account is political and ethical; no supernatural agency is
+    present.
+- id: motif:4
+  label: animal model for human guardian
+  taxonomy_refs: []
+  basis: Dogs serve as the image for guardians who are gentle to friends and fierce
+    to strangers.
+  evidence_refs:
+  - ev:8
+  confidence: high
+  cautions: The dog is used as an analogy rather than appearing as a mythic helper
+    or transformed being.
+- id: motif:5
+  label: wisdom as condition of proper guardianship
+  taxonomy_refs:
+  - wisdom
+  basis: The human watchdogs must be philosophers or lovers of learning, and education
+    is required to make them gentle.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: The available taxonomy reference 'wisdom' fits broadly, but the passage
+    frames wisdom as philosophical education rather than mythic revelation.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1265-1274
+  quote_or_summary: Socrates praises the sons of Ariston, is afraid of deserting justice,
+    and proposes to read the large letters first by seeking justice in the State before
+    the individual.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; short summary only.
+- id: ev:2
+  type: summary
+  locator: lines 1275-1283
+  quote_or_summary: 'Society arises from human wants: food, house, and coat; individuals
+    gather to satisfy needs through exchange, forming the beginning of a State.'
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; short summary only.
+- id: ev:3
+  type: summary
+  locator: lines 1283-1297
+  quote_or_summary: The city expands through division of labor, trades, tool-makers,
+    shepherds, husbandmen, imports, exports, merchants, ships, market, money, retail
+    trades, and hired servants.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; short summary only.
+- id: ev:4
+  type: summary
+  locator: lines 1298-1306
+  quote_or_summary: The rustic inhabitants build houses, make clothes, produce corn
+    and wine, eat meal and flour, drink moderately, live amicably, limit children,
+    and have salt, olives, cheese, vegetables, fruits, and chestnuts roasted at the
+    fire.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; short summary only.
+- id: ev:5
+  type: quote
+  locator: lines 1304-1308
+  quote_or_summary: Glaucon asks whether the people will have a relish and says, "'Tis
+    a city of pigs, Socrates"; he asks for sofas, tables, sauces, and sweets.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; brief quotation used.
+- id: ev:6
+  type: summary
+  locator: lines 1308-1320
+  quote_or_summary: The luxurious State adds fine arts, instruments, ornaments, dancers,
+    painters, sculptors, musicians, cooks, attendants, animal keepers, and physicians;
+    feeding these mouths requires neighboring land, which is identified as the origin
+    of war.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; short summary only.
+- id: ev:7
+  type: summary
+  locator: lines 1320-1327
+  quote_or_summary: The city now requires a camp; citizens become soldiers; military
+    duties require aptitude, and warlike natures are compared to dogs keen of scent,
+    swift of foot, and strong of limb.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; short summary only.
+- id: ev:8
+  type: summary
+  locator: lines 1327-1334
+  quote_or_summary: Guardians need both gentleness to friends and fierceness to enemies;
+    dogs are gentle to friends and fierce to strangers, and human watchdogs must be
+    philosophers or lovers of learning, requiring education.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; short summary only.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is an English public-domain summary/analysis of Plato rather
+    than a direct dramatic excerpt. Literal political-philosophical patterns are clear;
+    mythological motif classification is limited.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not support historical or cross-traditional comparison.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-plato-republic-jowett-gutenberg__l1265-l1334
+  passage_sha256=66b2e35ce4c513c5fec6fceb332c2e6ff534b58faf21261529ff03f9577acd4d
+

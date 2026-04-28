@@ -1,0 +1,270 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l1469-l1481
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE DOLPHINS, THE WHALES, AND THE SPRAT / THE FOX AND THE MONKEY / THE ASS
+    AND THE LAP-DOG / THE FIR-TREE AND THE BRAMBLE; lines 1469-1481
+  start: '1469'
+  end: '1481'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A fir-tree boasts to a bramble that it is useful for building houses, while
+    the bramble answers that this usefulness exposes the fir to being cut down with
+    axes and saws. The stated moral prefers poverty without care to wealth with obligations.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is titled "THE FIR-TREE AND THE BRAMBLE."
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A fir-tree boasts to a bramble and speaks contemptuously to it.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The fir-tree says the bramble is of no use and contrasts this with its own
+    usefulness, especially for house-building.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The bramble replies that when men come with axes and saws to cut the fir-tree
+    down, the fir-tree will wish it were a bramble.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage ends with the moral that poverty without care is better than wealth
+    with many obligations.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Fir-tree
+  description: A tree that boasts of being useful for many things, especially house-building,
+    and is vulnerable to being cut down.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Bramble
+  description: A bramble addressed contemptuously by the fir-tree; it replies by pointing
+    out the danger attached to the fir-tree's usefulness.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Men
+  description: Human cutters or builders mentioned as those who build houses and may
+    come with axes and saws to cut down the fir-tree.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: boaster
+  assigned_to:
+  - fig:1
+  basis: The fir-tree boasts to the bramble and speaks contemptuously.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: rebuking respondent
+  assigned_to:
+  - fig:2
+  basis: The bramble answers the fir-tree by warning of the danger of being useful
+    timber.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: useful but vulnerable object
+  assigned_to:
+  - fig:1
+  basis: The fir-tree is useful for house-building and therefore liable to be cut
+    down.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: lowly but safer counterpart
+  assigned_to:
+  - fig:2
+  basis: The bramble is called useless by the fir-tree, but the bramble presents its
+    lower status as safer than the fir-tree's condition.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: human users and cutters
+  assigned_to:
+  - fig:3
+  basis: Men are mentioned as builders who need the fir-tree and as those who may
+    arrive with axes and saws to cut it down.
+  evidence_refs:
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: tree
+  literal_form: Fir-tree
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: bramble
+  literal_form: Bramble
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: cutting tools
+  literal_form: Axes and saws
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: house-building material
+  literal_form: Fir-tree used when men build houses
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Fir-tree boasts of usefulness
+  summary: The fir-tree boasts to the bramble, dismisses it as useless, and claims
+    its own value for many purposes, especially house-building.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Bramble warns of being cut down
+  summary: The bramble responds that the fir-tree's usefulness will bring men with
+    axes and saws to cut it down, making the fir-tree wish it were a bramble.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Stated moral
+  summary: The moral states that poverty without care is better than wealth with many
+    obligations.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Lowly safety preferred to valuable vulnerability
+  taxonomy_refs:
+  - wisdom
+  basis: The bramble argues that the fir-tree's usefulness exposes it to cutting,
+    and the explicit moral prefers poverty without care to wealth with obligations.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The available taxonomy only broadly supports this as a wisdom motif; the
+    passage is a moral fable rather than a mythic sacred-tree episode.
+- id: motif:2
+  label: Boast answered by practical reversal
+  taxonomy_refs:
+  - wisdom
+  basis: The fir-tree boasts over the bramble, but the bramble reverses the valuation
+    by showing that the fir-tree's apparent advantage brings danger.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is a local fable pattern; no specific cross-tradition comparison
+    is asserted from the passage alone.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: citation
+  locator: '1469'
+  quote_or_summary: 'Passage title: "THE FIR-TREE AND THE BRAMBLE."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:2
+  type: summary
+  locator: 1471-1475
+  quote_or_summary: The fir-tree boasts to the bramble, calls it useless, and says
+    the fir is useful for many things, especially when men build houses.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 1475-1478
+  quote_or_summary: The bramble replies that men may come with axes and saws to cut
+    the fir-tree down, making it wish it were a bramble.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: 1480-1481
+  quote_or_summary: '"Better poverty without a care than wealth with its many obligations."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation used.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: uncertain
+  notes: The passage is short and explicit, with a stated moral. No comparison claims
+    were added because the supplied passage does not itself support a specific comparative
+    relation.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage text was used; other titles in the locator label were not treated as part of this passage.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l1469-l1481
+  passage_sha256=ca304f32d3d0d2a60046ec508515441044c1a28be9e01e5b6b0a91908e824417
+

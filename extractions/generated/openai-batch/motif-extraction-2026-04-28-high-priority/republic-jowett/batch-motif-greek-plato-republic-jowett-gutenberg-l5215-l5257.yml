@@ -1,0 +1,327 @@
+---
+record_id: batch.motif.greek-plato-republic-jowett-gutenberg-l5215-l5257
+source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+passage_locator:
+  label: The Republic / THE REPUBLIC / INTRODUCTION AND ANALYSIS.; lines 5215-5257
+  start: '5215'
+  end: '5257'
+  translation: The Republic
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: "“the best and justest of men is also the happiest”"
+  summary: The passage contrasts the miserable unjust tyrannical man with the just
+    self-mastered man, then presents a second proof based on three pleasures corresponding
+    to reason, passion, and desire, concluding that the rational philosophical life
+    is the pleasantest, followed by ambition and then money-making.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A man who has many evils is described as becoming more miserable when placed
+    in a public station, mastering others while not mastering himself.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The tyrannical or unjust character is described as fearful, distracted, jealous,
+    hateful, faithless, envious, and unrighteous, worsening with command.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A proclamation states that the best and justest man is the happiest and is
+    most royal master of himself.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The unjust man is described as the greatest tyrant of himself and of his State,
+    whether seen or unseen by gods or men.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: 'The passage presents three kinds of pleasure corresponding to three elements
+    of the soul: reason, passion, and desire.'
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Desire includes avarice and sensual appetite; passion includes ambition, party-feeling,
+    and love of reputation; reason is directed toward truth and is careless of money
+    and reputation.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The money-maker, the ambitious man, and the philosopher each praise their
+    own pleasures and depreciate the pleasures of the others.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The philosopher is said to have wider experience and truer knowledge because
+    he knows other pleasures and uses reason as his instrument of judgment.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The passage ranks the rational life as pleasantest, the life of ambition second,
+    and the life of money-making third.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: unjust or tyrannical man
+  description: A miserable man who is master of others but not of himself, and who
+    becomes worse with command.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: best and justest man
+  description: The happiest man, described as the most royal master of himself.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: philosopher
+  description: A person who values the fruition of truth, has experience of other
+    pleasures, and judges by reason.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: money-maker
+  description: A person who values wealth and contrasts knowledge with the advantages
+    of wealth.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:5
+  name_or_label: ambitious man
+  description: A person who values honour and reputation and despises knowledge that
+    brings no honour.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:6
+roles:
+- id: role:1
+  label: inner tyrant
+  assigned_to:
+  - fig:1
+  basis: The unjust man is called the greatest tyrant of himself and of his State
+    and is not master of himself.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: self-mastered just person
+  assigned_to:
+  - fig:2
+  basis: The best and justest man is described as happiest and most royal master of
+    himself.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: rational judge of pleasures
+  assigned_to:
+  - fig:3
+  basis: The philosopher uses reason, has experience of other pleasures, and judges
+    the rational pleasure as truest.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:4
+  label: wealth-oriented evaluator
+  assigned_to:
+  - fig:4
+  basis: The money-maker praises wealth and uses wealth as a standard.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:5
+  label: honour-oriented evaluator
+  assigned_to:
+  - fig:5
+  basis: The ambitious man values honour and reputation and is placed second in the
+    ranking of lives.
+  evidence_refs:
+  - ev:4
+  - ev:6
+symbols:
+- id: sym:1
+  label: self-rule and inner tyranny
+  literal_form: royal master of himself; greatest tyrant of himself and of his State
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: threefold soul
+  literal_form: 'three elements of the soul: reason, passion, desire'
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: public proclamation of moral result
+  literal_form: final trial and proclamation; herald
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Proclamation of the first proof
+  summary: A final proclamation contrasts the self-mastered just man as happiest with
+    the unjust man as tyrant of himself and his State.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Division of pleasures and soul-elements
+  summary: The second proof distinguishes pleasures corresponding to reason, passion,
+    and desire and associates them with truth, ambition, and appetite or avarice.
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Judgment among three lives
+  summary: The money-maker, ambitious man, and philosopher are compared, and the philosopher’s
+    rational pleasure is judged the truest and pleasantest.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: self-mastery versus inner tyranny
+  taxonomy_refs: []
+  basis: The passage opposes a just man who is master of himself to an unjust man
+    who is tyrant of himself and his State.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is a philosophical and political-ethical motif rather than a narrative
+    mythic episode.
+- id: motif:2
+  label: wisdom as the highest pleasure
+  taxonomy_refs:
+  - wisdom
+  basis: The philosopher’s pursuit of truth and use of reason are presented as the
+    basis for judging the rational life as pleasantest.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage frames wisdom analytically rather than through a mythic personification
+    or quest narrative.
+- id: motif:3
+  label: tripartite ordering of the soul and lives
+  taxonomy_refs: []
+  basis: The passage maps three kinds of pleasure to reason, passion, and desire,
+    then ranks rational, ambitious, and money-making lives.
+  evidence_refs:
+  - ev:3
+  - ev:6
+  confidence: medium
+  cautions: The triadic structure is explicit, but it is a philosophical schema rather
+    than a symbolic mythic triad.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5215-5223
+  quote_or_summary: The miserable man in public station is master of others but not
+    himself; his fearful, jealous, hateful, faithless, and unrighteous temper worsens
+    with command.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: quote
+  locator: lines 5223-5231
+  quote_or_summary: "“the best and justest of men is also the happiest”; the unjust
+    man is “the greatest tyrant of himself and of his State,” seen or unseen by gods
+    or men."
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:3
+  type: summary
+  locator: lines 5232-5239
+  quote_or_summary: The second proof derives from three kinds of pleasure corresponding
+    to reason, passion, and desire; desire includes avarice and sensual appetite,
+    passion includes ambition and reputation, and reason seeks truth.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 5239-5248
+  quote_or_summary: 'The three natures each praise their own pleasures: the money-maker
+    values wealth, the ambitious man values honour, and the philosopher values the
+    fruition of truth.'
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: lines 5248-5254
+  quote_or_summary: The passage asks which nature has the truest knowledge and widest
+    experience, concluding that the philosopher knows other pleasures and judges by
+    reason, while the others do not attain knowledge of true being.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:6
+  type: quote
+  locator: lines 5254-5257
+  quote_or_summary: "“the pleasure of the rational part of the soul...is the pleasantest”;
+    next comes ambition, and third the life of money-making."
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; short quotation used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is philosophical analysis with explicit ethical and psychological
+    patterns; mythological motif extraction is therefore limited and should be reviewed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not support a cautious comparison to an external motif family, pattern, or nearby corpus tradition beyond the provided taxonomy reference to wisdom.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-plato-republic-jowett-gutenberg__l5215-l5257
+  passage_sha256=b5a9e1d5eec869b8237912d10e5cb1cd61958984183a14f878d961aca3f5bd29
+

@@ -1,0 +1,350 @@
+---
+record_id: batch.motif.greek-plato-republic-jowett-gutenberg-l10191-l10359
+source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+passage_locator:
+  label: INTRODUCTION AND ANALYSIS. / THE REPUBLIC. / PERSONS OF THE DIALOGUE. / BOOK
+    I.; lines 10191-10359
+  start: '10191'
+  end: '10359'
+  translation: The Republic
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Socrates argues with Thrasymachus that injustice cannot enable stable common
+    action, that each thing has a characteristic end and excellence, that the soul’s
+    functions include ruling, deliberating, and living, and that justice is the soul’s
+    excellence while injustice is its defect. He concludes that the just person lives
+    well and is happy, while the unjust person lives badly and is miserable, but ends
+    by saying he still does not know what justice itself is.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The speaker says unjust people cannot act vigorously together if they are
+    wholly evil, because they would injure one another as well as their victims.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker identifies a remnant of justice as what allows unjust people to
+    combine in enterprises.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The dialogue uses examples of a horse, eye, ear, vine-branch, dagger, chisel,
+    and pruning-hook to discuss the end or use of a thing.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The eye and ear are presented as organs with proper ends and excellences;
+    blindness or deprivation of excellence prevents fulfillment of the end.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The soul is said to have functions that nothing else can fulfill, including
+    superintending, commanding, deliberating, and living.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The interlocutors agree that justice is the excellence of the soul and injustice
+    is its defect.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The argument concludes that the just soul and just man live well and are happy,
+    while the unjust man lives ill and is miserable.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Thrasymachus calls the argument Socrates’ entertainment at the Bendidea.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: Socrates compares his own rapid movement through topics to an epicure snatching
+    tastes from successive dishes.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: Socrates ends by saying he does not know what justice is, and therefore cannot
+    know whether it is virtue or whether the just man is happy or unhappy.
+  category: speech
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Socrates
+  description: Named speaker who conducts the questioning, argues that justice is
+    the soul’s excellence, and later says he has not discovered the nature of justice.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:8
+  - ev:9
+- id: fig:2
+  name_or_label: Thrasymachus
+  description: Named interlocutor addressed by Socrates; he accepts parts of the argument
+    and calls it Socrates’ entertainment at the Bendidea.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+roles:
+- id: role:1
+  label: questioning arguer
+  assigned_to:
+  - fig:1
+  basis: Socrates proceeds through questions about ends, excellences, the soul, justice,
+    and happiness.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:2
+  label: responding interlocutor
+  assigned_to:
+  - fig:2
+  basis: Thrasymachus responds to the argument and is directly addressed by Socrates.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:3
+  label: self-critical seeker of definition
+  assigned_to:
+  - fig:1
+  basis: Socrates says he has gone from subject to subject without discovering the
+    nature of justice and concludes that he knows nothing about it.
+  evidence_refs:
+  - ev:8
+  - ev:9
+symbols:
+- id: sym:1
+  label: eye and ear as examples of proper function
+  literal_form: eye; ear
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: pruning-hook as example of specialized use
+  literal_form: pruning-hook used to cut a vine-branch better than other tools
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: soul as bearer of ruling and life functions
+  literal_form: soul that superintends, commands, deliberates, and lives
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: repast as image for philosophical discussion
+  literal_form: repast, dishes, and entertainment at the Bendidea
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+scenes:
+- id: scene:1
+  label: Justice as condition for joint action
+  summary: The argument states that wholly unjust people would be unable to act together,
+    because without some remnant of justice they would harm one another as well as
+    their victims.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Examples of ends and excellences
+  summary: Socrates develops an analogy in which organs and tools have proper ends
+    and excellences, using the eye, ear, and pruning-hook as examples.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Application to the soul
+  summary: The dialogue applies the end-and-excellence pattern to the soul, assigning
+    it functions such as ruling, deliberating, and living, and identifying justice
+    as its excellence and injustice as its defect.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Happiness conclusion and Socratic self-correction
+  summary: The argument concludes that the just are happy and the unjust miserable;
+    Socrates then frames the exchange as inadequate entertainment and says he still
+    lacks knowledge of what justice is.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: justice as soul-excellence leading to happy life
+  taxonomy_refs:
+  - wisdom
+  basis: The passage presents a reasoned inquiry linking the soul’s proper function,
+    justice as excellence, and the conclusion that the just person lives well and
+    happily.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: This is a philosophical argument rather than a narrative mythic episode;
+    the taxonomy reference is thematic and should be reviewed.
+- id: motif:2
+  label: opposition of justice and injustice
+  taxonomy_refs:
+  - duality
+  basis: The passage repeatedly contrasts justice with injustice, good soul with evil
+    soul, living well with living ill, and happiness with misery.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The duality is ethical and argumentative, not personified or mythological
+    in this passage.
+- id: motif:3
+  label: inquiry ending in acknowledged ignorance
+  taxonomy_refs:
+  - wisdom
+  basis: After deriving conclusions about justice and happiness, Socrates says he
+    still does not know what justice is and therefore cannot securely know its attributes
+    or consequences.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  confidence: medium
+  cautions: This is a Socratic philosophical pattern rather than a conventional mythic
+    motif; human review is needed.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 10191-10210
+  quote_or_summary: Socrates says unjust people acting together must retain some justice;
+    wholly unjust people would injure one another and be incapable of action.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 10215-10255
+  quote_or_summary: Socrates asks about the end or use of things and uses examples
+    including a horse, eye, ear, vine-branch, dagger, chisel, and pruning-hook.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 10256-10288
+  quote_or_summary: The speakers agree that things such as the eye and ear have ends
+    and excellences, and that defects such as blindness prevent the fulfillment of
+    their ends.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 10290-10300
+  quote_or_summary: "“has not the soul an end which nothing else can fulfil? for example,
+    to superintend and command and deliberate and the like.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; short quotation.
+- id: ev:5
+  type: summary
+  locator: lines 10301-10316
+  quote_or_summary: The soul is said to have an excellence; an evil soul rules badly
+    and a good soul rules well; justice is admitted as the soul’s excellence and injustice
+    as its defect.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 10317-10331
+  quote_or_summary: The speakers agree that the just soul and just man live well,
+    that living well is blessed and happy, and that the unjust man is miserable; injustice
+    is not more profitable than justice.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: quote
+  locator: lines 10332-10335
+  quote_or_summary: "“Let this, Socrates, he said, be your entertainment at the Bendidea.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; short quotation.
+- id: ev:8
+  type: summary
+  locator: lines 10336-10351
+  quote_or_summary: Socrates says he was not well entertained and compares himself
+    to an epicure tasting each dish in succession before enjoying the previous one,
+    because he moved from one topic to another.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 10352-10359
+  quote_or_summary: Socrates states that he knows nothing because he does not know
+    what justice is, and therefore cannot determine whether it is virtue or whether
+    the just person is happy or unhappy.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is argumentative philosophy with clear figures and claims. Motif
+    assignments are thematic and not myth-narrative; no passage-supported comparative
+    claims were added.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata. No external comparisons were inferred.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-plato-republic-jowett-gutenberg__l10191-l10359
+  passage_sha256=3eb9f11463d15e28ac386ec70522432c3f34e8426a61f7659144266757643c1e
+

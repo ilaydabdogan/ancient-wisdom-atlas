@@ -1,0 +1,505 @@
+---
+record_id: batch.motif.comparative-golden-bough-volume-2-frazer-gutenberg-l3117-l3198
+source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+passage_locator:
+  label: 'The Golden Bough: A Study in Comparative Religion (Vol. 2 of 2) / CONTENTS;
+    lines 3117-3198'
+  start: '3117'
+  end: '3198'
+  translation: 'The Golden Bough: A Study in Comparative Religion (Vol. 2 of 2)'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'Frazer distinguishes two forms of animal worship: revering animals by
+    sparing them and revering animals because they are killed and eaten. He then distinguishes
+    corresponding types of sacramental killing of an animal god, including rare killing
+    of a normally spared animal and expiatory killing of animals habitually used for
+    food. He illustrates the latter with pastoral rites, Abchases shepherds, and Kalmuck
+    rites for a consecrated white ram.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: 'The passage states that animal worship may take two converse forms: animals
+    are respected and therefore not killed or eaten, or animals are worshipped because
+    they are habitually killed and eaten.'
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says the expected benefit from revered animals may be protection,
+    advice, help, abstention from harm, or the material benefit of flesh and skin.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage states that North American Indians are presented as both revering
+    and sparing totem animals and revering animals and fish on which they subsist.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage says Australian aborigines are described as having primitive totemism
+    and as using sympathetic magic rather than conciliation to secure plentiful game.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: 'The passage distinguishes two types of killing the animal god: rare solemn
+    killing of a normally spared animal, and killing or annual atonement involving
+    animals habitually killed by the tribe.'
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: When a revered animal is habitually killed, the passage says its slaughter
+    is atoned for by apologies and sacrifices, and sometimes by a special annual rite
+    in which a selected individual is slain with marks of respect and devotion.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The passage describes pastoral tribes consecrating one herd animal, eating
+    it sacramentally in a family circle with closed doors, and treating the bones
+    with ceremonial respect.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The passage describes Abchases shepherds eating a common spring meal with
+    loins girt and staffs in their hands, interpreted in the cited source as both
+    sacrament and oath of mutual help and support.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The passage describes rich Kalmucks consecrating a white ram called the ram
+    of heaven or ram of the spirit, which is not shorn or sold while consecrated.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The passage says that when the old Kalmuck ram is replaced, it is killed by
+    a sorcerer after being sprinkled with milk; its flesh is eaten, its skeleton and
+    fat are burned on a turf altar, and its skin, head, and feet are hung up.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: revered animal habitually spared
+  description: An animal respected and spared from killing and eating because it is
+    revered.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: revered animal habitually killed and eaten
+  description: An animal worshipped because it is habitually killed and eaten, providing
+    flesh and skin.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:3
+  name_or_label: North American Indians
+  description: A comparative example of people said to revere and spare totem animals
+    while also revering animals and fish used for subsistence.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: aborigines of Australia
+  description: A comparative example described as having primitive totemism and as
+    seeking game supply by sympathetic magic rather than conciliation.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: pastoral tribes
+  description: Groups described as consecrating a herd animal, eating it sacramentally,
+    and giving ceremonial respect to the bones.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Abchases shepherds
+  description: Shepherds described as eating a spring common meal with loins girt
+    and staffs in their hands.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Kalmucks
+  description: People described as consecrating a white ram and later killing and
+    eating it in a ritual feast.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:8
+  name_or_label: white ram of heaven or ram of the spirit
+  description: A consecrated white ram that is not shorn or sold, then killed and
+    eaten when old and replaced.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:9
+  name_or_label: sorcerer
+  description: A ritual specialist who kills the old Kalmuck ram after sprinkling
+    it with milk.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: revered and spared animal
+  assigned_to:
+  - fig:1
+  basis: The animal is respected and therefore neither killed nor eaten.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: revered food animal or animal god
+  assigned_to:
+  - fig:2
+  - fig:8
+  basis: The animal is revered in connection with being killed and eaten, and the
+    passage discusses such killing as killing the animal god.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: role:3
+  label: ritual or comparative human group
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  basis: Each group is used as an example of animal reverence, magic for game, sacramental
+    meals, or consecrated animal rites.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: role:4
+  label: ritual specialist
+  assigned_to:
+  - fig:9
+  basis: The sorcerer performs the killing of the old ram after sprinkling it with
+    milk.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: consecrated representative animal
+  assigned_to:
+  - fig:8
+  basis: The ram is consecrated and stands as a specially treated animal within the
+    flock rite.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: animal god
+  literal_form: The revered animal whose slaughter is treated as killing the god.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:2
+  label: flesh and skin
+  literal_form: The animal’s flesh and skin, described as material benefits received
+    from the animal.
+  associated_figures:
+  - fig:2
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: sym:3
+  label: bones or skeleton
+  literal_form: Bones or skeleton treated with ceremonial respect or burned after
+    the sacramental meal.
+  associated_figures:
+  - fig:5
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: sacred substance eaten
+  literal_form: A sacred animal substance eaten in a sacramental meal or oath context.
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: milk
+  literal_form: Milk sprinkled on the old Kalmuck ram before it is killed.
+  associated_figures:
+  - fig:8
+  - fig:9
+  taxonomy_refs:
+  - milk
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: white ram
+  literal_form: The consecrated white ram called the ram of heaven or ram of the spirit.
+  associated_figures:
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:7
+  label: turf altar
+  literal_form: The altar on which the ram’s skeleton and part of the fat are burned.
+  associated_figures:
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Two forms of animal worship
+  summary: The passage contrasts reverence expressed by sparing animals with reverence
+    expressed toward animals killed and eaten for food or materials.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Two types of sacramental animal killing
+  summary: The passage distinguishes rare solemn killing of a normally spared animal
+    from expiatory killing and annual atonement for animals habitually killed.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Pastoral sacramental meal and oath
+  summary: Pastoral tribes are described as consecrating a herd animal, eating it
+    sacramentally in the family circle, respecting its bones, and in the Abchases
+    case linking the meal with an oath of mutual support.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Kalmuck consecrated ram rite
+  summary: A consecrated white ram is kept unshorn and unsold, then when old is sprinkled
+    with milk, killed by a sorcerer, eaten at a feast, partly burned on a turf altar,
+    and partly hung up.
+  figure_refs:
+  - fig:7
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:3
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: animal reverence through tabooed killing and eating
+  taxonomy_refs: []
+  basis: The passage describes animals respected and therefore neither killed nor
+    eaten, including totem animals and other revered animals.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage is a comparative interpretation, not a primary ritual text.
+- id: motif:2
+  label: sacramental killing and eating of a revered animal
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage repeatedly describes revered animals being killed and sometimes
+    eaten in solemn or sacramental rites.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage distinguishes subtypes, so the motif should not be treated
+    as uniform across all examples.
+- id: motif:3
+  label: expiatory atonement to a killed animal species
+  taxonomy_refs:
+  - sacrifice
+  - sacred_exchange
+  basis: The passage says slaughter of a habitually killed revered animal is atoned
+    for by apologies and sacrifices, including annual atonement for a selected animal.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The account reflects Frazer’s comparative classification and may require
+    checking against the cited ethnographic sources.
+- id: motif:4
+  label: oath through eating a sacred substance
+  taxonomy_refs:
+  - covenant
+  basis: The passage says the Abchases spring meal may be viewed as an oath of mutual
+    help and support, and that the strongest oath is accompanied by eating a sacred
+    substance.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage reports another scholar’s interpretation and uses cautious
+    wording, saying the meal may be looked upon this way.
+- id: motif:5
+  label: sympathetic magic to secure game supply
+  taxonomy_refs: []
+  basis: The passage describes Australians, and also North American Indians, using
+    sympathetic magic to secure a plentiful supply of game.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: No detailed ritual procedure for the sympathetic magic is provided in
+    this passage.
+- id: motif:6
+  label: seasonal or annual animal atonement rite
+  taxonomy_refs:
+  - seasonal_cycle
+  - sacrifice
+  basis: The passage describes a special annual atonement and gives seasonal details
+    for spring Abchases meals and autumn Kalmuck ram rites.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: Seasonality is explicit in some examples but not developed as the central
+    explanation of the rites.
+comparison_claims:
+- id: claim:1
+  claim: The passage distinguishes two comparative types of sacramental killing, named
+    the Egyptian type and the Aino type, according to whether the animal species is
+    normally spared or normally killed.
+  claim_level: same_function
+  target: Egyptian type and Aino type of sacramental animal killing
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is Frazer’s secondary comparative classification; the passage
+    itself does not provide primary details for the Egyptian and Aino examples.
+- id: claim:2
+  claim: The passage classifies the pastoral sacramental meal as belonging to the
+    Aino or expiatory type because it atones to the animal species for possible ill-usage
+    of individuals.
+  claim_level: same_motif
+  target: Aino or expiatory type of animal sacrament
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim depends on the author’s interpretation of pastoral rites
+    and the cited ethnological authority.
+- id: claim:3
+  claim: The passage compares North American Indians and Australians as groups using
+    sympathetic magic to secure a plentiful supply of game, while also noting a difference
+    in conciliation of killed animals.
+  claim_level: same_function
+  target: sympathetic magic for game supply in North American Indian and Australian
+    examples
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage gives no detailed procedure for either group’s sympathetic
+    magic in this excerpt.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3117-3134
+  quote_or_summary: 'The passage contrasts two forms of animal worship: animals are
+    revered and spared, or revered because they are killed and eaten; expected benefits
+    include help, protection, non-injury, flesh, and skin.'
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:2
+  type: summary
+  locator: lines 3135-3149
+  quote_or_summary: North American Indians are said to combine totem reverence with
+    reverence for subsistence animals; Australians are said to use sympathetic magic
+    rather than conciliation to secure game.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:3
+  type: summary
+  locator: lines 3150-3168
+  quote_or_summary: The passage distinguishes rare solemn killing of a normally spared
+    animal from expiatory and annual killing of a habitually killed revered animal,
+    calling these the Egyptian and Aino types.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:4
+  type: summary
+  locator: lines 3169-3187
+  quote_or_summary: Pastoral tribes are described as consecrating and sacramentally
+    eating a herd animal, respecting its bones, and in the Abchases example linking
+    a spring meal with an oath of mutual support.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:5
+  type: summary
+  locator: lines 3188-3198
+  quote_or_summary: Kalmucks are described as consecrating a white ram, later sprinkling
+    it with milk, killing and eating it, burning its skeleton and fat on a turf altar,
+    and hanging up the skin, head, and feet.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summary supplied.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is explicit about Frazer’s comparative categories and examples,
+    but it is a later comparative synthesis rather than a primary myth or ritual account.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy references are limited to those provided in the request.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:comparative-golden-bough-volume-2-frazer-gutenberg__l3117-l3198
+  passage_sha256=7886f93aad3dd371641981f322feb981061a87e37f8375e643d8feebf48e1412
+

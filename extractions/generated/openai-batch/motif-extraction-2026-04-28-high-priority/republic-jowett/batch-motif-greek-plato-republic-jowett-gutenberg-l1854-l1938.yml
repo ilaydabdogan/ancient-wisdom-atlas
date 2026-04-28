@@ -1,0 +1,446 @@
+---
+record_id: batch.motif.greek-plato-republic-jowett-gutenberg-l1854-l1938
+source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+passage_locator:
+  label: The Republic / THE REPUBLIC / INTRODUCTION AND ANALYSIS.; lines 1854-1938
+  start: '1854'
+  end: '1938'
+  translation: The Republic
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: "“Gold and silver we will tell them that they have from God, and this divine
+    gift in their souls they must not alloy with that earthly dross...”"
+  summary: The passage describes the civic and ascetic discipline assigned to Plato’s
+    guardians, including encampment in a high place, sacrifice, common meals, and
+    a prohibition against private wealth. It then comments on Plato’s use of Homeric
+    authority and on the relation of poetic style, clarity, and thought.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The earthborn men are ordered to go out under the command of their rulers
+    and pitch camp in a high place safe from external enemies and internal insurrections.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The men are to sacrifice and set up tents at the camp.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The men are characterized as soldiers rather than shopkeepers, and as watchdogs
+    and guardians of sheep.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Luxury and avarice are said to turn the guardians into wolves and tyrants.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: The guardians are to have no property, only expense-covering pay, and common
+    meals.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Gold and silver are described as a divine gift already present in the guardians’
+    souls, while ordinary gold is called earthly dross and an accursed thing for them.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: If the guardians acquire private houses, lands, or money, they will become
+    householders and tradesmen instead of guardians, and enemies and tyrants instead
+    of helpers.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:8
+  text: Plato is described as repeatedly appealing to Homer’s authority and using
+    Homeric words as vehicles of a higher truth.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: The passage compares Plato’s Homeric citations with modern citations from
+    Scripture that retain rhetorical power even when the original meaning is neglected.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:10
+  text: The passage states that style should conform to subject and metre to style,
+    and criticizes obscurity where language does not clearly express thought.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: earthborn men / guardians
+  description: Men described as earthborn, commanded by rulers, assigned to be soldiers,
+    watchdogs, and guardians of the sheep, with restrictions on property and gold.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: rulers
+  description: Commanders under whom the earthborn men go forth.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Plato
+  description: Authorial figure described as appealing to Homer’s authority and using
+    Homeric words as vehicles of higher truth.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Homer
+  description: Poet whose authority is summoned as witness about ethics, psychology,
+    diet, and medicine.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Platonic Socrates / real Socrates
+  description: The passage says the real Socrates, like the Platonic Socrates, was
+    fond of similar adaptations.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: poet
+  description: A general figure described as often a bad judge of his own meaning
+    and prone to obscure expression.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: guardian-soldier
+  assigned_to:
+  - fig:1
+  basis: The men are to be soldiers, watchdogs, and guardians rather than shopkeepers.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: ascetic civic protector
+  assigned_to:
+  - fig:1
+  basis: They are denied property, limited to expense-covering pay, and assigned common
+    meals.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: commander
+  assigned_to:
+  - fig:2
+  basis: The earthborn men go forth under the command of their rulers.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: interpreter of inherited poetic authority
+  assigned_to:
+  - fig:3
+  basis: Plato is said to summon Homer as witness and use Homeric language as a vehicle
+    of higher truth.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: authoritative poetic witness
+  assigned_to:
+  - fig:4
+  basis: Homer is invoked as a witness on ethical, psychological, dietary, and medical
+    matters.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: adapter of authoritative sayings
+  assigned_to:
+  - fig:5
+  basis: The passage says Socrates made similar adaptations.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: unclear maker of poetic meaning
+  assigned_to:
+  - fig:6
+  basis: The passage says the poet often does not see how obscure or puzzling his
+    words may be to others.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: high defensive place
+  literal_form: A high place selected for a camp, safe against enemies and insurrections.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: sacrifice at camp
+  literal_form: Sacrifice performed before or during the setting up of tents.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: watchdogs and sheep
+  literal_form: Guardians described as watchdogs and guardians of sheep.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: wolves and tyrants
+  literal_form: Image of guardians becoming wolves and tyrants through luxury and
+    avarice.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:5
+  label: divine gold and silver in the soul
+  literal_form: Gold and silver said to have been given by God and located in the
+    guardians’ souls.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:6
+  label: earthly gold as accursed dross
+  literal_form: Ordinary gold, money, houses, and lands forbidden to guardians and
+    associated with corruption.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:7
+  label: Homeric words as vehicles
+  literal_form: Homer’s words and expressions used as vehicles of a higher truth.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:8
+  label: tangled thread of poetic connection
+  literal_form: A tangled thread used as an image for difficult connections in tragic
+    choruses and Greek lyric poets.
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:9
+  label: Greek statue as harmonious beauty
+  literal_form: The beauty of a Greek statue used as an image for language with nothing
+    to add or take away.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Guardians establish a disciplined camp
+  summary: The earthborn guardians, commanded by rulers, are directed to camp in a
+    high place, sacrifice, set up tents, and live as soldiers rather than shopkeepers.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Wealth taboo for guardians
+  summary: The guardians are told that true gold and silver are divine gifts in their
+    souls, while earthly gold, private property, houses, lands, and money would corrupt
+    them and bring ruin to the state.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Plato’s adaptation of Homeric authority
+  summary: The passage describes Plato’s ironic and rhetorical use of Homer as ethical
+    and psychological authority, compares it with Scripture citation, and notes similar
+    Socratic adaptations.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Style, poetry, and clarity
+  summary: The passage discusses the rule that style should fit subject and metre,
+    criticizes obscure poetic expression, and praises clarity and harmony between
+    thought and language.
+  figure_refs:
+  - fig:6
+  symbol_refs:
+  - sym:8
+  - sym:9
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: sacrifice before guarded settlement
+  taxonomy_refs:
+  - sacrifice
+  basis: The guardians are directed to sacrifice and set up tents in a defensible
+    high place.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage gives a civic prescription rather than a narrative mythic
+    episode; the sacrifice is mentioned briefly without ritual details.
+- id: motif:2
+  label: ascetic guardians forbidden corrupting wealth
+  taxonomy_refs: []
+  basis: The guardians may not possess property or touch ordinary gold and silver;
+    acquiring wealth would change them from helpers into tyrants and bring ruin.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: No supplied taxonomy family directly matches a wealth taboo for civic
+    guardians.
+- id: motif:3
+  label: divine inner metal contrasted with earthly metal
+  taxonomy_refs: []
+  basis: Gold and silver are said to be divine gifts in the soul, while ordinary gold
+    is earthly dross and accursed for the guardians.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The wording is embedded in Plato’s civic myth or educational program as
+    summarized by the translator; the passage itself does not narrate the original
+    myth in full.
+- id: motif:4
+  label: protector corrupted into predator-tyrant
+  taxonomy_refs: []
+  basis: The guardians are likened to watchdogs of sheep, but luxury and avarice are
+    said to turn them into wolves and tyrants.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The wolf transformation is rhetorical or moral imagery, not a literal
+    shapeshifting event.
+- id: motif:5
+  label: inherited poetic authority reinterpreted for higher truth
+  taxonomy_refs:
+  - wisdom
+  basis: Plato’s use of Homer is described as drawing higher truth from inherited
+    poetic language, even through fanciful or rhetorically powerful interpretation.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: This is an interpretive and literary pattern rather than a mythic narrative
+    motif.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares Plato’s rhetorical use of Homeric citations
+    with modern citations from Scripture that retain rhetorical power even when detached
+    from their original meaning.
+  claim_level: same_function
+  target: modern citations from Scripture used rhetorically
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is made by the passage’s commentator and concerns rhetorical
+    function, not historical dependence or shared mythic content.
+- id: claim:2
+  claim: The passage links the Platonic Socrates and the real Socrates as figures
+    who made similar adaptations of inherited words or authorities.
+  claim_level: same_function
+  target: Socratic adaptation of authoritative sayings
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage gives only a brief claim based on Xenophon’s Memorabilia
+    and does not provide examples in this excerpt.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1854-1860
+  quote_or_summary: The earthborn men go out under rulers, pitch camp in a high safe
+    place, sacrifice, set up tents, and are to be soldiers, watchdogs, and guardians
+    rather than shopkeepers; luxury and avarice would make them wolves and tyrants.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 1860-1868
+  quote_or_summary: The guardians are to have no property, limited pay, and common
+    meals; divine gold and silver are in their souls, while earthly gold is accursed
+    to them, and private property would make them tyrants and bring ruin.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 1872-1889
+  quote_or_summary: Plato is described as appealing to Homer as authority, using Homeric
+    words as vehicles of higher truth, satirizing Homeric interpretation, and resembling
+    modern Scripture citation and Socratic adaptation.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 1891-1938
+  quote_or_summary: The passage states that style should conform to subject and metre
+    to style, discusses Greek and modern poets, and criticizes obscurity and disproportion
+    between thought and language.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal civic, literary, and rhetorical elements are clear. Motif assignments
+    are more cautious because the excerpt is commentary and summary rather than a
+    full mythic narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No historical-contact or common-inheritance claims are made. Taxonomy references are used only where the supplied list plausibly fits explicit passage content.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-plato-republic-jowett-gutenberg__l1854-l1938
+  passage_sha256=7c5c4b24e0d2ace0434a0a68114b56f1c0da4713beab52560b999dc1dede310f
+

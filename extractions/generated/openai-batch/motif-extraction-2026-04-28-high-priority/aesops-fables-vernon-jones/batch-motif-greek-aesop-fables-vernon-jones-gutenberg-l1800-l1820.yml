@@ -1,0 +1,364 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l1800-l1820
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE CRAB AND HIS MOTHER / THE ASS AND HIS SHADOW / THE FARMER AND HIS SONS
+    / THE DOG AND THE COOK; lines 1800-1820
+  start: '1800'
+  end: '1820'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A rich man holds a banquet. His dog invites another dog to share the feast.
+    The invited dog enters the kitchen expecting abundant food, but the cook throws
+    him out of a window. Afterward, when other dogs ask about the dinner, he claims
+    he had such a splendid time and drank so much wine that he cannot remember leaving.
+    The fable ends with a warning to be shy of favors bestowed at another’s expense.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A rich man invites friends and acquaintances to a banquet.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The rich man’s dog invites another dog to dine with him at the feast.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The invited dog expects to eat enough to last two or three days.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The invited dog wags his tail to show delight at being asked.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The cook sees a strange dog in the kitchen and is annoyed.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The cook catches the strange dog by the hind legs and throws him out of the
+    window.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The thrown dog falls, limps away, and howls dismally.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Other dogs ask the thrown dog what sort of dinner he received.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The thrown dog replies that the wine was so good and he drank so much that
+    he cannot remember how he left the house.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The closing moral warns against favors bestowed at the expense of others.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: rich man
+  description: Host of the banquet who invites friends and acquaintances.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: rich man’s dog
+  description: Dog belonging to the rich man; he invites another dog to the feast.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: invited dog / strange dog
+  description: Dog invited by the rich man’s dog; enters the kitchen, expects abundant
+    food, is thrown out by the cook, and later gives a face-saving account to other
+    dogs.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: cook
+  description: Person in the kitchen who sees the strange dog, becomes annoyed, and
+    throws him out of the window.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: other dogs
+  description: Dogs who meet the expelled dog and ask what sort of dinner he received.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: banquet host
+  assigned_to:
+  - fig:1
+  basis: The rich man invites friends and acquaintances to a banquet.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: secondary inviter
+  assigned_to:
+  - fig:2
+  basis: The rich man’s dog invites another dog to dine with him during the master’s
+    feast.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: uninvited beneficiary of another’s favor
+  assigned_to:
+  - fig:3
+  basis: The dog accepts an invitation made by another dog to a feast given by the
+    dog’s master.
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: role:4
+  label: humiliated speaker
+  assigned_to:
+  - fig:3
+  basis: After being thrown out and limping away, he tells other dogs he had a splendid
+    time and cannot remember leaving.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:5
+  label: expeller from the kitchen
+  assigned_to:
+  - fig:4
+  basis: The cook catches the strange dog and throws him out of the window.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: questioners
+  assigned_to:
+  - fig:5
+  basis: Other dogs ask the expelled dog what sort of dinner he got.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: banquet / feast
+  literal_form: A rich man’s banquet with a fine spread.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: kitchen
+  literal_form: The place where preparations are being made and where the strange
+    dog is seen by the cook.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: window
+  literal_form: The opening through which the cook throws the strange dog out.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: wine
+  literal_form: Wine mentioned by the expelled dog in his explanation to other dogs.
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Banquet invitation
+  summary: A rich man gives a banquet; his dog invites another dog to come dine with
+    him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Expectation in the kitchen
+  summary: The invited dog sees preparations in the kitchen, expects to eat enough
+    for several days, and wags his tail with delight.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Expulsion by the cook
+  summary: The cook notices the strange dog in the kitchen, catches him by the hind
+    legs, and throws him out the window.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Aftermath and false boast
+  summary: The dog limps away howling; when other dogs ask about the dinner, he says
+    the wine was so good that he cannot remember how he left.
+  figure_refs:
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:5
+  label: Closing moral
+  summary: The fable states that one should be shy of favors bestowed at the expense
+    of others.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: favor at another’s expense brings danger
+  taxonomy_refs:
+  - wisdom
+  basis: The plot shows a dog accepting access to a feast through another servant’s
+    invitation and suffering expulsion; the closing moral explicitly warns against
+    such favors.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:6
+  confidence: high
+  cautions: The taxonomy reference is broad; the passage gives a practical moral rather
+    than a mythic wisdom episode.
+- id: motif:2
+  label: humiliation concealed by boastful explanation
+  taxonomy_refs: []
+  basis: After being thrown out and hurt, the dog tells other dogs he had a splendid
+    time and was too drunk to remember leaving.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage does not explicitly state that the explanation is a lie, though
+    the sequence supports that reading.
+- id: motif:3
+  label: outsider expelled from feast-space
+  taxonomy_refs: []
+  basis: The cook is annoyed at a strange dog in the kitchen and throws him out of
+    the window before he can enjoy the banquet.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: This is a narrative pattern in the passage, not tied to an available taxonomy
+    family.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1800-1805
+  quote_or_summary: A rich man invites friends and acquaintances to a banquet; his
+    dog invites another dog to dine with him at the feast.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1805-1810
+  quote_or_summary: The invited dog sees kitchen preparations, thinks he is lucky,
+    expects to eat enough for several days, and wags his tail in delight.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 1810-1814
+  quote_or_summary: The cook sees a strange dog in the kitchen, becomes annoyed, catches
+    him by the hind legs, and throws him out of the window.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 1814-1817
+  quote_or_summary: The dog has a nasty fall, limps away howling, and is later asked
+    by other dogs what sort of dinner he got.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: lines 1817-1819
+  quote_or_summary: "“the wine was so good, and I drank so much of it, that I really
+    don't remember how I got out of the house!”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation from public domain text.
+- id: ev:6
+  type: quote
+  locator: line 1820
+  quote_or_summary: "“Be shy of favours bestowed at the expense of others.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation from public domain text.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based only on the provided passage. Motif labels are descriptive,
+    with one broad taxonomy match to wisdom because the fable ends in an explicit
+    practical moral. No comparison claims were added because the passage itself does
+    not support a specific cross-textual comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  The source locator label references several fables, but the supplied passage text contains only “THE DOG AND THE COOK”; extraction is limited to that provided text.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l1800-l1820
+  passage_sha256=ebcca6ee1312e71fdc2542e2bea202358c11031edb2c1ac16703a41eaf7eb22a
+

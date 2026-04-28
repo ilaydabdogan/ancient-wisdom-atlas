@@ -1,0 +1,388 @@
+---
+record_id: batch.motif.comparative-golden-bough-volume-2-frazer-gutenberg-l15286-l15398
+source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+passage_locator:
+  label: CONTENTS / NOTE. OFFERINGS OF FIRST-FRUITS. / INDEX. / FOOTNOTES; lines 15286-15398
+  start: '15286'
+  end: '15398'
+  translation: 'The Golden Bough: A Study in Comparative Religion (Vol. 2 of 2)'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage supplies footnotes on ethnographic and classical sources concerning
+    the religious use of the bullroarer, initiation ceremonies, sacred enclosures,
+    totemic divisions, animal and insect totems, and the Kakian association. It notes
+    cross-cultural use of the bullroarer as a sacred instrument in Australia, South
+    Africa, among the Zunis, ancient Greek mysteries, Western Africa, and New Guinea;
+    mentions Australian initiation and class-names as totemic divisions; cites descriptions
+    of initiatory rites in the Congo region and Ceram; records a Toukawe prohibition
+    on killing the big or gray wolf because of its mythological significance and totem-clan
+    role; and notes exogamous classes in the New Britain/Duke of York region with
+    insect totems.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The bullroarer is described as a piece of wood fastened to a cord or thong
+    and swung to produce a booming sound.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says the bullroarer has religious use in Australia and has been
+    similarly employed in South Africa, among the Zunis of New Mexico, by ancient
+    Greeks in religious mysteries, in Western Africa, and in New Guinea.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A footnote glosses a “class-name” as the name of the totemic division to which
+    a man belongs.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage cites a source on the Nanga as a sacred stone enclosure of Wainimala,
+    Fiji.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage cites multiple sources on initiatory rites in the Congo region.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: A quoted letter states that the Toukawe do not kill the big or gray wolf because
+    it has mythological significance, described as “holding the earth.”
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The same letter states that the wolf forms one of the Toukawe totem clans
+    and that males danced in its honor while carrying sticks.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The inhabitants of the referenced New Britain/Duke of York region are described
+    as divided into two exogamous classes, which in Duke of York Island have two insects
+    for their totems.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: One of the Duke of York Island insect totems is the mantis religiosus; the
+    other mimics the leaf of the horse-chestnut tree closely.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The Kakian association and its initiatory ceremonies are said to have often
+    been described, and several accounts are identified as followed in the text.
+  category: action
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Toukawe big or gray wolf
+  description: A wolf called hatchukunän, not killed by the Toukawe, with mythological
+    significance described as “holding the earth,” and forming one of their totem
+    clans.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:5
+- id: fig:2
+  name_or_label: Toukawe males
+  description: Male Toukawe participants who danced in honor of the big or gray wolf
+    while carrying sticks.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+- id: fig:3
+  name_or_label: Duke of York Island insect totems
+  description: Two insects serving as totems for two exogamous classes; one is mantis
+    religiosus and the other mimics a horse-chestnut leaf.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:6
+- id: fig:4
+  name_or_label: Kakian association
+  description: An association associated in the note with initiatory ceremonies on
+    Ceram.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: totemic being
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: The wolf is said to form a totem clan, and the insects are said to be totems
+    of exogamous classes.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:2
+  label: ritual dancers
+  assigned_to:
+  - fig:2
+  basis: Toukawe males are said to have danced in the wolf’s honor while carrying
+    sticks.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: initiatory association
+  assigned_to:
+  - fig:4
+  basis: The Kakian association is explicitly linked with initiatory ceremonies.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: bullroarer as sacred instrument
+  literal_form: A piece of wood fastened to a cord or thong and swung to produce a
+    booming sound, used religiously in several cited regions and traditions.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: totemic class-name
+  literal_form: A class-name identified as the name of a man’s totemic division.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: sacred stone enclosure
+  literal_form: The Nanga, described in a cited source title as a sacred stone enclosure
+    of Wainimala, Fiji.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: earth-holding wolf
+  literal_form: The big or gray wolf with mythological significance glossed as “holding
+    the earth.”
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: sticks carried in wolf dance
+  literal_form: Sticks carried by male dancers in the Toukawe dance honoring the wolf.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: insect totems
+  literal_form: Mantis religiosus and a leaf-mimicking insect serving as totems of
+    exogamous classes.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Cross-cultural sacred use of the bullroarer
+  summary: The note defines the bullroarer and states that it has been used as a sacred
+    or religious instrument in Australia, South Africa, among the Zunis, in ancient
+    Greek mysteries, in Western Africa, and in New Guinea.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Toukawe wolf observance
+  summary: The Toukawe are reported not to kill the big or gray wolf because of its
+    mythological significance; the wolf forms a totem clan, and males danced in its
+    honor while carrying sticks.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+- id: scene:3
+  label: Exogamous classes with insect totems
+  summary: The inhabitants of the referenced islands are described as divided into
+    two exogamous classes; in Duke of York Island these classes have two insects as
+    totems.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:6
+- id: scene:4
+  label: Kakian initiatory ceremonies
+  summary: The note lists sources for the Kakian association and its initiatory ceremonies
+    and identifies several accounts as the basis followed in the text.
+  figure_refs:
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: initiation ceremonies and initiatory associations
+  taxonomy_refs:
+  - initiation
+  basis: The passage repeatedly cites Australian ceremonies of initiation, Congo initiatory
+    rites, and the Kakian association with initiatory ceremonies.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:7
+  confidence: high
+  cautions: The passage is footnoted source apparatus rather than a narrative description
+    of a single ritual sequence.
+- id: motif:2
+  label: sacred sound-making instrument used in religious rites
+  taxonomy_refs: []
+  basis: The bullroarer is defined as a booming sound-producing instrument and described
+    as religiously or sacredly used across several cited societies and traditions.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: No detailed ritual action is narrated in this excerpt beyond use and distribution.
+- id: motif:3
+  label: totemic animal or insect linked to social divisions
+  taxonomy_refs: []
+  basis: The passage identifies class-names as totemic divisions, a wolf as forming
+    a Toukawe totem clan, and insects as totems of exogamous classes.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: Totemism is described through notes and citations rather than through
+    a complete mythic episode.
+- id: motif:4
+  label: ritual avoidance of killing a mythologically significant animal
+  taxonomy_refs: []
+  basis: The Toukawe are reported never to kill the big or gray wolf because it has
+    mythological significance and forms one of their totem clans.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage gives only a brief quoted note and does not provide a full
+    myth explaining the avoidance.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself compares religious use of the bullroarer across Australia,
+    South Africa, Zuni New Mexico, ancient Greek mysteries, Western Africa, and New
+    Guinea as similar employment of the same type of sacred instrument.
+  claim_level: same_function
+  target: Cross-cultural sacred use of the bullroarer
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The note asserts similarity of employment but does not describe all
+    ritual contexts in enough detail to establish identity of meaning or historical
+    contact.
+- id: claim:2
+  claim: The passage places several initiation-related sources and traditions in proximity,
+    including Australian initiation ceremonies, Congo initiatory rites, and the Kakian
+    association’s initiatory ceremonies.
+  claim_level: same_motif
+  target: Initiatory ceremonies in comparative ethnographic sources
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:7
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The excerpt is bibliographic and does not provide detailed parallel
+    ritual structures; the comparison is limited to the repeated category of initiation.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 15286-15297, note 901
+  quote_or_summary: The bullroarer is defined as wood fastened to a cord or thong
+    and swung to make a booming sound; its religious or sacred use is noted in Australia,
+    South Africa, among the Zunis, ancient Greek mysteries, Western Africa, and New
+    Guinea.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 15299-15302, note 902
+  quote_or_summary: A source is cited on Australian ceremonies of initiation, and
+    “class-name” is glossed as the name of the totemic division to which a man belongs.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 15304-15306, note 903
+  quote_or_summary: A cited article is titled “The Nanga, or sacred stone enclosure
+    of Wainimala, Fiji.”
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 15312-15317, note 906
+  quote_or_summary: The note cites sources on initiatory rites in the Congo region.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: lines 15331-15338, note 914
+  quote_or_summary: Among the Toukawe, they “never kill the big or gray wolf,” which
+    has mythological significance, “holding the earth”; it forms a totem clan, and
+    males danced in its honor carrying sticks.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:6
+  type: summary
+  locator: lines 15346-15355, note 916
+  quote_or_summary: The inhabitants are said to be divided into two exogamous classes;
+    in Duke of York Island the classes have two insect totems, one mantis religiosus
+    and one insect that closely mimics a horse-chestnut leaf.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 15361-15390, note 918
+  quote_or_summary: The Kakian association and its initiatory ceremonies are said
+    to have often been described; multiple sources are listed, and several are named
+    as the best accounts followed in the text.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: low
+  notes: The passage is primarily footnotes and source citations, not a continuous
+    myth or ritual narrative. Motif extraction is therefore limited to explicitly
+    mentioned ritual instruments, initiation, sacred enclosure, totemic divisions,
+    and animal/insect totems.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No taxonomy refs were added beyond the available initiation motif family because other extracted patterns, while clear in the passage, do not correspond directly to the supplied taxonomy list.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:comparative-golden-bough-volume-2-frazer-gutenberg__l15286-l15398
+  passage_sha256=3b856ebb35deb1ddee36b0ba9acd1689584d55a32a67731c0bd3611c2dbd30a7
+

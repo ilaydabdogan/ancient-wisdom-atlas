@@ -1,0 +1,348 @@
+---
+record_id: batch.motif.greek-plato-republic-jowett-gutenberg-l11782-l11797
+source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+passage_locator:
+  label: THE REPUBLIC. / PERSONS OF THE DIALOGUE. / BOOK I. / BOOK II.; lines 11782-11797
+  start: '11782'
+  end: '11797'
+  translation: The Republic
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A quoted lament says that a prophetic song promised long-lived, healthy
+    offspring and heavenly blessing, but the same singer later killed the speaker's
+    son. The dialogue then rejects such sentiments about the gods for education, saying
+    their utterers should not receive a chorus and teachers should not use them with
+    the young; the goal is for guardians to be true worshippers and as godlike as
+    possible. The respondent agrees to make these principles laws.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A song celebrates the speaker's fair progeny, saying their days would be long
+    and free from sickness.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker trusts the word of Phoebus as divine and prophetic.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The speaker says the same person who uttered the song and was present at the
+    banquet has slain the speaker's son.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The dialogue says such sentiments about the gods will arouse anger.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A person who utters such sentiments is to be refused a chorus.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Teachers are not to use such sentiments in instructing the young.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: The intended guardians should be true worshippers of the gods and as like
+    them as men can be.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:8
+  text: The respondent agrees with the principles and promises to make them laws.
+  category: speech
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: lamenting speaker
+  description: The quoted speaker whose progeny were praised and whose son was slain.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Phoebus
+  description: Named as the source of a divine and prophetic word.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: singer and slayer
+  description: The person who uttered the song, was present at the banquet, and is
+    said to have slain the speaker's son.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: slain son
+  description: The son whom the lamenting speaker says was slain.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: the gods
+  description: Divine beings about whom certain sentiments are rejected; guardians
+    are to be worshippers of them and like them.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: teachers
+  description: Teachers who are not to use the rejected sentiments in instructing
+    the young.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:2
+- id: fig:7
+  name_or_label: the young
+  description: The intended recipients of instruction from which the rejected sentiments
+    are excluded.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:2
+- id: fig:8
+  name_or_label: guardians
+  description: The intended class who should become true worshippers of the gods and
+    like them as far as men can be.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:2
+- id: fig:9
+  name_or_label: respondent
+  description: The speaker who agrees with the principles and promises to make them
+    laws.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: bereaved speaker
+  assigned_to:
+  - fig:1
+  basis: The speaker says the singer has slain 'my son.'
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: divine prophetic authority
+  assigned_to:
+  - fig:2
+  basis: Phoebus's word is called divine and full of prophecy.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: prophetic singer
+  assigned_to:
+  - fig:3
+  basis: The figure uttered the celebratory strain about the speaker's progeny.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: killer of the son
+  assigned_to:
+  - fig:3
+  basis: The speaker identifies the same figure as the one who has slain the son.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: victim
+  assigned_to:
+  - fig:4
+  basis: The son is described as slain.
+  evidence_refs:
+  - ev:1
+- id: role:6
+  label: objects of worship and representation
+  assigned_to:
+  - fig:5
+  basis: The passage concerns sentiments about gods and the guardians' worship of
+    them.
+  evidence_refs:
+  - ev:2
+- id: role:7
+  label: educational gatekeepers
+  assigned_to:
+  - fig:6
+  basis: Teachers are forbidden to use the rejected sentiments in instruction.
+  evidence_refs:
+  - ev:2
+- id: role:8
+  label: students
+  assigned_to:
+  - fig:7
+  basis: The young are the recipients of the instruction mentioned.
+  evidence_refs:
+  - ev:2
+- id: role:9
+  label: intended pious class
+  assigned_to:
+  - fig:8
+  basis: Guardians are to be true worshippers of the gods and like them as far as
+    possible.
+  evidence_refs:
+  - ev:2
+- id: role:10
+  label: assenting lawgiver
+  assigned_to:
+  - fig:9
+  basis: The respondent agrees and promises to make the principles laws.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: prophetic song
+  literal_form: song or strain celebrating long-lived progeny and heavenly blessing
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: chorus
+  literal_form: chorus to be refused to one who utters rejected sentiments
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: laws
+  literal_form: principles promised to be made into laws
+  associated_figures:
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Lament over fulfilled loss after prophetic blessing
+  summary: A quoted speaker recalls a song promising healthy and long-lived progeny,
+    trusts Phoebus's prophetic word, and then says the singer himself killed the speaker's
+    son.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Rejection of impious educational material
+  summary: The dialogue rejects such statements about the gods, excludes their utterers
+    from a chorus, and bars teachers from using them with the young so that guardians
+    may become proper worshippers of the gods.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Agreement to legislate principles
+  summary: The respondent agrees with the principles and promises to make them laws.
+  figure_refs:
+  - fig:9
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: prophetic blessing contradicted by violent loss
+  taxonomy_refs: []
+  basis: The passage places a divine prophetic promise of blessed, healthy progeny
+    beside the later slaying of the speaker's son by the singer who uttered the promise.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage reports the sentiment as an example to be rejected, not as
+    an endorsed mythic episode.
+- id: motif:2
+  label: regulation of divine stories for youth education
+  taxonomy_refs: []
+  basis: The dialogue forbids teachers to use certain sentiments about the gods in
+    the instruction of the young and links this to forming guardians as true worshippers.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is a philosophical-educational rule rather than a narrative mythic
+    event.
+- id: motif:3
+  label: principles transformed into law
+  taxonomy_refs: []
+  basis: The respondent agrees to make the stated educational principles laws.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The legal transformation is stated briefly and without narrative elaboration.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 11782-11788
+  quote_or_summary: A quoted lament recalls a song praising the speaker's fair progeny
+    as long-lived and free of sickness, trusts Phoebus's divine prophecy, and says
+    the singer who was at the banquet has slain the speaker's son.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:2
+  type: summary
+  locator: 11790-11795
+  quote_or_summary: The dialogue says such sentiments about the gods arouse anger;
+    their utterer is to be refused a chorus, and teachers may not use them for the
+    young, because guardians should be true worshippers of the gods and like them
+    as far as men can be.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:3
+  type: quote
+  locator: '11797'
+  quote_or_summary: '"I entirely agree, he said, in these principles, and promise
+    to make them my laws."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; short quote supplied.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif labels are candidate abstractions
+    from a philosophical passage and should be reviewed for taxonomy fit. No comparison
+    claims are made because the passage itself does not support cross-textual comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata; no external identification of the quoted tragic material was added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-plato-republic-jowett-gutenberg__l11782-l11797
+  passage_sha256=8fa57a7182da347f4c9b8726d90c6749dba5434892e3b0aff57532c3ad133349
+

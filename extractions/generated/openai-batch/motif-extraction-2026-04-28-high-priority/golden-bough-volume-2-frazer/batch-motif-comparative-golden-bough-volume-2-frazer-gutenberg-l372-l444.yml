@@ -1,0 +1,552 @@
+---
+record_id: batch.motif.comparative-golden-bough-volume-2-frazer-gutenberg-l372-l444
+source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+passage_locator:
+  label: 'The Golden Bough: A Study in Comparative Religion (Vol. 2 of 2) / CONTENTS;
+    lines 372-444'
+  start: '372'
+  end: '444'
+  translation: 'The Golden Bough: A Study in Comparative Religion (Vol. 2 of 2)'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage surveys European harvest customs and sayings in which the corn-spirit,
+    the last sheaf, the last harvester, or a harvest effigy is identified with a goat.
+    It also reports interpretations in which the corn-spirit is caught at harvest,
+    remains over winter, flees to uncut corn, or is represented by a sheaf passed
+    from farm to farm.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that the corn-spirit often appears in the form of a goat.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: In Prussian examples, movements of corn in the wind are described with sayings
+    about goats moving, browsing, or sitting in grain fields, and these sayings are
+    linked with expectation of a good harvest.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Children are warned not to enter corn, bean, rye, oat, or other fields because
+    named goat beings are said to be there and may carry them away or kill them.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Sick or lagging harvesters may be described as having been pushed by the Harvest-goat
+    or Corn-goat.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: In several local customs, the person who cuts or binds the last corn, the
+    last sheaf, or the last heap of corn is called or marked as a goat.
+  category: relationship
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:6
+  text: Some customs make a material goat figure from wood, straw, or the last sheaf,
+    and associate it with the end of reaping.
+  category: object
+  evidence_refs:
+  - ev:3
+  - ev:8
+- id: obs:7
+  text: 'The passage reports two views of the corn-spirit: one in which it remains
+    in the farmhouse or barn over winter, and another in which it moves to farms where
+    corn is still standing.'
+  category: other
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: In the Skye custom described, a sheaf called the Cripple Goat is sent from
+    the first farmer to finish reaping to another farmer still reaping, and then passed
+    onward until all corn is cut.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The passage suggests that the Cripple Goat may be lame because the corn-spirit
+    has been crippled by the cutting of the corn.
+  category: other
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: In the Böhmer Wald example, a loser in a race to bring corn home is marked
+    by village boys, who erect a large straw Oats-goat on his roof at night.
+  category: action
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: corn-spirit
+  description: A spirit associated with corn, described as appearing in goat form,
+    being caught, living over winter, or fleeing to standing corn.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:7
+- id: fig:2
+  name_or_label: Corn-goat / Oats-goat / Rye-goat / Bean-goat / Harvest-goat
+  description: Named goat forms or labels associated with grain fields, the last sheaf,
+    the last harvester, or harvest effigies.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:8
+- id: fig:3
+  name_or_label: children warned away from fields
+  description: Children are told not to enter fields because goat beings are sitting
+    or lying there and may harm them.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: harvesters and last reaper or binder
+  description: Harvest workers who may lag, cut or bind the last sheaf, receive a
+    goat name, or be processed and decorated after harvest.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: farmers and messenger in Skye custom
+  description: Farmers pass a sheaf called the Cripple Goat from a completed farm
+    to another farm where reaping is still unfinished.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: village boys in Böhmer Wald custom
+  description: Boys mark the loser of a race and set a large straw Oats-goat on his
+    roof.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: goat-formed harvest spirit
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage explicitly states that the corn-spirit often appears as a goat
+    and gives multiple goat names tied to crops.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: spirit retained or displaced by harvest
+  assigned_to:
+  - fig:1
+  basis: The corn-spirit is described as either living in the farmhouse or barn over
+    winter, or fleeing to another farm where corn remains standing.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: name or embodiment of the last grain
+  assigned_to:
+  - fig:2
+  basis: The last heap, last sheaf, last handful, or material goat figure is called
+    Goat, Corn-goat, Oats-goat, or similar names.
+  evidence_refs:
+  - ev:3
+  - ev:8
+- id: role:4
+  label: potential victims of field-being warning
+  assigned_to:
+  - fig:3
+  basis: Children are warned that goat beings in the fields may carry them away or
+    kill them.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: laggard or afflicted harvester
+  assigned_to:
+  - fig:4
+  basis: A sick or slow harvester is said to have been pushed by the Harvest-goat
+    or Corn-goat.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: human bearer of goat identity at harvest end
+  assigned_to:
+  - fig:4
+  basis: The person cutting or binding the last sheaf is called the Goat or a crop-specific
+    goat, sometimes decorated, led, drenched, or made to keep the name for a year.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:7
+  label: transmitter of the Cripple Goat sheaf
+  assigned_to:
+  - fig:5
+  basis: The Skye custom has a sheaf passed from one farmer to another until all reaping
+    is finished.
+  evidence_refs:
+  - ev:6
+- id: role:8
+  label: ritual mockers or markers of harvest loser
+  assigned_to:
+  - fig:6
+  basis: Village boys identify the loser of the corn-home race and put the straw Oats-goat
+    on his roof.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: goat as crop-spirit form
+  literal_form: Goat, Corn-goat, Oats-goat, Rye-goat, Bean-goat, Harvest-goat, Wheat-goat
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: last sheaf or last handful
+  literal_form: The last sheaf, last handful of corn, or last heap of corn called
+    Goat or said to contain the Goat
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: horns on last heap
+  literal_form: Two horns set up on the last heap of corn, which is called the horned
+    Goat
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: wooden or straw goat effigy
+  literal_form: A carved wooden Oats-goat adorned with oats and flowers, or a large
+    straw Oats-goat set on a roof
+  associated_figures:
+  - fig:2
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:8
+- id: sym:5
+  label: Cripple Goat sheaf
+  literal_form: A sheaf called the goabbir bhacagh, translated as the Cripple Goat,
+    passed among farms during reaping
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: sym:6
+  label: harvest wreath, corn-ear crown, bell, and liquor
+  literal_form: 'Decorations or treatment given to a person identified as Corn-goat
+    or Goat: straw wrapping, wreath, corn-ear crown, bell, procession, and drenching
+    with liquor'
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Goat beings in grain fields
+  summary: The passage reports sayings that identify motion in grain with goats and
+    warn children that goat beings dwell in crop fields.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Goat pushes or marks the laggard harvester
+  summary: Harvesters who are sick, slow, or not finished after neighbours are described
+    through goat language, including being pushed by the Corn-goat or remaining exposed
+    to goat mockery.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Last corn as Goat
+  summary: At harvest completion, the last corn, last sheaf, last handful, last heap,
+    or person handling it is called Goat or a crop-specific goat, sometimes with horns
+    or a goat-shaped effigy.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Human Corn-goat procession and mockery
+  summary: The last binder or cutter may be wrapped in straw, crowned, carried or
+    led, given a bell, drenched with liquor, or made to bear the goat-name for a year.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:6
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Corn-spirit retained, fleeing, or passed onward
+  summary: The passage contrasts the view that a farm keeps its corn-spirit over winter
+    with the view that the spirit flees to uncut corn, and illustrates the latter
+    with a Skye sheaf passed from farm to farm.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: scene:6
+  label: Oats-goat placed on the loser's roof
+  summary: In the Böhmer Wald example, peasants race while bringing corn home; boys
+    identify the loser and erect a large straw Oats-goat on his roof at night.
+  figure_refs:
+  - fig:2
+  - fig:6
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Corn-spirit in goat form
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage repeatedly links a crop spirit or crop-field presence with goat
+    names and goat forms across harvest contexts.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The available taxonomy has no specific goat or grain-spirit category;
+    seasonal_cycle is used because the material is explicitly harvest-seasonal.
+- id: motif:2
+  label: Last sheaf or last harvester embodies the harvest being
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The last sheaf, last handful, last heap, and the person who cuts or binds
+    the last sheaf are called Goat or crop-specific goat names and may be decorated
+    or mocked.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage gives local customs but does not prove a single origin or
+    uniform meaning for all examples.
+- id: motif:3
+  label: Harvest spirit moves from cut fields to uncut fields
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage states a view that the corn-spirit flees to another farm where
+    corn remains standing and illustrates this with the Skye Cripple Goat sheaf passed
+    from farmer to farmer.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The movement of the spirit is reported as an interpretive view; the Skye
+    custom itself is described concretely as a sheaf-transfer custom.
+- id: motif:4
+  label: Crippled harvest being caused by cutting the corn
+  taxonomy_refs: []
+  basis: The Cripple Goat sheaf is interpreted as representing a corn-spirit made
+    lame by the cutting of the corn, with comparison to a limping bearer of the last
+    sheaf.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The passage uses probabilistic language for this interpretation.
+- id: motif:5
+  label: Mock-penalty for being last in harvest work
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: Lagging, losing, or last-finishing harvesters receive goat-related names,
+    cries, ridicule, processions, or roof effigies.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:8
+  confidence: high
+  cautions: The social meaning of the mockery varies by locality and is not fully
+    explained in the passage.
+comparison_claims:
+- id: claim:1
+  claim: The passage presents a recurring European harvest pattern in which goat language
+    or goat figures mark the corn-spirit, the last sheaf, or the person associated
+    with the last grain.
+  claim_level: same_motif
+  target: European goat-associated harvest customs in Prussia, Norway, Bavaria, Swabia,
+    Hesse, Mecklenburg, Hanover, Switzerland, Styria, Skye, and Böhmer Wald
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:8
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage is a comparative scholarly synthesis and does not establish
+    historical contact or common inheritance among the listed local customs.
+- id: claim:2
+  claim: 'Several customs assign a similar function to goat imagery: marking the vulnerable
+    endpoint of harvest work, especially the last sheaf, last handful, last worker,
+    or last farm still reaping.'
+  claim_level: same_function
+  target: Last-sheaf and last-harvester goat customs across the cited European localities
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:8
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The functional similarity is supported by the passage, but local ritual
+    details and meanings differ.
+- id: claim:3
+  claim: The Skye Cripple Goat sheaf is compared within the passage to the idea that
+    the corn-spirit moves from harvested fields to fields where corn remains standing.
+  claim_level: same_function
+  target: Transfer of a harvest-spirit representation from completed harvest to unfinished
+    harvest
+  evidence_refs:
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage frames this as an explanatory interpretation of the custom
+    rather than as a directly reported native explanation.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 372-386
+  quote_or_summary: The passage says the corn-spirit often appears as a goat; Prussian
+    sayings describe goats moving or sitting in corn, oats, rye, and beans, and children
+    are warned that such goat beings may carry them away or kill them.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summary used.
+- id: ev:2
+  type: summary
+  locator: lines 386-397
+  quote_or_summary: Sick or slow harvesters are said to have been pushed by the Harvest-goat
+    or Corn-goat; in East Prussia and Norway, lagging harvesters are associated with
+    goat cries or danger of being pushed.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summary used.
+- id: ev:3
+  type: summary
+  locator: lines 397-417
+  quote_or_summary: Examples from Bavaria, East Prussia, Swabia, Hesse, and nearby
+    areas call the last corn, last heap, last sheaf, last handful, or a carved/formed
+    goat figure the Goat, Corn-goat, Wheat-goat, or Oats-goat; horns may be set on
+    the last heap.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summary used.
+- id: ev:4
+  type: summary
+  locator: lines 417-430
+  quote_or_summary: The person who cuts or binds the last sheaf may be called Harvest-goat,
+    Corn-goat, Rye-goat, or Goat; some are wrapped in straw, crowned, brought to the
+    village, led with a bell, drenched with liquor, or made to bear the name for a
+    year.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summary used.
+- id: ev:5
+  type: summary
+  locator: lines 431-438
+  quote_or_summary: The passage contrasts a view that a caught corn-spirit lives in
+    the farmhouse or barn over winter with a view that it is a genius or deity of
+    all corn and flees to another farm where corn is still standing.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summary used.
+- id: ev:6
+  type: summary
+  locator: lines 438-443
+  quote_or_summary: In the Skye custom, the farmer who first finished reaping sent
+    a man or woman with a sheaf to a neighbour still reaping; the sheaf passed onward
+    until all corn was cut and was called the Cripple Goat.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summary used.
+- id: ev:7
+  type: summary
+  locator: lines 443-444
+  quote_or_summary: The passage says the corn-spirit was probably represented as lame
+    because it had been crippled by the cutting of the corn, and refers to an old
+    woman bearing the last sheaf who must limp on one foot.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summary used.
+- id: ev:8
+  type: summary
+  locator: lines 444
+  quote_or_summary: In the Böhmer Wald mountains, peasants racing to bring corn home
+    are observed by village boys, who mark the loser and erect on his roof a large
+    straw figure of a goat called the Oats-goat.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is explicit about goat-associated harvest customs and comparisons
+    among regions. Motif taxonomy mapping is less certain because the available taxonomy
+    lacks specific categories for grain spirit, last sheaf, or goat effigy.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used. No historical-contact or common-inheritance claim is made.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:comparative-golden-bough-volume-2-frazer-gutenberg__l372-l444
+  passage_sha256=ee0e261cb015b48ca5abbf3d10c823fae376be315adedd0e623dbe4fdf20f346
+

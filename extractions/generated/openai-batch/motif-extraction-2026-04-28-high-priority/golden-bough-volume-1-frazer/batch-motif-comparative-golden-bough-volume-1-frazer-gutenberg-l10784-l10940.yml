@@ -1,0 +1,302 @@
+---
+record_id: batch.motif.comparative-golden-bough-volume-1-frazer-gutenberg-l10784-l10940
+source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+passage_locator:
+  label: CHAPTER II. THE PERILS OF THE SOUL. / HEINE. / CHAPTER III. KILLING THE GOD.
+    / FOOTNOTES; lines 10784-10940
+  start: '10784'
+  end: '10940'
+  translation: 'The Golden Bough: A Study in Comparative Religion (Vol. 1 of 2)'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: The reader may observe how closely the taboos laid upon mourners resemble
+    those laid upon kings.
+  summary: 'The passage is a sequence of footnotes citing sources for customs discussed
+    elsewhere. Several notes explicitly mention comparative themes: taboos on mourners
+    resembling taboos on kings, iron as a protective charm, the Hebrew term for life
+    also meaning soul in a biblical passage about blood, the sanctity of domestic
+    animals, and references to priestly or mythic material.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A note states that taboos laid upon mourners closely resemble taboos laid
+    upon kings.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A note identifies iron as a protective charm and lists comparative references
+    for that topic.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A note states that the Hebrew word translated “life” in Leviticus xvii. 11
+    also means “soul.”
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A note points to discussion of the original sanctity of domestic animals.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: A Latin note says that the Flamen Dialis is daily on holiday or consecrated
+    rest.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: A note cites Plutarch’s Isis and Osiris and says that an apparently kindred
+    myth is preserved in some native Egyptian writings.
+  category: relationship
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: mourners
+  description: People under taboos, compared in the note with kings.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: kings
+  description: Rulers under taboos, compared in the note with mourners.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: domestic animals
+  description: Animals described indirectly as having an original sanctity in the
+    referenced discussion.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Flamen Dialis
+  description: Roman priest named in the Latin note as being daily feriatus.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: taboo-bound mourner
+  assigned_to:
+  - fig:1
+  basis: The note refers to taboos laid upon mourners.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: taboo-bound king
+  assigned_to:
+  - fig:2
+  basis: The note refers to taboos laid upon kings.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: sacred domestic animal
+  assigned_to:
+  - fig:3
+  basis: The note refers to the original sanctity of domestic animals.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: ritually restricted priest
+  assigned_to:
+  - fig:4
+  basis: The note states that the Flamen Dialis is daily feriatus.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: iron as protective charm
+  literal_form: iron
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: life or soul terminology
+  literal_form: Hebrew word translated “life” also meaning “soul”
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: domestic animal sanctity
+  literal_form: domestic animals
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Comparison of mourner and king taboos
+  summary: The note explicitly compares taboos imposed on mourners with taboos imposed
+    on kings.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Protective iron reference
+  summary: The note gathers references for iron understood as a protective charm.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Life and soul in biblical terminology
+  summary: The note comments that a Hebrew word rendered as life in Leviticus xvii.
+    11 also means soul.
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: ritual taboo around liminal persons
+  taxonomy_refs: []
+  basis: The passage explicitly states that taboos on mourners resemble taboos on
+    kings, indicating a recurring ritual pattern around socially or ritually marked
+    persons.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage is a footnote and does not describe the specific taboos in
+    this line range.
+- id: motif:2
+  label: protective metal charm
+  taxonomy_refs: []
+  basis: The note names iron as a protective charm and gives comparative bibliography.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: Only the object and function are stated; no narrative episode or ritual
+    procedure is given in this passage.
+- id: motif:3
+  label: soul identified with life principle
+  taxonomy_refs: []
+  basis: The note states that the Hebrew word translated “life” also means “soul,”
+    in connection with Leviticus xvii. 10-14.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The immediate passage is lexical and bibliographic; the broader blood-life
+    context is cited but not quoted in full here.
+- id: motif:4
+  label: sanctity of domestic animals
+  taxonomy_refs: []
+  basis: The note refers to the original sanctity of domestic animals.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: The footnote points to another discussion but does not summarize the ritual
+    or mythic content in detail.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself compares taboos laid upon mourners with taboos laid upon
+    kings.
+  claim_level: same_function
+  target: taboos on kings
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The exact taboos and their cultural contexts are not specified within
+    this line range.
+- id: claim:2
+  claim: The note treats iron as a cross-referenced protective charm across cited
+    folklore and ethnographic sources.
+  claim_level: same_function
+  target: protective charm traditions involving iron
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The cited cases are listed bibliographically; their details are not
+    included in the passage.
+- id: claim:3
+  claim: The note cautiously links a myth in Plutarch’s Isis and Osiris with material
+    preserved in native Egyptian writings.
+  claim_level: same_motif
+  target: an apparently kindred Egyptian myth
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The mythic content is not described in this passage; the claim is only
+    as strong as the footnote’s brief statement.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 10809-10812; footnote 597
+  quote_or_summary: "“The reader may observe how closely the taboos laid upon mourners
+    resemble those laid upon kings.”"
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source.
+- id: ev:2
+  type: summary
+  locator: lines 10818-10824; footnote 600
+  quote_or_summary: The note says, “On iron as a protective charm,” followed by comparative
+    references.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source.
+- id: ev:3
+  type: summary
+  locator: lines 10859-10862; footnote 613
+  quote_or_summary: The note cites Leviticus xvii. 10-14 and states that the Hebrew
+    word translated “life” in verse 11 also means “soul.”
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source.
+- id: ev:4
+  type: summary
+  locator: lines 10915-10919; footnote 635
+  quote_or_summary: The note points readers to W. Robertson Smith on “the original
+    sanctity of domestic animals.”
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source.
+- id: ev:5
+  type: quote
+  locator: line 10930; footnote 641
+  quote_or_summary: "“Dialis cotidie feriatus est.”"
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source.
+- id: ev:6
+  type: summary
+  locator: lines 10932-10935; footnote 642
+  quote_or_summary: The note cites Plutarch, Isis and Osiris, and says that an apparently
+    akin myth is preserved in some native Egyptian writings.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: medium
+  notes: The passage is predominantly footnotes, so several entries are based on brief
+    explicit statements rather than full narrated episodes.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No taxonomy references were assigned unless directly supported by the available taxonomy and passage. Available symbol taxonomy did not include iron or blood/life terminology.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:comparative-golden-bough-volume-1-frazer-gutenberg__l10784-l10940
+  passage_sha256=fd33b0696c07d1ea37b243112080e3e61305637fb1bc9bd47c84b9a4147a1db2
+

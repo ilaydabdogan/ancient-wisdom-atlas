@@ -1,0 +1,395 @@
+---
+record_id: batch.motif.greek-plato-republic-jowett-gutenberg-l1940-l1994
+source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+passage_locator:
+  label: The Republic / THE REPUBLIC / INTRODUCTION AND ANALYSIS.; lines 1940-1994
+  start: '1940'
+  end: '1994'
+  translation: The Republic
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage summarizes Plato’s view of art in the Republic as simple, ideal,
+    morally formative, and part of preliminary education. It notes Plato’s relative
+    silence about Greek creative arts despite their excellence, his preference for
+    abstract truth, and his comparison of a work of art to a whole like the State.
+    It then discusses Plato’s view that physicians should know illness personally,
+    while judges should know evil late and indirectly, and considers whether virtue
+    can itself give insight into vice.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: True art is described as simple, ideal, and expressive of high moral energy
+    rather than fanciful or imitative.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Youth are said to be best influenced by noble art and music, which form natural
+    good taste and a feeling for truth and beauty.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Poets are described as being expelled, while art is still recognized as another
+    aspect of reason acting through habit in preliminary education.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Plato is said to mention the creative arts rarely and not to dwell on famous
+    works such as those of Phidias, the Parthenon, the Propylea, or statues of Zeus
+    and Athene.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Fragments of ancient works are described as providing a standard of truth
+    and beauty for later viewers.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: A work of art is compared to the State as a whole.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The physician is said to be better if not robustly healthy and if personally
+    acquainted with illness.
+  category: attribute
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The judge is said to require no personal experience of evil, but should be
+    a good man who learns of others’ vices late in life.
+  category: attribute
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: The passage questions whether Plato’s distinction about knowledge of evil
+    is well founded and suggests that virtue may give insight into vice.
+  category: other
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Plato
+  description: The philosopher whose views on art, education, physicians, judges,
+    virtue, and vice are being summarized and assessed.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: youth
+  description: Young people whom Plato’s educational art and music are said to influence
+    and form.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: poets
+  description: Poets who are said to be expelled in Plato’s scheme despite the recognition
+    of art as an aspect of reason.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: physician
+  description: A physician who should have known illness in his own person.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:7
+- id: fig:5
+  name_or_label: judge
+  description: A judge who should be good, innocent in youth, and acquainted with
+    others’ vices late in life.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:8
+- id: fig:6
+  name_or_label: the bad
+  description: People described as knowing vice but not virtue.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:10
+roles:
+- id: role:1
+  label: philosophical authority discussed
+  assigned_to:
+  - fig:1
+  basis: The passage repeatedly attributes views and distinctions to Plato.
+  evidence_refs:
+  - ev:1
+  - ev:7
+  - ev:8
+- id: role:2
+  label: recipients of moral-aesthetic education
+  assigned_to:
+  - fig:2
+  basis: Youth are to be brought up among noble art and music to cultivate good taste
+    and a feeling for truth and beauty.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: excluded artists
+  assigned_to:
+  - fig:3
+  basis: The passage says the poets are to be expelled.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: healer with experiential knowledge
+  assigned_to:
+  - fig:4
+  basis: The physician is said to benefit from personal knowledge of illness.
+  evidence_refs:
+  - ev:7
+- id: role:5
+  label: moral evaluator without personal corruption
+  assigned_to:
+  - fig:5
+  basis: The judge is described as needing goodness and late acquaintance with others’
+    vices rather than personal experience of evil.
+  evidence_refs:
+  - ev:8
+- id: role:6
+  label: knowers of vice without virtue
+  assigned_to:
+  - fig:6
+  basis: The bad are said to have knowledge of vice but no knowledge of virtue.
+  evidence_refs:
+  - ev:10
+symbols:
+- id: sym:1
+  label: works of art as formative environment
+  literal_form: works of plastic art and strains of music
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: broken stones as surviving standards
+  literal_form: a few broken stones
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: work of art as whole
+  literal_form: a work of art, like the State, is a whole
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Art as moral education
+  summary: The passage describes noble art and music as shaping youth through habit
+    toward good taste, truth, beauty, and reason.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Silence before Greek creative arts
+  summary: The passage notes Plato’s sparse remarks about creative arts and his lack
+    of expressed rapture before major Greek monuments and statues.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: The artwork and the State as wholes
+  summary: The passage reports that Plato describes a work of art, like the State,
+    as a whole, relating this to mathematical and regulating principles of Greek art.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:6
+- id: scene:4
+  label: Physician, judge, and knowledge of evil
+  summary: The passage contrasts the physician’s need for personal knowledge of illness
+    with the judge’s need for goodness and indirect, late knowledge of vice, then
+    questions the distinction.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: Wisdom as moral discernment
+  taxonomy_refs:
+  - wisdom
+  basis: The passage emphasizes reason, truth, beauty, virtue, and knowledge of character,
+    including the claim that virtue may give insight into vice.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:9
+  confidence: medium
+  cautions: This is a philosophical-literary discussion rather than a mythic narrative;
+    the taxonomy reference is broad.
+- id: motif:2
+  label: Education through disciplined aesthetic formation
+  taxonomy_refs: []
+  basis: Youth are formed by exposure to noble art and music, with art acting through
+    habit in preliminary education.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: No explicit initiation rite or mythic education scene is described.
+comparison_claims:
+- id: claim:1
+  claim: The passage compares art in the Republic to love in the Symposium as another
+    aspect of reason extending over the same sphere, while limiting art to preliminary
+    education and habit.
+  claim_level: same_function
+  target: love in Plato’s Symposium
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is internal to Plato’s corpus and philosophical analysis,
+    not a claim of historical contact or shared mythic tradition.
+- id: claim:2
+  claim: The passage compares a work of art to the State as a whole.
+  claim_level: visual_similarity
+  target: the State in Plato’s Republic
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage frames this as an analogy of wholeness, not as a mythological
+    motif comparison.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 1940-1945
+  quote_or_summary: The passage says Plato’s true art is not fanciful and imitative,
+    but simple, ideal, and expressive of the highest moral energy.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 1945-1950
+  quote_or_summary: Living among noble plastic art or listening to noble strains is
+    described as the best influence for youth, forming taste and a feeling for truth
+    and beauty.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 1950-1957
+  quote_or_summary: Although poets are to be expelled, art is recognized as another
+    aspect of reason, compared with love in the Symposium, and acts through habit
+    in preliminary education.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 1960-1967
+  quote_or_summary: The passage says Plato rarely mentions creative arts and does
+    not express rapture at works by Phidias, the Parthenon, the Propylea, or statues
+    of Zeus and Athene.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: 1968-1970
+  quote_or_summary: "“We are living upon the fragments of them, and find in a few
+    broken stones the standard of truth and beauty.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; short quote.
+- id: ev:6
+  type: summary
+  locator: 1976-1981
+  quote_or_summary: The passage says Plato tells us that a work of art, like the State,
+    is a whole, and connects this with mathematical sciences as regulating principles
+    of Greek art.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 1983-1986
+  quote_or_summary: Plato is said to remark that a physician had better not be robustly
+    healthy and should have known illness personally.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: 1986-1990
+  quote_or_summary: The judge is said to need no similar experience of evil, but to
+    be a good man who passed youth in innocence and learned of others’ vices late
+    in life.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: 1990-1994
+  quote_or_summary: The passage questions the reasoning and suggests that intuition
+    or directness in virtue may be consistent with abhorring evil and may give insight
+    into vice.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: 1989-1991
+  quote_or_summary: The bad are described as having knowledge of vice but no knowledge
+    of virtue, though the Laws is said to acknowledge that evil people may correctly
+    estimate the good.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is philosophical analysis rather than a mythic narrative, so
+    motif assignments are broad and should be reviewed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No available concrete symbol taxonomy items such as cave, fire, water, tree, mountain, serpent, or milk are present in the passage.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-plato-republic-jowett-gutenberg__l1940-l1994
+  passage_sha256=dfa64c70cb19ce0a1af436a9d3ea628312d124376eaf37d18520f5847e040994
+

@@ -1,0 +1,351 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l2770-l2793
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE SOLDIER AND HIS HORSE / THE OXEN AND THE BUTCHERS / THE WOLF AND THE
+    LION / THE SHEEP, THE WOLF, AND THE STAG; lines 2770-2793
+  start: '2770'
+  end: '2793'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: In one fable, a wolf steals a lamb, but a lion takes the lamb from him;
+    the wolf complains of injustice and the lion mocks his claim. In another fable,
+    a stag asks a sheep for a loan of wheat with a wolf as surety; the sheep refuses
+    because both the wolf and the stag are likely or able to evade repayment. The
+    passage ends with the moral that two wrongs do not make a right.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A wolf takes a lamb from a flock and carries it away to eat later.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A lion takes the lamb away from the wolf and leaves with it.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The wolf does not resist the lion, but later complains that the lion has taken
+    what belongs to him.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The lion laughs and questions whether the lamb was justly the wolf's property.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A stag asks a sheep to lend him a measure of wheat and names the wolf as his
+    surety.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The sheep fears that the stag and wolf intend to cheat her.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The sheep refuses the loan because the wolf seizes what he wants without paying
+    and because both the wolf and stag can run faster than she can.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The stated moral says that two wrongs do not make a right.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: wolf in 'The Wolf and the Lion'
+  description: A wolf who steals a lamb from the flock and then loses it to a lion.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: lamb
+  description: A lamb stolen from the flock by the wolf and then taken by the lion.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: flock
+  description: The flock from which the lamb is stolen.
+  role_refs: []
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: lion
+  description: A lion who takes the wolf's stolen prey and mocks the wolf's complaint.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:5
+  name_or_label: stag
+  description: A stag who asks the sheep for a loan of wheat and offers the wolf as
+    surety.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:6
+  name_or_label: sheep
+  description: A sheep who refuses to lend wheat because she fears being cheated and
+    unable to collect the debt.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:7
+  name_or_label: wolf in 'The Sheep, the Wolf, and the Stag'
+  description: The wolf named by the stag as surety; the sheep describes him as one
+    who seizes what he wants and runs off without paying.
+  role_refs:
+  - role:6
+  - role:8
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: taker of prey
+  assigned_to:
+  - fig:1
+  - fig:4
+  basis: The wolf first steals the lamb; the lion later takes that prey from the wolf.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: stolen victim or prey
+  assigned_to:
+  - fig:2
+  basis: The lamb is taken from the flock and carried off to be devoured.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: complainant over stolen goods
+  assigned_to:
+  - fig:1
+  basis: After losing the lamb, the wolf calls the lion's act unjust and claims the
+    prey as his own.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: mocking stronger predator
+  assigned_to:
+  - fig:4
+  basis: The lion has enough power to take the prey and laughs at the wolf's claim
+    of ownership.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:5
+  label: borrower requesting wheat
+  assigned_to:
+  - fig:5
+  basis: The stag asks the sheep to lend him a measure of wheat.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: suspected cheat or unreliable debtor party
+  assigned_to:
+  - fig:5
+  - fig:7
+  basis: The sheep fears the stag and wolf mean to cheat her and notes that she could
+    not catch either of them when payment is due.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: cautious lender
+  assigned_to:
+  - fig:6
+  basis: The sheep refuses the loan after assessing the risk posed by the stag and
+    wolf.
+  evidence_refs:
+  - ev:4
+- id: role:8
+  label: untrustworthy surety
+  assigned_to:
+  - fig:7
+  basis: The wolf is offered as surety, but the sheep says he habitually seizes what
+    he wants without paying.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: stolen prey
+  literal_form: lamb
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: measure of wheat as loaned goods
+  literal_form: measure of wheat
+  associated_figures:
+  - fig:5
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: surety for a debt
+  literal_form: the wolf named as surety
+  associated_figures:
+  - fig:5
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Stolen lamb taken by a stronger predator
+  summary: A wolf steals a lamb, but a lion takes the lamb from him; the wolf complains
+    and the lion ridicules the justice of the wolf's claim.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Sheep refuses a risky loan
+  summary: A stag asks a sheep for wheat with the wolf as surety, but the sheep refuses
+    because the wolf is predatory and both animals can outrun her when repayment is
+    due.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: stolen goods taken from the thief by a stronger figure
+  taxonomy_refs: []
+  basis: The wolf steals a lamb, then the lion takes that same lamb from him; the
+    wolf's complaint is mocked because his own possession was unjust.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  confidence: high
+  cautions: This is a fable pattern rather than a named mythological taxonomy item
+    in the supplied list.
+- id: motif:2
+  label: refusal of credit to untrustworthy partners
+  taxonomy_refs:
+  - wisdom
+  basis: The sheep refuses to lend wheat because the proposed surety is known to take
+    without paying and because both the borrower and surety could evade collection.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The 'wisdom' taxonomy reference is broad; the passage supports practical
+    caution rather than esoteric or divine wisdom.
+- id: motif:3
+  label: two wrongs do not make a right
+  taxonomy_refs:
+  - wisdom
+  basis: The closing moral states that two wrongs do not make a right, and the first
+    fable shows a thief complaining when robbed by another predator.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  confidence: medium
+  cautions: The moral appears after the second fable in the provided passage, but
+    it also fits the preceding fable; attribution to one or both fables should be
+    checked against the source layout.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2770-2774
+  quote_or_summary: A wolf steals a lamb from the flock to devour later, then meets
+    a lion who takes the prey and walks off with it.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary generated from provided passage.
+- id: ev:2
+  type: summary
+  locator: lines 2774-2778
+  quote_or_summary: The wolf does not resist but later says the lion has unjustly
+    taken what is his; the lion laughs and questions whether the prey was justly the
+    wolf's.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary generated from provided passage.
+- id: ev:3
+  type: summary
+  locator: lines 2782-2784
+  quote_or_summary: A stag asks a sheep to lend him a measure of wheat and says the
+    wolf will be his surety.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary generated from provided passage.
+- id: ev:4
+  type: summary
+  locator: lines 2784-2791
+  quote_or_summary: The sheep fears cheating and refuses, saying the wolf takes without
+    paying and both the wolf and stag can outrun her when the debt is due.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary generated from provided passage.
+- id: ev:5
+  type: quote
+  locator: line 2793
+  quote_or_summary: Two blacks do not make a white.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation from provided passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based only on the supplied passage. Motif labels are candidate
+    fable-pattern descriptions; comparison claims are omitted because the passage
+    itself does not establish external comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No figures, symbols, taxonomy IDs, or comparisons beyond the supplied passage and available taxonomy list have been added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l2770-l2793
+  passage_sha256=e6ccac70885a63f824a6bae8381a4c51adb3f5b2ac7ab8d3a3ff8dbf99a49266
+

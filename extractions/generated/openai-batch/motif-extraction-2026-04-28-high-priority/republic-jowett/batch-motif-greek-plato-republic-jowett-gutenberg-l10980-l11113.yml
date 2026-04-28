@@ -1,0 +1,516 @@
+---
+record_id: batch.motif.greek-plato-republic-jowett-gutenberg-l10980-l11113
+source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+passage_locator:
+  label: THE REPUBLIC. / PERSONS OF THE DIALOGUE. / BOOK I. / BOOK II.; lines 10980-11113
+  start: '10980'
+  end: '11113'
+  translation: The Republic
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Socrates and his interlocutors describe the economic formation of a city
+    through production, trade, money, markets, merchants, sailors, retailers, and
+    hirelings. They then ask where justice and injustice arise, describe a simple
+    and healthy civic life, and contrast it with Glaucon's demand for a more comfortable,
+    luxurious city, which Socrates calls a city at fever-heat.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage says a trader who arrives without goods required by others will
+    return empty-handed.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The city requires enough domestic production in suitable quantity and quality
+    to obtain goods from others.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Additional husbandmen, artisans, merchants, and skilled sailors are said to
+    be needed for the city.
+  category: sequence
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:4
+  text: Exchange within the city is described as buying and selling in a market-place
+    using a money-token.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Retail-traders are described as people who sit in the market-place buying
+    and selling, while merchants wander from one city to another.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Hirelings are described as servants with bodily strength for labour, selling
+    that labour for hire.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Adeimantus suggests that justice and injustice are likely to be found in citizens'
+    dealings with one another.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The simple city is described as producing corn, wine, clothes, shoes, and
+    houses, and living on plain foods with moderate drinking, garlands, hymns to the
+    gods, and family restraint.
+  category: setting
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: The simple diet includes salt, olives, cheese, roots, herbs, figs, peas, beans,
+    myrtle-berries, and acorns roasted at the fire.
+  category: object
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: Socrates says that such a diet may lead to peace, health, old age, and transmission
+    of a similar life to children.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:11
+  text: Glaucon objects that the described city resembles a city of pigs and asks
+    for ordinary comforts such as sofas, tables, sauces, and sweets.
+  category: speech
+  evidence_refs:
+  - ev:9
+- id: obs:12
+  text: Socrates contrasts the true and healthy constitution with a luxurious State
+    or State at fever-heat, adding furniture, dainties, perfumes, incense, courtesans,
+    cakes, painting, embroidery, gold, ivory, and other materials.
+  category: sequence
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Socrates
+  description: Speaker who develops the account of the city's needs, simple life,
+    and luxurious expansion.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:7
+  - ev:10
+- id: fig:2
+  name_or_label: Adeimantus
+  description: Interlocutor addressed when Socrates asks whether the State is matured
+    and where justice and injustice arise.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+- id: fig:3
+  name_or_label: Glaucon
+  description: Interlocutor who objects to the plain diet and asks for comforts associated
+    with a more luxurious city.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:9
+- id: fig:4
+  name_or_label: husbandmen and artisans
+  description: Producers whose work supplies the city and who bring goods to market.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:5
+  name_or_label: merchants
+  description: Importers and exporters who wander from one city to another.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:6
+  name_or_label: skilful sailors
+  description: People needed in considerable numbers to carry merchandise over the
+    sea.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:2
+- id: fig:7
+  name_or_label: retail-traders
+  description: People in the market-place who give money for goods from sellers and
+    take money from buyers.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:4
+- id: fig:8
+  name_or_label: hirelings
+  description: Labourers who sell bodily strength for hire.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:5
+- id: fig:9
+  name_or_label: citizens and their children
+  description: Inhabitants of the simple city who work, feast, drink wine, wear garlands,
+    hymn the gods, converse, and regulate family size.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:7
+  - ev:8
+roles:
+- id: role:1
+  label: constructive speaker
+  assigned_to:
+  - fig:1
+  basis: Socrates poses questions and develops the city through successive needs and
+    classes.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: diagnoser of healthy and fevered civic forms
+  assigned_to:
+  - fig:1
+  basis: Socrates names the simple constitution healthy and the expanded luxurious
+    one fevered.
+  evidence_refs:
+  - ev:10
+- id: role:3
+  label: responding interlocutor
+  assigned_to:
+  - fig:2
+  basis: Adeimantus is addressed in the inquiry into whether the State is complete
+    and where justice and injustice arise.
+  evidence_refs:
+  - ev:6
+- id: role:4
+  label: objector demanding luxury
+  assigned_to:
+  - fig:3
+  basis: Glaucon objects that the plain city lacks relishes and comforts.
+  evidence_refs:
+  - ev:9
+- id: role:5
+  label: primary producers
+  assigned_to:
+  - fig:4
+  basis: Husbandmen and artisans produce goods and bring productions to market.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:6
+  label: inter-city traders
+  assigned_to:
+  - fig:5
+  basis: Merchants are importers, exporters, and those who wander from one city to
+    another.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:7
+  label: sea carriers
+  assigned_to:
+  - fig:6
+  basis: Sailors carry merchandise over the sea.
+  evidence_refs:
+  - ev:2
+- id: role:8
+  label: market intermediaries
+  assigned_to:
+  - fig:7
+  basis: Retail-traders sit in the market-place and mediate buying and selling with
+    money.
+  evidence_refs:
+  - ev:4
+- id: role:9
+  label: wage labourers
+  assigned_to:
+  - fig:8
+  basis: Hirelings sell bodily strength for hire.
+  evidence_refs:
+  - ev:5
+- id: role:10
+  label: simple civic householders
+  assigned_to:
+  - fig:9
+  basis: Citizens and children are described feasting, hymning, conversing, and limiting
+    family size according to means.
+  evidence_refs:
+  - ev:7
+  - ev:8
+symbols:
+- id: sym:1
+  label: market-place
+  literal_form: market-place
+  associated_figures:
+  - fig:4
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: money-token
+  literal_form: money-token used for exchange
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: sea route for merchandise
+  literal_form: sea over which merchandise is carried
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: fire
+  literal_form: fire used to roast myrtle-berries and acorns
+  associated_figures:
+  - fig:9
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:8
+- id: sym:5
+  label: garlands
+  literal_form: garlands worn on the head while feasting and hymning the gods
+  associated_figures:
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: luxury furnishings and materials
+  literal_form: sofas, tables, furniture, perfumes, incense, cakes, gold, ivory, and
+    other materials
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+  - ev:10
+scenes:
+- id: scene:1
+  label: Economic enlargement of the city
+  summary: The speakers reason that the city needs surplus production, merchants,
+    sailors, a market-place, money, retail-traders, and hirelings.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:2
+  label: Question of justice and injustice
+  summary: After the city is considered matured, Socrates and Adeimantus ask where
+    justice and injustice arise, with the answer tentatively located in citizens'
+    dealings with one another.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:9
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+- id: scene:3
+  label: Simple healthy civic life
+  summary: The citizens of the simple city work, eat plain foods, drink wine in moderation,
+    wear garlands, hymn the gods, converse happily, and regulate family size.
+  figure_refs:
+  - fig:1
+  - fig:9
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: scene:4
+  label: Demand for and diagnosis of a luxurious city
+  summary: Glaucon objects that the plain life lacks comforts; Socrates then describes
+    the expansion into a luxurious or fevered state filled with furniture, dainties,
+    perfumes, arts, and costly materials.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:9
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: origin of the city through specialization and exchange
+  taxonomy_refs: []
+  basis: The passage derives the city from needs for producers, traders, sailors,
+    market exchange, retailers, and wage labourers.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is a philosophical-social pattern, not a mythic narrative motif.
+- id: motif:2
+  label: justice and injustice arising in social dealings
+  taxonomy_refs: []
+  basis: The passage explicitly asks where justice and injustice spring up and tentatively
+    locates them in dealings among citizens.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The passage raises the question rather than resolving it.
+- id: motif:3
+  label: plain healthy life contrasted with fevered luxury
+  taxonomy_refs:
+  - duality
+  basis: Socrates contrasts the simple, healthy constitution with a luxurious State
+    described as at fever-heat.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:10
+  confidence: medium
+  cautions: The taxonomy reference 'duality' is supported only at the broad level
+    of contrast between two civic conditions.
+- id: motif:4
+  label: moderate communal feast with hymns to the gods
+  taxonomy_refs: []
+  basis: Citizens and children feast, drink wine, wear garlands, hymn the gods, and
+    converse happily in the simple city.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The description is civic and ethical rather than a ritual myth episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 10980-10996
+  quote_or_summary: A trader without goods desired by others returns empty-handed;
+    the city must produce enough in suitable quantity and quality, requiring more
+    husbandmen and artisans.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summary provided.
+- id: ev:2
+  type: summary
+  locator: 10997-11008
+  quote_or_summary: Importers and exporters are called merchants; carrying merchandise
+    over the sea requires skilled sailors in considerable numbers.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summary provided.
+- id: ev:3
+  type: summary
+  locator: 11009-11020
+  quote_or_summary: The speakers discuss internal exchange in the city, saying citizens
+    will buy and sell and will need a market-place and a money-token for exchange.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summary provided.
+- id: ev:4
+  type: summary
+  locator: 11021-11040
+  quote_or_summary: People in the market-place undertake the office of salesmen, exchanging
+    money and goods; retail-traders sit in the market-place, while merchants wander
+    from city to city.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summary provided.
+- id: ev:5
+  type: summary
+  locator: 11041-11051
+  quote_or_summary: Hirelings are described as servants with bodily strength for labour,
+    which they sell for hire, and they help make up the population.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summary provided.
+- id: ev:6
+  type: summary
+  locator: 11052-11064
+  quote_or_summary: Socrates asks whether the State is matured and where justice and
+    injustice arose; Adeimantus suggests they are probably in the dealings of citizens
+    with one another.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summary provided.
+- id: ev:7
+  type: summary
+  locator: 11065-11083
+  quote_or_summary: The simple city produces food, clothes, shoes, and houses; citizens
+    work seasonally, eat bread and cakes, recline on simple bedding, drink wine, wear
+    garlands, hymn the gods, converse, and limit family size according to means.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summary provided.
+- id: ev:8
+  type: summary
+  locator: 11084-11094
+  quote_or_summary: Socrates adds relishes and plain foods including salt, olives,
+    cheese, roots, herbs, figs, peas, beans, myrtle-berries, and acorns roasted at
+    the fire, with moderate drinking and expected peace, health, old age, and inheritance
+    of similar life by children.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summary provided.
+- id: ev:9
+  type: summary
+  locator: 11095-11104
+  quote_or_summary: 'Glaucon says this would feed a city of pigs and asks for ordinary
+    comforts: sofas, tables, sauces, and sweets in the modern style.'
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summary provided.
+- id: ev:10
+  type: summary
+  locator: 11105-11113
+  quote_or_summary: Socrates says the question is how a luxurious State is created;
+    he calls the simple constitution true and healthy, and the luxurious State a State
+    at fever-heat with added furniture, dainties, perfumes, incense, courtesans, cakes,
+    painters, embroiderers, gold, ivory, and many materials.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summary provided.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is philosophical and civic rather than mythic; motif candidates
+    are therefore framed as passage-level patterns, with limited taxonomy use.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly support a comparison to another tradition or motif family beyond a broad internal contrast.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-plato-republic-jowett-gutenberg__l10980-l11113
+  passage_sha256=5bdca7a9399168f220f24151c8acf1890007c099d378f9b33edab3e0379f678e
+

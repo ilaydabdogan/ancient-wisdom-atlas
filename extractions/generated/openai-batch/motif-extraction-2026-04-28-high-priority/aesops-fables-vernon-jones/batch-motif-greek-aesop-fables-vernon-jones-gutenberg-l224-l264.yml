@@ -1,0 +1,190 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l224-l264
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE OLD WOMAN AND THE DOCTOR / THE MOON AND HER MOTHER / MERCURY AND THE
+    WOODMAN / THE ASS, THE FOX, AND THE LION; lines 224-264
+  start: '224'
+  end: '264'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: CONTENTS
+  summary: The passage is a contents-page segment naming several fables, including
+    titles about an old woman and a doctor, the Moon and her mother, Mercury and a
+    woodman, and an ass, fox, and lion.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage includes the heading or name “G. K. CHESTERTON” before the contents
+    list.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage contains a contents heading followed by a list of fable titles.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The listed titles include “THE OLD WOMAN AND THE DOCTOR,” “THE MOON AND HER
+    MOTHER,” “MERCURY AND THE WOODMAN,” and “THE ASS, THE FOX, AND THE LION.”
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Several titles name pairs or groups of beings, animals, or persons.
+  category: relationship
+  evidence_refs:
+  - ev:2
+figures:
+- id: fig:1
+  name_or_label: Old Woman
+  description: A figure named in the title “THE OLD WOMAN AND THE DOCTOR.”
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Doctor
+  description: A figure named in the title “THE OLD WOMAN AND THE DOCTOR.”
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Moon
+  description: A figure or personified celestial body named in the title “THE MOON
+    AND HER MOTHER.”
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Mother of the Moon
+  description: A figure named as the Moon’s mother in the title “THE MOON AND HER
+    MOTHER.”
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Mercury
+  description: A named figure in the title “MERCURY AND THE WOODMAN.”
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Woodman
+  description: A figure named in the title “MERCURY AND THE WOODMAN.”
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:7
+  name_or_label: Ass
+  description: An animal figure named in the title “THE ASS, THE FOX, AND THE LION.”
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:8
+  name_or_label: Fox
+  description: An animal figure named in the title “THE ASS, THE FOX, AND THE LION.”
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:9
+  name_or_label: Lion
+  description: An animal figure named in the title “THE ASS, THE FOX, AND THE LION.”
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: title-named figure
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:9
+  basis: Each assigned figure is named in one of the listed fable titles in the contents
+    segment.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: Moon
+  literal_form: Moon
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Contents list of fable titles
+  summary: A contents-page passage lists multiple fable titles, including titles that
+    name human, divine or celestial, and animal figures.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 224-264
+  quote_or_summary: The passage shows a name or heading, then a “CONTENTS” heading
+    and a list of fable titles.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:2
+  type: quote
+  locator: lines 224-264
+  quote_or_summary: "“THE OLD WOMAN AND THE DOCTOR”; “THE MOON AND HER MOTHER”; “MERCURY
+    AND THE WOODMAN”; “THE ASS, THE FOX, AND THE LION”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short excerpts from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: uncertain
+  comparison_claims: uncertain
+  notes: The extraction is limited because the supplied passage is a contents list
+    rather than narrative text. Figures and the Moon symbol are identified only from
+    titles; no motif candidates or comparison claims are asserted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No taxonomy motif refs were assigned because the passage itself does not provide narrative actions or symbolic functions beyond title names.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l224-l264
+  passage_sha256=659c415b1041001206e1d54dbe56592f14ce2527b23aec6e063366ef5c844bba
+

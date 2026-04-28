@@ -1,0 +1,405 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l1484-l1507
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE ASS AND THE LAP-DOG / THE FIR-TREE AND THE BRAMBLE / THE FROGS' COMPLAINT
+    AGAINST THE SUN / THE DOG, THE COCK, AND THE FOX; lines 1484-1507
+  start: '1484'
+  end: '1507'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: In one fable, the Frogs fear that the Sun's marriage and offspring would
+    intensify the drying of their marshes, and they complain noisily until Jupiter
+    asks the cause. In another, a Dog and Cock travel together; the Cock roosts in
+    a tree while the Dog sleeps in its hollow trunk. A Fox tries to lure the Cock
+    down, but the Cock directs him to the Dog, who rushes out and kills him.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Sun is about to take a wife.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Frogs raise their voices in terror, and Jupiter asks what they are croaking
+    about.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Frogs say the single Sun already dries up their marshes with heat and
+    ask what will happen if he has other Suns.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A Dog and a Cock become friends and agree to travel together.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: At night, the Cock roosts in the branches of a tree while the Dog sleeps inside
+    its hollow trunk.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: At daybreak, the Cock crows; a Fox hears and wants to eat him.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The Fox praises the Cock's voice and asks him to come down from the tree.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The Cock tells the Fox to wake his porter at the foot of the tree so the porter
+    can open the door and let him in.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: When the Fox raps on the trunk, the Dog rushes out and tears him in pieces.
+  category: action
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Sun
+  description: Celestial figure who is about to take a wife and is said by the Frogs
+    to dry their marshes with heat.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Frogs
+  description: Frightened marsh-dwellers who complain that the Sun's possible offspring
+    would threaten them.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Jupiter
+  description: Divine figure disturbed by the Frogs' noise who asks what they are
+    croaking about.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Dog
+  description: Friend and traveling companion of the Cock; sleeps in the hollow trunk
+    and kills the Fox.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:9
+- id: fig:5
+  name_or_label: Cock
+  description: Friend and traveling companion of the Dog; roosts in a tree, crows
+    at daybreak, and redirects the Fox to the Dog.
+  role_refs:
+  - role:4
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:8
+- id: fig:6
+  name_or_label: Fox
+  description: Predator who wants to eat the Cock, tries to lure him down, and is
+    killed by the Dog.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:9
+roles:
+- id: role:1
+  label: threatening celestial bridegroom
+  assigned_to:
+  - fig:1
+  basis: The Sun is about to take a wife, and the Frogs fear his heat and possible
+    offspring.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: fearful complainants
+  assigned_to:
+  - fig:2
+  basis: The Frogs raise their voices in terror and explain their fear to Jupiter.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: questioning divine hearer
+  assigned_to:
+  - fig:3
+  basis: Jupiter is disturbed by the Frogs' noise and asks what they are croaking
+    about.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: traveling companions
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: The Dog and Cock become friends and agree to travel together.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: hidden defender
+  assigned_to:
+  - fig:4
+  basis: The Dog sleeps inside the hollow trunk and rushes out when the Fox knocks.
+  evidence_refs:
+  - ev:5
+  - ev:9
+- id: role:6
+  label: clever intended prey
+  assigned_to:
+  - fig:5
+  basis: The Cock is the Fox's intended breakfast but sends the Fox to wake the Dog.
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: role:7
+  label: deceptive predator
+  assigned_to:
+  - fig:6
+  basis: The Fox wants to eat the Cock and uses praise to try to lure him down.
+  evidence_refs:
+  - ev:6
+  - ev:7
+symbols:
+- id: sym:1
+  label: Sun and multiplying Suns
+  literal_form: The Sun as a heat-giving celestial figure, with feared offspring described
+    as other Suns.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: marshes dried by heat
+  literal_form: Frogs' marshes threatened by the Sun's drying heat.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: tree refuge
+  literal_form: A tree with branches for the Cock and a hollow trunk for the Dog.
+  associated_figures:
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:5
+  - ev:8
+  - ev:9
+- id: sym:4
+  label: hollow trunk doorway
+  literal_form: The hollow trunk is treated as a place with a porter, a door, and
+    an entrance.
+  associated_figures:
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:5
+  - ev:8
+  - ev:9
+scenes:
+- id: scene:1
+  label: Frogs complain against the Sun
+  summary: The Sun is about to marry; the Frogs, afraid that the Sun already dries
+    their marshes and might produce other Suns, cry out until Jupiter asks about their
+    noise.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Companions lodge in a tree
+  summary: A Dog and Cock travel together and spend the night at a tree, with the
+    Cock in the branches and the Dog in the hollow trunk.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Fox lured to the hidden Dog
+  summary: The Fox hears the Cock crow, tries to lure him down with praise, follows
+    the Cock's instruction to knock on the trunk, and is killed by the Dog.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: fear of multiplied destructive heat
+  taxonomy_refs:
+  - world_destroying_fire
+  basis: The Frogs fear that additional Suns born from the Sun's marriage would worsen
+    the drying heat that already threatens their marshes.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: The passage concerns solar heat drying marshes, not literal fire or full
+    world destruction; taxonomy fit is approximate.
+- id: motif:2
+  label: clever prey redirects predator to hidden ally
+  taxonomy_refs:
+  - trickster_boundary
+  - wisdom
+  basis: The Cock avoids the Fox's lure by directing him to the Dog hidden in the
+    tree trunk, resulting in the Fox's death.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: The Cock is not explicitly labeled a trickster; the role is inferred from
+    the action.
+- id: motif:3
+  label: tree as shared shelter and trap threshold
+  taxonomy_refs: []
+  basis: The tree shelters both companions and becomes the threshold through which
+    the Fox encounters the hidden Dog.
+  evidence_refs:
+  - ev:5
+  - ev:8
+  - ev:9
+  confidence: medium
+  cautions: The tree is functional rather than explicitly sacred or cosmological.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1484-1487
+  quote_or_summary: The Sun is about to take a wife.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1486-1488
+  quote_or_summary: The Frogs cry out in terror; Jupiter, disturbed by the noise,
+    asks what they are croaking about.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 1489-1492
+  quote_or_summary: '"The Sun is bad enough even while he is single, drying up our
+    marshes with his heat... But what will become of us if he marries and begets other
+    Suns?"'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: summary
+  locator: lines 1496-1497
+  quote_or_summary: A Dog and a Cock become close friends and agree to travel together.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 1497-1499
+  quote_or_summary: At nightfall the Cock roosts in the branches of a tree, while
+    the Dog sleeps inside its hollow trunk.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 1499-1501
+  quote_or_summary: At daybreak the Cock crows; a Fox hears him and wants to make
+    a breakfast of him.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: quote
+  locator: lines 1501-1503
+  quote_or_summary: The Fox says he would like "to make the acquaintance of one who
+    has such a beautiful voice."
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation.
+- id: ev:8
+  type: quote
+  locator: lines 1503-1506
+  quote_or_summary: The Cock replies, "Would you just wake my porter who sleeps at
+    the foot of the tree? He'll open the door and let you in."
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation.
+- id: ev:9
+  type: summary
+  locator: lines 1506-1507
+  quote_or_summary: The Fox raps on the trunk; the Dog rushes out and tears him in
+    pieces.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal fable actions are clear. Motif taxonomy matches are cautious, especially
+    for the solar-heat episode. No comparison claims are made because the passage
+    itself does not support comparison beyond candidate motif identification.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the two fables present in the supplied passage text were extracted, despite the broader locator label.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l1484-l1507
+  passage_sha256=3508d02b09ebd23423cbf5c150a6bb70fe5063ab46521e26465bad34e672120b
+

@@ -1,0 +1,482 @@
+---
+record_id: batch.motif.comparative-golden-bough-volume-2-frazer-gutenberg-l4874-l4924
+source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+passage_locator:
+  label: 'The Golden Bough: A Study in Comparative Religion (Vol. 2 of 2) / CONTENTS;
+    lines 4874-4924'
+  start: '4874'
+  end: '4924'
+  translation: 'The Golden Bough: A Study in Comparative Religion (Vol. 2 of 2)'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: "“Out with hunger, and in with wealth and health.”"
+  summary: 'Frazer surveys Greek scapegoat rites: a Chaeronean household and civic
+    expulsion of hunger; plague scapegoats at Marseilles; Athenian sacrifices of outcasts
+    during calamities and at the Thargelia; Leucadian annual hurling of a criminal
+    into the sea with mitigations; and Asiatic Greek rites in which a deformed person
+    receives food, is beaten, burned, and has his ashes cast into the sea.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: At Chaeronea a slave was beaten with rods of agnus castus and expelled with
+    a spoken formula expelling hunger and inviting wealth and health.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Chaeronean ceremony was performed by the chief magistrate at the Town
+    Hall and by each householder at home.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: At Marseilles, during plague, a poorer man offered himself as scapegoat, was
+    maintained for a year at public expense, dressed in sacred garments, decked with
+    holy branches, led through the city, and expelled.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: In the Marseilles rite prayers were uttered that all the evils of the people
+    might fall on the scapegoat's head.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Athenians maintained degraded and useless persons at public expense and sacrificed
+    two as scapegoats when plague, drought, famine, or another calamity befell the
+    city.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: In the Athenian rite one victim was sacrificed for men and another for women,
+    with black figs worn by the former and white figs by the latter; sometimes the
+    victim for women was a woman.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Athenian victims were led around the city and apparently stoned to death outside
+    the city; Frazer also reports an annual Thargelia version in May.
+  category: sequence
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:8
+  text: The Leucadians annually hurled a criminal from the Lover’s Leap into the sea
+    as a scapegoat, while attaching live birds and feathers to lighten the fall and
+    using boats to catch and convey him beyond the boundary.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Among the Greeks of Asia Minor, when a city suffered plague, famine, or another
+    public calamity, an ugly or deformed person was chosen to take on the city's evils.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: In the Asia Minor rite the chosen person ate dried figs, a barley loaf, and
+    cheese, was beaten seven times on the genital organs with squills and branches,
+    burned on a pyre, and had his ashes cast into the sea.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: Frazer states that a similar custom appears to have been annually celebrated
+    by Asiatic Greeks at the harvest festival of the Thargelia.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Chaeronean slave
+  description: A slave beaten with rods and turned out of doors in the expulsion of
+    hunger ceremony.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Chief magistrate and householders of Chaeronea
+  description: Ritual performers at the Town Hall and in private homes.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Poorer man at Marseilles
+  description: A man of the poorer classes who offered himself as a scapegoat during
+    plague.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Athenian outcast victims
+  description: Degraded and useless persons maintained at public expense and sacrificed
+    as scapegoats.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: Leucadian criminal
+  description: A criminal annually hurled from a white bluff into the sea as a scapegoat.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: Asia Minor deformed scapegoat
+  description: An ugly or deformed person chosen to take on the evils afflicting a
+    city.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:6
+- id: fig:7
+  name_or_label: Greek civic communities
+  description: Cities or communities whose hunger, plague, drought, famine, or other
+    evils are ritually addressed through scapegoat practices.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: scapegoat victim or expellee
+  assigned_to:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  basis: Each figure is beaten, expelled, hurled, killed, or otherwise made to bear
+    or remove communal evils.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+- id: role:2
+  label: ritual performer
+  assigned_to:
+  - fig:2
+  basis: The chief magistrate and householders perform the Chaeronean ceremony.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: afflicted community
+  assigned_to:
+  - fig:7
+  basis: The rites are performed in response to hunger, plague, drought, famine, or
+    public calamity affecting a city or people.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:6
+symbols:
+- id: sym:1
+  label: rods and branches used in beating
+  literal_form: rods of agnus castus; squills; branches of wild fig and other wild
+    trees
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: sym:2
+  label: sacred garments and holy branches
+  literal_form: sacred garments and holy branches placed on the Marseilles scapegoat
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: black and white figs
+  literal_form: a string of black figs and a string of white figs worn by Athenian
+    victims
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: sea boundary
+  literal_form: sea into which the Leucadian scapegoat is hurled and into which the
+    Asia Minor scapegoat's ashes are cast
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:5
+  label: birds and feathers
+  literal_form: live birds and feathers fastened to the Leucadian scapegoat to lighten
+    his fall
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: pyre
+  literal_form: a pyre constructed of forest-tree wood on which the Asia Minor scapegoat
+    is burned
+  associated_figures:
+  - fig:6
+  taxonomy_refs:
+  - fire
+  - tree
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: ritual food
+  literal_form: dried figs, a barley loaf, and cheese placed in the Asia Minor scapegoat's
+    hand and eaten by him
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Chaeronean expulsion of hunger
+  summary: A slave is beaten with rods and expelled from a civic or domestic space
+    while a formula sends hunger out and calls wealth and health in.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:7
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Marseilles plague scapegoat
+  summary: During plague a poor volunteer is maintained for a year, ritually adorned,
+    led through the city while prayers transfer evils to him, and then expelled.
+  figure_refs:
+  - fig:3
+  - fig:7
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Athenian scapegoat sacrifices
+  summary: Athens maintains outcasts and sacrifices two as scapegoats for men and
+    women during calamities; Frazer also describes an annual Thargelia version involving
+    stoning outside the city.
+  figure_refs:
+  - fig:4
+  - fig:7
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Leucadian scapegoat hurled into the sea
+  summary: A criminal is annually thrown from the Lover’s Leap into the sea as a scapegoat,
+    with birds, feathers, and boats mitigating the fall and removing him beyond the
+    boundary.
+  figure_refs:
+  - fig:5
+  - fig:7
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Asia Minor scapegoat burned and ashes cast into sea
+  summary: In times of public calamity an ugly or deformed person receives and eats
+    food, is beaten seven times with plants, burned on a pyre, and has his ashes thrown
+    into the sea; Frazer links a similar annual form to the Thargelia harvest festival.
+  figure_refs:
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: human scapegoat bearing communal evils
+  taxonomy_refs:
+  - sacrifice
+  basis: Multiple rites designate a person to carry or receive hunger, plague, famine,
+    drought, or other public evils, followed by expulsion, killing, or removal.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The available taxonomy has no explicit scapegoat family; sacrifice applies
+    especially to the lethal examples.
+- id: motif:2
+  label: expulsion beyond civic boundary
+  taxonomy_refs: []
+  basis: Several scapegoats are turned out, cast out, killed outside the city, conveyed
+    beyond the boundary, or have ashes cast into the sea.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: This is a passage-derived pattern rather than a supplied taxonomy category.
+- id: motif:3
+  label: annual festival scapegoat
+  taxonomy_refs:
+  - seasonal_cycle
+  - sacrifice
+  basis: The passage reports annual scapegoat practices at the Leucadian rite, the
+    Athenian Thargelia in May, and the Asiatic Greek harvest festival of the Thargelia.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+  confidence: medium
+  cautions: Seasonal-cycle classification is based on annual timing and harvest-festival
+    context; the passage does not elaborate a full seasonal myth.
+- id: motif:4
+  label: ritual transfer of evil to a marginal body
+  taxonomy_refs:
+  - sacrifice
+  basis: Scapegoats are described as a slave, poor man, degraded outcasts, criminal,
+    or ugly/deformed person selected to bear or remove communal evils.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The social marginality pattern is explicit in the descriptions, but broader
+    interpretation should be reviewed.
+comparison_claims:
+- id: claim:1
+  claim: Frazer states that the Chaeronean expulsion of hunger closely resembles Japanese,
+    Hindoo, and Highland customs described earlier in his work.
+  claim_level: same_function
+  target: Japanese, Hindoo, and Highland customs previously described by Frazer
+  evidence_refs:
+  - ev:8
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The present passage gives only Frazer's comparison and does not reproduce
+    the earlier customs, so the specific basis of resemblance cannot be independently
+    checked from this excerpt.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 4874-4883
+  quote_or_summary: At Chaeronea the ceremony called the “expulsion of hunger” involved
+    a slave beaten with rods of agnus castus and turned out with the words, “Out with
+    hunger, and in with wealth and health.”
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: 4887-4896
+  quote_or_summary: At Marseilles during plague, a poor man offered himself as scapegoat,
+    was fed for a year at public expense, adorned with sacred garments and holy branches,
+    led through the city while prayers placed the people's evils on him, and cast
+    out.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 4896-4906
+  quote_or_summary: Athens kept outcasts at public expense and, during calamities
+    such as plague, drought, or famine, sacrificed two as scapegoats, one for men
+    and one for women, marked with black and white figs; they were led about the city
+    and apparently stoned outside it.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 4906-4909
+  quote_or_summary: Frazer reports that every year at the Thargelia in May, two victims,
+    one for men and one for women, were led out of Athens and stoned to death.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 4910-4917
+  quote_or_summary: The Leucadians annually hurled a criminal from the Lover’s Leap
+    into the sea as a scapegoat, fastening live birds and feathers to him and stationing
+    boats to catch him and convey him beyond the boundary.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 4917-4923
+  quote_or_summary: Among Asiatic Greeks in public calamity, an ugly or deformed person
+    was chosen to take on city evils, given dried figs, barley loaf, and cheese to
+    eat, beaten seven times on the genitals with squills and wild branches, burned
+    on a pyre, and his ashes cast into the sea.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 4923-4924
+  quote_or_summary: Frazer says a similar custom appears to have been annually celebrated
+    by Asiatic Greeks at the harvest festival of the Thargelia.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: 4883-4885
+  quote_or_summary: Frazer states that the Chaeronean ceremony closely resembles Japanese,
+    Hindoo, and Highland customs already described.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is explicit about ritual sequences and Frazer's own cross-cultural
+    comparison. Motif taxonomy mapping is limited because no explicit scapegoat taxonomy
+    reference is supplied.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Extraction uses only the supplied passage and metadata.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:comparative-golden-bough-volume-2-frazer-gutenberg__l4874-l4924
+  passage_sha256=ecd6075c34363a89192743604c0605a3bcc558fc20477fce1ec0d8c00f18c5a6
+

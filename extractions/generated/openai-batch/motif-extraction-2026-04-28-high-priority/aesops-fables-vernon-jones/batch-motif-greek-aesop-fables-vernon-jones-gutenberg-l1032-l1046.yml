@@ -1,0 +1,280 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l1032-l1046
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE MISCHIEVOUS DOG / THE CHARCOAL-BURNER AND THE FULLER / THE MICE IN COUNCIL
+    / THE BAT AND THE WEASELS; lines 1032-1046
+  start: '1032'
+  end: '1046'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A bat is twice caught by weasels. To escape the first, who hates birds,
+    it claims to be a mouse; to escape the second, who never releases mice, it claims
+    to be a bird. Both weasels accept the claim and release it. The moral advises
+    observing circumstances before committing oneself.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A bat falls to the ground and is caught by a weasel.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The first weasel says he is an enemy of all birds on principle.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The bat says it is not a bird but a mouse, and the first weasel releases it.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Later, the bat is caught in the same way by another weasel and again begs
+    for its life.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The second weasel says he never lets a mouse go.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The bat says it is not a mouse but a bird, and the second weasel releases
+    it.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The moral tells the reader to see which way the wind blows before committing
+    oneself.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Bat
+  description: An animal caught twice by weasels; it escapes by identifying itself
+    first as a mouse and later as a bird.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:6
+- id: fig:2
+  name_or_label: First Weasel
+  description: A weasel who catches the bat and says he is an enemy of all birds.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Second Weasel
+  description: Another weasel who catches the bat and says he never lets a mouse go.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: captive pleading for life
+  assigned_to:
+  - fig:1
+  basis: The bat is caught and begs to be let go in both encounters.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: captor threatening to kill or eat
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The weasels catch the bat; the first is described as about to kill and eat
+    it, and the second catches it in the same way.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:3
+  label: adaptive self-identifier
+  assigned_to:
+  - fig:1
+  basis: The bat gives different identity claims to suit each weasel's stated hostility.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+- id: role:4
+  label: enemy of birds
+  assigned_to:
+  - fig:2
+  basis: The first weasel says he is an enemy of all birds on principle.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: enemy of mice
+  assigned_to:
+  - fig:3
+  basis: The second weasel says he never lets a mouse go.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: bat as ambiguous animal
+  literal_form: Bat described through opposed categories of bird and mouse
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: sym:2
+  label: wind direction
+  literal_form: The moral image of seeing which way the wind blows
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: First capture and release
+  summary: A weasel catches the bat and refuses release because he hates birds; the
+    bat says it is a mouse, so the weasel releases it.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Second capture and release
+  summary: Another weasel catches the bat and refuses release because he does not
+    release mice; the bat says it is a bird, so the weasel releases it.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:3
+  label: Moral statement
+  summary: The closing moral advises judging conditions before making a commitment.
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: survival through shifting social category
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The bat escapes danger by presenting itself under one category when birds
+    are threatened and another when mice are threatened.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage presents verbal self-identification, not literal physical
+    transformation.
+- id: motif:2
+  label: prudential adaptation to circumstances
+  taxonomy_refs:
+  - wisdom
+  basis: The moral explicitly advises observing prevailing conditions before committing
+    oneself.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: This is a practical moral rather than a mythic episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1032-1034
+  quote_or_summary: A bat falls to the ground, is caught by a weasel, and is about
+    to be killed and eaten when it begs to be released.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 1034-1036
+  quote_or_summary: The Weasel says he cannot release the bat because he is "an enemy
+    of all birds on principle."
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: summary
+  locator: lines 1036-1038
+  quote_or_summary: The bat says it is not a bird but a mouse; the weasel accepts
+    this and lets it go.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 1038-1040
+  quote_or_summary: Some time later the bat is caught in the same way by another weasel
+    and again begs for its life.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: lines 1040-1041
+  quote_or_summary: The second weasel says, "I never let a mouse go by any chance."
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation.
+- id: ev:6
+  type: summary
+  locator: lines 1041-1044
+  quote_or_summary: The bat says it is not a mouse but a bird; the second weasel accepts
+    this and lets it go.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: quote
+  locator: lines 1046
+  quote_or_summary: '"Look and see which way the wind blows before you commit yourself."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The basic narrative details are explicit. Motif-family mapping is interpretive
+    because the passage is a brief fable with a moral, and the bat's category shift
+    is verbal rather than bodily.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the provided passage text was used; the broader locator label names adjacent fables not included in the supplied passage.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l1032-l1046
+  passage_sha256=78afe3258b77c9ae1d065eb5c19a79510254bb69160b8b254b0193c017def94b
+

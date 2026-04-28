@@ -1,0 +1,475 @@
+---
+record_id: batch.motif.comparative-golden-bough-volume-2-frazer-gutenberg-l5934-l6013
+source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+passage_locator:
+  label: 'The Golden Bough: A Study in Comparative Religion (Vol. 2 of 2) / CONTENTS;
+    lines 5934-6013'
+  start: '5934'
+  end: '6013'
+  translation: 'The Golden Bough: A Study in Comparative Religion (Vol. 2 of 2)'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage surveys midsummer fire customs in France, England, Wales, the
+    Isle of Man, Ireland, and Scotland. It describes bonfires, burning wheels, torches,
+    firebrands, leaping over flames, dancing around fires, carrying fire or smoke
+    through fields and around cattle, and stated aims such as fertilising fields,
+    blessing apples, protecting corn, purifying air or livestock, and preventing disease
+    or blight.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: In Poitou, a straw-covered wheel is set on fire and run through fields, which
+    are said to be fertilised; people also leap three times over the fire with nut-tree
+    branches later hung over the cattle-stall door.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: In Brittany, midsummer fires burn on hills while people dance, sing, and leap
+    over embers; bonfires may be built around a pole topped with a nosegay or crown,
+    and burning discs or a tar barrel may be swung or thrown.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: In Britain and the Isle of Man, bonfires, torches, and firebrands are used
+    at midsummer in streets, fields, hills, and villages; the passage reports fires
+    to bless apples, smoke passing over corn, and blazing furze or gorse carried around
+    cattle.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: In Ireland, bonfires and torches are associated with the eves of St. John
+    Baptist and St. Peter; reports describe dancing around fires, passing people and
+    cattle through fire, purifying the air from harmful beings, and carrying coals
+    into corn-fields to prevent blight.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: In Scotland, the passage reports midsummer or St. Peter's Day fires and torches
+    on high grounds; in the Perthshire Highlands, a cowherd goes three times sunwise
+    around the fold with a burning torch, believed to purify herds and prevent disease.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Several examples place fires on hills, high grounds, eminences, or tumuli.
+  category: setting
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: local participants in midsummer customs
+  description: People who light fires, dance, sing, leap over flames, carry torches
+    or firebrands, and process around fires or through fields.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: young people and children
+  description: Young people leap over fires in northern England, and children in Ireland
+    jump through flames or pass through fires.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: cattle, flocks, and herds
+  description: Livestock are associated with branches hung over cattle-stalls, blazing
+    furze or gorse carried around folded cattle, cattle made to pass through fire,
+    and herds purified by torch-circuit.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: fields, apples, corn, and crops
+  description: Fields, apples, and corn are described as recipients of fire, smoke,
+    coals, or blessing in midsummer customs.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: cowherd and herdsmen
+  description: Herdsmen and young people kindle fires on high grounds in Ayrshire;
+    a cowherd in the Perthshire Highlands carries a burning torch three times around
+    the fold.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: fire-rite participants
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: They light, carry, dance around, leap over, or pass through midsummer fires
+    and torches.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:2
+  label: protected or purified livestock
+  assigned_to:
+  - fig:3
+  basis: The passage states that cattle, flocks, and herds are circled with fire,
+    passed through fire, or purified to prevent disease.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:3
+  label: cultivated recipients of fire rites
+  assigned_to:
+  - fig:4
+  basis: Fields, apples, and corn are linked to fertilisation, blessing, smoke, coals,
+    or blight prevention.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: role:4
+  label: ritual torch-bearer or circuit-maker
+  assigned_to:
+  - fig:5
+  basis: The cowherd makes a threefold sunwise circuit of the fold with a burning
+    torch; herdsmen kindle high-ground fires.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: ritual fire
+  literal_form: bonfires, torches, firebrands, blazing reeds, glowing embers, live
+    coals, burning torch
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: moving circular fire
+  literal_form: straw-covered burning wheel, ignited wooden discs, and swinging tar
+    barrel
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: high place for fire
+  literal_form: hills, high hills, high grounds, eminences, and a tumulus used as
+    fire settings
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: plant and pole elements
+  literal_form: nut-tree branches, a pole topped with a nosegay or crown, and a summer
+    pole with a bush at the top
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:5
+  label: smoke over crops
+  literal_form: smoke from fires placed to windward of every field so that it passes
+    over the corn
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: threefold or sunwise circuit
+  literal_form: leaping thrice over the fire and going three times round the fold
+    according to the course of the sun
+  associated_figures:
+  - fig:1
+  - fig:5
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+scenes:
+- id: scene:1
+  label: French and continental midsummer fire rites
+  summary: Burning wheels, discs, and a tar barrel are moved through fields or around
+    poles; people leap, dance, and sing around midsummer fires, sometimes with plant
+    elements attached to poles or carried by participants.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: British midsummer bonfires and crop-livestock rites
+  summary: Bonfires are lit in streets, fields, hills, and villages; participants
+    leap over flames, carry torches or firebrands, bless apples, expose corn to smoke,
+    and carry blazing furze or gorse around cattle.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Irish St. John's and St. Peter's Eve fires
+  summary: Bonfires and torch processions occur on eminences and in towns; people
+    shout, dance around fires, pass children and cattle through fire, and explain
+    some practices as purifying the air or preventing blight.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Scottish high-ground and fold-circuit fires
+  summary: The passage notes Scottish midsummer or St. Peter's Day fires and torches
+    on high grounds, including a Perthshire Highland practice in which a cowherd circles
+    the fold three times sunwise with a burning torch to purify herds and prevent
+    disease.
+  figure_refs:
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:6
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: midsummer fire festival
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage repeatedly locates bonfires, torches, wheels, leaping, dancing,
+    and processions at midsummer, St. John's Eve, or St. Peter's Day across several
+    regions.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage is a comparative survey rather than a single mythic narrative;
+    regional dates and customs vary.
+- id: motif:2
+  label: fire used to fertilise or bless crops
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage explicitly says fields are supposed to be fertilised by a burning
+    wheel, fires are made to bless apples, smoke passes over corn, and coals are carried
+    to corn-fields to prevent blight.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The stated purpose is not identical in every locality; some examples concern
+    protection rather than fertility.
+- id: motif:3
+  label: purifying and protective fire for people and livestock
+  taxonomy_refs: []
+  basis: The passage reports leaping over or passing through fire, carrying fire around
+    cattle, and a torch circuit believed to purify flocks and herds and prevent diseases;
+    one Irish account explains the rite as purifying the air from harmful beings.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage records reported beliefs and practices; it does not establish
+    a single original meaning.
+- id: motif:4
+  label: sunwise or repeated ritual circumambulation with fire
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: 'The passage includes repeated movement around ritual spaces: dancing around
+    fires, carrying torches around bonfires, carrying blazing plants around cattle,
+    and a threefold sunwise circuit of a fold with a burning torch.'
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: Only the Perthshire example explicitly states a sunwise course; other
+    circular movements are described without that directional detail.
+comparison_claims:
+- id: claim:1
+  claim: The passage presents regional customs in France, Britain, Ireland, and Scotland
+    as variants of a shared midsummer fire-custom pattern.
+  claim_level: same_motif
+  target: midsummer bonfire and torch customs in France and the British Isles
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim is limited to the passage's comparative presentation and
+    does not by itself prove historical contact, common origin, or continuity.
+- id: claim:2
+  claim: 'Across several regions, fire, smoke, embers, or coals are assigned similar
+    practical-ritual functions toward crops and livestock: fertilisation, blessing,
+    purification, disease prevention, or blight prevention.'
+  claim_level: same_function
+  target: protective and fertility functions of seasonal fire rites
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: Functions differ by report and locality; some accounts emphasize fertility,
+    others purification or protection.
+- id: claim:3
+  claim: The recurring use of bonfires at midsummer or saints' days supports a cautious
+    connection with the seasonal-cycle motif family.
+  claim_level: same_motif
+  target: seasonal_cycle
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The available taxonomy label is broad; the passage concerns customary
+    rites rather than a narrated seasonal myth.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5934-5941
+  quote_or_summary: In Poitou, a straw-covered burning wheel is run through fields
+    said to be fertilised; people leap three times over fire holding nut-tree branches
+    later hung over a cattle-stall door. Brest has mass torch-flinging.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 5941-5950
+  quote_or_summary: In Brittany, midsummer fires blaze on hills; people dance, sing,
+    and leap over embers. Bonfires may be piled around a pole topped with a nosegay
+    or crown. Burning discs are thrown, and at Edersleben a burning tar barrel is
+    swung around a pole.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 5951-5971
+  quote_or_summary: In England, Wales, Cornwall, and the Isle of Man, midsummer bonfires,
+    torches, and firebrands are reported in streets, fields, hills, villages, and
+    near cattle; practices include leaping, blessing apples, carrying torches village
+    to village, placing smoke over corn, and carrying blazing furze or gorse around
+    cattle.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 5972-6003
+  quote_or_summary: Irish accounts describe bonfires and blazing reed bundles or torches
+    on the eves of St. John Baptist and St. Peter, fires on eminences, dancing and
+    shouting around fires, purification of air from harmful beings, people and cattle
+    passing through fire, and live coals formerly carried into corn-fields to prevent
+    blight.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 6004-6013
+  quote_or_summary: Scottish traces include midsummer or St. Peter's Day fires and
+    lighted torches on mountains or high grounds; in the Perthshire Highlands a cowherd
+    goes three times sunwise around the fold with a burning torch, believed to purify
+    flocks and herds and prevent diseases.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is explicit about actions, dates, settings, and some reported
+    functions. Motif and comparison labels are cautious because the text is a later
+    comparative survey of customs, not a primary mythic narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy references are limited to available entries and applied only where directly supported.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:comparative-golden-bough-volume-2-frazer-gutenberg__l5934-l6013
+  passage_sha256=8ef0186625e41eb84c01cd666a28248ce67a0a1065d828cd1d03a44c0b53ff76
+

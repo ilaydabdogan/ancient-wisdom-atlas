@@ -1,0 +1,448 @@
+---
+record_id: batch.motif.greek-plato-republic-jowett-gutenberg-l3081-l3113
+source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+passage_locator:
+  label: The Republic / THE REPUBLIC / INTRODUCTION AND ANALYSIS.; lines 3081-3113
+  start: '3081'
+  end: '3113'
+  translation: The Republic
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A speaker presents and interprets a parable about a ship whose ignorant
+    sailors seize control from an impaired captain and disparage the true pilot. The
+    parable is explicitly applied to the philosopher’s relation to political authority,
+    with the philosopher compared to the skilled pilot and the mutinous sailors to
+    politicians who render him useless.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The speaker says he will answer with a parable from fiction about the relation
+    of good men to their governments.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The captain of the ship is described as taller than the crew but somewhat
+    deaf, blind, and ignorant of seafaring.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The sailors want to steer the ship despite not knowing the art of steering
+    and believing it cannot be learned.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: When denied the helm, the sailors drug the captain, bind him, and take possession
+    of the ship.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The sailors call a participant in the mutiny a good pilot and fail to understand
+    that a true pilot must observe winds and stars.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The passage interprets the pilot as the philosopher and the mutinous sailors
+    as politicians who make him useless.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The passage says the philosopher should not beg for authority; instead, those
+    in need should seek him as they would seek a physician.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The philosopher is described as loving truth, hating falsehood, and being
+    drawn from many phenomena toward contemplation of the absolute.
+  category: attribute
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: The passage says philosophy is dishonoured by its own professing sons when
+    they are corrupted by the world.
+  category: relationship
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: captain of the ship
+  description: A tall captain who is somewhat deaf, blind, and ignorant of the seaman’s
+    art.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: sailors
+  description: Crew members who want to steer, deny that steering can be learned,
+    and seize the ship by drugging and binding the captain.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: true pilot
+  description: The one who must observe the winds and stars and master the ship, though
+    the sailors would call him a fool, prater, and star-gazer.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: philosopher
+  description: The interpreted counterpart of the pilot; described as loving truth,
+    hating falsehood, and contemplating the absolute.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: fig:5
+  name_or_label: mutinous sailors / mob of politicians
+  description: The interpreted counterpart of the sailors; they render the philosopher
+    useless.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: physician
+  description: 'A figure used in a secondary analogy: people in need should knock
+    at the physician’s door rather than expect the physician to beg them.'
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+- id: fig:7
+  name_or_label: truth
+  description: Truth is described as leader of the virtues and as taking up abode
+    in the philosopher’s soul.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:10
+roles:
+- id: role:1
+  label: impaired authority figure
+  assigned_to:
+  - fig:1
+  basis: The captain is physically and technically deficient yet remains the ship’s
+    captain until overpowered.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:2
+  label: mutinous ignorant crew
+  assigned_to:
+  - fig:2
+  - fig:5
+  basis: The sailors seek control without knowledge and seize the ship by force and
+    drugging.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+- id: role:3
+  label: unrecognized true expert
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The true pilot has navigational knowledge but is mocked as a star-gazer;
+    the passage identifies the pilot with the philosopher.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:4
+  label: lover of truth
+  assigned_to:
+  - fig:4
+  basis: The philosopher is said to love truth, hate falsehood, and contemplate the
+    absolute.
+  evidence_refs:
+  - ev:8
+- id: role:5
+  label: political mob
+  assigned_to:
+  - fig:5
+  basis: The interpretation names the mutinous sailors as the mob of politicians.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: needed healer
+  assigned_to:
+  - fig:6
+  basis: The physician is used as an analogy for someone whom people in need must
+    seek out.
+  evidence_refs:
+  - ev:7
+- id: role:7
+  label: leader of virtues
+  assigned_to:
+  - fig:7
+  basis: Truth is explicitly called the leader of the virtues.
+  evidence_refs:
+  - ev:10
+symbols:
+- id: sym:1
+  label: ship
+  literal_form: ship
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+- id: sym:2
+  label: helm
+  literal_form: helm
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: winds and stars
+  literal_form: winds and stars
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:4
+  label: physician’s door
+  literal_form: door of the physician
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:5
+  label: truth in the soul
+  literal_form: truth and virtues taking abode in the philosopher’s soul
+  associated_figures:
+  - fig:4
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+scenes:
+- id: scene:1
+  label: Introduction of the parable
+  summary: The speaker frames the coming illustration as a parable from fiction about
+    good men and governments.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Mutiny aboard the ship
+  summary: Ignorant sailors demand the helm, incapacitate the captain when refused,
+    and take possession of the ship.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Misrecognition of the true pilot
+  summary: The sailors praise mutineers as pilots while dismissing the true pilot,
+    who must know winds and stars, as a star-gazer.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Interpretation of the parable
+  summary: The passage identifies the pilot with the philosopher and the mutinous
+    sailors with politicians who render him useless.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: Philosopher as needed expert
+  summary: The philosopher is compared to a physician whom people should seek when
+    they need him, rather than expecting him to ask for authority.
+  figure_refs:
+  - fig:4
+  - fig:6
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:7
+- id: scene:6
+  label: Nature and corruption of philosophy
+  summary: The true philosopher is described as oriented toward truth and the absolute,
+    while some professing sons of philosophy are corrupted by the world.
+  figure_refs:
+  - fig:4
+  - fig:7
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: wise expert rejected by the ignorant many
+  taxonomy_refs:
+  - wisdom
+  basis: The true pilot/philosopher possesses the relevant knowledge but is dismissed
+    as useless or foolish by those who lack that knowledge.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:8
+  confidence: high
+  cautions: The passage is philosophical allegory rather than a mythic narrative.
+- id: motif:2
+  label: mutiny against rightful or nominal authority
+  taxonomy_refs: []
+  basis: The sailors drug and bind the captain and seize possession of the ship after
+    being denied the helm.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The captain is described as impaired and ignorant, so the passage does
+    not present a simple idealized rightful-ruler motif.
+- id: motif:3
+  label: guidance by celestial observation
+  taxonomy_refs: []
+  basis: The true pilot must observe the winds and the stars in order to master the
+    ship.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The stars function literally within navigation and allegorically within
+    the philosopher-pilot comparison; no specific mythic celestial guide is named.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3081-3085
+  quote_or_summary: The speaker says he will answer with a parable from fiction to
+    illustrate the relation of good men to governments.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source text.
+- id: ev:2
+  type: quote
+  locator: lines 3085-3087
+  quote_or_summary: "“Conceive the captain of a ship, taller by a head and shoulders
+    than any of the crew, yet a little deaf, a little blind, and rather ignorant of
+    the seaman’s art.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source text.
+- id: ev:3
+  type: summary
+  locator: lines 3087-3089
+  quote_or_summary: The sailors want to steer, know nothing of the art, and claim
+    the art cannot be learned.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source text.
+- id: ev:4
+  type: summary
+  locator: lines 3089-3091
+  quote_or_summary: If the helm is refused, the sailors drug the captain’s drink,
+    bind him, and take the ship.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source text.
+- id: ev:5
+  type: summary
+  locator: lines 3091-3095
+  quote_or_summary: The mutineer is called a good pilot; the true pilot must observe
+    winds and stars but is called a fool, prater, and star-gazer.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source text.
+- id: ev:6
+  type: quote
+  locator: lines 3100-3103
+  quote_or_summary: "“Now the pilot is the philosopher—he whom in the parable they
+    call star-gazer, and the mutinous sailors are the mob of politicians by whom he
+    is rendered useless.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source text.
+- id: ev:7
+  type: summary
+  locator: lines 3097-3100
+  quote_or_summary: The philosopher should not beg for authority; anyone in need,
+    rich or poor, should knock at the physician’s door.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source text.
+- id: ev:8
+  type: summary
+  locator: lines 3105-3109
+  quote_or_summary: The philosopher is recalled as loving truth, hating falsehood,
+    not resting in multiplicity, and being led toward contemplation of the absolute.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source text.
+- id: ev:9
+  type: summary
+  locator: lines 3103-3105, 3110-3113
+  quote_or_summary: Philosophy is dishonoured by professing sons corrupted by the
+    world; many persons described as philosophers are said to be rogues, with a small
+    useless exception.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source text.
+- id: ev:10
+  type: quote
+  locator: lines 3109-3110
+  quote_or_summary: "“All the virtues as well as truth, who is the leader of them,
+    took up their abode in his soul.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source text.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is well supported by the passage. Motif labels are cautious
+    because the passage is a philosophical parable in an introductory analysis rather
+    than a myth narrative. No external comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the provided passage and metadata; available taxonomy refs were applied only where directly supported.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-plato-republic-jowett-gutenberg__l3081-l3113
+  passage_sha256=9118a12f1f93605aa3e3cbf3ab858438ffdf5acea0cb34b811ff19d4eb591a74
+

@@ -1,0 +1,321 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l1138-l1159
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE PEACOCK AND THE CRANE / THE CAT AND THE BIRDS / THE SPENDTHRIFT AND THE
+    SWALLOW / THE OLD WOMAN AND THE DOCTOR; lines 1138-1159
+  start: '1138'
+  end: '1159'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: An old woman with failing eyesight contracts with a doctor to pay him only
+    if he cures her. During treatment he removes her possessions from the house. Once
+    her sight is restored and the house is empty, she refuses payment and argues in
+    court that she must be blinder than before because she can no longer see any belongings
+    in the house.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: An old woman becomes almost totally blind because of an eye disease.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The old woman and the doctor make an agreement before witnesses about payment
+    depending on whether the cure succeeds.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The doctor visits repeatedly for treatment and takes articles from the house
+    on each visit.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: At the final visit the cure is complete, but nothing remains in the house.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The old woman refuses to pay the doctor, and he sues her before magistrates.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: In court the old woman states that she is blinder than ever because she cannot
+    see any furniture or other things in the house.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Old Woman
+  description: A woman who is nearly blind, enters a treatment agreement, later refuses
+    payment, and defends herself in court.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Doctor
+  description: A doctor contracted to cure the old woman; during visits he removes
+    household articles and later claims payment.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Witnesses
+  description: People present when the agreement between the old woman and the doctor
+    is made.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Magistrates
+  description: Authorities before whom the doctor brings his claim for payment.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: patient under contract
+  assigned_to:
+  - fig:1
+  basis: She consults the doctor and agrees to pay a fee only if cured.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: physician claimant
+  assigned_to:
+  - fig:2
+  basis: He prescribes treatment and later sues for payment of the fee.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: secret taker of household goods
+  assigned_to:
+  - fig:2
+  basis: At each visit he takes away an article from the house.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: clever defendant
+  assigned_to:
+  - fig:1
+  basis: She answers the claim in court by arguing from the empty condition of the
+    house.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: contract witnesses
+  assigned_to:
+  - fig:3
+  basis: They are present when the agreement is made.
+  evidence_refs:
+  - ev:1
+- id: role:6
+  label: legal authorities
+  assigned_to:
+  - fig:4
+  basis: The lawsuit is brought before them.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: blindness and sight
+  literal_form: diseased eyes, blindness, cure, inability to see household goods
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: empty house
+  literal_form: house emptied of furniture and other things
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:3
+  label: treatment agreement
+  literal_form: agreement before witnesses for a high fee if cured and no fee if not
+    cured
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: court defense
+  literal_form: spoken defense before magistrates
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Conditional medical agreement
+  summary: The old woman, nearly blind, contracts with the doctor before witnesses
+    to pay him only if he cures her.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Treatment and theft of household goods
+  summary: During repeated treatment visits, the doctor removes articles from the
+    house until the cure is complete and the house is empty.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Refusal and lawsuit
+  summary: The old woman refuses payment, and the doctor brings her before magistrates
+    for the debt.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Defense based on the empty house
+  summary: The old woman accepts the contract terms but says she is not cured, since
+    she can no longer see the household goods that were formerly visible to her.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: deceptive healer steals from patient
+  taxonomy_refs:
+  - trickster_boundary
+  basis: A doctor charged with curing the woman removes goods from her house during
+    his treatment visits.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage presents deception and boundary-crossing by a professional,
+    but does not name the doctor as a trickster.
+- id: motif:2
+  label: clever legal answer defeats unjust claim
+  taxonomy_refs:
+  - wisdom
+  basis: The old woman answers the doctor’s claim by using the empty house as proof
+    that, by the contract’s terms, she has not been cured.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The wisdom motif is inferred from the successful verbal defense; the passage
+    does not provide an explicit moral in the supplied text.
+- id: motif:3
+  label: literalized proof from absence
+  taxonomy_refs: []
+  basis: The old woman claims inability to see anything in the house because the doctor
+    has removed the objects, turning absence into legal evidence.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: This is a descriptive motif label without a supplied taxonomy reference.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1138-1144
+  quote_or_summary: The old woman is nearly blind from eye disease and agrees before
+    witnesses to pay a high fee if the doctor cures her, with no payment if he fails.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1144-1149
+  quote_or_summary: The doctor prescribes treatment and, on each visit, takes an article
+    from the house until the final visit, when the cure is complete and nothing is
+    left.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 1149-1153
+  quote_or_summary: Seeing the empty house, the old woman refuses to pay; after repeated
+    refusals, the doctor sues her before magistrates.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 1153-1159
+  quote_or_summary: The old woman says she is “blinder than ever” because formerly
+    she could see that the house contained furniture, but now she cannot see anything
+    there at all.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is straightforward for figures, actions, and scenes. Motif labels
+    are cautious and based only on the supplied fable text; no comparison claims are
+    made because the passage itself does not support cross-text comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage text was used; although the locator label lists multiple fables, the provided passage contains only “The Old Woman and the Doctor.”
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l1138-l1159
+  passage_sha256=b2003485af8b5d780dd958e16f2a6cb6e4005efe227f9dc2f1b94663705f95ff
+

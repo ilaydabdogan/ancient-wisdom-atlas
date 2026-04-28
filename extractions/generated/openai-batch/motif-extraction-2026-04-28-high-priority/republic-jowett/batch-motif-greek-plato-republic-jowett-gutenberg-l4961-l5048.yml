@@ -1,0 +1,341 @@
+---
+record_id: batch.motif.greek-plato-republic-jowett-gutenberg-l4961-l5048
+source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+passage_locator:
+  label: The Republic / THE REPUBLIC / INTRODUCTION AND ANALYSIS.; lines 4961-5048
+  start: '4961'
+  end: '5048'
+  translation: The Republic
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage explains mathematical and musical terms used in interpreting
+    Plato's number, summarizes Dr. Donaldson's reconstruction of the perfect or divine
+    cycle, the number of the world, the imperfect cycle, the number of the state,
+    the Platonic Tetractys, two harmonies, and gives reasons for identifying 216 as
+    the Platonic number of births, including its relation to the Pythagorean triangle,
+    metempsychosis, the musical scale, and the figure of marriage.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A perfect number is defined as one equal to the sum of its divisors; 6 is
+    identified as the first perfect or cyclical number.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage treats terms for numbers, intervals, bases, proportions, squares,
+    cubes, rational and irrational diameters as applicable to music, number, and figure.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Donaldson's interpretation assumes a perfect or divine cycle as the number
+    of the world and an imperfect cycle as the number of the state.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: In Donaldson's summary, the world's period is defined by the perfect number
+    6, while the state's period is defined by 216, the cube of 6.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: 'The Platonic Tetractys is described as a seven-term series: 1, 2, 3, 4, 9,
+    8, 27.'
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The number 216 is related to 8 and 27, to 3 cubed, 4 cubed, and 5 cubed, and
+    to the Pythagorean triangle with sides 3, 4, 5.
+  category: relationship
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:7
+  text: The passage identifies 216 as the proposed Platonic number of births.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The passage states that 216 is also the period of the Pythagorean Metempsychosis.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: The passage states that the bases 3, 4, 5 correspond to the third, fourth,
+    and fifth in the musical scale.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:10
+  text: The Pythagorean triangle is said to be called the figure of marriage.
+  category: attribute
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Dr. Donaldson
+  description: A cited interpreter whose article on the Platonic Number supplies several
+    explanations and whose conclusions are summarized.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Schleiermacher
+  description: A cited interpreter with whom the narrator agrees in supposing that
+    216 is the Platonic number of births.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Greek mathematician
+  description: A generic ancient mathematical knower for whom the passage says 216
+    and its permutations would have been familiar.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: cited interpreter
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage cites Donaldson and Schleiermacher as authorities or interpreters
+    for the Platonic number.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: mathematical knower
+  assigned_to:
+  - fig:3
+  basis: The passage says the number 216 with its permutations would have been familiar
+    to a Greek mathematician.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: perfect or divine cycle
+  literal_form: number 6
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: number of the state / number of births
+  literal_form: number 216
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: Platonic Tetractys
+  literal_form: series 1, 2, 3, 4, 9, 8, 27
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: Pythagorean triangle
+  literal_form: 3, 4, 5 triangle
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:5
+  label: figure of marriage
+  literal_form: Pythagorean triangle called the figure of marriage
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: musical scale correspondence
+  literal_form: 3, 4, 5 as third, fourth, fifth in the musical scale
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:7
+  label: Pythagorean Metempsychosis period
+  literal_form: 216 as period of Pythagorean Metempsychosis
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Explanation of mathematical-musical terms
+  summary: The passage defines perfect, waxing, waning, commensurable, proportional,
+    square, oblong, rational, and irrational numerical terms as part of interpreting
+    Plato's number.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Donaldson's reconstruction of cycles and harmonies
+  summary: 'Donaldson''s view is summarized: the perfect number 6 defines the period
+    of the world, 216 defines the period of the state, and the Platonic Tetractys,
+    musical ratios, and two harmonies explain the calculation.'
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:6
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Reasons for identifying 216 as the Platonic number of births
+  summary: The narrator lists reasons for agreeing that 216 is the Platonic number
+    of births, including its cubic form, its relation to 3, 4, 5, the Pythagorean
+    triangle, metempsychosis, musical scale positions, the Platonic Tetractys, and
+    the figure of marriage.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: cosmic and civic cycles expressed through number
+  taxonomy_refs:
+  - wisdom
+  basis: The passage links the perfect or divine cycle to the world and the imperfect
+    cycle to the state, with periods expressed by 6 and 216.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This is philosophical-mathematical exposition rather than a narrative
+    mythic episode; the wisdom taxonomy is used only for numerical-cosmological knowledge.
+- id: motif:2
+  label: births governed by a sacred or philosophical number
+  taxonomy_refs:
+  - sacred_birth
+  basis: The passage identifies 216 as the Platonic number of births and connects
+    it to mathematical, musical, and Pythagorean structures.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage discusses interpretation of Plato's number, not a story of
+    a particular sacred birth.
+- id: motif:3
+  label: transmigration cycle measured by number
+  taxonomy_refs:
+  - death_rebirth
+  basis: The passage states that 216 is also the period of the Pythagorean Metempsychosis.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: Metempsychosis is mentioned briefly and not narrated or explained in detail
+    in this excerpt.
+- id: motif:4
+  label: marriage figured by geometric form
+  taxonomy_refs:
+  - sacred_marriage
+  basis: The passage says the Pythagorean triangle is called the figure of marriage.
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: The phrase is a mathematical-geometrical designation; the passage does
+    not describe a marriage rite, divine couple, or sacred-marriage narrative.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly aligns the Platonic number 216 with a Pythagorean
+    pattern by saying it is also the period of the Pythagorean Metempsychosis and
+    by connecting it with the Pythagorean triangle and Tetractys.
+  claim_level: same_function
+  target: Pythagorean numerical and metempsychosis tradition
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim is based on the passage's own summary of interpretive tradition;
+    it does not demonstrate historical dependence beyond the stated school tradition.
+- id: claim:2
+  claim: The passage reports that later authorities or school tradition connected
+    the Pythagorean triangle with the Platonic passage.
+  claim_level: historical_contact
+  target: Pythagorean school tradition as reported through Plutarch, Proclus, and
+    Quintilian
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The excerpt reports a tradition pointing in the same direction but
+    does not provide the cited texts or detailed argumentation.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4961-4994
+  quote_or_summary: The passage defines perfect numbers, gives 6 as the first perfect
+    or cyclical number, and explains numerical, musical, and geometrical terms including
+    base, intervals, ratios, square, oblong, rational, and irrational diameters; it
+    credits Dr. Donaldson for several explanations.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:2
+  type: summary
+  locator: lines 4995-5031
+  quote_or_summary: 'Donaldson''s conclusions are summarized: the perfect or divine
+    cycle is the number of the world, the imperfect cycle the number of the state;
+    the world''s period is 6 and the state''s period is 216; the account invokes the
+    Platonic Tetractys, 8 and 27, mean proportionals 12 and 18, ratios, the numbers
+    3, 4, 5, and two harmonies.'
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:3
+  type: summary
+  locator: lines 5032-5048
+  quote_or_summary: 'The narrator gives reasons for agreeing that 216 is the Platonic
+    number of births: it fits the description, would be familiar to a Greek mathematician,
+    is the cube of 6 and the sum of 3 cubed, 4 cubed, and 5 cubed, relates to the
+    Pythagorean triangle, is the period of Pythagorean Metempsychosis, corresponds
+    to musical scale positions, derives from the cubes of 2 and 3 in the Platonic
+    Tetractys, and the Pythagorean triangle is called the figure of marriage.'
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized rather than quoted.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is explicit about numerical-symbolic associations but is an interpretive
+    and mathematical exposition, not a myth narrative; motif mapping is therefore
+    cautious.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No available symbol taxonomy items such as cave, fire, milk, mountain, serpent, tree, or water are present in this passage, so symbol taxonomy references are left empty.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-plato-republic-jowett-gutenberg__l4961-l5048
+  passage_sha256=135f867afb103eb224115fb92f0a0a74b389a3c1a96cfe9b3d11e9d6799960a5
+

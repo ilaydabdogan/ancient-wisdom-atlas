@@ -1,0 +1,344 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l2527-l2548
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE MAN AND THE IMAGE / HERCULES AND THE WAGGONER / THE POMEGRANATE, THE
+    APPLE-TREE, AND THE BRAMBLE / THE LION, THE BEAR, AND THE FOX; lines 2527-2548
+  start: '2527'
+  end: '2548'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A Pomegranate and an Apple-tree argue over whose fruit is better until
+    a Bramble from a nearby hedge intervenes and urges them not to quarrel. In a second
+    fable, a Lion and a Bear fight over a kid until both are too wounded and exhausted
+    to move; a watching Fox then takes the kid and runs away, leaving the two combatants
+    to recognize that only the Fox benefited.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A Pomegranate and an Apple-tree dispute the quality of their fruits, with
+    each claiming its own fruit is better.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A Bramble appears from a neighboring hedge and tells the disputants not to
+    quarrel.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A Lion and a Bear fight for possession of a kid that both seized at the same
+    moment.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: After a long and fierce battle, the Lion and the Bear lie severely wounded,
+    exhausted, and gasping for breath.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: A Fox has been prowling around and watching the fight.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: When the Lion and Bear are too weak to move, the Fox seizes the kid and runs
+    away with it.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: One combatant says that they have mauled each other while no one benefited
+    except the Fox.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Pomegranate
+  description: Plant figure disputing the quality of its fruit.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Apple-tree
+  description: Plant figure disputing the quality of its fruit.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Bramble
+  description: Plant figure that appears from a neighboring hedge and addresses the
+    disputants.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Lion
+  description: Animal figure fighting for possession of a kid and later left wounded
+    and exhausted.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: Bear
+  description: Animal figure fighting for possession of a kid and later left wounded
+    and exhausted.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:6
+  name_or_label: Kid
+  description: Young animal seized by both the Lion and the Bear, then taken by the
+    Fox.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:7
+  name_or_label: Fox
+  description: Animal figure that watches the fight and takes the kid when the combatants
+    are helpless.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: rival claimants
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Both plant figures claim that their own fruit is better.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: intervening speaker
+  assigned_to:
+  - fig:3
+  basis: The Bramble emerges and tells the others not to quarrel.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: exhausted combatants
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: The Lion and Bear fight over the kid until both are wounded, exhausted, and
+    unable to prevent the Fox from taking it.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:4
+  label: contested possession
+  assigned_to:
+  - fig:6
+  basis: The kid is the object of the Lion and Bear's fight and is later carried off
+    by the Fox.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:5
+  label: opportunistic taker
+  assigned_to:
+  - fig:7
+  basis: The Fox watches the fight and seizes the kid when the combatants are too
+    weak to move.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: fruit
+  literal_form: Pomegranate fruit and apple-tree fruit as the stated subject of dispute
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: tree figures
+  literal_form: Pomegranate and Apple-tree
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: neighboring hedge
+  literal_form: Hedge from which the Bramble appears
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: kid as prize
+  literal_form: Kid seized by the Lion and Bear and later taken by the Fox
+  associated_figures:
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+scenes:
+- id: scene:1
+  label: Plant quarrel and bramble intervention
+  summary: A Pomegranate and an Apple-tree argue about whose fruit is better; a Bramble
+    from a nearby hedge interrupts and urges them not to quarrel.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Combat over the kid and fox's gain
+  summary: A Lion and a Bear fight over a kid until both are incapacitated; a watching
+    Fox then seizes the kid and runs away.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Quarrel over superiority of fruits
+  taxonomy_refs: []
+  basis: Two plant figures dispute which of their fruits is better, and the dispute
+    escalates toward a quarrel.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage gives a brief fable setup and does not provide an explicit
+    moral in the supplied text.
+- id: motif:2
+  label: Outsider profits from rivals' exhausting conflict
+  taxonomy_refs: []
+  basis: The Lion and Bear fight until helpless, allowing the watching Fox to take
+    the contested kid.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The motif is expressed within a fable context; no broader historical or
+    taxonomic connection is established by the passage alone.
+- id: motif:3
+  label: Intervening outsider urges an end to quarrel
+  taxonomy_refs: []
+  basis: The Bramble intrudes from a neighboring hedge and tells the Pomegranate and
+    Apple-tree not to quarrel.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The Bramble's social status or moral function is not fully developed in
+    the supplied passage beyond the narrator's description as impudent.
+comparison_claims:
+- id: claim:1
+  claim: The Lion, Bear, and Fox episode fits a general narrative pattern in which
+    a third party gains the contested object after two rivals weaken each other.
+  claim_level: same_function
+  target: opportunistic third party profits from a quarrel pattern
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is a functional comparison to a general pattern only; the supplied
+    passage does not establish historical contact, common inheritance, or a specific
+    taxonomy match.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 2527-2531
+  quote_or_summary: The Pomegranate and Apple-tree dispute the quality of their fruits,
+    each claiming its own is better.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:2
+  type: summary
+  locator: 2531-2534
+  quote_or_summary: As their quarrel escalates, a Bramble pokes out from a neighboring
+    hedge and says they should not quarrel.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:3
+  type: summary
+  locator: 2537-2540
+  quote_or_summary: A Lion and a Bear fight for possession of a kid that both seized
+    at the same moment.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:4
+  type: summary
+  locator: 2540-2544
+  quote_or_summary: After a long battle, both combatants are severely wounded and
+    exhausted while a Fox has been prowling around and watching.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:5
+  type: summary
+  locator: 2544-2548
+  quote_or_summary: Seeing the Lion and Bear too weak to move, the Fox takes the kid
+    and runs off; one combatant remarks that only the Fox benefited.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary generated from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward from the supplied English passage.
+    Motif labels are descriptive and not tied to a specific external taxonomy except
+    the literal tree symbol reference.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage text was used; no motifs or comparisons requiring external evidence were asserted.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l2527-l2548
+  passage_sha256=053e0a1717c6f3e2966ba9ae88f2dc5ebc74b267fad021d0fce7b8a90f1cff2b
+

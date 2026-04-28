@@ -1,0 +1,233 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l2597-l2608
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE BLACKAMOOR / THE TWO SOLDIERS AND THE ROBBER / THE LION AND THE WILD
+    ASS / THE MAN AND THE SATYR; lines 2597-2608
+  start: '2597'
+  end: '2608'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: '"I can''t be friends with a man who blows hot and cold with the same breath."'
+  summary: A man and a satyr live together as friends. The satyr sees the man blow
+    on his hands to warm them, then later blow on hot porridge to cool it. Seeing
+    one breath used for opposite purposes, the satyr leaves and ends the friendship.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A man and a satyr became friends and decided to live together.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: In winter, the satyr saw the man blowing on his hands, and the man said he
+    did it to warm them.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: At supper, both had steaming hot bowls of porridge, and the man blew on his
+    porridge, saying he did it to cool it.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The satyr rose from the table, said good-bye, and said he could not remain
+    friends with a man who blows hot and cold with the same breath.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Man
+  description: Human companion of the satyr; blows on his hands and on porridge for
+    different purposes.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Satyr
+  description: Nonhuman companion of the man; questions the man's actions and ends
+    the friendship.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: companion with contradictory-seeming actions
+  assigned_to:
+  - fig:1
+  basis: The man uses the same act of blowing first to warm his hands and later to
+    cool porridge.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:2
+  label: observer who rejects inconsistency
+  assigned_to:
+  - fig:2
+  basis: The satyr questions both actions and leaves because the same breath appears
+    to produce opposite effects.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: same breath for hot and cold
+  literal_form: blowing breath used on hands and on porridge
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: winter cold
+  literal_form: winter-time setting and cold hands
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: hot porridge
+  literal_form: steaming hot bowl of porridge at supper
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Man and satyr become housemates
+  summary: The man and the satyr form a friendship and decide to live together.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Blowing to warm hands
+  summary: In winter, the satyr observes the man blowing on his hands and hears that
+    the purpose is to warm them.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Blowing to cool porridge
+  summary: At supper, the man blows on hot porridge and explains that the purpose
+    is to cool it.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Satyr ends the friendship
+  summary: The satyr leaves, saying he cannot be friends with someone who blows hot
+    and cold with the same breath.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: same action used for opposite effects
+  taxonomy_refs:
+  - duality
+  basis: The man's breath is used first to warm cold hands and then to cool hot porridge,
+    creating a hot/cold opposition around one act.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The taxonomy reference is broad; the passage is a fable about apparent
+    inconsistency rather than a cosmological duality myth.
+- id: motif:2
+  label: friendship broken over perceived inconsistency
+  taxonomy_refs: []
+  basis: The satyr ends the shared life and friendship because he cannot accept the
+    man's hot-and-cold use of breath.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: high
+  cautions: No specific supplied taxonomy family directly matches this fable pattern.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2597-2608
+  quote_or_summary: A man and a satyr became friends and determined to live together.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary provided.
+- id: ev:2
+  type: summary
+  locator: lines 2597-2608
+  quote_or_summary: In winter, the satyr saw the man blowing on his hands; the man
+    explained that he was warming his hands.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary provided.
+- id: ev:3
+  type: summary
+  locator: lines 2597-2608
+  quote_or_summary: At supper, both had steaming hot bowls of porridge; the man blew
+    on his porridge and explained that he was cooling it.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary provided.
+- id: ev:4
+  type: quote
+  locator: lines 2597-2608
+  quote_or_summary: '"I can''t be friends with a man who blows hot and cold with the
+    same breath."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif assignment is limited because
+    the available taxonomy has no exact fable-proverb category for inconsistency or
+    duplicity.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage text was used; no external fable parallels or moral traditions were added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l2597-l2608
+  passage_sha256=0decb1dd158d988d7ca8cb65832bb777a9d7f884ead05f0af866bd6af40d6250
+

@@ -1,0 +1,406 @@
+---
+record_id: batch.motif.comparative-golden-bough-volume-1-frazer-gutenberg-l9014-l9054
+source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+passage_locator:
+  label: MACAULAY. / CHAPTER II. THE PERILS OF THE SOUL. / HEINE. / CHAPTER III. KILLING
+    THE GOD.; lines 9014-9054
+  start: '9014'
+  end: '9054'
+  translation: 'The Golden Bough: A Study in Comparative Religion (Vol. 1 of 2)'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Frazer compares European harvest customs in which the last standing corn
+    or sheaf is called a neck, head, tail, or animal part; reapers cut or throw sickles
+    at it, preserve it for luck, drench its carrier with water as a rain-charm, and
+    in some German places cry Waul while treating the last corn with a flower-decked
+    stick.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: In Devonshire and Cornish customs, a particular bunch of ears, usually the
+    last standing, is called the neck of the corn-spirit and is understood as beheaded
+    when cut down.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: In Shropshire, the last handful of ears was called the neck or gander's neck;
+    reapers threw sickles at it, and the successful cutter was said to have cut off
+    the gander's neck.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Shropshire neck was taken to the farmer's wife and kept in the house for
+    good luck until the next harvest.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Several local customs describe the last standing corn as a body part or animal
+    part, including goat's neck, head, hare's tail, cat's tail, fox's tail, and sometimes
+    navel-string.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Frazer states that the last standing corn is treated as part of the corn-spirit's
+    body, in human or animal form.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The person who brings in the neck in Devonshire is drenched with water, which
+    Frazer identifies as a rain-charm.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Frazer compares the Devonshire water-drenching custom with pouring water on
+    an image of Osiris or on a person representing him.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: In some German harvest customs, reapers cry Waul, Wol, or Wôld when cutting
+    the last corn; in some places the last standing patch is called Waul-rye and is
+    fitted with a flower-decked stick.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: corn-spirit
+  description: A spirit associated with the corn, conceived in human or animal form
+    and embodied in the last standing corn as a neck, head, tail, or other body part.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: reapers
+  description: Harvest workers who cut the last corn, throw sickles at it, cry out,
+    and in German examples remove their hats and repeat Waul.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:3
+  name_or_label: farmer's wife
+  description: Recipient of the Shropshire neck, which she is said to keep in the
+    house for good luck until the next harvest.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: person who brings in the neck
+  description: In the Devonshire custom, this person is drenched with water.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Osiris image or representative
+  description: An image of Osiris or a person representing him on whom water is poured
+    in the mysteries of Osiris, according to Frazer's comparison.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: embodied harvest spirit
+  assigned_to:
+  - fig:1
+  basis: The passage states that the corn-spirit is conceived in human or animal form
+    and that the last standing corn is part of its body.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: ritual cutters of last corn
+  assigned_to:
+  - fig:2
+  basis: The reapers cut or throw sickles at the last standing corn and perform cries
+    or gestures around it.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:3
+  label: keeper of preserved harvest token
+  assigned_to:
+  - fig:3
+  basis: The farmer's wife keeps the neck in the house for good luck until the next
+    harvest.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: water-drenched carrier
+  assigned_to:
+  - fig:4
+  basis: The person who brings in the neck is drenched with water in the Devonshire
+    custom.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: recipient of parallel water-pouring rite
+  assigned_to:
+  - fig:5
+  basis: Frazer cites pouring water on an image of Osiris or a person representing
+    him as a parallel.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: last sheaf or last standing corn
+  literal_form: particular bunch of ears; last handful; last patch of standing corn
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: sym:2
+  label: neck, head, tail, or navel-string of the corn-spirit
+  literal_form: named body part applied to the last standing corn
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:3
+  label: sickle
+  literal_form: reapers' sickles thrown at or used to cut the last corn
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: water
+  literal_form: water used to drench the person who brings in the neck; water poured
+    on an Osiris image or representative
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: flower-decked stick
+  literal_form: a stick decked with flowers inserted into Waul-rye, with ears fastened
+    to it
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Cutting the neck of the last corn
+  summary: The last standing bunch of ears is called the neck of the corn-spirit and
+    is cut down as a beheading.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Shropshire gander's neck rite
+  summary: Reapers stand back, throw sickles at the plaited last handful, name the
+    successful cut as severing the gander's neck, and the neck is kept for good luck
+    until the next harvest.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Animal-tail variants of the last corn
+  summary: Different regional harvest customs name the last corn as an animal body
+    part, such as goat's neck, hare's tail, cat's tail, or fox's tail, and sometimes
+    sever it with a sickle.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Drenching the neck-carrier as rain-charm
+  summary: The person who brings in the neck is drenched with water, and Frazer compares
+    this to water poured on an image or representative of Osiris.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Waul cry at the last corn
+  summary: German reapers cry Waul, Wol, or Wôld at the cutting of the last corn;
+    in some places the Waul-rye is marked with a flower-decked stick and honored by
+    repeated cries.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: last sheaf as embodied corn-spirit
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage explicitly says the corn-spirit is conceived in human or animal
+    form and the last standing corn is part of its body.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: This is Frazer's comparative interpretation of harvest customs, not a
+    primary myth narrative.
+- id: motif:2
+  label: ritual cutting or beheading of the harvest spirit
+  taxonomy_refs:
+  - sacrifice
+  - seasonal_cycle
+  basis: The last corn is called a neck or animal body part and the cutting of it
+    is described as beheading or severing that part.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage describes symbolic language and harvest practice; it does
+    not state an explicit offering to a deity.
+- id: motif:3
+  label: preserved harvest token for luck until next harvest
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The Shropshire neck is kept in the house for good luck until the next harvest
+    comes round.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: Only one local example in this passage is described with the preservation-for-luck
+    detail.
+- id: motif:4
+  label: water rite as rain-charm linked to harvest figure
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: Frazer identifies the drenching of the neck-carrier with water as a rain-charm
+    and compares it to water poured on an Osiris image or representative.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The rain-charm interpretation is Frazer's; the passage does not provide
+    local informants' explanation.
+- id: motif:5
+  label: ritual cry at cutting the final grain
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: German reapers cry Waul, Wol, or Wôld when cutting the last corn, sometimes
+    with hats removed and the last patch decorated.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage does not explain the meaning of the Waul cry.
+comparison_claims:
+- id: claim:1
+  claim: Frazer presents the Devonshire water-drenching of the person who brings in
+    the neck as functionally parallel to pouring water on the image or representative
+    of Osiris.
+  claim_level: same_function
+  target: mysteries of Osiris water-pouring rite
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage reports Frazer's comparison but does not supply direct
+    historical evidence of contact or shared origin.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 9018-9022
+  quote_or_summary: Devonshire and Cornish customs treat a particular bunch of ears,
+    generally the last standing, as the neck of the corn-spirit, which is beheaded
+    when the bunch is cut down.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 9022-9030
+  quote_or_summary: In Shropshire the last handful is called the neck or gander's
+    neck, plaited, cut by thrown sickles, and then taken to the farmer's wife to keep
+    for good luck until the next harvest.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 9030-9044
+  quote_or_summary: Examples from Trèves, Faslane, Aurich, France, and Bresse name
+    the last corn as goat's neck, head, hare's tail, cat's tail, or fox's tail; Frazer
+    concludes that the last standing corn is treated as a body part of a human or
+    animal corn-spirit, sometimes a navel-string.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 9044-9049
+  quote_or_summary: Frazer identifies the Devonshire drenching of the person who brings
+    in the neck as a rain-charm and compares it with pouring water on an image of
+    Osiris or on a person representing him.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 9050-9054
+  quote_or_summary: In Germany reapers sometimes cry Waul, Wol, or Wôld when cutting
+    the last corn; some call the last standing patch Waul-rye, insert a flower-decked
+    stick in it, fasten ears to the stick, remove hats, and cry Waul three times.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is explicit about harvest-custom details and Frazer's own interpretation,
+    but motif labels remain modern analytical categories and should be reviewed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  All claims are limited to the supplied passage. Taxonomy references use only the provided lists.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:comparative-golden-bough-volume-1-frazer-gutenberg__l9014-l9054
+  passage_sha256=302964ad478eaa58d3239d16ddaed1f56466cdf77d6832e7b216423d48133c1b
+

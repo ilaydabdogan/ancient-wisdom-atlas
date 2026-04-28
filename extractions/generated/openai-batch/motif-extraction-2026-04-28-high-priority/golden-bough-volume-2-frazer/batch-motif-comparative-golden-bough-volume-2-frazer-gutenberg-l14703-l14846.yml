@@ -1,0 +1,471 @@
+---
+record_id: batch.motif.comparative-golden-bough-volume-2-frazer-gutenberg-l14703-l14846
+source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+passage_locator:
+  label: CONTENTS / NOTE. OFFERINGS OF FIRST-FRUITS. / INDEX. / FOOTNOTES; lines 14703-14846
+  start: '14703'
+  end: '14846'
+  translation: 'The Golden Bough: A Study in Comparative Religion (Vol. 2 of 2)'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage lists scholarly notes on ritual fire customs, Demeter’s torches,
+    need-fires, human-sacrifice sources, serpents connected with sacred oaks and Demeter,
+    the etymological association of Druids with oaks, taboos on cutting mistletoe
+    with iron, Celtic oak worship, and a Cambodian ritual for collecting a parasitic
+    plant from a tamarind tree to make an invulnerability decoction.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A note says the torches of Demeter, prominent in her myth and monuments, may
+    be explained by a fire-related custom rather than by lightning imitation.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A note lists authorities on need-fires and reports that Grimm, Wolf, Kuhn,
+    and Mannhardt hold a particular interpretation of them.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Some serpents worshipped by the old Prussians are said to have lived in hollow
+    oaks; the same note states that oaks were sacred among the Prussians.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage says serpents played an important part in the worship of Demeter,
+    while cautioning that they cannot safely be assumed to be embodiments of her.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: In Siam, the spirit of the takhien tree is said to appear sometimes as a woman
+    and sometimes as a serpent.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage connects the word Druid with the Celtic word for oak and describes
+    Druid in the sense of priest of the oak as genuinely Celtic.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: A folk-lore rule says mistletoe should not be cut with iron; some versions
+    say it should be cut with gold.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: A cited Greek passage is summarized as Celtic reverence for Zeus with a high
+    oak as the Celtic image of Zeus.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: In the Cambodian example, a man who sees a certain parasitic plant on a tamarind
+    tree dresses in white, takes a new earthen pot, climbs the tree at midday, places
+    the plant in the pot, lets it fall to the ground, and makes a decoction said to
+    render him invulnerable.
+  category: sequence
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Demeter
+  description: Greek goddess whose torches and serpent-related worship are mentioned
+    in the notes.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: old Prussians
+  description: People said to have worshipped some serpents that lived in hollow oaks
+    and to have held oaks sacred.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: serpents worshipped by the old Prussians
+  description: Serpents described as worshipped and as living in hollow oaks.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: spirit of the takhien tree
+  description: Tree spirit in Siam believed to appear as either a woman or a serpent.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Cambodian plant-gatherer
+  description: A man who ritually gathers a parasitic plant from a tamarind tree and
+    prepares an invulnerability decoction.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:8
+- id: fig:6
+  name_or_label: Druids
+  description: Priests associated in the note with the Celtic word for oak.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: goddess associated with torches and serpent worship
+  assigned_to:
+  - fig:1
+  basis: The notes mention Demeter’s torches and the role of serpents in her worship.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: worshippers of serpents and sacred oaks
+  assigned_to:
+  - fig:2
+  basis: The passage says old Prussians worshipped serpents and regarded oaks as sacred.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: serpent beings in hollow sacred oaks
+  assigned_to:
+  - fig:3
+  basis: The serpents are said to live in hollow oaks and to be worshipped.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: tree spirit with alternate forms
+  assigned_to:
+  - fig:4
+  basis: The takhien tree spirit is said to appear as a woman or as a serpent.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: ritual collector of a tree-borne plant
+  assigned_to:
+  - fig:5
+  basis: The Cambodian man follows specified clothing, vessel, timing, climbing, and
+    preparation actions to collect the plant.
+  evidence_refs:
+  - ev:8
+- id: role:6
+  label: oak-associated priestly group
+  assigned_to:
+  - fig:6
+  basis: The note explains Druid as priest of the oak and links the word to the Celtic
+    word for oak.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: torches and need-fires
+  literal_form: fire, torches, need-fires
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: sacred oak
+  literal_form: oak, hollow oak, high oak
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:6
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:7
+- id: sym:3
+  label: serpent
+  literal_form: serpent
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: mistletoe
+  literal_form: mistletoe cut under tool restrictions
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: sym:5
+  label: iron and gold cutting implements
+  literal_form: iron forbidden for cutting mistletoe; gold prescribed in some versions
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: tamarind tree with parasitic plant
+  literal_form: parasitic plant growing on a tamarind tree
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:8
+- id: sym:7
+  label: white clothing and new earthen pot
+  literal_form: white dress and a new earthen pot used in the Cambodian plant-gathering
+    procedure
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Demeter’s torches interpreted through ritual custom
+  summary: A note proposes that the torches associated with Demeter in myth and monuments
+    may be explained by a customary fire practice.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Serpents connected with sacred trees and worship
+  summary: The passage describes old Prussian serpent worship in hollow sacred oaks,
+    mentions serpents in Demeter’s worship, and gives a Siamese example of a tree
+    spirit appearing as woman or serpent.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Oak and Druid association
+  summary: The note explains Druid as an oak-related priestly term and cites Celtic
+    reverence for a high oak as an image of Zeus.
+  figure_refs:
+  - fig:6
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: scene:4
+  label: Mistletoe cutting taboo
+  summary: The passage reports a folk-lore rule that mistletoe is not to be cut with
+    iron, with some versions prescribing gold.
+  figure_refs: []
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: Cambodian parasitic plant harvest
+  summary: A Cambodian man ritually gathers a parasitic plant from a tamarind tree
+    using white clothing, a new earthen pot, midday timing, and a decoction said to
+    grant invulnerability.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: ritual fire or torch custom associated with a deity
+  taxonomy_refs: []
+  basis: The passage links Demeter’s mythic and monumental torches to a ritual custom
+    and also lists authorities on need-fires.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The selected lines are footnotes and do not narrate the underlying custom
+    in detail.
+- id: motif:2
+  label: serpent in or around sacred tree
+  taxonomy_refs:
+  - serpent
+  - sacred_tree_axis
+  basis: Serpents worshipped by old Prussians are said to live in hollow oaks, and
+    the oaks are described as sacred.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The note says the serpents may have been regarded as tree genii, but that
+    is presented cautiously.
+- id: motif:3
+  label: tree spirit with serpent and human appearances
+  taxonomy_refs:
+  - shapeshifter
+  - serpent
+  - sacred_tree_axis
+  basis: The takhien tree spirit is believed to appear sometimes as a woman and sometimes
+    as a serpent.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage gives only a brief comparative note, not a full myth narrative.
+- id: motif:4
+  label: tabooed harvesting of a tree-borne sacred plant
+  taxonomy_refs:
+  - sacred_tree_axis
+  basis: Mistletoe should not be cut with iron and in some versions should be cut
+    with gold; the passage also compares this to a Cambodian plant-gathering rite
+    from a tamarind tree.
+  evidence_refs:
+  - ev:6
+  - ev:8
+  confidence: medium
+  cautions: The mistletoe rule is cited briefly, and the full Pliny ritual is not
+    included in the supplied excerpt.
+- id: motif:5
+  label: ritual plant preparation conferring invulnerability
+  taxonomy_refs: []
+  basis: The Cambodian parasitic plant is gathered under ritual conditions and made
+    into a decoction said to render the user invulnerable.
+  evidence_refs:
+  - ev:8
+  confidence: high
+  cautions: The note reports a belief rather than providing a mythic story.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself invites comparison between the mode of gathering mistletoe
+    and a Cambodian rite for gathering a parasitic plant from a tamarind tree; both
+    involve a tree-borne plant and special harvesting procedure.
+  claim_level: same_function
+  target: Celtic or European mistletoe gathering compared with Cambodian parasitic-plant
+    gathering
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The excerpt supplies only a brief note on mistletoe restrictions and
+    a fuller Cambodian procedure; it does not demonstrate historical contact or common
+    inheritance.
+- id: claim:2
+  claim: The passage places Prussian serpent-in-oak beliefs, Demeter’s serpent worship,
+    and the Siamese takhien tree spirit together as comparable serpent/tree religious
+    associations, while explicitly warning against assuming that Demeter’s serpents
+    embodied the goddess.
+  claim_level: same_motif
+  target: Serpent associations with sacred trees and deity worship across Prussian,
+    Greek, and Siamese examples
+  evidence_refs:
+  - ev:3
+  - ev:4
+  counter_evidence_refs:
+  - ev:3
+  confidence: low
+  limitations: The passage juxtaposes examples but gives a caution about interpretation
+    and does not establish a single shared origin or identical meaning.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 14733-14735; footnote 738
+  quote_or_summary: The torches of Demeter in myth and monuments are perhaps explained
+    by a custom; interpreting modern European torches as lightning imitations is called
+    unnecessary.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 14720-14727; footnotes 731-732
+  quote_or_summary: Authorities on need-fires are listed, followed by a note that
+    a given view is held by Grimm, Wolf, Kuhn, and Mannhardt.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 14800-14807; footnote 764
+  quote_or_summary: Some serpents worshipped by old Prussians lived in hollow oaks;
+    oaks were sacred among the Prussians; serpents also played an important part in
+    Demeter’s worship, though they should not simply be assumed to embody her.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 14807-14810; footnote 764
+  quote_or_summary: In Siam, the spirit of the takhien tree is believed to appear
+    sometimes as a woman and sometimes as a serpent.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 14811-14820; footnote 765
+  quote_or_summary: The note links Druid with the Celtic word for oak and says Druid,
+    in the sense of priest of the oak, is genuine Celtic; Scottish place-names containing
+    oak are also noted.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: quote
+  locator: lines 14821-14824; footnote 766
+  quote_or_summary: "“It is still a folk-lore rule not to cut the mistletoe with iron;
+    some say it should be cut with gold.”"
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; short quotation.
+- id: ev:7
+  type: summary
+  locator: lines 14825-14829; footnote 767
+  quote_or_summary: The note cites Pliny on mistletoe and a Greek passage about Celtic
+    worship of Zeus with a high oak as the Celtic image of Zeus.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 14829-14846; footnote 767
+  quote_or_summary: In Cambodia, a man who sees a certain parasitic plant on a tamarind
+    tree dresses in white, takes a new earthen pot, climbs the tree at midday, puts
+    the plant in the pot, drops it to the ground, and makes a decoction believed to
+    render invulnerable.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is a footnote section from comparative scholarship rather than
+    a continuous primary mythic narrative. Motif extraction is limited to explicitly
+    stated ritual, symbolic, and comparative details.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No historical-contact or common-inheritance claims are made. Comparisons are limited to those directly juxtaposed or invited by the passage.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:comparative-golden-bough-volume-2-frazer-gutenberg__l14703-l14846
+  passage_sha256=69bdfb03d933110873cc663fd272d75a7759f9b84cef10ddb8a89d12dcaa6b09
+

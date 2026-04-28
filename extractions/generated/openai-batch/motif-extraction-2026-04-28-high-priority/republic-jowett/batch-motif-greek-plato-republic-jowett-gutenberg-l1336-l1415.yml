@@ -1,0 +1,557 @@
+---
+record_id: batch.motif.greek-plato-republic-jowett-gutenberg-l1336-l1415
+source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+passage_locator:
+  label: The Republic / THE REPUBLIC / INTRODUCTION AND ANALYSIS.; lines 1336-1415
+  start: '1336'
+  end: '1415'
+  translation: The Republic
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage analyzes Plato’s proposals for educating guardians through
+    music and gymnastic, especially the censorship of children’s stories. It rejects
+    poetic tales that portray gods as immoral, changeable, deceptive, or causes of
+    evil, and states principles that God is the author of good only and is true and
+    unchanging. It then summarizes Plato’s construction of a primitive State from
+    mutual need and division of labor, and compares Plato’s picture of primitive life
+    to Rousseau while cautioning against overly literal interpretation.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage says education is considered under music and gymnastic, and that
+    music includes literature with true and false kinds.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says children hear stories before gymnastics and that early life
+    is very impressible.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage proposes censorship of nursery tales, keeping some and banishing
+    others.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Homer and Hesiod are named as examples of authors who tell false and improper
+    stories about gods.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage names stories about Uranus and Saturn, Zeus, Hephaestus, and divine
+    strife as examples of tales considered unsuitable for youth.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The passage says such tales might have a mystical interpretation, but that
+    the young are incapable of understanding allegory.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: The speaker identifies the role of the legislators as setting principles for
+    books rather than writing the books themselves.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The first principle stated is that God must be represented as author of good
+    only, not as author of all things or of evil.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: The passage rejects accounts in which Athene and Zeus incite treaty-breaking,
+    God causes famous sufferings or wars, or God makes men sin in order to destroy
+    them.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:10
+  text: The second principle stated is that God has no change of form and does not
+    deceive.
+  category: speech
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:11
+  text: The passage rejects poetic accounts of Here appearing in the likeness of a
+    priestess and deities prowling at night in strange disguises.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:12
+  text: The passage says Plato traces a State from mutual need and division of labor
+    in an imaginary small community that grows in complexity.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:13
+  text: The passage says the growing community develops imports, exports, a medium
+    of exchange, retailers, and a market-place.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:14
+  text: The passage compares Plato’s picture of primitive life to Rousseau and warns
+    against interpreting a Platonic dialogue too literally.
+  category: other
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: children and young persons
+  description: Young learners who hear stories before gymnastics and are described
+    as impressionable and unable to understand allegory.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: legislators
+  description: The speakers’ role for themselves when laying down principles according
+    to which books are to be written.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: poets and story-makers
+  description: Poets and tellers of tales, including Homer and Hesiod, whose accounts
+    of gods are criticized or restricted.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: God
+  description: The divine figure described as author of good only, just, true, unchanging,
+    and non-deceptive.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: Greek deities cited in censored examples
+  description: Uranus, Saturn, Zeus, Hephaestus, Here, Athene, Apollo, and other deities
+    are cited in examples of poetic tales about divine misconduct, disguise, or deception.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:6
+  name_or_label: mortals named in rejected divine-causation examples
+  description: Pandarus, Niobe, Pelops, Agamemnon, and Thetis are mentioned in examples
+    of disputed divine action or accusation in poetic narratives.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:7
+  name_or_label: Plato
+  description: The philosopher described as tracing the first principles of mutual
+    need and division of labor in an imaginary community and constructing the first
+    or primitive State.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: fig:8
+  name_or_label: Rousseau
+  description: A later comparison point for a picture of primitive life.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: impressionable learners
+  assigned_to:
+  - fig:1
+  basis: Children are said to hear stories early and to be unable to understand allegory.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: censors and principle-setters
+  assigned_to:
+  - fig:2
+  basis: The speakers describe themselves as legislators who lay down principles for
+    permissible books.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: producers of questionable divine tales
+  assigned_to:
+  - fig:3
+  basis: Poets are criticized for telling false or improper stories about gods and
+    divine actions.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:4
+  label: unchanging source of good and truth
+  assigned_to:
+  - fig:4
+  basis: God is described as author of good only, true, unchanging, and non-deceptive.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:5
+  label: figures in censored mythic examples
+  assigned_to:
+  - fig:5
+  basis: Named deities appear in tales the passage proposes to suppress or reinterpret.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:6
+  label: mortals in examples of disputed divine agency
+  assigned_to:
+  - fig:6
+  basis: The passage mentions these mortals in connection with treaty-breaking, suffering,
+    war, dreams, or accusations involving gods.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:7
+  label: constructor of an imaginary primitive State
+  assigned_to:
+  - fig:7
+  basis: Plato is said to trace first principles of mutual need and division of labor
+    in an imaginary community.
+  evidence_refs:
+  - ev:6
+- id: role:8
+  label: comparison point for primitive life imagery
+  assigned_to:
+  - fig:8
+  basis: The passage says Plato indulges, like Rousseau, in a picture of primitive
+    life.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: nursery tales
+  literal_form: stories told to children before formal gymnastic education
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: mystery after sacrifice
+  literal_form: a mystery performed after sacrifice, not of an Eleusinian pig but
+    of an unprocurable animal
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - sacrifice
+  - initiation
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: two casks of destinies
+  literal_form: two casks full of destinies, one associated with good and one with
+    evil in a rejected poetic representation
+  associated_figures:
+  - fig:4
+  - fig:3
+  taxonomy_refs:
+  - duality
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: divine disguise
+  literal_form: Here in the likeness of a priestess and deities in strange disguises
+    at night
+  associated_figures:
+  - fig:5
+  - fig:3
+  taxonomy_refs:
+  - shapeshifter
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: lying dream
+  literal_form: the lying dream of Agamemnon in Homer, rejected as a divine deception
+    narrative
+  associated_figures:
+  - fig:5
+  - fig:6
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: market-place exchange
+  literal_form: medium of exchange and retailers sitting in the market-place
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Censorship of early education stories
+  summary: The passage argues that impressionable children should not learn false
+    or harmful tales and proposes that nursery tales be censored.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Rejected tales of divine misconduct
+  summary: The passage lists poetic stories about divine family violence, strife among
+    gods, and divine mistreatment as examples unsuitable for youth, even if they might
+    have allegorical readings.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: First principle of divine goodness
+  summary: The passage states that God should be represented as author of good only
+    and rejects accounts that make God the cause of evil, sin, treaty-breaking, or
+    unjust suffering.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Second principle of divine truth and changelessness
+  summary: The passage states that God does not change form or deceive, and rejects
+    stories of divine disguise, lying dreams, and accusations of divine falsehood.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:5
+  label: Construction of the primitive State
+  summary: The passage summarizes Plato’s derivation of an imaginary community from
+    mutual need and division of labor, developing exchange, market activity, and a
+    primitive State before a more complex State.
+  figure_refs:
+  - fig:7
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Regulated sacred narrative for moral formation
+  taxonomy_refs:
+  - wisdom
+  basis: The passage proposes selecting and suppressing stories for children because
+    early narrative instruction shapes future character.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage is philosophical analysis and educational prescription, not
+    a mythic narrative itself; the taxonomy reference is broad.
+- id: motif:2
+  label: Restricted tale disclosed only through mystery and sacrifice
+  taxonomy_refs:
+  - initiation
+  - sacrifice
+  - forbidden_knowledge
+  basis: Improper divine tales are said, if spoken at all, to belong in a mystery
+    after sacrifice rather than in ordinary instruction of the young.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The phrasing is partly ironic or hyperbolic in the passage; it does not
+    describe an actual ritual sequence in detail.
+- id: motif:3
+  label: Divine parent-child conflict
+  taxonomy_refs:
+  - divine_parent_child
+  basis: The passage cites stories of Zeus as an example for beating fathers and of
+    Hephaestus binding his mother and being thrown by Zeus.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage refers to these stories as examples to be censored rather
+    than narrating them fully.
+- id: motif:4
+  label: Divine judgment and corrective punishment
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage allows that if gods performed punitive actions, God was just
+    and humans were better for being punished, while rejecting God as author of evil.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage frames this as a theological principle, not as a developed
+    judgment scene.
+- id: motif:5
+  label: Divine disguise or shapeshifting rejected
+  taxonomy_refs:
+  - shapeshifter
+  basis: The passage rejects stories of Here appearing as a priestess and other deities
+    moving at night in strange disguises, because God is said not to change or deceive.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The motif appears as a censored poetic motif, not as an affirmed doctrine
+    of the passage.
+- id: motif:6
+  label: Founding of a community from mutual need
+  taxonomy_refs: []
+  basis: The passage describes an imaginary community of a few citizens growing through
+    division of labor, exchange, and market institutions into a primitive State.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: This is political-philosophical construction rather than a traditional
+    cosmogonic or heroic myth.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself compares Plato’s picture of primitive life to Rousseau’s
+    treatment of primitive life.
+  claim_level: same_function
+  target: Rousseau’s picture of primitive life
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is made in the translator’s introductory analysis and
+    concerns philosophical imagery rather than a direct mythological borrowing.
+- id: claim:2
+  claim: The passage contrasts Plato’s lively imaginative presentation with modern
+    abstract philosophy and cites the idea that mythos is more interesting.
+  claim_level: same_function
+  target: mythus as an imaginative mode contrasted with abstract philosophical treatise
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: low
+  limitations: This is a general literary-philosophical comparison, not a specific
+    motif parallel or evidence of historical contact.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 1336-1347
+  quote_or_summary: Education is discussed as music and gymnastic; music includes
+    literature; children hear stories early, and impressionable children should not
+    learn what they must later unlearn, so nursery tales are to be censored.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 1348-1364
+  quote_or_summary: Homer and Hesiod are criticized for improper divine stories about
+    Uranus and Saturn, Zeus, Hephaestus, divine strife, and family violence; such
+    stories may have mystical interpretation but youth cannot understand allegory.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 1365-1384
+  quote_or_summary: The speakers say they are legislators who set principles for books.
+    The first principle is that God must be represented as author of good only, not
+    as cause of evil, sin, treaty-breaking, suffering, or war.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 1385-1401
+  quote_or_summary: The second principle is that God has no variability or change
+    of form. The passage rejects tales of Here as a priestess and deities in strange
+    disguises at night.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 1402-1408
+  quote_or_summary: God is described as absolutely true, changing not and deceiving
+    not by day or night, by word or sign; the lying dream of Agamemnon and Thetis’
+    accusation against Apollo are rejected.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 1409-1415
+  quote_or_summary: Plato traces mutual need and division of labor in an imaginary
+    small community; the community grows through imports, exports, exchange, retailers,
+    and a market-place into the first or primitive State.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: '1415'
+  quote_or_summary: The analysis says Plato, like Rousseau, gives a picture of primitive
+    life, cautions against overly literal interpretation of dialogue, poem, or parable,
+    and says the mythus is more interesting than abstract treatises.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is strong because the passage is explicit. Motif assignment
+    is more tentative because much of the passage is philosophical analysis of mythic
+    examples rather than a direct mythic episode.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used. Motifs based on cited mythic examples are marked as censored or rejected where relevant.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-plato-republic-jowett-gutenberg__l1336-l1415
+  passage_sha256=5255670c97b17d38442eb88c9afa46c29d273eaccaa696b78ccad0c5bc956659
+

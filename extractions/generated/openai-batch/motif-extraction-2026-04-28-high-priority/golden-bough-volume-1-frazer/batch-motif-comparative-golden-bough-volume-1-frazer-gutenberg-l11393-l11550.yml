@@ -1,0 +1,320 @@
+---
+record_id: batch.motif.comparative-golden-bough-volume-1-frazer-gutenberg-l11393-l11550
+source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+passage_locator:
+  label: CHAPTER II. THE PERILS OF THE SOUL. / HEINE. / CHAPTER III. KILLING THE GOD.
+    / FOOTNOTES; lines 11393-11550
+  start: '11393'
+  end: '11550'
+  translation: 'The Golden Bough: A Study in Comparative Religion (Vol. 1 of 2)'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A sequence of footnotes cites sources for Frazer's discussion around the
+    end of 'The Perils of the Soul' and the beginning of 'Killing the God.' The notes
+    include bibliographic references to Siam, Egypt, Jambi, Lithuania/Samogitia, Phoenician
+    and biblical sources, Nias, Moqui snake dance, Indian ritual texts, Bengal ethnology,
+    European tree-cult and calendar customs, and related classical and ethnographic
+    materials. A few notes add brief clarifications about the placement of a cow and
+    mare beside a prince, Krapf's doubt about a pillar in an African report, and names
+    for the Fourth Sunday in Lent.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage consists primarily of numbered footnotes with bibliographic citations
+    rather than continuous narrative exposition.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: One note reports a variant in which a cow and mare stood beside the prince
+    rather than beside the peasant.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: One note says Dr. Krapf reported a custom at second hand and doubted the existence
+    of a pillar, while considering the rest of the story compatible with African superstition.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Several notes cite Mannhardt's Baumkultus and European calendar-festival sources
+    in connection with customs from Schwaben, Sachsen, Thüringen, Böhmen, and related
+    regions.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: One note identifies the Fourth Sunday in Lent as Mid-Lent, Laetare, and in
+    the Roman Calendar as the Sunday of the Rose.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The notes cite a work titled Snake Dance of the Moquis of Arizona.
+  category: other
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The notes cite a translated chapter called 'The Rudhirádhyáyă, or sanguinary
+    chapter' from the Calica Puran.
+  category: other
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: prince
+  description: A prince mentioned in a note about the placement of a cow and mare.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: peasant
+  description: A peasant mentioned as the alternative figure beside whom the cow and
+    mare did not stand according to Grimm's variant.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: cow
+  description: An animal said to have stood beside the prince in Grimm's account.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: mare
+  description: An animal said to have stood beside the prince in Grimm's account.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Dr. Krapf
+  description: A cited reporter who is said to have reported a custom at second hand
+    and commented on its plausibility.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: named status figure
+  assigned_to:
+  - fig:1
+  basis: The prince is the figure beside whom the cow and mare are said to have stood.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: contrasted human figure
+  assigned_to:
+  - fig:2
+  basis: The peasant is mentioned as the figure beside whom the animals did not stand
+    in Grimm's variant.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: attendant animals
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The cow and mare are described as standing beside a human figure.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: second-hand reporter and evaluator
+  assigned_to:
+  - fig:5
+  basis: Krapf is said to report a custom at second hand and to express doubt about
+    part of the story.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: pillar
+  literal_form: pillar
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: tree cult reference
+  literal_form: Baumkultus, cited title meaning tree cult
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: snake dance reference
+  literal_form: title Snake Dance of the Moquis of Arizona
+  associated_figures: []
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: rose Sunday name
+  literal_form: Sunday of the Rose / Domenica rosae
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Animals beside the prince
+  summary: A footnote states that, according to Grimm, a cow and mare stood beside
+    the prince rather than beside the peasant.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Krapf's qualified report
+  summary: A footnote says Krapf reported a custom at second hand, doubted the existence
+    of a pillar, and judged the rest of the story compatible with African superstition.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Mid-Lent naming note
+  summary: A footnote lists alternative names for the Fourth Sunday in Lent, including
+    Mid-Lent, Laetare, and Sunday of the Rose.
+  figure_refs: []
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: sacrifice-related source cluster
+  taxonomy_refs:
+  - sacrifice
+  basis: The footnote range appears under the heading 'Killing the God' and cites
+    biblical, classical, and ethnographic sources, including a 'sanguinary chapter'
+    from the Calica Puran; however, the excerpt itself gives little narrative detail.
+  evidence_refs:
+  - ev:1
+  - ev:7
+  confidence: low
+  cautions: The passage is a footnote list, so the specific ritual or mythic actions
+    supported by these citations are not present in this excerpt.
+- id: motif:2
+  label: tree-cult or vegetation-custom source cluster
+  taxonomy_refs:
+  - sacred_tree_axis
+  basis: Multiple notes cite Mannhardt's Baumkultus and European festival-calendar
+    materials, but the excerpt does not describe the customs themselves.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: The link to a sacred-tree motif is based on cited work titles and bibliographic
+    clustering, not on a described narrative scene.
+- id: motif:3
+  label: snake dance reference
+  taxonomy_refs:
+  - serpent
+  basis: The notes cite Bourke's Snake Dance of the Moquis of Arizona.
+  evidence_refs:
+  - ev:6
+  confidence: low
+  cautions: Only a source title is cited; no serpent episode or ritual action is described
+    in the passage.
+comparison_claims:
+- id: claim:1
+  claim: Krapf is reported as judging the non-pillar portion of a second-hand story
+    to harmonise with African superstition.
+  claim_level: same_function
+  target: African superstition as characterized in Krapf's note
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs:
+  - ev:3
+  confidence: low
+  limitations: This is a reported evaluative comment in a footnote; the underlying
+    custom and comparison set are not described here, and Krapf also doubts the existence
+    of the pillar.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 11393-11550
+  quote_or_summary: The excerpt is a numbered sequence of footnotes citing works and
+    sources for Frazer's surrounding chapters, including chapter headings for 'The
+    Perils of the Soul' and 'Killing the God.'
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: footnote 794, lines 11414-11418
+  quote_or_summary: '"According to Grimm ... the cow and mare stood beside the prince,
+    not the peasant."'
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: quote
+  locator: footnote 805, lines 11446-11450
+  quote_or_summary: '"Dr. Krapf, who reports the custom at second hand, thinks that
+    the existence of the pillar may be doubted, but that the rest of the story harmonises
+    well enough with African superstition."'
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: summary
+  locator: footnotes 813-821, lines 11470-11494
+  quote_or_summary: Several notes cite Mannhardt's Baumkultus alongside German, Schwabian,
+    Saxon, Thuringian, and Bohemian folklore and festival-calendar sources.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: footnote 836, lines 11539-11545
+  quote_or_summary: '"The Fourth Sunday in Lent is also known as Mid-Lent ... or as
+    Laetare ... In the Roman Calendar it is the Sunday of the Rose, Domenica rosae."'
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; short quotation.
+- id: ev:6
+  type: citation
+  locator: footnote 829, lines 11513-11514
+  quote_or_summary: J. G. Bourke, Snake Dance of the Moquis of Arizona, p. 196 sq.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; bibliographic citation.
+- id: ev:7
+  type: quote
+  locator: footnote 833, lines 11523-11526
+  quote_or_summary: '"The Rudhirádhyáyă, or sanguinary chapter," translated from the
+    Calica Puran by W. C. Blaquiere.'
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: low
+  notes: The excerpt is mainly bibliographic footnotes, so literal extraction is reliable
+    for citations and brief notes, but motif identification is limited and needs review
+    against the surrounding main text.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No figures, scenes, or motifs beyond those explicitly mentioned or cautiously inferred from titles and local footnote statements have been added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:comparative-golden-bough-volume-1-frazer-gutenberg__l11393-l11550
+  passage_sha256=738d4b4d0ec4a307b6c0bc53f0a073dc9c1fa825bdae4a3baf549eb581ac3389
+

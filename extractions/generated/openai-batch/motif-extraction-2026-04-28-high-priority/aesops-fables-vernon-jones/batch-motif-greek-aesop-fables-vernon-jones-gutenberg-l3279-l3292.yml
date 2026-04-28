@@ -1,0 +1,263 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l3279-l3292
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE COCK AND THE JEWEL / THE WOLF AND THE SHEPHERD / THE FARMER AND THE STORK
+    / THE CHARGER AND THE MILLER; lines 3279-3292
+  start: '3279'
+  end: '3292'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: 'Fortune has many ups and downs: you must just take them as they come.'
+  summary: An aging former war-horse chooses mill work, regrets exchanging battlefield
+    honor for grinding corn, and is told by the miller that fortune changes and must
+    be accepted.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A horse formerly carried a rider into battle.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The horse grew old and chose to work in a mill.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The horse no longer marched proudly to drums and instead ground corn all day.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The horse says he was once a splendid war-horse with decorations and a groom
+    attending to his wants.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The horse wishes he had not given up the battlefield for the mill.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The miller replies that regret is useless and that fortune has ups and downs.
+  category: speech
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Horse / Charger
+  description: An aging horse formerly used in battle who now works grinding corn
+    in a mill and laments his changed condition.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Miller
+  description: The worker or owner associated with the mill who answers the horse's
+    complaint with advice about fortune.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Rider
+  description: The former rider carried by the horse into battle.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Groom
+  description: A groom who formerly attended to the horse's wants.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: former war-horse
+  assigned_to:
+  - fig:1
+  basis: The horse says he was once a splendid war-horse and had carried a rider into
+    battle.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: complaining laborer
+  assigned_to:
+  - fig:1
+  basis: The horse now grinds corn in a mill and bewails his hard lot.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: adviser on fortune
+  assigned_to:
+  - fig:2
+  basis: The miller tells the horse that regret is useless and that fortune has ups
+    and downs.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: former battle rider
+  assigned_to:
+  - fig:3
+  basis: The horse had carried his rider into battle.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: former attendant
+  assigned_to:
+  - fig:4
+  basis: The horse remembers a groom whose duty was attending to his wants.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: battlefield
+  literal_form: battlefield / battle setting
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: mill
+  literal_form: mill where corn is ground
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: drums
+  literal_form: beating drums associated with the horse's former proud movement
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: corn grinding
+  literal_form: grinding corn all day
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Former martial life and present mill labor
+  summary: The horse is described as formerly used in battle but now old and working
+    in a mill, grinding corn rather than moving proudly to drums.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Lament over changed condition
+  summary: The horse contrasts his earlier status as an attended war-horse with his
+    present mill work and expresses regret.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Miller's reply
+  summary: The miller tells the horse that regretting the past is useless because
+    fortune rises and falls.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: fall from former status
+  taxonomy_refs: []
+  basis: The horse moves from honored war service with attendants to compulsory mill
+    labor and laments the change.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is a plain narrative motif rather than one of the supplied mythic
+    motif families.
+- id: motif:2
+  label: acceptance of changing fortune
+  taxonomy_refs:
+  - wisdom
+  basis: The miller states that regret is useless and that fortune has ups and downs
+    to be taken as they come.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The supplied taxonomy reference 'wisdom' is broad; the passage presents
+    a practical moral rather than an explicitly sacred or esoteric wisdom theme.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3279-3284
+  quote_or_summary: A horse formerly used to carry a rider into battle grows old,
+    chooses mill work, and now grinds corn all day instead of moving proudly to drums.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 3284-3290
+  quote_or_summary: The horse laments that he was once a splendid war-horse with a
+    groom attending him and wishes he had not exchanged the battlefield for the mill.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 3290-3292
+  quote_or_summary: '"Fortune has many ups and downs: you must just take them as they
+    come."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Passage content is straightforward. Motif-family assignment is limited because
+    available taxonomy categories are broad and only 'wisdom' loosely fits the explicit
+    moral.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the provided passage text was used; despite the supplied locator label mentioning multiple fables, extraction covers 'THE CHARGER AND THE MILLER' only.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l3279-l3292
+  passage_sha256=02ae848a9d8675ff3f5cfc85cabcaf44d2a21f95e049698090fdcae50df853f7
+

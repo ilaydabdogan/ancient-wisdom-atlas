@@ -1,0 +1,334 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l4091-l4117
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE ANT / THE FROGS AND THE WELL / THE CRAB AND THE FOX / THE FOX AND THE
+    GRASSHOPPER; lines 4091-4117
+  start: '4091'
+  end: '4117'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: In one fable, a crab leaves the sea-shore for a meadow inland, is caught
+    by a hungry fox, and says he deserved it for leaving his natural home; the moral
+    advises contentment with one’s lot. In the next, a fox tries to lure a grasshopper
+    down from a tree by praising her song, but she refuses because she has seen grasshoppers’
+    wings near a fox’s den.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A crab leaves the sea-shore and settles in a green meadow inland.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A hungry fox sees the crab, catches him, and is about to eat him.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The crab says he deserves his fate because he left his natural home by the
+    sea and settled where he did not belong.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: 'The fable states the moral: be content with your lot.'
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: A grasshopper sits chirping in the branches of a tree.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: A fox hears the grasshopper and wants to eat her.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The fox praises the grasshopper’s song and asks her to come down.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The grasshopper refuses to descend and says she has seen many grasshoppers’
+    wings near the entrance to a fox’s earth.
+  category: speech
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Crab
+  description: A crab who leaves the sea-shore for an inland meadow and is caught
+    by a fox.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Fox in 'The Crab and the Fox'
+  description: A hungry fox who catches the crab in the meadow.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Grasshopper
+  description: A grasshopper chirping in a tree who refuses to come down to the fox.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:5
+  - ev:8
+- id: fig:4
+  name_or_label: Fox in 'The Fox and the Grasshopper'
+  description: A fox who tries to lure the grasshopper down by flattering her song.
+  role_refs:
+  - role:3
+  - role:6
+  evidence_refs:
+  - ev:6
+  - ev:7
+roles:
+- id: role:1
+  label: animal outside its natural home
+  assigned_to:
+  - fig:1
+  basis: The crab says he had no business leaving his natural home by the sea for
+    the land.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: prey
+  assigned_to:
+  - fig:1
+  basis: The crab is caught and is about to be eaten.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: predator
+  assigned_to:
+  - fig:2
+  - fig:4
+  basis: One fox catches the crab; the other thinks the grasshopper would be a dainty
+    morsel.
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: role:4
+  label: singer
+  assigned_to:
+  - fig:3
+  basis: The grasshopper is described as chirping, and the fox praises her song.
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: role:5
+  label: wary prey
+  assigned_to:
+  - fig:3
+  basis: The grasshopper is not taken in and refuses to come down.
+  evidence_refs:
+  - ev:8
+- id: role:6
+  label: deceptive flatterer
+  assigned_to:
+  - fig:4
+  basis: The fox tries to get the grasshopper down by a trick, using flattering praise.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: sea as natural home
+  literal_form: sea-shore and sea
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: inland meadow
+  literal_form: green meadow inland
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: tree refuge
+  literal_form: branches of a tree
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: wings as warning sign
+  literal_form: grasshoppers’ wings strewn near the entrance to a fox’s earth
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Crab leaves the shore and is caught
+  summary: A crab moves from the sea-shore to an inland meadow, where a hungry fox
+    catches him; before being eaten, the crab acknowledges that he left his proper
+    home.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:2
+  label: Grasshopper resists the fox’s flattery
+  summary: A fox tries to lure a singing grasshopper down from a tree by praising
+    her voice, but the grasshopper refuses because she recognizes evidence of fox
+    predation.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: leaving one’s proper place leads to danger
+  taxonomy_refs:
+  - wisdom
+  basis: The crab leaves his natural home by the sea, is caught by a predator, and
+    the attached moral advises contentment with one’s lot.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The taxonomy reference is broad; the fable’s explicit moral is prudential
+    rather than mythic.
+- id: motif:2
+  label: predator uses flattery to lure prey
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The fox explicitly tries to get the grasshopper down by a trick, praising
+    her song and asking her to descend.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The fox is a deceptive animal figure, but the passage does not present
+    a larger boundary-crossing mythic trickster role.
+- id: motif:3
+  label: wary prey avoids danger by reading signs
+  taxonomy_refs:
+  - wisdom
+  basis: The grasshopper refuses the fox’s invitation because she has seen grasshoppers’
+    wings near a fox’s earth.
+  evidence_refs:
+  - ev:8
+  confidence: high
+  cautions: This is a practical fable motif; no explicit supernatural or cultic symbolism
+    is present.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4091-4095
+  quote_or_summary: A crab leaves the sea-shore and settles in a green inland meadow
+    that seems good for feeding.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source text.
+- id: ev:2
+  type: summary
+  locator: lines 4095-4097
+  quote_or_summary: A hungry fox sees the crab, catches him, and is about to eat him.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source text.
+- id: ev:3
+  type: quote
+  locator: lines 4097-4100
+  quote_or_summary: '"I had no business to leave my natural home by the sea and settle
+    here as though I belonged to the land."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source text.
+- id: ev:4
+  type: quote
+  locator: line 4102
+  quote_or_summary: '"Be content with your lot."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source text.
+- id: ev:5
+  type: summary
+  locator: lines 4106-4107
+  quote_or_summary: A grasshopper sits chirping in the branches of a tree.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source text.
+- id: ev:6
+  type: summary
+  locator: lines 4107-4109
+  quote_or_summary: A fox hears the grasshopper and thinks she would make a dainty
+    morsel.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source text.
+- id: ev:7
+  type: summary
+  locator: lines 4109-4113
+  quote_or_summary: The fox tries to get the grasshopper down by a trick, praising
+    her song and asking her to descend so he can meet the owner of the voice.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source text.
+- id: ev:8
+  type: summary
+  locator: lines 4113-4117
+  quote_or_summary: The grasshopper says she will not come down because she has seen
+    many grasshoppers’ wings near the entrance to a fox’s earth.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source text.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labels are candidate abstractions
+    from two brief fables and should be reviewed against the project’s taxonomy conventions.
+    No external comparison claims were added because the passage itself does not provide
+    explicit cross-textual evidence.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  The supplied locator label includes additional fable titles, but the provided passage text only includes 'THE CRAB AND THE FOX' and 'THE FOX AND THE GRASSHOPPER'; extraction is limited to the provided passage text.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l4091-l4117
+  passage_sha256=4d536ea463ed91deb4e6620c82de972c2309d72ce2a0a307f7afd266386f1156
+

@@ -1,0 +1,291 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l704-l742
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE QUACK DOCTOR / THE LION, THE WOLF, AND THE FOX / HERCULES AND PLUTUS
+    / THE FOX AND THE LEOPARD; lines 704-742
+  start: '704'
+  end: '742'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is a sequence of fable titles, mostly naming animals, human
+    occupations or social roles, and several named mythic figures. No narrative action
+    beyond what is stated in the titles is provided.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage presents a list of twenty uppercase fable headings.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Several headings name paired or grouped animals, including wolf, lion, fox,
+    ass, birds, insects, and leopard.
+  category: relationship
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: Lion, fox, and wolf recur in more than one heading.
+  category: sequence
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: obs:4
+  text: Several headings name human occupational or social figures, including ploughman,
+    fowler, farmer, butcher, customers, quack doctor, and a man bitten by an ant.
+  category: relationship
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: obs:5
+  text: Several headings name Hercules, Mercury, Minerva, and Plutus.
+  category: relationship
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:6
+  text: The titles include the literal non-animal items or attributes 'shadow' and
+    'hides'.
+  category: object
+  evidence_refs:
+  - ev:1
+  - ev:2
+figures:
+- id: fig:1
+  name_or_label: Wolf
+  description: Animal named in 'The Wolf and his Shadow,' 'The Ploughman and the Wolf,'
+    and 'The Lion, the Wolf, and the Fox.'
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: Lion
+  description: Animal named in multiple headings, including 'The Wily Lion,' 'The
+    Stag and the Lion,' 'The Gnat and the Lion,' and 'The Lion, the Wolf, and the
+    Fox.'
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: Fox
+  description: Animal named in several headings, including 'The Eagle and the Fox,'
+    'The Fox who Served a Lion,' 'The Lion, the Wolf, and the Fox,' and 'The Fox and
+    the Leopard.'
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:4
+  name_or_label: Hercules
+  description: Named figure in the headings 'Hercules and Minerva' and 'Hercules and
+    Plutus.'
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: Mercury
+  description: Named figure in the heading 'Mercury and the Man Bitten by an Ant.'
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Minerva
+  description: Named figure in the heading 'Hercules and Minerva.'
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: Plutus
+  description: Named figure in the heading 'Hercules and Plutus.'
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:8
+  name_or_label: Human occupational and social figures
+  description: 'Grouped human figures named by title or role: ploughman, man bitten
+    by an ant, impostor, fowler, farmer, butcher and customers, and quack doctor.'
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:9
+  name_or_label: Other animal figures
+  description: Other animals named in headings include ant, parrot, cat, stag, dogs,
+    ass, partridge, cock, gnat, eagle, and leopard.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+roles:
+- id: role:1
+  label: Animal title figure
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:9
+  basis: These figures are animals named directly in the fable headings.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: role:2
+  label: Named title figure
+  assigned_to:
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  basis: These figures are named directly in headings rather than described by occupation
+    or species.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: Human role or occupation in title
+  assigned_to:
+  - fig:8
+  basis: The headings identify several human figures by occupation, social role, or
+    condition.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: Shadow
+  literal_form: shadow
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Hides
+  literal_form: hides
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Recurring animal title figures
+  literal_form: wolf, lion, fox, and other named animals in fable headings
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: Animal-centered fable encounter headings
+  taxonomy_refs: []
+  basis: Many headings name one or more animals as the principal figures in the title.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: Only headings are provided; the plots, outcomes, and symbolic functions
+    are not available in this passage.
+- id: motif:2
+  label: Human role paired with animal figure
+  taxonomy_refs: []
+  basis: Several headings pair a human role or condition with an animal, such as ploughman
+    and wolf, man bitten by ant, fowler with birds, farmer and dogs, and butcher with
+    customers in the same title sequence.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: low
+  cautions: The passage gives titles only; any narrative function of the pairing remains
+    unknown.
+- id: motif:3
+  label: Named mythic figures in fable headings
+  taxonomy_refs: []
+  basis: The title list includes headings with Mercury, Hercules, Minerva, and Plutus.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: low
+  cautions: The headings alone do not state divine action, judgment, exchange, or
+    any other specific mythic pattern.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 704-742, title list opening group
+  quote_or_summary: Titles include 'THE WOLF AND HIS SHADOW,' 'THE PLOUGHMAN AND THE
+    WOLF,' 'MERCURY AND THE MAN BITTEN BY AN ANT,' 'THE WILY LION,' 'THE PARROT AND
+    THE CAT,' and 'THE STAG AND THE LION.'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: 704-742, title list middle group
+  quote_or_summary: Titles include 'THE DOGS AND THE HIDES,' 'THE LION, THE FOX, AND
+    THE ASS,' 'THE FOWLER, THE PARTRIDGE, AND THE COCK,' 'THE GNAT AND THE LION,'
+    and 'THE FARMER AND HIS DOGS.'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: 704-742, title list later group
+  quote_or_summary: Titles include 'THE EAGLE AND THE FOX,' 'THE BUTCHER AND HIS CUSTOMERS,'
+    'HERCULES AND MINERVA,' 'THE FOX WHO SERVED A LION,' and 'THE QUACK DOCTOR.'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: quote
+  locator: 704-742, title list closing group
+  quote_or_summary: Titles include 'THE LION, THE WOLF, AND THE FOX,' 'HERCULES AND
+    PLUTUS,' and 'THE FOX AND THE LEOPARD.'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: The extraction is limited because the supplied passage contains only fable
+    titles, not the narrative text of the fables.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No taxonomy motif refs were assigned because the headings alone do not support a specific available taxonomy family with sufficient confidence.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l704-l742
+  passage_sha256=f3e0fe4ad94739db23da80d3446689e754609a3bc59e52cf97b1ed88db9850e3
+

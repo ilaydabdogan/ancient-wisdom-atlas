@@ -1,0 +1,580 @@
+---
+record_id: batch.motif.comparative-golden-bough-volume-2-frazer-gutenberg-l4789-l4872
+source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+passage_locator:
+  label: 'The Golden Bough: A Study in Comparative Religion (Vol. 2 of 2) / CONTENTS;
+    lines 4789-4872'
+  start: '4789'
+  end: '4872'
+  translation: 'The Golden Bough: A Study in Comparative Religion (Vol. 2 of 2)'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'Frazer argues that a dying god could become a scapegoat by combining two
+    customs: ritual killing of a human or animal god to preserve divine vitality,
+    and annual expulsion of accumulated evils. He applies this to European ''carrying
+    out Death,'' Slavonic spring ceremonies, East Indian disease- or sin-laden boats,
+    and the Roman expulsion of Mamurius Veturius, interpreted as ''the old Mars''
+    and as both vegetation deity and scapegoat.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: 'The passage proposes that two customs were combined: killing a human or animal
+    god to protect divine life from age, and annual expulsion of evils and sins.'
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: In the proposed combination, the dying god is killed and also made to bear
+    the people's sufferings and sins to the unknown world beyond the grave.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The European folk-custom called 'carrying out Death' is described as involving
+    an effigy called Death carried out to be buried or burned.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The effigy of Death is described as producing both joy and fear or abhorrence
+    among its bearers.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage says disease-laden and sin-laden boats are dreaded and shunned
+    by East Indian peoples.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The expulsion of Death is said to be celebrated in spring and chiefly by Slavonic
+    peoples.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Every year on 14 March in Rome, a man clad in skins was led through the streets,
+    beaten with long white rods, and driven out of the city.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The skin-clad man was called Mamurius Veturius, interpreted in the passage
+    as 'the old Mars.'
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The Roman ceremony took place near the beginning of the old Roman year, which
+    began on 1 March.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The passage states that Mars was originally a god of vegetation rather than
+    a god of war.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: The passage cites prayers and sacrifices to Mars for crops, vines, fruit-trees,
+    copses, cattle, and harvest.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:12
+  text: Mamurius Veturius is interpreted as needing expulsion beyond the boundaries
+    because he carries a sorrowful burden as a scapegoat.
+  category: relationship
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: dying god
+  description: A divine figure selected to carry away the sins and sorrows of the
+    people and killed in the combined ritual explanation.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: human or animal god
+  description: A god in human or animal form whose ritual killing is said to save
+    divine life from the weakening effects of age.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Death effigy
+  description: The figure called Death in the European folk-custom of carrying out
+    Death; interpreted as both vegetation spirit and public scapegoat.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:4
+  name_or_label: bearers of Death
+  description: Participants who carry the effigy of Death and show fear or abhorrence
+    toward it.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Mamurius Veturius
+  description: A skin-clad man in Rome, called 'the old Mars,' led in procession,
+    beaten with white rods, and driven out of the city.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: fig:6
+  name_or_label: Mars
+  description: A Roman deity described here as originally a deity of vegetation, invoked
+    for agricultural prosperity and cattle welfare.
+  role_refs:
+  - role:3
+  - role:6
+  evidence_refs:
+  - ev:6
+- id: fig:7
+  name_or_label: East Indian peoples
+  description: Groups said to dread and shun disease-laden and sin-laden boats.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+- id: fig:8
+  name_or_label: Slavonic peoples
+  description: Peoples chiefly associated in the passage with the spring expulsion
+    ceremony of carrying out Death.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: scapegoat
+  assigned_to:
+  - fig:1
+  - fig:3
+  - fig:5
+  basis: Each is described or interpreted as bearing evils, sins, or sorrowful burdens
+    away from a community.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:7
+- id: role:2
+  label: ritually killed divinity
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage says the human or animal god was killed to protect divine life
+    from age, and the dying god had to be killed at any rate.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: spirit or deity of vegetation
+  assigned_to:
+  - fig:3
+  - fig:6
+  basis: Death is interpreted as the annually slain spirit of vegetation, and Mars
+    is described as originally a vegetation deity.
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: role:4
+  label: ritual bearers
+  assigned_to:
+  - fig:4
+  basis: The bearers carry the effigy of Death and show fear or abhorrence toward
+    it.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: representative of old Mars
+  assigned_to:
+  - fig:5
+  basis: The passage identifies the skin-clad man called Mamurius Veturius as representing
+    the Mars of the past year.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: agricultural patron
+  assigned_to:
+  - fig:6
+  basis: Mars receives prayers and sacrifices for corn, vines, trees, crops, cattle,
+    and harvest.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: avoidant community
+  assigned_to:
+  - fig:7
+  basis: East Indian peoples are said to dread and shun disease-laden and sin-laden
+    boats.
+  evidence_refs:
+  - ev:3
+- id: role:8
+  label: practitioners of spring expulsion custom
+  assigned_to:
+  - fig:8
+  basis: The ceremony of expelling Death is said to be celebrated in spring chiefly
+    by Slavonic peoples.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: burden of sins and sufferings
+  literal_form: sins, sorrows, sufferings, and misfortunes laid upon a bearer
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:7
+- id: sym:2
+  label: Death effigy
+  literal_form: effigy of Death carried out for burial or burning
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: disease-laden and sin-laden boats
+  literal_form: boats described as laden with disease and sin
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: skins
+  literal_form: skins worn by the Roman man in the procession
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: white rods
+  literal_form: long white rods used to beat the skin-clad man
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: spring and New Year boundary
+  literal_form: spring beginning of the year and the old Roman year beginning on 1
+    March
+  associated_figures:
+  - fig:3
+  - fig:5
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:7
+  label: vegetation and cultivated growth
+  literal_form: corn, vines, fruit-trees, copses, crops, cattle, and harvest associated
+    with Mars
+  associated_figures:
+  - fig:6
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:6
+- id: sym:8
+  label: city boundary and expulsion
+  literal_form: driving the scapegoat out of the city and beyond the boundaries
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:7
+scenes:
+- id: scene:1
+  label: Combination of divine killing and annual expulsion
+  summary: The passage proposes that killing a god to preserve divine life was combined
+    with an annual expulsion of evils, producing the dying god as scapegoat.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Carrying out Death
+  summary: An effigy called Death is carried out for burial or burning; the passage
+    interprets the rite as the annual slaying of a vegetation spirit and as the removal
+    of accumulated evils.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:8
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:6
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: scene:3
+  label: Avoidance of laden boats
+  summary: Disease-laden and sin-laden boats are said to be feared and shunned, illustrating
+    fear transferred to the carrier of dangerous burdens.
+  figure_refs:
+  - fig:7
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Roman expulsion of Mamurius Veturius
+  summary: On 14 March a skin-clad man called Mamurius Veturius is led through Rome,
+    beaten with white rods, and driven from the city as the old Mars of the past year.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:8
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Mars as vegetation deity
+  summary: The passage presents Mars as originally connected with vegetation, crops,
+    trees, cattle, and harvest rather than solely with war.
+  figure_refs:
+  - fig:6
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:6
+- id: scene:6
+  label: Scapegoat driven beyond boundaries
+  summary: Mamurius Veturius is interpreted as both vegetation deity and scapegoat
+    whose expulsion carries a sorrowful burden away to other lands.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:8
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: dying god used as scapegoat
+  taxonomy_refs:
+  - dying_and_returning
+  - sacrifice
+  basis: The passage explicitly describes the dying god as carrying away the sins
+    and sorrows of the people and connects this with ritual killing.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is Frazer's comparative interpretation, not a primary ritual text.
+- id: motif:2
+  label: annual expulsion of accumulated evils
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage describes a general expulsion of evils and sins once a year,
+    especially before entering a new year.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: high
+  cautions: The details are synthesized across customs by the author.
+- id: motif:3
+  label: spring slaying and renewal of vegetation spirit
+  taxonomy_refs:
+  - dying_and_returning
+  - death_rebirth
+  - seasonal_cycle
+  basis: The Death figure is described as the spirit of vegetation annually slain
+    in spring so that it may come to life again with youthful vigour.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage reports grounds for this interpretation rather than documenting
+    one single primary rite.
+- id: motif:4
+  label: ritual expulsion beyond community boundaries
+  taxonomy_refs:
+  - departure
+  - sacrifice
+  basis: Mamurius Veturius is driven out of the city, and the passage explains this
+    as necessary for a scapegoat who carries a burden away.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  confidence: high
+  cautions: The departure taxonomy fit is based on literal expulsion, not on a hero-journey
+    structure.
+- id: motif:5
+  label: burden-bearing vessel or carrier feared as dangerous
+  taxonomy_refs: []
+  basis: The passage explains fear of the Death figure by comparison with disease-laden
+    and sin-laden boats that are dreaded and shunned.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: No matching supplied taxonomy family directly names this motif.
+comparison_claims:
+- id: claim:1
+  claim: The passage argues that the Roman expulsion of Mamurius Veturius is identical
+    with the Slavonic custom of 'carrying out Death' if the stated interpretation
+    of the latter is correct.
+  claim_level: same_function
+  target: Roman Mamurius Veturius ceremony and Slavonic 'carrying out Death' custom
+  evidence_refs:
+  - ev:8
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage presents this as an interpretive claim dependent on Frazer's
+    prior reading of the Slavonic custom.
+- id: claim:2
+  claim: The passage compares fear of the Death effigy as a laden bearer with East
+    Indian avoidance of disease-laden and sin-laden boats.
+  claim_level: same_function
+  target: Death effigy and East Indian disease- or sin-laden boats
+  evidence_refs:
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison concerns a functional analogy of dangerous burden-bearing,
+    not direct historical contact.
+- id: claim:3
+  claim: The passage notes that scholars had already remarked the similarity between
+    Roman and Slavonic customs, though it says they interpreted the figures as representatives
+    of the old year rather than the old vegetation god.
+  claim_level: same_function
+  target: Mamurius Veturius and corresponding figures in Slavonic ceremonies
+  evidence_refs:
+  - ev:8
+  counter_evidence_refs:
+  - ev:9
+  confidence: medium
+  limitations: The passage reports scholarly similarity while also disagreeing with
+    part of the earlier interpretation.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 4789-4807
+  quote_or_summary: 'The passage suggests combining two customs: killing the human
+    or animal god to save divine life from age, and annual expulsion of evils and
+    sins; the dying god is then made to carry sufferings and sins beyond the grave.'
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 4809-4831
+  quote_or_summary: The 'carrying out Death' ceremony is interpreted as involving
+    a vegetation spirit annually slain in spring; the effigy is carried out for burial
+    or burning, with joy as well as fear and abhorrence, because it also bears communal
+    evils.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: 4831-4834
+  quote_or_summary: '"disease-laden and sin-laden boats are dreaded and shunned by
+    East Indian peoples"'
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:4
+  type: summary
+  locator: 4834-4844
+  quote_or_summary: The passage says the Death custom is always celebrated in spring
+    and chiefly by Slavonic peoples; since the Slavonic year began in spring, the
+    rite is treated as expelling the accumulated evils of the past year before a new
+    one.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 4846-4854
+  quote_or_summary: In Rome each 14 March a skin-clad man called Mamurius Veturius,
+    'the old Mars,' was led through the streets, beaten with long white rods, and
+    driven out near the start of the old Roman year.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 4854-4867
+  quote_or_summary: 'Mars is described as originally a vegetation deity: Roman farmers
+    prayed to him for corn, vines, fruit-trees, and copses; Arval Brothers petitioned
+    him for crops; a horse was sacrificed to him for harvest; and Mars Silvanus received
+    offerings for cattle.'
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 4867-4872
+  quote_or_summary: The passage says the representative of the god in the Roman ceremony
+    appears to have been both vegetation deity and scapegoat; as scapegoat he must
+    be driven beyond the boundaries to carry his burden away, and Mamurius Veturius
+    appears to have been driven to the land of the Oscans.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: 4867-4870
+  quote_or_summary: The Roman expulsion of old Mars in spring is said to be identical
+    with the Slavonic custom of carrying out Death, if the author's view of the latter
+    is correct; scholars had already remarked the similarity.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: 4869-4871
+  quote_or_summary: The passage says earlier scholars apparently took Mamurius Veturius
+    and corresponding Slavonic figures as representatives of the old year rather than
+    of the old god of vegetation.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is itself a comparative scholarly interpretation by Frazer. Literal
+    ritual details are clear, while motif assignments and cross-cultural equivalences
+    should be reviewed as interpretive and historically dated.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the provided passage and metadata. No external taxonomy IDs beyond supplied available references were added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:comparative-golden-bough-volume-2-frazer-gutenberg__l4789-l4872
+  passage_sha256=a09684610203661835db8eedc26b6b7fdc4773f33b1a629bf13fef2b6e10bf2c
+

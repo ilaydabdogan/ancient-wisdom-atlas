@@ -1,0 +1,431 @@
+---
+record_id: batch.motif.greek-plato-republic-jowett-gutenberg-l5400-l5481
+source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+passage_locator:
+  label: The Republic / THE REPUBLIC / INTRODUCTION AND ANALYSIS.; lines 5400-5481
+  start: '5400'
+  end: '5481'
+  translation: The Republic
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Jowett's analysis summarizes Plato's account of pleasure, the contrast
+    between royal and tyrannical life expressed through the number 729, and the closing
+    movement of the Republic toward a heavenly pattern and the anticipation of a future
+    life.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage says Plato is not opposed to all pleasure but wants each part
+    of the soul to have its natural satisfaction.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage distinguishes pleasures without antecedent pains, necessary and
+    unnecessary pleasures, and a class of wild-beast pleasures.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage says Plato ranks pleasures of reason above pleasures of sense
+    and emotion, and says reason can judge lower pleasures while lower parts cannot
+    judge pleasures of reason.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage states that the interval separating king from tyrant, and royal
+    from tyrannical pleasures, is 729, the cube of 9.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage describes Plato as using a numerical progression and geometrical
+    figure to express the distance between royal and tyrannical life.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage says the pattern in heaven takes the place of the city of philosophers
+    on earth near the close of the Republic.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The passage says the distant kingdom is also the rule of human life, and that
+    this prepares for a revelation of future life in the following book.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The passage says the ideal of politics is to be realized in the individual.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Plato
+  description: Philosopher whose account of pleasure, numerical formula, and ideal
+    political pattern are being analyzed.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: Aristotle
+  description: Later philosopher named as repeating distinctions and making further
+    technical classifications from Plato's analysis.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: king
+  description: Figure associated with royal pleasure and contrasted with the tyrant.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: tyrant
+  description: Figure associated with tyrannical pleasure and separated from the king
+    by the numerical interval 729.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: oligarch
+  description: Political type described as removed in the third degree from the royal
+    and aristocratical and used in the computation leading to 729.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: philosophers
+  description: Figures associated with the city of philosophers on earth, which is
+    replaced by the pattern in heaven in the analysis.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: individual
+  description: The human person in whom the ideal of politics is said to be realized.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: philosophical source figure
+  assigned_to:
+  - fig:1
+  basis: The passage attributes the analyzed doctrines and formulas to Plato.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: role:2
+  label: later classifier
+  assigned_to:
+  - fig:2
+  basis: The passage says Aristotle repeats and develops distinctions from Plato's
+    analysis.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: royal exemplar
+  assigned_to:
+  - fig:3
+  basis: The king represents royal pleasure and is set above the tyrant.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: tyrannical contrast figure
+  assigned_to:
+  - fig:4
+  basis: The tyrant represents tyrannical pleasure and loss relative to the king.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: intermediate political type in computation
+  assigned_to:
+  - fig:5
+  basis: The oligarch is used as a degree in the calculation of the numerical interval.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: earthly philosophical community
+  assigned_to:
+  - fig:6
+  basis: The city of philosophers on earth is mentioned as replaced by the pattern
+    in heaven.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: site of ethical-political realization
+  assigned_to:
+  - fig:7
+  basis: The ideal of politics is said to be realized in the individual.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: number 729
+  literal_form: 729, the cube of 9
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: geometrical moral measure
+  literal_form: line, square, cube, and geometrical figure used for the soul and pleasures
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: sym:3
+  label: pattern in heaven
+  literal_form: pattern which is in heaven
+  associated_figures:
+  - fig:1
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: city of philosophers on earth
+  literal_form: city of philosophers on earth
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: distant kingdom
+  literal_form: distant kingdom
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Ordering of pleasures
+  summary: The passage reviews Plato's moderate account of pleasure, including divisions
+    among pleasures and the superiority of pleasures of reason over those of sense
+    and emotion.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Numerical separation of king and tyrant
+  summary: The passage explains the number 729 as a formula expressing the distance
+    between royal and tyrannical pleasures and describes the calculation through geometrical
+    comparison.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+- id: scene:3
+  label: Heavenly pattern and individual realization
+  summary: The passage says the heavenly pattern replaces the earthly city of philosophers,
+    becomes a rule for human life, and anticipates a future-life revelation while
+    locating political ideality in the individual.
+  figure_refs:
+  - fig:1
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: hierarchy of pleasures governed by reason
+  taxonomy_refs:
+  - wisdom
+  basis: The passage ranks pleasures of reason over pleasures of sense and emotion
+    and presents reason as capable of judging lower pleasures.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This is philosophical analysis rather than a narrative mythic episode.
+- id: motif:2
+  label: moral distance between king and tyrant
+  taxonomy_refs:
+  - royal_legitimacy
+  - duality
+  basis: The king and tyrant are contrasted through the interval of 729 and through
+    royal versus tyrannical pleasures.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage concerns ethical and mathematical comparison, not a full royal
+    legitimation myth.
+- id: motif:3
+  label: heavenly ideal as rule for earthly life
+  taxonomy_refs: []
+  basis: The passage says the pattern in heaven replaces the city of philosophers
+    on earth and serves as the rule of human life.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: No available taxonomy reference directly matches this motif; the statement
+    appears in Jowett's analytical introduction.
+- id: motif:4
+  label: anticipation of future life
+  taxonomy_refs: []
+  basis: The passage says the final note prepares for the revelation of a future life
+    in the following book.
+  evidence_refs:
+  - ev:5
+  confidence: low
+  cautions: This passage only anticipates the future-life theme and does not narrate
+    the future-life revelation itself.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly uses the phrase 'One day in thy courts is better than
+    a thousand' as an analogy for expressing a vast difference in value between two
+    lives.
+  claim_level: same_function
+  target: biblical value-comparison formula
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is Jowett's illustrative comparison, not evidence within the passage
+    for historical contact or common inheritance.
+- id: claim:2
+  claim: The passage explicitly compares the distant kingdom that rules human life
+    with the saying that the kingdom of God is within you.
+  claim_level: same_function
+  target: Christian inner-kingdom saying
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is made by the commentator and should not be treated
+    as a claim that Plato's text derives from the Christian saying.
+- id: claim:3
+  claim: The passage compares Plato's distinctions about pleasure with Aristotle's
+    later technical distinctions, presenting Aristotle as developing Plato's analysis.
+  claim_level: same_function
+  target: Aristotelian classification of pleasures
+  evidence_refs:
+  - ev:1
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is philosophical and classificatory, not a mythic motif
+    parallel.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5400-5420
+  quote_or_summary: Plato is described as moderate about pleasure, not rejecting all
+    pleasure, and distinguishing pleasures such as smell, hope, necessary and unnecessary
+    pleasure, and wild-beast pleasures.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 5420-5435
+  quote_or_summary: The passage says Plato treats sensual pleasures as relatively
+    unreal, ranks pleasures of reason above sense and emotion, and says reason can
+    judge lower pleasures while lower soul-parts cannot judge reason's pleasures.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 5440-5445
+  quote_or_summary: '"The number of the interval which separates the king from the
+    tyrant, and royal from tyrannical pleasures, is 729, the cube of 9."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: summary
+  locator: lines 5445-5465
+  quote_or_summary: The passage describes Plato as using a progression of numbers
+    and a geometrical figure to express the immeasurable interval between royal and
+    tyrannical life.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 5474-5481
+  quote_or_summary: Near the end of the Republic, the pattern in heaven replaces the
+    city of philosophers on earth; the distant kingdom is also the rule of human life,
+    prepares for future life, and the political ideal is realized in the individual.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 5466-5473
+  quote_or_summary: The passage explains the mathematical groundwork of comparing
+    cubes, then says the oligarch and tyrant are placed by degrees so that the terms
+    are counted toward 9 and then cubed.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: quote
+  locator: lines 5454-5458
+  quote_or_summary: '"One day in thy courts is better than a thousand"'
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is analytical and philosophical rather than a mythic narrative;
+    motif labels are therefore cautious and mostly pattern-level.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No available taxonomy symbol refs were directly supported by this passage.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-plato-republic-jowett-gutenberg__l5400-l5481
+  passage_sha256=a7cde27114c268fdbbe4ccfa1bd103ce304137adc918a327d716fbaf5f8a1226
+

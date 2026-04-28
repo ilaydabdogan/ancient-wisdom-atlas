@@ -1,0 +1,313 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l3605-l3618
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE EAGLE, THE JACKDAW, AND THE SHEPHERD / THE WOLF AND THE BOY / THE MILLER,
+    HIS SON, AND THEIR ASS / THE STAG AND THE VINE; lines 3605-3618
+  start: '3605'
+  end: '3618'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: Ingratitude sometimes brings its own punishment.
+  summary: A stag hides under a thick vine while huntsmen pass by. After danger seems
+    to have passed, the stag eats the vine's leaves; the movement reveals him to returning
+    huntsmen, and an arrow kills him. The dying stag says he deserves the fate because
+    he fed on the leaves of his protector. The fable concludes that ingratitude can
+    bring punishment.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A stag is pursued by huntsmen and conceals himself under a thick vine.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The huntsmen lose track of the stag and pass by his hiding place without noticing
+    him.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The stag believes the danger is over and begins eating the leaves of the vine
+    that sheltered him.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The movement in the foliage attracts the returning huntsmen's attention.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: One huntsman shoots an arrow into the foliage, and the stag is pierced to
+    the heart.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The dying stag states that he deserves his fate for feeding on the leaves
+    of his protector.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The stated moral is that ingratitude sometimes brings its own punishment.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Stag
+  description: A stag pursued by huntsmen, hidden under a vine, later killed by an
+    arrow.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Huntsmen
+  description: Hunters pursuing the stag; one returning huntsman shoots an arrow into
+    the foliage.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:3
+  name_or_label: Vine
+  description: A thick vine that covers and protects the stag's hiding place until
+    the stag eats its leaves.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+roles:
+- id: role:1
+  label: pursued animal
+  assigned_to:
+  - fig:1
+  basis: The stag is pursued by huntsmen and hides from them.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: ungrateful beneficiary
+  assigned_to:
+  - fig:1
+  basis: The stag feeds on the leaves of the vine that had protected him, and acknowledges
+    this as treachery.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:3
+  label: pursuers and killers
+  assigned_to:
+  - fig:2
+  basis: The huntsmen pursue the stag, return, notice movement, and one shoots into
+    the foliage.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:4
+  label: protector or shelter
+  assigned_to:
+  - fig:3
+  basis: The vine conceals the stag, and the stag later calls it his protector.
+  evidence_refs:
+  - ev:1
+  - ev:4
+symbols:
+- id: sym:1
+  label: protective vine
+  literal_form: thick Vine and its leaves
+  associated_figures:
+  - fig:3
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: arrow
+  literal_form: arrow shot into the foliage
+  associated_figures:
+  - fig:2
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: foliage concealment
+  literal_form: cover of a thick Vine / foliage
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+scenes:
+- id: scene:1
+  label: Concealment under the vine
+  summary: The stag hides under a thick vine while the huntsmen pass by without detecting
+    him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Eating the protector's leaves
+  summary: After supposing the danger has passed, the stag begins browsing on the
+    vine's leaves.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Discovery and fatal arrow
+  summary: The moving foliage attracts the returning huntsmen, and one shoots an arrow
+    into the foliage, killing the stag.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Dying confession and moral
+  summary: The stag says he deserves his fate for feeding on his protector's leaves,
+    and the fable states the moral about ingratitude bringing punishment.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: ingratitude punished by its own consequences
+  taxonomy_refs:
+  - wisdom
+  basis: The stag harms the vine that protected him; this action reveals him and leads
+    to his death, followed by an explicit moral that ingratitude brings punishment.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The available taxonomy has only broad motif-family labels; 'wisdom' is
+    used because the passage is an explicit moral fable, not because the scene contains
+    a named mythic wisdom figure.
+- id: motif:2
+  label: betrayal of a protector
+  taxonomy_refs: []
+  basis: The stag identifies the vine as his protector and calls his feeding on its
+    leaves treachery.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: This is a passage-level fable pattern rather than a supplied formal taxonomy
+    motif.
+- id: motif:3
+  label: hidden fugitive exposed by his own action
+  taxonomy_refs: []
+  basis: The stag successfully hides from the huntsmen, but his browsing causes movement
+    that attracts their attention.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The pattern is directly supported by the sequence of events, but no specific
+    external taxonomy reference is supplied.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself presents a fable-pattern in which an ungrateful act toward
+    a protector becomes the cause of punishment.
+  claim_level: same_motif
+  target: ingratitude brings its own punishment fable pattern
+  evidence_refs:
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This claim is limited to the internal moral and event-pattern of the
+    passage; it does not assert historical contact, common inheritance, or comparison
+    with a separate text.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 3605-3610
+  quote_or_summary: The fable opens with a stag pursued by huntsmen; he hides under
+    a thick vine, and the huntsmen pass without noticing him.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:2
+  type: summary
+  locator: 3610-3612
+  quote_or_summary: Believing the danger to be over, the stag begins to browse on
+    the vine's leaves.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:3
+  type: summary
+  locator: 3612-3615
+  quote_or_summary: The movement draws the attention of the returning huntsmen; one
+    shoots an arrow into the foliage, and the stag is pierced to the heart.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:4
+  type: quote
+  locator: 3615-3617
+  quote_or_summary: '"I deserve my fate for my treachery in feeding upon the leaves
+    of my protector."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation supplied from public domain text.
+- id: ev:5
+  type: quote
+  locator: '3618'
+  quote_or_summary: '"Ingratitude sometimes brings its own punishment."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation supplied from public domain text.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: medium
+  notes: The event sequence and moral are explicit. Taxonomy mapping is limited because
+    the supplied motif families do not include a specific 'ingratitude punished' category.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage was used; despite the locator label naming several fables, the provided passage text contains only 'THE STAG AND THE VINE'.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l3605-l3618
+  passage_sha256=e183c9f007558f50f9c779cc4f6dc1918e4675ab77c87d191f3c15ef37ad9cd3
+

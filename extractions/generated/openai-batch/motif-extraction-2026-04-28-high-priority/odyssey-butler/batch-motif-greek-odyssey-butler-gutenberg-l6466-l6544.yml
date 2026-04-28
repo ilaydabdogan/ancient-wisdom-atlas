@@ -1,0 +1,594 @@
+---
+record_id: batch.motif.greek-odyssey-butler-gutenberg-l6466-l6544
+source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+passage_locator:
+  label: BOOK XIII / ULYSSES LEAVES SCHERIA AND RETURNS TO ITHACA. / BOOK XIV / ULYSSES
+    IN THE HUT WITH EUMAEUS.; lines 6466-6544
+  start: '6466'
+  end: '6544'
+  translation: The Odyssey
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: After a ritual offering and meal, a stormy moonless night falls. Ulysses
+    tells Eumaeus and the swineherds a story about lacking a cloak during a cold ambush
+    before Troy, where Ulysses obtained one by a clever pretext. Eumaeus praises the
+    story, promises the stranger clothing for the night, makes him a bed by the fire,
+    and covers him with a heavy cloak. Eumaeus then arms himself and goes outside
+    to sleep near the pigs under a rock shelter.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A first piece is cut off and offered as a burnt sacrifice to the immortal
+    gods, followed by a drink-offering and a shared meal.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Mesaulius brings bread, and the group eats and drinks until satisfied before
+    going to bed.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The night is stormy, very dark, moonless, rainy, and windy from the west.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Ulysses decides to see whether Eumaeus will provide him with a cloak, either
+    personally or through one of his men.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Ulysses prefaces his story by saying wine makes people speak, sing, laugh,
+    dance, and say things better left unspoken.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: In Ulysses’ embedded story, soldiers lie hidden near Troy in cold weather
+    with snow, frost, and shields coated with rime.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: In the embedded story, the speaker lacks a cloak and tells Ulysses that the
+    cold may kill him.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: In the embedded story, Ulysses proposes that someone report a dream to Agamemnon;
+    Thoas leaves his cloak and runs to the ships, and the speaker takes the cloak
+    until morning.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: Eumaeus says the stranger will not lack clothing or other reasonable needs
+    for the present, though he must return to his own rags the next morning.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: Eumaeus makes a bed for Ulysses with goatskins and sheepskins before the fire
+    and covers him with a heavy cloak.
+  category: action
+  evidence_refs:
+  - ev:9
+- id: obs:11
+  text: Eumaeus chooses not to sleep away from the pigs and goes outside equipped
+    with a sword, cloak, goat skin, and javelin.
+  category: action
+  evidence_refs:
+  - ev:10
+- id: obs:12
+  text: The pigs are camped under an overhanging rock that shelters them from the
+    north wind.
+  category: setting
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Ulysses
+  description: A guest in Eumaeus’ hut who tells a story about a cloak at Troy and
+    later sleeps on a bed made for him by Eumaeus.
+  role_refs:
+  - role:1
+  - role:4
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:9
+- id: fig:2
+  name_or_label: Eumaeus
+  description: The swineherd who hears Ulysses’ story, promises him clothing for the
+    night, makes his bed, covers him, and goes out to guard the pigs.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:8
+  - ev:9
+  - ev:10
+- id: fig:3
+  name_or_label: Mesaulius
+  description: A man brought by the swineherd from among the Taphians who serves bread
+    and removes what is left.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: immortal gods
+  description: Divine recipients of the burnt sacrifice and drink-offering.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: Menelaus
+  description: Named in Ulysses’ embedded account as one of the leaders of an ambuscade
+    before Troy.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: Agamemnon
+  description: Named in the embedded account as the commander to whom Ulysses says
+    someone should report and request more men.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:7
+- id: fig:7
+  name_or_label: Thoas son of Andraemon
+  description: In the embedded account, he throws off his cloak and runs to the ships.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:7
+- id: fig:8
+  name_or_label: young men / swineherds
+  description: Men present in the hut who sleep beside Ulysses after the meal.
+  role_refs:
+  - role:11
+  evidence_refs:
+  - ev:9
+  - ev:10
+roles:
+- id: role:1
+  label: guest or stranger in distress
+  assigned_to:
+  - fig:1
+  basis: Eumaeus addresses him as an old man and says a stranger in distress may reasonably
+    expect clothing and other things.
+  evidence_refs:
+  - ev:8
+- id: role:2
+  label: host and provider
+  assigned_to:
+  - fig:2
+  basis: Eumaeus promises clothing, makes a bed, and covers Ulysses with a heavy cloak.
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: role:3
+  label: bread server
+  assigned_to:
+  - fig:3
+  basis: Mesaulius brings bread and later takes away what remains.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: storyteller
+  assigned_to:
+  - fig:1
+  basis: Ulysses asks Eumaeus and the others to listen and tells an account of a cold
+    ambush before Troy.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:5
+  label: guardian of pigs
+  assigned_to:
+  - fig:2
+  basis: Eumaeus dislikes sleeping away from his pigs and goes outside to rest near
+    them with weapons and covering.
+  evidence_refs:
+  - ev:10
+- id: role:6
+  label: crafty planner in embedded story
+  assigned_to:
+  - fig:1
+  basis: The embedded story explicitly describes Ulysses as crafty and valiant, and
+    he creates a plan that results in a cloak becoming available.
+  evidence_refs:
+  - ev:7
+- id: role:7
+  label: divine recipients of offering
+  assigned_to:
+  - fig:4
+  basis: The first piece is offered as a burnt sacrifice to the immortal gods, followed
+    by a drink-offering.
+  evidence_refs:
+  - ev:1
+- id: role:8
+  label: leader in embedded ambuscade
+  assigned_to:
+  - fig:5
+  - fig:1
+  basis: Menelaus and Ulysses are named as leaders in the ambuscade before Troy.
+  evidence_refs:
+  - ev:5
+- id: role:9
+  label: commander to be informed
+  assigned_to:
+  - fig:6
+  basis: Ulysses says someone should go tell Agamemnon to send more men.
+  evidence_refs:
+  - ev:7
+- id: role:10
+  label: cloak-leaver and messenger
+  assigned_to:
+  - fig:7
+  basis: Thoas throws off his cloak and runs to the ships after Ulysses’ speech.
+  evidence_refs:
+  - ev:7
+- id: role:11
+  label: companions in the hut
+  assigned_to:
+  - fig:8
+  basis: The young men sleep beside Ulysses after Eumaeus prepares his bed.
+  evidence_refs:
+  - ev:9
+symbols:
+- id: sym:1
+  label: burnt sacrifice and drink-offering
+  literal_form: First piece offered as burnt sacrifice; cup and drink-offering
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: cloak
+  literal_form: Protective garment requested, remembered, given, and worn against
+    cold and storm
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:10
+- id: sym:3
+  label: stormy moonless night
+  literal_form: Dark night with no moon, rain, and west wind
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:10
+- id: sym:4
+  label: fire
+  literal_form: Fire before which Eumaeus places Ulysses’ bed
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:9
+- id: sym:5
+  label: skins used as bedding and covering
+  literal_form: Goatskins, sheepskins, and a goat skin
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: sym:6
+  label: weapons for night watch
+  literal_form: Sword and javelin carried by Eumaeus in case of attack
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+- id: sym:7
+  label: rock shelter
+  literal_form: Overhanging rock sheltering pigs from the north wind
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+scenes:
+- id: scene:1
+  label: Offering and supper in the hut
+  summary: A ritual portion and drink-offering are made to the immortal gods, bread
+    is served, and the group eats and drinks before bed.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Storm and Ulysses’ test for a cloak
+  summary: During a dark storm, Ulysses considers whether Eumaeus will provide him
+    with a cloak and begins a story after commenting on wine-induced speech.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:8
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Embedded account of the Trojan ambush
+  summary: Ulysses recounts a freezing ambush near Troy in which a cloakless man prompts
+    Ulysses to invent a pretext that makes Thoas leave his cloak behind.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: scene:4
+  label: Eumaeus provides bedding and a cloak
+  summary: Eumaeus praises the story, promises the stranger necessary clothing for
+    the night, makes a bed with skins before the fire, and covers Ulysses with a heavy
+    cloak.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: scene:5
+  label: Eumaeus’ night watch by the pigs
+  summary: After the others sleep, Eumaeus arms and covers himself and goes outside
+    to rest near the pigs under a rock shelter.
+  figure_refs:
+  - fig:2
+  - fig:8
+  symbol_refs:
+  - sym:3
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: Ritual offering before communal meal
+  taxonomy_refs:
+  - sacrifice
+  - sacred_exchange
+  basis: The passage describes a burnt sacrifice and drink-offering to the immortal
+    gods before eating and drinking.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The excerpt does not explain the theological purpose of the offering beyond
+    its performance.
+- id: motif:2
+  label: Hospitality to a stranger in distress
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Eumaeus states that the stranger will not lack clothing or other reasonable
+    needs and then gives him bedding and a cloak.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: The passage frames the act as practical guest-care; broader sacred hospitality
+    themes are not explicitly named in the excerpt.
+- id: motif:3
+  label: Clever tale obtains needed cloak
+  taxonomy_refs:
+  - trickster_boundary
+  basis: Ulysses tells a story about a prior clever stratagem that obtained a cloak,
+    and the present telling leads Eumaeus to provide clothing and bedding.
+  evidence_refs:
+  - ev:3
+  - ev:7
+  - ev:8
+  - ev:9
+  confidence: medium
+  cautions: The current passage does not explicitly say Eumaeus is deceived; the connection
+    between the tale and the gift is implied by sequence and response.
+- id: motif:4
+  label: Loyal caretaker guarding property during master’s absence
+  taxonomy_refs: []
+  basis: Eumaeus goes outside to sleep near the pigs, and the passage states Ulysses
+    is glad to see that he looks after his master’s property during the master’s absence.
+  evidence_refs:
+  - ev:10
+  confidence: high
+  cautions: No provided taxonomy family directly matches this motif.
+- id: motif:5
+  label: Shelter against hostile night weather
+  taxonomy_refs: []
+  basis: The passage contrasts storm, cold, rain, and wind with cloaks, skins, fire,
+    and a rock shelter.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:9
+  - ev:10
+  confidence: high
+  cautions: This is a recurring situational pattern rather than a supplied named taxonomy
+    motif.
+comparison_claims:
+- id: claim:1
+  claim: The burnt sacrifice and drink-offering before the meal align with the supplied
+    sacrifice motif family at the level of literal ritual action.
+  claim_level: same_motif
+  target: sacrifice
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage gives the act but not an extended mythic explanation of
+    the sacrifice.
+- id: claim:2
+  claim: The cloak episode has the same functional pattern as a trickster-boundary
+    motif in which strategic speech changes social access to a needed object.
+  claim_level: same_function
+  target: trickster_boundary
+  evidence_refs:
+  - ev:3
+  - ev:7
+  - ev:8
+  - ev:9
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage does not explicitly label the present story as deception,
+    and Eumaeus responds approvingly rather than as a duped opponent.
+- id: claim:3
+  claim: Eumaeus’ provision for the stranger can be cautiously grouped with sacred
+    exchange patterns insofar as food, clothing, and shelter are given under guest-host
+    obligation.
+  claim_level: same_function
+  target: sacred_exchange
+  evidence_refs:
+  - ev:8
+  - ev:9
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The excerpt presents the exchange as social hospitality; it does not
+    explicitly connect the gift to divine command or ritual reciprocity.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 6466-6475
+  quote_or_summary: A first piece is offered as burnt sacrifice to the immortal gods;
+    a drink-offering follows; Mesaulius brings bread, the group eats and drinks, and
+    the remainder is removed before bed.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: 6477-6479
+  quote_or_summary: "“the night came on stormy and very dark, for there was no moon.
+    It poured without ceasing”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:3
+  type: summary
+  locator: 6479-6482
+  quote_or_summary: Ulysses thinks he will see whether Eumaeus will take off his own
+    cloak and give it to him or make one of his men give him one.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 6482-6488
+  quote_or_summary: Ulysses asks Eumaeus and the others to listen, says wine makes
+    people talk, sing, laugh, dance, and say too much, and introduces a memory of
+    Troy.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 6488-6498
+  quote_or_summary: In the embedded account, Menelaus and Ulysses lead an ambush near
+    Troy; the men lie hidden among reeds and brushwood in freezing weather, snow,
+    and rime-coated shields.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 6498-6507
+  quote_or_summary: The embedded narrator says he has no cloak, only a shirt and shield,
+    and tells Ulysses the cold may kill him.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 6508-6522
+  quote_or_summary: Ulysses, described as crafty and valiant, tells the man to keep
+    quiet, then says he has had a dream and asks someone to tell Agamemnon to send
+    more men; Thoas leaves his cloak and runs to the ships, and the speaker takes
+    the cloak until morning.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: 6525-6533
+  quote_or_summary: Eumaeus praises the story and says the old man will lack neither
+    clothing nor other reasonable needs for the present, though the next morning he
+    must wear his old rags again until Ulysses’ son can provide cloak and shirt.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: 6534-6538
+  quote_or_summary: Eumaeus makes a bed for Ulysses from goatskins and sheepskins
+    before the fire and covers him with a heavy cloak kept for unusually bad weather.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: 6540-6544
+  quote_or_summary: The young men sleep beside Ulysses, while Eumaeus goes outside
+    to the pigs with sword, thick cloak, goat skin, and javelin; the pigs are under
+    an overhanging rock sheltering them from the north wind.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is well supported by the passage. Motif classification
+    is strongest for sacrifice and hospitality, and more cautious for trickster-boundary
+    and sacred-exchange comparisons.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage, metadata, and available taxonomy references. Ambiguous antecedent for the opening sacrificial actor was not assigned to a named figure.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-odyssey-butler-gutenberg__l6466-l6544
+  passage_sha256=f004104d11ff8d10717d4a9cc69138fedbe980dcb9fe37a689e1ea53d33da1f0
+

@@ -1,0 +1,299 @@
+---
+record_id: batch.motif.comparative-golden-bough-volume-1-frazer-gutenberg-l10213-l10347
+source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+passage_locator:
+  label: CHAPTER II. THE PERILS OF THE SOUL. / HEINE. / CHAPTER III. KILLING THE GOD.
+    / FOOTNOTES; lines 10213-10347
+  start: '10213'
+  end: '10347'
+  translation: 'The Golden Bough: A Study in Comparative Religion (Vol. 1 of 2)'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: This passage is a footnote section listing comparative references. Footnote
+    415 summarizes several stories in which a sleeper’s or person’s soul leaves the
+    body through the mouth or nose in animal form, including a reptile, raven, cricket,
+    and white mouse, and states that some stories belong to the same class or type.
+    The remaining notes chiefly provide bibliographic references for related ethnographic
+    and folklore material.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that the stories of Hermotimus and King Gunthram belong
+    to the same class.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: In the King Gunthram story, the king’s soul comes out of his mouth as a small
+    reptile.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage states that the soul of Aristeas issued from his mouth in the
+    form of a raven.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: In an East Indian story described as the same type, a sleeper’s soul issues
+    from his nose in the form of a cricket.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: In a Swabian story, a girl’s soul creeps out of her mouth in the form of a
+    white mouse.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:6
+  text: The passage consists mainly of numbered footnotes citing sources on folklore,
+    ethnography, and religious beliefs.
+  category: other
+  evidence_refs:
+  - ev:2
+figures:
+- id: fig:1
+  name_or_label: Hermotimus
+  description: Named as a figure whose story belongs to the same class as the King
+    Gunthram story.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: King Gunthram
+  description: A king whose soul comes out of his mouth as a small reptile.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Aristeas
+  description: A figure whose soul issued from his mouth in the form of a raven.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: East Indian sleeper
+  description: A sleeper whose soul issues from his nose in the form of a cricket.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: Swabian girl
+  description: A girl whose soul creeps out of her mouth in the form of a white mouse.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: figure in same-class soul story
+  assigned_to:
+  - fig:1
+  basis: The passage identifies Hermotimus’s story as belonging to the same class
+    as King Gunthram’s story.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: person whose soul exits the body in animal form
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  basis: Each named or described person is associated with a soul leaving the body
+    through mouth or nose in animal form.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: small reptile
+  literal_form: small reptile form of King Gunthram’s soul
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: raven
+  literal_form: raven form of Aristeas’s soul
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: cricket
+  literal_form: cricket form of an East Indian sleeper’s soul
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: white mouse
+  literal_form: white mouse form of a Swabian girl’s soul
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:5
+  label: mouth
+  literal_form: bodily opening through which some souls exit
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:6
+  label: nose
+  literal_form: bodily opening through which the East Indian sleeper’s soul exits
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Soul exits through mouth as small reptile
+  summary: King Gunthram’s soul leaves his mouth in the form of a small reptile.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Soul exits through mouth as raven
+  summary: Aristeas’s soul issues from his mouth in the form of a raven.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:1
+- id: scene:3
+  label: Soul exits through nose as cricket
+  summary: An East Indian sleeper’s soul issues from his nose in the form of a cricket.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:6
+  evidence_refs:
+  - ev:1
+- id: scene:4
+  label: Soul exits through mouth as white mouse
+  summary: A Swabian girl’s soul creeps out of her mouth in the form of a white mouse.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:1
+candidate_motifs:
+- id: motif:1
+  label: soul leaving the body in animal form
+  taxonomy_refs: []
+  basis: The passage groups several stories in which a soul exits the body through
+    the mouth or nose and appears as an animal or small creature.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage is a comparative footnote rather than a full narrative; it
+    provides compressed summaries only.
+- id: motif:2
+  label: same-type comparative soul stories
+  taxonomy_refs: []
+  basis: The passage explicitly says that certain stories belong to the same class
+    and describes an East Indian story as being of the same type.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The underlying tales are not narrated in full in this excerpt.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself classifies the stories of Hermotimus and King Gunthram
+    as belonging to the same class.
+  claim_level: same_motif
+  target: Hermotimus story and King Gunthram story
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: high
+  limitations: Only the comparative classification is present; the Hermotimus story
+    is not summarized in this passage.
+- id: claim:2
+  claim: The passage treats the East Indian sleeper story as the same type as the
+    preceding soul-exit stories.
+  claim_level: same_motif
+  target: East Indian sleeper story compared with the preceding soul-exit stories
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage gives only one detail of the East Indian story.
+- id: claim:3
+  claim: The Swabian girl’s soul-as-white-mouse story is presented alongside the other
+    examples as part of the same comparative cluster of soul-exit tales.
+  claim_level: same_function
+  target: Swabian white-mouse soul story and other animal-form soul-exit stories
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage juxtaposes the Swabian example with the others but does
+    not explicitly use the phrase 'same type' for it.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 10213-10225 / footnote 415
+  quote_or_summary: Footnote 415 states that the stories of Hermotimus and King Gunthram
+    belong to the same class; King Gunthram’s soul comes out of his mouth as a small
+    reptile; Aristeas’s soul issues from his mouth as a raven; an East Indian sleeper’s
+    soul issues from his nose as a cricket; and a Swabian girl’s soul creeps out of
+    her mouth as a white mouse.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 10226-10347 / footnotes 416-456
+  quote_or_summary: Footnotes 416-456 list bibliographic references to works on Burma,
+    the Philippines, India, Karens, Minahassa, Samoa, Sumatra, Melanesia, Fiji, Senegambia,
+    the Congo, Jesuit Relations, and other comparative ethnographic or folklore sources.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The strongest extractable motif material appears in footnote 415. Most of
+    the passage is bibliographic citation without narrative content, so broader motif
+    extraction is limited.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No available taxonomy reference was assigned because the passage’s animal-form soul-exit motif does not directly match the supplied motif-family list, and 'small reptile' was not treated as the supplied 'serpent' symbol.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:comparative-golden-bough-volume-1-frazer-gutenberg__l10213-l10347
+  passage_sha256=5d3939dd83684d83a8089c7c9f2aa4f9621a214ff1124595510c9bcf8b591537
+

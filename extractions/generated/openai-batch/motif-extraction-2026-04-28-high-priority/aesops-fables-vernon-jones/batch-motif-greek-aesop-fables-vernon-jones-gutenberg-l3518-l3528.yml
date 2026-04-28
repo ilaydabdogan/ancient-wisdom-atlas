@@ -1,0 +1,294 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l3518-l3528
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE TRAVELLERS AND THE PLANE-TREE / THE FLEA AND THE OX / THE BIRDS, THE
+    BEASTS, AND THE BAT / THE MAN AND HIS TWO SWEETHEARTS; lines 3518-3528
+  start: '3518'
+  end: '3528'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: "“Between them, they left not a hair in his head, and he became perfectly
+    bald.”"
+  summary: A middle-aged man with greying hair has an older sweetheart and a younger
+    sweetheart. The older woman removes his dark hairs to make him look older, while
+    the younger woman removes his grey hairs to make him look younger. Their opposing
+    actions leave him bald.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The central male figure is described as middle-aged and as having hair that
+    is turning grey.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: 'The man has two sweethearts: one older woman and one younger woman.'
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The older sweetheart dislikes having a lover who looks much younger than herself.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: When the man visits the older sweetheart, she pulls dark hairs from his head
+    to make him look old.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The younger sweetheart dislikes the man looking much older than herself.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The younger sweetheart pulls grey hairs from the man's head to make him look
+    young.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The combined result of the two women's actions is that the man has no hair
+    left and becomes bald.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: middle-aged man
+  description: A man of middle age whose hair is turning grey and who has two sweethearts.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: older sweetheart
+  description: The elder of the two sweethearts, an old woman who removes the man's
+    dark hairs.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: younger sweetheart
+  description: The younger sweetheart, who removes the man's grey hairs.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+roles:
+- id: role:1
+  label: recipient of opposing alterations
+  assigned_to:
+  - fig:1
+  basis: The man's dark hairs are removed by one sweetheart and his grey hairs by
+    the other.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:2
+  label: older partner seeking to age the man
+  assigned_to:
+  - fig:2
+  basis: She pulls out dark hairs to make him look old.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: younger partner seeking to youth the man
+  assigned_to:
+  - fig:3
+  basis: She pulls out grey hairs to make him look young.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: balded victim of cumulative actions
+  assigned_to:
+  - fig:1
+  basis: The two women's actions leave no hair on his head.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: grey hair
+  literal_form: grey hairs on the man's head
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: dark hair
+  literal_form: dark hairs on the man's head
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: bald head
+  literal_form: the man left without any hair
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: two sweethearts
+  literal_form: an older woman and a younger woman paired around one man
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Middle-aged man with two sweethearts
+  summary: A middle-aged man with greying hair is introduced as having both an older
+    and a younger sweetheart.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Older sweetheart removes dark hairs
+  summary: The older sweetheart removes the man's dark hairs so that he will appear
+    older.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Younger sweetheart removes grey hairs
+  summary: The younger sweetheart removes the man's grey hairs so that he will appear
+    younger.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Opposing actions leave the man bald
+  summary: Because each sweetheart removes a different kind of hair, the man is ultimately
+    left with none.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: opposed partners produce total loss
+  taxonomy_refs:
+  - duality
+  basis: 'Two paired figures act from opposite age preferences: one removes dark hairs
+    to make the man older, and the other removes grey hairs to make him younger; together
+    they leave him bald.'
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The available taxonomy term “duality” is broad; the passage presents a
+    comic fable structure rather than an explicitly cosmological duality.
+- id: motif:2
+  label: conflicting attempts at transformation
+  taxonomy_refs: []
+  basis: Each sweetheart tries to alter the man's appearance in a different direction,
+    and the cumulative effect defeats both aims.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is a narrative pattern inferred from the sequence of actions; no
+    explicit moral is stated in the supplied passage.
+- id: motif:3
+  label: age contrast in paired women
+  taxonomy_refs: []
+  basis: The man is positioned between an older woman and a younger woman, each concerned
+    with the age his appearance suggests.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage uses the contrast for a fable outcome; no broader mythic symbolism
+    is stated.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 3518-3521
+  quote_or_summary: "“A Man of middle age, whose hair was turning grey, had two Sweethearts,
+    an old woman and a young one.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source text; short quotation used for evidence.
+- id: ev:2
+  type: summary
+  locator: 3521-3524
+  quote_or_summary: The older sweetheart dislikes having a lover who looks younger
+    than herself and pulls out his dark hairs to make him look old.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source text; summarized for evidence.
+- id: ev:3
+  type: summary
+  locator: 3524-3527
+  quote_or_summary: The younger sweetheart dislikes the man looking older than herself
+    and pulls out his grey hairs to make him look young.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source text; summarized for evidence.
+- id: ev:4
+  type: quote
+  locator: 3527-3528
+  quote_or_summary: "“Between them, they left not a hair in his head, and he became
+    perfectly bald.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source text; short quotation used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labels are cautious because
+    the passage is a brief fable and gives no explicit taxonomy or comparative framing.
+    No comparison claims were added.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata. The title range mentions adjacent fables, but the supplied passage text contains only “THE MAN AND HIS TWO SWEETHEARTS.”
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l3518-l3528
+  passage_sha256=2ccbe77fa7ad715f90aace0c664d772676dd64f722f54af9a4b6191b6f06b7ad
+

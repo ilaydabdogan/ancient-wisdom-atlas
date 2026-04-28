@@ -1,0 +1,605 @@
+---
+record_id: batch.motif.greek-plato-republic-jowett-gutenberg-l10460-l10547
+source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+passage_locator:
+  label: THE REPUBLIC. / PERSONS OF THE DIALOGUE. / BOOK I. / BOOK II.; lines 10460-10547
+  start: '10460'
+  end: '10547'
+  translation: The Republic
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: when he turned the collet inwards he became invisible, when outwards he reappeared
+  summary: Glaucon recounts the tradition of Gyges’ ring to argue that people act
+    justly only under compulsion, then constructs a comparison between a perfectly
+    unjust man who seems just and a perfectly just man who seems unjust, asking which
+    life is happier.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage proposes giving both the just and the unjust power to do what
+    they will in order to see where desire leads them.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Gyges is described as a shepherd serving the king of Lydia and as an ancestor
+    of Croesus.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A storm and earthquake open the earth where Gyges is feeding his flock.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Gyges descends into the opening and sees a hollow brazen horse with doors,
+    a more-than-human dead body, and a gold ring on the corpse’s finger.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Gyges takes the gold ring from the dead body and reascends.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: In the shepherds’ assembly, the ring makes Gyges invisible when its collet
+    is turned inward and visible again when turned outward.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Gyges uses his position as messenger to reach the court, seduce the queen,
+    conspire against the king, kill him, and take the kingdom.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The speaker imagines two such rings, one worn by a just person and one by
+    an unjust person.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The hypothetical power of invisibility is associated with theft, entering
+    houses, sexual access, killing, freeing prisoners, and being like a god among
+    humans.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The passage proposes isolating a perfectly unjust man and a perfectly just
+    man in order to judge their lives.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: The perfectly unjust man is to commit unjust acts while acquiring the greatest
+    reputation for justice.
+  category: attribute
+  evidence_refs:
+  - ev:8
+- id: obs:12
+  text: The perfectly just man is to be just without seeming just, to be thought worst
+    while being best, and to continue so until death.
+  category: attribute
+  evidence_refs:
+  - ev:9
+- id: obs:13
+  text: The narrating speaker tells Glaucon that he has polished the two figures for
+    decision as if they were two statues.
+  category: speech
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Gyges
+  description: A Lydian shepherd in the king’s service, ancestor of Croesus, who finds
+    a gold ring and later takes the kingdom.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: king of Lydia
+  description: The ruler served by Gyges and later killed by him.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:3
+  name_or_label: queen
+  description: The queen whom Gyges seduces and with whose help he conspires against
+    the king.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: dead body of more than human stature
+  description: A dead body seen inside the hollow brazen horse, wearing nothing except
+    a gold ring.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: just man
+  description: A hypothetical person used in the argument, imagined as entirely just
+    and later as possessing one of two magic rings.
+  role_refs:
+  - role:7
+  - role:8
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:9
+- id: fig:6
+  name_or_label: unjust man
+  description: A hypothetical person used in the argument, imagined as entirely unjust
+    and later as possessing one of two magic rings.
+  role_refs:
+  - role:7
+  - role:9
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:7
+  name_or_label: shepherds’ assembly
+  description: The company of shepherds meeting to send a monthly report about the
+    flocks to the king.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:4
+- id: fig:8
+  name_or_label: Glaucon
+  description: The interlocutor addressed by the narrating speaker and credited with
+    preparing the two opposed figures for decision.
+  role_refs:
+  - role:11
+  evidence_refs:
+  - ev:10
+- id: fig:9
+  name_or_label: narrating speaker
+  description: The speaker who responds to Glaucon’s construction of the two figures.
+  role_refs:
+  - role:12
+  evidence_refs:
+  - ev:10
+roles:
+- id: role:1
+  label: shepherd servant
+  assigned_to:
+  - fig:1
+  basis: Gyges is said to be a shepherd in the service of the king of Lydia.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: finder and user of magic ring
+  assigned_to:
+  - fig:1
+  basis: Gyges takes the ring, tests it, and discovers its power to make him invisible
+    and visible.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: usurper
+  assigned_to:
+  - fig:1
+  basis: Gyges conspires against and kills the king, then takes the kingdom.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: king and victim
+  assigned_to:
+  - fig:2
+  basis: The king is the ruler served by Gyges and is later slain in the conspiracy.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:5
+  label: royal accomplice
+  assigned_to:
+  - fig:3
+  basis: The queen assists Gyges in the conspiracy against the king.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: corpse bearing the ring
+  assigned_to:
+  - fig:4
+  basis: The dead body inside the brazen horse wears the gold ring that Gyges takes.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: moral test subject
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: The passage imagines both just and unjust persons receiving the same power
+    in order to test how they act.
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: role:8
+  label: just sufferer under false reputation
+  assigned_to:
+  - fig:5
+  basis: The just man is to be just, seem unjust, be thought worst, and continue so
+    until death.
+  evidence_refs:
+  - ev:9
+- id: role:9
+  label: successful concealed wrongdoer
+  assigned_to:
+  - fig:6
+  basis: The unjust man is to do unjust acts while being deemed just and recovering
+    from exposure if necessary.
+  evidence_refs:
+  - ev:8
+- id: role:10
+  label: unaware witnesses
+  assigned_to:
+  - fig:7
+  basis: The assembly speaks of Gyges as absent when the ring makes him invisible.
+  evidence_refs:
+  - ev:4
+- id: role:11
+  label: argument presenter
+  assigned_to:
+  - fig:8
+  basis: The narrating speaker says Glaucon has energetically polished the two figures
+    for decision.
+  evidence_refs:
+  - ev:10
+- id: role:12
+  label: respondent
+  assigned_to:
+  - fig:9
+  basis: The narrating speaker directly responds to Glaucon’s argument.
+  evidence_refs:
+  - ev:10
+symbols:
+- id: sym:1
+  label: earth opening
+  literal_form: opening in the earth made by an earthquake
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: hollow brazen horse
+  literal_form: hollow brazen horse with doors
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: more-than-human corpse
+  literal_form: dead body of stature more than human
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: gold ring
+  literal_form: gold ring taken from the dead body’s finger
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:5
+  label: invisibility power
+  literal_form: becoming invisible when the ring’s collet is turned inward and visible
+    when turned outward
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: two magic rings
+  literal_form: two rings imagined for the just and unjust persons
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: statues
+  literal_form: two figures compared to statues polished for decision
+  associated_figures:
+  - fig:5
+  - fig:6
+  - fig:8
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+- id: sym:8
+  label: clothing of justice
+  literal_form: the just man is to be clothed in justice only and have no other covering
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Proposed test of justice and desire
+  summary: The passage asks what just and unjust people would do if both were given
+    power to act as they wished without constraint.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Gyges descends and finds the ring
+  summary: After a storm and earthquake open the earth, Gyges descends, finds a hollow
+    brazen horse and a large dead body, takes a gold ring, and returns upward.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Discovery of invisibility
+  summary: At the shepherds’ assembly, Gyges discovers that turning the ring’s collet
+    inward makes him invisible and turning it outward makes him visible again.
+  figure_refs:
+  - fig:1
+  - fig:7
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Court conspiracy and seizure of rule
+  summary: Gyges arranges to go to court, seduces the queen, conspires against the
+    king, kills him, and takes the kingdom.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Hypothetical two rings
+  summary: The argument imagines just and unjust persons each receiving such a ring
+    and predicts that both would act unjustly if safe from detection.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:6
+- id: scene:6
+  label: Isolation of perfectly unjust and perfectly just lives
+  summary: The unjust man is imagined doing wrong while seeming just, while the just
+    man is imagined being just while seeming unjust until death, so that a judgment
+    can be made about happiness.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:8
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+- id: scene:7
+  label: Response to Glaucon
+  summary: The narrating speaker tells Glaucon that the two opposed figures have been
+    polished for decision like statues.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: descent into an earth opening and return with a powerful object
+  taxonomy_refs:
+  - hero_descent
+  basis: Gyges descends into an opening made by an earthquake, encounters marvels
+    and a more-than-human corpse, takes a ring, and reascends.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage presents Gyges as a shepherd and later usurper, not explicitly
+    as a heroic initiate; the taxonomy match is functional rather than exact.
+- id: motif:2
+  label: magical invisibility enabling concealed transgression
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The ring’s power makes Gyges invisible; the argument links such undetected
+    power with theft, sexual access, killing, release of prisoners, and godlike freedom
+    among humans.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  confidence: medium
+  cautions: The passage uses the invisibility device for moral argument rather than
+    naming a trickster figure.
+- id: motif:3
+  label: taking a powerful object from the dead
+  taxonomy_refs:
+  - sacred_theft
+  basis: Gyges removes a gold ring from the finger of a more-than-human dead body
+    inside the brazen horse.
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: The object is taken from a corpse, but the passage does not explicitly
+    call the act theft or the object sacred.
+- id: motif:4
+  label: paired moral opposites tested to extremes
+  taxonomy_refs:
+  - duality
+  basis: The passage constructs an entirely just man and an entirely unjust man, places
+    them side by side, and asks for judgment about which is happier.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: This is a philosophical opposition framed as an argument rather than a
+    narrative mythic pair.
+- id: motif:5
+  label: being versus seeming in moral trial
+  taxonomy_refs:
+  - initiation
+  basis: The just man must be truly just while seeming unjust and being thought worst
+    until death, so that he is put to the proof.
+  evidence_refs:
+  - ev:9
+  confidence: medium
+  cautions: The passage explicitly describes testing, but not a formal initiation
+    rite.
+- id: motif:6
+  label: usurpation through hidden power and royal conspiracy
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: Gyges uses the ring-enabled opportunity to reach the court, seduce the queen,
+    kill the king, and take the kingdom.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage reports seizure of kingship, but it does not legitimize Gyges’
+    rule; the royal motif is about succession by conspiracy, not lawful legitimacy.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 10460-10469
+  quote_or_summary: The argument proposes granting both just and unjust persons power
+    to do what they wish and observing whether desire leads them along the same road.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:2
+  type: summary
+  locator: 10469-10475
+  quote_or_summary: Gyges, a shepherd serving the king of Lydia and ancestor of Croesus,
+    is present when a storm and earthquake make an opening in the earth where he feeds
+    his flock.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:3
+  type: summary
+  locator: 10475-10482
+  quote_or_summary: Gyges descends into the opening, sees a hollow brazen horse with
+    doors, finds a more-than-human dead body wearing only a gold ring, takes the ring,
+    and reascends.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:4
+  type: quote
+  locator: 10482-10494
+  quote_or_summary: Gyges finds that “when he turned the collet inwards he became
+    invisible, when outwards he reappeared.”
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; short quotation from provided passage.
+- id: ev:5
+  type: summary
+  locator: 10494-10498
+  quote_or_summary: Gyges arranges to be a messenger to court, seduces the queen,
+    conspires with her against the king, kills him, and takes the kingdom.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:6
+  type: summary
+  locator: 10498-10515
+  quote_or_summary: The argument imagines two such rings for the just and unjust;
+    with safe invisibility, a person could steal, enter houses, have sexual access,
+    kill or release prisoners, and be like a god among humans.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:7
+  type: summary
+  locator: 10522-10528
+  quote_or_summary: To judge the just and unjust lives, the passage says the two must
+    be isolated, each fully equipped for the work of his respective life.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:8
+  type: summary
+  locator: 10528-10538
+  quote_or_summary: The unjust man is compared to a master craftsman and must be able
+    to hide wrongdoing, seem just, speak effectively if exposed, and rely on courage,
+    strength, money, and friends.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:9
+  type: summary
+  locator: 10538-10545
+  quote_or_summary: The just man is placed beside him as noble and simple, wishing
+    to be rather than seem good, clothed in justice only, thought worst while being
+    best, and continuing so until death.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:10
+  type: quote
+  locator: 10545-10547
+  quote_or_summary: 'The speaker says to Glaucon: “how energetically you polish them
+    up for the decision, first one and then the other, as if they were two statues.”'
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; short quotation from provided passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is strong. Motif assignments are cautious because the
+    passage uses mythic narrative primarily as a philosophical thought experiment.
+    No external comparison claims were added.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the provided passage and metadata. Available taxonomy refs were applied only where the passage offered direct support or a cautious functional match.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-plato-republic-jowett-gutenberg__l10460-l10547
+  passage_sha256=b79c943271599f68bf78ef55ae0ec9608a410db9460b0643579245048ae80d46
+

@@ -1,0 +1,291 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l1971-l1994
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE SHE-GOATS AND THEIR BEARDS / THE OLD LION / THE BOY BATHING / THE QUACK
+    FROG; lines 1971-1994
+  start: '1971'
+  end: '1994'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: In one fable, a boy in deep river water asks a man to help before scolding
+    him. In another, a frog claims to be a physician able to cure all diseases, and
+    a fox challenges his claim by pointing to the frog's own lame legs and blotched,
+    wrinkled skin.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A boy is bathing in a river, gets out of his depth, and is in danger of drowning.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A man passing along a road hears the boy's cries, goes to the riverside, and
+    scolds him without helping.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The boy asks the man to help him first and scold him afterwards.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The stated moral says to give assistance rather than advice in a crisis.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: A frog comes from the marshes and proclaims that he is a learned physician
+    skilled in drugs and able to cure all diseases.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: A fox in the crowd questions how the frog can heal others when he cannot cure
+    his own lame legs and blemished, wrinkled skin.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The stated moral says, "Physician, heal thyself."
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Boy
+  description: A boy bathing in a river who gets into deep water and calls for help.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Passing man
+  description: A man passing along a road who hears the boy, goes to the river, and
+    scolds without assisting.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Frog
+  description: A frog from the marshes who claims to be a learned physician able to
+    cure all diseases, while having lame legs and blotched, wrinkled skin.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: Fox
+  description: A fox in the crowd who challenges the frog's claim to heal others.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: Crowd
+  description: The audience before whom the frog proclaims his medical skill; the
+    fox is among them.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: person in immediate danger
+  assigned_to:
+  - fig:1
+  basis: The boy is in deep river water and in danger of drowning.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: unhelpful admonisher
+  assigned_to:
+  - fig:2
+  basis: The man scolds the boy but makes no attempt to help him.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: self-proclaimed healer
+  assigned_to:
+  - fig:3
+  basis: The frog announces himself as a learned physician able to cure all diseases.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: skeptical challenger
+  assigned_to:
+  - fig:4
+  basis: The fox questions the frog's claim by referring to the frog's own visible
+    ailments.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: public audience
+  assigned_to:
+  - fig:5
+  basis: The frog proclaims his claim to all the world, with a crowd present.
+  evidence_refs:
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: river water
+  literal_form: river; deep water
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: marsh home
+  literal_form: marshes
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: lame legs and marked skin
+  literal_form: lame legs; blotched and wrinkled skin
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Boy in deep water asks for rescue before reprimand
+  summary: A boy bathing in a river is in danger of drowning. A passing man scolds
+    him rather than helping, and the boy asks to be rescued before being corrected.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:2
+  label: Frog physician challenged by fox
+  summary: A frog publicly claims medical expertise and the power to cure all diseases.
+    A fox challenges the claim by pointing to the frog's own uncured physical defects.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: practical help preferred over advice in danger
+  taxonomy_refs:
+  - wisdom
+  basis: The fable contrasts a crisis requiring rescue with a bystander's scolding,
+    and its moral explicitly prioritizes assistance over advice.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The taxonomy reference is broad; the passage gives a practical moral rather
+    than a mythic wisdom episode.
+- id: motif:2
+  label: healer unable to heal himself
+  taxonomy_refs:
+  - wisdom
+  basis: The frog claims to cure all diseases, but the fox challenges him because
+    he has not cured his own ailments; the moral states, "Physician, heal thyself."
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The taxonomy reference is broad; the motif is a moral fable pattern rather
+    than a named mythological cycle.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1971-1974
+  quote_or_summary: A boy bathing in a river gets out of his depth and is in great
+    danger of drowning.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1974-1978
+  quote_or_summary: A man hears the boy's cries, goes to the riverside, scolds him
+    for carelessness, and makes no attempt to help.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 1978-1979
+  quote_or_summary: '"please help me first and scold me afterwards."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: quote
+  locator: line 1981
+  quote_or_summary: '"Give assistance, not advice, in a crisis."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation.
+- id: ev:5
+  type: summary
+  locator: lines 1985-1988
+  quote_or_summary: A frog leaves the marshes and proclaims to the world that he is
+    a learned physician skilled in drugs and able to cure all diseases.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 1988-1992
+  quote_or_summary: A fox in the crowd asks how the frog can heal others when he cannot
+    cure his own lame legs and blotched, wrinkled skin.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: quote
+  locator: line 1994
+  quote_or_summary: '"Physician, heal thyself."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif labels are based on explicit
+    fable morals; broad taxonomy mapping to wisdom should be reviewed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the provided passage text was used; no external Aesop tradition or comparative claims were added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l1971-l1994
+  passage_sha256=8a966c7b1b5c25d6a481afed736d948c36dc58733240f31cfd3384e1cebd0ea0
+

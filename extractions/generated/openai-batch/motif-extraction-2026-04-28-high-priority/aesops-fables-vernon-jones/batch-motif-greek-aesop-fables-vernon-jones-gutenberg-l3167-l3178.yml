@@ -1,0 +1,269 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l3167-l3178
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE WOLF, THE FOX, AND THE APE / THE EAGLE AND THE COCKS / THE ESCAPED JACKDAW
+    / THE FARMER AND THE FOX; lines 3167-3178
+  start: '3167'
+  end: '3178'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: Revenge is a two-edged sword.
+  summary: A farmer, angered by a fox stealing his fowls, traps the fox, ties burning
+    tow to its tail, and releases it. The fox runs into the farmer’s ripe cornfield,
+    which catches fire and burns up, causing the farmer to lose his harvest.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A fox prowls around the farmer’s yard at night and carries off fowls.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The farmer sets a trap and catches the fox.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The farmer ties tow to the fox’s tail, sets it on fire, and releases the fox.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The fox runs into fields where ripe corn is standing ready for cutting.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The corn catches fire and burns up, and the farmer loses his harvest.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The stated moral says that revenge is two-edged.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Farmer
+  description: A farmer whose fowls are stolen by a fox and who retaliates by setting
+    fire to tow tied to the fox’s tail.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: Fox
+  description: A fox that carries off the farmer’s fowls, is trapped, and then runs
+    into the farmer’s ripe cornfield with burning tow tied to its tail.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: injured owner
+  assigned_to:
+  - fig:1
+  basis: The farmer is annoyed because the fox carries off his fowls.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: fowl thief
+  assigned_to:
+  - fig:2
+  basis: The fox comes at night and carries off the farmer’s fowls.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: avenger harmed by own revenge
+  assigned_to:
+  - fig:1
+  basis: The farmer retaliates against the fox, but the resulting fire destroys his
+    own harvest.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+- id: role:4
+  label: released captive carrying fire
+  assigned_to:
+  - fig:2
+  basis: After being trapped, the fox is released with burning tow tied to its tail.
+  evidence_refs:
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: fire
+  literal_form: burning tow tied to the fox’s tail and the fire that burns the cornfield
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:2
+  label: ripe harvest
+  literal_form: fields where the corn was standing ripe and ready for cutting
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: trap
+  literal_form: a trap set by the farmer to catch the fox
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Fox steals fowls at night
+  summary: The fox repeatedly enters the farmer’s yard at night and carries off fowls,
+    annoying the farmer.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Farmer captures and retaliates against the fox
+  summary: The farmer traps the fox, ties tow to its tail, sets the tow on fire, and
+    lets the fox go.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Fire destroys the farmer’s harvest
+  summary: The released fox runs into the ripe cornfields, which catch fire and burn
+    up, leaving the farmer without his harvest.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Moral of revenge
+  summary: The passage concludes with the moral that revenge is a two-edged sword.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: revenge harms the avenger
+  taxonomy_refs: []
+  basis: The farmer’s revenge against the fox directly leads to the destruction of
+    his own ripe harvest, and the moral explicitly frames revenge as two-edged.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: This is a passage-level fable motif label rather than one of the supplied
+    motif-family taxonomy IDs.
+- id: motif:2
+  label: released animal carrying destructive fire
+  taxonomy_refs: []
+  basis: The fox is released with burning tow tied to its tail and carries the fire
+    into the farmer’s fields, where the crop burns up.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The destruction is local to the farmer’s harvest; it should not be generalized
+    to a cosmic or world-destroying fire motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 3167-3170
+  quote_or_summary: A farmer is annoyed because a fox prowls around his yard at night
+    and carries off his fowls.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 3170-3171
+  quote_or_summary: The farmer sets a trap for the fox and catches it.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 3171-3173
+  quote_or_summary: To get revenge, the farmer ties tow to the fox’s tail, sets it
+    on fire, and lets the fox go.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 3173-3175
+  quote_or_summary: The fox runs straight to the fields where ripe corn is ready for
+    cutting.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 3175-3176
+  quote_or_summary: The cornfield catches fire, burns up, and the farmer loses all
+    his harvest.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: quote
+  locator: '3178'
+  quote_or_summary: "“Revenge is a two-edged sword.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied passage. No comparison claims are
+    made because the passage does not itself support a specific cross-textual comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  The supplied passage locator label names several adjacent fables, but the passage text provided for extraction is only “THE FARMER AND THE FOX.”
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l3167-l3178
+  passage_sha256=067316deb8e0d5bf74338bbd848f658253f681765177249a4b3019eb0a4a1937
+

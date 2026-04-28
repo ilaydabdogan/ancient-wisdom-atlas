@@ -1,0 +1,492 @@
+---
+record_id: batch.motif.greek-plato-republic-jowett-gutenberg-l6284-l6350
+source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+passage_locator:
+  label: The Republic / THE REPUBLIC / INTRODUCTION AND ANALYSIS.; lines 6284-6350
+  start: '6284'
+  end: '6350'
+  translation: The Republic
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage analyzes Plato's mythic description of the cosmic spindle,
+    the Fates, the allotment and choice of lives, the role of wisdom and free will
+    within necessity, and details of Er's afterlife journey, return to life, and report
+    of souls moving toward birth. It also notes the Janus-like dual aspect of the
+    Republic and lists topics for further consideration.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The axis is described as a spindle, and the heavenly bodies are described
+    as forming a whole connected with the image of a web or weaving of the Fates.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Lots are given, woven, and made irreversible by the three Fates named Lachesis,
+    Clotho, and Atropos.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The order of the lots indicates chance in human life, but the passage says
+    a person may overcome adverse chance through wisdom and right choice.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Odysseus is given as an example of one who chose last.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage states that freedom of the will to refuse evil and choose good
+    is distinctly asserted.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Human life is described as bounded by necessity, while an open space remains
+    in which a person is his own master.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The narrative includes a pilgrimage of a thousand years and says Ardiaeus
+    had lived a thousand years before.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Er comes to life on the twelfth day after he was supposed to have been dead.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Pilgrims pass seven days in a meadow and four days journeying to a column
+    of light.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: Some souls drink more than necessary from the waters of Forgetfulness, while
+    Er is hindered from drinking.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:11
+  text: Other souls go shooting like stars to their birth while the account feigns
+    ignorance of how Er returned to the body.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:12
+  text: 'The Republic is described as Janus-like, presenting two faces: an Hellenic
+    state and a kingdom of philosophers.'
+  category: attribute
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Lachesis
+  description: One of the three Fates associated with the giving, weaving, and making
+    irreversible of lots.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Clotho
+  description: One of the three Fates associated with the giving, weaving, and making
+    irreversible of lots.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Atropos
+  description: One of the three Fates associated with the giving, weaving, and making
+    irreversible of lots.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Odysseus
+  description: Named as the example of one who chose last and desired to rest at last.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:5
+  name_or_label: Er
+  description: The figure who comes to life on the twelfth day, is hindered from drinking,
+    and returns to the body.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Ardiaeus
+  description: A figure said to have lived a thousand years before, contributing to
+    the verisimilitude of the pilgrimage of a thousand years.
+  role_refs: []
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: souls or pilgrims
+  description: Souls who pass through the meadow and journey to the column of light;
+    some choose ill, blame others, drink from Forgetfulness, and go like stars to
+    birth.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:8
+  name_or_label: Janus
+  description: A two-faced figure used adjectivally in describing the Republic as
+    Janus-like.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: Fates who allot and fix lots
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  basis: The passage ascribes giving, weaving, and making lots irreversible to Lachesis,
+    Clotho, and Atropos.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: chooser of a life or lot
+  assigned_to:
+  - fig:4
+  - fig:7
+  basis: Odysseus is described as choosing last, and souls are described as choosing
+    well or ill.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:3
+  label: returning witness from death
+  assigned_to:
+  - fig:5
+  basis: Er is said to come to life after being supposed dead, to be hindered from
+    drinking, and to return to the body.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: afterlife pilgrims
+  assigned_to:
+  - fig:7
+  basis: The passage describes pilgrims spending days in a meadow, journeying to a
+    column of light, and then going toward birth.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: two-faced emblem
+  assigned_to:
+  - fig:8
+  basis: The Republic is described as Janus-like and as presenting two faces.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: cosmic spindle
+  literal_form: axis described as a spindle
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: web or weaving of the Fates
+  literal_form: mythological image of the web or weaving
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: lots
+  literal_form: lots given, woven, ordered, and made irreversible
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:4
+  label: walls of necessity
+  literal_form: walls of necessity enclosing an open space
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: meadow
+  literal_form: meadow where pilgrims pass seven days
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: column of light
+  literal_form: column of light reached after four days of journeying
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:7
+  label: waters of Forgetfulness
+  literal_form: waters of Forgetfulness from which some souls drink
+  associated_figures:
+  - fig:5
+  - fig:7
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:8
+  label: stars to birth
+  literal_form: souls shooting like stars to their birth
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:9
+  label: Janus-like two faces
+  literal_form: two faces of the Republic
+  associated_figures:
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Cosmic spindle and Fates' weaving
+  summary: The passage links the spindle-like axis and ordered heavenly bodies with
+    the mythological image of the Fates weaving lots and making them irreversible.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Choice of lives under chance and wisdom
+  summary: Lots introduce chance, but the passage emphasizes that even a late chooser
+    such as Odysseus may choose a good life through wisdom.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Freedom within necessity
+  summary: The passage states that virtue is free and that, although life is bounded
+    by necessity, a person retains space for choosing and acting wisely.
+  figure_refs: []
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Er's afterlife journey and return
+  summary: The account includes a thousand-year pilgrimage, days in a meadow, a journey
+    to a column of light, souls drinking from Forgetfulness, Er being prevented from
+    drinking, and souls moving like stars toward birth while Er returns to the body.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:5
+  - sym:6
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Janus-like Republic
+  summary: 'The Republic is described as presenting two faces: an Hellenic state and
+    a kingdom of philosophers.'
+  figure_refs:
+  - fig:8
+  symbol_refs:
+  - sym:9
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: afterlife journey with return to the body
+  taxonomy_refs:
+  - afterlife_journey_map
+  - return
+  basis: The passage describes a thousand-year pilgrimage, a meadow, a column of light,
+    waters of Forgetfulness, souls going to birth, and Er returning to the body after
+    apparent death.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage is Jowett's analysis of Plato's narrative rather than the
+    direct mythic narration.
+- id: motif:2
+  label: choice of fate or life-lot
+  taxonomy_refs:
+  - wisdom
+  basis: Lots determine order, but the passage emphasizes choosing wisely and names
+    Odysseus as a last chooser who can still choose well.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The available taxonomy has no specific lot-casting or fate-weaving category;
+    'wisdom' is used for the role of wise choice.
+- id: motif:3
+  label: Fates weaving destiny
+  taxonomy_refs: []
+  basis: The three Fates give, weave, and make lots irreversible, and the passage
+    links this to the mythological image of a web or weaving.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: No supplied taxonomy reference directly corresponds to fate-weaving.
+- id: motif:4
+  label: forgetfulness before rebirth
+  taxonomy_refs:
+  - death_rebirth
+  basis: Some souls drink from the waters of Forgetfulness, while souls go to birth
+    and Er is kept from drinking.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage mentions birth and return but does not fully narrate the rebirth
+    mechanism in this excerpt.
+- id: motif:5
+  label: cosmic order as spindle or weaving
+  taxonomy_refs:
+  - world_center
+  basis: The axis is described as a spindle, the heavenly bodies form a whole, and
+    the image is connected to the weaving of the Fates.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The supplied taxonomy lacks a direct cosmic-spindle category; 'world_center'
+    is a cautious approximate reference to the axis imagery.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly contrasts Odysseus's desire to rest at last with conceptions
+    of him in Dante and Tennyson.
+  claim_level: same_function
+  target: Odysseus traditions in Dante and Tennyson
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage only notes a contrast and does not quote or describe the
+    Dante or Tennyson versions in detail.
+- id: claim:2
+  claim: The passage compares the credibility-producing details in Er's narrative
+    to techniques that Defoe might have used for marvels and apparitions.
+  claim_level: same_function
+  target: Defoe-style verisimilitude for marvels and apparitions
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is a literary comparison about narrative technique, not evidence
+    of historical contact or shared mythic origin.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 6284-6291
+  quote_or_summary: The axis is described as a spindle; heavenly bodies form a whole;
+    the image is connected with the web or weaving of the Fates, and the lots are
+    given, woven, and made irreversible by Lachesis, Clotho, and Atropos.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 6291-6302
+  quote_or_summary: The order of lots indicates chance, but adverse chance may be
+    overcome by wisdom and right choice; Odysseus is cited as choosing last; habit
+    must be joined to knowledge or philosophy.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: 6304-6315
+  quote_or_summary: "“The freedom of the will to refuse the evil and to choose the
+    good is distinctly asserted.” The passage also describes an open space within
+    the walls of necessity."
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:4
+  type: summary
+  locator: 6317-6331
+  quote_or_summary: The narrative includes a thousand-year pilgrimage, Ardiaeus, Er
+    coming to life on the twelfth day, seven days in a meadow, four days to a column
+    of light, a twentieth lot, souls blaming others, waters of Forgetfulness, Er not
+    drinking, Odysseus desiring rest, Er's return to the body, and other souls shooting
+    like stars to birth.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 6331-6335
+  quote_or_summary: The passage says these narrative touches increase probability
+    and are like details Defoe might introduce to win credibility for marvels and
+    apparitions.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 6337-6350
+  quote_or_summary: 'The Republic is described as Janus-like, presenting two faces:
+    an Hellenic state and a kingdom of philosophers; the passage then lists paradoxes,
+    education, politics, comparative works, influence on imitators, and political
+    and religious ideals.'
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is analytical rather than direct mythic narration, but it contains
+    explicit references to figures, symbols, and narrative elements from the Myth
+    of Er. Taxonomy mappings are cautious where no exact supplied category exists.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata. Literal observations are separated from motif interpretation.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-plato-republic-jowett-gutenberg__l6284-l6350
+  passage_sha256=230e3ec7c18182b0d8085fdffd9b502ca5b2ed2b40da7edb00eeffaab7badc6e
+

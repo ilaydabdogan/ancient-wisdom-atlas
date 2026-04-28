@@ -1,0 +1,425 @@
+---
+record_id: batch.motif.greek-plato-republic-jowett-gutenberg-l7640-l7706
+source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+passage_locator:
+  label: The Republic / THE REPUBLIC / INTRODUCTION AND ANALYSIS.; lines 7640-7706
+  start: '7640'
+  end: '7706'
+  translation: The Republic
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage analyzes Plato’s account of higher education: after music
+    and gymnastic, mathematical sciences cultivate abstraction and prepare the mind
+    for dialectic, which is directed toward the idea of the good as perfect truth.
+    It also notes Aristotle’s criticisms and reflects on Plato’s lasting influence
+    on ideals of knowledge.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Education is described as beginning again after training in music and gymnastic
+    and after a first stage of active public life.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: True knowledge is described as concerning abstractions and universals rather
+    than particulars, individuals, poetry, or sensible beauties.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The mathematical sciences are presented as cultivating abstraction, relations,
+    and thought.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Mathematics is described as reducing a chaos of particulars to rule and order.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The dialectician is ranked above the mathematician, and the mathematician
+    above the ordinary man.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The good is described as a higher sphere of dialectic, perfect truth, and
+    a point toward which all things ascend and in which they repose.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Aristotle is said to have perceived the vacancy of Plato’s form, while Plato
+    is said not to have perceived it.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The passage states that pursuit of knowledge involves pressing forward toward
+    something beyond us.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: Plato is said to have exercised a continuing influence on the human mind.
+  category: attribute
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Plato
+  description: Philosopher whose educational and epistemological views are summarized
+    and assessed.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:6
+  - ev:9
+- id: fig:2
+  name_or_label: Aristotle
+  description: Philosopher cited as criticizing or perceiving limits in Plato’s conception
+    of the form or idea of good.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:7
+- id: fig:3
+  name_or_label: dialectician
+  description: A practitioner described as higher than the mathematician.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: mathematician
+  description: A practitioner described as above the ordinary man but below the dialectician.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: ordinary man
+  description: A comparative figure placed below the mathematician in the hierarchy
+    of knowledge.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: mankind
+  description: A collective figure said to form expectations of knowledge and to be
+    influenced by ideals of knowledge.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:8
+  - ev:9
+roles:
+- id: role:1
+  label: teacher of abstraction
+  assigned_to:
+  - fig:1
+  basis: The passage attributes to Plato the view that true knowledge concerns abstractions
+    and that education aims at cultivating abstraction.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: source of enduring intellectual influence
+  assigned_to:
+  - fig:1
+  basis: The passage states that Plato’s influence on the human mind is not exhausted.
+  evidence_refs:
+  - ev:9
+- id: role:3
+  label: critic of Plato’s form
+  assigned_to:
+  - fig:2
+  basis: Aristotle is said to have perceived the vacancy of such a form.
+  evidence_refs:
+  - ev:7
+- id: role:4
+  label: higher knower
+  assigned_to:
+  - fig:3
+  basis: The dialectician is described as above the mathematician and associated with
+    the higher sphere of dialectic.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:5
+  label: intermediate knower
+  assigned_to:
+  - fig:4
+  basis: The mathematician is placed below the dialectician but above the ordinary
+    man.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: lower comparative knower
+  assigned_to:
+  - fig:5
+  basis: The ordinary man is used as the lower term in the hierarchy of dialectician,
+    mathematician, and ordinary man.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: seeker of knowledge
+  assigned_to:
+  - fig:6
+  basis: Mankind is described as entertaining conceptions of knowledge and being drawn
+    by ideals of knowledge.
+  evidence_refs:
+  - ev:8
+  - ev:9
+symbols:
+- id: sym:1
+  label: chaos of particulars
+  literal_form: chaos of particulars reduced to rule and order
+  associated_figures: []
+  taxonomy_refs:
+  - chaos
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: ascent to perfect truth
+  literal_form: all things ascend to perfect truth and repose in it
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - ascent
+  evidence_refs:
+  - ev:6
+- id: sym:3
+  label: idea of good
+  literal_form: self-proving unity or idea of good, described as a vision and as perfect
+    truth
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - wisdom
+  evidence_refs:
+  - ev:6
+  - ev:10
+- id: sym:4
+  label: road of investigation
+  literal_form: the longer or the shorter road
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:11
+scenes:
+- id: scene:1
+  label: renewed education after civic training
+  summary: After music and gymnastic and an initial stage of public life, education
+    begins again with a higher conception of knowledge.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: mathematics orders particulars
+  summary: Mathematical study is presented as the means by which abstractions, relations,
+    and order are cultivated against the disorder of particulars.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: hierarchy from ordinary man to dialectician
+  summary: 'A hierarchy of knowing figures is described: ordinary man, mathematician,
+    and dialectician, with dialectic oriented toward the good as perfect truth.'
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: critique and afterlife of Plato’s ideal
+  summary: The passage says Aristotle perceived the emptiness of Plato’s form, but
+    also says Plato’s ideal of knowledge continued to guide thought.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:6
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:11
+candidate_motifs:
+- id: motif:1
+  label: ascent toward higher truth
+  taxonomy_refs:
+  - ascent
+  - wisdom
+  basis: The passage explicitly describes a movement toward perfect truth, with all
+    things ascending to the good and reposing there.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: This is philosophical and educational prose, not a narrative mythic ascent
+    episode.
+- id: motif:2
+  label: wisdom through disciplined training
+  taxonomy_refs:
+  - wisdom
+  basis: The passage presents higher education as cultivating abstraction through
+    mathematics and dialectic in pursuit of knowledge.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The motif is conceptual rather than attached to a mythic figure or ritual
+    scene.
+- id: motif:3
+  label: ordering chaos through knowledge
+  taxonomy_refs:
+  - chaos
+  - wisdom
+  basis: Mathematics is described as the measure by which the chaos of particulars
+    is reduced to rule and order.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The word 'chaos' is used analytically for particulars, not for a cosmogonic
+    or mythic chaos.
+- id: motif:4
+  label: renewed stage of education
+  taxonomy_refs: []
+  basis: The passage describes education resuming from a new point of view after earlier
+    training and public life.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The staged structure resembles an initiation or progression pattern only
+    generally; the passage does not present a ritual initiation.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 7640-7643
+  quote_or_summary: "“When the training in music and gymnastic is completed, there
+    follows the first stage of active and public life. But soon education is to begin
+    again from a new point of view.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source text; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 7643-7650
+  quote_or_summary: The passage states that true knowledge, for Plato, concerns abstractions
+    and universals rather than particulars, individuals, poetry, or sensible beauties,
+    and that education aims to cultivate abstraction.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source text; summarized evidence.
+- id: ev:3
+  type: quote
+  locator: lines 7650-7654
+  quote_or_summary: "“This is to be acquired through the study of the mathematical
+    sciences. They alone are capable of giving ideas of relation, and of arousing
+    the dormant energies of thought.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source text; short excerpt used for evidence.
+- id: ev:4
+  type: quote
+  locator: lines 7658-7662
+  quote_or_summary: "“the only measure by which the chaos of particulars could be
+    reduced to rule and order.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source text; short excerpt used for evidence.
+- id: ev:5
+  type: quote
+  locator: lines 7672-7675
+  quote_or_summary: "“The dialectician is as much above the mathematician as the mathematician
+    is above the ordinary man.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source text; short excerpt used for evidence.
+- id: ev:6
+  type: quote
+  locator: lines 7675-7678
+  quote_or_summary: "“the good which is the higher sphere of dialectic, is the perfect
+    truth to which all things ascend, and in which they finally repose.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source text; short excerpt used for evidence.
+- id: ev:7
+  type: summary
+  locator: lines 7680-7685
+  quote_or_summary: The self-proving unity or idea of good is called a vision without
+    distinct explanation; Aristotle is said to have perceived the vacancy of such
+    a form, unlike Plato.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source text; summarized evidence.
+- id: ev:8
+  type: quote
+  locator: lines 7690-7691
+  quote_or_summary: "“In the pursuit of knowledge we are always pressing forward to
+    something beyond us.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source text; short excerpt used for evidence.
+- id: ev:9
+  type: summary
+  locator: lines 7701-7706
+  quote_or_summary: The passage states that although Plato could not explain absolute
+    truth, his influence on the human mind remains active and may receive fresh meaning
+    in future political and social questions.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source text; summarized evidence.
+- id: ev:10
+  type: quote
+  locator: lines 7680-7681
+  quote_or_summary: "“This self-proving unity or idea of good is a mere vision of
+    which no distinct explanation can be given”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source text; short excerpt used for evidence.
+- id: ev:11
+  type: quote
+  locator: lines 7685-7688
+  quote_or_summary: "“whether he took the longer or the shorter road, no advance could
+    be made in this way.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source text; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is philosophical analysis rather than mythic narrative; motifs
+    are therefore conceptual and should be reviewed before integration with mythological
+    motif data.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata. No comparison claims were added because the passage does not itself make a comparative claim to another tradition or corpus.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-plato-republic-jowett-gutenberg__l7640-l7706
+  passage_sha256=90b6f639c5a87696e291b6511ca06c5967fd9f6eeb0be02129631436ca301046
+

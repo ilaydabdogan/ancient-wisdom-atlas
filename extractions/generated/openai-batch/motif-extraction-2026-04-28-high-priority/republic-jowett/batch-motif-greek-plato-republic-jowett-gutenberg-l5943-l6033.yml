@@ -1,0 +1,372 @@
+---
+record_id: batch.motif.greek-plato-republic-jowett-gutenberg-l5943-l6033
+source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+passage_locator:
+  label: The Republic / THE REPUBLIC / INTRODUCTION AND ANALYSIS.; lines 5943-6033
+  start: '5943'
+  end: '6033'
+  translation: The Republic
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'Jowett''s analysis summarizes Plato''s objections in Republic Book X to
+    poetry and the imitative arts: they are removed from truth, deal with appearances
+    and emotions, and are opposed to reason and abstract ideas. The passage contrasts
+    Plato with modern views of art, Aristotle''s catharsis theory, poets such as Homer
+    and Hesiod, and Scripture''s opposition between seen and unseen things.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Plato is described as introducing objections to poets and painters as imitators
+    whose creations are appearances rather than truth tested by rule and measure.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage contrasts Plato's view of art with a modern claim that art may
+    express the ideal in sensory forms.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage names the Zeus or Athene of Pheidias as works that may contain
+    more than imitation of mortal form.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Plato is said to object that imitative arts express the emotional rather than
+    rational part of human nature.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Aristotle's theory of tragedy as purgation of passions by pity and fear is
+    explicitly contrasted with Plato's view.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Plato is said to rejoice in the banishment of poets because they are concerned
+    with inferior faculties of the soul.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The passage describes an antagonism between Plato and the poets as part of
+    an old quarrel between philosophy and poetry.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: Plato is described as teaching the fallibility of sense and opinion and the
+    reality of abstract ideas.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: The passage compares Scripture's opposition of seen and unseen things with
+    Plato's opposition between particulars of sense and universals or ideas.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Plato
+  description: Philosopher whose objections to poets, painters, sense, opinion, and
+    particulars are summarized and evaluated.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: poet or painter
+  description: Imitative artist described in Plato's argument as removed from truth
+    and concerned with appearances.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Aristotle
+  description: Philosopher whose theory of tragedy as purgation by pity and fear is
+    contrasted with Plato's view.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Homer and Hesiod
+  description: Poets named as unable to provide a rule of life through legitimate
+    interpretation in Plato's view.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Socrates
+  description: Philosopher named as a standard with whom poets are not on a level
+    and as Plato's teacher.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Pheidias
+  description: Artist associated with images of Zeus or Athene.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+- id: fig:7
+  name_or_label: Zeus or Athene of Pheidias
+  description: Divine figures represented in art and used as examples in questioning
+    whether great works are merely imitation.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: philosopher
+  assigned_to:
+  - fig:1
+  - fig:5
+  basis: The passage frames Plato and Socrates in relation to philosophy, reasoning,
+    and abstraction.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: critic of imitative art
+  assigned_to:
+  - fig:1
+  basis: Plato is presented as objecting to poetry, painting, tragedy, and imitative
+    arts.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:3
+  label: imitative poet or artist
+  assigned_to:
+  - fig:2
+  - fig:4
+  basis: Poets and painters are described as imitators concerned with appearances
+    or inferior faculties.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:4
+  label: contrasting theorist of tragedy
+  assigned_to:
+  - fig:3
+  basis: Aristotle is named as holding that tragedy purges passions through pity and
+    fear, unlike Plato.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: maker of divine images
+  assigned_to:
+  - fig:6
+  basis: Pheidias is associated with images of Zeus or Athene.
+  evidence_refs:
+  - ev:1
+- id: role:6
+  label: represented divine subject
+  assigned_to:
+  - fig:7
+  basis: Zeus and Athene are named as divine figures embodied in great works of art.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: visible and unseen things
+  literal_form: seen things and unseen things
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: world of sense
+  literal_form: world of sense in which particulars appear to float
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: divine image in art
+  literal_form: Zeus or Athene of Pheidias
+  associated_figures:
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Plato's objection to imitation
+  summary: 'Plato''s Book X argument is summarized: poets and painters imitate appearances
+    and are removed from truth.'
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Debate over art and emotion
+  summary: Plato's criticism of imitative arts as emotional rather than rational is
+    contrasted with Aristotle's catharsis theory and with claims that art can console
+    or harmonize the mind.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Banishment of poets and quarrel with philosophy
+  summary: Plato is said to rejoice in banishing poets because they address inferior
+    faculties; the passage frames this as an old quarrel between poetry and philosophy.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Opposition of sense and ideas
+  summary: The passage compares Scripture's seen-unseen opposition with Plato's distinction
+    between particulars of sense and universals or ideas.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: opposition of appearance and truth
+  taxonomy_refs:
+  - duality
+  basis: The passage repeatedly opposes appearances, sense, particulars, and opinion
+    to truth, universals, reasoning, and abstract ideas.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is a philosophical pattern in an analytical passage rather than a
+    narrative mythic motif.
+- id: motif:2
+  label: wisdom through philosophical abstraction
+  taxonomy_refs:
+  - wisdom
+  basis: Plato is presented as convincing people of the fallibility of sense and opinion
+    and the reality of abstract ideas.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage discusses doctrine and interpretation, not a wisdom tale or
+    narrated quest.
+- id: motif:3
+  label: banishment of poets from the ideal order
+  taxonomy_refs: []
+  basis: The passage states that Plato rejoices in the banishment of the poets because
+    they are concerned with inferior faculties.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: No available taxonomy reference directly matches this literary-political
+    motif.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares Scripture's contrast between seen and unseen
+    things with Plato's contrast between sense particulars and universals or ideas.
+  claim_level: same_function
+  target: Scriptural opposition of seen and unseen things
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage notes functional similarity in an opposition of categories;
+    it does not claim historical contact, common inheritance, or identical doctrine.
+- id: claim:2
+  claim: The passage contrasts Plato's view of tragedy with Aristotle's theory of
+    catharsis by pity and fear.
+  claim_level: same_function
+  target: Aristotelian catharsis theory of tragedy
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is an intra-Greek philosophical comparison, not evidence of a
+    shared mythic narrative motif.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 5943-5965
+  quote_or_summary: Plato introduces objections that the poet or painter is an imitator,
+    removed from truth and producing appearances; the analysis contrasts this with
+    modern views of art and mentions Pheidias's Zeus or Athene.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 5966-5986
+  quote_or_summary: Plato objects that imitative arts express emotion rather than
+    reason; Aristotle's catharsis theory is contrasted; the analysis notes possible
+    consoling or harmonizing effects of art.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 5987-6009
+  quote_or_summary: Plato rejoices in banishing poets, associates them with inferior
+    faculties, treats Homer and Hesiod as no rule of life, and is described as opposing
+    poetry to philosophy, sense to abstract ideas.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 6010-6033
+  quote_or_summary: The passage says Scripture opposes seen to unseen things and that
+    Plato similarly opposes particulars of sense to universals and ideas; it then
+    critiques Plato's treatment of particulars and universals.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is analytical and philosophical rather than narrative mythology;
+    motif labels are therefore candidate abstractions grounded in explicit oppositions
+    in the text.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the provided passage and metadata; taxonomy references limited to supplied lists.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-plato-republic-jowett-gutenberg__l5943-l6033
+  passage_sha256=dc00dc20d9b9ca4bfa4f6bcdf094b2181dbddaa9a8c618fd97de87814010d587
+

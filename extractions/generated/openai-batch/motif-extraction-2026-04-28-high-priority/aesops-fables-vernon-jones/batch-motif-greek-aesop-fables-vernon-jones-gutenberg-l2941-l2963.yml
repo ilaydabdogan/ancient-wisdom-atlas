@@ -1,0 +1,324 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l2941-l2963
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE LION AND THE ASS / THE PROPHET / THE HOUND AND THE HARE / THE LION, THE
+    MOUSE, AND THE FOX; lines 2941-2963
+  start: '2941'
+  end: '2963'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: In one fable, a young hound catches a hare but alternates between biting
+    as if to kill and frisking as if in play; the hare asks whether he is friend or
+    enemy, and the moral condemns a friend who plays double. In another fable, a mouse
+    runs over a sleeping lion and wakes him; a fox mocks the lion as afraid of a mouse,
+    and the lion replies that he objects to the mouse's bad manners rather than fearing
+    it.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A young hound starts a hare and catches up with her.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The hound alternates between snapping at the hare as if to kill her and releasing
+    her to frisk about as if playing.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The hare asks the hound to show his true colours and contrasts the conduct
+    of a friend with that of an enemy.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The stated moral says that someone who plays double is no friend.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A lion lies asleep at the mouth of his den.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: A mouse runs over the lion's back, tickles him, and wakes him with a start.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The awakened lion looks around to see what disturbed him.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: A fox looking on makes a joke that he has seen a lion afraid of a mouse.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The lion denies being afraid of the mouse and says he cannot stand the mouse's
+    bad manners.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: young Hound
+  description: A young hound who pursues and catches a hare, then alternates between
+    biting and playful behavior.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Hare
+  description: A hare caught by the hound who verbally challenges the hound's inconsistent
+    conduct.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Lion
+  description: A lion sleeping at the mouth of his den who is awakened by a mouse
+    and replies to the fox's joke.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: Mouse
+  description: A mouse who runs over the lion's back and tickles him, waking him.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Fox
+  description: An onlooking fox who jokes at the lion's expense.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: pursuer
+  assigned_to:
+  - fig:1
+  basis: The hound starts the hare and catches up with her.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: ambiguous aggressor-playmate
+  assigned_to:
+  - fig:1
+  basis: The hound alternates between snapping as if to kill and frisking as if in
+    play.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: pursued speaker
+  assigned_to:
+  - fig:2
+  basis: The hare is caught and then questions the hound's mixed behavior.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: disturbed sleeper
+  assigned_to:
+  - fig:3
+  basis: The lion is asleep and is awakened by the mouse's movement over his back.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: powerful figure mocked
+  assigned_to:
+  - fig:3
+  basis: The fox frames the lion's startled reaction as fear of a mouse.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: small disturber
+  assigned_to:
+  - fig:4
+  basis: The mouse runs over and tickles the lion, waking him.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: mocking onlooker
+  assigned_to:
+  - fig:5
+  basis: The fox watches and makes a joke at the lion's expense.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: double conduct
+  literal_form: The hound's alternation between biting and playing with the hare.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: mouth of the den
+  literal_form: The lion lies asleep at the mouth of his den.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: small animal on powerful animal's back
+  literal_form: The mouse runs over the lion's back and tickles him awake.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Hound's double treatment of the hare
+  summary: The hound catches the hare and behaves alternately as predator and playmate;
+    the hare challenges him to reveal whether he is friend or enemy.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Mouse wakes the lion
+  summary: At the mouth of the lion's den, the mouse runs over the sleeping lion's
+    back, tickles him, and wakes him.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Fox mocks the lion's alarm
+  summary: The fox jokes that the lion was afraid of a mouse, and the lion responds
+    that he objects to the mouse's bad manners.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: ambiguous friend-or-enemy behavior
+  taxonomy_refs:
+  - duality
+  basis: The hound alternates between threatening and playful acts, and the hare frames
+    this as a contradiction between friend and enemy; the moral calls such conduct
+    playing double.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The taxonomy reference is broad; the passage presents practical moral
+    inconsistency rather than a developed cosmological dualism.
+- id: motif:2
+  label: small creature disturbs powerful animal
+  taxonomy_refs: []
+  basis: A mouse wakes a sleeping lion by running over his back, creating a scene
+    in which a small animal provokes a reaction from a powerful one.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage does not extend this into rescue, revenge, or reversal beyond
+    the disturbance and verbal exchange.
+- id: motif:3
+  label: mocking onlooker challenges dignity of the powerful
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The fox, as an observing animal, jokes that the lion is afraid of the mouse,
+    prompting the lion's defensive reply.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The fox's joke resembles trickster-like verbal boundary testing, but the
+    passage does not explicitly identify the fox as a trickster figure.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2941-2947
+  quote_or_summary: A young hound starts and catches a hare, then alternates between
+    snapping at her as if to kill and letting go to frisk as if playing.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 2947-2950
+  quote_or_summary: '"If you are my friend, why do you bite me? If you are my enemy,
+    why do you play with me?"'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: quote
+  locator: line 2952
+  quote_or_summary: '"He is no friend who plays double."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: summary
+  locator: lines 2956-2960
+  quote_or_summary: A lion is asleep at the mouth of his den when a mouse runs over
+    his back, tickles him, wakes him, and causes him to look around for the disturbance.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 2960-2963
+  quote_or_summary: A fox jokes that he has seen a lion afraid of a mouse; the lion
+    testily denies fear and says the mouse's bad manners are what he cannot stand.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward from the supplied passage. Motif labels
+    are cautious and mostly non-taxonomic; no comparison claims were added because
+    the passage itself does not establish a specific cross-textual comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage text and metadata. The locator label names additional fables, but only the two fables present in the provided passage text were extracted.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l2941-l2963
+  passage_sha256=ad80171472c5a8f8e72ed1b09b1444d1e69650f89aa6e667ae51cb56e51793e2
+

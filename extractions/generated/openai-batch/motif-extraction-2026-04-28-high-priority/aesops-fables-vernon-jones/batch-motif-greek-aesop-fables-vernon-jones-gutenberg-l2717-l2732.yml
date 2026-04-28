@@ -1,0 +1,266 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l2717-l2732
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE LIONESS AND THE VIXEN / THE VIPER AND THE FILE / THE CAT AND THE COCK
+    / THE HARE AND THE TORTOISE; lines 2717-2732
+  start: '2717'
+  end: '2732'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: Slow and steady wins the race.
+  summary: A Hare mocks a Tortoise for slowness. The Tortoise challenges him to a
+    race. A fox sets the course and judges. The Hare runs far ahead, rests, and falls
+    asleep, while the Tortoise continues steadily and reaches the goal first. The
+    Hare wakes and runs fast, but finds the Tortoise has already won.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The Hare makes fun of the Tortoise for being slow.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Tortoise proposes a race and wagers that he will win.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Hare is amused by the idea and agrees to try the race.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The fox is agreed upon to set the course and act as judge.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Both racers start together, but the Hare soon gets far ahead.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The Hare lies down to rest and falls asleep.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The Tortoise keeps plodding on and reaches the goal.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The Hare wakes and runs at his fastest, but the Tortoise has already won.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: The stated moral is that slow and steady wins the race.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Hare
+  description: A fast racer who mocks the Tortoise, runs ahead, rests, sleeps, and
+    loses the race.
+  role_refs:
+  - role:1
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Tortoise
+  description: A slow racer who challenges the Hare, continues steadily, reaches the
+    goal, and wins.
+  role_refs:
+  - role:2
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Fox
+  description: The figure appointed to set the race course and judge the race.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: Mocker
+  assigned_to:
+  - fig:1
+  basis: The Hare makes fun of the Tortoise for slowness.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: Racer
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The Hare and the Tortoise agree to run a race and start together.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: Challenger
+  assigned_to:
+  - fig:2
+  basis: The Tortoise proposes the race and wagers that he will win.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: Steady winner
+  assigned_to:
+  - fig:2
+  basis: The Tortoise keeps plodding on, reaches the goal, and is identified as the
+    winner.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: Overconfident loser
+  assigned_to:
+  - fig:1
+  basis: The Hare is far ahead, chooses to rest, falls asleep, and loses despite later
+    running fast.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:6
+  label: Course-setter and judge
+  assigned_to:
+  - fig:3
+  basis: The fox is assigned to set the course and judge the race.
+  evidence_refs:
+  - ev:2
+symbols: []
+scenes:
+- id: scene:1
+  label: Challenge to race
+  summary: The Hare mocks the Tortoise for slowness, and the Tortoise responds by
+    challenging him to a race and wagering that he will win.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Race arrangement
+  summary: The Hare agrees to the race, and the fox is appointed to set the course
+    and judge.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:3
+  label: Race and reversal
+  summary: The Hare quickly gains a lead, rests, and falls asleep; the Tortoise continues
+    steadily and reaches the goal first. The Hare wakes and runs, but the Tortoise
+    has already won.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:4
+  label: Moral statement
+  summary: The fable closes with the moral that slow and steady wins the race.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Slow steady contestant defeats faster opponent
+  taxonomy_refs:
+  - wisdom
+  basis: The slower Tortoise wins by continuing steadily while the faster Hare sleeps,
+    and the stated moral confirms the lesson.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The taxonomy reference is broad; the passage presents an explicit practical
+    moral rather than a mythic wisdom scene.
+- id: motif:2
+  label: Overconfidence causes defeat
+  taxonomy_refs:
+  - wisdom
+  basis: The Hare mocks the Tortoise, is amused by the race, becomes so far ahead
+    that he rests and sleeps, and then loses.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is an inferred fable motif from the plot sequence; it is not separately
+    named in the supplied taxonomy.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 2717-2723
+  quote_or_summary: A Hare makes fun of a Tortoise for slowness; the Tortoise says,
+    "I'll run a race with you, and I'll wager that I win," and the Hare agrees.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: 2723-2727
+  quote_or_summary: The fox is chosen to set the course and judge; when the race begins,
+    both start together, and the Hare soon gets far ahead.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 2727-2731
+  quote_or_summary: The Hare lies down and falls asleep. The Tortoise keeps moving,
+    reaches the goal, and has already won when the Hare wakes and runs.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: '2732'
+  quote_or_summary: Slow and steady wins the race.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short excerpt used.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: uncertain
+  notes: The passage is brief and explicit, with a stated moral. No comparison claims
+    were added because the supplied passage does not itself establish a cross-textual
+    comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied Hare and Tortoise passage was extracted, despite the broader passage label mentioning adjacent fables.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l2717-l2732
+  passage_sha256=38f71acc4ca82e252093da24782993f788d52545ec6cac328e1c84aad40a11e9
+

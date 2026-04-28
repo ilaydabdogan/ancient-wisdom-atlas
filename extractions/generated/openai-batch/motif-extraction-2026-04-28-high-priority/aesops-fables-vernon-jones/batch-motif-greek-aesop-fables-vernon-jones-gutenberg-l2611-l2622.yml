@@ -1,0 +1,226 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l2611-l2622
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE TWO SOLDIERS AND THE ROBBER / THE LION AND THE WILD ASS / THE MAN AND
+    THE SATYR / THE IMAGE-SELLER; lines 2611-2622
+  start: '2611'
+  end: '2622'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: "“A god for sale! a god for sale!”"
+  summary: A man makes a wooden image of Mercury and tries to sell it in the market
+    by advertising it as a god that brings luck. A bystander asks why he does not
+    keep such a profitable god for himself. The seller replies that the god brings
+    gain slowly, while he wants money immediately.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A man made a wooden image of Mercury.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The man exposed the image for sale in the market.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: No one initially offered to buy the image.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The seller tried to attract a purchaser by publicly proclaiming the image’s
+    virtues.
+  category: action
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:5
+  text: The seller advertised the image as a god who would bring luck and keep the
+    buyer lucky.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A bystander asked why the seller did not keep the god for himself if the god
+    was as beneficial as claimed.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The seller answered that the god brings gain slowly, while he wants money
+    immediately.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: image-seller
+  description: A certain man who made a wooden image of Mercury and offered it for
+    sale in the market.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: bystander
+  description: One of the bystanders who stopped the seller and questioned his claim
+    about the god.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: maker and seller of a divine image
+  assigned_to:
+  - fig:1
+  basis: The man makes a wooden image of Mercury, offers it for sale, and advertises
+    it as a luck-bringing god.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: questioner of the seller’s claim
+  assigned_to:
+  - fig:2
+  basis: The bystander asks why the seller does not keep the beneficial god himself.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: wooden image of Mercury
+  literal_form: wooden Image of Mercury
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: market sale of a god
+  literal_form: a god for sale in the market
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+scenes:
+- id: scene:1
+  label: Attempted sale in the market
+  summary: The image-seller displays a wooden image of Mercury for sale in the market,
+    but no one initially offers to buy it.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Proclamation and challenge
+  summary: The seller proclaims the image to be a luck-bringing god. A bystander questions
+    why he does not keep the god himself, and the seller says he needs immediate money
+    though the god brings gain slowly.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: divine image commodified for promised gain
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The passage centers on a wooden image of Mercury being sold as a god that
+    will bring luck and gain.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The available taxonomy reference is broad; the passage is a brief fable
+    about sale and profit rather than a ritual exchange.
+- id: motif:2
+  label: practical question exposes a self-contradictory claim
+  taxonomy_refs:
+  - wisdom
+  basis: The bystander’s question points out the inconsistency between the seller’s
+    claim that the god brings gain and his desire to sell it for immediate money.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: This is an inferred didactic pattern from the dialogue; the passage does
+    not state a separate moral in the supplied text.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2611-2622
+  quote_or_summary: A man made a wooden image of Mercury and exposed it for sale in
+    the market.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary based on supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 2611-2622
+  quote_or_summary: No one offered to buy it, so he tried to attract a purchaser by
+    proclaiming the image’s virtues.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary based on supplied passage.
+- id: ev:3
+  type: quote
+  locator: lines 2611-2622
+  quote_or_summary: "“A god for sale! a god for sale! One who'll bring you luck and
+    keep you lucky!”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 2611-2622
+  quote_or_summary: A bystander asked why the seller did not keep the god and benefit
+    from it himself if the god was as he claimed.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary based on supplied passage.
+- id: ev:5
+  type: quote
+  locator: lines 2611-2622
+  quote_or_summary: "“he brings gain, it is true, but he takes his time about it;
+    whereas I want money at once.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward from the supplied passage. Motif labels
+    are cautious because the fable is brief and the supplied taxonomy is broad. No
+    comparison claims were added because the passage itself does not explicitly support
+    comparison to another text or tradition.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage text was used; although the locator label names multiple fables, the passage text contains only “THE IMAGE-SELLER.”
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l2611-l2622
+  passage_sha256=dd88b91e93d79bc5910d0284c8285bf59a574c0e2743085749efaf33458ebd05
+

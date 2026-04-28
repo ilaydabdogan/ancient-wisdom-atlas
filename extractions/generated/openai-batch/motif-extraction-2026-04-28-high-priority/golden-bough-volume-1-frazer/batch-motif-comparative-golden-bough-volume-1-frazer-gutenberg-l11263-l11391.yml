@@ -1,0 +1,370 @@
+---
+record_id: batch.motif.comparative-golden-bough-volume-1-frazer-gutenberg-l11263-l11391
+source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+passage_locator:
+  label: CHAPTER II. THE PERILS OF THE SOUL. / HEINE. / CHAPTER III. KILLING THE GOD.
+    / FOOTNOTES; lines 11263-11391
+  start: '11263'
+  end: '11391'
+  translation: 'The Golden Bough: A Study in Comparative Religion (Vol. 1 of 2)'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage consists of footnotes citing sources for Frazer’s comparative
+    discussion. Several notes contain substantive details about royal selection by
+    bodily qualities, heirs through sisters’ sons, a Babylonian mock king who was
+    reportedly put to death after a festival involving masters serving servants, and
+    a Cambodian temporary king’s family connection with the royal house.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: One note reports that, according to Nicolaus Damascenus, the handsomest and
+    bravest man could be raised to the throne when the king had no heirs, with heirs
+    identified as the sons of the king’s sisters.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The same note says other authorities do not mention that limitation concerning
+    heirs.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The note says that among the Gordioi the fattest man was chosen king.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The note says that among the Syrakoi the tallest man, or the man with the
+    longest head, was chosen king.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: A note on a Babylonian custom identifies a mock king, called ζωγάνης in the
+    Greek discussion, and argues that he was put to death.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The Babylonian festival note says Athenaeus’ purpose was to list festivals
+    at which masters waited on their servants.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: The same note argues that the relevant Greek execution verb should be translated
+    as crucified or impaled, not hung.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The Babylonian note says the custom is not attested before Persian domination
+    in Babylon by the available authorities, while adding the author’s opinion that
+    it was probably older.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: A Cambodian note refers to the connection of the temporary king’s family with
+    the royal house.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Physically selected king or royal candidate
+  description: A man selected or eligible for kingship because he is described as
+    handsomest and bravest, fattest, tallest, or having the longest head, depending
+    on the cited people or source.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Sisters’ sons as heirs
+  description: The sons of the king’s sisters are identified in one cited account
+    as the king’s heirs.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Babylonian mock king / ζωγάνης
+  description: A mock king discussed in connection with a Babylonian festival and
+    said by Frazer to have been put to death.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Masters at festival
+  description: Masters are described as waiting on their servants during certain festivals
+    discussed by Athenaeus.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Servants at festival
+  description: Servants are described as being waited on by masters during certain
+    festivals discussed by Athenaeus.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Temporary king’s family in Cambodia
+  description: A family connected with a temporary king and also with the royal house,
+    according to the cited Cambodian sources.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: Royal candidate chosen by bodily quality
+  assigned_to:
+  - fig:1
+  basis: The passage names kings chosen by qualities such as bravery, beauty, fatness,
+    height, or head length.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: Dynastic heirs through the king’s sisters
+  assigned_to:
+  - fig:2
+  basis: The passage identifies the sons of the king’s sisters as heirs in the cited
+    account.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: Mock king put to death
+  assigned_to:
+  - fig:3
+  basis: Frazer’s note says the mock king was put to death and discusses the mode
+    of execution.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: Masters serving servants
+  assigned_to:
+  - fig:4
+  basis: The note describes festivals at which masters waited on their servants.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: Servants temporarily served by masters
+  assigned_to:
+  - fig:5
+  basis: The note describes servants being waited on by masters at the festival.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: Kin group linked to temporary kingship and royal house
+  assigned_to:
+  - fig:6
+  basis: The Cambodian note refers to the temporary king’s family and its connection
+    with the royal house.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Throne
+  literal_form: throne
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Bodily qualification for kingship
+  literal_form: handsomeness, bravery, fatness, tallness, or long head as stated selection
+    criteria
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Crucifixion or impalement as execution image
+  literal_form: crucified or impaled
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Selection of kings by physical or personal qualities
+  summary: The passage notes several reported customs in which a king or royal candidate
+    is selected by traits such as beauty, bravery, fatness, height, or head shape,
+    with one account limiting succession to cases where no sister’s sons are available
+    as heirs.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Babylonian mock king and festival inversion
+  summary: The passage discusses a Babylonian mock king connected with a festival
+    at which masters served servants, and Frazer argues that the mock king was put
+    to death, likely by crucifixion or impalement rather than hanging.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Temporary kingship linked to royal family
+  summary: The Cambodian note points to a connection between the temporary king’s
+    family and the royal house.
+  figure_refs:
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Royal selection by bodily excellence or marked bodily trait
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The passage reports kings chosen because they are handsomest and bravest,
+    fattest, tallest, or have the longest head.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage is a footnote summary and does not provide the full ethnographic
+    or historical context for each named people.
+- id: motif:2
+  label: Temporary or mock king put to death
+  taxonomy_refs:
+  - sacrifice
+  basis: The Babylonian note identifies a mock king and argues that he was put to
+    death, with the mode interpreted as crucifixion or impalement.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage presents Frazer’s argument from ancient sources and philological
+    interpretation; it is not a full primary narrative.
+- id: motif:3
+  label: Ritual inversion of masters and servants
+  taxonomy_refs: []
+  basis: The note describes festivals at which masters waited on their servants.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The inversion is mentioned in explaining Athenaeus’ purpose and is not
+    narrated in detail.
+- id: motif:4
+  label: Temporary kingship tied to royal kinship
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The Cambodian footnote refers to a temporary king’s family being connected
+    with the royal house.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: Only a brief bibliographic note is present; the nature of the connection
+    is not described in this passage.
+comparison_claims:
+- id: claim:1
+  claim: The passage juxtaposes multiple reported cases in which kingship is assigned
+    by exceptional bodily or personal traits, suggesting a recurring comparative pattern
+    of bodily qualification for royal legitimacy.
+  claim_level: same_motif
+  target: Royal selection by physical excellence or bodily distinction across the
+    Gordioi, Syrakoi, and the account cited from Nicolaus Damascenus
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage is a footnote and does not provide independent details
+    for each tradition; the comparison is limited to Frazer’s cited summaries.
+- id: claim:2
+  claim: The Babylonian mock king note combines temporary kingship, festival status
+    inversion, and death of the mock ruler, supporting a cautious comparison to a
+    sacrificial mock-king pattern.
+  claim_level: same_function
+  target: Temporary or mock king sacrificed after ritual elevation
+  evidence_refs:
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage reports Frazer’s reconstruction and source criticism rather
+    than a complete primary account.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 11316-11326 / footnote 778
+  quote_or_summary: According to Nicolaus Damascenus, the handsomest and bravest man
+    was raised to the throne only when the king had no heirs, the heirs being his
+    sisters’ sons; the note also says the Gordioi chose the fattest man as king and
+    the Syrakoi chose the tallest or longest-headed man.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; short excerpt summarized.
+- id: ev:2
+  type: summary
+  locator: lines 11351-11365 / footnote 787
+  quote_or_summary: Frazer discusses a Babylonian mock king, ζωγάνης, linked to a
+    festival where masters waited on servants, and argues that the mock king was put
+    to death.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 11365-11386 / footnote 787
+  quote_or_summary: Frazer says the custom is not attested before Persian domination
+    in Babylon by the cited authorities, and that ἐκρέμασαν should be translated “crucified”
+    or “impaled,” not “hung.”
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; short excerpt included.
+- id: ev:4
+  type: summary
+  locator: lines 11388-11391 / footnote 788
+  quote_or_summary: The Cambodian footnote cites sources for the connection of the
+    temporary king’s family with the royal house.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 11263-11391
+  quote_or_summary: Most of the passage consists of bibliographic footnotes citing
+    comparative sources for preceding discussion in Frazer’s chapters.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is primarily footnotes rather than a continuous mythic narrative.
+    Motif extraction is based on the substantive content within notes 778, 787, and
+    788; many other lines are only citations.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only details present in the supplied passage were used. No external source context was added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:comparative-golden-bough-volume-1-frazer-gutenberg__l11263-l11391
+  passage_sha256=872cb2ea18b9e27b5281821a207de12e70bb5a1672f96571ff5d7c5dfac7ea71
+

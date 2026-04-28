@@ -1,0 +1,302 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l3872-l3886
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE LABOURER AND THE SNAKE / THE CAGE-BIRD AND THE BAT / THE ASS AND HIS
+    PURCHASER / THE KID AND THE WOLF; lines 3872-3886
+  start: '3872'
+  end: '3886'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A kid strays from the flock and is pursued by a wolf. Expecting to be eaten,
+    the kid asks the wolf to play a tune so he may dance before dying. The wolf plays
+    his pipe; the sound draws the flock's guardian gods, who chase the wolf away.
+    The wolf concludes that he deserved the loss because he acted as a piper instead
+    of a butcher.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A kid strays from the flock and is chased by a wolf.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The kid says he cannot escape being eaten and asks the wolf to play a tune
+    for him to dance to before he dies.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The wolf takes out his pipe and plays while the kid dances.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The gods who guard the flock hear the sound, come to investigate, see the
+    wolf, chase him, and drive him away.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The wolf says he deserved the outcome because his trade is butcher's work
+    and he had no business becoming a piper to please the kid.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Kid
+  description: A young goat that has strayed from the flock and is pursued by the
+    wolf.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Wolf
+  description: A predator pursuing the kid; he plays a pipe at the kid's request and
+    is driven away.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: gods who guarded the flock
+  description: Guardian gods associated with the flock who hear the sound and drive
+    the wolf away.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: flock
+  description: The group from which the kid strays and which is guarded by gods.
+  role_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+roles:
+- id: role:1
+  label: strayed animal
+  assigned_to:
+  - fig:1
+  basis: The kid is described as having strayed from the flock.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: imperiled speaker
+  assigned_to:
+  - fig:1
+  basis: The kid acknowledges that he expects to be eaten and asks for music before
+    death.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: predator
+  assigned_to:
+  - fig:2
+  basis: The wolf chases the kid and expects to eat him.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: distracted performer
+  assigned_to:
+  - fig:2
+  basis: The wolf stops to play his pipe for the kid instead of immediately eating
+    him.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:5
+  label: flock guardians
+  assigned_to:
+  - fig:3
+  basis: The gods are explicitly said to guard the flock and drive the wolf away.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: pipe
+  literal_form: musical pipe played by the wolf
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:2
+  label: music and dance before death
+  literal_form: a tune played by the wolf and danced to by the kid
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: flock under divine guard
+  literal_form: the flock guarded by gods
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Straying and pursuit
+  summary: The kid separates from the flock and is chased by the wolf.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Request for music
+  summary: The kid, expecting death, asks the wolf to play a tune so he can dance
+    before being eaten.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Wolf plays, kid dances
+  summary: The wolf plays his pipe while the kid dances in front of him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Guardians drive off the wolf
+  summary: The flock's guardian gods hear the sound, see the wolf, chase him, and
+    drive him away.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Wolf's self-rebuke
+  summary: The wolf explains his failure as the result of taking on the role of piper
+    rather than remaining in his butcher's trade.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Prey delays predator through a final request
+  taxonomy_refs:
+  - wisdom
+  basis: The kid uses a request for music and dancing before death to delay the wolf,
+    which gives the guardians time to arrive and drive the wolf away.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage does not explicitly name the kid's act as wisdom or trickery;
+    the motif label is inferred from the sequence of actions.
+- id: motif:2
+  label: Predator loses prey by abandoning proper role
+  taxonomy_refs: []
+  basis: The wolf himself states that he deserved the outcome because his trade was
+    the butcher's and he had no business becoming a piper.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: This is a moralized pattern stated by the wolf, not a formal taxonomy
+    reference.
+- id: motif:3
+  label: Protective guardians respond to sound and rescue the vulnerable
+  taxonomy_refs: []
+  basis: The guardian gods of the flock hear the music, investigate, and drive away
+    the wolf threatening the kid.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage presents the guardians' intervention briefly and does not
+    elaborate a larger divine-rescue pattern.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3872-3874
+  quote_or_summary: A kid strays from the flock and is chased by a wolf.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:2
+  type: summary
+  locator: lines 3874-3878
+  quote_or_summary: The kid tells the wolf he knows he cannot escape being eaten and
+    asks for a tune to dance to before he dies.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:3
+  type: summary
+  locator: lines 3878-3880
+  quote_or_summary: The wolf agrees to music before dinner, takes out his pipe, and
+    plays while the kid dances.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:4
+  type: summary
+  locator: lines 3880-3883
+  quote_or_summary: The gods guarding the flock hear the sound, come to see what is
+    happening, see the wolf, chase him, and drive him away.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:5
+  type: quote
+  locator: lines 3883-3886
+  quote_or_summary: '"my trade is the butcher''s, and I had no business to turn piper
+    to please you."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation from public domain text.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is limited to the supplied passage. Motif labels are candidate
+    descriptions based on the local fable sequence; no external comparisons are asserted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not support a specific comparison beyond its own fable pattern.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l3872-l3886
+  passage_sha256=0e00cd5d6944fa637c40f4cc398a4666219eefdafb28057400878d32cb5a1a1b
+

@@ -1,0 +1,338 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l4353-l4370
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE LION IN LOVE / THE BEE-KEEPER / THE WOLF AND THE HORSE / THE BAT, THE
+    BRAMBLE, AND THE SEAGULL; lines 4353-4370
+  start: '4353'
+  end: '4370'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A Bat, a Bramble, and a Seagull enter a trading partnership, load different
+    goods or obligations for a voyage, lose the boat and cargo in a storm, reach land,
+    and thereafter each behaves as if trying to recover what was lost. The moral states
+    that people care more about recovering losses than acquiring what they lack.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A Bat, a Bramble, and a Seagull enter a partnership and plan a trading voyage
+    together.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Bat borrows money for the venture.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Bramble stocks clothes of various kinds.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The Seagull takes a quantity of lead.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: A great storm occurs, and the boat and cargo sink.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The three travellers reach land after the sinking.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: The Seagull repeatedly flies over the sea and dives below the surface looking
+    for the lost lead.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The Bat hides by day and comes out at night because he fears meeting creditors.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The Bramble catches at the clothes of passers-by, hoping to recognize and
+    recover lost garments.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The stated moral says people are more concerned to recover what they lose
+    than to acquire what they lack.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Bat
+  description: A participant in the trading voyage who borrows money, survives the
+    storm, and later hides by day for fear of creditors.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: Bramble
+  description: A participant in the trading voyage who stocks clothes, survives the
+    storm, and later catches at passers-by's clothes to recover the lost garments.
+  role_refs:
+  - role:1
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: fig:3
+  name_or_label: Seagull
+  description: A participant in the trading voyage who takes lead, survives the storm,
+    and later searches the sea for the lost lead.
+  role_refs:
+  - role:1
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: trading partner
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  basis: The three figures enter partnership and set out on a trading voyage together.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: shipwreck survivor
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  basis: Their boat and cargo sink in a storm, but all three travellers reach land.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: debtor avoiding creditors
+  assigned_to:
+  - fig:1
+  basis: The Bat borrowed money and later hides because he fears meeting creditors.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:4
+  label: seeker of lost garments
+  assigned_to:
+  - fig:2
+  basis: The Bramble catches at clothes of passers-by hoping to recognize and recover
+    lost garments.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: seeker of lost lead
+  assigned_to:
+  - fig:3
+  basis: The Seagull flies over the sea and dives below the surface looking for lost
+    lead.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: sea
+  literal_form: sea and its surface, where the Seagull searches after the shipwreck
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: lost cargo
+  literal_form: boat cargo lost in the storm, including clothes and lead
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: sym:3
+  label: creditors
+  literal_form: creditors whom the Bat fears meeting after borrowing money
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+scenes:
+- id: scene:1
+  label: Formation of trading partnership
+  summary: The Bat, Bramble, and Seagull agree to a trading voyage; the Bat borrows
+    money, the Bramble gathers clothes, and the Seagull takes lead.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Storm and loss of cargo
+  summary: A storm sinks the boat and cargo, while the three travellers manage to
+    reach land.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Aftermath of loss
+  summary: The Seagull searches the sea for lead, the Bat avoids creditors by hiding
+    during the day, and the Bramble catches at passers-by's clothes to recover garments.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Moral statement
+  summary: The fable concludes that people care more about recovering losses than
+    gaining what they lack.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: actions explained by a past loss
+  taxonomy_refs: []
+  basis: The present behaviors of the Seagull, Bat, and Bramble are each explained
+    as consequences of goods, money, or cargo lost during the trading voyage.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is a passage-level narrative pattern rather than a supplied taxonomy
+    family.
+- id: motif:2
+  label: greater concern for recovering losses than gaining new goods
+  taxonomy_refs:
+  - wisdom
+  basis: The explicit moral generalizes the narrative into a statement about human
+    concern for recovering what has been lost.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The taxonomy reference to wisdom is broad; the passage is an animal fable
+    moral rather than an explicit wisdom-text discourse.
+- id: motif:3
+  label: shipwreck causing lasting consequences
+  taxonomy_refs: []
+  basis: A storm sinks the boat and cargo, and the later habits of all three travellers
+    arise from that loss.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage presents a comic etiological explanation, not a sacred voyage
+    or afterlife-journey motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 4353-4358
+  quote_or_summary: The Bat, Bramble, and Seagull enter partnership for a trading
+    voyage; the Bat borrows money, the Bramble stocks clothes, and the Seagull takes
+    lead.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 4359-4361
+  quote_or_summary: A great storm sinks the boat and cargo, but the three travellers
+    reach land.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 4362-4364
+  quote_or_summary: The Seagull flies over the sea and sometimes dives below the surface
+    looking for the lost lead.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 4364-4366
+  quote_or_summary: The Bat fears meeting creditors, hides during the day, and comes
+    out at night to feed.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 4366-4368
+  quote_or_summary: The Bramble catches hold of the clothes of passers-by, hoping
+    to recognize and recover the lost garments.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: quote
+  locator: 4369-4370
+  quote_or_summary: "“All men are more concerned to recover what they lose than to
+    acquire what they lack.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The narrative sequence and moral are explicit. Motif labels are provisional
+    because the available taxonomy has no close shipwreck/loss-recovery family; no
+    comparison claims are made from the passage alone.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata; no external Aesop tradition or motif index references added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l4353-l4370
+  passage_sha256=b30cf49d62ad1757aef9317921475ae15fc8b189b4996751fd170703d8040f0e
+

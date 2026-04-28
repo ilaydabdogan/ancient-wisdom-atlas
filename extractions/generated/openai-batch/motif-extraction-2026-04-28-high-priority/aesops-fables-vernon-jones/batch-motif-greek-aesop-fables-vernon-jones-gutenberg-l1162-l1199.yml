@@ -1,0 +1,429 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l1162-l1199
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE SPENDTHRIFT AND THE SWALLOW / THE OLD WOMAN AND THE DOCTOR / THE MOON
+    AND HER MOTHER / MERCURY AND THE WOODMAN; lines 1162-1199
+  start: '1162'
+  end: '1199'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: In one fable, the Moon asks her Mother for a gown, but the Mother says
+    no gown can fit because the Moon changes shape. In another, an honest woodman
+    loses his axe in a river; Mercury retrieves golden, silver, and original axes,
+    and rewards the woodman's honesty. A second man imitates the event dishonestly
+    and loses both the golden axe and his own axe. The stated moral is that honesty
+    is the best policy.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Moon asks her Mother to make her a gown.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Mother says she cannot fit the Moon because the Moon is sometimes new,
+    sometimes full, and sometimes neither.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A Woodman felling a tree on a riverbank loses his axe when it flies from his
+    hands into the water.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Mercury appears, asks why the Woodman is grieving, and dives into the river
+    after learning what happened.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Mercury brings up a golden axe, then a silver axe, and then the missing axe.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The Woodman says the golden and silver axes are not his and rejoices when
+    his own axe is recovered.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Mercury gives the Woodman the other two axes because he is pleased with the
+    Woodman's honesty.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: A companion envies the Woodman's good fortune and deliberately drops his own
+    axe into the river.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: When Mercury brings up a golden axe, the companion immediately claims it as
+    his own.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: Mercury refuses to give the companion the golden axe and also refuses to recover
+    the axe he dropped.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: The fable ends with the moral that honesty is the best policy.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: The Moon
+  description: A personified Moon who asks her Mother to make her a gown and whose
+    figure changes from new to full and intermediate forms.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: The Moon's Mother
+  description: The Moon's Mother replies that she cannot make a fitting gown for the
+    changing Moon.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Woodman
+  description: A woodman who loses his axe in the river, truthfully rejects the golden
+    and silver axes, and recovers his own axe.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Mercury
+  description: Mercury appears at the river, retrieves axes from the water, rewards
+    the honest Woodman, and withholds reward from the dishonest companion.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: Envious companion
+  description: One of the Woodman's companions, who imitates the lost-axe incident
+    and falsely claims a golden axe.
+  role_refs:
+  - role:7
+  - role:8
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: supplicant requesting a garment
+  assigned_to:
+  - fig:1
+  basis: The Moon begs her Mother to make her a gown.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: parental respondent
+  assigned_to:
+  - fig:2
+  basis: The Mother answers the Moon's request and explains why she cannot make the
+    gown.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: worker who loses a tool
+  assigned_to:
+  - fig:3
+  basis: The Woodman loses his axe while felling a tree by the river.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: honest claimant
+  assigned_to:
+  - fig:3
+  basis: The Woodman refuses to claim the golden and silver axes as his own.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: divine helper
+  assigned_to:
+  - fig:4
+  basis: Mercury pities the Woodman's distress and retrieves axes from the river.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: judge of honesty and dishonesty
+  assigned_to:
+  - fig:4
+  basis: Mercury rewards the truthful Woodman and refuses reward or recovery to the
+    dishonest companion.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:7
+  label: envious imitator
+  assigned_to:
+  - fig:5
+  basis: The companion envies the Woodman's good fortune and tries the same situation
+    for himself.
+  evidence_refs:
+  - ev:5
+- id: role:8
+  label: dishonest claimant
+  assigned_to:
+  - fig:5
+  basis: The companion falsely claims the golden axe as his own.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: changing moon
+  literal_form: Moon changing between new, full, and intermediate forms
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: gown that cannot be fitted
+  literal_form: gown requested by the Moon
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: river water
+  literal_form: river water into which axes fall and into which Mercury dives
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: sym:4
+  label: tree on riverbank
+  literal_form: tree being felled at the bank or edge of the river
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:5
+  label: three axes
+  literal_form: golden axe, silver axe, and the lost ordinary axe
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+scenes:
+- id: scene:1
+  label: The Moon asks for a gown
+  summary: The Moon asks her Mother for a gown, and the Mother refuses on the grounds
+    that the Moon's figure continually changes.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: The honest Woodman loses and recovers his axe
+  summary: A Woodman loses his axe in the river; Mercury retrieves a golden axe, a
+    silver axe, and the real axe, and the Woodman truthfully identifies only his own.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Mercury rewards honesty
+  summary: Mercury is pleased by the Woodman's honesty and gives him the golden and
+    silver axes as gifts in addition to his recovered axe.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: The envious companion fails
+  summary: A companion deliberately drops his axe and falsely claims the golden axe;
+    Mercury refuses him both the golden axe and the recovery of his own axe.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: changing celestial body cannot be clothed
+  taxonomy_refs: []
+  basis: The Moon's changing form prevents the Mother from making a gown that will
+    fit.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is a literal fable explanation of lunar phases; no broader taxonomy
+    ref is directly supplied beyond the passage.
+- id: motif:2
+  label: divine test through a lost object
+  taxonomy_refs:
+  - divine_judgment
+  basis: Mercury presents valuable axes before the recovered axe, and the outcomes
+    depend on the human claimant's truthfulness.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage does not explicitly call the first retrieval a test, but Mercury's
+    later reward and punishment show judgment based on honesty.
+- id: motif:3
+  label: honesty rewarded and dishonesty punished
+  taxonomy_refs:
+  - wisdom
+  - divine_judgment
+  basis: The honest Woodman receives extra axes, while the dishonest companion receives
+    neither the golden axe nor his own lost axe; the moral states that honesty is
+    best.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The wisdom taxonomy ref is used for the explicit moral lesson rather than
+    for a named mythic wisdom figure.
+- id: motif:4
+  label: envious imitation produces loss
+  taxonomy_refs:
+  - wisdom
+  basis: The companion envies the Woodman's good fortune, imitates the circumstances,
+    lies, and loses his own axe.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: This is a fable pattern within the passage; no external comparison is
+    asserted.
+comparison_claims:
+- id: claim:1
+  claim: 'The two woodman episodes form an internal paired pattern: similar loss-and-retrieval
+    situations lead to opposite outcomes because one claimant is honest and the other
+    is dishonest.'
+  claim_level: same_function
+  target: paired lost-axe episodes within 'Mercury and the Woodman'
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is an internal structural comparison only, not evidence for historical
+    contact or common inheritance.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1162-1167
+  quote_or_summary: The Moon begs her Mother to make a gown; the Mother answers that
+    no gown can fit because the Moon is new, full, or intermediate at different times.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1168-1172
+  quote_or_summary: A Woodman fells a tree on a riverbank; his axe flies from his
+    hands and falls into the water, and he grieves by the water's edge.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 1172-1181
+  quote_or_summary: Mercury appears, learns the cause of grief, dives into the river,
+    and brings up a golden axe, a silver axe, and then the missing axe; the Woodman
+    says the first two are not his.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 1181-1185
+  quote_or_summary: The Woodman rejoices at recovering his property and thanks Mercury;
+    Mercury is pleased with his honesty and gives him the other two axes.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 1185-1198
+  quote_or_summary: An envious companion deliberately drops his axe in the river,
+    claims the golden axe Mercury retrieves, and Mercury refuses to give him the golden
+    axe or recover his own.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: quote
+  locator: line 1199
+  quote_or_summary: '"Honesty is the best policy."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: Extraction is based only on the supplied passage. Line subranges are approximate
+    within the provided stable range.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No external Aesop index, mythological taxonomy, or comparative tradition was used beyond the supplied metadata and passage.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l1162-l1199
+  passage_sha256=627a6d07ebb857517f4ffa4c4362c95130451313f84a5328399bfa4e442a5324
+

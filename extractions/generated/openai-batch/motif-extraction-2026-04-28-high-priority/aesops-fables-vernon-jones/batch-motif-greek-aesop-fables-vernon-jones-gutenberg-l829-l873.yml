@@ -1,0 +1,279 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l829-l873
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE FOX WITHOUT A TAIL / THE FOX AND THE LION / THE DOG AND THE SHADOW /
+    THE BEAR AND THE FOX; lines 829-873
+  start: '829'
+  end: '873'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is a sequence of fable titles and a section heading, including
+    animal-pair titles and titles involving animals with objects, plants, natural
+    forces, a body part, or a shadow. The final titles in the range are The Fox without
+    a Tail, The Fox and the Lion, The Dog and the Shadow, and The Bear and the Fox.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage consists of fable titles rather than narrative prose.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The sequence includes the section heading “In Black and White.”
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Multiple titles pair two named animals, including gnat and lion, fox and crow,
+    cat and birds, fox and stork, gnat and bull, flea and man, owl and birds, fox
+    and lion, and bear and fox.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Some titles pair animals with objects, plants, natural forces, a body part,
+    or an immaterial counterpart, such as grapes, pitcher, North Wind and Sun, oak
+    and reeds, lion’s skin, tail, and shadow.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: One title describes a fox as being without a tail.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: One title pairs a dog with a shadow.
+  category: relationship
+  evidence_refs:
+  - ev:2
+figures:
+- id: fig:1
+  name_or_label: Fox
+  description: Animal named in several titles, including titles with grapes, crow,
+    stork, tail, lion, and bear.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Lion
+  description: Animal named in titles with the gnat, the ass’s disguise, and the fox.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Dog
+  description: Animal named in titles with the manger and the shadow.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: Bear
+  description: Animal named in the title The Bear and the Fox.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Crow
+  description: Bird named in titles with the fox and with the pitcher.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:6
+  name_or_label: Birds
+  description: Collective animal figure named in titles with the cat and the owl.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:7
+  name_or_label: North Wind
+  description: Natural force named in the title The North Wind and the Sun.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:8
+  name_or_label: Sun
+  description: Celestial or natural figure named in the title The North Wind and the
+    Sun.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: named title animal
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  basis: These figures are animals named in fable titles in the passage.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: named title natural force or celestial figure
+  assigned_to:
+  - fig:7
+  - fig:8
+  basis: The North Wind and the Sun are named together in a fable title.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: tail
+  literal_form: tail
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: shadow
+  literal_form: shadow
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: lion’s skin
+  literal_form: lion’s skin
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: oak
+  literal_form: oak
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+- id: sym:5
+  label: grapes
+  literal_form: grapes
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:6
+  label: pitcher
+  literal_form: pitcher
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Sequence of fable titles
+  summary: The passage presents a list of fable titles, many of which name paired
+    animals or animals in relation to objects, plants, natural forces, or shadows.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: animal pair encounter title
+  taxonomy_refs: []
+  basis: Several titles are structured as pairings between two animals, such as fox
+    and lion, bear and fox, gnat and lion, and fox and crow.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: Only titles are provided, so the actual narrative interaction and moral
+    function are not visible in this passage.
+- id: motif:2
+  label: animal lacking a body part
+  taxonomy_refs: []
+  basis: The title The Fox without a Tail describes the fox by the absence of its
+    tail.
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: The title indicates the condition but does not provide the narrative cause
+    or significance.
+- id: motif:3
+  label: animal and shadow counterpart
+  taxonomy_refs: []
+  basis: The title The Dog and the Shadow pairs a dog with a shadow.
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: The passage gives only the title; no action or symbolic function of the
+    shadow is included.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 829-873
+  quote_or_summary: The passage lists fable titles from The Gnat and the Lion through
+    The Bear and the Fox, with a section heading In Black and White and many animal-pair
+    or animal-object titles.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: 829-873
+  quote_or_summary: "“THE FOX WITHOUT A TAIL ... THE FOX AND THE LION ... THE DOG
+    AND THE SHADOW ... THE BEAR AND THE FOX”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short excerpt quoted.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: The provided passage contains only titles, not the fable narratives. Extraction
+    is therefore limited to title-level figures, objects, pairings, and tentative
+    motif candidates.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were made because the passage itself does not support historical, functional, or cross-traditional comparison beyond title-level patterning.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l829-l873
+  passage_sha256=1900d196507d60b2aab7dded20a2f7b2ad4f41b83dcc5cb1b90f045a935e0995
+

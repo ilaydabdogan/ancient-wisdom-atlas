@@ -1,0 +1,260 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l1609-l1619
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE SLAVE AND THE LION / THE FLEA AND THE MAN / THE BEE AND JUPITER / THE
+    OAK AND THE REEDS; lines 1609-1619
+  start: '1609'
+  end: '1619'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: An oak growing by a river is uprooted by a severe wind and thrown into
+    the stream. It asks nearby reeds how they survived despite being frail. The reeds
+    answer that the oak resisted the storm, while they survive by bowing and yielding
+    to each breeze.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: An oak grew on the bank of a river.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A severe gale uprooted the oak and threw it across the stream.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The oak fell among reeds growing by the water.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The oak asked the reeds how they had survived the storm despite being frail
+    and slender.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The reeds replied that the oak was stubborn and fought the storm, while they
+    bow and yield to every breeze.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The reeds say that yielding allowed the gale to pass harmlessly over their
+    heads.
+  category: sequence
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Oak
+  description: A strong oak tree growing on a riverbank, uprooted by a severe gale
+    and thrown into the river.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Reeds
+  description: Frail and slender reeds growing by the water that survive the storm
+    by bowing and yielding.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Severe gale of wind
+  description: The storm-force wind that uproots the oak and passes over the reeds.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+roles:
+- id: role:1
+  label: resisting uprooted figure
+  assigned_to:
+  - fig:1
+  basis: The oak is described as strong but stubborn, fighting the storm and being
+    torn up by the roots.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: yielding survivor figure
+  assigned_to:
+  - fig:2
+  basis: The reeds survive because they bow and yield to every breeze.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: overpowering natural force
+  assigned_to:
+  - fig:3
+  basis: The gale is stronger than the oak and uproots it, but passes harmlessly over
+    the yielding reeds.
+  evidence_refs:
+  - ev:1
+  - ev:3
+symbols:
+- id: sym:1
+  label: oak tree
+  literal_form: Oak
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: reeds
+  literal_form: Reeds growing by the water
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: river water
+  literal_form: River, stream, and water beside which the plants grow
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: storm wind
+  literal_form: Severe gale of wind and storm
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+scenes:
+- id: scene:1
+  label: Oak uprooted by storm
+  summary: A severe gale uproots an oak on a riverbank and throws it across the stream
+    among reeds.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Oak questions the reeds
+  summary: The uprooted oak asks how the frail reeds survived the storm when it was
+    torn up and hurled into the river.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Reeds explain survival through yielding
+  summary: The reeds answer that the oak resisted the stronger storm, whereas they
+    bow and yield so the gale passes over them harmlessly.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: survival through yielding rather than resistance
+  taxonomy_refs:
+  - wisdom
+  basis: The reeds explicitly contrast the oak's stubborn resistance with their own
+    practice of bowing and yielding, which allows them to survive the gale.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The supplied taxonomy has no exact motif for flexibility versus rigidity;
+    the “wisdom” family is used only as a broad practical-wisdom classification.
+- id: motif:2
+  label: strong figure defeated, frail figures endure
+  taxonomy_refs: []
+  basis: The strong oak is uprooted, while the frail and slender reeds weather the
+    same storm.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is a passage-level pattern label, not a supplied taxonomy reference.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1609-1613
+  quote_or_summary: An oak on a riverbank is uprooted by a severe gale, thrown across
+    the stream, and falls among reeds growing by the water.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1613-1616
+  quote_or_summary: The oak asks the reeds how they, being frail and slender, managed
+    to weather the storm while it was torn up by the roots and hurled into the river.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 1616-1619
+  quote_or_summary: The reeds reply that the oak was stubborn and fought the stronger
+    storm, but they bow and yield to every breeze, so the gale passed harmlessly over
+    them.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif classification is cautious because
+    the available taxonomy includes only broad families, and the passage itself does
+    not make an external comparative claim.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage text was used; although the locator label lists several fables, the passage text provided is “THE OAK AND THE REEDS.”
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l1609-l1619
+  passage_sha256=c82c3c65de0371ba216cb3e1408a03b56e345030e874ceafeadba0fd53b1f5c1
+

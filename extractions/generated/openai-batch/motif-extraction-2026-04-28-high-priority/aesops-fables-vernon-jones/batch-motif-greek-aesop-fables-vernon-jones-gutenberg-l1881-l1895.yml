@@ -1,0 +1,268 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l1881-l1895
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE THIEVES AND THE COCK / THE FARMER AND FORTUNE / JUPITER AND THE MONKEY
+    / FATHER AND SONS; lines 1881-1895
+  start: '1881'
+  end: '1895'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: Union is strength.
+  summary: A father whose sons quarrel uses a bundle of sticks to show that united
+    things resist breaking, while separated sticks are easily broken. He tells his
+    sons that unity will make them stronger than their enemies, while division will
+    leave them vulnerable.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A man has several sons who are always quarrelling with one another.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The man cannot persuade the sons to live together in harmony by ordinary efforts.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The man asks the sons to fetch a bundle of sticks.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Each son tries to break the bundle across his knee, and all fail.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The man undoes the bundle and gives the sons the sticks one by one.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The sons can break the separated sticks without difficulty.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The man tells the sons that united they will be stronger than their enemies,
+    but divided they will be weak and vulnerable to attack.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The passage ends with the moral that union is strength.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: certain man / father
+  description: A man with several sons who tries to stop their quarrelling and teaches
+    them by means of sticks.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: several sons
+  description: The man’s sons, who quarrel with one another and participate in the
+    stick-breaking demonstration.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: enemies / attackers
+  description: Potential enemies mentioned in the father’s warning about what may
+    happen if the sons separate.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: instructor through demonstration
+  assigned_to:
+  - fig:1
+  basis: The father arranges the bundle-of-sticks test and explains its lesson to
+    the sons.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:2
+  label: quarrelling learners
+  assigned_to:
+  - fig:2
+  basis: The sons quarrel, fail to break the bundled sticks, and easily break the
+    separate sticks.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:3
+  label: hypothetical adversaries
+  assigned_to:
+  - fig:3
+  basis: The father speaks of enemies or attackers who could overcome the sons if
+    they are divided.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: bundle of sticks
+  literal_form: A bundle of sticks that the sons cannot break when kept together.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: separated sticks
+  literal_form: Individual sticks from the undone bundle, easily broken one by one.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Quarrelling sons
+  summary: The father has several sons who continually quarrel, and he cannot make
+    them live in harmony.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Bundle test
+  summary: The father asks for a bundle of sticks and has each son try to break it;
+    all fail.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Separated sticks test
+  summary: The father separates the bundle and gives the sticks individually to the
+    sons, who can break them easily.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Lesson on unity
+  summary: The father explains that unity will make the sons stronger than enemies,
+    while separation will make them vulnerable; the moral states that union is strength.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Unity taught by the unbreakable bundle
+  taxonomy_refs:
+  - wisdom
+  basis: The passage uses a practical demonstration with bundled and separated sticks
+    to teach the moral that union gives strength.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The taxonomy reference is broad; the passage is a moral fable rather than
+    an explicitly sacred or mythic episode.
+- id: motif:2
+  label: Division brings vulnerability to enemies
+  taxonomy_refs:
+  - wisdom
+  basis: The father warns that if the sons quarrel and separate, their weakness will
+    put them at the mercy of attackers.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: This is stated as a practical moral lesson within the fable.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1881-1885
+  quote_or_summary: A man has several sons who continually quarrel, and he cannot
+    get them to live together harmoniously.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 1885-1888
+  quote_or_summary: The father has the sons fetch a bundle of sticks and invites each
+    to break it across his knee; all try and fail.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 1888-1889
+  quote_or_summary: The father undoes the bundle and hands the sticks to the sons
+    one by one; they break them without difficulty.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: quote
+  locator: lines 1889-1894
+  quote_or_summary: "“united you will be more than a match for your enemies: but if
+    you quarrel and separate, your weakness will put you at the mercy of those who
+    attack you.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:5
+  type: quote
+  locator: line 1895
+  quote_or_summary: "“Union is strength.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short excerpt used.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: uncertain
+  notes: Extraction is based directly on the supplied passage. No comparison claims
+    are made because the passage itself does not compare the fable to another text
+    or tradition.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied Father and Sons passage was used, despite the broader locator label listing adjacent fables.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l1881-l1895
+  passage_sha256=622baedf40b3f301672e823670d5157707ea7d584e0ced063bee215af732a003
+

@@ -1,0 +1,215 @@
+---
+record_id: batch.motif.comparative-golden-bough-volume-1-frazer-gutenberg-l12413-l12626
+source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+passage_locator:
+  label: CHAPTER II. THE PERILS OF THE SOUL. / HEINE. / CHAPTER III. KILLING THE GOD.
+    / FOOTNOTES; lines 12413-12626
+  start: '12413'
+  end: '12626'
+  translation: 'The Golden Bough: A Study in Comparative Religion (Vol. 1 of 2)'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: at the initiation into the Eleusinian mysteries ... the central mystery revealed
+    to the initiated was a reaped ear of corn
+  summary: The passage is a series of footnotes. It cites sources on Demeter as a
+    corn-goddess and Proserpine in the same character, and notes Hippolytus's statement
+    that the central revelation in Eleusinian initiation was a reaped ear of corn.
+    The remaining notes largely provide bibliographic references to ancient and modern
+    sources concerning Greek deities, corn customs, and related folklore discussed
+    elsewhere in the work.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Demeter is described as a corn-goddess in the bibliographic note.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Proserpine is described as having the same corn-goddess character in cited
+    sources.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Eleusinian mysteries are identified as rites of Demeter.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: At initiation into the Eleusinian mysteries, the central mystery revealed
+    to the initiated is stated to have been a reaped ear of corn.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage cites ancient sources for Demeter and Proserpine narratives, including
+    the Homeric Hymn to Demeter, Apollodorus, and Ovid.
+  category: other
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Demeter
+  description: Named as a corn-goddess and associated with the Eleusinian mysteries,
+    which are called rites of Demeter.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Proserpine
+  description: Named as sharing the same corn-goddess character in cited sources.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: the initiated
+  description: People initiated into the Eleusinian mysteries who receive the central
+    revelation.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: corn-goddess
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The note explicitly refers to Demeter as a corn-goddess and Proserpine in
+    the same character.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: initiated recipients of revelation
+  assigned_to:
+  - fig:3
+  basis: The passage states that a central mystery was revealed to the initiated at
+    Eleusinian initiation.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: deity of associated rites
+  assigned_to:
+  - fig:1
+  basis: The Eleusinian mysteries are parenthetically described as rites of Demeter.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: reaped ear of corn
+  literal_form: a reaped ear of corn
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: corn
+  literal_form: corn as the defining attribute in 'corn-goddess'
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+scenes:
+- id: scene:1
+  label: Eleusinian initiation revelation
+  summary: During initiation into the Eleusinian mysteries, a reaped ear of corn is
+    stated to be revealed to the initiated as the central mystery.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: initiation with revealed sacred object
+  taxonomy_refs:
+  - initiation
+  basis: The passage explicitly describes initiation into the Eleusinian mysteries
+    and the revelation of a reaped ear of corn to initiates.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage is a footnote and does not narrate the rite in detail.
+- id: motif:2
+  label: grain deity or corn-goddess identity
+  taxonomy_refs: []
+  basis: The passage explicitly treats Demeter and Proserpine as corn-goddess figures.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: No specific taxonomy reference for grain or corn deity is supplied in
+    the available taxonomy list.
+comparison_claims:
+- id: claim:1
+  claim: The passage presents Demeter and Proserpine as sharing the same corn-goddess
+    function.
+  claim_level: same_function
+  target: Demeter and Proserpine as corn-goddess figures
+  evidence_refs:
+  - ev:1
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim is based on a bibliographic footnote rather than a full narrative
+    comparison.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 12413-12422; footnote 1089
+  quote_or_summary: '"On Demeter as a corn-goddess see Mannhardt..."'
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: quote
+  locator: lines 12414-12418; footnote 1089
+  quote_or_summary: '"on Proserpine in the same character see..."'
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: quote
+  locator: lines 12419-12425; footnote 1089
+  quote_or_summary: '"at the initiation into the Eleusinian mysteries ... the central
+    mystery revealed to the initiated was a reaped ear of corn"'
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:4
+  type: summary
+  locator: lines 12431-12433; footnote 1091
+  quote_or_summary: The note cites the Homeric Hymn to Demeter, Apollodorus, and Ovid's
+    Fasti and Metamorphoses for the Demeter-related narrative material.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The most concrete extractable data come from footnote 1089. Much of the passage
+    is bibliographic and lacks narrative detail, so motif extraction is limited.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No taxonomy symbol was assigned to corn because the provided symbol list includes only cave, fire, milk, mountain, serpent, tree, and water.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:comparative-golden-bough-volume-1-frazer-gutenberg__l12413-l12626
+  passage_sha256=1f56224555ad69e7355021e8f91b4fe1145eb249f3eee38a764e7ca6d6bfa41c
+

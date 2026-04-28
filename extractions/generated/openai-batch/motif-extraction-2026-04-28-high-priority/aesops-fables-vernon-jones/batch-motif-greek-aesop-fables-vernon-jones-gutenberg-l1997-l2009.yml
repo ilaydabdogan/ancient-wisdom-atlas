@@ -1,0 +1,267 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l1997-l2009
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE OLD LION / THE BOY BATHING / THE QUACK FROG / THE SWOLLEN FOX; lines
+    1997-2009
+  start: '1997'
+  end: '2009'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: '"stay where you are till you shrink to your former size"'
+  summary: A hungry fox finds bread and meat hidden in a hollow tree, enters through
+    a narrow opening, eats all of it, becomes too swollen to leave, and is advised
+    by another fox to wait until he returns to his former size.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A hungry fox finds bread and meat in a hollow tree.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The bread and meat had been placed there by shepherds for their return.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The fox enters through a narrow aperture and eats all the food.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: After eating, the fox is too swollen to squeeze back through the hole.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The trapped fox whines and groans about his misfortune.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Another fox passes by, asks what is wrong, learns the situation, and advises
+    him to wait until he shrinks back to his former size.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: hungry Fox
+  description: A hungry fox who finds hidden food, enters the hollow tree, eats it,
+    and becomes unable to leave.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: another Fox
+  description: A passing fox who asks about the trapped fox's problem and gives advice.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: shepherds
+  description: People who had placed bread and meat in the hollow tree for their return.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: hungry finder and eater
+  assigned_to:
+  - fig:1
+  basis: The fox is hungry, finds bread and meat, enters, and devours it all.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: trapped figure
+  assigned_to:
+  - fig:1
+  basis: After eating, the fox is too swollen to get back out through the hole.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: passing adviser
+  assigned_to:
+  - fig:2
+  basis: The second fox passes by, asks what is wrong, and tells the trapped fox to
+    wait until he shrinks.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: absent food placers
+  assigned_to:
+  - fig:3
+  basis: The shepherds had placed the bread and meat in the tree for their return.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: hollow tree
+  literal_form: hollow tree containing bread and meat
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: bread and meat
+  literal_form: food hidden in the hollow tree
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: narrow aperture or hole
+  literal_form: narrow opening through which the fox enters but cannot later leave
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: swollen body
+  literal_form: fox's body enlarged after the meal
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Discovery of hidden food
+  summary: A hungry fox finds bread and meat stored in a hollow tree by shepherds.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Eating and entrapment
+  summary: The fox enters through a narrow opening, eats all the food, and then cannot
+    exit because he is swollen.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Advice from another fox
+  summary: A second fox hears the trapped fox's problem and tells him to remain there
+    until he shrinks to his former size.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: overeating leads to entrapment
+  taxonomy_refs: []
+  basis: The hungry fox eats all the hidden food and becomes too swollen to leave
+    through the hole.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The label summarizes the literal fable pattern; no supplied taxonomy family
+    directly names this motif.
+- id: motif:2
+  label: advice to wait until bodily change reverses
+  taxonomy_refs:
+  - wisdom
+  basis: The passing fox advises the trapped fox that he can get out once he shrinks
+    to his former size.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The 'wisdom' taxonomy reference is broad; the passage presents practical
+    advice rather than an explicit wisdom teaching.
+- id: motif:3
+  label: hidden provisions discovered by an animal
+  taxonomy_refs: []
+  basis: The fox finds bread and meat that shepherds had stored in the hollow tree
+    for later use.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: This is a narrative setup rather than the central action of the fable.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1997-2000
+  quote_or_summary: A hungry fox finds bread and meat in a hollow tree; shepherds
+    had put the food there for their return.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 2000-2003
+  quote_or_summary: The fox is delighted, slips in through the narrow aperture, and
+    greedily devours all the food.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 2003-2006
+  quote_or_summary: When the fox tries to leave, he is too swollen from the meal to
+    squeeze through the hole and begins whining and groaning.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:4
+  type: quote
+  locator: lines 2006-2009
+  quote_or_summary: Another fox learns the situation and says the trapped fox must
+    stay there until he shrinks to his former size, after which he can get out.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; brief evidence summary from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labels are descriptive and should
+    be reviewed for alignment with the Atlas taxonomy; no comparison claims were made
+    because the passage itself does not support a specific cross-text comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage titled THE SWOLLEN FOX was used, despite the broader locator label naming adjacent fables.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l1997-l2009
+  passage_sha256=50f7c1a841ac4b985f738ef863d2d18b8239ed572e03cdfc2cef8c8329fbdb64
+

@@ -1,0 +1,530 @@
+---
+record_id: batch.motif.comparative-golden-bough-volume-1-frazer-gutenberg-l11730-l11849
+source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+passage_locator:
+  label: CHAPTER II. THE PERILS OF THE SOUL. / HEINE. / CHAPTER III. KILLING THE GOD.
+    / FOOTNOTES; lines 11730-11849
+  start: '11730'
+  end: '11849'
+  translation: 'The Golden Bough: A Study in Comparative Religion (Vol. 1 of 2)'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A set of footnotes citing and summarizing ancient and modern authorities
+    on Adonis, Thammuz, vegetation rites, flower etiologies, the image of Adonis cast
+    into the sea, the planting of gardens of Adonis, agricultural interpretations
+    of Adonis as grain or crops, Egyptian solar imagery, irrigation charms, and a
+    Sardinian custom involving pots and fire-leaping.
+  language: English, with Greek and Latin citations
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: One cited source says the anemone springs from tears and the rose from the
+    blood of Adonis.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: In an Alexandrian ceremony, the passage says it appears to have been only
+    the image of Adonis that was thrown into the sea.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage states that Myrrha or Smyrna is borrowed from Phoenician and that
+    both the mother’s name and the son’s name were taken directly from the Semites.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: After the autumnal equinox, Egyptians are said to have celebrated the nativity
+    of the sun’s walking-sticks because the declining sun was thought to need a staff
+    to support his steps.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Ancient interpretations cited in the passage identify Adonis with sown grain,
+    describe him as spending six months in the earth and six months with Aphrodite,
+    and relate his killing and resurrection to seeds dying in the earth and crops
+    growing again.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The passage cites authorities for the planting of the gardens of Adonis, with
+    some references specifying women and another allowing both male and female planters.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: For hot southern countries where vegetation depends on irrigation, the passage
+    says the purpose of the charm is to secure a plentiful flow of water in streams.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The month Thammuz is said to fall at different times in local Syrian calendars,
+    ranging from midsummer to autumn, or from June to September.
+  category: setting
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: A cited account of Sardinian custom says pots are kept in a dark warm place
+    and children leap across the fire.
+  category: action
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Adonis
+  description: A figure associated in the passage with blood, an image thrown into
+    the sea, death and resurrection interpretations, sown grain, mature crops, and
+    Aphrodite or Venus.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: fig:2
+  name_or_label: Aphrodite / Venus
+  description: A goddess associated with Adonis; one cited interpretation says Aphrodite
+    has Adonis for six months, and another calls Adonis the beloved of Venus.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:3
+  name_or_label: Myrrha / Smyrna
+  description: Named as the mother of Adonis, with the name described as borrowed
+    from Phoenician.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: The sun
+  description: A celestial figure described as declining in the sky after the autumnal
+    equinox and needing a staff to support his steps.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Children in Sardinian custom
+  description: Children mentioned in a cited Sardinian custom as leaping across the
+    fire.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:9
+roles:
+- id: role:1
+  label: dying-and-returning agricultural figure
+  assigned_to:
+  - fig:1
+  basis: The passage cites interpretations of Adonis’s killing and resurrection as
+    shown in seeds dying in the earth and crops arising again.
+  evidence_refs:
+  - ev:5
+- id: role:2
+  label: ritual image subject
+  assigned_to:
+  - fig:1
+  basis: The passage says the image of Adonis was thrown into the sea in an Alexandrian
+    ceremony.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: divine beloved or seasonal possessor
+  assigned_to:
+  - fig:2
+  basis: The passage cites Adonis as being with Aphrodite for six months and as the
+    beloved of Venus.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: mother with Semitic-derived name
+  assigned_to:
+  - fig:3
+  basis: The passage states that Myrrha or Smyrna is Phoenician-derived and that the
+    mother’s name was taken directly from the Semites.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: declining solar figure needing support
+  assigned_to:
+  - fig:4
+  basis: The sun is described as declining daily and needing a staff to support his
+    steps.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: fire-leaping participants
+  assigned_to:
+  - fig:5
+  basis: A cited note says children leap across the fire.
+  evidence_refs:
+  - ev:9
+symbols:
+- id: sym:1
+  label: anemone from tears
+  literal_form: anemone flower said to spring from tears
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: rose from blood
+  literal_form: rose flower said to spring from Adonis’s blood
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: image of Adonis
+  literal_form: ritual image thrown into the sea
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: sea
+  literal_form: sea receiving the image of Adonis
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: sun’s walking-sticks
+  literal_form: staff or walking-sticks for the declining sun
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: sown grain and seeds
+  literal_form: grain sown in earth; seeds dying in the earth
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:7
+  label: reborn crops
+  literal_form: crops or mature fruits arising from dead seeds
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:8
+  label: gardens of Adonis
+  literal_form: planted gardens associated with Adonis rites
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:9
+  label: irrigation water
+  literal_form: plentiful flow of water in streams
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:7
+- id: sym:10
+  label: dark warm place
+  literal_form: dark warm place where pots are kept
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:11
+  label: fire crossed by children
+  literal_form: fire over which children leap
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Flower origins from Adonis’s tears and blood
+  summary: A cited account assigns the anemone to tears and the rose to the blood
+    of Adonis.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Alexandrian casting of Adonis image into the sea
+  summary: In an Alexandrian ceremony, the image of Adonis is said to have been thrown
+    into the sea.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Egyptian nativity of the sun’s walking-sticks
+  summary: After the autumnal equinox, Egyptians are said to celebrate the nativity
+    of the sun’s walking-sticks because the weakening sun needs support.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Adonis interpreted as grain, seed death, and crop renewal
+  summary: Cited interpretations connect Adonis with sown grain, a six-month alternation
+    between earth and Aphrodite, and the death of seeds followed by the renewed growth
+    of crops.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Planting gardens of Adonis
+  summary: Authorities are cited for the planting of gardens of Adonis, sometimes
+    specifically by women and sometimes by planters of either sex.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:8
+  evidence_refs:
+  - ev:6
+- id: scene:6
+  label: Irrigation charm for vegetation
+  summary: In regions where vegetation depends on irrigation, the passage describes
+    the charm’s purpose as securing a plentiful flow of water in streams.
+  figure_refs: []
+  symbol_refs:
+  - sym:9
+  evidence_refs:
+  - ev:7
+- id: scene:7
+  label: Sardinian pots and fire-leaping
+  summary: A cited Sardinian custom involves pots kept in a dark warm place and children
+    leaping across a fire.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:10
+  - sym:11
+  evidence_refs:
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: death and rebirth of vegetation through seed and crop cycle
+  taxonomy_refs:
+  - death_rebirth
+  - dying_and_returning
+  - resurrection
+  - seasonal_cycle
+  basis: The passage cites interpretations of Adonis’s killing and resurrection as
+    corresponding to seeds dying in earth and crops growing again.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: This is an interpretation reported by cited ancient and later authorities,
+    not a narrative episode fully retold in the passage.
+- id: motif:2
+  label: seasonal alternation between earth and goddess
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: A cited interpretation says Adonis, identified with sown grain, spends six
+    months in the earth and six months with Aphrodite.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage presents the alternation in the form of scholarly citation
+    and gloss rather than a full mythic narrative.
+- id: motif:3
+  label: ritual cultivation as fertility charm
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage cites the planting of gardens of Adonis and connects charms in
+    hot countries with securing water for vegetation.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The exact ritual sequence and intended meaning of the gardens are not
+    fully described in this passage segment.
+- id: motif:4
+  label: ritual image cast into water
+  taxonomy_refs: []
+  basis: The passage states that in an Alexandrian ceremony the image of Adonis was
+    thrown into the sea.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage does not explain the function of the sea-casting rite in detail.
+- id: motif:5
+  label: declining sun supported by staff
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage describes an Egyptian celebration after the autumnal equinox
+    in which the weakening sun is imagined as needing walking-sticks.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The observation is reported as a calendrical custom, not a full mythic
+    episode.
+- id: motif:6
+  label: fire-leaping in seasonal folk custom
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: A cited Sardinian note says children leap across the fire in connection with
+    pots kept in a dark warm place.
+  evidence_refs:
+  - ev:9
+  confidence: low
+  cautions: The passage gives only a brief footnote and does not specify the rite’s
+    date, meaning, or mythic context.
+comparison_claims:
+- id: claim:1
+  claim: The passage reports an ancient interpretive comparison between Adonis’s killing
+    and resurrection and the agricultural process in which seeds die in the earth
+    and crops grow again.
+  claim_level: same_function
+  target: seed death and crop renewal as an agricultural cycle
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a cited interpretation within Frazer’s footnote apparatus rather
+    than independent narrative evidence from the passage itself.
+- id: claim:2
+  claim: The passage notes a variant flower-origin pattern across Ovid and Bion, with
+    Bion assigning the anemone to tears and the rose to Adonis’s blood.
+  claim_level: same_motif
+  target: flower etiologies connected with Adonis in Ovid and Bion
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: Only Bion’s version is summarized explicitly; Ovid is cited but not
+    quoted in detail in this passage.
+- id: claim:3
+  claim: 'The passage compares charms for vegetation in irrigated southern regions
+    with other vegetation-securing charms by stating that their ultimate object is
+    the same: securing conditions for plant growth.'
+  claim_level: same_function
+  target: vegetation charms aimed at water supply or plant fertility
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The compared non-irrigation charms are referenced generally and not
+    described in detail in this passage.
+evidence:
+- id: ev:1
+  type: summary
+  locator: footnote 910
+  quote_or_summary: Bion is said to make the anemone spring from tears and the rose
+    from the blood of Adonis, in comparison with Ovid.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source text; concise summary used.
+- id: ev:2
+  type: summary
+  locator: footnote 912
+  quote_or_summary: In the Alexandrian ceremony, it appears that only the image of
+    Adonis was thrown into the sea.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source text; concise summary used.
+- id: ev:3
+  type: summary
+  locator: footnote 913
+  quote_or_summary: The word Myrrha or Smyrna is described as borrowed from Phoenician;
+    the mother’s and son’s names are said to have been taken directly from the Semites.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source text; concise summary used.
+- id: ev:4
+  type: summary
+  locator: footnote 915
+  quote_or_summary: After the autumnal equinox, Egyptians celebrated the nativity
+    of the sun’s walking-sticks because the declining sun was imagined to need a staff
+    for support.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source text; concise summary used.
+- id: ev:5
+  type: summary
+  locator: footnote 916
+  quote_or_summary: Cited interpretations identify Adonis with sown grain, describe
+    six months in earth and six with Aphrodite, and interpret Adonis’s death and resurrection
+    through seeds dying in earth and crops being reborn.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source text; concise summary used.
+- id: ev:6
+  type: summary
+  locator: footnote 919
+  quote_or_summary: Authorities are cited for the planting of gardens of Adonis; women
+    only are mentioned by some sources, while another reference allows male or female
+    planters.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source text; concise summary used.
+- id: ev:7
+  type: summary
+  locator: footnote 921
+  quote_or_summary: In hot southern countries dependent on irrigation, the purpose
+    of the charm is described as securing a plentiful flow of water in streams; the
+    ultimate object is said to be the same as in other vegetation charms.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source text; concise summary used.
+- id: ev:8
+  type: summary
+  locator: footnote 928
+  quote_or_summary: The month Thammuz is discussed as varying in local Syrian calendars
+    from midsummer to autumn, or from June to September.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source text; concise summary used.
+- id: ev:9
+  type: summary
+  locator: footnote 932
+  quote_or_summary: A note on Sardinian custom says pots are kept in a dark warm place
+    and children leap across the fire.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source text; concise summary used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is primarily footnotes and citations rather than a continuous
+    mythic narrative. Motif extraction is strongest where the notes explicitly summarize
+    ritual actions or ancient interpretations.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No taxonomy identifiers beyond the supplied motif family and symbol labels were added. Comparison claims are limited to comparisons explicitly supported by the passage.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:comparative-golden-bough-volume-1-frazer-gutenberg__l11730-l11849
+  passage_sha256=d503b19b2380e396ba5f6043757594cc46b84645c5c70655687ff3b5ff8a0991
+

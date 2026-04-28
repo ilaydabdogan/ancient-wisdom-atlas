@@ -1,0 +1,219 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l3649-l3658
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE STAG AND THE VINE / THE LAMB CHASED BY A WOLF / THE ARCHER AND THE LION
+    / THE WOLF AND THE GOAT; lines 3649-3658
+  start: '3649'
+  end: '3658'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: "“what you want is to eat me.”"
+  summary: A Wolf sees a Goat grazing on top of a steep rock and cannot reach her.
+    He urges her to come down by claiming she is in danger and promising better food
+    below. The Goat recognizes that his real aim is to eat her.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A Goat is browsing on scanty herbage at the top of a steep rock above a Wolf.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Wolf is unable to reach the Goat where she is.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Wolf calls to the Goat and advises her to come lower down, saying she
+    is risking her life and that better food is below.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Goat replies that the Wolf does not care about the quality of her grass
+    and wants to eat her.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The sequence moves from the Wolf seeing inaccessible prey, to a verbal attempt
+    to lure her down, to the Goat’s refusal by naming his motive.
+  category: sequence
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Wolf
+  description: A Wolf below the Goat, unable to get at her, who tries to induce her
+    to come lower down.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Goat
+  description: A Goat browsing above the Wolf on the top of a steep rock, who recognizes
+    the Wolf’s predatory intention.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+roles:
+- id: role:1
+  label: predator
+  assigned_to:
+  - fig:1
+  basis: The Goat states that the Wolf wants to eat her.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: deceptive adviser
+  assigned_to:
+  - fig:1
+  basis: The Wolf offers advice and promises better food while unable to reach the
+    Goat.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: potential prey
+  assigned_to:
+  - fig:2
+  basis: The Goat is the target of the Wolf’s attempt to lure her within reach.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:4
+  label: discerning respondent
+  assigned_to:
+  - fig:2
+  basis: The Goat identifies the Wolf’s actual motive behind his advice.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: steep rock
+  literal_form: the top of a steep rock
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: herbage or grass
+  literal_form: scanty herbage above and promised better food below
+  associated_figures:
+  - fig:2
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+scenes:
+- id: scene:1
+  label: Wolf attempts to lure Goat down from rock
+  summary: The Wolf sees the Goat above him on a steep rock and, unable to reach her,
+    urges her to descend for safety and better food; the Goat refuses by exposing
+    his desire to eat her.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: predator gives self-serving advice to lure prey
+  taxonomy_refs: []
+  basis: The Wolf presents his speech as concern for the Goat’s safety and food, while
+    the Goat identifies his intent to eat her.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is a fable-level motif label derived from the passage; no formal
+    external motif index reference is supplied.
+- id: motif:2
+  label: safe elevation preserves prey from predator
+  taxonomy_refs: []
+  basis: The Goat is above the Wolf on a steep rock, and the Wolf cannot get at her
+    unless she comes down.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage presents elevation literally as the condition of safety; broader
+    symbolic interpretation should be reviewed.
+- id: motif:3
+  label: trickster speech at a boundary
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The Wolf uses persuasive speech across the high-low separation between himself
+    and the Goat, attempting to move her from safety into danger.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The available taxonomy reference is broad; the passage supports deception
+    and a spatial boundary, but does not explicitly name a trickster figure.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3649-3658
+  quote_or_summary: A Wolf sees a Goat browsing on scanty herbage at the top of a
+    steep rock and is unable to get at her.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary based on supplied passage.
+- id: ev:2
+  type: quote
+  locator: lines 3649-3658
+  quote_or_summary: "“You are risking your life up there… come down here, where you
+    will find plenty of better food.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation from supplied passage.
+- id: ev:3
+  type: quote
+  locator: lines 3649-3658
+  quote_or_summary: "“It's little you care whether I get good grass or bad… what you
+    want is to eat me.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward from the supplied passage. Motif labels
+    are candidate descriptions and require human review, especially the broad taxonomy
+    link to trickster_boundary.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage text was used; although the locator label lists multiple fables, the extracted content is limited to “THE WOLF AND THE GOAT.”
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l3649-l3658
+  passage_sha256=f64f2921e7b90aa14d529155ae5a6db15385fe4283982c957792840cf3f3415d
+

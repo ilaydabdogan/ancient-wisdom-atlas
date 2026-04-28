@@ -1,0 +1,540 @@
+---
+record_id: batch.motif.comparative-golden-bough-volume-2-frazer-gutenberg-l920-l982
+source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+passage_locator:
+  label: 'The Golden Bough: A Study in Comparative Religion (Vol. 2 of 2) / CONTENTS;
+    lines 920-982'
+  start: '920'
+  end: '982'
+  translation: 'The Golden Bough: A Study in Comparative Religion (Vol. 2 of 2)'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Frazer compares Dionysus in goat-form with Greek, Italian, and Russian
+    goat-formed woodland spirits, argues that wood-spirits and corn-spirits may overlap,
+    and concludes that Dionysus' goat-form belongs to his character as a tree-god
+    rather than requiring a fusion of separate cults.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Dionysus is said to have been represented sometimes as a goat and sometimes
+    as a bull.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Pan, Satyrs, Silenuses, and Fauns are described as having goat-like forms
+    or goat-associated costume in art, drama, or description.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Pan, Silenuses, Fauns, Silvanus or Silvanuses, and Satyrs are described as
+    woodland deities or spirits of the woods.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Russian Ljeschie are described as wood-spirits appearing partly human, with
+    goat horns, ears, and legs.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: 'The Ljeschi is said to alter his stature: as tall as trees in the wood, no
+    higher than grass in meadows, and in some cases changing with the corn before
+    and after harvest.'
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage states a close connection between tree-spirits and corn-spirits
+    and says that Fauns, though wood-spirits, were believed to foster crop growth.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The passage says the corn-spirit is often represented in folk-custom as a
+    goat.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Frazer concludes that Pans, Satyrs, and Fauns appear to belong to a widely
+    diffused class of wood-spirits conceived in goat-form.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Frazer explains goat-shaped wood-spirits partly by goats' habit of straying
+    in woods and damaging tree bark.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: Frazer argues that Dionysus' goat-form is part of his character as a tree-god,
+    not necessarily the result of two independent cults fusing.
+  category: relationship
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Dionysus
+  description: A deity represented sometimes as goat and sometimes as bull; described
+    here as a tree-god.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: fig:2
+  name_or_label: Pan or Pans
+  description: Greek minor divinities closely associated with Dionysus and represented
+    with goat features; Pan is called Lord of the Wood.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Satyrs
+  description: Greek figures with goat-like ears and sometimes horns and tails; their
+    dramatic parts were played by men in goat-skins; described as woodland deities
+    by association with related figures.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Silenuses
+  description: Figures associated with Dionysus; Silenus is represented in goat-skin,
+    and Silenuses are said to associate with tree-nymphs.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:5
+  name_or_label: Fauns
+  description: Italian counterparts of Greek Pans and Satyrs; described as half goats
+    with goat-feet and goat-horns and as woodland deities that foster crop growth.
+  role_refs:
+  - role:3
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:6
+  name_or_label: Silvanus and Silvanuses
+  description: Spirits of the woods associated or identified with Fauns.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: Ljeschie
+  description: Russian wood-spirits described as partly human with goat horns, ears,
+    and legs; some are also spirits of the corn.
+  role_refs:
+  - role:3
+  - role:4
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:8
+  name_or_label: tree-nymphs
+  description: Nymphs with whom the Silenuses are said to associate.
+  role_refs: []
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: tree-god
+  assigned_to:
+  - fig:1
+  basis: The passage explicitly calls Dionysus a tree-god.
+  evidence_refs:
+  - ev:7
+- id: role:2
+  label: goat-formed deity
+  assigned_to:
+  - fig:1
+  basis: The passage says Dionysus was sometimes represented as a goat.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: goat-formed spirit or minor divinity
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:7
+  basis: These figures are described with goat bodies, goat features, goat-skins,
+    or goat horns, ears, and legs.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:4
+  label: woodland deity or wood-spirit
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  basis: The passage identifies or associates these figures with woods, woodland deities,
+    or wood-spirits.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: crop or corn growth spirit
+  assigned_to:
+  - fig:5
+  - fig:7
+  basis: Fauns are said to foster crop growth, and some Ljeschie are called spirits
+    of the corn as well as the wood.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:6
+  label: stature-changing spirit
+  assigned_to:
+  - fig:7
+  basis: The Ljeschi is said to alter his stature according to setting and harvest
+    state.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: goat-form
+  literal_form: Goat body, goat face, goat legs, goat ears, goat horns, goat tails,
+    or goat-skin clothing.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: woods
+  literal_form: Woods, woodland, and forest setting.
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: tree
+  literal_form: Tree, tree-nymphs, tree-god, bark of trees, trees as the height of
+    the Ljeschi in the wood.
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:7
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+- id: sym:4
+  label: corn or crops
+  literal_form: Corn-stalks, stubble, crops, and corn-spirit.
+  associated_figures:
+  - fig:5
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:5
+  label: bull-form
+  literal_form: Bull representation of Dionysus.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Goat-formed companions and counterparts of Dionysus
+  summary: The passage lists Greek and Italian figures associated with Dionysus or
+    with each other and describes them as goat-formed or goat-associated.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Woodland identity of goat-formed beings
+  summary: The passage identifies Pan, Silenuses, Fauns, Silvanus or Silvanuses, and
+    Satyrs as woodland beings or spirits of the woods.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:8
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Russian Ljeschie as goat-formed wood and corn spirits
+  summary: The passage describes the Ljeschie as Russian wood-spirits with goat traits,
+    able to vary stature in woods, meadows, and cornfields, with some connected to
+    corn before and after harvest.
+  figure_refs:
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Tree-spirit and corn-spirit overlap
+  summary: The passage states that tree-spirits and corn-spirits are closely connected,
+    cites Fauns fostering crops, and notes goat representation of corn-spirits in
+    folk-custom.
+  figure_refs:
+  - fig:5
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Interpretation of Dionysus' goat-form
+  summary: The passage argues that Dionysus' goat-form can be understood as part of
+    his character as a tree-god, rather than as evidence for a fusion of separate
+    tree-god and goat cults.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Goat-formed woodland spirit
+  taxonomy_refs: []
+  basis: Multiple Greek, Italian, and Russian figures are described as woodland beings
+    with goat features or goat associations; Frazer explicitly groups Pans, Satyrs,
+    and Fauns as a widely diffused class of goat-formed wood-spirits.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+  confidence: high
+  cautions: The passage is a comparative scholarly argument, not a single traditional
+    narrative.
+- id: motif:2
+  label: Wood-spirit and corn-spirit continuity
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage states that tree-spirits and corn-spirits are closely connected,
+    notes Ljeschie who are spirits of both wood and corn, and links some stature changes
+    to the harvest cycle.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The seasonal-cycle taxonomy is supported mainly by the before-harvest
+    and after-harvest contrast, not by a full seasonal myth.
+- id: motif:3
+  label: Variable stature of a nature spirit
+  taxonomy_refs:
+  - shapeshifter
+  basis: 'The Ljeschi is said to alter his stature according to setting: tree-height
+    in woods, grass-height in meadows, and corn or stubble height around harvest.'
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The change described is specifically stature alteration rather than a
+    complete change of species or identity.
+- id: motif:4
+  label: Goat-form of Dionysus as tree-god attribute
+  taxonomy_refs: []
+  basis: Frazer argues that Dionysus' representation as a goat belongs to his character
+    as a tree-god, in line with goat-formed wood-spirits elsewhere.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: This is Frazer's interpretation of comparative evidence and should be
+    reviewed against primary sources.
+comparison_claims:
+- id: claim:1
+  claim: Greek Pans and Satyrs, Italian Fauns, and Russian Ljeschie are presented
+    as comparable goat-formed woodland spirits.
+  claim_level: same_motif
+  target: Goat-formed woodland spirits in Greek, Italian, and Northern European folklore
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage gives Frazer's synthesis and does not provide the primary
+    source contexts in detail.
+- id: claim:2
+  claim: The passage treats wood-spirits and corn-spirits as closely connected categories
+    that may overlap or merge.
+  claim_level: same_function
+  target: Tree-spirit and corn-spirit overlap in vegetation-spirit traditions
+  evidence_refs:
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim is comparative and functional; the passage does not establish
+    a single historical origin.
+- id: claim:3
+  claim: Dionysus' goat-form is compared functionally with other goat-formed wood-spirits
+    and interpreted as part of his tree-god character.
+  claim_level: same_function
+  target: Dionysus as tree-god compared with goat-formed wood-spirits
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: Frazer argues against the need for a cult-fusion explanation, but this
+    remains an interpretive scholarly claim.
+- id: claim:4
+  claim: The passage argues that repeated independent fusion of separate tree-god
+    and goat cults across Dionysus, Pans/Satyrs, Fauns, and Ljeschie is improbable.
+  claim_level: independent_recurrence
+  target: Alternative explanation of repeated independent cult fusion
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: low
+  limitations: This is a negative comparative argument about probability, not direct
+    historical evidence.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 920-924
+  quote_or_summary: Dionysus is introduced as represented sometimes as a goat and
+    sometimes as a bull, with goat-form connected to goat-like minor divinities associated
+    with him.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 924-935
+  quote_or_summary: Pan has goat face and legs; Satyrs have goat features or are played
+    in goat-skins; Silenus is clad in goat-skin; Fauns are half goats with goat-feet
+    and goat-horns.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 935-946
+  quote_or_summary: Pan is called Lord of the Wood; Silenuses associate with tree-nymphs;
+    Fauns are woodland deities linked with Silvanus and Silvanuses; Satyrs are inferred
+    to be woodland deities by association.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 946-955
+  quote_or_summary: Russian Ljeschie are wood-spirits partly human with goat horns,
+    ears, and legs; the Ljeschi can alter stature in woods and meadows, and some change
+    with corn before and after harvest.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 955-961
+  quote_or_summary: The passage states a close connection between tree-spirits and
+    corn-spirits; Fauns foster crop growth, and the corn-spirit is often represented
+    as a goat in folk-custom.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 961-971
+  quote_or_summary: Frazer, following Mannhardt, says Pans, Satyrs, and Fauns appear
+    to belong to a widely diffused class of wood-spirits conceived in goat-form, and
+    suggests goats' behavior in woods as a reason for this representation.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 972-982
+  quote_or_summary: Frazer argues that Dionysus' goat-form is part of his proper character
+    as a tree-god and not necessarily explained by fusion of distinct tree-god and
+    goat cults; he says repeated independent fusions would be improbable.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is explicit about goat-formed woodland beings and comparative
+    parallels. Motif labels and taxonomy links remain interpretive because the source
+    passage is a modern comparative argument rather than a mythic episode.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only supplied passage and metadata. Taxonomy references included only where directly supported by supplied taxonomy options and passage content.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:comparative-golden-bough-volume-2-frazer-gutenberg__l920-l982
+  passage_sha256=32d36eab9b301fee5ad060de8b638589a9c804a95f00c97c6100a5ff079eb63c
+

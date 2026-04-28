@@ -1,0 +1,309 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l1709-l1730
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE APES AND THE TWO TRAVELLERS / THE ASS AND HIS BURDENS / THE SHEPHERD'S
+    BOY AND THE WOLF / THE FOX AND THE GOAT; lines 1709-1730
+  start: '1709'
+  end: '1730'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A Fox trapped in a well persuades a thirsty Goat to jump in by praising
+    the water. After the Goat drinks and also cannot escape, the Fox proposes using
+    the Goat’s body and horns as a means of climbing out, promises to help the Goat
+    afterward, then leaves him in the well and rebukes him for entering without ensuring
+    a way out. The stated moral is to look before leaping.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A Fox has fallen into a well and cannot get out.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A thirsty Goat comes by and asks the Fox whether the water is good.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Fox tells the Goat the water is excellent and invites him to come down
+    and try it.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Goat jumps into the well, drinks, and then cannot find a way out.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Fox instructs the Goat to stand against the well so that the Fox can climb
+    on the Goat’s back and horns.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The Fox promises to help the Goat out after escaping.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The Goat follows the Fox’s request, and the Fox climbs out of the well using
+    the Goat.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The Fox walks away without helping the Goat and rebukes him for entering the
+    well without first making sure he could get out.
+  category: sequence
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: obs:9
+  text: 'The passage ends with the moral: “Look before your leap.”'
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Fox
+  description: An animal trapped in a well who speaks to the Goat, devises a way to
+    escape, and leaves after climbing out.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Goat
+  description: A thirsty animal who enters the well to drink, assists the Fox’s escape,
+    and remains trapped afterward.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: trapped speaker
+  assigned_to:
+  - fig:1
+  basis: The Fox is in the well and unable to get out, yet speaks to the Goat.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: deceptive escape-seeker
+  assigned_to:
+  - fig:1
+  basis: The Fox praises the water, secures the Goat’s entry, promises help, uses
+    the Goat to escape, and walks away.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: role:3
+  label: thirsty passerby
+  assigned_to:
+  - fig:2
+  basis: The Goat comes by thirsty and asks about the water.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: unwary helper left behind
+  assigned_to:
+  - fig:2
+  basis: The Goat jumps in without ensuring an exit, helps the Fox climb out, and
+    remains in the well.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: well
+  literal_form: well
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: water
+  literal_form: water in the well
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: horns
+  literal_form: the Goat’s horns used as footholds
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: Fox trapped in the well
+  summary: The Fox is already in the well and cannot get out when the thirsty Goat
+    arrives and asks about the water.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Goat enters after the Fox’s praise of the water
+  summary: The Fox says the water is the best he has tasted and invites the Goat to
+    try it; the Goat jumps in, drinks, and discovers no exit.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Fox escapes using the Goat
+  summary: The Fox proposes that the Goat brace himself against the well, promises
+    to help afterward, climbs over the Goat’s back and horns, and exits the well.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Abandoned Goat and concluding rebuke
+  summary: The Goat reminds the Fox of his promise, but the Fox leaves and says the
+    Goat should have ensured a way out before entering; the stated moral advises looking
+    before leaping.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: trickster escapes by deceiving another into danger
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The Fox, trapped in the well, persuades the Goat to enter, uses the Goat’s
+    body and horns to cross out of the well, and then abandons him.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The taxonomy label is broad; the passage is a moral fable and does not
+    explicitly name the Fox as a trickster.
+- id: motif:2
+  label: failure to consider exit before entering
+  taxonomy_refs:
+  - wisdom
+  basis: The Goat enters the well to drink without securing a way out; the Fox’s final
+    rebuke and the moral state that one should look before leaping.
+  evidence_refs:
+  - ev:3
+  - ev:6
+  confidence: high
+  cautions: This is an explicit moral pattern rather than a mythic-symbolic motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1709-1730
+  quote_or_summary: A Fox is unable to get out of a well; a thirsty Goat comes by
+    and asks whether the water is good.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short summary.
+- id: ev:2
+  type: quote
+  locator: lines 1709-1730
+  quote_or_summary: "“it's the best water I ever tasted in all my life. Come down
+    and try it yourself.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:3
+  type: summary
+  locator: lines 1709-1730
+  quote_or_summary: The Goat thinks only of quenching his thirst, jumps into the well,
+    drinks, and then cannot find a way out.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short summary.
+- id: ev:4
+  type: summary
+  locator: lines 1709-1730
+  quote_or_summary: The Fox proposes that the Goat stand on his hind legs with forelegs
+    against the well so the Fox can climb on his back and horns, promising to help
+    the Goat afterward.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short summary.
+- id: ev:5
+  type: summary
+  locator: lines 1709-1730
+  quote_or_summary: The Goat complies; the Fox climbs over the Goat and out of the
+    well, then walks away.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short summary.
+- id: ev:6
+  type: quote
+  locator: lines 1709-1730
+  quote_or_summary: "“you wouldn't have got into the well without making certain that
+    you could get out again.” Moral: “Look before your leap.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short excerpt.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Passage actions and figures are explicit. Motif taxonomy assignments are
+    interpretive and should be reviewed, especially because the supplied taxonomy
+    is broad relative to the fable.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the provided passage text was used. Although the supplied label names multiple fables, the passage text supplied for extraction contains only “THE FOX AND THE GOAT.”
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l1709-l1730
+  passage_sha256=72f0643a4e31869dff39c36d5b034a4c318aebc49d895950ff5b1f6f1d913e8f
+

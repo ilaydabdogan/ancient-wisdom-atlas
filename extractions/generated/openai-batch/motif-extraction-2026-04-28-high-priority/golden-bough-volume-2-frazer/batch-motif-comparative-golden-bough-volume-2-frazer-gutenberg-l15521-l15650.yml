@@ -1,0 +1,368 @@
+---
+record_id: batch.motif.comparative-golden-bough-volume-2-frazer-gutenberg-l15521-l15650
+source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+passage_locator:
+  label: CONTENTS / NOTE. OFFERINGS OF FIRST-FRUITS. / INDEX. / FOOTNOTES; lines 15521-15650
+  start: '15521'
+  end: '15650'
+  translation: 'The Golden Bough: A Study in Comparative Religion (Vol. 2 of 2)'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage consists chiefly of footnotes. One note discusses Frazer''s
+    proposed explanation for Virgil''s Aeneas carrying the mistletoe or Golden Bough
+    to Hades: it may repel evil spirits, quiet Charon, and function as a means of
+    opening access to the lower world. Another note discusses etymologies of Zeus
+    and Jove, their relation to brightness, the oak, and the sky. The remaining notes
+    are bibliographic citations for comparative religious and ethnographic material.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Virgil is said to represent Aeneas as taking the mistletoe with him to Hades.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The mistletoe is described as possibly being supposed to repel evil spirits.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Charon is described as quieted by the sight of the Golden Bough when he is
+    disposed to bluster at Aeneas.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The mistletoe is said to have an ascribed power of laying bare the secrets
+    of the earth.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Frazer suggests the mistletoe may have been used as a kind of means of access
+    to the lower world.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A cited Latin passage states that one may not enter the hidden places of the
+    earth before plucking a golden-haired growth from a tree.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Zeus and Jove are discussed as names derived from a root meaning shining or
+    bright.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Jove is connected with the oak through cited ancient sources stating that
+    trees are dedicated to divinities and that every oak is consecrated to Jove.
+  category: relationship
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Aeneas
+  description: The figure whom Virgil represents as taking the mistletoe or Golden
+    Bough to Hades.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Charon
+  description: The figure who is disposed to bluster at Aeneas but is quieted by the
+    sight of the Golden Bough.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: evil spirits
+  description: Spirits that the mistletoe was supposed to repel.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Zeus
+  description: A divine name discussed in relation to a root meaning shining or bright
+    and commonly regarded as connected with the sky.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Jove
+  description: A divine name discussed in relation to brightness, the oak, and the
+    sky.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: underworld traveler
+  assigned_to:
+  - fig:1
+  basis: Aeneas is represented as taking the mistletoe with him to Hades.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: underworld ferryman or gatekeeper figure
+  assigned_to:
+  - fig:2
+  basis: Charon reacts to Aeneas and is quieted by the sight of the Golden Bough in
+    the Hades episode.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: repelled spirits
+  assigned_to:
+  - fig:3
+  basis: The mistletoe is said to repel evil spirits.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: bright or sky-associated deity
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: Zeus and Jove are discussed as derived from a root meaning shining or bright
+    and as commonly regarded as sky gods.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: oak-associated deity
+  assigned_to:
+  - fig:5
+  basis: The passage cites sources connecting Jove with the oak.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: mistletoe or Golden Bough
+  literal_form: A plant or bough carried by Aeneas to Hades; called mistletoe and
+    Golden Bough in the note.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: Hades or lower world
+  literal_form: The underworld destination or realm into which Aeneas seeks entry.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:3
+  label: tree bearing the golden growth
+  literal_form: A tree from which the golden-haired growth must be plucked before
+    entering the hidden places of the earth.
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: oak of Jove
+  literal_form: The oak or quercus consecrated to Jove in cited sources.
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Aeneas carries the bough to Hades
+  summary: Aeneas is represented as taking the mistletoe or Golden Bough into Hades,
+    where it is connected with protection from evil spirits and access to the lower
+    world.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: scene:2
+  label: Charon quieted by the Golden Bough
+  summary: Charon, initially disposed to bluster at Aeneas, is quieted by the sight
+    of the Golden Bough.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Plucking the golden growth before descent
+  summary: A cited Virgilian line indicates that entry into the hidden places of the
+    earth is not permitted before a golden-haired growth has been plucked from a tree.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Jove and the oak
+  summary: The note cites ancient sources for the consecration of the oak to Jove.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: underworld descent aided by a sacred plant token
+  taxonomy_refs:
+  - hero_descent
+  - afterlife_journey_map
+  basis: Aeneas carries the mistletoe or Golden Bough to Hades, and Frazer suggests
+    it protects against spirits and helps open access to the lower world.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage is a scholarly footnote about Virgil rather than the full
+    narrative episode.
+- id: motif:2
+  label: apotropaic plant against evil spirits
+  taxonomy_refs: []
+  basis: The mistletoe is explicitly said to have been supposed to repel evil spirits.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The statement is presented as Frazer's explanatory suggestion and refers
+    the reader to material outside the supplied passage.
+- id: motif:3
+  label: tree-derived object as underworld access condition
+  taxonomy_refs:
+  - sacred_tree_axis
+  basis: The cited Latin passage says one may not enter the hidden places of the earth
+    before plucking a golden-haired growth from a tree.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage supports a tree-derived access object, but not a fully developed
+    world-axis interpretation.
+- id: motif:4
+  label: deity associated with sacred tree
+  taxonomy_refs: []
+  basis: The note cites sources stating that the oak is consecrated to Jove.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: This is a bibliographic and etymological note, not a narrative myth scene.
+comparison_claims:
+- id: claim:1
+  claim: Frazer cautiously compares the mistletoe or Golden Bough with an access device
+    by calling it a kind of 'open Sesame' to the lower world.
+  claim_level: same_function
+  target: open Sesame access formula or device pattern
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is functional and metaphorical within Frazer's note;
+    the passage does not establish historical contact or common inheritance.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 15521-15524; footnote 952
+  quote_or_summary: Frazer says Virgil represents Aeneas taking the mistletoe to Hades,
+    perhaps because the mistletoe was supposed to repel evil spirits.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 15524-15526; footnote 952
+  quote_or_summary: Frazer says that when Charon is disposed to bluster at Aeneas,
+    the sight of the Golden Bough quiets him.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 15526-15529; footnote 952
+  quote_or_summary: '"a kind of ‘open Sesame’ to the lower world"'
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: summary
+  locator: lines 15529-15532; footnote 952, citing Aeneid vi. 140 sq.
+  quote_or_summary: A cited Latin couplet says that one may not enter the hidden places
+    of the earth before plucking a golden-haired growth from a tree.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 15536-15543; footnote 954
+  quote_or_summary: Frazer cites etymological authorities deriving Zeus and Jove from
+    a root meaning shining or bright, and notes that they have commonly been regarded
+    as sky gods because of a Sanskrit connection.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 15538-15541; footnote 954
+  quote_or_summary: Frazer cites Pliny and Servius on Jove's relation to the oak,
+    including statements that trees are dedicated to divinities and that every oak
+    is consecrated to Jove.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 15544-15650; footnotes 955-990
+  quote_or_summary: The remainder of the supplied passage consists primarily of bibliographic
+    citations to ethnographic and classical sources, with brief notes defining malái
+    and mataboole and mentioning agricultural taboos.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The Aeneas-Golden Bough material supports several passage-level motifs. Much
+    of the line range is bibliographic, so extraction is limited to the substantive
+    notes present.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No figures, motifs, or comparisons were inferred from citations alone beyond what the supplied footnotes explicitly state.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:comparative-golden-bough-volume-2-frazer-gutenberg__l15521-l15650
+  passage_sha256=beef0a51c89219c047546a0c9d8a0ea923c878f8993481f617367e245e1fbf16
+

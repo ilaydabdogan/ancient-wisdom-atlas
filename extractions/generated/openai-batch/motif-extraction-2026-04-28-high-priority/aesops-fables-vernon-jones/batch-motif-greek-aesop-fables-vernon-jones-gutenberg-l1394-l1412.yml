@@ -1,0 +1,280 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l1394-l1412
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE FOX AND THE STORK / THE WOLF IN SHEEP'S CLOTHING / THE STAG IN THE OX-STALL
+    / THE MILKMAID AND HER PAIL; lines 1394-1412
+  start: '1394'
+  end: '1412'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: Do not count your chickens before they are hatched.
+  summary: A farmer's daughter carries a pail of milk, imagines a chain of profits
+    and social admiration, tosses her head in imagined disdain, spills the milk, and
+    loses the basis of her plans. The passage ends with a moral warning against counting
+    future gains too early.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A farmer's daughter has milked cows and is returning to the dairy with a pail
+    of milk on her head.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: While walking, she imagines turning the milk into cream and butter, selling
+    it, buying eggs, raising chickens, and building a poultry-yard.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: She further imagines selling fowls, buying a new gown, going to a fair, receiving
+    admiration from young fellows, and rejecting their advances.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: She forgets the pail and physically tosses her head in accordance with her
+    imagined gesture.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The pail falls, the milk spills, and her imagined plans vanish.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: 'The passage closes with the moral: “Do not count your chickens before they
+    are hatched.”'
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: farmer's daughter
+  description: A young woman returning from milking cows to the dairy with a pail
+    of milk on her head; she imagines future profits and social admiration, then spills
+    the milk.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: young fellows
+  description: Men whom the farmer's daughter imagines admiring her new gown and making
+    love to her at the fair.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: milk carrier
+  assigned_to:
+  - fig:1
+  basis: She returns to the dairy carrying a pail of milk on her head.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: overconfident planner
+  assigned_to:
+  - fig:1
+  basis: She imagines a sequence of future gains before any of them have occurred,
+    and her action causes the milk to spill.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:3
+  label: imagined admirers
+  assigned_to:
+  - fig:2
+  basis: They appear only in the farmer's daughter's imagined future, where they admire
+    her gown and make love to her.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: pail of milk
+  literal_form: pail of milk carried on the head
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - milk
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:2
+  label: eggs and chickens
+  literal_form: eggs that, when hatched, will produce chickens
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:3
+  label: head toss
+  literal_form: gesture of tossing the head
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: castles in the air
+  literal_form: image used for the farmer's daughter's imagined plans
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Return from milking
+  summary: The farmer's daughter returns toward the dairy carrying a pail of milk
+    after milking cows.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Imagined chain of prosperity
+  summary: As she walks, she imagines converting milk into market goods, buying eggs,
+    raising chickens, selling fowls, buying a gown, and attracting attention at a
+    fair.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Gesture and loss
+  summary: She forgets the pail, tosses her head, spills the milk, and loses the foundation
+    of her imagined future.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Stated moral
+  summary: The fable states a warning not to count chickens before they are hatched.
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: counting future gains before they are secured
+  taxonomy_refs:
+  - wisdom
+  basis: The stated moral directly warns against treating anticipated results as certain
+    before they have occurred.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The taxonomy reference is broad; the passage is a moral fable rather than
+    a wisdom myth.
+- id: motif:2
+  label: daydream of prosperity undone by careless action
+  taxonomy_refs:
+  - wisdom
+  basis: The farmer's daughter imagines a chain of wealth and admiration, but the
+    physical gesture prompted by the fantasy causes the milk to spill and the imagined
+    gains to vanish.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is a passage-level fable pattern; no broader mythic taxonomy ID is
+    specifically supplied for this exact motif.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself formulates its narrative as an instance of the proverbial
+    pattern of not counting chickens before they are hatched.
+  claim_level: same_function
+  target: proverbial warning against relying on unrealized future gains
+  evidence_refs:
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim is limited to the explicit moral and does not assert historical
+    origin, transmission, or comparison with any external version.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 1394-1398
+  quote_or_summary: A farmer's daughter has milked cows and returns to the dairy carrying
+    a pail of milk on her head.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; concise summary.
+- id: ev:2
+  type: summary
+  locator: 1398-1404
+  quote_or_summary: She muses that the milk will become cream and butter for sale,
+    whose proceeds will buy eggs that will hatch into chickens and a larger poultry-yard.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; concise summary.
+- id: ev:3
+  type: summary
+  locator: 1404-1409
+  quote_or_summary: She imagines selling fowls, buying a new gown for the fair, being
+    admired by young fellows, and tossing her head while rejecting them.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; concise summary.
+- id: ev:4
+  type: summary
+  locator: 1409-1411
+  quote_or_summary: Forgetting the pail, she tosses her head; the pail falls, the
+    milk spills, and her “castles in the air” vanish.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; concise summary with brief public-domain phrase.
+- id: ev:5
+  type: quote
+  locator: '1412'
+  quote_or_summary: "“Do not count your chickens before they are hatched.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The narrative facts and moral are explicit. Motif classification is limited
+    because the available taxonomy contains only broad categories for this fable pattern.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage text was used; no external Aesop variants or comparative traditions were added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l1394-l1412
+  passage_sha256=566bad19518ed82a7c09f39d601fc796c34dcf8e2539b33b98897f387ca3c675
+

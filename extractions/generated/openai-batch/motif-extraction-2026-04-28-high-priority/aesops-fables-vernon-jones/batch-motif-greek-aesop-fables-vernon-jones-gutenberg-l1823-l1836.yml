@@ -1,0 +1,301 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l1823-l1836
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE ASS AND HIS SHADOW / THE FARMER AND HIS SONS / THE DOG AND THE COOK /
+    THE MONKEY AS KING; lines 1823-1836
+  start: '1823'
+  end: '1836'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: At an assembly of animals, the Monkey wins approval by dancing and is made
+    king. The Fox, displeased by this promotion, leads the Monkey to a baited trap
+    by presenting the meat as a royal delicacy. The Monkey is caught, reproaches the
+    Fox, and is mocked for lacking the sense expected of a king.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: All the animals gather, and the Monkey dances before them.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The animals are delighted by the Monkey and make him their King.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Fox is disgusted by the Monkey's promotion.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Fox finds a trap containing a piece of meat.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The Fox tells the Monkey that the meat should be reserved for him as King.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The Monkey goes toward the meat and is caught in the trap.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The Monkey reproaches the Fox for leading him into danger.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The Fox laughs and says the Monkey lacks the sense expected of a King of the
+    Beasts.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Monkey
+  description: An animal who dances, is made King, accepts the Fox's offer of meat,
+    and is caught in the trap.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Fox
+  description: An animal disgusted by the Monkey's promotion who leads the Monkey
+    to a baited trap and mocks him after he is caught.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: all the animals
+  description: The gathered animals who are delighted by the Monkey's dance and make
+    him King.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: promoted king
+  assigned_to:
+  - fig:1
+  basis: The animals make the Monkey their King after his dance delights them.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: deceived victim
+  assigned_to:
+  - fig:1
+  basis: The Monkey accepts the Fox's presentation of the meat and is caught in the
+    trap.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: deceiver
+  assigned_to:
+  - fig:2
+  basis: The Fox leads the Monkey to a trap by describing the bait as a morsel reserved
+    for the King.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: mocking critic
+  assigned_to:
+  - fig:2
+  basis: After the Monkey is caught, the Fox laughs and criticizes his lack of sense.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: kingmakers
+  assigned_to:
+  - fig:3
+  basis: The gathered animals make the Monkey their King.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: baited trap
+  literal_form: a trap with a piece of meat in it
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: reserved morsel
+  literal_form: piece of meat presented as a dainty morsel reserved for the King
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: dance before the animals
+  literal_form: the Monkey danced at a gathering of all the animals
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: animal kingship
+  literal_form: the Monkey is made King / King of the Beasts
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+scenes:
+- id: scene:1
+  label: Election at the animal gathering
+  summary: The animals gather, the Monkey dances, and they make him King because the
+    dance delights them.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Fox presents the bait
+  summary: The Fox, displeased by the Monkey's promotion, finds a trap with meat and
+    tells the Monkey the morsel should be reserved for him as King.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Monkey caught and mocked
+  summary: The Monkey goes for the meat, is caught in the trap, reproaches the Fox,
+    and is mocked for calling himself King without having enough sense to avoid the
+    trick.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: trickster exposes a foolish ruler
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The Fox uses a baited trap and deferential royal language to expose the Monkey's
+    lack of sense after his elevation to kingship.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The taxonomy reference is broad; the passage presents animal deception
+    rather than an explicit mythic boundary-crossing episode.
+- id: motif:2
+  label: unworthy or unwise king
+  taxonomy_refs:
+  - wisdom
+  - royal_legitimacy
+  basis: The Monkey is made King because he delights the animals, but his immediate
+    capture in a simple trap leads the Fox to challenge his fitness as King of the
+    Beasts.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage frames the issue as practical sense rather than formal royal
+    legitimacy doctrine.
+- id: motif:3
+  label: baited food leads to capture
+  taxonomy_refs: []
+  basis: A piece of meat in a trap is presented as a desirable morsel, and the Monkey
+    is caught when he goes for it.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: No supplied taxonomy reference directly matches this concrete fable pattern.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1823-1826
+  quote_or_summary: At a gathering of all the animals, the Monkey dances, delights
+    them, and is made King.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1826-1832
+  quote_or_summary: The Fox is disgusted by the Monkey's promotion, finds a trap with
+    meat in it, takes the Monkey there, and presents the meat as a morsel reserved
+    for the King.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 1832-1834
+  quote_or_summary: The Monkey goes toward the meat, is caught in the trap, and reproaches
+    the Fox for leading him into danger.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 1834-1836
+  quote_or_summary: "“O Monkey, you call yourself King of the Beasts and haven't more
+    sense than to be taken in like that!”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is brief and the literal extraction is straightforward. Motif
+    taxonomy alignment is approximate because the available motif families are broad.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage text was used; no external Aesop parallels or tale-type comparisons were added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l1823-l1836
+  passage_sha256=3c911c26f9113977be800d41527dc6d8440ff886e14ffbff1416ea7396bf722c
+

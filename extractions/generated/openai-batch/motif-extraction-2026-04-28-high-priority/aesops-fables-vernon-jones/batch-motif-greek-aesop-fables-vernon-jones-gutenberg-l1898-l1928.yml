@@ -1,0 +1,433 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l1898-l1928
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: JUPITER AND THE MONKEY / FATHER AND SONS / THE LAMP / THE OWL AND THE BIRDS;
+    lines 1898-1928
+  start: '1898'
+  end: '1928'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A personified lamp boasts that it shines more brightly than the sun, is
+    blown out by wind, and is relit by someone who tells it not to compare itself
+    with celestial lights. An owl repeatedly warns other birds about future dangers
+    from oak and mistletoe birdlime, flax nets, and an archer using feathered arrows;
+    the birds ignore and mock her until events confirm her warnings, after which they
+    respect her wisdom, though she no longer advises them.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A lamp filled with oil burns steadily and boasts that it shines more brightly
+    than the sun.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A puff of wind blows the lamp out, and someone lights it again with a match.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The relighter tells the lamp to remain alight and not mind the sun, noting
+    that even the stars do not need to be relit.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The owl calls the other birds together when the first oak sprouts and advises
+    them to destroy it while it is small.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The owl says that mistletoe will grow on the oak and that birdlime made from
+    it will be used for the birds' destruction.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: When the first flax is sown, the owl tells the birds to eat the seed because
+    men will make nets from flax to catch them.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: When the owl sees the first archer, she warns that he is a deadly enemy who
+    will wing arrows with the birds' own feathers and shoot them.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The birds ignore the owl, think she is mad, and laugh at her.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: After the owl's warnings come true, the birds respect her wisdom and attend
+    upon her, but she no longer gives advice.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Lamp
+  description: A personified oil-filled lamp that burns, boasts, is blown out, and
+    is relit.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Sun
+  description: The celestial light against which the lamp compares its own brightness.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Stars
+  description: Celestial lights cited as not needing to be relit.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Someone who relights the lamp
+  description: An unnamed person who strikes a match, lights the lamp again, and addresses
+    it.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Owl
+  description: A wise bird who warns the other birds about future dangers and later
+    withholds further advice.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:6
+  name_or_label: Other Birds
+  description: The birds whom the owl warns; they ignore and laugh at her, then later
+    respect her wisdom.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:7
+  name_or_label: Men
+  description: Humans described as future makers of nets from flax.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:8
+  name_or_label: First archer
+  description: An archer whom the owl identifies as a deadly enemy of the birds.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: boastful lesser light
+  assigned_to:
+  - fig:1
+  basis: The lamp boasts that it shines more brightly than the sun, but is easily
+    extinguished and must be relit.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: unrivaled celestial light
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The sun is the object of the lamp's boastful comparison, and the stars are
+    cited as lights that do not need relighting.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: corrective speaker
+  assigned_to:
+  - fig:4
+  basis: The unnamed person relights the lamp and tells it not to compare itself with
+    the sun or stars.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: wise but ignored warner
+  assigned_to:
+  - fig:5
+  basis: The owl gives repeated warnings about future dangers; the birds dismiss her
+    until her predictions come true.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:5
+  label: dismissive audience
+  assigned_to:
+  - fig:6
+  basis: The birds take no notice, think the owl mad, and laugh at her before later
+    respecting her.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: human threat to birds
+  assigned_to:
+  - fig:7
+  - fig:8
+  basis: Men are said to make flax nets to catch birds, and the archer is described
+    as a deadly enemy who shoots them.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: lamp flame
+  literal_form: oil-filled lamp burning with clear steady light
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: sun and stars
+  literal_form: sun and stars as celestial lights
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: puff of wind
+  literal_form: wind that blows out the lamp
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: oak tree
+  literal_form: first oak sprouting in the forest
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: mistletoe and birdlime
+  literal_form: mistletoe on the oak from which birdlime will be prepared
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: flax seed and nets
+  literal_form: first flax seed and nets made from flax
+  associated_figures:
+  - fig:5
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:7
+  label: feathered arrows
+  literal_form: arrows winged with birds' own feathers
+  associated_figures:
+  - fig:5
+  - fig:6
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: The boastful lamp is extinguished and relit
+  summary: The lamp boasts against the sun, is blown out by wind, is relit by an unnamed
+    person, and is corrected by comparison with the sun and stars.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: The owl warns about the oak and birdlime
+  summary: At the first oak sprout, the owl advises the birds to destroy it because
+    mistletoe and birdlime will later threaten them.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: The owl warns about flax nets
+  summary: When the first flax is sown, the owl urges the birds to eat the seed because
+    humans will make nets from it.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: The owl warns about the archer
+  summary: The owl identifies the first archer as a deadly enemy who will shoot birds
+    with arrows feathered from their own bodies.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:8
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Rejected wisdom becomes recognized too late
+  summary: The birds mock and ignore the owl, then later respect her after her warnings
+    prove true; the owl no longer offers advice.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: boastful lesser light humbled by extinction
+  taxonomy_refs: []
+  basis: The lamp boasts that it outshines the sun, but a small wind extinguishes
+    it and it must be relit by another.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: No supplied taxonomy family directly names this fable pattern.
+- id: motif:2
+  label: ignored wise warning later proven true
+  taxonomy_refs:
+  - wisdom
+  basis: The owl gives repeated practical warnings that are rejected and mocked; later
+    events confirm her words and the birds recognize her wisdom.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The taxonomy reference is broad; the passage supports wisdom through the
+    owl's foresight, not a detailed wisdom tradition comparison.
+- id: motif:3
+  label: danger made from the victim's own body
+  taxonomy_refs: []
+  basis: The owl warns that the archer will wing arrows with the birds' own feathers
+    and shoot them.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: This is a local pattern within the fable rather than a confirmed cross-cultural
+    motif claim.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1898-1901
+  quote_or_summary: The lamp, filled with oil and burning steadily, becomes proud
+    and boasts that it shines more brightly than the sun.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 1901-1905
+  quote_or_summary: A wind blows the lamp out; someone relights it with a match and
+    says it should stay alight and not mind the sun, since the stars do not need relighting.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 1907-1913
+  quote_or_summary: The owl calls the birds together at the first oak sprout and advises
+    them to destroy it, warning that mistletoe and birdlime from it will threaten
+    them.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 1913-1916
+  quote_or_summary: At the first sowing of flax, the owl tells the birds to eat the
+    seed because men will later make nets from flax to catch them.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 1916-1919
+  quote_or_summary: On seeing the first archer, the owl warns the birds that he will
+    use their feathers on arrows and shoot them.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 1919-1928
+  quote_or_summary: The birds ignore and laugh at the owl, later respect her when
+    her warnings come true, and thereafter attend upon her, though she no longer advises
+    them.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary generated from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based only on the supplied passage. Motif labels are descriptive;
+    only the broad wisdom taxonomy reference is directly supported by the passage
+    and available taxonomy.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No external comparisons were added because the passage itself does not support a specific comparison beyond local fable patterns.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l1898-l1928
+  passage_sha256=9e739fcabbe8a5c404b1473bbeb3c2c23e9376e04ff915703b3e86e531571a5a
+

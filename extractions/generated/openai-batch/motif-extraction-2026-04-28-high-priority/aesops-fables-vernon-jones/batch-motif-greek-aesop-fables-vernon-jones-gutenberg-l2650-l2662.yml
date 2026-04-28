@@ -1,0 +1,273 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l2650-l2662
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE IMAGE-SELLER / THE EAGLE AND THE ARROW / THE RICH MAN AND THE TANNER
+    / THE WOLF, THE MOTHER, AND HER CHILD; lines 2650-2662
+  start: '2650'
+  end: '2662'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A hungry wolf follows a child's cries to a cottage and waits under the
+    window after hearing the mother threaten to throw the child to the wolf. Later
+    he hears the mother comfort the child and say the wolf will not get the child
+    because Daddy will kill him. The wolf leaves in disgust, concluding that the people
+    in the house cannot be believed.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A hungry wolf prowls in search of food.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The wolf is attracted to a cottage by a child's cries.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The wolf crouches beneath the cottage window and hears the mother speak to
+    the child.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The mother tells the child to stop crying or she will throw the child to the
+    wolf.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The wolf believes the mother's threat and waits a long time expecting to satisfy
+    his hunger.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: In the evening, the mother fondles the child and says the wolf will not get
+    the child and that Daddy will kill him.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The wolf leaves in disgust and says the people in the house cannot be believed.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Wolf
+  description: A hungry wolf prowling for food, listening at a cottage window, waiting,
+    then leaving in disgust.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:6
+- id: fig:2
+  name_or_label: Mother
+  description: A mother inside the cottage who first threatens to throw her crying
+    child to the wolf, then comforts the child and says the wolf will not get the
+    child.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: Child
+  description: A crying child in the cottage who is addressed and comforted by the
+    mother.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:4
+  name_or_label: Daddy
+  description: Mentioned by the mother as the one who will kill the wolf if he comes.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: hungry animal seeker
+  assigned_to:
+  - fig:1
+  basis: The wolf prowls about in search of food.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: speaker of contradictory threats and reassurance
+  assigned_to:
+  - fig:2
+  basis: The mother first threatens to throw the child to the wolf, then later says
+    the wolf will not get the child.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:3
+  label: crying child
+  assigned_to:
+  - fig:3
+  basis: The wolf is attracted by the cries of the child, and the mother tells the
+    child to stop crying.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: duped listener
+  assigned_to:
+  - fig:1
+  basis: The wolf believes the mother's words and waits, then discovers the later
+    statement contradicts the first.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:5
+  label: threatened protector
+  assigned_to:
+  - fig:4
+  basis: The mother says Daddy will kill the wolf.
+  evidence_refs:
+  - ev:5
+symbols: []
+scenes:
+- id: scene:1
+  label: Wolf follows crying to the cottage
+  summary: A hungry wolf searches for food, hears a child's cries, and comes to a
+    cottage where he crouches under the window.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Threat overheard and believed
+  summary: The wolf hears the mother threaten to throw the child to the wolf and waits,
+    expecting the threat to be carried out.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Contradictory reassurance and departure
+  summary: In the evening, the mother reassures the child that the wolf will not get
+    them and that Daddy will kill him; the wolf leaves, saying the people in the house
+    cannot be believed.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Taking a threat literally
+  taxonomy_refs:
+  - wisdom
+  basis: The wolf accepts the mother's threat as literal and waits for the child to
+    be given to him, but the mother's later words reveal the threat was not meant
+    as a real promise.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The taxonomy reference is broad; the passage is a moral fable about speech
+    and credulity rather than a wisdom myth in a strict mythological sense.
+- id: motif:2
+  label: Unreliable human speech deceives an animal
+  taxonomy_refs:
+  - wisdom
+  basis: The wolf hears two incompatible human statements and concludes that the household's
+    words cannot be believed.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: This is an inferred fable pattern from the passage's action and closing
+    statement, not an explicit taxonomy motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2650-2652
+  quote_or_summary: A hungry wolf prowls about looking for food.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 2652-2653
+  quote_or_summary: The wolf is drawn by a child's cries and comes to a cottage.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 2653-2656
+  quote_or_summary: The wolf crouches beneath the window and hears the mother say,
+    "Stop crying, do! or I'll throw you to the Wolf."
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; brief quotation from public domain text.
+- id: ev:4
+  type: summary
+  locator: lines 2656-2658
+  quote_or_summary: The wolf thinks the mother means what she says and waits a long
+    time, expecting to satisfy his hunger.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: lines 2658-2660
+  quote_or_summary: 'In the evening the mother fondles the child and says, "If the
+    naughty Wolf comes, he shan''t get my little one: Daddy will kill him."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; brief quotation from public domain text.
+- id: ev:6
+  type: quote
+  locator: lines 2660-2662
+  quote_or_summary: The wolf leaves in disgust and says, "you can't believe a word
+    they say."
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; brief quotation from public domain text.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is short and self-contained. Motif labels are plain descriptive
+    fable patterns; available taxonomy references are only broadly applicable.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No symbols from the supplied symbol taxonomy are present in the passage. No comparison claims are made because the passage itself does not support a specific comparative link.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l2650-l2662
+  passage_sha256=bb790918f96a55ddf56201c43be58ccb53c8f117d55139380f508bad159e2e31
+

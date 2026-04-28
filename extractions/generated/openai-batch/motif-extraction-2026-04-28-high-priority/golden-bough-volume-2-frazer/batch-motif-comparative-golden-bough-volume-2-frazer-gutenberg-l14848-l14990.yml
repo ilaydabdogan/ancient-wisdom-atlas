@@ -1,0 +1,393 @@
+---
+record_id: batch.motif.comparative-golden-bough-volume-2-frazer-gutenberg-l14848-l14990
+source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+passage_locator:
+  label: CONTENTS / NOTE. OFFERINGS OF FIRST-FRUITS. / INDEX. / FOOTNOTES; lines 14848-14990
+  start: '14848'
+  end: '14990'
+  translation: 'The Golden Bough: A Study in Comparative Religion (Vol. 2 of 2)'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is a sequence of footnotes citing sources for European plant
+    lore, mistletoe beliefs, Johannisfeuer, Baldr, oak and acorn evidence, Lithuanian
+    Perkunas fire, need-fire made by friction of selected woods, and Indian folktale
+    parallels including life lodged in bees.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Hunters are said to believe that mistletoe heals all wounds and brings luck
+    in hunting.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Grimm is cited as asking whether the Johannisfeuer recall Baldr's funeral
+    fire, and Frazer comments that this hint contains the solution of the whole myth.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage notes evidence that oak woods were formerly more common in parts
+    of Europe and that acorns appear in prehistoric village remains as food evidence.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A reported Lithuanian practice says that if the fire maintained in honor of
+    Perkunas went out, it was rekindled from sparks struck from a stone held by the
+    god's image.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The need-fire is described in cited sources as made by friction of oak and
+    fir, and elsewhere as made with nine kinds of wood whose types are not specified.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The footnotes cite Indian tale collections and indicate similar stories involving
+    necklaces.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The passage cites an Indian story in which a giant's life is in five black
+    bees.
+  category: relationship
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: hunters
+  description: People described as believing in mistletoe's healing and hunting-luck
+    powers.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Baldr
+  description: A mythic figure whose funeral fire is mentioned through Grimm's comparison
+    with Johannisfeuer.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Perkunas
+  description: Lithuanian god in whose honor a fire is said to be maintained.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: giant in an Indian story
+  description: A giant whose life is said to be in five black bees.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: believers in plant efficacy
+  assigned_to:
+  - fig:1
+  basis: The passage attributes beliefs about mistletoe's healing and hunting luck
+    to hunters.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: figure associated with funeral fire
+  assigned_to:
+  - fig:2
+  basis: Baldr is referenced in connection with a funeral fire compared to Johannisfeuer.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: deity honored by maintained fire
+  assigned_to:
+  - fig:3
+  basis: The fire is explicitly described as maintained in honor of Perkunas.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: being with life externalized in animals
+  assigned_to:
+  - fig:4
+  basis: The cited Indian story places the giant's life in five black bees.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: mistletoe
+  literal_form: mistletoe plant
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Johannisfeuer
+  literal_form: festival fires called Johannisfeuer
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Baldr's funeral fire
+  literal_form: funeral pyre or cremation fire
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: oak and acorns
+  literal_form: oak woods and acorns
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: Perkunas fire
+  literal_form: fire maintained in honor of Perkunas
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: spark-stone
+  literal_form: stone held by the image of the god and used to strike sparks
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:7
+  label: need-fire woods
+  literal_form: oak, fir, or nine kinds of wood used to make need-fire by friction
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  - tree
+  evidence_refs:
+  - ev:5
+- id: sym:8
+  label: five black bees
+  literal_form: five black bees containing a giant's life
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Mistletoe as healing and hunting-luck plant
+  summary: A footnote reports a belief among hunters that mistletoe heals wounds and
+    brings hunting luck.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Johannisfeuer compared with Baldr's funeral fire
+  summary: A scholarly note cites Grimm's suggestion that Johannisfeuer may recall
+    Baldr's funeral fire and records Frazer's approval of the hint.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Rekindling Perkunas's fire
+  summary: A reported Lithuanian practice states that an extinguished fire for Perkunas
+    was rekindled by sparks from a stone held by the god's image.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Making need-fire from special woods
+  summary: The passage cites descriptions of need-fire produced by friction of oak
+    and fir, or sometimes with nine kinds of wood.
+  figure_refs: []
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Giant's life in bees
+  summary: An Indian story is cited in which a giant's life is located in five black
+    bees.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:8
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Mistletoe as healing and hunting-luck plant
+  taxonomy_refs: []
+  basis: The passage reports that hunters believe mistletoe heals wounds and brings
+    hunting luck.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: This is a brief footnote statement, not a narrative episode.
+- id: motif:2
+  label: Festival fire interpreted through divine funeral fire
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: Johannisfeuer are compared by Grimm, and endorsed by Frazer, with Baldr's
+    funeral fire.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage records a scholarly inference rather than a primary myth text;
+    the seasonal-cycle classification rests on the fire-festival context only.
+- id: motif:3
+  label: Sacred fire rekindled from deity's object
+  taxonomy_refs: []
+  basis: A fire maintained in honor of Perkunas is said to be rekindled from a stone
+    held by the god's image.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The note is secondhand and explicitly says the cited authority is uncertain.
+- id: motif:4
+  label: Need-fire generated by friction of prescribed woods
+  taxonomy_refs: []
+  basis: The passage records need-fire made by friction of oak and fir, or with nine
+    kinds of wood.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The purpose of the need-fire is not given in this passage segment.
+- id: motif:5
+  label: Externalized life hidden in animals
+  taxonomy_refs: []
+  basis: The passage cites an Indian story in which a giant's life is in five black
+    bees.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: Only a citation-level summary is provided; the full story context is absent.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself supports a cautious comparison between Johannisfeuer and
+    Baldr's funeral fire because it quotes Grimm's question on the connection and
+    Frazer explicitly endorses the hint.
+  claim_level: same_function
+  target: Johannisfeuer and Baldr's funeral fire
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is a scholarly comparative claim in a footnote; it does not present
+    independent ritual or myth details in this excerpt.
+- id: claim:2
+  claim: The passage groups Indian folktales as similar stories and includes the pattern
+    of a giant whose life is located outside his body in bees.
+  claim_level: same_motif
+  target: Indian folktale external-life stories
+  evidence_refs:
+  - ev:6
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage provides only bibliographic references and brief summaries,
+    not the full narratives.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 14848-14990; footnote 778
+  quote_or_summary: Hunters believe that mistletoe heals all wounds and brings luck
+    in hunting.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain; Project Gutenberg source metadata indicates full text
+    allowed.
+- id: ev:2
+  type: summary
+  locator: lines 14848-14990; footnote 783
+  quote_or_summary: Grimm asks whether Johannisfeuer recall Baldr's funeral fire;
+    Frazer says this hint contains in germ the solution of the whole myth.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain; Project Gutenberg source metadata indicates full text
+    allowed.
+- id: ev:3
+  type: summary
+  locator: lines 14848-14990; footnote 789
+  quote_or_summary: The note discusses former European oak woods and prehistoric evidence
+    for acorns as food in Northern Italian pile villages.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain; Project Gutenberg source metadata indicates full text
+    allowed.
+- id: ev:4
+  type: summary
+  locator: lines 14848-14990; footnote 791
+  quote_or_summary: A report states that if Perkunas's honored fire went out, it was
+    rekindled by sparks struck from a stone held in the god image's hand.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain; Project Gutenberg source metadata indicates full text
+    allowed.
+- id: ev:5
+  type: summary
+  locator: lines 14848-14990; footnote 792
+  quote_or_summary: Need-fire is said to have been made by friction of oak and fir;
+    other sources say it should be made with nine kinds of wood, unspecified.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain; Project Gutenberg source metadata indicates full text
+    allowed.
+- id: ev:6
+  type: summary
+  locator: lines 14848-14990; footnotes 797-803
+  quote_or_summary: The passage cites Indian fairy-tale collections and notes similar
+    stories, including references to stories of necklaces.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain; Project Gutenberg source metadata indicates full text
+    allowed.
+- id: ev:7
+  type: summary
+  locator: lines 14848-14990; footnote 804
+  quote_or_summary: A cited Indian story has a giant's life in five black bees.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain; Project Gutenberg source metadata indicates full text
+    allowed.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is mostly footnotes and citations rather than full narrative;
+    several motifs are citation-level and require human review against the referenced
+    primary or folklore sources.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No unsupported figures or taxonomy IDs were added beyond the provided passage and available taxonomy references.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:comparative-golden-bough-volume-2-frazer-gutenberg__l14848-l14990
+  passage_sha256=479c56224df74f4561aa91e2dfb66c28629c217a28005d710c76e7bcea0b853a
+

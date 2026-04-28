@@ -1,0 +1,372 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l2892-l2910
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE TWO POTS / THE OLD HOUND / THE CLOWN AND THE COUNTRYMAN / THE LARK AND
+    THE FARMER; lines 2892-2910
+  start: '2892'
+  end: '2910'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A mother lark nests in a cornfield with her young. A farmer first says
+    he will ask neighbours to help reap, and the mother lark says there is no hurry
+    to leave. Later, when the crop is overripe, the farmer says he will hire men and
+    begin at once. The mother lark then tells her young they must leave because the
+    farmer now intends to act himself. The stated moral is that self-help is the best
+    help.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A lark has a nest in a field of corn and is rearing her young under the cover
+    of ripening grain.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The young birds are not yet fully fledged when the farmer inspects the crop.
+  category: attribute
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: The farmer says he must send word to his neighbours to come and help reap
+    the field.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: One young lark overhears the farmer, becomes frightened, and asks the mother
+    whether they should move at once.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The mother lark replies that there is no hurry and says a man who looks to
+    friends for help will take his time.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: After a few days, the farmer sees that the grain is overripe and falling from
+    the ears to the ground.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The farmer says he must delay no longer and will hire men that day and set
+    them to work at once.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The mother lark tells her young they must leave because the farmer no longer
+    speaks of friends and is going to take matters in hand himself.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: 'The passage ends with the moral: self-help is the best help.'
+  category: speech
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Mother lark
+  description: A lark nesting in a cornfield and rearing her brood; she interprets
+    the farmer's words and decides when to leave.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:7
+- id: fig:2
+  name_or_label: Young larks
+  description: The lark's brood, not yet fully fledged; one overhears the farmer and
+    is frightened.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:3
+  name_or_label: Farmer
+  description: The farmer inspects the corn crop and changes from seeking neighbourly
+    help to arranging immediate hired labor.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: Neighbours
+  description: People the farmer first says he will ask to help reap the field.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Hired men
+  description: Workers the farmer later says he will hire and set to work at once.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: nesting mother
+  assigned_to:
+  - fig:1
+  basis: The lark is rearing her brood in the cornfield.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: prudent interpreter of danger
+  assigned_to:
+  - fig:1
+  basis: She distinguishes between delayed action dependent on friends and immediate
+    action undertaken by the farmer himself.
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: role:3
+  label: vulnerable young
+  assigned_to:
+  - fig:2
+  basis: The young are not fully fledged and are frightened by the farmer's plan.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:4
+  label: crop owner preparing to reap
+  assigned_to:
+  - fig:3
+  basis: The farmer inspects the crop and plans to reap the field.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+- id: role:5
+  label: anticipated helpers
+  assigned_to:
+  - fig:4
+  basis: The farmer first says he will ask neighbours to help reap.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: anticipated hired workers
+  assigned_to:
+  - fig:5
+  basis: The farmer later says he will hire men and set them to work at once.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: cornfield
+  literal_form: field of corn
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: ripening and overripe grain
+  literal_form: ripening grain that becomes overripe and falls from the ears
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: sym:3
+  label: nest
+  literal_form: lark's nest under cover of grain
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Lark nesting in the cornfield
+  summary: A mother lark raises her brood in a cornfield beneath the cover of ripening
+    grain before the young are fully fledged.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Farmer plans to ask neighbours
+  summary: The farmer inspects the yellowing crop and says he will ask neighbours
+    to help reap. A young lark is frightened, but the mother says there is no hurry
+    because reliance on friends will delay action.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Farmer decides to act at once
+  summary: A few days later, with the grain overripe, the farmer says he will hire
+    workers that same day. The mother lark then tells her young they must leave because
+    the farmer is now acting for himself.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: scene:4
+  label: Explicit moral
+  summary: The fable concludes with the moral that self-help is the best help.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: self-help as effective action
+  taxonomy_refs:
+  - wisdom
+  basis: The mother lark treats the farmer's decision to act himself as the sign of
+    imminent danger, and the explicit moral states that self-help is best.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The taxonomy reference is broad; the passage presents a practical moral
+    rather than a mythic wisdom episode.
+- id: motif:2
+  label: delay caused by reliance on others
+  taxonomy_refs:
+  - wisdom
+  basis: The mother lark says a man who looks to friends for help will take his time,
+    and she does not move the brood until the farmer plans direct action.
+  evidence_refs:
+  - ev:4
+  - ev:7
+  confidence: medium
+  cautions: This is a moral pattern within a fable; it is not tied to a specific named
+    comparative motif in the supplied taxonomy.
+- id: motif:3
+  label: animal wisdom from overheard human speech
+  taxonomy_refs:
+  - wisdom
+  basis: The larks hear the farmer's plans, and the mother lark draws practical conclusions
+    about when the family must flee.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The passage supports the pattern internally, but no narrower taxonomy
+    identifier is supplied.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2892-2895
+  quote_or_summary: A lark nests in a cornfield and rears her brood under ripening
+    grain before the young are fully fledged.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary generated from provided passage.
+- id: ev:2
+  type: quote
+  locator: lines 2895-2897
+  quote_or_summary: The farmer says he must send word to his neighbours to help reap
+    the field.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short excerpt/paraphrase from provided passage.
+- id: ev:3
+  type: summary
+  locator: lines 2897-2899
+  quote_or_summary: One young lark overhears the farmer, becomes frightened, and asks
+    the mother if they should move house at once.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary generated from provided passage.
+- id: ev:4
+  type: quote
+  locator: lines 2899-2901
+  quote_or_summary: The mother says there is no hurry, because a man who looks to
+    friends for help will take his time.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short excerpt/paraphrase from provided passage.
+- id: ev:5
+  type: summary
+  locator: lines 2901-2903
+  quote_or_summary: A few days later the farmer sees the grain is overripe and falling
+    from the ears onto the ground.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary generated from provided passage.
+- id: ev:6
+  type: quote
+  locator: lines 2903-2905
+  quote_or_summary: The farmer says he will put it off no longer and will hire men
+    that day to begin work at once.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short excerpt/paraphrase from provided passage.
+- id: ev:7
+  type: quote
+  locator: lines 2905-2908
+  quote_or_summary: The mother lark tells her children they must leave because the
+    farmer no longer speaks of friends and will take things in hand himself.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short excerpt/paraphrase from provided passage.
+- id: ev:8
+  type: quote
+  locator: line 2910
+  quote_or_summary: Self-help is the best help.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation from provided passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The fable's plot and moral are explicit. Motif candidates are framed broadly
+    under the supplied wisdom taxonomy; no external comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the provided passage text and metadata were used. No claims of historical contact or cross-tradition comparison are included.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l2892-l2910
+  passage_sha256=960fcc4d5e1b91ad2a14db71a9dd072da0332bbf64ec855d43de642e9b01686e
+

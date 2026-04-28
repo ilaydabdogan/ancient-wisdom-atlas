@@ -1,0 +1,384 @@
+---
+record_id: batch.motif.comparative-golden-bough-volume-1-frazer-gutenberg-l12925-l13120
+source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+passage_locator:
+  label: CHAPTER II. THE PERILS OF THE SOUL. / HEINE. / CHAPTER III. KILLING THE GOD.
+    / FOOTNOTES; lines 12925-13120
+  start: '12925'
+  end: '13120'
+  translation: 'The Golden Bough: A Study in Comparative Religion (Vol. 1 of 2)'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is a sequence of scholarly footnotes citing sources for discussions
+    of sacrifices, Khond ritual details, animal forms of an Earth Goddess, harvest
+    timing, calendar correspondence involving Tammuz, Egyptian human sacrifice traditions,
+    Roman Catularia references, and later European folk-lore sources.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A note states that Schoolcraft and De Smet give independent and mutually supplementary
+    accounts of the sacrifice of a Sioux girl.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A note states that an elephant represented the Earth Goddess and that she
+    was conceived in elephant form in that context.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The same note states that in the hill tracts of Goomsur the Earth Goddess
+    was represented in peacock form, and that the post to which a victim was bound
+    bore a peacock effigy.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: 'A note gives an alternate ritual object: instead of a branch of a green tree,
+    Campbell mentions planks, bamboos, or a slit bamboo.'
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A note says the author does not know when corn is reaped in Phrygia, but thinks
+    harvest is probably later there than on Mediterranean coasts.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: 'A note reports a proposed calendar correspondence: in the Syro-Macedonian
+    calendar Lous represents Ab, while for Babylon the note argues that Lous answered
+    to the lunar month Tammuz.'
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: A note contrasts Herodotus, who discredits Egyptian human sacrifice, with
+    Manetho, who is said to affirm that Egyptians did offer human sacrifices.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: A note cites Festus on Catularia and rutilae canes, along with Columella,
+    Ovid, and Pliny.
+  category: other
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Sioux girl
+  description: A girl mentioned in a note as the subject of accounts of a sacrifice.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Earth Goddess
+  description: A goddess described as represented or conceived in elephant form and,
+    in another locality, represented in peacock form.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Bound victim
+  description: An unnamed victim associated with a post bearing a peacock effigy.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Egyptians
+  description: A group discussed in a note concerning whether they offered human sacrifices.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: sacrificial victim
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: The passage refers to the sacrifice of a Sioux girl and to a victim bound
+    to a post in a ritual context.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: deity represented in animal form
+  assigned_to:
+  - fig:2
+  basis: The Earth Goddess is said to be represented or conceived in elephant form
+    and represented in peacock form.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: people associated with disputed human sacrifice tradition
+  assigned_to:
+  - fig:4
+  basis: The note records disagreement between ancient authorities about whether Egyptians
+    offered human sacrifices.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: elephant-form goddess
+  literal_form: elephant
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: peacock-form goddess and peacock effigy
+  literal_form: peacock; peacock effigy on a post
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: green tree branch
+  literal_form: branch of a green tree
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: corn harvest
+  literal_form: corn reaped in Phrygia
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: Tammuz month correspondence
+  literal_form: lunar month Tammuz; Lous
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Footnote on Sioux girl sacrifice
+  summary: The note cites travel and ethnographic sources and states that two accounts
+    of the sacrifice of a Sioux girl are independent and supplementary.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Earth Goddess represented through animal forms
+  summary: The note describes the Earth Goddess as represented in elephant form and,
+    in Goomsur, peacock form; a victim's post bore a peacock effigy.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Ritual object variant involving green tree branch
+  summary: 'A note records an alternate description of the object: a green tree branch
+    is replaced in another account by planks or bamboo.'
+  figure_refs: []
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Harvest and calendar notes
+  summary: The notes discuss probable harvest timing in Phrygia and a proposed correspondence
+    between Lous and Tammuz in calendar systems.
+  figure_refs: []
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:5
+  label: Disputed Egyptian human sacrifice testimony
+  summary: The note reports that Herodotus denies Egyptian human sacrifice while Manetho
+    affirms it.
+  figure_refs:
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Human sacrifice
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage explicitly mentions the sacrifice of a Sioux girl, a victim bound
+    to a post, and testimony about Egyptian human sacrifices.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+  confidence: high
+  cautions: The passage is made of footnotes and supplies little ritual narrative
+    detail in this excerpt.
+- id: motif:2
+  label: Sacrificial victim associated with deity in animal form
+  taxonomy_refs:
+  - sacrifice
+  - mother_goddess
+  basis: The Earth Goddess is described through elephant and peacock forms in a note
+    that also mentions a victim bound to a post bearing a peacock effigy.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The note does not itself explain the full rite or the theological meaning
+    of the animal forms.
+- id: motif:3
+  label: Seasonal or harvest timing in cultic comparison
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage includes notes on Phrygian corn harvest timing and on the calendar
+    correspondence of Lous and Tammuz.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The excerpt gives calendar and harvest notes rather than a full mythic
+    episode.
+- id: motif:4
+  label: Ritual use of tree branch or bamboo substitute
+  taxonomy_refs:
+  - tree
+  basis: A note contrasts a branch of a green tree with planks or bamboo as alternate
+    objects in the described rite.
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: The wider ritual context is not present in this excerpt, so the symbolic
+    role of the branch is uncertain.
+comparison_claims:
+- id: claim:1
+  claim: The notes support a cautious comparison of several cited materials under
+    a broad sacrifice motif, including a Sioux girl sacrifice, Khond victim imagery,
+    and Egyptian human sacrifice testimony.
+  claim_level: same_motif
+  target: sacrifice motif family across cited ethnographic and ancient sources
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage is bibliographic and does not give enough narrative detail
+    to determine close structural equivalence among the cited rites.
+- id: claim:2
+  claim: The calendar note makes a specific correspondence claim between Lous and
+    the lunar month Tammuz in Babylonian dating.
+  claim_level: same_function
+  target: Syro-Macedonian Lous and Babylonian lunar month Tammuz
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim concerns calendrical correspondence rather than a complete
+    mythic motif.
+- id: claim:3
+  claim: The Earth Goddess note permits a cautious comparison of elephant and peacock
+    forms as alternate local representations of the same goddess.
+  claim_level: same_function
+  target: animal-form representations of the Earth Goddess in cited Khond-related
+    contexts
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The note gives only brief source commentary and does not describe how
+    worshippers interpreted the two animal forms.
+evidence:
+- id: ev:1
+  type: summary
+  locator: note 1264 within lines 12925-13120
+  quote_or_summary: Cites James, Schoolcraft, and De Smet; states that Schoolcraft
+    and De Smet give independent, supplementary accounts of the sacrifice of the Sioux
+    girl.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: note 1282 within lines 12925-13120
+  quote_or_summary: States that the elephant represented the Earth Goddess conceived
+    in elephant form; in Goomsur she was represented in peacock form, and a victim's
+    post bore a peacock effigy.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: note 1279 within lines 12925-13120
+  quote_or_summary: 'Notes a variant object: instead of a branch of a green tree,
+    Campbell mentions planks, bamboos, or a slit bamboo.'
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: note 1305 within lines 12925-13120
+  quote_or_summary: The author says he does not know when corn is reaped in Phrygia,
+    but thinks harvest is probably later there than on Mediterranean coasts.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: note 1314 within lines 12925-13120
+  quote_or_summary: Robertson Smith's note discusses month correspondences and concludes
+    that Lous answered to the lunar month Tammuz.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: note 1316 within lines 12925-13120
+  quote_or_summary: Cites sources on Egyptian human sacrifice; says Herodotus discredits
+    the idea, while Manetho affirms it.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: citation
+  locator: note 1320 within lines 12925-13120
+  quote_or_summary: Cites Festus on Catularia and rutilae canes, with Columella, Ovid,
+    and Pliny.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; citation summarized.
+- id: ev:8
+  type: citation
+  locator: notes 1321-1339 within lines 12925-13120
+  quote_or_summary: Cites Panzer, Bavaria, Plutarch, Pausanias, Cornutus, Hone, Shropshire
+    Folk-lore, Brand, Mannhardt, Revue des Traditions populaires, and internal cross-references.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; citation summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The excerpt is primarily footnotes, so extraction is limited to explicit
+    references and brief explanatory comments. Wider narrative context from the chapter
+    is not included.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No external sources or unstated context were used. Taxonomy references were assigned only where supported by explicit passage content and the provided available taxonomy list.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:comparative-golden-bough-volume-1-frazer-gutenberg__l12925-l13120
+  passage_sha256=2f3f9bfe264644fa425023b697d5c34c80daedfaf0b9a83545c770defa5e6e71
+

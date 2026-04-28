@@ -1,0 +1,252 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l3226-l3245
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE CROW AND THE SWAN / THE STAG WITH ONE EYE / THE FLY AND THE DRAUGHT-MULE
+    / THE COCK AND THE JEWEL; lines 3226-3245
+  start: '3226'
+  end: '3245'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: In one fable, a Fly sitting on a cart shaft threatens a Mule for moving
+    slowly, but the Mule replies that he obeys only the master who holds the reins
+    and whip. In the next fable, a Cock searching for food finds a Jewel and says
+    that its owner would rejoice, but he would rather have a grain of corn than all
+    jewels.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A Fly sits on one shaft of a cart while a Mule is pulling it.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Fly tells the Mule to go faster and threatens to use its sting as a goad.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Mule says the master behind him holds the reins, uses a whip, and is the
+    one he obeys.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A Cock scratches the ground for food and turns up a Jewel that had been dropped
+    there by chance.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Cock says the Jewel would bring joy to its owner but that he prefers a
+    grain of corn to all the jewels in the world.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Fly
+  description: A fly sitting on a cart shaft and addressing the Mule.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Mule
+  description: A draught-mule pulling a cart and responding calmly to the Fly.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Master
+  description: The Mule's master, seated in the cart, holding the reins and using
+    a whip.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Cock
+  description: A cock scratching the ground for food and evaluating the Jewel he finds.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: impertinent threatener
+  assigned_to:
+  - fig:1
+  basis: The Fly threatens to use its sting as a goad, and the Mule rejects its impertinence.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: working animal under rightful control
+  assigned_to:
+  - fig:2
+  basis: The Mule is pulling the cart and says he obeys the master who holds the reins
+    and whip.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: controller of the draught animal
+  assigned_to:
+  - fig:3
+  basis: The master sits behind the Mule, holds the reins, and flicks the Mule with
+    a whip.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: practical evaluator
+  assigned_to:
+  - fig:4
+  basis: The Cock values a grain of corn over jewels because he is searching for food.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: sting as goad
+  literal_form: The Fly's sting, threatened as a goad.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: reins and whip
+  literal_form: The master's reins and whip used to control the Mule.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: jewel
+  literal_form: A Jewel found by chance in the ground.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: grain of corn
+  literal_form: A single grain of corn preferred by the Cock over jewels.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Fly threatens the draught-mule
+  summary: A Fly sits on a cart shaft and threatens to sting the Mule if it does not
+    move faster; the Mule replies that he obeys his master, not the Fly.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Cock finds and rejects the Jewel
+  summary: A Cock searching for food finds a Jewel and declares that food is more
+    useful to him than jewels.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: false or ineffectual authority challenged by real control
+  taxonomy_refs: []
+  basis: The Fly threatens the Mule, but the Mule identifies the master with reins
+    and whip as the authority he actually obeys.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The fable gives the pattern through animal dialogue; no broader comparative
+    claim is made in the passage.
+- id: motif:2
+  label: practical need valued over wealth
+  taxonomy_refs:
+  - wisdom
+  basis: The Cock, while seeking food, judges a grain of corn more desirable than
+    jewels.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The taxonomy reference is broad; the passage presents a practical judgment
+    rather than an explicit philosophical teaching.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 3226-3231
+  quote_or_summary: A Fly sat on a cart shaft and told the Mule pulling it to mend
+    its pace or the Fly would use its sting as a goad.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; concise summary of supplied passage.
+- id: ev:2
+  type: quote
+  locator: lines 3231-3236
+  quote_or_summary: The Mule says his master sits behind him, holds the reins, flicks
+    him with a whip, and is the one he obeys.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; concise summary of supplied passage.
+- id: ev:3
+  type: quote
+  locator: lines 3239-3242
+  quote_or_summary: A Cock scratching for food turned up a Jewel that had by chance
+    been dropped there.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; concise summary of supplied passage.
+- id: ev:4
+  type: quote
+  locator: lines 3242-3245
+  quote_or_summary: The Cock says the Jewel would delight its owner, but he would
+    prefer one grain of corn to all jewels.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; concise summary of supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied English passage. Candidate motifs
+    are local passage-level patterns; no comparison claims were added because the
+    passage itself does not support external comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No taxonomy symbol references were assigned because none of the available symbol refs matched the literal symbols in the passage.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l3226-l3245
+  passage_sha256=a99d14d201747f15665bacd8b60c6578d5a776b526c790a9253814de3d139e6e
+

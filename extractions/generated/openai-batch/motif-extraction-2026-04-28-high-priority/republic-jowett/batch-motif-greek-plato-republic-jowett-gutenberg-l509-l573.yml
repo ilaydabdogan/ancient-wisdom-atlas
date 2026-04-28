@@ -1,0 +1,437 @@
+---
+record_id: batch.motif.greek-plato-republic-jowett-gutenberg-l509-l573
+source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+passage_locator:
+  label: The Republic / THE REPUBLIC / INTRODUCTION AND ANALYSIS.; lines 509-573
+  start: '509'
+  end: '573'
+  translation: The Republic
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage analyzes Glaucon and Adeimantus as distinct respondents in
+    Plato's Republic, contrasting their characters, argumentative roles, and participation
+    in different parts of the dialogue. It then presents Plato's sequence of characters
+    as representing successive stages of morality, ending with young disciples who
+    know sophistical arguments but seek deeper truth.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: After Thrasymachus is silenced, Glaucon and Adeimantus appear as the two principal
+    respondents.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Glaucon and Adeimantus are initially compared as having a family likeness
+    but are then described as distinct characters.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Glaucon is characterized as youthful, impetuous, pleasure-loving, connected
+    with love, animals, art, music, and youthful experience.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Glaucon is described as quick and penetrating, able to move beyond Thrasymachus's
+    platitudes to the real difficulty while retaining faith in the just and true.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Glaucon is associated with humor and the ability to see ridiculous relations
+    between the philosopher and the world.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Adeimantus is described as deeper, graver, and associated with more profound
+    objections.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Glaucon generally opens the argument, while Adeimantus pursues it further.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Adeimantus is linked with maturer judgment and more argumentative portions
+    of the dialogue, while Glaucon is linked with lighter and more imaginative portions.
+  category: relationship
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: Adeimantus is the respondent in discussions of religion and mythology, Socratic
+    method, women and children, corruption of philosophy, and the idea of good.
+  category: action
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: The passage says Plato uses a succession of characters to represent successive
+    stages of morality.
+  category: sequence
+  evidence_refs:
+  - ev:10
+- id: obs:11
+  text: The final stage named in the sequence is young disciples who know sophistical
+    arguments but are not convinced by them and want to investigate more deeply.
+  category: attribute
+  evidence_refs:
+  - ev:11
+- id: obs:12
+  text: The passage states that no single character is repeated in the Republic or
+    in any other Platonic dialogue.
+  category: other
+  evidence_refs:
+  - ev:12
+figures:
+- id: fig:1
+  name_or_label: Thrasymachus
+  description: A previously active speaker who has been silenced before Glaucon and
+    Adeimantus appear.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Glaucon
+  description: One of the two principal respondents; characterized as youthful, impetuous,
+    lively, humorous, imaginative, and often the one who opens the argument.
+  role_refs:
+  - role:2
+  - role:4
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:7
+  - ev:8
+- id: fig:3
+  name_or_label: Adeimantus
+  description: One of the two principal respondents; characterized as deeper, graver,
+    more mature, and associated with profound objections and argumentative portions
+    of the dialogue.
+  role_refs:
+  - role:2
+  - role:5
+  - role:7
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:8
+  - ev:9
+- id: fig:4
+  name_or_label: Socrates
+  description: A figure whose humor Glaucon seconds, whose method Adeimantus criticizes,
+    and whose arguments are addressed by Adeimantus and Glaucon.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+  - ev:9
+- id: fig:5
+  name_or_label: Plato
+  description: Presented as representing successive stages of morality through a succession
+    of characters.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:10
+- id: fig:6
+  name_or_label: Cephalus
+  description: Named among characters distinguished from one another in the Republic.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:12
+- id: fig:7
+  name_or_label: Polemarchus
+  description: Named among characters distinguished from one another in the Republic.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:12
+roles:
+- id: role:1
+  label: silenced interlocutor
+  assigned_to:
+  - fig:1
+  basis: Thrasymachus is described as having been silenced before the appearance of
+    Glaucon and Adeimantus.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: principal respondent
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: Glaucon and Adeimantus are explicitly called the two principal respondents.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: philosophical speaker addressed by respondents
+  assigned_to:
+  - fig:4
+  basis: The passage describes Glaucon responding to Socrates' humor and Adeimantus
+    criticizing or challenging Socrates' arguments.
+  evidence_refs:
+  - ev:5
+  - ev:9
+- id: role:4
+  label: lively imaginative respondent
+  assigned_to:
+  - fig:2
+  basis: Glaucon is associated with youth, liveliness, humor, and lighter imaginative
+    portions of the dialogue.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:8
+- id: role:5
+  label: grave argumentative respondent
+  assigned_to:
+  - fig:3
+  basis: Adeimantus is described as deeper and graver, raising profound objections
+    and taking argumentative portions.
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: role:6
+  label: argument opener
+  assigned_to:
+  - fig:2
+  basis: The passage says Glaucon is more demonstrative and generally opens the game.
+  evidence_refs:
+  - ev:7
+- id: role:7
+  label: argument pursuer
+  assigned_to:
+  - fig:3
+  basis: The passage says Adeimantus pursues the argument further.
+  evidence_refs:
+  - ev:7
+- id: role:8
+  label: designer of moral character sequence
+  assigned_to:
+  - fig:5
+  basis: The passage says Plato represents successive stages of morality in a succession
+    of characters.
+  evidence_refs:
+  - ev:10
+- id: role:9
+  label: distinct dialogue character
+  assigned_to:
+  - fig:6
+  - fig:7
+  basis: Cephalus and Polemarchus are named with Thrasymachus as clearly distinguished
+    from one another.
+  evidence_refs:
+  - ev:12
+symbols: []
+scenes:
+- id: scene:1
+  label: Appearance of Glaucon and Adeimantus after Thrasymachus
+  summary: After Thrasymachus is silenced, Glaucon and Adeimantus appear as the principal
+    respondents and are introduced as distinct characters despite an initial appearance
+    of likeness.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Contrasting respondent functions
+  summary: Glaucon is described as lively, youthful, humorous, and often initiating
+    discussion, while Adeimantus is described as grave, mature, and responsible for
+    deeper objections and more argumentative exchanges.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+- id: scene:3
+  label: Succession of moral stages through characters
+  summary: The passage presents Plato's sequence of characters as representing successive
+    stages of morality, from older Athenian figures and practical moralizers through
+    sophistical generalization to young disciples seeking deeper understanding.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:10
+  - ev:11
+  - ev:12
+candidate_motifs:
+- id: motif:1
+  label: paired contrasting interlocutors
+  taxonomy_refs: []
+  basis: Glaucon and Adeimantus are introduced together as principal respondents,
+    initially likened to one another but then distinguished by contrasting temperaments
+    and argumentative roles.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: This is a literary-dialogic pattern rather than a mythological motif in
+    the strict sense.
+- id: motif:2
+  label: successive stages of morality embodied in characters
+  taxonomy_refs:
+  - wisdom
+  basis: The passage explicitly states that Plato represents successive stages of
+    morality through a succession of distinct characters, ending with disciples who
+    seek deeper understanding.
+  evidence_refs:
+  - ev:10
+  - ev:11
+  - ev:12
+  confidence: medium
+  cautions: The taxonomy reference to wisdom is broad; the passage is philosophical
+    and analytical, not a narrative myth episode.
+- id: motif:3
+  label: youthful seekers resisting sophistical arguments
+  taxonomy_refs:
+  - wisdom
+  basis: The young disciples know sophistical arguments but are not convinced by them
+    and desire to go deeper into the nature of things.
+  evidence_refs:
+  - ev:11
+  confidence: medium
+  cautions: This is an intellectual character pattern rather than a traditional mythic
+    quest narrative.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 509-512
+  quote_or_summary: After Thrasymachus is silenced, Glaucon and Adeimantus appear
+    as the two principal respondents; the passage compares the introduction to three
+    actors in Greek tragedy.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 512-516
+  quote_or_summary: The sons of Ariston may first seem to share a family likeness,
+    but closer examination shows them to be distinct characters.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 516-523
+  quote_or_summary: Glaucon is described as impetuous, pleasure-loving, acquainted
+    with love, interested in dogs, animal breeding, art, music, and youthful experience.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 523-527
+  quote_or_summary: Glaucon is said to have quickness and penetration, to expose the
+    seamy side of human life, and yet not lose faith in the just and true.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 527-536
+  quote_or_summary: Glaucon perceives the philosopher's ludicrous relation to the
+    world, calls a simple state a city of pigs, is ready with jests, and appreciates
+    the ridiculous in several groups and civic behaviors.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 539-542
+  quote_or_summary: Adeimantus is described as deeper and graver, with more profound
+    objections commonly put into his mouth.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 542-544
+  quote_or_summary: Glaucon is more demonstrative and generally opens the game; Adeimantus
+    pursues the argument further.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 544-562
+  quote_or_summary: Glaucon is associated with youth, liveliness, lighter tone, and
+    imaginative portions; Adeimantus is associated with maturer judgment, common-sense
+    criticism, and argumentative portions.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 548-567
+  quote_or_summary: Adeimantus is respondent in discussions of religion and mythology,
+    common-sense criticism of Socratic method, women and children, corruption of philosophy,
+    and the idea of good; Glaucon also resumes as principal respondent but struggles
+    with higher education.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: lines 568-571
+  quote_or_summary: Plato is said to represent successive stages of morality through
+    a succession of characters.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:11
+  type: summary
+  locator: lines 571-573
+  quote_or_summary: The final group in the moral sequence is young disciples who know
+    sophistical arguments, are not convinced by them, and want to go deeper into the
+    nature of things.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:12
+  type: summary
+  locator: lines 573
+  quote_or_summary: Cephalus, Polemarchus, Thrasymachus, and the others are said to
+    be clearly distinguished; the passage states that no single character is repeated
+    in the Republic or any other Platonic dialogue.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is an introduction and literary-philosophical analysis rather
+    than mythic narrative. Character roles and dialogic patterns are clear, while
+    motif classification is necessarily broad and should be reviewed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No symbols from the supplied symbol taxonomy are literally present as symbolic objects in this passage. The reference to Greek tragedy is not expanded into a comparison claim because it is only a formal analogy in the passage.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-plato-republic-jowett-gutenberg__l509-l573
+  passage_sha256=a86375112b5bc0398bc5d60200f621f04db7b52385a049265be69a2d4258e8cf
+

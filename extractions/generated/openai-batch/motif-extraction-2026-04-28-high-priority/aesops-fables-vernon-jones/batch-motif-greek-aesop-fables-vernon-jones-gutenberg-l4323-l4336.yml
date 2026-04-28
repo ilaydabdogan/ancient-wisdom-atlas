@@ -1,0 +1,311 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l4323-l4336
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE GARDENER AND HIS DOG / THE RIVERS AND THE SEA / THE LION IN LOVE / THE
+    BEE-KEEPER; lines 4323-4336
+  start: '4323'
+  end: '4336'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: When you hit back make sure you have got the right man.
+  summary: A thief steals honey from an apiary while the bee-keeper is absent. The
+    bee-keeper returns and finds the hives empty. The bees later return, see their
+    hives overturned and the bee-keeper nearby, and sting him. The bee-keeper complains
+    that they let the thief escape and attack their caretaker instead. The moral advises
+    ensuring that retaliation is directed at the correct person.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A thief enters an apiary while the bee-keeper is away.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The thief steals all the honey.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The bee-keeper returns and finds the hives empty.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The bee-keeper stands staring at the empty hives for some time.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The bees return from gathering honey.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The bees find their hives overturned and the bee-keeper standing nearby.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The bees attack the bee-keeper with their stings.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The bee-keeper angrily says that the bees allowed the thief to escape and
+    then stung the one who cared for them.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The closing moral says that one should make sure of the right target before
+    striking back.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Thief
+  description: A person who enters the apiary during the bee-keeper’s absence and
+    steals all the honey.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Bee-keeper
+  description: The keeper of the apiary who returns to find the hives empty and is
+    later stung by the bees.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Bees
+  description: Bees that return from gathering honey, find their hives overturned,
+    and sting the bee-keeper.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: honey thief
+  assigned_to:
+  - fig:1
+  basis: The figure steals all the honey from the apiary.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: apiary caretaker
+  assigned_to:
+  - fig:2
+  basis: The bee-keeper is described as the one who has taken care of the bees.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: wrongly attacked bystander
+  assigned_to:
+  - fig:2
+  basis: The bees sting the bee-keeper after the thief has already escaped.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: misdirected retaliators
+  assigned_to:
+  - fig:3
+  basis: The bees attack the bee-keeper rather than the thief who stole the honey.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: apiary
+  literal_form: apiary
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: honey
+  literal_form: stolen honey
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:3
+  label: hives
+  literal_form: empty and overturned hives
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: stings
+  literal_form: bees’ stings
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Theft from the apiary
+  summary: While the bee-keeper is absent, a thief enters the apiary and steals all
+    the honey.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Bee-keeper discovers the empty hives
+  summary: The bee-keeper returns, finds the hives empty, becomes upset, and stands
+    looking at them.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Bees sting the wrong person
+  summary: The bees return, see the hives overturned and the bee-keeper nearby, and
+    sting him.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Complaint and moral
+  summary: The bee-keeper complains that the bees let the thief escape and attacked
+    their caretaker, and the moral warns against striking back at the wrong person.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: retaliation against the wrong target
+  taxonomy_refs:
+  - wisdom
+  basis: The bees respond to the damage by stinging the bee-keeper, while the thief
+    who stole the honey escapes; the stated moral generalizes this into advice about
+    identifying the correct target before striking back.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The taxonomy reference to wisdom is broad and based on the explicit moral
+    instruction, not on a named mythological taxonomy item in the passage.
+- id: motif:2
+  label: theft from a guarded or tended store
+  taxonomy_refs: []
+  basis: A thief steals all the honey from an apiary maintained by the bee-keeper.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: medium
+  cautions: The passage treats the theft mainly as the setup for the mistaken retaliation
+    moral.
+- id: motif:3
+  label: caretaker harmed by those he cares for
+  taxonomy_refs: []
+  basis: The bee-keeper says he has always taken care of the bees, yet they sting
+    him after the theft.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: This is a relational pattern within the fable rather than an explicitly
+    named motif family.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 4323-4326
+  quote_or_summary: A thief finds his way into the apiary while the bee-keeper is
+    away and steals all the honey.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: 4326-4328
+  quote_or_summary: The bee-keeper returns, finds the hives empty, becomes upset,
+    and stands staring at them.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: 4328-4331
+  quote_or_summary: The bees return from gathering honey, find the hives overturned
+    and the keeper standing by, and attack him with their stings.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: 4331-4334
+  quote_or_summary: The bee-keeper angrily says that the bees let the thief escape
+    and then stung the one who had always cared for them.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: quote
+  locator: '4336'
+  quote_or_summary: When you hit back make sure you have got the right man.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; brief quotation used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The narrative sequence and moral are explicit. Motif labels are candidate
+    analytical summaries and should be reviewed for alignment with the Atlas taxonomy.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the provided passage does not itself identify a specific external comparative tradition or named motif beyond its general moral pattern.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l4323-l4336
+  passage_sha256=e63b9be775afd77c508d703dc310b67c803b4f1331f4f7117cb29a295267c0a4
+

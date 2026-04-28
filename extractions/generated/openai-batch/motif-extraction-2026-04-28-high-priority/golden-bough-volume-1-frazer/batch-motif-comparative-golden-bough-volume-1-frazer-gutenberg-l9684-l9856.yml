@@ -1,0 +1,129 @@
+---
+record_id: batch.motif.comparative-golden-bough-volume-1-frazer-gutenberg-l9684-l9856
+source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+passage_locator:
+  label: CHAPTER II. THE PERILS OF THE SOUL. / HEINE. / CHAPTER III. KILLING THE GOD.
+    / FOOTNOTES; lines 9684-9856
+  start: '9684'
+  end: '9856'
+  translation: 'The Golden Bough: A Study in Comparative Religion (Vol. 1 of 2)'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is a sequence of footnotes, numbered 213-279, citing ethnographic,
+    folkloric, classical, and antiquarian sources. One note specifically identifies
+    Silvanus as the Roman wood-god and mentions representations of him bearing a pine
+    branch.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage consists of bibliographic footnotes numbered 213 through 279.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Several cited works concern tree cult or agricultural and livestock sacrificial
+    customs, as indicated by titles such as Baumkultus and Opfergebräuche bei Ackerbau
+    und Viehzucht.
+  category: other
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:3
+  text: A note identifies Silvanus as a Roman wood-god.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:4
+  text: The same note mentions a representation of Silvanus bearing a pine branch.
+  category: object
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Silvanus
+  description: Identified in the footnote as the Roman wood-god.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: Roman wood-god
+  assigned_to:
+  - fig:1
+  basis: The note explicitly calls Silvanus the Roman wood-god.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: pine branch
+  literal_form: pine branch borne by Silvanus in a representation
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:4
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: wood-god with tree branch attribute
+  taxonomy_refs: []
+  basis: The passage notes representations of Silvanus, described as the Roman wood-god,
+    bearing a pine branch.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: This is based on a footnote describing iconographic representations, not
+    on a full mythic narrative or ritual scene.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 9684-9856
+  quote_or_summary: The line range is a list of footnotes numbered 213-279, each giving
+    source citations.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 9684-9686
+  quote_or_summary: "“U. Jahn, Die deutsche Opfergebräuche bei Ackerbau und Viehzucht”"
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: quote
+  locator: lines 9733, 9765, 9780, 9800, 9822
+  quote_or_summary: Multiple notes cite Mannhardt’s “Baumkultus” or abbreviated “B.
+    K.”
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; short quotation/summarized citation.
+- id: ev:4
+  type: quote
+  locator: lines 9768-9772
+  quote_or_summary: "“On the representations of Silvanus, the Roman wood-god ... A
+    good representation of Silvanus bearing a pine branch...”"
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is primarily bibliographic. Extraction is limited to explicit
+    content in the notes, especially the note on Silvanus.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself provides citations but does not make a sustained comparative claim within the supplied excerpt.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:comparative-golden-bough-volume-1-frazer-gutenberg__l9684-l9856
+  passage_sha256=0b31edad9538d5da6ed7a2a2a2431dcc190a1c1b4b34923ccd528573ab1622d3
+

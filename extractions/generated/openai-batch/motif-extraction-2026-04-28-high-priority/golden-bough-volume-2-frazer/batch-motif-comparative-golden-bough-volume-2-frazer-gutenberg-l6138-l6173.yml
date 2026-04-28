@@ -1,0 +1,476 @@
+---
+record_id: batch.motif.comparative-golden-bough-volume-2-frazer-gutenberg-l6138-l6173
+source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+passage_locator:
+  label: 'The Golden Bough: A Study in Comparative Religion (Vol. 2 of 2) / CONTENTS;
+    lines 6138-6173'
+  start: '6138'
+  end: '6173'
+  translation: 'The Golden Bough: A Study in Comparative Religion (Vol. 2 of 2)'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Frazer argues from Beltane fire survivals in Highland Scotland to ancient
+    Celtic human sacrifices by fire, citing Caesar, Posidonius, Strabo, and Diodorus
+    as evidence for Gaulish practices. The passage summarizes a reported Celtic custom
+    in which condemned criminals, and sometimes war captives, were sacrificed by Druids
+    at a five-year festival; greater numbers of victims were associated with greater
+    land fertility. Methods included shooting with arrows, impalement, and burning
+    alive inside large wicker-work or wood-and-grass images filled with humans and
+    animals.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that traces of human sacrifices at Beltane fires lingered
+    in the Highlands of Scotland about a hundred years before Frazer's writing.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that human sacrifices by fire were systematically practiced
+    by the Celts, according to what it calls unquestionable evidence.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage names Julius Caesar as the earliest describer of these sacrifices
+    and says Caesar may have incorporated observations by Posidonius.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage says Strabo and Diodorus also appear to have derived descriptions
+    of Celtic sacrifices from Posidonius, independently of Caesar and each other.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Condemned criminals were reserved by the Celts for sacrifice to the gods at
+    a great festival held once every five years.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The passage reports a belief that the more victims there were, the greater
+    the fertility of the land would be.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: When there were too few criminals, war captives were sacrificed to supply
+    the deficiency.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The victims were sacrificed by Druids or priests.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: Some victims were shot with arrows, some impaled, and some burned alive.
+  category: action
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: Large images made of wicker-work or of wood and grass were filled with live
+    men, cattle, and other animals, then set on fire.
+  category: object
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Celts of Gaul
+  description: The people described as practicing the sacrifices in Gaul at the close
+    of the second century B.C.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Condemned criminals
+  description: People reserved as victims for sacrifice to the gods at the five-year
+    festival.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+- id: fig:3
+  name_or_label: Captives taken in war
+  description: People used as replacement victims when there were not enough condemned
+    criminals.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:7
+- id: fig:4
+  name_or_label: Druids or priests
+  description: Religious officiants who sacrificed the victims when the time came.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:8
+- id: fig:5
+  name_or_label: Gods
+  description: Recipients to whom the condemned criminals were sacrificed.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: Cattle and other animals
+  description: Live animals placed inside the large images along with live men before
+    burning.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:10
+- id: fig:7
+  name_or_label: Julius Caesar
+  description: Ancient author named as the earliest describer of the Celtic sacrifices.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:8
+  name_or_label: Posidonius
+  description: Greek explorer whose observations are said to underlie Caesar, Strabo,
+    and Diodorus's descriptions.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:9
+  name_or_label: Strabo and Diodorus
+  description: Ancient authors said to have derived descriptions of Celtic sacrifices
+    from Posidonius.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: sacrificing community
+  assigned_to:
+  - fig:1
+  basis: The Celts are described as reserving victims and practicing sacrifices to
+    the gods.
+  evidence_refs:
+  - ev:5
+- id: role:2
+  label: sacrificial victims
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:6
+  basis: Condemned criminals, war captives, cattle, and other animals are described
+    as sacrificed or burned alive in the images.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  - ev:10
+- id: role:3
+  label: ritual officiants
+  assigned_to:
+  - fig:4
+  basis: The victims were sacrificed by Druids or priests.
+  evidence_refs:
+  - ev:8
+- id: role:4
+  label: divine recipients
+  assigned_to:
+  - fig:5
+  basis: The condemned criminals were sacrificed to the gods.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: source witnesses or transmitters
+  assigned_to:
+  - fig:7
+  - fig:8
+  - fig:9
+  basis: The passage discusses Caesar, Posidonius, Strabo, and Diodorus as sources
+    for descriptions of the sacrifices.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: fire
+  literal_form: Beltane fires and fire applied to images containing living beings
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:6
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+  - ev:10
+- id: sym:2
+  label: wicker-work or wood-and-grass image
+  literal_form: Colossal images of wicker-work or of wood and grass filled with live
+    men, cattle, and other animals
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+- id: sym:3
+  label: five-year festival
+  literal_form: A great festival taking place once in every five years
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: land fertility
+  literal_form: The fertility of the land believed to increase with the number of
+    victims
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: arrows
+  literal_form: Arrows used to shoot some victims down
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:6
+  label: impalement
+  literal_form: Impalement of some victims
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Scholarly reconstruction of Celtic sacrifice reports
+  summary: Frazer links Highland Beltane fire traces with ancient evidence for Celtic
+    sacrifices by fire and discusses Caesar, Posidonius, Strabo, and Diodorus as sources
+    for reconstructing Gaulish practice.
+  figure_refs:
+  - fig:7
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:2
+  label: Selection and substitution of victims
+  summary: Condemned criminals are reserved for sacrifice at a five-year festival;
+    if too few are available, war captives supply the deficiency.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: scene:3
+  label: Ritual killing by Druids or priests
+  summary: When the festival time arrives, Druids or priests sacrifice victims by
+    shooting, impaling, or burning them alive inside large combustible images filled
+    with humans and animals.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: human sacrifice by fire
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage explicitly describes human sacrifices by fire and burning victims
+    alive inside large images.
+  evidence_refs:
+  - ev:2
+  - ev:10
+  confidence: high
+  cautions: The account is mediated through Frazer's comparative reconstruction and
+    ancient literary sources rather than direct ritual observation.
+- id: motif:2
+  label: sacrifice for land fertility
+  taxonomy_refs:
+  - sacrifice
+  - seasonal_cycle
+  basis: The passage states that a greater number of sacrificial victims was believed
+    to produce greater land fertility at a recurring five-year festival.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage reports this as a belief attributed to the Celts by ancient
+    sources as reconstructed by Frazer.
+- id: motif:3
+  label: periodic festival sacrifice
+  taxonomy_refs:
+  - sacrifice
+  - seasonal_cycle
+  basis: Condemned criminals were reserved for sacrifice to the gods at a great festival
+    held once every five years.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage gives a five-year interval but does not describe the festival's
+    seasonal timing.
+- id: motif:4
+  label: victims enclosed in a combustible image
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage describes colossal wicker-work or wood-and-grass images filled
+    with living humans and animals and then burned.
+  evidence_refs:
+  - ev:10
+  confidence: high
+  cautions: No taxonomy reference more specific than sacrifice is available in the
+    supplied list.
+comparison_claims:
+- id: claim:1
+  claim: Frazer cautiously connects reported ancient Celtic human sacrifice by fire
+    with Beltane fire survivals in the Highlands of Scotland as related evidence within
+    Celtic tradition.
+  claim_level: same_motif
+  target: Beltane fires in the Highlands of Scotland and ancient Celtic sacrifices
+    by fire
+  evidence_refs:
+  - ev:1
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage presents Frazer's inference from survivals and ancient
+    testimony; it does not independently demonstrate continuity of practice.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 6138-6144
+  quote_or_summary: Frazer says the most unequivocal traces of human sacrifices on
+    these occasions lingered about a hundred years earlier at Beltane fires in the
+    Highlands of Scotland among a Celtic people.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:2
+  type: summary
+  locator: 6144-6147
+  quote_or_summary: The passage states that human sacrifices by fire are known, on
+    what it calls unquestionable evidence, to have been systematically practiced by
+    the Celts.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:3
+  type: summary
+  locator: 6147-6155
+  quote_or_summary: Julius Caesar is named as the earliest describer of these sacrifices,
+    with possible incorporation of observations by the Greek explorer Posidonius.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:4
+  type: summary
+  locator: 6155-6164
+  quote_or_summary: Strabo and Diodorus are said to have derived descriptions of Celtic
+    sacrifices from Posidonius; combining the accounts is said to reconstruct Posidonius's
+    account of Gaulish Celtic sacrifices at the close of the second century B.C.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:5
+  type: summary
+  locator: 6164-6167
+  quote_or_summary: Condemned criminals were reserved by the Celts to be sacrificed
+    to the gods at a great festival once every five years.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:6
+  type: summary
+  locator: 6167-6168
+  quote_or_summary: The passage reports that the greater the number of victims, the
+    greater the fertility of the land was believed to be.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:7
+  type: summary
+  locator: 6168-6170
+  quote_or_summary: When there were not enough criminals for victims, captives taken
+    in war were sacrificed instead to supply the deficiency.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:8
+  type: summary
+  locator: 6170-6171
+  quote_or_summary: When the time came, victims were sacrificed by Druids or priests.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:9
+  type: summary
+  locator: 6171-6172
+  quote_or_summary: Some victims were shot down with arrows, some were impaled, and
+    some were burned alive.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:10
+  type: summary
+  locator: 6172-6173
+  quote_or_summary: Colossal wicker-work or wood-and-grass images were made, filled
+    with live men, cattle, and other animals, set on fire, and burned with their living
+    contents.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summary supplied.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is clear about Frazer's claims and reported details, but the
+    underlying ritual account is a comparative reconstruction from ancient literary
+    sources, so interpretive motif confidence is moderated.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only supplied passage and metadata were used. Literal observations are separated from motif interpretation.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:comparative-golden-bough-volume-2-frazer-gutenberg__l6138-l6173
+  passage_sha256=1eaee7e34f9881a932e08b4228521a8856b4291ad232e2e01c7859902089b88a
+

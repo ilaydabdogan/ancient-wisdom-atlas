@@ -1,0 +1,290 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l2665-l2685
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE RICH MAN AND THE TANNER / THE WOLF, THE MOTHER, AND HER CHILD / THE OLD
+    WOMAN AND THE WINE-JAR / THE LIONESS AND THE VIXEN; lines 2665-2685
+  start: '2665'
+  end: '2685'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: In one fable, an old woman finds an empty wine jar that still smells of
+    fine wine and infers the excellence of the former contents from the remaining
+    scent. In another, a vixen boasts of her litter and mocks a lioness for having
+    only one young; the lioness answers that her single offspring is a lion. The stated
+    moral is that quality matters more than quantity.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: An old woman picked up an empty wine jar that had once contained rare and
+    costly wine.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The wine jar still retained traces of the wine's smell.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The old woman repeatedly smelled the jar and praised the wine that must have
+    left such a scent.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A lioness and a vixen discussed their young and their qualities.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The vixen said her litter of cubs was a joy to see and noted that the lioness
+    never had more than one.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The lioness replied that her one offspring was a lion.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: 'The passage states the moral: quality, not quantity.'
+  category: other
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: old Woman
+  description: An old woman who finds and smells an empty wine jar.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Lioness
+  description: A mother lioness who has one young and answers the vixen's criticism.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: Vixen / Fox
+  description: A mother fox who boasts of her litter and comments on the lioness having
+    only one young.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: lioness's offspring
+  description: The lioness's single young, identified as a lion.
+  role_refs: []
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: vixen's cubs
+  description: The vixen's litter of cubs, described by her as a joy to see.
+  role_refs: []
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: observer of residual value
+  assigned_to:
+  - fig:1
+  basis: The old woman infers the quality of the former wine from the scent left in
+    the empty jar.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: defender of quality over quantity
+  assigned_to:
+  - fig:2
+  basis: The lioness answers that her single offspring is a lion, matching the stated
+    moral.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:3
+  label: boaster of numerous offspring
+  assigned_to:
+  - fig:3
+  basis: The vixen praises her litter and comments maliciously on the lioness having
+    only one young.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: animal mother
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The lioness and vixen talk about their young as mothers.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: wine jar
+  literal_form: empty Wine-jar
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: remaining scent
+  literal_form: traces of exquisite bouquet left in the empty jar
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: single lion offspring
+  literal_form: one young lion
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:4
+  label: litter of cubs
+  literal_form: the vixen's litter of cubs
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:6
+scenes:
+- id: scene:1
+  label: Old woman smells the empty wine jar
+  summary: An old woman finds an empty jar that once held costly wine, smells the
+    remaining bouquet, and praises the former liquid by its lingering scent.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Lioness answers the vixen
+  summary: A vixen boasts about her litter and criticizes the lioness for having only
+    one young; the lioness replies that her single offspring is a lion.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: value inferred from a remaining trace
+  taxonomy_refs:
+  - wisdom
+  basis: The old woman judges the excellence of the absent wine from the scent that
+    remains in the empty jar.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The available taxonomy has no exact reference for residual scent or inferred
+    value; 'wisdom' is a broad fit.
+- id: motif:2
+  label: quality over quantity
+  taxonomy_refs:
+  - wisdom
+  basis: The vixen contrasts her many cubs with the lioness's single offspring, and
+    the explicit moral states 'Quality, not quantity.'
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: This is an ethical maxim rather than a mythic motif in the narrower sense.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2665-2670
+  quote_or_summary: An old woman picks up an empty wine jar that once held rare and
+    costly wine and still retains traces of its bouquet.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 2670-2673
+  quote_or_summary: She smells it repeatedly and says, "how delicious must have been
+    the liquid" that left such a smell.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: summary
+  locator: lines 2676-2679
+  quote_or_summary: A lioness and a vixen talk as mothers about their young, describing
+    their health, growth, coats, and resemblance to their parents.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 2679-2682
+  quote_or_summary: The fox says her litter of cubs is a joy to see and maliciously
+    observes that the lioness never has more than one.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: lines 2682-2684
+  quote_or_summary: The lioness replies, "No... but that one's a lion."
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation.
+- id: ev:6
+  type: quote
+  locator: line 2685
+  quote_or_summary: '"Quality, not quantity."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is limited to the supplied passage text, which contains two fables
+    despite the broader passage label mentioning four. Motif mapping is broad because
+    the available taxonomy does not include precise fable-type categories.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were made because the supplied passage itself does not support a specific comparison to another tradition or motif family beyond broad wisdom-motif categorization.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l2665-l2685
+  passage_sha256=cc8056dedefd7390d69959fd92238b5054a8015ed46b7e6d773926be20172f42
+

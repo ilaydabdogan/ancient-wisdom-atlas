@@ -189,6 +189,47 @@ aliases:
     review_action: map_to_existing
     notes: Choose world_destroying_fire only when fire consumes, judges, or renews
       a world/order.
+  fire:
+    canonical_refs:
+    - sacred_fire
+    parent_refs:
+    - sacrifice
+    - world_destroying_fire
+    relationship: broad_symbolic_label
+    review_action: map_to_group
+    notes: Broad generated label; preserve local function in notes and narrow to
+      sacred_fire, world_destroying_fire, or sacrificial fire when the passage supports
+      it.
+  water:
+    canonical_refs:
+    - sacred_waters
+    parent_refs:
+    - cosmic_origin
+    - flood_and_renewal
+    - passage_through_waters
+    relationship: broad_symbolic_label
+    review_action: map_to_group
+    notes: Broad generated label; distinguish primordial waters, flood, purification,
+      boundary crossing, and underworld river functions.
+  tree:
+    canonical_refs:
+    - sacred_tree_axis
+    parent_refs:
+    - axis_mundi
+    relationship: broad_symbolic_label
+    review_action: map_to_group
+    notes: Broad generated label; use for world-tree, sacred-tree, or tree-as-center
+      evidence and narrow when the passage supports it.
+  mountain:
+    canonical_refs:
+    - cosmic_mountain
+    parent_refs:
+    - axis_mundi
+    - ascent
+    relationship: broad_symbolic_label
+    review_action: map_to_group
+    notes: Broad generated label; distinguish mountain as world axis, refuge, ascent
+      path, revelation site, or ordeal setting.
   protective_mark:
     canonical_refs:
     - ark_vessel

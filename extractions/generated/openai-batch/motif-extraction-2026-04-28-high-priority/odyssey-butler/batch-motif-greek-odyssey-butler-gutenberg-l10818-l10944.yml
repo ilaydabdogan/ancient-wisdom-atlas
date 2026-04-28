@@ -1,0 +1,526 @@
+---
+record_id: batch.motif.greek-odyssey-butler-gutenberg-l10818-l10944
+source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+passage_locator:
+  label: BOOK XXII / BOOK XXIII / BOOK XXIV / FOOTNOTES:; lines 10818-10944
+  start: '10818'
+  end: '10944'
+  translation: The Odyssey
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage consists of editorial footnotes to Butler's translation of
+    the Odyssey. The notes discuss geography, domestic objects and architecture, named
+    figures, household arrangements, door fastening, sacrificial meal preparation,
+    and several proposed verbal or thematic relationships between Odyssean passages
+    and Iliadic passages.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is a sequence of numbered editorial footnotes rather than a continuous
+    narrative episode.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: One note identifies a mountain reading as Neritum and states that the same
+    place is intended in another Odyssey passage.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: One note says Penelope is represented as unable to do an unspecified action
+    and comments that she encouraged the suitors while supposedly fooling them.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: One note explains that the megaron included an open court and a covered shady
+    cloister, and says the suitors' tables were laid in the covered part.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: One note states that the writer carefully makes clear that none of the suitors
+    slept in Ulysses' house.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: One note describes a door-fastening mechanism involving an external slot by
+    which a person outside the room could shoot the bolt.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: One note says inner parts such as heart, liver, lights, and kidneys were eaten
+    first while bone meat cooked.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: One note connects Laertes with careful regard for his wife's feelings and
+    with the honor of women in the Odyssey.
+  category: relationship
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: Several notes compare Odyssean wording or scenes with passages in the Iliad.
+  category: relationship
+  evidence_refs:
+  - ev:9
+  - ev:10
+  - ev:11
+  - ev:12
+- id: obs:10
+  text: One note says the original use of the footstool was probably to keep bare
+    feet from a wet or dirty floor.
+  category: object
+  evidence_refs:
+  - ev:13
+figures:
+- id: fig:1
+  name_or_label: Penelope
+  description: Named in a note concerning her conduct toward the suitors.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: the suitors
+  description: A group associated with Penelope and with tables laid in Ulysses' house;
+    a note says they were not allowed to sleep there.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Ulysses
+  description: Named as the owner of the house in which the suitors are discussed.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: Laertes
+  description: Named in a note about regard for his wife's feelings.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:8
+- id: fig:5
+  name_or_label: Mentor
+  description: Named in a note comparing an Odyssean line with an Iliadic line involving
+    Nestor.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:11
+- id: fig:6
+  name_or_label: Nestor
+  description: Named in an Iliadic line compared with an Odyssean line involving Mentor.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:11
+- id: fig:7
+  name_or_label: Hector
+  description: Named in a note about Hector's farewell to Andromache being adopted
+    in an Odyssean scene.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:9
+- id: fig:8
+  name_or_label: Andromache
+  description: Named as the addressee in Hector's farewell referenced by the note.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:9
+roles:
+- id: role:1
+  label: woman associated with contested suitors
+  assigned_to:
+  - fig:1
+  basis: The note names Penelope in relation to the suitors and says she encouraged
+    or fooled them.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: suitor group in Ulysses' household setting
+  assigned_to:
+  - fig:2
+  basis: The notes mention the suitors' tables in the house and state that the suitors
+    did not sleep in Ulysses' house.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:3
+  label: house owner
+  assigned_to:
+  - fig:3
+  basis: The notes refer to 'Ulysses' house.'
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: husband concerned with wife's feelings
+  assigned_to:
+  - fig:4
+  basis: The note says Laertes shows regard for his wife's feelings.
+  evidence_refs:
+  - ev:8
+- id: role:5
+  label: parallel named speaker in compared formulaic lines
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: The note juxtaposes an Odyssean line with Mentor and an Iliadic line with
+    Nestor.
+  evidence_refs:
+  - ev:11
+- id: role:6
+  label: figures in Iliadic farewell scene referenced by note
+  assigned_to:
+  - fig:7
+  - fig:8
+  basis: The note identifies Hector's farewell to Andromache as a source or parallel
+    for an Odyssean scene.
+  evidence_refs:
+  - ev:9
+symbols:
+- id: sym:1
+  label: mountain
+  literal_form: Neritum, identified as a mountain
+  associated_figures: []
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: megaron and shady cloister
+  literal_form: open court with covered cloister around it
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: door bolt
+  literal_form: door fastened by a bolt shot through an external slot
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: sacrificial inner parts and bone meat
+  literal_form: heart, liver, lights, kidneys, thigh bones, and bone meat in meal
+    preparation
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:5
+  label: footstool
+  literal_form: footstool used to keep feet from a wet or dirty floor
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:13
+- id: sym:6
+  label: sea or lake water image
+  literal_form: editorial note on wind over waves and a line about the sun leaving
+    a lake or sea
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:12
+  - ev:14
+scenes:
+- id: scene:1
+  label: Household arrangement of the suitors
+  summary: The notes describe the suitors' tables in the covered part of Ulysses'
+    house and emphasize that the suitors did not sleep in the house.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:2
+  label: Penelope and the suitors
+  summary: A note comments on Penelope's relation to the suitors, stating that she
+    encouraged them while being represented as fooling them.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Door bolting from outside
+  summary: A note describes doors fastened by a bolt that could be shot by someone
+    who had left the room, using a slot on the outside of the door.
+  figure_refs: []
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:6
+- id: scene:4
+  label: Preparation of meat portions
+  summary: A note describes eating the inward parts first while the bone meat cooked,
+    with thigh bones imagined as functioning like a gridiron.
+  figure_refs: []
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:7
+- id: scene:5
+  label: Odyssey-Iliad verbal comparison
+  summary: Several notes compare Odyssean wording or scenes with Iliadic passages
+    and propose borrowing, adaptation, or resemblance.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:9
+  - ev:10
+  - ev:11
+  - ev:12
+candidate_motifs:
+- id: motif:1
+  label: sacrificial meal preparation sequence
+  taxonomy_refs:
+  - sacrifice
+  basis: The note describes the sequence of eating inner organs first while other
+    meat cooked and discusses thigh bones used in cooking.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: This is an editorial reconstruction of sacrificial or meal practice, not
+    a narrative ritual scene in the supplied passage.
+- id: motif:2
+  label: household boundary and controlled access
+  taxonomy_refs: []
+  basis: The notes emphasize where the suitors' tables were located, that the suitors
+    did not sleep in Ulysses' house, and how doors could be bolted.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage gives architectural and editorial details; any broader symbolic
+    reading of household boundaries would require review.
+- id: motif:3
+  label: intertextual adaptation of earlier epic formulae
+  taxonomy_refs: []
+  basis: The footnotes repeatedly compare Odyssey passages to Iliad passages and identify
+    verbal borrowing, adoption, or possible name association.
+  evidence_refs:
+  - ev:9
+  - ev:10
+  - ev:11
+  - ev:12
+  confidence: high
+  cautions: This is a textual-pattern motif in the editorial notes, not a mythic action
+    motif within the Odyssey narrative itself.
+- id: motif:4
+  label: concern for female honor within household relations
+  taxonomy_refs: []
+  basis: A note interprets Laertes' regard for his wife's feelings as part of a broader
+    concern for the honor of women in the Odyssey.
+  evidence_refs:
+  - ev:8
+  confidence: low
+  cautions: This is explicitly the editor's interpretive comment and is supported
+    by only one note in the supplied passage.
+comparison_claims:
+- id: claim:1
+  claim: The note states that an Odyssean scene adopts Hector's farewell to Andromache
+    from Iliad vi.490-495.
+  claim_level: linguistic_similarity
+  target: Iliad vi.490-495 and an Odyssean scene referenced by the footnote
+  evidence_refs:
+  - ev:9
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim is the editor's assessment; the supplied passage does not
+    include the full compared Odyssey scene.
+- id: claim:2
+  claim: The note says words from Iliad xxii.416 were borrowed verbatim into an Odyssean
+    passage, with an editorially supplied negative needed for sense.
+  claim_level: linguistic_similarity
+  target: Iliad xxii.416 and the corresponding Odyssean wording referenced by the
+    footnote
+  evidence_refs:
+  - ev:10
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is based on the editor's quoted excerpt and comment;
+    full context is not present in the supplied passage.
+- id: claim:3
+  claim: The note juxtaposes an Iliadic line naming Nestor with an Odyssean line naming
+    Mentor and asks whether Mentor's name was coined upon Nestor's.
+  claim_level: linguistic_similarity
+  target: Iliadic Nestor formula and Odyssean Mentor formula
+  evidence_refs:
+  - ev:11
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The note itself frames the proposal as a question, so the claim remains
+    speculative.
+- id: claim:4
+  claim: The note states that an Odyssean line about the sun leaving a lake or sea
+    was suggested by an Iliadic line about Idæus leaving a chariot.
+  claim_level: linguistic_similarity
+  target: Iliad v.20 and an Odyssean sunrise line referenced by the footnote
+  evidence_refs:
+  - ev:12
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim is editorial and concerns verbal suggestion rather than a
+    shared narrative motif.
+- id: claim:5
+  claim: The note imagines an Odyssean passage about Laertes and his wife as a rejoinder
+    to Iliad xxiii.702-705 concerning the valuation of a tripod and a maid.
+  claim_level: same_function
+  target: Iliad xxiii.702-705 and the Odyssean passage referenced in the note
+  evidence_refs:
+  - ev:8
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The editor uses 'I imagine,' indicating conjecture rather than direct
+    textual proof in the supplied passage.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 10818-10944
+  quote_or_summary: The supplied passage consists of numbered footnotes [1] through
+    [25] attached to Butler's Odyssey translation.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:2
+  type: summary
+  locator: footnote [6]
+  quote_or_summary: The note proposes reading Neritum and says the same mountain/place
+    is intended in other Odyssey passages.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:3
+  type: summary
+  locator: footnote [7]
+  quote_or_summary: The note comments that Penelope cannot do an unspecified action
+    and says she kept encouraging the suitors while supposedly fooling them.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:4
+  type: summary
+  locator: footnote [11]
+  quote_or_summary: The note explains the megaron as an open court with a covered
+    cloister and states that the suitors' tables were laid in the covered part.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:5
+  type: quote
+  locator: footnote [12]
+  quote_or_summary: '"none of the suitors were allowed to sleep in Ulysses'' house"'
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source metadata; short quote used.
+- id: ev:6
+  type: summary
+  locator: footnote [16]
+  quote_or_summary: The note describes doors fastened by a slot on the outer side
+    through which someone outside could shoot the bolt.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:7
+  type: summary
+  locator: footnote [25]
+  quote_or_summary: The note says inner parts were eaten first while bone meat cooked
+    and suggests thigh bones may have functioned like a gridiron.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:8
+  type: summary
+  locator: footnote [14]
+  quote_or_summary: The note imagines a rejoinder to Iliad xxiii.702-705 and connects
+    Laertes' regard for his wife's feelings with the Odyssey's concern for women's
+    honor.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:9
+  type: summary
+  locator: footnote [10]
+  quote_or_summary: The note cites Iliad vi.490-495 and says Hector's farewell to
+    Andromache has been adopted for an Odyssean scene.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:10
+  type: summary
+  locator: footnote [18]
+  quote_or_summary: The note cites Iliad xxii.416 and says words were borrowed verbatim
+    from the Iliad, with a necessary negative supplied by the translator/editor.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:11
+  type: summary
+  locator: footnote [20]
+  quote_or_summary: The note compares an Iliadic formula involving Nestor with an
+    Odyssean formula involving Mentor and asks whether Mentor was coined upon Nestor.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:12
+  type: summary
+  locator: footnote [24]
+  quote_or_summary: The note compares Iliad v.20 about Idæus leaving a chariot with
+    an Odyssean line about the sun leaving a lake or sea and says the latter was suggested
+    by the former.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:13
+  type: summary
+  locator: footnotes [2]-[3]
+  quote_or_summary: The notes discuss the footstool, the high seat or thronos, and
+    the footstool's probable use for keeping feet from a wet or dirty floor.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:14
+  type: summary
+  locator: footnotes [5], [23]-[24]
+  quote_or_summary: The notes discuss water-related wording, including a current,
+    wind over waves, and a line involving the sun leaving a lake or sea.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source metadata; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is editorial footnotes rather than narrative epic text. Literal
+    details and editorial comparison claims are clear, but mythic motif extraction
+    is limited and should be reviewed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy references were applied only where directly supported by the footnotes.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-odyssey-butler-gutenberg__l10818-l10944
+  passage_sha256=be519760ad1f4e85574b08a64a02e8a8c7c8485db8b1a6b697e6bdd6519c3879
+

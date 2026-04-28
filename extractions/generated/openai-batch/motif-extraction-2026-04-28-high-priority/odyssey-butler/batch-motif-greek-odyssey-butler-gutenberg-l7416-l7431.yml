@@ -1,0 +1,370 @@
+---
+record_id: batch.motif.greek-odyssey-butler-gutenberg-l7416-l7431
+source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+passage_locator:
+  label: ULYSSES IN THE HUT WITH EUMAEUS. / BOOK XV / BOOK XVI / ULYSSES REVEALS HIMSELF
+    TO TELEMACHUS.; lines 7416-7431
+  start: '7416'
+  end: '7431'
+  translation: The Odyssey
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: On hearing this Telemachus smiled to his father, but so that Eumaeus could
+    not see him.
+  summary: Eumaeus reports that he saw a ship entering harbour with armed men aboard
+    and is unsure whether they were the suitors. Telemachus secretly smiles to his
+    father without Eumaeus seeing. After work and a shared meal, the men rest and
+    sleep.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Eumaeus says he did not ask about the matter while he was in town and returned
+    after giving his message.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Eumaeus says he met a man sent by those who had gone with Telemachus to Pylos,
+    and that this man first told the news to Telemachus's mother.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Eumaeus says he saw a ship entering harbour while he was on the crest of the
+    hill of Mercury above the town.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The ship carried a number of men with many shields and spears.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Eumaeus thought the armed men might be the suitors, but he says he cannot
+    be sure.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Telemachus smiles to his father in a way that Eumaeus cannot see.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: After finishing their work, the men eat a prepared meal, each receiving a
+    full share.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: After eating and drinking enough, the men lie down and sleep.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Eumaeus
+  description: Speaker who reports what he saw from the hill of Mercury and expresses
+    uncertainty about the armed men on the ship.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Telemachus
+  description: Recipient of Eumaeus's report; he smiles secretly to his father.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:3
+  name_or_label: Telemachus's father
+  description: The person to whom Telemachus secretly smiles; named only relationally
+    in this passage.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Telemachus's mother
+  description: The woman who, according to Eumaeus, first receives the news from a
+    man sent by those who went to Pylos.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: Man sent by those who went to Pylos
+  description: A messenger-like figure whom Eumaeus says he met and who first told
+    the news to Telemachus's mother.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:1
+- id: fig:6
+  name_or_label: Armed men on the ship
+  description: A number of men aboard a ship entering harbour, carrying many shields
+    and spears; Eumaeus thinks they may be the suitors but is uncertain.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:2
+- id: fig:7
+  name_or_label: Suitors
+  description: Group Eumaeus suspects may be the armed men on the ship, though he
+    cannot be sure.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: reporting eyewitness
+  assigned_to:
+  - fig:1
+  basis: Eumaeus says he can report what he saw with his own eyes.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: servant or messenger returning from town
+  assigned_to:
+  - fig:1
+  basis: Eumaeus says he had gone to town to give his message and came back as soon
+    as he could.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: listener
+  assigned_to:
+  - fig:2
+  basis: Telemachus hears Eumaeus's report.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: son
+  assigned_to:
+  - fig:2
+  basis: The passage states that Telemachus smiled to his father.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: father
+  assigned_to:
+  - fig:3
+  basis: The passage identifies the addressee of Telemachus's smile as his father.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: mother receiving news
+  assigned_to:
+  - fig:4
+  basis: Eumaeus says a man first told the news to Telemachus's mother.
+  evidence_refs:
+  - ev:1
+- id: role:7
+  label: news-bearer
+  assigned_to:
+  - fig:5
+  basis: Eumaeus says the man first told the news to Telemachus's mother.
+  evidence_refs:
+  - ev:1
+- id: role:8
+  label: armed arrivals
+  assigned_to:
+  - fig:6
+  basis: The men arrive by ship with many shields and spears.
+  evidence_refs:
+  - ev:2
+- id: role:9
+  label: suspected identity of armed arrivals
+  assigned_to:
+  - fig:7
+  basis: Eumaeus says he thought the armed men were the suitors but could not be sure.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: ship entering harbour
+  literal_form: ship coming into harbour with a number of men aboard
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: shields and spears
+  literal_form: many shields and spears carried by men on the ship
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: hill of Mercury
+  literal_form: crest of the hill of Mercury above the town
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: hidden smile
+  literal_form: Telemachus smiles to his father so that Eumaeus cannot see him
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: shared meal and sleep
+  literal_form: meal with full shares followed by rest and sleep
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Eumaeus reports armed arrivals
+  summary: Eumaeus explains what he did in town, reports a separate news-bearer, and
+    describes seeing a ship with armed men entering harbour from the hill of Mercury.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Telemachus's concealed response
+  summary: Telemachus responds to the report by smiling to his father in a way hidden
+    from Eumaeus.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Meal and sleep in the hut
+  summary: After work and the prepared meal, the men eat until satisfied and then
+    lie down to sleep.
+  figure_refs: []
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: concealed father-son recognition or shared knowledge
+  taxonomy_refs: []
+  basis: Telemachus smiles to his father while hiding the gesture from Eumaeus, indicating
+    a private understanding not shared with the observer.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage does not explicitly explain the reason for the smile or the
+    state of recognition; this is inferred only from the concealed gesture and father-son
+    relation.
+- id: motif:2
+  label: return and hidden presence of a father
+  taxonomy_refs:
+  - return
+  basis: The passage identifies Telemachus's father as present and receiving a hidden
+    smile, in the larger passage label context of Ulysses in the hut; the line itself
+    presents the father as physically present but not openly acknowledged to Eumaeus.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The supplied lines do not name the father or explicitly narrate his return;
+    the taxonomy link should be reviewed against the surrounding book context.
+- id: motif:3
+  label: armed arrival by ship as possible threat
+  taxonomy_refs: []
+  basis: Eumaeus sees a ship arrive with many armed men and suspects they may be the
+    suitors, though he is uncertain.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage emphasizes uncertainty about the men's identity, so the threat
+    remains suspected rather than confirmed.
+- id: motif:4
+  label: hospitality meal followed by restorative sleep
+  taxonomy_refs: []
+  basis: The men finish work, share a meal in which each has a full portion, and then
+    rest and sleep.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage gives no explicit ritual or symbolic interpretation for the
+    meal or sleep.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 7416-7422
+  quote_or_summary: Eumaeus says he did not ask about the matter in town, returned
+    after giving his message, and met a man sent by those who had gone with Telemachus
+    to Pylos; that man first told the news to Telemachus's mother.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:2
+  type: summary
+  locator: 7422-7427
+  quote_or_summary: Eumaeus says that from the crest of the hill of Mercury above
+    the town he saw a ship entering harbour with many men, shields, and spears; he
+    thought they might be the suitors but was not sure.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:3
+  type: quote
+  locator: 7428-7429
+  quote_or_summary: "“On hearing this Telemachus smiled to his father, but so that
+    Eumaeus could not see him.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+- id: ev:4
+  type: summary
+  locator: 7430-7431
+  quote_or_summary: After the work was finished and the meal was ready, the men ate
+    full shares, drank enough, then lay down and slept.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source; summary generated from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif candidates involving return
+    or recognition depend partly on the relation stated in the line and the passage
+    label, so they require review. No comparison claims are made because the passage
+    itself does not support cross-textual comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only supplied passage text and metadata. No external comparisons added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-odyssey-butler-gutenberg__l7416-l7431
+  passage_sha256=c385a5237b84bad4f92a046288b0f2deba181632d22d62b089ba654f49a2a247
+

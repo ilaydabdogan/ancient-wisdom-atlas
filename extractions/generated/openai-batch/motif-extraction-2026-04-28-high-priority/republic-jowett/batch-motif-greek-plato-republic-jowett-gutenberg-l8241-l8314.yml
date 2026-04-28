@@ -1,0 +1,461 @@
+---
+record_id: batch.motif.greek-plato-republic-jowett-gutenberg-l8241-l8314
+source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+passage_locator:
+  label: The Republic / THE REPUBLIC / INTRODUCTION AND ANALYSIS.; lines 8241-8314
+  start: '8241'
+  end: '8314'
+  translation: The Republic
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage analyzes Thomas More’s Utopia as a Plato-influenced ideal commonwealth,
+    contrasts it with contemporary social corruption, discusses communal property
+    and equality, and describes More’s fictional travel frame involving Raphael Hythloday,
+    eyewitness claims, missionary interest, and the lost location of Utopia.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: More is said to bring Plato’s light to bear on the miserable condition of
+    his own country and to place an ideal state beside descriptions of misery and
+    oppression.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says More viewed the world as being in dissolution and decay amid
+    clergy corruption, elite luxury, poverty, and war.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The community of property is described as a fixed idea for More, connected
+    with equal portions of riches and commodities.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Christ and Plato are both presented in the passage as associated with instituting
+    all things common.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: More is described as founding his tale on a small factual basis from Amerigo
+    Vespucci’s voyages and as mixing real and imaginary persons.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Raphael Hythloday is presented as a Portuguese traveler who claims firsthand
+    knowledge of Utopia and says he lived there for five years or more.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The exact location of Utopia is said to have been lost because More’s attention
+    was diverted and Giles could not hear due to coughing; the place remains unknown.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: A Professor of Divinity is said to desire to be sent to Utopia as a missionary
+    and to become Bishop of Utopia.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Sir Thomas More
+  description: Author of Utopia, described as constructing an ideal state with Plato’s
+    help and using dramatic invention and feigned narrative.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Plato
+  description: Philosophical model whose light and ideas are said to shape More’s
+    Utopia, especially the ideal state and common property.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Christ
+  description: Presented in More’s cited view as instituting all things common among
+    his followers.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Raphael Hythloday
+  description: Imaginary Portuguese traveler and narrator who claims to have seen
+    Utopia and lived there for five years or more.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: Peter Giles
+  description: Citizen of Antwerp involved in the framing story and later associated
+    with the lost report of Utopia’s location.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:6
+  name_or_label: Citizens of Utopia
+  description: People said to be more willing to receive Christian doctrines because
+    they heard that Christ instituted all things common.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:2
+- id: fig:7
+  name_or_label: Professor of Divinity
+  description: Figure said to desire missionary dispatch to Utopia and the Bishopric
+    of Utopia.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: constructor of ideal commonwealth
+  assigned_to:
+  - fig:1
+  basis: More is said to place an ideal state in the second book of Utopia, constructed
+    with Plato’s help.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: fictionalizing author
+  assigned_to:
+  - fig:1
+  basis: More is described as a disciple of Plato in the art of feigning and as mixing
+    real and imaginary persons.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: philosophical model
+  assigned_to:
+  - fig:2
+  basis: The passage says More brings Plato’s light to bear and constructs the ideal
+    state with Plato’s help.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: communal teaching authority
+  assigned_to:
+  - fig:3
+  basis: The passage cites the view that Christ instituted all things common among
+    his followers.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: eyewitness traveler-narrator
+  assigned_to:
+  - fig:4
+  basis: Hythloday claims that he saw Utopia with his own eyes and lived there for
+    five years or more.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: framing witness and correspondent
+  assigned_to:
+  - fig:5
+  basis: Giles is named among the framing figures and is asked to obtain information
+    about Utopia’s location.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:7
+  label: receivers of doctrine
+  assigned_to:
+  - fig:6
+  basis: The citizens of Utopia are said to be more willing to receive Christ’s doctrines
+    because of communal property.
+  evidence_refs:
+  - ev:2
+- id: role:8
+  label: prospective missionary bishop
+  assigned_to:
+  - fig:7
+  basis: The Professor of Divinity wishes to be sent to Utopia as a missionary and
+    made Bishop of Utopia.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: light of Plato
+  literal_form: light
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: community of property
+  literal_form: all things common / equal portions of riches and commodities
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: unknown island of Utopia
+  literal_form: island or new land whose place remains unknown
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: lost secret of location
+  literal_form: unheard report of Utopia’s exact situation
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Critique of society and construction of ideal state
+  summary: More’s Utopia is described as responding to social misery, corruption,
+    poverty, and war by placing an ideal state beside the conditions of his age.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Communal property as ideal order
+  summary: The passage connects More, Plato, Christ, and the citizens of Utopia through
+    the claim that all things should be common and that equality supports the wealth
+    of a community.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:6
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Eyewitness fiction of the traveler
+  summary: More’s narrative frame is described as mixing real and imaginary figures,
+    with Hythloday claiming firsthand observation and long residence in Utopia.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Unknown location of Utopia
+  summary: The report of Utopia’s exact location is lost through interruption and
+    missed hearing, so the secret perishes and Utopia remains unmapped.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Missionary desire for Utopia
+  summary: A Professor of Divinity wants to be sent to Utopia as a missionary and
+    to become its bishop, but this design may fail because Hythloday disappears.
+  figure_refs:
+  - fig:4
+  - fig:7
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: philosophical illumination through received wisdom
+  taxonomy_refs:
+  - wisdom
+  basis: The passage uses the image of Plato’s light and calls Greek literature a
+    revelation for minds like More’s.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage is literary-historical analysis, not a mythic narrative; the
+    motif is inferred from explicit imagery of light and revelation.
+- id: motif:2
+  label: ideal commonwealth based on shared goods
+  taxonomy_refs: []
+  basis: The passage repeatedly emphasizes communal property, equality, and an ideal
+    state constructed with Plato’s help.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: No supplied taxonomy family directly matches communal property or utopian
+    commonwealth.
+- id: motif:3
+  label: traveler returns from an extraordinary land as witness
+  taxonomy_refs:
+  - return
+  basis: Hythloday is presented as having lived in Utopia for five years and returning
+    only to make the new land known.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage frames this as More’s fictional artifice rather than as a
+    traditional mythic return.
+- id: motif:4
+  label: hidden land with lost location
+  taxonomy_refs: []
+  basis: The exact location of Utopia is reported as lost through interruption, and
+    the place remains unknown.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: This is a literary motif in a fictional travel frame; no historical or
+    mythic claim is made by the extraction.
+- id: motif:5
+  label: eyewitness authentication of a fictional marvel
+  taxonomy_refs: []
+  basis: The passage stresses dates, facts, eyewitness claims, and the mixture of
+    real and imaginary persons to make the tale believable.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is a narrative authentication pattern rather than one of the supplied
+    motif families.
+comparison_claims:
+- id: claim:1
+  claim: 'The passage presents More’s Utopia as performing a function similar to Plato’s
+    ideal-state thought: using philosophical design to critique and replace corrupt
+    social conditions with an imagined commonwealth.'
+  claim_level: same_function
+  target: Plato’s ideal-state model as represented in this introduction to the Republic
+  evidence_refs:
+  - ev:1
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim is limited to Jowett’s introductory analysis and does not
+    compare primary Greek passages directly.
+- id: claim:2
+  claim: The passage explicitly aligns Christ and Plato as figures associated with
+    instituting communal possession or common goods.
+  claim_level: same_function
+  target: Christian communal-property pattern and Platonic communal-property pattern
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The alignment is reported through More’s cited reasoning; the passage
+    does not develop a broader historical argument about influence.
+- id: claim:3
+  claim: The passage compares More’s art of fictional framing to Plato’s art of feigning,
+    especially in making a partly imaginary account appear credible.
+  claim_level: same_function
+  target: Platonic narrative fiction or feigned philosophical tale
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison concerns literary technique, not a specific mythic motif
+    family.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8241-8264
+  quote_or_summary: More’s Utopia is described as bringing Plato’s light to bear on
+    England’s misery, corruption, poverty, war, and decay, and as placing an ideal
+    state beside those conditions.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 8264-8278
+  quote_or_summary: The passage says More thought Christ, like Plato, instituted all
+    things common; the citizens of Utopia were more willing to receive such doctrines,
+    and More treats common property and equality as central to communal wealth.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 8280-8290
+  quote_or_summary: More is described as possessing dramatic invention, being a disciple
+    of Plato in feigning, founding his tale on Vespucci’s voyages, and mixing real
+    and imaginary persons.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 8290-8300
+  quote_or_summary: Hythloday says he would hardly have believed the tale “if I had
+    not myself seen it with mine own eyes,” and refers to having lived in Utopia “five
+    years and more.”
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:5
+  type: summary
+  locator: lines 8304-8314
+  quote_or_summary: More regrets not asking where Utopia is situated; Giles reports
+    that a servant and a loud cough prevented the location from being heard, so the
+    secret perished and Utopia remains unknown.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 8299-8307
+  quote_or_summary: A Professor of Divinity wants to be sent to Utopia as a missionary
+    and made Bishop of Utopia; the plan may fail because news of Hythloday becomes
+    uncertain after his departure.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is an introductory literary analysis rather than a myth narrative.
+    Motifs were therefore limited to explicit narrative patterns, imagery, and comparisons
+    present in the supplied text.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No external texts or taxonomy identifiers beyond the supplied motif family list were used.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-plato-republic-jowett-gutenberg__l8241-l8314
+  passage_sha256=1d4f0ae27e9d01515bd68adb555e943f7fc0564a4d668b5495e6f4e5702dd42d
+

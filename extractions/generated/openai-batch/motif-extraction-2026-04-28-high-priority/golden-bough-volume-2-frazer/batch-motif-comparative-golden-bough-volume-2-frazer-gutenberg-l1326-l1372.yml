@@ -1,0 +1,530 @@
+---
+record_id: batch.motif.comparative-golden-bough-volume-2-frazer-gutenberg-l1326-l1372
+source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+passage_locator:
+  label: 'The Golden Bough: A Study in Comparative Religion (Vol. 2 of 2) / CONTENTS;
+    lines 1326-1372'
+  start: '1326'
+  end: '1372'
+  translation: 'The Golden Bough: A Study in Comparative Religion (Vol. 2 of 2)'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Frazer describes the pig in ancient Egypt as both abhorred as unclean and
+    ritually sacrificed and eaten once a year to the moon and Osiris. He compares
+    Egyptian beliefs about pig’s milk causing leprosy with several examples of totemic
+    or divine animals whose consumption is believed to cause disease, madness, or
+    death.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that the pig held a dubious position in ancient Egypt,
+    with uncleanness more prominent at first sight than sanctity.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Greek writers are reported as saying that Egyptians abhorred the pig as foul
+    and loathsome.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A person who touched a pig was said to enter the river with clothes on to
+    wash off the taint.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Drinking pig’s milk was believed to cause leprosy.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Swineherds were forbidden to enter temples and were socially endogamous because
+    others would not marry them or their daughters.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Once a year Egyptians sacrificed pigs to the moon and Osiris and ate pig flesh,
+    while on other days they would not sacrifice or taste it.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Poor people who could not offer a pig baked dough cakes and offered them instead.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The author interprets the annual eating of the pig as sacramental eating of
+    a sacred animal.
+  category: other
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: In Wetar, people are said to believe themselves descended from various animals
+    and to avoid eating the animal kind from which they descend, with leprosy and
+    madness expected if they do.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: Omaha people with elk or red maize totems are described as believing that
+    eating those totems would cause skin ailments or sores.
+  category: attribute
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: Bush negroes of Surinam are described as believing that eating the capiaï
+    would cause leprosy.
+  category: attribute
+  evidence_refs:
+  - ev:8
+- id: obs:12
+  text: In Samoa, a man’s god could appear in the shape of an animal species, and
+    eating that divine animal was believed to let the god enter the eater’s body and
+    kill him.
+  category: relationship
+  evidence_refs:
+  - ev:9
+- id: obs:13
+  text: The passage gives sea-urchin and eel examples in which eating the divine animal
+    leads to illness, an animal growing in the stomach, or the god’s voice announcing
+    punishment.
+  category: sequence
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Pig in ancient Egypt
+  description: An animal described as abhorred as unclean, but also sacrificed and
+    eaten once annually to the moon and Osiris.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Egyptians
+  description: People described as avoiding pigs on most days, washing after contact,
+    excluding swineherds from temples, and annually sacrificing pigs.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Swineherds
+  description: Native Egyptians who were forbidden to enter temples and married among
+    themselves due to social exclusion.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Moon and Osiris
+  description: Recipients of the annual Egyptian pig sacrifice.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Wetar descent animals
+  description: Wild pigs, serpents, crocodiles, turtles, dogs, and eels named as animal
+    kinds from which people of Wetar believed themselves descended.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: Omaha elk and red maize totems
+  description: Totems whose consumption is said to be believed to cause boils, white
+    spots, or sores among relevant Omaha groups.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+- id: fig:7
+  name_or_label: Capiaï of Surinam
+  description: An animal like a pig whose consumption is said to be believed to cause
+    leprosy among Bush negroes of Surinam.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:8
+- id: fig:8
+  name_or_label: Samoan divine animals
+  description: Animal forms of a person’s god, including examples of a prickly sea-urchin
+    and an eel, whose consumption brings divine punishment.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:9
+  - ev:10
+roles:
+- id: role:1
+  label: unclean animal
+  assigned_to:
+  - fig:1
+  basis: The passage reports abhorrence of the pig and ritual washing after contact.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: sacred sacrificial animal
+  assigned_to:
+  - fig:1
+  basis: The pig is sacrificed and eaten once yearly, which the author explains as
+    sacramental eating of a sacred animal.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:3
+  label: ritual avoiders and sacrificers
+  assigned_to:
+  - fig:2
+  basis: Egyptians avoid pig contact and consumption generally, but perform annual
+    pig sacrifice and consumption.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:4
+  label: excluded occupational group
+  assigned_to:
+  - fig:3
+  basis: Swineherds are uniquely barred from temples and restricted in marriage relations.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: divine recipients of sacrifice
+  assigned_to:
+  - fig:4
+  basis: Pigs are sacrificed to the moon and to Osiris.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: totemic or descent-associated food taboo
+  assigned_to:
+  - fig:5
+  - fig:6
+  - fig:7
+  basis: The passage presents these as animals or plants not to be eaten by those
+    associated with them, with disease or madness as consequences.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: role:7
+  label: divine incarnation that punishes consumption
+  assigned_to:
+  - fig:8
+  basis: Samoan gods are described as appearing in animal shape and avenging consumption
+    of those animals from within the eater’s body.
+  evidence_refs:
+  - ev:9
+  - ev:10
+symbols:
+- id: sym:1
+  label: pig
+  literal_form: Pig or swine
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: pig’s milk
+  literal_form: Milk of the pig, believed to cause leprosy when drunk
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - milk
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: river washing
+  literal_form: River water used by a person who touched a pig to wash off taint
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: substitute dough cakes
+  literal_form: Cakes of dough offered by those too poor to offer a pig
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: serpent among descent animals
+  literal_form: Serpents listed among Wetar ancestral animal kinds
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: animal inside the body
+  literal_form: A consumed divine animal growing or acting within the eater’s body
+  associated_figures:
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+  - ev:10
+scenes:
+- id: scene:1
+  label: Egyptian pig avoidance and purification
+  summary: The pig is described as abhorred; contact with it prompts washing in the
+    river, and pig’s milk is believed to cause leprosy.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Exclusion of swineherds
+  summary: Swineherds are excluded from temples and from marriage with others outside
+    their group.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Annual pig sacrifice to the moon and Osiris
+  summary: Once a year, Egyptians sacrifice pigs to the moon and Osiris and eat the
+    flesh; those unable to provide a pig offer dough cakes instead.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Comparative examples of tabooed sacred foods
+  summary: The passage compares Egyptian pig beliefs with Wetar, Omaha, Surinam, and
+    Samoan examples in which eating a totemic or divine animal or plant causes disease,
+    madness, or death.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: sacred animal treated as both taboo and sacrificial food
+  taxonomy_refs:
+  - sacrifice
+  basis: The Egyptian pig is generally avoided as unclean, yet is sacrificed and eaten
+    once annually to the moon and Osiris.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is extracted from Frazer’s comparative interpretation, not directly
+    from an Egyptian primary ritual text.
+- id: motif:2
+  label: sacred food taboo whose violation brings disease or death
+  taxonomy_refs: []
+  basis: The passage lists multiple cases where consuming an associated sacred animal
+    or plant is believed to cause leprosy, boils, sores, madness, illness, or death.
+  evidence_refs:
+  - ev:2
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:10
+  confidence: high
+  cautions: The motif label generalizes across the author’s comparative examples;
+    individual cultural contexts are only briefly summarized.
+- id: motif:3
+  label: substitute offering for those unable to provide the sacrificial animal
+  taxonomy_refs:
+  - sacred_exchange
+  - sacrifice
+  basis: Those too poor to offer a pig bake and offer dough cakes instead during the
+    annual rite.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage does not elaborate on the ritual meaning of the substitute
+    cakes beyond their use in place of a pig.
+- id: motif:4
+  label: divine incarnation punishing the eater from within the body
+  taxonomy_refs: []
+  basis: In the Samoan examples, eating the god’s animal form leads to the god taking
+    up residence in the eater’s body, generating the animal, and causing death.
+  evidence_refs:
+  - ev:9
+  - ev:10
+  confidence: high
+  cautions: This motif is limited to the Samoan examples as presented in the passage.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares Egyptian belief that pig’s milk causes leprosy
+    with beliefs in Wetar, Omaha, Surinam, and Samoa that eating a sacred or totemic
+    being causes disease, madness, or death.
+  claim_level: same_function
+  target: Totemic or divine-animal food taboos in Wetar, Omaha, Surinam, and Samoa
+  evidence_refs:
+  - ev:2
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:10
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison follows Frazer’s argument and depends on the accuracy
+    and framing of his cited ethnographic reports.
+- id: claim:2
+  claim: The passage uses the cross-cultural pattern of harmful consequences after
+    consuming sacred animals to support the interpretation that the Egyptian pig was
+    sacred despite its uncleanness.
+  claim_level: same_motif
+  target: Sacred animal taboo with ritual consumption
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:10
+  counter_evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  limitations: The Egyptian evidence includes strong signs of impurity and social
+    exclusion, so the sacred-status interpretation is inferential within the passage.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1326-1330
+  quote_or_summary: In ancient Egypt the pig is said to occupy a dubious position;
+    Greek writers say Egyptians abhorred it as foul and loathsome.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1330-1334
+  quote_or_summary: A person touching a pig washes in the river with clothes on; drinking
+    pig’s milk is believed to cause leprosy.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 1334-1338
+  quote_or_summary: Swineherds are forbidden to enter temples and marry only among
+    themselves because others will not intermarry with them.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 1338-1344
+  quote_or_summary: Once a year Egyptians sacrifice pigs to the moon and Osiris and
+    eat their flesh; on other days they do not. Poor people offer dough cakes instead.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 1344-1349
+  quote_or_summary: The author says this is best explained by supposing the pig was
+    a sacred animal eaten sacramentally once a year, and that apparent contrary facts
+    support this view.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 1349-1356
+  quote_or_summary: In Wetar people are described as descended from animals such as
+    wild pigs, serpents, crocodiles, turtles, dogs, and eels; eating one’s descent
+    animal causes leprosy and madness.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 1356-1362
+  quote_or_summary: Among Omaha groups, eating the male elk or red maize associated
+    with one’s totem is believed to cause boils, white spots, or mouth sores.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 1362-1365
+  quote_or_summary: Bush negroes of Surinam with totemism are said to believe that
+    eating the capiaï, an animal like a pig, would cause leprosy.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 1365-1370
+  quote_or_summary: In Samoa each man generally has his god in an animal species;
+    eating that divine animal lets the god enter the eater’s body and generate the
+    animal until death.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: lines 1370-1372
+  quote_or_summary: Examples include a sea-urchin growing in the stomach and killing
+    the eater, or an eel-god speaking from the stomach and saying the man is being
+    killed because he ate the incarnation.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward, but motif labeling and comparison
+    claims reflect Frazer’s comparative interpretation and require human review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  The passage is a comparative scholarly argument rather than a mythic narrative; roles and motifs are therefore framed as passage-level patterns and authorial comparisons.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:comparative-golden-bough-volume-2-frazer-gutenberg__l1326-l1372
+  passage_sha256=bff8e265cfb3b455d73130e5c751999d05105d0478a6f73eaca0d2c4da10b862
+

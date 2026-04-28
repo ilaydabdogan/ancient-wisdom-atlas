@@ -1,0 +1,351 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l3781-l3802
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE LION AND THE HARE / THE WOLVES AND THE DOGS / THE BULL AND THE CALF /
+    THE TREES AND THE AXE; lines 3781-3802
+  start: '3781'
+  end: '3802'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: In one fable, a young calf offers to show a full-grown bull how to pass
+    through a narrow cow-house entrance, and the bull replies that he knew the way
+    before the calf was born. In another fable, trees give a woodman an ash sapling
+    for an axe handle; he uses the completed axe to fell the noblest trees, and the
+    trees lament that their small concession caused their ruin.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A full-grown bull struggles to force his body through the narrow entrance
+    to a cow-house where his stall is located.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A young calf offers to show the bull how to get through if the bull steps
+    aside.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The bull looks amused and says he knew that way before the calf was born.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A woodman enters the forest and asks the trees for a handle for his axe.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The principal trees agree to the request and give the woodman a young ash
+    sapling.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The woodman fashions the ash sapling into an axe handle and uses the axe to
+    fell the noblest trees in the wood.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The trees lament that they are undone, blame themselves, and say that the
+    little they gave cost them all.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: full-grown Bull
+  description: A mature bull trying to enter a cow-house through a narrow entrance.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: young Calf
+  description: A young calf who offers to show the bull how to get through the entrance.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Woodman
+  description: A woodman who asks the trees for an axe handle, makes one from an ash
+    sapling, and then fells trees.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: fig:4
+  name_or_label: Trees
+  description: The collective trees of the forest, including the principal trees who
+    grant the woodman's request and later lament their ruin.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: fig:5
+  name_or_label: young ash sapling
+  description: A young ash sapling given by the trees to the woodman and made into
+    an axe handle.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+roles:
+- id: role:1
+  label: experienced elder who rejects instruction
+  assigned_to:
+  - fig:1
+  basis: The bull answers that he knew the way before the calf was born.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: young adviser
+  assigned_to:
+  - fig:2
+  basis: The calf offers to show the bull the way through the entrance.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: petitioner who becomes destroyer
+  assigned_to:
+  - fig:3
+  basis: The woodman first asks for a handle and then uses the resulting axe to fell
+    the trees.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:4
+  label: grantors of a request
+  assigned_to:
+  - fig:4
+  basis: The principal trees agree to give the woodman an ash sapling for a handle.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: victims who blame themselves
+  assigned_to:
+  - fig:4
+  basis: The trees lament that they are undone and say they are themselves to blame.
+  evidence_refs:
+  - ev:7
+- id: role:6
+  label: sacrificed member enabling harm
+  assigned_to:
+  - fig:5
+  basis: The ash sapling is given for the axe handle, and the trees later say sacrificing
+    the rights of the ash led to their own loss.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+symbols:
+- id: sym:1
+  label: narrow entrance
+  literal_form: narrow entrance to a cow-house
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: trees
+  literal_form: forest trees, principal trees, and noblest trees
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: sym:3
+  label: axe handle from ash
+  literal_form: handle fashioned from a young ash sapling
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:4
+  label: axe
+  literal_form: woodman's axe fitted with the ash handle
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:6
+scenes:
+- id: scene:1
+  label: Calf advises Bull at the cow-house entrance
+  summary: A bull struggles at a narrow entrance; a calf offers instruction, and the
+    bull replies that he already knew the way before the calf existed.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Trees grant wood for the axe handle
+  summary: A woodman asks the forest trees for a handle for his axe, and the principal
+    trees give him a young ash sapling.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Gift turned against the givers
+  summary: After making the axe handle, the woodman fells the noblest trees, and the
+    trees lament that their small gift and their sacrifice of the ash caused their
+    ruin.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: young adviser rebuffed by experienced elder
+  taxonomy_refs:
+  - wisdom
+  basis: The calf offers practical guidance, but the bull replies that he knew the
+    method before the calf was born.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage presents the exchange briefly and does not state an explicit
+    moral in the provided text.
+- id: motif:2
+  label: small concession enables great loss
+  taxonomy_refs:
+  - wisdom
+  basis: The trees give a sapling for an axe handle, after which the woodman uses
+    the axe to fell the noblest trees; the trees say the little they gave cost them
+    all.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: This is a practical fable pattern rather than a mythic cosmological motif.
+- id: motif:3
+  label: sacrificing a vulnerable member endangers the whole group
+  taxonomy_refs:
+  - sacrifice
+  - wisdom
+  basis: The trees say that if they had not sacrificed the rights of the ash, they
+    might have stood for ages.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The word 'sacrificed' occurs in the passage, but the context is moral
+    and political rather than ritual sacrifice.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3781-3784
+  quote_or_summary: A full-grown bull struggles to force his huge bulk through the
+    narrow entrance to the cow-house containing his stall.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 3784-3786
+  quote_or_summary: The calf says, "If you'll step aside a moment, I'll show you the
+    way to get through."
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: quote
+  locator: lines 3786-3788
+  quote_or_summary: The bull says, "I knew that way ... before you were born."
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: summary
+  locator: lines 3790-3793
+  quote_or_summary: A woodman goes into the forest and asks the trees for the favor
+    of a handle for his axe.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 3793-3796
+  quote_or_summary: The principal trees agree to the request and give him a young
+    ash sapling for the handle.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 3796-3798
+  quote_or_summary: After fashioning the handle, the woodman uses the axe to fell
+    the noblest trees in the wood.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: quote
+  locator: lines 3798-3802
+  quote_or_summary: 'The trees cry that they are undone and to blame: "The little
+    we gave has cost us all."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied passage. Motif labels are candidate
+    fable-pattern descriptions and require human review for taxonomy alignment.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly compare these fables to another tradition, text, or motif family beyond the supplied candidate taxonomy.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l3781-l3802
+  passage_sha256=bdf64d8657394569d3026662a936d756554bc892c7a45cca58b28096f68f2d6a
+

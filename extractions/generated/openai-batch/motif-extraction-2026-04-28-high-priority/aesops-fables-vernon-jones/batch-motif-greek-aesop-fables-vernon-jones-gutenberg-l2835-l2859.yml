@@ -1,0 +1,335 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l2835-l2859
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE HORSE AND HIS RIDER / THE GOAT AND THE VINE / THE TWO POTS / THE OLD
+    HOUND; lines 2835-2859
+  start: '2835'
+  end: '2859'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: In one fable, an earthenware pot and a brass pot are swept down a flooded
+    river; the brass pot offers protection, but the earthenware pot fears that contact
+    with him would break it. The stated moral is that equals make the best friends.
+    In another fable, an old hound can no longer hold a boar because of age; when
+    his master scolds him, the hound says his will remains strong though his body
+    is old, and asks to be honored for past service.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Two pots, one earthenware and one brass, are carried down a river in flood.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The brass pot urges the earthenware pot to stay close so that he can protect
+    him.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The earthenware pot asks the brass pot not to come near, saying that one touch
+    from the brass pot would break him.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: 'The fable states the moral: equals make the best friends.'
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A hound who had served his master for years loses strength and speed because
+    of age.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: During a hunt, the hound seizes a wild boar by the ear but cannot keep hold
+    because his teeth are gone, and the boar escapes.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The master scolds the hound after the boar escapes.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The hound tells the master that his will remains strong, but his body is old
+    and feeble, and that he should be honored for what he has been.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Earthenware Pot
+  description: A fragile pot made of earthenware, carried down a flooded river beside
+    a brass pot.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Brazen Pot
+  description: A brass pot carried down a flooded river who offers to protect the
+    earthenware pot.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Old Hound
+  description: A hunting hound formerly effective in service, now weakened by age.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: Master
+  description: The hound's master, who sends him after a wild boar and scolds him
+    after the boar escapes.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Wild Boar
+  description: A powerful wild boar started by the master during the hunt and briefly
+    seized by the hound.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: fragile companion
+  assigned_to:
+  - fig:1
+  basis: The earthenware pot fears being broken by contact with the brass pot.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: stronger companion offering protection
+  assigned_to:
+  - fig:2
+  basis: The brass pot offers protection to the earthenware pot.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: speaker of prudent refusal
+  assigned_to:
+  - fig:1
+  basis: The earthenware pot refuses proximity because it would endanger him.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: potentially dangerous protector
+  assigned_to:
+  - fig:2
+  basis: The brass pot's offered protection is rejected because even one touch would
+    break the earthenware pot.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: aged former servant
+  assigned_to:
+  - fig:3
+  basis: The hound has served for years but has lost strength and speed owing to age.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: speaker defending past merit
+  assigned_to:
+  - fig:3
+  basis: The hound asks to be honored for what he has been rather than abused for
+    what he is.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: master who rebukes
+  assigned_to:
+  - fig:4
+  basis: The master scolds the hound after the boar escapes.
+  evidence_refs:
+  - ev:5
+- id: role:8
+  label: quarry that escapes
+  assigned_to:
+  - fig:5
+  basis: The boar escapes after the hound cannot retain his hold.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: flooded river
+  literal_form: river in flood
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: contrasting pot materials
+  literal_form: earthenware pot and brass pot
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: lost teeth
+  literal_form: the hound's teeth were gone
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Two pots in the flood
+  summary: An earthenware pot and a brass pot are swept down a flooded river; the
+    brass pot offers protection, but the earthenware pot refuses proximity because
+    contact would break him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Old hound and escaped boar
+  summary: An old hunting hound catches a boar by the ear but cannot hold it; after
+    the master scolds him, the hound explains that his will is strong but his body
+    is old and asks for honor for past service.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Unequal companions make unsafe friends
+  taxonomy_refs:
+  - duality
+  - wisdom
+  basis: The fable contrasts a fragile earthenware pot with a stronger brass pot and
+    explicitly concludes that equals make the best friends.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The taxonomy references are broad; the passage's explicit concern is practical
+    friendship among unequals rather than a developed mythic duality.
+- id: motif:2
+  label: Past service deserves honor despite present weakness
+  taxonomy_refs:
+  - wisdom
+  basis: The hound explains that age has weakened his body though not his will, and
+    asks the master to honor his former service rather than abuse his present condition.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: This is a moral fable pattern rather than a mythic episode.
+- id: motif:3
+  label: Age weakens the body but not intention
+  taxonomy_refs:
+  - wisdom
+  basis: The hound explicitly contrasts his still-strong will with his old and feeble
+    body.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: Closely overlaps with motif:2 and may be better treated as a subtheme.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2835-2840
+  quote_or_summary: Two pots, one earthenware and one brass, are carried away down
+    a river in flood.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 2840-2845
+  quote_or_summary: The brass pot urges the other to stay close for protection; the
+    earthenware pot asks him not to come near because a touch would break him.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: moral after THE TWO POTS
+  quote_or_summary: '"Equals make the best friends."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: summary
+  locator: THE OLD HOUND opening
+  quote_or_summary: A hound who had served his master well for years begins to lose
+    strength and speed because of age.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: THE OLD HOUND hunt episode
+  quote_or_summary: The master starts a powerful wild boar and sets the hound on it;
+    the hound seizes the boar by the ear but cannot hold it because his teeth are
+    gone, so the boar escapes and the master scolds him.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: quote
+  locator: THE OLD HOUND closing speech
+  quote_or_summary: '"My will is as strong as ever, master, but my body is old and
+    feeble. You ought to honour me for what I have been instead of abusing me for
+    what I am."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; public domain quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward from the supplied English passage.
+    Motif taxonomy assignments are broad and should be reviewed, especially for the
+    Two Pots.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not support a specific cross-textual or historical comparison.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l2835-l2859
+  passage_sha256=ace2a3a7e691affd729616a13cf82b4dd07bf2ef92526ad7580d9e8524e0ca86
+

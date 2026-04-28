@@ -1,0 +1,510 @@
+---
+record_id: batch.motif.comparative-golden-bough-volume-2-frazer-gutenberg-l258-l329
+source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+passage_locator:
+  label: 'The Golden Bough: A Study in Comparative Religion (Vol. 2 of 2) / CONTENTS;
+    lines 258-329'
+  start: '258'
+  end: '329'
+  translation: 'The Golden Bough: A Study in Comparative Religion (Vol. 2 of 2)'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'Frazer describes European harvest customs in which the corn-spirit is
+    represented as a cock: the cock is said to sit in the last sheaf, is chased or
+    caught at harvest, appears as a live bird or artificial figure in harvest processions,
+    is associated with harvest supper and farm display, and in some customs is killed,
+    beheaded, buried, or preserved in part so that its feathers can be mixed with
+    seed-corn in spring.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that one form often assumed by the corn-spirit is that
+    of a cock.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: In several described customs, the cock is associated with the last standing
+    corn or the last sheaf.
+  category: relationship
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: obs:3
+  text: Harvesters are described as chasing, catching, carrying, or naming the cock
+    during harvest customs.
+  category: action
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:4
+  text: Artificial cock figures are described as made from flowers, wood, pasteboard,
+    or ears of corn and carried on poles, waggons, crowns, or garlands.
+  category: object
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:5
+  text: Some customs include presenting, cooking, eating, or otherwise associating
+    a cock with the harvest supper.
+  category: action
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:6
+  text: Some customs describe a live cock being killed, beheaded, struck, buried up
+    to the neck, or bound in the last sheaf and killed.
+  category: action
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:7
+  text: One Transylvanian custom keeps the cock's skin and feathers until spring,
+    then mixes the feathers with grain from the last sheaf and scatters them on the
+    field to be tilled.
+  category: sequence
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: obs:8
+  text: The passage explicitly interprets the killed cock as identified with the corn
+    and states that the corn-spirit in cock form is killed at harvest but rises to
+    fresh life and activity in spring.
+  category: other
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: corn-spirit
+  description: A spirit of the corn said in the passage to assume the form of a cock
+    and to be identified with the corn in harvest customs.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: fig:2
+  name_or_label: cock / Harvest-cock
+  description: A live cock or cock figure associated with the last sheaf, harvest
+    procession, harvest supper, killing rites, and spring field scattering.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: reapers / harvesters
+  description: Harvest participants who chase, catch, carry, name, receive, kill,
+    or process the cock in the customs described.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:4
+  name_or_label: master / farmer / farmer's wife / mistress
+  description: Farm household figures who release, receive, provide, cook, or display
+    the cock in harvest customs.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:5
+  name_or_label: leader of the women-reapers
+  description: A leader who carries on her head a garland of corn-ears or flowers
+    to which a live cock is fastened in a harvest procession.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: young man in the Klausenburg custom
+  description: A young man who attempts to cut off the buried cock's head with a scythe
+    at a single stroke.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: corn-spirit embodiment
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage states that the corn-spirit assumes the form of a cock and identifies
+    the cock with the corn.
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: role:2
+  label: harvest ritual participants
+  assigned_to:
+  - fig:3
+  - fig:5
+  - fig:6
+  basis: The reapers, leader, and young man perform harvest actions involving catching,
+    carrying, or killing the cock.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: role:3
+  label: farm household recipient or provider
+  assigned_to:
+  - fig:4
+  basis: The master releases or receives the cock, and the farmer's wife or mistress
+    cooks or handles it in some customs.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:4
+  label: ritual victim
+  assigned_to:
+  - fig:2
+  basis: Live cocks are described as buried, beaten, beheaded, bound in the last sheaf,
+    or otherwise killed.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: cock as harvest-cock
+  literal_form: Live cock or cock figure made from flowers, wood, pasteboard, or ears
+    of corn.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:6
+- id: sym:2
+  label: last sheaf
+  literal_form: The last sheaf or last patch of corn, named Cock, Cock-sheaf, Harvest-cock,
+    Harvest-hen, or Autumn-hen in different customs.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: sym:3
+  label: harvest procession objects
+  literal_form: Pole, harvest-waggon, harvest-crown, and garland of corn-ears or flowers
+    bearing a cock or cock figure.
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: May-tree with cock image
+  literal_form: A May-tree on the last harvest-waggon with the cock image fastened
+    to its top.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: sickle or scythe
+  literal_form: Harvesting implement used in some customs to strike off or cut off
+    the cock's head.
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:6
+  label: feathers and seed-corn
+  literal_form: Cock feathers kept until spring and mixed with grain from the last
+    sheaf before being scattered on the field.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+scenes:
+- id: scene:1
+  label: Cock in the last corn
+  summary: The cock is said to sit in the last sheaf or be caught in the last patch
+    of corn; harvesters cry that they will chase out or catch the cock.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Harvest-cock procession and display
+  summary: A cock figure or live cock is carried home on a pole, waggon, crown, or
+    garland, sometimes before the harvest-waggon or by the leader of women-reapers;
+    in some customs the cock figure is later fixed to the house or gable until the
+    next harvest.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Harvest-cock supper and farm exchange
+  summary: The harvest supper may be called Harvest-cock or Stubble-cock, and in some
+    places a cock is a chief dish or is supplied by the farmer to the harvesters.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Killing the cock at harvest
+  summary: In several regional customs a live cock is placed in the last corn, chased,
+    buried, beaten, beheaded, or bound in the last sheaf and killed.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:5
+  label: Preservation for spring sowing
+  summary: In the Udvarhely custom, the cock's skin and feathers are kept until spring,
+    then the feathers are mixed with grain from the last sheaf and scattered on the
+    field to be tilled.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: corn-spirit embodied in harvest animal
+  taxonomy_refs: []
+  basis: The passage repeatedly associates the cock with the corn-spirit and the last
+    sheaf or last standing crop.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+  confidence: high
+  cautions: The available taxonomy list has no specific corn-spirit or harvest-animal
+    motif family.
+- id: motif:2
+  label: death of the crop embodiment at harvest
+  taxonomy_refs:
+  - sacrifice
+  basis: The cock identified with the corn is killed, beheaded, buried, beaten, or
+    bound in the last sheaf and killed at harvest.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage frames the action as killing the corn-spirit; whether every
+    local custom understood it as sacrifice is not independently demonstrated in the
+    excerpt.
+- id: motif:3
+  label: seasonal death and renewed life of the corn-spirit
+  taxonomy_refs:
+  - seasonal_cycle
+  - death_rebirth
+  - dying_and_returning
+  basis: The passage states that the corn-spirit in cock form is killed at harvest
+    but rises to fresh life and activity in spring, and describes feathers mixed with
+    seed-corn for spring sowing.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: This is Frazer's comparative interpretation of the customs, not necessarily
+    a direct statement from the practitioners.
+- id: motif:4
+  label: last sheaf as locus of the crop spirit
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The cock is said to sit in the last sheaf, the last sheaf is named after
+    the cock, and a live cock may be bound in the last sheaf before being killed.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  confidence: high
+  cautions: The label abstracts several regional customs into a common pattern.
+- id: motif:5
+  label: fertilizing remains returned to the field
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The cock's feathers are preserved until spring, mixed with grain from the
+    last sheaf, and scattered on the field to be tilled; the passage calls this a
+    sign of quickening and fertilising power.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The fertilizing interpretation is explicitly supplied by the author.
+comparison_claims:
+- id: claim:1
+  claim: Across the regional customs cited, the passage presents a recurring pattern
+    in which a cock or cock figure is linked to the last corn or last sheaf and treated
+    as a harvest embodiment.
+  claim_level: same_motif
+  target: European harvest-cock customs in Austria, North Germany, Transylvania, Thüringen,
+    Westphalia, Galicia, Silesia, and related regions as described in the passage
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is internal to Frazer's selected examples and does not
+    establish historical contact among the regions.
+- id: claim:2
+  claim: 'The customs of killing, beheading, burying, or otherwise destroying the
+    cock perform a similar harvest-season function in the passage: marking the death
+    of the corn-spirit or crop embodiment.'
+  claim_level: same_function
+  target: Regional cock-killing harvest customs in Germany, Hungary, Poland, Picardy,
+    Westphalia, and Transylvania
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The functional interpretation depends on the author's comparative reading;
+    local meanings may have varied.
+- id: claim:3
+  claim: The preservation of cock feathers for spring sowing is compared by the author
+    to the renewed vitality of the corn-spirit after harvest death.
+  claim_level: same_function
+  target: Seasonal renewal pattern within the Udvarhely harvest-cock custom
+  evidence_refs:
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is based on a single described custom plus Frazer's explanation,
+    not on multiple independent spring rites in the excerpt.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 258-267
+  quote_or_summary: The passage introduces the corn-spirit as taking cock form; children
+    are warned about the Corn-cock in Austria, North German reapers say the cock sits
+    in the last sheaf and chase or catch it, and Transylvanian reapers cry that they
+    will catch the cock in the last patch.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 267-281
+  quote_or_summary: The last sheaf receives cock-related names; it may be shaped like
+    a cock, and cock figures or live cocks are carried on poles, harvest-waggons,
+    crowns, garlands, or a May-tree in several regional customs.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 281-290
+  quote_or_summary: The cock appears in harvest supper terminology and food customs;
+    a spilled harvest-waggon is said to spill the Harvest-cock, a cock figure is fixed
+    to a house or gable until next harvest, and a threshing participant may be called
+    the Clucking-hen.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 291-303
+  quote_or_summary: 'The passage says the corn-spirit is killed in cock form: live
+    cocks are placed in the last corn, chased, buried up to the neck, beheaded with
+    sickle or scythe, beaten, killed with whips or sticks, cooked, or used in soup.'
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 303-314
+  quote_or_summary: Near Klausenburg a buried cock is beheaded by a young man with
+    a scythe; near Udvarhely a live cock is bound in the last sheaf, killed with a
+    spit, skinned, and its skin and feathers are kept until next year.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 314-329
+  quote_or_summary: 'Frazer interprets these customs as identifying the cock with
+    the corn: the cock''s death corresponds to cutting the corn, and preserved feathers
+    mixed with seed-corn and scattered in spring express quickening and fertilising
+    power; the corn-spirit in cock form is killed at harvest and rises to fresh life
+    in spring.'
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is explicit and internally comparative, but several motif labels
+    rely on Frazer's interpretive framing rather than direct local testimony.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No external sources or taxonomy identifiers beyond the supplied lists were used.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:comparative-golden-bough-volume-2-frazer-gutenberg__l258-l329
+  passage_sha256=330a4050b1cc48d3b21d2d2a4ce047b52d7740aac76f33f1c4ae12cd2bf61f25
+

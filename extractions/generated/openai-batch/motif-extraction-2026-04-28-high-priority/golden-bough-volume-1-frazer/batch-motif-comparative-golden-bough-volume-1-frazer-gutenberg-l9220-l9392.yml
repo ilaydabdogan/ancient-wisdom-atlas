@@ -1,0 +1,234 @@
+---
+record_id: batch.motif.comparative-golden-bough-volume-1-frazer-gutenberg-l9220-l9392
+source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+passage_locator:
+  label: CHAPTER II. THE PERILS OF THE SOUL. / HEINE. / CHAPTER III. KILLING THE GOD.
+    / FOOTNOTES; lines 9220-9392
+  start: '9220'
+  end: '9392'
+  translation: 'The Golden Bough: A Study in Comparative Religion (Vol. 1 of 2)'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'A series of footnotes cites sources for comparative religious and folkloric
+    examples. A few notes include substantive claims: a discussion of aquilex/aquaelicium
+    as rain-making, a note on kinship with a sacred object from which a clan takes
+    its name, and a note that the Natchez and Incas claimed kindred with the sun.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is primarily a numbered list of citations to works on folklore,
+    ethnology, classical sources, travel accounts, and comparative religion.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: One note says that the use of aquaelicium in the sense of rain-making supports
+    taking aquilex as a rain-maker.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: One note refers to kinship with a sacred object, called tchem, from which
+    a clan takes its name.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The same note says that other people have claimed kindred with the sun, naming
+    the Natchez of North America and the Incas of Peru as examples.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage cites Odyssey x. 19 sqq. as one of the footnote references, without
+    summarizing the cited passage.
+  category: other
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: aquilex
+  description: A term interpreted in the note as possibly meaning a rain-maker.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: clan associated with tchem
+  description: A clan said to take its name from a sacred object called tchem.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Natchez of North America
+  description: A people cited as claiming kindred with the sun.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Incas of Peru
+  description: A people cited as claiming kindred with the sun.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: rain-maker
+  assigned_to:
+  - fig:1
+  basis: The note says aquaelicium in the sense of rain-making favors taking aquilex
+    as rain-maker.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: clan named from sacred object
+  assigned_to:
+  - fig:2
+  basis: The note says the clan takes its name from the sacred object tchem.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: people claiming kindred with the sun
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The note names the Natchez and Incas as peoples who claimed kindred with
+    the sun.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: rain-making water rite or term
+  literal_form: aquaelicium / rain-making
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: sacred object
+  literal_form: tchem
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: sun as kin
+  literal_form: sun
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Lexical note on rain-making
+  summary: The footnote argues that aquaelicium used in the sense of rain-making supports
+    interpreting aquilex as a rain-maker.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Kinship with sacred object and sun
+  summary: The footnote describes kinship with a sacred object from which a clan takes
+    its name and notes examples of peoples claiming kindred with the sun.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: rain-making specialist or rite
+  taxonomy_refs: []
+  basis: The footnote explicitly discusses aquaelicium as rain-making and aquilex
+    as a possible rain-maker.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage is a footnote and does not describe a full ritual episode.
+- id: motif:2
+  label: clan kinship with sacred object
+  taxonomy_refs: []
+  basis: The note states that a clan has kinship with a sacred object from which it
+    takes its name.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The footnote gives only a compressed reference and does not narrate the
+    associated custom.
+- id: motif:3
+  label: people claiming descent or kindred from the sun
+  taxonomy_refs: []
+  basis: The note says the Natchez and Incas claimed kindred with the sun.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The wording is brief and does not specify the exact mythic genealogy or
+    ritual context.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 9220-9392
+  quote_or_summary: The line range consists of footnotes 51-114, mostly bibliographic
+    references to comparative, ethnographic, classical, and folkloric sources.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: footnote 85, lines 9309-9312
+  quote_or_summary: "“In favour of taking aquilex as rain-maker is the use of aquaelicium
+    in the sense of rain-making.”"
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: summary
+  locator: footnote 90, lines 9326-9331
+  quote_or_summary: The note refers to kinship with a sacred object, tchem, from which
+    a clan takes its name, and adds that the Natchez of North America and the Incas
+    of Peru have claimed kindred with the sun.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: citation
+  locator: footnote 111, line 9385
+  quote_or_summary: The passage cites Odyssey x. 19 sqq. without further description.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; citation only.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Because the passage is mainly footnotes, only a few compressed notes support
+    motif or symbol extraction. No comparison claims were added beyond the passage's
+    own brief references.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Extraction limited to substantive statements within the footnotes; most citations were not converted into motifs.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:comparative-golden-bough-volume-1-frazer-gutenberg__l9220-l9392
+  passage_sha256=1eab31da8a4eed1c35aab02bf8d0dcc4a06f9863824bb0e981fd89327e342e68
+

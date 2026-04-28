@@ -1,0 +1,337 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l1444-l1466
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE MILKMAID AND HER PAIL / THE DOLPHINS, THE WHALES, AND THE SPRAT / THE
+    FOX AND THE MONKEY / THE ASS AND THE LAP-DOG; lines 1444-1466
+  start: '1444'
+  end: '1466'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A man owns an Ass and a Lap-dog. The Ass is well fed but works, while the
+    Lap-dog is petted by the master. The Ass becomes jealous, breaks into the house
+    during dinner, imitates the dog’s playful behavior, damages household objects,
+    and tries to climb into the master’s lap. Servants beat him and drive him back
+    to the stable. The Ass concludes that he brought the punishment on himself by
+    refusing his natural and honorable position and imitating the Lap-dog.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A man has both an Ass and a Lap-dog.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Ass is housed in the stable and has plenty of oats and hay.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Lap-dog is petted by the master, allowed to lie in his lap, and given
+    small food treats after the master returns from dinner.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The Ass performs labor such as carting, grinding corn, and carrying farm burdens.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The Ass becomes jealous when comparing his labor with the Lap-dog’s ease and
+    idleness.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The Ass breaks his halter and enters the house as the master sits down to
+    dinner.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The Ass imitates the Lap-dog’s frolics by prancing and capering, and he upsets
+    the table and smashes crockery.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The Ass tries to jump onto the master’s lap.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: Servants beat the Ass with sticks and cudgels and drive him back to the stable.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: The Ass speaks in regret, saying he caused his own punishment by not being
+    satisfied with his own position and by imitating the Lap-dog.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Ass
+  description: A working farm animal housed in the stable, later jealous of the Lap-dog
+    and punished after imitating it.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Lap-dog
+  description: A small dog favored by the master, petted, allowed on his lap, and
+    given treats.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: Master
+  description: The man who owns the Ass and Lap-dog, pets the dog, and is seated at
+    dinner when the Ass enters.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Servants
+  description: Servants who respond to the Ass’s dangerous behavior by beating him
+    and driving him back to the stable.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: jealous imitator
+  assigned_to:
+  - fig:1
+  basis: The Ass envies the Lap-dog’s treatment and mimics its behavior in the house.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:2
+  label: favored pet
+  assigned_to:
+  - fig:2
+  basis: The Lap-dog is fondled, permitted in the master’s lap, and given treats.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: working animal
+  assigned_to:
+  - fig:1
+  basis: The Ass performs farm labor and is kept in the stable with feed.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: owner and source of favor
+  assigned_to:
+  - fig:3
+  basis: The master owns both animals and gives special affection and food to the
+    Lap-dog.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: punishing household agents
+  assigned_to:
+  - fig:4
+  basis: The servants beat the Ass and return him to the stable after perceiving danger
+    to the master.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: stable
+  literal_form: stable
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:2
+  label: master’s lap
+  literal_form: lap
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:3
+  label: halter
+  literal_form: halter
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: sticks and cudgels
+  literal_form: sticks and cudgels
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: contrasting conditions of the animals
+  summary: The Ass is well fed but works and lives in the stable, while the Lap-dog
+    receives affectionate treatment and food treats from the master.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: failed imitation in the house
+  summary: The Ass breaks free, enters during dinner, imitates the Lap-dog’s play,
+    damages the table and crockery, and attempts to climb into the master’s lap.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: punishment and regret
+  summary: The servants beat the Ass and return him to the stable, after which the
+    Ass blames himself for imitating the Lap-dog instead of accepting his own position.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: jealous animal imitates a favored animal
+  taxonomy_refs: []
+  basis: The Ass envies the Lap-dog’s ease and affection, then imitates the dog’s
+    frolics and attempted lap-sitting.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is a passage-level pattern label, not a supplied taxonomy identifier.
+- id: motif:2
+  label: overstepping one’s proper role brings punishment
+  taxonomy_refs:
+  - wisdom
+  basis: The Ass leaves his usual place, imitates behavior unsuitable to him, is beaten,
+    and concludes that he should have been satisfied with his own position.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The available taxonomy reference “wisdom” is broad; the passage presents
+    a moral lesson, but no narrower taxonomy ID is supplied.
+- id: motif:3
+  label: belated self-recognition after punishment
+  taxonomy_refs:
+  - wisdom
+  basis: After the beating, the Ass explicitly recognizes that his own actions caused
+    his suffering.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: This motif is inferred from the Ass’s closing speech and remains a broad
+    moral pattern.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1444-1450
+  quote_or_summary: A man owns an Ass and a Lap-dog; the Ass lives in the stable with
+    oats and hay, while the dog is petted, allowed in the master’s lap, and given
+    treats.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary used.
+- id: ev:2
+  type: summary
+  locator: lines 1450-1454
+  quote_or_summary: The Ass performs work such as carting, grinding corn, and carrying
+    burdens, and grows jealous when comparing his labor with the Lap-dog’s ease and
+    idleness.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary used.
+- id: ev:3
+  type: summary
+  locator: lines 1454-1460
+  quote_or_summary: The Ass breaks his halter, enters the house at dinner, prances
+    and capers like the Lap-dog, upsets the table, smashes crockery, and tries to
+    jump on the master’s lap.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary used.
+- id: ev:4
+  type: summary
+  locator: lines 1460-1463
+  quote_or_summary: The servants see danger to the master, beat the Ass with sticks
+    and cudgels, and drive him back to the stable half dead.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary used.
+- id: ev:5
+  type: quote
+  locator: lines 1463-1466
+  quote_or_summary: "“Why could I not be satisfied with my natural and honourable
+    position”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based only on the supplied passage. Motif taxonomy assignment
+    is limited because the available taxonomy has only broad categories; no external
+    comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  The supplied locator label names multiple fables, but the passage text supplied for extraction contains only “THE ASS AND THE LAP-DOG.”
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l1444-l1466
+  passage_sha256=06fd296549bb7f2154c6cf75c309a5a134aacd78505c44cdd3478998ff9f88aa
+

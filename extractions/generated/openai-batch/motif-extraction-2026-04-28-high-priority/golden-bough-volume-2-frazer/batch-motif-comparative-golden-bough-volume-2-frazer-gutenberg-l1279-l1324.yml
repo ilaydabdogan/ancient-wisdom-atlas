@@ -1,0 +1,455 @@
+---
+record_id: batch.motif.comparative-golden-bough-volume-2-frazer-gutenberg-l1279-l1324
+source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+passage_locator:
+  label: 'The Golden Bough: A Study in Comparative Religion (Vol. 2 of 2) / CONTENTS;
+    lines 1279-1324'
+  start: '1279'
+  end: '1324'
+  translation: 'The Golden Bough: A Study in Comparative Religion (Vol. 2 of 2)'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Frazer discusses variant explanations of Adonis's connection with the boar
+    or pig, Syrian and Jewish taboos concerning swine, and the interpretation that
+    animals later treated as unclean may once have been sacred and ritually consumed
+    as divine embodiments.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: 'The passage reports several explanations for Adonis''s connection with a
+    boar: death by a boar, birth from a tree whose bark a boar rent, and death by
+    Hephaestus on Mount Lebanon while hunting wild boars.'
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: At Hierapolis, pigs were neither sacrificed nor eaten, and touching a pig
+    made a person unclean for the rest of the day.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage states that some people explained the pig taboo by uncleanness
+    and others by sanctity.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage proposes that sanctity and uncleanness may be undifferentiated
+    under the category of taboo.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage argues that the pig may have been held as an embodiment of the
+    divine Adonis.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage allows that pigs ordinarily not sacrificed or eaten by worshippers
+    could be killed and eaten on solemn occasions as representatives of the god.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The passage describes Greek uncertainty over whether Jews worshipped swine
+    or abominated them, noting rules against eating and killing swine.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The passage says that some Jews met secretly in gardens to eat swine and mice
+    as a religious rite down to the time of Isaiah.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The passage concludes that so-called unclean animals were originally sacred
+    because they were divine.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Adonis
+  description: A divine figure connected with the boar; in one story he is an infant
+    born in a tree, and in other stories he is killed in relation to boars or hunting.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: boar / pig / swine
+  description: An animal connected with Adonis, treated as taboo at Hierapolis, and
+    discussed as sacred, unclean, or a divine embodiment.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Hephaestus
+  description: Named in one version as killing Adonis on Mount Lebanon while Adonis
+    hunted wild boars.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Syrians at Hierapolis
+  description: A group associated with pig taboos at the religious metropolis of Hierapolis.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: worshippers of Attis and presumably of Adonis
+  description: Worshippers described as not sacrificing or eating pigs under ordinary
+    rules, with a possible exception for solemn sacramental occasions.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Jews / Israelites
+  description: A group whose attitude to swine is described as ambiguous, with rules
+    against eating and killing swine and a reported secret rite involving swine and
+    mice.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:7
+  name_or_label: Dionysus and Demeter
+  description: Named as analogies for interpreting a god as embodied in an animal.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:8
+  name_or_label: mouse
+  description: An animal whose flesh is said to have been eaten with swine in a secret
+    religious rite and interpreted as once venerated as divine.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: deity associated with animal
+  assigned_to:
+  - fig:1
+  basis: Adonis is repeatedly connected with the boar or pig in reported legends and
+    interpretation.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: sacred or taboo animal
+  assigned_to:
+  - fig:2
+  - fig:8
+  basis: The pig is described as sacred, unclean, taboo, or divine; mice are included
+    in the reported rite and interpreted as formerly divine.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:3
+  label: agent in explanatory death or injury variant
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: A boar is linked to Adonis's death or birth-tree injury in some variants,
+    while Hephaestus kills Adonis in another variant.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: ritual community observing animal prohibitions or rites
+  assigned_to:
+  - fig:4
+  - fig:5
+  - fig:6
+  basis: Syrians, worshippers of Attis or Adonis, and Jews are described in relation
+    to prohibitions or rites involving pigs.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:5
+  label: comparative analogy invoked by author
+  assigned_to:
+  - fig:7
+  basis: Dionysus and Demeter are cited as analogies for interpreting animal embodiment
+    of a god.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: sacred boar or pig
+  literal_form: boar / pig / swine
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: tree of Adonis's infant birth
+  literal_form: tree
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Mount Lebanon hunting place
+  literal_form: Mount Lebanon
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: sacred mouse
+  literal_form: mouse
+  associated_figures:
+  - fig:6
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: secret ritual gardens
+  literal_form: gardens
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Variant explanations of Adonis and the boar
+  summary: The passage lists different stories explaining Adonis's association with
+    boars, including death by a boar, birth from a tree opened by a boar, and death
+    by Hephaestus during a boar hunt on Mount Lebanon.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Pig taboo at Hierapolis
+  summary: The passage describes a Syrian religious setting where pigs are not sacrificed
+    or eaten, touching a pig causes temporary uncleanness, and the animal is variously
+    explained as unclean or sacred.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Sacramental animal as divine representative
+  summary: The passage interprets the pig as a possible embodiment of Adonis and describes
+    the possibility that a normally protected sacred animal could be killed and eaten
+    on solemn occasions as the god.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  - fig:7
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Jewish ambiguity toward swine and secret rite
+  summary: The passage compares Jewish rules about swine with Syrian ambiguity, then
+    reports a secret garden rite involving eating the flesh of swine and mice.
+  figure_refs:
+  - fig:2
+  - fig:6
+  - fig:8
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Sacred animal treated as taboo or unclean
+  taxonomy_refs:
+  - duality
+  basis: The pig is described as both sacred and unclean, with the author framing
+    this ambiguity as taboo where sanctity and uncleanness are not differentiated.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The duality taxonomy is broad; the passage concerns ritual classification
+    rather than a narrative dualism.
+- id: motif:2
+  label: Animal embodiment of a god sacramentally killed and eaten
+  taxonomy_refs:
+  - sacrifice
+  - sacred_exchange
+  basis: The passage says a sacred animal may be slain as a representative of the
+    god and consumed sacramentally by worshippers as a god.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: This is Frazer's interpretive reconstruction rather than a narrated ritual
+    witnessed directly in the passage.
+- id: motif:3
+  label: Infant deity born from a tree
+  taxonomy_refs:
+  - sacred_birth
+  basis: One reported variant says a boar rent the bark of the tree in which the infant
+    Adonis was born.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The birth episode is mentioned briefly only as one explanatory variant
+    for the boar connection.
+- id: motif:4
+  label: Secret consumption of divine animal flesh
+  taxonomy_refs:
+  - sacrifice
+  - sacred_exchange
+  basis: The passage reports secret garden meetings to eat swine and mice as a religious
+    rite, interpreted as sacramental eating of formerly divine animals.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The rite is presented through the author's comparative interpretation
+    and not described in procedural detail.
+comparison_claims:
+- id: claim:1
+  claim: The passage compares Adonis with Dionysus and Demeter to support the idea
+    that a god could be viewed as embodied in an animal.
+  claim_level: same_function
+  target: Dionysus and Demeter as analogies for divine embodiment in animals
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage names the analogies but does not provide their details
+    in this excerpt.
+- id: claim:2
+  claim: The passage compares Syrian and Jewish attitudes to swine as similarly ambiguous
+    between sanctity and uncleanness.
+  claim_level: same_function
+  target: Syrian and Jewish swine taboos
+  evidence_refs:
+  - ev:2
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is framed by Frazer's interpretation and depends on
+    reported Greek and biblical-era evidence not fully quoted here.
+- id: claim:3
+  claim: The passage links Attis and Adonis worshippers by similar pig prohibitions
+    and the possible solemn sacramental killing of the animal.
+  claim_level: same_function
+  target: Attis and Adonis cult pig prohibitions and sacramental exception
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage uses cautious language, especially for Adonis, and describes
+    the sacramental exception as a possibility.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1279-1287
+  quote_or_summary: 'Different stories explain Adonis''s connection with the boar:
+    killed by a boar, born from a tree opened by a boar''s tusk, or killed by Hephaestus
+    on Mount Lebanon while hunting wild boars.'
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source text.
+- id: ev:2
+  type: summary
+  locator: lines 1288-1297
+  quote_or_summary: At Hierapolis pigs were neither sacrificed nor eaten; touching
+    a pig caused uncleanness for the day; people differed on whether pigs were unclean
+    or sacred, which the passage identifies with taboo.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source text.
+- id: ev:3
+  type: summary
+  locator: lines 1298-1307
+  quote_or_summary: The passage interprets the pig as possibly an embodiment of Adonis,
+    invokes Dionysus and Demeter as analogies, and states that a sacred animal may
+    be killed and eaten sacramentally as a god.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source text.
+- id: ev:4
+  type: summary
+  locator: lines 1308-1317
+  quote_or_summary: 'The passage describes Jewish attitudes to pigs as ambiguous:
+    Greeks could not decide whether Jews worshipped or abominated swine, since they
+    might neither eat nor kill them.'
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source text.
+- id: ev:5
+  type: summary
+  locator: lines 1318-1324
+  quote_or_summary: The passage says some Jews met secretly in gardens to eat swine
+    and mice as a religious rite and interprets this as an ancient sacramental eating
+    of divine animals; it concludes that so-called unclean animals were originally
+    sacred.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source text.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is explicit about ritual taboos, sacred animals, and Frazer's
+    comparisons, but several motif identifications depend on Frazer's interpretive
+    reconstruction rather than a primary myth narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  All comparisons and motifs are limited to claims made or directly supported within the supplied passage.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:comparative-golden-bough-volume-2-frazer-gutenberg__l1279-l1324
+  passage_sha256=baab54fe3269a26bcc820b37762ad56643fc60e106dbf9eecd00d0091b91f3a4
+

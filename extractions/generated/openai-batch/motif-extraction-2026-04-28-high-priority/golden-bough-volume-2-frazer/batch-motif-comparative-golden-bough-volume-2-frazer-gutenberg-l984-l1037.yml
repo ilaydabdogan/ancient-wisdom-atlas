@@ -1,0 +1,519 @@
+---
+record_id: batch.motif.comparative-golden-bough-volume-2-frazer-gutenberg-l984-l1037
+source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+passage_locator:
+  label: 'The Golden Bough: A Study in Comparative Religion (Vol. 2 of 2) / CONTENTS;
+    lines 984-1037'
+  start: '984'
+  end: '1037'
+  translation: 'The Golden Bough: A Study in Comparative Religion (Vol. 2 of 2)'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Frazer argues that Dionysus represented as a bull is best understood as
+    an animal expression of his character as a vegetation deity, while noting an alternative
+    totemic explanation. He then describes the Athenian Bouphonia, in which an ox
+    that eats grain offerings at Zeus Polieus's altar is slain, consumed, reconstituted
+    with straw, yoked to a plough, and followed by a trial that shifts blame onto
+    the weapons.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Dionysus is described as represented in the form of a bull.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that Dionysus had strong agricultural affinities through
+    association with Demeter and Proserpine in the Eleusinian mysteries.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: 'An alternative explanation is reported: the bull-shaped Dionysus may have
+    developed from or succeeded a bull-totem worship.'
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Bouphonia took place around the end of June or beginning of July, near
+    the time when threshing was nearly over in Attica.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Tradition said the sacrifice was instituted to end drought and barrenness
+    in the land.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Barley mixed with wheat, or cakes made from them, were placed on the bronze
+    altar of Zeus Polieus on the Acropolis.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Oxen were driven around the altar, and the ox that went up and ate the offering
+    was sacrificed.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The axe and knife used to kill the ox had been wetted with water brought by
+    maidens called water-carriers.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: One butcher felled the ox with the axe and another cut its throat with the
+    knife; the first then threw away the axe and fled, and the second apparently did
+    likewise.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: Those present ate the ox’s flesh.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: The ox hide was stuffed with straw, sewn up, set on its feet, and yoked to
+    a plough as if ploughing.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:12
+  text: A trial was held to determine who murdered the ox; blame was passed among
+    ritual participants and finally placed on the axe and knife, which were condemned
+    and cast into the sea.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Dionysus
+  description: A deity represented in bull form and treated by Frazer as a vegetation
+    deity with agricultural affinities.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Demeter
+  description: Named with Proserpine as closely associated with Dionysus in the mysteries
+    of Eleusis.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Proserpine
+  description: Named with Demeter as closely associated with Dionysus in the mysteries
+    of Eleusis.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Ox of the Bouphonia
+  description: The ox that approaches the altar, eats the grain offering, is sacrificed,
+    eaten, reconstituted with straw, and yoked to a plough.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:5
+  name_or_label: Water-carriers
+  description: Maidens who bring water used to wet the axe and knife before the ox
+    is slain.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: fig:6
+  name_or_label: Butchers
+  description: Men who kill the ox with the axe and knife and are later blamed in
+    the trial sequence.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: fig:7
+  name_or_label: King
+  description: The presiding figure in the ancient law-court where the trial over
+    the ox’s killing takes place.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:7
+- id: fig:8
+  name_or_label: Zeus Polieus
+  description: The deity whose bronze altar on the Acropolis receives the grain offering
+    in the Bouphonia ritual.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: vegetation deity
+  assigned_to:
+  - fig:1
+  basis: Frazer says the bull form of Dionysus is safer to regard as an expression
+    of his character as a deity of vegetation.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: animal-formed deity
+  assigned_to:
+  - fig:1
+  basis: Dionysus is represented in bull form, with reference also to his goat form.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: agricultural divine associate
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The passage states that Dionysus’s close association with Demeter and Proserpine
+    shows agricultural affinities.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: sacrificial animal
+  assigned_to:
+  - fig:4
+  basis: The ox that eats the offering is sacrificed, skinned, eaten, and ritually
+    reconstructed.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:5
+  label: possible representative of vegetation spirit
+  assigned_to:
+  - fig:4
+  basis: Frazer introduces the Bouphonia as evidence that ancients slew an ox as a
+    representative of the spirit of vegetation.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: ritual water bearers
+  assigned_to:
+  - fig:5
+  basis: Maidens called water-carriers bring the water used to wet the weapons.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: ritual killers
+  assigned_to:
+  - fig:6
+  basis: The butchers fell the ox and cut its throat, then are included in the blame
+    sequence.
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: role:8
+  label: ritual trial presider
+  assigned_to:
+  - fig:7
+  basis: The law-court is described as presided over by the King.
+  evidence_refs:
+  - ev:7
+- id: role:9
+  label: altar deity
+  assigned_to:
+  - fig:8
+  basis: The grain offering is placed on the bronze altar of Zeus Polieus.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: bull or ox form
+  literal_form: Bull form of Dionysus and the ox sacrificed in the Bouphonia.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:2
+  label: grain offering
+  literal_form: Barley mixed with wheat, or cakes made from them, placed on the altar.
+  associated_figures:
+  - fig:4
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: water for weapons
+  literal_form: Water brought by maidens and used to wet the axe and knife.
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: axe and knife
+  literal_form: Weapons used to kill the ox; later condemned and cast into the sea.
+  associated_figures:
+  - fig:4
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+- id: sym:5
+  label: stuffed hide
+  literal_form: The ox hide stuffed with straw, sewn up, set on its feet, and yoked
+    to a plough.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: plough
+  literal_form: A plough to which the stuffed ox is yoked as if ploughing.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: bronze altar on the Acropolis
+  literal_form: The bronze altar of Zeus Polieus where the grain offering is placed.
+  associated_figures:
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Interpretation of bull-shaped Dionysus
+  summary: Frazer weighs whether Dionysus’s bull form expresses his vegetation character
+    or derives from a bull-totem, and favors the vegetation-deity explanation.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Setting and purpose of the Bouphonia
+  summary: The Bouphonia is placed near the end of the threshing season in Attica
+    and linked by tradition to ending drought and barrenness.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Selection and killing of the ox
+  summary: Grain is placed on Zeus Polieus’s altar; oxen circle it; the ox that eats
+    the offering is killed with water-prepared weapons by butchers.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:8
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:7
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Consumption and reconstruction of the ox
+  summary: The ox is skinned, its flesh eaten, and its hide stuffed with straw, sewn
+    up, set upright, and yoked to a plough.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Trial over the ox’s murder
+  summary: A ritual trial assigns and shifts blame for the killing among participants,
+    ending with the axe and knife found guilty, condemned, and cast into the sea.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: animal form of a vegetation deity
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: Dionysus’s bull form is interpreted as an expression of his character as
+    a vegetation deity, with agricultural associations emphasized.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: This is Frazer’s interpretive argument, not a mythic narrative within
+    the passage.
+- id: motif:2
+  label: sacrifice of an animal as vegetation representative
+  taxonomy_refs:
+  - sacrifice
+  - seasonal_cycle
+  basis: Frazer presents the Bouphonia as a case in which an ox appears to be slain
+    as a representative of the spirit of vegetation, timed near threshing and linked
+    to drought and barrenness.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The role of the ox as vegetation representative is Frazer’s comparative
+    interpretation; the ritual description itself records the killing of an ox.
+- id: motif:3
+  label: ritual reconstruction of the slain animal
+  taxonomy_refs: []
+  basis: After the ox is killed and eaten, its hide is stuffed with straw, sewn up,
+    set on its feet, and yoked to a plough as if alive and working.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: No explicit resurrection claim is made in the passage.
+- id: motif:4
+  label: ritual transfer of guilt to the killing implement
+  taxonomy_refs: []
+  basis: The trial passes blame from water-carriers to sharpeners, handlers, butchers,
+    and finally to the axe and knife, which are condemned and cast into the sea.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: The passage describes a juridical blame sequence but does not assign a
+    broader named motif family.
+comparison_claims:
+- id: claim:1
+  claim: The passage cautiously aligns Dionysus’s bull form with animal embodiments
+    of the corn-spirit, especially as attested by Frazer for Northern Europe.
+  claim_level: same_function
+  target: Northern European animal embodiments of the corn-spirit
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs:
+  - ev:2
+  confidence: medium
+  limitations: The passage reports a comparative inference and also notes an alternative
+    bull-totem explanation.
+- id: claim:2
+  claim: The Bouphonia is presented as a parallel to Dionysian animal forms insofar
+    as an ox may represent a vegetation spirit and be ritually slain.
+  claim_level: same_function
+  target: Dionysian bull or goat form as expression of vegetation deity
+  evidence_refs:
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage says the Bouphonia appears to support this view; it does
+    not prove direct historical connection.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 984-996
+  quote_or_summary: Dionysus is said to be represented as a bull; Frazer connects
+    this with his character as a vegetation deity, notes the bull as a common embodiment
+    of the corn-spirit in Northern Europe, and cites his association with Demeter
+    and Proserpine as agricultural evidence.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source text; summary provided.
+- id: ev:2
+  type: summary
+  locator: 997-1015
+  quote_or_summary: Frazer reports Andrew Lang’s alternative view that bull-formed
+    Dionysus may have developed from or succeeded bull-totem worship, but concludes
+    it is safer to see Dionysus’s bull form, like his goat form, as an expression
+    of vegetation deity character.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source text; summary provided.
+- id: ev:3
+  type: summary
+  locator: 1016-1023
+  quote_or_summary: Frazer introduces the Athenian Bouphonia as a possible example
+    of ancients slaying an ox as representative of vegetation spirit; it occurs near
+    the end of threshing and was traditionally instituted to end drought and barrenness.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source text; summary provided.
+- id: ev:4
+  type: summary
+  locator: 1024-1030
+  quote_or_summary: Barley and wheat, or cakes made from them, are placed on Zeus
+    Polieus’s bronze altar on the Acropolis; oxen circle the altar; the ox that eats
+    the offering is sacrificed; the axe and knife had been wetted with water brought
+    by water-carriers.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source text; summary provided.
+- id: ev:5
+  type: summary
+  locator: 1030-1033
+  quote_or_summary: The weapons are sharpened and given to butchers; one fells the
+    ox with the axe and another cuts its throat with the knife; the first throws away
+    the axe and flees, and the second apparently does likewise; the ox is skinned
+    and those present eat its flesh.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source text; summary provided.
+- id: ev:6
+  type: summary
+  locator: 1033-1035
+  quote_or_summary: The hide of the ox is stuffed with straw, sewn up, set on its
+    feet, and yoked to a plough as though ploughing.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source text; summary provided.
+- id: ev:7
+  type: summary
+  locator: 1035-1037
+  quote_or_summary: A trial in an ancient law-court presided over by the King determines
+    who murdered the ox; blame shifts among participants until the axe and knife are
+    found guilty, condemned, and cast into the sea.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source text; summary provided.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The ritual sequence is explicit, while several motif identifications reflect
+    Frazer’s comparative interpretation and should be reviewed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the provided passage and metadata were used; taxonomy references are limited to supplied available references.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:comparative-golden-bough-volume-2-frazer-gutenberg__l984-l1037
+  passage_sha256=b8095dfe6c49f3206ae814f873e10aa2e84f922e7b70935327b753dd80138147
+

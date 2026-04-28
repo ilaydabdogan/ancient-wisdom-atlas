@@ -1,0 +1,254 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l1016-l1029
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE CAT AND THE MICE / THE MISCHIEVOUS DOG / THE CHARCOAL-BURNER AND THE
+    FULLER / THE MICE IN COUNCIL; lines 1016-1029
+  start: '1016'
+  end: '1029'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The mice meet in council to discuss protection from the cat. An experienced
+    mouse proposes fastening a bell to the cat so its sound will warn them. The proposal
+    is approved until an old mouse asks who will perform the dangerous task of putting
+    the bell on the cat.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: All the mice meet together in council.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The council discusses how to secure the mice against attacks by the cat.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A mouse described as having standing and experience proposes fastening a bell
+    around the cat's neck.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The proposed bell would warn the mice of the cat's approach by tinkling.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The proposal is warmly applauded and nearly adopted.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: An old mouse asks who is going to bell the cat.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: the Mice
+  description: A collective group that meets in council and seeks safety from the
+    cat.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: the cat
+  description: The enemy whose attacks the mice seek to avoid.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: mouse of standing and experience
+  description: A mouse who proposes fastening a bell around the cat's neck.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: old Mouse
+  description: A mouse who agrees the plan is admirable but asks who will bell the
+    cat.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: threatened council
+  assigned_to:
+  - fig:1
+  basis: The mice gather to debate securing themselves against the cat's attacks.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: predatory enemy
+  assigned_to:
+  - fig:2
+  basis: The cat is identified as the attacker and enemy of the mice.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: plan proposer
+  assigned_to:
+  - fig:3
+  basis: This mouse introduces the plan to attach a warning bell to the cat.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: practical questioner
+  assigned_to:
+  - fig:4
+  basis: This mouse questions who will carry out the dangerous act required by the
+    plan.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: bell
+  literal_form: A bell to be fastened around the cat's neck, whose tinkling would
+    warn the mice.
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: council
+  literal_form: A meeting of all the mice to debate means of safety.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Mice deliberate in council
+  summary: The mice assemble and discuss how to protect themselves from the cat's
+    attacks.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Proposal to bell the cat
+  summary: An experienced mouse proposes attaching a bell to the cat so the sound
+    will warn the mice of the cat's approach.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Old mouse exposes the problem
+  summary: After the plan is applauded and nearly adopted, an old mouse asks who will
+    bell the cat.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: impractical plan requiring a dangerous executor
+  taxonomy_refs: []
+  basis: The proposed warning system is praised as admirable, but the old mouse's
+    question reveals that carrying it out would require someone to approach and bell
+    the enemy cat.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage supports the motif at the level of plot logic; no supplied
+    taxonomy family directly names this fable type.
+- id: motif:2
+  label: collective deliberation under threat
+  taxonomy_refs: []
+  basis: The mice gather in council to debate means of protection from attacks by
+    the cat.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: This is a structural situation in the passage rather than a distinctive
+    named taxonomy motif.
+- id: motif:3
+  label: wise elder's practical objection
+  taxonomy_refs:
+  - wisdom
+  basis: An old mouse accepts the plan's apparent merit but asks the practical question
+    that prevents uncritical adoption.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The taxonomy reference to wisdom is broad; the passage presents practical
+    insight rather than explicitly sacred or esoteric wisdom.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1016-1019
+  quote_or_summary: All the mice meet in council and discuss how to secure themselves
+    against the attacks of the cat.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1020-1025
+  quote_or_summary: A mouse of standing and experience proposes fastening a bell around
+    the cat's neck so its tinkling will warn the mice of the cat's approach.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 1025-1026
+  quote_or_summary: The proposal is warmly applauded and the mice are ready to adopt
+    it.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 1026-1029
+  quote_or_summary: '"but may I ask who is going to bell the cat?"'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short excerpt quoted.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is brief and self-contained. Motif labels are descriptive except
+    for the broad supplied taxonomy reference to wisdom.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not support a specific comparison to another tradition or motif family beyond descriptive fable patterns.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l1016-l1029
+  passage_sha256=6ec115e8a856f875350721a3372f3a0230e2de221e5cb647b90c39f2ae7c1da8
+

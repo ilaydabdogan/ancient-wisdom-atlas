@@ -1,0 +1,455 @@
+---
+record_id: batch.motif.greek-plato-republic-jowett-gutenberg-l7560-l7638
+source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+passage_locator:
+  label: The Republic / THE REPUBLIC / INTRODUCTION AND ANALYSIS.; lines 7560-7638
+  start: '7560'
+  end: '7638'
+  translation: The Republic
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage summarizes Plato's views on gymnastic education, the relation
+    of body and mind, medicine as parallel to law, and simplicity as a guiding principle
+    for education, health, and government. It discusses the importance of air and
+    water for health, the role of Delphi in greater legal matters, and compares the
+    diseases of a state to hydra heads that multiply when cut off.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Gymnastic is described as the second stage of education, corresponding to
+    muscular growth and development.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says excessive bodily training may cause headaches or sleepiness
+    during philosophical lectures.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Music and gymnastic are presented as both being designed for improvement of
+    the mind rather than being divided simply between mind and body.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The body is described as the servant of the mind, and the lower is said to
+    be subject to the higher.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Medicine is introduced as a sister subject to gymnastic and is illustrated
+    by a parallel with law.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Air and water are described as elements that have a great effect on health.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The passage states that the eye cannot be cured without the rest of the body,
+    nor the body without the mind.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The passage criticizes Plato's view that invalid and useless lives should
+    be left to die.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The physician is said to benefit from experience of disease in his own person,
+    so that observation of others may be quickened.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: In law, greater matters are assigned to the legislator or oracle of Delphi,
+    while lesser matters are left to temporary regulation by citizens.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: The diseases of a state are compared to the heads of a hydra, multiplying
+    when cut off.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:12
+  text: Education is presented as the preventive remedy that will take care of the
+    rest of the state's problems.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Plato
+  description: The thinker whose views on gymnastic, medicine, law, and education
+    are being summarized and evaluated.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:6
+- id: fig:2
+  name_or_label: Greek writers
+  description: Other Greek writers are said to have seen the mischievous tendency
+    of Spartan discipline.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Physicians
+  description: Medical practitioners discussed in relation to treatment, health, prejudice,
+    and personal experience of disease.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:4
+  name_or_label: Legislator
+  description: Authority named as determining greater matters of law.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: Oracle of Delphi
+  description: Religious oracular authority named alongside the legislator for determining
+    greater matters.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: Citizens
+  description: People who are to regulate lesser matters temporarily themselves.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+- id: fig:7
+  name_or_label: Hydra
+  description: Mythic image used in the comparison that the diseases of a state multiply
+    like hydra heads when cut off.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: philosophical authority under analysis
+  assigned_to:
+  - fig:1
+  basis: The passage repeatedly attributes positions on education, medicine, and law
+    to Plato.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+- id: role:2
+  label: advocate of simplicity and education
+  assigned_to:
+  - fig:1
+  basis: The passage associates Plato with simplicity in gymnastic, medicine, and
+    law, and with education as preventive remedy.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+- id: role:3
+  label: comparative witnesses on Spartan discipline
+  assigned_to:
+  - fig:2
+  basis: Other Greek writers are said to have noticed the harmful tendency of Spartan
+    discipline.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: healers and observers of disease
+  assigned_to:
+  - fig:3
+  basis: Physicians are discussed as treating disease and as ideally having personal
+    experience of disease.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:5
+  label: authority for greater legal matters
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: Greater matters are said to be determined by the legislator or the oracle
+    of Delphi.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: temporary regulators of lesser matters
+  assigned_to:
+  - fig:6
+  basis: Lesser matters are to be left to temporary regulation by citizens themselves.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: image of multiplying civic disease
+  assigned_to:
+  - fig:7
+  basis: The state's diseases are compared to hydra heads that multiply when cut off.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: body as servant of mind
+  literal_form: body and mind relation expressed through servant imagery
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: air and water for health
+  literal_form: air and water
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: warm baths
+  literal_form: warm baths
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: Delphi
+  literal_form: oracle of Delphi
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: hydra heads
+  literal_form: heads of a hydra
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: golden rule of simplicity
+  literal_form: golden rule of simplicity
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Gymnastic education and the mind-body relation
+  summary: The passage describes gymnastic as a second educational stage and explains
+    Plato's view that both music and gymnastic improve the mind, with the body subordinate
+    to the mind.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Medicine, health, and the whole person
+  summary: The passage connects gymnastic with medicine, criticizes overcomplicated
+    treatment, emphasizes air and water, and presents health as involving the eye,
+    body, and mind together.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Law, Delphi, hydra, and preventive education
+  summary: The passage parallels medicine and law, assigns greater matters to the
+    legislator or Delphi, compares civic diseases to hydra heads, and identifies education
+    as the preventive remedy.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: education as preventive wisdom
+  taxonomy_refs:
+  - wisdom
+  basis: The passage presents education as the means that will prevent civic disorders
+    and take care of the rest.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: This is a philosophical and political argument rather than a narrative
+    myth episode.
+- id: motif:2
+  label: body subordinated to mind
+  taxonomy_refs:
+  - duality
+  basis: The passage explicitly distinguishes body and mind and describes the body
+    as servant of the mind, with lower subject to higher.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The duality is conceptual and educational, not personified as mythic beings.
+- id: motif:3
+  label: whole-person healing
+  taxonomy_refs:
+  - wisdom
+  basis: The passage states that the eye cannot be cured without the body, nor the
+    body without the mind, and criticizes medicine that loses sight of the human frame
+    as a whole.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The motif is expressed as medical-philosophical doctrine, not as a ritual
+    or mythic cure narrative.
+- id: motif:4
+  label: multiplying hydra-like affliction
+  taxonomy_refs: []
+  basis: The passage compares the diseases of a state to hydra heads that multiply
+    when cut off.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The hydra appears only as an analogy within political commentary.
+- id: motif:5
+  label: oracle as authority for greater matters
+  taxonomy_refs:
+  - wisdom
+  basis: Greater legal matters are said to be determined by the legislator or the
+    oracle of Delphi.
+  evidence_refs:
+  - ev:6
+  confidence: low
+  cautions: The passage mentions Delphi briefly and does not narrate an oracle scene.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly uses a hydra-head analogy for civic disease, comparing
+    political problems to a multiplying monster when attempts are made to cut them
+    off.
+  claim_level: same_function
+  target: Hydra-like multiplying affliction pattern
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is made as an explanatory metaphor in prose analysis,
+    not as a full mythic narrative.
+- id: claim:2
+  claim: The passage presents medicine and law as parallel domains in which simplicity
+    and prevention are preferred over repeated remedial interventions.
+  claim_level: same_function
+  target: prevention-over-extirpation pattern in healing and governance
+  evidence_refs:
+  - ev:3
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is a conceptual analogy internal to the passage, not evidence
+    of historical contact or a shared mythic source.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 7560-7574
+  quote_or_summary: Gymnastic is the second stage of education; simplicity is extended
+    to it, and excessive bodily training may cause headaches or sleepiness at philosophical
+    lectures.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 7574-7591
+  quote_or_summary: Music and gymnastic are both said to improve the mind; the body
+    is described as the servant of the mind, and other Greek writers are contrasted
+    with Plato on Spartan discipline.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 7592-7612
+  quote_or_summary: Gymnastic leads to medicine, which is compared with law; medicine
+    is criticized for complicating disease, losing sight of the human frame as a whole,
+    and neglecting conditions of health including air and water.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 7612-7620
+  quote_or_summary: According to the passage, Plato holds that “the eye cannot be
+    cured without the rest of the body, nor the body without the mind,” and warm baths
+    may benefit the rustic more than a doctor's prescriptions.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; short quotation.
+- id: ev:5
+  type: summary
+  locator: lines 7620-7631
+  quote_or_summary: The passage criticizes Plato for accepting the abandonment of
+    invalid lives and says a physician should have personal experience of disease
+    to sharpen observation of others.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 7632-7638
+  quote_or_summary: Medicine is paralleled by law; greater matters are assigned to
+    the legislator or oracle of Delphi, lesser matters to citizens; state diseases
+    are likened to hydra heads; prevention through education is named as the true
+    remedy.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The extraction is based only on the supplied passage. Motif assignments are
+    cautious because the passage is analytical/philosophical prose rather than mythic
+    narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No external comparisons or invented taxonomy identifiers were added. Hydra is treated as an internal analogy because the passage itself makes the comparison.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-plato-republic-jowett-gutenberg__l7560-l7638
+  passage_sha256=c6aafb3a3cc46a618ee56001039e7628845d22b99843700b9db2123abcf7e7fa
+

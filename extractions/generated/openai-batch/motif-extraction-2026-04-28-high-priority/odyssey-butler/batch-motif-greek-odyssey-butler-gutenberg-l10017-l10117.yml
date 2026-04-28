@@ -1,0 +1,579 @@
+---
+record_id: batch.motif.greek-odyssey-butler-gutenberg-l10017-l10117
+source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+passage_locator:
+  label: BOOK XX / BOOK XXI / BOOK XXII / BOOK XXIII; lines 10017-10117
+  start: '10017'
+  end: '10117'
+  translation: The Odyssey
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: After the killing of the suitors, Ulysses purifies the house with fire
+    and sulphur. Euryclea joyfully tells Penelope that Ulysses has returned and killed
+    the suitors, but Penelope doubts the report, suggests a god may have destroyed
+    them, and asks for proof. Euryclea cites Ulysses' scar as evidence. Penelope descends,
+    sits opposite Ulysses by the fire, and remains uncertain because his shabby clothing
+    misleads her.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Fire and sulphur are brought, and Ulysses purifies the cloisters and both
+    inner and outer courts.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Women come with torches, gather around Ulysses, embrace him, kiss him, and
+    take hold of his hands.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Euryclea goes upstairs joyfully to tell Penelope that her husband has come
+    home.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Euryclea reports that Ulysses has killed the suitors who troubled his house,
+    consumed his estate, and mistreated his son.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Penelope initially rejects Euryclea's report as madness or nonsense and says
+    Ulysses will never return.
+  category: speech
+  evidence_refs:
+  - ev:4
+  - ev:8
+- id: obs:6
+  text: Euryclea says the stranger mistreated in the cloister was Ulysses, and that
+    Telemachus knew but kept his father's secret.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Penelope embraces Euryclea and weeps for joy before asking how Ulysses could
+    have overcome many suitors by himself.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Euryclea reports seeing Ulysses standing among the corpses, bloodied and dirty,
+    and compares him to a lion.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: Euryclea reports that the corpses have been piled in the gatehouse and that
+    Ulysses has lit a great fire to purify the house with sulphur.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: Penelope suggests that some god angry with the suitors' wickedness may have
+    destroyed them.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:11
+  text: Euryclea offers the scar from a wild boar, perceived while washing Ulysses,
+    as proof of his identity.
+  category: speech
+  evidence_refs:
+  - ev:9
+- id: obs:12
+  text: Penelope descends from her upper room, considers how to approach Ulysses,
+    sits opposite him by the fire, and remains silent for a long time.
+  category: sequence
+  evidence_refs:
+  - ev:10
+- id: obs:13
+  text: Penelope looks at Ulysses but is misled by his shabby clothes and does not
+    yet recognize him.
+  category: action
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Ulysses
+  description: Returned husband of Penelope; purifier of the house; killer of the
+    suitors; sits by the fire awaiting Penelope's response.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:7
+  - ev:10
+- id: fig:2
+  name_or_label: Euryclea
+  description: Nurse who joyfully reports Ulysses' return to Penelope and cites his
+    scar as proof.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:9
+- id: fig:3
+  name_or_label: Penelope
+  description: Mistress and wife of Ulysses who hears the report, doubts it, asks
+    for explanation, and later sits opposite Ulysses without recognizing him.
+  role_refs:
+  - role:6
+  - role:7
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:8
+  - ev:10
+- id: fig:4
+  name_or_label: Telemachus
+  description: Son of Ulysses and Penelope; said to have known Ulysses' identity and
+    kept his father's secret.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: women
+  description: Women from the apartment who come with torches and embrace Ulysses.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:1
+- id: fig:6
+  name_or_label: suitors
+  description: Men who troubled Ulysses' house, consumed his estate, mistreated his
+    son, and are now dead corpses after Ulysses' revenge.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:3
+  - ev:7
+  - ev:8
+roles:
+- id: role:1
+  label: returned husband
+  assigned_to:
+  - fig:1
+  basis: Euryclea tells Penelope that her dear husband has come home, and the passage
+    presents Ulysses in the house awaiting Penelope.
+  evidence_refs:
+  - ev:3
+  - ev:10
+- id: role:2
+  label: house purifier
+  assigned_to:
+  - fig:1
+  basis: Ulysses purifies the cloisters and courts with fire and sulphur and later
+    has lit a great fire to purify the house.
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: role:3
+  label: avenger against suitors
+  assigned_to:
+  - fig:1
+  basis: Euryclea says Ulysses killed the suitors and took revenge in his own house.
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: role:4
+  label: nurse
+  assigned_to:
+  - fig:2
+  basis: Penelope addresses Euryclea as her nurse, and Euryclea speaks to her as a
+    dear child.
+  evidence_refs:
+  - ev:4
+  - ev:9
+- id: role:5
+  label: messenger of return
+  assigned_to:
+  - fig:2
+  basis: Euryclea goes upstairs to wake Penelope and announce Ulysses' return.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: wife awaiting recognition
+  assigned_to:
+  - fig:3
+  basis: Penelope is addressed as Ulysses' wife and comes down to see the man who
+    killed the suitors but has not yet recognized him.
+  evidence_refs:
+  - ev:7
+  - ev:10
+- id: role:7
+  label: skeptical tester
+  assigned_to:
+  - fig:3
+  basis: Penelope doubts the announcement and asks how Ulysses could have overcome
+    the suitors.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:8
+- id: role:8
+  label: son and secret-keeper
+  assigned_to:
+  - fig:4
+  basis: Euryclea says Telemachus knew Ulysses had returned but kept his father's
+    secret.
+  evidence_refs:
+  - ev:5
+- id: role:9
+  label: welcoming household women
+  assigned_to:
+  - fig:5
+  basis: The women come with torches, embrace Ulysses, and kiss him.
+  evidence_refs:
+  - ev:1
+- id: role:10
+  label: slain offenders
+  assigned_to:
+  - fig:6
+  basis: The suitors are described as troublesome, wicked, and now dead after Ulysses'
+    revenge.
+  evidence_refs:
+  - ev:3
+  - ev:7
+  - ev:8
+symbols:
+- id: sym:1
+  label: purifying fire
+  literal_form: fire and a great fire used with sulphur to purify the house
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: sym:2
+  label: sulphur purification
+  literal_form: sulphur brought and used in the house purification
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: sym:3
+  label: torches of the women
+  literal_form: torches carried by the women as they come to Ulysses
+  associated_figures:
+  - fig:5
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: recognition scar
+  literal_form: scar from a wild boar perceived by Euryclea while washing Ulysses
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:5
+  label: shabby clothes
+  literal_form: shabby clothes that mislead Penelope and prevent recognition
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+- id: sym:6
+  label: hearthside presence
+  literal_form: Ulysses in the house by his own fireside and later seated near the
+    fire
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:9
+  - ev:10
+scenes:
+- id: scene:1
+  label: Purification after the suitors' deaths
+  summary: Ulysses receives fire and sulphur and purifies the cloisters and courts;
+    women then come with torches and welcome him physically.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Euryclea announces Ulysses' return
+  summary: Euryclea wakes Penelope and reports that Ulysses has returned and killed
+    the suitors who harmed his household.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:1
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Penelope's doubt and Euryclea's explanation
+  summary: Penelope rejects the news as impossible, while Euryclea insists that the
+    abused stranger was Ulysses and that Telemachus had kept the secret.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:1
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Report of corpses, revenge, and house purification
+  summary: Euryclea reports hearing the suitors die, seeing Ulysses bloodied among
+    their corpses, and learning that the bodies are piled in the gatehouse while the
+    house is purified by fire and sulphur.
+  figure_refs:
+  - fig:2
+  - fig:1
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:7
+- id: scene:5
+  label: Scar offered as proof
+  summary: After Penelope suggests a god may have destroyed the suitors, Euryclea
+    offers Ulysses' boar scar as proof of identity and stakes her life on the truth
+    of her report.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:1
+  - fig:6
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: scene:6
+  label: Penelope sits opposite Ulysses
+  summary: Penelope comes down, considers whether to question or embrace Ulysses,
+    sits opposite him by the fire, and remains uncertain because his clothing misleads
+    her.
+  figure_refs:
+  - fig:3
+  - fig:1
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: return of the long-absent husband
+  taxonomy_refs:
+  - return
+  basis: Euryclea repeatedly reports that Ulysses has come home, and Penelope descends
+    to confront the man said to be her husband.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:8
+  - ev:10
+  confidence: high
+  cautions: The passage covers the announcement and partial encounter, not the full
+    recognition scene.
+- id: motif:2
+  label: purification after violent household restoration
+  taxonomy_refs: []
+  basis: After the suitors are killed, Ulysses purifies the house and courts using
+    fire and sulphur.
+  evidence_refs:
+  - ev:1
+  - ev:7
+  confidence: high
+  cautions: No supplied taxonomy family directly names purification; fire is available
+    only as a symbol reference.
+- id: motif:3
+  label: recognition delayed by disguise or altered appearance
+  taxonomy_refs: []
+  basis: Penelope sees Ulysses but fails to recognize him because his shabby clothes
+    mislead her.
+  evidence_refs:
+  - ev:10
+  confidence: high
+  cautions: The passage stops before any final recognition in the provided excerpt.
+- id: motif:4
+  label: recognition token as bodily scar
+  taxonomy_refs: []
+  basis: Euryclea cites the boar scar she noticed while washing Ulysses as proof of
+    his identity.
+  evidence_refs:
+  - ev:9
+  confidence: high
+  cautions: The scar functions as proof in Euryclea's speech here; Penelope has not
+    yet accepted it within the excerpt.
+- id: motif:5
+  label: divine punishment of wicked offenders
+  taxonomy_refs:
+  - divine_judgment
+  basis: Penelope proposes that a god angry with the suitors' wickedness has ended
+    them because of their iniquity.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: This is Penelope's interpretation within dialogue, not confirmed by the
+    narrator in the provided passage.
+- id: motif:6
+  label: reclaiming the household through revenge
+  taxonomy_refs:
+  - return
+  basis: Ulysses' return is linked to killing the suitors, finding wife and son alive,
+    and taking revenge in his own house.
+  evidence_refs:
+  - ev:3
+  - ev:7
+  confidence: high
+  cautions: The motif is inferred from Euryclea's report and the immediate aftermath,
+    not from a full battle narrative in this excerpt.
+comparison_claims:
+- id: claim:1
+  claim: 'The passage supports comparison to a return motif pattern: a long-absent
+    figure comes home, restores control of the household, and approaches reunion with
+    spouse and child.'
+  claim_level: same_motif
+  target: return motif family
+  evidence_refs:
+  - ev:3
+  - ev:7
+  - ev:10
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The provided excerpt ends before Penelope's eventual full recognition
+    of Ulysses.
+- id: claim:2
+  claim: Penelope's explanation of the suitors' destruction can be cautiously compared
+    to a divine judgment pattern, because she frames their deaths as a god's response
+    to wicked conduct.
+  claim_level: same_function
+  target: divine_judgment motif family
+  evidence_refs:
+  - ev:8
+  counter_evidence_refs:
+  - ev:3
+  - ev:7
+  confidence: low
+  limitations: The passage also reports that Ulysses killed the suitors; Penelope's
+    divine-causation claim is explicitly her uncertain interpretation.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 10017-10022
+  quote_or_summary: Ulysses purifies the cloisters and courts with fire and sulphur;
+    women arrive with torches and embrace him.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain translation; summarized from supplied passage.
+- id: ev:2
+  type: citation
+  locator: 10024-10027
+  quote_or_summary: Book heading names the episode as Penelope eventually recognizing
+    her husband and Ulysses leaving town early in the morning.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain translation; citation from supplied passage.
+- id: ev:3
+  type: summary
+  locator: 10029-10037
+  quote_or_summary: Euryclea wakes Penelope and announces that Ulysses has come home
+    and killed the suitors who troubled his house.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain translation; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: 10039-10050
+  quote_or_summary: Penelope tells Euryclea she must be mad, rejects the news as nonsense,
+    and refers to her long grief since Ulysses left.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain translation; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: 10052-10058
+  quote_or_summary: Euryclea insists that Ulysses has returned, says he was the mistreated
+    stranger, and says Telemachus kept his father's secret.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain translation; summarized from supplied passage.
+- id: ev:6
+  type: summary
+  locator: 10060-10065
+  quote_or_summary: Penelope springs up, embraces Euryclea, weeps for joy, and asks
+    how Ulysses could overcome many suitors alone.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain translation; summarized from supplied passage.
+- id: ev:7
+  type: summary
+  locator: 10067-10079
+  quote_or_summary: Euryclea describes hearing the suitors killed, seeing Ulysses
+    bloodied among corpses, the bodies piled in the gatehouse, and a great purifying
+    fire with sulphur.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain translation; summarized from supplied passage.
+- id: ev:8
+  type: summary
+  locator: 10081-10092
+  quote_or_summary: Penelope warns Euryclea not to exult, doubts that Ulysses has
+    returned, and says perhaps a god ended the wicked suitors.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain translation; summarized from supplied passage.
+- id: ev:9
+  type: summary
+  locator: 10094-10104
+  quote_or_summary: Euryclea says Ulysses is by his own fireside and offers the boar
+    scar she saw while washing him as proof.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain translation; summarized from supplied passage.
+- id: ev:10
+  type: summary
+  locator: 10106-10117
+  quote_or_summary: Penelope descends, considers whether to question or embrace Ulysses,
+    sits opposite him by the fire, and fails to recognize him because of shabby clothing.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain translation; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is strongly supported by the supplied passage. Motif labels
+    are cautious, especially divine judgment, which is based on Penelope's uncertain
+    explanation rather than narrator confirmation.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the provided passage and metadata. Public-domain source was summarized rather than extensively quoted.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-odyssey-butler-gutenberg__l10017-l10117
+  passage_sha256=f830fb467dedf0cfd35b9759d39ee003f85cd0c292527c6b0eae8d8262369b3c
+

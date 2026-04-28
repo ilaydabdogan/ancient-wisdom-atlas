@@ -1,0 +1,420 @@
+---
+record_id: batch.motif.greek-plato-republic-jowett-gutenberg-l1180-l1263
+source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+passage_locator:
+  label: The Republic / THE REPUBLIC / INTRODUCTION AND ANALYSIS.; lines 1180-1263
+  start: '1180'
+  end: '1263'
+  translation: The Republic
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage summarizes Jowett's analysis of arguments by Glaucon and Adeimantus
+    about justice, reputation, reward, and happiness; Socrates' enlargement of justice
+    into an ordering principle of State and individual; and Plato's movement from
+    political order to individual ethics through the image of reading large letters
+    before small ones.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Glaucon is described as having pictured the misery of the just and the happiness
+    of the unjust.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Adeimantus is described as arguing that ordinary people value justice for
+    rewards and reputation.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Both brothers raise the question whether the morality of actions is determined
+    by consequences.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Socrates is described as enlarging justice into universal order or well-being,
+    first in the State and then in the individual.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Socrates' answer is described as indirect, beginning with the difficulty of
+    the problem and with restoring man to his natural condition.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The image of large letters is used to explain looking for justice first in
+    society and then in the individual.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The passage says that, in the perfect State, justice and happiness will coincide.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The passage says Greek thought begins with the State and proceeds to the individual.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The passage says early Greek speculation confuses or identifies the individual
+    and the State, and ethics and politics.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The passage says the good man and the good citizen coincide only in the perfect
+    State, and that education must fashion them from within.
+  category: relationship
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Glaucon
+  description: One of the brothers whose argument pictures the misery of the just
+    and happiness of the unjust.
+  role_refs:
+  - role:1
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Adeimantus
+  description: One of the brothers who develops the argument that justice is valued
+    for rewards and reputation.
+  role_refs:
+  - role:2
+  - role:6
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Socrates
+  description: The respondent who enlarges the notion of justice and proceeds from
+    the State to the individual.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Thrasymachus
+  description: A figure whose arguments are said to gain advantage from conventional
+    morality, alongside those of Glaucon.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Plato
+  description: The authorial subject of the analysis, said to preserve the Greek order
+    of thought from State to individual.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:6
+  name_or_label: the philosopher who retires under the shelter of a wall
+  description: A generalized philosopher figure mentioned as hardly esteemed happy
+    in this world.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: arguer testing justice by appearances and outcomes
+  assigned_to:
+  - fig:1
+  basis: Glaucon is said to picture the misery of the just and happiness of the unjust.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: arguer emphasizing rewards and reputation
+  assigned_to:
+  - fig:2
+  basis: Adeimantus is said to show that mankind regards justice for rewards and reputation.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: philosophical respondent and reframer of justice
+  assigned_to:
+  - fig:3
+  basis: Socrates enlarges justice into an ordering principle and looks for justice
+    in society before the individual.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: associated advocate of conventional argument against justice
+  assigned_to:
+  - fig:4
+  basis: The passage says conventional morality gives advantage to arguments such
+    as those of Thrasymachus and Glaucon.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: preserver of Greek political-ethical ordering
+  assigned_to:
+  - fig:5
+  basis: The passage says Plato begins with the State and goes on to the individual.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: sons of Ariston
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The remainder of the Republic is said to develop from the question of the
+    sons of Ariston.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: withdrawn philosopher
+  assigned_to:
+  - fig:6
+  basis: The passage mentions a philosopher retiring under the shelter of a wall and
+    questions whether he is happy in this world.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: large letters
+  literal_form: Fanciful illustration of large letters used before smaller ones.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: perfect State
+  literal_form: The perfect State in which justice and happiness coincide and the
+    good man and good citizen coincide.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: sym:3
+  label: shelter of a wall
+  literal_form: A wall under whose shelter a philosopher retires.
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:4
+  label: rack
+  literal_form: The rack, used in the rejected Stoical paradox that the just man can
+    be happy on it.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Brothers challenge the value of justice
+  summary: Glaucon and Adeimantus press arguments about the suffering of the just,
+    the success of the unjust, and the valuation of justice by rewards and reputation.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Socrates reframes justice through the State
+  summary: Socrates answers indirectly by restoring man to a natural condition and
+    by seeking justice in the State before seeking it in the individual, using the
+    image of large letters.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Greek order from State to individual
+  summary: The passage says Plato preserves a Greek order of thought in which the
+    State comes before the individual, contrasting this with a modern order of ethics
+    before politics.
+  figure_refs:
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Identification of individual and State
+  summary: The passage describes early Greek speculation as identifying individual
+    and State, ethics and politics, and says the good man and good citizen coincide
+    only in the perfect State.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: wisdom through inquiry into justice and order
+  taxonomy_refs:
+  - wisdom
+  basis: The passage centers on philosophical inquiry into the nature of justice,
+    its internal principle, and its relation to universal order or well-being.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: This is a philosophical-analysis passage rather than a mythic narrative;
+    the taxonomy link is thematic.
+- id: motif:2
+  label: duality of State and individual
+  taxonomy_refs:
+  - duality
+  basis: The passage repeatedly pairs and contrasts State and individual, ethics and
+    politics, and collective and individual action.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The duality is conceptual and political-philosophical, not a mythic pair
+    of beings or cosmological opposites.
+- id: motif:3
+  label: inner virtue over external reward
+  taxonomy_refs:
+  - wisdom
+  basis: The passage discusses justice as an internal principle and says duty should
+    be done first, with happiness as an attendant result.
+  evidence_refs:
+  - ev:3
+  - ev:7
+  confidence: medium
+  cautions: The passage frames this as moral philosophy; no narrative ordeal or divine
+    adjudication is described.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly states that Glaucon's picture of the misery of the
+    just and happiness of the unjust has an answer and parallel in the misery of the
+    tyrant in Book IX.
+  claim_level: same_function
+  target: Book IX account of the tyrant's misery in the Republic
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is an intratextual comparison within the Republic as described
+    by the introduction, not an external historical or mythological comparison.
+- id: claim:2
+  claim: The passage uses a Christian scriptural saying about seeking God's kingdom
+    and righteousness as an analogy for doing duty first and receiving other goods
+    afterward.
+  claim_level: same_function
+  target: Christian saying quoted as 'Seek ye first the kingdom of God and his righteousness...'
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is supplied by the translator-commentator, not by Plato's
+    Greek text; it indicates functional analogy rather than historical contact.
+- id: claim:3
+  claim: The passage contrasts Socrates' answer with the Stoical paradox that the
+    just man can be happy on the rack.
+  claim_level: same_function
+  target: Stoical paradox of the just person happy under torture
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: 'The comparison is negative: the passage says Socrates will not affirm
+    the Stoical paradox.'
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1180-1184
+  quote_or_summary: Glaucon is said to depict the misery of the just and happiness
+    of the unjust; this is called answered and paralleled by the misery of the tyrant
+    in Book IX.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1184-1198
+  quote_or_summary: Adeimantus argues that people value justice for rewards and reputation;
+    the passage also notes arguments of Thrasymachus and Glaucon and raises whether
+    morality is determined by consequences.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 1200-1216
+  quote_or_summary: Socrates is said to enlarge justice into universal order or well-being
+    in State and individual, and to treat one virtue as the ordering principle of
+    three others.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 1218-1241
+  quote_or_summary: Socrates' indirect answer restores man to natural condition, uses
+    the image of large letters, seeks justice in society before the individual, and
+    says justice and happiness coincide in the perfect State; the rack is mentioned
+    in a rejected Stoical paradox.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 1243-1254
+  quote_or_summary: The passage says Plato preserves Greek thought by beginning with
+    the State and proceeding to the individual; early persons are citizens of a prior
+    State rather than isolated moral individuals.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 1256-1263
+  quote_or_summary: The passage describes a confusion or identification of individual
+    and State, ethics and politics; the good man and good citizen coincide only in
+    the perfect State, achieved through education from within.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 1234-1242
+  quote_or_summary: The passage mentions the philosopher who retires under a wall
+    and concludes with the maxim that duty comes first, followed by happiness, illustrated
+    by a quotation about seeking God's kingdom and righteousness.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The literal philosophical content is clear, but motif labeling is tentative
+    because the passage is analytical commentary rather than a mythic episode.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No taxonomy symbol refs were assigned because none of the available symbol terms are literally present as passage symbols.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-plato-republic-jowett-gutenberg__l1180-l1263
+  passage_sha256=a596693a76f514d007246f6bc70305bcbb684de392ebbb38c13373c616dd3d02
+

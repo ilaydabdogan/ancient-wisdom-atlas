@@ -1,0 +1,280 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l1323-l1339
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE NORTH WIND AND THE SUN / THE MISTRESS AND HER SERVANTS / THE GOODS AND
+    THE ILLS / THE HARES AND THE FROGS; lines 1323-1339
+  start: '1323'
+  end: '1339'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The hares, despairing because many enemies kill and devour them and because
+    they lack strength and courage, decide to drown themselves in a nearby pool. As
+    they run toward the pool, frogs on the bank hear them and leap into the water
+    to hide. An older, wiser hare tells the others not to destroy themselves, because
+    the frogs' fear shows that some creatures are even more timid than they are.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The hares gather together and lament their unhappy condition.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The hares are described as exposed to dangers on all sides and lacking strength
+    and courage.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Men, dogs, birds, and beasts of prey are identified as enemies who kill and
+    devour the hares daily.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The hares decide collectively to end their lives by drowning themselves in
+    a neighboring pool.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Frogs sitting on the bank hear the hares running, leap into the water together,
+    and hide in the depths.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: An older hare, described as wiser than the rest, tells the hares to stop and
+    take heart.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The older hare reasons that the frogs are afraid of the hares and therefore
+    must be more timid than the hares.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Hares
+  description: A group of hares who lament their lot, fear many enemies, and initially
+    intend to drown themselves.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Older Hare
+  description: One of the hares, older and wiser than the rest, who urges the group
+    not to destroy themselves.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+- id: fig:3
+  name_or_label: Frogs
+  description: A number of frogs sitting on the bank who leap into the water and hide
+    when they hear the hares approaching.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: Enemies of the Hares
+  description: Men, dogs, birds, and beasts of prey, named as enemies that kill and
+    devour the hares.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: despairing vulnerable group
+  assigned_to:
+  - fig:1
+  basis: The hares lament their unhappy lot, lack strength and courage, and decide
+    to drown themselves.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: wise counselor
+  assigned_to:
+  - fig:2
+  basis: The older hare is called wiser than the rest and counsels the others to stop
+    and take heart.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: more timid creatures
+  assigned_to:
+  - fig:3
+  basis: The frogs flee from the hares and are interpreted by the older hare as more
+    timid than the hares.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:4
+  label: predators and persecutors
+  assigned_to:
+  - fig:4
+  basis: The named enemies kill and devour the hares daily.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: pool water
+  literal_form: neighboring pool; water; depths
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Hares lament their condition
+  summary: The hares gather and complain about their unhappy and dangerous condition,
+    naming many enemies and their own lack of strength and courage.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Hares rush toward the pool
+  summary: The hares, resolved to die, run together toward a neighboring pool to drown
+    themselves.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Frogs flee into the water
+  summary: Frogs on the bank hear the hares running and jump into the water to hide
+    in the depths.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Older hare counsels the others
+  summary: The older hare tells the group not to destroy themselves, pointing out
+    that the frogs fear the hares and are therefore more timid.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: despair reversed by seeing another's fear
+  taxonomy_refs: []
+  basis: The hares intend to drown themselves from despair, but the older hare changes
+    their decision after observing that the frogs are afraid of them.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is a fable-level narrative pattern rather than a clearly mythological
+    motif family.
+- id: motif:2
+  label: wise elder interprets an event to restore courage
+  taxonomy_refs:
+  - wisdom
+  basis: The older hare, explicitly described as wiser than the rest, interprets the
+    frogs' flight as evidence that the hares should take heart.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The taxonomy reference is broad; the passage supports wisdom as a practical
+    counsel motif, not an esoteric wisdom tradition.
+- id: motif:3
+  label: water as intended death-place and hiding-place
+  taxonomy_refs: []
+  basis: The hares approach the pool intending to drown, while the frogs leap into
+    the same water to hide.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The pool functions literally in the fable; no further symbolic meaning
+    is stated in the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 1323-1327
+  quote_or_summary: The hares gather and lament their unhappy lot, being exposed to
+    dangers and lacking strength and courage.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:2
+  type: summary
+  locator: 1327-1329
+  quote_or_summary: Men, dogs, birds, and beasts of prey are named as enemies who
+    kill and devour the hares daily.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:3
+  type: summary
+  locator: 1329-1332
+  quote_or_summary: The hares decide to end their lives and run together toward a
+    neighboring pool intending to drown themselves.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:4
+  type: summary
+  locator: 1332-1335
+  quote_or_summary: Frogs on the bank hear the hares running and leap together into
+    the water, hiding in the depths.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:5
+  type: quote
+  locator: 1335-1339
+  quote_or_summary: 'The older hare, wiser than the rest, says: "Stop, my friends,
+    take heart; don''t let us destroy ourselves after all" and notes that the frogs
+    are afraid of them.'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation from public domain text.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Passage details are straightforward. Motif labeling is cautious because the
+    text is an animal fable and does not itself state broader mythological comparisons.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not support a specific comparison to another text, tradition, or motif family beyond the supplied taxonomy candidate for wisdom.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l1323-l1339
+  passage_sha256=f1d513856916a192c6d94768182a2342e8cc8b2faefa8b5780742c9a2df3301b
+

@@ -1,0 +1,548 @@
+---
+record_id: batch.motif.comparative-golden-bough-volume-2-frazer-gutenberg-l2528-l2574
+source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+passage_locator:
+  label: 'The Golden Bough: A Study in Comparative Religion (Vol. 2 of 2) / CONTENTS;
+    lines 2528-2574'
+  start: '2528'
+  end: '2574'
+  translation: 'The Golden Bough: A Study in Comparative Religion (Vol. 2 of 2)'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'Frazer summarizes reports of Aino, Gilyak, and Goldi bear ceremonies:
+    a bear is reared or caged, honored or offered food, ritually killed, addressed
+    or worshiped, eaten, and its head or skull is treated specially, including placement
+    on a table or tree. The passage also notes a reported Aino cry asking the killed
+    bear to return as an Aino and disputed reports about offering the bear its own
+    heart.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: In the Aino ceremony described by Miss Bird, people excite the caged bear,
+    a chief wounds it with an arrow, the cage is opened, and participants try to wound
+    the bear because drawing its blood is said to bring good luck.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: After the Aino bear falls exhausted, its head is cut off, the weapons used
+    against it are offered to the head, and the bear is asked to avenge itself on
+    the weapons.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: At Usu, Aino participants are reported to shout to the bear that they kill
+    it and ask it to come back soon into an Aino.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage reports disagreement over whether the bear’s heart is offered
+    to the dead animal or eaten.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Gilyaks rear a bear cub, later lead the bear to a river bank to ensure
+    abundant fish, and then take it into every house where food and drink are offered.
+  category: sequence
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:6
+  text: Some Gilyak participants prostrate themselves before the bear, and the bear’s
+    entry into a house or sniffing at offered food is treated as a blessing.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The Gilyak bear is teased and worried, then tied to a peg and shot dead with
+    arrows.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: After the Gilyak bear is killed, its head is cut off, decorated with shavings,
+    placed on the feast table, asked pardon, and worshiped.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The Gilyaks roast and eat the bear’s flesh, eat the brain and entrails last,
+    place the decorated skull on a tree near the house, and sing and dance as bears.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The Goldi sometimes keep a live bear in a cage, feed it well, and call it
+    their son and brother.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: At a Goldi festival the bear is taken from its cage, paraded with marked consideration,
+    killed, and eaten.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:12
+  text: The Goldi suspend the bear’s skull, jaw-bones, and ears on a tree as protection
+    against evil spirits, and they believe eating the flesh gives hunting zest and
+    courage.
+  category: object
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Aino participants
+  description: People who wound, kill, address, and handle the bear in the Aino ceremony.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Aino ceremonial bear
+  description: A caged bear excited, wounded, released, killed, decapitated, and addressed
+    by Aino participants.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Aino chief
+  description: A chief who shoots the bear with an arrow, inflicting a slight wound.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Gilyak participants
+  description: Villagers who rear, lead, offer food to, kill, worship, eat, and dance
+    in connection with the bear.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:5
+  name_or_label: Gilyak ceremonial bear
+  description: A bear reared from a cub, led through village spaces, offered food,
+    treated as blessing-bearing, killed, worshiped, eaten, and represented by its
+    skull on a tree.
+  role_refs:
+  - role:2
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:6
+  name_or_label: Goldi participants
+  description: People who may capture and keep a bear, call it son and brother, parade
+    it, kill and eat it, and suspend parts of its head on a tree.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:7
+- id: fig:7
+  name_or_label: Goldi ceremonial bear
+  description: A bear kept in a cage, fed well, called son and brother, paraded, killed,
+    eaten, and represented by head parts suspended on a tree.
+  role_refs:
+  - role:2
+  - role:6
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: ritual killer or handler
+  assigned_to:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:6
+  basis: These figures wound, kill, parade, handle, or otherwise manage the ceremonial
+    bear.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:7
+- id: role:2
+  label: ceremonial bear killed and eaten
+  assigned_to:
+  - fig:2
+  - fig:5
+  - fig:7
+  basis: The bears in the Aino, Gilyak, and Goldi accounts are killed; the Gilyak
+    and Goldi bears are explicitly eaten, and the Aino account describes killing and
+    decapitation.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:7
+- id: role:3
+  label: addressed or honored animal
+  assigned_to:
+  - fig:2
+  - fig:5
+  basis: The Aino bear is addressed after killing, and the Gilyak bear is worshiped
+    and asked pardon.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: role:4
+  label: feasters or consumers of bear flesh
+  assigned_to:
+  - fig:4
+  - fig:6
+  basis: The Gilyaks and Goldi eat the bear’s flesh during or after the festival.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:5
+  label: bearer of household and fishing blessing
+  assigned_to:
+  - fig:5
+  basis: The Gilyak bear is led to the river to ensure fish abundance, and its entrance
+    into a house or sniffing at offerings is a blessing.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: kin-addressed animal
+  assigned_to:
+  - fig:7
+  basis: The Goldi call the caged bear their son and brother.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: bear
+  literal_form: Ceremonial bear that is caged or reared, honored, killed, and in some
+    cases eaten.
+  associated_figures:
+  - fig:2
+  - fig:5
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+  - ev:7
+- id: sym:2
+  label: bear blood
+  literal_form: Blood drawn from the Aino bear; drawing it is said to bring good luck.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: bear head or skull
+  literal_form: The bear’s head or skull is cut off and treated specially; it may
+    receive weapons, be decorated, placed on a feast table, or suspended on a tree.
+  associated_figures:
+  - fig:2
+  - fig:5
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:7
+- id: sym:4
+  label: weapons offered to the bear head
+  literal_form: Weapons that wounded the Aino bear are offered to its severed head.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:5
+  label: tree bearing skull or head parts
+  literal_form: A tree near the house holds the Gilyak bear skull, and a tree holds
+    Goldi bear skull, jaw-bones, and ears.
+  associated_figures:
+  - fig:5
+  - fig:7
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: sym:6
+  label: river bank
+  literal_form: The Gilyak bear is led to the bank of the river before entering houses.
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+- id: sym:7
+  label: bear heart
+  literal_form: The bear’s own heart is reported by one authority as offered to the
+    dead animal, while another says it is eaten.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:8
+  label: cage
+  literal_form: A container or enclosure from which the Aino, Gilyak, or Goldi bear
+    is released or taken for the ceremony.
+  associated_figures:
+  - fig:2
+  - fig:5
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:7
+scenes:
+- id: scene:1
+  label: Aino bear killing and address
+  summary: The bear is excited in a cage, wounded by a chief, released, wounded by
+    participants, decapitated, and addressed; at Usu the bear is asked to come back
+    soon into an Aino.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Gilyak village bear festival
+  summary: A reared bear is led to the river and through every house, receives offerings,
+    is treated as blessing-bearing, then is killed, worshiped, eaten, and its skull
+    placed on a tree while people sing and dance as bears.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:5
+  - sym:6
+  - sym:8
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:3
+  label: Goldi bear festival and suspended head parts
+  summary: The Goldi may keep and feed a live bear as son and brother; at a festival
+    they parade, kill, and eat it, then suspend head parts on a tree for protection
+    against evil spirits.
+  figure_refs:
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:5
+  - sym:8
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: honored animal ritually killed and eaten
+  taxonomy_refs:
+  - sacrifice
+  basis: Across the described Aino, Gilyak, and Goldi ceremonies, the bear is treated
+    with ritual attention, killed, and in the Gilyak and Goldi accounts eaten; the
+    Gilyaks worship the bear and beg pardon after killing it.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The passage is a comparative scholarly summary and not a primary ritual
+    text; the Aino eating component is not in this excerpt except by comparison to
+    another practice noted in passing.
+- id: motif:2
+  label: return of the slain bear in human form
+  taxonomy_refs:
+  - death_rebirth
+  - dying_and_returning
+  basis: The Aino cry at Usu asks the bear being killed to come back soon into an
+    Aino.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: Only one reported utterance supports this; the passage does not elaborate
+    a full doctrine of rebirth or return.
+- id: motif:3
+  label: ritual animal as bringer of blessing and abundance
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The Gilyak bear is led to the river to ensure fish abundance, its entrance
+    into a house is a blessing, and its sniffing at offered food is also a blessing.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The exchange structure is inferred from offerings and blessings in the
+    reported ceremony, but the passage does not explicitly name it as exchange.
+- id: motif:4
+  label: animal treated as kin before ritual killing
+  taxonomy_refs: []
+  basis: The Goldi keep the bear in a cage, feed it well, and call it their son and
+    brother before the festival killing and eating.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: This motif is directly supported for the Goldi only within this passage.
+- id: motif:5
+  label: skull or head parts placed on a tree for ritual effect
+  taxonomy_refs:
+  - sacred_tree_axis
+  basis: The Gilyak bear skull is placed on a tree near the house, and the Goldi suspend
+    the skull, jaw-bones, and ears on a tree as an antidote against evil spirits.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The passage identifies a tree placement but does not explicitly describe
+    the tree as an axis or world tree; taxonomy mapping is tentative.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares the Gilyak bear festival to the Aino bear
+    ceremony as being of the same sort.
+  claim_level: same_motif
+  target: Aino and Gilyak bear festivals
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is Frazer’s summary based on reported customs; details
+    differ between the accounts.
+- id: claim:2
+  claim: The passage states that the Goldi treat the bear in much the same way as
+    the Gilyaks, including keeping, honoring, killing, eating, and tree-suspension
+    of head parts.
+  claim_level: same_motif
+  target: Gilyak and Goldi bear festivals
+  evidence_refs:
+  - ev:6
+  - ev:7
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage presents neighboring peoples and similar practices but
+    does not establish historical transmission.
+- id: claim:3
+  claim: The Aino, Gilyak, and Goldi accounts share the function of ritualized killing
+    of a bear followed by special treatment of the head or skull.
+  claim_level: same_function
+  target: Aino, Gilyak, and Goldi bear-killing ceremonies
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The ritual meanings attached to the head or skull vary in the described
+    accounts, and the passage includes disputed details for the Aino heart practice.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2528-2538
+  quote_or_summary: 'Miss Bird’s Aino account: the bear is excited, slightly wounded
+    by a chief, released from the cage, wounded by participants for good luck in drawing
+    blood, then decapitated; weapons are offered to the head and the bear is asked
+    to avenge itself on them.'
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 2538-2540
+  quote_or_summary: "“We kill you, O bear! come back soon into an Aino.”"
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: summary
+  locator: lines 2540-2544
+  quote_or_summary: Dr. Siebold is reported as saying the bear’s heart is often offered
+    to the dead animal to assure it remains alive, while Dr. Scheube denies this and
+    says the heart is eaten; Frazer suggests local variation may exist.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 2545-2549
+  quote_or_summary: The Gilyaks are said to hold “a bear festival of the same sort,”
+    and the bear is described as the object of village solicitude and central to religious
+    ceremonies.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; short quotation and summary.
+- id: ev:5
+  type: summary
+  locator: lines 2549-2559
+  quote_or_summary: A Gilyak bear cub is reared; when large enough it is taken from
+    its cage, led first to the river to ensure fish abundance, and then taken into
+    every house, where fish and brandy are offered; prostration and blessings are
+    reported.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 2559-2568
+  quote_or_summary: The Gilyak bear is teased, tied to a peg, shot with arrows, decapitated,
+    decorated with shavings, placed on the feast table, asked pardon and worshiped;
+    its flesh, brain, and entrails are eaten, its skull is placed on a tree, and people
+    sing and dance as bears.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 2570-2574
+  quote_or_summary: The Goldi sometimes capture and cage a bear, feed it well, call
+    it son and brother, parade it at a festival, kill and eat it, and suspend its
+    skull, jaw-bones, and ears on a tree against evil spirits; eating the flesh is
+    believed to give hunting zest and courage.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is well supported by the supplied passage. Motif taxonomy
+    mappings are cautious because the passage is a later comparative summary and not
+    a primary myth narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the provided passage and metadata. No external taxonomy IDs or unprovided comparisons were added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:comparative-golden-bough-volume-2-frazer-gutenberg__l2528-l2574
+  passage_sha256=1976a5e01e4bc55b10aa6f00dda509f78663d062915a7ac266cc62d21bf2036d
+

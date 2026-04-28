@@ -1,0 +1,334 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l2108-l2132
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE DOG IN THE MANGER / THE TWO BAGS / THE OXEN AND THE AXLETREES / THE BOY
+    AND THE FILBERTS; lines 2108-2132
+  start: '2108'
+  end: '2132'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'Two brief fables: oxen pulling a loaded wagon rebuke noisy axletrees for
+    complaining while doing none of the work; a boy traps his hand in a jar by grasping
+    too many filberts and is advised to take less so he can withdraw it.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A pair of Oxen draw a heavily loaded wagon along a highway.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Oxen tug and strain at the yoke while the Axletrees creak and groan.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Oxen turn around indignantly and ask the Axletrees why they make noise
+    when the Oxen do all the work.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The stated moral says that those who suffer least complain most.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A Boy puts his hand into a jar of Filberts and grasps as many as his fist
+    can hold.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The Boy cannot pull his hand out because the jar neck is too small for the
+    large handful.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The Boy is unwilling to lose his nuts, cannot withdraw his hand, and bursts
+    into tears.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: A bystander tells the Boy not to be greedy and to be content with half the
+    amount so he can withdraw his hand.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The stated moral says not to attempt too much at once.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Pair of Oxen
+  description: Two oxen drawing a heavily loaded wagon and speaking indignantly to
+    the Axletrees.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Axletrees
+  description: Wagon axletrees that creak and groan while the Oxen pull the load.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Boy
+  description: A boy who grasps too many filberts in a jar and cannot withdraw his
+    hand.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: Bystander
+  description: A person who sees the cause of the Boy's trouble and advises him to
+    take less.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: burdened workers
+  assigned_to:
+  - fig:1
+  basis: They draw a heavily loaded wagon and strain at the yoke.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: rebukers of noisy complaint
+  assigned_to:
+  - fig:1
+  basis: They ask why the Axletrees make noise when the Oxen do all the work.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: noisy non-laboring wagon parts
+  assigned_to:
+  - fig:2
+  basis: The Axletrees creak and groan while the Oxen pull the load.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: greedy child caught by excess
+  assigned_to:
+  - fig:3
+  basis: The Boy grasps too many filberts, cannot withdraw his hand, and cries rather
+    than release the nuts.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:5
+  label: practical adviser
+  assigned_to:
+  - fig:4
+  basis: The bystander identifies the trouble and tells the Boy to be content with
+    half the amount.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: heavy wagon load
+  literal_form: heavily loaded wagon
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: yoke
+  literal_form: yoke at which the Oxen tug and strain
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: creaking axletrees
+  literal_form: Axletrees that creak and groan
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: jar of filberts
+  literal_form: jar containing filberts
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: overfull handful
+  literal_form: as many filberts as the Boy's fist can hold
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: narrow jar neck
+  literal_form: jar neck too small for the large handful to pass
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Oxen rebuke the creaking Axletrees
+  summary: On a highway, Oxen pulling a heavy wagon hear the Axletrees creak and groan,
+    then ask why they make noise when the Oxen do all the work.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Boy trapped by grasping too many filberts
+  summary: A Boy grasps too many filberts inside a jar, cannot remove his hand through
+    the narrow neck, cries, and receives advice from a bystander to take only half.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Those least burdened complain most
+  taxonomy_refs:
+  - wisdom
+  basis: The Oxen bear the load while the Axletrees make the noise; the explicit moral
+    states that those who suffer least complain most.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is a moral pattern within a fable; no broader mythic comparison is
+    established by the passage.
+- id: motif:2
+  label: Greed traps the grasping person
+  taxonomy_refs:
+  - wisdom
+  basis: The Boy cannot withdraw his hand because he has grasped too many filberts;
+    the bystander tells him not to be greedy and to take less.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage supports the ethical pattern directly, but does not connect
+    it to a named external motif tradition.
+- id: motif:3
+  label: Moderation enables release
+  taxonomy_refs:
+  - wisdom
+  basis: The bystander says the Boy can free his hand by being content with half the
+    amount, and the stated moral warns not to attempt too much at once.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: This is drawn from the fable's explicit advice and moral; no historical
+    or comparative claim is implied.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2108-2112
+  quote_or_summary: A pair of Oxen draw a heavily loaded wagon along the highway;
+    as they strain at the yoke, the Axletrees creak and groan.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary used.
+- id: ev:2
+  type: quote
+  locator: lines 2112-2115
+  quote_or_summary: '"Why do you make such a noise when we do all the work?"'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:3
+  type: quote
+  locator: line 2117
+  quote_or_summary: '"They complain most who suffer least."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:4
+  type: summary
+  locator: lines 2121-2126
+  quote_or_summary: A Boy puts his hand into a jar of filberts and grasps as many
+    as he can; he cannot pull his hand out because the jar neck is too small for the
+    large handful.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary used.
+- id: ev:5
+  type: summary
+  locator: lines 2126-2128
+  quote_or_summary: Unwilling to lose the nuts but unable to withdraw his hand, the
+    Boy bursts into tears.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary used.
+- id: ev:6
+  type: summary
+  locator: lines 2128-2131
+  quote_or_summary: A bystander tells the Boy not to be greedy, to be content with
+    half the amount, and then he will be able to withdraw his hand.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary used.
+- id: ev:7
+  type: quote
+  locator: line 2132
+  quote_or_summary: '"Do not attempt too much at once."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation used.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: uncertain
+  notes: The passage provides clear fable actions and explicit morals. No comparison
+    claims are made because the passage does not itself establish external parallels
+    or historical relationships.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the two fables present in the supplied passage text were extracted; titles mentioned in the locator but absent from the passage text were not used.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l2108-l2132
+  passage_sha256=e83d532dd6764848fdf67996bd242d69f5a999c124765f05777ad3ac569db7c9
+

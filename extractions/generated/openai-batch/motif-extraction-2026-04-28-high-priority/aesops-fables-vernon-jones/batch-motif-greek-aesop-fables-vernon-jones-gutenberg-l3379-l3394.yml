@@ -1,0 +1,300 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l3379-l3394
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE FARMER AND THE VIPER / THE TWO FROGS / THE COBBLER TURNED DOCTOR / THE
+    ASS, THE COCK, AND THE LION; lines 3379-3394
+  start: '3379'
+  end: '3394'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: An Ass and a Cock are together in a cattle-pen. A starving Lion approaches
+    and is about to attack the Ass, but the Cock crows loudly and frightens the Lion
+    away. The Ass becomes overconfident, pursues the fleeing Lion, and, once away
+    from the Cock, is turned upon and eaten. The stated moral is that false confidence
+    often leads to disaster.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: An Ass and a Cock are together in a cattle-pen.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A Lion that has been starving for days approaches and is about to attack the
+    Ass.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Cock rises, flaps his wings, and crows loudly.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Lion is frightened by the Cock’s crowing and flees.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Ass becomes elated and concludes that the Lion will be even less able
+    to face an Ass than a Cock.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The Ass runs out and pursues the Lion.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Once the Ass and Lion are out of sight and hearing of the Cock, the Lion turns
+    on the Ass and eats him.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The passage ends with the moral that false confidence often leads to disaster.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Ass
+  description: An Ass kept in the cattle-pen with the Cock; almost attacked by the
+    Lion, then overconfidently pursues him and is eaten.
+  role_refs:
+  - role:1
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Cock
+  description: A Cock in the cattle-pen who rises, flaps his wings, and crows loudly,
+    frightening the Lion away.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Lion
+  description: A starving Lion who approaches to eat the Ass, flees at the Cock’s
+    crowing, and later turns back and eats the Ass.
+  role_refs:
+  - role:3
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+roles:
+- id: role:1
+  label: intended prey
+  assigned_to:
+  - fig:1
+  basis: The Lion is about to fall upon the Ass and make a meal of him.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: frightening caller
+  assigned_to:
+  - fig:2
+  basis: The Cock’s vigorous wing-flapping and tremendous crow cause the Lion to flee.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: starving predator
+  assigned_to:
+  - fig:3
+  basis: The Lion has been starving for days and seeks to eat the Ass.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: overconfident pursuer
+  assigned_to:
+  - fig:1
+  basis: The Ass, elated by the Lion’s flight, pursues him.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: victim of false confidence
+  assigned_to:
+  - fig:1
+  basis: The Ass’s pursuit ends when the Lion turns on him and eats him; the moral
+    names false confidence as the cause of disaster.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:6
+  label: returning attacker
+  assigned_to:
+  - fig:3
+  basis: After getting away from the Cock, the Lion turns upon the Ass and eats him.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: cock-crow
+  literal_form: The Cock’s tremendous crow
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: cattle-pen
+  literal_form: The cattle-pen where the Ass and Cock are together
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Animals in the cattle-pen
+  summary: The Ass and the Cock are together in a cattle-pen.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Cock frightens the Lion
+  summary: A starving Lion approaches the Ass, but the Cock crows loudly and the Lion
+    flees.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Ass pursues and is eaten
+  summary: The Ass mistakes the Lion’s fear of the Cock for general weakness, pursues
+    the Lion, and is eaten once separated from the Cock.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: false confidence leads to disaster
+  taxonomy_refs: []
+  basis: The Ass draws a mistaken conclusion from the Lion’s fear of the Cock, pursues
+    him, and is eaten; the moral explicitly identifies false confidence as disastrous.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: This is the passage’s explicit moral rather than a taxonomy-linked mythic
+    motif.
+- id: motif:2
+  label: weak-seeming animal frightens predator by sound
+  taxonomy_refs: []
+  basis: The Cock’s crow frightens the starving Lion and prevents the attack on the
+    Ass.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage presents this as a fable incident; no broader comparative
+    link is stated in the supplied text.
+- id: motif:3
+  label: pursuer becomes prey
+  taxonomy_refs: []
+  basis: The Ass pursues the Lion, but the Lion turns upon him and eats him.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The wording supports the pattern within this episode, but no external
+    comparison is supplied.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 3379-3380
+  quote_or_summary: The title identifies the fable as “THE ASS, THE COCK, AND THE
+    LION,” and the Ass and Cock are together in a cattle-pen.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: 3380-3383
+  quote_or_summary: A Lion, starving for days, comes along and is about to attack
+    the Ass; the Cock rises, flaps his wings, and gives a loud crow.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: 3384-3386
+  quote_or_summary: The passage states that a Lion is frightened by a Cock’s crowing,
+    and this Lion flees when he hears it.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: 3387-3389
+  quote_or_summary: The Ass is elated and reasons that a Lion unable to face a Cock
+    will be even less likely to stand against an Ass, so he pursues the Lion.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: 3390-3392
+  quote_or_summary: When the Ass and Lion are beyond the Cock’s sight and hearing,
+    the Lion turns on the Ass and eats him.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:6
+  type: quote
+  locator: '3394'
+  quote_or_summary: "“False confidence often leads to disaster.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The narrative sequence and explicit moral are clear. Motif labels are descriptive
+    and not linked to external taxonomy except where no suitable provided taxonomy
+    applies. No comparison claims are made because the supplied passage does not support
+    historical or cross-textual comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage text was used; although the locator label lists several fables, the extraction covers the included text of “THE ASS, THE COCK, AND THE LION.”
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l3379-l3394
+  passage_sha256=1fb5d2b4efe02735624337da53d02aff1314fe032ea36d15b64f800bfe5d4e8b
+

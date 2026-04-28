@@ -1,0 +1,321 @@
+---
+record_id: batch.motif.comparative-golden-bough-volume-1-frazer-gutenberg-l10630-l10782
+source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+passage_locator:
+  label: CHAPTER II. THE PERILS OF THE SOUL. / HEINE. / CHAPTER III. KILLING THE GOD.
+    / FOOTNOTES; lines 10630-10782
+  start: '10630'
+  end: '10782'
+  translation: 'The Golden Bough: A Study in Comparative Religion (Vol. 1 of 2)'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A sequence of footnotes citing comparative materials on veiling, soul-language,
+    seclusion or restricted visibility of rulers, taboo, and ritual or religious practices.
+    The most detailed note describes Korean royal movement outside the palace and
+    precautions imposed on householders.
+  language: English, with Greek and Latin snippets
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage notes that among Arabs, men sometimes veiled their faces.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage compares Greek and Latin expressions in which the soul is described
+    as being at or near the lips or nose.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Korean king is said sometimes, though rarely, to leave his palace.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: When the Korean king leaves the palace, notice is given beforehand to the
+    people.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: During the Korean king's public movement, doors must be shut and windows,
+    especially upper windows, must be sealed to prevent anyone from looking down on
+    him.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Each householder is required to kneel before his threshold holding a broom
+    and dust-pan when the Korean king passes.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Strabo is cited for kings who are revered as gods and are kept shut in, remaining
+    at home for the most part.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The footnote sequence includes citations to multiple sources concerning kings
+    or rulers whose movement or public appearance is restricted.
+  category: other
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: One note directs readers to Robertson Smith for discussion of the nature of
+    taboo.
+  category: other
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Arab men
+  description: Men among Arabs who sometimes veiled their faces.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Korean king
+  description: A king who rarely leaves his palace and whose public movement requires
+    prior notice and restrictions on householders' visibility.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Korean householders
+  description: Householders required to kneel before their thresholds with broom and
+    dust-pan while doors are shut and windows sealed.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Kings in Strabo's notice
+  description: Kings revered as gods and described as shut in and mostly housebound.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: veiled persons
+  assigned_to:
+  - fig:1
+  basis: The passage explicitly notes that some Arab men veiled their faces.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: secluded or restricted ruler
+  assigned_to:
+  - fig:2
+  - fig:4
+  basis: The Korean king rarely leaves the palace and Strabo's kings are described
+    as shut in and mostly at home.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: subjects under royal-visibility restrictions
+  assigned_to:
+  - fig:3
+  basis: Householders must kneel and comply with door and window restrictions when
+    the king leaves the palace.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: veil
+  literal_form: Veiled face
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: shut doors and sealed windows
+  literal_form: Closed doors and windows sealed with slips of paper
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: broom and dust-pan
+  literal_form: Broom and dust-pan held by kneeling householders
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: soul at bodily threshold
+  literal_form: Soul described at the lips or nose
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Korean king leaves the palace under restrictions
+  summary: The king rarely leaves the palace; when he does, notice is given, doors
+    are shut, householders kneel with broom and dust-pan, and windows are sealed to
+    prevent looking down on him.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:2
+  label: Comparative cluster of confined rulers
+  summary: The footnotes cite multiple sources concerning rulers whose movement, appearance,
+    or dwelling is restricted, including Strabo's notice of kings revered as gods
+    and kept shut in.
+  figure_refs:
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Comparative idioms of the soul near mouth or nose
+  summary: The passage compares Greek and Latin phrases that locate the soul at the
+    lips or nose.
+  figure_refs: []
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: Secluded sacral ruler and controlled visibility
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The notes describe or cite rulers who are rarely seen, kept shut in, or accompanied
+    by strict public-visibility rules; Strabo's cited kings are revered as gods.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage is a footnote sequence rather than the main argument; details
+    are uneven across cited cases.
+- id: motif:2
+  label: Soul located at the mouth or nose
+  taxonomy_refs: []
+  basis: The passage explicitly compares Greek and Latin expressions describing the
+    soul as at the lips or nose.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The evidence is linguistic and idiomatic in the footnote, not a narrative
+    episode.
+- id: motif:3
+  label: Taboo restrictions around royal or sacred presence
+  taxonomy_refs: []
+  basis: The Korean royal passage imposes restrictions on visibility and posture,
+    and a nearby note cites a discussion of taboo.
+  evidence_refs:
+  - ev:3
+  - ev:6
+  confidence: low
+  cautions: The note on taboo is bibliographic and does not explicitly label the Korean
+    restrictions as taboo within this passage.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares Greek and Latin idioms in which the soul
+    is imagined as being at the lips or nose.
+  claim_level: linguistic_similarity
+  target: Greek and Latin expressions for the soul near lips or nose
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is limited to cited expressions and does not establish
+    a shared ritual or narrative context.
+- id: claim:2
+  claim: The citation cluster supports a cautious same-function comparison among examples
+    of rulers whose visibility or movement is restricted.
+  claim_level: same_function
+  target: Cross-cultural examples of secluded or restricted rulers in the cited sources
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The footnotes provide citations and brief notes rather than full descriptions
+    for most cases; historical contact or common origin is not supported.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 10634-10637; footnote 542
+  quote_or_summary: Footnote 542 cites Sahara and Arab materials and states that among
+    Arabs men sometimes veiled their faces.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 10648-10651; footnote 546
+  quote_or_summary: Footnote 546 compares Greek and Latin expressions describing the
+    soul as at the lips or nose.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 10668-10675; footnote 553
+  quote_or_summary: The Korean king rarely leaves his palace; when he does, prior
+    notice is given, doors must be shut, householders kneel with broom and dust-pan,
+    and windows are sealed so no one looks down on him.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 10659-10660; footnote 550
+  quote_or_summary: Strabo is cited for kings worshipped as gods who are kept shut
+    in and remain at home for the most part.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 10653-10680; footnotes 548-555
+  quote_or_summary: A run of footnotes cites sources on rulers or kings in Loango,
+    the Niger region, Strabo, Sabaean materials, Heraclides, Korea, Tonquin, and Burma,
+    with brief comments on public appearance or palace departure in some notes.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 10728-10729; footnote 575
+  quote_or_summary: Footnote 575 refers readers to W. Robertson Smith on the nature
+    of taboo.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage consists almost entirely of footnotes; extraction relies on brief
+    descriptions and citation clusters rather than a continuous narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No external sources or uncited taxonomy identifiers were added. Available taxonomy reference used only where directly relevant to sacral rulership.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:comparative-golden-bough-volume-1-frazer-gutenberg__l10630-l10782
+  passage_sha256=8dc2726ad43b18153b81cb3fdeab05f3e3ad25e1eea8b873535e23c28f19d0a4
+

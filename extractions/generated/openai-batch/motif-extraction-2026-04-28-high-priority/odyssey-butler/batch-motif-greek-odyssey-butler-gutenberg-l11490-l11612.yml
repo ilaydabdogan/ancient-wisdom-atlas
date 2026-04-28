@@ -1,0 +1,431 @@
+---
+record_id: batch.motif.greek-odyssey-butler-gutenberg-l11490-l11612
+source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+passage_locator:
+  label: BOOK XXII / BOOK XXIII / BOOK XXIV / FOOTNOTES:; lines 11490-11612
+  start: '11490'
+  end: '11612'
+  translation: The Odyssey
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is a sequence of editorial footnotes discussing local topography,
+    later legends, caves, place names, and navigation details connected by the commentator
+    with episodes or locations in the Odyssey. It includes a Trapani legend about
+    pirates crushed beneath a rock by the Madonna di Trapani, comments on two caves
+    and Ulysses' hidden treasure, ravens at a named rock, and the phrase about the
+    turnings of the sun near Syra and Ortygia.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The commentator says that in Odyssean times a road would pass the harbour,
+    as it passes the salt works in the commentator's present day, because there is
+    no other level ground available for a road.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A rock at the end of the Northern harbour of Trapani is identified by the
+    commentator as the rock to which the Odyssey writer is supposedly referring, and
+    the rock is said still to bear the name Malconsiglio, glossed as 'the rock of
+    evil counsel.'
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A local legend says that a ship of Turkish pirates intended to attack Trapani,
+    but the Madonna di Trapani crushed them under the rock as they were coming into
+    port.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The legend reported by the commentator says that dropping exactly three drops
+    of oil on the water near the rock would allow one to see the ship still at the
+    bottom.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The commentator explicitly calls the Trapani legend a Christianised version
+    of an Odyssean story and says the name of the rock adds the detail that the disaster
+    resulted from evil counsel.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The commentator says that there were two caves, about 80 or 100 yards apart,
+    and identifies one as the cave in which Ulysses hid his treasure.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The place-name Ruccazzù dei corvi is glossed as 'the rock of the ravens,'
+    and the commentator says both the name and the ravens still exist.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The phrase 'where are the turnings of the sun' is explained as referring to
+    a place where the land turns sharply, so that mariners following the coast would
+    find the sun on the other side of their ship.
+  category: setting
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The commentator compares this navigational explanation with a Herodotus passage
+    in which Phoenician mariners said that while sailing around Libya they had the
+    sun upon their right hand.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The harbour now identified as the salt works of S. Cusumano is said by the
+    commentator to be the harbour in which Ulysses had landed.
+  category: setting
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Madonna di Trapani
+  description: Holy figure in the local Trapani legend who crushes the pirate ship
+    under the rock as it enters port.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Turkish pirates
+  description: Pirates whose ship, according to the legend, intended to attack Trapani
+    and was crushed under the rock.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Ulysses
+  description: Odyssean figure mentioned as hiding treasure in a cave and as having
+    landed in the harbour identified by the commentator.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: fig:4
+  name_or_label: Phoenician mariners
+  description: Mariners in the Herodotus comparison who reportedly said they had the
+    sun upon their right hand while sailing around Libya.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: crusher of attacking ship
+  assigned_to:
+  - fig:1
+  basis: The legend says the Madonna di Trapani crushed the pirates under the rock
+    as they came into port.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: intended attackers and crushed victims
+  assigned_to:
+  - fig:2
+  basis: The pirates are described as intending to attack Trapani and then being crushed
+    under the rock.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: treasure hider
+  assigned_to:
+  - fig:3
+  basis: The commentator identifies one cave as the cave in which Ulysses hid his
+    treasure.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: harbour lander
+  assigned_to:
+  - fig:3
+  basis: The commentator identifies a harbour as the harbour in which Ulysses had
+    landed.
+  evidence_refs:
+  - ev:7
+- id: role:5
+  label: navigators observing the sun's changed position
+  assigned_to:
+  - fig:4
+  basis: The Herodotus comparison reports mariners saying that the sun was upon their
+    right hand while sailing around Libya.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: rock of evil counsel
+  literal_form: Rock at the end of the Northern harbour of Trapani called Malconsiglio,
+    glossed as 'the rock of evil counsel.'
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: crushed pirate ship
+  literal_form: Ship of Turkish pirates crushed under the rock and said to remain
+    at the bottom.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: three drops of oil
+  literal_form: Exactly three drops of oil dropped on the water near the rock to see
+    the ship at the bottom.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: water near the rock
+  literal_form: Water near the rock where oil is dropped and where the submerged ship
+    may be seen.
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: two caves
+  literal_form: Two caves about 80 or 100 yards apart, one identified as the place
+    where Ulysses hid his treasure.
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: rock of the ravens
+  literal_form: Ruccazzù dei corvi, glossed as 'the rock of the ravens.'
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:7
+  label: turnings of the sun
+  literal_form: Phrase explained as a coastal turn causing mariners to find the sun
+    on the other side of the ship.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:8
+  label: harbour or salt works landing place
+  literal_form: The harbour now identified as the salt works of S. Cusumano, where
+    Ulysses is said to have landed.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Pirate ship crushed beneath harbour rock
+  summary: In the reported Trapani legend, a Turkish pirate ship comes into port intending
+    to attack Trapani, and the Madonna di Trapani crushes the pirates under a rock.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Oil drops reveal submerged ship
+  summary: The legend says that exactly three drops of oil dropped on the water near
+    the rock allow the sunken ship to be seen at the bottom.
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Ulysses' treasure cave identified
+  summary: The commentator discusses two caves and identifies one as the cave where
+    Ulysses hid his treasure.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Navigating by the sun after a coastal turn
+  summary: The commentator explains the 'turnings of the sun' as a sharp coastal turn
+    after which mariners find the sun on the other side of their ship, and compares
+    this with a Herodotus report about Phoenician mariners.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Holy figure destroys attackers at a harbour rock
+  taxonomy_refs:
+  - divine_judgment
+  basis: The local legend has the Madonna di Trapani crushing a pirate ship under
+    a rock as the pirates enter port intending to attack Trapani.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This is a later local Christian legend reported in a footnote, not a direct
+    episode from the Odyssey passage itself. The 'divine_judgment' taxonomy fit is
+    functional rather than explicitly named by the passage.
+- id: motif:2
+  label: Submerged ship revealed by exact ritual action
+  taxonomy_refs: []
+  basis: The legend says that exactly three drops of oil on the water near the rock
+    reveal the ship still lying at the bottom.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage reports a local belief but gives no broader mythic classification
+    or parallel beyond the connection to the Odyssean story.
+- id: motif:3
+  label: Treasure hidden in a cave
+  taxonomy_refs: []
+  basis: The commentator identifies one of two caves as the cave in which Ulysses
+    hid his treasure.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage states the cave-treasure association plainly, but the line
+    range contains commentary rather than the Odyssey narrative episode itself.
+- id: motif:4
+  label: Solar position as journey or navigation marker
+  taxonomy_refs: []
+  basis: The commentator explains the 'turnings of the sun' as a geographic turn where
+    mariners find the sun on the other side of their ship and compares it with a Herodotus
+    navigation report.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: This is a navigational/geographical pattern in the commentary; it should
+    not be overread as a cosmological or afterlife journey motif.
+comparison_claims:
+- id: claim:1
+  claim: The Trapani legend of the pirate ship crushed under the rock is presented
+    by the commentator as a Christianised version of an Odyssean story, with the rock-name
+    adding the detail of evil counsel.
+  claim_level: same_motif
+  target: Odyssean story associated with the harbour rock
+  evidence_refs:
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The underlying Odyssean episode is not quoted in this line range; the
+    comparison depends on the commentator's assertion and localization.
+- id: claim:2
+  claim: The explanation of the 'turnings of the sun' is compared with Herodotus'
+    report of Phoenician mariners seeing the sun on their right while circumnavigating
+    Libya, suggesting a shared navigational function of solar orientation after a
+    major change of course.
+  claim_level: same_function
+  target: Herodotus iv.42 report of Phoenician mariners sailing around Libya
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is functional and geographic rather than a claim of
+    shared narrative motif or historical contact.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 11490-11495; footnote [116]
+  quote_or_summary: The commentator says a road in Odyssean times would pass the harbour
+    as it now passes the salt works, since no other level ground is available.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 11497-11508; footnote [117]
+  quote_or_summary: A rock at the end of the Northern harbour of Trapani is called
+    Malconsiglio, 'the rock of evil counsel'; a legend says a Turkish pirate ship
+    intending to attack Trapani was crushed under the rock by the Madonna di Trapani,
+    and exactly three drops of oil on the nearby water reveal the ship at the bottom.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source; summarized with brief embedded phrase.
+- id: ev:3
+  type: summary
+  locator: lines 11508-11511; footnote [117]
+  quote_or_summary: The commentator says the Trapani legend is evidently a Christianised
+    version of the Odyssean story and that the rock-name adds the detail that the
+    disaster resulted from evil counsel.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 11527-11537; footnote [122]
+  quote_or_summary: The commentator discusses two caves about 80 or 100 yards apart
+    and says the cave in which Ulysses hid his treasure is identifiable with singular
+    completeness, while the other cave has no special features.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 11553-11554; footnote [124]
+  quote_or_summary: Ruccazzù dei corvi is glossed as 'the rock of the ravens,' and
+    the commentator says both the name and ravens still exist.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source; summarized with brief translated phrase.
+- id: ev:6
+  type: summary
+  locator: lines 11582-11605; footnote [135]
+  quote_or_summary: The phrase 'where are the turnings of the sun' is explained as
+    a coastal turn after which mariners would find the sun on the other side of the
+    ship; the commentator cites Herodotus iv.42, where Phoenician mariners reportedly
+    said that in sailing around Libya they had the sun on their right hand.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source; summarized with brief phrases.
+- id: ev:7
+  type: summary
+  locator: lines 11610-11612; footnote [136]
+  quote_or_summary: The commentator identifies a harbour, now the salt works of S.
+    Cusumano, as the harbour in which Ulysses had landed.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The line range is editorial footnote commentary rather than continuous epic
+    narration. Several motifs are based on local legends or topographical interpretation
+    reported by Butler, so they require human review before use as Odyssey-level motif
+    data.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the provided passage and metadata were used. Taxonomy references were limited to supplied refs where directly supportable.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-odyssey-butler-gutenberg__l11490-l11612
+  passage_sha256=9a6136a7edeb598fbc7f3450f326b534d96fac7ca4b5c33e8eb76139d296dff2
+

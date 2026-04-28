@@ -1,0 +1,412 @@
+---
+record_id: batch.motif.greek-plato-republic-jowett-gutenberg-l9559-l9635
+source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+passage_locator:
+  label: INTRODUCTION AND ANALYSIS. / THE REPUBLIC. / PERSONS OF THE DIALOGUE. / BOOK
+    I.; lines 9559-9635
+  start: '9559'
+  end: '9635'
+  translation: The Republic
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Socrates argues with Thrasymachus that arts and sciences, when rightly
+    understood, do not seek their own advantage but the advantage of their subjects.
+    He uses medicine, horsemanship, the physician, and the pilot as examples, then
+    generalizes that a ruler as ruler seeks the good of the ruled. Thrasymachus reluctantly
+    assents, then responds with a sarcastic insult involving a nurse and the distinction
+    between shepherd and sheep.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Socrates asks whether an art has faults or defects requiring another art,
+    or whether an art remains faultless while true and attends to its own subject-matter.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Medicine is said to consider the interest of the body, and horsemanship the
+    interest of the horse.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The arts are described as superiors and rulers of their own subjects.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Socrates states that no science or art considers the interest of the stronger
+    or superior, but the interest of the subject and weaker.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The true physician is described as prescribing for the good of the patient
+    and as a ruler having the human body as subject, not as a mere money-maker.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The pilot, strictly understood, is described as a ruler of sailors who provides
+    for the interest of the sailor under him.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Socrates concludes that no ruler, as ruler, considers his own interest, but
+    the interest of the subject or what is suitable to the art.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: After the argument is said to have upset the definition of justice, Thrasymachus
+    asks whether Socrates has a nurse and says she has not taught him to know the
+    shepherd from the sheep.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Socrates
+  description: Speaker who questions Thrasymachus and states the conclusions about
+    arts, rulers, and subjects.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Thrasymachus
+  description: Interlocutor who reluctantly assents to parts of the argument and then
+    replies with a sarcastic question and rebuke.
+  role_refs:
+  - role:2
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+- id: fig:3
+  name_or_label: Arts or sciences
+  description: Discussed as faultless when true, as caring for their subject-matter,
+    and as rulers of their own subjects.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Horse
+  description: Subject whose interest horsemanship is said to consider.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Physician
+  description: Example of a practitioner who prescribes for the patient’s good and
+    rules the human body as subject.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Patient or human body
+  description: Subject whose good the physician is said to consider.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Pilot
+  description: Example of a ruler of sailors who provides for the interest of the
+    sailor under him.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:8
+  name_or_label: Sailor
+  description: Subject under the pilot, for whose interest the pilot is said to provide.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:9
+  name_or_label: Nurse
+  description: Figure invoked by Thrasymachus in a sarcastic question about Socrates.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+- id: fig:10
+  name_or_label: Shepherd
+  description: Figure invoked by Thrasymachus in his remark that Socrates has not
+    been taught to know the shepherd from the sheep.
+  role_refs: []
+  evidence_refs:
+  - ev:6
+- id: fig:11
+  name_or_label: Sheep
+  description: Animal figure invoked by Thrasymachus in contrast with the shepherd.
+  role_refs: []
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: dialectical questioner
+  assigned_to:
+  - fig:1
+  basis: Socrates poses a series of questions and draws general conclusions from the
+    agreed examples.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:2
+  label: reluctant interlocutor
+  assigned_to:
+  - fig:2
+  basis: Thrasymachus assents with reluctance and attempts to contest a proposition
+    before acquiescing.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: ruler over subject-matter
+  assigned_to:
+  - fig:3
+  basis: The arts are described as superiors and rulers of their own subjects.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: expert practitioner as ruler
+  assigned_to:
+  - fig:5
+  - fig:7
+  basis: The physician is called a ruler of the human body, and the pilot is called
+    a ruler of sailors.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: subject receiving care
+  assigned_to:
+  - fig:4
+  - fig:6
+  - fig:8
+  basis: The horse, patient or body, and sailor are each named as the subject whose
+    interest the corresponding art or ruler serves.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:6
+  label: sarcastic rebuker
+  assigned_to:
+  - fig:2
+  basis: Thrasymachus answers the refutation by asking about Socrates’ nurse and accusing
+    him of not knowing shepherd from sheep.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: art as ruler of its subject
+  literal_form: Arts or sciences as superiors and rulers of their own subjects
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: physician and patient analogy
+  literal_form: True physician prescribing for the patient and ruling the human body
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: pilot and sailor analogy
+  literal_form: Pilot ruling sailors and providing for the sailor under him
+  associated_figures:
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: nurse, shepherd, and sheep taunt
+  literal_form: A nurse who does not wipe Socrates’ nose and has not taught him to
+    know shepherd from sheep
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:9
+  - fig:10
+  - fig:11
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Question about whether arts need correction
+  summary: Socrates asks whether arts have defects requiring supplementary arts, or
+    whether an art, while true and unimpaired, considers only its subject-matter.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Examples of arts serving subjects
+  summary: Socrates and Thrasymachus agree that medicine serves the body and horsemanship
+    serves the horse, and Socrates extends the point to arts generally.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Physician and pilot examples
+  summary: Socrates argues that the physician and pilot, strictly understood, act
+    as rulers who prescribe for the good of their subjects rather than for themselves.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Thrasymachus’ sarcastic reply
+  summary: After the argument is said to have upset the definition of justice, Thrasymachus
+    responds by asking whether Socrates has a nurse and by invoking the shepherd and
+    sheep.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:9
+  - fig:10
+  - fig:11
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: proper rule serves the ruled
+  taxonomy_refs: []
+  basis: Socrates’ conclusion states that a ruler, in so far as he is a ruler, considers
+    not his own interest but the interest of his subject.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: This is a philosophical argument pattern rather than a mythic narrative
+    motif.
+- id: motif:2
+  label: expert art cares for its object
+  taxonomy_refs: []
+  basis: Medicine, horsemanship, the physician, and the pilot are used to show that
+    an art or practitioner attends to the good of its subject-matter.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: The passage presents analogical reasoning, not a mythological episode.
+- id: motif:3
+  label: refutation followed by insulting counter-speech
+  taxonomy_refs: []
+  basis: After the definition of justice is described as upset, Thrasymachus replies
+    not with an argument but with a sarcastic remark about Socrates’ nurse and the
+    shepherd and sheep.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: This is a rhetorical scene pattern within dialogue; it is not tied to
+    an available mythological taxonomy reference.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 9559-9572
+  quote_or_summary: Socrates asks whether an art has defects requiring another art,
+    or whether every art remains pure and faultless while true and considers its subject-matter.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 9574-9585
+  quote_or_summary: Medicine is said to consider the body’s interest; horsemanship
+    the horse’s interest; arts care only for that which is subject to the art.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 9587-9596
+  quote_or_summary: The arts are called superiors and rulers of their subjects; Socrates
+    says no art considers the stronger’s interest but the subject’s and weaker’s interest,
+    and Thrasymachus reluctantly acquiesces.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 9598-9615
+  quote_or_summary: The true physician prescribes for the patient’s good and rules
+    the human body; the pilot is a ruler of sailors and provides for the sailor’s
+    interest, not his own.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: 9617-9623
+  quote_or_summary: "“there is no one in any rule who, in so far as he is a ruler,
+    considers or enjoins what is for his own interest, but always what is for the
+    interest of his subject”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:6
+  type: summary
+  locator: 9625-9635
+  quote_or_summary: The definition of justice is said to have been upset; Thrasymachus
+    asks whether Socrates has a nurse, says she leaves him to snivel, and says she
+    has not taught him to know the shepherd from the sheep.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is philosophical dialogue with analogical examples; extracted
+    motifs are argument-pattern candidates, not mythic narrative motifs. No comparison
+    claims are made because the passage itself does not support cross-textual comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No available taxonomy motif family or symbol reference was assigned because the passage does not clearly instantiate the listed mythological motif families or symbols.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-plato-republic-jowett-gutenberg__l9559-l9635
+  passage_sha256=de4fc48e017594ef07d22031c91d566307393fef1c43f03b145bcc5ee719c7ee
+

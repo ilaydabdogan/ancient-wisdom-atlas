@@ -1,0 +1,498 @@
+---
+record_id: batch.motif.comparative-golden-bough-volume-2-frazer-gutenberg-l13729-l13864
+source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+passage_locator:
+  label: CONTENTS / NOTE. OFFERINGS OF FIRST-FRUITS. / INDEX. / FOOTNOTES; lines 13729-13864
+  start: '13729'
+  end: '13864'
+  translation: 'The Golden Bough: A Study in Comparative Religion (Vol. 2 of 2)'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'A set of footnotes cites and briefly describes comparative ritual examples:
+    a Chukma funeral tug-of-war over a priest''s body, a similar Burmese funeral contest,
+    bamboo tugging to draw a rainy west wind, a Cingalese tugging game in honor of
+    Patiné, disease-laden boats sent away, and a Jewish eve-of-atonement cock substitution
+    rite.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Among the Chukmas, the body of a priest is conveyed to cremation on a car
+    with ropes attached.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The people divide into two equal groups and pull the ropes in opposite directions.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: One side represents good spirits and the other represents powers of evil;
+    the contest is arranged so the good-spirit side wins.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: A similar contest is reported at the funeral of a holy man in Burma, though
+    the passage says the original meaning appears to be forgotten there.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: In some East Indian islands, when a rainy west wind is desired, villagers
+    divide into two parties and pull on opposite ends of a long bamboo.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: In the rain-wind rite, the party at the eastern end must pull harder to draw
+    the desired wind from the west.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The Cingalese are said to perform a ceremony like 'French and English' in
+    honor of the goddess Patiné.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The footnote refers to examples of sending away disease-laden boats in East
+    Indian islands.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Modern Jews are described as sacrificing a white cock on the eve of the Festival
+    of Expiation.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The father of the family knocks the cock three times against his head while
+    declaring that the cock is his substitute and should take death in his place.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: After the declaration, the father cuts the cock's throat, dashes it on the
+    ground, and the intestines are thrown on the roof.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Chukma priest's body
+  description: The body of a priest conveyed to cremation on a car.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Chukma funeral participants
+  description: People divided into two equal groups pulling ropes in opposite directions.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Good spirits
+  description: Spirits represented by one side in the Chukma funeral contest.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Powers of evil or demons
+  description: Powers represented by the opposing side in the Chukma funeral contest;
+    young men representing demons may pull too vigorously.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: Burmese holy man
+  description: A holy man whose funeral includes a similar contest.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: East Indian village population
+  description: Men, women, and children divided into two parties for a bamboo-pulling
+    ceremony to obtain a rainy west wind.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: Goddess Patiné
+  description: Goddess in whose honor the Cingalese ceremony is performed.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:8
+  name_or_label: Father of the family
+  description: Person who performs the cock substitution rite by striking the cock
+    against his head, speaking the substitution formula, and killing the cock.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+- id: fig:9
+  name_or_label: White cock
+  description: Bird used as a substitute victim in the described expiation rite.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: deceased ritual figure
+  assigned_to:
+  - fig:1
+  - fig:5
+  basis: The passage describes a priest's body conveyed to cremation and a holy man's
+    funeral.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: ritual pullers
+  assigned_to:
+  - fig:2
+  basis: The people pull ropes attached to the car in opposing groups.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: represented benevolent side
+  assigned_to:
+  - fig:3
+  basis: One side is explicitly said to represent the good spirits and is arranged
+    to be victorious.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: represented evil side
+  assigned_to:
+  - fig:4
+  basis: The other side represents the powers of evil or demons.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: weather-rite participants
+  assigned_to:
+  - fig:6
+  basis: The village population pulls a bamboo to obtain a rainy wind from the west.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: honored deity
+  assigned_to:
+  - fig:7
+  basis: The Cingalese ceremony is performed in honor of the goddess Patiné.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: household ritual performer
+  assigned_to:
+  - fig:8
+  basis: The father of the family performs the actions and speaks the substitution
+    formula.
+  evidence_refs:
+  - ev:6
+- id: role:8
+  label: substitute sacrificial victim
+  assigned_to:
+  - fig:9
+  basis: The cock is called a substitute, assigned the speaker's death, and then killed.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: funeral car with ropes
+  literal_form: Car bearing a priest's body, with ropes attached for opposing groups
+    to pull.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: opposed ritual sides
+  literal_form: Two equal groups pulling in opposite directions, representing good
+    spirits and evil powers.
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: long bamboo
+  literal_form: Long bamboo pulled by two parties in a rain-wind ceremony.
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: disease-laden boats
+  literal_form: Boats described as carrying disease away.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: white cock
+  literal_form: White cock used in an expiation-eve substitution rite.
+  associated_figures:
+  - fig:8
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: cock's intestines on roof
+  literal_form: The intestines of the sacrificed cock are thrown on the roof of the
+    house.
+  associated_figures:
+  - fig:8
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Chukma funeral contest
+  summary: A priest's body is taken to cremation on a car, while two groups pull attached
+    ropes in opposite directions as representatives of good spirits and evil powers;
+    the good side is arranged to win.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Burmese funeral contest
+  summary: A similar contest is said to take place at the funeral of a holy man in
+    Burma, though the meaning is said to be forgotten.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Bamboo pulling for rainy west wind
+  summary: A village population divides into two groups and pulls at a long bamboo;
+    the eastern party must pull harder to draw the rainy wind from the west.
+  figure_refs:
+  - fig:6
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Cingalese ceremony for Patiné
+  summary: A tugging-game-like ceremony is performed by the Cingalese in honor of
+    the goddess Patiné.
+  figure_refs:
+  - fig:7
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Sending away disease-laden boats
+  summary: The footnote cites examples in which disease-laden boats are sent away,
+    and notes Siamese individual cures said to use the same principle.
+  figure_refs: []
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+- id: scene:6
+  label: White cock substitution sacrifice
+  summary: On the eve of the Festival of Expiation, a father strikes a white cock
+    against his head, declares it his substitute, kills it, dashes it to the ground,
+    and has its intestines thrown on the roof.
+  figure_refs:
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: ritual contest between good and evil forces
+  taxonomy_refs:
+  - duality
+  basis: The Chukma funeral contest explicitly divides participants into sides representing
+    good spirits and powers of evil, with victory arranged for the good side.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage reports a ritual representation; it does not describe a narrative
+    battle involving actual supernatural agents.
+- id: motif:2
+  label: funeral tug-of-war over a sacred or ritual body
+  taxonomy_refs: []
+  basis: The priest's body is carried to cremation on a car pulled by opposed groups;
+    a similar Burmese contest occurs at a holy man's funeral.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The Burmese example is only briefly summarized, and its meaning is said
+    to be forgotten.
+- id: motif:3
+  label: ritual pulling to compel or draw weather
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: Villagers pull on a bamboo so that the eastern side draws a rainy wind from
+    the west.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage gives a functional ritual description but little mythic framing.
+- id: motif:4
+  label: sending away disease by vessel
+  taxonomy_refs: []
+  basis: The footnote explicitly refers to examples of sending away disease-laden
+    boats and to similar applications for curing individuals.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage supplies only a citation note, not a full description of the
+    ritual sequence.
+- id: motif:5
+  label: substitutionary animal sacrifice for expiation
+  taxonomy_refs:
+  - sacrifice
+  - sacred_exchange
+  basis: The white cock is verbally made a substitute for the father, death is assigned
+    to the cock, and the cock is killed.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The passage describes a later Jewish ritual custom in Frazer's comparative
+    note; no broader doctrinal interpretation should be inferred from this excerpt
+    alone.
+comparison_claims:
+- id: claim:1
+  claim: The Chukma funeral contest is compared in the passage to a contest between
+    angels and devils depicted in the Campo Santo frescoes at Pisa.
+  claim_level: visual_similarity
+  target: Angels-and-devils contest in Campo Santo frescoes at Pisa
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage presents an analogy of representation, not evidence of
+    historical contact or shared origin.
+- id: claim:2
+  claim: The Burmese funeral contest is presented as similar to the Chukma funeral
+    contest at a holy man's funeral.
+  claim_level: same_motif
+  target: Chukma funeral tug-of-war contest
+  evidence_refs:
+  - ev:1
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The Burmese ceremony is not described in detail, and the passage notes
+    that its original meaning appears to be forgotten.
+- id: claim:3
+  claim: The East Indian disease-laden boat practices and the Siamese individual cures
+    are linked by the passage as applications of the same principle.
+  claim_level: same_function
+  target: Disease expulsion or cure by transferring affliction away
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage gives citations rather than a detailed description of each
+    practice.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 13729-13745, footnote 514
+  quote_or_summary: Among the Chukmas, a priest's body is conveyed to cremation on
+    a car; ropes are attached, two equal groups pull in opposite directions, one side
+    represents good spirits and the other evil powers, and the good side is arranged
+    to win.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 13745-13750, footnote 514
+  quote_or_summary: The footnote states that in Burma a similar contest occurs at
+    the funeral of a holy man, though the original meaning appears forgotten.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 13750-13758, footnote 514
+  quote_or_summary: In some East Indian islands, to obtain a rainy wind from the west,
+    the village population divides into two parties and pulls at a long bamboo; the
+    eastern end must pull harder to draw the wind from the west.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 13758-13760, footnote 514
+  quote_or_summary: The Cingalese perform a ceremony like 'French and English' in
+    honor of the goddess Patiné.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; short phrase retained from passage.
+- id: ev:5
+  type: summary
+  locator: lines 13780-13788, footnotes 522 and 524
+  quote_or_summary: The notes cite examples of sending away disease-laden boats in
+    East Indian islands and mention Siamese applications of the same principle to
+    curing individuals.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 13835-13845, footnote 546
+  quote_or_summary: Modern Jews are described as sacrificing a white cock on the eve
+    of the Festival of Expiation; the father declares it a substitute for himself,
+    assigns death to the cock and life to himself and Israel, then kills and dashes
+    the bird down, with intestines thrown on the roof.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is a footnote cluster with several brief ethnographic descriptions
+    and many citations. Motif extraction is strongest where the passage gives ritual
+    actions directly, and weaker where only comparative citations are listed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata. No external taxonomy IDs beyond the provided motif family names were added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:comparative-golden-bough-volume-2-frazer-gutenberg__l13729-l13864
+  passage_sha256=2cc1a7960692607ffe6c9def8e1875e54dde3e9425813fad022d0820b8b5c996
+

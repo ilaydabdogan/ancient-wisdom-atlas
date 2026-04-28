@@ -1,0 +1,489 @@
+---
+record_id: batch.motif.greek-odyssey-butler-gutenberg-l8279-l8350
+source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+passage_locator:
+  label: BOOK XVI / ULYSSES REVEALS HIMSELF TO TELEMACHUS. / BOOK XVII / BOOK XVIII;
+    lines 8279-8350
+  start: '8279'
+  end: '8350'
+  translation: The Odyssey
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Ulysses, still treated as a stranger in his own house, stands by the braziers
+    while Minerva incites the suitors to continue their insolence. Eurymachus mocks
+    him as a bald beggar and offers him menial labor. Ulysses answers by asserting
+    his strength in farming and war and warns that the house doors will become narrow
+    for the suitors if Ulysses returns. Eurymachus throws a footstool, misses Ulysses,
+    and strikes the cupbearer. Telemachus rebukes the suitors; Amphinomus counsels
+    restraint, libations are made, and the suitors depart.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The women leave into the body of the house in fear after being threatened.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Ulysses stands near burning braziers holding torches and watching the people.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Minerva prevents the suitors from ceasing their insolence and prompts Eurymachus
+    to gibe at Ulysses.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Eurymachus mocks Ulysses’ bald head and claims the light comes from his head
+    rather than the torches.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Eurymachus offers the stranger paid work building a stone fence or planting
+    trees, then accuses him of preferring begging to work.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Ulysses answers by challenging Eurymachus to contests in mowing, ploughing,
+    and fighting in war.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Ulysses warns that if Ulysses returns to his own house, the suitors will find
+    the doors narrow when they try to flee.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Eurymachus throws a footstool; Ulysses moves to Amphinomus’ knees for protection,
+    and the footstool strikes the cupbearer.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Telemachus rebukes the suitors for disorder at the banquet and tells them
+    to go home to bed.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: Amphinomus advises the suitors not to take offense and not to do violence
+    to the stranger or Ulysses’ servants.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: Mulius mixes a bowl of wine and water, the drink is handed around, drink-offerings
+    are made to the gods, and the suitors depart.
+  category: sequence
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Ulysses
+  description: A man in Ulysses’ house addressed as a stranger and mocked as a beggar;
+    he speaks of Ulysses’ possible return and seeks protection when Eurymachus throws
+    a stool.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Minerva
+  description: A goddess who does not let the suitors cease their insolence and sets
+    Eurymachus on to gibe at Ulysses.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Eurymachus son of Polybus
+  description: A suitor who mocks Ulysses, offers him servant work in a taunting way,
+    and throws a footstool at him.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:4
+  name_or_label: The suitors
+  description: Men in the covered cloister at the banquet who laugh, become uproarious,
+    marvel at Telemachus’ bold speech, make drink-offerings, and depart.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+  - ev:8
+- id: fig:5
+  name_or_label: Telemachus
+  description: He comes forward and rebukes the suitors, saying they are behaving
+    madly and should go home after supper.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: Amphinomus son of Nisus of Dulichium
+  description: A suitor near whose knees Ulysses seeks protection; he later counsels
+    the suitors not to use violence against the stranger or servants.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: fig:7
+  name_or_label: Cupbearer
+  description: A servant struck on the right hand by the footstool thrown by Eurymachus;
+    he falls and drops his wine-jug.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:5
+- id: fig:8
+  name_or_label: Mulius of Dulichium
+  description: Servant to Amphinomus who mixes a bowl of wine and water and hands
+    it around.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:8
+- id: fig:9
+  name_or_label: The women
+  description: Women who go into the body of the house trembling in fear.
+  role_refs: []
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: Disguised or unrecognized householder addressed as stranger
+  assigned_to:
+  - fig:1
+  basis: Ulysses is in his own house but is addressed as a stranger and beggar by
+    Eurymachus.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:2
+  label: Insulted respondent and threatened target
+  assigned_to:
+  - fig:1
+  basis: He is mocked by Eurymachus, answers the mockery, and avoids a thrown footstool.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: role:3
+  label: Divine instigator of continued insolence
+  assigned_to:
+  - fig:2
+  basis: Minerva deliberately prevents the suitors from stopping their insolence and
+    prompts Eurymachus to taunt Ulysses.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: Taunting and violent suitor
+  assigned_to:
+  - fig:3
+  basis: Eurymachus mocks Ulysses, accuses him of idleness, and throws a footstool.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:5
+  label: Disorderly banquet group
+  assigned_to:
+  - fig:4
+  basis: The suitors laugh at the taunt, are in uproar after the thrown stool, and
+    later make libations before departing.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:8
+- id: role:6
+  label: Young household authority rebuking guests
+  assigned_to:
+  - fig:5
+  basis: Telemachus tells the suitors they are behaving improperly and should leave
+    after supper.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: Moderating suitor
+  assigned_to:
+  - fig:6
+  basis: Amphinomus advises against taking offense or doing violence to the stranger
+    or servants.
+  evidence_refs:
+  - ev:7
+- id: role:8
+  label: Banquet servant
+  assigned_to:
+  - fig:7
+  - fig:8
+  basis: The cupbearer handles wine service and Mulius mixes and distributes wine
+    and water.
+  evidence_refs:
+  - ev:5
+  - ev:8
+symbols:
+- id: sym:1
+  label: Firelight at the banquet
+  literal_form: burning braziers and torches
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: Thrown footstool
+  literal_form: footstool caught up and thrown by Eurymachus
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: House doors as threatened passage
+  literal_form: doors of Ulysses’ house described as wide but narrow for fleeing suitors
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: Agricultural and martial equipment in Ulysses’ challenge
+  literal_form: scythe, yoke of oxen, shield, spears, and helmet
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: Drink-offerings
+  literal_form: wine and water mixed in a bowl and offered to the blessed gods
+  associated_figures:
+  - fig:4
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Ulysses at the braziers after the women withdraw
+  summary: The women retreat in fear, while Ulysses stands near the burning braziers
+    holding torches and watching the people.
+  figure_refs:
+  - fig:1
+  - fig:9
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Minerva incites Eurymachus’ mockery
+  summary: Minerva keeps the suitors insolent and prompts Eurymachus to mock Ulysses
+    before the other suitors.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Ulysses answers the taunt with labor and war challenges
+  summary: Ulysses responds to Eurymachus by describing his ability to mow, plough,
+    and fight, then warns of danger if Ulysses returns to his own house.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Footstool attack and banquet uproar
+  summary: Eurymachus throws a footstool at Ulysses, who seeks protection by Amphinomus;
+    the footstool strikes the cupbearer and causes uproar among the suitors.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Telemachus and Amphinomus restore order
+  summary: Telemachus rebukes the suitors and tells them to go home; Amphinomus counsels
+    restraint, Mulius mixes wine and water, libations are made, and the suitors depart.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:8
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Unrecognized returner tested by insults in his own house
+  taxonomy_refs:
+  - return
+  basis: Ulysses is present in his own house as a stranger or beggar, is mocked by
+    a suitor, and speaks of Ulysses coming to his own again.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage does not describe the original homecoming journey, only a
+    later episode of the unrecognized return within the house.
+- id: motif:2
+  label: Divine escalation of offenders before punishment
+  taxonomy_refs:
+  - divine_judgment
+  basis: Minerva keeps the suitors insolent so that Ulysses will become more bitter
+    against them, leading to further provocation by Eurymachus.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage implies preparation for consequences but does not itself narrate
+    the punishment or explicit judgment.
+- id: motif:3
+  label: Restoration of household authority against disorderly guests
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: Telemachus rebukes the suitors’ disorder in Ulysses’ house, and Amphinomus
+    recognizes that the stranger has come to Telemachus’ house to be dealt with by
+    him.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The passage presents household authority rather than a formal enthronement
+    or public claim to kingship.
+- id: motif:4
+  label: Sacral closure of a disorderly feast through libation
+  taxonomy_refs:
+  - sacred_exchange
+  basis: After disorder and counsel against violence, wine and water are distributed
+    and drink-offerings are made to the gods before the suitors depart.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The exchange is ritual offering within a banquet; the passage does not
+    elaborate reciprocal divine response.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 8279-8284
+  quote_or_summary: The women withdraw in fear; Ulysses stands near burning braziers
+    holding torches and brooding on things to come.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source text; summarized.
+- id: ev:2
+  type: summary
+  locator: 8285-8294
+  quote_or_summary: Minerva does not allow the suitors to cease their insolence and
+    sets Eurymachus to gibe at Ulysses, including mockery about light coming from
+    his bald head.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source text; summarized.
+- id: ev:3
+  type: summary
+  locator: 8295-8304
+  quote_or_summary: Eurymachus addresses Ulysses as stranger, offers servant work
+    building fences or planting trees, and accuses him of preferring begging to labor.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source text; summarized.
+- id: ev:4
+  type: summary
+  locator: 8305-8323
+  quote_or_summary: Ulysses challenges Eurymachus to compete in mowing, ploughing,
+    and battle, calls him insolent and cruel, and warns that the doors will be narrow
+    for the suitors if Ulysses returns.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source text; summarized.
+- id: ev:5
+  type: summary
+  locator: 8324-8337
+  quote_or_summary: Eurymachus angrily throws a footstool; Ulysses seeks protection
+    by Amphinomus, the stool strikes the cupbearer, and the suitors complain of the
+    disturbance.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source text; summarized.
+- id: ev:6
+  type: summary
+  locator: 8338-8342
+  quote_or_summary: Telemachus rebukes the suitors for madness and disorder and tells
+    them that after supper they should go home to bed.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source text; summarized.
+- id: ev:7
+  type: summary
+  locator: 8343-8348
+  quote_or_summary: Amphinomus advises the suitors not to take offense and not to
+    do violence to the stranger or to any of Ulysses’ servants, leaving the stranger
+    to Telemachus.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source text; summarized.
+- id: ev:8
+  type: summary
+  locator: 8349-8350
+  quote_or_summary: Mulius mixes wine and water, it is handed around, drink-offerings
+    are made to the gods, and the suitors go to their own homes.
+  source_text_path: texts/public-domain/greek/project-gutenberg/odyssey-butler.md
+  rights_note: Public domain source text; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labels are limited to patterns
+    directly visible in the passage and should be reviewed, especially divine judgment
+    and sacred exchange classifications.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly support a cross-text or cross-tradition comparison.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-odyssey-butler-gutenberg__l8279-l8350
+  passage_sha256=407c77b1e6f6e613eacc188197a7aca19245e6e92a86fccea414a753c63076cb
+

@@ -1,0 +1,519 @@
+---
+record_id: batch.motif.comparative-golden-bough-volume-1-frazer-gutenberg-l8746-l8810
+source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+passage_locator:
+  label: MACAULAY. / CHAPTER II. THE PERILS OF THE SOUL. / HEINE. / CHAPTER III. KILLING
+    THE GOD.; lines 8746-8810
+  start: '8746'
+  end: '8810'
+  translation: 'The Golden Bough: A Study in Comparative Religion (Vol. 1 of 2)'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Frazer compares the Phrygian figures Attis and Lityerses as possible parallel
+    vegetation deities whose human representatives were annually slain, distinguishing
+    spring tree-spirit rites from harvest corn-spirit rites. He then compares Lityerses
+    with the Bithynian Bormus, whose annual mourning by reapers and disappearance
+    while fetching water are interpreted as remnants of harvest rites involving the
+    death or disappearance of a corn-spirit representative and a desired return of
+    fertility the following year.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: At Pessinus, the high-priest is described as apparently slain annually in
+    the character of Attis, a vegetation god.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Attis is reported as described by an ancient authority as a reaped ear of
+    corn.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage states that Attis may have been especially a tree-god, while Lityerses
+    is linked to summer or autumn harvest timing.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage says Attis and Lityerses may be regarded as parallel vegetation
+    spirits or deities whose personal representatives were annually slain.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The rites of Lityerses are described as rustic ceremonies performed by peasants
+    on the harvest-field in Phrygia.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage speculates that villages or farms may have selected a corn-spirit
+    representative from a human victim, a passing stranger, or the harvester who cut,
+    bound, or threshed the last sheaf.
+  category: action
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:7
+  text: The passage states that by the classical era the killing custom in Phrygia
+    had probably become a pretence or rough harvest jest.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Bormus is described as mourned annually by reapers in a plaintive song after
+    his death or disappearance.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Bormus disappeared while going to fetch water for reapers; one version says
+    he was carried off by water nymphs.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The passage interprets the reapers' song for Bormus as a lament over the corn-spirit's
+    death and possibly a prayer for return in fresh vigor next year.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Attis
+  description: A Phrygian vegetation god associated in the passage with a priestly
+    kingship at Pessinus, annual slaying through a representative, a reaped ear of
+    corn, and especially with trees.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Lityerses
+  description: A Phrygian figure associated with harvest-field rites, the corn-spirit,
+    and a legendary status as son of a Phrygian king.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: High-priest at Pessinus
+  description: The priestly representative apparently slain annually in the character
+    of Attis.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Corn-spirit representative or harvest victim
+  description: A human representative possibly procured by villages or farms, including
+    a passing stranger, a farmer, or the harvester connected with the last sheaf.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+- id: fig:5
+  name_or_label: Bormus
+  description: A Bithynian figure, said to be a king's son or son of a wealthy distinguished
+    man, whose disappearance or death was annually mourned by reapers.
+  role_refs:
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:6
+  name_or_label: Reapers
+  description: Harvest workers who mourn Bormus in a plaintive song and are described
+    as watched by him while working on his fields.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:7
+  name_or_label: Water nymphs
+  description: Beings said in one version to have carried off Bormus.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: vegetation deity or spirit
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage explicitly states that both Attis and Lityerses were spirits
+    or deities of vegetation.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: tree-god and represented god
+  assigned_to:
+  - fig:1
+  basis: Attis is called especially a tree-god and is represented by the high-priest
+    at Pessinus.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: corn-spirit figure
+  assigned_to:
+  - fig:2
+  - fig:4
+  - fig:5
+  basis: Lityerses, the harvest victim, and Bormus are interpreted in relation to
+    the corn-spirit and harvest rites.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+- id: role:4
+  label: slain ritual representative
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The high-priest is described as annually slain in Attis's character, and
+    human harvest victims are described as representatives of the corn-spirit.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: role:5
+  label: disappearing mourned harvest figure
+  assigned_to:
+  - fig:5
+  basis: Bormus's death or disappearance was annually mourned by reapers.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: ritual mourners or singers
+  assigned_to:
+  - fig:6
+  basis: The reapers sing a plaintive song mourning Bormus and call to him.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:7
+  label: water abductors
+  assigned_to:
+  - fig:7
+  basis: One version states that Bormus was carried off by water nymphs.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: reaped ear of corn
+  literal_form: A reaped ear of corn used to describe Attis.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: tree
+  literal_form: Tree as the domain of Attis as tree-god and of spring tree-spirit
+    rites.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: last sheaf
+  literal_form: The last sheaf cut, bound, or threshed by a harvester who might be
+    treated as the corn-spirit representative.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: harvest-field and threshing-floor
+  literal_form: Places where the former custom of killing a man is said to have occurred
+    or been pretended.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: water
+  literal_form: Water fetched by Bormus and water into which the farmer bound in a
+    corn-sheaf is interpreted as thrown.
+  associated_figures:
+  - fig:5
+  - fig:7
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:6
+  label: plaintive harvest song
+  literal_form: The reapers' mournful song and call to Bormus.
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+scenes:
+- id: scene:1
+  label: Attis and Lityerses compared as vegetation figures
+  summary: Frazer weighs whether Lityerses is a prototype of Attis or whether the
+    two are separate but parallel Phrygian vegetation figures with annually slain
+    representatives.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Harvest-field selection of a corn-spirit representative
+  summary: The passage describes possible Phrygian harvest rites in which villages,
+    farms, or peasants selected a human representative of the corn-spirit, later reduced
+    to a pretended killing or jest.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Bormus disappears and is mourned by reapers
+  summary: Bormus disappears while fetching water for reapers, is said in one version
+    to be taken by water nymphs, and is annually mourned in a plaintive harvest song.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: annual slaying of a vegetation representative
+  taxonomy_refs:
+  - sacrifice
+  - seasonal_cycle
+  - dying_and_returning
+  basis: Attis and Lityerses are treated as vegetation figures whose personal representatives
+    were annually slain, with seasonal distinction between spring and harvest rites.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage is Frazer's comparative interpretation rather than a direct
+    ritual text.
+- id: motif:2
+  label: corn-spirit embodied in harvest victim or last sheaf
+  taxonomy_refs:
+  - sacrifice
+  - seasonal_cycle
+  basis: The passage links the corn-spirit to human victims, strangers, farmers, and
+    the harvester connected with the last sheaf.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage presents the reconstruction with speculative language such
+    as 'may have.'
+- id: motif:3
+  label: ritual lament for slain or absent corn-spirit and desired return
+  taxonomy_refs:
+  - dying_and_returning
+  - death_rebirth
+  - return
+  - seasonal_cycle
+  basis: The reapers' song for Bormus is interpreted as lamentation over the corn-spirit's
+    death and a prayer for return in renewed vigor next year.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The return element is inferred by the author from the song's call and
+    comparative context.
+- id: motif:4
+  label: water disappearance of harvest figure
+  taxonomy_refs:
+  - sacrifice
+  basis: Bormus disappears while fetching water, one version attributes this to water
+    nymphs, and the passage interprets the episode as a reminiscence of binding a
+    farmer in a corn-sheaf and throwing him into water.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The water-immersion interpretation is explicitly comparative and reconstructive.
+- id: motif:5
+  label: ritual killing transformed into mock rite or jest
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage says the old killing custom had probably become a pretence or
+    harvest-home jest before the classical era.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: This is a historical reconstruction by the author, not a directly witnessed
+    rite in the passage.
+comparison_claims:
+- id: claim:1
+  claim: Attis and Lityerses are presented not as securely identical, but as possible
+    parallel products of the same Phrygian religious idea of vegetation deities with
+    annually slain representatives.
+  claim_level: same_function
+  target: Phrygian Attis and Phrygian Lityerses
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  counter_evidence_refs:
+  - ev:2
+  confidence: medium
+  limitations: The passage explicitly rejects certainty that Lityerses is the prototype
+    of Attis and distinguishes their seasonal and cultic contexts.
+- id: claim:2
+  claim: Lityerses is compared functionally with European harvest figures such as
+    the Old Man, while Attis is compared with spring figures such as the Wild Man
+    or Leaf Man.
+  claim_level: same_function
+  target: European harvest and spring vegetation representatives
+  evidence_refs:
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is typological within Frazer's analysis and does not
+    by itself establish historical contact.
+- id: claim:3
+  claim: The Bithynian Bormus is presented as similar to the Phrygian Lityerses because
+    both are linked to harvest reapers, elite or royal-son status, and mourning or
+    death/disappearance of a harvest figure.
+  claim_level: same_motif
+  target: Bithynian Bormus and Phrygian Lityerses
+  evidence_refs:
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The Bormus interpretation depends on reading disappearance and lament
+    through the Lityerses story and European folk-custom.
+- id: claim:4
+  claim: The Bormus disappearance is interpreted as sharing the function of rites
+    in which a farmer or corn-spirit representative is bound in a corn-sheaf and thrown
+    into water.
+  claim_level: same_function
+  target: water-disappearance and water-immersion harvest rite pattern
+  evidence_refs:
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage frames this as probable reminiscence rather than direct
+    evidence of the rite.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8746-8755
+  quote_or_summary: At Pessinus, the high-priest appears to have been annually slain
+    in the character of Attis, a vegetation god; Attis is described as a reaped ear
+    of corn and possibly identical with Lityerses as a corn-spirit embodiment.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 8755-8769
+  quote_or_summary: Frazer warns that the same people may have distinct vegetation
+    deities with representatives slain at different seasons; he compares spring tree-spirit
+    and autumn corn-spirit rites and distinguishes Attis as especially a tree-god
+    from Lityerses as harvest-linked.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 8769-8782
+  quote_or_summary: Attis and Lityerses are described as parallel vegetation spirits
+    or deities whose personal representatives were annually slain; Attis became a
+    state religion, while Lityerses remained a rustic Phrygian harvest-field rite,
+    possibly involving a human victim for the corn-spirit.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 8782-8791
+  quote_or_summary: A village or farm might procure a corn-spirit representative by
+    dooming a passing stranger or the harvester of the last sheaf; the older killing
+    custom is said to have probably become a pretence or rough harvest jest by the
+    classical era.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 8792-8802
+  quote_or_summary: 'Frazer says the Bithynian Bormus resembles Lityerses: Bormus,
+    a king''s son or son of a wealthy distinguished man, was annually mourned by reapers
+    after his death or disappearance; he disappeared while fetching water and in one
+    version was carried off by water nymphs.'
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 8803-8810
+  quote_or_summary: The passage interprets Bormus's disappearance as a reminiscence
+    of binding a farmer in a corn-sheaf and throwing him into water; the reapers'
+    mournful song is interpreted as lament over the corn-spirit's death and a prayer
+    for return in fresh vigor next year.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
+  rights_note: Public domain source; summary generated from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward from the supplied passage. Motif and
+    comparison fields reflect Frazer's own comparative and reconstructive language,
+    often marked by 'may,' 'probably,' or similar caution.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  All claims are limited to the supplied passage and metadata. No external sources or additional taxonomy identifiers were used.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:comparative-golden-bough-volume-1-frazer-gutenberg__l8746-l8810
+  passage_sha256=508af7a0ac2dd2f3f12447862e75a67ff2d312acc88c46df6bb4cb884c66d4a1
+

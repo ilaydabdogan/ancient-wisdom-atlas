@@ -1,0 +1,278 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l3836-l3850
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE TREES AND THE AXE / THE ASTRONOMER / THE LABOURER AND THE SNAKE / THE
+    CAGE-BIRD AND THE BAT; lines 3836-3850
+  start: '3836'
+  end: '3850'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A caged singing-bird explains to a bat that she sings only at night because
+    singing by day once led a fowler to catch her. The bat replies that such caution
+    is useless now that she is already imprisoned. The stated moral says precautions
+    are useless after the event.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A singing-bird is confined in a cage hanging outside a window.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The bird sings at night when other birds are asleep.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A bat comes at night and clings to the bars of the cage.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The bat asks why the bird is silent by day and sings only at night.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The bird says that a fowler once heard her daytime singing, set nets, and
+    caught her.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The bird says she has sung only at night since being caught.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The bat replies that this behavior is useless now that the bird is a prisoner,
+    and would have helped only before she was caught.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The moral states that precautions are useless after the event.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Singing-bird
+  description: A bird confined in a cage outside a window; she sings at night and
+    explains that singing by day led to her capture.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Bat
+  description: A bat that comes at night, clings to the cage bars, questions the bird,
+    and comments on the uselessness of her current precaution.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: Fowler
+  description: A bird-catcher who was attracted by the bird's daytime singing, set
+    nets, and caught her.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: captive
+  assigned_to:
+  - fig:1
+  basis: The bird is described as confined in a cage and as a prisoner.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: speaker explaining past capture
+  assigned_to:
+  - fig:1
+  basis: The bird explains why she changed her singing behavior after being caught.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: questioner and moral commentator
+  assigned_to:
+  - fig:2
+  basis: The bat asks about the bird's behavior and replies with the lesson that it
+    is too late to be cautious after capture.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:4
+  label: captor
+  assigned_to:
+  - fig:3
+  basis: The fowler sets nets for the bird and catches her.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: cage
+  literal_form: cage hanging outside a window
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: nets
+  literal_form: nets set by the fowler
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: night singing
+  literal_form: singing at night when other birds are asleep
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+scenes:
+- id: scene:1
+  label: Caged bird's nocturnal singing
+  summary: A singing-bird is held in a cage outside a window and has the habit of
+    singing at night while other birds sleep.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Bat questions the bird
+  summary: At night a bat clings to the cage bars and asks why the bird is silent
+    during the day and sings only at night.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Bird recounts her capture
+  summary: The bird says that singing in daytime once attracted a fowler, who set
+    nets and caught her; since then she sings only at night.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Bat states the lesson
+  summary: The bat says the bird's caution is useless after imprisonment and would
+    have mattered only before capture.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: belated precaution after misfortune
+  taxonomy_refs:
+  - wisdom
+  basis: The narrative and moral explicitly state that the bird's precaution would
+    have helped before capture but is useless after she is already a prisoner.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The available taxonomy has no specific fable-moral category for belated
+    caution; 'wisdom' is a broad fit based on the explicit proverbial lesson.
+- id: motif:2
+  label: capture caused by revealing voice
+  taxonomy_refs: []
+  basis: The bird reports that daytime singing attracted the fowler, who set nets
+    and caught her.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: This is a local narrative pattern in the passage rather than a supported
+    taxonomy-level motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3836-3839
+  quote_or_summary: A singing-bird is confined in a cage outside a window and sings
+    at night when other birds are asleep.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 3840-3841
+  quote_or_summary: One night a bat clings to the cage bars and asks why the bird
+    is silent by day and sings only at night.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 3841-3846
+  quote_or_summary: The bird says she sings only at night because when she once sang
+    in daytime a fowler heard her, set nets, and caught her.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 3846-3849
+  quote_or_summary: The bat replies that this is no use now that the bird is a prisoner;
+    if she had done it before being caught, she might still be free.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: line 3850
+  quote_or_summary: "“Precautions are useless after the event.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Passage is short and explicit. Motif assignment to the broad taxonomy ref
+    'wisdom' is interpretive but supported by the stated moral. No comparison claims
+    are made because the passage itself does not compare traditions or motif families.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage was used. The broader locator label references additional fables not present in the passage text, so this record extracts only 'THE CAGE-BIRD AND THE BAT'.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l3836-l3850
+  passage_sha256=520d240a0b09a21115db81cd87fca521cb7e255e9b737f7a03e688e764838786
+

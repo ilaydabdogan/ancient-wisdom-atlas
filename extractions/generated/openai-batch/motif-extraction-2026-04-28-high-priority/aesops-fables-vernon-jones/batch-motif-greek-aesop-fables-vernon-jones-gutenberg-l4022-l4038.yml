@@ -1,0 +1,334 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l4022-l4038
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE FATHER AND HIS DAUGHTERS / THE THIEF AND THE INNKEEPER / THE PACK-ASS
+    AND THE WILD ASS / THE ASS AND HIS MASTERS; lines 4022-4038
+  start: '4022'
+  end: '4038'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: An ass suffering under a gardener asks Jupiter for a new master. Jupiter,
+    through Mercury, causes the ass to be sold first to a potter and then, after a
+    second complaint, to a tanner. The ass realizes the final master may bring an
+    even worse end. The fable closes with a moral about not recognizing a good master
+    until serving a worse one.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A gardener has an ass that receives scanty food, carries heavy loads, and
+    is constantly beaten.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The ass asks Jupiter to remove him from the gardener and give him to another
+    master.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Jupiter sends Mercury to instruct the gardener to sell the ass to a potter.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The ass remains discontented because his work is harder under the potter.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The ass asks Jupiter for relief a second time, and Jupiter arranges for him
+    to be sold to a tanner.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: When the ass learns the tanner's trade, he regrets not being content with
+    his former masters.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The closing moral states that servants do not know a good master until they
+    have served a worse one.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Ass
+  description: An ass who passes from one master to another after asking Jupiter for
+    relief.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Gardener
+  description: The ass's first master, associated with scanty food, heavy loads, and
+    beating.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:3
+  name_or_label: Jupiter
+  description: A divine figure petitioned by the ass who arranges changes of master.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:4
+  name_or_label: Mercury
+  description: A divine messenger sent by Jupiter to instruct the gardener to sell
+    the ass.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Potter
+  description: The ass's second master, under whom the ass works harder than before.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:6
+  name_or_label: Tanner
+  description: The ass's third master, whose trade makes the ass fear ending in the
+    tanning-vat.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: complaining servant animal
+  assigned_to:
+  - fig:1
+  basis: The ass repeatedly complains and petitions Jupiter for relief from his masters.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: role:2
+  label: realizer of worse fate
+  assigned_to:
+  - fig:1
+  basis: The ass recognizes that the tanner's trade may lead to a worse end than his
+    former masters would have given him.
+  evidence_refs:
+  - ev:6
+- id: role:3
+  label: human master
+  assigned_to:
+  - fig:2
+  - fig:5
+  - fig:6
+  basis: The gardener, potter, and tanner are successive owners or masters of the
+    ass.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:4
+  label: petitioned divine arranger
+  assigned_to:
+  - fig:3
+  basis: Jupiter is asked to change the ass's master and arranges the transfers.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:5
+  label: divine messenger
+  assigned_to:
+  - fig:4
+  basis: Mercury is sent by Jupiter to deliver an instruction to the gardener.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: tanning-vat
+  literal_form: tanning-vat
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Ass under the gardener
+  summary: The ass suffers under the gardener through scanty food, heavy loads, and
+    beating.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: First petition and transfer
+  summary: The ass petitions Jupiter, and Jupiter sends Mercury to have the gardener
+    sell the ass to a potter.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Second petition and transfer
+  summary: The ass remains dissatisfied under the potter, asks Jupiter again for relief,
+    and is sold to a tanner.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Regret at the tanner's trade
+  summary: The ass recognizes the tanner's trade and regrets not remaining with a
+    former master, fearing the tanning-vat.
+  figure_refs:
+  - fig:1
+  - fig:6
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: Moral conclusion
+  summary: The fable concludes that servants recognize a good master only after serving
+    a worse one.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: discontented servant receives worse masters
+  taxonomy_refs:
+  - wisdom
+  basis: The sequence of complaints leads the ass from a hard master to harder or
+    more threatening masters, and the moral frames this as practical wisdom about
+    judging masters.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The available taxonomy contains only broad motif-family labels; the specific
+    fable pattern is more precise than the taxonomy reference.
+- id: motif:2
+  label: petition to deity brings unintended worsening
+  taxonomy_refs: []
+  basis: The ass twice petitions Jupiter for relief, but each granted transfer leaves
+    him no better off and finally fearing the tanning-vat.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage presents Jupiter as obliging rather than explicitly punitive;
+    the worsening is inferred from the ass's experience and final complaint.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 4022-4024
+  quote_or_summary: A gardener's ass has a hard life with scanty food, heavy loads,
+    and constant beating.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 4024-4026
+  quote_or_summary: The ass begs Jupiter to take him from the gardener and give him
+    to another master.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 4026-4028
+  quote_or_summary: Jupiter sends Mercury to tell the gardener to sell the ass to
+    a potter.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 4028-4029
+  quote_or_summary: The ass remains discontented because he has to work harder than
+    before under the potter.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 4029-4031
+  quote_or_summary: The ass begs Jupiter for relief a second time, and Jupiter arranges
+    for the ass to be sold to a tanner.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: quote
+  locator: 4031-4036
+  quote_or_summary: The ass says he should have been content with earlier masters,
+    because they would have buried him decently, but now he will end in the tanning-vat.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; paraphrased from a public domain passage.
+- id: ev:7
+  type: quote
+  locator: '4038'
+  quote_or_summary: "“Servants don't know a good master till they have served a worse.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied passage. Motif labels are descriptive;
+    broad taxonomy mapping to wisdom is supported mainly by the explicit moral.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly compare this fable to another tradition or motif family beyond its own moral pattern.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l4022-l4038
+  passage_sha256=7334142ab65bbbd5af63c9306b6e26270d2394f31239434e1311d87ef5f9480e
+

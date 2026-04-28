@@ -1,0 +1,260 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l1342-l1353
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE MISTRESS AND HER SERVANTS / THE GOODS AND THE ILLS / THE HARES AND THE
+    FROGS / THE FOX AND THE STORK; lines 1342-1353
+  start: '1342'
+  end: '1353'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: A Fox invited a Stork to dinner...
+  summary: A Fox invites a Stork to dinner and serves soup in a flat dish that the
+    Stork cannot eat from, while the Fox eats and is amused. Later the Stork invites
+    the Fox and serves food in a long narrow-necked pitcher that she can access with
+    her bill, leaving the Fox hungry and unable to reach the contents.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The Fox invites the Stork to dinner.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The food at the Fox’s dinner is soup served in a large flat dish.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Fox is able to lap up the soup, but the Stork cannot partake of it with
+    her long bill.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Fox is amused by the Stork’s distress.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The Stork later invites the Fox in turn.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The Stork serves food in a pitcher with a long and narrow neck.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The Stork can reach into the pitcher with ease, but the Fox cannot reach its
+    contents and remains hungry.
+  category: action
+  evidence_refs:
+  - ev:3
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Fox
+  description: An animal host who serves soup in a flat dish, eats it easily, is amused
+    by the Stork’s distress, and later cannot eat from the Stork’s narrow-necked pitcher.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: Stork
+  description: An animal guest with a long bill who cannot eat from the Fox’s flat
+    dish, later hosts the Fox, and can eat from a narrow-necked pitcher.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: first host
+  assigned_to:
+  - fig:1
+  basis: The Fox invites the Stork to dinner and provides the fare.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: excluded first guest
+  assigned_to:
+  - fig:2
+  basis: The Stork is present as guest but cannot eat from the flat dish with her
+    long bill.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: reciprocal host
+  assigned_to:
+  - fig:2
+  basis: The Stork later invites the Fox and sets food before him in a narrow-necked
+    pitcher.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: excluded second guest
+  assigned_to:
+  - fig:1
+  basis: The Fox cannot reach the contents of the vessel and sits hungry and helpless.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: flat dish of soup
+  literal_form: large flat dish of soup
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: long narrow-necked pitcher
+  literal_form: pitcher with a long and narrow neck
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: long bill
+  literal_form: the Stork’s long bill
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+scenes:
+- id: scene:1
+  label: Fox’s dinner
+  summary: The Fox serves soup in a flat dish, eats it easily, and is amused while
+    the Stork cannot eat because of her long bill.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Stork’s return dinner
+  summary: The Stork serves food in a long narrow-necked pitcher, from which she can
+    eat but the Fox cannot, leaving him hungry and helpless.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: reciprocal trick at a meal
+  taxonomy_refs:
+  - trickster_boundary
+  basis: One host uses a serving vessel suited to himself but not to the guest; the
+    guest later repeats the pattern with a different vessel that reverses who can
+    eat.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The available taxonomy reference is broad; the passage supports a trick
+    involving access and bodily difference, but does not name a formal motif category.
+- id: motif:2
+  label: retaliatory hospitality
+  taxonomy_refs: []
+  basis: The Stork answers the Fox’s inhospitable dinner with a second dinner that
+    leaves the Fox in the same condition of exclusion from the food.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is a descriptive motif label derived from the passage rather than
+    a supplied taxonomy ID.
+- id: motif:3
+  label: vessel fitted to one body excludes another
+  taxonomy_refs: []
+  basis: The flat dish favors the Fox’s way of eating and excludes the Stork; the
+    narrow-necked pitcher favors the Stork’s bill and excludes the Fox.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is a literal pattern in the passage; broader symbolic interpretation
+    should be reviewed.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 1342-1345
+  quote_or_summary: "“A Fox invited a Stork to dinner,” where the only fare is “a
+    large flat dish of soup.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain text; short excerpt used for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 1345-1348
+  quote_or_summary: The Fox laps up the soup, while the Stork with her long bill cannot
+    partake; the Fox is amused by her distress.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain text; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 1348-1351
+  quote_or_summary: The Stork later invites the Fox and sets before him a pitcher
+    with a long narrow neck, into which she can easily put her bill.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain text; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: lines 1351-1353
+  quote_or_summary: The Stork enjoys her dinner, while the Fox sits hungry and helpless
+    because he cannot reach the vessel’s contents.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain text; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage gives a clear two-part reciprocal action pattern. Taxonomy mapping
+    is less certain because the supplied taxonomy lacks a close hospitality or fable-specific
+    trick motif.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage text was used; although the locator label mentions multiple fables, extraction is limited to “THE FOX AND THE STORK.”
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l1342-l1353
+  passage_sha256=e20f9cc34817931840d62ff06f8d74aeb73708c8e0c969fa73bd99f39feef6c1
+

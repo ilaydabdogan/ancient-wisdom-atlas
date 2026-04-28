@@ -1,0 +1,350 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l3853-l3869
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE ASTRONOMER / THE LABOURER AND THE SNAKE / THE CAGE-BIRD AND THE BAT /
+    THE ASS AND HIS PURCHASER; lines 3853-3869
+  start: '3853'
+  end: '3869'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: A man is known by the company he keeps.
+  summary: A prospective buyer tests an ass by placing it among other asses. When
+    the ass chooses to stand beside the laziest and greediest animal, the buyer returns
+    it, saying its chosen companion reveals its nature.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A man wants to buy an ass and arranges to take a likely-looking animal home
+    on trial.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: At home, the man places the trial ass in a stable with his other asses.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The newcomer looks around and chooses a place next to the laziest and greediest
+    beast in the stable.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The man puts a halter on the ass, leads it away, and returns it to its owner.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The owner is surprised that the ass has been returned so soon and asks whether
+    it has already been tested.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The purchaser says he does not need further tests because he can judge the
+    ass from the companion it chose.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The passage ends with the moral that a man is known by the company he keeps.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: purchaser
+  description: A man who wants to buy an ass and tests it at home.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:6
+- id: fig:2
+  name_or_label: owner
+  description: The ass’s owner, who allows the man to take the ass home on trial and
+    later receives it back.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: trial ass
+  description: A likely-looking ass taken home on trial; it chooses a place next to
+    the laziest and greediest beast.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: other asses
+  description: The asses already in the purchaser’s stable.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: laziest and greediest beast
+  description: The stable animal beside which the newcomer chooses to stand.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: prospective buyer
+  assigned_to:
+  - fig:1
+  basis: He wants to buy an ass and arranges a trial.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: judge by association
+  assigned_to:
+  - fig:1
+  basis: He decides the ass’s character from the companion it chooses.
+  evidence_refs:
+  - ev:6
+- id: role:3
+  label: seller or owner
+  assigned_to:
+  - fig:2
+  basis: He owns the ass and receives it back after the trial.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:4
+  label: tested animal
+  assigned_to:
+  - fig:3
+  basis: The ass is taken home on trial and evaluated by its choice of companion.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+- id: role:5
+  label: stable companions
+  assigned_to:
+  - fig:4
+  basis: They are the other asses among whom the trial ass is placed.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: bad companion
+  assigned_to:
+  - fig:5
+  basis: This beast is described as the laziest and greediest in the stable.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: ass
+  literal_form: Ass
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: stable
+  literal_form: stable
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: chosen companion
+  literal_form: place next to the laziest and greediest beast
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: sym:4
+  label: halter
+  literal_form: halter
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Trial purchase arranged
+  summary: A man at market arranges with an owner to take an ass home on trial before
+    buying it.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Ass placed among stable animals
+  summary: The man brings the ass home and puts it in his stable with his other asses.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Choice of companion
+  summary: The trial ass looks around and chooses to stand beside the laziest and
+    greediest beast.
+  figure_refs:
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Ass returned after judgment
+  summary: The man returns the ass to its owner and explains that the animal’s chosen
+    companion is enough to judge it.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Stated moral
+  summary: The fable states that a person is known by the company he keeps.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: character revealed by chosen companions
+  taxonomy_refs:
+  - wisdom
+  basis: The purchaser judges the ass by the companion it selects, and the closing
+    moral states that a person is known by the company he keeps.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The available taxonomy has only a broad “wisdom” family; the more specific
+    companion-based moral is not separately listed.
+- id: motif:2
+  label: test revealing hidden nature
+  taxonomy_refs:
+  - wisdom
+  basis: The purchaser’s trial does not involve work or strength but reveals the ass’s
+    character through its immediate association with a lazy and greedy animal.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+  confidence: medium
+  cautions: This is a practical moral pattern rather than a named mythic motif in
+    the supplied taxonomy.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 3853-3857
+  quote_or_summary: A man who wants to buy an ass goes to market and arranges with
+    the owner to take a likely-looking animal home on trial.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source text; summary created for extraction.
+- id: ev:2
+  type: summary
+  locator: 3858-3859
+  quote_or_summary: After reaching home, the man puts the ass into his stable with
+    his other asses.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source text; summary created for extraction.
+- id: ev:3
+  type: quote
+  locator: 3860-3862
+  quote_or_summary: The newcomer “chose a place next to the laziest and greediest
+    beast in the stable.”
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source text; short quotation used for evidence.
+- id: ev:4
+  type: summary
+  locator: 3862-3864
+  quote_or_summary: Seeing the choice, the man puts a halter on the ass, leads it
+    away, and hands it back to its owner.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source text; summary created for extraction.
+- id: ev:5
+  type: quote
+  locator: 3864-3866
+  quote_or_summary: The owner asks, “Why, do you mean to say you have tested him already?”
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source text; short quotation used for evidence.
+- id: ev:6
+  type: quote
+  locator: 3866-3868
+  quote_or_summary: The purchaser replies that he can see what kind of beast it is
+    “from the companion he chose for himself.”
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source text; short quotation used for evidence.
+- id: ev:7
+  type: quote
+  locator: '3869'
+  quote_or_summary: "“A man is known by the company he keeps.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source text; short quotation used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The plot and stated moral are explicit. Motif assignment is limited to the
+    broad supplied taxonomy category “wisdom”; no external motif index or comparison
+    is used.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself supports a moral pattern but not a specific cross-textual or historical comparison.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l3853-l3869
+  passage_sha256=997a7443cb3ed09554f6350eb00e68a2d615ef9e758f7226dedf9e0682c7dc49
+

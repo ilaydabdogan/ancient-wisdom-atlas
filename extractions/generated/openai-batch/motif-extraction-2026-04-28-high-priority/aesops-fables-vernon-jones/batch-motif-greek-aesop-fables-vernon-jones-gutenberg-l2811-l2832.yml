@@ -1,0 +1,303 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l2811-l2832
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE SHEEP, THE WOLF, AND THE STAG / THE LION AND THE THREE BULLS / THE HORSE
+    AND HIS RIDER / THE GOAT AND THE VINE; lines 2811-2832
+  start: '2811'
+  end: '2832'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: In one fable, an inexperienced young rider mounts an unbroken horse that
+    bolts; when asked where he is going, he says to ask the horse. In another, a goat
+    eats the shoots of a grapevine, and the vine says it will still produce wine to
+    be poured over the goat when the goat is sacrificed at the altar.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A young man considers himself somewhat skilled as a horseman and mounts a
+    horse that has not been properly broken in.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The horse bolts as soon as it feels the rider's weight and cannot be stopped.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A friend meets the rider on the road and asks where he is going in such a
+    hurry.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The rider points to the horse and says he does not know where he is going,
+    telling the friend to ask the horse.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A goat strays in a vineyard and browses on the tender shoots of a vine with
+    bunches of grapes.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The vine asks the goat why it is harming it and says there is grass available
+    for the goat to eat.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The vine says that even if the goat strips its leaves, it will produce enough
+    wine to be poured over the goat when the goat is led to the altar for sacrifice.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Young Man / Rider
+  description: A young man who fancies himself something of a horseman and rides an
+    unbroken horse.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Horse
+  description: A horse not properly broken in, difficult to control, that bolts with
+    the rider.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Rider's friend
+  description: A friend who meets the rider on the road and asks where he is going.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Goat
+  description: A goat straying in a vineyard and eating the shoots of a vine.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:5
+  name_or_label: Vine
+  description: A vine bearing grapes whose shoots are eaten by the goat and which
+    speaks to the goat.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: overconfident rider without control
+  assigned_to:
+  - fig:1
+  basis: The rider thinks himself a horseman but cannot control the bolting horse.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: uncontrolled mount
+  assigned_to:
+  - fig:2
+  basis: The horse is unbroken, difficult to control, and bolts as soon as mounted.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: questioning observer
+  assigned_to:
+  - fig:3
+  basis: The friend asks the rider where he is going in such a hurry.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: destructive browser
+  assigned_to:
+  - fig:4
+  basis: The goat eats the vine's tender shoots.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: future sacrificial victim
+  assigned_to:
+  - fig:4
+  basis: The vine describes the goat being led to the altar to be sacrificed.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: injured speaker predicting recompense
+  assigned_to:
+  - fig:5
+  basis: The vine is harmed by the goat and says it will still produce wine for the
+    goat's sacrifice.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: vine
+  literal_form: Grape-bearing vine in a vineyard
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: wine for sacrifice
+  literal_form: Wine produced by the vine and poured over the goat at the altar
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: altar
+  literal_form: Altar to which the goat is led for sacrifice
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Bolting horse carries rider away
+  summary: A self-styled horseman mounts an unbroken horse; the horse bolts and the
+    rider admits he does not know where he is going because the horse determines the
+    course.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Goat harms vine and is answered with sacrificial prediction
+  summary: A goat eats the shoots of a grapevine; the vine says it will still produce
+    wine that will be poured over the goat when it is sacrificed.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: loss of control to one's mount
+  taxonomy_refs: []
+  basis: The rider mounts an unbroken horse and is carried away without control, acknowledging
+    that the horse determines the destination.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is a fable pattern rather than one of the supplied mythology taxonomy
+    families.
+- id: motif:2
+  label: harmful eater later subject to sacrificial recompense
+  taxonomy_refs:
+  - sacrifice
+  basis: The goat harms the vine, and the vine predicts that wine from it will be
+    poured over the goat when the goat is sacrificed at the altar.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage explicitly mentions sacrifice, but the supplied taxonomy family
+    may be broader than this fable's literal sacrificial setting.
+- id: motif:3
+  label: injured plant speaks against animal aggressor
+  taxonomy_refs: []
+  basis: The vine, whose shoots are eaten by the goat, directly addresses the goat
+    about the harm done to it.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: No supplied taxonomy reference directly matches speaking plant or animal-plant
+    dispute.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 2811-2818
+  quote_or_summary: A young man who thinks himself a horseman mounts an unbroken,
+    difficult horse; when it feels his weight, it bolts and cannot be stopped.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 2818-2822
+  quote_or_summary: A friend asks the rider where he is going so quickly; the rider
+    points to the horse and replies that he has no idea and that the friend should
+    ask the horse.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 2825-2828
+  quote_or_summary: A goat wanders in a vineyard and eats the tender shoots of a vine
+    bearing fine bunches of grapes.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 2828-2830
+  quote_or_summary: The vine asks the goat what it has done to deserve harm and points
+    out that grass is available for the goat to eat.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 2830-2832
+  quote_or_summary: The vine says that even if stripped bare, it will produce enough
+    wine to be poured over the goat when the goat is led to the altar for sacrifice.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is straightforward, but taxonomy alignment is limited; comparison
+    claims are omitted because the passage itself does not establish cross-textual
+    comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Passage metadata label references additional fables, but the supplied passage text contains only THE HORSE AND HIS RIDER and THE GOAT AND THE VINE.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l2811-l2832
+  passage_sha256=3ffdfca0e2814c94a2d5210710de83bf344cd283bc0bdca088096be3041b6ea2
+

@@ -1,0 +1,551 @@
+---
+record_id: batch.motif.greek-plato-republic-jowett-gutenberg-l668-l755
+source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+passage_locator:
+  label: The Republic / THE REPUBLIC / INTRODUCTION AND ANALYSIS.; lines 668-755
+  start: '668'
+  end: '755'
+  translation: The Republic
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage summarizes the opening movement of Plato''s Republic: Socrates
+    and Glaucon are detained after a festival and brought to Cephalus'' house, where
+    Cephalus discusses old age, wealth, sacrifice, truth-telling, debts, and fear
+    or belief concerning the world below. Socrates then begins an inquiry into justice,
+    first with Cephalus and then with Polemarchus, testing definitions involving repayment,
+    helping friends, harming enemies, contracts, war, theft, and whether justice can
+    ever rightly do evil.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Socrates and Glaucon are about to leave a festival when Polemarchus, with
+    Adeimantus, detains them and persuades them to remain for conversation and the
+    torch-race.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Cephalus is found at home in extreme old age, seated on a cushioned seat and
+    crowned for a sacrifice.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Cephalus says that in old age he values conversation more after losing other
+    pleasures.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Cephalus states that the pains of old age depend on men's tempers and that
+    age can be a time of peace after the tyranny of passions has faded.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Cephalus says that old age strengthens belief in the world below and that
+    justice, avoiding compelled injustice, and not deceiving anyone become great blessings.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Socrates asks for the meaning of justice and tests whether justice is simply
+    telling the truth and paying debts, using the example of returning a borrowed
+    sword to a mad friend.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Cephalus leaves to attend to sacrifices, and Socrates jokingly says that the
+    argument has been inherited by Polemarchus.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The analysis states that Cephalus' allusion to the world below prepares for
+    the concluding mythus of the world below.
+  category: other
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: Polemarchus, relying on Simonides, defines justice as doing good to friends
+    and harm to enemies.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: Socrates argues that if justice is an art of opposites, it would be skilled
+    both at guarding and stealing, leading to the paradoxical conclusion that justice
+    would be a thief.
+  category: action
+  evidence_refs:
+  - ev:9
+- id: obs:11
+  text: The passage mentions Autolycus as a Homeric hero described as excellent in
+    theft and perjury.
+  category: other
+  evidence_refs:
+  - ev:9
+- id: obs:12
+  text: The argument concludes in this passage that no sage or poet truly said that
+    the just return evil for evil.
+  category: speech
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Socrates
+  description: A participant in the dialogue who is detained after the festival, visits
+    Cephalus, and questions definitions of justice.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:8
+  - ev:9
+- id: fig:2
+  name_or_label: Glaucon
+  description: Socrates' companion at the festival and brother of Adeimantus.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Polemarchus
+  description: Cephalus' son, who sends for and then appears to detain Socrates and
+    Glaucon; later inherits the argument and defends Simonides' definition of justice.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:8
+- id: fig:4
+  name_or_label: Adeimantus
+  description: Brother of Glaucon, accompanying Polemarchus when Socrates and Glaucon
+    are detained.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: Cephalus
+  description: Polemarchus' father, in extreme old age, crowned for sacrifice, who
+    speaks about old age, wealth, the world below, and justice before leaving to attend
+    sacrifices.
+  role_refs:
+  - role:6
+  - role:7
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+- id: fig:6
+  name_or_label: Simonides
+  description: A poet whose saying is invoked as authority for the initial definition
+    of justice.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: fig:7
+  name_or_label: Autolycus
+  description: A Homeric hero cited as excellent in theft and perjury during Socrates'
+    reductio concerning justice as theft.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:9
+- id: fig:8
+  name_or_label: Homer
+  description: A poet associated in the passage with the Homeric hero Autolycus and
+    with the paradoxical conclusion drawn by Socrates.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:9
+roles:
+- id: role:1
+  label: questioner of justice
+  assigned_to:
+  - fig:1
+  basis: Socrates asks what justice means and presses definitions through examples
+    and analogies.
+  evidence_refs:
+  - ev:5
+  - ev:8
+  - ev:9
+- id: role:2
+  label: festival visitor detained for conversation
+  assigned_to:
+  - fig:1
+  basis: Socrates is leaving the festival with Glaucon when Polemarchus detains them
+    and offers conversation.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: companion in opening setting
+  assigned_to:
+  - fig:2
+  - fig:4
+  basis: Glaucon accompanies Socrates; Adeimantus accompanies Polemarchus and is identified
+    as Glaucon's brother.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: detainer and host's heir in argument
+  assigned_to:
+  - fig:3
+  basis: Polemarchus detains Socrates and Glaucon, then receives the argument when
+    Cephalus departs.
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: role:5
+  label: defender of inherited definition
+  assigned_to:
+  - fig:3
+  basis: Polemarchus supports the definition attributed to Simonides and answers Socrates'
+    questions.
+  evidence_refs:
+  - ev:8
+- id: role:6
+  label: aged householder
+  assigned_to:
+  - fig:5
+  basis: Cephalus is described as Polemarchus' father in extreme old age at his house.
+  evidence_refs:
+  - ev:2
+- id: role:7
+  label: sacrificial participant
+  assigned_to:
+  - fig:5
+  basis: Cephalus is crowned for a sacrifice and later retires to look after sacrifices.
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: role:8
+  label: poetic authority cited in argument
+  assigned_to:
+  - fig:6
+  - fig:8
+  basis: Simonides' saying and Homeric material are invoked during the discussion
+    of justice.
+  evidence_refs:
+  - ev:6
+  - ev:8
+  - ev:9
+- id: role:9
+  label: heroic thief example
+  assigned_to:
+  - fig:7
+  basis: Autolycus is named as a Homeric hero excellent in theft and perjury.
+  evidence_refs:
+  - ev:9
+symbols:
+- id: sym:1
+  label: torch-race
+  literal_form: festival torch-race
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: sacrificial crown and seat
+  literal_form: cushioned seat and crown for a sacrifice
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: world below
+  literal_form: the world below
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: sym:4
+  label: borrowed sword
+  literal_form: sword borrowed from a friend who later goes mad
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: friends and enemies
+  literal_form: friends and enemies as recipients of good or harm
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:6
+  label: money kept safe
+  literal_form: money in partnerships, kept safely and not used
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:7
+  label: theft and perjury
+  literal_form: theft and perjury attributed to Autolycus
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Detention after the festival
+  summary: Socrates and Glaucon are leaving a festival but are detained by Polemarchus,
+    accompanied by Adeimantus, and are persuaded to stay for the torch-race and conversation.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Cephalus in old age before sacrifice
+  summary: At Cephalus' house, Cephalus is seated and crowned for sacrifice; he discusses
+    old age, loss of pleasures, peace from passions, wealth, and the world below.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Opening question about justice
+  summary: Socrates asks whether justice is truth-telling and paying debts and tests
+    the definition with the case of returning a sword to a mad friend; Cephalus then
+    leaves for the sacrifices and Polemarchus takes up the argument.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Dialectic on friends, enemies, and harm
+  summary: Polemarchus explains justice as benefiting friends and harming enemies;
+    Socrates examines this through war, contracts, money, guarding and stealing, Autolycus,
+    and the question whether the just should ever return evil for evil.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: sacrifice as ritual frame for philosophical discussion
+  taxonomy_refs:
+  - sacrifice
+  basis: Cephalus is explicitly crowned for sacrifice and later leaves the argument
+    to attend to sacrifices, making sacrificial activity part of the narrative frame.
+  evidence_refs:
+  - ev:2
+  - ev:6
+  confidence: high
+  cautions: The passage presents sacrifice as setting and action, not as a developed
+    sacrificial myth.
+- id: motif:2
+  label: old age turning thought toward the world below
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: Cephalus says belief in the world below grows in old age, and the analysis
+    notes that this prepares for the later mythus of the world below.
+  evidence_refs:
+  - ev:4
+  - ev:7
+  confidence: medium
+  cautions: No journey through the afterlife is narrated in this passage; the afterlife
+    element is an allusion only.
+- id: motif:3
+  label: wisdom inquiry through definition and refutation
+  taxonomy_refs:
+  - wisdom
+  basis: Socrates asks what justice is and tests proposed answers through examples,
+    analogies, and contradictions.
+  evidence_refs:
+  - ev:5
+  - ev:8
+  - ev:9
+  - ev:10
+  confidence: high
+  cautions: This is a philosophical pattern rather than a mythic narrative motif.
+- id: motif:4
+  label: refusal of returning evil for evil
+  taxonomy_refs: []
+  basis: The discussion moves from helping friends and harming enemies to the conclusion
+    that the just do not return evil for evil.
+  evidence_refs:
+  - ev:8
+  - ev:10
+  confidence: high
+  cautions: No available taxonomy reference exactly matches this ethical motif.
+- id: motif:5
+  label: ambivalent heroic theft in ethical argument
+  taxonomy_refs:
+  - sacred_theft
+  basis: The passage cites Autolycus, a Homeric hero excellent in theft and perjury,
+    when Socrates shows the paradox of defining justice as an art useful in both guarding
+    and stealing.
+  evidence_refs:
+  - ev:9
+  confidence: low
+  cautions: The theft is not described as sacred in the passage; the taxonomy match
+    is only approximate and should be reviewed.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares the paradoxical idea of justice as skill
+    in theft with the Homeric figure Autolycus, who is described as a hero excellent
+    in theft and perjury.
+  claim_level: same_function
+  target: Homeric Autolycus as heroic thief figure
+  evidence_refs:
+  - ev:9
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is internal to the passage and serves a philosophical
+    reductio; it does not establish a full shared mythic narrative.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 672-681
+  quote_or_summary: Socrates and Glaucon are leaving the festival when Polemarchus,
+    with Adeimantus, detains them and offers the torch-race and conversation with
+    the young.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 681-686
+  quote_or_summary: They return to the house of Cephalus, who is in extreme old age,
+    seated on a cushion, crowned for sacrifice, and asks Socrates to visit more often
+    because he is too old to go out.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 686-691
+  quote_or_summary: Cephalus answers Socrates on old age, saying its sorrows come
+    from men's tempers and that age can be peaceful when the tyranny of passions is
+    no longer felt.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 699-704
+  quote_or_summary: Cephalus says that in old age belief in the world below grows,
+    and that having acted justly, avoided compelled injustice through poverty, and
+    not deceived anyone are great blessings.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 704-711
+  quote_or_summary: Socrates asks what justice means, whether it is telling truth
+    and paying debts, and gives the example of returning a borrowed sword to a friend
+    who has gone mad.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 711-715
+  quote_or_summary: Polemarchus invokes Simonides for the definition; Cephalus retires
+    to attend sacrifices, and Socrates jokes that the argument has passed to Polemarchus
+    as heir.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 717-723
+  quote_or_summary: The analysis says Plato has introduced the question of justice
+    and prepared for the concluding mythus of the world below through Cephalus' slight
+    allusion.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 729-737
+  quote_or_summary: 'Socrates asks what Simonides meant; Polemarchus explains that
+    justice means doing what is proper: good to friends and harm to enemies, including
+    alliances with one and war against the other.'
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 737-747
+  quote_or_summary: Socrates examines justice in peace, contracts, money keeping,
+    attack and defense, guarding and stealing; the argument invokes Autolycus, a Homeric
+    hero excellent in theft and perjury.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: lines 747-755
+  quote_or_summary: The argument asks whether friends and enemies are real or seeming,
+    whether good should be done to the good and evil to the evil, and concludes that
+    no sage or poet said the just return evil for evil.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is a translated introductory analysis of Plato's dialogue rather
+    than a mythic narrative. Literal extraction is strong; motif mapping is cautious,
+    especially for afterlife and theft taxonomy.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the provided passage and metadata were used. Taxonomy references were limited to the supplied available lists.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-plato-republic-jowett-gutenberg__l668-l755
+  passage_sha256=181dc911e164f51fbd1d0d06b9e37e7518c65afa02a4a2b178d9a7a862bc34b2
+

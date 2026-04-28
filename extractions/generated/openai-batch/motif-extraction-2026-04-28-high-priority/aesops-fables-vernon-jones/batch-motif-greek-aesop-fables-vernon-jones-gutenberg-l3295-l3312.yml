@@ -1,0 +1,330 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l3295-l3312
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE WOLF AND THE SHEPHERD / THE FARMER AND THE STORK / THE CHARGER AND THE
+    MILLER / THE GRASSHOPPER AND THE OWL; lines 3295-3312
+  start: '3295'
+  end: '3312'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: An owl living in a hollow tree is disturbed during her daytime sleep by
+    a grasshopper chirping in the branches. After repeated requests fail, she uses
+    flattering speech and an invitation to nectar to lure him inside, then pounces
+    on him and eats him.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The owl lives in a hollow tree, feeds by night, and sleeps by day.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A grasshopper lives in the branches and disturbs the owl's sleep by chirping.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The owl repeatedly asks the grasshopper to consider her comfort, but he chirps
+    louder.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The owl decides to remove the grasshopper by means of a trick.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The owl praises the grasshopper's song, compares it to Apollo's lyre, mentions
+    nectar said to have been given by Minerva, and invites him inside.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The grasshopper is flattered by the praise and tempted by the drink, and he
+    agrees to enter.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: When the grasshopper enters the hollow, the owl pounces on him and eats him.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Owl
+  description: An owl living in a hollow tree, feeding by night and sleeping by day;
+    she uses flattering speech to lure and eat the grasshopper.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: Grasshopper
+  description: A grasshopper living in the branches; his chirping disturbs the owl,
+    and he is lured inside and eaten.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Apollo
+  description: Named in the owl's speech as the owner of a lyre whose notes are used
+    as a flattering comparison for the grasshopper's song.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Minerva
+  description: Named in the owl's speech as the giver of nectar that the owl claims
+    to possess.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: nocturnal sleeper by day
+  assigned_to:
+  - fig:1
+  basis: The owl is described as feeding by night and sleeping by day.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: deceptive speaker
+  assigned_to:
+  - fig:1
+  basis: The owl resolves to use a trick and speaks pleasantly to lure the grasshopper.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: predator
+  assigned_to:
+  - fig:1
+  basis: The owl pounces on and eats the grasshopper.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: noise-maker
+  assigned_to:
+  - fig:2
+  basis: The grasshopper's chirping disturbs the owl's sleep and continues despite
+    requests.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:5
+  label: deceived victim
+  assigned_to:
+  - fig:2
+  basis: The grasshopper is flattered and tempted by the owl's invitation, enters
+    the hollow, and is eaten.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:6
+  label: divine musical reference
+  assigned_to:
+  - fig:3
+  basis: Apollo's lyre is invoked in the owl's comparison to the grasshopper's song.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: alleged divine giver
+  assigned_to:
+  - fig:4
+  basis: Minerva is said by the owl to have given her nectar.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: hollow tree
+  literal_form: A hollow tree where the owl lives and where the grasshopper is lured
+    inside.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: sym:2
+  label: nectar
+  literal_form: A delicious drink the owl claims Minerva gave her, used as bait in
+    the invitation.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: Apollo's lyre
+  literal_form: A lyre named in the owl's flattering comparison of the grasshopper's
+    song.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Disturbed daytime sleep
+  summary: The owl sleeps by day in a hollow tree, while the grasshopper chirps in
+    the branches and disturbs her.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Failed requests and decision to trick
+  summary: The owl asks the grasshopper to stop disturbing her, but he chirps louder,
+    so she determines to get rid of him by trickery.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Flattering invitation
+  summary: The owl praises the grasshopper's song, invokes Apollo's lyre and Minerva's
+    nectar, and invites him inside.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Predation inside the hollow
+  summary: After the grasshopper enters the hollow, the owl pounces on him and eats
+    him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: deception through flattery
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The owl deliberately uses pleasing words, praise, and an attractive offer
+    to lure the grasshopper into danger.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage contains trickery, but the available taxonomy label is broad
+    and not specific to animal fable flattery.
+- id: motif:2
+  label: predator lures prey into enclosed dwelling
+  taxonomy_refs: []
+  basis: The owl invites the grasshopper into her hollow and kills him once he enters.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: No supplied taxonomy reference directly matches this concrete fable pattern.
+- id: motif:3
+  label: unheeded request leads to punishment
+  taxonomy_refs: []
+  basis: The owl's repeated requests for consideration are ignored, and the grasshopper
+    is ultimately killed by the owl's trick.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The passage presents the sequence of request, refusal, and consequence,
+    but does not state a separate moral in the provided text.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3295-3301
+  quote_or_summary: An owl lives in a hollow tree, feeds at night, sleeps by day,
+    and is disturbed by a grasshopper chirping in the branches.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 3301-3304
+  quote_or_summary: The owl repeatedly asks the grasshopper to consider her comfort,
+    but the grasshopper chirps louder.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 3304-3310
+  quote_or_summary: The owl decides to use a trick, praises the grasshopper's song
+    as like Apollo's lyre, says she has nectar from Minerva, and invites him to join
+    her.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 3310-3311
+  quote_or_summary: The grasshopper is flattered by the praise and tempted by the
+    delicious drink, so he agrees to come in.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 3311-3312
+  quote_or_summary: Once the grasshopper is inside the hollow where the owl sits,
+    she pounces on him and eats him.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif mapping is limited because the
+    supplied taxonomy has no exact animal-fable category for flattery and predation.
+    No comparison claims are made beyond the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the provided Grasshopper and Owl passage was used; the broader locator label names neighboring fables not present in the supplied passage text.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l3295-l3312
+  passage_sha256=3f83ece28863a82f448729f4f8c3048cb76457402858f68f20e434a7dc1d4721
+

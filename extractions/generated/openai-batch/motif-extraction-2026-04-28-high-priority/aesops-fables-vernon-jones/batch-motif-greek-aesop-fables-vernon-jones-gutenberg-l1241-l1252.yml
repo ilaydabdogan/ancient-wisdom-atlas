@@ -1,0 +1,209 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l1241-l1252
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: MERCURY AND THE WOODMAN / THE ASS, THE FOX, AND THE LION / THE LION AND THE
+    MOUSE / THE CROW AND THE PITCHER; lines 1241-1252
+  start: '1241'
+  end: '1252'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A thirsty crow finds a pitcher containing a small amount of water that
+    she cannot reach. She drops pebbles into the pitcher until the water rises to
+    the brim, allowing her to drink. The passage ends with the moral that necessity
+    produces invention.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is titled 'THE CROW AND THE PITCHER.'
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A thirsty crow finds a pitcher containing some water.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The water is too low for the crow to reach with her beak.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The crow drops pebbles into the pitcher.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Each pebble makes the water rise higher until it reaches the brim.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The crow is able to quench her thirst after the water rises.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The closing moral states that necessity is the mother of invention.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Crow
+  description: A thirsty crow who cannot initially reach water in a pitcher and then
+    uses pebbles to raise the water level.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: thirsty seeker
+  assigned_to:
+  - fig:1
+  basis: The crow is thirsty and seeks water from the pitcher.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: inventive problem-solver
+  assigned_to:
+  - fig:1
+  basis: The crow uses a clever plan involving pebbles to make the water rise.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: water
+  literal_form: water in a pitcher
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: pitcher
+  literal_form: pitcher containing a small amount of water
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: pebbles
+  literal_form: pebbles dropped into the pitcher
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Thirst beside unreachable water
+  summary: The crow finds water in a pitcher, but the water level is too low for her
+    beak to reach.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Pebbles raise the water
+  summary: The crow drops pebbles into the pitcher, causing the water to rise until
+    she can drink.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: necessity-driven invention
+  taxonomy_refs:
+  - wisdom
+  basis: The crow faces a life-threatening problem and devises a practical method
+    to obtain the water; the moral explicitly frames the episode as invention born
+    from necessity.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The taxonomy reference 'wisdom' is broad; the passage emphasizes practical
+    cleverness rather than formal teaching or divine wisdom.
+- id: motif:2
+  label: small animal overcomes obstacle through clever action
+  taxonomy_refs:
+  - wisdom
+  basis: A crow, unable to reach water directly, solves the obstacle by changing the
+    water level with pebbles.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage presents a fable episode rather than a larger mythic narrative;
+    motif labeling should remain at the fable-pattern level.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: '1241'
+  quote_or_summary: THE CROW AND THE PITCHER
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source text.
+- id: ev:2
+  type: summary
+  locator: 1243-1246
+  quote_or_summary: A thirsty crow finds a pitcher with a little water in it, but
+    cannot reach the water with her beak.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source text.
+- id: ev:3
+  type: summary
+  locator: 1247-1251
+  quote_or_summary: The crow drops pebbles into the pitcher, making the water rise
+    until it reaches the brim and she can drink.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source text.
+- id: ev:4
+  type: quote
+  locator: '1252'
+  quote_or_summary: Necessity is the mother of invention.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source text.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal episode and moral are clear. Motif candidates are straightforward
+    but mapped only broadly to the available 'wisdom' taxonomy. No comparison claims
+    are made because the passage itself does not compare the episode to another corpus
+    or tradition.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage text and metadata. The provided line label includes neighboring fable titles, but extraction is limited to the supplied 'THE CROW AND THE PITCHER' passage.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l1241-l1252
+  passage_sha256=c74cb47f9669cc693ec8edccb41499e215970e74a21c5eb53a286a119d5f9fd3
+

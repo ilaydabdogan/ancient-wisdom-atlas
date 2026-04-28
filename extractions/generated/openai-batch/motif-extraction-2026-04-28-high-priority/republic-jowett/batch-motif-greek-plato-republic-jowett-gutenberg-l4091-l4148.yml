@@ -1,0 +1,380 @@
+---
+record_id: batch.motif.greek-plato-republic-jowett-gutenberg-l4091-l4148
+source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+passage_locator:
+  label: The Republic / THE REPUBLIC / INTRODUCTION AND ANALYSIS.; lines 4091-4148
+  start: '4091'
+  end: '4148'
+  translation: The Republic
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: way leading from darkness to light
+  summary: The passage summarizes Jowett's analysis of Plato's cave image and the
+    divisions of knowledge. It describes a cave, fire, an upward way to true light,
+    shadows, images, reflections, stars, and the sun as corresponding to stages of
+    cognition and education. It then discusses Plato's aims of realizing and connecting
+    abstractions, and the role of mathematics, proportion, astronomy, and harmony
+    in leading the mind toward philosophy.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage says Plato uses an allegory to explain the relation of the philosopher
+    to the world, moving from the concrete to the abstract.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The cave is described as having an opening toward a fire and a way upward
+    to true light.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The dialectical process is represented as a way leading from darkness to light.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Shadows, images, reflections of the sun and stars in water, the stars, and
+    the sun are listed as corresponding to different divisions of knowledge.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The true dialectical process is said to begin with contemplation of real stars
+    rather than their reflections and to end with recognition of the sun or idea of
+    good.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The sun or idea of good is described as parent not only of light but also
+    of warmth and growth.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: 'Stages of education are listed: early education in poetry, laws, and customs;
+    bodily training for warrior-athletes; and later education beginning with mathematics
+    and proceeding to philosophy.'
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: True education is described as drawing people from becoming to being and toward
+    a comprehensive survey of all being.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The passage says arithmetic, geometry, astronomy, and the harmony of sounds
+    follow in an ordered curriculum.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Plato
+  description: The philosopher whose allegory, educational order, and philosophical
+    aims are discussed in the passage.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:2
+  name_or_label: the philosopher
+  description: A generalized figure whose relation to the world is explained through
+    allegory.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: men / human mind
+  description: The people or human mind that true education is said to draw from becoming
+    to being and train toward universal understanding.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: allegory-maker and philosophical teacher
+  assigned_to:
+  - fig:1
+  basis: The passage attributes the cave allegory, educational sequence, and aims
+    of abstraction and connection to Plato.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:2
+  label: subject of the allegory
+  assigned_to:
+  - fig:2
+  basis: The allegory is introduced as explaining the relation of the philosopher
+    to the world.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: recipient of education
+  assigned_to:
+  - fig:3
+  basis: True education is said to draw men from becoming to being and develop the
+    human mind's faculty for seeing universals.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: cave
+  literal_form: a cave with an opening
+  associated_figures: []
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: fire
+  literal_form: a fire toward which the cave has an opening
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: upward way
+  literal_form: a way upwards to the true light
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: darkness and light
+  literal_form: darkness and light marking the dialectical way
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:5
+  label: shadows and images
+  literal_form: shadows and images in the cave-related sequence
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:6
+  label: water reflections
+  literal_form: reflection of the sun and stars in the water
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:7
+  label: stars
+  literal_form: the stars themselves, distinguished from reflections of them
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:8
+  label: sun
+  literal_form: the sun, or idea of good, described as parent of light, warmth, and
+    growth
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:9
+  label: harmony of the spheres
+  literal_form: astronomy or the harmony of the spheres
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Cave and upward path to light
+  summary: 'The passage describes Plato''s cave image: a cave opens toward a fire,
+    and an upward way leads toward true light, representing movement from darkness
+    to light.'
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Ordered images of knowledge
+  summary: Shadows, images, water reflections, stars, and the sun are arranged as
+    correspondences to divisions of knowledge, culminating in the sun or idea of good.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:5
+  - sym:6
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Stages of education
+  summary: Education is described as progressing from childhood instruction in poetry,
+    laws, and customs, through bodily training, to later mathematics and philosophy.
+  figure_refs:
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Mathematical preparation for philosophy
+  summary: The passage presents arithmetic, geometry, astronomy, and harmonics as
+    studies that prompt comparison, distinction, and philosophical reflection.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:9
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: ascent from darkness to light
+  taxonomy_refs:
+  - ascent
+  basis: The passage explicitly describes an upward way to true light and a dialectical
+    process represented as movement from darkness to light.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is a philosophical allegory in an analytical introduction, not a
+    mythic journey narrative.
+- id: motif:2
+  label: wisdom through ordered education
+  taxonomy_refs:
+  - wisdom
+  basis: The passage presents education as a staged process leading from poetic and
+    civic formation through mathematics to philosophy and a survey of being.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The motif is conceptual and pedagogical rather than presented as a narrative
+    episode.
+- id: motif:3
+  label: sun as source of illumination and growth
+  taxonomy_refs: []
+  basis: The sun or idea of good is described as parent of light, warmth, and growth
+    and as the endpoint of dialectical recognition.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage identifies the sun with Plato's idea of good; no separate
+    solar deity or mythic personification is present.
+comparison_claims:
+- id: claim:1
+  claim: The cave passage has the same functional pattern as an ascent motif insofar
+    as it describes upward movement from darkness toward true light as a representation
+    of intellectual progress.
+  claim_level: same_function
+  target: ascent motif family
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The evidence supports functional similarity only; the passage is philosophical
+    allegory and does not indicate historical contact, common inheritance, or a mythic
+    ascent narrative.
+- id: claim:2
+  claim: The educational sequence functions as a wisdom pattern, moving the learner
+    from sensory impressions and conventional early education toward mathematics,
+    philosophy, and knowledge of being.
+  claim_level: same_function
+  target: wisdom motif family
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage supports a broad thematic comparison, but it is an exposition
+    of Plato's pedagogy rather than a traditional wisdom tale.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4091-4100
+  quote_or_summary: Plato is said to explain the philosopher's relation to the world
+    through allegory; at the start of Book VII he uses the figure of a cave with an
+    opening toward a fire and an upward way to true light, with dialectic represented
+    by the way from darkness to light.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summary used.
+- id: ev:2
+  type: summary
+  locator: lines 4100-4109
+  quote_or_summary: Shadows, images, water reflections of sun and stars, the stars,
+    and the sun are correlated with successive divisions of knowledge, from fancy
+    and sense to abstractions seen in the unity of the idea.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summary used.
+- id: ev:3
+  type: summary
+  locator: lines 4109-4113
+  quote_or_summary: Dialectic begins with real stars rather than reflections and ends
+    with recognition of the sun, or idea of good, as parent of light, warmth, and
+    growth.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summary used.
+- id: ev:4
+  type: summary
+  locator: lines 4113-4121
+  quote_or_summary: 'The passage lists stages of education: childhood and youth in
+    poetry, laws, and customs; bodily training for warrior-athletes; then later mathematics
+    and philosophy.'
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summary used.
+- id: ev:5
+  type: summary
+  locator: lines 4122-4137
+  quote_or_summary: The passage describes Plato's aims as realizing and connecting
+    abstractions, and says true education draws men from becoming to being while developing
+    the mind's faculty for seeing universals.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summary used.
+- id: ev:6
+  type: summary
+  locator: lines 4137-4148
+  quote_or_summary: The passage says comparison and distinction prompt philosophy,
+    beginning with arithmetic and proceeding through geometry, astronomy or harmony
+    of the spheres, and harmony of sounds, with further applications of mathematical
+    proportion noted.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source; summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is an analytical summary of Plato's philosophical allegory rather
+    than a mythic narrative. Literal images and educational sequence are clear; motif
+    assignments should be reviewed for atlas scope.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the provided passage and metadata were used. Taxonomy references were limited to supplied available refs.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-plato-republic-jowett-gutenberg__l4091-l4148
+  passage_sha256=9d4b965fa29612c2eb4388c2ab2d453cc187a54330f1f73dd41555039c043652
+

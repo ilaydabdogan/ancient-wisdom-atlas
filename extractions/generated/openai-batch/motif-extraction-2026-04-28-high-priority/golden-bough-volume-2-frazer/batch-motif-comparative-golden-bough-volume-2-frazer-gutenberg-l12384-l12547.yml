@@ -1,0 +1,501 @@
+---
+record_id: batch.motif.comparative-golden-bough-volume-2-frazer-gutenberg-l12384-l12547
+source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+passage_locator:
+  label: CONTENTS / NOTE. OFFERINGS OF FIRST-FRUITS. / INDEX. / FOOTNOTES; lines 12384-12547
+  start: '12384'
+  end: '12547'
+  translation: 'The Golden Bough: A Study in Comparative Religion (Vol. 2 of 2)'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Footnotes discuss Greek megara and adyta as sacred subterranean chambers;
+    animal deposition in the adyton at Isis festivals in Tithorea and its analogy
+    to pigs in Thesmophoria caverns; sacred or sacrificial pigs and boars in Cretan,
+    Harranian, Cypriot, Jewish, Egyptian, and other examples; Egyptian pig sacrifices
+    to the moon and Osiris; and animal identifications involving Adonis, Typhon, Apis,
+    and Mnevis.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage defines megara as subterranean vaults or chasms sacred to the
+    gods and notes a Phoenician derivation meaning cavern or subterranean chasm.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: At spring and autumn festivals of Isis at Tithorea, geese and goats were thrown
+    into the adyton and left until the following festival, when the remains were removed
+    and buried near the temple.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage states that the Tithorea practice supports the view that pigs
+    thrown into caverns at the Thesmophoria were left there until the next festival.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: In Crete the pig is described as very sacred and not eaten, while the passage
+    allows the possibility of sacramental eating at the Thesmophoria.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage reports that Harranians sacrificed swine once a year and ate the
+    flesh.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage reports a conjecture that wild boars annually sacrificed in Cyprus
+    represented Adonis himself.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: In the Egyptian sacrifice to the moon, parts of the pig were covered with
+    fat and burned, while the rest of the flesh was eaten.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: In the Egyptian sacrifice to Osiris, each man slew a pig before his door and
+    gave it to the swineherd who had sold it.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The passage notes that Lefébure recognized the boar in an Osirian story as
+    Typhon himself.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: Apis and Mnevis are described as black bulls, with Apis having certain white
+    spots.
+  category: attribute
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: gods of the megara
+  description: Unspecified gods to whom subterranean vaults or chasms called megara
+    were sacred.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Isis at Tithorea
+  description: Deity associated with spring and autumn festivals at Tithorea where
+    animals were thrown into the adyton.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: geese and goats
+  description: Animals thrown into the adyton at Tithorea and left there until the
+    following festival.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: pigs or swine
+  description: Animals described as sacred, sacrificial, eaten in some rites, or thrown
+    into caverns at the Thesmophoria.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: the moon
+  description: Recipient of an Egyptian pig sacrifice distinguished by Herodotus from
+    the sacrifice to Osiris.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: Osiris
+  description: Deity associated with an evening pig sacrifice in which each man slew
+    a pig before his door.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: Adonis
+  description: Figure whom Robertson Smith conjectured was represented by wild boars
+    sacrificed annually in Cyprus.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:8
+  name_or_label: Typhon as boar
+  description: Figure identified by Lefébure with the boar in an Osirian story.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+- id: fig:9
+  name_or_label: Apis and Mnevis
+  description: Black bulls; Apis is further described as having certain white spots.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: divine recipient or sacred owner
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:5
+  - fig:6
+  basis: The passage associates sacred spaces or sacrifices with gods, Isis, the moon,
+    and Osiris.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: role:2
+  label: sacrificial or deposited animal
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: Geese, goats, pigs, and swine are described as thrown into sacred places,
+    sacrificed, or eaten after sacrifice.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: role:3
+  label: sacred animal
+  assigned_to:
+  - fig:4
+  basis: The pig in Crete is described as very sacred and not eaten.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: animal-represented figure
+  assigned_to:
+  - fig:7
+  - fig:8
+  basis: The passage reports a conjecture that Cypriot sacrificial boars represented
+    Adonis and states that the boar in an Osirian story is Typhon himself.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:5
+  label: sacred bull
+  assigned_to:
+  - fig:9
+  basis: Apis and Mnevis are described as bulls with distinctive coloration in a religious
+    context.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: sacred subterranean chamber
+  literal_form: megara, adyta, caverns, subterranean vaults or chasms
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: pig, swine, or boar
+  literal_form: pig, swine, wild boar
+  associated_figures:
+  - fig:4
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:3
+  label: burned sacrificial portions
+  literal_form: pig tail extremity, spleen, and caul covered with fat and burned
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: buried animal remains
+  literal_form: remains removed and buried near the temple
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: marked black bull
+  literal_form: black bulls; Apis with certain white spots
+  associated_figures:
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Sacred subterranean places
+  summary: Megara are explained as sacred subterranean vaults or chasms, with adyta
+    also used for sacred enclosed spaces.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Animal deposition in the adyton
+  summary: At Tithorea, geese and goats are thrown into the adyton at Isis festivals
+    and their remains are removed and buried at the next festival; the passage compares
+    this to pigs left in Thesmophoria caverns.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Sacred or annual swine sacrifice and eating
+  summary: The passage describes pigs as sacred in Crete and reports annual Harranian
+    swine sacrifice followed by eating of the flesh.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Egyptian pig sacrifices to the moon and Osiris
+  summary: For the moon, selected pig parts are burned with fat and the remaining
+    flesh is eaten; for Osiris, each man slays a pig before his door and gives it
+    to the swineherd.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Boars as represented figures
+  summary: The passage reports that Cypriot sacrificial boars may have represented
+    Adonis and that an Osirian boar was identified with Typhon.
+  figure_refs:
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: scene:6
+  label: Distinctive sacred bulls
+  summary: Apis and Mnevis are described as black bulls, with Apis bearing certain
+    white spots.
+  figure_refs:
+  - fig:9
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Animals deposited in a sacred underground chamber until a later festival
+  taxonomy_refs:
+  - sacrifice
+  - seasonal_cycle
+  basis: The passage describes animals thrown into an adyton and left until the following
+    festival, and compares this with pigs in Thesmophoria caverns.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage notes that the Pausanias passage used for part of the inference
+    is incomplete and apparently corrupt.
+- id: motif:2
+  label: Sacred animal sacrificed and eaten
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage describes Harranian annual swine sacrifice followed by eating,
+    Egyptian pig sacrifice in which flesh is eaten, and possible sacramental eating
+    of pigs at the Thesmophoria.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: Some statements are framed as possibility or as examples from cited authorities
+    rather than as a single unified ritual pattern.
+- id: motif:3
+  label: Animal sacrifice linked to representation of a divine figure
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage reports a conjecture that Cypriot wild boars represented Adonis
+    and notes an Osirian boar identified as Typhon.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  confidence: medium
+  cautions: The Adonis example is explicitly conjectural; the Typhon example is reported
+    through Lefébure's interpretation.
+- id: motif:4
+  label: Pig sacrifice with burning of selected parts
+  taxonomy_refs:
+  - sacrifice
+  basis: In the Egyptian sacrifice to the moon, selected pig parts are covered with
+    fat and burned while the rest is eaten.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: This motif is limited to the specific practice summarized from Herodotus
+    in the passage.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly treats the Tithorea Isis adyton practice as analogous
+    to the Thesmophoria practice of pigs placed in caverns, because in both cases
+    animals are deposited in a sacred enclosed or underground place until a later
+    festival.
+  claim_level: same_function
+  target: Tithorea Isis animal deposition and Thesmophoria cavern pigs
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage states that one supporting Pausanias text is incomplete
+    and apparently corrupt.
+- id: claim:2
+  claim: The passage cautiously groups several swine-sacrifice examples under a recurring
+    pattern of pig or boar sacrifice with eating or divine association.
+  claim_level: same_motif
+  target: Annual or ritual swine sacrifice across Harranian, Cypriot, and Egyptian
+    examples
+  evidence_refs:
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The passage provides notes and citations rather than a fully argued
+    historical connection among these examples.
+- id: claim:3
+  claim: The passage supports a cautious functional comparison between boars associated
+    with Adonis and Typhon as cases where a boar is treated as representing or embodying
+    a named mythic figure.
+  claim_level: same_function
+  target: Boar as Adonis in Cyprus and boar as Typhon in an Osirian story
+  evidence_refs:
+  - ev:4
+  - ev:6
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The Adonis case is explicitly a conjecture, and the Typhon case is
+    reported as a scholarly recognition rather than narrated in detail.
+evidence:
+- id: ev:1
+  type: summary
+  locator: note 168; lines 12384-12389
+  quote_or_summary: Megara are explained as subterranean vaults or chasms sacred to
+    the gods; the word is linked to a Phoenician term meaning cavern or subterranean
+    chasm.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source text.
+- id: ev:2
+  type: summary
+  locator: note 169; lines 12390-12398
+  quote_or_summary: At Isis festivals at Tithorea, geese and goats were thrown into
+    the adyton and left until the next festival, when remains were removed and buried;
+    the passage says this supports the view that Thesmophoria pigs were similarly
+    left in caverns until the next festival.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source text.
+- id: ev:3
+  type: summary
+  locator: note 179; lines 12415-12420
+  quote_or_summary: In Crete the pig was esteemed very sacred and was not eaten; the
+    passage says this would not exclude sacramental eating at the Thesmophoria.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source text.
+- id: ev:4
+  type: summary
+  locator: note 189; lines 12431-12436
+  quote_or_summary: Harranians sacrificed swine once a year and ate the flesh; Robertson
+    Smith conjectured that wild boars annually sacrificed in Cyprus represented Adonis
+    himself.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source text.
+- id: ev:5
+  type: summary
+  locator: note 196; lines 12444-12454
+  quote_or_summary: 'Herodotus distinguishes Egyptian pig sacrifices to the moon and
+    to Osiris: for the moon, selected parts were covered with fat and burned while
+    the rest was eaten; for Osiris, each man slew a pig before his door and gave it
+    to the swineherd.'
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source text.
+- id: ev:6
+  type: summary
+  locator: notes 213-215; lines 12477-12484
+  quote_or_summary: The passage cites a story repeated by Pliny and notes that Lefébure
+    recognizes the boar in the story as Typhon himself.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source text.
+- id: ev:7
+  type: summary
+  locator: note 221; lines 12503-12546
+  quote_or_summary: Apis and Mnevis are described as black bulls, with Apis bearing
+    certain white spots.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source text.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: low
+  notes: The passage consists of scholarly footnotes and citations rather than a continuous
+    mythic narrative. Several items are reported as analogies, conjectures, or interpretations
+    by cited scholars.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy references were limited to the provided lists.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:comparative-golden-bough-volume-2-frazer-gutenberg__l12384-l12547
+  passage_sha256=09e4c6f62a7a3b6e70e74d460ea77342f05a91859b7e0500a2690b77ee36d7c3
+

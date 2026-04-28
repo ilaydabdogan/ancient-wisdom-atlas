@@ -1,0 +1,351 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l3016-l3038
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE WOLF AND THE CRANE / THE EAGLE, THE CAT, AND THE WILD SOW / THE WOLF
+    AND THE SHEEP / THE TUNNY-FISH AND THE DOLPHIN; lines 3016-3038
+  start: '3016'
+  end: '3038'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: In one fable, an injured wolf asks a sheep to bring water, implying he
+    can manage meat if he has drink; the sheep recognizes the danger and refuses.
+    In another, a dolphin chases a tunny-fish until both are carried onto a sandbank
+    and lie out of water; the tunny accepts death because the pursuer will die too.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A wolf is injured by dogs, lies for a long time as if dead, revives, and becomes
+    hungry.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The wolf asks a passing sheep to bring water from a nearby stream.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The wolf says he can manage meat if he can get something to drink.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The sheep refuses, saying that if he brought water the wolf would have no
+    difficulty about the meat.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A tunny-fish is chased through the water by a dolphin.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The tunny-fish is carried by the force of flight onto a sandbank, and the
+    dolphin follows in the chase.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Both fish lie out of the water gasping for life.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The tunny-fish says he does not mind dying because the one who caused his
+    death will share the same fate.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Wolf
+  description: A wolf worried and badly bitten by dogs, revived hungry, and asked
+    a sheep for water.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Sheep
+  description: A passing sheep who understands the wolf's implication and refuses
+    to bring water.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Tunny-fish
+  description: A fish chased by a dolphin, carried onto a sandbank, and left gasping
+    out of water.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Dolphin
+  description: A dolphin chasing the tunny-fish, following onto the sandbank, and
+    sharing the same danger.
+  role_refs:
+  - role:6
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: Dogs
+  description: Dogs that badly bit the wolf before the main exchange.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: injured predator
+  assigned_to:
+  - fig:1
+  basis: The wolf is badly bitten, revives, and asks for help while still presenting
+    a danger to the sheep.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: deceptive requester
+  assigned_to:
+  - fig:1
+  basis: The wolf asks for water while stating that meat will be manageable afterward,
+    which the sheep interprets as danger.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: prudent refuser
+  assigned_to:
+  - fig:2
+  basis: The sheep understands the likely result of helping and declines.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: fleeing prey
+  assigned_to:
+  - fig:3
+  basis: The tunny-fish is chased and flees through the water.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: shared doom participant
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: Both the tunny-fish and the dolphin end up out of the water, and the tunny
+    says the dolphin will share the same fate.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:6
+  label: pursuer
+  assigned_to:
+  - fig:4
+  basis: The dolphin chases and nearly seizes the tunny-fish.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: prior attackers
+  assigned_to:
+  - fig:5
+  basis: The dogs have badly bitten the wolf before his encounter with the sheep.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: water from the stream
+  literal_form: water from the stream close by
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: meat
+  literal_form: meat mentioned by the wolf and inferred by the sheep
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: sandbank
+  literal_form: sandbank onto which the tunny-fish and dolphin are carried
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: out of the water
+  literal_form: both fish lying out of the water gasping
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Wolf asks sheep for water
+  summary: After being badly bitten by dogs and reviving hungry, the wolf asks a passing
+    sheep to bring water from a nearby stream and says he can manage meat if he has
+    drink.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Sheep detects danger and refuses
+  summary: The sheep states that bringing water would enable the wolf to manage the
+    meat, and leaves instead of helping.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Chase onto the sandbank
+  summary: A dolphin chases a tunny-fish through the water; the tunny's flight carries
+    him onto a sandbank, and the dolphin follows.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Pursuer and prey share danger
+  summary: Both fish lie out of the water gasping, and the tunny-fish observes that
+    the dolphin who caused his death will share the same fate.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Prudent refusal of a predator's request
+  taxonomy_refs:
+  - wisdom
+  basis: The sheep recognizes that giving water to the wolf would likely enable the
+    wolf to eat him, and refuses.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The taxonomy link to wisdom is functional rather than explicitly named
+    in the passage.
+- id: motif:2
+  label: Deceptive request for aid by a dangerous enemy
+  taxonomy_refs: []
+  basis: The injured wolf asks the sheep for water while also suggesting that meat
+    will be easy afterward, exposing the danger behind the request.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: No supplied taxonomy family directly names this fable pattern.
+- id: motif:3
+  label: Pursuer shares the prey's fatal fate
+  taxonomy_refs: []
+  basis: The dolphin's pursuit carries both predator and prey onto a sandbank, where
+    both are out of water and doomed.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: No supplied taxonomy family directly matches this pattern.
+- id: motif:4
+  label: Consolation in enemy's equal ruin
+  taxonomy_refs: []
+  basis: The tunny-fish says he does not mind dying because the cause of his death
+    will die too.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: This is an inferred motif label based on the explicit speech, not a supplied
+    taxonomy category.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3016-3024
+  quote_or_summary: A wolf, badly bitten by dogs and hungry after reviving, asks a
+    passing sheep to bring water from a nearby stream and says he can manage meat
+    if he gets drink.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; concise summary.
+- id: ev:2
+  type: quote
+  locator: lines 3024-3027
+  quote_or_summary: '"if I brought you the water, you would have no difficulty about
+    the meat. Good-morning."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: summary
+  locator: lines 3030-3036
+  quote_or_summary: A tunny-fish is chased by a dolphin, carried onto a sandbank by
+    his flight, and the dolphin follows; both lie out of the water gasping.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; concise summary.
+- id: ev:4
+  type: quote
+  locator: lines 3036-3038
+  quote_or_summary: '"he who is the cause of my death is about to share the same fate."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif labels are candidate patterns
+    inferred from the fable actions and speeches; comparison claims are omitted because
+    the passage itself does not support external comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata. The source label mentions additional fables, but the provided passage text includes only 'The Wolf and the Sheep' and 'The Tunny-fish and the Dolphin.'
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l3016-l3038
+  passage_sha256=3a2c78999712bacd6be37a9baa9f7f7812c9db0c61238ba546db4b4ef67885e6
+

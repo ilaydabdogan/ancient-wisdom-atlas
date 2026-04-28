@@ -1,0 +1,319 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l2029-l2056
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE SWOLLEN FOX / THE MOUSE, THE FROG, AND THE HAWK / THE BOY AND THE NETTLES
+    / THE PEASANT AND THE APPLE-TREE; lines 2029-2056
+  start: '2029'
+  end: '2056'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: In one fable, a boy is stung after lightly touching a nettle, and his mother
+    tells him that grasping it firmly would have prevented the sting. In another,
+    a peasant decides to cut down a barren apple-tree that shelters sparrows and grasshoppers,
+    but after discovering bees and honey inside the hollow trunk, he decides the tree
+    is worth keeping. The stated moral is that utility is most men's test of worth.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A boy gathers berries from a hedge and is stung on the hand by a nettle.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The boy tells his mother that he only touched the nettle lightly.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The mother says the light touch is why the boy was stung and says that a firm
+    grasp would not have hurt him.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A peasant has an apple-tree in his garden that bears no fruit but shelters
+    sparrows and grasshoppers.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The peasant decides to cut down the barren apple-tree and fetches an axe.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The sparrows and grasshoppers ask the peasant to spare the tree so they will
+    not need to seek shelter elsewhere and so their chirping can continue to enliven
+    his work.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The peasant begins cutting the trunk and discovers that it is hollow and contains
+    bees and a large store of honey.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: After finding the bees and honey, the peasant throws down his axe and says
+    the old tree is worth keeping.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The passage states the moral that utility is most men's test of worth.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Boy
+  description: A boy gathering berries who is stung by a nettle and reports the incident
+    to his mother.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Mother
+  description: The boy's mother, who explains how the nettle should have been handled.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Peasant
+  description: A peasant who owns or tends the garden with the apple-tree and decides
+    whether to cut it down.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:4
+  name_or_label: Sparrows and grasshoppers
+  description: Creatures that use the apple-tree for shelter and ask the peasant to
+    spare it.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: Bees
+  description: A swarm found inside the hollow apple-tree with a large store of honey.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: injured learner
+  assigned_to:
+  - fig:1
+  basis: The boy is stung and receives corrective advice from his mother.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: practical adviser
+  assigned_to:
+  - fig:2
+  basis: The mother interprets why the boy was stung and gives a practical rule for
+    handling nettles.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: valuer by use
+  assigned_to:
+  - fig:3
+  basis: The peasant first values the tree negatively because it bears no fruit, then
+    positively after finding honey in it.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+- id: role:4
+  label: shelter-seekers
+  assigned_to:
+  - fig:4
+  basis: The sparrows and grasshoppers depend on the tree for shelter and plead that
+    it be spared.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: hidden source of benefit
+  assigned_to:
+  - fig:5
+  basis: The bees and honey hidden in the tree cause the peasant to decide it is worth
+    keeping.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: nettle
+  literal_form: Stinging nettle touched by the boy
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: apple-tree
+  literal_form: Barren garden apple-tree, hollow inside, sheltering animals and containing
+    bees and honey
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: axe
+  literal_form: Axe fetched and used by the peasant to cut the tree
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:4
+  label: honey
+  literal_form: Large store of honey inside the hollow apple-tree
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: The boy stung by nettles
+  summary: A boy gathering berries is stung by a nettle after touching it lightly,
+    and his mother tells him that firm handling would have avoided the pain.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: The peasant spares the apple-tree
+  summary: A peasant prepares to cut down a barren apple-tree despite the pleas of
+    the creatures sheltering in it, but he changes his mind after discovering bees
+    and honey inside the hollow trunk.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: practical wisdom learned through painful contact
+  taxonomy_refs:
+  - wisdom
+  basis: The boy's painful encounter with the nettle leads to a direct practical lesson
+    from his mother.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is a fable moral pattern rather than a mythic episode; the taxonomy
+    reference is broad.
+- id: motif:2
+  label: hidden utility revealed in a seemingly barren tree
+  taxonomy_refs:
+  - wisdom
+  basis: The tree appears useless because it bears no fruit, but hidden bees and honey
+    reveal another form of value, prompting the peasant to spare it.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The tree is literal and not presented as a sacred tree or world axis.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2029-2034
+  quote_or_summary: A boy gathering berries from a hedge is stung by a nettle and
+    tells his mother he only touched it lightly.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 2034-2036
+  quote_or_summary: '"if you had grasped it firmly, it wouldn''t have hurt you in
+    the least."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: summary
+  locator: lines 2038-2044
+  quote_or_summary: A peasant has a fruitless apple-tree in his garden that shelters
+    sparrows and grasshoppers; disappointed, he fetches an axe to cut it down.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 2044-2049
+  quote_or_summary: The sparrows and grasshoppers beg the peasant to spare the tree,
+    saying they would lose shelter and he would lose their chirping.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 2049-2054
+  quote_or_summary: The peasant cuts into the hollow trunk, finds bees and honey,
+    throws down his axe, and says the old tree is worth keeping.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: quote
+  locator: line 2056
+  quote_or_summary: '"Utility is most men''s test of worth."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif assignment to wisdom is broad
+    and should be reviewed for taxonomy fit. No comparison claims were made because
+    the passage itself does not support a specific cross-textual comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage was used; no figures or comparisons from adjacent fables were added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l2029-l2056
+  passage_sha256=888e715523729003de6e31d6120d44d84466c581e095067ec32bc6f4bffb5091
+

@@ -1,0 +1,409 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l2390-l2411
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE BLACKSMITH AND HIS DOG / THE STAG AT THE POOL / THE DOG AND THE SHADOW
+    / MERCURY AND THE TRADESMEN; lines 2390-2411
+  start: '2390'
+  end: '2411'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: In one fable, a dog carrying meat over a stream mistakes his reflection
+    for another dog with a larger piece, drops his own meat, and loses it to the current.
+    In another, Jupiter orders Mercury to mix lies into the ingredients used to make
+    tradesmen; Mercury distributes the infusion equally until the last tradesman,
+    the horse-dealer, receives all the leftover lies.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A dog crosses a plank bridge over a stream while holding a piece of meat in
+    his mouth.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The dog sees his own reflection in the water and thinks it is another dog
+    with a larger piece of meat.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The dog releases his own meat and attacks the perceived other dog to obtain
+    the larger piece.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The dog obtains neither piece of meat because the perceived other dog is only
+    a shadow and his own meat is carried away by the current.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Jupiter, while creating man, tells Mercury to make an infusion of lies and
+    add some to the ingredients used to make tradesmen.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Mercury adds an equal amount of the infusion to each tradesman in turn, including
+    named examples of a tallow-chandler, a greengrocer, and a haberdasher.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The horse-dealer is last on Mercury’s list and receives all the remaining
+    infusion of lies.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The fable concludes that all tradesmen lie to some degree, but none lie like
+    a horse-dealer.
+  category: speech
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Dog
+  description: A dog carrying a piece of meat across a plank bridge over a stream.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Perceived other dog / reflection
+  description: The dog’s own reflection in the water, mistaken by the dog for another
+    dog with a larger piece of meat.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: Jupiter
+  description: The deity creating man who instructs Mercury to prepare and add an
+    infusion of lies.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: Mercury
+  description: The deity who makes and distributes the infusion of lies among tradesmen.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:5
+  name_or_label: Tradesmen
+  description: A group made with ingredients to which Mercury adds an infusion of
+    lies.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:8
+- id: fig:6
+  name_or_label: Horse-dealer
+  description: The last tradesman on Mercury’s list, receiving all the remaining infusion
+    of lies.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:7
+  - ev:8
+roles:
+- id: role:1
+  label: meat-carrier
+  assigned_to:
+  - fig:1
+  basis: The dog crosses the bridge with meat in his mouth.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: mistaken pursuer
+  assigned_to:
+  - fig:1
+  basis: The dog mistakes his reflection for another dog and acts to seize its supposed
+    meat.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: illusory rival
+  assigned_to:
+  - fig:2
+  basis: The supposed other dog is only the dog’s own reflection or shadow.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:4
+  label: creator and commander
+  assigned_to:
+  - fig:3
+  basis: Jupiter is creating man and tells Mercury what to add to tradesmen.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: divine mixer and distributor
+  assigned_to:
+  - fig:4
+  basis: Mercury makes and adds the infusion of lies to the tradesmen.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:6
+  label: recipients of lies
+  assigned_to:
+  - fig:5
+  basis: Tradesmen receive portions of the infusion of lies during their making.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:8
+- id: role:7
+  label: excess recipient
+  assigned_to:
+  - fig:6
+  basis: The horse-dealer receives all the infusion left over at the end.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: water
+  literal_form: stream water
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: reflection or shadow
+  literal_form: the dog’s own reflection in the water, later called a shadow
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:3
+  label: piece of meat
+  literal_form: a piece of meat held by the dog, and a supposed larger piece seen
+    in the reflection
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: infusion of lies
+  literal_form: an infusion of lies added to the ingredients used to make tradesmen
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+scenes:
+- id: scene:1
+  label: Dog crosses the stream and sees a reflection
+  summary: A dog carries meat across a plank bridge over a stream and sees his reflection
+    in the water, taking it for another dog with more meat.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Dog loses the real meat by attacking the shadow
+  summary: The dog drops his own meat and attacks the perceived rival, but loses his
+    meat to the current and gains nothing from the shadow.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Jupiter orders the infusion of lies
+  summary: During the creation of man, Jupiter instructs Mercury to make an infusion
+    of lies and add it to the ingredients for tradesmen.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Mercury distributes the infusion among tradesmen
+  summary: Mercury adds equal portions to tradesmen in turn, but gives all the remaining
+    infusion to the final tradesman, the horse-dealer.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: mistaking a reflection for another being
+  taxonomy_refs: []
+  basis: The dog interprets his own reflection in water as another dog with a larger
+    piece of meat.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is a local narrative motif; no supplied taxonomy family directly
+    matches it.
+- id: motif:2
+  label: losing a real possession while seeking an illusory greater gain
+  taxonomy_refs: []
+  basis: The dog releases his own meat to seize a supposed larger piece and ends with
+    neither.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The moral implication is conventional for the fable, but the extraction
+    records only the passage’s actions and outcome.
+- id: motif:3
+  label: divine manufacture of human social types with a moral ingredient
+  taxonomy_refs: []
+  basis: Jupiter and Mercury participate in making tradesmen by adding an infusion
+    of lies to their ingredients.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage is an etiological fable about tradesmen rather than a full
+    cosmogony; no supplied taxonomy family is an exact match.
+- id: motif:4
+  label: unequal final distribution explaining a group’s distinctive vice
+  taxonomy_refs: []
+  basis: The horse-dealer receives all leftover lies, which explains why horse-dealers
+    are said to lie more than other tradesmen.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The passage frames this as an explanatory stereotype within the fable;
+    it should not be generalized outside the text.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2390-2393
+  quote_or_summary: A dog crosses a plank bridge over a stream with a piece of meat
+    in his mouth.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary used.
+- id: ev:2
+  type: summary
+  locator: lines 2393-2395
+  quote_or_summary: The dog sees his reflection in the water and thinks it is another
+    dog with a piece of meat twice as big.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary used.
+- id: ev:3
+  type: summary
+  locator: lines 2395-2396
+  quote_or_summary: The dog lets go of his own meat and rushes at the perceived other
+    dog to get the larger piece.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary used.
+- id: ev:4
+  type: summary
+  locator: lines 2396-2398
+  quote_or_summary: The dog gets neither piece, since one was only a shadow and the
+    other is carried away by the current.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary used.
+- id: ev:5
+  type: summary
+  locator: lines 2402-2405
+  quote_or_summary: While Jupiter is creating man, he tells Mercury to make an infusion
+    of lies and add a little to the ingredients used for tradesmen.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary used.
+- id: ev:6
+  type: summary
+  locator: lines 2405-2408
+  quote_or_summary: Mercury introduces an equal amount of the infusion into each tradesman
+    in turn, including the tallow-chandler, greengrocer, and haberdasher.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary used.
+- id: ev:7
+  type: summary
+  locator: lines 2408-2410
+  quote_or_summary: When Mercury reaches the horse-dealer, last on the list, he still
+    has a quantity left and puts it all into him.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary used.
+- id: ev:8
+  type: summary
+  locator: lines 2410-2411
+  quote_or_summary: The fable states that all tradesmen lie more or less, but none
+    lie like a horse-dealer.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif labels are candidate descriptions
+    without exact supplied taxonomy matches. No comparison claims were made because
+    the passage itself does not support cross-text or cross-tradition comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the two fables present in the supplied passage text were extracted, despite the broader passage label.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l2390-l2411
+  passage_sha256=40d30822cfe6dd8c56e2b97cc770164001381c1feaac83a341752260a88ee98f
+

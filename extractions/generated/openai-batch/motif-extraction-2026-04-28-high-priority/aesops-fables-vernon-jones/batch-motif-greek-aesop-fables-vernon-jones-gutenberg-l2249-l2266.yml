@@ -1,0 +1,314 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l2249-l2266
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE TORTOISE AND THE EAGLE / THE KID ON THE HOUSETOP / THE FOX WITHOUT A
+    TAIL / THE VAIN JACKDAW; lines 2249-2266
+  start: '2249'
+  end: '2266'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Jupiter announces that he will choose the most beautiful bird to be king.
+    The birds wash and preen at a stream. The Jackdaw, considering his own plumage
+    ugly, attaches bright feathers dropped by the others. Jupiter is about to choose
+    him, but the other birds strip away the borrowed feathers and reveal him as a
+    jackdaw.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Jupiter announces an intention to appoint a king over the birds and sets a
+    day for the birds to appear before his throne.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The criterion named for selection is beauty among the birds.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The birds go to the banks of a stream and wash and preen their feathers.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Jackdaw judges that his own plumage gives him no chance of being chosen.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: After the other birds leave, the Jackdaw picks up gaudy feathers they have
+    dropped and fastens them to his own body.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The birds assemble before Jupiter's throne on the appointed day.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Jupiter is about to make the Jackdaw king.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The other birds attack the king-elect, remove the borrowed plumes, and expose
+    him as a Jackdaw.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Jupiter
+  description: The figure who announces and conducts the selection of a king over
+    the birds.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: The Jackdaw
+  description: A bird with described ugly plumage who adorns himself with feathers
+    dropped by other birds and is nearly chosen king before being exposed.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: The other birds
+  description: The birds who prepare for Jupiter's selection, drop feathers, assemble
+    before the throne, and strip the Jackdaw of borrowed plumes.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: divine selector of ruler
+  assigned_to:
+  - fig:1
+  basis: Jupiter announces and nearly completes the appointment of a king over the
+    birds.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: aspirant to kingship
+  assigned_to:
+  - fig:2
+  basis: The Jackdaw attempts to appear beautiful enough to be chosen and is nearly
+    made king.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: disguised impostor
+  assigned_to:
+  - fig:2
+  basis: The Jackdaw fastens others' gaudy feathers to his body and is later exposed
+    when they are removed.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:4
+  label: rival contestants
+  assigned_to:
+  - fig:3
+  basis: The other birds prepare themselves for the same selection before Jupiter.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:5
+  label: exposers of disguise
+  assigned_to:
+  - fig:3
+  basis: The other birds strip the Jackdaw of borrowed plumes and reveal him.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: throne
+  literal_form: Jupiter's throne
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:2
+  label: stream
+  literal_form: banks of a stream
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: borrowed feathers
+  literal_form: gaudy feathers and borrowed plumes
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+scenes:
+- id: scene:1
+  label: Announcement of avian kingship contest
+  summary: Jupiter announces that the birds are to appear before his throne so he
+    can select the most beautiful bird as ruler.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Preparation at the stream
+  summary: The birds wash and preen at a stream to look their best for the selection.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Jackdaw's borrowed adornment
+  summary: The Jackdaw waits until the others leave, gathers their dropped gaudy feathers,
+    and fastens them to his own body.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Near crowning and exposure
+  summary: At the assembly before Jupiter, the Jackdaw is about to be made king, but
+    the other birds remove the borrowed plumes and expose him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: borrowed finery exposed
+  taxonomy_refs: []
+  basis: A figure uses adornments taken from others to appear superior, but the borrowed
+    items are removed publicly and the figure is revealed.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: This is a passage-level fable pattern; no supplied taxonomy reference
+    directly names it.
+- id: motif:2
+  label: divine appointment of a bird king
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: Jupiter announces that he will appoint a king over the birds and evaluates
+    them before his throne.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: medium
+  cautions: The taxonomy reference is approximate because the passage concerns animal
+    fable kingship rather than human dynastic legitimacy.
+- id: motif:3
+  label: deceptive crossing of status by disguise
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The Jackdaw attempts to cross from an unlikely candidate to king-elect by
+    fastening other birds' feathers to himself.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The Jackdaw deceives through disguise, but the passage does not explicitly
+    frame him as a trickster figure.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 2249-2252
+  quote_or_summary: Jupiter announces that he intends to appoint a king over the birds
+    and sets a day for them to appear before his throne, where he will select the
+    most beautiful as ruler.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source metadata; summarized rather than quoted.
+- id: ev:2
+  type: summary
+  locator: 2253-2256
+  quote_or_summary: The birds go to the banks of a stream and occupy themselves with
+    washing and preening their feathers.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source metadata; summarized rather than quoted.
+- id: ev:3
+  type: summary
+  locator: 2256-2261
+  quote_or_summary: The Jackdaw, believing his ugly plumage will prevent his selection,
+    waits until the others leave, picks up gaudy dropped feathers, and fastens them
+    to his body.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source metadata; summarized rather than quoted.
+- id: ev:4
+  type: summary
+  locator: 2261-2264
+  quote_or_summary: On the appointed day, the birds assemble before Jupiter's throne;
+    after reviewing them, Jupiter is about to make the Jackdaw king.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source metadata; summarized rather than quoted.
+- id: ev:5
+  type: summary
+  locator: 2264-2266
+  quote_or_summary: The other birds set upon the king-elect, strip him of the borrowed
+    plumes, and reveal him as a Jackdaw.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source metadata; summarized rather than quoted.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward from the supplied English fable passage.
+    Motif taxonomy mapping is partly approximate because the available taxonomy does
+    not include a specific borrowed-plumes or imposture motif. No comparison claims
+    were added because the passage itself does not support cross-text comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage text was used. Although the locator label names several fables, the extraction covers the provided text of “THE VAIN JACKDAW” only.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l2249-l2266
+  passage_sha256=b1593b49968db2612b82d7f378d266f1d576f2d2a45a355c27e344c8dd27f0f3
+

@@ -1,0 +1,434 @@
+---
+record_id: batch.motif.comparative-golden-bough-volume-2-frazer-gutenberg-l14370-l14430
+source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+passage_locator:
+  label: CONTENTS / NOTE. OFFERINGS OF FIRST-FRUITS. / INDEX. / FOOTNOTES; lines 14370-14430
+  start: '14370'
+  end: '14430'
+  translation: 'The Golden Bough: A Study in Comparative Religion (Vol. 2 of 2)'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage consists of notes citing comparative examples: marriage customs
+    in which newly married women or couples are exposed to the rising sun or its rays,
+    and agricultural protective practices in which a menstruous woman circles a field
+    to protect it from insects. It also lists bibliographic citations for related
+    ethnographic and classical sources.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Among the Chaco Indians, a newly married couple sleeps the first night on
+    a skin with their heads toward the west.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: In the Chaco example, the marriage is described as not ratified until the
+    rising sun shines on the couple's feet the next morning.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: At old Hindoo marriages, the first ceremony is identified as the Garbhādhāna
+    or Impregnation-rite.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: In the Hindoo example, the young married woman was made to look toward the
+    sun or otherwise be exposed to its rays on the previous day.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Among the Turks of Siberia, the morning after marriage formerly included leading
+    the young couple out of the hut to greet the rising sun.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The same rising-sun custom is said to be practiced in Iran and Central Asia,
+    with the belief that the beams of the rising sun impregnate the new bride.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The Greeks and Romans are said to have thought that a field was protected
+    against insects if a menstruous woman walked around it with bare feet and streaming
+    hair.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: A similar remedy for protecting fields against insects is described as used
+    by North American Indians and European peasants.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The passage refers to a beneficent application of menstrual energy.
+  category: attribute
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Chaco newly married couple
+  description: A newly married couple among the Chaco Indians who sleep on a skin
+    with their heads toward the west.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Rising sun
+  description: The sun at dawn whose rays shine on the couple's feet or are greeted
+    by newly married couples.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Hindoo young married woman
+  description: A young married woman made to look toward the sun or be exposed to
+    its rays in connection with the Impregnation-rite.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Turks of Siberia young couple
+  description: A young couple formerly led out of the hut on the morning after marriage
+    to greet the rising sun.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: New bride in Iran and Central Asia custom
+  description: A new bride for whom the beams of the rising sun are believed to be
+    a means of impregnation.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Menstruous woman
+  description: A woman who walks around a field with bare feet and streaming hair
+    in a protective agricultural practice.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: Greeks and Romans
+  description: People said to have held the belief that a menstruous woman's circling
+    of a field protects it against insects.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:8
+  name_or_label: North American Indians and European peasants
+  description: Groups described as employing a similar remedy for the same agricultural
+    purpose.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: newly married participant
+  assigned_to:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  basis: The passage describes these figures as newly married couples, a young married
+    woman, or a new bride in marriage-related rites.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:2
+  label: solar ratifying or impregnating agent
+  assigned_to:
+  - fig:2
+  basis: The rising sun is described as shining on the Chaco couple's feet to ratify
+    marriage and as having beams believed to impregnate the new bride in another custom.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:3
+  label: apotropaic field-circler
+  assigned_to:
+  - fig:6
+  basis: The menstruous woman is described as walking around a field with bare feet
+    and streaming hair to protect it against insects.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: reported practitioners or holders of belief
+  assigned_to:
+  - fig:7
+  - fig:8
+  basis: The passage attributes the agricultural protective belief or similar remedy
+    to Greeks and Romans, North American Indians, and European peasants.
+  evidence_refs:
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: rising sun
+  literal_form: rising sun and its beams or rays
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: skin used as first-night bed
+  literal_form: skin on which the Chaco newly married couple sleeps
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: westward head orientation
+  literal_form: heads toward the west, feet positioned for the rising sun to shine
+    on them
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: bare feet and streaming hair
+  literal_form: bare feet and streaming hair of the menstruous woman walking around
+    a field
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: field protected from insects
+  literal_form: field encircled to protect it against insects
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:6
+  label: menstrual energy
+  literal_form: menstrual energy described as having beneficent application
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Chaco first-night solar ratification
+  summary: A Chaco newly married couple sleeps on a skin with their heads toward the
+    west, and the marriage is considered ratified when the rising sun shines on their
+    feet the next morning.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Hindoo Impregnation-rite sun exposure
+  summary: At old Hindoo marriages, the Garbhādhāna or Impregnation-rite includes
+    having the young married woman look toward the sun or otherwise be exposed to
+    its rays.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Post-marriage greeting of the rising sun
+  summary: Among the Turks of Siberia, a young couple was formerly led out of the
+    hut on the morning after marriage to greet the rising sun.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Rising sun beams and bridal impregnation
+  summary: In Iran and Central Asia, the same custom is said to be practiced with
+    the belief that the beams of the rising sun impregnate the new bride.
+  figure_refs:
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Menstruous woman protecting a field
+  summary: A menstruous woman walks around a field with bare feet and streaming hair,
+    a practice described as protecting the field against insects.
+  figure_refs:
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: rising sun ratifies or empowers marriage
+  taxonomy_refs: []
+  basis: Several notes describe newly married couples or brides being exposed to the
+    rising sun or its rays after or around marriage, with functions of ratification
+    or impregnation stated in the passage.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage presents these examples in footnotes and does not give full
+    ritual contexts; the label groups distinct practices cautiously.
+- id: motif:2
+  label: menstruous woman as agricultural protector
+  taxonomy_refs: []
+  basis: The passage describes a menstruous woman circling a field with bare feet
+    and streaming hair to protect it from insects and mentions similar remedies elsewhere.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The passage supplies only brief comparative notes and citations, not complete
+    narratives or ritual descriptions.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself compares several marriage-related customs in which newly
+    married women or couples are exposed to the rising sun or its rays, suggesting
+    a shared ritual function involving marital ratification or impregnation.
+  claim_level: same_function
+  target: Chaco, old Hindoo, Turks of Siberia, Iran, and Central Asia rising-sun marriage
+    customs
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage does not establish historical contact, common inheritance,
+    or identical ritual meaning across all examples.
+- id: claim:2
+  claim: The passage explicitly states that a similar remedy for protecting fields
+    against insects occurs among North American Indians and European peasants, after
+    describing a Greek and Roman version involving a menstruous woman.
+  claim_level: same_function
+  target: Greek and Roman, North American Indian, and European peasant field-protection
+    remedies
+  evidence_refs:
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage does not provide detailed descriptions of the North American
+    Indian or European peasant variants, and it does not argue for historical connection.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 14372-14377 / note 639
+  quote_or_summary: Among the Chaco Indians a newly married couple sleeps the first
+    night on a skin with heads west; the marriage is not ratified until the rising
+    sun shines on their feet the next morning.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; concise summary of provided passage.
+- id: ev:2
+  type: summary
+  locator: lines 14377-14382 / note 639
+  quote_or_summary: At old Hindoo marriages, the first ceremony is called the Garbhādhāna
+    or Impregnation-rite, and the young married woman is made to look toward the sun
+    or be exposed to its rays.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; concise summary of provided passage.
+- id: ev:3
+  type: summary
+  locator: lines 14382-14385 / note 639
+  quote_or_summary: Among the Turks of Siberia, the morning after marriage formerly
+    included leading the young couple out of the hut to greet the rising sun.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; concise summary of provided passage.
+- id: ev:4
+  type: summary
+  locator: lines 14385-14388 / note 639
+  quote_or_summary: The same custom is said to be practiced in Iran and Central Asia,
+    with the belief that the beams of the rising sun are the surest means of impregnating
+    the new bride.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; concise summary of provided passage.
+- id: ev:5
+  type: summary
+  locator: lines 14413-14419 / note 648
+  quote_or_summary: Greeks and Romans thought that a field was completely protected
+    against insects if a menstruous woman walked around it with bare feet and streaming
+    hair.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; concise summary of provided passage.
+- id: ev:6
+  type: summary
+  locator: lines 14419-14422 / note 648
+  quote_or_summary: A similar remedy for the same purpose is said to be employed by
+    North American Indians and European peasants.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; concise summary of provided passage.
+- id: ev:7
+  type: quote
+  locator: lines 14428-14430 / note 649
+  quote_or_summary: The note refers to “the beneficent application of the menstrual
+    energy.”
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; brief quotation from provided passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is mostly footnotes and citations, so extraction is limited to
+    brief reported customs and the comparisons explicitly stated by the author.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No taxonomy references were assigned because the available motif families and symbols do not directly match the literal patterns without over-interpretation.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:comparative-golden-bough-volume-2-frazer-gutenberg__l14370-l14430
+  passage_sha256=95ca32cf46c357968f7dab89bd69d2c3fbe84770a9740bd8bd70d3f41d2130f2
+

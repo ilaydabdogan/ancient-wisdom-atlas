@@ -1,0 +1,355 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l2688-l2714
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE OLD WOMAN AND THE WINE-JAR / THE LIONESS AND THE VIXEN / THE VIPER AND
+    THE FILE / THE CAT AND THE COCK; lines 2688-2714
+  start: '2688'
+  end: '2714'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: In one fable, a Viper enters a carpenter's shop seeking food from tools
+    and asks a File for a meal; the File replies that it only takes and never gives.
+    In another, a Cat catches a Cock, searches for an excuse to eat him, rejects the
+    Cock's defense of his crowing, and kills and eats him.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A Viper enters a carpenter's shop and asks tools for something to eat.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Viper asks the File for the favour of a meal.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The File says it invariably takes from everyone and never gives anything in
+    return.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The stated moral of the Viper and File fable is that covetous people are poor
+    givers.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: A Cat pounces on a Cock and seeks an excuse for making a meal of him.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The Cat accuses the Cock of making a nuisance at night by crowing and keeping
+    people awake.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The Cock replies that his crowing wakes men so they can begin the day's work
+    in good time.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The Cat says she will not go without dinner, then kills and eats the Cock.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: The stated moral of the Cat and Cock fable is that lack of a good excuse does
+    not stop a villain from crime.
+  category: speech
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Viper
+  description: A viper who enters a carpenter's shop and begs tools for food.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: File
+  description: A carpenter's tool addressed by the Viper; it says it takes from everyone
+    and gives nothing in return.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Cat
+  description: A cat who catches a Cock, searches for an excuse to eat him, and then
+    kills and eats him.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:8
+- id: fig:4
+  name_or_label: Cock
+  description: A cock caught by the Cat; he defends his crowing as useful for waking
+    men to work.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: fig:5
+  name_or_label: Men or people awakened by crowing
+  description: People whom the Cock says are awakened by his crowing so they can begin
+    the day's work.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+roles:
+- id: role:1
+  label: hungry petitioner
+  assigned_to:
+  - fig:1
+  basis: The Viper begs for food and asks the File for a meal.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: non-giving respondent
+  assigned_to:
+  - fig:2
+  basis: The File answers that it only takes and never gives.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: predator seeking pretext
+  assigned_to:
+  - fig:3
+  basis: The Cat catches the Cock and seeks an excuse to eat him.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:8
+- id: role:4
+  label: accused prey defending usefulness
+  assigned_to:
+  - fig:4
+  basis: The Cock responds that his crowing is useful to men beginning work.
+  evidence_refs:
+  - ev:7
+- id: role:5
+  label: beneficiaries of crowing
+  assigned_to:
+  - fig:5
+  basis: The Cock says men wake up and set about the day's work because of his crowing.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: serpent
+  literal_form: Viper
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: file that takes and does not give
+  literal_form: File
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: cock-crowing as wake-up call
+  literal_form: Cock crowing at night or in time for the day's work
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+scenes:
+- id: scene:1
+  label: Viper asks tools for food
+  summary: The Viper enters a carpenter's shop, goes among the tools, and asks for
+    something to eat.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: File refuses the Viper
+  summary: The Viper asks the File for a meal, and the File replies that it only takes
+    and never gives.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Cat accuses the Cock
+  summary: The Cat catches the Cock, seeks an excuse for eating him, and accuses him
+    of disturbing people with crowing.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Cock's defense and death
+  summary: The Cock defends his crowing as useful, but the Cat rejects the defense,
+    kills him, and eats him.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: request made to one who only takes
+  taxonomy_refs:
+  - wisdom
+  basis: The Viper seeks food from the File, which answers that it takes from everyone
+    and gives nothing; the moral states that the covetous are poor givers.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The taxonomy reference to wisdom is broad; the passage supplies a moral
+    lesson but not a specialized comparative motif label.
+- id: motif:2
+  label: predator invents or lacks pretext for killing prey
+  taxonomy_refs:
+  - wisdom
+  basis: The Cat looks for an excuse to eat the Cock, rejects the Cock's defense,
+    and eats him; the moral says lack of a good excuse does not keep a villain from
+    crime.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: The motif is described directly from the fable rather than matched to
+    a numbered external motif index.
+- id: motif:3
+  label: useful crowing of the cock
+  taxonomy_refs: []
+  basis: The Cock defends himself by saying his crowing wakes men so they can begin
+    work on time.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: This is a subsidiary motif within the Cat and Cock fable, not the final
+    moral emphasis.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2688-2691
+  quote_or_summary: A Viper enters a carpenter's shop and goes among the tools begging
+    for food.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; brief summary.
+- id: ev:2
+  type: summary
+  locator: lines 2691-2693
+  quote_or_summary: The Viper addresses the File and asks for the favour of a meal.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; brief summary.
+- id: ev:3
+  type: quote
+  locator: lines 2693-2696
+  quote_or_summary: '"I invariably take from every one and never give anything in
+    return."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: quote
+  locator: line 2698
+  quote_or_summary: '"The covetous are poor givers."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation.
+- id: ev:5
+  type: summary
+  locator: lines 2702-2705
+  quote_or_summary: A Cat pounces on a Cock and looks for an excuse to make a meal
+    of him.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; brief summary.
+- id: ev:6
+  type: summary
+  locator: lines 2705-2708
+  quote_or_summary: The Cat says the Cock is a nighttime nuisance because he crows
+    and keeps people awake.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; brief summary.
+- id: ev:7
+  type: summary
+  locator: lines 2708-2711
+  quote_or_summary: The Cock says he crows so men can wake and begin the day's work
+    in good time.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; brief summary.
+- id: ev:8
+  type: summary
+  locator: lines 2711-2712
+  quote_or_summary: The Cat says she will not go without dinner, then kills and eats
+    the Cock.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; brief summary.
+- id: ev:9
+  type: quote
+  locator: line 2714
+  quote_or_summary: '"The want of a good excuse never kept a villain from crime."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labels are passage-derived and
+    broad; no external comparative claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage text was used. Although the locator label names additional fables, the provided excerpt contains only THE VIPER AND THE FILE and THE CAT AND THE COCK.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l2688-l2714
+  passage_sha256=209057eb2bf1e67b008a4f9213405a7904d81b38b3aa3c180df53859cbbbcc7f
+

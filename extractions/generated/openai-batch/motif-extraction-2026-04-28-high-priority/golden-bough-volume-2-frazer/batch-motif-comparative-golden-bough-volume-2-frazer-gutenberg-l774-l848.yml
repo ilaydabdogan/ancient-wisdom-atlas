@@ -1,0 +1,541 @@
+---
+record_id: batch.motif.comparative-golden-bough-volume-2-frazer-gutenberg-l774-l848
+source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+passage_locator:
+  label: 'The Golden Bough: A Study in Comparative Religion (Vol. 2 of 2) / CONTENTS;
+    lines 774-848'
+  start: '774'
+  end: '848'
+  translation: 'The Golden Bough: A Study in Comparative Religion (Vol. 2 of 2)'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage surveys Northern European folk customs in which a corn-spirit
+    is represented by a pig or boar at sowing, harvest, Yule, and spring ploughing.
+    Pig parts, boar-shaped loaves, and Yule straw are placed in fields, mixed with
+    seed, eaten by workers or animals, or used as fertility charms. Frazer interprets
+    these customs as animal embodiments of the corn-spirit and as sacramental eating
+    of a divine animal or its bread substitute.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: At Neuautz, when barley is first sown, the farmer’s wife boils a pig chine
+    and tail and brings it to the sower in the field; the sower eats some and sticks
+    the tail in the field.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The stated belief at Neuautz is that the corn ears will grow as long as the
+    pig tail placed in the field.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: In the Salza district and in Hessen and Meiningen customs, pig bones or ribs
+    are kept and later placed with ashes, seed-corn, flax seed, a sown field, or a
+    seed-bag.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The German pig-bone and rib customs are said to protect against earth-fleas,
+    moles, or hail and to promote tall growth of flax or preservation of corn.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: In Sweden and Denmark at Yule, a loaf in the form of a boar-pig is baked and
+    called the Yule Boar.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The Yule Boar loaf is often made from corn of the last sheaf and may be kept
+    until spring sowing, when part is mixed with seed-corn and part fed to ploughmen
+    and plough animals.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Yule straw is strewn on floors, scattered on ground, thrown toward rafters
+    to forecast rye sheaves, and used to bind fruit trees as a fertility charm.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The passage reports an older sacrifice of a real boar at Christmas and a Swedish
+    Christmas custom in which a man dressed with skin and straw is the target of a
+    pretended sacrifice.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The closing interpretation states that the corn-spirit is conceived as embodied
+    in animals that are slain and eaten by harvesters or ploughmen, with bread or
+    dumplings sometimes substituted for real flesh.
+  category: other
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Corn-spirit
+  description: A spirit of the corn that Frazer says is embodied in pig or other animal
+    forms and in the last sheaf.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+- id: fig:2
+  name_or_label: Pig or boar form
+  description: The animal form in which the corn-spirit is said to appear at sowing,
+    harvest, Yule, and spring ploughing.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+- id: fig:3
+  name_or_label: Farmer’s wife at Neuautz
+  description: She boils the pig chine and tail and brings it to the sower in the
+    field.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Sower at Neuautz
+  description: He eats part of the boiled pig and sticks the tail in the field.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: Ploughmen and plough animals
+  description: They receive and eat part of the Yule Boar loaf in spring.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Man representing the Yule Boar
+  description: In the Swedish custom, a man wrapped in a skin carries straw in his
+    mouth like boar bristles and is pretended to be sacrificed.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: Old woman with blackened face
+  description: She pretends to sacrifice the man who is dressed as the Yule Boar.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: Vegetation or crop spirit
+  assigned_to:
+  - fig:1
+  basis: The passage explicitly identifies a corn-spirit connected with sowing, harvest,
+    and the last sheaf.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+- id: role:2
+  label: Animal embodiment
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The corn-spirit is described as taking pig or boar form and as embodied in
+    animals.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+- id: role:3
+  label: Fertility-bearing animal form
+  assigned_to:
+  - fig:2
+  basis: Pig tail, bones, ribs, and the Yule Boar are used to promote crop growth
+    or protect fields.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:4
+  label: Ritual preparer
+  assigned_to:
+  - fig:3
+  basis: The farmer’s wife prepares and delivers the pig parts for the sowing-time
+    act.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: Ritual recipient or eater
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: The sower, ploughmen, and plough animals consume pig flesh or Yule Boar bread
+    connected with the crop rite.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+- id: role:6
+  label: Human substitute for Yule Boar
+  assigned_to:
+  - fig:6
+  basis: The man is dressed to resemble a boar and becomes the object of a pretended
+    sacrifice.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: Pretended sacrificer
+  assigned_to:
+  - fig:7
+  basis: The old woman brings a knife and pretends to sacrifice the man.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: Pig or boar
+  literal_form: Pig, boar, pig tail, pig bones, pig ribs, and boar-shaped loaf.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:6
+- id: sym:2
+  label: Pig tail placed in the field
+  literal_form: Tail cut from boiled pig and stuck in a barley field.
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Last sheaf
+  literal_form: Corn of the last sheaf used to make the Yule Boar loaf.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: Yule Boar loaf
+  literal_form: Loaf baked in the form of a boar-pig at Yule.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: sym:5
+  label: Yule straw
+  literal_form: Long rye-straw set apart for Christmas and used in fertility or harvest-forecasting
+    acts.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: Knife in pretended sacrifice
+  literal_form: Knife brought during the Swedish Christmas custom of mock sacrifice.
+  associated_figures:
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:7
+  label: Seed-corn and sown field
+  literal_form: Seed-corn, flax seed, sown field, and fields receiving pig parts,
+    Yule Boar pieces, or straw.
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Neuautz sowing-time pig-tail rite
+  summary: At the first barley sowing, a boiled pig chine and tail are brought to
+    the sower, who eats part and places the tail in the field so that the corn may
+    grow long.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:7
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: German and White Russian use of pig bones for fields
+  summary: Pig bones and ribs are kept, exchanged, mixed with seed, placed in fields
+    or seed-bags, or thrown backward on fields to protect and improve crops.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:7
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Scandinavian Yule Boar loaf and spring sowing
+  summary: A boar-shaped loaf is baked at Yule, often from the last sheaf, displayed
+    through Yule, then partly mixed with seed-corn and partly fed to ploughmen and
+    plough animals in spring.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  - sym:7
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Yule straw fertility uses
+  summary: Yule straw is used on floors, fields, rafters, and fruit trees, with associated
+    expectations of field productivity, harvest quantity, and fertility.
+  figure_refs: []
+  symbol_refs:
+  - sym:5
+  - sym:7
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Yule Boar sacrifice and mock sacrifice
+  summary: The passage reports a former Christmas sacrifice of a real boar and a Swedish
+    custom in which a straw-bristled man is pretended to be sacrificed by an old woman
+    with a knife.
+  figure_refs:
+  - fig:2
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:5
+- id: scene:6
+  label: Sacramental summary of animal corn-spirit rites
+  summary: Frazer summarizes the customs as rites in which an animal embodiment of
+    the corn-spirit is slain and eaten, or imitative bread and dumplings are eaten
+    in place of flesh.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Animal embodiment of the crop spirit
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage repeatedly identifies the corn-spirit with pig or boar forms
+    appearing at sowing, harvest, Yule, and spring ploughing.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+  confidence: high
+  cautions: The specific animal is pig or boar here; the wider animal list appears
+    only in the concluding comparative summary.
+- id: motif:2
+  label: Fertility transfer through animal parts placed with seed or in fields
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: Pig tail, bones, ribs, and Yule Boar pieces are placed in fields or mixed
+    with seed to promote growth or protection of crops.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage reports attributed beliefs and Frazer’s interpretation rather
+    than direct ritual performance observed by the extractor.
+- id: motif:3
+  label: Last sheaf transformed into ritual animal food
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The Yule Boar loaf is often made from corn of the last sheaf, kept until
+    spring, and then used with seed-corn and fed to ploughmen and plough animals.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage says the last sheaf is often, not always, used.
+- id: motif:4
+  label: Sacramental eating of divine animal or its bread substitute
+  taxonomy_refs:
+  - sacrifice
+  basis: The closing paragraph explicitly states that the embodied corn-spirit is
+    slain and eaten, while bread or dumplings in its image may substitute for real
+    flesh.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: This is Frazer’s interpretive synthesis of multiple customs, not a single
+    local informant statement.
+- id: motif:5
+  label: Christmas or midwinter boar sacrifice and mock human substitute
+  taxonomy_refs:
+  - sacrifice
+  - seasonal_cycle
+  basis: The passage reports a former real boar sacrifice at Christmas and a Swedish
+    custom in which a man dressed like a boar is pretended to be sacrificed.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage itself phrases the human-sacrifice inference cautiously with
+    'apparently' and 'may perhaps be inferred.'
+- id: motif:6
+  label: Cyclical return of the crop spirit from sowing to harvest
+  taxonomy_refs:
+  - death_rebirth
+  - seasonal_cycle
+  basis: Frazer states that as a pig the corn-spirit is put into the ground at sowing-time
+    and as a pig reappears among ripe corn at harvest.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The wording supports cyclical reappearance, but the passage does not narrate
+    a full death-and-rebirth myth.
+comparison_claims:
+- id: claim:1
+  claim: The Neuautz pig-tail rite, German pig-bone and rib customs, White Russian
+    bone throwing, and Scandinavian Yule Boar are presented as related crop-fertility
+    customs using pig or boar forms or remains.
+  claim_level: same_function
+  target: Northern European pig or boar crop-fertility rites
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage compares functions and symbolic forms, but it does not
+    demonstrate a single historical origin for all examples.
+- id: claim:2
+  claim: Frazer compares the Yule Boar with the Corn-wolf as midwinter appearances
+    of a crop spirit when the year turns toward spring.
+  claim_level: same_function
+  target: Corn-wolf midwinter crop-spirit pattern
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The Corn-wolf is only mentioned briefly in this passage; details are
+    referred to from earlier context not included here.
+- id: claim:3
+  claim: The passage groups eating of animal corn-spirit embodiments and eating of
+    animal-shaped bread or dumplings as sacramental substitutions within harvest and
+    sowing customs.
+  claim_level: same_function
+  target: Sacramental consumption of divine animal or imitative food substitute
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is an interpretive comparative synthesis by Frazer and should
+    be reviewed against the specific source notes behind each custom.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 774-786
+  quote_or_summary: At Neuautz, pig chine and tail are boiled for first barley sowing;
+    the sower eats part and plants the tail in the field so ears may grow long. Frazer
+    identifies the pig as the corn-spirit.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 787-803
+  quote_or_summary: German and White Russian customs use pig bones, ribs, or bones
+    thrown on fields, mixed with ashes, seed-corn, or flax seed, to protect crops
+    or promote growth.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 804-820
+  quote_or_summary: In Sweden and Denmark a boar-shaped Yule loaf is often made from
+    the last sheaf, displayed through Yule, then mixed with seed-corn and fed to ploughmen
+    and animals for a good harvest.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: lines 821-837
+  quote_or_summary: 'Yule straw is credited with fertility virtues: it may make barren
+    fields productive, forecast rye sheaves when thrown to rafters, and bind fruit
+    trees as a charm.'
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:5
+  type: summary
+  locator: lines 838-843
+  quote_or_summary: Frazer reports a former Christmas boar sacrifice and a Swedish
+    custom where a skin-wrapped man with straw like boar bristles is pretended to
+    be sacrificed by an old woman with a knife.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:6
+  type: summary
+  locator: lines 844-848
+  quote_or_summary: Frazer concludes that animal embodiments of the corn-spirit are
+    slain and eaten sacramentally, and that bread or dumplings made in the animal’s
+    image may substitute for flesh.
+  source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal details are clear in the passage. Motif labels and comparison claims
+    partly follow Frazer’s own comparative interpretation and should be checked by
+    a human reviewer.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used. Available symbol taxonomy contained no exact pig, boar, straw, grain, or loaf entry, so symbol taxonomy references were left empty.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:comparative-golden-bough-volume-2-frazer-gutenberg__l774-l848
+  passage_sha256=2c7e706089d5eef4c59452461afe7fa4d1d202ab4f8fb750fa4cf93b5134aa91
+

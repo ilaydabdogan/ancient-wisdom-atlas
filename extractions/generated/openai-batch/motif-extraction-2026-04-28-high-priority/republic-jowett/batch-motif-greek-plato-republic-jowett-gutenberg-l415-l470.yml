@@ -1,0 +1,422 @@
+---
+record_id: batch.motif.greek-plato-republic-jowett-gutenberg-l415-l470
+source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+passage_locator:
+  label: The Republic / THE REPUBLIC / INTRODUCTION AND ANALYSIS.; lines 415-470
+  start: '415'
+  end: '470'
+  translation: The Republic
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: The main discussion is carried on by Socrates, Glaucon, and Adeimantus.
+  summary: The passage lists the principal and secondary figures of the Republic,
+    describes Cephalus as an aged patriarch associated with sacrifice, moderation,
+    justice, and nearness to death, and then characterizes Polemarchus as youthful,
+    impetuous, and limited in dialectical ability.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The principal characters are named as Cephalus, Polemarchus, Thrasymachus,
+    Socrates, Glaucon, and Adeimantus.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Cephalus appears only in the introduction; Polemarchus drops out after the
+    first argument; Thrasymachus is silenced at the close of the first book.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Socrates, Glaucon, and Adeimantus carry on the main discussion.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Lysias, Euthydemus, and Charmantides are described as mute auditors, while
+    Cleitophon interrupts once as an ally of Thrasymachus.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Cephalus is described as the patriarch of the house and as engaged in offering
+    a sacrifice.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Cephalus is portrayed as an old man nearly done with life, at peace with himself
+    and mankind, and drawing nearer to the world below.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Socrates is described as showing respectful attention to Cephalus and as asking
+    questions of young and old alike.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Polemarchus is described as Cephalus’s son and heir, frank and impetuous in
+    youth, and initially willing to detain Socrates by force.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Polemarchus is said to quote Simonides, to become bewildered by Socrates,
+    and to admit propositions about justice and the virtues under dialectical questioning.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The passage notes that Polemarchus later fell victim to the Thirty Tyrants,
+    but says no allusion to that fate is made here.
+  category: other
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Cephalus
+  description: A principal character, patriarch of the house, aged, associated with
+    sacrifice, peace of mind, old age, and the opening question of justice.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Polemarchus
+  description: Cephalus’s son and heir; described as youthful, frank, impetuous, limited
+    in argument, and later historically a victim of the Thirty Tyrants.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:3
+  name_or_label: Thrasymachus
+  description: A principal character reduced to silence at the close of the first
+    book and associated with Cleitophon as friend and ally.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: Socrates
+  description: A principal character who carries the main discussion, questions young
+    and old, and shows respectful attention to Cephalus.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:5
+  name_or_label: Glaucon
+  description: A principal character who carries on the main discussion with Socrates
+    and Adeimantus.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:1
+- id: fig:6
+  name_or_label: Adeimantus
+  description: A principal character who carries on the main discussion with Socrates
+    and Glaucon.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:1
+- id: fig:7
+  name_or_label: Lysias
+  description: An orator, son of Cephalus and brother of Polemarchus, present among
+    the company as a mute auditor.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:2
+- id: fig:8
+  name_or_label: Euthydemus
+  description: A son of Cephalus and brother of Polemarchus, present as a mute auditor.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:2
+- id: fig:9
+  name_or_label: Charmantides
+  description: An otherwise unidentified person present as a mute auditor.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:2
+- id: fig:10
+  name_or_label: Cleitophon
+  description: A figure who interrupts once and is described as friend and ally of
+    Thrasymachus.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: patriarch
+  assigned_to:
+  - fig:1
+  basis: Cephalus is explicitly called the patriarch of the house.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: aged figure near death
+  assigned_to:
+  - fig:1
+  basis: Cephalus is portrayed as almost done with life and drawing nearer to the
+    world below.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: sacrificing householder
+  assigned_to:
+  - fig:1
+  basis: Cephalus is described as engaged in offering a sacrifice.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: son and heir
+  assigned_to:
+  - fig:2
+  basis: Polemarchus is explicitly called Cephalus’s son and heir.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: youthful interlocutor bewildered by dialectic
+  assigned_to:
+  - fig:2
+  basis: The passage describes Polemarchus as youthful and later bewildered by Socrates’
+    dialectic.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:6
+  label: silenced interlocutor
+  assigned_to:
+  - fig:3
+  basis: Thrasymachus is said to be reduced to silence at the close of the first book.
+  evidence_refs:
+  - ev:1
+- id: role:7
+  label: questioning interlocutor
+  assigned_to:
+  - fig:4
+  basis: Socrates is described as asking questions of all men, young and old alike.
+  evidence_refs:
+  - ev:4
+- id: role:8
+  label: main discussant
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: Glaucon and Adeimantus are named with Socrates as carrying on the main discussion.
+  evidence_refs:
+  - ev:1
+- id: role:9
+  label: mute auditor
+  assigned_to:
+  - fig:7
+  - fig:8
+  - fig:9
+  basis: The passage identifies Lysias, Euthydemus, and Charmantides as mute auditors.
+  evidence_refs:
+  - ev:2
+- id: role:10
+  label: interrupting ally
+  assigned_to:
+  - fig:10
+  basis: Cleitophon is said to interrupt once and to appear as friend and ally of
+    Thrasymachus.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: sacrifice
+  literal_form: offering a sacrifice
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: world below
+  literal_form: the world below
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: evening of life
+  literal_form: evening of life
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Roster of interlocutors and auditors
+  summary: The passage names the principal characters, indicates who carries the main
+    discussion, and identifies several auditors and one interrupting ally.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:9
+  - fig:10
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Cephalus as aged sacrificial patriarch
+  summary: Cephalus is presented as an aged patriarch who has been offering sacrifice,
+    is at peace, approaches the world below, and is suited to raise the question of
+    justice.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Polemarchus under Socratic questioning
+  summary: Polemarchus is characterized as youthful and impetuous, then as limited
+    in argument and bewildered by Socrates’ dialectic.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: sacrifice by an elder householder
+  taxonomy_refs:
+  - sacrifice
+  basis: Cephalus, the patriarch of the house, is described as engaged in offering
+    a sacrifice.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage presents sacrifice as a characterizing detail in literary
+    analysis, not as a full ritual narrative.
+- id: motif:2
+  label: old age approaching the underworld
+  taxonomy_refs: []
+  basis: Cephalus is portrayed as old, nearly done with life, and drawing nearer to
+    the world below.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage contains an image of approaching death but no developed afterlife
+    journey or map.
+- id: motif:3
+  label: wisdom and justice questioned across generations
+  taxonomy_refs:
+  - wisdom
+  basis: Socrates’ questioning of young and old is linked to Cephalus’s life as an
+    apparent expression of justice and to the opening inquiry into justice.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: This is a philosophical-dialogue pattern rather than a mythic episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 415-422
+  quote_or_summary: The principal characters are Cephalus, Polemarchus, Thrasymachus,
+    Socrates, Glaucon, and Adeimantus; Socrates, Glaucon, and Adeimantus carry on
+    the main discussion.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source text; short excerpt or summary used.
+- id: ev:2
+  type: summary
+  locator: lines 422-428
+  quote_or_summary: Lysias, Euthydemus, and Charmantides are listed as mute auditors;
+    Cleitophon interrupts once and is associated as friend and ally of Thrasymachus.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source text; neutral summary used.
+- id: ev:3
+  type: quote
+  locator: lines 429-438
+  quote_or_summary: Cephalus is called the patriarch of the house, engaged in offering
+    sacrifice, almost done with life, at peace, and drawing nearer to the world below.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source text; short excerpt or summary used.
+- id: ev:4
+  type: summary
+  locator: lines 438-452
+  quote_or_summary: Socrates respectfully attends to Cephalus and asks questions of
+    young and old; Cephalus is treated as suited to raise the question of justice,
+    and old age is described as the evening of life.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source text; neutral summary used.
+- id: ev:5
+  type: summary
+  locator: lines 453-460
+  quote_or_summary: Polemarchus is described as Cephalus’s son and heir, frank and
+    impetuous, willing to detain Socrates by force, and limited in point of view.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source text; neutral summary used.
+- id: ev:6
+  type: summary
+  locator: lines 460-467
+  quote_or_summary: Polemarchus quotes Simonides, is drawn into answers by Socrates’
+    dialectic, is unable to argue, and becomes bewildered enough not to know what
+    he is saying.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source text; neutral summary used.
+- id: ev:7
+  type: summary
+  locator: lines 467-470
+  quote_or_summary: The passage notes from Lysias that Polemarchus fell victim to
+    the Thirty Tyrants, while saying the Republic makes no allusion here to that fate
+    or to the family’s Syracusan origin and migration.
+  source_text_path: texts/public-domain/greek/project-gutenberg/republic-jowett.md
+  rights_note: Public domain source text; neutral summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is primarily literary-philosophical character analysis. Motif
+    extraction is limited to explicit sacrificial, death/underworld, and wisdom/justice
+    patterns; no cross-tradition comparison is asserted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No taxonomy symbol refs were applied because the available symbol list does not include sacrifice, underworld, or evening-of-life imagery.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-plato-republic-jowett-gutenberg__l415-l470
+  passage_sha256=466aa1411ca8925ddad388f9ca4775d119bef22ec19c0a9fc7e79dab93e7f8fe
+

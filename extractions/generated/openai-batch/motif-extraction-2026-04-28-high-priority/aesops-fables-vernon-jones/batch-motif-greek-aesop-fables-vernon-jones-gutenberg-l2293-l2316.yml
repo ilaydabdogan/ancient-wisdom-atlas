@@ -1,0 +1,315 @@
+---
+record_id: batch.motif.greek-aesop-fables-vernon-jones-gutenberg-l2293-l2316
+source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+passage_locator:
+  label: THE TRAVELLER AND HIS DOG / THE SHIPWRECKED MAN AND THE SEA / THE WILD BOAR
+    AND THE FOX / MERCURY AND THE SCULPTOR; lines 2293-2316
+  start: '2293'
+  end: '2316'
+  translation: Aesop's Fables; a new translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: In one fable, a wild boar sharpens his tusks on a tree before danger is
+    present and explains to a fox that there will be no time to sharpen them once
+    his life is threatened. In another, Mercury disguises himself as a man to learn
+    how humans value him, enters a sculptor's studio, asks the prices of statues of
+    Jupiter, Juno, and himself, and learns that his statue would be included for nothing
+    if the other two are bought.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A wild boar whets his tusks on the trunk of a tree in a forest.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A fox asks the boar why he is sharpening his tusks when huntsmen are not out
+    and no immediate danger is visible.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The boar replies that when his life is in danger he will need his tusks and
+    will not have time to sharpen them then.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Mercury wants to know how mankind estimates him.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Mercury disguises himself as a man and enters a sculptor's studio containing
+    finished statues for sale.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Mercury asks the prices of statues of Jupiter and Juno, and the sculptor gives
+    prices for each.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Mercury points to a statue of himself and asks its price; the sculptor says
+    he will include it for nothing if the other two statues are bought.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Wild Boar
+  description: A wild boar in the forest sharpening his tusks and explaining his reason
+    for doing so.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Fox
+  description: A fox who comes by and questions the boar's sharpening of his tusks.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Mercury
+  description: Mercury, anxious to know his estimation among mankind, disguises himself
+    as a man and asks about statues in a sculptor's studio.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: Sculptor
+  description: A sculptor who sells finished statues and gives prices for statues
+    of Jupiter, Juno, and Mercury.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: prepared defender
+  assigned_to:
+  - fig:1
+  basis: The boar sharpens his tusks before danger because they will be needed when
+    his life is threatened.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: questioner of preparation
+  assigned_to:
+  - fig:2
+  basis: The fox questions why the boar prepares when no huntsmen or other dangers
+    are visible.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: disguised seeker of reputation
+  assigned_to:
+  - fig:3
+  basis: Mercury disguises himself as a man to discover how mankind values him.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: appraiser and seller
+  assigned_to:
+  - fig:4
+  basis: The sculptor names prices for divine statues and offers Mercury's statue
+    as a free addition.
+  evidence_refs:
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: tusks
+  literal_form: The boar's tusks, sharpened before danger appears.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: tree trunk
+  literal_form: A tree trunk in the forest used by the boar to whet his tusks.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: disguise as a man
+  literal_form: Mercury's disguise when entering the sculptor's studio.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: divine statues for sale
+  literal_form: Finished statues of Jupiter, Juno, and Mercury in a sculptor's studio.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:5
+  label: market prices of divine images
+  literal_form: A crown for Jupiter, half a crown for Juno, and Mercury's statue offered
+    for nothing with purchase of the other two.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+scenes:
+- id: scene:1
+  label: The boar prepares before danger
+  summary: In the forest, a boar sharpens his tusks on a tree. A fox questions the
+    need for this because no danger is visible, and the boar explains that preparation
+    must occur before his life is threatened.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Mercury learns the low price of his statue
+  summary: Mercury disguises himself as a man, visits a sculptor's studio, asks the
+    prices of statues of Jupiter, Juno, and himself, and is told that his own statue
+    would be thrown in for nothing if the other two are bought.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: preparation before crisis
+  taxonomy_refs:
+  - wisdom
+  basis: The boar sharpens his tusks before any danger is present and states that
+    preparation cannot wait until his life is in danger.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage gives the action and explanation but does not include a separate
+    explicit moral in the supplied text.
+- id: motif:2
+  label: disguised deity seeks human valuation
+  taxonomy_refs:
+  - shapeshifter
+  basis: Mercury disguises himself as a man in order to learn the estimation in which
+    mankind holds him.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage describes disguise, not an explicit bodily transformation;
+    the shapeshifter taxonomy reference is approximate and should be reviewed.
+- id: motif:3
+  label: self-importance undercut by market appraisal
+  taxonomy_refs:
+  - wisdom
+  basis: Mercury asks the value of his own statue after hearing prices for Jupiter
+    and Juno, and the sculptor offers Mercury's statue for nothing with the other
+    two.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The interpretive label is inferred from the pricing exchange; the supplied
+    passage does not state an explicit lesson.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2293-2296
+  quote_or_summary: A wild boar whets his tusks on the trunk of a tree in the forest.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary generated from provided passage.
+- id: ev:2
+  type: summary
+  locator: lines 2296-2299
+  quote_or_summary: A fox asks why the boar is doing this when huntsmen are not out
+    and no other danger is visible.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary generated from provided passage.
+- id: ev:3
+  type: summary
+  locator: lines 2299-2302
+  quote_or_summary: The boar replies that when his life is in danger he will need
+    the tusks and will have no time to sharpen them then.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary generated from provided passage.
+- id: ev:4
+  type: summary
+  locator: lines 2305-2309
+  quote_or_summary: Mercury wants to know how mankind values him, disguises himself
+    as a man, and enters a sculptor's studio containing finished statues for sale.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary generated from provided passage.
+- id: ev:5
+  type: summary
+  locator: lines 2309-2313
+  quote_or_summary: Mercury asks the price of a statue of Jupiter and then one of
+    Juno; the sculptor prices them at a crown and half a crown.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary generated from provided passage.
+- id: ev:6
+  type: summary
+  locator: lines 2313-2316
+  quote_or_summary: Mercury asks about a statue of himself; the sculptor says he will
+    throw it in for nothing if the other two are bought.
+  source_text_path: texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md
+  rights_note: Public domain source; summary generated from provided passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward from the supplied English passage.
+    Motif labels are candidate interpretations and require review, especially the
+    taxonomy mapping for Mercury's disguise.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage text was used. Although the locator label names four fables, the provided passage text contains two fables: THE WILD BOAR AND THE FOX and MERCURY AND THE SCULPTOR.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-aesop-fables-vernon-jones-gutenberg__l2293-l2316
+  passage_sha256=171a3ff360e3af868b318ed14a250ce87042c546dee814742d4a7e6c250cdd82
+
