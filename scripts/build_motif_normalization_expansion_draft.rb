@@ -223,7 +223,7 @@ draft["expansion_draft"]["needs_review_count"] = needs_review.length
 draft["expansion_draft"]["already_known_count"] = already_known.length
 draft["expansion_review_flags"] = {
   "low_confidence_or_needs_human_review" => needs_review,
-  "new_group_candidates" => new_groups.values,
+  "new_group_candidates" => new_groups.values.map { |group| Marshal.load(Marshal.dump(group)) },
   "excluded_from_pattern_queries" => excluded,
   "already_known_in_base_normalization" => already_known
 }

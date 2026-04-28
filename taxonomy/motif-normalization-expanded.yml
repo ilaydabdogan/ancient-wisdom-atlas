@@ -1,0 +1,2352 @@
+---
+normalization_version: '1'
+updated_on: '2026-04-28'
+status: draft_expanded
+canonical_taxonomy_path: taxonomy/motifs.yml
+purpose: 'Review-time normalization guidance for mapping candidate motif labels to
+  stable canonical motif families without flattening important conceptual distinctions.
+
+'
+review_policy:
+  default_action: needs_human_review
+  prefer_existing_taxonomy_refs: true
+  preserve_local_meaning: true
+  allow_new_taxonomy_suggestions: true
+  notes:
+  - Use canonical_refs for indexing and parent_refs for broader queries.
+  - Do not merge related motifs when the passage evidence distinguishes them.
+  - Treat over-specific labels as evidence notes unless they recur across sources.
+comparison_modes:
+  structural: Same arrangement, sequence, role, or narrative function.
+  thematic: Same broad concern, image, value, or symbolic field.
+  historical_contact: Contact, translation, trade, conquest, migration, or shared
+    ritual space is supported by evidence.
+  common_inheritance: Descent from an older shared cultural, linguistic, textual,
+    or ritual source is plausible.
+  independent_emergence: Similar form plausibly arose separately from recurring human
+    situations.
+  archetypal: Psychological or symbolic interpretation, not proof of origin.
+hierarchies:
+  death_descent_return:
+    label: Death, Descent, And Return Complex
+    description: 'Related but distinct patterns where a figure, soul, world, or community
+      moves through death, descent, concealment, dissolution, trial, or return.
+
+'
+    parent_refs:
+    - death_rebirth
+    child_refs:
+    - hero_descent
+    - dying_and_returning
+    - resurrection
+    - afterlife_journey_map
+    distinctions:
+      hero_descent: A journey into death, darkness, cave, sea, dream, or hidden realm.
+      dying_and_returning: A figure disappears, dies, sleeps, descends, or is dismembered
+        and later returns.
+      resurrection: A dead figure is restored, raised, vindicated, or transformed
+        into a new mode of life.
+      death_rebirth: Broader renewal after death, dissolution, concealment, or transformation.
+      afterlife_journey_map: A mapped postmortem route through peril, judgment, instruction,
+        or liberation.
+  sacred_order_judgment:
+    label: Sacred Order, Law, Judgment, And Repair
+    parent_refs:
+    - divine_judgment
+    - covenant
+    - sacrifice
+    child_refs:
+    - sacred_exchange
+    - wisdom
+    distinctions:
+      divine_judgment: A sacred order responds to disorder through punishment, purification,
+        or renewal.
+      covenant: A vow, law, promise, or binding relation organizes divine-human or
+        social order.
+      sacrifice: A valued life, object, food, vow, or attachment is surrendered or
+        set apart.
+      sacred_exchange: Giving, offering, feeding, vow-making, or renunciation repairs
+        relationship.
+  revelation_wisdom_path:
+    label: Revelation, Wisdom, And Transformation
+    parent_refs:
+    - wisdom
+    - initiation
+    child_refs:
+    - mystical_quest
+    - annihilation_union
+    - ascent
+    distinctions:
+      wisdom: Sacred, forbidden, practical, prophetic, ancestral, or transformative
+        knowledge.
+      initiation: A threshold ordeal transforms status, knowledge, or identity.
+      mystical_quest: A seeker pursues direct knowledge of sacred reality through
+        discipline, guide, love, or unveiling.
+      annihilation_union: Ego or separateness dissolves in a larger sacred reality.
+  catastrophe_renewal:
+    label: Catastrophe And World Renewal
+    parent_refs:
+    - divine_judgment
+    - death_rebirth
+    child_refs:
+    - flood_and_renewal
+    - world_destroying_fire
+    - ark_vessel
+    - survivor_pair
+aliases:
+  afterlife_journey:
+    canonical_refs:
+    - afterlife_journey_map
+    parent_refs:
+    - hero_descent
+    - death_rebirth
+    relationship: label_alias
+    review_action: map_to_existing
+    notes: Use when the passage maps a postmortem route, judgment, or instruction
+      sequence.
+  underworld_trial:
+    canonical_refs:
+    - hero_descent
+    parent_refs:
+    - initiation
+    - death_rebirth
+    relationship: narrower_than
+    review_action: map_to_existing
+    notes: Use only when a descent includes ordeals, tests, judgment, or gate-like
+      thresholds.
+  descent:
+    canonical_refs:
+    - hero_descent
+    parent_refs:
+    - initiation
+    - death_rebirth
+    relationship: broader_label
+    review_action: map_to_existing
+    notes: Preserve whether the passage is literal underworld, cave, sea, dream, exile,
+      or metaphorical descent.
+  sacred_mountain:
+    canonical_refs:
+    - cosmic_mountain
+    parent_refs:
+    - sacred_tree_axis
+    - ascent
+    relationship: label_alias
+    review_action: map_to_existing
+  passage_through_waters:
+    canonical_refs:
+    - hero_descent
+    parent_refs:
+    - initiation
+    - flood_and_renewal
+    relationship: functional_variant
+    review_action: map_to_existing
+    notes: Use when water crossing marks danger, transformation, purification, or
+      liberation.
+  waters_divided:
+    canonical_refs:
+    - chaos
+    parent_refs:
+    - divine_judgment
+    - initiation
+    relationship: symbolic_variant
+    review_action: map_to_existing
+    notes: Often also supports passage_through_waters; do not force flood_and_renewal
+      unless old-world destruction is present.
+  divine_warrior:
+    canonical_refs:
+    - divine_judgment
+    parent_refs:
+    - royal_legitimacy
+    relationship: role_variant
+    review_action: map_to_existing
+  theophany:
+    canonical_refs:
+    - wisdom
+    parent_refs:
+    - initiation
+    - divine_judgment
+    relationship: needs_taxonomy_candidate
+    review_action: needs_human_review
+    suggested_motif_id: theophany
+    notes: A direct manifestation of sacred presence may deserve its own canonical
+      motif if it recurs.
+  divine_call:
+    canonical_refs:
+    - initiation
+    parent_refs:
+    - wisdom
+    - departure
+    relationship: functional_variant
+    review_action: map_to_existing
+  sacred_fire:
+    canonical_refs:
+    - sacred_exchange
+    parent_refs:
+    - sacrifice
+    - divine_judgment
+    - world_destroying_fire
+    relationship: symbolic_variant
+    review_action: map_to_existing
+    notes: Choose world_destroying_fire only when fire consumes, judges, or renews
+      a world/order.
+  fire:
+    canonical_refs:
+    - sacred_fire
+    parent_refs:
+    - sacrifice
+    - world_destroying_fire
+    relationship: broad_symbolic_label
+    review_action: map_to_group
+    notes: Broad generated label; preserve local function in notes and narrow to sacred_fire,
+      world_destroying_fire, or sacrificial fire when the passage supports it.
+  water:
+    canonical_refs:
+    - sacred_waters
+    parent_refs:
+    - cosmic_origin
+    - flood_and_renewal
+    - passage_through_waters
+    relationship: broad_symbolic_label
+    review_action: map_to_group
+    notes: Broad generated label; distinguish primordial waters, flood, purification,
+      boundary crossing, and underworld river functions.
+  tree:
+    canonical_refs:
+    - sacred_tree_axis
+    parent_refs:
+    - axis_mundi
+    relationship: broad_symbolic_label
+    review_action: map_to_group
+    notes: Broad generated label; use for world-tree, sacred-tree, or tree-as-center
+      evidence and narrow when the passage supports it.
+  mountain:
+    canonical_refs:
+    - cosmic_mountain
+    parent_refs:
+    - axis_mundi
+    - ascent
+    relationship: broad_symbolic_label
+    review_action: map_to_group
+    notes: Broad generated label; distinguish mountain as world axis, refuge, ascent
+      path, revelation site, or ordeal setting.
+  cave:
+    canonical_refs:
+    - hero_descent
+    parent_refs:
+    - initiation
+    - death_rebirth
+    relationship: liminal_space_variant
+    review_action: map_to_group
+    notes: Broad generated label; use when a cave functions as descent site, hidden
+      chamber, threshold, ordeal setting, womb/tomb image, or contact point with nonordinary
+      powers.
+  protective_mark:
+    canonical_refs:
+    - ark_vessel
+    parent_refs:
+    - survivor_pair
+    - divine_judgment
+    relationship: functional_variant
+    review_action: map_to_existing
+  idol:
+    canonical_refs:
+    - forbidden_knowledge
+    parent_refs:
+    - divine_judgment
+    - covenant
+    relationship: needs_human_review
+    review_action: needs_human_review
+  broken_and_renewed_covenant:
+    canonical_refs:
+    - covenant
+    parent_refs:
+    - sacrifice
+    - divine_judgment
+    relationship: narrower_than
+    review_action: map_to_existing
+  portable_sanctuary:
+    canonical_refs:
+    - world_center
+    parent_refs:
+    - sacred_tree_axis
+    - covenant
+    relationship: functional_variant
+    review_action: map_to_existing
+  blood_as_life:
+    canonical_refs:
+    - sacrifice
+    parent_refs:
+    - sacred_exchange
+    relationship: symbolic_variant
+    review_action: map_to_existing
+  ritual_prohibition:
+    canonical_refs:
+    - covenant
+    parent_refs:
+    - divine_judgment
+    - wisdom
+    relationship: legal_variant
+    review_action: map_to_existing
+  atonement_rite:
+    canonical_refs:
+    - sacrifice
+    parent_refs:
+    - sacred_exchange
+    - covenant
+    relationship: ritual_variant
+    review_action: map_to_existing
+  scapegoat:
+    canonical_refs:
+    - sacrifice
+    parent_refs:
+    - sacred_exchange
+    - divine_judgment
+    relationship: ritual_variant
+    review_action: map_to_existing
+  ritual_transfer:
+    canonical_refs:
+    - sacred_exchange
+    parent_refs:
+    - sacrifice
+    relationship: ritual_variant
+    review_action: map_to_existing
+  annual_purification:
+    canonical_refs:
+    - divine_judgment
+    parent_refs:
+    - sacrifice
+    - sacred_exchange
+    - seasonal_cycle
+    relationship: ritual_variant
+    review_action: map_to_existing
+  holiness_code:
+    canonical_refs:
+    - covenant
+    parent_refs:
+    - wisdom
+    - divine_judgment
+    relationship: legal_variant
+    review_action: map_to_existing
+  ethical_command:
+    canonical_refs:
+    - wisdom
+    parent_refs:
+    - covenant
+    relationship: teaching_variant
+    review_action: map_to_existing
+  social_care:
+    canonical_refs:
+    - covenant
+    parent_refs:
+    - sacred_exchange
+    relationship: ethical_variant
+    review_action: map_to_existing
+  sabbath_cycle:
+    canonical_refs:
+    - seasonal_cycle
+    parent_refs:
+    - covenant
+    relationship: temporal_variant
+    review_action: map_to_existing
+  jubilee:
+    canonical_refs:
+    - seasonal_cycle
+    parent_refs:
+    - covenant
+    - sacred_exchange
+    relationship: temporal_variant
+    review_action: map_to_existing
+  ritualized_release:
+    canonical_refs:
+    - sacred_exchange
+    parent_refs:
+    - covenant
+    - seasonal_cycle
+    relationship: ritual_variant
+    review_action: map_to_existing
+  self_knowledge:
+    canonical_refs:
+    - wisdom
+    parent_refs:
+    - mystical_quest
+    - annihilation_union
+    relationship: mystical_variant
+    review_action: map_to_existing
+  renunciation:
+    canonical_refs:
+    - sacred_exchange
+    parent_refs:
+    - mystical_quest
+    - annihilation_union
+    - sacrifice
+    relationship: mystical_variant
+    review_action: map_to_existing
+  sacred_song:
+    canonical_refs:
+    - wisdom
+    parent_refs:
+    - mystical_quest
+    - divine_beloved
+    relationship: expressive_variant
+    review_action: map_to_existing
+  dream_imagery_of_animals_foreshadowing_or_associated_with_violent_consumption:
+    canonical_refs:
+    - wisdom
+    parent_refs:
+    - chaos
+    relationship: over_specific_label
+    review_action: broaden_or_remove
+    notes: Preserve as evidence detail; do not promote as a canonical motif unless
+      it recurs across sources.
+quality_flags:
+  over_specific_label: Candidate motif is too bound to one passage detail to support
+    cross-source querying.
+  unsupported_taxonomy_ref: Taxonomy ref is absent from taxonomy/motifs.yml and not
+    listed as a normalization alias.
+  unsupported_comparison_claim: Comparison claim lacks direct evidence or overstates
+    transmission.
+  front_matter_or_commentary: Passage is title page, contents, footnote, editor note,
+    or scholarly commentary rather than primary mythic/ritual text.
+  missing_evidence_ref: Motif, figure, symbol, role, scene, or claim references evidence
+    not present in the record.
+  weak_locator: Locator cannot be checked against canonical Markdown line ranges.
+canonical_motif_group_policy:
+  source: user_desktop_motif_normalization_2026-04-28
+  purpose: Broader query groups for Pattern Explorer and review-time placement of
+    granular generated motif labels.
+  canonical_taxonomy_relationship: Groups may contain existing taxonomy/motifs.yml
+    refs, review aliases, or granular generated labels; they do not automatically
+    become taxonomy/motifs.yml motif_families.
+  meta_group_prefix: _meta
+  notes:
+  - Use group ids for broad Pattern Explorer facets and parent-level review reasoning.
+  - Use aliases.canonical_refs when mapping back to taxonomy/motifs.yml.
+  - Do not promote group children into taxonomy/motifs.yml unless review shows they
+    recur across sources.
+canonical_motif_groups:
+- id: cosmic_origin
+  label: Cosmic Origin and Creation
+  description: 'The emergence of the cosmos from void, water, darkness, word, or primordial
+    substance. Includes creation by speech, creation from nothing, and the initial
+    separation of elements.
+
+'
+  children:
+  - chaos
+  - world_egg
+  - failed_creation
+  - waters_divided
+  aliases: []
+  related:
+  - primordial_sacrifice
+  - axis_mundi
+  - flood_and_renewal
+- id: primordial_sacrifice
+  label: Primordial Sacrifice and Dismemberment
+  description: 'The cosmos created through the death, sacrifice, or dismemberment
+    of a primordial being whose body becomes the world.
+
+'
+  children:
+  - body_as_landscape_shaper
+  aliases: []
+  related:
+  - cosmic_origin
+  - sacrifice
+  - death_and_transformation
+- id: axis_mundi
+  label: World Axis and Sacred Center
+  description: 'The vertical axis connecting heaven, earth, and underworld. Manifests
+    as world tree, sacred mountain, cosmic pillar, temple, ladder, or any structure
+    that marks the center of the cosmos and enables communication between levels of
+    reality.
+
+'
+  children:
+  - sacred_tree_axis
+  - cosmic_mountain
+  - sacred_mountain
+  - world_center
+  aliases: []
+  related:
+  - ascent
+  - descent
+  - theophany
+  - sacred_fire
+- id: descent
+  label: Descent and Underworld Journey
+  description: 'The journey downward into the underworld, the land of the dead, or
+    the depths of consciousness. Includes the stripping of identity, trials below,
+    navigation of the afterlife, and the encounter with death or darkness as a transformative
+    passage.
+
+'
+  children:
+  - hero_descent
+  - afterlife_passage
+  - underworld_trial
+  aliases: []
+  related:
+  - death_and_transformation
+  - initiation
+  - axis_mundi
+  - threshold_guardian
+- id: afterlife_passage
+  label: Afterlife Navigation and Passage
+  description: 'The dead person''s journey through the afterlife as a navigable landscape
+    with stages, gates, guardians, and instructions. Includes knowledge of sacred
+    names or words of power as requirements for passage.
+
+'
+  children:
+  - afterlife_passage_by_names
+  aliases: []
+  related:
+  - descent
+  - divine_judgment
+  - death_and_transformation
+- id: death_and_transformation
+  label: Death, Rebirth, and Transformation
+  description: 'The pattern of death followed by return, renewal, or transformation
+    into a new state. Includes literal resurrection, symbolic rebirth, dying-and-rising
+    figures, and metamorphosis through death.
+
+'
+  children:
+  - resurrection
+  - rebirth_through_ingestion
+  aliases:
+  - death_rebirth
+  - dying_and_returning
+  related:
+  - descent
+  - sacrifice
+  - initiation
+  - flood_and_renewal
+- id: ascent
+  label: Ascent and Heavenly Journey
+  description: 'The upward journey toward the divine # climbing the mountain, ascending
+    through heavens, rising to receive revelation or divine knowledge. The complement
+    of descent.
+
+'
+  children:
+  - theophany
+  - theophany_of_many_forms
+  - cosmic_vision
+  aliases: []
+  related:
+  - axis_mundi
+  - sacred_knowledge
+  - divine_call
+- id: theophany
+  label: Theophany and Divine Manifestation
+  description: 'The direct manifestation or revelation of the divine to a human witness.
+    Includes cosmic visions, burning bushes, universal forms, and overwhelming encounters
+    with sacred presence.
+
+'
+  children:
+  - theophany_of_many_forms
+  - cosmic_vision
+  aliases: []
+  related:
+  - ascent
+  - sacred_knowledge
+  - divine_judgment
+- id: sacred_knowledge
+  label: Sacred Knowledge and Wisdom
+  description: 'The acquisition, transmission, protection, or concealment of sacred
+    or transformative knowledge. Includes wisdom teachings, forbidden knowledge, stolen
+    fire/knowledge, divine instruction, and the paradox of knowledge that transforms
+    the knower.
+
+'
+  children:
+  - wisdom
+  - forbidden_knowledge
+  - sacred_theft
+  - revelation_as_recitation
+  - divine_teaching_by_writing
+  - divinely_taught_names
+  aliases: []
+  related:
+  - initiation
+  - sacrifice
+  - theophany
+  - trickster
+- id: initiation
+  label: Initiation and Transformative Ordeal
+  description: 'The passage from one state of being to another through ordeal, instruction,
+    or encounter. Includes rites of passage, tests, encounters with death as teacher,
+    and the crossing of thresholds that permanently change the initiate.
+
+'
+  children:
+  - heroic_childhood_signs
+  aliases: []
+  related:
+  - descent
+  - sacred_knowledge
+  - threshold_guardian
+  - mystical_quest
+- id: mystical_quest
+  label: Mystical Quest and Interior Journey
+  description: 'The spiritual seeker''s journey toward union, knowledge, or liberation.
+    Includes the Sufi path of stations, the hero''s journey in its contemplative form,
+    and quests where the seeker discovers they are what they sought.
+
+'
+  children:
+  - self_knowledge
+  - annihilation_union
+  - divine_beloved
+  - renunciation
+  - sacred_song
+  aliases: []
+  related:
+  - initiation
+  - descent
+  - death_and_transformation
+- id: hero_journey
+  label: The Hero's Journey
+  description: 'The narrative arc of departure, trial, transformation, and return.
+    Includes the call to adventure, threshold crossing, the abyss, the boon, and the
+    return with knowledge or power.
+
+'
+  children:
+  - departure
+  - return
+  - divine_call
+  aliases: []
+  related:
+  - initiation
+  - descent
+  - threshold_guardian
+  - mystical_quest
+- id: sacrifice
+  label: Sacrifice and Offering
+  description: 'The giving up of something precious # life, status, possession, self
+    # to the sacred. Includes burnt offerings, self-sacrifice, the scapegoat, and
+    sacrificial death that creates or renews.
+
+'
+  children:
+  - scapegoat
+  - atonement_rite
+  - annual_purification
+  - ritualized_release
+  aliases: []
+  related:
+  - covenant
+  - sacred_exchange
+  - death_and_transformation
+  - primordial_sacrifice
+- id: covenant
+  label: Covenant and Sacred Bond
+  description: 'A binding agreement between the human and the divine, or between sacred
+    parties. Includes conditional and unconditional covenants, covenant renewal, and
+    the breaking and restoration of sacred bonds.
+
+'
+  children:
+  - broken_and_renewed_covenant
+  aliases: []
+  related:
+  - sacrifice
+  - sacred_exchange
+  - divine_judgment
+  - ethical_command
+- id: sacred_exchange
+  label: Sacred Exchange and Reciprocity
+  description: 'The principle of reciprocal giving between humans and the divine,
+    or between sacred parties. Includes gift exchange, hospitality obligations, filial
+    duty, and the idea that sacred relationship requires mutual offering.
+
+'
+  children: []
+  aliases: []
+  related:
+  - sacrifice
+  - covenant
+- id: divine_judgment
+  label: Divine Judgment and Moral Reckoning
+  description: 'The weighing, testing, or evaluation of souls, deeds, or peoples by
+    divine authority. Includes afterlife judgment, earthly punishment for transgression,
+    plagues as retribution, and the moral accounting that follows death.
+
+'
+  children:
+  - ethical_command
+  - holiness_code
+  - ritual_prohibition
+  - moral_consequence_following_action
+  aliases: []
+  related:
+  - descent
+  - afterlife_passage
+  - sacrifice
+  - covenant
+- id: flood_and_renewal
+  label: Flood, Fire, and Cosmic Renewal
+  description: 'The destruction of the world or the old order by water, fire, or catastrophe,
+    followed by renewal and the establishment of a new world. Includes the flood narrative,
+    the ark/vessel of survival, and the survivor pair who repopulate or restart.
+
+'
+  children:
+  - ark_vessel
+  - survivor_pair
+  aliases: []
+  related:
+  - cosmic_origin
+  - divine_judgment
+  - death_and_transformation
+  - covenant
+- id: trickster
+  label: Trickster and Boundary Crosser
+  description: 'The figure who violates boundaries, steals from the gods, deceives
+    authority, and operates at the edges between order and chaos. Often a culture
+    hero who brings gifts through transgression.
+
+'
+  children:
+  - trickster_boundary
+  aliases: []
+  related:
+  - sacred_knowledge
+  - threshold_guardian
+  - shapeshifter
+- id: threshold_guardian
+  label: Threshold Guardian
+  description: 'The figure who guards the boundary between worlds, states, or levels
+    of reality. Must be confronted, appeased, or outwitted before passage is possible.
+
+'
+  children:
+  - uncanny_ford_encounter
+  aliases: []
+  related:
+  - descent
+  - initiation
+  - serpent_guardian
+- id: serpent_guardian
+  label: Serpent and Serpent Guardian
+  description: 'The serpent as guardian of sacred knowledge, threshold between worlds,
+    or embodiment of danger-and-wisdom. Includes the serpent at the tree, the serpent
+    at the root of the world, and the serpent as both threat and teacher.
+
+'
+  children: []
+  aliases:
+  - serpent
+  related:
+  - axis_mundi
+  - sacred_knowledge
+  - threshold_guardian
+  - forbidden_knowledge
+- id: sacred_twins
+  label: Sacred Twins and Sibling Pairs
+  description: 'The pair of twins or siblings # often one mortal and one divine, or
+    one light and one dark # whose relationship drives the mythic narrative. Includes
+    hero twins, divine siblings, and fratricidal pairs.
+
+'
+  children:
+  - sibling_pair
+  aliases: []
+  related:
+  - duality
+  - descent
+  - death_and_transformation
+- id: miraculous_child
+  label: Miraculous Child and Sacred Birth
+  description: 'The child born under extraordinary circumstances # virgin birth, divine
+    parentage, threatened infancy, hidden upbringing. Includes the divine child who
+    must be protected, the child who speaks wisdom, and the child whose birth signals
+    a new cosmic era.
+
+'
+  children:
+  - sacred_birth
+  - divine_parent_child
+  - miraculous_birth_under_palm
+  - speaking_infant_in_cradle
+  aliases: []
+  related:
+  - mother_goddess
+  - hero_journey
+  - cosmic_origin
+- id: mother_goddess
+  label: Sacred Feminine and Mother Goddess
+  description: 'The divine mother, earth goddess, source-feminine, or nurturing-and-terrible
+    goddess figure. Includes the mother who gives birth to the cosmos, the mourning
+    mother, the goddess of fertility and death, and the sacred feminine as cosmic
+    principle.
+
+'
+  children: []
+  aliases: []
+  related:
+  - miraculous_child
+  - cosmic_origin
+  - death_and_transformation
+- id: culture_hero
+  label: Culture Hero and Founder
+  description: 'The figure who brings civilization, law, fire, agriculture, or sacred
+    knowledge to humanity. Often overlaps with trickster (Prometheus, Maui) but distinguished
+    by the emphasis on founding or establishing human culture.
+
+'
+  children: []
+  aliases: []
+  related:
+  - trickster
+  - sacred_knowledge
+  - royal_legitimacy
+- id: shapeshifter
+  label: Shapeshifter and Transformation
+  description: 'The figure who changes form # human to animal, god to mortal, one
+    being to another. Includes voluntary transformation, punishment-transformation,
+    and metamorphosis as escape or transcendence.
+
+'
+  children:
+  - enchanted_transformation_and_rebirth
+  - magical_animal_boundary
+  - magical_animal_mount
+  aliases: []
+  related:
+  - trickster
+  - death_and_transformation
+- id: divine_warrior
+  label: Divine Warrior and Sacred Combat
+  description: 'The god or hero who fights cosmic battles # against chaos monsters,
+    demons, rival gods, or the forces of darkness. Includes the warrior whose combat
+    establishes or maintains cosmic order.
+
+'
+  children:
+  - death_in_battle
+  - warrior_honor_and_burial
+  - warrior_duty_under_crisis
+  - vow_of_vengeance_for_a_fallen_king_hero
+  aliases: []
+  related:
+  - sacrifice
+  - divine_judgment
+  - royal_legitimacy
+- id: royal_legitimacy
+  label: Royal Legitimacy and Sacred Kingship
+  description: 'The establishment, maintenance, or transfer of legitimate rule through
+    divine sanction, lineage, ordeal, or sacred objects. Includes coronation, succession,
+    regency, and the king as axis mundi figure.
+
+'
+  children:
+  - ethical_rule_by_virtue
+  - gentle_remonstrance_within_hierarchy
+  aliases: []
+  related:
+  - covenant
+  - divine_judgment
+  - axis_mundi
+- id: duality
+  label: Duality and Cosmic Opposition
+  description: 'The fundamental pairing of opposites # light/dark, order/chaos, life/death,
+    yin/yang, good/evil # as structural principle of the cosmos. Includes Zoroastrian
+    dualism, Daoist complementarity, and the tension between opposing forces that
+    generates reality.
+
+'
+  children:
+  - non_action
+  - cosmic_witness
+  aliases: []
+  related:
+  - cosmic_origin
+  - sacred_twins
+  - divine_judgment
+- id: sacred_fire
+  label: Sacred Fire and Divine Light
+  description: 'Fire as divine presence, purifying force, sacrificial medium, or cosmic
+    principle. Includes the burning bush, Agni, sacred hearth fires, and fire as the
+    element that mediates between human and divine.
+
+'
+  children:
+  - cloud_fire_guidance
+  aliases: []
+  related:
+  - axis_mundi
+  - sacrifice
+  - theophany
+- id: sacred_vessel
+  label: Sacred Vessel and Container
+  description: 'The sacred container # cauldron, grail, ark, pot, sealed jar # that
+    holds life, death, wisdom, or transformative power. Includes vessels of resurrection,
+    vessels of preservation, and vessels that must not be opened.
+
+'
+  children:
+  - sacred_cauldron
+  - sealed_spirit_vessel
+  - portable_sanctuary
+  aliases: []
+  related:
+  - flood_and_renewal
+  - death_and_transformation
+  - sacred_knowledge
+- id: sacred_treasures
+  label: Sacred Treasures and Power Objects
+  description: 'Objects of divine origin or power # swords, spears, stones, rings,
+    feathers, sandals # that confer authority, protection, or sacred ability on their
+    bearer.
+
+'
+  children:
+  - healing_sign
+  - protective_mark
+  - idol
+  aliases: []
+  related:
+  - royal_legitimacy
+  - sacred_vessel
+  - initiation
+- id: divine_intervention
+  label: Divine Intervention and Guidance
+  description: 'The direct action of gods or sacred powers in human affairs # sending
+    plagues, parting seas, appearing in dreams, providing animal guides, or redirecting
+    events through supernatural means.
+
+'
+  children:
+  - instrument_of_divine_action
+  - prophet_call_under_opposition
+  - refused_homage_to_created_human
+  aliases: []
+  related:
+  - divine_judgment
+  - theophany
+  - covenant
+- id: otherworld
+  label: Otherworld and Enchanted Realm
+  description: 'The other world # fairyland, the Country of the Young, the enchanted
+    island, the hidden realm # that exists alongside or beneath ordinary reality.
+    Distinguished from the underworld of the dead by its quality of timelessness,
+    beauty, or enchantment.
+
+'
+  children:
+  - otherworld_exchange
+  - otherworld_sojourn
+  - otherworld_protection_in_small_form
+  aliases: []
+  related:
+  - descent
+  - axis_mundi
+  - shapeshifter
+- id: sacred_time
+  label: Sacred Time and Ritual Cycle
+  description: 'The ordering of time through sacred rhythm # sabbath, seasonal ceremonies,
+    jubilee, annual purification. The distinction between sacred time (cyclical, renewable,
+    connected to origins) and profane time (linear, entropic).
+
+'
+  children:
+  - sabbath_cycle
+  - jubilee
+  - seasonal_cycle
+  aliases: []
+  related:
+  - covenant
+  - sacrifice
+  - cosmic_origin
+- id: sacred_law
+  label: Sacred Law and Social Order
+  description: 'The divine origin of law, ethical codes, and social obligations. Includes
+    dietary laws, purity codes, social care mandates, and the idea that the moral
+    order reflects the cosmic order.
+
+'
+  children:
+  - social_care
+  - blood_as_life
+  - reciprocity_as_ethical_command
+  aliases: []
+  related:
+  - covenant
+  - divine_judgment
+  - royal_legitimacy
+- id: storytelling_as_power
+  label: Storytelling and Narrative as Sacred Power
+  description: 'The act of telling stories as a means of survival, transmission of
+    wisdom, or sacred power. Includes frame narratives, stories within stories, and
+    oral transmission as a technology of cultural memory.
+
+'
+  children:
+  - storytelling_as_survival
+  - dawn_suspense_reprieve
+  - voluntary_bride_intercession
+  - liberator_threatened_by_captive
+  - wit_overwhelms_supernatural_force
+  aliases: []
+  related:
+  - sacred_knowledge
+  - initiation
+- id: sacred_waters
+  label: Sacred Waters and Passage Through Water
+  description: 'Water as boundary, purifier, destroyer, and medium of transformation.
+    Includes baptismal waters, parted seas, rivers of the underworld, and the primordial
+    waters before creation.
+
+'
+  children:
+  - passage_through_waters
+  aliases: []
+  related:
+  - flood_and_renewal
+  - cosmic_origin
+  - descent
+- id: sacred_love
+  label: Sacred Love and Longing
+  description: 'Love as a cosmic or mystical force # the love between divine and human,
+    the love that transcends death, the longing for return to source. Includes the
+    Sufi divine beloved, sacred marriage, and love as the driving force of the quest.
+
+'
+  children:
+  - love_as_an_affliction_cured_only_by_the_beloved
+  - enduring_love_beyond_bodily_decay
+  - perilous_path_of_love_requiring_caution
+  - fidelity_in_ornamental_captivity
+  aliases: []
+  related:
+  - mystical_quest
+  - death_and_transformation
+  - divine_beloved
+- id: lament_and_mourning
+  label: Lament, Mourning, and Tragic Recognition
+  description: 'The expression of grief, loss, and tragic awareness. Includes mourning
+    songs, laments for fallen heroes, the recognition of what has been lost, and grief
+    as a transformative force.
+
+'
+  children:
+  - fate_lament
+  - prolonged_mourning_without_relief_leading_to_physical_collapse_death
+  - mourning_expressed_through_embracing_and_kissing_the_deceased_warrior_s_horse_and_equipment
+  - city_mourns_absent_ruler
+  - dying_hero_arranges_successor_relationship_for_his_bride
+  aliases: []
+  related:
+  - death_and_transformation
+  - sacrifice
+  - hero_journey
+- id: pride_and_downfall
+  label: Pride, Hubris, and Downfall
+  description: 'The pattern of overreaching pride followed by destruction or humbling.
+    Includes failed towers, punished transgressors, kings brought low, and the moral
+    that power without wisdom or humility leads to ruin.
+
+'
+  children:
+  - pride_as_brief_rule_followed_by_downfall_dissolution
+  - pride_humbled_in_divine_containment
+  - endurance_of_a_record_contrasted_with_daily_transience
+  aliases: []
+  related:
+  - divine_judgment
+  - sacred_knowledge
+  - royal_legitimacy
+- id: sacred_combat
+  label: Sacred Combat and Ritual Warfare
+  description: 'Warfare, raiding, or single combat as a sacred or ritually significant
+    activity. Includes cattle raids as cosmic catalysts, single combat at fords, and
+    battles that determine cosmic order.
+
+'
+  children:
+  - cattle_raid_catalyst
+  - doom_prophecy_before_raid
+  - failed_negotiated_exchange
+  - wealth_contest_between_rulers
+  - violated_queen_as_trigger_of_vengeance
+  - household_reversal
+  aliases: []
+  related:
+  - divine_warrior
+  - sacrifice
+  - divine_judgment
+- id: dream_and_vision
+  label: Dream, Vision, and Altered Perception
+  description: 'Dreams, visions, and altered states as sources of sacred knowledge,
+    prophecy, or revelation. Includes prophetic dreams, the dream-reality boundary,
+    opened perception, and the idea that ordinary consciousness conceals a deeper
+    reality.
+
+'
+  children:
+  - opened_perception
+  - constrained_oracle
+  - dream_imagery_of_animals_foreshadowing_or_associated_with_violent_consumption
+  aliases: []
+  related:
+  - sacred_knowledge
+  - theophany
+  - descent
+- id: death_by_fate
+  label: Death Attributed to Fate or Destiny
+  description: 'Death understood as fated, destined, or determined by forces beyond
+    human control. The warrior who cannot escape the death assigned to them. Includes
+    the Norse concept of wyrd, Greek moira, and Islamic qadar.
+
+'
+  children:
+  - death_attributed_to_non_human_agency_and_to_fate_destiny
+  aliases: []
+  related:
+  - divine_judgment
+  - lament_and_mourning
+  - sacrifice
+- id: beauty_and_paradox
+  label: Beauty Paired with Pain and Paradox
+  description: 'The aesthetic and spiritual insight that beauty and suffering, sweetness
+    and danger, are inseparable. The rose and the thorn. The wisdom that comes through
+    wounding.
+
+'
+  children:
+  - beauty_paired_with_pain_sweetness_with_sting
+  aliases: []
+  related:
+  - sacred_love
+  - mystical_quest
+  - sacred_knowledge
+- id: divine_race
+  label: Divine Race and Arrival of the Gods
+  description: 'A race or people of divine or semi-divine origin who arrive, conquer,
+    or settle and bring sacred knowledge, treasures, or civilization. Includes the
+    Tuatha De Danann, the Anunnaki, and the devas.
+
+'
+  children:
+  - divine_race_arrival
+  aliases: []
+  related:
+  - culture_hero
+  - sacred_treasures
+  - cosmic_origin
+- id: _meta_textual
+  label: Textual and Scholarly Artifacts
+  description: 'Not a symbolic motif. These are observations about the text itself
+    # its transmission, reconstruction, manuscript tradition, or editorial history.
+    Preserved for provenance but excluded from motif queries.
+
+'
+  children:
+  - oral_transmission_producing_interpolated_and_fragmentary_poetic_tradition
+  - textual_reconstruction_through_emendation_and_documentation_of_variants
+  aliases: []
+  related: []
+- id: supreme_ruler
+  label: Supreme Ruler and Cosmic Sovereignty
+  description: 'A supreme ruler figure who descends from above or emerges to rule
+    all lands. Includes the world-emperor, the universal monarch, and the cosmic king.
+
+'
+  children:
+  - supreme_ruler_descends_appears_from_above_to_rule_all_lands
+  aliases: []
+  related:
+  - royal_legitimacy
+  - axis_mundi
+  - theophany
+- id: sacred_craft
+  label: Sacred Craft and Divinely Aided Construction
+  description: 'Building, crafting, or constructing as a sacred act # the bridge built
+    with divine aid, the temple constructed by the gods, the weapon forged with cosmic
+    fire.
+
+'
+  children:
+  - divinely_inherited_bridgecraft
+  aliases: []
+  related:
+  - axis_mundi
+  - culture_hero
+  - sacred_treasures
+- id: apotropaic_protection
+  label: Apotropaic Protection Against Spirits
+  description: Ritual acts, objects, plants, marks, or removals used to repel, avert,
+    or expel harmful spirits, death, disease, or malign forces from persons, houses,
+    or communities.
+  children:
+  - apotropaic_mirror_repels_spirits
+  - apotropaic_plant_against_evil_spirits
+  - apotropaic_removal_of_death_and_disease_from_village_or_house
+  aliases: []
+  related:
+  - sacred_law
+  - sacred_exchange
+  - death_and_transformation
+  draft_status: new_group_candidate
+  draft_parent_group_ids:
+  - sacred_treasures
+  - divine_judgment
+  draft_reason_existing_groups_insufficient: Existing sacred-object and judgment groups
+    do not capture the recurring protective/averting function against spirits or pollution.
+- id: external_detachable_soul
+  label: External or Detachable Soul
+  description: A person's life, soul, or vital essence is located outside the ordinary
+    body, can detach from it, or is kept in another being, object, or place, creating
+    unusual vulnerability, power, or survival.
+  children:
+  - external_or_detachable_soul
+  - external_soul_located_outside_the_body
+  aliases: []
+  related:
+  - shapeshifter
+  - sacred_vessel
+  - sacred_treasures
+  draft_status: new_group_candidate
+  draft_parent_group_ids:
+  - death_and_transformation
+  draft_reason_existing_groups_insufficient: Existing groups cover death, rebirth,
+    vessels, and shapeshifting, but not the specific pattern of vital essence externalized
+    from the body.
+raw_motif_group_index:
+  _meta_textual:
+    group_id: _meta_textual
+    group_label: Textual and Scholarly Artifacts
+    relationship: canonical_group
+    review_action: exclude_from_pattern_queries
+  afterlife_passage:
+    group_id: descent
+    group_label: Descent and Underworld Journey
+    relationship: child
+    review_action: map_to_group
+  afterlife_passage_by_names:
+    group_id: afterlife_passage
+    group_label: Afterlife Navigation and Passage
+    relationship: child
+    review_action: map_to_group
+  afterlife_journey_map:
+    group_id: afterlife_passage
+    group_label: Afterlife Navigation and Passage
+    relationship: taxonomy_motif_family
+    review_action: map_to_group
+  annihilation_union:
+    group_id: mystical_quest
+    group_label: Mystical Quest and Interior Journey
+    relationship: child
+    review_action: map_to_group
+  annual_purification:
+    group_id: sacrifice
+    group_label: Sacrifice and Offering
+    relationship: child
+    review_action: map_to_group
+  ark_vessel:
+    group_id: flood_and_renewal
+    group_label: Flood, Fire, and Cosmic Renewal
+    relationship: child
+    review_action: map_to_group
+  ascent:
+    group_id: ascent
+    group_label: Ascent and Heavenly Journey
+    relationship: canonical_group
+    review_action: map_to_group
+  atonement_rite:
+    group_id: sacrifice
+    group_label: Sacrifice and Offering
+    relationship: child
+    review_action: map_to_group
+  axis_mundi:
+    group_id: axis_mundi
+    group_label: World Axis and Sacred Center
+    relationship: canonical_group
+    review_action: map_to_group
+  beauty_and_paradox:
+    group_id: beauty_and_paradox
+    group_label: Beauty Paired with Pain and Paradox
+    relationship: canonical_group
+    review_action: map_to_group
+  beauty_paired_with_pain_sweetness_with_sting:
+    group_id: beauty_and_paradox
+    group_label: Beauty Paired with Pain and Paradox
+    relationship: child
+    review_action: map_to_group
+  blood_as_life:
+    group_id: sacred_law
+    group_label: Sacred Law and Social Order
+    relationship: child
+    review_action: map_to_group
+  body_as_landscape_shaper:
+    group_id: primordial_sacrifice
+    group_label: Primordial Sacrifice and Dismemberment
+    relationship: child
+    review_action: map_to_group
+  broken_and_renewed_covenant:
+    group_id: covenant
+    group_label: Covenant and Sacred Bond
+    relationship: child
+    review_action: map_to_group
+  cattle_raid_catalyst:
+    group_id: sacred_combat
+    group_label: Sacred Combat and Ritual Warfare
+    relationship: child
+    review_action: map_to_group
+  chaos:
+    group_id: cosmic_origin
+    group_label: Cosmic Origin and Creation
+    relationship: child
+    review_action: map_to_group
+  city_mourns_absent_ruler:
+    group_id: lament_and_mourning
+    group_label: Lament, Mourning, and Tragic Recognition
+    relationship: child
+    review_action: map_to_group
+  cloud_fire_guidance:
+    group_id: sacred_fire
+    group_label: Sacred Fire and Divine Light
+    relationship: child
+    review_action: map_to_group
+  constrained_oracle:
+    group_id: dream_and_vision
+    group_label: Dream, Vision, and Altered Perception
+    relationship: child
+    review_action: map_to_group
+  cosmic_mountain:
+    group_id: axis_mundi
+    group_label: World Axis and Sacred Center
+    relationship: child
+    review_action: map_to_group
+  cosmic_origin:
+    group_id: cosmic_origin
+    group_label: Cosmic Origin and Creation
+    relationship: canonical_group
+    review_action: map_to_group
+  cosmic_vision:
+    group_id: ascent
+    group_label: Ascent and Heavenly Journey
+    relationship: child
+    review_action: map_to_group
+  cosmic_witness:
+    group_id: duality
+    group_label: Duality and Cosmic Opposition
+    relationship: child
+    review_action: map_to_group
+  covenant:
+    group_id: covenant
+    group_label: Covenant and Sacred Bond
+    relationship: canonical_group
+    review_action: map_to_group
+  culture_hero:
+    group_id: culture_hero
+    group_label: Culture Hero and Founder
+    relationship: canonical_group
+    review_action: map_to_group
+  dawn_suspense_reprieve:
+    group_id: storytelling_as_power
+    group_label: Storytelling and Narrative as Sacred Power
+    relationship: child
+    review_action: map_to_group
+  death_and_transformation:
+    group_id: death_and_transformation
+    group_label: Death, Rebirth, and Transformation
+    relationship: canonical_group
+    review_action: map_to_group
+  death_attributed_to_non_human_agency_and_to_fate_destiny:
+    group_id: death_by_fate
+    group_label: Death Attributed to Fate or Destiny
+    relationship: child
+    review_action: map_to_group
+  death_by_fate:
+    group_id: death_by_fate
+    group_label: Death Attributed to Fate or Destiny
+    relationship: canonical_group
+    review_action: map_to_group
+  death_in_battle:
+    group_id: divine_warrior
+    group_label: Divine Warrior and Sacred Combat
+    relationship: child
+    review_action: map_to_group
+  death_rebirth:
+    group_id: death_and_transformation
+    group_label: Death, Rebirth, and Transformation
+    relationship: alias
+    review_action: map_to_group
+  departure:
+    group_id: hero_journey
+    group_label: The Hero's Journey
+    relationship: child
+    review_action: map_to_group
+  descent:
+    group_id: descent
+    group_label: Descent and Underworld Journey
+    relationship: canonical_group
+    review_action: map_to_group
+  divine_beloved:
+    group_id: mystical_quest
+    group_label: Mystical Quest and Interior Journey
+    relationship: child
+    review_action: map_to_group
+  divine_call:
+    group_id: hero_journey
+    group_label: The Hero's Journey
+    relationship: child
+    review_action: map_to_group
+  divine_intervention:
+    group_id: divine_intervention
+    group_label: Divine Intervention and Guidance
+    relationship: canonical_group
+    review_action: map_to_group
+  divine_judgment:
+    group_id: divine_judgment
+    group_label: Divine Judgment and Moral Reckoning
+    relationship: canonical_group
+    review_action: map_to_group
+  divine_parent_child:
+    group_id: miraculous_child
+    group_label: Miraculous Child and Sacred Birth
+    relationship: child
+    review_action: map_to_group
+  divine_race:
+    group_id: divine_race
+    group_label: Divine Race and Arrival of the Gods
+    relationship: canonical_group
+    review_action: map_to_group
+  divine_race_arrival:
+    group_id: divine_race
+    group_label: Divine Race and Arrival of the Gods
+    relationship: child
+    review_action: map_to_group
+  divine_teaching_by_writing:
+    group_id: sacred_knowledge
+    group_label: Sacred Knowledge and Wisdom
+    relationship: child
+    review_action: map_to_group
+  divine_warrior:
+    group_id: divine_warrior
+    group_label: Divine Warrior and Sacred Combat
+    relationship: canonical_group
+    review_action: map_to_group
+  divinely_inherited_bridgecraft:
+    group_id: sacred_craft
+    group_label: Sacred Craft and Divinely Aided Construction
+    relationship: child
+    review_action: map_to_group
+  divinely_taught_names:
+    group_id: sacred_knowledge
+    group_label: Sacred Knowledge and Wisdom
+    relationship: child
+    review_action: map_to_group
+  doom_prophecy_before_raid:
+    group_id: sacred_combat
+    group_label: Sacred Combat and Ritual Warfare
+    relationship: child
+    review_action: map_to_group
+  dream_and_vision:
+    group_id: dream_and_vision
+    group_label: Dream, Vision, and Altered Perception
+    relationship: canonical_group
+    review_action: map_to_group
+  dream_imagery_of_animals_foreshadowing_or_associated_with_violent_consumption:
+    group_id: dream_and_vision
+    group_label: Dream, Vision, and Altered Perception
+    relationship: child
+    review_action: map_to_group
+  duality:
+    group_id: duality
+    group_label: Duality and Cosmic Opposition
+    relationship: canonical_group
+    review_action: map_to_group
+  dying_and_returning:
+    group_id: death_and_transformation
+    group_label: Death, Rebirth, and Transformation
+    relationship: alias
+    review_action: map_to_group
+  dying_hero_arranges_successor_relationship_for_his_bride:
+    group_id: lament_and_mourning
+    group_label: Lament, Mourning, and Tragic Recognition
+    relationship: child
+    review_action: map_to_group
+  enchanted_transformation_and_rebirth:
+    group_id: shapeshifter
+    group_label: Shapeshifter and Transformation
+    relationship: child
+    review_action: map_to_group
+  endurance_of_a_record_contrasted_with_daily_transience:
+    group_id: pride_and_downfall
+    group_label: Pride, Hubris, and Downfall
+    relationship: child
+    review_action: map_to_group
+  enduring_love_beyond_bodily_decay:
+    group_id: sacred_love
+    group_label: Sacred Love and Longing
+    relationship: child
+    review_action: map_to_group
+  ethical_command:
+    group_id: divine_judgment
+    group_label: Divine Judgment and Moral Reckoning
+    relationship: child
+    review_action: map_to_group
+  ethical_rule_by_virtue:
+    group_id: royal_legitimacy
+    group_label: Royal Legitimacy and Sacred Kingship
+    relationship: child
+    review_action: map_to_group
+  failed_creation:
+    group_id: cosmic_origin
+    group_label: Cosmic Origin and Creation
+    relationship: child
+    review_action: map_to_group
+  failed_negotiated_exchange:
+    group_id: sacred_combat
+    group_label: Sacred Combat and Ritual Warfare
+    relationship: child
+    review_action: map_to_group
+  fate_lament:
+    group_id: lament_and_mourning
+    group_label: Lament, Mourning, and Tragic Recognition
+    relationship: child
+    review_action: map_to_group
+  fidelity_in_ornamental_captivity:
+    group_id: sacred_love
+    group_label: Sacred Love and Longing
+    relationship: child
+    review_action: map_to_group
+  flood_and_renewal:
+    group_id: flood_and_renewal
+    group_label: Flood, Fire, and Cosmic Renewal
+    relationship: canonical_group
+    review_action: map_to_group
+  forbidden_knowledge:
+    group_id: sacred_knowledge
+    group_label: Sacred Knowledge and Wisdom
+    relationship: child
+    review_action: map_to_group
+  gentle_remonstrance_within_hierarchy:
+    group_id: royal_legitimacy
+    group_label: Royal Legitimacy and Sacred Kingship
+    relationship: child
+    review_action: map_to_group
+  healing_sign:
+    group_id: sacred_treasures
+    group_label: Sacred Treasures and Power Objects
+    relationship: child
+    review_action: map_to_group
+  hero_descent:
+    group_id: descent
+    group_label: Descent and Underworld Journey
+    relationship: child
+    review_action: map_to_group
+  hero_journey:
+    group_id: hero_journey
+    group_label: The Hero's Journey
+    relationship: canonical_group
+    review_action: map_to_group
+  heroic_childhood_signs:
+    group_id: initiation
+    group_label: Initiation and Transformative Ordeal
+    relationship: child
+    review_action: map_to_group
+  holiness_code:
+    group_id: divine_judgment
+    group_label: Divine Judgment and Moral Reckoning
+    relationship: child
+    review_action: map_to_group
+  household_reversal:
+    group_id: sacred_combat
+    group_label: Sacred Combat and Ritual Warfare
+    relationship: child
+    review_action: map_to_group
+  idol:
+    group_id: sacred_treasures
+    group_label: Sacred Treasures and Power Objects
+    relationship: child
+    review_action: map_to_group
+  initiation:
+    group_id: initiation
+    group_label: Initiation and Transformative Ordeal
+    relationship: canonical_group
+    review_action: map_to_group
+  labyrinth_initiation:
+    group_id: initiation
+    group_label: Initiation and Transformative Ordeal
+    relationship: taxonomy_motif_family
+    review_action: map_to_group
+  instrument_of_divine_action:
+    group_id: divine_intervention
+    group_label: Divine Intervention and Guidance
+    relationship: child
+    review_action: map_to_group
+  jubilee:
+    group_id: sacred_time
+    group_label: Sacred Time and Ritual Cycle
+    relationship: child
+    review_action: map_to_group
+  lament_and_mourning:
+    group_id: lament_and_mourning
+    group_label: Lament, Mourning, and Tragic Recognition
+    relationship: canonical_group
+    review_action: map_to_group
+  liberator_threatened_by_captive:
+    group_id: storytelling_as_power
+    group_label: Storytelling and Narrative as Sacred Power
+    relationship: child
+    review_action: map_to_group
+  love_as_an_affliction_cured_only_by_the_beloved:
+    group_id: sacred_love
+    group_label: Sacred Love and Longing
+    relationship: child
+    review_action: map_to_group
+  magical_animal_boundary:
+    group_id: shapeshifter
+    group_label: Shapeshifter and Transformation
+    relationship: child
+    review_action: map_to_group
+  magical_animal_mount:
+    group_id: shapeshifter
+    group_label: Shapeshifter and Transformation
+    relationship: child
+    review_action: map_to_group
+  miraculous_birth_under_palm:
+    group_id: miraculous_child
+    group_label: Miraculous Child and Sacred Birth
+    relationship: child
+    review_action: map_to_group
+  miraculous_child:
+    group_id: miraculous_child
+    group_label: Miraculous Child and Sacred Birth
+    relationship: canonical_group
+    review_action: map_to_group
+  moral_consequence_following_action:
+    group_id: divine_judgment
+    group_label: Divine Judgment and Moral Reckoning
+    relationship: child
+    review_action: map_to_group
+  mother_goddess:
+    group_id: mother_goddess
+    group_label: Sacred Feminine and Mother Goddess
+    relationship: canonical_group
+    review_action: map_to_group
+  mourning_expressed_through_embracing_and_kissing_the_deceased_warrior_s_horse_and_equipment:
+    group_id: lament_and_mourning
+    group_label: Lament, Mourning, and Tragic Recognition
+    relationship: child
+    review_action: map_to_group
+  mystical_quest:
+    group_id: mystical_quest
+    group_label: Mystical Quest and Interior Journey
+    relationship: canonical_group
+    review_action: map_to_group
+  non_action:
+    group_id: duality
+    group_label: Duality and Cosmic Opposition
+    relationship: child
+    review_action: map_to_group
+  opened_perception:
+    group_id: dream_and_vision
+    group_label: Dream, Vision, and Altered Perception
+    relationship: child
+    review_action: map_to_group
+  oral_transmission_producing_interpolated_and_fragmentary_poetic_tradition:
+    group_id: _meta_textual
+    group_label: Textual and Scholarly Artifacts
+    relationship: child
+    review_action: exclude_from_pattern_queries
+  otherworld:
+    group_id: otherworld
+    group_label: Otherworld and Enchanted Realm
+    relationship: canonical_group
+    review_action: map_to_group
+  otherworld_exchange:
+    group_id: otherworld
+    group_label: Otherworld and Enchanted Realm
+    relationship: child
+    review_action: map_to_group
+  otherworld_protection_in_small_form:
+    group_id: otherworld
+    group_label: Otherworld and Enchanted Realm
+    relationship: child
+    review_action: map_to_group
+  otherworld_sojourn:
+    group_id: otherworld
+    group_label: Otherworld and Enchanted Realm
+    relationship: child
+    review_action: map_to_group
+  passage_through_waters:
+    group_id: sacred_waters
+    group_label: Sacred Waters and Passage Through Water
+    relationship: child
+    review_action: map_to_group
+  perilous_path_of_love_requiring_caution:
+    group_id: sacred_love
+    group_label: Sacred Love and Longing
+    relationship: child
+    review_action: map_to_group
+  portable_sanctuary:
+    group_id: sacred_vessel
+    group_label: Sacred Vessel and Container
+    relationship: child
+    review_action: map_to_group
+  pride_and_downfall:
+    group_id: pride_and_downfall
+    group_label: Pride, Hubris, and Downfall
+    relationship: canonical_group
+    review_action: map_to_group
+  pride_as_brief_rule_followed_by_downfall_dissolution:
+    group_id: pride_and_downfall
+    group_label: Pride, Hubris, and Downfall
+    relationship: child
+    review_action: map_to_group
+  pride_humbled_in_divine_containment:
+    group_id: pride_and_downfall
+    group_label: Pride, Hubris, and Downfall
+    relationship: child
+    review_action: map_to_group
+  primordial_sacrifice:
+    group_id: primordial_sacrifice
+    group_label: Primordial Sacrifice and Dismemberment
+    relationship: canonical_group
+    review_action: map_to_group
+  prolonged_mourning_without_relief_leading_to_physical_collapse_death:
+    group_id: lament_and_mourning
+    group_label: Lament, Mourning, and Tragic Recognition
+    relationship: child
+    review_action: map_to_group
+  prophet_call_under_opposition:
+    group_id: divine_intervention
+    group_label: Divine Intervention and Guidance
+    relationship: child
+    review_action: map_to_group
+  protective_mark:
+    group_id: sacred_treasures
+    group_label: Sacred Treasures and Power Objects
+    relationship: child
+    review_action: map_to_group
+  rebirth_through_ingestion:
+    group_id: death_and_transformation
+    group_label: Death, Rebirth, and Transformation
+    relationship: child
+    review_action: map_to_group
+  reciprocity_as_ethical_command:
+    group_id: sacred_law
+    group_label: Sacred Law and Social Order
+    relationship: child
+    review_action: map_to_group
+  refused_homage_to_created_human:
+    group_id: divine_intervention
+    group_label: Divine Intervention and Guidance
+    relationship: child
+    review_action: map_to_group
+  renunciation:
+    group_id: mystical_quest
+    group_label: Mystical Quest and Interior Journey
+    relationship: child
+    review_action: map_to_group
+  resurrection:
+    group_id: death_and_transformation
+    group_label: Death, Rebirth, and Transformation
+    relationship: child
+    review_action: map_to_group
+  return:
+    group_id: hero_journey
+    group_label: The Hero's Journey
+    relationship: child
+    review_action: map_to_group
+  revelation_as_recitation:
+    group_id: sacred_knowledge
+    group_label: Sacred Knowledge and Wisdom
+    relationship: child
+    review_action: map_to_group
+  ritual_prohibition:
+    group_id: divine_judgment
+    group_label: Divine Judgment and Moral Reckoning
+    relationship: child
+    review_action: map_to_group
+  ritualized_release:
+    group_id: sacrifice
+    group_label: Sacrifice and Offering
+    relationship: child
+    review_action: map_to_group
+  royal_legitimacy:
+    group_id: royal_legitimacy
+    group_label: Royal Legitimacy and Sacred Kingship
+    relationship: canonical_group
+    review_action: map_to_group
+  sabbath_cycle:
+    group_id: sacred_time
+    group_label: Sacred Time and Ritual Cycle
+    relationship: child
+    review_action: map_to_group
+  sacred_birth:
+    group_id: miraculous_child
+    group_label: Miraculous Child and Sacred Birth
+    relationship: child
+    review_action: map_to_group
+  sacred_cauldron:
+    group_id: sacred_vessel
+    group_label: Sacred Vessel and Container
+    relationship: child
+    review_action: map_to_group
+  sacred_combat:
+    group_id: sacred_combat
+    group_label: Sacred Combat and Ritual Warfare
+    relationship: canonical_group
+    review_action: map_to_group
+  sacred_craft:
+    group_id: sacred_craft
+    group_label: Sacred Craft and Divinely Aided Construction
+    relationship: canonical_group
+    review_action: map_to_group
+  sacred_exchange:
+    group_id: sacred_exchange
+    group_label: Sacred Exchange and Reciprocity
+    relationship: canonical_group
+    review_action: map_to_group
+  sacred_fire:
+    group_id: sacred_fire
+    group_label: Sacred Fire and Divine Light
+    relationship: canonical_group
+    review_action: map_to_group
+  sacred_knowledge:
+    group_id: sacred_knowledge
+    group_label: Sacred Knowledge and Wisdom
+    relationship: canonical_group
+    review_action: map_to_group
+  sacred_law:
+    group_id: sacred_law
+    group_label: Sacred Law and Social Order
+    relationship: canonical_group
+    review_action: map_to_group
+  sacred_love:
+    group_id: sacred_love
+    group_label: Sacred Love and Longing
+    relationship: canonical_group
+    review_action: map_to_group
+  sacred_marriage:
+    group_id: sacred_love
+    group_label: Sacred Love and Longing
+    relationship: taxonomy_motif_family
+    review_action: map_to_group
+  sacred_mountain:
+    group_id: axis_mundi
+    group_label: World Axis and Sacred Center
+    relationship: child
+    review_action: map_to_group
+  sacred_song:
+    group_id: mystical_quest
+    group_label: Mystical Quest and Interior Journey
+    relationship: child
+    review_action: map_to_group
+  sacred_theft:
+    group_id: sacred_knowledge
+    group_label: Sacred Knowledge and Wisdom
+    relationship: child
+    review_action: map_to_group
+  sacred_time:
+    group_id: sacred_time
+    group_label: Sacred Time and Ritual Cycle
+    relationship: canonical_group
+    review_action: map_to_group
+  sacred_treasures:
+    group_id: sacred_treasures
+    group_label: Sacred Treasures and Power Objects
+    relationship: canonical_group
+    review_action: map_to_group
+  sacred_tree_axis:
+    group_id: axis_mundi
+    group_label: World Axis and Sacred Center
+    relationship: child
+    review_action: map_to_group
+  sacred_twins:
+    group_id: sacred_twins
+    group_label: Sacred Twins and Sibling Pairs
+    relationship: canonical_group
+    review_action: map_to_group
+  sacred_vessel:
+    group_id: sacred_vessel
+    group_label: Sacred Vessel and Container
+    relationship: canonical_group
+    review_action: map_to_group
+  sacred_waters:
+    group_id: sacred_waters
+    group_label: Sacred Waters and Passage Through Water
+    relationship: canonical_group
+    review_action: map_to_group
+  sacrifice:
+    group_id: sacrifice
+    group_label: Sacrifice and Offering
+    relationship: canonical_group
+    review_action: map_to_group
+  scapegoat:
+    group_id: sacrifice
+    group_label: Sacrifice and Offering
+    relationship: child
+    review_action: map_to_group
+  sealed_spirit_vessel:
+    group_id: sacred_vessel
+    group_label: Sacred Vessel and Container
+    relationship: child
+    review_action: map_to_group
+  seasonal_cycle:
+    group_id: sacred_time
+    group_label: Sacred Time and Ritual Cycle
+    relationship: child
+    review_action: map_to_group
+  self_knowledge:
+    group_id: mystical_quest
+    group_label: Mystical Quest and Interior Journey
+    relationship: child
+    review_action: map_to_group
+  serpent:
+    group_id: serpent_guardian
+    group_label: Serpent and Serpent Guardian
+    relationship: alias
+    review_action: map_to_group
+  serpent_guardian:
+    group_id: serpent_guardian
+    group_label: Serpent and Serpent Guardian
+    relationship: canonical_group
+    review_action: map_to_group
+  shapeshifter:
+    group_id: shapeshifter
+    group_label: Shapeshifter and Transformation
+    relationship: canonical_group
+    review_action: map_to_group
+  sibling_pair:
+    group_id: sacred_twins
+    group_label: Sacred Twins and Sibling Pairs
+    relationship: child
+    review_action: map_to_group
+  social_care:
+    group_id: sacred_law
+    group_label: Sacred Law and Social Order
+    relationship: child
+    review_action: map_to_group
+  speaking_infant_in_cradle:
+    group_id: miraculous_child
+    group_label: Miraculous Child and Sacred Birth
+    relationship: child
+    review_action: map_to_group
+  storytelling_as_power:
+    group_id: storytelling_as_power
+    group_label: Storytelling and Narrative as Sacred Power
+    relationship: canonical_group
+    review_action: map_to_group
+  storytelling_as_survival:
+    group_id: storytelling_as_power
+    group_label: Storytelling and Narrative as Sacred Power
+    relationship: child
+    review_action: map_to_group
+  stolen_beloved:
+    group_id: sacred_love
+    group_label: Sacred Love and Longing
+    relationship: taxonomy_motif_family
+    review_action: map_to_group
+  supreme_ruler:
+    group_id: supreme_ruler
+    group_label: Supreme Ruler and Cosmic Sovereignty
+    relationship: canonical_group
+    review_action: map_to_group
+  supreme_ruler_descends_appears_from_above_to_rule_all_lands:
+    group_id: supreme_ruler
+    group_label: Supreme Ruler and Cosmic Sovereignty
+    relationship: child
+    review_action: map_to_group
+  survivor_pair:
+    group_id: flood_and_renewal
+    group_label: Flood, Fire, and Cosmic Renewal
+    relationship: child
+    review_action: map_to_group
+  textual_reconstruction_through_emendation_and_documentation_of_variants:
+    group_id: _meta_textual
+    group_label: Textual and Scholarly Artifacts
+    relationship: child
+    review_action: exclude_from_pattern_queries
+  theophany:
+    group_id: ascent
+    group_label: Ascent and Heavenly Journey
+    relationship: child
+    review_action: map_to_group
+  theophany_of_many_forms:
+    group_id: ascent
+    group_label: Ascent and Heavenly Journey
+    relationship: child
+    review_action: map_to_group
+  threshold_guardian:
+    group_id: threshold_guardian
+    group_label: Threshold Guardian
+    relationship: canonical_group
+    review_action: map_to_group
+  trickster:
+    group_id: trickster
+    group_label: Trickster and Boundary Crosser
+    relationship: canonical_group
+    review_action: map_to_group
+  trickster_boundary:
+    group_id: trickster
+    group_label: Trickster and Boundary Crosser
+    relationship: child
+    review_action: map_to_group
+  uncanny_ford_encounter:
+    group_id: threshold_guardian
+    group_label: Threshold Guardian
+    relationship: child
+    review_action: map_to_group
+  underworld_trial:
+    group_id: descent
+    group_label: Descent and Underworld Journey
+    relationship: child
+    review_action: map_to_group
+  violated_queen_as_trigger_of_vengeance:
+    group_id: sacred_combat
+    group_label: Sacred Combat and Ritual Warfare
+    relationship: child
+    review_action: map_to_group
+  voluntary_bride_intercession:
+    group_id: storytelling_as_power
+    group_label: Storytelling and Narrative as Sacred Power
+    relationship: child
+    review_action: map_to_group
+  vow_of_vengeance_for_a_fallen_king_hero:
+    group_id: divine_warrior
+    group_label: Divine Warrior and Sacred Combat
+    relationship: child
+    review_action: map_to_group
+  warrior_duty_under_crisis:
+    group_id: divine_warrior
+    group_label: Divine Warrior and Sacred Combat
+    relationship: child
+    review_action: map_to_group
+  warrior_honor_and_burial:
+    group_id: divine_warrior
+    group_label: Divine Warrior and Sacred Combat
+    relationship: child
+    review_action: map_to_group
+  waters_divided:
+    group_id: cosmic_origin
+    group_label: Cosmic Origin and Creation
+    relationship: child
+    review_action: map_to_group
+  wealth_contest_between_rulers:
+    group_id: sacred_combat
+    group_label: Sacred Combat and Ritual Warfare
+    relationship: child
+    review_action: map_to_group
+  wisdom:
+    group_id: sacred_knowledge
+    group_label: Sacred Knowledge and Wisdom
+    relationship: child
+    review_action: map_to_group
+  wit_overwhelms_supernatural_force:
+    group_id: storytelling_as_power
+    group_label: Storytelling and Narrative as Sacred Power
+    relationship: child
+    review_action: map_to_group
+  world_destroying_fire:
+    group_id: flood_and_renewal
+    group_label: Flood, Fire, and Cosmic Renewal
+    relationship: taxonomy_motif_family
+    review_action: map_to_group
+  world_center:
+    group_id: axis_mundi
+    group_label: World Axis and Sacred Center
+    relationship: child
+    review_action: map_to_group
+  world_egg:
+    group_id: cosmic_origin
+    group_label: Cosmic Origin and Creation
+    relationship: child
+    review_action: map_to_group
+  after_death_reunion_of_a_purified_pair:
+    group_id: sacred_love
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
+    notes: 'The label centers on reunion of a pair beyond death, aligning with love
+      that transcends bodily death. Caution: If the passage emphasizes purification
+      or postmortem geography more than love, afterlife_passage or death_and_transformation
+      may be better secondary mappings.'
+  ancestors_or_dead_persons_embodied_in_trees:
+    group_id: death_and_transformation
+    relationship: symbolic_variant
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
+    notes: 'Dead persons becoming embodied in trees is a postmortem transformation
+      pattern. Caution: Could also index under axis_mundi or sacred_tree_axis if the
+      tree functions as a cosmic connector, not merely as a transformed body.'
+  animal_body_as_temporary_location_of_a_living_person_s_soul:
+    group_id: shapeshifter
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
+    notes: 'A soul temporarily occupying an animal body functions as bodily or species
+      transformation. Caution: If the key pattern is soul externalization rather than
+      animal form, it should be related to the proposed external_detachable_soul group.'
+  animal_body_explained_by_ancestral_punishment:
+    group_id: shapeshifter
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
+    notes: 'The label describes animal embodiment as a consequence of punishment,
+      fitting transformation into animal form. Caution: Could also involve divine_judgment
+      if the passage emphasizes moral punishment more than transformation.'
+  apotropaic_mirror_repels_spirits:
+    group_id: apotropaic_protection
+    relationship: child
+    confidence: medium
+    review_status: new_group_candidate
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
+    notes: 'The core motif is protective ritual/object use against spirits, which
+      is not well covered by existing death or sacred-object groups. Caution: May
+      be too object-specific unless related apotropaic motifs recur; mirror detail
+      should remain granular evidence.'
+  apotropaic_plant_against_evil_spirits:
+    group_id: apotropaic_protection
+    relationship: child
+    confidence: medium
+    review_status: new_group_candidate
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
+    notes: 'A plant used to avert evil spirits belongs with apotropaic protection
+      rather than general sacred treasures or sacred law. Caution: Plant symbolism
+      may be locally important; do not collapse into sacred tree/axis unless the plant
+      functions cosmologically.'
+  apotropaic_removal_of_death_and_disease_from_village_or_house:
+    group_id: apotropaic_protection
+    relationship: ritual_variant
+    confidence: medium
+    review_status: new_group_candidate
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
+    notes: 'This describes a communal or domestic rite expelling death/disease, a
+      clear apotropaic protection pattern. Caution: Could overlap with scapegoat,
+      annual purification, or ritual transfer if the rite uses substitution or calendrical
+      purification.'
+  avoidance_of_raw_flesh_or_blood_to_prevent_spirit_contact:
+    group_id: sacred_law
+    relationship: ritual_variant
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
+    notes: 'A food/blood avoidance rule to prevent spirit contact fits ritual prohibition
+      and sacred law. Caution: If the passage emphasizes blood as life or sacrifice,
+      secondary mapping to sacrifice may be appropriate.'
+  avoidance_of_sharp_instruments_near_the_dead_or_the_soul:
+    group_id: sacred_law
+    relationship: ritual_variant
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
+    notes: 'This is a mortuary prohibition regulating contact with the dead or soul.
+      Caution: May warrant apotropaic protection if framed as averting harm, or afterlife
+      passage if tied to the soul''s journey.'
+  bear_nursed_first_ancestor:
+    group_id: miraculous_child
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
+    notes: 'A first ancestor nursed by an animal fits protected or extraordinary infancy
+      and sacred ancestry. Caution: Could also relate to culture hero, animal ancestor,
+      or totemic origin; no existing animal-ancestor group is present.'
+  bestowal_of_immortality:
+    group_id: death_and_transformation
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
+    notes: 'Receiving immortality transforms a mortal or vulnerable figure into a
+      death-transcending state. Caution: If tied to apotheosis, divine reward, or
+      heroic cult, a more specific future group may be useful.'
+  external_or_detachable_soul:
+    group_id: external_detachable_soul
+    relationship: uncertain
+    confidence: medium
+    review_status: new_group_candidate
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
+    notes: 'The motif concerns a soul existing apart from the body, which is not captured
+      cleanly by existing death, descent, or shapeshifting groups. Caution: May overlap
+      with transformation, immortality, vulnerability, or folktale life-token patterns
+      depending on source context.'
+  external_soul_located_outside_the_body:
+    group_id: external_detachable_soul
+    relationship: narrower_than
+    confidence: medium
+    review_status: new_group_candidate
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
+    notes: 'This is a more specific form of the detachable/external soul pattern.
+      Caution: Placement should be reviewed with the broader external-soul candidate;
+      may be an alias rather than a separate child.'
+expansion_draft:
+  generated_on: '2026-04-28'
+  source_suggestions_path: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
+  base_normalization_path: taxonomy/motif-normalization.yml
+  purpose: Draft expansion generated from model normalization suggestions. Review
+    before merging into taxonomy/motif-normalization.yml.
+  include_low_confidence: false
+  suggestion_count: 20
+  accepted_mapping_count: 13
+  new_group_candidate_count: 2
+  excluded_count: 2
+  needs_review_count: 5
+  already_known_count: 0
+expansion_review_flags:
+  low_confidence_or_needs_human_review:
+  - motif_id: ancestral_exemplars_judging_later_imitators
+    label: Ancestral exemplars judging later imitators
+    occurrences: 1
+    traditions:
+    - greek
+    suggested_action: map_to_existing_group
+    suggested_group_id: divine_judgment
+    suggested_group_label: Divine Judgment and Moral Reckoning
+    relationship: role_variant
+    confidence: low
+    reason: low confidence
+    rationale: The motif describes exemplary ancestors acting as evaluators of later
+      conduct, a judgment function.
+    cautions: This may be a contextual ethical or literary comparison rather than
+      a recurring mythic motif; verify whether actual ancestral agency is present.
+  - motif_id: ancestral_inheritance_overcome_by_conscious_action
+    label: ancestral inheritance overcome by conscious action
+    occurrences: 1
+    traditions:
+    - greek
+    suggested_action: needs_human_review
+    suggested_group_id: ''
+    suggested_group_label: ''
+    relationship: uncertain
+    confidence: low
+    reason: low confidence
+    rationale: The label reads as an ethical-psychological theme rather than a clear
+      narrative motif in the existing taxonomy.
+    cautions: May fit wisdom, initiation, sacred law, or pride/downfall depending
+      on passage evidence; avoid mapping solely from abstract wording.
+  - motif_id: animal_pleads_usefulness_to_avoid_death
+    label: animal pleads usefulness to avoid death
+    occurrences: 1
+    traditions:
+    - greek
+    suggested_action: needs_human_review
+    suggested_group_id: ''
+    suggested_group_label: ''
+    relationship: uncertain
+    confidence: low
+    reason: low confidence
+    rationale: This is an animal speech and survival episode, but no existing group
+      cleanly covers talking animals or persuasive escape from death.
+    cautions: May be a fable-type narrative detail rather than a broad mythic motif;
+      source context is needed before creating an animal-trickster or fable group.
+  - motif_id: animal_taboo_based_on_mythic_death
+    label: animal taboo based on mythic death
+    occurrences: 1
+    traditions:
+    - comparative
+    suggested_action: needs_human_review
+    suggested_group_id: sacred_law
+    suggested_group_label: Sacred Law and Social Order
+    relationship: ritual_variant
+    confidence: low
+    reason: low confidence
+    rationale: A taboo grounded in mythic death may function as sacred prohibition
+      or ritual law.
+    cautions: Single occurrence; could instead be etiological myth, ancestor cult,
+      food taboo, or local commentary depending on source evidence.
+  - motif_id: authorship_as_public_immortality
+    label: authorship as public immortality
+    occurrences: 1
+    traditions:
+    - greek
+    suggested_action: needs_human_review
+    suggested_group_id: storytelling_as_power
+    suggested_group_label: Storytelling and Narrative as Sacred Power
+    relationship: symbolic_variant
+    confidence: low
+    reason: low confidence
+    rationale: Authorship conferring lasting fame may fit narrative or speech as survival
+      beyond death.
+    cautions: Could be literary ideology rather than mythic motif; if merely an authorial
+      claim, exclude as textual commentary.
+  new_group_candidates:
+  - id: apotropaic_protection
+    label: Apotropaic Protection Against Spirits
+    description: Ritual acts, objects, plants, marks, or removals used to repel, avert,
+      or expel harmful spirits, death, disease, or malign forces from persons, houses,
+      or communities.
+    children:
+    - apotropaic_mirror_repels_spirits
+    - apotropaic_plant_against_evil_spirits
+    - apotropaic_removal_of_death_and_disease_from_village_or_house
+    aliases: []
+    related:
+    - sacred_law
+    - sacred_exchange
+    - death_and_transformation
+    draft_status: new_group_candidate
+    draft_parent_group_ids:
+    - sacred_treasures
+    - divine_judgment
+    draft_reason_existing_groups_insufficient: Existing sacred-object and judgment
+      groups do not capture the recurring protective/averting function against spirits
+      or pollution.
+  - id: external_detachable_soul
+    label: External or Detachable Soul
+    description: A person's life, soul, or vital essence is located outside the ordinary
+      body, can detach from it, or is kept in another being, object, or place, creating
+      unusual vulnerability, power, or survival.
+    children:
+    - external_or_detachable_soul
+    - external_soul_located_outside_the_body
+    aliases: []
+    related:
+    - shapeshifter
+    - sacred_vessel
+    - sacred_treasures
+    draft_status: new_group_candidate
+    draft_parent_group_ids:
+    - death_and_transformation
+    draft_reason_existing_groups_insufficient: Existing groups cover death, rebirth,
+      vessels, and shapeshifting, but not the specific pattern of vital essence externalized
+      from the body.
+  excluded_from_pattern_queries:
+  - motif_id: animal_or_lizard_form_of_the_soul_as_a_variant_marker
+    label: animal or lizard form of the soul as a variant marker
+    occurrences: 1
+    traditions:
+    - comparative
+    suggested_action: exclude_from_pattern_queries
+    suggested_group_id: ''
+    suggested_group_label: ''
+    relationship: meta_artifact
+    confidence: medium
+    reason: model suggested exclusion from pattern queries
+    rationale: The phrase 'as a variant marker' suggests a comparative classification
+      note rather than a usable motif label.
+    cautions: If source passages actually describe the soul taking animal or lizard
+      form, preserve that evidence under shapeshifter or external_detachable_soul
+      instead.
+  - motif_id: assimilation_of_local_underworld_to_greek_hades
+    label: Assimilation of local underworld to Greek Hades
+    occurrences: 1
+    traditions:
+    - greek_roman
+    suggested_action: exclude_from_pattern_queries
+    suggested_group_id: _meta_textual
+    suggested_group_label: Textual and Scholarly Artifacts
+    relationship: meta_artifact
+    confidence: high
+    reason: model suggested exclusion from pattern queries
+    rationale: The label describes interpretive or syncretic classification of traditions
+      rather than a narrative motif.
+    cautions: Preserve as provenance or reception note if source discusses local underworld
+      concepts; avoid using as evidence of transmission here.
+  already_known_in_base_normalization: []
+
