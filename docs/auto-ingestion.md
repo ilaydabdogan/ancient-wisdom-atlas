@@ -60,6 +60,36 @@ ruby scripts/corpus_convert_queue.rb
 ruby scripts/corpus_promote_queue.rb
 ```
 
+## Overnight Trickle Run
+
+For an unattended sleep run, use the trickle runner instead of a large one-shot
+download. It processes a small number of queue items, validates clean Markdown,
+sleeps, and repeats until the deadline.
+
+```sh
+ruby scripts/corpus_trickle_run.rb \
+  --duration-hours 10 \
+  --interval-seconds 1800 \
+  --limit-per-cycle 1
+```
+
+This default cadence processes at most one queued Project Gutenberg text every
+30 minutes. The runner uses no API key. It stops if the queue is empty or if
+`scripts/check_clean_markdown.rb` catches raw HTML, boilerplate, trailing
+whitespace, excessive blank lines, or other corpus cleanliness issues.
+
+Preview the first cycle without downloading:
+
+```sh
+ruby scripts/corpus_trickle_run.rb --dry-run
+```
+
+For a full repo check after every cycle:
+
+```sh
+ruby scripts/corpus_trickle_run.rb --check-all
+```
+
 ## Safety Rules
 
 - Raw downloads go under `imports/raw/`.
