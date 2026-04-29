@@ -6,12 +6,12 @@ This is a review artifact. It does not modify `taxonomy/motif-normalization.yml`
 
 ## Summary
 
-- Suggestions reviewed: 1580
-- Accepted draft mappings: 77
-- New canonical group candidates: 35
-- Low-confidence / needs human review: 512
-- Suggested exclusions: 120
-- Already known in base normalization: 871
+- Suggestions reviewed: 1700
+- Accepted draft mappings: 82
+- New canonical group candidates: 36
+- Low-confidence / needs human review: 565
+- Suggested exclusions: 132
+- Already known in base normalization: 921
 
 ## New Group Candidates
 
@@ -34,6 +34,7 @@ This is a review artifact. It does not modify `taxonomy/motif-normalization.yml`
 | `envy_rivalry_failed_imitation` | Envy, Rivalry, and Failed Imitation | 4 | Existing pride/downfall and divine_judgment groups cover moral consequence broadly, but do not preserve the specific envy-driven imitation and failure structure. |
 | `eponymous_ancestors_people_origins` | Eponymous Ancestors and People Origins | 1 | Culture_hero covers founding gifts and institutions, while royal_legitimacy covers rule; neither preserves the specific ethnogonic function of named progenitors. |
 | `false_accusation_vindication` | False Accusation and Vindication | 3 | Existing judgment and law groups cover moral reckoning but not the specific recurrent narrative mechanism of false charge, evidence manipulation, and vindication. |
+| `fate_figures_destiny` | Fate Figures and Destiny | 2 | Existing death_by_fate covers death attributed to destiny, but not personified fate figures governing time or cosmic order. |
 | `first_pair_spouse_origin` | First Pair and Human Spouse Origin | 1 | Existing groups cover cosmic creation, sacred union, and birth, but not the specific anthropogonic creation of the first couple or spouse as the basis for human social order. |
 | `greed_temperance_reversal` | Greed, Temperance, and Moral Reversal | 4 | Pride/downfall covers overreach, but these labels specifically concern avarice, temperance, and wealth or desire reversals. |
 | `inexhaustible_provision` | Inexhaustible Provision and Abundance | 1 | Existing groups cover sacred objects, vessels, and exchange, but none specifically preserve the recurring function of inexhaustible abundance or self-renewing provision. |
@@ -49,7 +50,7 @@ This is a review artifact. It does not modify `taxonomy/motif-normalization.yml`
 | `ritual_healing` | Ritual Healing and Restorative Medicine | 1 | Current groups cover divine agency, objects, waters, and soul restoration, but not the recurring healing function across substances, places, helpers, and rites. |
 | `saintly_shrine_relic_devotion` | Saintly Shrine and Relic Devotion | 1 | Existing groups cover power objects, ancestor rites, and intervention, but not the combined ritual complex of saintly tomb/relic veneration and devotional access to blessing. |
 | `solar_chariot` | Solar Chariot and Celestial Vehicle | 1 | Existing groups cover ascent, fire/light, and sacred objects, but not the cosmological function of a celestial vehicle carrying the sun or divine light through ordered time. |
-| `sympathetic_magic` | Sympathetic Magic and Ritual Correspondence | 1 | Existing groups cover law, exchange, sacrifice, and power objects, but not the distinctive ritual logic of resemblance or contact acting at a distance. |
+| `sympathetic_magic` | Sympathetic Magic and Ritual Correspondence | 4 | Existing groups cover law, exchange, sacrifice, and power objects, but not the distinctive ritual logic of resemblance or contact acting at a distance. |
 | `transformative_ingestion` | Transformative Ingestion | 1 | Existing groups cover sacrifice, sacred law, and rebirth, but none cleanly captures ingestion as the mechanism of transferred qualities across ritual and narrative contexts. |
 | `world_ages_decline` | World Ages and Cosmic Decline | 2 | Existing groups cover individual downfall, sacred cycles, and judgment, but not a structured sequence of declining cosmic or human ages. |
 
@@ -558,7 +559,7 @@ This is a review artifact. It does not modify `taxonomy/motif-normalization.yml`
 | `secret_treasure_discovered_and_stolen_by_observer` | Secret treasure discovered and stolen by observer | map_to_existing_group | `sacred_treasures` Sacred Treasures and Power Objects | low | low confidence |
 | `secretive_spouse_with_abnormal_eating_behavior` | secretive spouse with abnormal eating behavior | needs_human_review | ``  | low | low confidence |
 
-_Showing first 500 of 512 review rows._
+_Showing first 500 of 565 review rows._
 
 ## Suggested Exclusions
 
@@ -684,5 +685,17 @@ _Showing first 500 of 512 review rows._
 | `secret_revelry_exposed_by_excessive_illumination` | secret revelry exposed by excessive illumination | medium | The label reads as a highly specific plot mechanism rather than a reusable mythic motif. |
 | `separate_romance_cycles_later_connected_through_shared_figures` | Separate romance cycles later connected through shared figures | high | The label describes later literary cycle linkage and textual organization, not a narrative motif within the story world. |
 | `shared_introductory_story_across_multiple_j_takas` | shared introductory story across multiple Jātakas | high | The label describes reuse of an introductory frame across texts, not a symbolic or narrative motif itself. |
+| `story_narrated_as_true_event` | story narrated as true event | high | The label describes narrative framing or truth-claim status rather than a symbolic or narrative motif. |
+| `survivor_messenger_carries_defeat_to_a_greater_antagonist` | survivor messenger carries defeat to a greater antagonist | medium | This reads as a plot mechanics detail about reporting a battle outcome rather than a durable symbolic motif. |
+| `survivors_report_slaughter_and_summon_wider_army` | survivors report slaughter and summon wider army | medium | The label is a specific narrative transition from massacre report to army mobilization, not a broad mythic motif. |
+| `syncretic_identification_of_bacchus_with_osiris` | Syncretic identification of Bacchus with Osiris | high | The label describes interpretive syncretic identification between deities rather than a narrative or symbolic motif. |
+| `tale_migration_across_traditions` | tale migration across traditions | high | The label describes transmission or diffusion of a tale between traditions, not a narrative motif within the tale. |
+| `tale_migration_through_cultural_and_commercial_contact` | Tale migration through cultural and commercial contact | high | This is a historical-contact or transmission claim rather than a symbolic or narrative motif. |
+| `traditional_skewered_meat_over_ashes` | traditional skewered meat over ashes | medium | The label reads as a culinary or ethnographic detail rather than a symbolic narrative motif. |
+| `transmission_and_migration_of_story_collections` | Transmission and migration of story collections | high | This describes textual/history-of-tradition movement rather than a narrative or symbolic motif. |
+| `transmission_and_reattribution_of_tale_collections` | Transmission and reattribution of tale collections | high | The label concerns attribution and textual transmission history, not a motif within the stories. |
+| `transmission_of_mystical_poetry_across_cultures` | Transmission of mystical poetry across cultures | high | This is a reception/transmission claim about poetic traditions rather than a symbolic motif. |
+| `transmission_of_romance_through_adaptation_and_translation` | Transmission of romance through adaptation and translation | high | Adaptation and translation history is a scholarly/textual artifact, not a recurring narrative motif. |
+| `uncertain_founder_or_author_figure` | uncertain founder or author figure | high | The wording describes uncertainty about attribution or identity rather than a narrative motif. |
 
-_Showing first 120 of 120 exclusion rows._
+_Showing first 132 of 132 exclusion rows._

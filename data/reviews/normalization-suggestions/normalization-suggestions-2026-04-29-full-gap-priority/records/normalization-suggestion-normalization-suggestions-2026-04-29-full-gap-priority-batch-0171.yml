@@ -1,0 +1,320 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0171
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.surviving-youngest-brother-avenges-losses-and-recovers-what-was-stolen
+  motif_id: surviving_youngest_brother_avenges_losses_and_recovers_what_was_stolen
+  label: surviving youngest brother avenges losses and recovers what was stolen
+  occurrences: 1
+  traditions:
+  - ainu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: low
+  rationale: The label centers on revenge, recovery of stolen goods, and surviving
+    kin, fitting a combat or feud-resolution pattern better than general hero journey.
+  cautions: Single occurrence and culturally specific; could instead be sibling-pair,
+    trickster-theft recovery, or ordinary folktale plot detail depending on source
+    evidence.
+  suggested_aliases:
+  - youngest brother avenges kin
+  - recovery after theft through vengeance
+  - surviving sibling avenger
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.survivor-messenger-carries-defeat-to-a-greater-antagonist
+  motif_id: survivor_messenger_carries_defeat_to_a_greater_antagonist
+  label: survivor messenger carries defeat to a greater antagonist
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This reads as a plot mechanics detail about reporting a battle outcome
+    rather than a durable symbolic motif.
+  cautions: If the messenger role is ritually or divinely charged in the passage,
+    human review could map it to divine_intervention or sacred_combat.
+  suggested_aliases:
+  - defeat reported to antagonist
+  - survivor reports defeat
+  - battle survivor messenger
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.survivors-report-slaughter-and-summon-wider-army
+  motif_id: survivors_report_slaughter_and_summon_wider_army
+  label: survivors report slaughter and summon wider army
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label is a specific narrative transition from massacre report to
+    army mobilization, not a broad mythic motif.
+  cautions: Could be indexed under sacred_combat only if the wider army summons carry
+    ritual, heroic, or cosmic-order significance.
+  suggested_aliases:
+  - slaughter reported by survivors
+  - survivors summon army
+  - battle report triggers mobilization
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.swan-appearance-after-abduction
+  motif_id: swan_appearance_after_abduction
+  label: swan appearance after abduction
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Swan imagery after abduction may indicate transformation, otherworldly
+    identity, omen, or episode-specific visual detail.
+  cautions: Needs passage evidence; do not map to shapeshifter unless the swan is
+    actually a transformed being, or to otherworld unless abduction leads to an enchanted
+    realm.
+  suggested_aliases:
+  - swan after abduction
+  - abduction followed by swan apparition
+  - swan-form abduction sign
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - shapeshifter
+    - otherworld
+    - stolen_beloved
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.swift-messenger-delivers-decisive-aid-at-daybreak
+  motif_id: swift_messenger_delivers_decisive_aid_at_daybreak
+  label: Swift messenger delivers decisive aid at daybreak
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: low
+  rationale: Timely aid delivered by a messenger can function as intervention or guidance
+    in a crisis.
+  cautions: If the messenger is merely human military logistics, exclude as a plot
+    detail; if the emphasis is battle rescue, sacred_combat may be secondary.
+  suggested_aliases:
+  - timely messenger aid
+  - daybreak rescue message
+  - swift messenger brings aid
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sympathetic-magic-by-resemblance
+  motif_id: sympathetic_magic_by_resemblance
+  label: sympathetic magic by resemblance
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Sympathetic Magic and Ritual Imitation
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Resemblance-based ritual causation is a recurrent ritual logic not well
+    held by sacrifice, sacred_exchange, or sacred_law alone.
+  cautions: Tradition is comparative and may be a scholarly classification rather
+    than a source motif; review before promoting.
+  suggested_aliases:
+  - imitative magic
+  - magic by resemblance
+  - like affects like
+  suggested_new_group:
+    id: sympathetic_magic
+    label: Sympathetic Magic and Ritual Imitation
+    description: Ritual or magical actions work through resemblance, imitation, representation,
+      or symbolic correspondence between an enacted image and the desired effect.
+    parent_group_ids:
+    - sacred_law
+    - sacred_exchange
+    related_group_ids:
+    - sacrifice
+    - sacred_craft
+    - dream_and_vision
+    reason_existing_groups_insufficient: Existing groups cover offering, law, and
+      sacred exchange, but not the specific causal logic of imitation or resemblance
+      as ritual technology.
+- suggestion_id: normalization.suggestion.sympathetic-magic-through-dramatic-representation
+  motif_id: sympathetic_magic_through_dramatic_representation
+  label: Sympathetic magic through dramatic representation
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Sympathetic Magic and Ritual Imitation
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Dramatic representation as efficacious ritual is a clear subtype of sympathetic
+    or imitative magic.
+  cautions: May be a comparative-theory label rather than a primary motif; verify
+    source context and avoid overgeneralizing ritual performance.
+  suggested_aliases:
+  - ritual drama as magic
+  - imitative ritual performance
+  - dramatic representation causes effect
+  suggested_new_group:
+    id: sympathetic_magic
+    label: Sympathetic Magic and Ritual Imitation
+    description: Ritual or magical actions work through resemblance, imitation, representation,
+      or symbolic correspondence between an enacted image and the desired effect.
+    parent_group_ids:
+    - sacred_law
+    - sacred_exchange
+    related_group_ids:
+    - sacrifice
+    - storytelling_as_power
+    - sacred_craft
+    reason_existing_groups_insufficient: No current group cleanly captures performative
+      representation as magical causation.
+- suggestion_id: normalization.suggestion.sympathetic-magic-to-secure-game-supply
+  motif_id: sympathetic_magic_to_secure_game_supply
+  label: sympathetic magic to secure game supply
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Sympathetic Magic and Ritual Imitation
+  relationship: ritual_variant
+  confidence: medium
+  rationale: This is a practical hunting-provision subtype of sympathetic magic using
+    ritual action to secure animals or food supply.
+  cautions: Could overlap with sacrifice or sacred_exchange if offerings to animal
+    masters or spirits are central; the comparative label needs source verification.
+  suggested_aliases:
+  - hunting magic for game supply
+  - imitative magic for hunting success
+  - ritual securing of game
+  suggested_new_group:
+    id: sympathetic_magic
+    label: Sympathetic Magic and Ritual Imitation
+    description: Ritual or magical actions work through resemblance, imitation, representation,
+      or symbolic correspondence between an enacted image and the desired effect.
+    parent_group_ids:
+    - sacred_law
+    - sacred_exchange
+    related_group_ids:
+    - sacrifice
+    - culture_hero
+    reason_existing_groups_insufficient: Existing ritual groups do not distinguish
+      imitation-based magical causation applied to hunting or subsistence.
+- suggestion_id: normalization.suggestion.syncretic-identification-of-bacchus-with-osiris
+  motif_id: syncretic_identification_of_bacchus_with_osiris
+  label: Syncretic identification of Bacchus with Osiris
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes interpretive syncretic identification between deities
+    rather than a narrative or symbolic motif.
+  cautions: Preserve as reception, commentary, or provenance metadata if needed; do
+    not treat as evidence of transmission in this task.
+  suggested_aliases:
+  - Bacchus identified with Osiris
+  - Greco-Roman syncretic deity identification
+  - interpretive deity equivalence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.tale-as-repayment-for-food-and-drink
+  motif_id: tale_as_repayment_for_food_and_drink
+  label: Tale as repayment for food and drink
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: functional_variant
+  confidence: high
+  rationale: A story given in return for hospitality fits storytelling as exchange,
+    survival, and culturally valued repayment.
+  cautions: Could also touch sacred_exchange if the reciprocal obligation is the main
+    focus; preserve food-and-drink hospitality detail.
+  suggested_aliases:
+  - story as payment for hospitality
+  - narrative repayment
+  - tale exchanged for food and drink
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several battle-message labels appear over-specific and should not be promoted unless
+  recurring across sources with clear symbolic function.
+- The sympathetic magic labels cluster strongly; consider one candidate group only
+  after checking whether these are primary-source motifs or comparative scholarly
+  categories.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Provisional placements only; human review especially needed for Ainu youngest-brother
+    vengeance, Celtic swan imagery, and comparative sympathetic-magic terminology.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0171
+  input_sha256: b07d9587d6f02ff92fc336b39b83cb945cf057421edd81fc4d4dd39a71161357

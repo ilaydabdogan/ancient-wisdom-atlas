@@ -1,0 +1,302 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0174
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.threatened-believers-remain-steadfast-under-persecution
+  motif_id: threatened_believers_remain_steadfast_under_persecution
+  label: Threatened believers remain steadfast under persecution
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: functional_variant
+  confidence: low
+  rationale: Steadfastness under persecution can function as self-surrender or faithful
+    endurance under threat.
+  cautions: Could instead be martyrdom, sacred law, divine judgment, or a passage-specific
+    ethical example; source context is needed.
+  suggested_aliases:
+  - steadfast_believers_under_persecution
+  - faithful_endurance_under_threat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.threatened-shout-with-reproductive-harm
+  motif_id: threatened_shout_with_reproductive_harm
+  label: Threatened shout with reproductive harm
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is too compressed to tell whether the motif is curse, threat,
+    magical speech, bodily harm, or birth-related danger.
+  cautions: May be an over-specific episode detail; review whether reproductive harm
+    is actually enacted, threatened, prophetic, or metaphorical.
+  suggested_aliases:
+  - reproductive_harm_threat
+  - threatening_cry_causing_reproductive_danger
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.threatened-submersion-of-an-opponent
+  motif_id: threatened_submersion_of_an_opponent
+  label: threatened submersion of an opponent
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: low
+  rationale: Threatening to drown or submerge an opponent fits combat coercion when
+    the episode is a duel or conflict scene.
+  cautions: Do not map to sacred_waters unless water has boundary, purification, or
+    transformation function; may be only a fight detail.
+  suggested_aliases:
+  - opponent_threatened_with_submersion
+  - drowning_threat_in_combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.three-day-healing-sleep-after-extreme-exertion
+  motif_id: three_day_healing_sleep_after_extreme_exertion
+  label: three-day healing sleep after extreme exertion
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: A prolonged healing sleep after ordeal suggests restorative transformation
+    or recovery from a deathlike state.
+  cautions: If the passage emphasizes heroic fatigue rather than transformation, this
+    may be an episode detail under heroic ordeal rather than a broad motif.
+  suggested_aliases:
+  - healing_sleep_after_exertion
+  - three_day_recovery_sleep
+  - deathlike_restorative_sleep
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.three-fate-figures-governing-time-and-revolutions
+  motif_id: three_fate_figures_governing_time_and_revolutions
+  label: three fate figures governing time and revolutions
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Fate Figures and Destiny
+  relationship: child
+  confidence: medium
+  rationale: Triplicate fate-governing figures are not well captured by death_by_fate,
+    which centers on death rather than cosmic destiny administration.
+  cautions: Could overlap with sacred_time, divine_judgment, or death_by_fate depending
+    on whether the passage stresses time cycles, moral reckoning, or mortal destiny.
+  suggested_aliases:
+  - three_fates_govern_time
+  - fate_figures_governing_cosmic_cycles
+  - triplicate_destiny_figures
+  suggested_new_group:
+    id: fate_figures_destiny
+    label: Fate Figures and Destiny
+    description: Divine, semi-divine, or mythic figures who allot, weave, measure,
+      govern, or reveal destiny, lifespan, time, or cosmic necessity.
+    parent_group_ids:
+    - death_by_fate
+    - sacred_time
+    related_group_ids:
+    - divine_judgment
+    - duality
+    reason_existing_groups_insufficient: Existing death_by_fate covers death attributed
+      to destiny, but not personified fate figures governing time or cosmic order.
+- suggestion_id: normalization.suggestion.three-fate-sisters-who-govern-destiny
+  motif_id: three_fate_sisters_who_govern_destiny
+  label: Three fate sisters who govern destiny
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Fate Figures and Destiny
+  relationship: child
+  confidence: high
+  rationale: The motif describes personified sister figures administering destiny,
+    a recurring pattern distinct from death alone.
+  cautions: Review alongside Greek and other triplicate fate figures; avoid implying
+    historical connection from taxonomy placement.
+  suggested_aliases:
+  - fate_sisters
+  - three_sisters_of_destiny
+  - triplicate_female_fate_figures
+  suggested_new_group:
+    id: fate_figures_destiny
+    label: Fate Figures and Destiny
+    description: Divine, semi-divine, or mythic figures who allot, weave, measure,
+      govern, or reveal destiny, lifespan, time, or cosmic necessity.
+    parent_group_ids:
+    - death_by_fate
+    - sacred_time
+    related_group_ids:
+    - divine_judgment
+    - duality
+    reason_existing_groups_insufficient: Existing death_by_fate covers death attributed
+      to destiny, but not personified fate figures governing destiny more broadly.
+- suggestion_id: normalization.suggestion.threefold-colored-substance-generates-natural-kinds
+  motif_id: threefold_colored_substance_generates_natural_kinds
+  label: Threefold colored substance generates natural kinds
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A differentiated substance generating natural kinds fits creation from
+    primordial material and elemental separation.
+  cautions: If the passage is a localized etiology for species or materials rather
+    than cosmic creation, keep as granular evidence and review for over-specificity.
+  suggested_aliases:
+  - three_colored_creation_substance
+  - primordial_substance_generates_natural_kinds
+  - colored_substance_creation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.threefold-delayed-rescue-attempt
+  motif_id: threefold_delayed_rescue_attempt
+  label: threefold delayed rescue attempt
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: low
+  rationale: A repeated delayed rescue can function as an ordeal or quest-sequence
+    episode within heroic narrative.
+  cautions: May be only a plot-structure detail; source context is needed before indexing
+    as rescue, initiation, or sacred combat.
+  suggested_aliases:
+  - delayed_rescue_attempt_threefold
+  - three_repeated_rescue_delays
+  - repeated_failed_rescue
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.threefold-escalation-of-victories-and-restitution
+  motif_id: threefold_escalation_of_victories_and_restitution
+  label: Threefold escalation of victories and restitution
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: low
+  rationale: Escalating victories with restitution suggests a conflict sequence resolving
+    through compensation or restored order.
+  cautions: Could belong under sacred_exchange if restitution is the main function,
+    or be an over-specific narrative pattern.
+  suggested_aliases:
+  - escalating_victories_and_restitution
+  - threefold_victory_restitution_sequence
+  - repeated_victory_with_compensation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.threefold-ultimatum-before-conflict
+  motif_id: threefold_ultimatum_before_conflict
+  label: threefold ultimatum before conflict
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A formal ultimatum repeated before battle is a structured pre-conflict
+    ritual or warfare convention.
+  cautions: If framed as legal warning or covenantal summons, sacred_law or covenant
+    may be secondary; avoid treating the number three alone as a motif.
+  suggested_aliases:
+  - repeated_ultimatum_before_conflict
+  - three_warnings_before_battle
+  - ritualized_prebattle_ultimatum
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels use threefold repetition; this should not by itself determine placement
+  unless the passage shows ritual, cosmological, or narrative function.
+- The two fate-figure labels suggest a durable gap for personified destiny figures
+  broader than death_by_fate.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Provisional batch suggestions; fate-figure candidate should be reviewed for
+    possible addition as a canonical normalization group.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0174
+  input_sha256: 20900d797147ab14a73a5c1e4ea7387658638bb7c0ed0dae1129e1efb5a4b397

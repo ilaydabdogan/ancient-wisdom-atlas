@@ -1,0 +1,289 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0172
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.tale-migration-across-traditions
+  motif_id: tale_migration_across_traditions
+  label: tale migration across traditions
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes transmission or diffusion of a tale between traditions,
+    not a narrative motif within the tale.
+  cautions: Preserve as provenance or reception-history metadata if supported; do
+    not use as evidence of borrowing in motif normalization.
+  suggested_aliases:
+  - tale transmission across traditions
+  - cross-tradition tale diffusion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.tale-migration-through-cultural-and-commercial-contact
+  motif_id: tale_migration_through_cultural_and_commercial_contact
+  label: Tale migration through cultural and commercial contact
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This is a historical-contact or transmission claim rather than a symbolic
+    or narrative motif.
+  cautions: Keep contact claims out of motif indexing; store only as source-history
+    metadata if evidence warrants it.
+  suggested_aliases:
+  - tale transmission through trade contact
+  - story diffusion through cultural contact
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.teacher-s-approval-as-access-to-heaven
+  motif_id: teacher_s_approval_as_access_to_heaven
+  label: Teacher’s approval as access to heaven
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: A spiritual teacher's approval functioning as access to heaven fits guided
+    mystical progress and salvific authorization.
+  cautions: If the passage emphasizes legal judgment, afterlife gatekeeping, or saintly
+    intercession rather than a quest path, consider divine_judgment, afterlife_passage,
+    or divine_intervention as secondary mappings.
+  suggested_aliases:
+  - teacher approval grants heavenly access
+  - spiritual master authorizes ascent
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.tears-become-precious-substance
+  motif_id: tears_become_precious_substance
+  label: tears become precious substance
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The transformation of tears into a valuable substance could be metamorphosis,
+    mourning symbolism, or an etiological origin of a precious material.
+  cautions: Single occurrence and context-dependent; review whether grief, bodily
+    transformation, divine intervention, or origin-of-object etiology is primary.
+  suggested_aliases:
+  - tears transformed into jewels
+  - tears become amber or precious matter
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.temporary-embodied-dwelling
+  motif_id: temporary_embodied_dwelling
+  label: Temporary embodied dwelling
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: In Sufi context, the body as temporary dwelling likely expresses the
+    soul's transient embodiment and interior liberation theme.
+  cautions: If the passage describes literal incarnation, possession, or soul relocation,
+    shapeshifter, soul_loss_restoration, or external_soul may be more appropriate.
+  suggested_aliases:
+  - body as temporary dwelling
+  - temporary bodily habitation
+  - soul's temporary dwelling
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.temporary-helper-becomes-permanent-master
+  motif_id: temporary_helper_becomes_permanent_master
+  label: temporary helper becomes permanent master
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests role reversal or social-political inversion, but no
+    existing group clearly captures the function without passage context.
+  cautions: Could be royal legitimacy, trickster reversal, divine intervention, or
+    a passage-specific plot detail; source evidence is needed before grouping.
+  suggested_aliases:
+  - helper becomes master
+  - temporary servant becomes ruler
+  - role reversal of helper and master
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.temporary-incarnation-grants-protective-or-superhuman-power
+  motif_id: temporary_incarnation_grants_protective_or_superhuman_power
+  label: temporary incarnation grants protective or superhuman power
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A temporary embodiment that grants protection or superhuman power is
+    best treated as direct sacred agency in human affairs.
+  cautions: If the key feature is bodily form-change, also review shapeshifter; if
+    it is a hero's empowered trial, initiation or divine_warrior may be secondary.
+  suggested_aliases:
+  - temporary incarnation grants power
+  - protective incarnation
+  - temporary divine embodiment empowers hero
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.temporary-repudiation-followed-by-angelic-restoration
+  motif_id: temporary_repudiation_followed_by_angelic_restoration
+  label: Temporary repudiation followed by angelic restoration
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Angelic restoration after temporary rejection centers on supernatural
+    repair and guidance in human affairs.
+  cautions: If repudiation is moral testing or punishment, divine_judgment may be
+    relevant; if it transforms spiritual status, initiation may also apply.
+  suggested_aliases:
+  - angelic restoration after rejection
+  - temporary rejection and divine restoration
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.temporary-separation-of-first-reaper
+  motif_id: temporary_separation_of_first_reaper
+  label: temporary separation of first reaper
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The phrase is too compressed to determine whether it concerns harvest
+    ritual, death personification, or a passage-specific agricultural detail.
+  cautions: Review source context; possible placements include sacred_time for harvest-cycle
+    symbolism or death_and_transformation if the reaper is a death figure.
+  suggested_aliases:
+  - separation of the first reaper
+  - first reaper temporarily separated
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.tempting-adversary-s-path
+  motif_id: tempting_adversary_s_path
+  label: Tempting adversary's path
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: A tempting adversary creates a moral test whose consequence is evaluated
+    within sacred order.
+  cautions: If the adversary is mainly a boundary-crossing deceiver, trickster may
+    be relevant; if the emphasis is inner discipline, mystical_quest or initiation
+    may be secondary.
+  suggested_aliases:
+  - path of the tempter
+  - adversary as tempter
+  - temptation by adversary
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Transmission and contact labels in this batch should be excluded from motif pattern
+  queries and retained, if useful, only as metadata or textual/reception-history notes.
+- Several single-occurrence labels are compressed and context-dependent; human review
+  should verify whether they are recurring motifs or passage artifacts before adding
+  children to groups.
+reviewer_status:
+  status: needs_human_review
+  reviewer: api-ai-assistant
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0172
+  input_sha256: 4ee6ef30fe68cc60c08cd1abf9bc6cb67789b6740ea16f4c215f2b0146bcfd6d

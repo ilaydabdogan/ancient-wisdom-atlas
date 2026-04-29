@@ -1,0 +1,315 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0178
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.unattainable-object-disparaged-after-failure
+  motif_id: unattainable_object_disparaged_after_failure
+  label: unattainable object disparaged after failure
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This resembles a fable or moral-psychological pattern rather than a clear
+    existing mythic motif group.
+  cautions: Single occurrence; may be an Aesopic narrative detail or proverb-like
+    artifact. Source context needed before mapping to wisdom, pride/downfall, or exclusion.
+  suggested_aliases:
+  - sour grapes
+  - failed desire disparages object
+  - disparagement after failure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - wisdom
+    - pride_and_downfall
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unbidden-guest-at-a-feast
+  motif_id: unbidden_guest_at_a_feast
+  label: Unbidden guest at a feast
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: An uninvited feast guest may signal disrupted hospitality, divine intrusion,
+    conflict catalyst, or comic episode depending on context.
+  cautions: Do not map to sacred_exchange without evidence that hospitality obligation
+    or sacred reciprocity is central. Single occurrence may be episode-specific.
+  suggested_aliases:
+  - uninvited guest at feast
+  - intruder at banquet
+  - disrupted feast hospitality
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_exchange
+    - divine_intervention
+    - sacred_combat
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.uncanny-red-chariot-company
+  motif_id: uncanny_red_chariot_company
+  label: uncanny red chariot company
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines supernatural company, color symbolism, and vehicle
+    imagery without enough functional information.
+  cautions: Could be otherworldly visitation, battle omen, divine retinue, or over-specific
+    scene detail. Preserve color and chariot details as evidence until context is
+    reviewed.
+  suggested_aliases:
+  - supernatural chariot company
+  - red chariot retinue
+  - uncanny chariot band
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - otherworld
+    - divine_intervention
+    - sacred_combat
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.uncertain-founder-or-author-figure
+  motif_id: uncertain_founder_or_author_figure
+  label: uncertain founder or author figure
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The wording describes uncertainty about attribution or identity rather
+    than a narrative motif.
+  cautions: If the source passage narrates a culture founder, map that evidence separately
+    to culture_hero; if it concerns authorship attribution, keep as provenance only.
+  suggested_aliases:
+  - uncertain author figure
+  - uncertain founder attribution
+  - ambiguous founder-author
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unchanged-total-transformed-by-changed-presentation
+  motif_id: unchanged_total_transformed_by_changed_presentation
+  label: unchanged total transformed by changed presentation
+  occurrences: 1
+  traditions:
+  - daoist
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This reads as an abstract philosophical formulation rather than a stable
+    narrative motif.
+  cautions: Could relate to Daoist paradox, non-action, duality, or wisdom teaching,
+    but the label is too conceptual without passage evidence.
+  suggested_aliases:
+  - transformation by presentation
+  - unchanged whole changed in appearance
+  - same total differently presented
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - duality
+    - sacred_knowledge
+    - wisdom
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unconsumed-or-non-burning-flame-imagery
+  motif_id: unconsumed_or_non_burning_flame_imagery
+  label: unconsumed or non-burning flame imagery
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Non-consuming flame is a distinctive sacred-fire image of divine presence,
+    purity, or spiritual power.
+  cautions: If the passage is purely poetic metaphor with no ritual, divine, or transformative
+    function, keep as evidence detail rather than broad motif.
+  suggested_aliases:
+  - non-burning flame
+  - unconsumed flame
+  - flame that does not consume
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.underestimated-youthful-champion
+  motif_id: underestimated_youthful_champion
+  label: underestimated youthful champion
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: role_variant
+  confidence: medium
+  rationale: A youth whose hidden power is underestimated fits the extraordinary child
+    or youthful destiny pattern.
+  cautions: If the emphasis is combat achievement rather than sacred childhood signs,
+    secondary review under divine_warrior or hero_journey may be appropriate.
+  suggested_aliases:
+  - youthful champion underestimated
+  - hidden power of young hero
+  - young hero underestimated
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hero_journey
+    - divine_warrior
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.underground-supernatural-smiths-and-miners
+  motif_id: underground_supernatural_smiths_and_miners
+  label: underground supernatural smiths and miners
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: role_variant
+  confidence: medium
+  rationale: Supernatural smiths and miners center on sacred craft, subterranean production,
+    and power-object making.
+  cautions: If the passage emphasizes their otherworldly dwelling or race identity
+    more than craft, otherworld or divine_race may be better secondary mappings.
+  suggested_aliases:
+  - supernatural smiths underground
+  - chthonic smiths and miners
+  - subterranean divine craftsmen
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - otherworld
+    - sacred_treasures
+    - divine_race
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unequal-alliance-in-the-hunt
+  motif_id: unequal_alliance_in_the_hunt
+  label: unequal alliance in the hunt
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif depends on whether the hunt functions as ordeal, social hierarchy,
+    animal encounter, or conflict catalyst.
+  cautions: No current group cleanly covers hunting alliance motifs. Single occurrence
+    may be an episode-specific relational detail.
+  suggested_aliases:
+  - unequal hunting alliance
+  - asymmetric partnership in hunt
+  - hunt alliance across status
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hero_journey
+    - sacred_combat
+    - divine_intervention
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unexpected-food-bearer-after-deprivation
+  motif_id: unexpected_food_bearer_after_deprivation
+  label: unexpected food-bearer after deprivation
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: low
+  rationale: A sudden provider after deprivation may function as supernatural aid
+    or providential intervention.
+  cautions: If no sacred or supernatural agency is present, this may be a journey-provision
+    episode or hospitality detail rather than divine intervention.
+  suggested_aliases:
+  - unexpected provider after hunger
+  - food bearer after deprivation
+  - sudden food-bringer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_exchange
+    - hero_journey
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and highly contextual; source
+  evidence should decide whether they are motifs or episode details.
+- Hospitality, hunting, and fable-like labels may need future groups only if recurrence
+  across traditions is demonstrated.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api_assistant
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for ambiguous single-occurrence
+    items.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0178
+  input_sha256: c8cc1c70178479339eae9a9d8cd4d821b3cdf80bfb589c7f256e71a3cdaf6d6c

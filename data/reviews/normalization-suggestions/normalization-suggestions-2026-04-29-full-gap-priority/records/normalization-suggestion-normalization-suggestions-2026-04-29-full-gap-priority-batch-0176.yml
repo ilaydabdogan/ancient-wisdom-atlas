@@ -1,0 +1,290 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0176
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.transference-of-evil-or-affliction-to-a-substitute
+  motif_id: transference_of_evil_or_affliction_to_a_substitute
+  label: transference of evil or affliction to a substitute
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: high
+  rationale: The label matches scapegoat/ritual transfer logic already nested under
+    sacrifice and expulsion/purification patterns.
+  cautions: Confirm whether the substitute is ritually expelled, sacrificed, or merely
+    a narrative decoy; secondary sacred_exchange may apply.
+  suggested_aliases:
+  - ritual transfer of affliction
+  - scapegoat substitution
+  - substitute bearer of evil
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.transmission-and-migration-of-story-collections
+  motif_id: transmission_and_migration_of_story_collections
+  label: Transmission and migration of story collections
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This describes textual/history-of-tradition movement rather than a narrative
+    or symbolic motif.
+  cautions: Preserve as provenance or reception metadata; do not treat as evidence
+    of motif transmission in pattern queries.
+  suggested_aliases:
+  - migration of story collections
+  - textual transmission of tale collections
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.transmission-and-reattribution-of-tale-collections
+  motif_id: transmission_and_reattribution_of_tale_collections
+  label: Transmission and reattribution of tale collections
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label concerns attribution and textual transmission history, not
+    a motif within the stories.
+  cautions: May be useful for source-critical notes, but should be excluded from Pattern
+    Explorer motif queries.
+  suggested_aliases:
+  - reattribution of tale collections
+  - tale collection transmission history
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.transmission-of-mystical-poetry-across-cultures
+  motif_id: transmission_of_mystical_poetry_across_cultures
+  label: Transmission of mystical poetry across cultures
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This is a reception/transmission claim about poetic traditions rather
+    than a symbolic motif.
+  cautions: Keep separate from mystical_quest or sacred_song unless a passage itself
+    dramatizes sacred song or mystical transformation.
+  suggested_aliases:
+  - cross-cultural transmission of mystical poetry
+  - mystical poetry transmission
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.transmission-of-romance-through-adaptation-and-translation
+  motif_id: transmission_of_romance_through_adaptation_and_translation
+  label: Transmission of romance through adaptation and translation
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: Adaptation and translation history is a scholarly/textual artifact, not
+    a recurring narrative motif.
+  cautions: Do not infer historical contact here; retain as bibliographic or transmission
+    metadata if needed.
+  suggested_aliases:
+  - romance adaptation and translation
+  - translation history of romance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.transported-spectator-or-hearer
+  motif_id: transported_spectator_or_hearer
+  label: transported spectator or hearer
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The phrase could mean ecstatic transport by hearing/seeing, physical
+    relocation, or a literary audience effect.
+  cautions: Source context is needed before mapping to dream_and_vision, theophany,
+    storytelling_as_power, or otherworld.
+  suggested_aliases:
+  - ecstatic spectator
+  - transported hearer
+  - audience transport
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.trap-reversal-through-feigned-ignorance
+  motif_id: trap_reversal_through_feigned_ignorance
+  label: trap reversal through feigned ignorance
+  occurrences: 1
+  traditions:
+  - indigenous_australian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: Feigning ignorance to reverse a trap is a deception and boundary-crossing
+    strategy typical of trickster-like episodes.
+  cautions: If no liminal/trickster figure is present, this may be a general clever-escape
+    tale detail rather than a sacred motif.
+  suggested_aliases:
+  - feigned ignorance reverses trap
+  - deceptive trap reversal
+  - clever escape by pretending ignorance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.treasure-secret-withheld-after-brother-s-heart-is-shown
+  motif_id: treasure_secret_withheld_after_brother_s_heart_is_shown
+  label: treasure secret withheld after brother's heart is shown
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label combines kinship, treasure secrecy, and a violent body-part
+    episode in a highly specific narrative detail.
+  cautions: May relate to sacred_treasures, forbidden_knowledge, sacred_combat, or
+    sibling_pair depending on passage function; avoid broad mapping from label alone.
+  suggested_aliases:
+  - withheld treasure secret
+  - treasure knowledge withheld after kin murder
+  - brother's heart as proof
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.treasure-theft-by-eloping-pair
+  motif_id: treasure_theft_by_eloping_pair
+  label: treasure theft by eloping pair
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on theft of a treasure/power object, with elopement
+    as the narrative circumstance.
+  cautions: If the emphasis is illicit flight or romance rather than the object's
+    power, sacred_love or hero_journey may be secondary; if divine/forbidden theft
+    is central, sacred_theft may be better.
+  suggested_aliases:
+  - eloping pair steals treasure
+  - treasure theft during elopement
+  - stolen treasure by lovers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.triadic-naming-and-equipment-pattern
+  motif_id: triadic_naming_and_equipment_pattern
+  label: Triadic naming and equipment pattern
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Triadic naming/equipment may be a Celtic literary-formula artifact, an
+    identity marker, or a sacred-object pattern.
+  cautions: Review passage evidence before mapping to sacred_treasures, hero_journey,
+    or excluding as a stylistic/textual artifact.
+  suggested_aliases:
+  - triadic naming formula
+  - threefold equipment pattern
+  - triadic heroic equipment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are transmission or reception-history artifacts; these
+  should be kept out of motif pattern queries and handled as provenance metadata.
+- For single-occurrence, highly episode-specific labels, preserve the granular wording
+  as evidence notes rather than promoting new canonical groups.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_normalization_suggester
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended especially for ambiguous
+    narrative-strategy and over-specific labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0176
+  input_sha256: f04679f9d92fbc6783aacb4170187b745bb4a8abb743c91ab078133b4383579d

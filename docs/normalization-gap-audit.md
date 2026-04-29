@@ -7,8 +7,8 @@ This report lists motif IDs that are present in the motif occurrence index but n
 ## Summary
 
 - Indexed motif IDs: 9072
-- Already mapped: 1172
-- Unmapped: 7900
+- Already mapped: 1222
+- Unmapped: 7850
 
 | Review Bucket | Unmapped Motifs |
 | --- | ---: |
@@ -23,7 +23,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | Conflict, Violence, Heroic Ordeal, And Victory | 1150 |
 | Objects, Places, Boundaries, And Thresholds | 249 |
 | Ethics, Psychology, Discipline, And Inner Life | 173 |
-| Needs Human Sorting | 1009 |
+| Needs Human Sorting | 959 |
 
 ## Death, Descent, Afterlife, And Ancestors
 
@@ -7746,43 +7746,23 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `stinging_parasite_or_harmful_drone` | stinging parasite or harmful drone | 1 | greek |
 | `stolen_goods_taken_from_the_thief_by_a_stronger_figure` | stolen goods taken from the thief by a stronger figure | 1 | greek |
 | `stolen_object` | stolen object | 1 | buddhist |
-| `stones_as_former_giants` | stones as former giants | 1 | ainu |
 | `story_narrated_as_true_event` | story narrated as true event | 1 | ainu |
-| `storytelling_as_condition_for_release` | storytelling as condition for release | 1 | islamicate_folklore |
-| `strange_hospitality_ending_in_displacement_after_sleep` | Strange hospitality ending in displacement after sleep | 1 | celtic_irish |
 | `strange_land_with_altered_rhythms_of_work_and_rest` | strange land with altered rhythms of work and rest | 1 | greek |
 | `strategic_concealment_to_prevent_harm` | strategic concealment to prevent harm | 1 | celtic_welsh |
-| `strength_residing_in_hair` | Strength residing in hair | 1 | comparative |
-| `stripping_armor_from_the_fallen` | stripping armor from the fallen | 1 | greek |
-| `stripping_the_armor_of_the_slain` | stripping the armor of the slain | 1 | greek |
 | `strong_figure_defeated_frail_figures_endure` | strong figure defeated, frail figures endure | 1 | greek |
 | `strong_partner_seizes_all_shares` | strong partner seizes all shares | 1 | greek |
-| `subjection_through_tribute` | Subjection through tribute | 1 | islamic |
-| `submission_to_irresistible_fate` | submission to irresistible Fate | 1 | hindu |
 | `substitute_captive_for_absent_deity` | substitute captive for absent deity | 1 | roman |
-| `substitute_sleeper_deceives_assassins` | substitute sleeper deceives assassins | 1 | islamic |
-| `substitution_of_one_intended_victim_for_another` | substitution of one intended victim for another | 1 | greek |
 | `succession_of_political_and_character_types` | Succession of political and character types | 1 | greek |
-| `successive_declining_generations_of_humanity` | Successive declining generations of humanity | 1 | greek |
 | `successive_false_or_mistaken_confessions` | successive false or mistaken confessions | 1 | islamicate_folklore |
-| `successive_helpers_against_repeated_threat` | successive helpers against repeated threat | 1 | buddhist |
 | `sudden_reversal_of_fortune` | sudden reversal of fortune | 1 | islamicate_folklore |
-| `suicide_after_catastrophic_loss` | suicide after catastrophic loss | 1 | greek_roman |
 | `suicide_attempt_interrupted_by_helper` | suicide attempt interrupted by helper | 1 | roman |
-| `summoning_or_revealing_monstrous_creatures_by_sounding_a_horn` | summoning or revealing monstrous creatures by sounding a horn | 1 | celtic_irish |
 | `superhuman_bodily_capacities_in_arthur_s_retinue` | Superhuman bodily capacities in Arthur's retinue | 1 | celtic_welsh |
 | `superhuman_strength_display` | superhuman strength display | 1 | celtic_irish |
 | `superior_healer_slain_by_jealous_healer` | superior healer slain by jealous healer | 1 | celtic_irish |
-| `superlative_royal_skill_demonstration` | Superlative royal skill demonstration | 1 | buddhist |
-| `supernatural_abduction_explains_sudden_disappearance` | supernatural abduction explains sudden disappearance | 1 | greek_roman |
 | `supernatural_army_hidden_by_magic_mist` | supernatural army hidden by magic mist | 1 | celtic_irish |
-| `supernatural_avenger_emerging_from_smoke` | Supernatural avenger emerging from smoke | 1 | islamicate_folklore |
 | `supernatural_being_hostile_to_church_bells` | supernatural being hostile to church bells | 1 | norse |
 | `supernatural_beings_defile_a_feast` | Supernatural beings defile a feast | 1 | roman |
-| `supernatural_beings_fighting_humans_in_bodily_form` | supernatural beings fighting humans in bodily form | 1 | celtic_irish |
 | `supernatural_beings_tied_to_natural_places` | Supernatural beings tied to natural places | 1 | buddhist |
-| `supernatural_binding_by_arrows` | supernatural binding by arrows | 1 | hindu |
-| `supernatural_breaching_of_fortifications` | supernatural breaching of fortifications | 1 | greek |
 | `supernatural_cosmic_steed` | supernatural cosmic steed | 1 | sufi |
 | `supernatural_cry_as_summons` | supernatural cry as summons | 1 | celtic_irish |
 | `supernatural_etiological_place_naming` | supernatural etiological place-naming | 1 | celtic_irish |
@@ -7813,75 +7793,45 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `sympathetic_magic_through_dramatic_representation` | Sympathetic magic through dramatic representation | 1 | comparative |
 | `sympathetic_magic_to_secure_game_supply` | sympathetic magic to secure game supply | 1 | comparative |
 | `syncretic_identification_of_bacchus_with_osiris` | Syncretic identification of Bacchus with Osiris | 1 | roman |
-| `tale_as_repayment_for_food_and_drink` | Tale as repayment for food and drink | 1 | celtic_welsh |
 | `tale_migration_across_traditions` | tale migration across traditions | 1 | buddhist |
 | `tale_migration_through_cultural_and_commercial_contact` | Tale migration through cultural and commercial contact | 1 | buddhist |
-| `teacher_s_approval_as_access_to_heaven` | Teacher’s approval as access to heaven | 1 | sufi |
 | `tears_become_precious_substance` | tears become precious substance | 1 | roman |
-| `temporary_embodied_dwelling` | Temporary embodied dwelling | 1 | sufi |
 | `temporary_helper_becomes_permanent_master` | temporary helper becomes permanent master | 1 | greek |
-| `temporary_incarnation_grants_protective_or_superhuman_power` | temporary incarnation grants protective or superhuman power | 1 | comparative |
-| `temporary_repudiation_followed_by_angelic_restoration` | Temporary repudiation followed by angelic restoration | 1 | islamic |
 | `temporary_separation_of_first_reaper` | temporary separation of first reaper | 1 | comparative |
-| `tempting_adversary_s_path` | Tempting adversary's path | 1 | islamic |
 | `tempting_path_of_the_devil` | tempting path of the devil | 1 | islamic |
 | `the_invalid_deprived_of_sustenance_by_visitors` | the invalid deprived of sustenance by visitors | 1 | greek |
-| `theft_concealed_by_substitution_of_similar_contents` | Theft concealed by substitution of similar contents | 1 | islamicate_folklore |
 | `theft_exposed_by_a_decoy_object` | theft exposed by a decoy object | 1 | buddhist |
-| `theft_from_a_guarded_or_tended_store` | theft from a guarded or tended store | 1 | greek |
 | `theft_of_cattle_or_oxen_by_a_robber` | theft of cattle or oxen by a robber | 1 | roman |
 | `thief_accidentally_made_to_perform_honest_labor` | Thief accidentally made to perform honest labor | 1 | greek |
 | `third_party_arbiter_profits_from_a_quarrel` | third-party arbiter profits from a quarrel | 1 | buddhist |
 | `thoughtless_friends_harm_the_helpless` | thoughtless friends harm the helpless | 1 | greek |
-| `threat_and_counter_threat_before_future_conflict` | Threat and counter-threat before future conflict | 1 | celtic_irish |
 | `threatened_believers_remain_steadfast_under_persecution` | Threatened believers remain steadfast under persecution | 1 | islamic |
 | `threatened_shout_with_reproductive_harm` | Threatened shout with reproductive harm | 1 | celtic_welsh |
 | `threatened_submersion_of_an_opponent` | threatened submersion of an opponent | 1 | celtic_irish |
-| `three_day_healing_sleep_after_extreme_exertion` | three-day healing sleep after extreme exertion | 1 | celtic_irish |
 | `three_fate_figures_governing_time_and_revolutions` | three fate figures governing time and revolutions | 1 | greek |
 | `three_fate_sisters_who_govern_destiny` | Three fate sisters who govern destiny | 1 | norse |
-| `threefold_colored_substance_generates_natural_kinds` | Threefold colored substance generates natural kinds | 1 | finnish_karelian |
 | `threefold_delayed_rescue_attempt` | threefold delayed rescue attempt | 1 | celtic_irish |
 | `threefold_escalation_of_victories_and_restitution` | Threefold escalation of victories and restitution | 1 | celtic_welsh |
-| `threefold_ultimatum_before_conflict` | threefold ultimatum before conflict | 1 | islamic |
-| `tide_controlling_royal_objects` | tide-controlling royal objects | 1 | japanese |
-| `tide_dependent_magical_container` | Tide-dependent magical container | 1 | celtic_irish |
-| `time_as_reaper` | time as reaper | 1 | greek_roman |
 | `token_proving_an_otherwise_unbelievable_encounter` | token proving an otherwise unbelievable encounter | 1 | islamicate_folklore |
-| `token_proving_chastity_or_kept_faith` | token proving chastity or kept faith | 1 | celtic_irish |
-| `token_removed_as_accusation_of_faithlessness` | token removed as accusation of faithlessness | 1 | celtic_welsh |
 | `tracker_investigator_follows_a_missing_relative_s_trail` | tracker-investigator follows a missing relative’s trail | 1 | indigenous_australian |
 | `traditional_skewered_meat_over_ashes` | traditional skewered meat over ashes | 1 | greek |
-| `tragic_duel_between_former_fellow_pupils` | tragic duel between former fellow pupils | 1 | celtic_irish |
-| `trance_through_concentration` | trance through concentration | 1 | sufi |
-| `transference_of_evil_or_affliction_to_a_substitute` | transference of evil or affliction to a substitute | 1 | comparative |
 | `transmission_and_migration_of_story_collections` | Transmission and migration of story collections | 1 | buddhist |
 | `transmission_and_reattribution_of_tale_collections` | Transmission and reattribution of tale collections | 1 | buddhist |
 | `transmission_of_mystical_poetry_across_cultures` | Transmission of mystical poetry across cultures | 1 | sufi |
 | `transmission_of_romance_through_adaptation_and_translation` | Transmission of romance through adaptation and translation | 1 | celtic_welsh |
 | `transported_spectator_or_hearer` | transported spectator or hearer | 1 | greek |
-| `trap_reversal_through_feigned_ignorance` | trap reversal through feigned ignorance | 1 | indigenous_australian |
 | `treasure_secret_withheld_after_brother_s_heart_is_shown` | treasure secret withheld after brother's heart is shown | 1 | norse |
-| `treasure_theft_by_eloping_pair` | treasure theft by eloping pair | 1 | greek |
 | `triadic_naming_and_equipment_pattern` | Triadic naming and equipment pattern | 1 | celtic_welsh |
 | `tribal_patron_celestial_body` | tribal patron celestial body | 1 | islamic |
-| `tripartite_cosmic_realm` | tripartite cosmic realm | 1 | roman |
-| `triple_funeral_procession` | triple funeral procession | 1 | greek |
 | `true_figure_identified_among_identical_claimants` | True figure identified among identical claimants | 1 | buddhist |
-| `true_form_hidden_beneath_encrustation` | true form hidden beneath encrustation | 1 | greek |
 | `true_friend_needed_in_adversity` | true friend needed in adversity | 1 | sufi |
-| `true_religion_measured_by_care_for_vulnerable_people` | true religion measured by care for vulnerable people | 1 | islamic |
 | `tyranny_answered_by_banquet_ambush_and_tribal_retaliation` | tyranny answered by banquet ambush and tribal retaliation | 1 | islamic |
 | `tyrant_s_generalized_vengeance_after_betrayal` | tyrant's generalized vengeance after betrayal | 1 | islamicate_folklore |
-| `unarmed_boastful_wrestler_defeated_after_incitement` | unarmed boastful wrestler defeated after incitement | 1 | celtic_irish |
 | `unattainable_object_disparaged_after_failure` | unattainable object disparaged after failure | 1 | greek |
 | `unbidden_guest_at_a_feast` | Unbidden guest at a feast | 1 | greek |
 | `uncanny_red_chariot_company` | uncanny red chariot company | 1 | celtic_irish |
 | `uncertain_founder_or_author_figure` | uncertain founder or author figure | 1 | greek |
 | `unchanged_total_transformed_by_changed_presentation` | unchanged total transformed by changed presentation | 1 | daoist |
-| `unconsumed_or_non_burning_flame_imagery` | unconsumed or non-burning flame imagery | 1 | hindu |
-| `underestimated_youthful_champion` | underestimated youthful champion | 1 | celtic_irish |
-| `underground_supernatural_smiths_and_miners` | underground supernatural smiths and miners | 1 | norse |
 | `unequal_alliance_in_the_hunt` | unequal alliance in the hunt | 1 | greek |
 | `unexpected_food_bearer_after_deprivation` | unexpected food-bearer after deprivation | 1 | celtic_welsh |
 | `unexpected_helper_joins_fugitives_and_provides_protection` | Unexpected helper joins fugitives and provides protection | 1 | celtic_irish |
