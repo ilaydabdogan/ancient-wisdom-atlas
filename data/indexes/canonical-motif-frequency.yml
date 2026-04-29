@@ -7,8 +7,8 @@ method: Counts distinct traditions for indexed motif IDs that map to canonical_m
 indexed_motif_count: 9072
 indexed_occurrence_count: 31658
 canonical_motif_group_count: 53
-mapped_motif_count: 316
-unmapped_motif_count: 8756
+mapped_motif_count: 322
+unmapped_motif_count: 8750
 canonical_motifs:
 - canonical_motif_id: death_and_transformation
   label: Death, Rebirth, and Transformation
@@ -40,7 +40,7 @@ canonical_motifs:
     jewish_christian: 1
     maya_quiche: 1
     mesopotamian: 1
-    norse: 51
+    norse: 52
     persian: 3
     roman: 105
     sufi: 237
@@ -151,6 +151,13 @@ canonical_motifs:
     tradition_count: 1
     traditions:
       comparative: 1
+  - motif_id: catasterism_from_severed_body_part
+    label: catasterism from severed body part
+    relationship: narrower_than
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      norse: 1
   - motif_id: compelled_gaze_at_death
     label: Compelled gaze at death
     relationship: threshold_vision_variant
@@ -222,8 +229,8 @@ canonical_motifs:
     traditions:
       celtic_irish: 1
   tradition_count: 22
-  occurrence_count: 1374
-  mapped_motif_count: 19
+  occurrence_count: 1375
+  mapped_motif_count: 20
 - canonical_motif_id: initiation
   label: Initiation and Transformative Ordeal
   description: The passage from one state of being to another through ordeal, instruction,
@@ -3326,7 +3333,7 @@ canonical_motifs:
   - divine_judgment
   is_meta_group: false
   traditions:
-    celtic_irish: 7
+    celtic_irish: 12
     greek: 1
     hindu: 1
     maya_quiche: 1
@@ -3345,9 +3352,44 @@ canonical_motifs:
     tradition_count: 1
     traditions:
       greek: 1
+  - motif_id: cattle_raid_and_recovery_expedition
+    label: cattle raid and recovery expedition
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      celtic_irish: 1
+  - motif_id: cattle_raid_and_seizure_of_livestock
+    label: cattle raid and seizure of livestock
+    relationship: alias
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      celtic_irish: 1
   - motif_id: cattle_raid_catalyst
     label: cattle raid catalyst
     relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      celtic_irish: 1
+  - motif_id: cattle_raid_or_cow_spoil
+    label: cattle raid or cow-spoil
+    relationship: alias
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      celtic_irish: 1
+  - motif_id: champion_challenge_followed_by_prolonged_duel_and_beheading
+    label: Champion challenge followed by prolonged duel and beheading
+    relationship: over_specific_label
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      celtic_irish: 1
+  - motif_id: champion_duel_ending_in_beheading
+    label: Champion duel ending in beheading
+    relationship: over_specific_label
     occurrence_count: 1
     tradition_count: 1
     traditions:
@@ -3388,8 +3430,8 @@ canonical_motifs:
     traditions:
       celtic_irish: 1
   tradition_count: 4
-  occurrence_count: 10
-  mapped_motif_count: 8
+  occurrence_count: 15
+  mapped_motif_count: 13
 - canonical_motif_id: dream_and_vision
   label: Dream, Vision, and Altered Perception
   description: Dreams, visions, and altered states as sources of sacred knowledge,

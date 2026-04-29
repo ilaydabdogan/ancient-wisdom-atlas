@@ -9,14 +9,14 @@ This report counts only motif IDs that already map to a canonical normalization 
 - Indexed motif IDs: 9072
 - Indexed motif occurrences: 31658
 - Canonical motif groups: 53
-- Mapped motif IDs counted: 316
-- Unmapped motif IDs excluded: 8756
+- Mapped motif IDs counted: 322
+- Unmapped motif IDs excluded: 8750
 
 ## Ranked Canonical Motifs
 
 | Rank | Canonical Motif | Distinct Traditions | Occurrences | Mapped Motif IDs | Top Traditions |
 | ---: | --- | ---: | ---: | ---: | --- |
-| 1 | `death_and_transformation` Death, Rebirth, and Transformation | 22 | 1374 | 19 | islamic (415), comparative (250), sufi (237), roman (105), greek (58) |
+| 1 | `death_and_transformation` Death, Rebirth, and Transformation | 22 | 1375 | 20 | islamic (415), comparative (250), sufi (237), roman (105), greek (58) |
 | 2 | `initiation` Initiation and Transformative Ordeal | 22 | 689 | 3 | sufi (146), greek (103), hindu (71), comparative (63), celtic_welsh (50) |
 | 3 | `sacred_knowledge` Sacred Knowledge and Wisdom | 21 | 4142 | 9 | sufi (927), greek (914), islamic (558), daoist (364), buddhist (344) |
 | 4 | `divine_judgment` Divine Judgment and Moral Reckoning | 21 | 2208 | 11 | islamic (1212), greek (275), sufi (212), roman (198), hindu (105) |
@@ -50,7 +50,7 @@ This report counts only motif IDs that already map to a canonical normalization 
 | 32 | `sacred_treasures` Sacred Treasures and Power Objects | 5 | 9 | 9 | jewish_christian (3), comparative (2), japanese (2), celtic_irish (1), greek (1) |
 | 33 | `divine_warrior` Divine Warrior and Sacred Combat | 5 | 8 | 8 | greek (2), greek_roman (2), norse (2), hindu (1), jewish_christian (1) |
 | 34 | `otherworld` Otherworld and Enchanted Realm | 5 | 8 | 8 | celtic_irish (3), comparative (2), celtic_welsh (1), greek (1), greek_roman (1) |
-| 35 | `sacred_combat` Sacred Combat and Ritual Warfare | 4 | 10 | 8 | celtic_irish (7), greek (1), hindu (1), maya_quiche (1) |
+| 35 | `sacred_combat` Sacred Combat and Ritual Warfare | 4 | 15 | 13 | celtic_irish (12), greek (1), hindu (1), maya_quiche (1) |
 | 36 | `dream_and_vision` Dream, Vision, and Altered Perception | 4 | 5 | 5 | norse (2), buddhist (1), comparative (1), greek_roman (1) |
 | 37 | `pride_and_downfall` Pride, Hubris, and Downfall | 4 | 5 | 5 | persian (2), buddhist (1), hindu (1), roman (1) |
 | 38 | `external_soul` External Soul and Life-Token | 3 | 40 | 37 | comparative (37), greek_roman (2), roman (1) |
@@ -74,8 +74,8 @@ This report counts only motif IDs that already map to a canonical normalization 
 
 - Canonical motif ID: `death_and_transformation`
 - Distinct traditions: 22
-- Occurrences: 1374
-- Mapped motif IDs: 19
+- Occurrences: 1375
+- Mapped motif IDs: 20
 
 | Mapped Motif ID | Relationship | Traditions | Occurrences |
 | --- | --- | ---: | ---: |
@@ -88,6 +88,7 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `birth_or_generation_as_access_to_immortality` | thematic_variant | 1 | 1 |
 | `body_part_of_the_dead_transformed_into_stars` | narrower_than | 1 | 1 |
 | `calling_back_the_soul` | functional_variant | 1 | 1 |
+| `catasterism_from_severed_body_part` | narrower_than | 1 | 1 |
 | `compelled_gaze_at_death` | threshold_vision_variant | 1 | 1 |
 | `dead_hero_rejects_glory_in_death` | narrower_than | 1 | 1 |
 | `death_as_release_from_cursed_misery` | narrower_than | 1 | 1 |
@@ -636,14 +637,19 @@ This report counts only motif IDs that already map to a canonical normalization 
 
 - Canonical motif ID: `sacred_combat`
 - Distinct traditions: 4
-- Occurrences: 10
-- Mapped motif IDs: 8
+- Occurrences: 15
+- Mapped motif IDs: 13
 
 | Mapped Motif ID | Relationship | Traditions | Occurrences |
 | --- | --- | ---: | ---: |
 | `cattle_raid` | narrower_than | 1 | 3 |
 | `avenging_a_slain_companion` | functional_variant | 1 | 1 |
+| `cattle_raid_and_recovery_expedition` | functional_variant | 1 | 1 |
+| `cattle_raid_and_seizure_of_livestock` | alias | 1 | 1 |
 | `cattle_raid_catalyst` | child | 1 | 1 |
+| `cattle_raid_or_cow_spoil` | alias | 1 | 1 |
+| `champion_challenge_followed_by_prolonged_duel_and_beheading` | over_specific_label | 1 | 1 |
+| `champion_duel_ending_in_beheading` | over_specific_label | 1 | 1 |
 | `doom_prophecy_before_raid` | child | 1 | 1 |
 | `failed_negotiated_exchange` | child | 1 | 1 |
 | `household_reversal` | child | 1 | 1 |

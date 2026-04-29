@@ -1,0 +1,324 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0022
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.celestial-assistance-to-a-prophet
+  motif_id: celestial_assistance_to_a_prophet
+  label: celestial assistance to a prophet
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Direct aid from a celestial power to a prophetic figure fits supernatural
+    intervention and guidance in human affairs.
+  cautions: Could also involve divine_call, theophany, or sacred_knowledge if the
+    passage emphasizes commission or revelation rather than assistance.
+  suggested_aliases:
+  - angelic assistance to a prophet
+  - heavenly aid to a prophet
+  - prophetic celestial aid
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.celestial-musician
+  motif_id: celestial_musician
+  label: celestial musician
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: role_variant
+  confidence: low
+  rationale: A heavenly musician may function as a sacred transmitter through song
+    or inspired sound, overlapping with existing sacred_song under wisdom/mystical
+    motifs.
+  cautions: Label names a being or role, not a narrative function. If merely decorative,
+    exclude; if performance induces mystical longing, sacred_love or mystical_quest
+    may fit better.
+  suggested_aliases:
+  - heavenly musician
+  - celestial singer
+  - sacred musician
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.celestial-omens-prompting-royal-action
+  motif_id: celestial_omens_prompting_royal_action
+  label: celestial omens prompting royal action
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: functional_variant
+  confidence: medium
+  rationale: Omens are signs that reveal a needed course of action; this is close
+    to existing cosmic_omens_confirming_spiritual_destiny.
+  cautions: Royal response may warrant secondary royal_legitimacy if the omen authorizes
+    rule or succession. Source context needed to distinguish omen, prophecy, and political
+    legitimation.
+  suggested_aliases:
+  - celestial omens guiding kingship
+  - heavenly signs prompting royal action
+  - astral omen and royal response
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.celestial-or-atmospheric-female-beings
+  motif_id: celestial_or_atmospheric_female_beings
+  label: celestial or atmospheric female beings
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label identifies a class of beings but does not specify narrative
+    function, such as guidance, seduction, fertility, performance, or threshold encounter.
+  cautions: Could map to sacred_feminine, otherworld, threshold_guardian, sacred_love,
+    or divine_intervention depending on evidence. Avoid reducing apsara-like figures
+    to a single function without context.
+  suggested_aliases:
+  - celestial female beings
+  - atmospheric female spirits
+  - heavenly women
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.celestial-origin-of-the-seven-sisters
+  motif_id: celestial_origin_of_the_seven_sisters
+  label: celestial origin of the Seven Sisters
+  occurrences: 1
+  traditions:
+  - indigenous_australian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label likely concerns star-origin or constellation narrative, but
+    no current group clearly covers stellar etiologies or culturally specific Seven
+    Sisters traditions.
+  cautions: Culturally sensitive Indigenous Australian material needs source-aware
+    review. Could relate to cosmic_origin, sacred_twins/sibling pairs, or celestial
+    transformation depending on passage evidence.
+  suggested_aliases:
+  - Seven Sisters celestial origin
+  - origin of the Seven Sisters constellation
+  - stellar origin of sisters
+  suggested_new_group:
+    id: celestial_transformation
+    label: Celestial Transformation and Star Placement
+    description: People, body parts, animals, objects, or ancestral figures are transformed
+      into, placed among, or identified with stars, constellations, sun, moon, or
+      other celestial bodies.
+    parent_group_ids:
+    - death_and_transformation
+    - cosmic_origin
+    related_group_ids:
+    - sacred_knowledge
+    - dream_and_vision
+    - duality
+    reason_existing_groups_insufficient: Existing groups include cosmic origin and
+      postmortem transformation but do not cleanly cover recurring astral placement
+      or constellation-origin motifs.
+- suggestion_id: normalization.suggestion.celestial-performance-entrancing-human-guests
+  motif_id: celestial_performance_entrancing_human_guests
+  label: Celestial performance entrancing human guests
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: functional_variant
+  confidence: medium
+  rationale: Human guests entranced by a celestial performance fits an enchanted otherworld
+    encounter and altered experience in a nonordinary realm.
+  cautions: If the performance transmits wisdom or devotion, sacred_knowledge, sacred_song,
+    or mystical_quest may be better secondary mappings. Preserve performance detail
+    as evidence.
+  suggested_aliases:
+  - entrancing celestial performance
+  - heavenly performance enchanting guests
+  - otherworldly music entrancement
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.celestial-placement-of-a-slain-giant-s-eyes
+  motif_id: celestial_placement_of_a_slain_giant_s_eyes
+  label: celestial placement of a slain giant's eyes
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: primordial_sacrifice
+  suggested_group_label: Primordial Sacrifice and Dismemberment
+  relationship: narrower_than
+  confidence: medium
+  rationale: A slain giant's body parts being set in the heavens fits cosmic creation
+    from dismembered primordial body material.
+  cautions: If the episode is not cosmogonic, celestial_transformation or death_and_transformation
+    may be more accurate. The eye detail is over-specific and should remain granular
+    evidence.
+  suggested_aliases:
+  - slain giant's eyes placed in heaven
+  - giant body part becomes celestial object
+  - cosmic placement of giant's eyes
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.celestial-placement-of-people-and-objects
+  motif_id: celestial_placement_of_people_and_objects
+  label: celestial placement of people and objects
+  occurrences: 1
+  traditions:
+  - indigenous_australian
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Celestial Transformation and Star Placement
+  relationship: narrower_than
+  confidence: medium
+  rationale: The motif describes people or objects being placed among celestial bodies,
+    a recurring astral-transformation pattern not cleanly represented by current groups.
+  cautions: Indigenous Australian star traditions require culturally specific review.
+    Confirm whether placement is transformation, origin, memorialization, punishment,
+    or route mapping before final indexing.
+  suggested_aliases:
+  - astral placement of people and objects
+  - people and objects placed in the sky
+  - celestial emplacement
+  suggested_new_group:
+    id: celestial_transformation
+    label: Celestial Transformation and Star Placement
+    description: People, body parts, animals, objects, or ancestral figures are transformed
+      into, placed among, or identified with stars, constellations, sun, moon, or
+      other celestial bodies.
+    parent_group_ids:
+    - death_and_transformation
+    - cosmic_origin
+    related_group_ids:
+    - sacred_knowledge
+    - dream_and_vision
+    - duality
+    reason_existing_groups_insufficient: Existing groups cover cosmic origin and death
+      transformation broadly, but not the distinct and recurrent pattern of astral
+      emplacement or constellation etiologies.
+- suggestion_id: normalization.suggestion.celestial-praise-and-ranked-angels
+  motif_id: celestial_praise_and_ranked_angels
+  label: celestial praise and ranked angels
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines heavenly liturgy and angelic hierarchy but does not
+    show whether the function is revelation, cosmic order, or devotional praise.
+  cautions: Could map to sacred_order, sacred_song, theophany, or divine_intervention
+    depending on passage. Angelic rank may be doctrinal taxonomy rather than motif
+    evidence.
+  suggested_aliases:
+  - heavenly praise and angelic ranks
+  - ranked angels praising God
+  - celestial liturgy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.celestial-pursuit-by-wolves
+  motif_id: celestial_pursuit_by_wolves
+  label: Celestial pursuit by wolves
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: chaos
+  suggested_group_label: Chaos
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Wolves pursuing celestial bodies functions as a cosmic threat to order
+    and may foreshadow catastrophe or eclipse imagery.
+  cautions: If the passage emphasizes apocalyptic destruction, flood_and_renewal or
+    world-destroying catastrophe may be relevant; if it emphasizes animal agents,
+    no current animal-monster group fully captures it.
+  suggested_aliases:
+  - wolves pursuing the sun and moon
+  - cosmic wolves chase celestial bodies
+  - celestial chase by wolves
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items in this batch are celestial or astral motifs; consider whether a durable
+  group for celestial transformation/star placement should be added after review across
+  traditions.
+- Role labels such as celestial musician or celestial female beings need passage evidence
+  before being treated as motif functions.
+- No placement implies historical contact or borrowing between traditions.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_suggestion
+  reviewed_at: ''
+  notes: Provisional mappings only; items involving Indigenous Australian star traditions
+    and doctrinal angelology especially require source-aware human review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0022
+  input_sha256: 02a4801cfd8d8c97e6c2775a6902c59eb829b80ebb1c82b683713f0fa0011f38

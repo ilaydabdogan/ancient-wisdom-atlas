@@ -4639,6 +4639,90 @@ raw_motif_group_index:
     - body as temporary house
     - body as dwelling of the soul
     - body as transient lodging
+  catasterism_from_severed_body_part:
+    group_id: death_and_transformation
+    relationship: narrower_than
+    confidence: high
+    review_status: model_auto_accepted_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'A severed body part becoming a star is a postmortem transformation into
+      a cosmic form, matching the existing body-part-to-stars pattern. Caution: If
+      the severed body part forms part of world creation, primordial_sacrifice may
+      be a secondary mapping.'
+    suggested_aliases:
+    - body part transformed into stars
+    - catasterism of severed body part
+    - postmortem stellar transformation
+  cattle_raid_and_recovery_expedition:
+    group_id: sacred_combat
+    relationship: functional_variant
+    confidence: high
+    review_status: model_auto_accepted_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'Raid and recovery of cattle is a clear cattle-raid conflict pattern, already
+      anticipated by sacred_combat and its cattle_raid_catalyst child. Caution: May
+      also involve hero_journey if the recovery expedition is framed as a transformative
+      quest, but the label centers on raiding conflict.'
+    suggested_aliases:
+    - cattle recovery expedition
+    - cattle raid recovery
+    - livestock raid and recovery
+  cattle_raid_and_seizure_of_livestock:
+    group_id: sacred_combat
+    relationship: alias
+    confidence: high
+    review_status: model_auto_accepted_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'This is a direct label variant for cattle raiding as a form of ritualized
+      or heroic conflict under sacred_combat. Caution: If the passage treats livestock
+      seizure only as economic background, it may be too contextual for motif querying.'
+    suggested_aliases:
+    - livestock seizure
+    - cattle raid
+    - cow-spoil
+  cattle_raid_or_cow_spoil:
+    group_id: sacred_combat
+    relationship: alias
+    confidence: high
+    review_status: model_auto_accepted_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'Cow-spoil is a close terminology variant for cattle raid, already represented
+      by the cattle_raid_catalyst child under sacred_combat. Caution: None beyond
+      preserving local terminology for Irish cattle-raid traditions.'
+    suggested_aliases:
+    - cow-spoil
+    - cattle raid
+    - táin
+  champion_challenge_followed_by_prolonged_duel_and_beheading:
+    group_id: sacred_combat
+    relationship: over_specific_label
+    confidence: high
+    review_status: model_auto_accepted_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'The core pattern is champion challenge and ritualized duel within heroic
+      combat. Caution: Beheading and duration should remain evidence details unless
+      similar labels recur across sources.'
+    suggested_aliases:
+    - champion challenge duel
+    - prolonged champion duel with beheading
+  champion_duel_ending_in_beheading:
+    group_id: sacred_combat
+    relationship: over_specific_label
+    confidence: high
+    review_status: model_auto_accepted_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'A champion duel is a direct instance of heroic or ritualized combat. Caution:
+      The beheading outcome is likely a granular episode detail unless repeated as
+      a recognized beheading-game pattern.'
+    suggested_aliases:
+    - champion beheading duel
+    - duel ending in beheading
 normalization_suggestion_acceptance:
   updated_on: '2026-04-29'
   latest_run_id: normalization-suggestions-2026-04-29-full-gap-priority
@@ -4648,6 +4732,6 @@ normalization_suggestion_acceptance:
   latest_suggestions_path: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
   latest_review_data_path: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/auto-acceptance.yml
   latest_report_path: docs/motif-normalization-auto-accept-review.md
-  latest_suggestion_count: 180
-  latest_auto_accepted_count: 8
-  latest_review_needed_count: 172
+  latest_suggestion_count: 240
+  latest_auto_accepted_count: 6
+  latest_review_needed_count: 234

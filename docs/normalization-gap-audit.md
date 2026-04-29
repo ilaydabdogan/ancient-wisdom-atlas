@@ -7,8 +7,8 @@ This report lists motif IDs that are present in the motif occurrence index but n
 ## Summary
 
 - Indexed motif IDs: 9072
-- Already mapped: 317
-- Unmapped: 8755
+- Already mapped: 323
+- Unmapped: 8749
 
 | Review Bucket | Unmapped Motifs |
 | --- | ---: |
@@ -23,7 +23,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | Conflict, Violence, Heroic Ordeal, And Victory | 1150 |
 | Objects, Places, Boundaries, And Thresholds | 249 |
 | Ethics, Psychology, Discipline, And Inner Life | 173 |
-| Needs Human Sorting | 1864 |
+| Needs Human Sorting | 1858 |
 
 ## Death, Descent, Afterlife, And Ancestors
 
@@ -7158,15 +7158,11 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `casting_lots_to_reveal_a_hidden_offender` | Casting lots to reveal a hidden offender | 1 | islamic |
 | `catalogue_of_allied_forces_and_commanders` | Catalogue of allied forces and commanders | 1 | greek |
 | `catalogue_of_tale_telling_locations` | catalogue of tale-telling locations | 1 | buddhist |
-| `catasterism_from_severed_body_part` | catasterism from severed body part | 1 | norse |
 | `cattle_demand_as_trigger_in_a_cattle_driving_narrative` | Cattle-demand as trigger in a cattle-driving narrative | 1 | celtic_irish |
 | `cattle_driving_narrative_frame` | cattle-driving narrative frame | 1 | celtic_irish |
-| `cattle_raid_and_recovery_expedition` | cattle raid and recovery expedition | 1 | celtic_irish |
-| `cattle_raid_and_seizure_of_livestock` | cattle raid and seizure of livestock | 1 | celtic_irish |
 | `cattle_raid_as_narrative_frame` | Cattle raid as narrative frame | 1 | celtic_irish |
 | `cattle_raid_by_youthful_raiders` | cattle raid by youthful raiders | 1 | celtic_irish |
 | `cattle_raid_ending_in_ambush_and_slaughter` | cattle raid ending in ambush and slaughter | 1 | celtic_irish |
-| `cattle_raid_or_cow_spoil` | cattle raid or cow-spoil | 1 | celtic_irish |
 | `cattle_raid_resolved_by_treaty_and_restitution` | Cattle raid resolved by treaty and restitution | 1 | celtic_irish |
 | `celestial_and_monstrous_beings_taxonomy` | celestial and monstrous beings taxonomy | 1 | hindu |
 | `celestial_assistance_to_a_prophet` | celestial assistance to a prophet | 1 | islamic |
@@ -7186,9 +7182,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `challenge_to_powerless_idols` | Challenge to powerless idols | 1 | islamic |
 | `challenge_to_prophetic_legitimacy_through_sexual_or_familial_conduct` | Challenge to prophetic legitimacy through sexual or familial conduct | 1 | islamic |
 | `challengers_humiliated_by_prior_defeats_recalled_in_public` | Challengers humiliated by prior defeats recalled in public | 1 | celtic_irish |
-| `champion_challenge_followed_by_prolonged_duel_and_beheading` | Champion challenge followed by prolonged duel and beheading | 1 | celtic_irish |
 | `champion_consumes_prodigious_portion` | champion consumes prodigious portion | 1 | celtic_irish |
-| `champion_duel_ending_in_beheading` | Champion duel ending in beheading | 1 | celtic_irish |
 | `champion_spares_defeated_challengers` | Champion spares defeated challengers | 1 | celtic_irish |
 | `changeling_substitution_and_recovery` | changeling substitution and recovery | 1 | norse |
 | `changing_celestial_body_cannot_be_clothed` | changing celestial body cannot be clothed | 1 | greek |

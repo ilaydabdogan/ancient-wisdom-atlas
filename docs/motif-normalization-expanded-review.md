@@ -6,12 +6,12 @@ This is a review artifact. It does not modify `taxonomy/motif-normalization.yml`
 
 ## Summary
 
-- Suggestions reviewed: 180
-- Accepted draft mappings: 108
-- New canonical group candidates: 6
-- Low-confidence / needs human review: 50
-- Suggested exclusions: 14
-- Already known in base normalization: 8
+- Suggestions reviewed: 240
+- Accepted draft mappings: 129
+- New canonical group candidates: 7
+- Low-confidence / needs human review: 72
+- Suggested exclusions: 17
+- Already known in base normalization: 22
 
 ## New Group Candidates
 
@@ -20,6 +20,7 @@ This is a review artifact. It does not modify `taxonomy/motif-normalization.yml`
 | `animal_source_of_abundance` | Animal Source of Abundance | 1 | Existing groups cover fertility, exchange, and power objects, but do not directly capture provision or inexhaustible abundance mediated by an animal. |
 | `animated_images_artificial_life` | Animated Images and Artificial Life | 5 | Existing groups cover sacred craft, treasures, vessels, and idols, but not the specific function of artificial or cultic objects becoming animate. |
 | `betrayal_violated_trust` | Betrayal and Violated Trust | 2 | Existing groups cover reciprocity, law, and judgment, but not the narrative rupture of trust itself across protector, guest, kin, duty, and feast betrayal patterns. |
+| `celestial_transformation` | Celestial Transformation and Star Placement | 1 | Existing groups cover cosmic origin and death transformation broadly, but not the distinct and recurrent pattern of astral emplacement or constellation etiologies. |
 | `conditional_boon_loophole` | Conditional Boon and Loophole Vulnerability | 3 | Existing groups cover exchange, judgment, power objects, and external souls, but not the specific narrative structure of conditional invulnerability created by a boon and undone by its exception. |
 | `martyrdom_witness` | Martyrdom and Witness Under Persecution | 1 | Existing sacrifice and divine judgment groups cover self-surrender and moral reckoning, but do not preserve the specific religious function of steadfast witness under persecution. |
 | `miraculous_provision` | Miraculous Provision and Inexhaustible Food | 1 | Existing groups cover offering, exchange, and power objects, but not the distinct function of miraculous abundance or inexhaustible sustenance. |
@@ -76,10 +77,32 @@ This is a review artifact. It does not modify `taxonomy/motif-normalization.yml`
 | `borrowed_finery_exposed` | borrowed finery exposed | needs_human_review | `pride_and_downfall` Pride, Hubris, and Downfall | low | low confidence |
 | `burden_of_toil` | burden of toil | needs_human_review | `divine_judgment` Divine Judgment and Moral Reckoning | low | low confidence |
 | `burning_of_condemned_writings` | Burning of condemned writings | needs_human_review | `sacred_knowledge` Sacred Knowledge and Wisdom | low | low confidence |
+| `cannibal_giant_in_a_castle_of_bones` | Cannibal giant in a castle of bones | needs_human_review | `threshold_guardian` Threshold Guardian | low | low confidence |
+| `captive_herd_enclosed_for_royal_hunting` | captive herd enclosed for royal hunting | needs_human_review | `royal_legitimacy` Royal Legitimacy and Sacred Kingship | low | low confidence |
+| `captive_spouse_acquired_by_force` | Captive spouse acquired by force | map_to_existing_group | `stolen_beloved` Stolen Or Lost Beloved | medium | suggested existing group is not present |
+| `captive_treated_with_guarded_luxury` | captive treated with guarded luxury | map_to_existing_group | `sacred_love` Sacred Love and Longing | low | low confidence |
+| `captives_in_a_distant_foreign_place` | captives in a distant foreign place | needs_human_review | `journey_quest_homecoming`  | low | low confidence |
+| `captivity_and_refuge_as_image_of_status_change` | Captivity and refuge as image of status change | map_to_existing_group | `initiation` Initiation and Transformative Ordeal | low | low confidence |
+| `captor_from_across_the_waves` | Captor from across the waves | needs_human_review | ``  | low | low confidence |
+| `capture_caused_by_revealing_voice` | capture caused by revealing voice | map_to_existing_group | `sacred_knowledge` Sacred Knowledge and Wisdom | low | low confidence |
+| `caretaker_harmed_by_those_he_cares_for` | caretaker harmed by those he cares for | needs_human_review | ``  | low | low confidence |
+| `celestial_musician` | celestial musician | map_to_existing_group | `sacred_knowledge` Sacred Knowledge and Wisdom | low | low confidence |
+| `celestial_or_atmospheric_female_beings` | celestial or atmospheric female beings | needs_human_review | ``  | low | low confidence |
+| `celestial_origin_of_the_seven_sisters` | celestial origin of the Seven Sisters | needs_human_review | ``  | low | low confidence |
+| `celestial_praise_and_ranked_angels` | celestial praise and ranked angels | needs_human_review | ``  | low | low confidence |
+| `celestial_pursuit_by_wolves` | Celestial pursuit by wolves | map_to_existing_group | `chaos` Chaos | medium | suggested existing group is not present |
+| `ceremonial_praise_of_wedding_participants` | Ceremonial praise of wedding participants | needs_human_review | ``  | low | low confidence |
+| `challenge_to_prophetic_legitimacy_through_sexual_or_familial_conduct` | Challenge to prophetic legitimacy through sexual or familial conduct | needs_human_review | ``  | low | low confidence |
+| `challengers_humiliated_by_prior_defeats_recalled_in_public` | Challengers humiliated by prior defeats recalled in public | map_to_existing_group | `sacred_combat` Sacred Combat and Ritual Warfare | low | low confidence |
+| `champion_consumes_prodigious_portion` | champion consumes prodigious portion | needs_human_review | ``  | low | low confidence |
+| `changing_celestial_body_cannot_be_clothed` | changing celestial body cannot be clothed | needs_human_review | ``  | low | low confidence |
+| `charismatic_leader_commands_violent_obedience` | Charismatic leader commands violent obedience | needs_human_review | ``  | low | low confidence |
+| `charitable_distribution_within_ostentatious_gambling` | Charitable distribution within ostentatious gambling | needs_human_review | ``  | low | low confidence |
+| `charm_that_divides_spouses` | Charm that divides spouses | map_to_existing_group | `sacred_love` Sacred Love and Longing | low | low confidence |
 | `hunter_becomes_hunted` | hunter becomes hunted | needs_human_review | ``  | medium | model requested human review |
 | `recognition_by_bodily_scar` | recognition by bodily scar | needs_human_review | ``  | medium | model requested human review |
 
-_Showing first 50 of 50 review rows._
+_Showing first 72 of 72 review rows._
 
 ## Suggested Exclusions
 
@@ -99,5 +122,8 @@ _Showing first 50 of 50 review rows._
 | `buddhist_life_recast_as_christian_hagiography` | Buddhist life recast as Christian hagiography | high | The label describes reception, adaptation, or scholarly classification rather than a narrative motif within a source passage. |
 | `buddhist_tales_migrating_into_western_story_traditions` | Buddhist tales migrating into Western story traditions | high | The label is a transmission-history claim, not a motif pattern to normalize. |
 | `burning_the_camp_to_erase_pursuit_tracks` | burning the camp to erase pursuit tracks | medium | The label reads as a tactical pursuit-escape detail rather than a reusable symbolic motif. |
+| `catalogue_of_allied_forces_and_commanders` | Catalogue of allied forces and commanders | high | A catalogue of forces and commanders is a literary or structural passage type rather than a symbolic motif. |
+| `catalogue_of_tale_telling_locations` | catalogue of tale-telling locations | high | This describes a catalogue or setting list for narration rather than a narrative-symbolic motif. |
+| `celestial_and_monstrous_beings_taxonomy` | celestial and monstrous beings taxonomy | high | The label describes a classification or taxonomy of beings, not a narrative motif or symbolic action. |
 
-_Showing first 14 of 14 exclusion rows._
+_Showing first 17 of 17 exclusion rows._
