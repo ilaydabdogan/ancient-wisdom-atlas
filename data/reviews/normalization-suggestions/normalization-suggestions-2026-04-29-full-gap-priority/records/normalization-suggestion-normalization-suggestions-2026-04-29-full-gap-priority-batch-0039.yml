@@ -1,0 +1,282 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0039
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.defeated-elder-summons-younger-champion
+  motif_id: defeated_elder_summons_younger_champion
+  label: defeated elder summons younger champion
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: A defeated elder calling a younger champion functions as transfer into
+    a heroic trial or champion role.
+  cautions: Single occurrence; could instead be a battle episode or succession detail
+    if no transformative quest is present.
+  suggested_aliases:
+  - elder summons younger champion
+  - champion called after elder defeat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.defeated-giant-petrified-into-a-monument
+  motif_id: defeated_giant_petrified_into_a_monument
+  label: defeated giant petrified into a monument
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: A defeated being transformed into stone or a monument is a post-defeat
+    bodily transformation.
+  cautions: Could be etiological landscape lore or a local place-name artifact; review
+    whether the monument has symbolic recurrence.
+  suggested_aliases:
+  - petrified defeated giant
+  - defeated giant becomes stone monument
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.defeated-offender-compelled-to-make-courtly-satisfaction
+  motif_id: defeated_offender_compelled_to_make_courtly_satisfaction
+  label: defeated offender compelled to make courtly satisfaction
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: Compelled satisfaction at court restores hierarchical and courtly order
+    after offense.
+  cautions: May be a legal/social episode rather than mythic motif; sacred_law or
+    divine_judgment may fit if moral law is emphasized.
+  suggested_aliases:
+  - courtly satisfaction after defeat
+  - offender compelled to make satisfaction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.defeated-opponent-spared-and-sent-as-messenger
+  motif_id: defeated_opponent_spared_and_sent_as_messenger
+  label: defeated opponent spared and sent as messenger
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label describes a conventional aftermath of combat where mercy redirects
+    a defeated opponent into a messenger role.
+  cautions: Could be an episode-specific battle tactic without sacred or ritual significance;
+    avoid over-indexing unless it recurs.
+  suggested_aliases:
+  - spared defeated messenger
+  - defeated foe sent as messenger
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.defeated-opponent-spared-on-condition-of-public-atonement
+  motif_id: defeated_opponent_spared_on_condition_of_public_atonement
+  label: defeated opponent spared on condition of public atonement
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Mercy conditioned on public atonement centers on moral reckoning and
+    repair after wrongdoing.
+  cautions: If the passage is mainly court procedure, royal_legitimacy or sacred_law
+    may be better than divine judgment.
+  suggested_aliases:
+  - public atonement after defeat
+  - spared opponent required to atone
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.defeated-rival-gains-by-another-s-downfall
+  motif_id: defeated_rival_gains_by_another_s_downfall
+  label: Defeated rival gains by another's downfall
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is an abstract plot outcome rather than a clear symbolic or
+    ritual motif.
+  cautions: Could involve succession, hubris, divine judgment, rivalry, or mere narrative
+    resolution; source context is required.
+  suggested_aliases:
+  - rival benefits from downfall
+  - defeated rival profits from another's fall
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.defenders-casting-stones-and-a-great-block-from-the-wall
+  motif_id: defenders_casting_stones_and_a_great_block_from_the_wall
+  label: defenders casting stones and a great block from the wall
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: high
+  rationale: This reads as a highly specific siege-action detail rather than a durable
+    mythic motif.
+  cautions: If repeated as a ritualized defense or miraculous stone motif, it may
+    need review under sacred_combat or sacred_treasures.
+  suggested_aliases:
+  - defenders cast stones from wall
+  - great block thrown from wall
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deification-condemned-as-idolatry
+  motif_id: deification_condemned_as_idolatry
+  label: deification condemned as idolatry
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Condemnation of deification as idolatry functions as a religious prohibition
+    defining proper sacred order.
+  cautions: Culturally sensitive doctrinal content; may also relate to covenant, divine_judgment,
+    or idol depending on passage evidence.
+  suggested_aliases:
+  - idolatrous deification condemned
+  - condemnation of deifying humans
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deification-of-revered-religious-leaders
+  motif_id: deification_of_revered_religious_leaders
+  label: deification of revered religious leaders
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This may be a polemical, doctrinal, or comparative claim rather than
+    a narrative motif.
+  cautions: Review source framing carefully; if it is a criticized practice, sacred_law
+    or idol may fit, but avoid flattening theological distinctions.
+  suggested_aliases:
+  - revered leaders deified
+  - religious leaders treated as divine
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deities-as-patrons-of-temporal-human-needs
+  motif_id: deities_as_patrons_of_temporal_human_needs
+  label: Deities as patrons of temporal human needs
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: Deities patronizing human needs describes divine agency and assistance
+    in human affairs.
+  cautions: If the label only classifies divine portfolios, it may be too general;
+    specific needs such as fertility, healing, or rain may warrant narrower mappings.
+  suggested_aliases:
+  - deities patronize human needs
+  - divine patrons of practical needs
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items in this batch are single-occurrence courtly or combat aftermath details;
+  preserve as evidence unless recurrence supports stable motif status.
+- Do not infer historical transmission from these provisional placements.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api_assistant
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review recommended for
+    culturally sensitive doctrinal items and over-specific battle/court episodes.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0039
+  input_sha256: 1bcf6bad654d1a3687e5fc3b116c30cf2e6948d92699d02b77f33eaef168e64f

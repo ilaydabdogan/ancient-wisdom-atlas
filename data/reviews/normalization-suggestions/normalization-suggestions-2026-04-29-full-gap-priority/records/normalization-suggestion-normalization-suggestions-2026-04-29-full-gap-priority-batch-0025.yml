@@ -1,0 +1,293 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0025
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.chosen-assistant-or-deputy-from-among-hesitant-kin
+  motif_id: chosen_assistant_or_deputy_from_among_hesitant_kin
+  label: chosen assistant or deputy from among hesitant kin
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: low
+  rationale: A chosen deputy or assistant may function as divinely guided appointment
+    or support for a sacred mission.
+  cautions: Label may be a context-specific prophetic-biographical detail rather than
+    a reusable motif; kinship hesitation needs source evidence.
+  suggested_aliases:
+  - chosen deputy
+  - hesitant kin as assistant
+  - appointed sacred assistant
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.chosen-destiny-and-moral-responsibility
+  motif_id: chosen_destiny_and_moral_responsibility
+  label: chosen destiny and moral responsibility
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label joins destiny with accountable action, fitting moral reckoning
+    under sacred or fated order.
+  cautions: Could instead belong under death_by_fate, sacred_law, or initiation depending
+    on whether fate, ethics, or heroic testing dominates.
+  suggested_aliases:
+  - destiny and responsibility
+  - fated moral accountability
+  - chosen fate with responsibility
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.chosen-helpers-who-bear-witness
+  motif_id: chosen_helpers_who_bear_witness
+  label: chosen helpers who bear witness
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: role_variant
+  confidence: low
+  rationale: Helpers bearing witness may preserve, transmit, or attest sacred teaching
+    and revelation.
+  cautions: May be doctrinal, communal, or passage-specific rather than a narrative
+    motif; witness function needs evidence.
+  suggested_aliases:
+  - chosen witnesses
+  - helpers as witnesses
+  - appointed witnesses to revelation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.chosen-twelve-as-doctrinal-propagators
+  motif_id: chosen_twelve_as_doctrinal_propagators
+  label: Chosen twelve as doctrinal propagators
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: over_specific_label
+  confidence: low
+  rationale: The core function is propagation of doctrine or sacred teaching by appointed
+    agents.
+  cautions: The number twelve and doctrinal framing are culturally sensitive and may
+    be a commentary artifact; avoid normalizing without passage context.
+  suggested_aliases:
+  - chosen twelve
+  - appointed doctrinal propagators
+  - twelve witnesses or helpers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.civilization-discovered-and-lost-repeatedly
+  motif_id: civilization_discovered_and_lost_repeatedly
+  label: Civilization discovered and lost repeatedly
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: functional_variant
+  confidence: medium
+  rationale: Repeated discovery and loss of civilization suggests cyclical time and
+    recurring cultural renewal or decline.
+  cautions: If tied to world destruction, flood_and_renewal may be secondary; if tied
+    to culture-bringers, culture_hero may be better.
+  suggested_aliases:
+  - cyclical loss of civilization
+  - recurrent discovery and loss of arts
+  - civilization cycles
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cleansing-and-healing-bath-vapors
+  motif_id: cleansing_and_healing_bath_vapors
+  label: Cleansing and healing bath vapors
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Bath vapors used for cleansing and healing fit water or steam as ritual
+    purification and transformation medium.
+  cautions: Could also belong under sacred_law if framed as purity rule, or divine_intervention
+    if healing agency is spirit-driven.
+  suggested_aliases:
+  - healing bath vapors
+  - cleansing steam bath
+  - ritual bath steam
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.clever-figure-and-failed-imitator-pair
+  motif_id: clever_figure_and_failed_imitator_pair
+  label: clever figure and failed imitator pair
+  occurrences: 1
+  traditions:
+  - ainu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: A clever figure contrasted with a failed imitator fits trickster-like
+    wit, imitation, and comic reversal.
+  cautions: Could be a folktale-type motif rather than sacred myth; pair structure
+    may also relate to duality if cosmological opposition is present.
+  suggested_aliases:
+  - failed imitator
+  - clever trickster and imitator
+  - imitator fails after clever model
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.coded-recognition-at-the-sickbed
+  motif_id: coded_recognition_at_the_sickbed
+  label: coded recognition at the sickbed
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as a highly specific scene device for recognition rather
+    than a broad symbolic motif.
+  cautions: If illness, healing, hidden identity, or deathbed revelation is central
+    in the passage, it may need reassignment after review.
+  suggested_aliases:
+  - sickbed recognition
+  - coded deathbed or sickbed recognition
+  - recognition by coded message
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.coerced-accomplice-in-a-deceptive-plot
+  motif_id: coerced_accomplice_in_a_deceptive_plot
+  label: coerced accomplice in a deceptive plot
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: A deceptive plot with an unwilling accomplice belongs near trickster/deception
+    patterns.
+  cautions: If coercion, moral responsibility, or court intrigue is the main issue,
+    divine_judgment or royal_legitimacy may be more appropriate.
+  suggested_aliases:
+  - unwilling accomplice in deception
+  - coerced helper in trickery
+  - forced accomplice plot
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.coerced-removal-by-magic-like-rod
+  motif_id: coerced_removal_by_magic_like_rod
+  label: coerced removal by magic-like rod
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: low
+  rationale: A rod compelling removal functions as a power object exerting supernatural
+    force.
+  cautions: Could instead be ritual expulsion, coercive magic, or an episode-specific
+    object detail; source context is needed before durable indexing.
+  suggested_aliases:
+  - magic rod compulsion
+  - coercive rod
+  - removal by enchanted rod
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Suggestions are provisional placements for broad query grouping only, not taxonomy
+  edits or transmission claims.
+- Several Islamic witness/helper labels may reflect doctrinal or exegetical framing
+  and should be reviewed with source evidence before indexing.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Batch contains multiple single-occurrence, context-dependent labels; human
+    review recommended before final normalization.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0025
+  input_sha256: a967c66bb6c200ae67a035455f35efc0113a31e906ccc8b029c471a32f43adce

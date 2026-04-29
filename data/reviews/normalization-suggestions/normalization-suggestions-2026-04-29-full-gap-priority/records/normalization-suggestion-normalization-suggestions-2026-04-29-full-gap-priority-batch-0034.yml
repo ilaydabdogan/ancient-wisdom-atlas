@@ -1,0 +1,288 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0034
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.cross-cultural-analogue-notation
+  motif_id: cross_cultural_analogue_notation
+  label: cross-cultural analogue notation
+  occurrences: 1
+  traditions:
+  - daoist
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: Label describes comparative notation rather than a narrative or symbolic
+    motif.
+  cautions: Preserve as provenance or analyst note if useful; do not use as evidence
+    for transmission or shared origin.
+  suggested_aliases:
+  - comparative analogue note
+  - cross-cultural comparison note
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cross-cultural-deity-identification
+  motif_id: cross_cultural_deity_identification
+  label: cross-cultural deity identification
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label concerns interpretive identification of deities across cultures,
+    not a motif event or image.
+  cautions: May be important for reception, syncretism, or commentary metadata; keep
+    out of motif pattern queries.
+  suggested_aliases:
+  - interpretatio deity identification
+  - cross-cultural deity equation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cross-cultural-identification-of-a-deity-with-a-local-counterpart
+  motif_id: cross_cultural_identification_of_a_deity_with_a_local_counterpart
+  label: Cross-cultural identification of a deity with a local counterpart
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This is a scholarly or reception-history classification of divine equivalence
+    rather than a recurring story motif.
+  cautions: If a passage narrates a deity's arrival, assimilation, or manifestation,
+    index that separately; do not infer from this label alone.
+  suggested_aliases:
+  - local counterpart deity identification
+  - interpretatio of local deity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cross-cultural-identification-of-deities
+  motif_id: cross_cultural_identification_of_deities
+  label: cross-cultural identification of deities
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: Describes comparative deity-equation metadata rather than a mythic motif.
+  cautions: Avoid treating taxonomic comparison as evidence of borrowing, contact,
+    or common origin.
+  suggested_aliases:
+  - deity equation across traditions
+  - cross-cultural divine identification
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cross-cultural-renaming-of-the-same-mythic-story
+  motif_id: cross_cultural_renaming_of_the_same_mythic_story
+  label: cross-cultural renaming of the same mythic story
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes naming, reception, or comparative classification
+    of a story, not the story's motif content.
+  cautions: Preserve as textual/reception metadata; index the actual story motifs
+    separately if passage evidence is available.
+  suggested_aliases:
+  - renamed mythic story
+  - cross-cultural story-title equivalence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cross-traditional-lustration-by-sand-in-necessity
+  motif_id: cross_traditional_lustration_by_sand_in_necessity
+  label: cross-traditional lustration by sand in necessity
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Lustration by sand under necessity is a ritual purity practice governed
+    by sacred law or ritual prohibition.
+  cautions: The 'cross-traditional' wording may be comparative metadata; review whether
+    the source is describing an actual rite or a scholarly parallel.
+  suggested_aliases:
+  - sand lustration in necessity
+  - dry ablution
+  - ritual purification by sand
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.crowning-the-admired-host
+  motif_id: crowning_the_admired_host
+  label: crowning the admired host
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could be honor, hospitality, ritual exchange, or a passage-specific social
+    gesture; function is unclear from the label alone.
+  cautions: Single occurrence and culturally specific context needed before mapping
+    to sacred_exchange, royal_legitimacy, or ritual honor.
+  suggested_aliases:
+  - honoring a host with a crown
+  - garlanding the host
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.crucifixion-substitute-variants
+  motif_id: crucifixion_substitute_variants
+  label: crucifixion substitute variants
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: medium
+  rationale: Substitution in a death/execution scene may involve sacrifice, divine
+    intervention, or textual variant traditions, but the label is doctrinally sensitive
+    and context-dependent.
+  cautions: Do not collapse into resurrection or sacrifice without source evidence;
+    may partly be a textual or exegetical variant label.
+  suggested_aliases:
+  - substitution at crucifixion
+  - substitute victim in execution narrative
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.crying-or-sounding-shield-that-summons-wider-response
+  motif_id: crying_or_sounding_shield_that_summons_wider_response
+  label: Crying or sounding shield that summons wider response
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: A shield with supernatural sound that summons response functions as a
+    power object with agency or signal power.
+  cautions: Could also relate to royal_legitimacy or sacred_combat if the shield marks
+    kingship or battle; preserve the sounding/summoning detail.
+  suggested_aliases:
+  - sounding shield
+  - crying shield
+  - summoning shield
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cryptic-written-disclosure-of-concealed-wrongdoing
+  motif_id: cryptic_written_disclosure_of_concealed_wrongdoing
+  label: cryptic written disclosure of concealed wrongdoing
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: medium
+  rationale: A hidden wrong revealed through writing fits disclosure of concealed
+    knowledge and moral revelation.
+  cautions: If the focus is punishment after revelation, divine_judgment may be secondary;
+    if merely a plot clue, it may be over-specific evidence detail.
+  suggested_aliases:
+  - written revelation of hidden wrongdoing
+  - cryptic disclosure by writing
+  - concealed guilt revealed in writing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are comparative or reception-history artifacts; exclude
+  them from motif queries rather than mapping them as mythic patterns.
+- Avoid treating cross-cultural identification labels as claims of borrowing, contact,
+  or common origin.
+- Single-occurrence social or doctrinal labels should remain provisional pending passage
+  evidence.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Draft suggestions only; human review recommended for culturally sensitive
+    or context-dependent items.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0034
+  input_sha256: 18b8b68b98050bb1c29c2eb2367715dcaa833fa1111046c574ef3f6cae3d8427

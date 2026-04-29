@@ -1,0 +1,300 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0061
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.false-textual-alteration-exposed-before-public-assembly
+  motif_id: false_textual_alteration_exposed_before_public_assembly
+  label: False textual alteration exposed before public assembly
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could involve sacred knowledge, public judgment, or textual corruption,
+    but the label is too contextual to place securely.
+  cautions: May be a literary/legal episode or commentary artifact rather than a recurring
+    motif; review source evidence before mapping.
+  suggested_aliases:
+  - textual alteration exposed
+  - public exposure of false scripture
+  - false writing exposed
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-voice-separates-protector-from-protected-figure
+  motif_id: false_voice_separates_protector_from_protected_figure
+  label: false voice separates protector from protected figure
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A deceptive voice may fit trickster deception or perilous threshold logic,
+    but the protected/protector separation function needs context.
+  cautions: Do not map to trickster unless a liminal deceiver or boundary-crossing
+    role is explicit; may be an episode-specific plot device.
+  suggested_aliases:
+  - deceptive voice separates companions
+  - false call isolates protected figure
+  - voice deception causing separation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - trickster
+    - threshold_guardian
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.familiarity-with-the-fairy-country
+  motif_id: familiarity_with_the_fairy_country
+  label: familiarity with the fairy country
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: narrower_than
+  confidence: high
+  rationale: The fairy country is an enchanted realm alongside ordinary reality, matching
+    the otherworld group.
+  cautions: If the passage only notes local geographic knowledge or a character trait,
+    preserve as evidence detail rather than a broad motif.
+  suggested_aliases:
+  - knowledge of fairy country
+  - familiarity with the otherworld
+  - fairyland familiarity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fantasy-of-wealth-from-a-small-possession
+  motif_id: fantasy_of_wealth_from_a_small_possession
+  label: fantasy of wealth from a small possession
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests a folktale fantasy or comic greed episode but does
+    not match an existing sacred motif group clearly.
+  cautions: May be too mundane or episode-specific for pattern queries unless tied
+    to trickster, pride/downfall, or magical object evidence.
+  suggested_aliases:
+  - imagined wealth from small possession
+  - greedy fantasy of future wealth
+  - small possession as imagined fortune
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - pride_and_downfall
+    - trickster
+    - sacred_treasures
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fatal-binding-of-unequal-companions
+  motif_id: fatal_binding_of_unequal_companions
+  label: Fatal binding of unequal companions
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A fatal bond between companions could concern fate, punishment, friendship,
+    or ritual/legal binding, none clear from the label alone.
+  cautions: Requires source review; avoid forcing into covenant unless a sacred vow
+    or binding obligation is explicit.
+  suggested_aliases:
+  - fatal companion bond
+  - unequal companions bound to death
+  - deadly bond between companions
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - covenant
+    - death_by_fate
+    - sacred_love
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fatal-boar-hunt
+  motif_id: fatal_boar_hunt
+  label: fatal boar hunt
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: functional_variant
+  confidence: medium
+  rationale: In heroic traditions a fatal hunt often functions as the destined death
+    scene of a hero.
+  cautions: If the passage emphasizes hunting ordeal, animal combat, or local episode
+    detail rather than foretold death, this may be over-specific.
+  suggested_aliases:
+  - destined death in boar hunt
+  - hero killed in boar hunt
+  - fatal hunt
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fatal-cattle-raid-and-ambush
+  motif_id: fatal_cattle_raid_and_ambush
+  label: fatal cattle raid and ambush
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: narrower_than
+  confidence: high
+  rationale: The taxonomy already treats cattle raids and ambush-like warfare as part
+    of sacred combat and heroic conflict.
+  cautions: The ambush detail may be episode-specific; keep it as evidence rather
+    than a canonical child unless it recurs.
+  suggested_aliases:
+  - cattle raid ambush
+  - fatal raid ambush
+  - death in cattle raid
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fatal-champion-duel-at-a-ford
+  motif_id: fatal_champion_duel_at_a_ford
+  label: fatal champion duel at a ford
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: narrower_than
+  confidence: high
+  rationale: Single combat at fords is explicitly included in the sacred_combat group
+    description.
+  cautions: Could also touch threshold_guardian because the ford is a boundary, but
+    the central function is fatal heroic combat.
+  suggested_aliases:
+  - single combat at ford
+  - fatal ford duel
+  - champion duel at boundary
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fatal-disregard-of-a-guiding-middle-path
+  motif_id: fatal_disregard_of_a_guiding_middle_path
+  label: Fatal disregard of a guiding middle path
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: functional_variant
+  confidence: medium
+  rationale: Ignoring a prescribed middle path and dying fits overreach or failure
+    of moderation followed by downfall.
+  cautions: If the passage emphasizes divine command, cosmic order, or technical guidance
+    rather than hubris, divine_judgment or wisdom may be secondary.
+  suggested_aliases:
+  - fatal failure of moderation
+  - disregarded middle path
+  - death from ignoring guidance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fatal-distraction-by-supernatural-radiance
+  motif_id: fatal_distraction_by_supernatural_radiance
+  label: fatal distraction by supernatural radiance
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Supernatural radiance causing fatal distraction is an overwhelming encounter
+    with sacred or uncanny manifestation.
+  cautions: If the radiance is a lure by a hostile being rather than divine manifestation,
+    threshold_guardian or perilous lure may be more appropriate.
+  suggested_aliases:
+  - fatal supernatural brightness
+  - deadly radiance encounter
+  - overwhelming radiance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Suggestions are provisional and avoid transmission claims.
+- Several single-occurrence labels are episode-specific and should be checked against
+  source passages before indexing broadly.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Batch contains a mix of clear existing-group placements and low-confidence
+    contextual labels requiring human source review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0061
+  input_sha256: c94ec35f55e51ac701aa8a3217f0aee89f3cc34d027117ced45a9d97bdd744f9

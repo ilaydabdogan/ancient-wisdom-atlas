@@ -1,0 +1,321 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0043
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.destined-defeat-of-sorceresses-by-former-pupil
+  motif_id: destined_defeat_of_sorceresses_by_former_pupil
+  label: destined defeat of sorceresses by former pupil
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Combines destiny, magical opponents, pupil-master reversal, and defeat;
+    no existing group cleanly captures the full function from label alone.
+  cautions: May fit divine_judgment, initiation, sacred_combat, or pride_and_downfall
+    depending on whether the emphasis is fate, apprenticeship, combat, or punishment
+    of sorceresses.
+  suggested_aliases:
+  - fated defeat of magical teachers
+  - former pupil defeats sorceresses
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_judgment
+    - initiation
+    - sacred_combat
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.destiny-in-popular-pictorial-elaboration
+  motif_id: destiny_in_popular_pictorial_elaboration
+  label: Destiny in popular pictorial elaboration
+  occurrences: 1
+  traditions:
+  - daoist
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The wording describes iconographic or reception elaboration of a concept,
+    not a narrative motif itself.
+  cautions: If a source passage contains a specific fated-death or destiny scene,
+    preserve that scene under death_by_fate or divine_judgment rather than this meta
+    label.
+  suggested_aliases:
+  - pictorial elaboration of destiny
+  - popular iconographic destiny motif
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.destruction-followed-by-replacement-generations
+  motif_id: destruction_followed_by_replacement_generations
+  label: Destruction followed by replacement generations
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: flood_and_renewal
+  suggested_group_label: Flood, Fire, and Cosmic Renewal
+  relationship: functional_variant
+  confidence: medium
+  rationale: A destroyed group or order followed by replacement generations fits catastrophe
+    and renewal or reconstitution after judgment.
+  cautions: Do not assume flood or world destruction; if the context is moral punishment
+    of peoples without renewal emphasis, divine_judgment may be the better primary
+    group.
+  suggested_aliases:
+  - destruction and replacement generation
+  - destroyed people replaced by successors
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_judgment
+    - death_and_transformation
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.destruction-of-harmful-image-or-statue
+  motif_id: destruction_of_harmful_image_or_statue
+  label: Destruction of harmful image or statue
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: A harmful image or statue functions as a dangerous power object whose
+    destruction neutralizes its force.
+  cautions: If the image is specifically an idol in a covenantal or anti-idolatry
+    context, review with idol, forbidden_knowledge, or divine_judgment; if it is merely
+    a plot object, it may be too specific.
+  suggested_aliases:
+  - harmful statue destroyed
+  - destruction of dangerous image
+  - neutralizing a harmful image
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_judgment
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.destruction-of-idols-after-miraculous-proof
+  motif_id: destruction_of_idols_after_miraculous_proof
+  label: destruction of idols after miraculous proof
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Miraculous proof followed by idol destruction suggests divine vindication
+    and judgment against false sacred objects.
+  cautions: Existing idol alias is already marked needs_human_review; anti-idol polemic
+    is culturally and theologically sensitive and may also involve forbidden_knowledge,
+    covenant, or sacred_treasures.
+  suggested_aliases:
+  - idols destroyed after miracle
+  - miracle proves idols false
+  - iconoclasm after divine proof
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_treasures
+    - covenant
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.destructive-erotic-attachment
+  motif_id: destructive_erotic_attachment
+  label: destructive erotic attachment
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Love or erotic longing becomes destructive, aligning with the sacred_love
+    cluster of longing, affliction, danger, and death-transcending desire.
+  cautions: May be ordinary tragic passion rather than sacred love; if the stress
+    is moral downfall, pride_and_downfall or divine_judgment may be relevant.
+  suggested_aliases:
+  - erotic obsession as destruction
+  - destructive passion
+  - love as destructive affliction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - beauty_and_paradox
+    - lament_and_mourning
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.destructive-female-lure
+  motif_id: destructive_female_lure
+  label: Destructive female lure
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: low
+  rationale: A destructive lure can function as a perilous threshold test or fatal
+    enchantment, but the gendered wording and source context require review.
+  cautions: Avoid encoding misogynistic or culturally polemical framing as a canonical
+    motif; could be temptation, ascetic trial, death-lure, or passage-specific characterization.
+  suggested_aliases:
+  - fatal lure
+  - perilous female lure
+  - seductive destructive test
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - initiation
+    - sacred_love
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.destructive-overuse-of-strength-and-magic-in-assigned-labor
+  motif_id: destructive_overuse_of_strength_and_magic_in_assigned_labor
+  label: destructive overuse of strength and magic in assigned labor
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label is a highly specific labor episode involving strength, magic,
+    and misapplied task performance.
+  cautions: May fit trickster, culture_hero, sacred_craft, or pride_and_downfall depending
+    on whether the scene is comic subversion, failed crafting, magical excess, or
+    moral punishment.
+  suggested_aliases:
+  - magical overperformance of assigned labor
+  - destructive labor by excessive strength
+  - misused magic in task
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - trickster
+    - sacred_craft
+    - pride_and_downfall
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.destructive-servant-subverts-assigned-tasks
+  motif_id: destructive_servant_subverts_assigned_tasks
+  label: destructive servant subverts assigned tasks
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: A servant who subverts assigned tasks through destructive compliance
+    fits trickster-like boundary violation and disordering of authority.
+  cautions: If the passage stresses magical labor or craft failure rather than deception/subversion,
+    sacred_craft or needs_human_review may be better; single occurrence is episode-specific.
+  suggested_aliases:
+  - servant subverts tasks
+  - destructive task compliance
+  - trickster servant labor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_craft
+    - pride_and_downfall
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.devastation-avenged-by-champion
+  motif_id: devastation_avenged_by_champion
+  label: devastation avenged by champion
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A champion avenging devastation fits heroic or ritualized combat restoring
+    order after violence.
+  cautions: If the champion is explicitly divine or cosmological, divine_warrior may
+    be primary; if the focus is moral reckoning rather than battle, divine_judgment
+    may apply.
+  suggested_aliases:
+  - champion avenges devastation
+  - avenging champion
+  - vengeance after devastation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_warrior
+    - divine_judgment
+    - lament_and_mourning
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Suggestions are provisional; several one-off labels are episode-specific and should
+  be checked against source evidence before promotion or durable indexing.
+- No transmission, borrowing, or common-origin claims are implied by these placements.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: model
+  reviewed_at: ''
+  notes: Batch includes multiple destiny, destructive-object, lure, and vengeance
+    labels; human review recommended for culturally sensitive idol and gendered-lure
+    wording.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0043
+  input_sha256: cd3f7a37c9f97d1c86e806821219b9a17a9d9260908c91343262190adc16085b

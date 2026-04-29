@@ -1,0 +1,304 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0062
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.fatal-gift-delivered-by-an-unsuspecting-messenger
+  motif_id: fatal_gift_delivered_by_an_unsuspecting_messenger
+  label: fatal gift delivered by an unsuspecting messenger
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe a plot device involving an object, message, poison,
+    deception, or tragic fate rather than a stable symbolic motif.
+  cautions: Single occurrence and strongly episode-specific; review source context
+    before mapping to sacred_treasures, divine_judgment, death_by_fate, or excluding
+    as a narrative detail.
+  suggested_aliases:
+  - fatal gift
+  - unsuspecting fatal messenger
+  - death-dealing gift delivered by proxy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fatal-hair-as-life-token
+  motif_id: fatal_hair_as_life_token
+  label: fatal hair as life-token
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: external_soul
+  suggested_group_label: External Soul and Life-Token
+  relationship: symbolic_variant
+  confidence: high
+  rationale: Hair functioning as a life-token fits the established external-soul pattern
+    where life or vulnerability is bound to a separable body part or token.
+  cautions: Preserve the hair detail as evidence; if the passage is only a comparative
+    index phrase, verify it is not a meta-classification artifact.
+  suggested_aliases:
+  - hair as life-token
+  - life hidden in hair
+  - fatal hair token
+  - external life in hair
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fatal-music-from-a-supernatural-harp
+  motif_id: fatal_music_from_a_supernatural_harp
+  label: Fatal music from a supernatural harp
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif combines supernatural music, a power object, and death; existing
+    groups do not cleanly capture lethal enchantment by instrument.
+  cautions: Could fit sacred_treasures if the harp is a power object, threshold_guardian
+    if the music lures or bars passage, or storytelling_as_power/sacred_knowledge
+    if sound itself has sacred force. Single occurrence may be too specific.
+  suggested_aliases:
+  - fatal supernatural music
+  - lethal enchanted harp
+  - deadly music from magic harp
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fatal-prognosis-punished-by-the-patient
+  motif_id: fatal_prognosis_punished_by_the_patient
+  label: fatal prognosis punished by the patient
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as an episode-specific narrative irony or anecdotal plot
+    detail rather than a reusable mythic motif.
+  cautions: If the source shows a recurring sacred healer/oracle punished for truthful
+    prognosis, reconsider under divine_judgment or sacred_knowledge; otherwise preserve
+    only as evidence detail.
+  suggested_aliases:
+  - punished fatal prognosis
+  - patient kills bearer of prognosis
+  - fatal medical prediction punished
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fatal-pursuit-of-splendid-spoils
+  motif_id: fatal_pursuit_of_splendid_spoils
+  label: fatal pursuit of splendid spoils
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: functional_variant
+  confidence: medium
+  rationale: Fatal pursuit of glorious spoils fits overreaching desire for honor or
+    wealth leading to downfall.
+  cautions: If the passage centers on battlefield honor, map secondarily to sacred_combat
+    or divine_warrior; if it is merely a battle episode, keep as granular evidence.
+  suggested_aliases:
+  - fatal quest for spoils
+  - deadly pursuit of plunder
+  - splendid spoils causing death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fatal-reversal-of-expected-abundance
+  motif_id: fatal_reversal_of_expected_abundance
+  label: fatal reversal of expected abundance
+  occurrences: 1
+  traditions:
+  - ainu
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is abstract and could indicate failed exchange, taboo violation,
+    divine punishment, famine reversal, or narrative irony.
+  cautions: Culturally specific Ainu context is needed; avoid mapping solely from
+    the fatal outcome. Possible groups include sacred_exchange, divine_judgment, sacred_law,
+    or pride_and_downfall depending on evidence.
+  suggested_aliases:
+  - abundance reversed into death
+  - expected plenty becomes fatal
+  - fatal inversion of abundance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fatal-sight-of-a-powerful-being
+  motif_id: fatal_sight_of_a_powerful_being
+  label: fatal sight of a powerful being
+  occurrences: 1
+  traditions:
+  - indigenous_australian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: functional_variant
+  confidence: medium
+  rationale: A lethal encounter through seeing a powerful being fits overwhelming
+    sacred manifestation and dangerous revelation.
+  cautions: Review cultural context carefully. If the being is not divine or sacred,
+    dream_and_vision, divine_judgment, sacred_law/taboo, or death_and_transformation
+    may fit better.
+  suggested_aliases:
+  - fatal sight of sacred being
+  - deadly vision of powerful being
+  - lethal theophanic sight
+  - death by seeing forbidden being
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fate-as-true-conqueror
+  motif_id: fate_as_true_conqueror
+  label: fate as true conqueror
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: broader_label
+  confidence: medium
+  rationale: The label frames destiny as the ultimate victorious agency, aligning
+    with death or defeat attributed to fate beyond human control.
+  cautions: May be a philosophical or rhetorical statement rather than a narrative
+    motif; if not tied to death or unavoidable outcome, sacred_knowledge or divine_judgment
+    may be more appropriate.
+  suggested_aliases:
+  - destiny as conqueror
+  - fate conquers all
+  - fate as ultimate victor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fate-delayed-but-not-overturned
+  motif_id: fate_delayed_but_not_overturned
+  label: fate delayed but not overturned
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: functional_variant
+  confidence: high
+  rationale: The motif explicitly describes destiny as postponable but ultimately
+    unavoidable, a close fit for death or outcome governed by fate.
+  cautions: If the passage concerns prophecy rather than death, consider dream_and_vision
+    or sacred_knowledge as secondary context.
+  suggested_aliases:
+  - fate postponed not prevented
+  - destiny delayed but fulfilled
+  - unavoidable fate after delay
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fate-inscribed-by-heaven
+  motif_id: fate_inscribed_by_heaven
+  label: fate inscribed by heaven
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Heavenly inscription of fate fits destiny determined by a superhuman
+    or cosmic order beyond human control.
+  cautions: In Sufi context this may be theological teaching about decree rather than
+    a death motif; if focused on revelation, writing, or mystical knowledge, sacred_knowledge
+    may be a better secondary mapping.
+  suggested_aliases:
+  - heaven-inscribed fate
+  - destiny written in heaven
+  - celestial decree of fate
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and highly episode-specific;
+  human review should confirm whether each is a recurring motif or only a passage
+  detail.
+- Fate-related labels can map provisionally to death_by_fate, but reviewers should
+  distinguish fatal destiny from broader theological decree or prophecy.
+- Do not infer transmission or shared origin from shared placement.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; source passages needed for low-confidence
+    and culturally specific items.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0062
+  input_sha256: '0392ee727464466f7bef5ed9e0e46745d6826068aea97a832eef2b6b6b797cdc'

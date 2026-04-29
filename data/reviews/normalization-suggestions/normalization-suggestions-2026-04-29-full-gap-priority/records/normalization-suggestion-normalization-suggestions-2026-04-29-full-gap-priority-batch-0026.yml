@@ -1,0 +1,302 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0026
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.coerced-supernatural-labor-turns-prosperity-into-destruction
+  motif_id: coerced_supernatural_labor_turns_prosperity_into_destruction
+  label: coerced supernatural labor turns prosperity into destruction
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: low
+  rationale: Coercing supernatural labor resembles improper sacred exchange that produces
+    destructive consequences.
+  cautions: Could instead be a builder-bargain, trickster, pride/downfall, or episode-specific
+    Norse narrative detail; source evidence needed.
+  suggested_aliases:
+  - coerced supernatural labor
+  - dangerous supernatural bargain
+  - prosperity turned destructive by coerced labor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.coercion-by-possession-of-another-s-life-container
+  motif_id: coercion_by_possession_of_another_s_life_container
+  label: Coercion by possession of another’s life-container
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: external_soul
+  suggested_group_label: External Soul and Life-Token
+  relationship: functional_variant
+  confidence: high
+  rationale: Control over another being through a life-container is a direct external-soul/life-token
+    pattern.
+  cautions: Preserve whether the container holds soul, life, fate, or vulnerability;
+    may also involve sacred vessel if the container itself is ritually important.
+  suggested_aliases:
+  - life-container coercion
+  - coercion by external soul possession
+  - control through life-token
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.coercion-by-threat-and-blandishment
+  motif_id: coercion_by_threat_and_blandishment
+  label: coercion by threat and blandishment
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label names a generic persuasive tactic rather than a clear mythic
+    motif or symbolic function.
+  cautions: May be passage-specific rhetoric, court politics, seduction, temptation,
+    or ritual coercion depending on context; avoid broad indexing without evidence.
+  suggested_aliases:
+  - threat and blandishment
+  - coercive persuasion
+  - mixed intimidation and flattery
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.coercion-of-supernatural-agents-by-magic
+  motif_id: coercion_of_supernatural_agents_by_magic
+  label: Coercion of supernatural agents by magic
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Ritual Coercion of Supernatural Agents
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Magically compelling spirits or deities is a recurring ritual function
+    not cleanly covered by sacred exchange, intervention, or sacrifice.
+  cautions: Review culturally sensitive framing; distinguish coercive ritual from
+    prayer, offering, exorcism, or divine intervention initiated by the deity.
+  suggested_aliases:
+  - magical coercion of spirits
+  - compelling supernatural agents
+  - ritual coercion of deities or spirits
+  suggested_new_group:
+    id: ritual_coercion
+    label: Ritual Coercion of Supernatural Agents
+    description: Ritual, magical, verbal, or technical acts that compel, bind, pressure,
+      or command gods, spirits, demons, rain powers, or other supernatural agents
+      to act.
+    parent_group_ids:
+    - sacred_exchange
+    - sacred_law
+    related_group_ids:
+    - divine_intervention
+    - sacrifice
+    - sacred_knowledge
+    reason_existing_groups_insufficient: Sacred exchange covers reciprocity and offering,
+      while divine intervention centers on sacred agency; neither clearly captures
+      human ritual compulsion of supernatural beings.
+- suggestion_id: normalization.suggestion.coercive-cutting-of-hair-to-overcome-resistance
+  motif_id: coercive_cutting_of_hair_to_overcome_resistance
+  label: Coercive cutting of hair to overcome resistance
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: uncertain
+  confidence: low
+  rationale: Hair may function as a power-bearing body token, but the label alone
+    does not establish an external-soul or sacred-object pattern.
+  cautions: Could be external soul, loss of strength, humiliation, ritual tonsure,
+    gendered coercion, or passage-specific violence; source context is required.
+  suggested_aliases:
+  - cutting hair to remove power
+  - coercive hair cutting
+  - hair as vulnerability
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.collective-deliberation-under-threat
+  motif_id: collective_deliberation_under_threat
+  label: collective deliberation under threat
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: low
+  rationale: Crisis deliberation may concern political order or leadership under pressure.
+  cautions: Likely a narrative or political scene rather than a durable mythic motif
+    unless tied to sacred law, kingship, oath, or judgment.
+  suggested_aliases:
+  - council under threat
+  - crisis deliberation
+  - assembly under danger
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.collective-destruction-of-the-deceiving-predator
+  motif_id: collective_destruction_of_the_deceiving_predator
+  label: Collective destruction of the deceiving predator
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: A deceiving predator defeated by collective action fits trickster/deceiver
+    reversal and restoration of order.
+  cautions: If the emphasis is moral punishment, divine_judgment may be secondary;
+    if it is only an animal fable episode, avoid overgeneralizing.
+  suggested_aliases:
+  - deceiving predator destroyed
+  - collective defeat of predator trickster
+  - predator deception punished
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.collective-lament-for-the-fallen-champion
+  motif_id: collective_lament_for_the_fallen_champion
+  label: collective lament for the fallen champion
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: narrower_than
+  confidence: high
+  rationale: The motif is a communal lament for a dead heroic figure, directly fitting
+    lament and mourning.
+  cautions: May also relate to heroic funeral rites if formal burial honors or memorial
+    contests are present.
+  suggested_aliases:
+  - communal lament for fallen champion
+  - lament for dead hero
+  - collective mourning of champion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.collective-lamentation-for-a-fallen-defender
+  motif_id: collective_lamentation_for_a_fallen_defender
+  label: collective lamentation for a fallen defender
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: narrower_than
+  confidence: high
+  rationale: The label centers on communal mourning for a slain protective hero or
+    defender.
+  cautions: If the passage includes formal funeral honors, secondary placement under
+    heroic_funeral_rites may be useful.
+  suggested_aliases:
+  - communal lament for fallen defender
+  - lamentation for fallen protector
+  - collective mourning of defender
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.collective-traditional-formation-of-an-epic
+  motif_id: collective_traditional_formation_of_an_epic
+  label: Collective traditional formation of an epic
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This describes oral/textual formation of a work, not a narrative or symbolic
+    motif within the tradition.
+  cautions: Preserve as provenance or literary-history metadata; do not use for motif
+    pattern queries.
+  suggested_aliases:
+  - traditional formation of epic
+  - collective epic formation
+  - oral-traditional epic composition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several coercion labels are generic or context-dependent; human review should distinguish
+  ritual coercion, political coercion, magical binding, and passage-level narrative
+  tactics.
+- Do not infer historical transmission from comparative labels; suggestions are only
+  taxonomy placements.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Provisional batch suggestions generated for unmapped motifs; items with single
+    occurrences and broad coercion wording should be checked against source passages.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0026
+  input_sha256: cd426bbc87008202b10e6b6ad049477f02a1dc9a0e9b30a3f1eeb9a0ffe9d39d

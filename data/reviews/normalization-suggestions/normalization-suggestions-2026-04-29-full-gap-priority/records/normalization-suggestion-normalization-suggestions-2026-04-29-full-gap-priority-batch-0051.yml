@@ -1,0 +1,327 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0051
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.eschatological-trumpet-and-universal-terror
+  motif_id: eschatological_trumpet_and_universal_terror
+  label: eschatological trumpet and universal terror
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: medium
+  rationale: The label points to end-time divine alarm and cosmic fear, but the current
+    groups lack a clear eschatology/apocalypse category.
+  cautions: Could fit divine_judgment if judgment is central, sacred_fire/flood_and_renewal
+    if world-ending catastrophe is described, or dream_and_vision if it is visionary
+    eschatology.
+  suggested_aliases:
+  - eschatological_trumpet
+  - universal_terror_at_judgment
+  - last_trumpet
+  suggested_new_group:
+    id: eschatology_apocalypse
+    label: Eschatology and Apocalypse
+    description: End-time revelation, cosmic terror, resurrection, judgment, and final
+      transformation of the world or human order.
+    parent_group_ids:
+    - divine_judgment
+    - death_and_transformation
+    related_group_ids:
+    - flood_and_renewal
+    - dream_and_vision
+    - theophany
+    reason_existing_groups_insufficient: Existing catastrophe and judgment groups
+      cover parts of the motif, but not the distinctive end-time signal and universal
+      eschatological terror.
+- suggestion_id: normalization.suggestion.esoteric-secret-doctrine
+  motif_id: esoteric_secret_doctrine
+  label: esoteric secret doctrine
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: narrower_than
+  confidence: high
+  rationale: A hidden or initiatory doctrine is a form of concealed sacred knowledge.
+  cautions: If the passage emphasizes the seeker’s inner path rather than the teaching
+    itself, mystical_quest may be a secondary mapping.
+  suggested_aliases:
+  - secret_doctrine
+  - esoteric_teaching
+  - hidden_sacred_knowledge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.estrangement-from-court-caused-by-insult
+  motif_id: estrangement_from_court_caused_by_insult
+  label: estrangement from court caused by insult
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could signal exile/departure, courtly honor conflict, or a
+    plot-specific insult episode.
+  cautions: Single occurrence and highly contextual; map to hero_journey/departure
+    only if estrangement triggers a transformative quest or exile.
+  suggested_aliases:
+  - court_estrangement_after_insult
+  - insult_triggered_exile
+  - honor_insult_at_court
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ethical-protection-of-orphan-and-beggar
+  motif_id: ethical_protection_of_orphan_and_beggar
+  label: ethical protection of orphan and beggar
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: narrower_than
+  confidence: high
+  rationale: Protection of vulnerable persons is an ethical command within sacred
+    social order.
+  cautions: Could also index under covenant or sacred_exchange if framed as divine
+    obligation, charity, or reciprocity.
+  suggested_aliases:
+  - protection_of_orphans_and_beggars
+  - care_for_the_vulnerable
+  - ethical_social_care
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ethnic-taunt-opposing-martial-masculinity-to-luxurious-cultic-softness
+  motif_id: ethnic_taunt_opposing_martial_masculinity_to_luxurious_cultic_softness
+  label: ethnic taunt opposing martial masculinity to luxurious cultic softness
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads as rhetorical characterization or ethnic polemic rather
+    than a reusable mythic motif.
+  cautions: Culturally sensitive and over-specific; if source evidence shows ritualized
+    gender inversion or sacred combat ideology, review separately rather than indexing
+    this wording.
+  suggested_aliases:
+  - ethnic_taunt_martial_vs_luxurious
+  - martial_masculinity_polemic
+  - cultic_softness_taunt
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.etiological-color-change
+  motif_id: etiological_color_change
+  label: etiological color change
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Etiological color change could be transformation, divine judgment, or
+    a natural-origin explanation depending on the story.
+  cautions: Label is too broad without knowing what changes color and why; avoid forcing
+    into shapeshifter unless bodily/form transformation is central.
+  suggested_aliases:
+  - origin_of_color_change
+  - color_change_etiology
+  suggested_new_group:
+    id: etiological_transformation
+    label: Etiological Transformation
+    description: Stories explaining the origin of present natural, bodily, animal,
+      landscape, or cultural features through a mythic transformation or event.
+    parent_group_ids:
+    - shapeshifter
+    - cosmic_origin
+    related_group_ids:
+    - death_and_transformation
+    - divine_judgment
+    reason_existing_groups_insufficient: Many etiological labels explain specific
+      natural features but are not necessarily creation myths, shapeshifting episodes,
+      or judgment stories.
+- suggestion_id: normalization.suggestion.etiological-explanation-for-a-valley-of-madness
+  motif_id: etiological_explanation_for_a_valley_of_madness
+  label: etiological explanation for a valley of madness
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This may be a place-name or landscape etiology, but the cause and narrative
+    function are unclear.
+  cautions: Could be too place-specific for motif queries; map only if the passage
+    shows a recurring pattern such as cursed landscape, madness, or etiological transformation.
+  suggested_aliases:
+  - valley_of_madness_etiology
+  - cursed_valley_origin
+  - landscape_madness_origin
+  suggested_new_group:
+    id: etiological_landscape
+    label: Etiological Landscape and Place-Origin
+    description: Stories explaining the origin, name, condition, danger, or distinctive
+      feature of a landscape or place through mythic events.
+    parent_group_ids:
+    - cosmic_origin
+    related_group_ids:
+    - death_and_transformation
+    - divine_judgment
+    - otherworld
+    reason_existing_groups_insufficient: Existing origin groups focus on cosmic creation
+      or transformation, not localized place-origin explanations.
+- suggestion_id: normalization.suggestion.etiological-explanation-of-bear-s-human-likeness
+  motif_id: etiological_explanation_of_bear_s_human_likeness
+  label: Etiological explanation of bear's human likeness
+  occurrences: 1
+  traditions:
+  - ainu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A bear’s human likeness points to human-animal boundary crossing or transformation
+    symbolism.
+  cautions: In Ainu context this may involve culturally specific bear-person or kamuy
+    concepts; human review should preserve local meaning and avoid reducing it to
+    generic shapeshifting.
+  suggested_aliases:
+  - bear_human_likeness_etiology
+  - human_like_bear_origin
+  - bear_human_boundary
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.etiological-explanation-of-galah-bald-patch-and-red-prickly-lizard
+  motif_id: etiological_explanation_of_galah_bald_patch_and_red_prickly_lizard
+  label: etiological explanation of Galah bald patch and red prickly lizard
+  occurrences: 1
+  traditions:
+  - indigenous_australian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label is an animal-feature etiology, but it is highly specific to
+    named species and features.
+  cautions: Culturally sensitive Indigenous Australian material; preserve exact evidence
+    and review source context before broad indexing.
+  suggested_aliases:
+  - animal_feature_etiology
+  - galah_bald_patch_origin
+  - red_prickly_lizard_origin
+  suggested_new_group:
+    id: animal_feature_etiology
+    label: Animal Feature Etiology
+    description: Stories explaining distinctive animal forms, markings, colors, cries,
+      habits, or species traits through mythic events.
+    parent_group_ids:
+    - shapeshifter
+    related_group_ids:
+    - cosmic_origin
+    - divine_judgment
+    reason_existing_groups_insufficient: Shapeshifter covers transformation broadly
+      but not the recurring explanatory function of animal-trait origin stories.
+- suggestion_id: normalization.suggestion.etiological-explanation-of-natural-phenomena
+  motif_id: etiological_explanation_of_natural_phenomena
+  label: etiological explanation of natural phenomena
+  occurrences: 1
+  traditions:
+  - ainu
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: broader_label
+  confidence: low
+  rationale: The label is a broad etiological category rather than a specific motif.
+  cautions: Needs source evidence to determine whether the phenomenon concerns creation,
+    landscape, weather, animals, divine judgment, or transformation.
+  suggested_aliases:
+  - natural_phenomena_etiology
+  - origin_of_natural_phenomena
+  - etiological_nature_explanation
+  suggested_new_group:
+    id: etiological_nature_origin
+    label: Etiological Origins of Natural Phenomena
+    description: Stories explaining the origin of natural features, phenomena, species
+      traits, or environmental conditions through mythic events.
+    parent_group_ids:
+    - cosmic_origin
+    related_group_ids:
+    - shapeshifter
+    - divine_intervention
+    - divine_judgment
+    reason_existing_groups_insufficient: Cosmic_origin is too large-scale for many
+      localized explanations of natural phenomena, while shapeshifter only covers
+      some transformation cases.
+batch_notes:
+- Several items in this batch are etiological labels. Consider whether the normalization
+  taxonomy needs a durable etiological-origin family or several narrower review groups
+  for landscape, animal-feature, and natural-phenomenon etiologies.
+- Single-occurrence, highly contextual labels should generally remain evidence details
+  unless they recur across sources or clearly map to an existing group.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_normalization_suggester
+  reviewed_at: ''
+  notes: Provisional placements only; etiological and culturally specific items need
+    source-context review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0051
+  input_sha256: dd54744b0cf36d53c1f64735245f26db45324b9c38ca5bbe638a4782ae26f54f

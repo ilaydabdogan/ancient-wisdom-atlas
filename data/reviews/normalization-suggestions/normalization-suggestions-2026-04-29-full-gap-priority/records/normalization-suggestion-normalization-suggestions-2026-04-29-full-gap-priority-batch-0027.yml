@@ -1,0 +1,291 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0027
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.collector-poet-unifying-scattered-lays-into-one-poem
+  motif_id: collector_poet_unifying_scattered_lays_into_one_poem
+  label: collector-poet unifying scattered lays into one poem
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: Describes literary collection/redaction of poems rather than a narrative
+    or symbolic motif.
+  cautions: Preserve as provenance or reception history if useful; not suitable for
+    motif pattern queries.
+  suggested_aliases:
+  - poetic_compilation_of_scattered_lays
+  - collector_poet_redaction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.color-origin-explanation-for-mulberry
+  motif_id: color_origin_explanation_for_mulberry
+  label: color-origin explanation for mulberry
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Looks like an etiological explanation, but no current etiology or plant-origin
+    group exists and context is needed.
+  cautions: May be too object-specific unless the passage links the mulberry color
+    to death, blood, metamorphosis, or sacred plant symbolism.
+  suggested_aliases:
+  - mulberry_color_origin
+  - plant_color_et maybe etiological_origin
+  suggested_new_group:
+    id: etiological_origin_myth
+    label: Etiological Origin Myth
+    description: Explanations for the origin of a natural feature, custom, plant,
+      animal trait, place-name, or cultural practice through mythic events.
+    parent_group_ids:
+    - cosmic_origin
+    - sacred_knowledge
+    related_group_ids:
+    - death_and_transformation
+    - shapeshifter
+    reason_existing_groups_insufficient: Existing groups cover cosmic creation and
+      transformation but not localized explanations for specific natural or cultural
+      features.
+- suggestion_id: normalization.suggestion.colour-as-affliction-sign
+  motif_id: colour_as_affliction_sign
+  label: Colour as affliction sign
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could signal love-sickness, spiritual illness, bodily transformation,
+    or symbolic perception depending on passage evidence.
+  cautions: Do not map to sacred_love or mystical_quest without confirming the affliction’s
+    cause and function.
+  suggested_aliases:
+  - color_as_affliction_sign
+  - bodily_color_sign_of_affliction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.comic-bodily-cure-through-sneezing
+  motif_id: comic_bodily_cure_through_sneezing
+  label: Comic bodily cure through sneezing
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: Highly specific comic bodily episode with no clear broader sacred or
+    mythic function in the supplied label.
+  cautions: If recurrent as healing, ritual expulsion, or resurrection evidence, review
+    under divine_intervention or sacrifice/ritual_expulsion; otherwise keep as passage
+    detail.
+  suggested_aliases:
+  - sneezing_cure
+  - comic_sneeze_healing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.comic-or-cheerful-contrast-after-catastrophe
+  motif_id: comic_or_cheerful_contrast_after_catastrophe
+  label: comic or cheerful contrast after catastrophe
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This may be tonal contrast or narrative style rather than a motif; catastrophe
+    function is unclear.
+  cautions: Map to flood_and_renewal or death_and_transformation only if catastrophe
+    produces renewal, judgment, or transformed order.
+  suggested_aliases:
+  - cheerful_contrast_after_catastrophe
+  - comic_aftermath_of_catastrophe
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.comic-reversal-of-mourning
+  motif_id: comic_reversal_of_mourning
+  label: Comic reversal of mourning
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on mourning transformed or inverted by comic reversal,
+    still within the mourning complex.
+  cautions: If the episode is mainly didactic Buddhist teaching on attachment, sacred_knowledge
+    or divine_judgment may be a secondary review path.
+  suggested_aliases:
+  - mourning_reversed_comically
+  - comic_inversion_of_grief
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.communal-female-mourning
+  motif_id: communal_female_mourning
+  label: communal female mourning
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: ritual_variant
+  confidence: high
+  rationale: A collective gendered mourning practice fits the existing lament and
+    mourning group.
+  cautions: Preserve gendered and communal details; if tied to funeral rites for a
+    hero, heroic_funeral_rites may be a secondary mapping.
+  suggested_aliases:
+  - women_s_communal_lament
+  - female_collective_mourning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.communal-illness-transferred-to-a-scapegoat-and-expelled
+  motif_id: communal_illness_transferred_to_a_scapegoat_and_expelled
+  label: communal illness transferred to a scapegoat and expelled
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: high
+  rationale: Illness transferred to a scapegoat and expelled matches the sacrifice
+    group’s scapegoat and ritual expulsion complex.
+  cautions: May also support sacred_law if framed as apotropaic protection or purity
+    regulation; preserve illness-transfer detail.
+  suggested_aliases:
+  - scapegoat_illness_transfer
+  - communal_disease_expulsion
+  - ritual_transfer_to_scapegoat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.communal-spouses-and-property-in-imagined-early-society
+  motif_id: communal_spouses_and_property_in_imagined_early_society
+  label: Communal spouses and property in imagined early society
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This appears to be a social-philosophical image of early society rather
+    than a clear mythic motif.
+  cautions: Could be commentary, utopian anthropology, sacred law, or social-order
+    theory; needs source context before indexing.
+  suggested_aliases:
+  - early_society_communal_spouses_and_property
+  - primitive_communality
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.community-founded-from-human-need
+  motif_id: community_founded_from_human_need
+  label: community founded from human need
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label concerns the origin of communal/social order from human need,
+    fitting the social-order side of sacred law.
+  cautions: If purely philosophical anthropology with no sacred, legal, or mythic
+    framing, exclude or treat as commentary rather than motif.
+  suggested_aliases:
+  - origin_of_community_from_need
+  - social_order_founded_on_need
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items in this batch are single-occurrence and may be passage-specific literary
+  or philosophical observations rather than reusable motifs.
+- A recurring etiological-origin group may be worth reviewing because localized origin
+  explanations are not well represented by the current broad cosmic_origin group.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0027
+  input_sha256: 7d89fd57dc94838c0a267b5abdefa452b3838e6a76f3760bc8301c2b755446a6

@@ -1,0 +1,297 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0044
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.development-from-inspired-prophet-to-political-founder
+  motif_id: development_from_inspired_prophet_to_political_founder
+  label: development from inspired prophet to political founder
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: culture_hero
+  suggested_group_label: Culture Hero and Founder
+  relationship: role_variant
+  confidence: low
+  rationale: The label describes a sacred teacher becoming a founder of social or
+    political order, which partially fits founder/culture-hero function.
+  cautions: May be a historical or source-development claim rather than a narrative
+    motif; review Islamic source context carefully and avoid transmission or biography-periodization
+    claims.
+  suggested_aliases:
+  - prophet as political founder
+  - inspired founder
+  - sacred founder
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.devil-as-betrayer-of-humanity
+  motif_id: devil_as_betrayer_of_humanity
+  label: Devil as betrayer of humanity
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: role_variant
+  confidence: medium
+  rationale: A demonic deceiver who betrays humanity fits the boundary-breaking deceiver
+    role, though with stronger adversarial moral valence than many tricksters.
+  cautions: Could also belong under divine_judgment or forbidden_knowledge if the
+    passage centers on temptation, judgment, or prohibited knowledge; do not flatten
+    Islamic Iblis/Shaytan theology into generic trickster without review.
+  suggested_aliases:
+  - demonic deceiver
+  - satanic betrayer
+  - adversary betrays humanity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.didactic-past-life-identification
+  motif_id: didactic_past_life_identification
+  label: didactic past-life identification
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: medium
+  rationale: Identifying past lives for teaching purposes functions as revelatory
+    knowledge that conveys moral or karmic instruction.
+  cautions: May deserve a future rebirth/karma narrative group if many Jataka-style
+    identifications recur; avoid mapping to death_and_transformation unless the passage
+    emphasizes rebirth mechanics rather than instruction.
+  suggested_aliases:
+  - past-life revelation as teaching
+  - karmic identity disclosure
+  - didactic rebirth identification
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dietary-holiness-with-necessity-exception
+  motif_id: dietary_holiness_with_necessity_exception
+  label: Dietary holiness with necessity exception
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: A dietary rule with an exception under necessity is a sacred-law or ritual-prohibition
+    pattern regulating purity and conduct.
+  cautions: May be more legal-ethical than mythic; preserve the necessity exception
+    as evidence detail rather than creating a separate canonical motif from one occurrence.
+  suggested_aliases:
+  - dietary law with necessity exception
+  - necessity exception to food taboo
+  - sacred diet regulation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.different-reception-of-similar-behavior
+  motif_id: different_reception_of_similar_behavior
+  label: different reception of similar behavior
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is too abstract to identify a narrative function or symbolic
+    motif without passage evidence.
+  cautions: Could be ethical judgment, social hierarchy, divine favoritism, dramatic
+    irony, or commentary artifact; review source before mapping.
+  suggested_aliases:
+  - unequal judgment of similar acts
+  - contrasting reception of behavior
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.diminished-survivor-of-a-vanished-company
+  motif_id: diminished_survivor_of_a_vanished_company
+  label: diminished survivor of a vanished company
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: functional_variant
+  confidence: medium
+  rationale: A lone diminished survivor of a lost group centers on loss, tragic remembrance,
+    and the aftermath of vanished companions.
+  cautions: If the survivor preserves memory or returns from an otherworld/time-displacement
+    episode, otherworld or storytelling_as_power may be relevant; source context is
+    needed.
+  suggested_aliases:
+  - last survivor of vanished company
+  - survivor diminished by loss
+  - lone remnant after disappearance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.diplomatic-gift-before-interview
+  motif_id: diplomatic_gift_before_interview
+  label: Diplomatic gift before interview
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: A gift given before an audience or negotiation fits exchange as a relationship-making
+    or obligation-creating act.
+  cautions: May be courtly protocol rather than sacred exchange; if no sacred or ritual
+    stakes are present, treat as contextual detail.
+  suggested_aliases:
+  - pre-audience gift
+  - gift before negotiation
+  - diplomatic offering
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.directional-guardian-deities
+  motif_id: directional_guardian_deities
+  label: directional guardian deities
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: role_variant
+  confidence: medium
+  rationale: Guardian deities assigned to directions protect cosmic boundaries and
+    regulate spatial order.
+  cautions: Could also fit axis_mundi, cosmic_origin, or divine_intervention if the
+    emphasis is cosmological ordering rather than guarded passage; Hindu lokapāla/directional-deity
+    context should be reviewed.
+  suggested_aliases:
+  - guardians of the directions
+  - directional protectors
+  - cosmic direction guardians
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.disarming-rivals-before-vengeance
+  motif_id: disarming_rivals_before_vengeance
+  label: disarming rivals before vengeance
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label is a tactical revenge episode within conflict and combat, best
+    parked under sacred_combat if it has mythic or heroic stakes.
+  cautions: Likely too episode-specific for pattern queries unless the disarming stratagem
+    recurs; if merely plot mechanics, exclude or preserve only as evidence detail.
+  suggested_aliases:
+  - pre-vengeance disarming
+  - rivals disarmed before revenge
+  - strategic disarming before retaliation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.disciple-mourning-slain-teacher
+  motif_id: disciple_mourning_slain_teacher
+  label: disciple mourning slain teacher
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: functional_variant
+  confidence: high
+  rationale: The motif centers on grief and lament for a violently killed teacher
+    or mentor figure.
+  cautions: If the mourning triggers vengeance, succession, or initiation, sacred_combat,
+    royal_legitimacy, or initiation may be secondary; preserve disciple-teacher relation
+    as evidence detail.
+  suggested_aliases:
+  - mourning a slain teacher
+  - student laments killed guru
+  - disciple grief for murdered mentor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and abstract; placements should
+  be treated as provisional review buckets, not taxonomy edits.
+- Avoid treating historical development, legal doctrine, or court protocol as mythic
+  motif unless the source passage gives narrative or ritual function.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: assistant
+  reviewed_at: ''
+  notes: Provisional normalization suggestions generated for batch-0044.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0044
+  input_sha256: 6f414b1b2d1d69fedce38a8ef9ee00d9b66a11db9782564f8ad61426ac19606e

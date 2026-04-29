@@ -1,0 +1,316 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0064
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.fiery-pit-as-instrument-of-religious-persecution
+  motif_id: fiery_pit_as_instrument_of_religious_persecution
+  label: fiery pit as instrument of religious persecution
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: A fiery pit used against believers is an ordeal of persecution that often
+    functions within a moral reckoning or vindication sequence.
+  cautions: If the passage emphasizes martyrdom, sacred combat, or miraculous rescue
+    rather than judgment, secondary placement may be needed. Avoid mapping to world-destroying
+    fire unless cosmic renewal is explicit.
+  suggested_aliases:
+  - persecution by fiery pit
+  - fire ordeal of believers
+  - punitive fire against the faithful
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.figures-introduced-from-one-narrative-cycle-into-another
+  motif_id: figures_introduced_from_one_narrative_cycle_into_another
+  label: Figures introduced from one narrative cycle into another
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes narrative-cycle composition or reception rather than
+    a symbolic or narrative motif inside the story world.
+  cautions: Preserve as a textual/provenance note if useful; do not use as evidence
+    for transmission or borrowing in motif queries.
+  suggested_aliases:
+  - cross-cycle character insertion
+  - interpolated figure from another cycle
+  - narrative-cycle conflation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.filial-and-hierarchical-reverence-through-touching-feet
+  motif_id: filial_and_hierarchical_reverence_through_touching_feet
+  label: filial and hierarchical reverence through touching feet
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Touching feet is a ritualized gesture expressing kinship hierarchy, reverence,
+    and social order.
+  cautions: May be an etiquette detail rather than a reusable motif unless it carries
+    narrative or sacred consequence in the passage.
+  suggested_aliases:
+  - touching feet as reverence
+  - ritual gesture of filial respect
+  - hierarchical bodily homage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.filial-loyalty-against-maternal-ambition
+  motif_id: filial_loyalty_against_maternal_ambition
+  label: filial loyalty against maternal ambition
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is an ethical family-conflict theme, but its narrative function
+    is unclear from wording alone.
+  cautions: Could fit sacred_law, royal_legitimacy, divine_judgment, or a passage-specific
+    court-family conflict. Review source evidence before indexing.
+  suggested_aliases:
+  - filial loyalty over dynastic ambition
+  - son's duty against mother's ambition
+  - family duty versus ambition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.filial-piety-and-grateful-maturity
+  motif_id: filial_piety_and_grateful_maturity
+  label: Filial piety and grateful maturity
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: Filial piety and gratitude express sacred ethical obligation within family
+    and social order.
+  cautions: This may be a moral teaching rather than a distinct narrative motif; consider
+    excluding if it is only commentary on behavior.
+  suggested_aliases:
+  - filial gratitude
+  - mature gratitude toward parents
+  - piety toward parents
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.filial-piety-and-mature-gratitude
+  motif_id: filial_piety_and_mature_gratitude
+  label: Filial piety and mature gratitude
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: alias
+  confidence: high
+  rationale: This is a close wording variant of filial_piety_and_grateful_maturity
+    and belongs with family ethics under sacred law/social order.
+  cautions: Deduplicate with filial_piety_and_grateful_maturity if both labels derive
+    from the same passage or motif extraction.
+  suggested_aliases:
+  - filial piety and grateful maturity
+  - filial gratitude
+  - mature gratitude toward parents
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.final-duel-of-life-long-rivals
+  motif_id: final_duel_of_life_long_rivals
+  label: Final duel of life-long rivals
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A climactic duel between rivals is a combat pattern, especially if it
+    resolves heroic, moral, or cosmic conflict.
+  cautions: If the duel is merely an episode-specific plot detail, preserve as evidence
+    rather than a durable motif. Could relate to divine_warrior if a godlike or sacred
+    champion is central.
+  suggested_aliases:
+  - climactic duel of rivals
+  - final single combat
+  - lifelong rivals' last battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.final-prophet-after-earlier-prophets
+  motif_id: final_prophet_after_earlier_prophets
+  label: final prophet after earlier prophets
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: medium
+  rationale: The label describes a culturally and theologically specific prophetic
+    succession claim not cleanly covered by existing groups.
+  cautions: Handle sensitively; may be doctrinal taxonomy or source-specific theology
+    rather than a cross-tradition motif. Could relate to sacred_knowledge or divine_call
+    only if the passage emphasizes revelation or mission.
+  suggested_aliases:
+  - seal of prophetic succession
+  - final messenger after earlier prophets
+  - prophetic culmination
+  suggested_new_group:
+    id: prophetic_succession
+    label: Prophetic Succession and Culmination
+    description: A prophet, messenger, teacher, or revealer appears within a lineage
+      of earlier inspired figures and confirms, renews, completes, or culminates prior
+      revelation.
+    parent_group_ids:
+    - sacred_knowledge
+    - divine_intervention
+    related_group_ids:
+    - divine_call
+    - covenant
+    reason_existing_groups_insufficient: Existing groups cover revelation, divine
+      call, and sacred knowledge, but not the lineage or culmination function of serial
+      prophecy.
+- suggestion_id: normalization.suggestion.first-believer-affirms-prophet-s-mission
+  motif_id: first_believer_affirms_prophet_s_mission
+  label: first believer affirms prophet's mission
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: The first believer serves as a confirming human witness to a divinely
+    guided prophetic mission.
+  cautions: Could belong with covenant/community formation or sacred_knowledge if
+    the focus is transmission of revelation. Review for doctrinal specificity and
+    avoid overgeneralizing a single episode.
+  suggested_aliases:
+  - first believer as witness
+  - initial affirmation of prophetic mission
+  - first convert confirms messenger
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.first-pair-and-origin-of-spouse
+  motif_id: first_pair_and_origin_of_spouse
+  label: first pair and origin of spouse
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: First Pair and Human Spouse Origin
+  relationship: narrower_than
+  confidence: medium
+  rationale: The origin of the first spouse and first human pair is an anthropogonic
+    pattern not captured by sacred marriage or sacred birth alone.
+  cautions: May overlap with cosmic_origin, sacred_marriage, or sacred_birth depending
+    on whether the passage emphasizes creation, union, lineage, or gender roles. Requires
+    sensitive review of tradition-specific interpretation.
+  suggested_aliases:
+  - first human pair
+  - creation of spouse
+  - origin of marriage pair
+  - primordial couple
+  suggested_new_group:
+    id: first_pair_spouse_origin
+    label: First Pair and Human Spouse Origin
+    description: The formation of the first human pair or the origin of a spouse/partner
+      through divine creation, bodily derivation, pairing, or primordial kinship,
+      establishing human lineage, marriage, or gendered social order.
+    parent_group_ids:
+    - cosmic_origin
+    related_group_ids:
+    - sacred_marriage
+    - sacred_birth
+    - covenant
+    reason_existing_groups_insufficient: Existing groups cover cosmic creation, sacred
+      union, and birth, but not the specific anthropogonic creation of the first couple
+      or spouse as the basis for human social order.
+batch_notes:
+- Several labels are single-occurrence ethical or episode-specific themes; final mapping
+  should check whether they function as motifs in source passages or as commentary
+  summaries.
+- Prophetic labels in the Islamic tradition may encode theological claims; review
+  with cultural and doctrinal sensitivity rather than flattening into generic revelation
+  motifs.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_batch_suggester
+  reviewed_at: ''
+  notes: Draft provisional placements only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0064
+  input_sha256: 6a733ce39a0de5c26bb7a163add29dc9748dcadb3933b6a1fefddd1d6d126eea

@@ -1,0 +1,295 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0045
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.discordant-object-introduced-at-a-wedding-feast
+  motif_id: discordant_object_introduced_at_a_wedding_feast
+  label: Discordant object introduced at a wedding feast
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: medium
+  rationale: Likely refers to a specific episode where an object disrupts a feast,
+    but function could be rivalry, divine provocation, judgment, or narrative catalyst.
+  cautions: Single occurrence and highly episode-specific; do not map to sacred_marriage
+    or sacred_treasures without source evidence for symbolic function.
+  suggested_aliases:
+  - discordant object at feast
+  - wedding feast disruption by object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_treasures
+    - sacred_love
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dishonest-custodian-denies-entrusted-property-through-impossible-explanation
+  motif_id: dishonest_custodian_denies_entrusted_property_through_impossible_explanation
+  label: dishonest custodian denies entrusted property through impossible explanation
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: medium
+  rationale: This is an ethical or legal wisdom-tale pattern involving fraud, entrusted
+    goods, and absurd false explanation, but no existing group cleanly covers juridical
+    trickster exempla.
+  cautions: May be a Jataka/fable plot detail rather than a durable mythic motif;
+    could fit sacred_law, wisdom, or trickster depending on whether the focus is moral
+    judgment, clever detection, or deception.
+  suggested_aliases:
+  - fraudulent custodian denies entrusted goods
+  - impossible explanation for stolen property
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - sacred_knowledge
+    - trickster
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.disloyal-retainers-refuse-substitution-for-their-lord
+  motif_id: disloyal_retainers_refuse_substitution_for_their_lord
+  label: Disloyal retainers refuse substitution for their lord
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: Retainers refusing substitution for their lord concerns loyalty, hierarchy,
+    and the social obligations surrounding rulership.
+  cautions: If the passage centers on sacrificial substitution or a death bargain,
+    sacrifice or divine_judgment may be better secondary mappings.
+  suggested_aliases:
+  - retainers refuse to substitute for lord
+  - failed loyalty of retainers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dismemberment-as-admonitory-example
+  motif_id: dismemberment_as_admonitory_example
+  label: dismemberment as admonitory example
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Dismemberment used as warning or exemplary punishment fits moral reckoning
+    and deterrent judgment more than renewal.
+  cautions: Do not map to primordial_sacrifice unless the dismembered body creates
+    or structures the cosmos; may be a violence detail if no sacred or moral function
+    is present.
+  suggested_aliases:
+  - punitive dismemberment as warning
+  - dismemberment as moral example
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.disputed-prize-settled-through-public-arbitration
+  motif_id: disputed_prize_settled_through_public_arbitration
+  label: disputed prize settled through public arbitration
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: Public arbitration over a contested prize is a social-order and adjudication
+    pattern, aligning best with law and civic order.
+  cautions: If the prize is royal, divine, or heroic arms, royal_legitimacy or divine_warrior
+    may be relevant; single occurrence may be too episode-specific.
+  suggested_aliases:
+  - public arbitration of disputed prize
+  - contested prize adjudicated publicly
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.disputed-royal-or-civic-compilation-of-epic-tradition
+  motif_id: disputed_royal_or_civic_compilation_of_epic_tradition
+  label: disputed royal or civic compilation of epic tradition
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes textual compilation, transmission, or editorial history
+    rather than a narrative or symbolic motif.
+  cautions: Preserve as provenance or reception metadata if useful; do not use as
+    evidence for mythic pattern comparison.
+  suggested_aliases:
+  - disputed civic compilation of epic
+  - royal compilation of epic tradition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.disputed-solar-identification-of-a-deity
+  motif_id: disputed_solar_identification_of_a_deity
+  label: disputed solar identification of a deity
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The wording indicates a scholarly identification problem, not a motif
+    appearing in a narrative passage.
+  cautions: If a source actually depicts a deity with solar manifestation, create
+    a separate evidence label under theophany or sacred_fire; this label itself should
+    remain commentary metadata.
+  suggested_aliases:
+  - contested solar identification
+  - scholarly dispute over solar deity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.disrespect-before-failed-imitation
+  motif_id: disrespect_before_failed_imitation
+  label: disrespect before failed imitation
+  occurrences: 1
+  traditions:
+  - ainu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: functional_variant
+  confidence: medium
+  rationale: Disrespect followed by failed imitation reads as overreaching or improper
+    conduct resulting in humiliation or failure.
+  cautions: Could instead be divine_judgment if punishment by sacred powers is explicit,
+    or trickster if imitation/deception is the central mechanism.
+  suggested_aliases:
+  - failed imitation after disrespect
+  - disrespect leading to failed copying
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.distant-perception-of-kin-s-distress
+  motif_id: distant_perception_of_kin_s_distress
+  label: Distant perception of kin's distress
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: functional_variant
+  confidence: medium
+  rationale: Perceiving a relative's suffering at a distance is an altered-perception
+    or second-sight pattern revealing hidden events.
+  cautions: If the perception is mediated by a deity, omen, dream, or telepathic bond,
+    preserve that detail; could relate to sacred_love or divine_intervention depending
+    on context.
+  suggested_aliases:
+  - second sight of kin distress
+  - remote perception of kinsman's suffering
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.distinguishing-coerced-dependents-from-culpable-enemies
+  motif_id: distinguishing_coerced_dependents_from_culpable_enemies
+  label: distinguishing coerced dependents from culpable enemies
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on differentiated culpability and just moral assessment
+    in conflict or punishment.
+  cautions: May be an ethical/legal argument rather than a mythic motif; if framed
+    as civic procedure, sacred_law may be a secondary fit.
+  suggested_aliases:
+  - discerning coerced from culpable enemies
+  - differentiated culpability in judgment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items in this batch are single-occurrence and episode-specific; preserve
+  as evidence details unless recurrence justifies promotion.
+- Textual-transmission and scholarly-identification labels should be excluded from
+  motif pattern queries and retained only as metadata where useful.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended especially for legal/ethical
+    tale labels and episode-specific Greek material.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0045
+  input_sha256: 343f15574c9e954cb2f1834898a9352a9db61060027a4bc83d7a16fd9b630fd7

@@ -1,0 +1,309 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0060
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.false-marital-claim-over-captive-woman
+  motif_id: false_marital_claim_over_captive_woman
+  label: false marital claim over captive woman
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines captivity, gendered coercion, and fraudulent social
+    status; no existing group cleanly captures the full function.
+  cautions: Culturally and gender-sensitive context is needed; may be an episode-specific
+    plot detail, a captivity motif, or a social-order/legal motif.
+  suggested_aliases:
+  - fraudulent marital claim
+  - coercive claim over captive woman
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-omen-exposed
+  motif_id: false_omen_exposed
+  label: False omen exposed
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: functional_variant
+  confidence: medium
+  rationale: An omen is a revelatory sign; exposing it as false concerns failed or
+    deceptive divination within the vision/omen field.
+  cautions: If the passage emphasizes fraud punishment or political manipulation rather
+    than omen interpretation, divine_judgment or sacred_law may be secondary.
+  suggested_aliases:
+  - deceptive omen exposed
+  - false divination exposed
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-or-conflicting-succession-through-secret-appointments
+  motif_id: false_or_conflicting_succession_through_secret_appointments
+  label: false or conflicting succession through secret appointments
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif concerns contested succession and legitimacy through hidden
+    appointments, fitting sacred or institutional authority transfer.
+  cautions: In Sufi context this may concern spiritual lineage rather than kingship;
+    consider sacred_knowledge or a lineage-authority subgroup if many recur.
+  suggested_aliases:
+  - conflicting secret succession
+  - contested succession by secret appointment
+  - false succession claim
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_knowledge
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-or-denied-intercession
+  motif_id: false_or_denied_intercession
+  label: false or denied intercession
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Intercession may involve judgment, sacred mediation, or doctrinal polemic;
+    the label alone does not identify narrative function.
+  cautions: Islamic theological sensitivity requires source review; avoid flattening
+    doctrinal intercession into generic divine judgment without evidence.
+  suggested_aliases:
+  - denied intercession
+  - invalid intercession
+  - failed intercession claim
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_judgment
+    - sacred_exchange
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-or-premature-condemnation-corrected-by-proper-inquiry
+  motif_id: false_or_premature_condemnation_corrected_by_proper_inquiry
+  label: False or premature condemnation corrected by proper inquiry
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on erroneous judgment corrected by proper investigation,
+    a moral reckoning and justice pattern.
+  cautions: If the passage is primarily ethical instruction rather than sacred judgment,
+    sacred_knowledge or sacred_law may be better.
+  suggested_aliases:
+  - premature condemnation corrected
+  - proper inquiry corrects false judgment
+  - false accusation corrected
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_knowledge
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-prophet-exposed-and-overthrown
+  motif_id: false_prophet_exposed_and_overthrown
+  label: false prophet exposed and overthrown
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Exposure and overthrow of a false religious claimant fits moral reckoning
+    and punishment for sacred deception.
+  cautions: May also involve sacred_knowledge if the emphasis is discernment of true
+    revelation; source context should guide final mapping.
+  suggested_aliases:
+  - false prophet exposed
+  - false prophet overthrown
+  - deceptive prophet judged
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_knowledge
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-reassurance-in-the-face-of-worsening-illness
+  motif_id: false_reassurance_in_the_face_of_worsening_illness
+  label: false reassurance in the face of worsening illness
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label reads as a psychological or narrative situation rather than
+    a clear mythic motif in the current taxonomy.
+  cautions: Could be medical commentary, tragic irony, deception, or fate-facing denial;
+    source evidence is needed before indexing.
+  suggested_aliases:
+  - deceptive reassurance during illness
+  - false hope in worsening illness
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - death_by_fate
+    - lament_and_mourning
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-security-created-by-delayed-harm
+  motif_id: false_security_created_by_delayed_harm
+  label: false security created by delayed harm
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: functional_variant
+  confidence: low
+  rationale: Delayed harm creating false safety often supports a downfall or tragic
+    reversal pattern.
+  cautions: May be too abstract or passage-specific; if no pride, overreach, or moral
+    reversal is present, human review should exclude or remap.
+  suggested_aliases:
+  - delayed harm creates false security
+  - false safety before downfall
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_judgment
+    - death_by_fate
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-teachers-serving-tyranny
+  motif_id: false_teachers_serving_tyranny
+  label: False teachers serving tyranny
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: medium
+  rationale: False teaching corrupts or misuses knowledge; service to tyranny adds
+    a political misuse of wisdom theme.
+  cautions: If the passage centers on illegitimate rule rather than teaching, royal_legitimacy
+    or pride_and_downfall may be better secondary groups.
+  suggested_aliases:
+  - corrupt teachers serving tyranny
+  - false instruction supporting tyranny
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - royal_legitimacy
+    - pride_and_downfall
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-tears-and-praised-wrongdoing
+  motif_id: false_tears_and_praised_wrongdoing
+  label: false tears and praised wrongdoing
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines insincere mourning with moral inversion, but the dominant
+    motif is unclear from wording alone.
+  cautions: Could fit lament_and_mourning, divine_judgment, or ethical satire; may
+    be an over-specific rhetorical detail rather than a reusable motif.
+  suggested_aliases:
+  - insincere mourning
+  - false tears over wrongdoing
+  - praised wrongdoing with false grief
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - lament_and_mourning
+    - divine_judgment
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch concern deception, false claims, or moral correction.
+  Existing groups can hold some as functional variants, but source context is important
+  because many may be rhetorical or episode-specific rather than durable mythic motifs.
+- No transmission or borrowing claims are implied by these placements.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_batch_suggester
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended especially for culturally
+    sensitive Islamic/Sufi intercession and succession labels, and for gendered captivity
+    language.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0060
+  input_sha256: b177416e4d4c3ee5a2b4d7a366901fef133e3a69e3a76bfe3abe8a4ae56cf964

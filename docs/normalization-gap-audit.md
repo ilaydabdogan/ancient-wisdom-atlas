@@ -7,8 +7,8 @@ This report lists motif IDs that are present in the motif occurrence index but n
 ## Summary
 
 - Indexed motif IDs: 9072
-- Already mapped: 323
-- Unmapped: 8749
+- Already mapped: 353
+- Unmapped: 8719
 
 | Review Bucket | Unmapped Motifs |
 | --- | ---: |
@@ -23,7 +23,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | Conflict, Violence, Heroic Ordeal, And Victory | 1150 |
 | Objects, Places, Boundaries, And Thresholds | 249 |
 | Ethics, Psychology, Discipline, And Inner Life | 173 |
-| Needs Human Sorting | 1858 |
+| Needs Human Sorting | 1828 |
 
 ## Death, Descent, Afterlife, And Ancestors
 
@@ -7204,14 +7204,11 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `coerced_accomplice_in_a_deceptive_plot` | coerced accomplice in a deceptive plot | 1 | hindu |
 | `coerced_removal_by_magic_like_rod` | coerced removal by magic-like rod | 1 | celtic_irish |
 | `coerced_supernatural_labor_turns_prosperity_into_destruction` | coerced supernatural labor turns prosperity into destruction | 1 | norse |
-| `coercion_by_possession_of_another_s_life_container` | Coercion by possession of another’s life-container | 1 | comparative |
 | `coercion_by_threat_and_blandishment` | coercion by threat and blandishment | 1 | hindu |
 | `coercion_of_supernatural_agents_by_magic` | Coercion of supernatural agents by magic | 1 | comparative |
 | `coercive_cutting_of_hair_to_overcome_resistance` | Coercive cutting of hair to overcome resistance | 1 | comparative |
 | `collective_deliberation_under_threat` | collective deliberation under threat | 1 | greek |
 | `collective_destruction_of_the_deceiving_predator` | Collective destruction of the deceiving predator | 1 | buddhist |
-| `collective_lament_for_the_fallen_champion` | collective lament for the fallen champion | 1 | celtic_irish |
-| `collective_lamentation_for_a_fallen_defender` | collective lamentation for a fallen defender | 1 | greek |
 | `collective_traditional_formation_of_an_epic` | Collective traditional formation of an epic | 1 | celtic_irish |
 | `collector_poet_unifying_scattered_lays_into_one_poem` | collector-poet unifying scattered lays into one poem | 1 | greek |
 | `color_origin_explanation_for_mulberry` | color-origin explanation for mulberry | 1 | roman |
@@ -7219,8 +7216,6 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `comic_bodily_cure_through_sneezing` | Comic bodily cure through sneezing | 1 | greek |
 | `comic_or_cheerful_contrast_after_catastrophe` | comic or cheerful contrast after catastrophe | 1 | celtic_irish |
 | `comic_reversal_of_mourning` | Comic reversal of mourning | 1 | buddhist |
-| `communal_female_mourning` | communal female mourning | 1 | hindu |
-| `communal_illness_transferred_to_a_scapegoat_and_expelled` | communal illness transferred to a scapegoat and expelled | 1 | comparative |
 | `communal_spouses_and_property_in_imagined_early_society` | Communal spouses and property in imagined early society | 1 | greek |
 | `community_founded_from_human_need` | community founded from human need | 1 | greek |
 | `community_refuses_aid_for_wrongful_act` | community refuses aid for wrongful act | 1 | indigenous_australian |
@@ -7248,7 +7243,6 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `construction_of_an_ideal_commonwealth` | construction of an ideal commonwealth | 1 | greek |
 | `consuming_power_of_time_and_old_age` | consuming power of time and old age | 1 | roman |
 | `contagious_magic_through_severed_body_parts` | contagious magic through severed body parts | 1 | comparative |
-| `container_of_human_afflictions` | container of human afflictions | 1 | greek_roman |
 | `continuity_between_religious_traditions` | continuity between religious traditions | 1 | buddhist |
 | `contrasting_kind_and_cruel_elders` | contrasting kind and cruel elders | 1 | japanese |
 | `corrupt_appointment_leads_to_public_humiliation` | corrupt appointment leads to public humiliation | 1 | buddhist |
@@ -7262,16 +7256,13 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `cosmic_cycle_used_to_explain_existence_and_non_existence` | cosmic cycle used to explain existence and non-existence | 1 | daoist |
 | `cosmic_decree_of_impermanent_pleasure` | cosmic decree of impermanent pleasure | 1 | sufi |
 | `cosmic_dominion_praised_through_game_imagery` | cosmic dominion praised through game imagery | 1 | sufi |
-| `cosmic_measurement_by_three_strides` | Cosmic measurement by three strides | 1 | hindu |
 | `cosmic_partition_into_bounded_regions` | Cosmic partition into bounded regions | 1 | roman |
-| `cosmic_portents_at_the_last_day` | cosmic portents at the last day | 1 | islamic |
 | `cosmic_record_and_accumulated_anguish` | cosmic record and accumulated anguish | 1 | sufi |
 | `cosmic_response_to_the_future_buddha_s_wish` | Cosmic response to the future Buddha’s wish | 1 | buddhist |
 | `cosmic_scale_against_a_small_cast_object` | Cosmic scale against a small cast object | 1 | sufi |
 | `cosmic_stratification_of_seven_heavens` | cosmic stratification of seven heavens | 1 | islamic |
 | `cosmic_sustainer_against_collapse` | cosmic sustainer against collapse | 1 | islamic |
 | `cosmic_wheel_as_bondage` | cosmic wheel as bondage | 1 | sufi |
-| `cosmic_witnesses_to_hidden_wrongdoing` | cosmic witnesses to hidden wrongdoing | 1 | hindu |
 | `cosmic_writing_of_decrees` | cosmic writing of decrees | 1 | islamic |
 | `counter_image_used_as_antidote_or_guarantee` | counter-image used as antidote or guarantee | 1 | comparative |
 | `counterproductive_remedy_intensifies_the_problem` | counterproductive remedy intensifies the problem | 1 | daoist |
@@ -7327,9 +7318,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `decline_through_corrupted_generation` | decline through corrupted generation | 1 | greek |
 | `decline_through_successive_metallic_ages` | decline through successive metallic ages | 1 | roman |
 | `declining_ages_of_humankind` | Declining ages of humankind | 1 | greek_roman |
-| `decreed_fate_delayed_but_not_annulled` | decreed fate delayed but not annulled | 1 | greek |
 | `deeds_bear_delayed_consequences` | Deeds bear delayed consequences | 1 | hindu |
-| `defeat_by_destruction_or_possession_of_the_external_life_token` | Defeat by destruction or possession of the external life-token | 1 | comparative |
 | `defeat_of_champion_prompts_escalation` | Defeat of champion prompts escalation | 1 | hindu |
 | `defeated_adversary_becomes_sworn_ally` | defeated adversary becomes sworn ally | 1 | celtic_welsh |
 | `defeated_demon_chief_submits_by_losing_horns` | Defeated demon chief submits by losing horns | 1 | japanese |
@@ -7371,7 +7360,6 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `dependent_motion_through_hidden_causes` | dependent motion through hidden causes | 1 | daoist |
 | `dependent_young_spared_through_intercession` | dependent young spared through intercession | 1 | buddhist |
 | `deprivation_and_restoration_of_a_shared_sense_object` | deprivation and restoration of a shared sense-object | 1 | greek_roman |
-| `derisive_boast_provokes_vengeance` | derisive boast provokes vengeance | 1 | celtic_irish |
 | `desolate_capital_as_omen_of_disaster` | desolate capital as omen of disaster | 1 | hindu |
 | `destined_defeat_of_sorceresses_by_former_pupil` | destined defeat of sorceresses by former pupil | 1 | celtic_welsh |
 | `destiny_in_popular_pictorial_elaboration` | Destiny in popular pictorial elaboration | 1 | daoist |
@@ -7386,13 +7374,11 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `development_from_inspired_prophet_to_political_founder` | development from inspired prophet to political founder | 1 | islamic |
 | `devil_as_betrayer_of_humanity` | Devil as betrayer of humanity | 1 | islamic |
 | `didactic_past_life_identification` | didactic past-life identification | 1 | buddhist |
-| `dietary_holiness_with_necessity_exception` | Dietary holiness with necessity exception | 1 | islamic |
 | `different_reception_of_similar_behavior` | different reception of similar behavior | 1 | greek |
 | `diminished_survivor_of_a_vanished_company` | diminished survivor of a vanished company | 1 | celtic_irish |
 | `diplomatic_gift_before_interview` | Diplomatic gift before interview | 1 | hindu |
 | `directional_guardian_deities` | directional guardian deities | 1 | hindu |
 | `disarming_rivals_before_vengeance` | disarming rivals before vengeance | 1 | greek |
-| `disciple_mourning_slain_teacher` | disciple mourning slain teacher | 1 | hindu |
 | `discordant_object_introduced_at_a_wedding_feast` | Discordant object introduced at a wedding feast | 1 | greek_roman |
 | `dishonest_custodian_denies_entrusted_property_through_impossible_explanation` | dishonest custodian denies entrusted property through impossible explanation | 1 | buddhist |
 | `disloyal_retainers_refuse_substitution_for_their_lord` | Disloyal retainers refuse substitution for their lord | 1 | celtic_welsh |
@@ -7454,9 +7440,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `escape_from_fiery_iron_enclosure` | Escape from fiery iron enclosure | 1 | celtic_welsh |
 | `escape_plan_by_improvised_rafts` | Escape plan by improvised rafts | 1 | islamicate_folklore |
 | `eschatological_trumpet_and_universal_terror` | eschatological trumpet and universal terror | 1 | islamic |
-| `esoteric_secret_doctrine` | esoteric secret doctrine | 1 | sufi |
 | `estrangement_from_court_caused_by_insult` | estrangement from court caused by insult | 1 | celtic_welsh |
-| `ethical_protection_of_orphan_and_beggar` | ethical protection of orphan and beggar | 1 | islamic |
 | `ethnic_taunt_opposing_martial_masculinity_to_luxurious_cultic_softness` | ethnic taunt opposing martial masculinity to luxurious cultic softness | 1 | roman |
 | `etiological_color_change` | etiological color change | 1 | roman |
 | `etiological_explanation_for_a_valley_of_madness` | etiological explanation for a valley of madness | 1 | celtic_irish |
@@ -7478,15 +7462,12 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `execution_of_disloyal_serving_women` | execution of disloyal serving women | 1 | greek |
 | `exemption_of_the_incapable_and_blame_of_the_able_who_refuse` | exemption of the incapable and blame of the able who refuse | 1 | islamic |
 | `exhortation_to_comrades_before_renewed_effort` | exhortation to comrades before renewed effort | 1 | roman |
-| `exorcistic_expulsion_by_threatened_banishment` | exorcistic expulsion by threatened banishment | 1 | finnish_karelian |
 | `expanded_antagonist_backstory_before_main_action` | expanded antagonist backstory before main action | 1 | hindu |
 | `expelled_adversary_granted_delay` | expelled adversary granted delay | 1 | islamic |
 | `expert_art_cares_for_its_object` | expert art cares for its object | 1 | greek |
 | `expiation_before_restored_union` | Expiation before restored union | 1 | islamic |
 | `expiation_for_accidental_bloodshed` | Expiation for accidental bloodshed | 1 | islamic |
 | `expiation_for_killing_through_payment_liberation_or_fasting` | expiation for killing through payment, liberation, or fasting | 1 | islamic |
-| `expulsion_of_evil_through_visible_representatives` | expulsion of evil through visible representatives | 1 | comparative |
-| `expulsion_or_transference_of_evils_through_scapegoat_like_means` | Expulsion or transference of evils through scapegoat-like means | 1 | comparative |
 | `extraordinary_companions_with_superhuman_locomotion` | extraordinary companions with superhuman locomotion | 1 | celtic_welsh |
 | `extraordinary_or_supernatural_ability_of_a_sage_figure` | extraordinary or supernatural ability of a sage figure | 1 | daoist |
 | `extraordinary_speed_and_reversed_race` | Extraordinary speed and reversed race | 1 | celtic_irish |
@@ -7501,7 +7482,6 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `failed_recognition_in_a_place_of_revelry` | failed recognition in a place of revelry | 1 | hindu |
 | `failed_supplication_for_mercy` | failed supplication for mercy | 1 | roman |
 | `failure_to_read_signs_of_crisis` | failure to read signs of crisis | 1 | greek |
-| `fairy_money_that_becomes_worthless_matter` | fairy money that becomes worthless matter | 1 | celtic_welsh |
 | `fairy_vengeance` | fairy vengeance | 1 | celtic_irish |
 | `faith_conquers_military_conquerors` | faith conquers military conquerors | 1 | islamic |
 | `faithful_admonisher_delivered_from_hostile_designs` | Faithful admonisher delivered from hostile designs | 1 | islamic |
@@ -7518,8 +7498,6 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `fall_from_former_status` | fall from former status | 1 | greek |
 | `fall_from_lesser_bondage_into_harsher_bondage` | fall from lesser bondage into harsher bondage | 1 | greek |
 | `fall_into_a_well_through_inattention` | Fall into a well through inattention | 1 | greek |
-| `fall_of_a_heavenly_being_through_refusal_of_commanded_homage` | fall of a heavenly being through refusal of commanded homage | 1 | islamic |
-| `fall_of_overconfident_monumental_work` | fall of overconfident monumental work | 1 | islamic |
 | `fallen_chief_protected_by_companions` | fallen chief protected by companions | 1 | greek |
 | `fallen_fighter_s_resurgence_and_reversal` | fallen fighter’s resurgence and reversal | 1 | roman |
 | `fallen_youth_compared_to_a_plucked_flower` | Fallen youth compared to a plucked flower | 1 | roman |
@@ -7536,10 +7514,8 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `false_bargain_with_a_stronger_predator` | false bargain with a stronger predator | 1 | greek |
 | `false_captivity_and_escape_tale` | false captivity and escape tale | 1 | greek |
 | `false_companion_abandons_ally_in_crisis` | False companion abandons ally in crisis | 1 | buddhist |
-| `false_confidence_leads_to_disaster` | false confidence leads to disaster | 1 | greek |
 | `false_courage_against_a_powerless_substitute` | false courage against a powerless substitute | 1 | greek |
 | `false_dawn_before_true_dawn` | false dawn before true dawn | 1 | sufi |
-| `false_external_heart_deception` | False external heart deception | 1 | buddhist |
 | `false_friends_abandon_a_ruined_patron` | false friends abandon a ruined patron | 1 | islamicate_folklore |
 | `false_hospitality_conceals_predation` | False hospitality conceals predation | 1 | greek |
 | `false_inference_about_hidden_treasure_inside_a_living_source` | false inference about hidden treasure inside a living source | 1 | greek |
@@ -7555,23 +7531,18 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `false_tears_and_praised_wrongdoing` | false tears and praised wrongdoing | 1 | roman |
 | `false_textual_alteration_exposed_before_public_assembly` | False textual alteration exposed before public assembly | 1 | sufi |
 | `false_voice_separates_protector_from_protected_figure` | false voice separates protector from protected figure | 1 | hindu |
-| `familiarity_with_the_fairy_country` | familiarity with the fairy country | 1 | celtic_irish |
 | `fantasy_of_wealth_from_a_small_possession` | fantasy of wealth from a small possession | 1 | islamicate_folklore |
 | `fatal_binding_of_unequal_companions` | Fatal binding of unequal companions | 1 | greek |
 | `fatal_boar_hunt` | fatal boar hunt | 1 | celtic_irish |
-| `fatal_cattle_raid_and_ambush` | fatal cattle raid and ambush | 1 | celtic_irish |
-| `fatal_champion_duel_at_a_ford` | fatal champion duel at a ford | 1 | celtic_irish |
 | `fatal_disregard_of_a_guiding_middle_path` | Fatal disregard of a guiding middle path | 1 | roman |
 | `fatal_distraction_by_supernatural_radiance` | fatal distraction by supernatural radiance | 1 | finnish_karelian |
 | `fatal_gift_delivered_by_an_unsuspecting_messenger` | fatal gift delivered by an unsuspecting messenger | 1 | roman |
-| `fatal_hair_as_life_token` | fatal hair as life-token | 1 | comparative |
 | `fatal_music_from_a_supernatural_harp` | Fatal music from a supernatural harp | 1 | celtic_irish |
 | `fatal_prognosis_punished_by_the_patient` | fatal prognosis punished by the patient | 1 | celtic_irish |
 | `fatal_pursuit_of_splendid_spoils` | fatal pursuit of splendid spoils | 1 | roman |
 | `fatal_reversal_of_expected_abundance` | fatal reversal of expected abundance | 1 | ainu |
 | `fatal_sight_of_a_powerful_being` | fatal sight of a powerful being | 1 | indigenous_australian |
 | `fate_as_true_conqueror` | fate as true conqueror | 1 | hindu |
-| `fate_delayed_but_not_overturned` | fate delayed but not overturned | 1 | roman |
 | `fate_inscribed_by_heaven` | fate inscribed by heaven | 1 | sufi |
 | `fate_noose_around_a_doomed_army` | fate-noose around a doomed army | 1 | hindu |
 | `fates_weaving_destiny` | Fates weaving destiny | 1 | greek |
@@ -7588,7 +7559,6 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `filial_and_hierarchical_reverence_through_touching_feet` | filial and hierarchical reverence through touching feet | 1 | hindu |
 | `filial_loyalty_against_maternal_ambition` | filial loyalty against maternal ambition | 1 | hindu |
 | `filial_piety_and_grateful_maturity` | Filial piety and grateful maturity | 1 | islamic |
-| `filial_piety_and_mature_gratitude` | Filial piety and mature gratitude | 1 | islamic |
 | `final_duel_of_life_long_rivals` | Final duel of life-long rivals | 1 | hindu |
 | `final_prophet_after_earlier_prophets` | final prophet after earlier prophets | 1 | islamic |
 | `first_believer_affirms_prophet_s_mission` | first believer affirms prophet's mission | 1 | islamic |

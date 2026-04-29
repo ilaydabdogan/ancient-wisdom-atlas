@@ -1,0 +1,313 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0057
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.faithful-wives-attain-heaven-and-glory
+  motif_id: faithful_wives_attain_heaven_and_glory
+  label: Faithful wives attain heaven and glory
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could involve postmortem reward, marital fidelity, sacred law, or gendered
+    ethical exemplum; existing groups do not capture the full label safely from wording
+    alone.
+  cautions: Culturally and ethically loaded gender-role motif; review source context
+    before mapping to divine_judgment, afterlife_passage, sacred_law, or sacred_love.
+  suggested_aliases:
+  - faithful wife rewarded in heaven
+  - postmortem glory for marital fidelity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_judgment
+    - afterlife_passage
+    - sacred_law
+    - sacred_love
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fall-from-court-through-stratagem
+  motif_id: fall_from_court_through_stratagem
+  label: Fall from court through stratagem
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may be a court-intrigue plot device, moral downfall, or political
+    displacement rather than a stable sacred motif.
+  cautions: Do not map to pride_and_downfall or royal_legitimacy without evidence
+    that the fall has moral, sacred, or sovereignty significance.
+  suggested_aliases:
+  - courtly fall through deception
+  - loss of court status by stratagem
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - pride_and_downfall
+    - royal_legitimacy
+    - storytelling_as_power
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fall-from-former-status
+  motif_id: fall_from_former_status
+  label: fall from former status
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: broader_label
+  confidence: medium
+  rationale: A loss of former standing broadly fits the downfall pattern when framed
+    as humbling or reversal of fortune.
+  cautions: If merely biographical or contextual status loss, exclude or keep as evidence
+    detail; confirm whether pride, fate, divine judgment, or moral reversal is present.
+  suggested_aliases:
+  - loss of former status
+  - reversal from high status
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fall-from-lesser-bondage-into-harsher-bondage
+  motif_id: fall_from_lesser_bondage_into_harsher_bondage
+  label: fall from lesser bondage into harsher bondage
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes worsening captivity or misfortune but lacks enough
+    evidence for an existing sacred or narrative-function group.
+  cautions: May be an episode-specific plot detail; review for exile, ordeal, divine
+    punishment, slavery/captivity theme, or moral consequence before indexing.
+  suggested_aliases:
+  - worsening bondage
+  - descent into harsher captivity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_judgment
+    - initiation
+    - hero_journey
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fall-into-a-well-through-inattention
+  motif_id: fall_into_a_well_through_inattention
+  label: Fall into a well through inattention
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This reads as an over-specific incident caused by inattention rather
+    than a durable mythic motif.
+  cautions: If the well functions as an underworld threshold, ordeal, or sacred-water
+    boundary, remap under descent or sacred_waters after source review.
+  suggested_aliases:
+  - accidental fall into well
+  - well fall through carelessness
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - descent
+    - sacred_waters
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fall-of-a-heavenly-being-through-refusal-of-commanded-homage
+  motif_id: fall_of_a_heavenly_being_through_refusal_of_commanded_homage
+  label: fall of a heavenly being through refusal of commanded homage
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: child
+  confidence: high
+  rationale: The group already includes refused_homage_to_created_human, and this
+    label is a close narrative variant of that heavenly fall motif.
+  cautions: Also relates to pride_and_downfall and divine_judgment; preserve the refusal-of-homage
+    specificity for Islamic source context.
+  suggested_aliases:
+  - refusal of commanded homage
+  - fallen heavenly being for refusing homage
+  - refused homage to created human
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - pride_and_downfall
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fall-of-overconfident-monumental-work
+  motif_id: fall_of_overconfident_monumental_work
+  label: fall of overconfident monumental work
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: functional_variant
+  confidence: high
+  rationale: A monumental project collapsing through overconfidence fits the hubris-and-downfall
+    pattern, especially failed towers or punished overreach.
+  cautions: If the source emphasizes sacred construction rather than overreach, sacred_craft
+    may be a secondary relation.
+  suggested_aliases:
+  - monumental work undone by hubris
+  - overconfident construction falls
+  - failed monument of pride
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_craft
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fallen-chief-protected-by-companions
+  motif_id: fallen_chief_protected_by_companions
+  label: fallen chief protected by companions
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: Protection of a fallen leader by companions belongs to heroic combat
+    and warrior honor contexts.
+  cautions: May be only a battlefield episode; if the emphasis is funeral honor or
+    mourning for the dead, heroic_funeral_rites or lament_and_mourning may fit better.
+  suggested_aliases:
+  - companions protect fallen chief
+  - defense of fallen leader
+  - fallen warrior protected by comrades
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - heroic_funeral_rites
+    - lament_and_mourning
+    - sacred_combat
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fallen-fighter-s-resurgence-and-reversal
+  motif_id: fallen_fighter_s_resurgence_and_reversal
+  label: fallen fighter’s resurgence and reversal
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: A fighter recovering from a fall to reverse the combat situation fits
+    heroic battle reversal within sacred or epic combat.
+  cautions: Do not treat as resurrection unless the fighter is actually dead or supernaturally
+    restored; could be a local battle-scene detail.
+  suggested_aliases:
+  - fallen fighter returns to battle
+  - battlefield resurgence and reversal
+  - heroic combat reversal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - death_and_transformation
+    - resurrection
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fallen-youth-compared-to-a-plucked-flower
+  motif_id: fallen_youth_compared_to_a_plucked_flower
+  label: Fallen youth compared to a plucked flower
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The image of a dead youth as a plucked flower is a poetic mourning symbol
+    for premature death and tragic loss.
+  cautions: Likely a literary simile rather than a standalone motif; preserve as evidence
+    detail unless it recurs across sources.
+  suggested_aliases:
+  - youth cut down like a flower
+  - plucked flower as image of premature death
+  - fallen youth flower simile
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - death_by_fate
+    - beauty_and_paradox
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Suggestions are provisional taxonomy placements only and do not imply transmission,
+  borrowing, or common origin.
+- Several labels in this batch are single-occurrence battlefield or court-plot details;
+  human review should decide whether to index them or preserve only as evidence notes.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Batch includes culturally sensitive gendered reward language and several
+    over-specific narrative incidents requiring source context.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0057
+  input_sha256: aab0fe16c94dfcd438ccd36f170313a51c2d698ac0ef01b7c19ef651dc388f31

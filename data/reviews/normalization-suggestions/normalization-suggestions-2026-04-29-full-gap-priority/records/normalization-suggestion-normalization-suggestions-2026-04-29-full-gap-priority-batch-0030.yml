@@ -1,0 +1,304 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0030
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.constitutional-and-ethical-decline
+  motif_id: constitutional_and_ethical_decline
+  label: constitutional and ethical decline
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests moral-political deterioration and possible downfall,
+    but may be philosophical analysis rather than narrative motif.
+  cautions: Single Greek occurrence; could fit sacred_law, royal_legitimacy, divine_judgment,
+    or be commentary depending on passage context.
+  suggested_aliases:
+  - political and ethical decline
+  - moral decline of the state
+  - constitutional degeneration
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.constructed-clay-helper-with-inadequate-heart
+  motif_id: constructed_clay_helper_with_inadequate_heart
+  label: constructed clay helper with inadequate heart
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Constructed life from clay suggests artificial creation or failed creation,
+    but no existing group cleanly covers animated helpers or deficient created beings.
+  cautions: May be a passage-specific or mistranscribed detail; confirm whether it
+    is a mythic creation motif, magical servant, or allegorical commentary.
+  suggested_aliases:
+  - clay helper with deficient heart
+  - artificial helper lacking heart
+  - constructed being with inadequate vitality
+  suggested_new_group:
+    id: artificial_life_creation
+    label: Artificial Life and Constructed Beings
+    description: Beings made, animated, or fashioned from clay, wood, metal, or other
+      materials whose vitality, agency, or completeness is uncertain or defective.
+    parent_group_ids:
+    - cosmic_origin
+    - sacred_craft
+    related_group_ids:
+    - divine_intervention
+    - sacred_knowledge
+    - shapeshifter
+    reason_existing_groups_insufficient: Cosmic origin covers world creation, and
+      sacred craft covers divinely aided construction, but neither specifically captures
+      animated constructed beings or failed artificial vitality.
+- suggestion_id: normalization.suggestion.construction-of-an-ideal-commonwealth
+  motif_id: construction_of_an_ideal_commonwealth
+  label: construction of an ideal commonwealth
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: uncertain
+  confidence: low
+  rationale: An ideal commonwealth concerns ordered social law and ethical-political
+    arrangement.
+  cautions: Likely philosophical or textual argument rather than mythic motif; could
+    be excluded if it is only a passage topic in political theory.
+  suggested_aliases:
+  - ideal commonwealth
+  - ideal polity
+  - construction of an ideal state
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.consuming-power-of-time-and-old-age
+  motif_id: consuming_power_of_time_and_old_age
+  label: consuming power of time and old age
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: immortality_without_renewal
+  suggested_group_label: Immortality Without Renewal
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The motif centers on aging and temporal decay, closely related to incomplete
+    or burdensome life-extension and the failure of renewal.
+  cautions: If the passage emphasizes lament, fate, or memento mori rather than defective
+    immortality, lament_and_mourning or death_by_fate may be better secondary placements.
+  suggested_aliases:
+  - time consumes all
+  - old age as consuming force
+  - decay through time
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.contagious-magic-through-severed-body-parts
+  motif_id: contagious_magic_through_severed_body_parts
+  label: contagious magic through severed body parts
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: external_soul
+  suggested_group_label: External Soul and Life-Token
+  relationship: functional_variant
+  confidence: low
+  rationale: Magic through separated body parts may involve externalized vitality
+    or life-force bound to detached matter.
+  cautions: Comparative wording may be a folklore-classification artifact; if the
+    body parts are merely ritual materials, sacred_law or sacrifice may fit better.
+  suggested_aliases:
+  - contagious magic by body parts
+  - severed body part magic
+  - detached body part as magical link
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.container-of-human-afflictions
+  motif_id: container_of_human_afflictions
+  label: container of human afflictions
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_vessel
+  suggested_group_label: Sacred Vessel and Container
+  relationship: functional_variant
+  confidence: high
+  rationale: A container holding or releasing human afflictions fits the sacred or
+    dangerous vessel complex.
+  cautions: May also involve forbidden knowledge or divine judgment if opening the
+    container is prohibited or punitive; preserve local Pandora-like context without
+    assuming transmission.
+  suggested_aliases:
+  - vessel of afflictions
+  - jar of evils
+  - container of miseries
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.continuity-between-religious-traditions
+  motif_id: continuity_between_religious_traditions
+  label: continuity between religious traditions
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes historical or interpretive continuity between traditions
+    rather than a narrative or symbolic motif.
+  cautions: Do not use as evidence of transmission in motif normalization; preserve
+    only as commentary or provenance if useful.
+  suggested_aliases:
+  - religious continuity
+  - continuity across traditions
+  - inter-tradition continuity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.contrasting-kind-and-cruel-elders
+  motif_id: contrasting_kind_and_cruel_elders
+  label: contrasting kind and cruel elders
+  occurrences: 1
+  traditions:
+  - japanese
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: duality
+  suggested_group_label: Duality and Cosmic Opposition
+  relationship: symbolic_variant
+  confidence: low
+  rationale: The label presents an ethical contrast pair, but its narrative function
+    is unclear from wording alone.
+  cautions: Could be a folktale character-pair motif, moral exemplum, social-care
+    theme, or passage-specific detail; source context is needed before indexing.
+  suggested_aliases:
+  - kind elder and cruel elder contrast
+  - contrasted elders
+  - good and bad elders
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.corrupt-appointment-leads-to-public-humiliation
+  motif_id: corrupt_appointment_leads_to_public_humiliation
+  label: corrupt appointment leads to public humiliation
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Corruption followed by humiliating consequence fits moral reckoning and
+    public punishment.
+  cautions: If no sacred or karmic evaluation is present, it may be an ethical anecdote
+    or political satire rather than a divine judgment motif.
+  suggested_aliases:
+  - corruption punished by humiliation
+  - public humiliation for corrupt office
+  - corrupt appointment punished
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.corrupt-exchange-of-the-noble-for-wealth
+  motif_id: corrupt_exchange_of_the_noble_for_wealth
+  label: corrupt exchange of the noble for wealth
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: symbolic_variant
+  confidence: low
+  rationale: The label concerns a morally distorted exchange, possibly an inversion
+    of proper sacred or ethical reciprocity.
+  cautions: Could be philosophical critique, political corruption, betrayal, or social-status
+    commentary; do not map to sacred_exchange unless exchange logic is central in
+    the source.
+  suggested_aliases:
+  - nobility exchanged for wealth
+  - corrupt bargain for wealth
+  - base exchange of honor for riches
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch appear philosophical, ethical, or comparative-commentary
+  in style; human review should verify whether each is a passage motif or an interpretive
+  topic.
+- No transmission or borrowing claims are implied by Greek, Roman, Buddhist, Norse,
+  Japanese, or comparative placements.
+reviewer_status:
+  status: needs_human_review
+  reviewer: api_assistant
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; source passages needed for low-confidence
+    ethical and artificial-life labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0030
+  input_sha256: d9d769665575220590b4b63bdcaba13f771d8955ce6216279e4453bb70bdb68e

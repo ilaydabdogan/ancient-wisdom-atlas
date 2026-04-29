@@ -1,0 +1,307 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0047
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.effigy-fragments-as-fertility-charms
+  motif_id: effigy_fragments_as_fertility_charms
+  label: Effigy fragments as fertility charms
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: low
+  rationale: Effigy fragments used as charms function as power objects conferring
+    fertility or protection.
+  cautions: Single comparative occurrence; could instead be fertility rite, sympathetic
+    magic, or artifact note. Existing taxonomy lacks a clear fertility-charm group.
+  suggested_aliases:
+  - fertility charm
+  - effigy fragment charm
+  - sympathetic fertility object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.effigy-or-container-receives-evil-and-is-destroyed
+  motif_id: effigy_or_container_receives_evil_and_is_destroyed
+  label: Effigy or container receives evil and is destroyed
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A substitute object receives harmful force and is destroyed, matching
+    ritual transfer, scapegoat, and expulsion logic under sacrifice.
+  cautions: Could also relate to sacred_vessel if the container is central, or sacred_law
+    if framed as apotropaic protection. Preserve effigy/container detail.
+  suggested_aliases:
+  - ritual transfer to effigy
+  - destruction of evil-bearing substitute
+  - apotropaic effigy destruction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.eloquence-represented-as-golden-chains-from-the-mouth
+  motif_id: eloquence_represented_as_golden_chains_from_the_mouth
+  label: eloquence represented as golden chains from the mouth
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The image treats speech as a binding or compelling power, fitting narrative
+    and verbal power motifs.
+  cautions: May be an iconographic detail of a specific figure rather than a reusable
+    narrative motif; consider sacred_knowledge if the stress is wisdom rather than
+    persuasion.
+  suggested_aliases:
+  - golden chains of eloquence
+  - binding speech
+  - persuasive speech as chains
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.eloquent-envoy-mediates-alliance
+  motif_id: eloquent_envoy_mediates_alliance
+  label: eloquent envoy mediates alliance
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: low
+  rationale: An envoy mediating alliance may serve political order, diplomacy, or
+    royal legitimacy.
+  cautions: Likely a contextual court or epic episode rather than a broad mythic motif
+    unless the envoy's speech has sacred or transformative force. Could fit storytelling_as_power
+    or sacred_law depending on evidence.
+  suggested_aliases:
+  - diplomatic envoy
+  - speech mediates alliance
+  - envoy as peacemaker
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.embedded-magical-or-exemplary-object-in-later-literature
+  motif_id: embedded_magical_or_exemplary_object_in_later_literature
+  label: Embedded magical or exemplary object in later literature
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The wording describes later literary embedding or reception of an object,
+    not the object's motif function itself.
+  cautions: If a source passage describes the magical object directly, map that object
+    separately under sacred_treasures or sacred_vessel as appropriate.
+  suggested_aliases:
+  - later literary embedded object
+  - exemplary object in reception
+  - magical object in later literature
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.embedded-tale-within-judicial-inquiry
+  motif_id: embedded_tale_within_judicial_inquiry
+  label: embedded tale within judicial inquiry
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: functional_variant
+  confidence: medium
+  rationale: An inserted tale used inside inquiry or judgment fits storytelling as
+    a tool for truth, survival, or moral reasoning.
+  cautions: Could be a narrative-structure artifact if the embedded tale is only a
+    literary frame detail. If legal judgment is primary, divine_judgment may be secondary.
+  suggested_aliases:
+  - tale within inquiry
+  - embedded judicial tale
+  - story as evidence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.enchanted-drink-causing-sleep-at-a-feast
+  motif_id: enchanted_drink_causing_sleep_at_a_feast
+  label: Enchanted drink causing sleep at a feast
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Enchantment, Spell-Sleep, and Magical Compulsion
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core pattern is magical compulsion through drink causing sleep, not
+    well captured by existing sacred vessel or otherworld groups.
+  cautions: Single occurrence; could be an over-specific episode detail. If the drink
+    initiates otherworld entry, map secondarily to otherworld or initiation.
+  suggested_aliases:
+  - enchanted sleep drink
+  - magical drink induces sleep
+  - feast-drink enchantment
+  suggested_new_group:
+    id: magical_compulsion
+    label: Enchantment, Spell-Sleep, and Magical Compulsion
+    description: Magical or supernatural force compels perception, sleep, desire,
+      immobilization, disorientation, or behavior, often through drink, gaze, song,
+      lodging, lure, or charm.
+    parent_group_ids:
+    - otherworld
+    - dream_and_vision
+    - threshold_guardian
+    related_group_ids:
+    - sacred_treasures
+    - sacred_vessel
+    - initiation
+    reason_existing_groups_insufficient: Existing groups cover dreams, otherworlds,
+      and threshold lures, but not the recurring mechanism of enchantment or magical
+      compulsion itself.
+- suggestion_id: normalization.suggestion.enchanted-gaze-at-wondrous-apparition
+  motif_id: enchanted_gaze_at_wondrous_apparition
+  label: enchanted gaze at wondrous apparition
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A wondrous apparition witnessed through an enchanted gaze fits divine
+    or supernatural manifestation to a human witness.
+  cautions: If the apparition is not divine, dream_and_vision or magical_compulsion
+    may be better. Confirm whether the gaze transforms knowledge or merely marks amazement.
+  suggested_aliases:
+  - wondrous apparition
+  - enchanted vision
+  - gaze upon apparition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.enchanted-hunt-leading-to-disorientation
+  motif_id: enchanted_hunt_leading_to_disorientation
+  label: Enchanted hunt leading to disorientation
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: functional_variant
+  confidence: medium
+  rationale: In Celtic material, an enchanted hunt often draws figures away from ordinary
+    space toward otherworldly disorientation or encounter.
+  cautions: Do not assume otherworld passage without source evidence. Could belong
+    to initiation or magical_compulsion if the hunt functions primarily as ordeal
+    or enchantment.
+  suggested_aliases:
+  - enchanted hunt
+  - disorienting otherworld hunt
+  - hunt as otherworld lure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.enchanted-lodging-as-trap
+  motif_id: enchanted_lodging_as_trap
+  label: enchanted lodging as trap
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: medium
+  rationale: A lodging that traps through enchantment functions as a perilous threshold
+    or boundary test that must be survived or escaped.
+  cautions: Could fit otherworld if the lodging is an enchanted realm, or magical_compulsion
+    if the mechanism of spellbinding is central. Single occurrence may be episode-specific.
+  suggested_aliases:
+  - enchanted lodging trap
+  - magical hostel trap
+  - perilous enchanted shelter
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Suggestions are provisional placements for review; no transmission or borrowing
+  claims are implied.
+- Several enchantment-related labels may justify a future magical_compulsion group
+  if more unmapped motifs cluster around spell-sleep, lures, compelled perception,
+  and enchanted traps.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_batch_suggestion
+  reviewed_at: ''
+  notes: Batch includes one meta-textual exclusion and one proposed new group candidate
+    for enchantment/compulsion motifs.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0047
+  input_sha256: b9cdb04d7fc571de0197e4b68c26af41e880427ab78ce1c0ab54fa97a3a6d6d0

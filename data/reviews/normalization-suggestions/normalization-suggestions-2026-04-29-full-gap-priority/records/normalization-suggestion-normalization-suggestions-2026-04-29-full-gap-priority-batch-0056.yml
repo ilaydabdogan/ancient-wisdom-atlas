@@ -1,0 +1,288 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0056
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.faith-conquers-military-conquerors
+  motif_id: faith_conquers_military_conquerors
+  label: faith conquers military conquerors
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: low
+  rationale: The label suggests sacred trust or faith triumphing over worldly military
+    power, possibly through divine vindication.
+  cautions: Could be theological interpretation, moral exemplum, conquest narrative,
+    or passage-specific phrasing; source evidence is needed before indexing as judgment
+    or sacred combat.
+  suggested_aliases:
+  - faith overcoming worldly power
+  - divine vindication of the faithful
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.faithful-admonisher-delivered-from-hostile-designs
+  motif_id: faithful_admonisher_delivered_from_hostile_designs
+  label: Faithful admonisher delivered from hostile designs
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A righteous adviser or admonisher is rescued from hostile plotting, fitting
+    divine protection or intervention in human affairs.
+  cautions: If the passage emphasizes prophetic warning and rejection, sacred_knowledge
+    or divine_judgment may be secondary; avoid assuming supernatural rescue without
+    evidence.
+  suggested_aliases:
+  - righteous admonisher protected from enemies
+  - faithful warner delivered from plots
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.faithful-captive-refuses-captor
+  motif_id: faithful_captive_refuses_captor
+  label: faithful captive refuses captor
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: A captive maintains fidelity by refusing the captor, aligning with love,
+    loyalty, and chastity under ordeal.
+  cautions: May also fit initiation or heroic ordeal if the emphasis is trial rather
+    than love; preserve captivity context as evidence detail.
+  suggested_aliases:
+  - captive fidelity under coercion
+  - refusal of captor out of loyalty
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.faithful-captive-refuses-improper-rescue
+  motif_id: faithful_captive_refuses_improper_rescue
+  label: faithful captive refuses improper rescue
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: ritual_variant
+  confidence: low
+  rationale: The refusal appears to preserve fidelity, honor, or proper relational
+    order in a love-and-captivity ordeal.
+  cautions: The term 'improper' depends on cultural and narrative norms; could belong
+    under sacred_law, royal_legitimacy, or hero_journey depending on why the rescue
+    is rejected.
+  suggested_aliases:
+  - captive refuses ritually improper rescue
+  - fidelity governs rescue conditions
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.faithful-defiance-before-temporal-power
+  motif_id: faithful_defiance_before_temporal_power
+  label: faithful defiance before temporal power
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Defiance of worldly authority on sacred grounds often frames moral reckoning
+    between divine order and temporal power.
+  cautions: Could be martyrdom, prophetic confrontation, legal resistance, or political
+    episode; source context needed for final placement.
+  suggested_aliases:
+  - righteous defiance of worldly power
+  - faithful resistance to temporal authority
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.faithful-minority-advises-trust-against-overwhelming-inhabitants
+  motif_id: faithful_minority_advises_trust_against_overwhelming_inhabitants
+  label: Faithful minority advises trust against overwhelming inhabitants
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: low
+  rationale: A faithful minority urging trust against superior opponents may involve
+    divine aid, guidance, or testing of communal faith.
+  cautions: Highly contextual and episode-specific; could be military ordeal, covenant
+    trust, moral exhortation, or narrative detail without direct divine intervention.
+  suggested_aliases:
+  - faithful minority counsels trust
+  - trust against overwhelming adversaries
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.faithful-preservation-of-an-epic-tradition
+  motif_id: faithful_preservation_of_an_epic_tradition
+  label: faithful preservation of an epic tradition
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes preservation or transmission of a textual/epic tradition
+    rather than a narrative motif inside the tradition.
+  cautions: Preserve for provenance or manuscript/oral tradition notes; do not use
+    as symbolic pattern evidence unless the story itself thematizes sacred storytelling.
+  suggested_aliases:
+  - preservation of epic tradition
+  - faithful textual transmission
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.faithful-remnant-contrasted-with-those-left-behind
+  motif_id: faithful_remnant_contrasted_with_those_left_behind
+  label: faithful remnant contrasted with those left behind
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: A faithful remnant set apart from others commonly marks judgment, separation,
+    preservation, or moral sorting.
+  cautions: Could also map to survivor_pair/remnant logic under flood_and_renewal
+    if tied to catastrophe; avoid assuming world-renewal without evidence.
+  suggested_aliases:
+  - faithful remnant preserved
+  - righteous remnant contrasted with the condemned
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.faithful-servant-asks-to-share-the-lord-s-banishment
+  motif_id: faithful_servant_asks_to_share_the_lord_s_banishment
+  label: faithful servant asks to share the lord's banishment
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: role_variant
+  confidence: medium
+  rationale: A loyal companion chooses exile with the lord, functioning as a departure/exile
+    companion motif within the hero journey.
+  cautions: If the emphasis is social hierarchy, devotion, or sacred duty rather than
+    journey structure, sacred_law or sacred_love may be relevant secondary mappings.
+  suggested_aliases:
+  - loyal companion shares exile
+  - servant follows lord into banishment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.faithful-servant-spares-intended-victim-and-hides-her
+  motif_id: faithful_servant_spares_intended_victim_and_hides_her
+  label: faithful servant spares intended victim and hides her
+  occurrences: 1
+  traditions:
+  - japanese
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: functional_variant
+  confidence: low
+  rationale: Sparing and hiding an intended victim resembles protected-threatened-child
+    or concealed-victim patterns, but the victim's role is unclear.
+  cautions: May be a court intrigue detail, rescue motif, threatened infancy, or loyalty
+    episode; do not map to miraculous_child unless the hidden victim is a significant
+    child or destined figure.
+  suggested_aliases:
+  - servant hides intended victim
+  - loyal servant spares condemned victim
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch encode moral or theological interpretation with only
+  one occurrence; final placement should check whether the passage shows divine action,
+  narrative ordeal, or merely commentary.
+- Faith/fidelity labels may split between divine_judgment, divine_intervention, sacred_love,
+  hero_journey, and sacred_law depending on passage function.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_batch_suggester
+  reviewed_at: ''
+  notes: Provisional placements only; source context needed for most single-occurrence
+    faith/fidelity motifs.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0056
+  input_sha256: 0a1ddd0e38ba71256c27a99d0dc55b817633522fb90e1502f8a07534d71021d9

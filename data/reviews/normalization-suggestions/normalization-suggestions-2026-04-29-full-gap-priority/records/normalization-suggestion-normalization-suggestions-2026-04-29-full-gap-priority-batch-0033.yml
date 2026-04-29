@@ -1,0 +1,297 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0033
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.counter-image-used-as-antidote-or-guarantee
+  motif_id: counter_image_used_as_antidote_or_guarantee
+  label: counter-image used as antidote or guarantee
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: A counter-image used as antidote may be apotropaic or ritual-protective,
+    which is currently folded under sacred_law.
+  cautions: The label is abstract and comparative; it may be a scholarly classification
+    or too context-dependent without source evidence.
+  suggested_aliases:
+  - apotropaic counter-image
+  - counter-image as protective guarantee
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.counterproductive-remedy-intensifies-the-problem
+  motif_id: counterproductive_remedy_intensifies_the_problem
+  label: counterproductive remedy intensifies the problem
+  occurrences: 1
+  traditions:
+  - daoist
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: functional_variant
+  confidence: low
+  rationale: A failed remedy that worsens a problem may function as a wisdom or anti-overreach
+    exemplum, loosely matching downfall through misguided action.
+  cautions: Could be Daoist ethical teaching, irony about non-action, or a passage-specific
+    anecdote; avoid mapping without context.
+  suggested_aliases:
+  - failed remedy worsens condition
+  - intervention intensifies disorder
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.counterproductive-removal-of-a-perceived-cause
+  motif_id: counterproductive_removal_of_a_perceived_cause
+  label: Counterproductive removal of a perceived cause
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: functional_variant
+  confidence: low
+  rationale: Removing a supposed cause and thereby worsening fate may be an overreach
+    or tragic-ignorance pattern.
+  cautions: Needs passage context; may instead be causal irony, oracle/fate motif,
+    medical anecdote, or non-motif plot detail.
+  suggested_aliases:
+  - misguided removal of cause
+  - remedy creates worse outcome
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.court-intrigue-through-misleading-explanation
+  motif_id: court_intrigue_through_misleading_explanation
+  label: court intrigue through misleading explanation
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: role_variant
+  confidence: low
+  rationale: Court intrigue affects royal order and legitimacy when deception operates
+    within court hierarchy.
+  cautions: May be ordinary plot mechanics rather than a symbolic motif; source evidence
+    should show political or sacred-order function.
+  suggested_aliases:
+  - deceptive court explanation
+  - misleading explanation in royal intrigue
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.crafted-human-image-lacks-animation-or-vital-functions
+  motif_id: crafted_human_image_lacks_animation_or_vital_functions
+  label: Crafted human image lacks animation or vital functions
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Artificial Human and Animation
+  relationship: narrower_than
+  confidence: medium
+  rationale: The motif centers on a made human image that lacks life, a creation-animation
+    problem not covered well by sacred_craft or cosmic_origin alone.
+  cautions: Could be a specific failed-creation episode; add only if other artificial-human
+    or animation labels recur.
+  suggested_aliases:
+  - unanimated human image
+  - crafted body lacks life
+  - failed animation of human image
+  suggested_new_group:
+    id: artificial_human_animation
+    label: Artificial Human and Animation
+    description: A crafted, formed, or artificial human body or image is animated,
+      fails to be animated, lacks vital functions, or receives life through divine,
+      magical, or creative power.
+    parent_group_ids:
+    - cosmic_origin
+    - sacred_craft
+    related_group_ids:
+    - sacred_knowledge
+    - death_and_transformation
+    reason_existing_groups_insufficient: Existing groups cover creation, craft, and
+      transformation broadly, but do not isolate the recurring made-body animation
+      problem.
+- suggestion_id: normalization.suggestion.creative-breath-gives-life
+  motif_id: creative_breath_gives_life
+  label: creative breath gives life
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Breath imparting life is a creation or animation act within the broad
+    cosmic-origin field.
+  cautions: If paired with a crafted body, it may also support the proposed artificial_human_animation
+    group; if ritual healing, death_and_transformation may be secondary.
+  suggested_aliases:
+  - life-giving breath
+  - breath animates body
+  - creative breath animation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.creator-assigns-reproductive-cycles-to-living-beings
+  motif_id: creator_assigns_reproductive_cycles_to_living_beings
+  label: Creator assigns reproductive cycles to living beings
+  occurrences: 1
+  traditions:
+  - ainu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: A creator assigning reproductive cycles is an ordering act in the creation
+    of living beings and natural rhythms.
+  cautions: Could also relate to sacred_time or sacred_law if the emphasis is calendrical
+    or normative rather than cosmogonic.
+  suggested_aliases:
+  - creator establishes reproduction
+  - origin of reproductive cycles
+  - assignment of reproductive order
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.creator-deity-with-winged-envoys
+  motif_id: creator_deity_with_winged_envoys
+  label: Creator deity with winged envoys
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: low
+  rationale: Winged envoys may function as divine agents mediating the creator deity's
+    action or message.
+  cautions: May be merely descriptive theology or angelology rather than a narrative
+    motif; review for culturally specific terminology and passage function.
+  suggested_aliases:
+  - winged divine envoys
+  - creator's messengers
+  - angelic envoys of creator
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.criminal-faction-creates-tyrant
+  motif_id: criminal_faction_creates_tyrant
+  label: criminal faction creates tyrant
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: The rise of a tyrant through factional corruption concerns illegitimate
+    rule and damaged political order.
+  cautions: If the passage is purely historical-political commentary, it may be too
+    contextual for motif queries.
+  suggested_aliases:
+  - illegitimate tyrant made by faction
+  - corrupt faction produces ruler
+  - criminal faction enables tyranny
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.critique-of-vicarious-holiness
+  motif_id: critique_of_vicarious_holiness
+  label: Critique of vicarious holiness
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: A critique of holiness borrowed from another fits mystical emphasis on
+    direct interior transformation rather than external status.
+  cautions: Could be a doctrinal or commentary theme rather than narrative motif;
+    if framed as ethical instruction, sacred_knowledge may be secondary.
+  suggested_aliases:
+  - borrowed holiness rejected
+  - vicarious sanctity critique
+  - holiness must be realized directly
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence, abstract, or proverb-like; final
+  placement should check whether the passage evidence is narrative, ritual, doctrinal,
+  or commentary.
+- Do not infer transmission or cultural borrowing from proposed group placement.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; artificial_human_animation is
+    proposed as a candidate group if similar animation/fabricated-body motifs recur.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0033
+  input_sha256: 5d11fda8166a007db42a24ced085e9453c3968324b5d15c33d417653d947a342
