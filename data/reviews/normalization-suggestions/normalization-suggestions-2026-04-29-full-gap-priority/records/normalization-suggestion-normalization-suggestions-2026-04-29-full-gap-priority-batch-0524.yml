@@ -1,0 +1,290 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0524
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.terrifying-underworld-enforcers
+  motif_id: terrifying_underworld_enforcers
+  label: Terrifying underworld enforcers
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: afterlife_passage
+  suggested_group_label: Afterlife Navigation and Passage
+  relationship: role_variant
+  confidence: medium
+  rationale: Underworld enforcers function as postmortem agents or guardians within
+    the navigable realm of the dead.
+  cautions: Could fit threshold_guardian if they primarily block passage; verify whether
+    they are narrative actors rather than descriptive epithets.
+  suggested_aliases:
+  - underworld enforcers
+  - underworld punishers
+  - chthonic enforcers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.theft-punished-by-death
+  motif_id: theft_punished_by_death
+  label: theft punished by death
+  occurrences: 1
+  traditions:
+  - indigenous_australian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on a transgression receiving lethal punishment, matching
+    judgment or moral consequence.
+  cautions: Source context is needed to distinguish sacred sanction from ordinary
+    social punishment or a passage-specific plot detail.
+  suggested_aliases:
+  - death as punishment for theft
+  - lethal punishment for stealing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.theriomorphic-and-anthropomorphic-forms-of-the-same-spirit
+  motif_id: theriomorphic_and_anthropomorphic_forms_of_the_same_spirit
+  label: Theriomorphic and anthropomorphic forms of the same spirit
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A spirit appearing in both animal and human form belongs with form-changing
+    or unstable embodied identity.
+  cautions: Comparative wording may be classificatory rather than a passage motif;
+    if it is only a variant marker, exclude as meta-textual.
+  suggested_aliases:
+  - animal and human forms of one spirit
+  - theriomorphic spirit form
+  - anthropomorphic spirit form
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.thoughtless-play-causes-death-to-others
+  motif_id: thoughtless_play_causes_death_to_others
+  label: thoughtless play causes death to others
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif could be moral consequence, tragic accident, or episode-specific
+    causality depending on the source.
+  cautions: Do not map to divine_judgment unless sacred or moral reckoning is explicit;
+    may be too contextual for pattern queries.
+  suggested_aliases:
+  - reckless play causes death
+  - careless play leads to fatality
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.three-dog-epithet-or-descent-formula
+  motif_id: three_dog_epithet_or_descent_formula
+  label: three-dog epithet or descent formula
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: death_descent_afterlife
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The phrase 'epithet or descent formula' indicates a textual formula or
+    classification note rather than a narrative motif.
+  cautions: If the passage actually uses dogs as underworld guardians or descent guides,
+    preserve that evidence separately under threshold_guardian or descent.
+  suggested_aliases:
+  - three-dog epithet
+  - descent formula
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.time-limited-rescue-before-threatened-death
+  motif_id: time_limited_rescue_before_threatened_death
+  label: Time-limited rescue before threatened death
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: A rescue constrained by imminent death functions as an ordeal episode
+    in a quest or heroic intervention sequence.
+  cautions: Could fit divine_intervention, sacred_love, or death_and_transformation
+    if the source emphasizes divine rescue, spouse rescue, or return from death.
+  suggested_aliases:
+  - rescue before deadline
+  - deadline rescue from death
+  - death-threat rescue
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.tomb-as-watch-tower-or-landmark
+  motif_id: tomb_as_watch_tower_or_landmark
+  label: Tomb as watch-tower or landmark
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A tomb functioning as a visible landmark or watch-point belongs with
+    memorialization of the dead and social memory.
+  cautions: If the tomb marks cosmic center, boundary, or revelation site, axis_mundi
+    or world_center may be secondary; label may be local topographic detail.
+  suggested_aliases:
+  - tomb as landmark
+  - grave as watchtower
+  - memorial tomb landmark
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.totemic-animal-taboo-connected-with-descent-or-obligation
+  motif_id: totemic_animal_taboo_connected_with_descent_or_obligation
+  label: totemic animal taboo connected with descent or obligation
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A totemic animal taboo tied to descent or obligation is best treated
+    as sacred prohibition or ritual-social law.
+  cautions: Comparative wording may be analytical; review cultural context carefully
+    and consider exclusion if it is only a scholarly classification.
+  suggested_aliases:
+  - totemic animal taboo
+  - animal taboo by descent
+  - obligation-based totem taboo
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.tragic-heroine-s-lament-at-death
+  motif_id: tragic_heroine_s_lament_at_death
+  label: tragic heroine's lament at death
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: narrower_than
+  confidence: high
+  rationale: The label directly names lament at death, matching the mourning and tragic-recognition
+    group.
+  cautions: Preserve heroine and death-scene specificity as evidence detail rather
+    than creating a new canonical motif.
+  suggested_aliases:
+  - death lament of heroine
+  - heroine's lament
+  - tragic death lament
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.transferred-blame-around-a-supposed-corpse
+  motif_id: transferred_blame_around_a_supposed_corpse
+  label: Transferred blame around a supposed corpse
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: Blame-shifting around a supposed corpse reads as comic deception or boundary-crossing
+    trickster action.
+  cautions: If the episode centers on legal culpability, corpse taboo, or moral judgment
+    rather than deception, sacred_law or divine_judgment may fit better; likely over-specific.
+  suggested_aliases:
+  - corpse blame shifting
+  - false corpse blame transfer
+  - blame transferred around corpse
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- All suggestions are provisional; several one-occurrence labels may be episode-specific
+  and should be checked against passage evidence before indexing broadly.
+- Comparative or formulaic labels should be reviewed for possible meta-textual status
+  rather than treated as motifs automatically.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api-ai-assistant
+  reviewed_at: ''
+  notes: Suggested existing group placements where possible; flagged formulaic and
+    ambiguous labels for caution.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0524
+  input_sha256: 7bb210673f9c95f285a197904157a72f3fd7ad7286d13eb418384ebe02cc8fe1

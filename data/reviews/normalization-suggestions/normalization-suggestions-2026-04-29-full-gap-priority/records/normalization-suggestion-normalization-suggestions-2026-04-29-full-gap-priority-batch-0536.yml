@@ -1,0 +1,306 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0536
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.broken-treasure-enriches-the-waters
+  motif_id: broken_treasure_enriches_the_waters
+  label: Broken treasure enriches the waters
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: uncertain
+  confidence: low
+  rationale: Water is central, but the function of the broken treasure is unclear
+    from the label alone.
+  cautions: Could be a passage-specific Kalevala/Sampo detail, a sacred-treasure loss
+    motif, or an etiological enrichment of waters; verify source context before indexing.
+  suggested_aliases:
+  - treasure enriches waters
+  - broken sacred treasure in water
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.buried-giant-whose-movement-shakes-the-earth
+  motif_id: buried_giant_whose_movement_shakes_the_earth
+  label: buried giant whose movement shakes the earth
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Earthquake Etiology and Subterranean Being
+  relationship: child
+  confidence: medium
+  rationale: The label describes a mythic explanation of earthquakes caused by a buried
+    or subterranean giant, not covered cleanly by existing nature groups.
+  cautions: May be too specific if only one occurrence; review whether it belongs
+    instead under cosmic body/primordial being, chaos, or a broader etiological nature
+    group.
+  suggested_aliases:
+  - subterranean giant causes earthquakes
+  - buried being shakes the earth
+  - earthquake caused by buried giant
+  suggested_new_group:
+    id: earthquake_etiology
+    label: Earthquake Etiology and Subterranean Being
+    description: Earthquakes or earth tremors explained as movements, struggles, or
+      restlessness of a buried, bound, or subterranean being.
+    parent_group_ids:
+    - cosmic_origin
+    related_group_ids:
+    - chaos
+    - death_and_transformation
+    reason_existing_groups_insufficient: Existing groups include creation, chaos,
+      and primordial body transformation, but not recurring etiologies for earth movement
+      caused by living or bound beings.
+- suggestion_id: normalization.suggestion.cannibal-predator-in-elevated-tree-dwelling-defeated-by-hidden-fire
+  motif_id: cannibal_predator_in_elevated_tree_dwelling_defeated_by_hidden_fire
+  label: Cannibal predator in elevated tree dwelling defeated by hidden fire
+  occurrences: 1
+  traditions:
+  - indigenous_australian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: functional_variant
+  confidence: low
+  rationale: Hidden fire functions as the means by which a dangerous predator is defeated.
+  cautions: Composite and culturally specific label; could fit monster combat, trickster
+    strategy, sacred fire, or an episode-specific tale detail. Avoid reducing it to
+    tree/axis imagery merely because the dwelling is elevated in a tree.
+  suggested_aliases:
+  - hidden fire defeats cannibal predator
+  - predator defeated by concealed fire
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.captivity-contrasted-with-freedom-in-trees-and-forest
+  motif_id: captivity_contrasted_with_freedom_in_trees_and_forest
+  label: Captivity contrasted with freedom in trees and forest
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: symbolic_variant
+  confidence: low
+  rationale: In a Sufi context, captivity versus forest freedom may symbolize interior
+    liberation or longing for the divine source.
+  cautions: May be a poetic image rather than a stable motif; if tied to beloved-longing,
+    sacred_love may be better. Do not map to sacred_tree_axis unless the trees function
+    cosmologically.
+  suggested_aliases:
+  - forest freedom versus captivity
+  - captivity and spiritual freedom in the forest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.catasterism-or-placement-among-stars
+  motif_id: catasterism_or_placement_among_stars
+  label: Catasterism or placement among stars
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Placement among stars commonly marks transformation into a celestial
+    state after death, elevation, or divine recognition.
+  cautions: If the passage emphasizes ascent, apotheosis, or cosmological ordering
+    rather than postmortem transformation, ascent or cosmic_origin may be relevant
+    secondary contexts.
+  suggested_aliases:
+  - catasterism
+  - transformation into stars
+  - placement among the stars
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.catching-entangling-or-detaining-the-sun
+  motif_id: catching_entangling_or_detaining_the_sun
+  label: Catching, entangling, or detaining the sun
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Solar Capture and Celestial Control
+  relationship: child
+  confidence: medium
+  rationale: The motif concerns active control or restraint of a celestial body, a
+    recurring nature-cosmos pattern not represented by existing groups.
+  cautions: Could involve culture hero, trickster, divine intervention, or cosmic
+    order depending on who catches the sun and why. The comparative tradition tag
+    should be checked for source-level evidence.
+  suggested_aliases:
+  - sun caught or detained
+  - entangling the sun
+  - solar restraint
+  - catching the sun
+  suggested_new_group:
+    id: solar_capture
+    label: Solar Capture and Celestial Control
+    description: A figure catches, snares, slows, detains, releases, or otherwise
+      controls the sun or another celestial body to alter time, light, seasons, or
+      cosmic order.
+    parent_group_ids:
+    - cosmic_origin
+    related_group_ids:
+    - culture_hero
+    - trickster
+    - divine_intervention
+    - sacred_time
+    reason_existing_groups_insufficient: Existing groups cover cosmic origin and sacred
+      time but not narrative acts that physically restrain or control celestial bodies.
+- suggestion_id: normalization.suggestion.cave-as-constricted-world-of-appearances
+  motif_id: cave_as_constricted_world_of_appearances
+  label: cave as constricted world of appearances
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The cave image marks illusion versus knowledge and the movement from
+    appearances toward truth.
+  cautions: Likely philosophical rather than mythic narrative; if indexing concrete
+    cave-descent patterns, descent may be secondary, but the main function is epistemological.
+  suggested_aliases:
+  - cave of appearances
+  - cave as illusion world
+  - constricted cave of perception
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cave-emergence-of-an-otherworld-woman
+  motif_id: cave_emergence_of_an_otherworld_woman
+  label: Cave emergence of an otherworld woman
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: functional_variant
+  confidence: medium
+  rationale: An otherworld woman emerging from a cave uses the cave as a threshold
+    between ordinary and enchanted realms.
+  cautions: Could also involve divine feminine, sacred love, or sovereignty depending
+    on the woman's role; do not treat all cave emergence as underworld descent.
+  suggested_aliases:
+  - otherworld woman emerges from cave
+  - cave threshold to otherworld woman
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cave-refuge-during-flight-and-danger
+  motif_id: cave_refuge_during_flight_and_danger
+  label: cave refuge during flight and danger
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ark_vessel
+  suggested_group_label: Ark Or Preserving Vessel
+  relationship: functional_variant
+  confidence: low
+  rationale: A cave may function as a protected enclosure preserving life during danger.
+  cautions: May be only a travel or escape detail. Map to ark_vessel only if the cave
+    has a preserving, womb-like, or protected-enclosure function; map to descent/initiation
+    only if transformation or threshold ordeal is explicit.
+  suggested_aliases:
+  - cave refuge
+  - refuge cave during flight
+  - hidden cave shelter
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.celestial-simile-for-earthly-firelight
+  motif_id: celestial_simile_for_earthly_firelight
+  label: celestial simile for earthly firelight
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes a literary comparison rather than a narrative or
+    symbolic motif.
+  cautions: Preserve as stylistic evidence if needed, but exclude from motif pattern
+    queries unless the passage attributes sacred or cosmological agency to the firelight.
+  suggested_aliases:
+  - firelight compared to celestial light
+  - celestial simile for firelight
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and nature-image heavy; source
+  context is needed to avoid mistaking poetic setting details for motifs.
+- Suggested new groups for earthquake etiology and solar capture are provisional candidates
+  because existing groups lack a general celestial/earth-phenomena control facet.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0536
+  input_sha256: 7c8099532a3019ff7b46fe844d70ce635043feb9dfb00d3fdd42b67ec9997a80

@@ -1,0 +1,299 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0519
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.soul-identified-with-life-principle
+  motif_id: soul_identified_with_life_principle
+  label: soul identified with life principle
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label states a general soul anthropology concept rather than a clear
+    narrative function; it may support external_soul, death_and_transformation, or
+    sacred_knowledge depending on context.
+  cautions: Single comparative occurrence; may be an analytic classification artifact
+    rather than a motif for pattern queries.
+  suggested_aliases:
+  - soul as life principle
+  - life principle soul
+  - soul as vital force
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.soul-leaving-the-body-in-animal-form
+  motif_id: soul_leaving_the_body_in_animal_form
+  label: soul leaving the body in animal form
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: external_soul
+  suggested_group_label: External Soul and Life-Token
+  relationship: functional_variant
+  confidence: medium
+  rationale: A soul exiting the body in animal form fits the separable-soul complex
+    and overlaps with existing external-soul variants.
+  cautions: If the passage emphasizes animal metamorphosis rather than separable life-force,
+    shapeshifter may be a secondary mapping.
+  suggested_aliases:
+  - animal-form departing soul
+  - soul exits as animal
+  - separable soul in animal form
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.soul-located-at-the-mouth-or-nose
+  motif_id: soul_located_at_the_mouth_or_nose
+  label: Soul located at the mouth or nose
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label concerns a culturally specific bodily location of the soul
+    or breath and lacks enough function to place confidently.
+  cautions: Could relate to breath-soul beliefs, death rites, or external_soul only
+    if separability, capture, or life-dependency is present; may be ethnographic detail.
+  suggested_aliases:
+  - mouth soul
+  - nose soul
+  - breath soul located at mouth or nose
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.soul-located-in-reflection-or-external-object
+  motif_id: soul_located_in_reflection_or_external_object
+  label: Soul located in reflection or external object
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: external_soul
+  suggested_group_label: External Soul and Life-Token
+  relationship: alias
+  confidence: high
+  rationale: The existing external_soul group explicitly covers a soul, reflection,
+    or vital force separable from the body and bound to an external object.
+  cautions: Preserve whether the soul is in a reflection, object, shadow, or other
+    token because local mechanics may matter.
+  suggested_aliases:
+  - soul in reflection
+  - soul in external object
+  - externalized soul in reflection
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.soul-located-outside-or-in-bodily-reflected-substances
+  motif_id: soul_located_outside_or_in_bodily_reflected_substances
+  label: soul located outside or in bodily/reflected substances
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: external_soul
+  suggested_group_label: External Soul and Life-Token
+  relationship: narrower_than
+  confidence: medium
+  rationale: A soul located outside the body or in reflected substances fits the external_soul
+    pattern of separable life-force bound to non-body locations.
+  cautions: The bodily-substance wording is broad and may include breath, blood, shadow,
+    or reflection; verify source evidence before collapsing distinct local beliefs.
+  suggested_aliases:
+  - soul outside the body
+  - soul in reflected substances
+  - external soul in bodily substance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.soul-released-from-prison-like-enclosure
+  motif_id: soul_released_from_prison_like_enclosure
+  label: soul released from prison-like enclosure
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: In Sufi context, release of the soul from a prison-like enclosure likely
+    expresses interior liberation from embodied or egoic confinement.
+  cautions: If the passage describes literal postmortem release or resurrection rather
+    than mystical anthropology, death_and_transformation may be a better secondary
+    group.
+  suggested_aliases:
+  - soul released from bodily prison
+  - body as prison of the soul
+  - soul liberation from enclosure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.soul-represented-by-butterfly
+  motif_id: soul_represented_by_butterfly
+  label: soul represented by butterfly
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: symbolic_variant
+  confidence: low
+  rationale: Butterfly-as-soul is a symbolic representation of psyche, but the narrative
+    function is unclear from the label alone.
+  cautions: May be iconographic or lexical evidence rather than a narrative motif;
+    consider death_and_transformation only if metamorphosis or postmortem change is
+    explicit.
+  suggested_aliases:
+  - butterfly soul
+  - psyche as butterfly
+  - soul butterfly symbol
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.soul-stored-in-object-or-container
+  motif_id: soul_stored_in_object_or_container
+  label: soul stored in object or container
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: external_soul
+  suggested_group_label: External Soul and Life-Token
+  relationship: alias
+  confidence: high
+  rationale: The external_soul group directly includes life or soul stored outside
+    the body in an object or container.
+  cautions: If the container itself is ritually central, sacred_vessel may be a related
+    secondary group, but the key function is soul externalization.
+  suggested_aliases:
+  - external soul in container
+  - soul stored in object
+  - soul container
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.soul-transfer-into-another-body
+  motif_id: soul_transfer_into_another_body
+  label: Soul transfer into another body
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: soul_loss_restoration
+  suggested_group_label: Soul Loss and Restoration
+  relationship: functional_variant
+  confidence: medium
+  rationale: Transfer of a soul into another body concerns displacement and relocation
+    of vital force, closest to the soul_loss_restoration complex among existing groups.
+  cautions: Could instead fit shapeshifter if the emphasis is bodily transformation,
+    or external_soul if the soul is stored externally before transfer.
+  suggested_aliases:
+  - transmigration into another body
+  - soul relocation to another body
+  - soul enters another body
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.soul-transfer-to-successor
+  motif_id: soul_transfer_to_successor
+  label: soul transfer to successor
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Soul transfer to a successor may indicate succession, reincarnation,
+    ritual transmission, or authority transfer, and the function cannot be determined
+    from the label alone.
+  cautions: Could relate to royal_legitimacy, soul_loss_restoration, external_soul,
+    or sacred_exchange depending on whether succession, healing, life-token logic,
+    or ritual transmission is primary.
+  suggested_aliases:
+  - successor receives soul
+  - soul transmission to successor
+  - transferred soul succession
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are comparative soul-anthropology concepts rather than
+  clearly attested narrative motifs; human review should verify source function before
+  broad indexing.
+- Where external_soul is suggested, preserve local mechanics such as reflection, breath,
+  animal form, object, or container as evidence detail.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api-assistant
+  reviewed_at: ''
+  notes: Provisional placements only; culturally specific soul-belief labels should
+    be checked against passage evidence.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0519
+  input_sha256: 0bdc20f045b8dc0994acdba8bc979522ec71087bbd9fe5928365352416ff3e26

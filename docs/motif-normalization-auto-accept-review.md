@@ -6,95 +6,110 @@ Policy: auto-accept medium-or-high-confidence `map_to_existing_group` suggestion
 
 ## Summary
 
-- Suggestions reviewed: 5160
-- Auto-accepted into main taxonomy: 81
-- Staged for review: 5079
+- Suggestions reviewed: 5300
+- Auto-accepted into main taxonomy: 96
+- Staged for review: 5204
 
 ## Auto-Accepted
 
 | Motif ID | Label | Group | Relationship | Occurrences | Traditions |
 | --- | --- | --- | --- | ---: | --- |
-| `necessary_spiritual_companion_to_a_prophetic_figure` | necessary spiritual companion to a prophetic figure | `mystical_quest` Mystical Quest and Interior Journey | role_variant | 1 | sufi |
-| `nested_concealment_of_a_soul_in_remote_containers` | Nested concealment of a soul in remote containers | `external_soul` External Soul and Life-Token | narrower_than | 1 | comparative |
-| `news_from_the_living_consoles_the_dead` | news from the living consoles the dead | `descent` Descent and Underworld Journey | functional_variant | 1 | greek |
-| `night_descent_of_a_goddess_commanding_battle` | night descent of a goddess commanding battle | `divine_warrior` Divine Warrior and Sacred Combat | role_variant | 1 | greek |
-| `no_return_after_death` | no return after death | `death_and_transformation` Death, Rebirth, and Transformation | symbolic_variant | 1 | sufi |
-| `no_return_after_departure` | No return after departure | `mystical_quest` Mystical Quest and Interior Journey | functional_variant | 1 | sufi |
-| `nocturnal_spirit_causing_dreams_and_apparitions` | nocturnal spirit causing dreams and apparitions | `dream_and_vision` Dream, Vision, and Altered Perception | functional_variant | 1 | greek_roman |
-| `non_return_condition_for_removed_disease` | non-return condition for removed disease | `sacred_law` Sacred Law and Social Order | ritual_variant | 1 | comparative |
-| `nonhuman_nature_and_spirits_subordinated_to_a_chosen_servant` | Nonhuman nature and spirits subordinated to a chosen servant | `divine_intervention` Divine Intervention and Guidance | role_variant | 1 | islamic |
-| `oath_witnessed_by_an_underworld_deity` | oath witnessed by an underworld deity | `covenant` Covenant and Sacred Bond | ritual_variant | 1 | greek |
-| `ominous_dream_foretelling_royal_death` | ominous dream foretelling royal death | `dream_and_vision` Dream, Vision, and Altered Perception | functional_variant | 1 | hindu |
-| `ominous_hearing_of_public_lament_before_recognition_of_death` | ominous hearing of public lament before recognition of death | `lament_and_mourning` Lament, Mourning, and Tragic Recognition | over_specific_label | 1 | greek |
-| `ominous_signs_foretelling_death_in_battle` | Ominous signs foretelling death in battle | `death_by_fate` Death Attributed to Fate or Destiny | functional_variant | 1 | celtic_irish |
-| `ominous_wedding_signs_preceding_death` | ominous wedding signs preceding death | `dream_and_vision` Dream, Vision, and Altered Perception | functional_variant | 1 | roman |
-| `pious_death_accompanied_by_sacred_recitation` | pious death accompanied by sacred recitation | `afterlife_passage` Afterlife Navigation and Passage | ritual_variant | 1 | sufi |
-| `plant_juice_as_blood_and_soul_of_the_plant` | plant juice as blood and soul of the plant | `sacred_law` Sacred Law and Social Order | symbolic_variant | 1 | comparative |
-| `poems_as_pearls_gathered_after_death` | poems as pearls gathered after death | `storytelling_as_power` Storytelling and Narrative as Sacred Power | symbolic_variant | 1 | sufi |
-| `poet_or_hero_receives_divine_style_honors_after_death` | Poet or hero receives divine-style honors after death | `heroic_funeral_rites` Heroic Funeral Rites and Memorialization | functional_variant | 1 | greek |
-| `poetic_immortality_of_heroic_pair` | poetic immortality of heroic pair | `storytelling_as_power` Storytelling and Narrative as Sacred Power | symbolic_variant | 1 | roman |
-| `poetic_song_survives_death` | Poetic song survives death | `storytelling_as_power` Storytelling and Narrative as Sacred Power | symbolic_variant | 1 | sufi |
-| `poisoned_weapon_causes_unintended_death_of_allies` | poisoned weapon causes unintended death of allies | `sacred_combat` Sacred Combat and Ritual Warfare | functional_variant | 1 | greek_roman |
-| `portrait_or_likeness_contains_the_soul` | portrait or likeness contains the soul | `external_soul` External Soul and Life-Token | functional_variant | 1 | comparative |
-| `posthumous_fame_secured_by_tomb_and_funeral_games` | Posthumous fame secured by tomb and funeral games | `heroic_funeral_rites` Heroic Funeral Rites and Memorialization | narrower_than | 1 | greek |
-| `posthumous_guardianship_of_the_virtuous_dead` | Posthumous guardianship of the virtuous dead | `divine_intervention` Divine Intervention and Guidance | role_variant | 1 | greek |
-| `proud_warrior_death_within_fellowship` | proud warrior death within fellowship | `divine_warrior` Divine Warrior and Sacred Combat | functional_variant | 1 | celtic_irish |
-| `public_cremation_and_urn_burial_of_an_honored_hero` | public cremation and urn burial of an honored hero | `heroic_funeral_rites` Heroic Funeral Rites and Memorialization | ritual_variant | 1 | greek |
-| `punishment_in_hell_fire` | punishment in hell-fire | `divine_judgment` Divine Judgment and Moral Reckoning | narrower_than | 1 | islamic |
-| `pure_dead_aid_the_living` | pure dead aid the living | `ancestor_rites` Ancestor Rites and Feeding the Dead | role_variant | 1 | sufi |
-| `quest_for_immortality_through_fame_and_offspring` | Quest for immortality through fame and offspring | `death_and_transformation` Death, Rebirth, and Transformation | symbolic_variant | 1 | greek |
-| `radiance_spreading_from_holy_tomb` | radiance spreading from holy tomb | `sacred_fire` Sacred Fire and Divine Light | symbolic_variant | 1 | sufi |
-| `recall_and_recovery_of_lost_soul` | recall and recovery of lost soul | `soul_loss_restoration` Soul Loss and Restoration | alias | 1 | comparative |
-| `recalling_the_absent_crop_soul` | recalling the absent crop soul | `sacred_time` Sacred Time and Ritual Cycle | ritual_variant | 1 | comparative |
-| `red_sky_as_sign_of_supernatural_death` | red sky as sign of supernatural death | `dream_and_vision` Dream, Vision, and Altered Perception | symbolic_variant | 1 | comparative |
-| `reflection_as_external_soul` | reflection as external soul | `external_soul` External Soul and Life-Token | symbolic_variant | 1 | comparative |
-| `reforged_ancestral_weapon_arms_the_hero` | Reforged ancestral weapon arms the hero | `sacred_treasures` Sacred Treasures and Power Objects | functional_variant | 1 | norse |
-| `refusal_of_returning_evil_for_evil` | refusal of returning evil for evil | `sacred_law` Sacred Law and Social Order | narrower_than | 1 | greek |
-| `refusal_to_honor_the_human_ancestor` | Refusal to honor the human ancestor | `divine_intervention` Divine Intervention and Guidance | functional_variant | 1 | islamic |
-| `rejected_warner_and_inherited_ancestral_religion` | rejected warner and inherited ancestral religion | `divine_judgment` Divine Judgment and Moral Reckoning | functional_variant | 1 | islamic |
-| `remorse_after_a_brother_s_death` | remorse after a brother's death | `lament_and_mourning` Lament, Mourning, and Tragic Recognition | functional_variant | 1 | hindu |
-| `renowned_tragic_grave_of_heroine` | renowned tragic grave of heroine | `lament_and_mourning` Lament, Mourning, and Tragic Recognition | narrower_than | 1 | celtic_irish |
-| `return_of_a_slain_warrior_under_the_letter_of_a_promise_or_law` | Return of a slain warrior under the letter of a promise or law | `covenant` Covenant and Sacred Bond | functional_variant | 1 | celtic_irish |
-| `return_of_a_supernatural_figure_to_an_underworld_country` | Return of a supernatural figure to an underworld country | `descent` Descent and Underworld Journey | functional_variant | 1 | celtic_irish |
-| `return_of_the_dead_to_mother_earth` | return of the dead to mother earth | `mother_goddess` Sacred Feminine and Mother Goddess | symbolic_variant | 1 | hindu |
-| `return_of_the_enemy_s_body_to_kin` | Return of the enemy's body to kin | `heroic_funeral_rites` Heroic Funeral Rites and Memorialization | ritual_variant | 1 | greek |
-| `return_of_the_fallen_son_to_the_grieving_father` | return of the fallen son to the grieving father | `lament_and_mourning` Lament, Mourning, and Tragic Recognition | functional_variant | 1 | roman |
-| `return_or_renewal_of_sunlight_on_the_seventh_day` | return or renewal of sunlight on the seventh day | `sacred_time` Sacred Time and Ritual Cycle | symbolic_variant | 1 | greek |
-| `return_to_non_existence` | return to non-existence | `mystical_quest` Mystical Quest and Interior Journey | functional_variant | 1 | sufi |
-| `return_to_the_lord_with_righteous_giving` | return to the Lord with righteous giving | `sacred_exchange` Sacred Exchange and Reciprocity | ritual_variant | 1 | islamic |
-| `reversal_between_life_and_death_valuation` | reversal between life and death valuation | `duality` Duality and Cosmic Opposition | symbolic_variant | 1 | daoist |
-| `rewarded_religious_exile_and_death_for_the_faith` | Rewarded religious exile and death for the faith | `sacrifice` Sacrifice and Offering | functional_variant | 1 | islamic |
-| `rites_granted_to_enemies_and_nameless_dead` | rites granted to enemies and nameless dead | `heroic_funeral_rites` Heroic Funeral Rites and Memorialization | ritual_variant | 1 | hindu |
-| `ritual_bodily_removal_and_burial_after_sacrifice` | ritual bodily removal and burial after sacrifice | `sacrifice` Sacrifice and Offering | ritual_variant | 1 | islamic |
-| `ritual_combat_with_a_spirit_through_a_floor_opening` | ritual combat with a spirit through a floor opening | `threshold_guardian` Threshold Guardian | functional_variant | 1 | comparative |
-| `ritual_detention_or_recovery_of_a_departing_soul` | ritual detention or recovery of a departing soul | `soul_loss_restoration` Soul Loss and Restoration | ritual_variant | 1 | comparative |
-| `ritual_expulsion_of_a_misidentified_spirit` | Ritual expulsion of a misidentified spirit | `sacrifice` Sacrifice and Offering | ritual_variant | 1 | ainu |
-| `ritual_fire_used_after_spirit_expulsion` | Ritual fire used after spirit expulsion | `sacred_fire` Sacred Fire and Divine Light | ritual_variant | 1 | comparative |
-| `sacred_food_taboo_whose_violation_brings_disease_or_death` | sacred food taboo whose violation brings disease or death | `sacred_law` Sacred Law and Social Order | ritual_variant | 1 | comparative |
-| `sacred_immutability_of_ancestral_law` | sacred immutability of ancestral law | `sacred_law` Sacred Law and Social Order | narrower_than | 1 | greek |
-| `sacred_site_omen_synchronized_with_holy_successor_s_death` | Sacred-site omen synchronized with holy successor’s death | `dream_and_vision` Dream, Vision, and Altered Perception | functional_variant | 1 | sufi |
-| `saintly_miracles_by_living_and_dead_masters` | Saintly miracles by living and dead masters | `divine_intervention` Divine Intervention and Guidance | role_variant | 1 | sufi |
-| `saintly_presentiment_of_approaching_death` | Saintly presentiment of approaching death | `dream_and_vision` Dream, Vision, and Altered Perception | functional_variant | 1 | sufi |
-| `saviors_of_the_state_rewarded_with_crown_and_burial_honors` | Saviors of the state rewarded with crown and burial honors | `heroic_funeral_rites` Heroic Funeral Rites and Memorialization | functional_variant | 1 | greek |
-| `sea_as_agent_of_death_and_lament` | sea as agent of death and lament | `lament_and_mourning` Lament, Mourning, and Tragic Recognition | symbolic_variant | 1 | celtic_irish |
-| `sea_as_burial_place_or_barrow` | Sea as burial place or barrow | `heroic_funeral_rites` Heroic Funeral Rites and Memorialization | symbolic_variant | 1 | norse |
-| `sea_monster_released_after_vow_of_non_return` | Sea monster released after vow of non-return | `covenant` Covenant and Sacred Bond | functional_variant | 1 | finnish_karelian |
-| `sealed_vessel_containing_spirits` | sealed vessel containing spirits | `sacred_vessel` Sacred Vessel and Container | alias | 1 | sufi |
-| `securing_the_soul_of_the_crop` | securing the soul of the crop | `sacred_time` Sacred Time and Ritual Cycle | ritual_variant | 1 | comparative |
-| `self_composed_epitaph_before_death` | Self-composed epitaph before death | `storytelling_as_power` Storytelling and Narrative as Sacred Power | functional_variant | 1 | greek |
-| `self_designated_sacred_burial_place` | Self-designated sacred burial place | `heroic_funeral_rites` Heroic Funeral Rites and Memorialization | ritual_variant | 1 | sufi |
-| `treacherous_killing_of_sleeping_hero_followed_by_dying_retaliation` | Treacherous killing of sleeping hero followed by dying retaliation | `divine_warrior` Divine Warrior and Sacred Combat | over_specific_label | 1 | norse |
-| `treasure_obtained_from_a_perilous_underworld_like_place` | treasure obtained from a perilous underworld-like place | `descent` Descent and Underworld Journey | functional_variant | 1 | islamicate_folklore |
-| `tree_as_site_or_medium_of_soul_detention_and_restoration` | Tree as site or medium of soul detention and restoration | `soul_loss_restoration` Soul Loss and Restoration | functional_variant | 1 | comparative |
-| `tree_branch_as_sign_of_death_and_funerary_presence` | tree branch as sign of death and funerary presence | `heroic_funeral_rites` Heroic Funeral Rites and Memorialization | ritual_variant | 1 | roman |
-| `tree_inhabited_by_souls_or_spirits` | Tree inhabited by souls or spirits | `death_and_transformation` Death, Rebirth, and Transformation | symbolic_variant | 1 | comparative |
-| `tree_or_plant_bound_maiden_spirit` | tree- or plant-bound maiden spirit | `otherworld` Otherworld and Enchanted Realm | symbolic_variant | 1 | norse |
-| `tree_spirit_embodied_in_tree_and_effigy` | tree-spirit embodied in tree and effigy | `otherworld` Otherworld and Enchanted Realm | symbolic_variant | 1 | comparative |
-| `unavoidable_heroic_mortality` | Unavoidable heroic mortality | `death_by_fate` Death Attributed to Fate or Destiny | functional_variant | 1 | greek |
-| `unburied_dead_later_granted_burial_by_gods` | Unburied dead later granted burial by gods | `heroic_funeral_rites` Heroic Funeral Rites and Memorialization | functional_variant | 1 | greek |
-| `unburied_ghost_requesting_burial_rites` | unburied ghost requesting burial rites | `heroic_funeral_rites` Heroic Funeral Rites and Memorialization | functional_variant | 1 | greek |
-| `uncared_for_dead_lacking_funerary_rites` | uncared-for dead lacking funerary rites | `heroic_funeral_rites` Heroic Funeral Rites and Memorialization | narrower_than | 1 | greek |
-| `underworld_animal_as_seed_of_future_cattle_raid` | underworld animal as seed of future cattle raid | `sacred_combat` Sacred Combat and Ritual Warfare | over_specific_label | 1 | celtic_irish |
+| `ablution_with_old_garments_carried_away_by_water` | ablution with old garments carried away by water | `sacred_waters` Sacred Waters and Passage Through Water | ritual_variant | 1 | comparative |
+| `agricultural_deity_with_harvest_attributes` | Agricultural deity with harvest attributes | `sacred_time` Sacred Time and Ritual Cycle | symbolic_variant | 1 | greek_roman |
+| `ally_restrained_from_unleashing_an_overpowering_weapon` | Ally restrained from unleashing an overpowering weapon | `sacred_combat` Sacred Combat and Ritual Warfare | functional_variant | 1 | hindu |
+| `blood_water_portent_of_slaughter` | Blood-water portent of slaughter | `dream_and_vision` Dream, Vision, and Altered Perception | functional_variant | 1 | celtic_irish |
+| `boastful_lesser_light_humbled_by_extinction` | boastful lesser light humbled by extinction | `pride_and_downfall` Pride, Hubris, and Downfall | functional_variant | 1 | greek |
+| `body_as_bridge_over_an_impassable_river` | Body as bridge over an impassable river | `hero_journey` The Hero's Journey | functional_variant | 1 | celtic_welsh |
+| `body_dissolving_back_into_elemental_constituents` | Body dissolving back into elemental constituents | `death_and_transformation` Death, Rebirth, and Transformation | symbolic_variant | 1 | hindu |
+| `body_politic_as_diseased_body` | Body politic as diseased body | `sacred_law` Sacred Law and Social Order | symbolic_variant | 1 | greek |
+| `boundary_expulsion_as_disease_removal` | boundary expulsion as disease removal | `sacrifice` Sacrifice and Offering | ritual_variant | 1 | comparative |
+| `boundary_landscape_of_hot_and_cold_waters` | boundary landscape of hot and cold waters | `sacred_waters` Sacred Waters and Passage Through Water | symbolic_variant | 1 | greek |
+| `boundary_removal_of_affliction_to_sea_forest_shore_or_outside_village` | Boundary removal of affliction to sea, forest, shore, or outside village | `sacrifice` Sacrifice and Offering | ritual_variant | 1 | comparative |
+| `bridge_over_water_to_enemy_stronghold` | Bridge over water to enemy stronghold | `sacred_combat` Sacred Combat and Ritual Warfare | functional_variant | 1 | hindu |
+| `catasterism_or_placement_among_stars` | Catasterism or placement among stars | `death_and_transformation` Death, Rebirth, and Transformation | symbolic_variant | 1 | hindu |
+| `cave_as_constricted_world_of_appearances` | cave as constricted world of appearances | `sacred_knowledge` Sacred Knowledge and Wisdom | symbolic_variant | 1 | greek |
+| `cave_emergence_of_an_otherworld_woman` | Cave emergence of an otherworld woman | `otherworld` Otherworld and Enchanted Realm | functional_variant | 1 | celtic_irish |
+| `miraculous_water_from_rock` | miraculous water from rock | `divine_intervention` Divine Intervention and Guidance | functional_variant | 3 | islamic |
+| `paradisal_garden_with_flowing_rivers` | Paradisal garden with flowing rivers | `otherworld` Otherworld and Enchanted Realm | narrower_than | 3 | islamic |
+| `severed_head_that_speaks_after_death_or_near_death` | severed head that speaks after death or near death | `death_and_transformation` Death, Rebirth, and Transformation | functional_variant | 1 | islamicate_folklore |
+| `shadow_as_external_soul_or_life_part` | Shadow as external soul or life-part | `external_soul` External Soul and Life-Token | symbolic_variant | 1 | comparative |
+| `shared_tomb_for_dead_lovers` | shared tomb for dead lovers | `sacred_love` Sacred Love and Longing | symbolic_variant | 1 | roman |
+| `siren_song_draws_river_travelers_to_death` | Siren song draws river travelers to death | `threshold_guardian` Threshold Guardian | functional_variant | 1 | norse |
+| `slain_enemies_sent_to_the_realm_of_death` | slain enemies sent to the realm of death | `divine_warrior` Divine Warrior and Sacred Combat | functional_variant | 1 | hindu |
+| `sleep_as_temporary_taking_of_the_soul` | Sleep as temporary taking of the soul | `soul_loss_restoration` Soul Loss and Restoration | functional_variant | 1 | islamic |
+| `song_reserved_for_the_moment_before_death` | song reserved for the moment before death | `lament_and_mourning` Lament, Mourning, and Tragic Recognition | ritual_variant | 1 | greek |
+| `soul_abduction_or_loss_caused_by_spirits` | Soul abduction or loss caused by spirits | `soul_loss_restoration` Soul Loss and Restoration | alias | 1 | comparative |
+| `soul_as_bird_ready_to_fly` | soul as bird ready to fly | `death_and_transformation` Death, Rebirth, and Transformation | symbolic_variant | 1 | comparative |
+| `soul_as_transparent_reflector_in_ecstasy` | Soul as transparent reflector in ecstasy | `mystical_quest` Mystical Quest and Interior Journey | symbolic_variant | 1 | sufi |
+| `soul_bird_demanding_blood_vengeance` | soul bird demanding blood vengeance | `divine_judgment` Divine Judgment and Moral Reckoning | functional_variant | 1 | islamic |
+| `soul_captured_or_transported_in_ritual_objects` | soul captured or transported in ritual objects | `external_soul` External Soul and Life-Token | functional_variant | 1 | comparative |
+| `soul_contained_in_objects_or_vessels` | Soul contained in objects or vessels | `external_soul` External Soul and Life-Token | alias | 1 | comparative |
+| `soul_contained_in_portable_wrapping_or_vessel` | Soul contained in portable wrapping or vessel | `external_soul` External Soul and Life-Token | narrower_than | 1 | comparative |
+| `soul_leaving_the_body_in_animal_form` | soul leaving the body in animal form | `external_soul` External Soul and Life-Token | functional_variant | 1 | comparative |
+| `soul_located_in_reflection_or_external_object` | Soul located in reflection or external object | `external_soul` External Soul and Life-Token | alias | 1 | comparative |
+| `soul_located_outside_or_in_bodily_reflected_substances` | soul located outside or in bodily/reflected substances | `external_soul` External Soul and Life-Token | narrower_than | 1 | comparative |
+| `soul_released_from_prison_like_enclosure` | soul released from prison-like enclosure | `mystical_quest` Mystical Quest and Interior Journey | symbolic_variant | 1 | sufi |
+| `soul_stored_in_object_or_container` | soul stored in object or container | `external_soul` External Soul and Life-Token | alias | 1 | comparative |
+| `soul_transfer_into_another_body` | Soul transfer into another body | `soul_loss_restoration` Soul Loss and Restoration | functional_variant | 1 | comparative |
+| `soul_trapped_or_detained_by_hostile_beings_or_human_specialists` | Soul trapped or detained by hostile beings or human specialists | `soul_loss_restoration` Soul Loss and Restoration | functional_variant | 1 | comparative |
+| `soul_vulnerable_during_eating_and_drinking` | soul vulnerable during eating and drinking | `sacred_law` Sacred Law and Social Order | ritual_variant | 1 | comparative |
+| `souled_or_animate_trees` | Souled or animate trees | `axis_mundi` World Axis and Sacred Center | symbolic_variant | 1 | comparative |
+| `southern_orientation_in_rites_for_the_dead` | southern orientation in rites for the dead | `ancestor_rites` Ancestor Rites and Feeding the Dead | ritual_variant | 1 | hindu |
+| `speaking_memorial_object_preserves_the_dead_person_s_name` | speaking memorial object preserves the dead person's name | `heroic_funeral_rites` Heroic Funeral Rites and Memorialization | functional_variant | 1 | greek |
+| `spiritual_authority_defeats_martial_power` | Spiritual authority defeats martial power | `sacred_combat` Sacred Combat and Ritual Warfare | functional_variant | 1 | hindu |
+| `spiritual_authority_overcoming_royal_martial_power` | Spiritual authority overcoming royal martial power | `royal_legitimacy` Royal Legitimacy and Sacred Kingship | functional_variant | 1 | hindu |
+| `supernatural_washerwoman_foretells_battlefield_death` | supernatural washerwoman foretells battlefield death | `death_by_fate` Death Attributed to Fate or Destiny | functional_variant | 1 | celtic_irish |
+| `supplication_for_burial_of_the_war_dead` | Supplication for burial of the war dead | `heroic_funeral_rites` Heroic Funeral Rites and Memorialization | ritual_variant | 1 | roman |
+| `tabooed_kin_threatened_by_the_slain_person_s_ghost` | Tabooed kin threatened by the slain person's ghost | `sacred_law` Sacred Law and Social Order | ritual_variant | 1 | comparative |
+| `tabooed_sacred_animal_causing_illness_or_death` | tabooed sacred animal causing illness or death | `sacred_law` Sacred Law and Social Order | ritual_variant | 1 | comparative |
+| `tears_of_mourning_bind_or_disturb_the_dead` | Tears of mourning bind or disturb the dead | `lament_and_mourning` Lament, Mourning, and Tragic Recognition | functional_variant | 1 | norse |
+| `terrifying_heroic_shout_causes_supernatural_response_and_enemy_deaths` | terrifying heroic shout causes supernatural response and enemy deaths | `divine_warrior` Divine Warrior and Sacred Combat | functional_variant | 1 | celtic_irish |
+| `terrifying_underworld_enforcers` | Terrifying underworld enforcers | `afterlife_passage` Afterlife Navigation and Passage | role_variant | 1 | greek_roman |
+| `theft_punished_by_death` | theft punished by death | `divine_judgment` Divine Judgment and Moral Reckoning | functional_variant | 1 | indigenous_australian |
+| `theriomorphic_and_anthropomorphic_forms_of_the_same_spirit` | Theriomorphic and anthropomorphic forms of the same spirit | `shapeshifter` Shapeshifter and Transformation | symbolic_variant | 1 | comparative |
+| `time_limited_rescue_before_threatened_death` | Time-limited rescue before threatened death | `hero_journey` The Hero's Journey | functional_variant | 1 | hindu |
+| `tomb_as_watch_tower_or_landmark` | Tomb as watch-tower or landmark | `heroic_funeral_rites` Heroic Funeral Rites and Memorialization | symbolic_variant | 1 | greek |
+| `totemic_animal_taboo_connected_with_descent_or_obligation` | totemic animal taboo connected with descent or obligation | `sacred_law` Sacred Law and Social Order | ritual_variant | 1 | comparative |
+| `tragic_heroine_s_lament_at_death` | tragic heroine's lament at death | `lament_and_mourning` Lament, Mourning, and Tragic Recognition | narrower_than | 1 | celtic_irish |
+| `transferred_blame_around_a_supposed_corpse` | Transferred blame around a supposed corpse | `trickster` Trickster and Boundary Crosser | functional_variant | 1 | islamicate_folklore |
+| `transformative_waters` | transformative waters | `sacred_waters` Sacred Waters and Passage Through Water | symbolic_variant | 2 | roman |
+| `underworld_army_joins_the_battle_of_the_living_gods` | underworld army joins the battle of the living gods | `divine_warrior` Divine Warrior and Sacred Combat | functional_variant | 1 | norse |
+| `underworld_imprisonment_of_divine_beings` | underworld imprisonment of divine beings | `descent` Descent and Underworld Journey | functional_variant | 1 | greek_roman |
+| `underworld_palace_of_personified_miseries` | Underworld palace of personified miseries | `descent` Descent and Underworld Journey | narrower_than | 1 | norse |
+| `underworld_punishment_threat` | underworld punishment threat | `divine_judgment` Divine Judgment and Moral Reckoning | functional_variant | 1 | greek |
+| `unique_ancestral_weapon_wielded_only_by_the_hero` | unique ancestral weapon wielded only by the hero | `sacred_treasures` Sacred Treasures and Power Objects | narrower_than | 1 | greek |
+| `universal_cup_of_destiny_or_death` | Universal cup of destiny or death | `sacred_vessel` Sacred Vessel and Container | symbolic_variant | 1 | sufi |
+| `unresolved_heroic_quarrel_persists_after_death` | unresolved heroic quarrel persists after death | `lament_and_mourning` Lament, Mourning, and Tragic Recognition | functional_variant | 1 | greek |
+| `vain_augury_before_unavoidable_death` | vain augury before unavoidable death | `death_by_fate` Death Attributed to Fate or Destiny | functional_variant | 1 | greek |
+| `varied_warrior_deaths_in_battle_description` | varied warrior deaths in battle description | `divine_warrior` Divine Warrior and Sacred Combat | over_specific_label | 1 | greek |
+| `vengeance_against_the_dead_through_the_corpse` | Vengeance against the dead through the corpse | `heroic_funeral_rites` Heroic Funeral Rites and Memorialization | functional_variant | 1 | greek |
+| `vengeance_killing_after_a_companion_s_death` | vengeance killing after a companion's death | `divine_warrior` Divine Warrior and Sacred Combat | functional_variant | 1 | greek |
+| `vengeance_killing_and_exchange_of_the_dead` | Vengeance killing and exchange of the dead | `heroic_funeral_rites` Heroic Funeral Rites and Memorialization | functional_variant | 1 | greek |
+| `virtue_as_health_of_the_soul` | virtue as health of the soul | `sacred_knowledge` Sacred Knowledge and Wisdom | symbolic_variant | 1 | greek |
+| `volcanic_underworld_like_forge_of_divine_weapons` | volcanic underworld-like forge of divine weapons | `sacred_craft` Sacred Craft and Divinely Aided Construction | functional_variant | 1 | roman |
+| `vow_of_death_rather_than_loss_of_spouse_or_marital_fidelity` | vow of death rather than loss of spouse or marital fidelity | `sacred_love` Sacred Love and Longing | functional_variant | 1 | hindu |
+| `vow_of_silence_until_love_is_returned` | vow of silence until love is returned | `sacred_love` Sacred Love and Longing | functional_variant | 1 | celtic_welsh |
+| `warning_against_worldly_accumulation_before_death` | warning against worldly accumulation before death | `mystical_quest` Mystical Quest and Interior Journey | narrower_than | 1 | islamic |
+| `warrior_death_as_honorable_passage_to_heaven` | warrior death as honorable passage to heaven | `afterlife_passage` Afterlife Navigation and Passage | functional_variant | 1 | hindu |
+| `warrior_returns_to_defend_inherited_land` | warrior returns to defend inherited land | `hero_journey` The Hero's Journey | functional_variant | 1 | celtic_irish |
+| `warrior_rushes_into_certain_death_when_surrounded` | warrior rushes into certain death when surrounded | `divine_warrior` Divine Warrior and Sacred Combat | functional_variant | 1 | roman |
+| `warrior_seeking_noble_death_by_wounds` | warrior seeking noble death by wounds | `divine_warrior` Divine Warrior and Sacred Combat | functional_variant | 1 | roman |
+| `washing_the_dead_hero_s_body` | washing the dead hero's body | `heroic_funeral_rites` Heroic Funeral Rites and Memorialization | ritual_variant | 1 | greek |
+| `wasting_death_from_love_as_hidden_flame` | wasting death from love as hidden flame | `sacred_love` Sacred Love and Longing | symbolic_variant | 1 | roman |
+| `water_linked_disappearance_or_death_by_wind_and_sea` | water-linked disappearance or death by wind and sea | `sacred_waters` Sacred Waters and Passage Through Water | functional_variant | 1 | roman |
+| `water_spirits_as_music_making_beings_at_rivers_and_streams` | Water spirits as music-making beings at rivers and streams | `otherworld` Otherworld and Enchanted Realm | role_variant | 1 | norse |
+| `wealth_as_spiritual_test_and_punishment` | wealth as spiritual test and punishment | `divine_judgment` Divine Judgment and Moral Reckoning | functional_variant | 1 | islamic |
+| `wealth_fails_to_confer_immortality` | wealth fails to confer immortality | `sacred_knowledge` Sacred Knowledge and Wisdom | narrower_than | 1 | islamic |
+| `weapon_returned_against_its_thrower` | weapon returned against its thrower | `sacred_combat` Sacred Combat and Ritual Warfare | functional_variant | 1 | norse |
+| `widow_s_lament_over_the_dead_king` | Widow’s lament over the dead king | `lament_and_mourning` Lament, Mourning, and Tragic Recognition | narrower_than | 1 | hindu |
+| `wine_as_answer_to_mortality_and_sorrow` | wine as answer to mortality and sorrow | `mystical_quest` Mystical Quest and Interior Journey | symbolic_variant | 1 | sufi |
+| `wish_for_death_reversed_by_fear_of_death` | wish for death reversed by fear of death | `lament_and_mourning` Lament, Mourning, and Tragic Recognition | functional_variant | 1 | greek |
+| `wish_for_non_birth_or_infant_death_in_maiden_s_lament` | wish for non-birth or infant death in maiden’s lament | `lament_and_mourning` Lament, Mourning, and Tragic Recognition | narrower_than | 1 | finnish_karelian |
+| `withdrawal_and_return_of_celestial_lights` | withdrawal and return of celestial lights | `death_and_transformation` Death, Rebirth, and Transformation | symbolic_variant | 1 | japanese |
+| `women_s_lament_over_a_dead_ruler` | women’s lament over a dead ruler | `lament_and_mourning` Lament, Mourning, and Tragic Recognition | narrower_than | 1 | hindu |
+| `world_as_temporary_lodging` | world as temporary lodging | `mystical_quest` Mystical Quest and Interior Journey | symbolic_variant | 2 | sufi |
+| `world_strength_overcome_by_death` | world-strength overcome by death | `death_by_fate` Death Attributed to Fate or Destiny | symbolic_variant | 1 | celtic_irish |
+| `wrathful_hero_returning_from_combat_threatens_his_own_community` | wrathful hero returning from combat threatens his own community | `divine_warrior` Divine Warrior and Sacred Combat | functional_variant | 1 | celtic_irish |
 
 ## Staged For Review
 
@@ -176,6 +191,7 @@ Policy: auto-accept medium-or-high-confidence `map_to_existing_group` suggestion
 | `ambitious_courtier_betrays_benefactor` | Ambitious courtier betrays benefactor | map_to_existing_group | `pride_and_downfall` Pride, Hubris, and Downfall | medium | already mapped in main taxonomy |
 | `ambivalent_ecstatic_expression` | ambivalent ecstatic expression | map_to_existing_group | `mystical_quest` Mystical Quest and Interior Journey | low | low confidence |
 | `ambivalent_sacred_animal_becoming_demonized` | Ambivalent sacred animal becoming demonized | needs_human_review | ``  | low | low confidence |
+| `ambush_in_narrow_wooded_mountain_pass` | ambush in narrow wooded mountain pass | exclude_from_pattern_queries | ``  | medium | suggested exclusion |
 | `ambush_of_the_enemy_spy` | ambush of the enemy spy | exclude_from_pattern_queries | ``  | medium | suggested exclusion |
 | `ambush_overcome_with_lone_survivor` | ambush overcome with lone survivor | map_to_existing_group | `sacred_combat` Sacred Combat and Ritual Warfare | medium | already mapped in main taxonomy |
 | `ambush_with_a_divine_weapon` | Ambush with a divine weapon | map_to_existing_group | `divine_warrior` Divine Warrior and Sacred Combat | medium | already mapped in main taxonomy |
@@ -240,6 +256,7 @@ Policy: auto-accept medium-or-high-confidence `map_to_existing_group` suggestion
 | `anticipated_heroic_death_as_carrion_in_hostile_land` | anticipated heroic death as carrion in hostile land | map_to_existing_group | `divine_warrior` Divine Warrior and Sacred Combat | medium | already mapped in main taxonomy |
 | `anticipated_victory_thanksgiving` | anticipated victory thanksgiving | map_to_existing_group | `sacred_exchange` Sacred Exchange and Reciprocity | medium | already mapped in main taxonomy |
 | `anticipation_of_future_life` | anticipation of future life | needs_human_review | ``  | low | low confidence |
+| `apocalyptic_barrier_restraining_gog_and_magog` | apocalyptic barrier restraining Gog and Magog | new_group_candidate | `` Apocalyptic Barrier and Restrained Chaos | medium | new group candidate |
 | `apocalyptic_warning_horn` | Apocalyptic warning horn | map_to_existing_group | `flood_and_renewal` Flood, Fire, and Cosmic Renewal | medium | already mapped in main taxonomy |
 | `apostasy_and_replacement_of_a_religious_community` | apostasy and replacement of a religious community | map_to_existing_group | `divine_judgment` Divine Judgment and Moral Reckoning | medium | already mapped in main taxonomy |
 | `apostasy_followed_by_divine_replacement_of_a_community` | apostasy followed by divine replacement of a community | map_to_existing_group | `divine_judgment` Divine Judgment and Moral Reckoning | high | already mapped in main taxonomy |
@@ -443,6 +460,7 @@ Policy: auto-accept medium-or-high-confidence `map_to_existing_group` suggestion
 | `blood_changes_a_plant_s_color` | Blood changes a plant's color | map_to_existing_group | `death_and_transformation` Death, Rebirth, and Transformation | medium | already mapped in main taxonomy |
 | `blood_compensation_replacing_or_competing_with_retaliation` | blood compensation replacing or competing with retaliation | map_to_existing_group | `sacred_law` Sacred Law and Social Order | high | already mapped in main taxonomy |
 | `blood_debt_wordplay_at_death` | blood-debt wordplay at death | exclude_from_pattern_queries | `_meta_textual` Textual and Scholarly Artifacts | medium | suggested exclusion |
+| `blood_forming_a_river` | Blood forming a river | needs_human_review | ``  | low | low confidence |
 | `blood_like_atmospheric_omen_or_marvel` | Blood-like atmospheric omen or marvel | map_to_existing_group | `dream_and_vision` Dream, Vision, and Altered Perception | medium | already mapped in main taxonomy |
 | `blood_must_not_fall_on_the_ground` | blood must not fall on the ground | map_to_existing_group | `sacred_law` Sacred Law and Social Order | high | already mapped in main taxonomy |
 | `blood_of_the_slain_god_marked_in_landscape_and_flower` | Blood of the slain god marked in landscape and flower | map_to_existing_group | `death_and_transformation` Death, Rebirth, and Transformation | medium | already mapped in main taxonomy |
@@ -499,6 +517,7 @@ Policy: auto-accept medium-or-high-confidence `map_to_existing_group` suggestion
 | `bribe_by_precious_garment_persuades_kin_to_war` | bribe by precious garment persuades kin to war | exclude_from_pattern_queries | `_meta_textual` Textual and Scholarly Artifacts | medium | suggested exclusion |
 | `brief_glory_granted_before_foretold_death` | brief glory granted before foretold death | map_to_existing_group | `death_by_fate` Death Attributed to Fate or Destiny | medium | already mapped in main taxonomy |
 | `broken_heirloom_provokes_revenge` | Broken heirloom provokes revenge | map_to_existing_group | `sacred_treasures` Sacred Treasures and Power Objects | medium | already mapped in main taxonomy |
+| `broken_treasure_enriches_the_waters` | Broken treasure enriches the waters | needs_human_review | `sacred_waters` Sacred Waters and Passage Through Water | low | low confidence |
 | `broken_truce_followed_by_failed_mass_attack` | broken truce followed by failed mass attack | map_to_existing_group | `sacred_combat` Sacred Combat and Ritual Warfare | medium | already mapped in main taxonomy |
 | `brother_avenges_fallen_brother_in_battle` | brother avenges fallen brother in battle | map_to_existing_group | `sacred_combat` Sacred Combat and Ritual Warfare | high | already mapped in main taxonomy |
 | `brothers_die_together_and_share_one_grave` | Brothers die together and share one grave | map_to_existing_group | `sacred_twins` Sacred Twins and Sibling Pairs | medium | already mapped in main taxonomy |
@@ -510,6 +529,7 @@ Policy: auto-accept medium-or-high-confidence `map_to_existing_group` suggestion
 | `burial_by_ancestors_or_ancestral_land` | burial by ancestors or ancestral land | map_to_existing_group | `ancestor_rites` Ancestor Rites and Feeding the Dead | medium | already mapped in main taxonomy |
 | `burial_creates_or_explains_a_place_name` | burial creates or explains a place-name | needs_human_review | ``  | low | low confidence |
 | `burial_of_the_fallen_after_combat` | burial of the fallen after combat | map_to_existing_group | `heroic_funeral_rites` Heroic Funeral Rites and Memorialization | high | already mapped in main taxonomy |
+| `buried_giant_whose_movement_shakes_the_earth` | buried giant whose movement shakes the earth | new_group_candidate | `` Earthquake Etiology and Subterranean Being | medium | new group candidate |
 | `burning_of_condemned_writings` | Burning of condemned writings | needs_human_review | `sacred_knowledge` Sacred Knowledge and Wisdom | low | low confidence |
 | `burning_or_disposal_of_anthropomorphic_effigy_at_midsummer` | burning or disposal of anthropomorphic effigy at midsummer | map_to_existing_group | `sacred_time` Sacred Time and Ritual Cycle | medium | already mapped in main taxonomy |
 | `burning_the_camp_to_erase_pursuit_tracks` | burning the camp to erase pursuit tracks | exclude_from_pattern_queries | ``  | medium | suggested exclusion |
@@ -517,6 +537,7 @@ Policy: auto-accept medium-or-high-confidence `map_to_existing_group` suggestion
 | `cancellation_of_a_soul_to_avert_accumulated_anguish` | cancellation of a soul to avert accumulated anguish | needs_human_review | ``  | low | low confidence |
 | `cannibal_giant_in_a_castle_of_bones` | Cannibal giant in a castle of bones | needs_human_review | `threshold_guardian` Threshold Guardian | low | low confidence |
 | `cannibal_monster_s_hidden_lair` | Cannibal monster’s hidden lair | new_group_candidate | `` Monster Lair and Devouring Threat | medium | new group candidate |
+| `cannibal_predator_in_elevated_tree_dwelling_defeated_by_hidden_fire` | Cannibal predator in elevated tree dwelling defeated by hidden fire | needs_human_review | `sacred_fire` Sacred Fire and Divine Light | low | low confidence |
 | `captive_as_foreshadowed_doom_of_captor` | captive as foreshadowed doom of captor | map_to_existing_group | `divine_judgment` Divine Judgment and Moral Reckoning | medium | already mapped in main taxonomy |
 | `captive_herd_enclosed_for_royal_hunting` | captive herd enclosed for royal hunting | needs_human_review | `royal_legitimacy` Royal Legitimacy and Sacred Kingship | low | low confidence |
 | `captive_maiden_taken_from_sanctuary_and_failed_rescue` | Captive maiden taken from sanctuary and failed rescue | needs_human_review | ``  | low | low confidence |
@@ -532,6 +553,7 @@ Policy: auto-accept medium-or-high-confidence `map_to_existing_group` suggestion
 | `captives_in_a_distant_foreign_place` | captives in a distant foreign place | needs_human_review | `journey_quest_homecoming`  | low | low confidence |
 | `captives_reclaimed_after_killing_their_captors` | Captives reclaimed after killing their captors | map_to_existing_group | `sacred_combat` Sacred Combat and Ritual Warfare | medium | already mapped in main taxonomy |
 | `captivity_and_refuge_as_image_of_status_change` | Captivity and refuge as image of status change | map_to_existing_group | `initiation` Initiation and Transformative Ordeal | low | low confidence |
+| `captivity_contrasted_with_freedom_in_trees_and_forest` | Captivity contrasted with freedom in trees and forest | needs_human_review | `mystical_quest` Mystical Quest and Interior Journey | low | low confidence |
 | `captor_from_across_the_waves` | Captor from across the waves | needs_human_review | ``  | low | low confidence |
 | `capture_caused_by_revealing_voice` | capture caused by revealing voice | map_to_existing_group | `sacred_knowledge` Sacred Knowledge and Wisdom | low | low confidence |
 | `capture_of_divine_horses_as_battle_spoil` | Capture of divine horses as battle spoil | map_to_existing_group | `sacred_combat` Sacred Combat and Ritual Warfare | medium | already mapped in main taxonomy |
@@ -550,6 +572,7 @@ Policy: auto-accept medium-or-high-confidence `map_to_existing_group` suggestion
 | `catalogue_of_named_combat_deaths` | catalogue of named combat deaths | exclude_from_pattern_queries | `_meta_textual` Textual and Scholarly Artifacts | high | suggested exclusion |
 | `catalogue_of_tale_telling_locations` | catalogue of tale-telling locations | exclude_from_pattern_queries | `_meta_textual` Textual and Scholarly Artifacts | high | suggested exclusion |
 | `catasterism_from_severed_body_part` | catasterism from severed body part | map_to_existing_group | `death_and_transformation` Death, Rebirth, and Transformation | high | already mapped in main taxonomy |
+| `catching_entangling_or_detaining_the_sun` | Catching, entangling, or detaining the sun | new_group_candidate | `` Solar Capture and Celestial Control | medium | new group candidate |
 | `cattle_demand_as_trigger_in_a_cattle_driving_narrative` | Cattle-demand as trigger in a cattle-driving narrative | map_to_existing_group | `sacred_combat` Sacred Combat and Ritual Warfare | medium | already mapped in main taxonomy |
 | `cattle_driving_narrative_frame` | cattle-driving narrative frame | map_to_existing_group | `sacred_combat` Sacred Combat and Ritual Warfare | medium | already mapped in main taxonomy |
 | `cattle_raid` | cattle raid | map_to_existing_group | `sacred_combat` Sacred Combat and Ritual Warfare | high | already mapped in main taxonomy |
@@ -562,6 +585,7 @@ Policy: auto-accept medium-or-high-confidence `map_to_existing_group` suggestion
 | `cattle_raid_resolved_by_treaty_and_restitution` | Cattle raid resolved by treaty and restitution | map_to_existing_group | `sacred_combat` Sacred Combat and Ritual Warfare | medium | already mapped in main taxonomy |
 | `cave_as_titled_sacred_or_narrative_setting` | cave as titled sacred or narrative setting | exclude_from_pattern_queries | `_meta_textual` Textual and Scholarly Artifacts | medium | suggested exclusion |
 | `cave_pursuit_of_a_fugitive_enemy` | Cave pursuit of a fugitive enemy | map_to_existing_group | `descent` Descent and Underworld Journey | medium | already mapped in main taxonomy |
+| `cave_refuge_during_flight_and_danger` | cave refuge during flight and danger | needs_human_review | `ark_vessel` Ark Or Preserving Vessel | low | low confidence |
 | `caves_consecrated_to_a_pastoral_god` | caves consecrated to a pastoral god | map_to_existing_group | `axis_mundi` World Axis and Sacred Center | low | low confidence |
 | `celestial_and_monstrous_beings_taxonomy` | celestial and monstrous beings taxonomy | exclude_from_pattern_queries | `_meta_textual` Textual and Scholarly Artifacts | high | suggested exclusion |
 | `celestial_armor_for_the_hero` | celestial armor for the hero | map_to_existing_group | `sacred_treasures` Sacred Treasures and Power Objects | high | already mapped in main taxonomy |
@@ -578,6 +602,7 @@ Policy: auto-accept medium-or-high-confidence `map_to_existing_group` suggestion
 | `celestial_pursuit_by_wolves` | Celestial pursuit by wolves | map_to_existing_group | `chaos` Chaos | medium | suggested group is not present in main taxonomy |
 | `celestial_reassurance_in_leaving_home` | Celestial reassurance in leaving home | map_to_existing_group | `hero_journey` The Hero's Journey | medium | already mapped in main taxonomy |
 | `celestial_sign_at_the_death_of_a_powerful_doctor` | celestial sign at the death of a powerful doctor | map_to_existing_group | `dream_and_vision` Dream, Vision, and Altered Perception | medium | already mapped in main taxonomy |
+| `celestial_simile_for_earthly_firelight` | celestial simile for earthly firelight | exclude_from_pattern_queries | `_meta_textual` Textual and Scholarly Artifacts | high | suggested exclusion |
 | `celestial_war_god_borne_through_the_heavens` | Celestial war god borne through the heavens | map_to_existing_group | `divine_warrior` Divine Warrior and Sacred Combat | medium | already mapped in main taxonomy |
 | `celestial_women_sent_to_disrupt_ascetic_vows` | celestial women sent to disrupt ascetic vows | map_to_existing_group | `mystical_quest` Mystical Quest and Interior Journey | medium | already mapped in main taxonomy |
 | `central_temple_cult_image_surrounded_by_other_divine_images` | Central temple cult image surrounded by other divine images | map_to_existing_group | `axis_mundi` World Axis and Sacred Center | low | low confidence |
@@ -590,15 +615,5 @@ Policy: auto-accept medium-or-high-confidence `map_to_existing_group` suggestion
 | `challenge_to_powerless_idols` | Challenge to powerless idols | map_to_existing_group | `divine_judgment` Divine Judgment and Moral Reckoning | medium | already mapped in main taxonomy |
 | `challenge_to_prophetic_legitimacy_through_sexual_or_familial_conduct` | Challenge to prophetic legitimacy through sexual or familial conduct | needs_human_review | ``  | low | low confidence |
 | `challenge_to_renewed_combat_at_an_appointed_time_and_place` | Challenge to renewed combat at an appointed time and place | map_to_existing_group | `sacred_combat` Sacred Combat and Ritual Warfare | high | already mapped in main taxonomy |
-| `challenger_seeks_a_worthy_combatant` | challenger seeks a worthy combatant | map_to_existing_group | `sacred_combat` Sacred Combat and Ritual Warfare | medium | already mapped in main taxonomy |
-| `challengers_humiliated_by_prior_defeats_recalled_in_public` | Challengers humiliated by prior defeats recalled in public | map_to_existing_group | `sacred_combat` Sacred Combat and Ritual Warfare | low | low confidence |
-| `champion_challenge_followed_by_prolonged_duel_and_beheading` | Champion challenge followed by prolonged duel and beheading | map_to_existing_group | `sacred_combat` Sacred Combat and Ritual Warfare | high | already mapped in main taxonomy |
-| `champion_combat_against_the_enemy_s_best_fighter` | Champion combat against the enemy's best fighter | map_to_existing_group | `sacred_combat` Sacred Combat and Ritual Warfare | high | already mapped in main taxonomy |
-| `champion_consumes_prodigious_portion` | champion consumes prodigious portion | needs_human_review | ``  | low | low confidence |
-| `champion_duel_ending_in_beheading` | Champion duel ending in beheading | map_to_existing_group | `sacred_combat` Sacred Combat and Ritual Warfare | high | already mapped in main taxonomy |
-| `champion_envoys_before_battle` | champion envoys before battle | map_to_existing_group | `sacred_combat` Sacred Combat and Ritual Warfare | medium | already mapped in main taxonomy |
-| `champion_recruited_with_reward_to_fight_the_hero` | Champion recruited with reward to fight the hero | map_to_existing_group | `sacred_combat` Sacred Combat and Ritual Warfare | medium | already mapped in main taxonomy |
-| `champion_s_prolonged_single_combat_ending_in_beheading` | champion's prolonged single combat ending in beheading | map_to_existing_group | `sacred_combat` Sacred Combat and Ritual Warfare | medium | already mapped in main taxonomy |
-| `champion_s_protection_vow` | champion's protection vow | map_to_existing_group | `covenant` Covenant and Sacred Bond | medium | already mapped in main taxonomy |
 
-_Showing first 500 of 5079 review rows._
+_Showing first 500 of 5204 review rows._

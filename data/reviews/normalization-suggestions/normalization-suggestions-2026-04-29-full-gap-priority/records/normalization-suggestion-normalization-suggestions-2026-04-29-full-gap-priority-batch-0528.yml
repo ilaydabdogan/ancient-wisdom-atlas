@@ -1,0 +1,287 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0528
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.unresolved-heroic-quarrel-persists-after-death
+  motif_id: unresolved_heroic_quarrel_persists_after_death
+  label: unresolved heroic quarrel persists after death
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: functional_variant
+  confidence: medium
+  rationale: A quarrel continuing beyond death functions as unresolved heroic grief,
+    honor, and tragic recognition rather than resurrection or afterlife navigation.
+  cautions: Single Greek occurrence; if the passage emphasizes underworld encounter
+    mechanics, descent or afterlife_passage may be secondary.
+  suggested_aliases:
+  - postmortem heroic quarrel
+  - quarrel persisting after death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unwelcome-death-prognosis-punished-by-patient
+  motif_id: unwelcome_death_prognosis_punished_by_patient
+  label: unwelcome death prognosis punished by patient
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label reads like a highly contextual episode about reacting to a
+    death prediction, not a clear death or fate motif without passage evidence.
+  cautions: Could fit death_by_fate, divine_judgment, pride_and_downfall, or be an
+    episode artifact; review source context before indexing.
+  suggested_aliases:
+  - punishment of bearer of death prognosis
+  - hostile response to death prediction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.vain-augury-before-unavoidable-death
+  motif_id: vain_augury_before_unavoidable_death
+  label: vain augury before unavoidable death
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: functional_variant
+  confidence: high
+  rationale: Augury proves unable to avert a destined death, matching death understood
+    as unavoidable fate.
+  cautions: If the focus is divination practice rather than fatal inevitability, dream_and_vision
+    or sacred_knowledge may also be relevant.
+  suggested_aliases:
+  - unavoidable death foretold by augury
+  - vain divination before fated death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.variant-ancestral-genealogy
+  motif_id: variant_ancestral_genealogy
+  label: variant ancestral genealogy
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: death_descent_afterlife
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The word 'variant' signals a textual or comparative genealogy note rather
+    than a symbolic motif.
+  cautions: If a source passage narrates sacred ancestry or divine race descent, preserve
+    that separately under royal_legitimacy, divine_race, or miraculous_child as appropriate.
+  suggested_aliases:
+  - genealogical variant
+  - variant genealogy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.variant-deaths-after-vengeance-palace-fire-ship-and-sea
+  motif_id: variant_deaths_after_vengeance_palace_fire_ship_and_sea
+  label: 'variant deaths after vengeance: palace fire, ship, and sea'
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: death_descent_afterlife
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label foregrounds variant death details across a vengeance episode,
+    suggesting a passage or redaction artifact.
+  cautions: If the narrative function is vengeance restoring honor, sacred_combat
+    or divine_warrior may be better; if world/order-consuming fire is central, consider
+    flood_and_renewal only with broader catastrophe evidence.
+  suggested_aliases:
+  - variant vengeance deaths
+  - alternate deaths after vengeance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.variant-heroic-death-attribution
+  motif_id: variant_heroic_death_attribution
+  label: variant heroic death attribution
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This appears to describe a variant attribution of how a hero died, not
+    a reusable narrative motif.
+  cautions: If the source states death is assigned by fate or divine agency, index
+    that evidence separately under death_by_fate or divine_judgment.
+  suggested_aliases:
+  - alternate heroic death attribution
+  - variant account of hero death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.varied-warrior-deaths-in-battle-description
+  motif_id: varied_warrior_deaths_in_battle_description
+  label: varied warrior deaths in battle description
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The content concerns warrior deaths in battle, already covered as a child
+    area under divine_warrior.
+  cautions: The phrasing may be descriptive cataloguing rather than a motif; if it
+    is only battle narration, exclude or keep as evidence detail.
+  suggested_aliases:
+  - warrior deaths in battle
+  - battle death catalogue
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.vengeance-against-the-dead-through-the-corpse
+  motif_id: vengeance_against_the_dead_through_the_corpse
+  label: Vengeance against the dead through the corpse
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: functional_variant
+  confidence: medium
+  rationale: Abuse or treatment of a corpse after death directly concerns heroic mortuary
+    honor and memorial order.
+  cautions: Could also involve sacred_combat or lament_and_mourning if the emphasis
+    is rage, honor conflict, or grief rather than funerary violation.
+  suggested_aliases:
+  - corpse vengeance
+  - vengeance through corpse abuse
+  - postmortem dishonor of enemy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.vengeance-killing-after-a-companion-s-death
+  motif_id: vengeance_killing_after_a_companion_s_death
+  label: vengeance killing after a companion's death
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: high
+  rationale: Killing in revenge for a fallen companion belongs to heroic warrior combat
+    and honor after battlefield death.
+  cautions: If the passage centers on grief rather than combat action, lament_and_mourning
+    may be a useful secondary mapping.
+  suggested_aliases:
+  - revenge for fallen companion
+  - companion death vengeance killing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.vengeance-killing-and-exchange-of-the-dead
+  motif_id: vengeance_killing_and_exchange_of_the_dead
+  label: Vengeance killing and exchange of the dead
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: functional_variant
+  confidence: medium
+  rationale: The exchange of dead bodies after vengeance concerns mortuary handling,
+    honor, and social repair after heroic death.
+  cautions: Could be split between divine_warrior for vengeance killing and heroic_funeral_rites
+    for corpse exchange; source evidence should decide primary placement.
+  suggested_aliases:
+  - exchange of the dead after vengeance
+  - vengeance and corpse exchange
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch contain 'variant' and appear to be textual or comparative
+  artifacts rather than motifs; exclude unless source passages provide reusable narrative
+  functions.
+- Vengeance and corpse-treatment labels cluster around Greek heroic combat and mortuary
+  honor; consider whether future review needs a narrower child under heroic_funeral_rites
+  for corpse dishonor/exchange.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai
+  reviewed_at: ''
+  notes: Provisional suggestions only; human review should verify passage context,
+    especially for single-occurrence and variant-labeled items.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0528
+  input_sha256: '09b19e38b7628d3ca949ae4e80bac140e0fc79f9e2fd7764a7009a5144918ac5'

@@ -6,12 +6,12 @@ This is a review artifact. It does not modify `taxonomy/motif-normalization.yml`
 
 ## Summary
 
-- Suggestions reviewed: 5160
-- Accepted draft mappings: 161
-- New canonical group candidates: 82
-- Low-confidence / needs human review: 1339
-- Suggested exclusions: 286
-- Already known in base normalization: 3374
+- Suggestions reviewed: 5300
+- Accepted draft mappings: 164
+- New canonical group candidates: 85
+- Low-confidence / needs human review: 1370
+- Suggested exclusions: 296
+- Already known in base normalization: 3470
 
 ## New Group Candidates
 
@@ -23,6 +23,7 @@ This is a review artifact. It does not modify `taxonomy/motif-normalization.yml`
 | `animal_source_of_abundance` | Animal Source of Abundance | 1 | Existing groups cover fertility, exchange, and power objects, but do not directly capture provision or inexhaustible abundance mediated by an animal. |
 | `animal_supernatural_helpers` | Animal and Supernatural Helpers | 1 | Existing groups cover divine intervention and heroic journey broadly, but not the recurring narrative role of nonhuman helper alliances. |
 | `animated_images_artificial_life` | Animated Images and Artificial Life | 5 | Existing groups cover sacred craft, treasures, vessels, and idols, but not the specific function of artificial or cultic objects becoming animate. |
+| `apocalyptic_barrier` | Apocalyptic Barrier and Restrained Chaos | 1 | Threshold_guardian focuses on figures guarding passage, while divine_judgment is too broad; this motif centers on a constructed or divinely sanctioned barrier that contains apocalyptic chaos until the end time. |
 | `artificial_human_animation` | Artificial Human and Animation | 1 | Existing groups cover creation, craft, and transformation broadly, but do not isolate the recurring made-body animation problem. |
 | `artificially_created_being` | Artificially Created Being | 1 | Existing groups cover sacred birth, craft, and divine gifts, but not the distinct creation of an artificial humanlike being endowed with life or qualities. |
 | `betrayal_violated_trust` | Betrayal and Violated Trust | 2 | Existing groups cover reciprocity, law, and judgment, but not the narrative rupture of trust itself across protector, guest, kin, duty, and feast betrayal patterns. |
@@ -37,6 +38,7 @@ This is a review artifact. It does not modify `taxonomy/motif-normalization.yml`
 | `denied_burial` | Denied Burial and Corpse Exposure | 3 | Existing heroic_funeral_rites covers honoring and memorialization of the dead, but these labels center on the inverse pattern: denial, exposure, and dishonor. |
 | `divine_ecstasy` | Divine Ecstasy and Sacred Revelry | 1 | Existing groups cover divine action, sacrifice, and sacred exchange but do not preserve the distinctive ecstatic-revelry function of divine retinues and cultic frenzy. |
 | `divine_incarnation` | Divine Incarnation and Embodiment | 3 | Existing theophany covers manifestation, but not the specific pattern of divine presence taking human embodiment or possession-like mediation. |
+| `earthquake_etiology` | Earthquake Etiology and Subterranean Being | 1 | Existing groups include creation, chaos, and primordial body transformation, but not recurring etiologies for earth movement caused by living or bound beings. |
 | `eclipse_monster` | Eclipse Monster and Devouring Celestial Bodies | 1 | Existing chaos and serpent groups capture broad disorder or serpent symbolism, but not the specific celestial-eclipse function. |
 | `enchanted_music` | Enchanted Music and Compulsion | 3 | Existing groups include sacred song as wisdom expression and lethal singers as threshold guardians, but not the broader recurring function of music as enchantment or coercive magic. |
 | `enchanted_music_sound_power` | Enchanted Music and Sound Power | 1 | Existing sacred_song emphasizes mystical/devotional expression, while storytelling_as_power emphasizes narrative; neither clearly covers music as direct magical compulsion or enchantment. |
@@ -87,6 +89,7 @@ This is a review artifact. It does not modify `taxonomy/motif-normalization.yml`
 | `sacred_animals` | Sacred Animals and Divine Embodiment | 1 | Existing groups cover transformation, serpents, and divine intervention but not stable sacred embodiment or distributed divine presence in animal species. |
 | `saintly_shrine_relic_devotion` | Saintly Shrine and Relic Devotion | 1 | Existing groups cover power objects, ancestor rites, and intervention, but not the combined ritual complex of saintly tomb/relic veneration and devotional access to blessing. |
 | `saintly_tomb_pilgrimage` | Saintly Tomb and Pilgrimage Center | 1 | Existing groups cover ancestor rites, heroic funerals, and sacred centers, but not recurring shrine pilgrimage to a saintly tomb as an active devotional locus. |
+| `solar_capture` | Solar Capture and Celestial Control | 1 | Existing groups cover cosmic origin and sacred time but not narrative acts that physically restrain or control celestial bodies. |
 | `solar_chariot` | Solar Chariot and Celestial Vehicle | 1 | Existing groups cover ascent, fire/light, and sacred objects, but not the cosmological function of a celestial vehicle carrying the sun or divine light through ordered time. |
 | `solar_deity_cosmic_order` | Solar Deity and Cosmic Order | 2 | Existing groups cover sacred fire/light or sovereignty broadly, but not the recurring solar role as cosmological sustainer and regulator. |
 | `soul_location_body_anthropology` | Soul Location and Body-Soul Anthropology | 1 | Existing external_soul covers life kept outside the body, while this label concerns embodied soul-location or vital anthropology. |
@@ -188,6 +191,7 @@ This is a review artifact. It does not modify `taxonomy/motif-normalization.yml`
 | `blessing_and_anger_as_channels_of_saintly_power` | Blessing and anger as channels of saintly power | needs_human_review | ``  | low | low confidence |
 | `blessing_of_the_wedding_feast_and_community` | Blessing of the wedding feast and community | map_to_existing_group | `sacred_marriage` Sacred Marriage | medium | suggested existing group is not present |
 | `blood_as_promised_satisfaction_for_injury` | blood as promised satisfaction for injury | needs_human_review | `sacred_combat` Sacred Combat and Ritual Warfare | low | low confidence |
+| `blood_forming_a_river` | Blood forming a river | needs_human_review | ``  | low | low confidence |
 | `blood_omen_in_an_abandoned_object` | blood omen in an abandoned object | needs_human_review | `dream_and_vision` Dream, Vision, and Altered Perception | low | low confidence |
 | `blood_stained_token_falsely_indicating_death` | blood-stained token falsely indicating death | map_to_existing_group | `sacred_treasures` Sacred Treasures and Power Objects | low | low confidence |
 | `bloodless_execution_of_sacred_royalty` | bloodless execution of sacred royalty | needs_human_review | `royal_legitimacy` Royal Legitimacy and Sacred Kingship | low | low confidence |
@@ -200,11 +204,13 @@ This is a review artifact. It does not modify `taxonomy/motif-normalization.yml`
 | `bold_beggar_rewarded_and_warned` | Bold beggar rewarded and warned | needs_human_review | ``  | low | low confidence |
 | `boons_satisfied_before_formal_homage` | boons satisfied before formal homage | needs_human_review | `royal_legitimacy` Royal Legitimacy and Sacred Kingship | low | low confidence |
 | `borrowed_finery_exposed` | borrowed finery exposed | needs_human_review | `pride_and_downfall` Pride, Hubris, and Downfall | low | low confidence |
+| `broken_treasure_enriches_the_waters` | Broken treasure enriches the waters | needs_human_review | `sacred_waters` Sacred Waters and Passage Through Water | low | low confidence |
 | `burden_of_toil` | burden of toil | needs_human_review | `divine_judgment` Divine Judgment and Moral Reckoning | low | low confidence |
 | `burial_creates_or_explains_a_place_name` | burial creates or explains a place-name | needs_human_review | ``  | low | low confidence |
 | `burning_of_condemned_writings` | Burning of condemned writings | needs_human_review | `sacred_knowledge` Sacred Knowledge and Wisdom | low | low confidence |
 | `cancellation_of_a_soul_to_avert_accumulated_anguish` | cancellation of a soul to avert accumulated anguish | needs_human_review | ``  | low | low confidence |
 | `cannibal_giant_in_a_castle_of_bones` | Cannibal giant in a castle of bones | needs_human_review | `threshold_guardian` Threshold Guardian | low | low confidence |
+| `cannibal_predator_in_elevated_tree_dwelling_defeated_by_hidden_fire` | Cannibal predator in elevated tree dwelling defeated by hidden fire | needs_human_review | `sacred_fire` Sacred Fire and Divine Light | low | low confidence |
 | `captive_herd_enclosed_for_royal_hunting` | captive herd enclosed for royal hunting | needs_human_review | `royal_legitimacy` Royal Legitimacy and Sacred Kingship | low | low confidence |
 | `captive_maiden_taken_from_sanctuary_and_failed_rescue` | Captive maiden taken from sanctuary and failed rescue | needs_human_review | ``  | low | low confidence |
 | `captive_royal_woman_preserves_dignity_before_death` | Captive royal woman preserves dignity before death | map_to_existing_group | `royal_legitimacy` Royal Legitimacy and Sacred Kingship | low | low confidence |
@@ -212,11 +218,13 @@ This is a review artifact. It does not modify `taxonomy/motif-normalization.yml`
 | `captive_treated_with_guarded_luxury` | captive treated with guarded luxury | map_to_existing_group | `sacred_love` Sacred Love and Longing | low | low confidence |
 | `captives_in_a_distant_foreign_place` | captives in a distant foreign place | needs_human_review | `journey_quest_homecoming`  | low | low confidence |
 | `captivity_and_refuge_as_image_of_status_change` | Captivity and refuge as image of status change | map_to_existing_group | `initiation` Initiation and Transformative Ordeal | low | low confidence |
+| `captivity_contrasted_with_freedom_in_trees_and_forest` | Captivity contrasted with freedom in trees and forest | needs_human_review | `mystical_quest` Mystical Quest and Interior Journey | low | low confidence |
 | `captor_from_across_the_waves` | Captor from across the waves | needs_human_review | ``  | low | low confidence |
 | `capture_caused_by_revealing_voice` | capture caused by revealing voice | map_to_existing_group | `sacred_knowledge` Sacred Knowledge and Wisdom | low | low confidence |
 | `caretaker_harmed_by_those_he_cares_for` | caretaker harmed by those he cares for | needs_human_review | ``  | low | low confidence |
 | `carrier_mistaken_for_sacred_recipient` | Carrier mistaken for sacred recipient | needs_human_review | ``  | low | low confidence |
 | `carrion_bird_denies_revival_and_redirects_corpse_to_waters` | Carrion bird denies revival and redirects corpse to waters | needs_human_review | ``  | low | low confidence |
+| `cave_refuge_during_flight_and_danger` | cave refuge during flight and danger | needs_human_review | `ark_vessel` Ark Or Preserving Vessel | low | low confidence |
 | `caves_consecrated_to_a_pastoral_god` | caves consecrated to a pastoral god | map_to_existing_group | `axis_mundi` World Axis and Sacred Center | low | low confidence |
 | `celestial_musician` | celestial musician | map_to_existing_group | `sacred_knowledge` Sacred Knowledge and Wisdom | low | low confidence |
 | `celestial_or_atmospheric_female_beings` | celestial or atmospheric female beings | needs_human_review | ``  | low | low confidence |
@@ -599,13 +607,8 @@ This is a review artifact. It does not modify `taxonomy/motif-normalization.yml`
 | `former_existence_of_mankind` | Former existence of mankind | needs_human_review | ``  | low | low confidence |
 | `former_heroic_strength_contrasted_with_old_age` | Former heroic strength contrasted with old age | needs_human_review | `lament_and_mourning` Lament, Mourning, and Tragic Recognition | low | low confidence |
 | `fortification_after_loss_of_heroic_protection` | fortification after loss of heroic protection | needs_human_review | `sacred_combat` Sacred Combat and Ritual Warfare | low | low confidence |
-| `fortunate_removal_contrasted_with_failed_imitation` | Fortunate removal contrasted with failed imitation | needs_human_review | ``  | low | low confidence |
-| `fortune_as_unstable_wheel_or_ball` | fortune as unstable wheel or ball | map_to_existing_group | `death_by_fate` Death Attributed to Fate or Destiny | low | low confidence |
-| `four_differently_colored_enchanted_fish` | four differently colored enchanted fish | needs_human_review | ``  | low | low confidence |
-| `fragile_false_refuge` | Fragile false refuge | needs_human_review | ``  | low | low confidence |
-| `fraud_exposed_by_makers_of_the_false_treasure` | fraud exposed by makers of the false treasure | map_to_existing_group | `divine_judgment` Divine Judgment and Moral Reckoning | low | low confidence |
 
-_Showing first 500 of 1339 review rows._
+_Showing first 500 of 1370 review rows._
 
 ## Suggested Exclusions
 
@@ -619,6 +622,7 @@ _Showing first 500 of 1339 review rows._
 | `advance_delayed_for_reinforcements` | advance delayed for reinforcements | medium | The label appears to describe tactical plot logistics rather than a symbolic motif. |
 | `alarm_messenger_announces_enemy_advance` | alarm messenger announces enemy advance | medium | This reads as a tactical episode or plot-detail notification rather than a durable mythic motif. |
 | `alternate_traditional_ending_for_a_mythic_death` | alternate traditional ending for a mythic death | high | The label describes variant tradition or narrative transmission rather than the death motif itself. |
+| `ambush_in_narrow_wooded_mountain_pass` | ambush in narrow wooded mountain pass | medium | This reads as a tactical scene-setting detail rather than a stable symbolic motif in the current taxonomy. |
 | `ambush_of_the_enemy_spy` | ambush of the enemy spy | medium | An ambush of a spy is a tactical battle episode rather than a broad symbolic or narrative motif. |
 | `analogous_explanations_for_similar_body_cutting_customs` | Analogous explanations for similar body-cutting customs | high | The label describes comparative explanation of customs rather than a narrative or symbolic motif. |
 | `ancestral_heroic_memory_in_epic_formation` | Ancestral heroic memory in epic formation | high | The label describes how epic tradition is formed or remembered, not a narrative motif within the story world. |
@@ -649,6 +653,7 @@ _Showing first 500 of 1339 review rows._
 | `catalogue_of_tale_telling_locations` | catalogue of tale-telling locations | high | This describes a catalogue or setting list for narration rather than a narrative-symbolic motif. |
 | `cave_as_titled_sacred_or_narrative_setting` | cave as titled sacred or narrative setting | medium | The wording describes a title or narrative setting label rather than a clear recurring symbolic function of a cave. |
 | `celestial_and_monstrous_beings_taxonomy` | celestial and monstrous beings taxonomy | high | The label describes a classification or taxonomy of beings, not a narrative motif or symbolic action. |
+| `celestial_simile_for_earthly_firelight` | celestial simile for earthly firelight | high | The label describes a literary comparison rather than a narrative or symbolic motif. |
 | `christian_soundscape_replacing_heroic_past` | Christian soundscape replacing heroic past | medium | The wording reads as an interpretive observation about cultural or textual replacement rather than a discrete narrative motif. |
 | `coded_recognition_at_the_sickbed` | coded recognition at the sickbed | medium | The label reads as a highly specific scene device for recognition rather than a broad symbolic motif. |
 | `collective_traditional_formation_of_an_epic` | Collective traditional formation of an epic | high | This describes oral/textual formation of a work, not a narrative or symbolic motif within the tradition. |
@@ -850,6 +855,7 @@ _Showing first 500 of 1339 review rows._
 | `secret_revelry_exposed_by_excessive_illumination` | secret revelry exposed by excessive illumination | medium | The label reads as a highly specific plot mechanism rather than a reusable mythic motif. |
 | `separate_romance_cycles_later_connected_through_shared_figures` | Separate romance cycles later connected through shared figures | high | The label describes later literary cycle linkage and textual organization, not a narrative motif within the story world. |
 | `shared_introductory_story_across_multiple_j_takas` | shared introductory story across multiple Jātakas | high | The label describes reuse of an introductory frame across texts, not a symbolic or narrative motif itself. |
+| `single_combat_death_catalogue` | single-combat death catalogue | medium | The phrase reads like a literary catalogue or passage-structure label rather than a reusable symbolic motif. |
 | `skeptical_demythologizing_colophon` | skeptical demythologizing colophon | high | A colophon commenting skeptically on myth is a textual framing artifact, not a narrative motif. |
 | `sleeping_drunk_killed_without_awareness` | Sleeping drunk killed without awareness | medium | The label reads as an episode-specific manner of killing rather than a reusable mythic motif in the current taxonomy. |
 | `sleeping_women_after_royal_revelry` | sleeping women after royal revelry | medium | This reads as a scene detail after courtly revelry rather than a symbolic or narrative motif. |
@@ -867,7 +873,9 @@ _Showing first 500 of 1339 review rows._
 | `syncretic_identification_of_bacchus_with_osiris` | Syncretic identification of Bacchus with Osiris | high | The label describes interpretive syncretic identification between deities rather than a narrative or symbolic motif. |
 | `tale_migration_across_traditions` | tale migration across traditions | high | The label describes transmission or diffusion of a tale between traditions, not a narrative motif within the tale. |
 | `tale_migration_through_cultural_and_commercial_contact` | Tale migration through cultural and commercial contact | high | This is a historical-contact or transmission claim rather than a symbolic or narrative motif. |
+| `taunt_over_earthly_possession_at_death` | taunt over earthly possession at death | medium | The label sounds like an episode-specific speech act or moralizing detail rather than a reusable mythic motif. |
 | `tender_footed_goddess_as_poetic_comparison` | tender-footed goddess as poetic comparison | high | The phrase explicitly marks a poetic comparison rather than a recurring narrative or symbolic motif. |
+| `three_dog_epithet_or_descent_formula` | three-dog epithet or descent formula | high | The phrase 'epithet or descent formula' indicates a textual formula or classification note rather than a narrative motif. |
 | `tower_survey_of_enemy_champions` | Tower survey of enemy champions | medium | The label describes a highly specific scene-setting episode rather than a reusable mythic pattern. |
 | `traditional_skewered_meat_over_ashes` | traditional skewered meat over ashes | medium | The label reads as a culinary or ethnographic detail rather than a symbolic narrative motif. |
 | `transferred_corpse_causing_mistaken_guilt` | transferred corpse causing mistaken guilt | medium | The label describes a specific plot mechanism involving a corpse and mistaken guilt rather than a durable death or afterlife motif. |
@@ -883,13 +891,18 @@ _Showing first 500 of 1339 review rows._
 | `triadic_catalogue_of_warrior_groups` | triadic catalogue of warrior groups | medium | A catalogue form is likely a textual or compositional feature, not a symbolic motif for pattern queries. |
 | `triadic_warrior_praise` | triadic warrior praise | medium | The label appears to describe praise style or rhetorical structure rather than a narrative motif. |
 | `uncertain_founder_or_author_figure` | uncertain founder or author figure | high | The wording describes uncertainty about attribution or identity rather than a narrative motif. |
+| `variant_ancestral_genealogy` | variant ancestral genealogy | high | The word 'variant' signals a textual or comparative genealogy note rather than a symbolic motif. |
 | `variant_chronology_of_heroic_combat_tradition` | variant chronology of heroic combat tradition | high | The label describes variant chronology in a tradition, not a symbolic or narrative motif. |
+| `variant_deaths_after_vengeance_palace_fire_ship_and_sea` | variant deaths after vengeance: palace fire, ship, and sea | medium | The label foregrounds variant death details across a vengeance episode, suggesting a passage or redaction artifact. |
+| `variant_heroic_death_attribution` | variant heroic death attribution | high | This appears to describe a variant attribution of how a hero died, not a reusable narrative motif. |
 | `variant_literary_versions_from_a_shared_older_framework` | variant literary versions from a shared older framework | high | The label describes textual relationship or source criticism, not a narrative or symbolic motif. |
 | `variant_manuscript_alignment_of_a_hero` | variant manuscript alignment of a hero | high | This is about manuscript alignment or textual comparison, not a motif in the story world. |
 | `variant_rationalization_of_monster_as_human` | variant rationalization of monster as human | high | The label describes interpretive rationalization across variants rather than the monster motif itself. |
 | `victims_selected_by_bodily_fatness` | Victims selected by bodily fatness | medium | This appears to be a highly specific selection criterion within an episode rather than a reusable mythic motif. |
+| `violent_encounter_ending_in_death_by_arrow` | violent encounter ending in death by arrow | medium | The label describes a generic manner of death in a violent episode rather than a clear mythic function. |
 | `warrior_characterized_through_weapons_clothing_and_bodily_appearance` | warrior characterized through weapons, clothing, and bodily appearance | medium | This reads as a descriptive or characterization technique rather than a recurring narrative motif. |
 | `warrior_compared_to_a_boar_at_bay` | warrior compared to a boar at bay | high | This is likely a single simile or poetic image rather than a durable narrative motif. |
+| `warrior_compared_to_spirited_horse` | warrior compared to spirited horse | medium | This appears to be a simile or descriptive image rather than a durable narrative motif. |
 | `warrior_disables_chariot_before_killing_enemy` | warrior disables chariot before killing enemy | medium | This appears to be a tactical battle sequence detail rather than a broad mythic motif. |
 | `warrior_killed_by_thrown_stone_and_finishing_thrust` | warrior killed by thrown stone and finishing thrust | medium | The label describes a precise combat death mechanism rather than a reusable mythic pattern. |
 | `wealth_measured_in_cattle` | wealth measured in cattle | medium | The label describes a culturally specific wealth metric rather than a narrative or symbolic motif. |
@@ -898,4 +911,4 @@ _Showing first 500 of 1339 review rows._
 | `woman_enters_domestic_meal_with_textile_tool` | woman enters domestic meal with textile tool | medium | The label reads as an episode-specific domestic staging detail rather than a reusable symbolic motif. |
 | `wound_catalogue_reveals_sequence_of_attackers` | wound catalogue reveals sequence of attackers | medium | The label sounds like a narrative or analytic cataloguing device rather than a symbolic motif. |
 
-_Showing first 286 of 286 exclusion rows._
+_Showing first 296 of 296 exclusion rows._
