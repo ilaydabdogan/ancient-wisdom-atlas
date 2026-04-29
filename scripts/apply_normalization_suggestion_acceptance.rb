@@ -122,8 +122,14 @@ suggestions.sort_by { |suggestion| suggestion["motif_id"].to_s }.each do |sugges
   action = suggestion["suggested_action"].to_s
   confidence = suggestion["confidence"].to_s
   group_id = suggestion["suggested_group_id"].to_s
+  existing_raw_mapping = raw_index[motif_id]
 
-  if known_motifs[motif_id]
+  if existing_raw_mapping.is_a?(Hash) &&
+      existing_raw_mapping["review_status"].to_s == "model_auto_accepted_medium_or_high_confidence" &&
+      existing_raw_mapping["source"].to_s == relative_path(suggestions_path)
+    accepted << review_row(suggestion, "already auto-accepted from this run")
+    next
+  elsif known_motifs[motif_id]
     review_needed << review_row(suggestion, "already mapped in main taxonomy")
     next
   end

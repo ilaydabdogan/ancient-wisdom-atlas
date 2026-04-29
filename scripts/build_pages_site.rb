@@ -666,6 +666,8 @@ def build_taxonomy_family_pages(analyses)
   analysis_lookup = analyses.to_h { |analysis| [analysis.fetch(:group_id), analysis] }
   prototype_ids = analyses.first(5).map { |analysis| analysis.fetch(:group_id) }.to_set
   index_output = "taxonomy/families/index.html"
+  family_list_id = "taxonomy-family-list"
+  max_traditions = analyses.map { |analysis| analysis.fetch(:tradition_count).to_i }.max.to_i
 
   prototype_cards = analyses.first(5).map do |analysis|
     group = analysis.fetch(:group)
@@ -688,7 +690,7 @@ def build_taxonomy_family_pages(analyses)
       analysis.fetch(:child_motifs).map { |child| child[:label] }
     ].flatten.compact.join(" ")
     <<~HTML
-      <article class="list-row searchable" data-search="#{esc(search_text)}">
+      <article class="list-row searchable" data-search="#{esc(search_text)}" data-sort-item data-count="#{analysis.fetch(:occurrence_count).to_i}" data-label="#{esc(group["label"].to_s.downcase)}">
         <div>
           <span class="row-kicker">#{esc(group["id"])}#{prototype_ids.include?(analysis.fetch(:group_id)) ? " · prototype" : ""}</span>
           <h3><a href="#{esc(relative_url(index_output, taxonomy_family_output(group["id"])))}">#{esc(group["label"])}</a></h3>
@@ -705,12 +707,12 @@ def build_taxonomy_family_pages(analyses)
       <div class="stat"><strong>#{analyses.length}</strong><span>canonical families</span></div>
       <div class="stat"><strong>#{analyses.sum { |analysis| analysis.fetch(:occurrence_count) }}</strong><span>mapped occurrences</span></div>
       <div class="stat"><strong>#{analyses.sum { |analysis| analysis.fetch(:child_motifs).length }}</strong><span>mapped child motifs</span></div>
-      <div class="stat"><strong>#{analyses.first.fetch(:tradition_count)}</strong><span>max traditions in one family</span></div>
+      <div class="stat"><strong>#{max_traditions}</strong><span>max traditions in one family</span></div>
     </section>
 
     <section class="section">
       <div class="section-heading">
-        <h2>Richest Family Pages</h2>
+        <h2>Most Evidenced Family Pages</h2>
         <a href="#{relative_url(index_output, "taxonomy/constellation.html")}">Open constellation</a>
       </div>
       <div class="card-grid">#{prototype_cards}</div>
@@ -718,8 +720,14 @@ def build_taxonomy_family_pages(analyses)
 
     <section class="toolbar">
       <input type="search" class="search-input" placeholder="Search families, motifs, or traditions" data-search-target=".searchable">
+      <label class="sort-control">Sort
+        <select data-sort-control="##{esc(family_list_id)}">
+          <option value="count">Most occurrences</option>
+          <option value="alpha">Alphabetical</option>
+        </select>
+      </label>
     </section>
-    <section class="list-panel">#{family_rows}</section>
+    <section class="list-panel" id="#{esc(family_list_id)}">#{family_rows}</section>
   HTML
 
   write_page(index_output, layout(
@@ -1196,7 +1204,7 @@ def canonical_family_analyses(normalization, motif_index, timeline)
       timeline_entries: timeline_entries,
       date_range_label: timeline_range_label(timeline_entries)
     }
-  end.sort_by { |analysis| [-analysis[:tradition_count], -analysis[:occurrence_count], analysis[:group]["label"].to_s] }
+  end.sort_by { |analysis| [-analysis[:occurrence_count], -analysis[:tradition_count], analysis[:group]["label"].to_s] }
 end
 
 def family_tradition_summary(tradition, occurrences)
@@ -1995,7 +2003,7 @@ def build_taxonomy(normalization, proposed_review, motif_index, timeline)
 
     <section class="section">
       <div class="section-heading">
-        <h2>Core Cross-Tradition Families</h2>
+        <h2>Most Evidenced Families</h2>
         <a href="#{relative_url(current, "taxonomy/families/index.html")}">View all family pages</a>
       </div>
       <div class="taxonomy-core-grid">#{core_family_cards}</div>
