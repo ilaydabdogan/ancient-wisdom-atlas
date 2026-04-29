@@ -75,7 +75,7 @@ Build pattern pages that compare:
 
 Goal: make the repo usable for retrieval, graph analysis, and training.
 
-Planned exports:
+Planned generated exports:
 
 - `exports/atlas.jsonl` for model ingestion
 - `exports/sources.jsonl` for provenance and rights
@@ -83,7 +83,8 @@ Planned exports:
 - `exports/claims.jsonl` for comparison and graph edges
 - graph format for Neo4j, RDF, or network analysis
 
-The first JSONL exporter lives at `scripts/export_jsonl.rb`.
+JSONL exports are generated on demand with `ruby scripts/export_jsonl.rb` and
+are not committed to Git, because full-corpus artifacts grow quickly.
 
 ## Phase 6: Research Questions
 

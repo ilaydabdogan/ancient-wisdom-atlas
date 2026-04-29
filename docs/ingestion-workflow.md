@@ -81,4 +81,6 @@ Run:
 ruby scripts/check_all.rb
 ```
 
-The export writes machine-readable JSONL files under `exports/`.
+The export writes machine-readable JSONL files under `exports/`. These files
+are generated on demand and are not committed to Git, because the full-corpus
+exports grow quickly as texts and extraction records are added.
