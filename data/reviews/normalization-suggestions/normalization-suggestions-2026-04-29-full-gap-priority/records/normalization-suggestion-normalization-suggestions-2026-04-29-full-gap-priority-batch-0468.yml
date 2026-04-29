@@ -1,0 +1,296 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0468
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.dangerous-exchange-between-spirits-and-humans
+  motif_id: dangerous_exchange_between_spirits_and_humans
+  label: dangerous exchange between spirits and humans
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on reciprocal exchange between humans and spirit powers,
+    with danger as the local inflection.
+  cautions: May fit divine_intervention, otherworld, or spirit-affliction/expulsion
+    if the passage emphasizes spirit agency or harm rather than exchange.
+  suggested_aliases:
+  - dangerous spirit-human exchange
+  - perilous exchange with spirits
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dead-ancestor-or-master-gives-counsel
+  motif_id: dead_ancestor_or_master_gives_counsel
+  label: Dead ancestor or master gives counsel
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: role_variant
+  confidence: medium
+  rationale: A dead ancestor or master functions as a source of counsel and transmitted
+    wisdom.
+  cautions: If the source context is ritual care of ancestors, map secondarily to
+    ancestor_rites; if it occurs during a journey among the dead, afterlife_passage
+    or descent may be relevant.
+  suggested_aliases:
+  - dead master gives counsel
+  - ancestral counsel from the dead
+  - postmortem teacher
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dead-beloved-s-grave-affected-by-the-living-beloved-s-emotions
+  motif_id: dead_beloved_s_grave_affected_by_the_living_beloved_s_emotions
+  label: Dead beloved's grave affected by the living beloved's emotions
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The motif links love or grief across the boundary of death, with the
+    grave responding to the living beloved.
+  cautions: Highly specific single occurrence; if the passage emphasizes mourning
+    more than love, lament_and_mourning may be the better group.
+  suggested_aliases:
+  - grave responds to beloved's emotions
+  - love affecting the beloved's grave
+  - emotion crossing death boundary
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dead-companions-linked-by-facing-mounds-across-water
+  motif_id: dead_companions_linked_by_facing_mounds_across_water
+  label: dead companions linked by facing mounds across water
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Facing burial mounds create a memorial arrangement preserving the relation
+    between dead companions.
+  cautions: May be too site-specific for broad pattern queries; water symbolism could
+    matter if the passage frames water as a boundary between the dead.
+  suggested_aliases:
+  - facing burial mounds across water
+  - companion mounds facing each other
+  - burial mounds linking dead companions
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dead-god-or-ruler-preserved-in-mound-to-maintain-prosperity
+  motif_id: dead_god_or_ruler_preserved_in_mound_to_maintain_prosperity
+  label: dead god or ruler preserved in mound to maintain prosperity
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: The preserved dead ruler or god continues to sustain communal prosperity
+    and sacred political order.
+  cautions: Could also relate to ancestor_rites or sacred_time/seasonal fertility
+    depending on whether ongoing cult, burial care, or prosperity cycle is emphasized.
+  suggested_aliases:
+  - preserved ruler in mound sustains prosperity
+  - dead king in mound maintains fertility
+  - mound-preserved sovereign
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dead-kin-imagined-in-the-sky
+  motif_id: dead_kin_imagined_in_the_sky
+  label: dead kin imagined in the sky
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: afterlife_passage
+  suggested_group_label: Afterlife Navigation and Passage
+  relationship: symbolic_variant
+  confidence: low
+  rationale: The label suggests a postmortem location or destiny for kin in a celestial
+    realm.
+  cautions: Without passage evidence, this may be a general afterlife image, ancestor
+    belief, or poetic metaphor; avoid mapping to ascent unless an actual upward journey
+    is described.
+  suggested_aliases:
+  - dead kin in the sky
+  - celestial dead relatives
+  - ancestors imagined above
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dead-king-among-the-blessed
+  motif_id: dead_king_among_the_blessed
+  label: dead king among the blessed
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: afterlife_passage
+  suggested_group_label: Afterlife Navigation and Passage
+  relationship: narrower_than
+  confidence: medium
+  rationale: A dead king located among the blessed describes postmortem status or
+    destination in an afterlife realm.
+  cautions: If the emphasis is royal sanctification or legitimacy rather than afterlife
+    geography, royal_legitimacy may be a secondary mapping.
+  suggested_aliases:
+  - king among the blessed dead
+  - blessed afterlife of the king
+  - dead ruler in blessed realm
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dead-prey-used-as-protective-substitute
+  motif_id: dead_prey_used_as_protective_substitute
+  label: dead prey used as protective substitute
+  occurrences: 1
+  traditions:
+  - indigenous_australian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: low
+  rationale: A dead prey animal used as a protective substitute resembles substitutionary
+    offering or transfer of danger.
+  cautions: Culturally sensitive and context-dependent; could be hunting ritual, apotropaic
+    protection, ritual transfer, or an over-specific ethnographic detail.
+  suggested_aliases:
+  - protective substitute prey
+  - dead animal as substitute protection
+  - substitutionary prey offering
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dead-ruler-still-looking-toward-lost-possessions
+  motif_id: dead_ruler_still_looking_toward_lost_possessions
+  label: Dead ruler still looking toward lost possessions
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: symbolic_variant
+  confidence: low
+  rationale: The image reads as tragic recognition of loss persisting beyond death.
+  cautions: May be a passage-specific literary image rather than a recurring motif;
+    if it critiques attachment or kingship, pride_and_downfall or royal_legitimacy
+    may fit better.
+  suggested_aliases:
+  - dead ruler gazes at lost possessions
+  - postmortem attachment to possessions
+  - dead king looking toward lost wealth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deadly-boundary-against-further-negotiation
+  motif_id: deadly_boundary_against_further_negotiation
+  label: deadly boundary against further negotiation
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: uncertain
+  confidence: low
+  rationale: The wording suggests a lethal threshold or limit that prevents passage
+    or continued exchange.
+  cautions: Ambiguous and possibly episode-specific; could be a combat boundary, legal/social
+    limit, underworld threshold, or narrative-resolution detail depending on source
+    context.
+  suggested_aliases:
+  - lethal negotiation boundary
+  - deadly limit to bargaining
+  - fatal threshold against negotiation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- All items are single-occurrence labels, so placements should be treated as provisional
+  evidence-level mappings rather than taxonomy changes.
+- Several death-related labels may require secondary mappings after source review,
+  especially where mourning, afterlife status, ancestor agency, and royal legitimacy
+  overlap.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Provisional batch suggestions generated for unmapped death/descent/afterlife
+    motifs.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0468
+  input_sha256: dd6f2a2d4f2ef1c7384147f53e1b71fe1726f8eef176ae1b3d77c9fce4dde6bf

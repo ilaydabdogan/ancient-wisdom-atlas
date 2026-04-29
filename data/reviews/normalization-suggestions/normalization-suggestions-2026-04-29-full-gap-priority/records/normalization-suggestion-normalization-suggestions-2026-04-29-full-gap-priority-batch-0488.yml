@@ -1,0 +1,290 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0488
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.hero-restored-from-wound-and-returned-to-battle
+  motif_id: hero_restored_from_wound_and_returned_to_battle
+  label: hero restored from wound and returned to battle
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Restoration from a wound into renewed action fits death-adjacent recovery
+    and transformation rather than full resurrection.
+  cautions: May be better under divine_intervention or divine_warrior if healing agency
+    or battle role is central; single occurrence may be episode-specific.
+  suggested_aliases:
+  - heroic healing before renewed combat
+  - wounded hero restored to battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-s-death-by-named-coalition-of-opponents
+  motif_id: hero_s_death_by_named_coalition_of_opponents
+  label: Hero's death by named coalition of opponents
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: death_descent_afterlife
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label records a specific heroic death circumstance, with no broad
+    motif beyond battle death.
+  cautions: Preserve as evidence under warrior death or sacred combat if the coalition
+    has ritual, fated, or cosmic significance; otherwise too episode-specific for
+    broad queries.
+  suggested_aliases:
+  - hero slain by coalition
+  - heroic death by multiple named foes
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-s-later-death-in-a-great-war
+  motif_id: hero_s_later_death_in_a_great_war
+  label: hero's later death in a great war
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: death_descent_afterlife
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This reads as a narrative chronology note about where a hero dies, not
+    a reusable symbolic motif.
+  cautions: If the death is foretold, ritually framed, or tied to destiny, map instead
+    to death_by_fate or sacred_combat after source review.
+  suggested_aliases:
+  - hero dies in later war
+  - heroic death in great war
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-sent-against-a-deadly-adversary-to-bring-about-his-death
+  motif_id: hero_sent_against_a_deadly_adversary_to_bring_about_his_death
+  label: Hero sent against a deadly adversary to bring about his death
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on combat arranged as a death-dealing ordeal against
+    a dangerous opponent.
+  cautions: Could also fit divine_judgment, death_by_fate, or hero_journey if the
+    sending is punitive, fated, or initiatory; source agency matters.
+  suggested_aliases:
+  - hero dispatched to fatal combat
+  - deadly adversary as arranged heroic ordeal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-turns-toward-fated-death
+  motif_id: hero_turns_toward_fated_death
+  label: hero turns toward fated death
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: functional_variant
+  confidence: high
+  rationale: The label explicitly describes a hero knowingly orienting toward an assigned
+    or destined death.
+  cautions: May also involve sacrifice or warrior duty if the emphasis is willing
+    self-offering rather than fate.
+  suggested_aliases:
+  - hero accepts fated death
+  - turning toward destiny in death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-death-catalogue-in-battle
+  motif_id: heroic_death_catalogue_in_battle
+  label: Heroic death catalogue in battle
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: Catalogue describes a literary structuring device rather than a symbolic
+    motif in itself.
+  cautions: Individual deaths within the catalogue may still index under divine_warrior,
+    sacred_combat, death_by_fate, or lament_and_mourning.
+  suggested_aliases:
+  - battle death catalogue
+  - catalogue of heroic deaths
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-death-explains-place-name
+  motif_id: heroic_death_explains_place_name
+  label: heroic death explains place-name
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This combines heroic death with an etiological place-name explanation,
+    a function not cleanly represented in existing groups.
+  cautions: Could be a useful etiological motif if recurrent; otherwise it may be
+    a local place-name note too specific for pattern queries.
+  suggested_aliases:
+  - place-name etiology from heroic death
+  - toponym explained by hero death
+  suggested_new_group:
+    id: etiological_place_naming
+    label: Etiological Place Naming
+    description: A story explains the origin, name, or sacred significance of a place
+      through a mythic event, death, deed, or encounter.
+    parent_group_ids: []
+    related_group_ids:
+    - heroic_funeral_rites
+    - lament_and_mourning
+    - sacred_combat
+    reason_existing_groups_insufficient: Existing groups cover heroic death and memorialization,
+      but not the explanatory function of naming a landscape feature or place.
+- suggestion_id: normalization.suggestion.heroic-death-fixed-by-divine-and-mortal-agency
+  motif_id: heroic_death_fixed_by_divine_and_mortal_agency
+  label: heroic death fixed by divine and mortal agency
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: functional_variant
+  confidence: medium
+  rationale: A death fixed by powers beyond the hero aligns with destined death, especially
+    when divine agency is involved.
+  cautions: If the passage emphasizes judgment, conspiracy, or combat mechanics rather
+    than destiny, divine_judgment or sacred_combat may be secondary fits.
+  suggested_aliases:
+  - divinely fixed heroic death
+  - heroic death determined by gods and mortals
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-death-followed-by-funerary-honors
+  motif_id: heroic_death_followed_by_funerary_honors
+  label: Heroic death followed by funerary honors
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: functional_variant
+  confidence: high
+  rationale: The motif directly matches rites and honors performed after a hero's
+    death.
+  cautions: If honors include contests, tomb cult, or social restoration, preserve
+    those details as narrower evidence.
+  suggested_aliases:
+  - funerary honors after heroic death
+  - hero honored after death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-death-followed-by-keening-lament
+  motif_id: heroic_death_followed_by_keening_lament
+  label: Heroic death followed by keening lament
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: ritual_variant
+  confidence: high
+  rationale: Keening after a hero's death is a formal mourning response and fits lament
+    practices.
+  cautions: May also be relevant to heroic_funeral_rites if the keening is part of
+    a broader funerary sequence.
+  suggested_aliases:
+  - keening for dead hero
+  - heroic death lament
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence heroic death details; prefer
+  exclusion or broad grouping unless the source shows fate, ritual honor, lament,
+  or sacred combat function.
+- Do not treat battle death alone as death_rebirth, descent, or resurrection without
+  evidence of return, transformation, or afterlife passage.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai
+  reviewed_at: ''
+  notes: Provisional placements only; human review needed especially for etiological
+    place-name and episode-specific heroic death labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0488
+  input_sha256: a2bbc23e02d59a1471434567cdcdc3056952a596411100fc3f150572a784f697

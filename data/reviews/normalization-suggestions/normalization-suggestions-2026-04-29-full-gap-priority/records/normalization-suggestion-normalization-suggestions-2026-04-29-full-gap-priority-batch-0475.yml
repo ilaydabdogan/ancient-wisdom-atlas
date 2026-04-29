@@ -1,0 +1,336 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0475
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.deification-of-revered-ancestral-or-pious-figures-through-statues
+  motif_id: deification_of_revered_ancestral_or_pious_figures_through_statues
+  label: Deification of revered ancestral or pious figures through statues
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines ancestor/pious-figure veneration, deification, and
+    statues; it may be polemical, theological commentary, or a motif of idol formation.
+  cautions: Culturally sensitive and tradition-specific; verify passage evidence before
+    mapping to ancestor_rites, idol, sacred_treasures, or divine_judgment.
+  suggested_aliases:
+  - ancestor deification through images
+  - pious figures represented as divine statues
+  - statue-mediated deification
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - ancestor_rites
+    - sacred_treasures
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.delayed-maternal-return-rejected-by-violent-son
+  motif_id: delayed_maternal_return_rejected_by_violent_son
+  label: delayed maternal return rejected by violent son
+  occurrences: 1
+  traditions:
+  - indigenous_australian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: This reads as an episode-specific kinship conflict rather than a clear
+    death, descent, or afterlife motif.
+  cautions: Needs source context; may involve mother-child recognition, return, violence,
+    ancestor narrative, or a local etiological episode.
+  suggested_aliases:
+  - rejected maternal return
+  - violent son rejects returning mother
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - miraculous_child
+    - lament_and_mourning
+    - hero_journey
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.denial-of-burial-by-elemental-engulfment
+  motif_id: denial_of_burial_by_elemental_engulfment
+  label: denial of burial by elemental engulfment
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Denied Burial and Corpse Exposure
+  relationship: narrower_than
+  confidence: medium
+  rationale: Denial of burial is a recurring funerary and social-order motif not fully
+    captured by heroic funeral rites, which emphasizes honors performed rather than
+    rites withheld.
+  cautions: Elemental engulfment may be an over-specific mechanism; verify whether
+    the focus is denial of rites, punishment, pollution, or natural catastrophe.
+  suggested_aliases:
+  - burial denied by engulfment
+  - unburied corpse through elemental swallowing
+  - withheld funerary rites
+  suggested_new_group:
+    id: denied_burial
+    label: Denied Burial and Corpse Exposure
+    description: Funerary rites are withheld, prevented, or negated, leaving the dead
+      unburied, exposed, engulfed, dishonored, or excluded from proper memorial and
+      social repair.
+    parent_group_ids:
+    - heroic_funeral_rites
+    related_group_ids:
+    - lament_and_mourning
+    - divine_judgment
+    - sacred_combat
+    - afterlife_passage
+    reason_existing_groups_insufficient: 'Existing heroic_funeral_rites covers honoring
+      and memorialization of the dead, but these labels center on the inverse pattern:
+      denial, exposure, and dishonor.'
+- suggestion_id: normalization.suggestion.denial-of-burial-to-the-defeated-enemy
+  motif_id: denial_of_burial_to_the_defeated_enemy
+  label: denial of burial to the defeated enemy
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Denied Burial and Corpse Exposure
+  relationship: narrower_than
+  confidence: medium
+  rationale: Withholding burial from an enemy is a clear funerary dishonor pattern,
+    especially in war contexts.
+  cautions: Could also be a sacred_combat or divine_judgment detail if framed as punishment
+    after battle; avoid treating all enemy death as funerary motif.
+  suggested_aliases:
+  - enemy denied burial
+  - burial withheld from defeated foe
+  - corpse dishonor after defeat
+  suggested_new_group:
+    id: denied_burial
+    label: Denied Burial and Corpse Exposure
+    description: Funerary rites are withheld, prevented, or negated, leaving the dead
+      unburied, exposed, engulfed, dishonored, or excluded from proper memorial and
+      social repair.
+    parent_group_ids:
+    - heroic_funeral_rites
+    related_group_ids:
+    - lament_and_mourning
+    - divine_judgment
+    - sacred_combat
+    - afterlife_passage
+    reason_existing_groups_insufficient: Existing heroic_funeral_rites covers honoring
+      and memorialization of the dead, but this motif centers on withheld rites as
+      dishonor or punishment.
+- suggestion_id: normalization.suggestion.denied-funerary-rites-and-corpse-exposure
+  motif_id: denied_funerary_rites_and_corpse_exposure
+  label: denied funerary rites and corpse exposure
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Denied Burial and Corpse Exposure
+  relationship: narrower_than
+  confidence: high
+  rationale: The label directly names withheld funerary rites and exposed corpse,
+    a stable inverse of funeral rites and memorialization.
+  cautions: Review whether the passage emphasizes ritual pollution, political dishonor,
+    divine punishment, or heroic lament for secondary mappings.
+  suggested_aliases:
+  - corpse exposure
+  - denied burial rites
+  - withheld funeral rites
+  - unburied dead
+  suggested_new_group:
+    id: denied_burial
+    label: Denied Burial and Corpse Exposure
+    description: Funerary rites are withheld, prevented, or negated, leaving the dead
+      unburied, exposed, engulfed, dishonored, or excluded from proper memorial and
+      social repair.
+    parent_group_ids:
+    - heroic_funeral_rites
+    related_group_ids:
+    - lament_and_mourning
+    - divine_judgment
+    - sacred_combat
+    - afterlife_passage
+    reason_existing_groups_insufficient: Existing heroic_funeral_rites covers rites
+      performed for the dead, while this motif requires tracking withheld or negated
+      rites.
+- suggestion_id: normalization.suggestion.departed-companions-precede-the-speaker-into-death
+  motif_id: departed_companions_precede_the_speaker_into_death
+  label: departed companions precede the speaker into death
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif frames death through remembered companions who have gone before,
+    fitting grief and mortality recognition.
+  cautions: If the passage describes a mapped postmortem journey or reunion rather
+    than lament, afterlife_passage or sacred_love may be secondary.
+  suggested_aliases:
+  - companions gone before in death
+  - dead companions precede speaker
+  - mourning those who went before
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.descendant-mediated-afterlife-status
+  motif_id: descendant_mediated_afterlife_status
+  label: Descendant-mediated afterlife status
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: high
+  rationale: Afterlife status mediated by descendants fits ritual care of ancestors
+    and dead souls by the living.
+  cautions: If the evidence focuses on postmortem geography or judgment rather than
+    descendant rites, also consider afterlife_passage or divine_judgment.
+  suggested_aliases:
+  - descendants affect afterlife status
+  - ancestor status mediated by descendants
+  - filial rites for the dead
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.descent-and-ascent-between-sea-depth-and-divine-height
+  motif_id: descent_and_ascent_between_sea_depth_and_divine_height
+  label: descent and ascent between sea-depth and divine height
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines vertical movement through sea-depth and divine height,
+    but the narrative function could be descent, ascent, theophany, or elemental imagery.
+  cautions: Do not map sea-depth automatically to underworld descent unless transformation,
+    death-realm, or hidden-knowledge passage is present.
+  suggested_aliases:
+  - sea-depth and divine-height passage
+  - vertical movement between sea and heaven
+  - descent-ascent through waters
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - descent
+    - ascent
+    - sacred_waters
+    - theophany
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.descent-from-an-animal-or-monkey-god-marked-by-bodily-sign
+  motif_id: descent_from_an_animal_or_monkey_god_marked_by_bodily_sign
+  label: descent from an animal or monkey-god marked by bodily sign
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Here 'descent' likely means lineage rather than underworld movement;
+    the motif combines divine animal ancestry and bodily sign.
+  cautions: Potentially over-specific and not a death/descent motif; review whether
+    it is ancestry, bodily mark, animal deity, or sacred birth evidence.
+  suggested_aliases:
+  - divine animal descent marked on body
+  - monkey-god lineage sign
+  - bodily sign of animal-divine ancestry
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - miraculous_child
+    - divine_race
+    - shapeshifter
+    - sacred_treasures
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.descent-of-divine-tranquility-upon-a-threatened-community
+  motif_id: descent_of_divine_tranquility_upon_a_threatened_community
+  label: descent of divine tranquility upon a threatened community
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: high
+  rationale: A divine state descending to protect or steady a threatened community
+    is direct sacred intervention in human affairs.
+  cautions: Not an underworld descent; if the passage emphasizes manifestation of
+    presence, theophany may be a secondary relation.
+  suggested_aliases:
+  - divine tranquility descends
+  - sacred calm protects community
+  - divine reassurance in danger
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels use 'descent' in non-underworld senses; review should distinguish
+  lineage or divine bestowal from hero_descent.
+- A recurring cluster around denied burial/corpse exposure appears to warrant a candidate
+  group under heroic_funeral_rites rather than forcing into existing memorialization
+  motifs.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: assistant
+  reviewed_at: ''
+  notes: Provisional placements only; culturally sensitive and single-occurrence labels
+    should be checked against source passages.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0475
+  input_sha256: 5ede654b274d78e1eee51fcae4d0d26ad31060178b8e79f28d2bfb4d893b29b2

@@ -1,0 +1,297 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0487
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.grieving-parent-returns-to-battle-seeking-death-or-vengeance
+  motif_id: grieving_parent_returns_to_battle_seeking_death_or_vengeance
+  label: grieving parent returns to battle seeking death or vengeance
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on grief after loss motivating renewed battle and vengeance,
+    fitting mourning as a transformative force in heroic contexts.
+  cautions: Could also belong under sacred_combat or divine_warrior if the passage
+    emphasizes warrior duty or vengeance more than parental grief.
+  suggested_aliases:
+  - grief-driven return to battle
+  - mourning parent seeks vengeance
+  - grieving parent seeks death in battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.guardian-spirit-attending-a-person-through-life
+  motif_id: guardian_spirit_attending_a_person_through_life
+  label: guardian spirit attending a person through life
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: A personal guardian spirit functions as supernatural protection or guidance
+    across a life, matching existing tutelary-spirit children under divine_intervention.
+  cautions: Norse guardian spirits may involve culturally specific fylgja/hamingja
+    concepts; review whether this is soul-double, fate, ancestor, or tutelary agency
+    before final mapping.
+  suggested_aliases:
+  - personal guardian spirit
+  - lifelong tutelary spirit
+  - attendant protective spirit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.haunted-or-sterile-tomb-of-a-saintly-figure
+  motif_id: haunted_or_sterile_tomb_of_a_saintly_figure
+  label: haunted or sterile tomb of a saintly figure
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines saintly tomb, haunting, and sterility without enough
+    evidence to choose ancestor rites, sacred place, miracle, or commentary artifact.
+  cautions: May be a highly contextual hagiographic or interpretive detail. Review
+    whether the tomb acts as sacred center, failed fertility site, spirit haunting,
+    or merely a passage description.
+  suggested_aliases:
+  - haunted saintly tomb
+  - sterile saint's tomb
+  - saintly tomb without blessing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.healing-metaphor-for-intellectual-or-spiritual-insufficiency
+  motif_id: healing_metaphor_for_intellectual_or_spiritual_insufficiency
+  label: healing metaphor for intellectual or spiritual insufficiency
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: death_descent_afterlife
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The wording describes a metaphorical teaching or interpretive figure
+    rather than a discrete narrative motif.
+  cautions: If a passage narrates actual spiritual healing by a guide, consider mystical_quest
+    or sacred_knowledge instead; as phrased, preserve as evidence/commentary only.
+  suggested_aliases:
+  - healing metaphor for spiritual lack
+  - spiritual insufficiency as illness
+  - intellectual insufficiency as illness
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heaven-ancestors-and-soul-vocabulary
+  motif_id: heaven_ancestors_and_soul_vocabulary
+  label: heaven, ancestors, and soul vocabulary
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: death_descent_afterlife
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label explicitly describes vocabulary or terminology, not a narrative
+    or symbolic motif.
+  cautions: If the source passage contains actual ancestor rites, soul travel, or
+    heavenly ascent, map those separately under ancestor_rites, afterlife_passage,
+    or ascent.
+  suggested_aliases:
+  - ancestor and soul terminology
+  - heaven and soul vocabulary
+  - afterlife vocabulary
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hell-as-burning-pit
+  motif_id: hell_as_burning_pit
+  label: Hell as burning pit
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: afterlife_passage
+  suggested_group_label: Afterlife Navigation and Passage
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A burning pit is an afterlife geography or destination image, fitting
+    mapped postmortem realms and perils.
+  cautions: If the emphasis is divine punishment rather than navigation or afterlife
+    landscape, divine_judgment should be a secondary or alternate mapping.
+  suggested_aliases:
+  - burning pit of hell
+  - hell as fiery pit
+  - infernal burning pit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hell-fire-as-punitive-consumption
+  motif_id: hell_fire_as_punitive_consumption
+  label: hell fire as punitive consumption
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: high
+  rationale: Punitive hellfire is a divine punishment and moral reckoning motif, with
+    fire as the consuming instrument of judgment.
+  cautions: Could also index under afterlife_passage when the passage maps hell as
+    a postmortem realm; avoid mapping to world_destroying_fire unless cosmic destruction
+    is present.
+  suggested_aliases:
+  - punitive hellfire
+  - hellfire consumes the condemned
+  - fire as afterlife punishment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-fears-shameful-death-instead-of-foretold-heroic-death
+  motif_id: hero_fears_shameful_death_instead_of_foretold_heroic_death
+  label: hero fears shameful death instead of foretold heroic death
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif contrasts a foretold death with anxiety over an alternate dishonorable
+    death, fitting fated heroic mortality.
+  cautions: May also belong under divine_warrior or lament_and_mourning if the passage
+    emphasizes heroic honor code rather than destiny; single occurrence is episode-specific.
+  suggested_aliases:
+  - fear of shameful death
+  - foretold heroic death threatened by dishonor
+  - heroic death versus shameful death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-honored-as-demigod-after-death
+  motif_id: hero_honored_as_demigod_after_death
+  label: hero honored as demigod after death
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Postmortem elevation to demigod status is a transformation after death
+    into a new sacred mode of being.
+  cautions: If the passage emphasizes cult honors or memorial practice rather than
+    ontological transformation, heroic_funeral_rites or royal_legitimacy may be relevant.
+  suggested_aliases:
+  - posthumous demigod honor
+  - hero apotheosis after death
+  - dead hero honored as divine
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-knowingly-enters-death-bound-combat
+  motif_id: hero_knowingly_enters_death_bound_combat
+  label: Hero knowingly enters death-bound combat
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: functional_variant
+  confidence: high
+  rationale: A hero knowingly entering combat that will bring death fits destined
+    or accepted heroic death.
+  cautions: Could also map to divine_warrior or sacred_combat where the battle's sacred
+    or cosmic function is primary.
+  suggested_aliases:
+  - knowing entry into fatal combat
+  - hero accepts death-bound battle
+  - foreknown death in battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Suggestions are provisional taxonomy placements only and make no claims about transmission
+  or common origin.
+- Several items are single-occurrence heroic death or afterlife-image labels; preserve
+  local evidence notes where the wording is episode-specific.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Human review recommended for culturally specific soul/guardian-spirit concepts
+    and ambiguous Sufi tomb/healing labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0487
+  input_sha256: 48201fab2bcf1aba4c537b3b86fb0736d4173340e8df2256c847fc490b50738b

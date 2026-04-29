@@ -1,0 +1,305 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0466
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.comrades-as-one-soul
+  motif_id: comrades_as_one_soul
+  label: comrades as one soul
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could describe heroic friendship, soul anthropology, or rhetorical
+    unity rather than a death/afterlife motif.
+  cautions: Single occurrence and context-dependent; do not map to external_soul unless
+    an actual shared or separable soul is described.
+  suggested_aliases:
+  - comrades sharing one soul
+  - companions as one soul
+  - heroic companions united in soul
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - external_soul
+    - sacred_combat
+    - lament_and_mourning
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.comrades-cover-the-dead-warrior
+  motif_id: comrades_cover_the_dead_warrior
+  label: comrades cover the dead warrior
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Covering a fallen warrior is a mortuary honor or battlefield care act
+    for a heroic dead figure.
+  cautions: May be an over-specific battle detail if no funerary or memorial significance
+    is present.
+  suggested_aliases:
+  - covering the fallen warrior
+  - comrades honor the dead warrior
+  - battlefield covering of the dead
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.conditional-or-liminal-death
+  motif_id: conditional_or_liminal_death
+  label: conditional or liminal death
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The phrase may refer to ambiguous death-state, taboo conditions, enchantment,
+    or legal/narrative wording.
+  cautions: Needs passage evidence before mapping to death_and_transformation, otherworld,
+    external_soul, or immortality_without_renewal.
+  suggested_aliases:
+  - liminal death state
+  - conditional death
+  - ambiguous death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - death_and_transformation
+    - otherworld
+    - external_soul
+    - immortality_without_renewal
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.contest-for-a-dead-hero-s-arms
+  motif_id: contest_for_a_dead_hero_s_arms
+  label: contest for a dead hero's arms
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: functional_variant
+  confidence: medium
+  rationale: A dispute over a dead hero's arms concerns postmortem honor, memorial
+    status, and heroic social order.
+  cautions: Also related to sacred_treasures or divine_warrior; keep the arms-contest
+    detail as evidence rather than a broad canonical motif.
+  suggested_aliases:
+  - contest over dead hero's arms
+  - dispute for a fallen hero's weapons
+  - posthumous arms contest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.contest-for-the-arms-of-a-dead-hero
+  motif_id: contest_for_the_arms_of_a_dead_hero
+  label: Contest for the arms of a dead hero
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: functional_variant
+  confidence: medium
+  rationale: This is the same posthumous honor and inheritance-of-arms pattern as
+    other dead-hero arms contests.
+  cautions: Likely duplicate or alias of contest_for_a_dead_hero_s_arms; review before
+    adding separate index entries.
+  suggested_aliases:
+  - contest for a dead hero's arms
+  - contest over the dead hero's arms
+  - posthumous contest for heroic weapons
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.contest-for-the-corpse-and-arms-of-a-fallen-hero
+  motif_id: contest_for_the_corpse_and_arms_of_a_fallen_hero
+  label: contest for the corpse and arms of a fallen hero
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: functional_variant
+  confidence: high
+  rationale: The contest concerns possession, protection, and honoring of a fallen
+    hero's body and weapons after death.
+  cautions: May also index secondarily to sacred_combat if the corpse contest occurs
+    as a battlefield combat episode.
+  suggested_aliases:
+  - contest for a fallen hero's corpse and arms
+  - battle over hero's body and weapons
+  - struggle for the fallen hero's corpse
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.contest-over-the-dead-hero-s-arms
+  motif_id: contest_over_the_dead_hero_s_arms
+  label: Contest over the dead hero's arms
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: functional_variant
+  confidence: medium
+  rationale: A contest over a dead hero's arms is a postmortem honor and memorialization
+    issue within heroic culture.
+  cautions: Likely overlaps with existing over-specific label contest_over_a_dead_hero_s_arms_leads_to_a_warrior_s_suicide;
+    avoid duplicate canonicalization.
+  suggested_aliases:
+  - contest for the arms of a dead hero
+  - dead hero arms contest
+  - posthumous arms dispute
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.contested-burial-of-a-revered-dead-figure
+  motif_id: contested_burial_of_a_revered_dead_figure
+  label: contested burial of a revered dead figure
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A disputed burial of a revered dead figure centers on mortuary honor
+    and social-religious memorialization.
+  cautions: Culturally sensitive and possibly tied to historical persons or sectarian
+    memory; human review should verify motif use rather than biography-only detail.
+  suggested_aliases:
+  - disputed burial of a revered figure
+  - contested burial of holy dead
+  - burial dispute over revered dead
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.corpse-defense-and-removal-in-battle
+  motif_id: corpse_defense_and_removal_in_battle
+  label: Corpse defense and removal in battle
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: functional_variant
+  confidence: high
+  rationale: Defending and retrieving the corpse in battle preserves the fallen warrior
+    for burial honors and social memory.
+  cautions: Also related to sacred_combat; map there only if the battle over the corpse
+    is the central combat motif.
+  suggested_aliases:
+  - defense of the fallen warrior's corpse
+  - retrieval of the corpse in battle
+  - battlefield recovery of the dead
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.corpse-defilement-by-animals
+  motif_id: corpse_defilement_by_animals
+  label: Corpse defilement by animals
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Animal defilement of a corpse may signal dishonor, failed burial, divine
+    judgment, or battlefield threat.
+  cautions: Needs context; could map to heroic_funeral_rites as denied burial, divine_judgment
+    as punishment, or remain an over-specific episode detail.
+  suggested_aliases:
+  - corpse exposed to animals
+  - animals defile the dead body
+  - unburied corpse consumed by animals
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - heroic_funeral_rites
+    - divine_judgment
+    - sacred_combat
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several arms/corpse-contest labels appear to be near-duplicates and should be reviewed
+  together for alias consolidation under heroic_funeral_rites, with possible secondary
+  relation to sacred_combat or sacred_treasures.
+- Battlefield corpse retrieval and burial-dispute labels should preserve local evidence
+  because some may be heroic honor motifs while others may be historical, legal, or
+  sectarian details.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api-assistant
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; culturally sensitive burial and
+    ambiguous soul/death-state labels need human evidence review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0466
+  input_sha256: b13f257e36b0eec6be7451ff75376b21930a58c43f2ce32a9c6babfd839a24c7

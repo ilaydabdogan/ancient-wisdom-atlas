@@ -1,0 +1,291 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0473
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.death-of-the-heroic-warrior-after-battle
+  motif_id: death_of_the_heroic_warrior_after_battle
+  label: death of the heroic warrior after battle
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: narrower_than
+  confidence: medium
+  rationale: Heroic warrior death after battle fits the existing warrior death and
+    sacred combat cluster under divine_warrior.
+  cautions: Single occurrence; if the passage emphasizes funeral honors or lament
+    rather than battle death, heroic_funeral_rites or lament_and_mourning may be better.
+  suggested_aliases:
+  - warrior death after battle
+  - heroic battle death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-of-the-king-discovered-at-dawn
+  motif_id: death_of_the_king_discovered_at_dawn
+  label: death of the king discovered at dawn
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines royal death with discovery timing, but the narrative
+    function is unclear from wording alone.
+  cautions: May be an episode-specific passage detail; could map to royal_legitimacy,
+    lament_and_mourning, death_and_transformation, or exclude depending on source
+    context.
+  suggested_aliases:
+  - king's death discovered at dawn
+  - royal death at dawn
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-of-the-mind-as-greater-sorrow-than-bodily-death
+  motif_id: death_of_the_mind_as_greater_sorrow_than_bodily_death
+  label: death of the mind as greater sorrow than bodily death
+  occurrences: 1
+  traditions:
+  - daoist
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: This reads as a wisdom or philosophical teaching about inner perception
+    and loss of mind rather than literal death.
+  cautions: Could belong under mystical_quest or ethics/inner-life review if the passage
+    frames it as spiritual discipline; avoid treating it as death-rebirth without
+    evidence.
+  suggested_aliases:
+  - death of the mind
+  - inner death worse than bodily death
+  - loss of mind as spiritual sorrow
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-omen-recognized-through-harp-sound
+  motif_id: death_omen_recognized_through_harp_sound
+  label: Death omen recognized through harp sound
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: functional_variant
+  confidence: medium
+  rationale: An omen recognized through sound functions as a sign or altered perception
+    foretelling death.
+  cautions: The harp detail may be culturally specific and over-specific; if the sound
+    is produced by a supernatural agent, divine_intervention may be a secondary fit.
+  suggested_aliases:
+  - death omen by harp sound
+  - auditory death omen
+  - musical death omen
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-pollution-transmitted-through-spouse
+  motif_id: death_pollution_transmitted_through_spouse
+  label: death pollution transmitted through spouse
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: Death pollution transmitted through kin or spouse fits ritual purity,
+    taboo, and spirit-contagion patterns already folded under sacred_law.
+  cautions: Review Roman-specific ritual context; if part of funeral obligations,
+    ancestor_rites or heroic_funeral_rites may also be relevant.
+  suggested_aliases:
+  - spousal death pollution
+  - mortuary pollution through spouse
+  - death impurity transmitted by spouse
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-pursuing-the-wealth-seeker
+  motif_id: death_pursuing_the_wealth_seeker
+  label: death pursuing the wealth-seeker
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: functional_variant
+  confidence: medium
+  rationale: Death pursuing a wealth-seeker suggests moralized pursuit of greed and
+    downfall after overreaching desire.
+  cautions: Could instead be divine_judgment if punishment by sacred order is explicit,
+    or a poetic memento mori if not narrative.
+  suggested_aliases:
+  - death pursues the greedy
+  - wealth-seeker pursued by death
+  - greed followed by death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-silences-the-senses
+  motif_id: death_silences_the_senses
+  label: Death silences the senses
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may be mystical metaphor, death meditation, or poetic description
+    of bodily death.
+  cautions: If Sufi context frames sensory silencing as ego-annihilation, map to annihilation_union
+    or mystical_quest; if merely poetic physiology, exclude as passage detail.
+  suggested_aliases:
+  - silencing of the senses by death
+  - death and sensory cessation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-taunt-with-denial-of-burial
+  motif_id: death_taunt_with_denial_of_burial
+  label: death taunt with denial of burial
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: functional_variant
+  confidence: medium
+  rationale: Denial of burial centers on the social and ritual importance of funeral
+    rites for the dead hero or enemy.
+  cautions: If the emphasis is battlefield insult or vengeance rather than rites,
+    sacred_combat or divine_warrior may be secondary; label is episode-specific.
+  suggested_aliases:
+  - denial of burial taunt
+  - burial denied to enemy
+  - funeral dishonor taunt
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-through-envy-after-surpassing-warriors
+  motif_id: death_through_envy_after_surpassing_warriors
+  label: Death through envy after surpassing warriors
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: functional_variant
+  confidence: low
+  rationale: Death following envy and competitive surpassing suggests a moral downfall
+    pattern around rivalry and overreaching status.
+  cautions: Could be heroic rivalry under divine_warrior or a passage-specific plot
+    cause; source context is needed before firm mapping.
+  suggested_aliases:
+  - envy causing warrior death
+  - death after surpassing rivals
+  - competitive envy leading to death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-through-jealousy-after-westward-journey
+  motif_id: death_through_jealousy_after_westward_journey
+  label: Death through jealousy after westward journey
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines jealousy, death, and westward travel, but the dominant
+    motif is unclear.
+  cautions: May relate to sacred_love, hero_journey, otherworld westward travel, or
+    pride_and_downfall; could also be an over-specific episode detail.
+  suggested_aliases:
+  - jealousy leading to death after journey
+  - death after westward journey
+  - jealous death after travel
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Suggestions are provisional and avoid transmission claims.
+- Several labels are single-occurrence and episode-specific; human review should confirm
+  whether they are motifs or evidence details.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Batch includes multiple low-confidence death labels requiring source-context
+    review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0473
+  input_sha256: 5bdf2f93e0e215bf66b6f25d013c775dc8d478fb2fbdf7773d0f908e4fbed443

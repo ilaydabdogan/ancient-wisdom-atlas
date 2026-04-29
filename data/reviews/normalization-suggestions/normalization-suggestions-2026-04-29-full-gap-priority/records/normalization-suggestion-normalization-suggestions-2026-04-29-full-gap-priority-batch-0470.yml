@@ -1,0 +1,303 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0470
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.death-as-predatory-bird-overtaking-the-powerful
+  motif_id: death_as_predatory_bird_overtaking_the_powerful
+  label: death as predatory bird overtaking the powerful
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Death personified as an inescapable predator overtaking the powerful
+    fits death as unavoidable fate.
+  cautions: Could be poetic imagery rather than a durable narrative motif; review
+    Sufi source context before indexing strongly.
+  suggested_aliases:
+  - inescapable death as predator
+  - death overtakes the powerful
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-by-drowning-during-fishing-caused-by-rivals
+  motif_id: death_by_drowning_during_fishing_caused_by_rivals
+  label: death by drowning during fishing caused by rivals
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label is an episode-specific cause of death rather than a broad death,
+    descent, or afterlife motif.
+  cautions: If rivalry, ambush, or water-death recurs structurally in the source,
+    it may deserve mapping under sacred_combat or sacred_waters as evidence detail.
+  suggested_aliases:
+  - drowning caused by rivals
+  - fishing death by rivals
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-by-one-s-own-hunting-dogs
+  motif_id: death_by_one_s_own_hunting_dogs
+  label: death by one's own hunting dogs
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: low
+  rationale: Being killed by one's own dogs may function as ironic punishment or sacred
+    judgment in the relevant myth.
+  cautions: Could instead be an over-specific Actaeon-like episode, animal-attack
+    motif, transformation consequence, or literary detail; source evidence is needed.
+  suggested_aliases:
+  - hunter killed by own dogs
+  - death by hunting dogs
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-by-poisoned-book-or-pages
+  motif_id: death_by_poisoned_book_or_pages
+  label: death by poisoned book or pages
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A book that kills through contact links knowledge, text, and danger,
+    fitting the sacred or forbidden knowledge field.
+  cautions: If the passage is only assassination by poisoned object, it may be too
+    episode-specific; if the book contains prohibited knowledge, forbidden_knowledge
+    is the stronger canonical ref.
+  suggested_aliases:
+  - poisoned book
+  - fatal book pages
+  - dangerous text
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-by-pyre-as-omen-to-departing-enemy
+  motif_id: death_by_pyre_as_omen_to_departing_enemy
+  label: death by pyre as omen to departing enemy
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: functional_variant
+  confidence: low
+  rationale: The key function appears to be death or fire becoming an omen perceived
+    by another figure.
+  cautions: Could map to sacred_fire, lament_and_mourning, divine_judgment, or be
+    an over-specific literary episode depending on whether omen, funeral pyre, or
+    enemy departure is central.
+  suggested_aliases:
+  - funeral pyre as omen
+  - death-fire omen
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-creates-a-place-name-and-tale-name
+  motif_id: death_creates_a_place_name_and_tale_name
+  label: death creates a place-name and tale-name
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes an etiological naming function tied to death, not
+    clearly covered by existing groups.
+  cautions: May warrant a future etiological naming/place-memory group if recurrent;
+    otherwise preserve as passage evidence rather than a pattern-query motif.
+  suggested_aliases:
+  - death etiologizes place-name
+  - death names a tale
+  suggested_new_group:
+    id: etiological_place_naming
+    label: Etiological Place Naming and Tale Naming
+    description: Deaths, deeds, battles, or sacred events explain the origin of a
+      place-name, tale-name, landmark name, or local narrative memory.
+    parent_group_ids:
+    - storytelling_as_power
+    related_group_ids:
+    - lament_and_mourning
+    - heroic_funeral_rites
+    reason_existing_groups_insufficient: Existing groups cover mourning, memorialization,
+      and storytelling, but not the recurring etiological function of events generating
+      named places or tale titles.
+- suggestion_id: normalization.suggestion.death-dealing-eye
+  motif_id: death_dealing_eye
+  label: death-dealing eye
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: low
+  rationale: A lethal eye may be a supernatural combat power used to kill or dominate
+    opponents.
+  cautions: Could instead belong under sacred_treasures/power objects, evil-eye/apotropaic
+    protection, monstrous embodiment, or divine_judgment; source context is essential.
+  suggested_aliases:
+  - lethal gaze
+  - death-dealing gaze
+  - killing eye
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-dream-sent-to-doomed-sleeper
+  motif_id: death_dream_sent_to_doomed_sleeper
+  label: death dream sent to doomed sleeper
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: functional_variant
+  confidence: high
+  rationale: A sent dream announcing or causing doom fits dreams and visions as channels
+    of supernatural knowledge or agency.
+  cautions: If the dream directly executes divine punishment, divine_judgment may
+    be a secondary mapping.
+  suggested_aliases:
+  - fatal dream
+  - death-sending dream
+  - dream omen of death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-event-explains-a-place-name
+  motif_id: death_event_explains_a_place_name
+  label: death event explains a place-name
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This is an etiological place-name pattern associated with death, not
+    a direct afterlife or transformation motif.
+  cautions: Very close to death_creates_a_place_name_and_tale_name; consolidate if
+    retained. Exclude if it is only a gloss or onomastic note.
+  suggested_aliases:
+  - death etiologizes place-name
+  - place-name from death event
+  suggested_new_group:
+    id: etiological_place_naming
+    label: Etiological Place Naming and Tale Naming
+    description: Deaths, deeds, battles, or sacred events explain the origin of a
+      place-name, tale-name, landmark name, or local narrative memory.
+    parent_group_ids:
+    - storytelling_as_power
+    related_group_ids:
+    - lament_and_mourning
+    - heroic_funeral_rites
+    reason_existing_groups_insufficient: Existing groups cover mourning, memorialization,
+      and storytelling, but not the recurring etiological function of events generating
+      named places or tale titles.
+- suggestion_id: normalization.suggestion.death-figure-riding-through-plague-and-famine
+  motif_id: death_figure_riding_through_plague_and_famine
+  label: Death figure riding through plague and famine
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A personified death figure moving through plague and famine fits sacred
+    punishment, catastrophe, and moral reckoning imagery.
+  cautions: If framed primarily as apocalyptic catastrophe rather than judgment, flood_and_renewal
+    or death_by_fate may be secondary; verify whether the rider is a deity, omen,
+    or personification.
+  suggested_aliases:
+  - personified death rider
+  - death rider in plague and famine
+  - death through plague and famine
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are single-occurrence death-mode labels; prefer exclusion or low-confidence
+  review unless the source shows a recurring symbolic or narrative function.
+- Two Celtic Irish labels appear to describe etiological naming from death events
+  and may be candidates for consolidation under a future place-naming/onomastic etiological
+  group.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Provisional placements only; human review especially needed for episode-specific
+    death modes and proposed etiological_place_naming candidate.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0470
+  input_sha256: bb85f82c30368574aafbb0e08e616923eb9b40356491dac1f60dc3ce78b25fea

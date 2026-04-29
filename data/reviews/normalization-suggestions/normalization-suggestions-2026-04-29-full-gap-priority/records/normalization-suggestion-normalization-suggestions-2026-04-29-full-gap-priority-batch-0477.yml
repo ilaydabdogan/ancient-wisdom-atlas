@@ -1,0 +1,296 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0477
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.divine-deflection-prevents-hero-s-death
+  motif_id: divine_deflection_prevents_hero_s_death
+  label: divine deflection prevents hero’s death
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A god directly averts a hero's death, fitting supernatural intervention
+    in human affairs.
+  cautions: Single occurrence; if the episode centers on heroic combat rather than
+    divine aid, divine_warrior or sacred_combat may be secondary.
+  suggested_aliases:
+  - divine rescue from death
+  - god averts hero death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-descent-into-visible-or-corporeal-form
+  motif_id: divine_descent_into_visible_or_corporeal_form
+  label: divine descent into visible or corporeal form
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: symbolic_variant
+  confidence: high
+  rationale: The label describes a deity becoming visibly manifest to witnesses, which
+    is theophany rather than underworld descent.
+  cautions: If the passage specifically concerns avatar doctrine or incarnation over
+    a narrative span, divine_intervention or a future incarnation subgroup may also
+    be relevant.
+  suggested_aliases:
+  - divine manifestation in visible form
+  - corporeal theophany
+  - visible divine descent
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-descent-of-a-sacred-architectural-model
+  motif_id: divine_descent_of_a_sacred_architectural_model
+  label: divine descent of a sacred architectural model
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: functional_variant
+  confidence: medium
+  rationale: A sacred building model descending from the divine functions as divinely
+    authorized construction or craft knowledge.
+  cautions: Could also belong with axis_mundi or world_center if the model establishes
+    a cosmic center; passage evidence is needed.
+  suggested_aliases:
+  - heavenly architectural model
+  - divine model for sacred building
+  - sacred architecture revealed from above
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-descent-or-incarnation
+  motif_id: divine_descent_or_incarnation
+  label: divine descent or incarnation
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: broader_label
+  confidence: medium
+  rationale: Divine descent or incarnation involves the sacred becoming manifest in
+    the world, overlapping theophany and divine manifestation.
+  cautions: Incarnation may be broader than a momentary theophany; if recurrent across
+    sources, a distinct incarnation/avatar candidate could be considered.
+  suggested_aliases:
+  - divine incarnation
+  - avataric descent
+  - god descends into the world
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-disarming-before-mortal-death
+  motif_id: divine_disarming_before_mortal_death
+  label: Divine disarming before mortal death
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A god's removal of arms before a death is direct supernatural manipulation
+    of a mortal outcome.
+  cautions: If the disarming marks fated heroic death in battle, divine_warrior, death_by_fate,
+    or sacred_combat may be better secondary placements.
+  suggested_aliases:
+  - god disarms mortal before death
+  - divine removal of weapons before death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-life-and-death-sovereignty
+  motif_id: divine_life_and_death_sovereignty
+  label: divine life and death sovereignty
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: broader_label
+  confidence: medium
+  rationale: Divine authority over life and death fits sacred sovereignty and judgment
+    over mortal fate.
+  cautions: This is abstract and theological; if it is a doctrinal statement rather
+    than narrative action, consider excluding or preserving as evidence note.
+  suggested_aliases:
+  - God gives life and death
+  - divine sovereignty over mortality
+  - sacred power over life and death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-made-equipment-linked-to-the-hero-s-death-by-fire
+  motif_id: divine_made_equipment_linked_to_the_hero_s_death_by_fire
+  label: divine-made equipment linked to the hero's death by fire
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: Divine-made equipment is a power object whose role shapes the hero's
+    death.
+  cautions: Highly episode-specific; if fire as purification or fatal transformation
+    is central, sacred_fire or death_and_transformation may be secondary.
+  suggested_aliases:
+  - divine-made fatal equipment
+  - god-forged equipment causing death
+  - hero's death by divine equipment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-or-underworld-tempered-weapon
+  motif_id: divine_or_underworld_tempered_weapon
+  label: divine or underworld-tempered weapon
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: symbolic_variant
+  confidence: high
+  rationale: A weapon made or empowered by divine or underworld forces is a sacred
+    power object.
+  cautions: May also support sacred_craft if the forging process is emphasized, or
+    descent if its underworld origin is narratively central.
+  suggested_aliases:
+  - underworld-forged weapon
+  - divinely tempered weapon
+  - chthonic weapon
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-protection-of-an-unburied-corpse
+  motif_id: divine_protection_of_an_unburied_corpse
+  label: divine protection of an unburied corpse
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: functional_variant
+  confidence: medium
+  rationale: Protection of an unburied corpse concerns preservation of the dead before
+    proper funerary honor.
+  cautions: If divine action is the main point rather than mortuary rites, divine_intervention
+    should be secondary; if no funeral context appears, review manually.
+  suggested_aliases:
+  - corpse protected before burial
+  - divine preservation of the unburied dead
+  - protected unburied body
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-protection-of-warrior-s-corpse-and-arms
+  motif_id: divine_protection_of_warrior_s_corpse_and_arms
+  label: divine protection of warrior’s corpse and arms
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: functional_variant
+  confidence: medium
+  rationale: A warrior's corpse and arms being protected after death fits heroic mortuary
+    honor and memorialization.
+  cautions: Also overlaps with divine_intervention and sacred_treasures because a
+    god protects both the body and power objects; avoid overgeneralizing from one
+    episode.
+  suggested_aliases:
+  - protection of fallen warrior's body and arms
+  - divine preservation of warrior corpse
+  - guarded heroic corpse and weapons
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items were bucketed under death/descent but are better treated as divine
+  intervention, theophany, sacred objects, sacred craft, or funerary honor; descent
+  should not be inferred from the word 'descent' unless an underworld or transformative
+  downward journey is present.
+- Single-occurrence heroic-death labels should preserve episode details as evidence
+  and avoid promotion to canonical taxonomy without recurrence.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api-ai-assistant
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review recommended for
+    incarnation/avatar language and highly episode-specific Greco-Roman heroic death
+    labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0477
+  input_sha256: c20efd52e97f4ce70ee107acd3dd0b8bc4cf674f5cb19308b7ebac0e8b1f21f4

@@ -1,0 +1,315 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0465
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.carrion-bird-denies-revival-and-redirects-corpse-to-waters
+  motif_id: carrion_bird_denies_revival_and_redirects_corpse_to_waters
+  label: Carrion bird denies revival and redirects corpse to waters
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Composite episode involving corpse disposal, denied revival, bird agency,
+    and waters; no existing group clearly captures the whole function.
+  cautions: May be an over-specific passage detail; could relate to death_and_transformation,
+    sacred_waters, or animal psychopomp/carrion imagery depending on source context.
+  suggested_aliases:
+  - bird denies resurrection
+  - corpse redirected to waters
+  - failed revival and water disposal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - death_and_transformation
+    - sacred_waters
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.catalogue-of-localized-spirits
+  motif_id: catalogue_of_localized_spirits
+  label: catalogue of localized spirits
+  occurrences: 1
+  traditions:
+  - daoist
+  review_bucket_id: death_descent_afterlife
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: A catalogue of spirits reads like a textual/listing artifact rather than
+    a narrative motif.
+  cautions: If the passage emphasizes tutelary or place-spirit agency, individual
+    entries may map to divine_intervention or otherworld instead.
+  suggested_aliases:
+  - localized spirit catalogue
+  - list of local spirits
+  - enumeration of named spirits
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.catalogue-of-named-combat-deaths
+  motif_id: catalogue_of_named_combat_deaths
+  label: catalogue of named combat deaths
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes a catalogue form listing deaths, not a reusable symbolic
+    or narrative motif.
+  cautions: Specific deaths within the catalogue may still support sacred_combat,
+    divine_warrior, death_by_fate, or lament motifs if individually evidenced.
+  suggested_aliases:
+  - list of combat deaths
+  - catalogue of fallen warriors
+  - enumerated battle deaths
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.celestial-sign-at-the-death-of-a-powerful-doctor
+  motif_id: celestial_sign_at_the_death_of_a_powerful_doctor
+  label: celestial sign at the death of a powerful doctor
+  occurrences: 1
+  traditions:
+  - indigenous_australian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: functional_variant
+  confidence: medium
+  rationale: A celestial sign marking death functions as an omen or revealed sign
+    around a significant person.
+  cautions: The 'powerful doctor' role may be culturally specific and should not be
+    flattened; if the sign implies postmortem transformation into a star, death_and_transformation
+    may be secondary.
+  suggested_aliases:
+  - death omen in the sky
+  - celestial death sign
+  - sky sign at healer's death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - death_and_transformation
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.city-gates-as-refuge-from-pursuing-death
+  motif_id: city_gates_as_refuge_from_pursuing_death
+  label: city gates as refuge from pursuing death
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines personified death, pursuit, and city gates as refuge;
+    its main function is unclear from label alone.
+  cautions: Could be threshold protection, escape from death, personified death, or
+    an episode-specific plot detail; avoid forcing into descent or death_rebirth without
+    evidence of transformation.
+  suggested_aliases:
+  - refuge from pursuing death
+  - city gate threshold against death
+  - flight from death to city gates
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - threshold_guardian
+    - death_and_transformation
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.coercive-deadline-imposed-on-captive-woman
+  motif_id: coercive_deadline_imposed_on_captive_woman
+  label: coercive deadline imposed on captive woman
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This appears to be a captivity and coercion plot condition rather than
+    a clear death or afterlife motif.
+  cautions: Culturally and gender-context sensitive; may belong under captivity, threatened
+    beloved, or ethical violence if such groups exist, but none are clear here.
+  suggested_aliases:
+  - deadline imposed on captive woman
+  - coerced captive under time limit
+  - threatened captive woman
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - stolen_beloved
+    - sacred_combat
+    - sacred_love
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.colored-flags-signal-life-or-death
+  motif_id: colored_flags_signal_life_or_death
+  label: colored flags signal life or death
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: Flags function as signal objects communicating life-or-death status,
+    akin to power objects or tokens.
+  cautions: If the flags are merely a messenger convention in one episode, preserve
+    as evidence detail rather than canonical motif; could also relate to external_soul
+    only if life is causally bound to the token.
+  suggested_aliases:
+  - life-death signal flags
+  - colored death signal
+  - token signaling survival or death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - external_soul
+    - death_by_fate
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.combat-over-the-corpse-and-spoils-of-a-fallen-warrior
+  motif_id: combat_over_the_corpse_and_spoils_of_a_fallen_warrior
+  label: Combat over the corpse and spoils of a fallen warrior
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: functional_variant
+  confidence: medium
+  rationale: Struggle over a fallen warrior's body and spoils concerns heroic death,
+    honor, and the treatment of remains.
+  cautions: If emphasis is battlefield action rather than funeral honor, sacred_combat
+    or divine_warrior may be better secondary mappings.
+  suggested_aliases:
+  - battle over fallen warrior's corpse
+  - contest for heroic spoils
+  - struggle over warrior remains
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - divine_warrior
+    - lament_and_mourning
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.commemorative-burial-with-inscribed-stones
+  motif_id: commemorative_burial_with_inscribed_stones
+  label: Commemorative burial with inscribed stones
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: ritual_variant
+  confidence: high
+  rationale: Burial markers with inscriptions are memorial rites that honor and preserve
+    the dead person's social memory.
+  cautions: If the inscription itself is the focus, storytelling_as_power may be secondary;
+    if it is ordinary burial detail, do not over-index.
+  suggested_aliases:
+  - inscribed memorial stones
+  - commemorative grave markers
+  - burial with inscription
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - storytelling_as_power
+    - lament_and_mourning
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.commemorative-games-for-a-dead-father
+  motif_id: commemorative_games_for_a_dead_father
+  label: Commemorative games for a dead father
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: ritual_variant
+  confidence: high
+  rationale: Games performed for a dead father fit funeral games and memorial rites
+    for the dead.
+  cautions: Preserve kinship context as evidence detail; if games establish succession
+    or public legitimacy, royal_legitimacy may be secondary.
+  suggested_aliases:
+  - funeral games for father
+  - memorial games for the dead
+  - commemorative death games
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - royal_legitimacy
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Suggestions are provisional; single-occurrence, episode-specific labels should be
+  checked against passage evidence before indexing broadly.
+- Several death-related labels are better treated as funeral/memorial, textual catalogue,
+  or omen motifs rather than automatically mapping to descent or resurrection.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_batch_suggester
+  reviewed_at: ''
+  notes: Human review recommended for composite or culturally specific labels, especially
+    carrion-bird corpse episode, city-gate refuge from death, and captive-woman coercive
+    deadline.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0465
+  input_sha256: 2daa353b030707c4b3ba7ba940d1d7061cee20827f1c3a9086470e64d95841dc

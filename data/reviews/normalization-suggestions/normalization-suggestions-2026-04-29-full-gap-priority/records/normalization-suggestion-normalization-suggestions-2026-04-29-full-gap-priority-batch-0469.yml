@@ -1,0 +1,289 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0469
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.deadly-intervention-by-allied-archer-in-a-duel
+  motif_id: deadly_intervention_by_allied_archer_in_a_duel
+  label: deadly intervention by allied archer in a duel
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label describes a specific combat intervention causing death, closer
+    to heroic or sacred combat than afterlife or descent.
+  cautions: Single occurrence and episode-specific; may be a plot detail rather than
+    a reusable motif. Verify whether the duel has ritual, dharmic, or cosmic-order
+    significance before indexing.
+  suggested_aliases:
+  - allied intervention in duel
+  - third-party archer kills duelist
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deadly-siren-seascape
+  motif_id: deadly_siren_seascape
+  label: Deadly Siren seascape
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: high
+  rationale: Deadly siren imagery matches the existing perilous lure/fatal enchantment
+    cluster under threshold guardians.
+  cautions: If the passage is primarily landscape description rather than an encounter
+    with lethal singers, treat as evidence detail or review for exclusion.
+  suggested_aliases:
+  - perilous siren lure
+  - deadly siren waters
+  - fatal enchantment at sea
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deadly-spiked-battle-vehicle
+  motif_id: deadly_spiked_battle_vehicle
+  label: deadly spiked battle vehicle
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: low
+  rationale: A lethal battle vehicle belongs, if anywhere, with martial ordeal or
+    sacred combat imagery.
+  cautions: May be merely an object detail or weapon description; do not promote unless
+    the vehicle has recurring ritual, heroic, or supernatural function.
+  suggested_aliases:
+  - spiked battle chariot
+  - lethal war vehicle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-as-a-leveling-condition
+  motif_id: death_as_a_leveling_condition
+  label: death as a leveling condition
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: annihilation_union
+  suggested_group_label: Annihilation And Union
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: In Sufi context, death as leveling may express dissolution of worldly
+    status and ego before a larger sacred reality.
+  cautions: If the passage is social satire or moral reflection rather than mystical
+    dissolution, sacred_knowledge or exclude-as-commentary may fit better.
+  suggested_aliases:
+  - death levels all ranks
+  - death erases worldly distinction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-as-descent-to-stygian-gloom
+  motif_id: death_as_descent_to_stygian_gloom
+  label: death as descent to Stygian gloom
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: descent
+  suggested_group_label: Descent and Underworld Journey
+  relationship: symbolic_variant
+  confidence: high
+  rationale: The label explicitly frames death as descent into a dark underworld realm.
+  cautions: This may be poetic diction rather than a narrated underworld journey;
+    consider afterlife_passage only if stages, gates, or route details are present.
+  suggested_aliases:
+  - Stygian descent
+  - death as underworld descent
+  - descent into gloom
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-as-drinking-and-silent-rest
+  motif_id: death_as_drinking_and_silent_rest
+  label: Death as drinking and silent rest
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: symbolic_variant
+  confidence: low
+  rationale: The imagery may be mystical-poetic language for surrender, repose, or
+    absorption rather than a concrete death motif.
+  cautions: Highly metaphorical and single occurrence; review source context before
+    mapping to annihilation_union, sacred_love, or excluding as poetic image.
+  suggested_aliases:
+  - death as silent rest
+  - death as drinking
+  - death as mystical repose
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-as-final-sleep-watched-by-nature
+  motif_id: death_as_final_sleep_watched_by_nature
+  label: death as final sleep watched by nature
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: symbolic_variant
+  confidence: low
+  rationale: Death-as-sleep with nature as witness reads as elegiac recognition or
+    mourning imagery.
+  cautions: Could be a poetic passage artifact rather than a motif; map to death_and_transformation
+    only if sleep leads to renewal or transformation.
+  suggested_aliases:
+  - death as final sleep
+  - nature watches the dead
+  - death sleep in nature
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-as-going-beneath-the-earth-to-the-yellow-spring
+  motif_id: death_as_going_beneath_the_earth_to_the_yellow_spring
+  label: death as going beneath the earth to the Yellow Spring
+  occurrences: 1
+  traditions:
+  - daoist
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: descent
+  suggested_group_label: Descent and Underworld Journey
+  relationship: symbolic_variant
+  confidence: high
+  rationale: Going beneath the earth to the Yellow Spring is a clear underworld/death
+    descent image.
+  cautions: Use afterlife_passage instead if the source maps a postmortem route or
+    bureaucratic afterlife stages; preserve Yellow Spring specificity as local evidence.
+  suggested_aliases:
+  - Yellow Spring descent
+  - death beneath the earth
+  - descent to Yellow Springs
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-as-passage-and-elemental-dissolution
+  motif_id: death_as_passage_and_elemental_dissolution
+  label: death as passage and elemental dissolution
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The label frames death as transition and dissolution into constituent
+    elements, fitting broad death-transformation patterns.
+  cautions: If the passage is doctrinal analysis of elements rather than narrative
+    motif, sacred_knowledge or exclusion as commentary may be better.
+  suggested_aliases:
+  - elemental dissolution at death
+  - death as transition
+  - death as dissolution of elements
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-as-passing-into-the-hand-of-wind
+  motif_id: death_as_passing_into_the_hand_of_wind
+  label: Death as passing into the hand of Wind
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: annihilation_union
+  suggested_group_label: Annihilation And Union
+  relationship: symbolic_variant
+  confidence: low
+  rationale: The image may express surrender or dissolution into an impersonal sacred
+    force, but the function is unclear from the label alone.
+  cautions: Could be a one-off poetic metaphor involving wind, fate, or divine agency;
+    review source before indexing as mystical annihilation or death transformation.
+  suggested_aliases:
+  - death into the hand of wind
+  - death as wind-borne surrender
+  - passing to Wind
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Combat-object and duel-intervention labels in this batch are mostly single-occurrence,
+  episode-specific items and should not be promoted without recurring evidence.
+- Several Sufi death labels appear metaphorical; human review should distinguish mystical
+  annihilation, elegiac imagery, and passage artifacts.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_normalization_suggester
+  reviewed_at: ''
+  notes: Provisional placements only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0469
+  input_sha256: f0af053c5b53c38f2c2a6cc13d7c06efe1eabe7527535bef8f4d01c9e1fc48dc

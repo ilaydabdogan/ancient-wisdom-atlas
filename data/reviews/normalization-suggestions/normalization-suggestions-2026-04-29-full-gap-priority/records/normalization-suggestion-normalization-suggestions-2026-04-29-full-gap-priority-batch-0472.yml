@@ -1,0 +1,298 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0472
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.death-memorial-covered-by-living-flowers
+  motif_id: death_memorial_covered_by_living_flowers
+  label: death memorial covered by living flowers
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: symbolic_variant
+  confidence: low
+  rationale: A flower-covered memorial may express mourning, remembrance, or beauty
+    after death.
+  cautions: Single occurrence and possibly a descriptive passage detail; if flowers
+    signal mystical renewal or saintly baraka, sacred_love or death_and_transformation
+    may be more appropriate.
+  suggested_aliases:
+  - floral death memorial
+  - living flowers on grave
+  - flower-covered memorial
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-memorialized-by-place-name-and-burial-site
+  motif_id: death_memorialized_by_place_name_and_burial_site
+  label: death memorialized by place-name and burial site
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: death_descent_afterlife
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label appears to record an etiological or topographic note rather
+    than a reusable symbolic motif.
+  cautions: If the passage emphasizes heroic burial honors or place-making through
+    death, it could be reviewed under heroic_funeral_rites or culture_hero/founder
+    patterns.
+  suggested_aliases:
+  - death commemorated by place-name
+  - named burial-site memorial
+  - toponymic death memorial
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-messenger-with-life-tree-fruit
+  motif_id: death_messenger_with_life_tree_fruit
+  label: Death messenger with life-tree fruit
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: symbolic_variant
+  confidence: low
+  rationale: The combination of death messenger and life-tree fruit suggests death
+    joined to renewal or immortality imagery.
+  cautions: Could instead belong under axis_mundi/sacred_tree_axis, sacred_treasures,
+    or mystical_quest depending on whether the fruit functions as tree symbolism,
+    a power object, or mystical instruction.
+  suggested_aliases:
+  - death messenger bearing life fruit
+  - life-tree fruit at death
+  - messenger of death with fruit of life
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-of-a-king-in-a-sacked-guest-house
+  motif_id: death_of_a_king_in_a_sacked_guest_house
+  label: death of a king in a sacked guest-house
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: over_specific_label
+  confidence: low
+  rationale: A king's death can bear on sovereignty, political order, or dynastic
+    rupture.
+  cautions: The guest-house and sack details may be episode-specific; if the emphasis
+    is battle violence, sacred_combat or divine_warrior may fit better. Exclude if
+    merely a plot death location.
+  suggested_aliases:
+  - king dies in sacked house
+  - royal death in destroyed guest-house
+  - king's death during sack
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-of-a-lord-followed-by-named-burial-place
+  motif_id: death_of_a_lord_followed_by_named_burial_place
+  label: Death of a lord followed by named burial place
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: death_descent_afterlife
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: This reads as a narrative or antiquarian notice of death and burial location,
+    not a broad motif.
+  cautions: If burial-place naming performs memorialization or heroic honor, review
+    under heroic_funeral_rites; otherwise preserve as evidence detail only.
+  suggested_aliases:
+  - lord's death and named burial
+  - named burial place after lord's death
+  - death followed by burial toponym
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-of-a-sacred-or-priestly-figure-in-battle
+  motif_id: death_of_a_sacred_or_priestly_figure_in_battle
+  label: death of a sacred or priestly figure in battle
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: role_variant
+  confidence: medium
+  rationale: A sacred or priestly figure dying in battle fits the sacred-combat field
+    and warrior death complex.
+  cautions: If the priestly status, sacrilege, or ritual pollution is central, divine_judgment
+    or sacrifice may be relevant secondary mappings.
+  suggested_aliases:
+  - priestly death in battle
+  - sacred figure killed in combat
+  - holy warrior death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-of-fostered-princely-companions-after-a-summons-and-journey
+  motif_id: death_of_fostered_princely_companions_after_a_summons_and_journey
+  label: death of fostered princely companions after a summons and journey
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: over_specific_label
+  confidence: low
+  rationale: A summons and journey leading to death may be a fatal quest or heroic
+    ordeal pattern.
+  cautions: Highly composite and context-dependent; could be sacred_combat, death_by_fate,
+    lament_and_mourning, or only an episode summary.
+  suggested_aliases:
+  - fatal summons and journey
+  - companions die after summons
+  - princely companions' fatal journey
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-of-named-companions-or-heroes
+  motif_id: death_of_named_companions_or_heroes
+  label: death of named companions or heroes
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: death_descent_afterlife
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label is too generic and likely records character deaths rather than
+    a distinctive motif.
+  cautions: If the passage includes funeral honors, heroic lament, fated death, or
+    battle duty, map those specific functions instead.
+  suggested_aliases:
+  - death of companions
+  - death of named heroes
+  - hero companions killed
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-of-obstructing-father-after-daughter-s-transfer
+  motif_id: death_of_obstructing_father_after_daughter_s_transfer
+  label: death of obstructing father after daughter's transfer
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_marriage
+  suggested_group_label: Sacred Marriage
+  relationship: functional_variant
+  confidence: low
+  rationale: The death of an obstructing father after a daughter's transfer may mark
+    removal of kinship opposition to union or succession.
+  cautions: Could be ordinary plot resolution, marriage-transfer law, vengeance, or
+    royal succession rather than sacred marriage. Source context is needed.
+  suggested_aliases:
+  - obstructing father dies after daughter transfer
+  - father's death after bride transfer
+  - kinship obstacle removed by death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-of-the-father-at-the-journey-s-goal
+  motif_id: death_of_the_father_at_the_journey_s_goal
+  label: death of the father at the journey's goal
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: low
+  rationale: A father's death at the endpoint of a journey may function as a turning
+    point in a departure-return or succession arc.
+  cautions: Could instead be filial piety, mourning, ancestral transition, or a passage-specific
+    event. Do not map to descent unless otherworld travel is explicit.
+  suggested_aliases:
+  - father dies at journey goal
+  - parental death at destination
+  - death at end of journey
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence death notices with place, kinship,
+  or episode details; many should remain evidence notes unless source review shows
+  recurrent funeral, sovereignty, fate, or heroic-journey functions.
+- Avoid treating every death label as death_and_transformation; only use that group
+  where renewal, postmortem change, soul restoration, or transformation is explicit.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Draft machine suggestions; source passages needed for the highly contextual
+    Celtic and Sufi items.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0472
+  input_sha256: b1363bcf3fac5f9f26151575ec4075bb1a48ddd88d57cf3f38663f26af059f39

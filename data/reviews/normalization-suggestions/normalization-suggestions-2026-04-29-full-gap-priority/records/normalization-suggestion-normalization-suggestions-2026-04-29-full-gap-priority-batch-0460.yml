@@ -1,0 +1,295 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0460
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.angel-mediated-descent-of-revelation
+  motif_id: angel_mediated_descent_of_revelation
+  label: angel-mediated descent of revelation
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core function is transmission of revelation or sacred knowledge through
+    an angelic intermediary, not a death-descent pattern.
+  cautions: Could also relate to theophany or divine_intervention if the passage emphasizes
+    manifestation or agency rather than revealed content.
+  suggested_aliases:
+  - angelic revelation
+  - mediated revelation
+  - descent of revelation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.angelic-descent-with-divine-decrees
+  motif_id: angelic_descent_with_divine_decrees
+  label: Angelic descent with divine decrees
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Angels descending with decrees describes direct sacred agency ordering
+    human or cosmic affairs.
+  cautions: If the emphasis is the content of revealed decrees, sacred_knowledge may
+    be a secondary fit; if liturgical or calendrical, sacred_time may also matter.
+  suggested_aliases:
+  - angelic descent
+  - divine decrees delivered by angels
+  - descent of angels with commands
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-combat-at-water-as-heroic-death-simile
+  motif_id: animal_combat_at_water_as_heroic_death_simile
+  label: Animal combat at water as heroic death simile
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label names a poetic simile for heroic death rather than a recurring
+    narrative motif itself.
+  cautions: If the source passage treats animal combat at water as an enacted mythic
+    episode, review under sacred_combat or sacred_waters instead.
+  suggested_aliases:
+  - heroic death animal simile
+  - animal combat death comparison
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-conveyance-protecting-traveler-from-time-or-mortality
+  motif_id: animal_conveyance_protecting_traveler_from_time_or_mortality
+  label: animal conveyance protecting traveler from time or mortality
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: functional_variant
+  confidence: medium
+  rationale: In Celtic context, protective animal transport from time or mortality
+    suggests otherworld travel and enchanted protection from ordinary temporality.
+  cautions: Could fit magical animal mount under shapeshifter if the animal's nature
+    is primary, or immortality_without_renewal if the focus is deathless time rather
+    than travel.
+  suggested_aliases:
+  - otherworld animal mount
+  - animal conveyance beyond time
+  - enchanted animal transport
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-messenger-carries-death-tidings
+  motif_id: animal_messenger_carries_death_tidings
+  label: Animal messenger carries death tidings
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif combines animal messenger, death news, and possible omen functions
+    without enough context for a stable group.
+  cautions: May belong under lament_and_mourning, dream_and_vision as omen, divine_intervention
+    as messenger agency, or be an episode-specific narrative detail.
+  suggested_aliases:
+  - animal death messenger
+  - animal bearer of death news
+  - death tidings by animal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-returns-bearing-proof-of-death
+  motif_id: animal_returns_bearing_proof_of_death
+  label: animal returns bearing proof of death
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This is a specific recognition or evidence-bearing episode involving
+    an animal and a death report.
+  cautions: Could map to lament_and_mourning if it triggers mourning, divine_intervention
+    if the animal is supernaturally guided, or be too episode-specific for pattern
+    queries.
+  suggested_aliases:
+  - animal proof of death
+  - animal brings death token
+  - returning animal confirms death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.anticipated-heroic-death-as-carrion-in-hostile-land
+  motif_id: anticipated_heroic_death_as_carrion_in_hostile_land
+  label: anticipated heroic death as carrion in hostile land
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label concerns the expectation of warrior death and dishonored exposure
+    after battle, fitting heroic combat death themes.
+  cautions: If the passage emphasizes grief or funeral denial, lament_and_mourning
+    or heroic_funeral_rites may be better secondary placements; the carrion detail
+    is over-specific.
+  suggested_aliases:
+  - anticipated warrior death
+  - heroic death without burial
+  - warrior corpse as carrion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.apparent-death-followed-by-signs-of-life
+  motif_id: apparent_death_followed_by_signs_of_life
+  label: apparent death followed by signs of life
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: functional_variant
+  confidence: high
+  rationale: Apparent death followed by life-signs fits the broader death-to-renewed-life
+    transformation complex.
+  cautions: Use resurrection only if the figure is truly dead and restored; otherwise
+    preserve apparent-death specificity.
+  suggested_aliases:
+  - apparent death and revival
+  - signs of life after seeming death
+  - deathlike state followed by recovery
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.appeal-to-hostile-divinity-for-death-as-relief
+  motif_id: appeal_to_hostile_divinity_for_death_as_relief
+  label: appeal to hostile divinity for death as relief
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A plea for death from a hostile deity could be lament, divine judgment,
+    curse, despair, or episode-specific rhetoric.
+  cautions: Sensitive psychological and theological context is needed; avoid treating
+    all death-wishes as sacrifice or judgment without passage evidence.
+  suggested_aliases:
+  - prayer for death as relief
+  - death sought from hostile god
+  - appeal for release through death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.appointed-day-of-death
+  motif_id: appointed_day_of_death
+  label: appointed day of death
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: narrower_than
+  confidence: high
+  rationale: An appointed day of death directly expresses death as fixed by fate,
+    destiny, or a determining order.
+  cautions: If appointed by a deity as punishment, divine_judgment may be a secondary
+    mapping.
+  suggested_aliases:
+  - fated day of death
+  - destined death day
+  - fixed time of death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch were assigned to the death/descent bucket because they
+  mention descent or death, but some are better treated as revelation, divine agency,
+  heroic combat, or textual simile.
+- Animal messenger/proof-of-death motifs may warrant a future animal-omen or death-message
+  grouping if they recur across traditions, but single occurrences need source review.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_normalization_suggester
+  reviewed_at: ''
+  notes: Provisional placements only; no transmission or borrowing claims implied.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0460
+  input_sha256: 2fd92b7f41210db461398c56200e1d3f6ad36c911a6d7c708cad89fbe5ab9056

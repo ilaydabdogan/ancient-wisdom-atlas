@@ -1,0 +1,296 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0458
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.abstention-from-animal-slaughter-because-animals-may-contain-human-souls
+  motif_id: abstention_from_animal_slaughter_because_animals_may_contain_human_souls
+  label: Abstention from animal slaughter because animals may contain human souls
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A prohibition on slaughter grounded in soul-belief functions as ritual
+    or ethical law, close to animal taboo and blood/life restrictions.
+  cautions: Could also involve transmigration or soul anthropology; preserve the human-soul-in-animal
+    detail and review whether sacred_law or a future soul/transmigration group is
+    better.
+  suggested_aliases:
+  - animal_slaughter_taboo_due_to_human_souls
+  - animal_taboo_based_on_soul_presence
+  - abstention_from_killing_ensouled_animals
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.accidental-death-by-received-weapon
+  motif_id: accidental_death_by_received_weapon
+  label: accidental death by received weapon
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label names a specific death mechanism but does not indicate sacred
+    function, fate, judgment, warrior honor, or transformation.
+  cautions: May be an episode detail rather than a reusable motif. If the received
+    weapon fulfills destiny or ironic self-causation, death_by_fate may be relevant;
+    if only plot mechanics, exclude.
+  suggested_aliases:
+  - death_by_received_weapon
+  - accidental_death_from_given_weapon
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.accidental-death-concealed-as-crime
+  motif_id: accidental_death_concealed_as_crime
+  label: accidental death concealed as crime
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: death_descent_afterlife
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This reads as a plot-specific legal deception or narrative complication,
+    not a broad mythic or ritual motif.
+  cautions: If the passage centers on moral reckoning, false accusation, or divine
+    exposure of guilt, review for divine_judgment; otherwise keep as episode evidence
+    only.
+  suggested_aliases:
+  - accidental_death_hidden_as_crime
+  - concealment_of_accidental_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.accidental-death-mistaken-for-murder
+  motif_id: accidental_death_mistaken_for_murder
+  label: accidental death mistaken for murder
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: death_descent_afterlife
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label describes a specific mistaken-identity/legal plot situation
+    rather than an established sacred death or afterlife motif.
+  cautions: Could support divine_judgment if the narrative involves supernatural truth-finding
+    or moral reckoning; otherwise preserve only as passage detail.
+  suggested_aliases:
+  - accidental_death_misread_as_murder
+  - death_mistaken_for_homicide
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.accused-killer-denies-guilt-and-reframes-death-as-accident
+  motif_id: accused_killer_denies_guilt_and_reframes_death_as_accident
+  label: Accused killer denies guilt and reframes death as accident
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This is a highly contextual defense speech or plot claim, not a durable
+    symbolic motif by itself.
+  cautions: If tied to trial, oath, pollution, or divine punishment, source evidence
+    may justify sacred_law or divine_judgment; label alone is too forensic.
+  suggested_aliases:
+  - killer_reframes_death_as_accident
+  - denial_of_guilt_after_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.afterlife-continuation-of-earthly-fixation
+  motif_id: afterlife_continuation_of_earthly_fixation
+  label: afterlife continuation of earthly fixation
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: afterlife_passage
+  suggested_group_label: Afterlife Navigation and Passage
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif concerns postmortem existence retaining earthly attachments
+    or obsessions, fitting afterlife-state and soul-continuity patterns.
+  cautions: If the emphasis is moral punishment for fixation, divine_judgment may
+    be a secondary fit; if it is merely satirical characterization, review before
+    indexing.
+  suggested_aliases:
+  - earthly_fixation_continues_after_death
+  - postmortem_continuation_of_desire
+  - afterlife_persistence_of_attachment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.aged-champion-returns-under-provocation
+  motif_id: aged_champion_returns_under_provocation
+  label: aged champion returns under provocation
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: role_variant
+  confidence: low
+  rationale: An old champion re-entering action under challenge fits heroic-warrior
+    role and honor under crisis more than death or afterlife.
+  cautions: Low confidence because no sacred combat, death, or transformation function
+    is explicit. Could be a heroic episode detail or belong under sacred_combat if
+    conflict structure is central.
+  suggested_aliases:
+  - old_champion_returns_to_fight
+  - aged_warrior_recalled_by_challenge
+  - provoked_return_of_retired_champion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.alternate-traditional-ending-for-a-mythic-death
+  motif_id: alternate_traditional_ending_for_a_mythic_death
+  label: alternate traditional ending for a mythic death
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: death_descent_afterlife
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes variant tradition or narrative transmission rather
+    than the death motif itself.
+  cautions: Preserve as textual/provenance evidence. If the alternate ending has a
+    distinct recurring symbolic function, create or map that function separately.
+  suggested_aliases:
+  - variant_ending_for_mythic_death
+  - alternate_death_tradition
+  - traditional_variant_of_death_episode
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ancestor-or-founder-sepulchre-veneration
+  motif_id: ancestor_or_founder_sepulchre_veneration
+  label: ancestor or founder sepulchre veneration
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: high
+  rationale: Veneration at an ancestor or founder tomb is ritual care and honoring
+    of the dead, fitting the ancestor_rites complex.
+  cautions: If the focus is saintly shrine, pilgrimage, or dynastic legitimacy, divine_intervention
+    or royal_legitimacy may be secondary; review Islamic context carefully.
+  suggested_aliases:
+  - founder_tomb_veneration
+  - ancestor_tomb_veneration
+  - sepulchre_veneration_of_founder
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ancestral-and-household-exhortation-before-last-stand
+  motif_id: ancestral_and_household_exhortation_before_last_stand
+  label: ancestral and household exhortation before last stand
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label frames kin, household, and ancestral obligations as motivating
+    a final martial stand, fitting sacred or honor-bound combat.
+  cautions: If actual ancestral spirits speak, ancestor_rites or divine_intervention
+    may be relevant. If merely rhetorical exhortation, preserve as heroic-warrior
+    evidence rather than a standalone motif.
+  suggested_aliases:
+  - ancestral_exhortation_before_last_stand
+  - household_exhortation_to_final_battle
+  - kinship_appeal_before_last_stand
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are forensic or episode-specific death-plot descriptions;
+  these should not be promoted without recurring cross-source evidence.
+- Avoid treating every death label as death_and_transformation or afterlife_passage;
+  map only when there is a clear ritual, postmortem, sacred-combat, judgment, or transformation
+  function.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Provisional normalization suggestions generated for batch 0458; human review
+    recommended for low-confidence combat and accidental-death items.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0458
+  input_sha256: 6d1faf57d4312d16d5da429ef493714179f4eacfa993970fe80976acf90711e7

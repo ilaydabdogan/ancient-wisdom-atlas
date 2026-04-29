@@ -1,0 +1,300 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0462
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.battle-for-recovery-or-dishonor-of-a-hero-s-corpse
+  motif_id: battle_for_recovery_or_dishonor_of_a_hero_s_corpse
+  label: Battle for recovery or dishonor of a hero's corpse
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: functional_variant
+  confidence: high
+  rationale: The motif concerns contest over a dead hero's body and the social duty
+    to recover, honor, or prevent dishonor of the corpse.
+  cautions: Could also be indexed secondarily under sacred_combat if the battle itself
+    is foregrounded over funerary honor.
+  suggested_aliases:
+  - corpse recovery battle
+  - defense of hero's corpse
+  - dishonor of heroic corpse
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.battle-rage-and-vengeance-after-a-comrade-s-death
+  motif_id: battle_rage_and_vengeance_after_a_comrade_s_death
+  label: battle rage and vengeance after a comrade's death
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: A warrior's rage and vengeance after a companion's death fits heroic
+    battle duty, vengeance, and warrior-death patterns already grouped with divine_warrior.
+  cautions: If the passage emphasizes mourning rather than combat response, lament_and_mourning
+    may be the better parent; if revenge oath is central, preserve that detail.
+  suggested_aliases:
+  - vengeance for fallen comrade
+  - battle fury after companion's death
+  - warrior rage after comrade death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.battlefield-as-corpse-feeding-deathscape
+  motif_id: battlefield_as_corpse_feeding_deathscape
+  label: battlefield as corpse-feeding deathscape
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The label frames the battlefield as a ritualized or mythic landscape
+    of death within warfare.
+  cautions: May be poetic imagery rather than a recurring motif; if focused on corpses
+    and carrion without sacred combat function, human review should decide whether
+    to exclude as over-specific evidence detail.
+  suggested_aliases:
+  - battlefield deathscape
+  - corpse-feeding battlefield
+  - battlefield as carrion landscape
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.beautiful-youth-with-untimely-death
+  motif_id: beautiful_youth_with_untimely_death
+  label: beautiful youth with untimely death
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A beautiful youth dying prematurely is chiefly a tragic loss motif that
+    invites lament and recognition of mortality.
+  cautions: Could become death_and_transformation if the youth is transformed after
+    death, or sacred_love if beloved longing is central; label alone does not show
+    return or rebirth.
+  suggested_aliases:
+  - untimely death of beautiful youth
+  - beautiful dead youth
+  - premature death of youth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.beloved-s-pursuit-leads-to-unintended-death
+  motif_id: beloved_s_pursuit_leads_to_unintended_death
+  label: beloved’s pursuit leads to unintended death
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif links erotic or beloved pursuit with fatal consequence, fitting
+    love as dangerous, transformative, or death-bearing.
+  cautions: If the passage emphasizes accident, hunting, or metamorphosis more than
+    love, death_and_transformation or shapeshifter may be better secondary mappings.
+  suggested_aliases:
+  - fatal pursuit of beloved
+  - love pursuit causing death
+  - unintended death through beloved pursuit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.beloved-s-self-death-and-placement-beside-dead-hero-with-sword-boundary
+  motif_id: beloved_s_self_death_and_placement_beside_dead_hero_with_sword_boundary
+  label: Beloved's self-death and placement beside dead hero with sword boundary
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The core pattern is love continuing into death and burial beside the
+    dead hero, with the sword boundary as episode-specific detail.
+  cautions: Self-death and funerary placement may also fit heroic_funeral_rites or
+    lament_and_mourning; preserve the sword boundary as evidence rather than promoting
+    it as canonical.
+  suggested_aliases:
+  - beloved dies beside dead hero
+  - lover joins hero in death
+  - burial beside beloved with sword boundary
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.benevolent-aerial-nature-spirits-tending-plants-and-animals
+  motif_id: benevolent_aerial_nature_spirits_tending_plants_and_animals
+  label: benevolent aerial nature spirits tending plants and animals
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: low
+  rationale: Benevolent spirits caring for natural life fit supernatural agency and
+    protective guidance in the world.
+  cautions: The death bucket may be accidental; this could warrant a future nature-spirit
+    group if many similar labels recur. Review cultural context before flattening
+    local spirit categories.
+  suggested_aliases:
+  - benevolent nature spirits
+  - aerial spirits tending nature
+  - protective plant and animal spirits
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bereaved-mother-s-dying-curse
+  motif_id: bereaved_mother_s_dying_curse
+  label: Bereaved mother's dying curse
+  occurrences: 1
+  traditions:
+  - indigenous_australian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines kinship grief, deathbed speech, and curse power, but
+    the dominant function is unclear without source evidence.
+  cautions: Culturally sensitive Indigenous Australian context; avoid forcing into
+    lament, divine_judgment, or sacred speech without confirming the role of curse,
+    mourning, and agency.
+  suggested_aliases:
+  - dying curse of bereaved mother
+  - mother's death curse
+  - mourning mother's curse
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.binding-underworld-food
+  motif_id: binding_underworld_food
+  label: binding underworld food
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: descent
+  suggested_group_label: Descent and Underworld Journey
+  relationship: functional_variant
+  confidence: high
+  rationale: Eating underworld food that binds a figure to the realm of death is a
+    classic underworld journey constraint.
+  cautions: If the passage maps postmortem rules for the dead rather than a living
+    descent episode, afterlife_passage may be an additional mapping.
+  suggested_aliases:
+  - underworld food taboo
+  - food binding one to the underworld
+  - eating food of the dead
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bleeding-plant-reveals-a-murdered-dead-person
+  motif_id: bleeding_plant_reveals_a_murdered_dead_person
+  label: Bleeding plant reveals a murdered dead person
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A dead person manifesting through a bleeding plant fits postmortem transformation
+    or embodiment in vegetation.
+  cautions: Could also relate to sacred_tree_axis only if the plant has cosmic or
+    axis function; if used mainly as murder revelation, dream_and_vision or divine_judgment
+    may be secondary.
+  suggested_aliases:
+  - murdered dead revealed by bleeding plant
+  - bleeding vegetation as dead person
+  - plant manifestation of murdered dead
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Suggestions are provisional placements for review; several single-occurrence labels
+  are over-specific and should preserve episode details as evidence notes rather than
+  canonical motifs.
+- No transmission or borrowing claims are implied by Greek, Roman, Norse, Hindu, or
+  Indigenous Australian placement similarities.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api_assistant
+  reviewed_at: ''
+  notes: Batch reviewed for best-fit normalization groups; bereaved mother's dying
+    curse held for human review due to ambiguity and cultural sensitivity.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0462
+  input_sha256: a56c516cbe6aa5022b61f282ebca7f81db3177de9429b495ae7daea5510010da

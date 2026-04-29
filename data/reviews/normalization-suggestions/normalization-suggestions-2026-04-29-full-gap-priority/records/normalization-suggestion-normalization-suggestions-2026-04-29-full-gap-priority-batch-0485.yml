@@ -1,0 +1,301 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0485
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.funeral-appeasement-and-restoration-of-the-enemy-corpse
+  motif_id: funeral_appeasement_and_restoration_of_the_enemy_corpse
+  label: funeral appeasement and restoration of the enemy corpse
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Restoring and appeasing an enemy corpse is a funerary honor or mortuary
+    repair act around heroic death.
+  cautions: May also involve sacred combat, reconciliation, or ritual purification;
+    source context should confirm it is not only an episode-specific plot detail.
+  suggested_aliases:
+  - enemy corpse restored for burial
+  - funerary appeasement of enemy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.funeral-games-and-honors-for-the-dead
+  motif_id: funeral_games_and_honors_for_the_dead
+  label: Funeral games and honors for the dead
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: alias
+  confidence: high
+  rationale: The existing group already includes funeral games and honors performed
+    for dead heroes or companions.
+  cautions: If the dead figure is not heroic or socially central, the item may be
+    a broader mortuary rite rather than heroic memorialization.
+  suggested_aliases:
+  - funeral games after heroic death
+  - funerary honors for the dead
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.funeral-provision-for-possible-battlefield-death
+  motif_id: funeral_provision_for_possible_battlefield_death
+  label: Funeral provision for possible battlefield death
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: functional_variant
+  confidence: medium
+  rationale: Preparing funeral arrangements in anticipation of battle death fits heroic
+    mortuary honor and social memorialization around warrior death.
+  cautions: Could be a Roman legal or military practice detail rather than a mythic
+    motif; verify narrative or ritual salience.
+  suggested_aliases:
+  - prearranged funeral before battle
+  - battlefield death funeral provision
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.funeral-rejoicing-for-holy-death
+  motif_id: funeral_rejoicing_for_holy_death
+  label: Funeral rejoicing for holy death
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Rejoicing at a holy death frames death as transition, fulfillment, or
+    transformation rather than simple loss.
+  cautions: In Sufi contexts this may specifically imply mystical union with the divine
+    beloved; consider secondary review under mystical_quest or annihilation_union.
+  suggested_aliases:
+  - rejoicing at holy death
+  - death as mystical union celebration
+  - funeral joy for saintly death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.funeral-ship-with-costly-grave-goods
+  motif_id: funeral_ship_with_costly_grave_goods
+  label: funeral ship with costly grave goods
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A ship burial with rich goods is a mortuary honor and memorial rite for
+    a socially important dead figure.
+  cautions: If the ship functions as transport to the afterlife, afterlife_passage
+    or sacred_vessel may be relevant secondary mappings.
+  suggested_aliases:
+  - ship burial with grave goods
+  - costly grave goods in funeral ship
+  - funerary ship burial
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.funerary-honor-marked-by-raised-tomb-or-pile
+  motif_id: funerary_honor_marked_by_raised_tomb_or_pile
+  label: funerary honor marked by raised tomb or pile
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: ritual_variant
+  confidence: high
+  rationale: A raised tomb or mound publicly memorializes and honors the dead, matching
+    the heroic funeral rites group.
+  cautions: If the tomb becomes a sacred center or cult site, axis_mundi or ancestor_rites
+    could be considered secondarily.
+  suggested_aliases:
+  - raised tomb as funerary honor
+  - burial mound memorial
+  - funerary pile honors the dead
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.genealogical-descent-of-hero
+  motif_id: genealogical_descent_of_hero
+  label: genealogical descent of hero
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The phrase may mean lineage ancestry rather than descent into death or
+    the underworld.
+  cautions: Likely bucketed by the word 'descent'; could fit royal_legitimacy, miraculous_child,
+    culture_hero, or be a genealogical passage artifact depending on evidence.
+  suggested_aliases:
+  - heroic lineage
+  - hero ancestry
+  - descent from heroic ancestors
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.genealogical-origin-of-peoples-from-named-ancestors
+  motif_id: genealogical_origin_of_peoples_from_named_ancestors
+  label: Genealogical origin of peoples from named ancestors
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Ancestral Origins and Genealogical Descent
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label describes peoples deriving identity from named ancestors, a
+    recurring origin-and-lineage pattern not well covered by ancestor rites or royal
+    legitimacy.
+  cautions: Could be a passage-specific genealogy; create a group only if similar
+    ethnogonic or lineage-origin labels recur across sources.
+  suggested_aliases:
+  - peoples descended from named ancestors
+  - genealogical origin of peoples
+  - eponymous ancestors of peoples
+  suggested_new_group:
+    id: ancestral_origins
+    label: Ancestral Origins and Genealogical Descent
+    description: Peoples, clans, lineages, or heroes derive origin, identity, rank,
+      or destiny from named ancestors, eponymous founders, or remembered genealogical
+      descent.
+    parent_group_ids:
+    - culture_hero
+    - royal_legitimacy
+    related_group_ids:
+    - ancestor_rites
+    - miraculous_child
+    - divine_race
+    reason_existing_groups_insufficient: Existing ancestor_rites covers ritual care
+      of the dead, while royal_legitimacy covers political authorization; neither
+      broadly covers genealogical origin of peoples from founding ancestors.
+- suggestion_id: normalization.suggestion.ghost-of-dead-father-appears-to-son
+  motif_id: ghost_of_dead_father_appears_to_son
+  label: Ghost of dead father appears to son
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: functional_variant
+  confidence: medium
+  rationale: A dead father's apparition is a visionary encounter that can transmit
+    warning, instruction, or recognition from the dead.
+  cautions: If the scene occurs during an underworld journey, descent may be primary;
+    if it concerns ongoing dead-living obligations, ancestor_rites may be relevant.
+  suggested_aliases:
+  - dead father appears to son
+  - paternal ghost apparition
+  - ghostly father vision
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.gradual-descent-of-sacred-scripture
+  motif_id: gradual_descent_of_sacred_scripture
+  label: Gradual descent of sacred scripture
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: high
+  rationale: The descent of scripture is revelation or transmission of sacred knowledge,
+    not an underworld descent motif.
+  cautions: May also relate to theophany or divine_intervention depending on whether
+    the passage emphasizes manifestation, angelic mediation, or textual revelation.
+  suggested_aliases:
+  - descent of revelation
+  - scripture sent down gradually
+  - revelation as sacred scripture
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items appear to have been bucketed under death/descent due to lexical cues;
+  genealogical and scripture 'descent' should not be treated as underworld descent
+  without evidence.
+- Most funeral labels are single-occurrence and may be granular evidence under heroic_funeral_rites
+  rather than candidates for new canonical motifs.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Provisional placements only; human review should confirm passage context,
+    especially for genealogy and culturally specific Sufi or Islamic revelation labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0485
+  input_sha256: 8238562ef6f799ccd60a3f49f20fdd0a07fb03919701fd7a6ebfda970ada9ffd

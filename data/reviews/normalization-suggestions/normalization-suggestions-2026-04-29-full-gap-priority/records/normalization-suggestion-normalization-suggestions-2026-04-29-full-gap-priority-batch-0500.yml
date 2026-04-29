@@ -1,0 +1,313 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0500
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.mourning-procession-or-circular-rite-around-the-dead
+  motif_id: mourning_procession_or_circular_rite_around_the_dead
+  label: mourning procession or circular rite around the dead
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label describes a mortuary rite performed around the dead, fitting
+    funeral rites and memorial action.
+  cautions: If the passage emphasizes grief expression more than formal rite, lament_and_mourning
+    may be a secondary or better fit.
+  suggested_aliases:
+  - mourning procession around the dead
+  - circular mourning rite
+  - funerary procession around the dead
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mourning-rites-at-an-empty-or-symbolic-tomb
+  motif_id: mourning_rites_at_an_empty_or_symbolic_tomb
+  label: mourning rites at an empty or symbolic tomb
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: ritual_variant
+  confidence: high
+  rationale: Rites at an empty or symbolic tomb are memorial and funerary practices
+    for absent remains.
+  cautions: Could also relate to lament_and_mourning if the source focuses on grief
+    rather than ritual commemoration.
+  suggested_aliases:
+  - cenotaph mourning rites
+  - mourning at symbolic tomb
+  - rites at empty tomb
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mourning-spouse-attempts-to-replace-the-dead-beloved-with-an-artificial-bride
+  motif_id: mourning_spouse_attempts_to_replace_the_dead_beloved_with_an_artificial_bride
+  label: Mourning spouse attempts to replace the dead beloved with an artificial bride
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The core pattern is grief for a dead beloved driving an attempted substitute
+    or replacement.
+  cautions: Highly episode-specific; if artificial bride has magical construction
+    or resurrection function, sacred_craft or death_and_transformation may be relevant.
+  suggested_aliases:
+  - dead beloved replaced by artificial bride
+  - mourning spouse seeks artificial substitute
+  - artificial replacement for dead beloved
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mourning-the-living-warrior-as-already-dead
+  motif_id: mourning_the_living_warrior_as_already_dead
+  label: mourning the living warrior as already dead
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: functional_variant
+  confidence: medium
+  rationale: Premature mourning treats the warrior's death as fixed or inevitable
+    before it occurs.
+  cautions: If the passage centers on grief performance rather than fatal destiny,
+    lament_and_mourning should be used instead or as secondary mapping.
+  suggested_aliases:
+  - anticipatory mourning for doomed warrior
+  - living warrior mourned as dead
+  - mourning the doomed warrior
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mourning-without-proper-burial-rites
+  motif_id: mourning_without_proper_burial_rites
+  label: mourning without proper burial rites
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: ritual_variant
+  confidence: high
+  rationale: The motif centers on absent or improper burial rites, directly within
+    funeral rite concerns.
+  cautions: May also index lament_and_mourning when the emotional response is primary,
+    or afterlife_passage if improper rites affect the soul's journey.
+  suggested_aliases:
+  - lack of proper burial rites
+  - mourning without burial
+  - improper funeral rites
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.multiple-souls
+  motif_id: multiple_souls
+  label: multiple souls
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label names a comparative soul anthropology rather than a clear narrative
+    function.
+  cautions: May belong near external_soul or soul_loss_restoration if a separable
+    soul acts in narrative or ritual; otherwise it may be a conceptual or scholarly
+    classification note.
+  suggested_aliases:
+  - plural souls
+  - multiple soul components
+  - divided soul concept
+  suggested_new_group:
+    id: soul_anthropology
+    label: Soul Anthropology and Vital Components
+    description: Beliefs or narratives in which personhood is composed of multiple
+      souls, vital parts, doubles, shadows, breaths, or separable life-forces with
+      distinct functions.
+    parent_group_ids:
+    - death_and_transformation
+    related_group_ids:
+    - external_soul
+    - soul_loss_restoration
+    - afterlife_passage
+    reason_existing_groups_insufficient: Existing groups cover externalized, lost,
+      or restored souls, but not the broader concept of multiple internal soul components
+      unless a narrative function is specified.
+- suggestion_id: normalization.suggestion.murdered-dead-reveals-hidden-truth-in-dream
+  motif_id: murdered_dead_reveals_hidden_truth_in_dream
+  label: murdered dead reveals hidden truth in dream
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: functional_variant
+  confidence: high
+  rationale: A dead figure discloses hidden truth through a dream, matching revelatory
+    dream or vision.
+  cautions: If the dead person's agency as ancestor/ghost is primary, ancestor_rites
+    or afterlife_passage may be secondary; do not treat all dead-dreams as afterlife
+    maps.
+  suggested_aliases:
+  - dead reveal truth in dream
+  - murder victim appears in dream
+  - dream revelation by the dead
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.music-shaping-soul-and-body
+  motif_id: music_shaping_soul_and_body
+  label: music shaping soul and body
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Music affecting soul and body may be philosophical, ritual, therapeutic,
+    or cosmological depending on evidence.
+  cautions: Could fit sacred_knowledge, storytelling_as_power, mystical_quest, or
+    a future sacred music group; source context is needed before indexing.
+  suggested_aliases:
+  - music transforms soul and body
+  - musical shaping of the soul
+  - music as psychophysical power
+  suggested_new_group:
+    id: sacred_music
+    label: Sacred Music and Transformative Sound
+    description: Music, song, chant, rhythm, or sound acts as sacred power that transforms
+      body, soul, emotion, cosmos, or ritual state.
+    parent_group_ids:
+    - sacred_knowledge
+    related_group_ids:
+    - storytelling_as_power
+    - mystical_quest
+    - sacred_song
+    reason_existing_groups_insufficient: Existing groups include sacred_song as expressive
+      wisdom, but do not clearly cover music or sound as an active transformative
+      force on soul and body.
+- suggestion_id: normalization.suggestion.mutual-death-in-combat-by-engulfing-water
+  motif_id: mutual_death_in_combat_by_engulfing_water
+  label: mutual death in combat by engulfing water
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The main narrative function is matched combat ending in mutual death;
+    engulfing water is a specific death mechanism.
+  cautions: If the water has ritual, boundary, or otherworld-passage significance,
+    sacred_waters may be a secondary mapping; avoid reading it as flood renewal.
+  suggested_aliases:
+  - matched warriors die in engulfing water
+  - mutual combat death by water
+  - combatants drowned together
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mutual-death-of-matched-champions
+  motif_id: mutual_death_of_matched_champions
+  label: mutual death of matched champions
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: high
+  rationale: Matched champions dying together is a heroic combat pattern within sacred
+    or ritualized warfare.
+  cautions: Could also relate to lament_and_mourning or death_by_fate when the source
+    emphasizes doomed destiny or aftermath rather than combat structure.
+  suggested_aliases:
+  - matched champions die together
+  - mutual death in single combat
+  - equal warriors kill each other
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items in this batch are single-occurrence and episode-specific; preserve
+  granular labels as evidence notes even when mapped to broad groups.
+- Mourning and funeral labels often overlap between lament_and_mourning and heroic_funeral_rites;
+  final placement should follow whether emotional grief or ritual memorialization
+  is primary.
+- Soul anthropology and music-as-transformative-power may warrant future groups only
+  if additional recurring labels support them.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Provisional placements generated for taxonomy review; new group candidates
+    suggested only for ambiguous conceptual gaps.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0500
+  input_sha256: 761cb96463d10df3df6a8ea7e5ba888cbaf33782cbdb8b1db99db50ccf583db3

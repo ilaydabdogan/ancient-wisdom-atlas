@@ -1,0 +1,288 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0456
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.wounded-hero-defending-cattle-alone
+  motif_id: wounded_hero_defending_cattle_alone
+  label: wounded hero defending cattle alone
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: narrower_than
+  confidence: medium
+  rationale: A cattle-defense combat episode fits the existing cattle-raid and martial
+    ordeal cluster under sacred_combat.
+  cautions: Highly episode-specific; preserve wound, cattle, and lone-defense details
+    as evidence rather than promoting a new motif.
+  suggested_aliases:
+  - wounded cattle defender
+  - lone cattle defender
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wounded-heroes-and-the-absent-champion
+  motif_id: wounded_heroes_and_the_absent_champion
+  label: wounded heroes and the absent champion
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label concerns heroic-warrior battle capacity and the decisive absence
+    of a champion, best parked under the warrior-combat group.
+  cautions: May be a passage-specific battlefield configuration rather than a reusable
+    motif; could also fit sacred_combat if ritual or cosmic stakes are explicit.
+  suggested_aliases:
+  - absent champion after heroes wounded
+  - wounded heroes without champion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wounded-indispensable-hero-absent-from-battle
+  motif_id: wounded_indispensable_hero_absent_from_battle
+  label: Wounded indispensable hero absent from battle
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: over_specific_label
+  confidence: medium
+  rationale: A wounded indispensable fighter whose absence changes battle belongs
+    with heroic warrior function and combat crisis.
+  cautions: Likely too contextual for a canonical motif; if the emphasis is plot absence
+    rather than sacred combat, keep only as evidence detail.
+  suggested_aliases:
+  - wounded champion absent from battle
+  - indispensable wounded warrior absent
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wounded-leaders-inspire-battle-from-behind-the-front
+  motif_id: wounded_leaders_inspire_battle_from_behind_the_front
+  label: wounded leaders inspire battle from behind the front
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: role_variant
+  confidence: low
+  rationale: The core function is wounded leaders maintaining authority and inspiring
+    martial order despite absence from the front.
+  cautions: Could fit divine_warrior or sacred_combat if the emphasis is battlefield
+    heroism rather than leadership authority; source evidence needed.
+  suggested_aliases:
+  - wounded leaders inspiring troops
+  - wounded commander inspires from rear
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wounded-lone-defender-holding-off-overwhelming-hosts
+  motif_id: wounded_lone_defender_holding_off_overwhelming_hosts
+  label: Wounded lone defender holding off overwhelming hosts
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: A wounded solitary defender against overwhelming forces is a heroic combat
+    ordeal within the warrior-combat complex.
+  cautions: Not necessarily divine or cosmic; sacred_combat may be a secondary fit
+    if the episode is tied to raid, ritual, or social order.
+  suggested_aliases:
+  - wounded lone defender
+  - single wounded hero holds off army
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wounded-warrior-protected-and-borne-from-battle
+  motif_id: wounded_warrior_protected_and_borne_from_battle
+  label: Wounded warrior protected and borne from battle
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: Rescue and protection of a wounded warrior is a recurring heroic-battle
+    function within the warrior combat sphere.
+  cautions: If divine rescue is explicit, divine_intervention may be an additional
+    mapping; otherwise this may be an episode detail.
+  suggested_aliases:
+  - wounded warrior rescued from battle
+  - wounded hero borne from battlefield
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wounded-warrior-requires-skilled-healer
+  motif_id: wounded_warrior_requires_skilled_healer
+  label: Wounded warrior requires skilled healer
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may concern heroic combat, healing craft, or a passage-specific
+    medical episode; no current group cleanly captures battle healing.
+  cautions: Avoid forcing into divine_warrior unless warrior status is the main motif;
+    consider future healing/medicine group if similar labels recur.
+  suggested_aliases:
+  - wounded hero needs healer
+  - skilled healer treats warrior
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_warrior
+    - divine_intervention
+    - sacred_knowledge
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wounds-figured-as-flowers
+  motif_id: wounds_figured_as_flowers
+  label: wounds figured as flowers
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: beauty_and_paradox
+  suggested_group_label: Beauty Paired with Pain and Paradox
+  relationship: symbolic_variant
+  confidence: high
+  rationale: Flower-like wounds directly express beauty joined to pain, a strong fit
+    for the beauty_and_paradox group.
+  cautions: In Sufi context the wounds may also relate to sacred_love or mystical_quest;
+    preserve devotional or poetic function in notes.
+  suggested_aliases:
+  - wounds as flowers
+  - flowering wounds
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.written-sign-as-enforceable-warning
+  motif_id: written_sign_as_enforceable_warning
+  label: written sign as enforceable warning
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: low
+  rationale: A written warning that carries enforceable authority fits law, prohibition,
+    and social order more than combat itself.
+  cautions: Could be merely a plot device or object-specific sign; if the sign guards
+    a boundary, threshold_guardian or sacred_treasures may be relevant.
+  suggested_aliases:
+  - enforceable written warning
+  - warning sign with binding force
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wrong-redressed-by-knightly-combat
+  motif_id: wrong_redressed_by_knightly_combat
+  label: wrong redressed by knightly combat
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Combat functions as a mechanism for moral redress and judgment, aligning
+    with reckoning and restoration of order.
+  cautions: If the emphasis is chivalric warfare rather than sacred/moral judgment,
+    sacred_combat may be a better primary group.
+  suggested_aliases:
+  - combat redresses wrong
+  - trial by knightly combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most items in this batch are single-occurrence heroic combat episode labels; several
+  should remain granular evidence under existing combat or judgment groups rather
+  than become new canonical motifs.
+- Consider whether recurring battle-healing labels justify a future healing/medicine
+  normalization group; current taxonomy has no clean parent for wounded-warrior treatment
+  motifs.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_normalization_assistant
+  reviewed_at: ''
+  notes: Provisional placements only; human review should verify source context, especially
+    for Greek battlefield episode labels and culturally specific Sufi wound imagery.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0456
+  input_sha256: 2308b2e5297c969461c5da2249e190136b29b5f3f4ae26c3f6879058fe42411b

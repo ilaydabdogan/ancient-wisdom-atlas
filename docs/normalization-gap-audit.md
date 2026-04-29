@@ -7,12 +7,12 @@ This report lists motif IDs that are present in the motif occurrence index but n
 ## Summary
 
 - Indexed motif IDs: 9072
-- Already mapped: 3236
-- Unmapped: 5836
+- Already mapped: 3523
+- Unmapped: 5549
 
 | Review Bucket | Unmapped Motifs |
 | --- | ---: |
-| Death, Descent, Afterlife, And Ancestors | 746 |
+| Death, Descent, Afterlife, And Ancestors | 477 |
 | Journey, Quest, Exile, And Homecoming | 437 |
 | Divine Presence, Ritual, Sacrifice, And Purity | 378 |
 | Wisdom, Speech, Dream, Vision, And Revelation | 396 |
@@ -20,7 +20,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | Love, Family, Gender, Birth, And The Body | 624 |
 | Animals, Trickster, Disguise, And Transformation | 430 |
 | Nature, Elements, Celestial Order, And Cosmos | 638 |
-| Conflict, Violence, Heroic Ordeal, And Victory | 368 |
+| Conflict, Violence, Heroic Ordeal, And Victory | 350 |
 | Objects, Places, Boundaries, And Thresholds | 249 |
 | Ethics, Psychology, Discipline, And Inner Life | 173 |
 | Needs Human Sorting | 884 |
@@ -29,149 +29,58 @@ This report lists motif IDs that are present in the motif occurrence index but n
 
 | Motif ID | Label | Occurrences | Traditions |
 | --- | --- | ---: | --- |
-| `contest_over_a_dead_hero_s_arms` | Contest over a dead hero's arms | 2 | greek, roman |
 | `false_token_of_death` | False token of death | 2 | islamic |
-| `funeral_games_honoring_the_dead` | funeral games honoring the dead | 2 | greek |
 | `saint_s_tomb_as_pilgrimage_center` | saint's tomb as pilgrimage center | 2 | sufi |
 | `abraham_as_primordial_monotheist_ancestor` | Abraham as primordial monotheist ancestor | 1 | islamic |
-| `abstention_from_animal_slaughter_because_animals_may_contain_human_souls` | Abstention from animal slaughter because animals may contain human souls | 1 | roman |
 | `accidental_death_by_received_weapon` | accidental death by received weapon | 1 | roman |
 | `accidental_death_concealed_as_crime` | accidental death concealed as crime | 1 | islamicate_folklore |
 | `accidental_death_mistaken_for_murder` | accidental death mistaken for murder | 1 | islamicate_folklore |
 | `accused_killer_denies_guilt_and_reframes_death_as_accident` | Accused killer denies guilt and reframes death as accident | 1 | greek |
-| `afterlife_continuation_of_earthly_fixation` | afterlife continuation of earthly fixation | 1 | roman |
 | `aged_champion_returns_under_provocation` | aged champion returns under provocation | 1 | roman |
 | `alternate_traditional_ending_for_a_mythic_death` | alternate traditional ending for a mythic death | 1 | celtic_irish |
-| `ancestor_or_founder_sepulchre_veneration` | ancestor or founder sepulchre veneration | 1 | islamic |
-| `ancestral_and_household_exhortation_before_last_stand` | ancestral and household exhortation before last stand | 1 | greek |
-| `ancestral_custom_resisting_revealed_correction` | Ancestral custom resisting revealed correction | 1 | islamic |
 | `ancestral_dispossession_used_to_justify_taking_from_outsiders` | ancestral dispossession used to justify taking from outsiders | 1 | islamic |
-| `ancestral_exempla_for_harsh_obedience` | ancestral exempla for harsh obedience | 1 | hindu |
 | `ancestral_exemplar_and_son_s_reputation` | ancestral exemplar and son’s reputation | 1 | greek |
-| `ancestral_feud_continuing_through_bloodline` | ancestral feud continuing through bloodline | 1 | hindu |
-| `ancestral_footprint_preserved_in_stone` | Ancestral footprint preserved in stone | 1 | islamic |
 | `ancestral_heroic_memory_in_epic_formation` | Ancestral heroic memory in epic formation | 1 | hindu |
-| `ancestral_mother_of_hostile_beings` | Ancestral mother of hostile beings | 1 | hindu |
-| `ancestral_objects_triggering_curse` | ancestral objects triggering curse | 1 | greek |
-| `ancestral_or_heroic_weapons_carrying_memory_of_prior_combat` | ancestral or heroic weapons carrying memory of prior combat | 1 | roman |
-| `angel_mediated_descent_of_revelation` | angel-mediated descent of revelation | 1 | islamic |
-| `angelic_descent_with_divine_decrees` | Angelic descent with divine decrees | 1 | islamic |
 | `animal_combat_at_water_as_heroic_death_simile` | Animal combat at water as heroic death simile | 1 | greek |
-| `animal_conveyance_protecting_traveler_from_time_or_mortality` | animal conveyance protecting traveler from time or mortality | 1 | celtic_irish |
 | `animal_messenger_carries_death_tidings` | Animal messenger carries death tidings | 1 | finnish_karelian |
 | `animal_returns_bearing_proof_of_death` | animal returns bearing proof of death | 1 | celtic_irish |
-| `anticipated_heroic_death_as_carrion_in_hostile_land` | anticipated heroic death as carrion in hostile land | 1 | finnish_karelian |
-| `apparent_death_followed_by_signs_of_life` | apparent death followed by signs of life | 1 | hindu |
 | `appeal_to_hostile_divinity_for_death_as_relief` | appeal to hostile divinity for death as relief | 1 | roman |
-| `appointed_day_of_death` | appointed day of death | 1 | roman |
-| `appointed_death_fulfilled_by_attempted_escape` | appointed death fulfilled by attempted escape | 1 | sufi |
-| `army_rout_after_champion_s_death` | army rout after champion’s death | 1 | hindu |
-| `attachment_to_a_beloved_followed_by_mourning_at_the_tomb` | Attachment to a beloved followed by mourning at the tomb | 1 | persian |
-| `avenger_from_the_dead_person_s_dust` | avenger from the dead person's dust | 1 | roman |
-| `avenging_descent_toward_death_s_domain` | avenging descent toward death’s domain | 1 | hindu |
-| `avenging_father_mobilizes_war_after_son_s_death` | Avenging father mobilizes war after son's death | 1 | roman |
-| `avoidance_naming_of_feared_underworld_deity` | avoidance naming of feared underworld deity | 1 | greek |
-| `backbiting_figured_as_eating_a_dead_brother` | Backbiting figured as eating a dead brother | 1 | islamic |
-| `banishment_of_a_harmful_spirit_to_remote_or_contrary_realms` | banishment of a harmful spirit to remote or contrary realms | 1 | finnish_karelian |
-| `battle_for_possession_of_a_hero_s_corpse` | battle for possession of a hero's corpse | 1 | greek |
-| `battle_for_recovery_or_dishonor_of_a_hero_s_corpse` | Battle for recovery or dishonor of a hero's corpse | 1 | greek |
-| `battle_rage_and_vengeance_after_a_comrade_s_death` | battle rage and vengeance after a comrade's death | 1 | greek |
-| `battlefield_as_corpse_feeding_deathscape` | battlefield as corpse-feeding deathscape | 1 | hindu |
-| `beautiful_youth_with_untimely_death` | beautiful youth with untimely death | 1 | greek |
-| `beloved_s_pursuit_leads_to_unintended_death` | beloved’s pursuit leads to unintended death | 1 | roman |
-| `beloved_s_self_death_and_placement_beside_dead_hero_with_sword_boundary` | Beloved's self-death and placement beside dead hero with sword boundary | 1 | norse |
 | `benevolent_aerial_nature_spirits_tending_plants_and_animals` | benevolent aerial nature spirits tending plants and animals | 1 | norse |
 | `bereaved_mother_s_dying_curse` | Bereaved mother's dying curse | 1 | indigenous_australian |
-| `binding_underworld_food` | binding underworld food | 1 | greek |
-| `bleeding_plant_reveals_a_murdered_dead_person` | Bleeding plant reveals a murdered dead person | 1 | roman |
-| `blessed_garden_and_river_afterlife` | blessed garden-and-river afterlife | 1 | islamic |
 | `blessing_against_widowhood_before_threatened_death` | Blessing against widowhood before threatened death | 1 | hindu |
 | `blood_debt_wordplay_at_death` | blood-debt wordplay at death | 1 | celtic_irish |
-| `blood_omen_from_heaven_before_heroic_death` | blood omen from heaven before heroic death | 1 | greek |
 | `blood_stained_token_falsely_indicating_death` | blood-stained token falsely indicating death | 1 | roman |
-| `bodily_omen_before_death_or_disaster` | bodily omen before death or disaster | 1 | celtic_irish |
-| `bodily_return_to_earth` | bodily return to earth | 1 | sufi |
-| `body_and_soul_jointly_liable` | Body and soul jointly liable | 1 | islamic |
-| `body_as_prison_of_the_soul` | Body as prison of the soul | 1 | sufi |
 | `body_returned_from_the_sea_by_animals` | Body returned from the sea by animals | 1 | greek |
-| `bones_gathered_into_an_urn_and_covered_before_tomb_raising` | bones gathered into an urn and covered before tomb raising | 1 | greek |
-| `brief_glory_granted_before_foretold_death` | brief glory granted before foretold death | 1 | greek |
-| `brothers_die_together_and_share_one_grave` | Brothers die together and share one grave | 1 | celtic_irish |
-| `burial_by_ancestors_or_ancestral_land` | burial by ancestors or ancestral land | 1 | islamic |
 | `burial_creates_or_explains_a_place_name` | burial creates or explains a place-name | 1 | roman |
-| `burial_of_the_fallen_after_combat` | burial of the fallen after combat | 1 | celtic_irish |
 | `cancellation_of_a_soul_to_avert_accumulated_anguish` | cancellation of a soul to avert accumulated anguish | 1 | sufi |
 | `captive_royal_woman_preserves_dignity_before_death` | Captive royal woman preserves dignity before death | 1 | roman |
 | `captured_spy_discloses_enemy_camp_before_death` | captured spy discloses enemy camp before death | 1 | greek |
-| `carpe_diem_before_death` | Carpe diem before death | 1 | sufi |
 | `carrion_bird_denies_revival_and_redirects_corpse_to_waters` | Carrion bird denies revival and redirects corpse to waters | 1 | finnish_karelian |
 | `catalogue_of_localized_spirits` | catalogue of localized spirits | 1 | daoist |
 | `catalogue_of_named_combat_deaths` | catalogue of named combat deaths | 1 | roman |
-| `celestial_sign_at_the_death_of_a_powerful_doctor` | celestial sign at the death of a powerful doctor | 1 | indigenous_australian |
 | `city_gates_as_refuge_from_pursuing_death` | city gates as refuge from pursuing death | 1 | greek |
 | `coercive_deadline_imposed_on_captive_woman` | coercive deadline imposed on captive woman | 1 | hindu |
-| `colored_flags_signal_life_or_death` | colored flags signal life or death | 1 | celtic_irish |
-| `combat_over_the_corpse_and_spoils_of_a_fallen_warrior` | Combat over the corpse and spoils of a fallen warrior | 1 | greek |
-| `commemorative_burial_with_inscribed_stones` | Commemorative burial with inscribed stones | 1 | celtic_irish |
-| `commemorative_games_for_a_dead_father` | Commemorative games for a dead father | 1 | roman |
 | `comrades_as_one_soul` | comrades as one soul | 1 | greek |
-| `comrades_cover_the_dead_warrior` | comrades cover the dead warrior | 1 | celtic_irish |
 | `conditional_or_liminal_death` | conditional or liminal death | 1 | celtic_welsh |
-| `contest_for_a_dead_hero_s_arms` | contest for a dead hero's arms | 1 | roman |
-| `contest_for_the_arms_of_a_dead_hero` | Contest for the arms of a dead hero | 1 | roman |
-| `contest_for_the_corpse_and_arms_of_a_fallen_hero` | contest for the corpse and arms of a fallen hero | 1 | greek |
-| `contest_over_the_dead_hero_s_arms` | Contest over the dead hero's arms | 1 | greek |
-| `contested_burial_of_a_revered_dead_figure` | contested burial of a revered dead figure | 1 | islamic |
-| `corpse_defense_and_removal_in_battle` | Corpse defense and removal in battle | 1 | greek |
 | `corpse_defilement_by_animals` | Corpse defilement by animals | 1 | greek |
 | `corpse_devouring_animal_below_a_murder_precipice` | corpse-devouring animal below a murder precipice | 1 | roman |
-| `corpse_dragger_punished_at_the_body` | corpse-dragger punished at the body | 1 | greek |
 | `corpse_passed_among_successive_households` | corpse passed among successive households | 1 | islamicate_folklore |
-| `cosmic_burial_and_acceptance_of_bodily_dissolution` | Cosmic burial and acceptance of bodily dissolution | 1 | daoist |
-| `cosmic_mourning_after_a_divine_death` | cosmic mourning after a divine death | 1 | norse |
-| `cosmic_signs_at_the_death_of_a_holy_person` | Cosmic signs at the death of a holy person | 1 | sufi |
-| `counterfeit_pleasure_as_spiritual_delusion` | counterfeit pleasure as spiritual delusion | 1 | sufi |
-| `creation_of_man_from_clay_and_divine_spirit` | Creation of man from clay and divine spirit | 1 | islamic |
-| `danger_of_union_with_a_deathless_goddess` | Danger of union with a deathless goddess | 1 | greek |
-| `dangerous_bridal_task_in_the_realm_of_death` | dangerous bridal task in the realm of death | 1 | finnish_karelian |
-| `dangerous_exchange_between_spirits_and_humans` | dangerous exchange between spirits and humans | 1 | islamic |
-| `dead_ancestor_or_master_gives_counsel` | Dead ancestor or master gives counsel | 1 | islamic |
-| `dead_beloved_s_grave_affected_by_the_living_beloved_s_emotions` | Dead beloved's grave affected by the living beloved's emotions | 1 | norse |
-| `dead_companions_linked_by_facing_mounds_across_water` | dead companions linked by facing mounds across water | 1 | norse |
-| `dead_god_or_ruler_preserved_in_mound_to_maintain_prosperity` | dead god or ruler preserved in mound to maintain prosperity | 1 | norse |
 | `dead_kin_imagined_in_the_sky` | dead kin imagined in the sky | 1 | hindu |
-| `dead_king_among_the_blessed` | dead king among the blessed | 1 | hindu |
 | `dead_prey_used_as_protective_substitute` | dead prey used as protective substitute | 1 | indigenous_australian |
 | `dead_ruler_still_looking_toward_lost_possessions` | Dead ruler still looking toward lost possessions | 1 | persian |
 | `deadly_boundary_against_further_negotiation` | deadly boundary against further negotiation | 1 | celtic_irish |
 | `deadly_intervention_by_allied_archer_in_a_duel` | deadly intervention by allied archer in a duel | 1 | hindu |
-| `deadly_siren_seascape` | Deadly Siren seascape | 1 | roman |
 | `deadly_spiked_battle_vehicle` | deadly spiked battle vehicle | 1 | celtic_irish |
 | `death_as_a_leveling_condition` | death as a leveling condition | 1 | sufi |
-| `death_as_descent_to_stygian_gloom` | death as descent to Stygian gloom | 1 | greek |
 | `death_as_drinking_and_silent_rest` | Death as drinking and silent rest | 1 | sufi |
 | `death_as_final_sleep_watched_by_nature` | death as final sleep watched by nature | 1 | sufi |
-| `death_as_going_beneath_the_earth_to_the_yellow_spring` | death as going beneath the earth to the Yellow Spring | 1 | daoist |
-| `death_as_passage_and_elemental_dissolution` | death as passage and elemental dissolution | 1 | hindu |
 | `death_as_passing_into_the_hand_of_wind` | Death as passing into the hand of Wind | 1 | sufi |
-| `death_as_predatory_bird_overtaking_the_powerful` | death as predatory bird overtaking the powerful | 1 | sufi |
 | `death_by_drowning_during_fishing_caused_by_rivals` | death by drowning during fishing caused by rivals | 1 | greek |
 | `death_by_one_s_own_hunting_dogs` | death by one's own hunting dogs | 1 | roman |
-| `death_by_poisoned_book_or_pages` | death by poisoned book or pages | 1 | islamicate_folklore |
 | `death_by_pyre_as_omen_to_departing_enemy` | death by pyre as omen to departing enemy | 1 | roman |
 | `death_creates_a_place_name_and_tale_name` | death creates a place-name and tale-name | 1 | celtic_irish |
 | `death_dealing_eye` | death-dealing eye | 1 | celtic_irish |
-| `death_dream_sent_to_doomed_sleeper` | death dream sent to doomed sleeper | 1 | greek |
 | `death_event_explains_a_place_name` | death event explains a place-name | 1 | celtic_irish |
-| `death_figure_riding_through_plague_and_famine` | Death figure riding through plague and famine | 1 | norse |
-| `death_figured_as_drinking_from_a_cup` | death figured as drinking from a cup | 1 | sufi |
-| `death_followed_by_celestial_identification` | Death followed by celestial identification | 1 | indigenous_australian |
-| `death_foretold_by_oracle_and_fulfilled_despite_avoidance` | death foretold by oracle and fulfilled despite avoidance | 1 | greek |
-| `death_from_grief_and_blame_after_destruction_of_two_lands` | death from grief and blame after destruction of two lands | 1 | celtic_welsh |
-| `death_from_grief_and_fear_after_witnessing_a_killing` | Death from grief and fear after witnessing a killing | 1 | celtic_irish |
-| `death_from_grief_for_wounded_spouse` | death from grief for wounded spouse | 1 | celtic_irish |
-| `death_from_shame_after_others_die_on_one_s_account` | death from shame after others die on one's account | 1 | celtic_irish |
-| `death_from_shame_after_slaughter_caused_by_protection` | death from shame after slaughter caused by protection | 1 | celtic_irish |
 | `death_god_as_wild_hunt_rider_or_leader` | death god as Wild Hunt rider or leader | 1 | norse |
 | `death_like_wrappings_conceal_martial_power` | death-like wrappings conceal martial power | 1 | hindu |
 | `death_memorial_covered_by_living_flowers` | death memorial covered by living flowers | 1 | sufi |
@@ -179,211 +88,64 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `death_messenger_with_life_tree_fruit` | Death messenger with life-tree fruit | 1 | sufi |
 | `death_of_a_king_in_a_sacked_guest_house` | death of a king in a sacked guest-house | 1 | celtic_irish |
 | `death_of_a_lord_followed_by_named_burial_place` | Death of a lord followed by named burial place | 1 | celtic_welsh |
-| `death_of_a_sacred_or_priestly_figure_in_battle` | death of a sacred or priestly figure in battle | 1 | greek |
 | `death_of_fostered_princely_companions_after_a_summons_and_journey` | death of fostered princely companions after a summons and journey | 1 | celtic_irish |
 | `death_of_named_companions_or_heroes` | death of named companions or heroes | 1 | celtic_irish |
 | `death_of_obstructing_father_after_daughter_s_transfer` | death of obstructing father after daughter's transfer | 1 | celtic_welsh |
 | `death_of_the_father_at_the_journey_s_goal` | death of the father at the journey's goal | 1 | roman |
-| `death_of_the_heroic_warrior_after_battle` | death of the heroic warrior after battle | 1 | celtic_irish |
 | `death_of_the_king_discovered_at_dawn` | death of the king discovered at dawn | 1 | hindu |
-| `death_of_the_mind_as_greater_sorrow_than_bodily_death` | death of the mind as greater sorrow than bodily death | 1 | daoist |
-| `death_omen_recognized_through_harp_sound` | Death omen recognized through harp sound | 1 | celtic_irish |
-| `death_pollution_transmitted_through_spouse` | death pollution transmitted through spouse | 1 | roman |
-| `death_pursuing_the_wealth_seeker` | death pursuing the wealth-seeker | 1 | persian |
 | `death_silences_the_senses` | Death silences the senses | 1 | sufi |
-| `death_taunt_with_denial_of_burial` | death taunt with denial of burial | 1 | greek |
 | `death_through_envy_after_surpassing_warriors` | Death through envy after surpassing warriors | 1 | celtic_irish |
 | `death_through_jealousy_after_westward_journey` | Death through jealousy after westward journey | 1 | celtic_irish |
-| `death_with_the_beloved` | death with the beloved | 1 | hindu |
-| `deathbed_counsel_to_prevent_kin_strife` | deathbed counsel to prevent kin-strife | 1 | sufi |
-| `deathbed_injunction_not_to_abandon_a_protected_person` | deathbed injunction not to abandon a protected person | 1 | islamicate_folklore |
-| `deathless_joyful_fairy_land` | deathless joyful Fairy Land | 1 | celtic_irish |
-| `deathless_remote_northern_happy_land` | Deathless remote northern happy land | 1 | hindu |
-| `deceiver_enemy_leading_followers_to_hell` | Deceiver enemy leading followers to hell | 1 | islamic |
 | `deceptive_survival_sign_of_a_dead_ruler` | deceptive survival sign of a dead ruler | 1 | celtic_irish |
-| `defeat_of_the_death_king` | defeat of the death-king | 1 | hindu |
-| `defeated_enemy_requests_burial` | defeated enemy requests burial | 1 | roman |
-| `defeated_ruler_sent_to_the_realm_of_death` | defeated ruler sent to the realm of death | 1 | hindu |
 | `deification_of_revered_ancestral_or_pious_figures_through_statues` | Deification of revered ancestral or pious figures through statues | 1 | islamic |
 | `delayed_maternal_return_rejected_by_violent_son` | delayed maternal return rejected by violent son | 1 | indigenous_australian |
 | `denial_of_burial_by_elemental_engulfment` | denial of burial by elemental engulfment | 1 | greek |
 | `denial_of_burial_to_the_defeated_enemy` | denial of burial to the defeated enemy | 1 | roman |
 | `denied_funerary_rites_and_corpse_exposure` | denied funerary rites and corpse exposure | 1 | greek |
-| `departed_companions_precede_the_speaker_into_death` | departed companions precede the speaker into death | 1 | sufi |
-| `descendant_mediated_afterlife_status` | Descendant-mediated afterlife status | 1 | hindu |
 | `descent_and_ascent_between_sea_depth_and_divine_height` | descent and ascent between sea-depth and divine height | 1 | greek |
 | `descent_from_an_animal_or_monkey_god_marked_by_bodily_sign` | descent from an animal or monkey-god marked by bodily sign | 1 | hindu |
-| `descent_of_divine_tranquility_upon_a_threatened_community` | descent of divine tranquility upon a threatened community | 1 | islamic |
 | `destructive_passion_kindled_by_underworld_fire_and_serpents` | destructive passion kindled by underworld fire and serpents | 1 | roman |
-| `devoted_love_in_a_death_darkened_night_journey` | devoted love in a death-darkened night journey | 1 | hindu |
-| `disappearance_with_substitute_phantom_at_death` | disappearance with substitute phantom at death | 1 | sufi |
 | `diseases_born_as_personified_children_of_an_underworld_mother` | Diseases born as personified children of an underworld mother | 1 | finnish_karelian |
 | `diseases_personified_as_born_and_imprisoned_spirits` | diseases personified as born and imprisoned spirits | 1 | finnish_karelian |
-| `dishonored_corpse_consigned_to_water_and_animals` | dishonored corpse consigned to water and animals | 1 | greek |
 | `dismembered_bard_and_ritual_burial_in_note` | dismembered bard and ritual burial in note | 1 | roman |
 | `disputed_grave_and_local_burial_memory` | Disputed grave and local burial memory | 1 | celtic_irish |
-| `distant_perception_of_a_disciple_s_death` | distant perception of a disciple’s death | 1 | sufi |
-| `divine_control_of_life_death_and_creation` | divine control of life, death, and creation | 1 | islamic |
-| `divine_deflection_prevents_hero_s_death` | divine deflection prevents hero’s death | 1 | greek |
-| `divine_descent_into_visible_or_corporeal_form` | divine descent into visible or corporeal form | 1 | hindu |
-| `divine_descent_of_a_sacred_architectural_model` | divine descent of a sacred architectural model | 1 | islamic |
-| `divine_descent_or_incarnation` | divine descent or incarnation | 1 | hindu |
-| `divine_disarming_before_mortal_death` | Divine disarming before mortal death | 1 | greek |
-| `divine_life_and_death_sovereignty` | divine life and death sovereignty | 1 | islamic |
-| `divine_made_equipment_linked_to_the_hero_s_death_by_fire` | divine-made equipment linked to the hero's death by fire | 1 | roman |
-| `divine_or_underworld_tempered_weapon` | divine or underworld-tempered weapon | 1 | roman |
-| `divine_protection_of_an_unburied_corpse` | divine protection of an unburied corpse | 1 | greek |
-| `divine_protection_of_warrior_s_corpse_and_arms` | divine protection of warrior’s corpse and arms | 1 | roman |
-| `divine_warning_signs_before_unavoidable_death` | divine warning signs before unavoidable death | 1 | roman |
-| `divinely_preserved_body_of_the_honored_dead` | divinely preserved body of the honored dead | 1 | greek |
-| `dream_apparition_announces_death` | dream apparition announces death | 1 | roman |
-| `dream_appearance_of_the_dead_or_absent_speaker` | dream appearance of the dead or absent speaker | 1 | daoist |
-| `dream_messenger_announces_death` | Dream messenger announces death | 1 | roman |
-| `dream_reveals_the_hidden_corpse` | dream reveals the hidden corpse | 1 | sufi |
-| `drink_offering_reaches_the_dead` | Drink offering reaches the dead | 1 | sufi |
 | `drink_wine_in_response_to_mortality` | drink wine in response to mortality | 1 | sufi |
 | `dying_curse_creates_hereditary_enmity` | dying curse creates hereditary enmity | 1 | roman |
-| `dying_enemy_foretells_victor_s_imminent_equal_fate` | Dying enemy foretells victor's imminent equal fate | 1 | roman |
-| `dying_hero_foretells_the_war_band_s_ruin` | dying hero foretells the war-band's ruin | 1 | celtic_irish |
-| `dying_prophecy_of_the_slayer_s_death` | dying prophecy of the slayer's death | 1 | greek |
-| `dying_ruler_entrusts_son_and_household_to_victor` | dying ruler entrusts son and household to victor | 1 | hindu |
-| `dying_ruler_s_final_charge` | Dying ruler’s final charge | 1 | hindu |
-| `dying_spouse_s_last_invocation_of_beloved` | dying spouse’s last invocation of beloved | 1 | roman |
-| `dying_swan_song_as_image_for_lament` | Dying-swan song as image for lament | 1 | roman |
-| `dying_warrior_amid_lamentation` | dying warrior amid lamentation | 1 | celtic_irish |
-| `dying_warrior_consoled_by_vengeance` | Dying warrior consoled by vengeance | 1 | hindu |
-| `dying_warrior_s_last_command_to_a_trusted_companion` | dying warrior's last command to a trusted companion | 1 | roman |
-| `elemental_composition_and_separation_at_death` | Elemental composition and separation at death | 1 | sufi |
-| `empty_tomb_and_ritual_address_to_absent_dead` | empty tomb and ritual address to absent dead | 1 | roman |
-| `endless_life_giving_water_from_an_undying_source` | Endless life-giving water from an undying source | 1 | sufi |
-| `enduring_fame_after_heroic_death` | enduring fame after heroic death | 1 | roman |
-| `enduring_memorial_speech_from_a_tomb_image` | Enduring memorial speech from a tomb image | 1 | greek |
 | `enemy_peoples_or_captives_placed_under_sentence_of_death` | Enemy peoples or captives placed under sentence of death | 1 | islamic |
 | `enjoyment_before_death_and_burial` | enjoyment before death and burial | 1 | sufi |
-| `enmity_ending_at_death_and_funeral_rites_for_the_foe` | enmity ending at death and funeral rites for the foe | 1 | hindu |
 | `eponymous_ancestor_and_land_name_origin` | Eponymous ancestor and land-name origin | 1 | islamic |
-| `escape_from_a_death_plot_by_fire` | escape from a death-plot by fire | 1 | hindu |
-| `etiological_place_name_from_death_in_battle` | etiological place-name from death in battle | 1 | celtic_irish |
 | `exemplary_ancestor_renounces_idolatrous_people` | exemplary ancestor renounces idolatrous people | 1 | islamic |
 | `exemplary_ancestral_monotheist` | exemplary ancestral monotheist | 1 | islamic |
-| `exile_or_death_as_punishment_for_crime` | exile or death as punishment for crime | 1 | hindu |
 | `extraordinary_fattened_animal_whose_feast_is_linked_to_death` | Extraordinary fattened animal whose feast is linked to death | 1 | celtic_irish |
-| `fading_youth_and_rejected_return` | Fading youth and rejected return | 1 | persian |
-| `failed_embrace_of_a_ghost` | failed embrace of a ghost | 1 | greek |
-| `failed_embrace_of_the_dead_beloved_relative` | failed embrace of the dead beloved relative | 1 | roman |
-| `fall_of_a_warrior_band_signaled_by_a_champion_s_death` | fall of a warrior band signaled by a champion's death | 1 | celtic_irish |
-| `fallen_youth_whose_death_demands_vengeance` | fallen youth whose death demands vengeance | 1 | hindu |
-| `false_death_report_causing_the_lover_s_death` | false death report causing the lover’s death | 1 | sufi |
-| `false_death_report_leading_to_mistaken_mourning_rites` | false death report leading to mistaken mourning rites | 1 | roman |
-| `false_proof_of_the_hero_s_death` | false proof of the hero's death | 1 | hindu |
 | `fatal_accusation_leading_to_death_by_frightened_horses` | fatal accusation leading to death by frightened horses | 1 | roman |
 | `fatally_struck_bull_as_image_of_violent_death` | Fatally struck bull as image of violent death | 1 | greek |
-| `fated_carrion_feast_after_vow_of_death` | fated carrion feast after vow of death | 1 | hindu |
-| `fated_death_deferred_by_divine_warning` | fated death deferred by divine warning | 1 | greek |
-| `fated_return_ending_in_ambush` | fated return ending in ambush | 1 | celtic_irish |
-| `fated_warrior_exposed_to_death_after_protective_concealment_ends` | fated warrior exposed to death after protective concealment ends | 1 | roman |
-| `fear_of_bloodless_death_and_preference_for_violent_death_to_reach_a_better_afterlife` | Fear of bloodless death and preference for violent death to reach a better afterlife | 1 | norse |
 | `feared_but_undefined_spirits` | feared but undefined spirits | 1 | indigenous_australian |
 | `feasting_before_death` | feasting before death | 1 | sufi |
-| `fellowship_of_souls_broken_by_death` | fellowship of souls broken by death | 1 | sufi |
-| `female_guardian_of_the_hero_s_death` | female guardian of the hero's death | 1 | celtic_irish |
-| `filial_devotion_rewarded_after_death` | Filial devotion rewarded after death | 1 | hindu |
 | `final_departure_and_mortality` | Final departure and mortality | 1 | sufi |
-| `final_prohibitions_tied_to_death_site_waters` | Final prohibitions tied to death-site waters | 1 | finnish_karelian |
 | `first_love_before_a_deadly_trial` | first love before a deadly trial | 1 | roman |
-| `flyting_and_death_boasting_before_battle` | flyting and death-boasting before battle | 1 | celtic_irish |
 | `foil_figure_heightening_hero_s_lament_and_enemy_s_death` | foil figure heightening hero’s lament and enemy’s death | 1 | celtic_irish |
-| `forbidden_lovers_united_in_death` | Forbidden lovers united in death | 1 | islamicate_folklore |
 | `forced_conversion_resisted_by_death` | forced conversion resisted by death | 1 | islamic |
-| `foreknown_tomb_and_name` | foreknown tomb and name | 1 | daoist |
-| `foretold_alternatives_of_death_and_chosen_heroic_death` | foretold alternatives of death and chosen heroic death | 1 | greek |
-| `foretold_death_at_a_ford` | foretold death at a ford | 1 | celtic_irish |
-| `foretold_death_of_the_chosen_bridegroom` | Foretold death of the chosen bridegroom | 1 | hindu |
-| `foretold_vulnerable_death_of_a_hero` | foretold vulnerable death of a hero | 1 | greek |
-| `formed_thing_made_from_earth_and_returned_to_earth` | formed thing made from earth and returned to earth | 1 | sufi |
-| `former_companions_forced_into_deadly_combat` | former companions forced into deadly combat | 1 | celtic_irish |
-| `foundation_at_an_ancestral_or_sacred_burial_site` | foundation at an ancestral or sacred burial site | 1 | roman |
-| `founding_ancestor_renounces_idolatry` | Founding ancestor renounces idolatry | 1 | islamic |
-| `funeral_appeasement_and_restoration_of_the_enemy_corpse` | funeral appeasement and restoration of the enemy corpse | 1 | greek |
-| `funeral_games_and_honors_for_the_dead` | Funeral games and honors for the dead | 1 | greek |
-| `funeral_provision_for_possible_battlefield_death` | Funeral provision for possible battlefield death | 1 | roman |
-| `funeral_rejoicing_for_holy_death` | Funeral rejoicing for holy death | 1 | sufi |
-| `funeral_ship_with_costly_grave_goods` | funeral ship with costly grave goods | 1 | norse |
-| `funerary_honor_marked_by_raised_tomb_or_pile` | funerary honor marked by raised tomb or pile | 1 | greek |
 | `genealogical_descent_of_hero` | genealogical descent of hero | 1 | celtic_irish |
 | `genealogical_origin_of_peoples_from_named_ancestors` | Genealogical origin of peoples from named ancestors | 1 | islamic |
-| `ghost_of_dead_father_appears_to_son` | Ghost of dead father appears to son | 1 | greek |
-| `gradual_descent_of_sacred_scripture` | Gradual descent of sacred scripture | 1 | islamic |
 | `grave_growth_sign_controlling_remarriage` | grave-growth sign controlling remarriage | 1 | celtic_welsh |
-| `grief_anticipating_early_death` | grief anticipating early death | 1 | celtic_irish |
-| `grief_at_body_ashes_tomb_and_name` | grief at body, ashes, tomb, and name | 1 | roman |
-| `grief_at_separation_threatens_death` | grief at separation threatens death | 1 | hindu |
-| `grief_death_of_the_royal_father` | grief-death of the royal father | 1 | hindu |
-| `grief_driven_death_at_a_beloved_s_tomb` | grief-driven death at a beloved’s tomb | 1 | roman |
-| `grief_over_death_and_exile_disrupting_royal_order` | grief over death and exile disrupting royal order | 1 | hindu |
-| `grieving_animals_at_a_hero_s_death` | grieving animals at a hero's death | 1 | greek |
-| `grieving_messenger_sent_to_tell_a_beloved_warrior_of_death` | grieving messenger sent to tell a beloved warrior of death | 1 | greek |
-| `grieving_mother_at_the_grave` | Grieving mother at the grave | 1 | celtic_irish |
-| `grieving_parent_returns_to_battle_seeking_death_or_vengeance` | grieving parent returns to battle seeking death or vengeance | 1 | roman |
-| `guardian_spirit_attending_a_person_through_life` | guardian spirit attending a person through life | 1 | norse |
 | `haunted_or_sterile_tomb_of_a_saintly_figure` | haunted or sterile tomb of a saintly figure | 1 | sufi |
 | `healing_metaphor_for_intellectual_or_spiritual_insufficiency` | healing metaphor for intellectual or spiritual insufficiency | 1 | sufi |
 | `heaven_ancestors_and_soul_vocabulary` | heaven, ancestors, and soul vocabulary | 1 | hindu |
-| `hell_as_burning_pit` | Hell as burning pit | 1 | islamic |
-| `hell_fire_as_punitive_consumption` | hell fire as punitive consumption | 1 | islamic |
-| `hero_fears_shameful_death_instead_of_foretold_heroic_death` | hero fears shameful death instead of foretold heroic death | 1 | greek |
-| `hero_honored_as_demigod_after_death` | hero honored as demigod after death | 1 | roman |
-| `hero_knowingly_enters_death_bound_combat` | Hero knowingly enters death-bound combat | 1 | greek |
-| `hero_restored_from_wound_and_returned_to_battle` | hero restored from wound and returned to battle | 1 | roman |
 | `hero_s_death_by_named_coalition_of_opponents` | Hero's death by named coalition of opponents | 1 | celtic_irish |
 | `hero_s_later_death_in_a_great_war` | hero's later death in a great war | 1 | celtic_irish |
-| `hero_sent_against_a_deadly_adversary_to_bring_about_his_death` | Hero sent against a deadly adversary to bring about his death | 1 | greek |
-| `hero_turns_toward_fated_death` | hero turns toward fated death | 1 | roman |
 | `heroic_death_catalogue_in_battle` | Heroic death catalogue in battle | 1 | roman |
 | `heroic_death_explains_place_name` | heroic death explains place-name | 1 | celtic_irish |
-| `heroic_death_fixed_by_divine_and_mortal_agency` | heroic death fixed by divine and mortal agency | 1 | greek |
-| `heroic_death_followed_by_funerary_honors` | Heroic death followed by funerary honors | 1 | greek |
-| `heroic_death_followed_by_keening_lament` | Heroic death followed by keening lament | 1 | celtic_irish |
-| `heroic_death_rewarded_in_heaven` | heroic death rewarded in heaven | 1 | hindu |
-| `heroic_fame_as_the_remaining_possession_of_the_dead` | heroic fame as the remaining possession of the dead | 1 | greek |
 | `heroic_hunt_against_a_deadly_beast` | heroic hunt against a deadly beast | 1 | roman |
-| `heroic_lament_and_escorted_return_of_a_fallen_youth` | Heroic lament and escorted return of a fallen youth | 1 | roman |
-| `heroic_last_slaughter_before_death` | heroic last slaughter before death | 1 | celtic_irish |
-| `heroic_last_stand_before_death` | heroic last stand before death | 1 | greek |
-| `heroic_return_with_trophies_and_spoils` | heroic return with trophies and spoils | 1 | celtic_irish |
-| `heroic_spoils_contested_over_a_corpse` | heroic spoils contested over a corpse | 1 | greek |
-| `heroic_threat_of_corpse_feeding_birds` | heroic threat of corpse-feeding birds | 1 | greek |
 | `hidden_animal_burial_ground_reveals_abundance` | Hidden animal burial ground reveals abundance | 1 | islamicate_folklore |
 | `hidden_control_enables_return_from_perilous_flight` | hidden control enables return from perilous flight | 1 | islamicate_folklore |
 | `hidden_death_disclosed_by_a_small_creature` | Hidden death disclosed by a small creature | 1 | islamic |
-| `hidden_or_uncertain_saintly_tomb_with_heavenly_announcement` | hidden or uncertain saintly tomb with heavenly announcement | 1 | sufi |
 | `hidden_royal_death_revealed_by_a_small_creature` | hidden royal death revealed by a small creature | 1 | islamic |
-| `hidden_spirit_or_life_within_matter` | hidden spirit or life within matter | 1 | sufi |
-| `hidden_transformation_of_base_substance_into_precious_or_spiritual_substance` | Hidden transformation of base substance into precious or spiritual substance | 1 | sufi |
-| `holy_death_by_fire` | Holy death by fire | 1 | hindu |
-| `holy_man_s_preparation_for_death_and_burial` | holy man’s preparation for death and burial | 1 | sufi |
 | `holy_scholar_s_death_accompanied_by_mass_conversion` | holy scholar's death accompanied by mass conversion | 1 | islamic |
-| `honor_paid_to_the_dead_through_ordained_violent_struggle` | honor paid to the dead through ordained violent struggle | 1 | greek |
-| `honorable_death_for_one_s_country` | honorable death for one’s country | 1 | greek |
-| `honored_burial_and_lamentation_of_fallen_youth` | honored burial and lamentation of fallen youth | 1 | celtic_irish |
-| `honored_transport_of_the_hero_s_corpse` | honored transport of the hero's corpse | 1 | celtic_irish |
 | `honour_gift_reversed_into_death_sign` | honour gift reversed into death sign | 1 | sufi |
-| `honourable_burial_decided_by_a_verse` | honourable burial decided by a verse | 1 | sufi |
-| `honourable_death_posture_requested_by_defeated_warrior` | honourable death posture requested by defeated warrior | 1 | celtic_irish |
 | `host_plots_death_of_a_guest_suitor` | Host plots death of a guest-suitor | 1 | celtic_irish |
-| `hostile_weather_spirit_immobilizes_a_voyager` | hostile weather spirit immobilizes a voyager | 1 | finnish_karelian |
-| `human_formation_from_clay_water_and_divine_spirit` | Human formation from clay, water, and divine spirit | 1 | islamic |
-| `human_origin_from_an_ancestral_pair` | human origin from an ancestral pair | 1 | islamic |
 | `hunter_caught_by_the_grave` | Hunter caught by the grave | 1 | sufi |
 | `ignored_warning_before_collective_water_death` | ignored warning before collective water death | 1 | indigenous_australian |
-| `immortal_horses_mourning_a_dead_hero` | Immortal horses mourning a dead hero | 1 | greek |
-| `immortality_test_by_fire` | immortality test by fire | 1 | greek |
-| `immortalization_after_death_and_transport` | immortalization after death and transport | 1 | greek |
-| `impossible_recovery_task_under_threat_of_death` | Impossible recovery task under threat of death | 1 | celtic_irish |
-| `imprisoned_disease_spirits_in_underworld_rock` | Imprisoned disease spirits in underworld rock | 1 | finnish_karelian |
 | `imprisoned_woman_awaiting_rescue_by_a_named_knight_before_a_deadline` | Imprisoned woman awaiting rescue by a named knight before a deadline | 1 | celtic_welsh |
-| `inescapable_appointed_death` | Inescapable appointed death | 1 | islamic |
-| `inevitability_of_death_and_separation` | Inevitability of death and separation | 1 | hindu |
 | `inevitable_descent_into_earth_and_dust` | Inevitable descent into earth and dust | 1 | sufi |
 | `infallible_returning_weapon_with_fatal_consequences` | infallible returning weapon with fatal consequences | 1 | roman |
 | `inherited_feud_reopened_by_account_of_father_s_death` | Inherited feud reopened by account of father's death | 1 | celtic_irish |
@@ -425,45 +187,14 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `memorial_mound_and_inscribed_standing_stone_for_the_threatened_dead` | Memorial mound and inscribed standing-stone for the threatened dead | 1 | celtic_irish |
 | `memorialization_of_a_revered_dead_teacher` | Memorialization of a revered dead teacher | 1 | sufi |
 | `message_that_orders_the_bearer_s_death` | message that orders the bearer's death | 1 | greek_roman |
-| `messenger_announces_the_death_of_a_beloved_companion` | messenger announces the death of a beloved companion | 1 | greek |
 | `metempsychosis_and_descent_of_divinity_into_creatures` | metempsychosis and descent of divinity into creatures | 1 | islamic |
-| `miracle_working_tomb_or_shrine` | miracle-working tomb or shrine | 1 | sufi |
-| `miraculous_handling_of_a_hero_poet_s_corpse` | miraculous handling of a hero-poet's corpse | 1 | greek |
-| `miraculous_preservation_from_death` | Miraculous preservation from death | 1 | islamic |
-| `miraculous_preservation_of_the_dead_body` | miraculous preservation of the dead body | 1 | greek |
-| `miraculous_signs_announcing_royal_return` | Miraculous signs announcing royal return | 1 | hindu |
-| `mirror_as_medium_for_the_dead_beloved_parent` | mirror as medium for the dead beloved parent | 1 | japanese |
-| `mirror_as_soul_and_heart_index` | mirror as soul and heart-index | 1 | japanese |
-| `mirror_avoidance_during_sickness_or_dying` | mirror avoidance during sickness or dying | 1 | comparative |
-| `mirror_used_to_maintain_bond_with_dead_parent` | mirror used to maintain bond with dead parent | 1 | japanese |
 | `misleading_friend_causes_spiritual_loss` | Misleading friend causes spiritual loss | 1 | islamic |
-| `missed_voyage_caused_by_burial_duty` | missed voyage caused by burial duty | 1 | islamicate_folklore |
 | `missing_daughter_who_cannot_return` | missing daughter who cannot return | 1 | finnish_karelian |
 | `mistaken_killing_of_an_already_dead_man` | mistaken killing of an already dead man | 1 | islamicate_folklore |
-| `mistaken_return_or_presence_through_another_s_armor` | mistaken return or presence through another's armor | 1 | greek |
-| `monstrous_one_eyed_guardian_with_conditional_death` | monstrous one-eyed guardian with conditional death | 1 | celtic_irish |
-| `monumental_grave_for_a_fallen_hero` | monumental grave for a fallen hero | 1 | celtic_irish |
 | `mortal_god_with_grave` | mortal god with grave | 1 | comparative |
-| `mortality_and_carpe_diem_before_death` | mortality and carpe diem before death | 1 | sufi |
-| `mortality_embedded_in_clay` | Mortality embedded in clay | 1 | sufi |
-| `mortality_figured_as_dust_wind_and_remade_vessels` | Mortality figured as dust, wind, and remade vessels | 1 | sufi |
-| `mortality_in_clay_and_adamic_dust` | Mortality in clay and Adamic dust | 1 | sufi |
-| `mortality_of_companions_and_remembrance_with_wine` | Mortality of companions and remembrance with wine | 1 | sufi |
-| `mortality_under_the_wheel_of_heaven` | mortality under the wheel of heaven | 1 | sufi |
 | `mother_announces_father_s_death_to_returning_son` | mother announces father's death to returning son | 1 | hindu |
-| `mourner_s_tears_released_by_contact_with_the_dead` | Mourner's tears released by contact with the dead | 1 | norse |
-| `mourning_messenger_brings_news_of_royal_death` | mourning messenger brings news of royal death | 1 | hindu |
-| `mourning_mother_imagines_son_in_the_realm_of_death` | mourning mother imagines son in the realm of death | 1 | finnish_karelian |
-| `mourning_procession_or_circular_rite_around_the_dead` | mourning procession or circular rite around the dead | 1 | greek |
-| `mourning_rites_at_an_empty_or_symbolic_tomb` | mourning rites at an empty or symbolic tomb | 1 | roman |
-| `mourning_spouse_attempts_to_replace_the_dead_beloved_with_an_artificial_bride` | Mourning spouse attempts to replace the dead beloved with an artificial bride | 1 | finnish_karelian |
-| `mourning_the_living_warrior_as_already_dead` | mourning the living warrior as already dead | 1 | greek |
-| `mourning_without_proper_burial_rites` | mourning without proper burial rites | 1 | greek |
 | `multiple_souls` | multiple souls | 1 | comparative |
-| `murdered_dead_reveals_hidden_truth_in_dream` | murdered dead reveals hidden truth in dream | 1 | roman |
 | `music_shaping_soul_and_body` | music shaping soul and body | 1 | greek |
-| `mutual_death_in_combat_by_engulfing_water` | mutual death in combat by engulfing water | 1 | celtic_irish |
-| `mutual_death_of_matched_champions` | mutual death of matched champions | 1 | celtic_irish |
 | `mysterious_one_eyed_warrior_breaks_the_hero_s_sword_before_death` | Mysterious one-eyed warrior breaks the hero’s sword before death | 1 | norse |
 | `nature_spirits_classified_by_habitat` | nature spirits classified by habitat | 1 | roman |
 | `necessary_spiritual_companion_to_a_prophetic_figure` | necessary spiritual companion to a prophetic figure | 1 | sufi |
@@ -4575,30 +4306,12 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `woman_protects_and_heals_wounded_warriors` | woman protects and heals wounded warriors | 1 | celtic_irish |
 | `woman_received_as_war_prize` | woman received as war prize | 1 | greek |
 | `women_marvel_at_the_beautiful_warrior_after_a_fearsome_manifestation` | women marvel at the beautiful warrior after a fearsome manifestation | 1 | celtic_irish |
-| `women_only_island_confronting_arriving_male_heroes` | Women-only island confronting arriving male heroes | 1 | greek_roman |
-| `wondrous_equipment_enabling_a_heroic_feat` | wondrous equipment enabling a heroic feat | 1 | finnish_karelian |
 | `wound_catalogue_reveals_sequence_of_attackers` | wound catalogue reveals sequence of attackers | 1 | celtic_irish |
-| `wound_healed_by_the_one_who_inflicted_it` | Wound healed by the one who inflicted it | 1 | greek_roman |
 | `wound_reading_identifies_attackers` | wound-reading identifies attackers | 1 | celtic_irish |
-| `wounded_body_held_together_for_battle` | Wounded body held together for battle | 1 | celtic_irish |
-| `wounded_healer_or_preserver_carried_from_battle` | wounded healer or preserver carried from battle | 1 | greek |
-| `wounded_helper_who_still_exhorts_allies` | wounded helper who still exhorts allies | 1 | greek |
-| `wounded_hero_compelled_to_accept_aid` | wounded hero compelled to accept aid | 1 | celtic_welsh |
-| `wounded_hero_defending_cattle_alone` | wounded hero defending cattle alone | 1 | celtic_irish |
 | `wounded_heroes_and_the_absent_champion` | wounded heroes and the absent champion | 1 | greek |
-| `wounded_indispensable_hero_absent_from_battle` | Wounded indispensable hero absent from battle | 1 | greek |
 | `wounded_leaders_inspire_battle_from_behind_the_front` | wounded leaders inspire battle from behind the front | 1 | greek |
-| `wounded_lone_defender_holding_off_overwhelming_hosts` | Wounded lone defender holding off overwhelming hosts | 1 | celtic_irish |
-| `wounded_warrior_protected_and_borne_from_battle` | Wounded warrior protected and borne from battle | 1 | greek |
 | `wounded_warrior_requires_skilled_healer` | Wounded warrior requires skilled healer | 1 | greek |
-| `wounds_figured_as_flowers` | wounds figured as flowers | 1 | sufi |
 | `written_sign_as_enforceable_warning` | written sign as enforceable warning | 1 | celtic_irish |
-| `wrong_redressed_by_knightly_combat` | wrong redressed by knightly combat | 1 | celtic_welsh |
-| `wrongdoer_exposed_and_faithful_helper_rewarded` | wrongdoer exposed and faithful helper rewarded | 1 | japanese |
-| `young_hero_selected_by_sage_to_defeat_fiend` | young hero selected by sage to defeat fiend | 1 | hindu |
-| `young_hero_underestimated_by_challenger` | young hero underestimated by challenger | 1 | celtic_irish |
-| `youthful_hero_in_cattle_expedition` | Youthful hero in cattle expedition | 1 | celtic_irish |
-| `youthful_war_band_attempts_rescue_and_is_annihilated` | youthful war-band attempts rescue and is annihilated | 1 | celtic_irish |
 
 ## Objects, Places, Boundaries, And Thresholds
 

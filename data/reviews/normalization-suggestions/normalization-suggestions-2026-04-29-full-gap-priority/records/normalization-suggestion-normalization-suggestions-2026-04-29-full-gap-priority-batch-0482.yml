@@ -1,0 +1,288 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0482
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.false-death-report-leading-to-mistaken-mourning-rites
+  motif_id: false_death_report_leading_to_mistaken_mourning_rites
+  label: false death report leading to mistaken mourning rites
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on mourning rites triggered by a reported death, fitting
+    the existing mourning and grief-ritual group.
+  cautions: The false-report mechanism may be an episode-specific plot device; if
+    no actual ritual or mourning emphasis is present, preserve only as evidence detail.
+  suggested_aliases:
+  - mistaken mourning rites
+  - false death report
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-proof-of-the-hero-s-death
+  motif_id: false_proof_of_the_hero_s_death
+  label: false proof of the hero's death
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: False evidence of a hero's death functions as a crisis or apparent-death
+    episode within a heroic narrative arc.
+  cautions: Do not map to resurrection or death-and-return unless the hero is believed
+    dead and later returns in a structurally significant way; may be too plot-specific.
+  suggested_aliases:
+  - apparent proof of hero death
+  - false evidence of death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fatal-accusation-leading-to-death-by-frightened-horses
+  motif_id: fatal_accusation_leading_to_death_by_frightened_horses
+  label: fatal accusation leading to death by frightened horses
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines accusation, accidental animal-caused death, and possible
+    moral consequence, but the dominant motif is unclear.
+  cautions: Could fit divine_judgment if the death is moral reckoning, sacred_combat
+    or death_by_fate if fate is emphasized, or be an episode-specific narrative artifact.
+  suggested_aliases:
+  - accusation causing fatal horse panic
+  - death by frightened horses
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fatally-struck-bull-as-image-of-violent-death
+  motif_id: fatally_struck_bull_as_image_of_violent_death
+  label: Fatally struck bull as image of violent death
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The phrase 'as image of' suggests a simile or poetic image rather than
+    a recurring narrative motif.
+  cautions: If the bull's death is ritually or mythically central, review for sacrifice;
+    otherwise preserve as passage-level imagery only.
+  suggested_aliases:
+  - struck bull death image
+  - bull simile for violent death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fated-carrion-feast-after-vow-of-death
+  motif_id: fated_carrion_feast_after_vow_of_death
+  label: fated carrion feast after vow of death
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label explicitly frames death and its aftermath as fated following
+    a vow, matching fate-determined death patterns.
+  cautions: Could also involve sacrifice or sacred vow if the vow is the central ritual
+    act; carrion-feast detail may be over-specific.
+  suggested_aliases:
+  - fated death after vow
+  - vow of death leading to carrion feast
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fated-death-deferred-by-divine-warning
+  motif_id: fated_death_deferred_by_divine_warning
+  label: fated death deferred by divine warning
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: functional_variant
+  confidence: high
+  rationale: The motif centers on an appointed death modified or delayed by divine
+    warning, fitting the death-by-fate group.
+  cautions: Secondary indexing to divine_intervention may be useful where the warning
+    itself is the main focus.
+  suggested_aliases:
+  - deferred fated death
+  - divine warning delays death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fated-return-ending-in-ambush
+  motif_id: fated_return_ending_in_ambush
+  label: fated return ending in ambush
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: functional_variant
+  confidence: medium
+  rationale: The wording emphasizes a destined return culminating in deathly danger,
+    best held under fate-governed death.
+  cautions: If the narrative emphasis is homecoming rather than death or destiny,
+    hero_journey/return may be a better secondary mapping; ambush is likely episode
+    detail.
+  suggested_aliases:
+  - fated homecoming ambush
+  - destined return to ambush
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fated-warrior-exposed-to-death-after-protective-concealment-ends
+  motif_id: fated_warrior_exposed_to_death_after_protective_concealment_ends
+  label: fated warrior exposed to death after protective concealment ends
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: functional_variant
+  confidence: medium
+  rationale: A warrior's destined death becomes possible when protection or concealment
+    ends, matching fate and unavoidable death patterns.
+  cautions: Could overlap with divine_warrior or sacred_treasures/protective_mark
+    if the concealment/protection mechanism is central.
+  suggested_aliases:
+  - fated warrior death after concealment
+  - protective concealment ends before death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fear-of-bloodless-death-and-preference-for-violent-death-to-reach-a-better-afterlife
+  motif_id: fear_of_bloodless_death_and_preference_for_violent_death_to_reach_a_better_afterlife
+  label: Fear of bloodless death and preference for violent death to reach a better
+    afterlife
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: afterlife_passage
+  suggested_group_label: Afterlife Navigation and Passage
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label concerns the manner of death as a condition for reaching a
+    preferred afterlife destination.
+  cautions: Also related to divine_warrior, warrior honor, and sacred_law; avoid generalizing
+    Norse-specific afterlife valuation without source review.
+  suggested_aliases:
+  - preferred violent death for afterlife
+  - bloodless death feared
+  - death manner determines afterlife
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.feared-but-undefined-spirits
+  motif_id: feared_but_undefined_spirits
+  label: feared but undefined spirits
+  occurrences: 1
+  traditions:
+  - indigenous_australian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is too general and culturally sensitive; the role, context,
+    and local category of the spirits are not specified.
+  cautions: Do not collapse Indigenous spirit categories into generic demons or ghosts.
+    Review source evidence for whether these are tutelary, ancestral, harmful, place-based,
+    death-related, or commentary artifacts.
+  suggested_aliases:
+  - undefined feared spirits
+  - feared spirits
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and episode-specific; suggested
+  placements are provisional broad query buckets, not evidence of transmission or
+  shared origin.
+- Where fate, warrior death, and afterlife eligibility overlap, preserve local passage
+  notes so death_by_fate, afterlife_passage, divine_warrior, and heroic_funeral_rites
+  are not conflated.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Draft normalization suggestions generated for human taxonomy review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0482
+  input_sha256: f2139b32fb3e3a2db9e0ad09b3e400994877b4e2c81ae7ed7f84995b265414bb

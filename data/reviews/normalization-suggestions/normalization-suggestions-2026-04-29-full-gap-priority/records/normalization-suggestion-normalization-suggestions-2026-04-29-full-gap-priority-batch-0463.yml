@@ -1,0 +1,293 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0463
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.blessed-garden-and-river-afterlife
+  motif_id: blessed_garden_and_river_afterlife
+  label: blessed garden-and-river afterlife
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: afterlife_passage
+  suggested_group_label: Afterlife Navigation and Passage
+  relationship: narrower_than
+  confidence: medium
+  rationale: A blessed garden and river afterlife is a specific postmortem destination
+    within an afterlife landscape.
+  cautions: If the passage emphasizes paradise imagery without journey, judgment,
+    or passage, it may also fit otherworld or remain an evidence detail.
+  suggested_aliases:
+  - garden-and-river afterlife
+  - blessed garden afterlife
+  - paradisal river afterlife
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.blessing-against-widowhood-before-threatened-death
+  motif_id: blessing_against_widowhood_before_threatened_death
+  label: Blessing against widowhood before threatened death
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines blessing, threatened death, and marital status; its
+    motif function depends on source context.
+  cautions: May be a scene-specific blessing, protection from death, marital fidelity
+    motif, or narrative artifact; avoid mapping from wording alone.
+  suggested_aliases:
+  - blessing against widowhood
+  - anti-widowhood blessing
+  - blessing before threatened death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.blood-debt-wordplay-at-death
+  motif_id: blood_debt_wordplay_at_death
+  label: blood-debt wordplay at death
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: death_descent_afterlife
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The emphasis on wordplay suggests a passage-level literary or translation
+    artifact rather than a reusable motif.
+  cautions: If the source shows actual blood-debt vengeance or obligation, review
+    under sacred_combat, divine_judgment, or sacred_law instead.
+  suggested_aliases:
+  - blood debt wordplay
+  - death wordplay on blood-debt
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.blood-omen-from-heaven-before-heroic-death
+  motif_id: blood_omen_from_heaven_before_heroic_death
+  label: blood omen from heaven before heroic death
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: functional_variant
+  confidence: medium
+  rationale: An omen from heaven functions as a sign or vision foretelling heroic
+    death.
+  cautions: If divine punishment or fated warrior death is central, secondary review
+    under divine_judgment or death_by_fate may be appropriate.
+  suggested_aliases:
+  - heavenly blood omen
+  - blood omen before death
+  - omen before heroic death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.blood-stained-token-falsely-indicating-death
+  motif_id: blood_stained_token_falsely_indicating_death
+  label: blood-stained token falsely indicating death
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: low
+  rationale: A token functions as an object carrying apparent life/death evidence,
+    but the sacred or mythic function is unclear.
+  cautions: May be only a plot device or recognition-token detail; if not sacred or
+    recurrent, exclude or preserve as evidence note.
+  suggested_aliases:
+  - false death token
+  - bloodstained recognition token
+  - blood-stained proof of death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bodily-omen-before-death-or-disaster
+  motif_id: bodily_omen_before_death_or_disaster
+  label: bodily omen before death or disaster
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: functional_variant
+  confidence: medium
+  rationale: A bodily sign foretelling death or disaster is an omen revealing future
+    crisis.
+  cautions: If the body itself is transformed or marked by divine judgment, death_and_transformation
+    or divine_judgment may be relevant secondary mappings.
+  suggested_aliases:
+  - body omen before death
+  - bodily death omen
+  - corporeal omen of disaster
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bodily-return-to-earth
+  motif_id: bodily_return_to_earth
+  label: bodily return to earth
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Return of the body to earth frames death as dissolution or transformation
+    back into the elemental world.
+  cautions: In Sufi context this may be mystical humility or annihilation rather than
+    literal postmortem transformation; consider mystical_quest if interior meaning
+    dominates.
+  suggested_aliases:
+  - return to earth
+  - body returns to earth
+  - earthly dissolution of the body
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.body-and-soul-jointly-liable
+  motif_id: body_and_soul_jointly_liable
+  label: Body and soul jointly liable
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: narrower_than
+  confidence: medium
+  rationale: Joint liability of body and soul concerns moral accountability before
+    sacred judgment.
+  cautions: This may be a theological doctrine rather than a narrative motif; verify
+    that it appears as a patterned judgment scene or teaching.
+  suggested_aliases:
+  - body and soul accountable
+  - joint liability of body and soul
+  - body-soul moral accountability
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.body-as-prison-of-the-soul
+  motif_id: body_as_prison_of_the_soul
+  label: Body as prison of the soul
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: symbolic_variant
+  confidence: high
+  rationale: This closely matches the existing body-as-tomb-or-shell soul motif already
+    placed under mystical interior liberation.
+  cautions: Do not treat as literal death or resurrection unless passage evidence
+    shows a death-return sequence.
+  suggested_aliases:
+  - body as prison for the soul
+  - body as soul-prison
+  - body as tomb or shell imprisoning soul
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.body-returned-from-the-sea-by-animals
+  motif_id: body_returned_from_the_sea_by_animals
+  label: Body returned from the sea by animals
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe funerary recovery, animal aid, sea-death, or a
+    specific episode; function is unclear.
+  cautions: Could relate to heroic_funeral_rites if recovery enables burial, divine_intervention
+    if animals act as sacred agents, or remain an over-specific plot detail.
+  suggested_aliases:
+  - animals return body from sea
+  - corpse recovered from sea by animals
+  - sea body returned by animals
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Suggestions are provisional and do not imply transmission, borrowing, or common
+  origin.
+- Several single-occurrence labels are highly contextual and should be checked against
+  passage evidence before indexing broadly.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Batch contains death/afterlife labels with several omen, object-token, and
+    theological-doctrinal cases requiring human validation.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0463
+  input_sha256: 86b1599fb526033ccbdd3d0cb5936dec2554c3c1fe9c9af167a8cf42dc1d873c

@@ -1,0 +1,293 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0497
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.message-that-orders-the-bearer-s-death
+  motif_id: message_that_orders_the_bearer_s_death
+  label: message that orders the bearer's death
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This is a recognizable narrative device, but the label alone does not
+    show sacred death, fate, judgment, or heroic ordeal function.
+  cautions: May be an episode-specific plot device rather than a durable motif; could
+    fit death_by_fate, divine_judgment, or hero_journey depending on source context.
+  suggested_aliases:
+  - death warrant carried by victim
+  - fatal message borne by intended victim
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.messenger-announces-the-death-of-a-beloved-companion
+  motif_id: messenger_announces_the_death_of_a_beloved_companion
+  label: messenger announces the death of a beloved companion
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: functional_variant
+  confidence: medium
+  rationale: The messenger's announcement initiates grief and tragic recognition after
+    the loss of a companion.
+  cautions: If the passage focuses on battlefield news transmission rather than mourning,
+    preserve as evidence detail rather than a motif query term.
+  suggested_aliases:
+  - death message for beloved companion
+  - announcement of companion's death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.metempsychosis-and-descent-of-divinity-into-creatures
+  motif_id: metempsychosis_and_descent_of_divinity_into_creatures
+  label: metempsychosis and descent of divinity into creatures
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines soul transmigration with divine descent into creatures,
+    which may be doctrinal, mystical, or polemical rather than a narrative motif.
+  cautions: Culturally and theologically sensitive; do not collapse into descent or
+    shapeshifter without evidence of narrative transformation. May need a future soul-transmigration
+    group if recurrent.
+  suggested_aliases:
+  - metempsychosis
+  - transmigration of souls
+  - divine descent into creatures
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.miracle-working-tomb-or-shrine
+  motif_id: miracle_working_tomb_or_shrine
+  label: miracle-working tomb or shrine
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: functional_variant
+  confidence: medium
+  rationale: A tomb or shrine mediating miracles centers ongoing sacred relation with
+    the dead or saintly departed.
+  cautions: May deserve a saint-shrine or relic-power group if many such labels recur;
+    ancestor_rites is a pragmatic fit but not exact for Sufi saint veneration.
+  suggested_aliases:
+  - miraculous tomb
+  - wonder-working shrine
+  - saintly tomb as miracle site
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.miraculous-handling-of-a-hero-poet-s-corpse
+  motif_id: miraculous_handling_of_a_hero_poet_s_corpse
+  label: miraculous handling of a hero-poet's corpse
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: functional_variant
+  confidence: medium
+  rationale: The corpse of a hero-poet receiving extraordinary treatment fits heroic
+    funerary honor and memorialization.
+  cautions: Highly specific; if the miracle is about postmortem power rather than
+    rites, ancestor_rites or divine_intervention may be secondary.
+  suggested_aliases:
+  - miraculous treatment of heroic corpse
+  - hero-poet corpse handled miraculously
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.miraculous-preservation-from-death
+  motif_id: miraculous_preservation_from_death
+  label: Miraculous preservation from death
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Being supernaturally preserved from death is a direct protective intervention
+    in human fate.
+  cautions: If preservation occurs through a vessel, refuge, or catastrophe-survival
+    scene, ark_vessel or flood_and_renewal may be more specific; if it is revival
+    after death, use death_and_transformation or resurrection.
+  suggested_aliases:
+  - divine preservation from death
+  - miraculous rescue from death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.miraculous-preservation-of-the-dead-body
+  motif_id: miraculous_preservation_of_the_dead_body
+  label: miraculous preservation of the dead body
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: functional_variant
+  confidence: medium
+  rationale: A preserved corpse is a postmortem honor or sign tied to the treatment
+    and memorial status of the dead.
+  cautions: If preservation indicates saintly relic power or ongoing agency of the
+    dead, ancestor_rites or a future relic/shrine group may be better.
+  suggested_aliases:
+  - incorrupt body
+  - miraculously preserved corpse
+  - preservation of the dead body
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.miraculous-signs-announcing-royal-return
+  motif_id: miraculous_signs_announcing_royal_return
+  label: Miraculous signs announcing royal return
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: high
+  rationale: Miraculous signs that announce a ruler's return authorize kingship and
+    restore sacred political order.
+  cautions: Could also index under dream_and_vision if the signs are omens or visions;
+    death/descent bucket may be incidental if the main function is royal return.
+  suggested_aliases:
+  - omens of royal return
+  - miraculous royal return signs
+  - signs announcing the king's return
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mirror-as-medium-for-the-dead-beloved-parent
+  motif_id: mirror_as_medium_for_the_dead_beloved_parent
+  label: mirror as medium for the dead beloved parent
+  occurrences: 1
+  traditions:
+  - japanese
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: The mirror functions as a power object enabling contact with a dead beloved
+    parent.
+  cautions: May also belong with ancestor_rites if the emphasis is ongoing relation
+    with the dead, or sacred_vessel/sacred_knowledge if the mirror stores or reveals
+    hidden presence.
+  suggested_aliases:
+  - mirror medium for the dead
+  - mirror contact with dead parent
+  - mirror as ancestral presence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mirror-as-soul-and-heart-index
+  motif_id: mirror_as_soul_and_heart_index
+  label: mirror as soul and heart-index
+  occurrences: 1
+  traditions:
+  - japanese
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The mirror is a sacred object that reflects or indexes inner soul and
+    heart condition.
+  cautions: Could fit sacred_knowledge if the function is revelation of truth, or
+    external_soul if the mirror contains or endangers the soul rather than merely
+    indexes it.
+  suggested_aliases:
+  - mirror as soul-index
+  - mirror revealing the heart
+  - mirror as inner-state indicator
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and may be passage-specific;
+  preserve granular wording as evidence notes where mapped.
+- Mirror and corpse-preservation labels may indicate a recurring relic/object/ancestor-contact
+  complex, but existing groups can hold them provisionally pending more evidence.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Provisional API suggestion batch; human review needed especially for metempsychosis/divine-descent
+    and miracle-working tomb categories.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0497
+  input_sha256: 570ab2d99070e0333451111a0f5acd749f9de2d94167f07d4bef703fd4c193c6
