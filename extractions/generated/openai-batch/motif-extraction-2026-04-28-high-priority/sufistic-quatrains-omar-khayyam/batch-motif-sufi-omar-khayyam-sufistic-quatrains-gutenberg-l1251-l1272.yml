@@ -1,0 +1,291 @@
+---
+record_id: batch.motif.sufi-omar-khayyam-sufistic-quatrains-gutenberg-l1251-l1272
+source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+passage_locator:
+  label: XXXIV. / XXXV. / XXXVI. / XXXVII.; lines 1251-1272
+  start: '1251'
+  end: '1272'
+  translation: The Sufistic Quatrains of Omar Khayyam
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The speaker reflects that a vessel may once have lived and loved; recalls
+    seeing a potter strike wet clay that murmurs for gentleness; and urges filling
+    the cup rather than fretting over yesterday or tomorrow while today is sweet.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The speaker thinks a vessel with fugitive articulation once lived and made
+    merry.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker associates the vessel's cold lip with kisses it may once have
+    taken and given.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: At dusk in a market-place, the speaker watched a potter thumping wet clay.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The wet clay is described as having an obliterated tongue and as murmuring
+    a plea for gentleness to a brother.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The speaker urges filling the cup and says time is slipping underfoot.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Tomorrow is called unborn, yesterday is called dead, and today is described
+    as sweet.
+  category: attribute
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: speaker
+  description: First-person voice who reflects on the vessel, recalls the potter,
+    and urges filling the cup.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: vessel
+  description: A vessel that the speaker imagines once lived, made merry, and had
+    a lip capable of taking and giving kisses.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: potter
+  description: A potter seen in the market-place thumping wet clay.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: wet clay
+  description: Wet clay with an obliterated tongue that murmurs for gentleness.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: reflective observer and exhorter
+  assigned_to:
+  - fig:1
+  basis: The first-person voice thinks about the vessel, watches the potter, and gives
+    the imperative to fill the cup.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: personified material remnant
+  assigned_to:
+  - fig:2
+  - fig:4
+  basis: The vessel is imagined as once living, and the clay is given a tongue and
+    speech.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: maker shaping clay
+  assigned_to:
+  - fig:3
+  basis: The potter is observed thumping wet clay in the market-place.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: pleading speaker
+  assigned_to:
+  - fig:4
+  basis: The clay murmurs, asking to be treated gently.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: vessel
+  literal_form: Vessel with cold lip and fugitive articulation
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: wet clay
+  literal_form: Wet clay with an obliterated tongue
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: cup
+  literal_form: Cup to be filled
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: unborn tomorrow and dead yesterday
+  literal_form: 'Personified temporal states: unborn tomorrow, dead yesterday, sweet
+    today'
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: reflection on the vessel's former life
+  summary: The speaker imagines that the vessel once lived, made merry, and participated
+    in kisses.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: potter and speaking clay at dusk
+  summary: In the market-place at dusk, the speaker watches a potter strike wet clay,
+    which murmurs a plea for gentleness.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: cup and present time
+  summary: The speaker urges filling the cup and not fretting about the unborn future
+    or dead past if today is sweet.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: personified vessel or clay as former living being
+  taxonomy_refs: []
+  basis: The vessel is imagined as once alive, and wet clay speaks with an obliterated
+    tongue.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage implies former life and personification but does not explicitly
+    explain the material's origin.
+- id: motif:2
+  label: memento mori through clay and pottery
+  taxonomy_refs:
+  - death_rebirth
+  basis: The vessel's possible former life, the clay's obliterated tongue, and the
+    contrast of dead yesterday with sweet today create a reflection on mortality and
+    transience.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The available taxonomy has no exact memento mori category; death_rebirth
+    is only a broad fit.
+- id: motif:3
+  label: carpe diem wisdom of the cup
+  taxonomy_refs:
+  - wisdom
+  basis: The speaker urges filling the cup and not worrying over unborn tomorrow or
+    dead yesterday while today is sweet.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage gives a practical maxim rather than a narrative episode.
+comparison_claims:
+- id: claim:1
+  claim: The passage functions like a carpe diem wisdom pattern, using the cup and
+    the passing of time to counsel attention to the present.
+  claim_level: same_function
+  target: carpe diem wisdom pattern
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is a functional comparison only; no historical contact or shared
+    source is established by the passage.
+- id: claim:2
+  claim: The speaking vessel and clay align broadly with a motif of material remains
+    retaining traces of former life.
+  claim_level: same_motif
+  target: personified remains or transformed clay/vessel motif
+  evidence_refs:
+  - ev:1
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage does not explicitly state that the vessel or clay is made
+    from human remains; the comparison rests on personification and implied former
+    life.
+evidence:
+- id: ev:1
+  type: summary
+  locator: XXXV; lines 1251-1256
+  quote_or_summary: The speaker thinks the vessel once lived and made merry, and wonders
+    how many kisses its cold lip may have taken and given.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: XXXVI; lines 1258-1263
+  quote_or_summary: At dusk in the market-place, the speaker watches the potter thumping
+    wet clay, which murmurs with an obliterated tongue, asking gently, brother, gently.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: XXXVII; lines 1265-1272
+  quote_or_summary: The speaker urges filling the cup, says time slips beneath the
+    feet, and contrasts unborn tomorrow, dead yesterday, and sweet today.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward from the supplied passage. Motif taxonomy
+    mapping is partly approximate because the available taxonomy lacks exact categories
+    for memento mori, speaking clay, pottery, or carpe diem.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata. No external identifications or source-history claims added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-omar-khayyam-sufistic-quatrains-gutenberg__l1251-l1272
+  passage_sha256=a46900e754d585e8b87774ebb051388eaed5f4001ebc650e0c6a37d47fa3d50e

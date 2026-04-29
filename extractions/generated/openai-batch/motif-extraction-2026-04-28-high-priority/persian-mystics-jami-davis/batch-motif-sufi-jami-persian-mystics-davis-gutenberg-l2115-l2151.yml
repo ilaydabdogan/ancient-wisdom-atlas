@@ -1,0 +1,284 @@
+---
+record_id: batch.motif.sufi-jami-persian-mystics-davis-gutenberg-l2115-l2151
+source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+passage_locator:
+  label: PHANTOM RELATIONS / AN OLD HAG WHO DESIRED ONLY PLEASURE / PLAGIARISM / THE
+    AFFLICTED POET; lines 2115-2151
+  start: '2115'
+  end: '2151'
+  translation: 'The Persian Mystics: Jámí'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Two brief anecdotes are presented. In the first, a critic responds to a
+    poet's plagiarized composition by comparing it to a line of camels that would
+    scatter if untied. In the second, an afflicted poet tells a doctor of a knot in
+    his heart and bodily distress; the doctor diagnoses unrecited verses and cures
+    him by having him recite them repeatedly. Several footnotes follow.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A poet brings a composition to a critic, and the narrator states that each
+    distich and rhetorical figure was taken from different authors or collections.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The critic compares the composition to a line of camels whose members would
+    run in different directions if the string were untied.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A poet visits a doctor and reports a knot in his heart, discomfort, withering
+    limbs, and hair standing on end.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The doctor asks whether the poet has not recited his latest verses to anyone,
+    and the poet confirms this.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The doctor has the poet recite the verses three times and then says he is
+    saved because the poetry had been knotted in his heart and has now been relieved.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Four footnotes follow, explaining a play on an author's name, two Sufi degrees,
+    and a Persian phrase.
+  category: other
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: plagiarizing poet
+  description: A poet who brings to a critic a composition assembled from different
+    poems and authors.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: critic
+  description: The person who evaluates the poet's composition and delivers the camel
+    comparison.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: afflicted poet
+  description: A poet who visits a doctor with inward and outward distress caused
+    by unrecited verses.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: doctor
+  description: A shrewd physician who diagnoses the poet's trouble and cures him by
+    commanding recitation.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: plagiarizing author
+  assigned_to:
+  - fig:1
+  basis: The composition is described as plagiarized from different collections and
+    authors.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: discerning critic
+  assigned_to:
+  - fig:2
+  basis: The critic recognizes and characterizes the incoherent assemblage through
+    a metaphor.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: afflicted patient-poet
+  assigned_to:
+  - fig:3
+  basis: The poet reports bodily distress and a knot in his heart to the doctor.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: shrewd physician
+  assigned_to:
+  - fig:4
+  basis: The physician is explicitly called shrewd and successfully treats the poet
+    through recitation.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: line of camels
+  literal_form: A line of camels tied together, imagined as scattering if untied.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: knot in the heart
+  literal_form: Something knotted in the poet's heart.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:3
+  label: dry poetry affecting the body
+  literal_form: Poetry whose dryness takes effect outwardly on the poet's limbs and
+    hair.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: critic judges a plagiarized poem
+  summary: A poet presents a plagiarized composition to a critic, who describes its
+    lack of unity by comparing it to camels that would scatter if released.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: doctor cures a poet by recitation
+  summary: A distressed poet consults a doctor; the doctor identifies the cause as
+    unrecited verses and cures the poet by making him recite them repeatedly.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: incoherent borrowed work exposed by a critic
+  taxonomy_refs: []
+  basis: The critic frames the plagiarized composition as an assemblage whose parts
+    would not remain together if the binding were removed.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is a literary anecdote rather than a mythic narrative; no supplied
+    taxonomy family directly matches it.
+- id: motif:2
+  label: unspoken verse as illness relieved by recitation
+  taxonomy_refs: []
+  basis: The poet's bodily distress is attributed to poetry knotted in his heart,
+    and repeated recitation is said to cure him.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage presents a comic or didactic medical diagnosis; broader symbolic
+    interpretation would require evidence outside this passage.
+- id: motif:3
+  label: wisdom through shrewd diagnosis
+  taxonomy_refs:
+  - wisdom
+  basis: The doctor is called shrewd and identifies an unexpected cause of the poet's
+    affliction, leading to a cure.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The available taxonomy reference is broad; the passage supports practical
+    cleverness more directly than a developed wisdom myth.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2115-2120
+  quote_or_summary: A poet brings a composition to a critic; every distich is plagiarized
+    from a different collection and every rhetorical figure from another author.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 2120-2124
+  quote_or_summary: '"thou hast brought a line of camels, but if the string were untied,
+    every one of the herd would rush away in another direction."'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: summary
+  locator: lines 2128-2133
+  quote_or_summary: A poet tells a doctor that something is knotted in his heart,
+    making him uncomfortable, withering his limbs, and making his hair stand on end.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 2133-2138
+  quote_or_summary: The shrewd physician asks if the poet has not yet recited his
+    latest verses to anyone; the poet says this is so.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 2138-2147
+  quote_or_summary: The doctor makes the poet recite the verses, repeat them, and
+    rehearse them a third time, then declares him saved because the poetry had been
+    knotted in his heart and has been relieved.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 2149-2151
+  quote_or_summary: The footnotes mention a play on the author's name meaning a goblet,
+    the seventh and fifth degrees of the Sufis, and a Persian phrase meaning without
+    a shield.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is clear at the anecdotal level. Motif labels are descriptive
+    and limited because the passage contains literary jokes rather than explicit mythic
+    comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not support comparison to another tradition or motif family beyond broad descriptive tagging.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-jami-persian-mystics-davis-gutenberg__l2115-l2151
+  passage_sha256=7207828256f81f21e4157416f573fde4a54550474540e45ca1f0a11853c42d32

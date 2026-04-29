@@ -1,0 +1,321 @@
+---
+record_id: batch.motif.sufi-jami-persian-mystics-davis-gutenberg-l864-l891
+source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+passage_locator:
+  label: EDITORIAL NOTE / INTRODUCTION / THE BABY DARLING / LOVE'S EARTHLY WAY; lines
+    864-891
+  start: '864'
+  end: '891'
+  translation: 'The Persian Mystics: Jámí'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Salámán’s heart turns toward Absál. Absál watches for an opportunity, enters
+    his chamber, falls at his feet, and is raised and embraced by him. The two share
+    mutual desire and rejoice together over an extended period, believing their pleasure
+    will not end. Personified Heaven then declares that such sweet unions are not
+    licensed to last, mixing bliss with sunset and ending it by sunrise.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Salámán’s heart turns toward Absál, and Love and Desire are described as intensifying.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Absál watches for a suitable hour and enters Salámán’s chamber.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Absál falls at Salámán’s feet with her face laid beneath.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Salámán raises Absál in his arms and holds her while she trembles.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage describes mutual desire through images of lips, fount, and wine.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Their rejoicing continues from days to a moon and then to a year, while they
+    believe the pleasure will not end.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Personified Heaven speaks from ambush and says the continuation of such bliss
+    is not allowed by its license.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Heaven describes making sweet societies in the morning and breaking them before
+    nightfall, and mixing bliss with the setting and rising sun.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Salámán
+  description: A princely figure whose heart turns toward Absál and who raises and
+    embraces her.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Absál
+  description: A woman who enters Salámán’s chamber, falls at his feet, and joins
+    him in mutual desire.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Heaven
+  description: A personified cosmic speaker that declares the lovers’ lasting bliss
+    is not permitted.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: Love
+  description: Personified as old Love putting forth afresh when Salámán’s heart turns
+    to Absál.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: Desire
+  description: Personified as doubling his bond after Salámán’s heart turns to Absál.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: beloved prince
+  assigned_to:
+  - fig:1
+  basis: Salámán is associated with princely courtesies and is the object of Absál’s
+    approach.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: desiring lover
+  assigned_to:
+  - fig:2
+  basis: Absál seeks the hour to enter Salámán’s chamber and join him.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: cosmic limiter of pleasure
+  assigned_to:
+  - fig:3
+  basis: Heaven states that ongoing bliss is not permitted and describes ending sweet
+    unions.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:4
+  label: personified passion
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: Love and Desire are named as active forces intensifying the bond.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: star in the heavens
+  literal_form: Absál’s star is described as happy in the heavens.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: mansion of her moon
+  literal_form: Absál seeks to creep into the mansion of her moon, an image linked
+    to Salámán’s chamber.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: fount and wine of desire
+  literal_form: The lovers’ lips are described through fount and inexhaustible wine
+    imagery.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: setting and rising sun
+  literal_form: Heaven speaks of bliss mixed with the setting sun and ended with his
+    rising.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Love and desire intensify
+  summary: Salámán turns toward Absál, and personified Love and Desire are described
+    as renewed and strengthened.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Absál enters Salámán’s chamber
+  summary: Absál waits for the right hour, enters Salámán’s chamber, and falls at
+    his feet.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Mutual embrace and prolonged pleasure
+  summary: Salámán raises and embraces Absál; the passage describes mutual desire
+    and the lovers’ rejoicing over an extended span.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Heaven limits the lovers’ bliss
+  summary: Personified Heaven declares that such sweet unions are not permitted to
+    last and associates their ending with nightfall and sunrise.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: secret entrance to the beloved’s chamber
+  taxonomy_refs: []
+  basis: Absál waits for an hour and enters Salámán’s chamber to approach him.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is a local narrative pattern in the passage; no broader taxonomy
+    reference is explicitly established.
+- id: motif:2
+  label: mutual lovers’ union imagined as inexhaustible sweetness
+  taxonomy_refs: []
+  basis: The lovers’ mutual desire is described through lips, fount, and wine that
+    does not fail.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage frames the union as earthly love; no divine union should be
+    inferred from this passage alone.
+- id: motif:3
+  label: cosmic decree of impermanent pleasure
+  taxonomy_refs: []
+  basis: Heaven declares that the lovers’ ongoing bliss is not licensed and describes
+    sweet societies ending by nightfall or sunrise.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The exact mechanism of Heaven’s intervention is not narrated here beyond
+    the speech.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 864-869
+  quote_or_summary: Salámán’s heart turns to Absál; her star is happy in the heavens;
+    old Love renews itself and Desire doubles his bond.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 870-876
+  quote_or_summary: Absál watches for an hour, enters Salámán’s chamber, runs to him,
+    and falls like a shadow at his feet with her face beneath.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 876-882
+  quote_or_summary: Salámán raises Absál in his arms, holds her trembling, and their
+    mutual desire is figured through lips, a fount, and wine that does not fail.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 883-887
+  quote_or_summary: Their shared rejoicing extends from day to day, then to a moon
+    and a year, while they think their pleasure will never end.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: lines 888-890
+  quote_or_summary: "“But rolling Heaven whisper'd from his ambush, / ‘So in my license
+    is it not set down.’”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; brief quotation.
+- id: ev:6
+  type: summary
+  locator: lines 890-891
+  quote_or_summary: Heaven laments the sweet societies it makes in the morning and
+    breaks before nightfall, and the bliss mixed with sunset and ended at sunrise.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif labels are descriptive and passage-local;
+    no external comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No available taxonomy motif family or symbol reference was applied because the passage presents earthly erotic union and cosmic impermanence without explicitly matching the supplied controlled terms.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-jami-persian-mystics-davis-gutenberg__l864-l891
+  passage_sha256=c78eda5a3dfb3a3f0adade22fda656a34082a1e76a2dd4813374c9a5e071931e

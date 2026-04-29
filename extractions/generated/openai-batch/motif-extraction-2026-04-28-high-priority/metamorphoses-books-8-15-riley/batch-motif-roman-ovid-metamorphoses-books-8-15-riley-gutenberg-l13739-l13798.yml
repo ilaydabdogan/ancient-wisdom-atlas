@@ -1,0 +1,642 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l13739-l13798
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+passage_locator:
+  label: EXPLANATION. / EXPLANATION. / EXPLANATION. / EXPLANATION.; lines 13739-13798
+  start: '13739'
+  end: '13798'
+  translation: The Metamorphoses of Ovid, Books VIII-XV
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The explanation describes Ovid's conclusion with the apotheosis of Julius
+    Caesar, Augustan divine honors, Venus' role in securing Caesar's place among the
+    stars, prodigies reported after Caesar's death, public cult acts, and later representations
+    of Caesar ascending to heaven.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Ovid's work is described as concluding with the apotheosis of Julius Caesar
+    and a compliment to Augustus.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Augustus is said to have received divine honors during his lifetime and to
+    have been ranked among tutelar divinities by cities of the empire.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Romans are described as deriving their origin from Aeneas and being pleased
+    by Venus' concern for her posterity.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: After Julius Caesar was murdered in the Senate house, Augustus ordered public
+    games in his honor.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: During the games, a new star or comet appeared and was interpreted as the
+    soul of the deified Julius taking its place among the stars.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Venus is said to have procured Julius Caesar the honor of being placed among
+    the stars.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The Sun's pallid light after Caesar's death was ascribed to Apollo's grief.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Reports of prodigies included raining blood, obscured moon and stars, speaking
+    beasts, and the dead rising from graves.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: Augustus founded a temple, established priests, and erected a statue of Julius
+    Caesar with a star on its forehead.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: Julius Caesar was later represented as ascending to the heavens and wielding
+    a sceptre.
+  category: attribute
+  evidence_refs:
+  - ev:9
+- id: obs:11
+  text: Antony's funeral oration described Caesar as a god, and the crowd reacted
+    to Caesar's blood-stained garments and wounded body with anger against the conspirators.
+  category: speech
+  evidence_refs:
+  - ev:10
+- id: obs:12
+  text: The Roman people raised an altar where Caesar's body had been burned and attempted
+    libations and sacrifices there as to a divinity.
+  category: action
+  evidence_refs:
+  - ev:11
+- id: obs:13
+  text: A pillar was erected to Caesar with an inscription identifying him as father
+    of his country, and people visited the spot to offer sacrifices and vows.
+  category: object
+  evidence_refs:
+  - ev:12
+- id: obs:14
+  text: Caesar is said to have been made a divinity by public decree.
+  category: action
+  evidence_refs:
+  - ev:13
+figures:
+- id: fig:1
+  name_or_label: Julius Caesar
+  description: A murdered Roman leader whose apotheosis, star sign, cult honors, and
+    public deification are described.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:8
+  - ev:9
+  - ev:10
+  - ev:11
+  - ev:12
+  - ev:13
+- id: fig:2
+  name_or_label: Augustus
+  description: Caesar's successor, praised as worthy of divine honors and described
+    as ordering games, founding a temple, establishing priests, and promoting Caesar's
+    cult.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:8
+- id: fig:3
+  name_or_label: Venus
+  description: A goddess said to interest herself in her posterity and to procure
+    Julius Caesar's honor among the stars.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:4
+  name_or_label: Apollo
+  description: A god whose grief is said to explain the pallid light of the Sun after
+    Caesar's death.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: Aeneas
+  description: An ancestral figure from whom the Romans are said to deduce their origin.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Antony
+  description: Speaker of the funeral oration over Julius Caesar, in which he spoke
+    of Caesar as a god.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:10
+- id: fig:7
+  name_or_label: Roman people
+  description: The populace who attempted to honor Caesar as divine through burial
+    plans, altar-raising, sacrifices, vows, and cult attention.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:10
+  - ev:11
+  - ev:12
+- id: fig:8
+  name_or_label: priests
+  description: Religious authorities who prevented Caesar's corpse from being taken
+    to the Capitol and had it returned to the Forum for burning.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:10
+- id: fig:9
+  name_or_label: Consuls
+  description: Officials who overthrew the altar raised where Caesar's body had been
+    burned.
+  role_refs:
+  - role:11
+  evidence_refs:
+  - ev:11
+roles:
+- id: role:1
+  label: deified ruler
+  assigned_to:
+  - fig:1
+  basis: Julius Caesar is repeatedly described as receiving apotheosis, divine cult,
+    and public deification.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:11
+  - ev:13
+- id: role:2
+  label: living recipient of divine honors
+  assigned_to:
+  - fig:2
+  basis: Augustus is said to have been worshipped as a deity during his lifetime.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: divine patron of descendants
+  assigned_to:
+  - fig:3
+  basis: Venus is said to care for her posterity and secure Caesar's starry honor.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:4
+  label: murdered leader
+  assigned_to:
+  - fig:1
+  basis: Caesar is described as murdered in the Senate house, with wounded body and
+    blood-stained garments.
+  evidence_refs:
+  - ev:4
+  - ev:10
+- id: role:5
+  label: cult founder or promoter
+  assigned_to:
+  - fig:2
+  basis: Augustus orders games, founds a temple, establishes priests, and erects a
+    statue for Caesar.
+  evidence_refs:
+  - ev:4
+  - ev:8
+- id: role:6
+  label: mourning god
+  assigned_to:
+  - fig:4
+  basis: Apollo's grief is offered as the explanation for the Sun's pallid light.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: ancestral founder figure
+  assigned_to:
+  - fig:5
+  basis: The Romans are said to derive their origin from Aeneas.
+  evidence_refs:
+  - ev:3
+- id: role:8
+  label: funeral orator
+  assigned_to:
+  - fig:6
+  basis: Antony delivered the funeral oration and called Caesar a god.
+  evidence_refs:
+  - ev:10
+- id: role:9
+  label: popular cult actors
+  assigned_to:
+  - fig:7
+  basis: The Roman people raise an altar and offer or attempt sacrifices and vows
+    to Caesar.
+  evidence_refs:
+  - ev:11
+  - ev:12
+- id: role:10
+  label: ritual gatekeepers
+  assigned_to:
+  - fig:8
+  basis: The priests refused to permit Caesar's corpse to be taken to the Capitol.
+  evidence_refs:
+  - ev:10
+- id: role:11
+  label: official opponents of unauthorized altar
+  assigned_to:
+  - fig:9
+  basis: The Consuls are said to have overthrown the altar raised at the burning-place.
+  evidence_refs:
+  - ev:11
+symbols:
+- id: sym:1
+  label: new star or comet
+  literal_form: a new star, or rather a comet
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:2
+  label: pallid sun
+  literal_form: the unusually pallid light of the Sun
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:3
+  label: blood rain
+  literal_form: rain of blood
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:4
+  label: obscured moon and stars
+  literal_form: the moon and stars obscured
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:5
+  label: speaking beasts
+  literal_form: beasts uttering words
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: dead rising from graves
+  literal_form: the dead rising from their graves
+  associated_figures: []
+  taxonomy_refs:
+  - resurrection
+  evidence_refs:
+  - ev:7
+- id: sym:7
+  label: temple
+  literal_form: a temple founded in Julius Caesar's honor
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:8
+  label: statue with star on forehead
+  literal_form: a statue of Caesar with a star on its forehead
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:9
+  label: sceptre
+  literal_form: a sceptre in Caesar's hand
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:10
+  label: altar at burning-place
+  literal_form: an altar where Caesar's body had been burnt
+  associated_figures:
+  - fig:1
+  - fig:7
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:11
+- id: sym:11
+  label: pillar inscription
+  literal_form: a pillar inscribed 'parenti patriae'
+  associated_figures:
+  - fig:1
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:12
+scenes:
+- id: scene:1
+  label: Poetic conclusion and Augustan compliment
+  summary: The explanation says Ovid concludes with Julius Caesar's apotheosis while
+    praising Augustus and promising him a long reign.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Comet interpreted as Caesar's soul
+  summary: After Caesar's murder and during games ordered by Augustus, a new star
+    or comet appears and is interpreted as the deified Caesar's soul among the stars,
+    with Venus credited for the honor.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Cosmic and prodigious mourning after Caesar's death
+  summary: The passage reports pallid sunlight attributed to Apollo's grief and other
+    prodigies such as blood rain, obscured heavenly bodies, speaking beasts, and the
+    dead rising.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:4
+  label: Institution of Caesar's cult honors
+  summary: Augustus founds a temple, appoints priests, and erects a statue with a
+    star on Caesar's forehead; Caesar is also represented ascending to heaven with
+    a sceptre.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:7
+  - sym:8
+  - sym:9
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: scene:5
+  label: Funeral oration and popular response
+  summary: Antony calls Caesar a god at the funeral; the crowd, moved by his words
+    and by Caesar's wounds and blood-stained garments, reacts against the conspirators
+    and tries to move the corpse to the Capitol before priests return it to the Forum
+    for burning.
+  figure_refs:
+  - fig:1
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs: []
+  evidence_refs:
+  - ev:10
+- id: scene:6
+  label: Altar, pillar, sacrifices, vows, and decree
+  summary: The Roman people raise an altar where Caesar's body was burned and attempt
+    divinity-like offerings; a pillar with an inscription is erected, people offer
+    sacrifices and vows there, and Caesar is said to have been made a divinity by
+    public decree.
+  figure_refs:
+  - fig:1
+  - fig:7
+  - fig:9
+  symbol_refs:
+  - sym:10
+  - sym:11
+  evidence_refs:
+  - ev:11
+  - ev:12
+  - ev:13
+candidate_motifs:
+- id: motif:1
+  label: apotheosis of a slain ruler
+  taxonomy_refs:
+  - ascent
+  - royal_legitimacy
+  basis: The passage centers on Julius Caesar's deification after murder, his soul's
+    placement among the stars, ascent imagery, and public cult honors.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:9
+  - ev:11
+  - ev:13
+  confidence: high
+  cautions: The passage is an explanatory note on Roman political religion rather
+    than a mythic narrative alone.
+- id: motif:2
+  label: celestial sign confirms deification
+  taxonomy_refs:
+  - ascent
+  basis: A new star or comet during public games is interpreted as the deified Caesar's
+    soul taking its place among the stars.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage presents the interpretation as promulgated after the event.
+- id: motif:3
+  label: divine ancestor secures descendant's honor
+  taxonomy_refs:
+  - divine_parent_child
+  - royal_legitimacy
+  basis: Venus is described as caring for her posterity and procuring Caesar's celestial
+    honor, while Romans trace their origin to Aeneas.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The kinship chain is summarized rather than narrated in detail in this
+    passage.
+- id: motif:4
+  label: nature and gods mourn a ruler's death through prodigies
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage says sorrow of gods and nature was manifested by pallid sun,
+    Apollo's grief, blood rain, obscured heavenly bodies, speaking beasts, and rising
+    dead.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The prodigies are reported as claims by various persons, not as directly
+    narrated events.
+- id: motif:5
+  label: popular cult at death site
+  taxonomy_refs:
+  - sacred_exchange
+  basis: People raise an altar at the cremation site and offer or attempt sacrifices,
+    libations, and vows to Caesar as a divinity.
+  evidence_refs:
+  - ev:11
+  - ev:12
+  confidence: high
+  cautions: The altar is said to have been overthrown by officials, indicating contested
+    cult practice.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 13739-13747
+  quote_or_summary: The explanation says Ovid concludes with the apotheosis of Julius
+    Caesar and compliments Augustus as worthy of divine honors with a long reign.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain translation; summarized.
+- id: ev:2
+  type: summary
+  locator: 13747-13753
+  quote_or_summary: Augustus is said to have been worshipped as a deity at altars
+    during his lifetime and ranked among tutelar divinities by cities of the empire.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain translation; summarized.
+- id: ev:3
+  type: summary
+  locator: 13754-13758
+  quote_or_summary: The Romans traced their origin to Aeneas and liked the idea of
+    Venus helping her posterity and securing Caesar's apotheosis.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain translation; summarized.
+- id: ev:4
+  type: summary
+  locator: 13758-13761
+  quote_or_summary: After Julius Caesar was murdered in the Senate house, Augustus
+    ordered public games in his honor.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain translation; summarized.
+- id: ev:5
+  type: summary
+  locator: 13761-13766
+  quote_or_summary: During the games a new star or comet appeared; it was announced
+    that the deified Julius's soul had taken its place among the stars and that Venus
+    had procured the honor.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain translation; summarized.
+- id: ev:6
+  type: summary
+  locator: 13766-13771
+  quote_or_summary: The Sun's unusually pallid light after Caesar's death was attributed
+    to Apollo's grief.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain translation; summarized.
+- id: ev:7
+  type: summary
+  locator: 13771-13776
+  quote_or_summary: 'Various prodigies were reported: blood rain, obscured moon and
+    stars, beasts speaking, and the dead rising from graves.'
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain translation; summarized.
+- id: ev:8
+  type: summary
+  locator: 13777-13781
+  quote_or_summary: Augustus founded a temple in Caesar's honor, established priests,
+    and erected a statue of Caesar with a star on its forehead.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain translation; summarized.
+- id: ev:9
+  type: summary
+  locator: 13781-13783
+  quote_or_summary: Caesar was later represented ascending to the heavens and holding
+    a sceptre.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain translation; summarized.
+- id: ev:10
+  type: summary
+  locator: 13786-13792
+  quote_or_summary: Antony's funeral oration called Caesar a god; the populace reacted
+    to his blood-stained garments and wounded body, wanted to take the corpse to the
+    Capitol, but priests returned it to the Forum for burning.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain translation; summarized.
+- id: ev:11
+  type: summary
+  locator: 13793-13796
+  quote_or_summary: The Roman people raised an altar where Caesar's body was burned
+    and attempted libations and sacrifices as to a divinity; the Consuls overthrew
+    the altar.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain translation; summarized.
+- id: ev:12
+  type: summary
+  locator: 13796-13798
+  quote_or_summary: A pillar about twenty feet high was erected with an inscription
+    to the father of his country, and people visited the spot to offer sacrifices
+    and vows.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain translation; summarized.
+- id: ev:13
+  type: summary
+  locator: '13798'
+  quote_or_summary: Suetonius adds that Caesar was made a divinity by public decree,
+    without saying when.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain translation; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is an explanatory historical note with clear apotheosis and cult
+    material; motif labels are candidates and require review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage does not itself support comparison beyond the local Roman apotheosis and imperial cult pattern.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-8-15-riley-gutenberg__l13739-l13798
+  passage_sha256=e5ef7963e28d253a2f2337d8a0043a84c4b462f693d9b4e596c5ff3d55152d33

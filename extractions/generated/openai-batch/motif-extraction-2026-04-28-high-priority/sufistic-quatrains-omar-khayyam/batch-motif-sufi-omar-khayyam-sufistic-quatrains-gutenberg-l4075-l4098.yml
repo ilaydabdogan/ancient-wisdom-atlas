@@ -1,0 +1,321 @@
+---
+record_id: batch.motif.sufi-omar-khayyam-sufistic-quatrains-gutenberg-l4075-l4098
+source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+passage_locator:
+  label: LXXXV. / LXXXVI. / LXXXVII. / LXXXVIII.; lines 4075-4098
+  start: '4075'
+  end: '4098'
+  translation: The Sufistic Quatrains of Omar Khayyam
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: The luckless Pots he marr'd in making
+  summary: A quatrain reports a speaker dismissing fears that a maker will cast flawed
+    pots into Hell, asserting that the maker is a good fellow and all will be well.
+    Editorial notes connect this quatrain, and another, to quatrains about the Director
+    arranging and dispersing forms, and about resurrection, searching, an excellent
+    Friend, and ultimate goodness.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A speaker says that some people tell of one who threatens to toss flawed pots
+    into Hell.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker calls the pots luckless and says they were marred in making.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The speaker dismisses the threat and says the threatening figure is a good
+    fellow and that all will be well.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: An editorial note states that the inspiration for the quatrain, and probably
+    for No. 86, comes from C. 69 and C. 159.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: In the cited C. 69 passage, a Director sets the elements of natures in order
+    and then disperses them into loss and deficiency.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The C. 69 passage asks why good forms should be broken and why bad forms should
+    be blamed.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The C. 159 passage says that at the resurrection there will be much searching
+    and that an excellent Friend will be hasty.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The C. 159 passage says that only good came from Unalloyed Goodness and urges
+    happiness because the outcome will be all right.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: another
+  description: The reported speaker who dismisses the threat of Hell for the luckless
+    pots.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: one who threatens
+  description: A maker-like figure said to threaten to toss the luckless pots he marred
+    into Hell.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: luckless Pots
+  description: Pots said to have been marred in making and threatened with Hell.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Director
+  description: A figure in the cited passage who set in order the elements of natures
+    and disperses them into loss and deficiency.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: excellent Friend / Unalloyed Goodness
+  description: A figure or divine quality in the cited resurrection passage, described
+    as an excellent Friend and Unalloyed Goodness from whom only good comes.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: skeptical or reassuring speaker
+  assigned_to:
+  - fig:1
+  basis: The speaker rejects the threat as 'Pish' and says all will be well.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: maker or ordering agent
+  assigned_to:
+  - fig:2
+  - fig:4
+  basis: One figure is associated with pots marred in making; the Director sets elements
+    of natures in order.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: merciful or good divine figure
+  assigned_to:
+  - fig:2
+  - fig:5
+  basis: The maker is called a good fellow; the cited passage refers to an excellent
+    Friend and Unalloyed Goodness from whom only good comes.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:4
+  label: made and judged forms
+  assigned_to:
+  - fig:3
+  basis: The pots are described as marred in making and threatened with Hell; the
+    related cited passage asks why forms should be blamed.
+  evidence_refs:
+  - ev:1
+  - ev:3
+symbols:
+- id: sym:1
+  label: pots as made forms
+  literal_form: Pots marred in making
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Hell
+  literal_form: Hell as the destination threatened for the luckless pots
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: elements of natures
+  literal_form: Elements of natures set in order and dispersed
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: resurrection search
+  literal_form: Resurrection with much searching
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Threat of flawed pots being cast into Hell is dismissed
+  summary: A speaker reports that some tell of a maker who threatens the flawed pots
+    he made with Hell, then rejects the fear and affirms the maker's goodness and
+    a good outcome.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Director orders and disperses forms
+  summary: A cited passage asks why the Director orders the elements of natures, disperses
+    them, breaks good forms, or blames bad forms.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Resurrection searching resolved by goodness
+  summary: A cited passage says resurrection will involve searching and haste by an
+    excellent Friend, but concludes that only good comes from Unalloyed Goodness and
+    the outcome will be all right.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Mercy overriding threatened judgment
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage names Hell and resurrection searching, but repeatedly counters
+    fear of punishment with the goodness of the maker or Friend and the claim that
+    all will be well.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: high
+  cautions: The passage frames judgment in skeptical and reassuring terms rather than
+    narrating an actual judgment scene.
+- id: motif:2
+  label: Created forms questioning blame
+  taxonomy_refs:
+  - wisdom
+  basis: The cited passage asks why forms should be blamed if the Director made and
+    later disperses them, and the main quatrain describes pots marred in making as
+    threatened with Hell.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: The motif is philosophical and rhetorical; it is not a developed narrative
+    episode.
+- id: motif:3
+  label: Resurrection followed by searching
+  taxonomy_refs:
+  - resurrection
+  - divine_judgment
+  basis: The cited C. 159 passage explicitly mentions resurrection, much searching,
+    and an excellent Friend who will be hasty.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage immediately softens the judgment imagery with the assertion
+    that only good comes from Unalloyed Goodness.
+comparison_claims:
+- id: claim:1
+  claim: The note explicitly links the main quatrain and probably No. 86 to C. 69
+    and C. 159 as inspirations, supporting comparison within the same Khayyam quatrain
+    corpus around creation, judgment, and final reassurance.
+  claim_level: same_function
+  target: C. 69 and C. 159 in the cited Khayyam quatrain references
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage states inspiration but does not provide a detailed historical
+    argument; the comparison is limited to the cited editorial relationship and thematic
+    overlap.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 4075-4080
+  quote_or_summary: A speaker says some tell of one who threatens to toss to Hell
+    'The luckless Pots he marr'd in making,' then says he is a good fellow and all
+    will be well.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: 4082-4083
+  quote_or_summary: The editor states that the inspiration for this quatrain, and
+    probably for No. 86, comes from C. 69 and C. 159.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 4085-4090
+  quote_or_summary: C. 69 says the Director set the elements of natures in order,
+    asks why he disperses them into loss, and asks why good forms are broken or bad
+    forms blamed.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 4094-4098
+  quote_or_summary: C. 159 says resurrection will bring much searching, that an excellent
+    Friend will be hasty, that only good comes from Unalloyed Goodness, and that the
+    outcome will be all right.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is short and heavily rhetorical, so figures such as the maker,
+    Director, excellent Friend, and Unalloyed Goodness may overlap but are kept distinct
+    where the text presents them separately.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the provided passage and metadata were used. Taxonomy references are limited to supplied motif families; supplied symbol taxonomy did not include pots, Hell, elements, or resurrection, so symbol taxonomy_refs are empty.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-omar-khayyam-sufistic-quatrains-gutenberg__l4075-l4098
+  passage_sha256=bb94b3736d321fbc85d293bcc1cfd7df514e494d2f76d785ec98590d9fe23c1d

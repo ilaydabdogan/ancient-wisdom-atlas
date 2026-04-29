@@ -1,0 +1,434 @@
+---
+record_id: batch.motif.sufi-omar-khayyam-sufistic-quatrains-gutenberg-l1107-l1144
+source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+passage_locator:
+  label: VIII. / XIII. / XVII. / XVIII.; lines 1107-1144
+  start: '1107'
+  end: '1144'
+  translation: The Sufistic Quatrains of Omar Khayyam
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage contrasts former royal glory with ruins occupied by animals,
+    imagines flowers and herbs springing from dead human bodies, urges the beloved
+    to fill the cup in the present before tomorrow joins the ancient past, and recalls
+    loved ones who have already drunk their cup and gone silently to rest.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A lion and a lizard are said to keep the courts where Jamshyd once gloried
+    and drank deeply.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Bahram is described as a great hunter lying fast asleep while a wild ass stamps
+    over his head.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The speaker imagines that a red rose may grow where a buried Caesar bled.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The speaker imagines every hyacinth in the garden as having dropped from a
+    once lovely head.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A tender green herb grows on the river's lip, and the speaker warns the hearer
+    to lean on it lightly.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The speaker addresses a beloved and asks that the cup be filled to clear today
+    of past regrets and future fears.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The speaker says that tomorrow he may be with yesterday's seven thousand years.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: People loved by the speaker drank their cup earlier and one by one crept silently
+    to rest.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Lion
+  description: Animal said to keep the former courts of Jamshyd.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Lizard
+  description: Animal said to keep the former courts of Jamshyd.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Jamshyd
+  description: Former glorious figure associated with courts and deep drinking.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Bahram
+  description: Named as a great hunter who lies fast asleep beneath the stamping wild
+    ass.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: Wild Ass
+  description: Animal that stamps over Bahram's head.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:6
+  name_or_label: Buried Caesar
+  description: A dead ruler-like figure whose spilled blood is imagined as connected
+    with the red rose.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:7
+  name_or_label: Once lovely person
+  description: Anonymous dead or absent person represented through a once lovely head
+    or lip from which hyacinth or herb may spring.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:8
+  name_or_label: Beloved
+  description: The addressee whom the speaker asks to fill the cup.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:9
+  name_or_label: Speaker
+  description: First-person voice reflecting on mortality, time, and the cup.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:10
+  name_or_label: Loved ones
+  description: Those loved by the speaker, described as the loveliest and best, who
+    have already drunk their cup and gone to rest.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: Animal occupants of former royal space
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The lion and lizard are said to keep the courts where Jamshyd once gloried.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: Former glorious ruler or royal figure
+  assigned_to:
+  - fig:3
+  basis: Jamshyd is associated with courts, glory, and drinking in the past.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: Fallen hunter
+  assigned_to:
+  - fig:4
+  basis: Bahram is named a great hunter but is now lying fast asleep.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: Trampling animal
+  assigned_to:
+  - fig:5
+  basis: The wild ass stamps over Bahram's head.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: Dead source of living growth
+  assigned_to:
+  - fig:6
+  - fig:7
+  basis: Blood, a head, and a lip of former persons are imagined as sources or places
+    of rose, hyacinth, and herb growth.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:6
+  label: Beloved addressee
+  assigned_to:
+  - fig:8
+  basis: The speaker directly addresses the beloved and asks for the cup to be filled.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: Mortal speaker
+  assigned_to:
+  - fig:9
+  basis: The first-person speaker says tomorrow he may join yesterday's seven thousand
+    years.
+  evidence_refs:
+  - ev:4
+- id: role:8
+  label: Departed loved companions
+  assigned_to:
+  - fig:10
+  basis: The loved ones have already drunk their cup and crept silently to rest.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: Ruined courts
+  literal_form: Courts where Jamshyd gloried, now kept by lion and lizard
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Rose from blood
+  literal_form: Red rose imagined as blooming where a buried Caesar bled
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Hyacinth from head
+  literal_form: Hyacinth imagined as dropped from a once lovely head
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: Tender green herb
+  literal_form: Herb growing on the river's lip, possibly from a once lovely lip
+  associated_figures:
+  - fig:7
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: River
+  literal_form: River's lip beside the herb
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: Cup
+  literal_form: Cup to be filled for the beloved and already drunk by departed loved
+    ones
+  associated_figures:
+  - fig:8
+  - fig:9
+  - fig:10
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:7
+  label: Seven thousand years
+  literal_form: Yesterday's seven thousand years
+  associated_figures:
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Former glory occupied by animals
+  summary: The courts of Jamshyd are now kept by a lion and lizard, and Bahram lies
+    asleep while the wild ass stamps over his head.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Garden growth from the dead
+  summary: The speaker imagines rose, hyacinth, and herb as arising from the blood
+    or body parts of once living or lovely persons.
+  figure_refs:
+  - fig:6
+  - fig:7
+  - fig:9
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Present cup before tomorrow
+  summary: The speaker asks the beloved to fill the cup so that today is cleared of
+    regrets and fears, because tomorrow the speaker may belong to the ancient past.
+  figure_refs:
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Loved ones go to rest
+  summary: The speaker recalls loved ones who drank their cup earlier and silently
+    went one by one to rest.
+  figure_refs:
+  - fig:10
+  - fig:9
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Fallen royal glory and animal-occupied ruins
+  taxonomy_refs: []
+  basis: Former courts and named royal or heroic figures are shown as displaced by
+    animals and sleep-like death.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage presents this as poetic reflection rather than a narrative
+    episode.
+- id: motif:2
+  label: Living plants arising from the dead
+  taxonomy_refs:
+  - death_rebirth
+  basis: The rose, hyacinth, and herb are imagined as growing from blood, a head,
+    or a lip of former persons.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The wording is speculative and metaphorical, introduced by the speaker's
+    thought and questions.
+- id: motif:3
+  label: Cup of the present before death
+  taxonomy_refs:
+  - wisdom
+  basis: The beloved is urged to fill the cup because today should be cleared of past
+    regrets and future fears, and tomorrow the speaker may join the ancient past.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage does not explicitly define the cup doctrinally; interpretation
+    should remain tied to the immediate poetic context.
+- id: motif:4
+  label: Death as drinking and silent rest
+  taxonomy_refs: []
+  basis: Loved ones are described as having drunk their cup before and then crept
+    silently to rest.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage uses euphemistic and symbolic language for death or departure.
+comparison_claims:
+- id: claim:1
+  claim: The imagery of flowers and herbs arising from buried or dead human bodies
+    fits a broad death-and-renewal pattern at the motif-family level.
+  claim_level: same_motif
+  target: death_rebirth motif family
+  evidence_refs:
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage is lyric and speculative, not a full resurrection or rebirth
+    narrative; no historical-contact claim is supported.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1107-1114; quatrain XVII
+  quote_or_summary: Lion and lizard keep Jamshyd's courts; Bahram the great hunter
+    lies asleep while the wild ass stamps over his head.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 1115-1122; quatrain XVIII
+  quote_or_summary: The speaker thinks the rose is reddest where a buried Caesar bled
+    and that hyacinths may come from a once lovely head.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 1123-1130; quatrain XIX
+  quote_or_summary: A tender green herb grows at the river's lip; the speaker warns
+    to lean lightly because it may spring from a once lovely lip.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: lines 1131-1138; quatrain XX
+  quote_or_summary: The speaker asks the beloved to fill the cup to clear today of
+    past regrets and future fears, noting that tomorrow he may join yesterday's seven
+    thousand years.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:5
+  type: summary
+  locator: lines 1139-1144; quatrain XXI
+  quote_or_summary: Loved ones, the loveliest and best, have drunk their cup before
+    and one by one crept silently to rest.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal figures and images are clear; motif assignment is more interpretive
+    because the passage is lyric and metaphorical.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only supplied passage text and metadata; no historical-contact claims added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-omar-khayyam-sufistic-quatrains-gutenberg__l1107-l1144
+  passage_sha256=d723953c9bec383a12c546ad92f87ee7f472d985460d9824d1a07653d7da9532

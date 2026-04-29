@@ -1,0 +1,439 @@
+---
+record_id: batch.motif.sufi-persian-mystics-rumi-davis-gutenberg-l1848-l1884
+source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+passage_locator:
+  label: THE DEVIL MAKES USE OF THE BEAUTY OF WOMEN / SELF-AGGRANDISEMENT AND VAINGLORY
+    NO PART OF LOVE / LOVE NEEDS NO MEDIATOR / HUMANITY THE REFLECTION OF THE BELOVED;
+    lines 1848-1884
+  start: '1848'
+  end: '1884'
+  translation: 'The Persian Mystics: Jalálu''d-dín Rúmí'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage uses the example of a parrot trained by a hidden speaker through
+    a mirror to explain how God instructs people through prophets and saints. It then
+    describes earthly forms as shadows of the Sun of Truth, and says that negation
+    of self prepares the soul to apprehend that only the One exists, while spiritual
+    intoxication lifts people toward the beatific vision of eternal Truth.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A parrot is taught to speak by placing a mirror between the parrot and a hidden
+    trainer; the parrot sees its own reflection, thinks another parrot is speaking,
+    and imitates the trainer's words.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: God is said to use prophets and saints as mirrors through which to instruct
+    men.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Men who hear words from the mirrors of saints are described as ignorant that
+    the words are really spoken by Universal Reason or the Word of God behind the
+    mirror.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Earthly forms are described as shadows of the Sun of Truth and as a cradle
+    for babes, too small for those grown to spiritual manhood.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Negation is described as having the purpose of subsequent affirmation, illustrated
+    by the creed's movement from 'There is no God' to 'but God.'
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Negation of self is said to clear the way for apprehending that there is no
+    existence but the One.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The intoxication of life, pleasures, and occupations is said to veil Truth
+    from men's eyes; spiritual intoxication is said to lift people to the beatific
+    vision of eternal Truth.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Parrot
+  description: A bird taught to speak without understanding the words, by seeing its
+    own reflection in a mirror.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Trainer
+  description: A hidden speaker behind the mirror who utters words for the parrot
+    to imitate.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: God
+  description: The divine actor said to use prophets and saints as mirrors to instruct
+    men.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Prophets and saints
+  description: Their bodies are described as mirrors through which men are instructed.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:5
+  name_or_label: Men / humanity
+  description: Recipients of instruction who hear words from the mirrors and may be
+    veiled from Truth or lifted toward vision of eternal Truth.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:7
+- id: fig:6
+  name_or_label: Universal Reason / Word of God
+  description: The true speaker behind the mirror of the saints, according to the
+    passage.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: The One / eternal Truth
+  description: The sole existence to be apprehended after negation of self; also the
+    eternal Truth seen in beatific vision.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+roles:
+- id: role:1
+  label: Learner and imitator
+  assigned_to:
+  - fig:1
+  basis: The parrot imitates the words uttered by the hidden trainer.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: Hidden speaker or instructor
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:6
+  basis: The trainer speaks from behind the mirror in the example; God, Universal
+    Reason, or the Word of God is the hidden divine source behind prophetic mirrors.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:3
+  label: Mirror-mediated messenger
+  assigned_to:
+  - fig:4
+  basis: Prophets and saints are described as mirrors, specifically their bodies,
+    through which men receive instruction.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: Human recipient of instruction and vision
+  assigned_to:
+  - fig:5
+  basis: Men hear words from the mirrors and are urged beyond veiled life-intoxication
+    toward spiritual intoxication and vision.
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: role:5
+  label: Divine source or ultimate reality
+  assigned_to:
+  - fig:3
+  - fig:6
+  - fig:7
+  basis: The passage names God, Universal Reason, Word of God, the One, and eternal
+    Truth as divine or ultimate realities involved in instruction and vision.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+  - ev:7
+symbols:
+- id: sym:1
+  label: Mirror
+  literal_form: A mirror between parrot and trainer; also the bodies of prophets and
+    saints as mirrors.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: Parrot reflection
+  literal_form: The parrot's own reflection, mistaken for another speaking parrot.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Earthly forms as shadows
+  literal_form: Earthly forms described as shadows of the Sun of Truth.
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: Sun of Truth
+  literal_form: The Sun of Truth casting shadows as earthly forms.
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: Cradle for babes
+  literal_form: Earthly forms described as a cradle for babes, too small for spiritual
+    adulthood.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: Negation and affirmation
+  literal_form: The creed's negation, 'There is no God,' completed by the affirmation
+    'but God.'
+  associated_figures:
+  - fig:3
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:7
+  label: Veil over Truth
+  literal_form: Life's intoxication, pleasures, and occupations veiling Truth from
+    men's eyes.
+  associated_figures:
+  - fig:5
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:8
+  label: Spiritual intoxication
+  literal_form: A spiritual intoxication that makes men beside themselves and lifts
+    them to the beatific vision.
+  associated_figures:
+  - fig:5
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Parrot trained through a mirror
+  summary: A hidden trainer speaks from behind a mirror; the parrot mistakes its own
+    reflection for another parrot and imitates the words.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Divine instruction through prophetic mirrors
+  summary: God uses prophets and saints as mirrors to instruct people, who do not
+    recognize the hidden divine source of the words.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Earthly forms as limited shadows
+  summary: Earthly forms are presented as shadows of the Sun of Truth and as a cradle
+    suited only to spiritual infancy.
+  figure_refs:
+  - fig:5
+  - fig:7
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: From negation of self to beatific vision
+  summary: Negation is completed by affirmation; self-negation prepares recognition
+    that only the One exists, while spiritual intoxication lifts people beyond veiled
+    ordinary life toward eternal Truth.
+  figure_refs:
+  - fig:3
+  - fig:5
+  - fig:7
+  symbol_refs:
+  - sym:6
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Divine instruction mediated through prophetic mirrors
+  taxonomy_refs:
+  - wisdom
+  basis: The passage explicitly says God uses prophets and saints as mirrors to instruct
+    men, while the true speaker remains hidden behind the mirror.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The taxonomy reference is broad; the passage frames instruction mystically
+    rather than as ordinary didactic wisdom.
+- id: motif:2
+  label: Humanity as reflection of the divine beloved or divine source
+  taxonomy_refs:
+  - divine_beloved
+  basis: The passage heading names humanity as the reflection of the Beloved, and
+    the body develops a mirror image in which divine speech reaches humanity through
+    reflected or mediated forms.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The body of the passage uses God, Universal Reason, Word of God, Truth,
+    and the One rather than repeating the term 'Beloved.'
+- id: motif:3
+  label: Self-negation leading to apprehension of unity
+  taxonomy_refs:
+  - annihilation_union
+  basis: Negation of self is said to clear the way for apprehending that there is
+    no existence but the One.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The passage emphasizes apprehension and vision rather than narrating a
+    completed union event.
+- id: motif:4
+  label: Veiling of truth and spiritual intoxication
+  taxonomy_refs:
+  - mystical_quest
+  basis: Life's intoxication veils Truth, while spiritual intoxication lifts people
+    to the beatific vision of eternal Truth.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The passage gives a doctrinal mystical pattern, not a developed quest
+    narrative.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1848-1884, parrot-and-mirror analogy
+  quote_or_summary: A parrot is trained by a hidden speaker through a mirror; it sees
+    its reflection, thinks another parrot is speaking, and imitates the trainer's
+    words.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; summary only.
+- id: ev:2
+  type: quote
+  locator: lines 1848-1884, divine use of mirrors
+  quote_or_summary: '"So God uses prophets and saints as mirrors whereby to instruct
+    men"'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: summary
+  locator: lines 1848-1884, hidden divine speaker
+  quote_or_summary: Men hear words from the mirrors and do not know they are spoken
+    by Universal Reason or the Word of God behind the mirror of the saints.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; summary only.
+- id: ev:4
+  type: quote
+  locator: lines 1848-1884, 'EARTHLY FORMS'
+  quote_or_summary: '"Earthly forms are only shadows of the Sun of Truth--a cradle
+    for babes"'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; short quotation.
+- id: ev:5
+  type: summary
+  locator: lines 1848-1884, negation and affirmation
+  quote_or_summary: Negation is said to aim at subsequent affirmation, as the creed's
+    'There is no God' is completed by 'but God.'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; summary only.
+- id: ev:6
+  type: quote
+  locator: lines 1848-1884, negation of self
+  quote_or_summary: '"the purpose of negation of self is to clear the way for the
+    apprehension of the fact that there is no existence but the One"'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; short quotation from public domain text.
+- id: ev:7
+  type: summary
+  locator: lines 1848-1884, beatific vision
+  quote_or_summary: Life's intoxication veils Truth, and spiritual intoxication makes
+    men beside themselves and lifts them to the beatific vision of eternal Truth.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; summary only.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is direct from the supplied passage. Motif candidates
+    use only available taxonomy references and are kept broad. No comparison claims
+    were generated because the passage itself does not support a specific cross-text
+    or cross-tradition comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  All claims are limited to the supplied passage and metadata; no external context was used.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-persian-mystics-rumi-davis-gutenberg__l1848-l1884
+  passage_sha256=59e40216d3d7cff4f993549f391430ce91e6f9b558b14f55a915d786c16dc9da

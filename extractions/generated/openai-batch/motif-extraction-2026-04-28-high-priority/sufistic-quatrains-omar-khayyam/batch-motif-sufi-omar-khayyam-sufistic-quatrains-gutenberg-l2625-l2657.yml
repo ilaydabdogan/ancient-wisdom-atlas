@@ -1,0 +1,337 @@
+---
+record_id: batch.motif.sufi-omar-khayyam-sufistic-quatrains-gutenberg-l2625-l2657
+source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+passage_locator:
+  label: XVII. / XVIII. / XXII. / XXIII.; lines 2625-2657
+  start: '2625'
+  end: '2657'
+  translation: The Sufistic Quatrains of Omar Khayyam
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A quatrain reflects that those now enjoying a room left by others will
+    themselves descend under the earth and become a couch for others. The commentary
+    links it to Persian rubai references that counsel peace in a fleeting world and
+    repeat the image of grass or verdure growing from human clay, dust, or remains.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A collective speaker says that they now make merry in a room previously left
+    by others while summer is in new bloom.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker says that they themselves must descend beneath the Couch of Earth
+    and become a couch for an unspecified future occupant or group.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A cited quatrain advises arising, not sorrowing for the fleeting world, being
+    at peace, and passing through the world with happiness.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The cited quatrain states that if the world were constant, the turn of others
+    would not have descended to the addressee.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A cited recurring sentiment describes present verdure as a pleasure-ground
+    until verdure springing from the speaker's clay becomes a pleasure-ground for
+    someone else.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Another cited passage tells an addressed Idol to sit on the greensward, because
+    soon greensward will grow from the dust of both speaker and addressee.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: collective present speaker
+  description: The 'we' who now make merry and who must later descend beneath the
+    earth.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: previous occupants or others
+  description: Those who left the room before the present speakers; also evoked as
+    'others' whose turn has descended.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:3
+  name_or_label: addressed Idol
+  description: An addressed figure in the cited original, told to sit upon the greensward.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: temporary occupant
+  assigned_to:
+  - fig:1
+  basis: The collective speaker occupies and enjoys a room left by others.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: future dead or buried body
+  assigned_to:
+  - fig:1
+  basis: The speaker says they must descend beneath the Couch of Earth and themselves
+    become a couch.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: predecessor in the turn of time
+  assigned_to:
+  - fig:2
+  basis: Others have left the room, and a cited quatrain says the turn of others has
+    descended to the addressee.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:4
+  label: beloved or addressee
+  assigned_to:
+  - fig:3
+  basis: The cited line directly addresses 'O Idol' and instructs the figure to sit
+    on the greensward.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: room left by others
+  literal_form: Room
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Couch of Earth
+  literal_form: earth as couch or burial place
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: summer bloom
+  literal_form: Summer in new bloom
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: fleeting world
+  literal_form: world described as fleeting and not constant
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: verdure or greensward from human remains
+  literal_form: verdure springing from clay; greensward growing from dust
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: present merriment in a borrowed room
+  summary: The present group enjoys a room that earlier occupants have left, while
+    summer is in bloom.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: future descent under earth
+  summary: The present speakers anticipate descending beneath the earth and becoming
+    a resting-place for future others.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: counsel about the fleeting world
+  summary: A cited quatrain counsels peace and happiness because the world is fleeting
+    and turns pass from others to the present person.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: grass growing from clay and dust
+  summary: Cited parallels state that present grass or verdure will later grow from
+    the clay or dust of the speaker and addressee.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: mortality and succession of occupants
+  taxonomy_refs:
+  - death_rebirth
+  basis: The passage contrasts present enjoyment of a place left by predecessors with
+    the speakers' future descent under earth and replacement by others.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage emphasizes mortality and succession; 'death_rebirth' is only
+    partly applicable because rebirth is expressed indirectly through later occupants
+    and vegetation rather than personal resurrection.
+- id: motif:2
+  label: human remains becoming vegetation
+  taxonomy_refs:
+  - death_rebirth
+  - seasonal_cycle
+  basis: The cited parallels describe verdure or greensward springing from the speaker's
+    clay or from the dust of speaker and addressee.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage presents physical transformation into vegetation, not a doctrinal
+    afterlife claim.
+- id: motif:3
+  label: wisdom of accepting the fleeting world
+  taxonomy_refs:
+  - wisdom
+  basis: The cited quatrain advises not sorrowing for the fleeting world and passing
+    through it peacefully and happily.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The wisdom motif is ethical and reflective rather than narrative.
+comparison_claims:
+- id: claim:1
+  claim: The commentary explicitly treats quatrain XXIII as inspired by C. 388 and
+    combined with a recurring sentiment found in C. 82 and O. 129.
+  claim_level: same_motif
+  target: C. 388, C. 82, and O. 129 within the cited rubai tradition
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim is limited to the textual relationship and recurring sentiment
+    stated by the passage commentary; it does not establish historical transmission
+    beyond the cited editorial note.
+- id: claim:2
+  claim: The passages share a functional pattern in which present pleasure is framed
+    by awareness that the body or place will pass to later life or later occupants.
+  claim_level: same_function
+  target: recurring carpe-diem mortality pattern in the cited originals
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The broader motif-family label is inferred from the juxtaposed examples,
+    while the passage itself only states recurrence of a sentiment.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 2625-2629
+  quote_or_summary: '"And we, that now make merry in the Room / They left, and Summer
+    dresses in new bloom"'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 2625-2631
+  quote_or_summary: '"Ourselves must we beneath the Couch of Earth / Descend--ourselves
+    to make a Couch--for whom?"'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: summary
+  locator: lines 2635-2639
+  quote_or_summary: C. 388 is quoted as advising the hearer to arise, not sorrow for
+    the fleeting world, be at peace, pass through the world happily, and recognize
+    that if the world were constant, others' turn would not have descended to the
+    hearer.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 2648-2651
+  quote_or_summary: C. 82 is quoted as saying that present verdure is the speaker's
+    pleasure-ground until verdure springing from the speaker's clay becomes a pleasure-ground
+    for someone else.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 2655-2657
+  quote_or_summary: O. 129 is quoted as telling an addressed Idol to sit on the greensward,
+    since soon greensward will grow from the dust of both speaker and addressee.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: note
+  locator: lines 2633, 2643-2645
+  quote_or_summary: The commentary states that the main inspiration of the quatrain
+    comes from C. 388 and that an echo of a recurring sentiment is found in examples
+    including C. 82 and O. 129.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized editorial note.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is well supported by the supplied passage. Motif labels
+    are cautious because the passage is lyric-reflective rather than narrative, and
+    taxonomy matches are approximate.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No available symbol taxonomy entries were directly supported by the passage; therefore symbol taxonomy references are empty.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-omar-khayyam-sufistic-quatrains-gutenberg__l2625-l2657
+  passage_sha256=7b42eef194a912c9349d947ad730758c6ff2264e6ce158e3d053a1ba7905b29c

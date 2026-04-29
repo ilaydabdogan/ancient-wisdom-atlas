@@ -1,0 +1,420 @@
+---
+record_id: batch.motif.sufi-omar-khayyam-sufistic-quatrains-gutenberg-l3406-l3453
+source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+passage_locator:
+  label: XLII. / XLIII. / XLIV. / XLVIII.; lines 3406-3453
+  start: '3406'
+  end: '3453'
+  translation: The Sufistic Quatrains of Omar Khayyam
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage presents quatrains and editorial notes in which a first-person
+    speaker chooses wine over learning, faith, logic, and metaphysical knowledge;
+    describes marrying the personified 'daughter of the vine'; rejects concern for
+    unborn tomorrow and dead yesterday; and says that others have wrongly called him
+    a philosopher while he does not know who he is.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The speaker says he will fill a one-maund goblet with wine and enrich himself
+    with two half-maunds of wine.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker says he will thrice pronounce divorce from learning and faith
+    before taking the daughter of the vine as spouse.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A quatrain says the speaker can define 'IS,' 'IS-NOT,' and 'UP-AND-DOWN' by
+    rule, line, and logic, but was never deep in anything except wine.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The source translation from O. 120 says the speaker knows the outwardness
+    and inwardness of existence, non-existence, and all that is high and low.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The speaker says he should be ashamed of his knowledge if he recognizes any
+    degree higher than drunkenness.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The speaker denies that his computations reduced the year to better reckoning
+    and says he only struck unborn tomorrow and dead yesterday from the calendar.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: A translated source quatrain says enemies have erroneously called the speaker
+    a philosopher.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The translated source quatrain says the speaker has come into a nesting place
+    of sorrow and does not know who he is.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: 'A couplet says grief has never lingered in the speaker''s mind concerning
+    two days: the day not yet come and the day that is past.'
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: The passage includes editorial reference lists linking the quatrains to manuscript
+    or edition sigla such as C., O., L., B., P., W., N., and V.
+  category: other
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: First-person speaker
+  description: The speaker of the quatrains who speaks about wine, knowledge, time,
+    sorrow, and self-knowledge.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: Daughter of the vine
+  description: A personified vine-derived figure whom the speaker says he will take
+    as spouse.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Enemies
+  description: People who, according to the translated source quatrain, erroneously
+    call the speaker a philosopher.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:7
+- id: fig:4
+  name_or_label: God
+  description: Named in the source quatrain formula 'God knows' in connection with
+    the speaker denying the label applied by enemies.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: wine-seeking speaker
+  assigned_to:
+  - fig:1
+  basis: The speaker repeatedly declares preference for wine or drunkenness over learning,
+    faith, logic, and knowledge.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: role:2
+  label: self-questioning non-philosopher
+  assigned_to:
+  - fig:1
+  basis: The speaker says enemies wrongly call him a philosopher and that he does
+    not know who he is.
+  evidence_refs:
+  - ev:7
+- id: role:3
+  label: personified spouse
+  assigned_to:
+  - fig:2
+  basis: The daughter of the vine is named as the one the speaker will take to spouse.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: mislabeling opponents
+  assigned_to:
+  - fig:3
+  basis: The translated source quatrain says the enemies erroneously called the speaker
+    a philosopher.
+  evidence_refs:
+  - ev:7
+- id: role:5
+  label: witness invoked in speech
+  assigned_to:
+  - fig:4
+  basis: The speaker invokes God as knowing that he is not what enemies have called
+    him.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: wine
+  literal_form: Wine named as filling a goblet, enriching the speaker, and being the
+    only thing in which he is deep.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: goblet
+  literal_form: A one-maund goblet that the speaker says he will fill with wine.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: daughter of the vine
+  literal_form: A personified product of the vine whom the speaker says he will take
+    as spouse.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: divorce from learning and faith
+  literal_form: A triple pronouncement of divorce from learning and faith.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:5
+  label: existence and non-existence
+  literal_form: Terms rendered as 'IS' and 'IS-NOT' and as existence and non-existence.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:6
+  label: calendar without tomorrow and yesterday
+  literal_form: A calendar from which unborn tomorrow and dead yesterday are struck
+    out.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: nesting place of sorrow
+  literal_form: The world or situation described as a nesting place of sorrow in which
+    the speaker has arrived.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:8
+  label: two days
+  literal_form: The day not yet come and the day that is past.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Renunciation of learning and marriage to the vine
+  summary: The speaker plans to fill a goblet with wine, enrich himself with wine,
+    divorce learning and faith, and take the daughter of the vine as spouse.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Wine over logic and metaphysical knowledge
+  summary: The speaker presents knowledge of logical and metaphysical distinctions
+    but states that wine or drunkenness outranks that knowledge.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Calendar stripped of past and future
+  summary: The speaker says his reckoning of the year consists not in improved computation
+    but in striking unborn tomorrow and dead yesterday from the calendar.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:6
+  - sym:8
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: scene:4
+  label: Denial of philosopher identity
+  summary: The speaker says enemies wrongly call him a philosopher and that, in a
+    sorrowful condition, he does not know who he is.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: wine or drunkenness preferred to formal learning
+  taxonomy_refs:
+  - wisdom
+  basis: The speaker divorces learning and faith, says he was never deep in anything
+    but wine, and treats drunkenness as higher than knowledge.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage supports a reversal or critique of formal knowledge; any specifically
+    Sufi symbolic interpretation of wine is not stated directly in the passage.
+- id: motif:2
+  label: personified wine as spouse
+  taxonomy_refs:
+  - sacred_marriage
+  basis: The speaker says he will take the 'daughter of the vine' to spouse after
+    divorcing learning and faith.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The marriage language is explicit, but the passage does not explicitly
+    identify the union as sacred or divine.
+- id: motif:3
+  label: renunciation of past and future anxiety
+  taxonomy_refs:
+  - wisdom
+  basis: The speaker removes unborn tomorrow and dead yesterday from the calendar,
+    and the source couplet says grief does not linger over the future day or the past
+    day.
+  evidence_refs:
+  - ev:6
+  - ev:8
+  confidence: high
+  cautions: This is a wisdom or existential motif rather than a narrative mythic event.
+- id: motif:4
+  label: self-unknowing speaker in a sorrowful world
+  taxonomy_refs:
+  - wisdom
+  basis: The speaker rejects the identity of philosopher and says that in the nesting
+    place of sorrow he does not know who he is.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The passage presents this as reflective speech, not a developed mythic
+    plot.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 3406-3409
+  quote_or_summary: The speaker says he will fill a goblet with wine, divorce learning
+    and faith, and take the 'daughter of the vine' to spouse.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; concise quotation/summary permitted.
+- id: ev:2
+  type: citation
+  locator: line 3411
+  quote_or_summary: Editorial references are listed for the preceding quatrain, including
+    C. 175, L. 267, B. 263, and others.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; citation metadata summarized.
+- id: ev:3
+  type: summary
+  locator: lines 3415-3418
+  quote_or_summary: The LVI quatrain contrasts logical definition of being, non-being,
+    and up-and-down with the speaker's depth only in wine.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 3422-3425
+  quote_or_summary: The O. 120 translation says the speaker knows existence, non-existence,
+    high and low, but would be ashamed of knowledge if anything ranked higher than
+    drunkenness.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: citation
+  locator: lines 3427-3428
+  quote_or_summary: Editorial references are listed for O. 120 and related versions,
+    including L. 523, B. 518, S.P. 299, and others.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; citation metadata summarized.
+- id: ev:6
+  type: summary
+  locator: lines 3432-3435
+  quote_or_summary: The LVII quatrain denies improved calendrical computation and
+    describes striking unborn tomorrow and dead yesterday from the calendar.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 3439-3442
+  quote_or_summary: The C. 381 translation says enemies wrongly call the speaker a
+    philosopher; God knows he is not that; in a nesting place of sorrow he does not
+    know who he is.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: quote
+  locator: lines 3446-3447
+  quote_or_summary: 'The couplet says grief has not lingered regarding two days: the
+    day not yet come and the day that is past.'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; concise quotation/summary permitted.
+- id: ev:9
+  type: citation
+  locator: lines 3449-3453
+  quote_or_summary: Editorial references are listed for O. 20 and related versions,
+    including C. 23 and 55, L. 84, S.P. 22, B. 80, and others.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; citation metadata summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward from the supplied passage. Motif labels
+    involving wisdom and marriage are candidate classifications; the passage itself
+    does not authorize broader historical or cross-cultural comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage does not itself support a specific comparison beyond internal editorial cross-references.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-omar-khayyam-sufistic-quatrains-gutenberg__l3406-l3453
+  passage_sha256=130528672b81c82cbfe76e891c6ead94009c24961a3d038da61166829e9d765b

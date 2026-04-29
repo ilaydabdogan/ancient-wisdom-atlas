@@ -1,0 +1,436 @@
+---
+record_id: batch.motif.sufi-omar-khayyam-sufistic-quatrains-gutenberg-l4820-l4867
+source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+passage_locator:
+  label: STANZA / STANZA / STANZA / STANZA; lines 4820-4867
+  start: '4820'
+  end: '4867'
+  translation: The Sufistic Quatrains of Omar Khayyam
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Editorial notes and variant readings for stanzas XLIII-XLVIII describe
+    an Angel offering a dark drink to the Soul by a river-bank, a person abiding in
+    a clay suburb, a tent as a resting place, Existence closing an account, the ocean
+    or seven seas unaffected by a pebble-cast, and a momentary movement through Annihilation's
+    Waste toward the Well of Life and the Dawn of Nothing as stars set and a caravan
+    departs.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: An Angel associated with a drink of Darkness finds the addressed person by
+    a river-brink, offers a cup, and invites the Soul to come to the lips and drink.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage instructs the addressed person not to shrink from drinking the
+    offered cup.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: An editorial note records changes from “proffering” to “offering” and from
+    “the Angel” to “that Angel.”
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A stanza variant asks whether it is a shame for a male figure to remain so
+    long in a “Clay suburb.”
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A stanza variant refers to a tent in which someone may rest.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: A stanza variant says not to fear that Existence, when closing an account,
+    should lose or no longer know the type.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: A stanza variant compares an effect to the Ocean or the Seven Seas heeding
+    a pebble-cast.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: A stanza variant places one moment in Annihilation's Waste and one moment
+    tasting the Well of Life.
+  category: setting
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: Stars are setting while a Caravan draws to the Dawn of Nothing, followed by
+    an instruction to make haste.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: A draft line variant says the starting Caravan had not yet reached its destination.
+  category: sequence
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Angel of the drink of Darkness
+  description: An Angel who finds the addressed person by the river-brink and offers
+    a cup containing or associated with the drink of Darkness.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Addressed person and Soul
+  description: The addressed “you” whose Soul is invited to the lips to drink from
+    the Angel's cup.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Male figure in the Clay suburb
+  description: A male figure described as abiding for a long time in a Clay suburb.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Caravan
+  description: A Caravan described as drawing to the Dawn of Nothing; a draft line
+    calls it the starting Caravan.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:7
+  - ev:8
+roles:
+- id: role:1
+  label: cup-offering angel
+  assigned_to:
+  - fig:1
+  basis: The Angel finds the addressee and offers a cup while inviting the Soul to
+    drink.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: addressed drinker
+  assigned_to:
+  - fig:2
+  basis: The addressed person is told not to shrink as the Soul is invited to drink.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: one abiding in clay
+  assigned_to:
+  - fig:3
+  basis: The stanza variant describes him as abiding in a Clay suburb.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: departing caravan
+  assigned_to:
+  - fig:4
+  basis: The Caravan draws to the Dawn of Nothing and is also called the starting
+    Caravan in a draft variant.
+  evidence_refs:
+  - ev:7
+  - ev:8
+symbols:
+- id: sym:1
+  label: Cup of dark drink
+  literal_form: Cup offered by the Angel, associated with the drink of Darkness
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: River-brink
+  literal_form: river-brink
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Clay suburb
+  literal_form: Clay suburb
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: Tent of rest
+  literal_form: Tent wherein may rest
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: Existence's account
+  literal_form: Existence closing an account
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: Ocean or Seven Seas
+  literal_form: Ocean; SEV'N SEAS
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: Pebble-cast
+  literal_form: pebble-cast
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:8
+  label: Annihilation's Waste
+  literal_form: Annihilation's Waste
+  associated_figures: []
+  taxonomy_refs:
+  - annihilation_union
+  evidence_refs:
+  - ev:7
+- id: sym:9
+  label: Well of Life
+  literal_form: Well of Life
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:7
+- id: sym:10
+  label: Setting stars
+  literal_form: Stars are setting
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:11
+  label: Dawn of Nothing
+  literal_form: Dawn of Nothing
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - annihilation_union
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Angel offers the cup by the river
+  summary: The Angel of the drink of Darkness finds the addressed person at the river-brink,
+    offers a cup, and invites the Soul to drink, with the addressee told not to shrink.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Abiding in clay and temporary shelter
+  summary: Variant lines refer to a male figure remaining in a Clay suburb and to
+    a tent as a place of rest.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Existence closes an account
+  summary: A variant line reassures against fear that Existence, when closing an account,
+    will lose or no longer recognize the type.
+  figure_refs: []
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Seas and pebble-cast
+  summary: Variant readings compare something to the Ocean or Seven Seas heeding a
+    pebble-cast.
+  figure_refs: []
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: Caravan toward the Dawn of Nothing
+  summary: A stanza variant describes moments in Annihilation's Waste and at the Well
+    of Life, while the stars set and the Caravan moves toward the Dawn of Nothing;
+    a draft variant refers to the starting Caravan.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:8
+  - sym:9
+  - sym:10
+  - sym:11
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Soul invited to drink a dark cup at a threshold
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The Angel finds the addressed person by the river-brink and invites the Soul
+    to the lips to drink from the offered cup.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage is a variant note and does not explicitly name death or an
+    afterlife journey, though the Soul, Darkness, and river-brink form a threshold
+    scene.
+- id: motif:2
+  label: Annihilation and nothingness as destination
+  taxonomy_refs:
+  - annihilation_union
+  basis: The stanza names Annihilation's Waste and the Dawn of Nothing, with a Caravan
+    moving toward that destination.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: The passage does not explicitly describe union; the taxonomy link rests
+    on the literal use of annihilation and nothingness imagery.
+- id: motif:3
+  label: Life-giving water amid annihilation
+  taxonomy_refs:
+  - annihilation_union
+  basis: The stanza juxtaposes a moment in Annihilation's Waste with a moment tasting
+    the Well of Life.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The passage gives the images without explaining their doctrinal meaning.
+- id: motif:4
+  label: Temporary embodied dwelling
+  taxonomy_refs: []
+  basis: Variant readings refer to remaining in a Clay suburb and to a tent in which
+    one may rest.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The connection between the Clay suburb and the tent is inferred from proximity
+    in editorial variants, not explicitly developed in the passage.
+- id: motif:5
+  label: Cosmic scale against a small cast object
+  taxonomy_refs: []
+  basis: The passage compares the Ocean or Seven Seas with a pebble-cast.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The quoted variant is fragmentary, so the full comparative function is
+    not supplied.
+- id: motif:6
+  label: Urgent departure with caravan
+  taxonomy_refs:
+  - departure
+  basis: The stars are setting, the Caravan draws to the Dawn of Nothing, and the
+    speaker says to make haste.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The destination is metaphorical and the draft note does not provide the
+    complete surrounding stanza context.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 4820-4827
+  quote_or_summary: "“the Angel of the drink / Of Darkness” finds “you by the river-brink,”
+    offers a cup, and invites the Soul to the lips to drink without shrinking."
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 4828-4833
+  quote_or_summary: Editorial note records changes from “proffering” to “offering”
+    and from “the Angel” to “that Angel.”
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 4834-4839
+  quote_or_summary: 'Variant reads: “Is''t not a shame” for him “So long in this Clay
+    suburb to abide.”'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:4
+  type: quote
+  locator: lines 4840-4843
+  quote_or_summary: 'Variant reads: “But that is but a Tent wherein may rest.”'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:5
+  type: summary
+  locator: lines 4844-4848
+  quote_or_summary: Variant says not to fear that Existence, when closing an account,
+    will lose or no longer know the type.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 4849-4856
+  quote_or_summary: Variant readings compare the Ocean, or the Seven Seas, to heeding
+    a pebble-cast.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: quote
+  locator: lines 4857-4863
+  quote_or_summary: Variant describes “Annihilation's Waste,” the “Well of Life,”
+    setting stars, and the Caravan drawing to the “Dawn of Nothing.”
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:8
+  type: summary
+  locator: lines 4864-4867
+  quote_or_summary: Editorial note says the first draft of edition 3 originally had
+    a third line beginning before the starting Caravan had reached its destination.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward from the supplied variant notes. Motif
+    candidates are cautious because the passage is editorial and fragmentary rather
+    than a continuous narrative. No comparison claims were added because the passage
+    itself does not make an explicit cross-textual comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata. Available taxonomy references were applied only where directly supported by passage wording.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-omar-khayyam-sufistic-quatrains-gutenberg__l4820-l4867
+  passage_sha256=3a2c50a4f92589d401eadad4f332fc228dacd0a80f823801a926eee67b1417d6

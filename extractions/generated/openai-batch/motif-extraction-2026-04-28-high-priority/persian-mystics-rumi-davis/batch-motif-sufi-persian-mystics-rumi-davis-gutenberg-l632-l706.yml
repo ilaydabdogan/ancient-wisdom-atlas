@@ -1,0 +1,417 @@
+---
+record_id: batch.motif.sufi-persian-mystics-rumi-davis-gutenberg-l632-l706
+source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+passage_locator:
+  label: INTRODUCTION / EDITORIAL NOTE / INTRODUCTION / V. ANALYSIS OF THE RELIGION
+    OF LOVE; lines 632-706
+  start: '632'
+  end: '706'
+  translation: 'The Persian Mystics: Jalálu''d-dín Rúmí'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage presents Sufism as the religion of Love. It argues that Love
+    is unseen like God, works through human affections, leads beyond merely personal
+    attachment, and culminates in loss of self in God and recognition of the Beloved
+    as divine perfection. It uses images of a child burying a butterfly, following
+    an Invisible Figure from heart to heart and from Death into Life, and loving God's
+    light rather than the bodily lanterns through which it shines. Footnotes include
+    an editorial comparison to the Alexandrian doctrine of Emanations.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage identifies Sufism as the religion of Love and opens with a verse
+    attributed to Rumi urging service to God.
+  category: speech
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:2
+  text: The passage states that Love can only be compared with Love and that no one
+    has seen Love because no one has seen God.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A child is described as tenderly burying a dead butterfly, not from understanding
+    Death, but because Love prompted the action.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage says human love is not limited to the individual and describes
+    it as a momentary finding of God in creatures.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage describes following an Invisible Figure from land to land, from
+    heart to heart, and from Death into Life.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage says that when Love loves Love for its own sake and the self is
+    dead, the seeker will meet Him and find the Beloved to be Perfection.
+  category: sequence
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:7
+  text: The passage describes Love as a Divine Essence working through innumerable
+    lives for its own eternal glory.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The passage contrasts God's light in men and women with the lanterns through
+    which it shines, saying bodies turn to dust while divine love remains.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: A footnote instructs the reader to compare the Alexandrian doctrine of Emanations
+    and Jami's Lawā'ih.
+  category: other
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: God
+  description: The unseen divine being whose presence is found in creatures and in
+    whom the seeker loses and finds the self.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Love
+  description: Personified and described as prompting action, loving Love for its
+    own sake, and existing as a Divine Essence working through innumerable lives.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: the Beloved / Invisible Figure
+  description: An Invisible Figure followed from land to land and heart to heart;
+    the Beloved is later identified with Perfection.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: human lovers / men and women
+  description: Human beings whose earthly loves are presented as encounters with God's
+    light or with God in creatures.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:5
+  name_or_label: little child
+  description: A child who plays at funerals and tenderly buries a dead butterfly
+    because Love prompts the action.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: divine beloved
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: The passage says the seeker will meet Him and find the Beloved to be Perfection,
+    while also describing loss of self in God.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:2
+  label: personified divine essence
+  assigned_to:
+  - fig:2
+  basis: Love is described as prompting action and as a Divine Essence working through
+    innumerable lives.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:3
+  label: earthly lovers as seekers
+  assigned_to:
+  - fig:4
+  basis: Men and women love, follow the Invisible Figure, and are instructed to love
+    God's light in one another.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:4
+  label: divine presence found in creatures
+  assigned_to:
+  - fig:1
+  basis: The passage says human affinities are a momentary finding of God in His creatures
+    and that God finds Himself in the lover.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:5
+  label: innocent actor prompted by Love
+  assigned_to:
+  - fig:5
+  basis: The child buries the butterfly because Love prompted the action rather than
+    because of knowledge of Death.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: God's light
+  literal_form: light shining in men and women
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:2
+  label: lanterns
+  literal_form: lanterns through which God's light shines, contrasted with human bodies
+    that turn to dust
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: dead butterfly burial
+  literal_form: a dead butterfly tenderly buried by a child playing at funerals
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: movement from Death into Life
+  literal_form: following the Invisible Figure from Death into Life
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: death of the self
+  literal_form: the self is dead before the meeting with Him
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Teaching on Sufism as Love
+  summary: The passage frames Sufism as the religion of Love and states that Love
+    is unseen and comparable only with Love because God is unseen.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Child buries butterfly
+  summary: A child plays at funerals and tenderly buries a dead butterfly, an action
+    attributed to the prompting of Love rather than comprehension of Death.
+  figure_refs:
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Following the Invisible Figure
+  summary: Human lovers are described as following an Invisible Figure through places,
+    hearts, and the passage from Death into Life.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Self-death and meeting the Beloved
+  summary: When selfhood is dead and Love loves Love for its own sake, the seeker
+    meets Him and finds the Beloved to be Perfection; losing oneself in God is linked
+    to finding God.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:5
+  label: Light and lanterns
+  summary: The passage instructs readers to love God's light in men and women rather
+    than the bodily lanterns through which it shines, because bodies and memories
+    fade while divine love remains.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: divine beloved encountered through earthly love
+  taxonomy_refs:
+  - divine_beloved
+  basis: Earthly love is interpreted as finding God in creatures, following the Invisible
+    Figure, and finally finding the Beloved to be Perfection.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage is expository and theological rather than a narrative myth
+    episode.
+- id: motif:2
+  label: annihilation of self and union with God
+  taxonomy_refs:
+  - annihilation_union
+  basis: The passage states that when the self is dead the seeker meets Him, and that
+    the more one loses oneself in God the more one finds Him; it also says God is
+    found in the lover and the lover in Him.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The language is devotional and doctrinal; no ritual or narrative sequence
+    is specified.
+- id: motif:3
+  label: mystical quest after an invisible divine figure
+  taxonomy_refs:
+  - mystical_quest
+  basis: The passage describes following an Invisible Figure from land to land, from
+    heart to heart, and from Death into Life.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The quest is metaphorical within an essay on love, not a discrete travel
+    narrative.
+- id: motif:4
+  label: death into life transformation
+  taxonomy_refs:
+  - death_rebirth
+  basis: The passage uses the sequence of following the Invisible Figure from Death
+    into Life and also speaks of the self being dead before meeting Him.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage does not describe bodily death and rebirth; the imagery is
+    spiritual and metaphorical.
+comparison_claims:
+- id: claim:1
+  claim: The passage's footnote explicitly invites comparison with the Alexandrian
+    doctrine of Emanations, but the main passage provides no detailed comparison.
+  claim_level: same_function
+  target: Alexandrian doctrine of Emanations
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: low
+  limitations: Only an editorial footnote supports the comparison; the passage gives
+    no explanation of the proposed similarity or historical relationship.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 632-638
+  quote_or_summary: Section heading identifies an analysis of the religion of Love
+    and quotes Rumi urging the reader to put away travellers' tales of love and serve
+    God with all might.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:2
+  type: summary
+  locator: 640-650
+  quote_or_summary: The passage states that Sufism is the religion of Love, that Love
+    can only be compared with Love, that Love is unseen because God is unseen, and
+    that a child buries a butterfly because Love prompts the act.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:3
+  type: summary
+  locator: 651-664
+  quote_or_summary: The passage argues that love is not merely individual, that human
+    affinities are momentary findings of God in creatures, and that seekers follow
+    an Invisible Figure from land to land, heart to heart, and from Death into Life
+    until self-death permits meeting Him.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:4
+  type: summary
+  locator: 665-674
+  quote_or_summary: The Beloved is described as Perfection; losing oneself in God
+    is linked to finding Him, and Love is described as a Divine Essence working through
+    innumerable lives.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:5
+  type: summary
+  locator: 675-684
+  quote_or_summary: The passage instructs the reader to love God's light in men and
+    women rather than the lanterns through which it shines; bodies turn to dust and
+    human memories fade, while love of the All-Good and All-Beautiful remains, described
+    as God finding Himself in the lover and the lover in Him.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:6
+  type: summary
+  locator: Footnote 6, within 685-704
+  quote_or_summary: A footnote says to compare the Alexandrian doctrine of Emanations
+    and also Jami's Lawā'ih.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; summary supplied.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: low
+  notes: The passage strongly supports Sufi theological motifs of divine beloved and
+    self-annihilation in union. Motif extraction is limited because the passage is
+    an editorial exposition rather than a mythic narrative. The comparison claim rests
+    only on a footnote.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No taxonomy symbol refs were assigned because the passage's central images—light, lantern, butterfly, self-death—are not among the supplied symbol taxonomy refs.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-persian-mystics-rumi-davis-gutenberg__l632-l706
+  passage_sha256=0b75b383f2a571f14741ce7fd7f3df68326a7c84fec654c926870f5f6c412787

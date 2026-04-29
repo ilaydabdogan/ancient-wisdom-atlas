@@ -1,0 +1,509 @@
+---
+record_id: batch.motif.sufi-omar-khayyam-sufistic-quatrains-gutenberg-l3918-l4012
+source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+passage_locator:
+  label: LXXVI. / LXXVII. / LXXX. / LXXXI.; lines 3918-4012
+  start: '3918'
+  end: '4012'
+  translation: The Sufistic Quatrains of Omar Khayyam
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage presents and annotates quatrains concerning God as creator
+    of man, Paradise, the Snake, sin, and forgiveness; an editorial note connects
+    the snake image with a Mantik ut-tair apologue about Iblis in Paradise at Adam's
+    creation. It then gives quatrains and notes about Ramazan departing, the speaker
+    entering a potter's house, and clay shapes or pots that speak, remain silent,
+    or ask about maker, buyer, seller, and pot.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A speaker addresses a divine figure as the one who made man from baser earth
+    and devised the Snake with Paradise, then asks for man's forgiveness concerning
+    sin.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The editorial note states that the snake image is not original to Omar but
+    is found in a Mantik ut-tair apologue where the Snake, identified as Iblis, is
+    present in Paradise at Adam's creation.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: In the cited apologue, Satan addresses God about malediction, mercy, destiny,
+    poison, and antidote.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Additional cited quatrains address God as merciful, as granting repentance
+    and accepting excuses, and as creator and master even when the speaker is wicked
+    or disobedient.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Ramazan is described as hunger-stricken and departing under cover of day,
+    while the speaker stands alone in a potter's house surrounded by clay shapes.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Clay shapes or vessels of different sorts and sizes stand by the floor and
+    wall; some speak, and some listen or remain silent.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The cited source quatrain O.103 describes the speaker entering a potter's
+    workshop, seeing two thousand pots, some speaking and some silent, and hearing
+    one pot ask about the pot-maker, pot-buyer, pot-seller, and pot.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: A cited Ramazan quatrain says the moon of Ramazan shines again and connects
+    the end of Sha'ban with heavy wine-drinking before Ramazan.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Thou / divine addressee
+  description: Addressed as maker of man, deviser of Paradise and the Snake, source
+    of mercy, repentance, forgiveness, and creator of all.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: Man
+  description: Made from baser earth and described as having a face blackened by sin.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Snake / Iblis / Satan
+  description: The Snake in Paradise is identified in the note as Iblis; Satan addresses
+    God in the cited apologue.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Adam
+  description: Named in the editorial note as being created when the Snake/Iblis is
+    present in Paradise.
+  role_refs: []
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Ramazan
+  description: Personified as hunger-stricken and slinking away; elsewhere described
+    through the moon of Ramazan.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: fig:6
+  name_or_label: Speaker / I
+  description: Stands alone in the potter's house and, in the cited source quatrain,
+    goes into the potter's workshop.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:7
+  name_or_label: Shapes of Clay / Vessels / Pots
+  description: Clay shapes or vessels in the potter's house or workshop; some are
+    speaking, some silent, and one pot cries out with a question.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:8
+  name_or_label: Pot-maker, pot-buyer, and pot-seller
+  description: Named as figures sought in the speaking pot's question.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: divine creator and forgiver
+  assigned_to:
+  - fig:1
+  basis: The addressee is credited with making man, devising Paradise and the Snake,
+    granting mercy and repentance, and creating all.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: sin-marked human creature
+  assigned_to:
+  - fig:2
+  basis: Man is made from earth and associated with sin requiring forgiveness.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: serpentine adversarial figure in Paradise
+  assigned_to:
+  - fig:3
+  basis: The note identifies the Snake as Iblis in Paradise and also has Satan address
+    God.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: personified religious month
+  assigned_to:
+  - fig:5
+  basis: Ramazan is described as hunger-stricken and able to slink away.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: observer in potter's space
+  assigned_to:
+  - fig:6
+  basis: The first-person speaker stands in the potter's house and enters the potter's
+    workshop in the cited quatrain.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:6
+  label: animate or responsive vessels
+  assigned_to:
+  - fig:7
+  basis: The vessels or pots are described as speaking, listening, silent, or crying
+    out.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:7
+  label: craft and exchange roles invoked by a pot
+  assigned_to:
+  - fig:8
+  basis: The speaking pot asks where the pot-maker, pot-buyer, and pot-seller are.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: Snake in Paradise
+  literal_form: Snake / Iblis in Paradise
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: Paradise
+  literal_form: Paradise as the setting paired with the Snake and Adam's creation
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: Earth and clay
+  literal_form: Baser earth; clay shapes; pots
+  associated_figures:
+  - fig:2
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+- id: sym:4
+  label: Blackened face
+  literal_form: The face of man blackened by sin
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:5
+  label: Potter's house or workshop
+  literal_form: Potter's house; workshop of a potter
+  associated_figures:
+  - fig:6
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:6
+  label: Speaking and silent vessels
+  literal_form: Shapes of Clay, vessels, and pots that speak, listen, or remain silent
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:7
+  label: Ramazan moon and wine
+  literal_form: Moon of Ramazan and wine drunk before Ramazan
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Appeal to the creator concerning sin and forgiveness
+  summary: The speaker addresses the divine creator of man, Paradise, and the Snake,
+    and asks for forgiveness concerning human sin.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Editorially cited Paradise apologue
+  summary: The note reports a Mantik ut-tair apologue in which the Snake/Iblis is
+    present in Paradise at Adam's creation and Satan speaks to God about malediction,
+    mercy, and destiny.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Prayer for mercy, repentance, and acceptance
+  summary: Cited quatrains present speakers confessing disobedience, darkness of heart,
+    wickedness, or need for repentance, while addressing God as merciful creator and
+    master.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Ramazan departs and the speaker enters the potter's house
+  summary: Ramazan is personified as leaving; the speaker stands alone among clay
+    shapes in a potter's house.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:3
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Speaking pots in the potter's workshop
+  summary: In the cited source quatrain, the speaker enters a potter's workshop, sees
+    many pots, and hears one pot ask where the pot-maker, buyer, seller, and pot are.
+  figure_refs:
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:3
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:6
+- id: scene:6
+  label: Ramazan moon and wine before fasting
+  summary: A cited quatrain links the renewed moon of Ramazan with the inability to
+    linger over wine and with heavy drinking at the end of Sha'ban.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Serpent in Paradise at human creation
+  taxonomy_refs:
+  - serpent
+  basis: The quatrain pairs Paradise with the Snake, and the note links this image
+    to an apologue where Snake/Iblis is present in Paradise at Adam's creation.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The editorial note explicitly says the snake line is not original to Omar
+    and attributes the image to FitzGerald's use of another text.
+- id: motif:2
+  label: Plea to the creator for mercy despite sin
+  taxonomy_refs:
+  - divine_judgment
+  basis: The speaker asks the divine creator for forgiveness; cited parallels ask
+    for mercy, repentance, accepted excuses, and note that God is creator and master
+    despite human wickedness.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: medium
+  cautions: The passage contains supplication and sin language but no explicit formal
+    judgment scene.
+- id: motif:3
+  label: Speaking clay vessels question their maker and social roles
+  taxonomy_refs:
+  - wisdom
+  basis: The potter-house quatrains and O.103 describe clay vessels or pots that speak,
+    listen, remain silent, and ask about maker, buyer, seller, and pot.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The available taxonomy has no specific potter or clay-vessel motif; the
+    wisdom reference is broad and should be reviewed.
+- id: motif:4
+  label: Personified departure of Ramazan with wine before fasting
+  taxonomy_refs:
+  - departure
+  basis: Ramazan is described as hunger-stricken and slinking away, and a cited quatrain
+    connects Ramazan's moon with restrictions on wine and drinking before the month.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  confidence: medium
+  cautions: This may be literary personification rather than a comparative myth motif.
+comparison_claims:
+- id: claim:1
+  claim: The passage reports that FitzGerald's Snake-in-Paradise image is not original
+    to Omar but derives from or is informed by a Mantik ut-tair apologue featuring
+    Snake/Iblis in Paradise at Adam's creation.
+  claim_level: historical_contact
+  target: Mantik ut-tair apologue beginning at distich 3229
+  evidence_refs:
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim is based on the editorial note's report of FitzGerald's influence;
+    the passage does not provide the full source history.
+- id: claim:2
+  claim: The potter's house and speaking-vessels quatrains are explicitly said to
+    have been constructed by FitzGerald from O.103, which likewise contains a potter's
+    workshop, many pots, and a speaking pot's question.
+  claim_level: same_motif
+  target: O.103 potter workshop quatrain
+  evidence_refs:
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is internal to the anthology's cited Omar-related textual
+    tradition and not a broad cross-cultural comparison.
+- id: claim:3
+  claim: The passage connects the phrase or image of 'hunger-stricken Ramazan' with
+    C.198, where the moon of Ramazan and pre-Ramazan wine-drinking are described.
+  claim_level: linguistic_similarity
+  target: C.198 Ramazan quatrain
+  evidence_refs:
+  - ev:5
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The connection concerns a phrase and thematic context rather than a
+    fully developed narrative motif.
+evidence:
+- id: ev:1
+  type: quote
+  locator: LXXXI quatrain, within lines 3918-4012
+  quote_or_summary: The speaker addresses one who made man from earth and devised
+    Paradise with the Snake, asking that man's forgiveness be given and taken for
+    sin.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: Editorial note after LXXXI, within lines 3918-4012
+  quote_or_summary: The note says there is no Omar original for the snake line, but
+    FitzGerald had seen the image in a Mantik ut-tair apologue where the Snake, identified
+    as Iblis, is present in Paradise at Adam's creation.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: Cited Mantik ut-tair speech, within lines 3918-4012
+  quote_or_summary: Satan's cited speech says malediction and mercy come from God,
+    destiny is in God's hands, and that poison must exist as well as antidote.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: Cited ruba'i references C.115, C.286, C.510, within lines 3918-4012
+  quote_or_summary: The cited quatrains ask where God's mercy, light, grace, repentance,
+    and acceptance of excuses are, and call God the master, manager of living and
+    dead, and creator of all.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: LXXXII-LXXXIII, within lines 3918-4012
+  quote_or_summary: Ramazan slinks away under departing day; the speaker stands alone
+    in the potter's house among Shapes of Clay, including loquacious and silent vessels
+    of many sizes.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:6
+  type: quote
+  locator: O.103 citation and editorial note, within lines 3918-4012
+  quote_or_summary: The cited quatrain says the speaker entered a potter's workshop,
+    saw two thousand pots, and heard one ask, "Where are the pot-maker, and the pot-buyer,
+    and the pot-seller?"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain; short excerpt from supplied passage.
+- id: ev:7
+  type: summary
+  locator: C.198 citation on Ramazan, within lines 3918-4012
+  quote_or_summary: The cited quatrain says the moon of Ramazan shines again, wine
+    cannot be lingered over, and the speaker will drink heavily at the end of Sha'ban
+    before Ramazan.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is strong because the passage is explicit. Motif labeling
+    is partly interpretive, especially for broad taxonomy references such as wisdom,
+    divine_judgment, and departure.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy references are limited to supplied available refs.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-omar-khayyam-sufistic-quatrains-gutenberg__l3918-l4012
+  passage_sha256=362ea9612f3cca7535beee1c48a9e940ddb3adf8824619736baeaaaabe979420

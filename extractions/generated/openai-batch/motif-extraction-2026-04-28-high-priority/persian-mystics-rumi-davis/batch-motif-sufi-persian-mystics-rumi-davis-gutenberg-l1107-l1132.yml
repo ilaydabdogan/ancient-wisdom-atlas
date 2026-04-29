@@ -1,0 +1,358 @@
+---
+record_id: batch.motif.sufi-persian-mystics-rumi-davis-gutenberg-l1107-l1132
+source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+passage_locator:
+  label: THE WATER OF ETERNAL LIFE / EARTHLY LOVE AND THE LOVE DIVINE / LOVE'S DESIRE
+    / THE FINDING OF THE BELOVED; lines 1107-1132
+  start: '1107'
+  end: '1132'
+  translation: 'The Persian Mystics: Jalálu''d-dín Rúmí'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The speaker longs for the addressed one's face, lips, and radiant countenance.
+    In a second lyric, the speaker describes a primordial condition before names and
+    named existence, searches for the Beloved among Christian, idol-temple, pagoda,
+    and mountain settings, and finally finds Him in the speaker's own heart.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The speaker asks the addressed one to show a face and open lips, because the
+    speaker desires orchard, rose-garden, sugar, and a radiant countenance.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The addressed one is compared or addressed as a sun whose face is hidden by
+    a veil of cloud.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The speaker says there was a time when names, named existence, and the terms
+    "I" and "We" were not present.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage says names and the named were brought to view by the speaker.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The tip of the Beloved's curl is described as becoming a center of revelation,
+    while also being said not yet to exist.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The speaker surveys cross and Christians and says the Beloved was not on the
+    Cross.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The speaker goes to an idol-temple and ancient pagoda and reports that no
+    trace is visible there.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The speaker goes to the mountains of Herāt and Candahār and says the Beloved
+    was not in that hill-and-dale.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: The speaker looks into the speaker's own heart and sees the Beloved there,
+    saying He was nowhere else.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: speaker
+  description: First-person voice who desires, surveys religious and geographic locations,
+    and looks into the heart.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Beloved / addressed Thou / He
+  description: The desired and sought figure whose face, lips, countenance, curl,
+    and final presence in the heart are described.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: Christians
+  description: A group named together with the Cross during the speaker's survey.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: seeker-speaker
+  assigned_to:
+  - fig:1
+  basis: The first-person voice desires the addressed one and searches multiple places
+    before looking into the heart.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: role:2
+  label: sought Beloved
+  assigned_to:
+  - fig:2
+  basis: The passage names the Beloved and describes the speaker's desire for and
+    search for Him.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:3
+  label: surveyed religious group
+  assigned_to:
+  - fig:3
+  basis: Christians are named as part of the field the speaker surveys while seeking
+    the Beloved.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: face / countenance
+  literal_form: Face and radiant glowing countenance of the addressed one
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: orchard and rose-garden
+  literal_form: Orchard and rose-garden desired by the speaker
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: sugar
+  literal_form: Sugar desired in plenty from the opened lips
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: sun behind cloud-veil
+  literal_form: Sun showing its face from a veil of cloud
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:5
+  label: Beloved's curl
+  literal_form: Tip of the Beloved's curl, described as a center of revelation
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:6
+  label: Cross
+  literal_form: The Cross, where the Beloved is not found
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:7
+  label: idol-temple and ancient pagoda
+  literal_form: Religious buildings visited by the speaker where no trace is visible
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:8
+  label: mountains of Herāt and Candahār
+  literal_form: Mountains and hill-and-dale searched by the speaker
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:3
+- id: sym:9
+  label: heart
+  literal_form: The speaker's own heart, where the Beloved is seen
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Desire for the radiant face
+  summary: The speaker asks the addressed one to reveal face, lips, and radiant countenance,
+    using images of garden, sugar, sun, and cloud-veil.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Primordial naming and revelation
+  summary: The speaker describes being present before names and named existence, bringing
+    names and named into view, and associating the Beloved's curl with revelation.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Search through external sacred places
+  summary: The speaker searches among cross and Christians, an idol-temple, an ancient
+    pagoda, and the mountains of Herāt and Candahār, but does not find the Beloved
+    there.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:6
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Discovery in the heart
+  summary: The speaker looks into the speaker's own heart and finds the Beloved there,
+    not elsewhere.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:9
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: quest for the Beloved
+  taxonomy_refs:
+  - mystical_quest
+  - divine_beloved
+  basis: The passage presents a first-person search for the Beloved through religious
+    and geographic places, ending in an inward discovery.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage is lyric and devotional; the Beloved is not explicitly defined
+    in the supplied excerpt except through address and search language.
+- id: motif:2
+  label: inward discovery of the sought divine presence
+  taxonomy_refs:
+  - divine_beloved
+  basis: After not finding the Beloved in external sites, the speaker finds Him in
+    the speaker's own heart.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The taxonomy reference is limited to the available motif-family list;
+    the passage itself does not use the phrase divine beloved.
+- id: motif:3
+  label: pre-existence before names
+  taxonomy_refs: []
+  basis: The speaker describes a day when names, named existence, and the distinction
+    of "I" and "We" were not yet present.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The exact metaphysical role of the speaker in this primordial scene is
+    ambiguous in this short excerpt.
+- id: motif:4
+  label: revelatory sign from the Beloved
+  taxonomy_refs: []
+  basis: The tip of the Beloved's curl is described as becoming a center of revelation.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The image is symbolic, but the passage does not explain the mechanism
+    or doctrinal meaning of the revelation.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 1107-1112
+  quote_or_summary: Under "LOVE'S DESIRE," the speaker asks for the addressed one's
+    face and lips, desiring an orchard, rose-garden, sugar, and a radiant sun-like
+    countenance from behind cloud.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:2
+  type: summary
+  locator: 1114-1121
+  quote_or_summary: Under "THE FINDING OF THE BELOVED," the speaker describes a time
+    before names, named existence, and "I" and "We," and describes the Beloved's curl
+    as a center of revelation.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:3
+  type: summary
+  locator: 1122-1129
+  quote_or_summary: The speaker surveys cross and Christians, visits an idol-temple
+    and ancient pagoda, and goes to the mountains of Herāt and Candahār, but does
+    not find the Beloved or any trace there.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:4
+  type: quote
+  locator: 1131-1132
+  quote_or_summary: '"I gazed into my own heart; / There I saw Him; He was nowhere
+    else."'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; short quotation used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is supported by the provided passage. Motif labels are
+    cautious because the excerpt is lyric and does not explicitly define the Beloved
+    or doctrinal framework. No comparison claims were added because the passage does
+    not itself provide an explicit comparative frame.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata. Available taxonomy refs were applied only where directly supported by the passage language.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-persian-mystics-rumi-davis-gutenberg__l1107-l1132
+  passage_sha256=6ac7146221839fb864f01ef2eb6382e44405b1ec6c46499858b4ce56bb5091b8

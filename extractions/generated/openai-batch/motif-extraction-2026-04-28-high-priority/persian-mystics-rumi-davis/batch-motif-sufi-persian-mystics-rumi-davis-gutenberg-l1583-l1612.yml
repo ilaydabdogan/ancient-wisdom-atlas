@@ -1,0 +1,403 @@
+---
+record_id: batch.motif.sufi-persian-mystics-rumi-davis-gutenberg-l1583-l1612
+source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+passage_locator:
+  label: WOMAN / THE DIVINE UNION / RESIGNATION THE WAY TO PERFECTION / LOVE THE SOURCE
+    OF LIGHT RATHER THAN VANISHING FORM; lines 1583-1612
+  start: '1583'
+  end: '1612'
+  translation: 'The Persian Mystics: Jalálu''d-dín Rúmí'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage states that recognizing one's own defects hastens the way to
+    perfection, while imagining oneself perfect prevents advance toward the Almighty.
+    It then contrasts sensory, outward forms with the hidden beloved reality, arguing
+    that love should be directed away from transient forms toward the enduring Source
+    of Light.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A person who recognizes and confesses his own defects is described as hastening
+    toward perfection.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A person who imagines himself perfect is described as not advancing toward
+    the Almighty.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: What is perceived by sense is said to be annulled, while what is hidden from
+    the senses is established.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The lover's love is visible, while the Beloved is hidden.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Friend is described as absent, while the distraction caused by the Friend
+    is present.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The speaker instructs the hearer to renounce affections for outward forms
+    and says love does not depend on outward form or face.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The passage asks why a loved form is forsaken when life leaves it, although
+    the form remains.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Sunbeams striking a wall and the wall reflecting borrowed light are used as
+    an image.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The speaker tells the hearer not to give the heart to stones and to seek the
+    Source of Light that shines always.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: person recognizing defects
+  description: A person who recognizes and confesses his own defects.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: person fancying himself perfect
+  description: A person who imagines himself to be perfect.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: the Almighty
+  description: The divine figure toward whom advancement is possible or impeded.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: lover
+  description: The lover whose love is visible and who is addressed as needing to
+    consider what is really beloved.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:5
+  name_or_label: Beloved / Friend
+  description: The hidden Beloved, also called the Friend, absent while the distraction
+    caused by the Friend is present.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: speaker
+  description: The instructive voice that tells the hearer to renounce outward forms
+    and seek the Source of Light.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: fig:7
+  name_or_label: hearer addressed as lover/simpleton
+  description: The addressee urged to examine the true object of love and seek the
+    Source of Light rather than stones.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: penitent seeker
+  assigned_to:
+  - fig:1
+  basis: The figure recognizes and confesses defects and is said to hasten toward
+    perfection.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: self-satisfied non-advancer
+  assigned_to:
+  - fig:2
+  basis: The figure imagines himself perfect and is said not to advance toward the
+    Almighty.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: divine goal
+  assigned_to:
+  - fig:3
+  basis: The Almighty is named as the one toward whom advance is made or not made.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: lover seeking true beloved
+  assigned_to:
+  - fig:4
+  basis: The lover's love is visible, and the lover is urged to consider what is really
+    beloved.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:5
+  label: hidden beloved
+  assigned_to:
+  - fig:5
+  basis: The Beloved is described as hidden and the Friend as absent.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: instructive teacher
+  assigned_to:
+  - fig:6
+  basis: The speaker gives direct admonitions to renounce outward forms and seek the
+    Source of Light.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:7
+  label: admonished addressee
+  assigned_to:
+  - fig:7
+  basis: The hearer is addressed as lover and simpleton and is instructed to redirect
+    love.
+  evidence_refs:
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: defects confessed
+  literal_form: recognized and confessed defects
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: outward form
+  literal_form: outward form or face; form perceived by senses
+  associated_figures:
+  - fig:4
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: hidden beloved reality
+  literal_form: that which is hidden from the senses; hidden Beloved
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: sunbeams and wall
+  literal_form: the sun's beams striking a wall that reflects borrowed light
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: stones
+  literal_form: mere stones receiving the heart's attachment
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: Source of Light
+  literal_form: the Source of Light which shines always
+  associated_figures:
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: confession of defects as way to perfection
+  summary: The passage contrasts one who confesses defects and hastens toward perfection
+    with one who imagines himself perfect and does not advance toward the Almighty.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: hidden beloved contrasted with outward forms
+  summary: The passage says sensory things are annulled while hidden things are established,
+    and describes the lover's love as visible while the Beloved or Friend is hidden
+    or absent.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: admonition to seek the Source of Light
+  summary: The speaker instructs the hearer to renounce outward forms, reasons that
+    mere form cannot be the true beloved, and uses reflected sunlight on a wall to
+    direct the hearer toward the ever-shining Source of Light.
+  figure_refs:
+  - fig:4
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:2
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: humble recognition of imperfection as spiritual progress
+  taxonomy_refs:
+  - wisdom
+  - mystical_quest
+  basis: The passage explicitly links recognizing and confessing defects with hastening
+    toward perfection, and contrasts this with self-imagined perfection that blocks
+    advance toward the Almighty.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The taxonomy references are broad; the passage is didactic rather than
+    narrative.
+- id: motif:2
+  label: hidden divine beloved behind visible love
+  taxonomy_refs:
+  - divine_beloved
+  basis: The lover's love is visible, while the Beloved is hidden, and the Friend
+    is absent though the distraction caused by the Friend is present.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage does not narrate a meeting with the Beloved; it states a mystical
+    teaching.
+- id: motif:3
+  label: renunciation of transient forms for enduring source
+  taxonomy_refs:
+  - duality
+  - wisdom
+  basis: The passage contrasts sensory and outward forms with hidden reality, argues
+    that form cannot be the true beloved, and urges seeking the Source of Light rather
+    than reflected or material things.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The terms are metaphorical within the poem; no specific ritual or mythic
+    episode is described.
+- id: motif:4
+  label: borrowed light as image of reflected reality
+  taxonomy_refs:
+  - wisdom
+  basis: The passage says the sun's beams strike a wall and the wall reflects borrowed
+    light, then urges seeking the Source of Light instead of stones.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: No available symbol taxonomy entry for light is supplied; the motif label
+    remains descriptive.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 1583-1588
+  quote_or_summary: Recognizing and confessing one's defects is said to hasten the
+    way to perfection; imagining oneself perfect prevents advance toward the Almighty.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: 1590-1592
+  quote_or_summary: '"Whatsoever is perceived by sense He annuls, / But He stablishes
+    that which is hidden from the senses."'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:3
+  type: summary
+  locator: 1593-1594
+  quote_or_summary: The lover's love is visible, the Beloved hidden; the Friend is
+    absent, while the distraction caused by the Friend is present.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 1595-1598
+  quote_or_summary: The hearer is told to renounce affections for outward forms; love
+    is said not to depend on outward form or face, whether the beloved is of earth
+    or heaven.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 1599-1607
+  quote_or_summary: The passage questions why a beloved form is forsaken when life
+    leaves it, since the form remains, and asks the lover to consider what is really
+    beloved.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 1608-1612
+  quote_or_summary: Sunbeams strike a wall, which reflects borrowed light; the hearer
+    is told not to give the heart to stones but to seek the ever-shining Source of
+    Light.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied English passage. Motif assignments
+    use only the provided broad taxonomy refs and should be reviewed by a human.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly support a comparison to another text, tradition, or external motif family beyond candidate taxonomy mapping.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-persian-mystics-rumi-davis-gutenberg__l1583-l1612
+  passage_sha256=842abdf34ddddca72529c316f86be8d8a0870ee59636816d723450cd859e84a4

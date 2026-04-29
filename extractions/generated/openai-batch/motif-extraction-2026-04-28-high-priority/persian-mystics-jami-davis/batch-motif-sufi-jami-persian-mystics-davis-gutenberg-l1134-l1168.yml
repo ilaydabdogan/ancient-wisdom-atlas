@@ -1,0 +1,370 @@
+---
+record_id: batch.motif.sufi-jami-persian-mystics-davis-gutenberg-l1134-l1168
+source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+passage_locator:
+  label: ONE HEART, ONE LOVE / GOD THE ONLY LOVE ETERNAL / FINITE AND INFINITE BEAUTY
+    / HOW TO OBTAIN UNION WITH THE DIVINE; lines 1134-1168
+  start: '1134'
+  end: '1168'
+  translation: 'The Persian Mystics: Jámí'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: '"I am the tree; these flowers My offshoots are. / Let not these offshoots
+    hide from thee the tree."'
+  summary: A poetic speaker visits the Loved One's rose-garden and is taught that
+    flowers are offshoots of the tree. The passage contrasts finite human beauty with
+    Beauty Absolute, then instructs the seeker to detach from mundane relations and
+    contingent forms so that Truth may fill the heart and nothing remains except One
+    God.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The poetic speaker goes to see the Loved One's rose-parterre.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A figure described as beauty's Torch sees the speaker and speaks.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The speaker is told that the speaker is seeing offshoots or flowers and should
+    not let them hide the tree.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Rosy cheeks, graceful forms, ringlets, and a lovely face are named as finite
+    beauties.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Beauty Absolute is described as beaming all around.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The prose instruction says to detach from mundane relations and emancipate
+    oneself from attention to contingent forms.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The prose instruction says vain thoughts and imaginations are to be expelled
+    from the mind and kept outside the enclosure of the breast.
+  category: action
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:8
+  text: Truth most glorious is described as casting beams into the heart and delivering
+    the seeker from self.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The final condition described is that no consciousness of self remains, and
+    nothing remains except the One God alone.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Loved One / beauty's Torch
+  description: A beloved figure associated with a rose-parterre who sees the speaker
+    and speaks as the tree behind the flowers.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Poetic speaker / seeker
+  description: The first-person speaker who goes to see the Loved One's rose-parterre
+    and receives the instruction about tree and offshoots.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Beauty Absolute
+  description: Beauty described as absolute and as beaming all around.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Addressed seeker
+  description: The second-person addressee instructed to maintain relation, detach
+    from mundane relations, and expel vain thoughts.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: Truth most glorious
+  description: A glorious Truth that may cast beams into the seeker's heart and deliver
+    the seeker from self.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: One God alone
+  description: The final sole presence described after the disappearance of self-consciousness.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: Divine or absolute beloved presence
+  assigned_to:
+  - fig:1
+  - fig:3
+  - fig:5
+  - fig:6
+  basis: The passage uses titles such as Loved One, Beauty Absolute, Truth most glorious,
+    and One God alone for the ultimate object of attention and union.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: role:2
+  label: Seeker or instructed addressee
+  assigned_to:
+  - fig:2
+  - fig:4
+  basis: The poem has a speaker who goes to see the Loved One, and the prose addresses
+    a person who must detach and strive.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: Instructor or revealer
+  assigned_to:
+  - fig:1
+  - fig:5
+  basis: The Loved One speaks an explanatory saying, and Truth is described as acting
+    on the heart and delivering the seeker from self.
+  evidence_refs:
+  - ev:1
+  - ev:4
+symbols:
+- id: sym:1
+  label: Tree and offshoots
+  literal_form: A tree with flowers or offshoots in the Loved One's rose-parterre.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Rose-parterre and flowers
+  literal_form: The Loved One's rose-parterre and its flowers.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Torch and beams
+  literal_form: Beauty's Torch and beams cast by Beauty Absolute or Truth.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: sym:4
+  label: Heart and breast enclosure
+  literal_form: The breast as an enclosure and the heart as the place into which Truth
+    may cast beams.
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: Finite beauties
+  literal_form: Rosy cheeks, graceful forms, ringlets, and a lovely face.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:6
+  label: Rivals in the heart
+  literal_form: Rivals entertained in the heart, from which the seeker is to be saved.
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Instruction in the Loved One's rose-parterre
+  summary: The speaker visits the Loved One's rose-parterre; the Loved One, called
+    beauty's Torch, says that He is the tree and the flowers are His offshoots, warning
+    that the offshoots should not hide the tree.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Contrast between finite and absolute beauty
+  summary: The passage asks what profit there is in lovely human features when Beauty
+    Absolute beams all around, and asks why one should linger over finite beauties.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Discipline for union with the divine
+  summary: The addressee is instructed to detach from mundane relations, turn from
+    contingent forms, expel vain thoughts, and allow Truth to illuminate the heart
+    until self-consciousness disappears and only One God remains.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:4
+  - sym:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Union through annihilation of self-consciousness
+  taxonomy_refs:
+  - annihilation_union
+  basis: The passage describes detachment, expulsion of thoughts, divine illumination
+    of the heart, deliverance from self, and the final absence of self-consciousness
+    with only One God remaining.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The taxonomy label is broader than the passage; the passage itself gives
+    a mystical-disciplinal description rather than a narrative myth.
+- id: motif:2
+  label: Divine beloved as sole true beauty
+  taxonomy_refs:
+  - divine_beloved
+  basis: The Loved One, Beauty Absolute, and Truth are presented as the ultimate object
+    beyond finite beauties.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: The passage uses devotional and metaphoric language; it does not narrate
+    a human romance.
+- id: motif:3
+  label: Mystical quest by detachment and inner purification
+  taxonomy_refs:
+  - mystical_quest
+  basis: The seeker is instructed to strive, detach from mundane relations, and purify
+    the mind and heart to obtain union with the divine.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The quest is interior and instructional, not an external journey narrative.
+- id: motif:4
+  label: Tree obscured by its offshoots
+  taxonomy_refs: []
+  basis: The Loved One says the flowers are offshoots of the tree and warns that offshoots
+    should not hide the tree.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage supplies the image but not a full mythic tree-system; only
+    the available symbol taxonomy supports the tree image.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 1134-1140
+  quote_or_summary: '"The Loved One''s rose-parterre I went to see"; beauty''s Torch
+    says, "I am the tree; these flowers My offshoots are. / Let not these offshoots
+    hide from thee the tree."'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 1142-1146
+  quote_or_summary: The passage names rosy cheeks, graceful forms, ringlets, and a
+    lovely face, then contrasts them with Beauty Absolute beaming all around and asks
+    why finite beauties should be embraced.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 1150-1158
+  quote_or_summary: The addressee is told to maintain a relation continuously, detach
+    from mundane relations, turn away from contingent forms, and strive to expel vain
+    thoughts and imaginations.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 1159-1165
+  quote_or_summary: The passage says thoughts should be forced outside the enclosure
+    of the breast so that Truth most glorious may cast beams into the heart, deliver
+    the seeker from self, and remove rivals from the heart.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: quote
+  locator: lines 1165-1168
+  quote_or_summary: The passage says there will remain neither consciousness of self
+    nor consciousness of that absence, but "nothing save the / One God alone."
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: uncertain
+  notes: The passage is explicit about divine beauty, detachment, self-effacement,
+    and union. No comparison claims are made because the passage does not itself compare
+    traditions or external motif families beyond the provided taxonomy mapping.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Taxonomy references are limited to the supplied motif families and symbols. Symbols and motifs are derived only from the provided passage.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-jami-persian-mystics-davis-gutenberg__l1134-l1168
+  passage_sha256=e297ef5d11a3fb881d09e5b588cd442e1684d7e5d328056bac2989aff76c315f

@@ -1,0 +1,289 @@
+---
+record_id: batch.motif.sufi-jami-persian-mystics-davis-gutenberg-l1462-l1487
+source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+passage_locator:
+  label: THE REVELATION OF TRUTH / MIRROR AND FACE / THE COMING OF THE BELOVED / THE
+    WAYS OF LOVE; lines 1462-1487
+  start: '1462'
+  end: '1487'
+  translation: 'The Persian Mystics: Jámí'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'A disciple asks his master to guide him on wisdom’s path. The master tells
+    him to learn love first, using earthly love as preparation for holier love, but
+    warns him not to linger over outward form, likened to remaining at a bridge. A
+    following stanza reflects on changing time: new truth appears each morning, the
+    fading sun reveals the stars, and spring’s kiss brings roses after frost.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A disciple asks his master to guide him on the pleasant path of wisdom.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The master asks whether the disciple has loved, then tells him to learn the
+    ways of love and return.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage instructs the listener to drink deeply of earthly love so that
+    the lip may learn to sip the wine of holier love.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage warns not to let form entrance the soul too long.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage tells the listener to pass over a bridge quickly and not linger
+    at the bridge’s head.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The following stanza says that new truth comes to light each morning.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The stanza says that if the sun’s splendour never died away, the stars’ market
+    would not be gay.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The stanza says that if endless frost ruled gardens, no rose would blossom
+    at Spring’s kiss.
+  category: relationship
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: disciple
+  description: A disciple who cries out to his master for guidance on wisdom’s path.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: master
+  description: The disciple’s master, who answers by directing him first to learn
+    the ways of love.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: disciple seeking guidance
+  assigned_to:
+  - fig:1
+  basis: The disciple asks the master to guide him to wisdom’s path.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: spiritual instructor
+  assigned_to:
+  - fig:2
+  basis: The master answers the disciple and gives instruction about love, return,
+    and not lingering at the bridge.
+  evidence_refs:
+  - ev:2
+  - ev:4
+symbols:
+- id: sym:1
+  label: path of wisdom
+  literal_form: path
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - wisdom
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: wine of holier love
+  literal_form: wine
+  associated_figures: []
+  taxonomy_refs:
+  - divine_beloved
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: bridge to be crossed
+  literal_form: bridge
+  associated_figures: []
+  taxonomy_refs:
+  - mystical_quest
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: fading sun and revealed stars
+  literal_form: sun and stars
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: frost, spring, and rose
+  literal_form: frost, spring, and rose
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: disciple instructed in the ways of love
+  summary: A disciple asks for guidance to wisdom; the master responds that the disciple
+    must learn love, using earthly love as preparation for holier love while moving
+    beyond attachment to form.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:2
+  label: change reveals hidden truth and beauty
+  summary: The stanza describes truth appearing with each morning and uses images
+    of the fading sun, stars, frost, spring, and roses to show how change allows disclosure
+    and blossoming.
+  figure_refs: []
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: spiritual quest through instruction
+  taxonomy_refs:
+  - mystical_quest
+  - wisdom
+  basis: The disciple seeks guidance on wisdom’s path and receives staged instruction
+    from the master.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage is lyric and didactic rather than a narrative quest episode.
+- id: motif:2
+  label: earthly love as preparation for holier love
+  taxonomy_refs:
+  - divine_beloved
+  basis: The text explicitly presents earthly love as a means by which the lip learns
+    to sip the wine of holier love.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage does not name the beloved or explicitly define holier love
+    beyond the phrase itself.
+- id: motif:3
+  label: crossing beyond outward form
+  taxonomy_refs:
+  - mystical_quest
+  basis: The listener is warned not to remain entranced by form and is told to pass
+    over the bridge without lingering.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The bridge is metaphorical in the poem; no literal journey scene is narrated.
+- id: motif:4
+  label: renewal through alternation and change
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The stanza connects fading sunlight with the appearance of stars and frost
+    giving way to spring roses.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The available taxonomy includes seasonal_cycle, but the passage uses the
+    images to make a reflective point about revelation and change rather than narrating
+    a seasonal myth.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 1464-1465
+  quote_or_summary: "“Once to his master a disciple cried:-- / ‘To wisdom's pleasant
+    path be thou my guide.’”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:2
+  type: quote
+  locator: lines 1466-1467
+  quote_or_summary: "“‘Hast thou ne'er loved?’ the master answered; ‘learn / The ways
+    of love and then to me return.’”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:3
+  type: quote
+  locator: lines 1468-1469
+  quote_or_summary: "“Drink deep of earthly love, that so thy lip / May learn the
+    wine of holier love to sip.”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:4
+  type: summary
+  locator: lines 1470-1473
+  quote_or_summary: The speaker warns not to let form entrance the soul too long,
+    instructs the listener to pass over the bridge quickly, and says not to linger
+    at the bridge’s head.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 1477-1480
+  quote_or_summary: The stanza describes the drum of Being and says that each morning
+    brings new truth to light and fame.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: quote
+  locator: lines 1483-1484
+  quote_or_summary: "“If the sun's splendour never died away, / Ne'er would the market
+    of the stars be gay.”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:7
+  type: quote
+  locator: lines 1485-1486
+  quote_or_summary: "“If in our gardens endless frost were king, / No rose would blossom
+    at the kiss of Spring.”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; short excerpt quoted.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif mapping is cautious because
+    the passage is poetic and didactic rather than mythic narrative. No comparison
+    claims were added because the passage itself does not compare traditions or motifs.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage text and metadata. Taxonomy references are limited to available supplied refs.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-jami-persian-mystics-davis-gutenberg__l1462-l1487
+  passage_sha256=59124e9dde16232d32e607034dd8ac23f64f73ab9ab302d2f37700132260a041

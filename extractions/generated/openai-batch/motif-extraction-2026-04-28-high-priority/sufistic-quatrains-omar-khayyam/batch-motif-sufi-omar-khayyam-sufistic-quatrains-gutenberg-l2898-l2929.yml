@@ -1,0 +1,389 @@
+---
+record_id: batch.motif.sufi-omar-khayyam-sufistic-quatrains-gutenberg-l2898-l2929
+source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+passage_locator:
+  label: XXIX. / XXXI. / XXXII. / XXXIV.; lines 2898-2929
+  start: '2898'
+  end: '2929'
+  translation: The Sufistic Quatrains of Omar Khayyam
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: A lamp amid the Darkness
+  summary: The quatrain depicts a speaker seeking the divine or inner self behind
+    a veil and hearing a voice identify the speaker as blind to the self within. The
+    accompanying note interprets this as Sufi emanation from God and reabsorption
+    into God, and compares it with passages in the Mantik ut-tair on abiding in God
+    and the unity of 'I' and 'thou.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The speaker says that the 'THEE in ME' works behind a veil.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker lifts up hands in an attempt to find a lamp amid darkness.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A voice heard as if from outside declares 'THE ME WITHIN THEE BLIND.'
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The note states that the quatrain suggests a Sufi doctrine in which the mortal
+    creature emanates from God the Creator and is reabsorbed into God.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: In the first cited Mantik ut-tair passage, the Creator speaks to David from
+    behind the Curtain of the Secret.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: In the first cited passage, the Creator says there is no substitute or equal
+    for Him and tells the servant not to exist apart from Him.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: In the second cited Mantik ut-tair passage, the speaker says 'I am thee, and
+    thou art Me,' denies duality, and describes the two bodies as one.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: speaker of the quatrain
+  description: The first-person speaker who lifts hands to find a lamp amid darkness.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: THEE in ME
+  description: A presence described as working behind the veil within the speaker.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: voice from without
+  description: A voice heard as from outside that speaks of the 'ME within thee.'
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Creator of the World
+  description: The speaker in the cited Mantik ut-tair passage who addresses David
+    from behind the Curtain of the Secret.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: David
+  description: The addressee of the Creator in the cited Mantik ut-tair passage.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: I and thou of the second cited passage
+  description: The two grammatical persons described as one, with no duality between
+    them.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: seeker
+  assigned_to:
+  - fig:1
+  basis: The speaker lifts hands to find a lamp amid darkness.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: indwelling divine presence
+  assigned_to:
+  - fig:2
+  - fig:4
+  basis: The quatrain speaks of 'THEE in ME'; the note links the passage to God the
+    Creator and reabsorption into God.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:3
+  label: revelatory voice
+  assigned_to:
+  - fig:3
+  basis: The voice answers the speaker's search with a declaration about the self
+    within.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: divine speaker
+  assigned_to:
+  - fig:4
+  basis: The cited passage explicitly names the Creator of the World as speaking to
+    David.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: divine addressee or servant
+  assigned_to:
+  - fig:5
+  basis: David is addressed by the Creator, who also says 'O thou my servant.'
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: unified pair
+  assigned_to:
+  - fig:6
+  basis: The second cited passage says 'I am thee, and thou art Me' and that the two
+    bodies are one.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: veil
+  literal_form: Veil
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: lamp in darkness
+  literal_form: lamp amid the Darkness
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: curtain of the secret
+  literal_form: Curtain of the Secret
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: soul
+  literal_form: Soul
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: two bodies as one
+  literal_form: two bodies are One
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: seeking the lamp behind the veil
+  summary: The quatrain's speaker looks for a lamp amid darkness while addressing
+    or seeking the 'THEE in ME' behind a veil, and hears a voice pointing to the self
+    within.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Creator addresses David from behind the secret curtain
+  summary: In the cited Mantik ut-tair passage, the Creator tells David that nothing
+    can substitute for Him and commands the servant to abide in Him rather than exist
+    apart from Him.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: denial of duality between I and thou
+  summary: In the second cited Mantik ut-tair passage, 'I' and 'thou' are described
+    as permanently one, with duality denied and the two bodies declared one.
+  figure_refs:
+  - fig:6
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: emanation and reabsorption into God
+  taxonomy_refs:
+  - annihilation_union
+  basis: The note explicitly interprets the quatrain as suggesting the Sufi doctrine
+    of emanation from God and reabsorption into God.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is the editor's interpretation of the quatrain rather than a literal
+    statement inside the quatrain itself.
+- id: motif:2
+  label: indwelling divine self discovered inwardly
+  taxonomy_refs:
+  - annihilation_union
+  - mystical_quest
+  basis: The quatrain speaks of the 'THEE in ME' behind a veil and a voice identifying
+    the 'ME within thee.'
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The language is symbolic and the precise doctrinal referent is supplied
+    by the accompanying note.
+- id: motif:3
+  label: unity overcoming duality
+  taxonomy_refs:
+  - duality
+  - annihilation_union
+  basis: The cited Mantik ut-tair passage says 'I am thee, and thou art Me,' asks
+    whether there is any duality, and states that two bodies are one.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: This motif is drawn from the cited comparative passage included in the
+    note, not only from the quatrain.
+- id: motif:4
+  label: search for illumination in darkness
+  taxonomy_refs:
+  - wisdom
+  - mystical_quest
+  basis: The speaker lifts hands to find a lamp amid darkness.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage gives the image but does not explicitly define the lamp as
+    wisdom or illumination.
+comparison_claims:
+- id: claim:1
+  claim: The note asserts that FitzGerald's quatrain was suggested by two passages
+    in the Mantik ut-tair.
+  claim_level: historical_contact
+  target: Mantik ut-tair passages beginning at distich 3090 and distich 3735
+  evidence_refs:
+  - ev:5
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The statement is an editorial assertion within the passage; the supplied
+    excerpt does not provide independent external evidence for the influence claim.
+- id: claim:2
+  claim: The note says a quatrain in L. No. 641 and B. ii. No. 457 is akin to FitzGerald's
+    quatrain, while also saying FitzGerald was not acquainted with those texts.
+  claim_level: same_motif
+  target: Quatrain in L. No. 641 / B. ii. No. 457 / W. No. 400
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs:
+  - ev:6
+  confidence: medium
+  limitations: The actual texts of the compared quatrains are not included in the
+    provided passage; the relationship is reported rather than demonstrated here.
+- id: claim:3
+  claim: The quatrain and the cited Mantik ut-tair passages share a pattern of divine-human
+    inward unity and the overcoming of separateness.
+  claim_level: same_function
+  target: Sufi unity language in the cited Mantik ut-tair passages
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The quatrain is brief and symbolic; the doctrinal comparison depends
+    partly on the accompanying explanatory note.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 2898-2903
+  quote_or_summary: 'The quatrain says the speaker sought ''A lamp amid the Darkness''
+    from the ''THEE in ME'' behind the veil and heard: ''THE ME WITHIN THEE BLIND!'''
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short excerpt used for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 2908-2911
+  quote_or_summary: The note says the quatrain suggests the Sufi doctrine of the mortal
+    creature's emanation from God the Creator and reabsorption into God.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 2917-2925
+  quote_or_summary: In the first translated Mantik ut-tair passage, the Creator speaks
+    to David from behind the Curtain of the Secret, says He has no substitute or equal,
+    identifies Himself as David's soul, and tells the servant not to exist apart from
+    Him.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 2927-2929
+  quote_or_summary: 'The second translated passage says: ''I am thee, and thou art
+    Me'' and asks whether there is any duality, concluding that the two bodies are
+    one.'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short excerpt used for extraction.
+- id: ev:5
+  type: summary
+  locator: lines 2912-2916
+  quote_or_summary: The note states that FitzGerald's 34th quatrain was suggested
+    by two intricate passages in the Mantik ut-tair, beginning at distich 3090 and
+    distich 3735.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 2911-2913
+  quote_or_summary: The note says a quatrain in L. No. 641 and B. ii. No. 457 is akin
+    to this quatrain, but that FitzGerald was not acquainted with these texts; it
+    is No. 400 in W.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage combines a symbolic quatrain with explanatory editorial commentary
+    and translated comparative excerpts. Motif identification is strongest where the
+    note explicitly names Sufi emanation, reabsorption, and unity language.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage text and metadata were used. Taxonomy references were limited to available motif families; no available symbol taxonomy item directly matched veil, lamp, darkness, curtain, or soul.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-omar-khayyam-sufistic-quatrains-gutenberg__l2898-l2929
+  passage_sha256=363c9aa7fb074541accf167f7ea0aa5473f5cdccd844689eb307f639a5d9984d

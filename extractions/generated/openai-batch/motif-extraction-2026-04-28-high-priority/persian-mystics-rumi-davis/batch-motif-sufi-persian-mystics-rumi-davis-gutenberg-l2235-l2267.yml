@@ -1,0 +1,355 @@
+---
+record_id: batch.motif.sufi-persian-mystics-rumi-davis-gutenberg-l2235-l2267
+source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+passage_locator:
+  label: SEPARATION / A MOTHER WHOSE CHILDREN WERE IN THE BELOVED'S KEEPING / THE
+    OPTIMISTIC ROSE / THE TRUE MOSQUE; lines 2235-2267
+  start: '2235'
+  end: '2267'
+  translation: 'The Persian Mystics: Jalálu''d-dín Rúmí'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage counsels the soul to accept God's ordinances and trust divine
+    benevolence amid misfortune, using the rose as an image of smiling through loss.
+    It contrasts external mosque-building with the hearts of saints as the true dwelling-place
+    of God, and describes ignorance as a deeper impurity than blood, removable only
+    by the blessed water of God and humble prayer.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The speaker addresses the soul and warns it to acquiesce in God's ordinances
+    and not doubt God's benevolence when sudden misfortune occurs.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The rose is described as smiling at loss and gain even when its petals are
+    torn apart.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Fools are said to praise the mosque while oppressing holy men of heart.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage states that the only true mosque is in the hearts of saints and
+    that God dwells there.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Blood is called impure, but its stain can be removed by water.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Ignorance is described as a more lasting impurity that is not removed without
+    the blessed water of God.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The speaker urges the addressee to turn toward prayer and ask to be requited
+    good for evil.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: O Soul
+  description: The addressee of the warning and counsel.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: God
+  description: The divine being whose ordinances and benevolence are to be trusted,
+    who dwells in the hearts of saints, and whose blessed water removes ignorance.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+- id: fig:3
+  name_or_label: rose
+  description: A flower that smiles at loss and gain and is not cast down though its
+    petals are torn apart.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: fools
+  description: People who laud the mosque while striving to oppress holy men of heart.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: holy men of heart / saints
+  description: Holy figures whose hearts are described as the true mosque and dwelling-place
+    of God.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: spiritual addressee
+  assigned_to:
+  - fig:1
+  basis: The passage directly addresses the soul with counsel and warning.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: divine source of ordinance, benevolence, presence, and purification
+  assigned_to:
+  - fig:2
+  basis: God is named as the source of ordinances and benevolence, as dwelling in
+    saints' hearts, and as providing blessed water against ignorance.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+- id: role:3
+  label: model of joyful endurance
+  assigned_to:
+  - fig:3
+  basis: The rose smiles despite torn petals and loss or gain.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: misdirected worshippers or critics
+  assigned_to:
+  - fig:4
+  basis: They praise the mosque but oppress holy men of heart.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: bearers of the true sacred place
+  assigned_to:
+  - fig:5
+  basis: Their hearts are identified as the true mosque where God dwells.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: rose
+  literal_form: A rose whose petals are torn apart while it continues to smile.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: mosque
+  literal_form: A mosque praised outwardly by fools and contrasted with the hearts
+    of saints.
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: heart of saints
+  literal_form: The hearts of saints described as the only true mosque and God's dwelling-place.
+  associated_figures:
+  - fig:5
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: water
+  literal_form: Water that removes bloodstains, and the blessed water of God that
+    removes ignorance.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:5
+  label: blood
+  literal_form: Blood described as impure, with a stain removable by water.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: ignorance
+  literal_form: An impurity more lasting than bloodstain and removable only by the
+    blessed water of God.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Counsel to trust divine benevolence in misfortune
+  summary: The speaker warns the soul to accept God's ordinances, avoid doubting God's
+    benevolence, and remain cheerful in loss and gain like the rose.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: The true mosque in saints' hearts
+  summary: The passage contrasts external praise of mosques with oppression of holy
+    men, then identifies the hearts of saints as the true mosque and place where God
+    dwells.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Ignorance as impurity needing divine water
+  summary: The passage compares bloodstain removable by water with ignorance as a
+    more lasting impurity requiring the blessed water of God, followed by a humble
+    prayer for good in return for evil.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: trustful acceptance of divine ordinance
+  taxonomy_refs:
+  - wisdom
+  basis: The passage explicitly instructs the soul to acquiesce in God's ordinances
+    and not doubt divine benevolence during misfortune.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The available taxonomy has only broad motif-family labels; the passage
+    presents ethical-spiritual counsel rather than a narrative episode.
+- id: motif:2
+  label: flower as model of endurance through loss
+  taxonomy_refs: []
+  basis: The rose remains smiling and uncast down though its petals are torn apart.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: No matching supplied taxonomy symbol or motif family specifically covers
+    the rose image.
+- id: motif:3
+  label: inner sanctuary as true place of worship
+  taxonomy_refs:
+  - wisdom
+  basis: The passage identifies the hearts of saints, rather than the external mosque,
+    as the true mosque where God dwells.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The motif-family reference is broad; the passage is explicitly devotional
+    and didactic.
+- id: motif:4
+  label: divine water purifying ignorance
+  taxonomy_refs:
+  - wisdom
+  basis: Ignorance is described as an impurity more lasting than blood and removable
+    only by the blessed water of God.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The taxonomy includes the symbol water, but not a specific purification
+    motif family; the motif label is passage-derived.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2235-2267, section 'THE OPTIMISTIC ROSE'
+  quote_or_summary: The speaker warns the soul to accept God's ordinances and not
+    doubt God's benevolence when sudden misfortune befalls it.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: quote
+  locator: lines 2235-2267, section 'THE OPTIMISTIC ROSE'
+  quote_or_summary: '"Do thou smile like the rose at loss and gain"; the rose smiles
+    though its petals are torn apart.'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:3
+  type: summary
+  locator: lines 2235-2267, section 'THE TRUE MOSQUE'
+  quote_or_summary: Fools praise and magnify the mosque while striving to oppress
+    holy men of heart.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: quote
+  locator: lines 2235-2267, section 'THE TRUE MOSQUE'
+  quote_or_summary: '"The only true mosque is that in the hearts of saints" and God
+    dwells there.'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:5
+  type: summary
+  locator: lines 2235-2267, section 'IGNORANCE'
+  quote_or_summary: Blood is described as impure, but its stain is removed by water.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:6
+  type: summary
+  locator: lines 2235-2267, section 'IGNORANCE'
+  quote_or_summary: Ignorance is described as a more lasting impurity that is not
+    banished without the blessed water of God.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:7
+  type: quote
+  locator: lines 2235-2267, section 'IGNORANCE'
+  quote_or_summary: 'The speaker urges prayer: "O requite me good for evil!"'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; short quotation used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward from the supplied English passage.
+    Motif-family mapping is limited because the available taxonomy is broad and the
+    passage is primarily didactic rather than narrative. No comparison claims were
+    made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the provided passage text and metadata were used; no external comparisons or unsupported taxonomy IDs were added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-persian-mystics-rumi-davis-gutenberg__l2235-l2267
+  passage_sha256=32c17fbd526412ddf01ec81446034b58930777f78e76fce712c50b40ed6790cc

@@ -1,0 +1,408 @@
+---
+record_id: batch.motif.sufi-hafiz-divan-bell-gutenberg-l2305-l2334
+source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+passage_locator:
+  label: FROM THE DIVAN OF HAFIZ / XVIII / XXIII / XXVII; lines 2305-2334
+  start: '2305'
+  end: '2334'
+  translation: Poems from the Divan of Hafiz
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A speaker laments that a female friend has fled, leaving tears, pain, separation,
+    wounds, and sorrow. The speaker describes her as hunter and himself as prey; Good
+    Fortune slips away. His grief overflows as bloody tears across the desert. At
+    dawn a nightingale enters Hafiz's garden, fills its song with tears, and flees.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The speaker says his friend has fled and left him tears and pain.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The friend is described as rising like smoke above a wind-caught flame from
+    the speaker's breast.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The speaker seizes Love's divine cup, but the female figure pours the bitter
+    wine of Separation into it and flees.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The female figure is called the hunter, while the speaker is called helpless
+    prey.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The speaker is wounded and sick, and the female figure draws toils around
+    him.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The speaker's heart is thrown into a sea of sorrow.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: Good Fortune is personified as a timid foal that slips the rein and does not
+    stay.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:8
+  text: The speaker's eyes shed tears of blood that become a crimson stream across
+    the desert.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: The female figure kisses the speaker's threshold, says farewell, and declares
+    that she goes.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:10
+  text: Before dawn reddens the east and before the rose tears her veil, a nightingale
+    flies through Hafiz's garden, sings with tears, and flees.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: speaker
+  description: First-person speaker who laments the departure of the friend and describes
+    himself as wounded, prey-like, and sorrowful.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: fleeing female friend
+  description: Female friend who leaves the speaker, pours the wine of Separation,
+    acts as hunter, kisses the threshold, and says she goes.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Good Fortune
+  description: Personified as a timid foal that slips the rein and will not stay.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: nightingale
+  description: Bird that flies through Hafiz's garden at dawn, fills its song with
+    tears, and flees.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Hafiz
+  description: Named in connection with the garden through which the nightingale flies.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: abandoned lamenting speaker
+  assigned_to:
+  - fig:1
+  basis: The speaker says the friend fled and left tears and pain.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: departing friend
+  assigned_to:
+  - fig:2
+  basis: The female friend repeatedly flees and says farewell.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: helpless prey
+  assigned_to:
+  - fig:1
+  basis: The passage names the speaker as helpless prey in relation to the hunter.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: hunter
+  assigned_to:
+  - fig:2
+  basis: The passage explicitly calls the female figure the hunter.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: fugitive fortune
+  assigned_to:
+  - fig:3
+  basis: Good Fortune slips the rein and will not stay.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: tearful singer
+  assigned_to:
+  - fig:4
+  basis: The nightingale fills its song with tears before fleeing.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: garden-associated named poet
+  assigned_to:
+  - fig:5
+  basis: The garden is called Hafiz's garden.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Love's cup divine
+  literal_form: cup
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: bitter wine of Separation
+  literal_form: wine
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: flame and smoke
+  literal_form: flame and smoke image
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: hunter and prey
+  literal_form: hunter-prey image
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: sea of sorrow
+  literal_form: sea image
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:6
+  label: bloody tears and crimson stream
+  literal_form: tears of blood and stream
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:7
+  label: threshold farewell
+  literal_form: threshold and farewell gesture
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:8
+  label: rose veil at dawn
+  literal_form: rose tearing her veil before dawn
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:9
+  label: nightingale in Hafiz's garden
+  literal_form: nightingale and garden
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: flight of the friend and cup of separation
+  summary: The speaker laments the friend's departure and describes taking Love's
+    divine cup, into which she pours bitter Separation before fleeing.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: hunter and prey sorrow
+  summary: The female figure is hunter, the speaker is helpless prey, and Good Fortune
+    slips away as the speaker's heart is cast into sorrow.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: bloody tears and farewell at the threshold
+  summary: The speaker's grief overflows as bloody tears across the desert; the female
+    figure kisses the threshold, says farewell, and goes.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: nightingale's tearful flight
+  summary: At clear dawn a nightingale passes through Hafiz's garden, fills its song
+    with tears, and flees.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:8
+  - sym:9
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: fleeing beloved or friend causing lament
+  taxonomy_refs:
+  - divine_beloved
+  basis: The poem centers on the departure of a female friend whose absence produces
+    tears, pain, separation, and service to Love.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: The passage names the figure as a friend and uses love imagery; the taxonomy
+    link to divine_beloved is suggested by lyric and Sufi context but is not explicitly
+    stated in the passage.
+- id: motif:2
+  label: separation as bitter drink
+  taxonomy_refs: []
+  basis: The speaker seizes Love's divine cup, and the departing figure pours bitter
+    wine of Separation into it.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is a local poetic motif rather than a supplied taxonomy family.
+- id: motif:3
+  label: lover as prey of the beloved-hunter
+  taxonomy_refs: []
+  basis: The passage explicitly casts the female figure as hunter and the speaker
+    as helpless prey, with toils drawn around him.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: No supplied taxonomy reference directly matches the hunter-prey love image.
+- id: motif:4
+  label: grief overflowing as blood and water
+  taxonomy_refs: []
+  basis: The speaker's narrow heart overflows into tears of blood and a crimson stream
+    across the desert.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The image is strongly present, but no comparison beyond the passage is
+    asserted.
+- id: motif:5
+  label: tearful nightingale in the poet's garden
+  taxonomy_refs: []
+  basis: A nightingale flies through Hafiz's garden, fills its song with tears, and
+    flees.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The broader Persian lyric convention of rose and nightingale is not asserted
+    as a comparison because it is not established by the passage alone.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 2305-2313
+  quote_or_summary: The friend has fled, leaving tears and pain; the speaker seizes
+    Love's divine cup, and she pours the bitter wine of Separation into it and flees.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+  rights_note: Public domain source; short excerpt summarized.
+- id: ev:2
+  type: quote
+  locator: lines 2314-2321
+  quote_or_summary: '"The hunter she, and I the helpless prey"; the speaker is wounded
+    and sick, his heart is thrown into a sea of sorrow, and Good Fortune slips the
+    rein.'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:3
+  type: summary
+  locator: lines 2322-2328
+  quote_or_summary: The speaker's heart is too narrow for woe; his eyes shed tears
+    of blood as a crimson stream across the desert; she says farewell, kisses the
+    threshold, and says she goes.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+  rights_note: Public domain source; passage summarized.
+- id: ev:4
+  type: summary
+  locator: lines 2329-2334
+  quote_or_summary: At clear dawn, before the east reddens and before the rose tears
+    her veil, a nightingale flies through Hafiz's garden, fills its song with tears,
+    and flees.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+  rights_note: Public domain source; passage summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif candidates are based on recurring
+    images internal to the passage and one cautious taxonomy match to divine_beloved;
+    no comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy symbol refs were applied only to explicit fire and water images.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-hafiz-divan-bell-gutenberg__l2305-l2334
+  passage_sha256=61b6b2e513ca8e18c6899ea545fbd2c9e4dafbb6144fbeb315a932275123ef19

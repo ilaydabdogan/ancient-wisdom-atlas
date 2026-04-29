@@ -1,0 +1,564 @@
+---
+record_id: batch.motif.sufi-hafiz-divan-bell-gutenberg-l289-l349
+source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+passage_locator:
+  label: GERTRUDE LOWTHIAN BELL / LONDON / WILLIAM HEINEMANN / INTRODUCTION; lines
+    289-349
+  start: '289'
+  end: '349'
+  translation: Poems from the Divan of Hafiz
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: "“The world,” he said, “is like unto the shadow of a cloud and a dream of
+    the night.”"
+  summary: The passage recounts Shah Shudja’s deathbed efforts to secure his son’s
+    succession, his admonition to his brother Ahmed, his pious death, the later conflict
+    over Shiraz, Timur’s conquest, Zein-el-Abeddin’s blinding, a dated reference to
+    Hafiz’s interview with Timur, Mansur’s last battle, and the destruction of surviving
+    members of the Muzaffaride house.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Shah Shudja, near death, sent letters to Timur and Sultan Ahmed of Baghdad
+    asking them to protect his son, brothers, and nephews.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Shah Shudja summoned his brother Ahmed after hearing Ahmed might dispute Zein-el-Abeddin’s
+    succession.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Shah Shudja described the world as like the shadow of a cloud and a night
+    dream, and described his coming death as a long journey.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Shah Shudja warned Ahmed that sowing discord would bring reproach from himself
+    and from God, and instructed him to go to Kerman.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Ten holy men stayed with Shah Shudja continually and read the Koran aloud
+    from end to end each day.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Zein-el-Abeddin’s reign was short; he later fled Timur, sought refuge with
+    Mansur, and was imprisoned and blinded by Mansur.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The passage dates the celebrated interview between Hafiz and Timur to 1388
+    rather than 1393.
+  category: other
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Mansur twice charged into the Tartar force with a much smaller army and died
+    fighting beneath the sword of Shah Rukh Mirza.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: Mansur is said to have distributed 200 tomans daily among poor scholars of
+    Shiraz.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: Timur ordered Mansur’s survivors put to the sword because he judged that no
+    member of the Muzaffaride house could remain alive if he was to have peace in
+    Shiraz.
+  category: action
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Shah Shudja
+  description: A dying king who tries to secure his family’s welfare, admonishes Ahmed,
+    dies in sanctity, and is remembered for courage, liberality, poetry, and knowledge
+    of the Koran.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Zein-el-Abeddin
+  description: Shah Shudja’s son and heir, briefly on the throne, later fleeing Timur
+    and then imprisoned and blinded by Mansur.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:3
+  name_or_label: Ahmed, brother of Shah Shudja
+  description: A brother who is reported to be preparing to dispute the succession,
+    weeps at Shah Shudja’s sickbed, receives his letter, and goes to Kerman.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Timur
+  description: A conqueror who overran Southern Persia, took Shiraz, later advanced
+    against Mansur, and ordered the destruction of surviving Muzaffarides.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+  - ev:7
+  - ev:9
+- id: fig:5
+  name_or_label: Mansur
+  description: Zein-el-Abeddin’s cousin, rival for power in Shiraz, imprisoner of
+    Zein-el-Abeddin, brave battlefield commander, patron of poor scholars, and defeated
+    Muzaffaride.
+  role_refs:
+  - role:7
+  - role:8
+  - role:9
+  evidence_refs:
+  - ev:5
+  - ev:7
+  - ev:8
+- id: fig:6
+  name_or_label: Hafiz
+  description: The poet whose celebrated interview with Timur is dated in the passage
+    to 1388; he is said not to have lived to see the final events of the drama.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: fig:7
+  name_or_label: Ten holy men
+  description: Holy men who remain continually with Shah Shudja and read the Koran
+    aloud each day.
+  role_refs:
+  - role:11
+  evidence_refs:
+  - ev:4
+- id: fig:8
+  name_or_label: Shah Rukh Mirza
+  description: Timur’s son, beneath whose sword Mansur falls in battle.
+  role_refs:
+  - role:12
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: dying king
+  assigned_to:
+  - fig:1
+  basis: Shah Shudja is shown sick to death and arranging family protection before
+    dying.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: deathbed admonisher
+  assigned_to:
+  - fig:1
+  basis: He sends Ahmed a letter warning against discord and urging him to go to Kerman.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: pious royal figure
+  assigned_to:
+  - fig:1
+  basis: He dies in the odour of sanctity while holy men read the Koran, and is said
+    to know the Koran by heart.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: endangered heir
+  assigned_to:
+  - fig:2
+  basis: His father tries to secure his future, but he later flees Timur and is blinded
+    by Mansur.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:5
+  label: potential rival claimant
+  assigned_to:
+  - fig:3
+  basis: Ahmed is reported to be preparing to dispute the succession, but withdraws
+    after the letter.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:6
+  label: conqueror
+  assigned_to:
+  - fig:4
+  basis: Timur overruns Southern Persia, takes Shiraz, advances against Mansur, and
+    eliminates surviving Muzaffarides.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  - ev:9
+- id: role:7
+  label: rival kinsman
+  assigned_to:
+  - fig:5
+  basis: Mansur attacks Zein-el-Abeddin and later overthrows Shah Yahya to possess
+    Shiraz.
+  evidence_refs:
+  - ev:5
+- id: role:8
+  label: reckless warrior
+  assigned_to:
+  - fig:5
+  basis: The passage emphasizes his desperate charges into the Tartar force and his
+    death in battle.
+  evidence_refs:
+  - ev:7
+- id: role:9
+  label: patron of learning
+  assigned_to:
+  - fig:5
+  basis: He is said to distribute money daily among poor scholars of Shiraz.
+  evidence_refs:
+  - ev:8
+- id: role:10
+  label: poet-witness by reference
+  assigned_to:
+  - fig:6
+  basis: Hafiz is mentioned in relation to an interview with Timur and to the timing
+    of these events.
+  evidence_refs:
+  - ev:6
+- id: role:11
+  label: ritual readers
+  assigned_to:
+  - fig:7
+  basis: They read the Koran aloud continually at Shah Shudja’s deathbed.
+  evidence_refs:
+  - ev:4
+- id: role:12
+  label: slayer in battle
+  assigned_to:
+  - fig:8
+  basis: Mansur falls beneath the sword of Shah Rukh Mirza.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: shadow of a cloud
+  literal_form: cloud shadow image used in Shah Shudja’s letter
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: dream of the night
+  literal_form: night dream image used in Shah Shudja’s letter
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: long journey
+  literal_form: journey image used by Shah Shudja for his approaching death
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: Koran recitation
+  literal_form: the Koran read aloud from end to end each day
+  associated_figures:
+  - fig:1
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: throne
+  literal_form: the throne bequeathed to Zein-el-Abeddin by his father
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: sword
+  literal_form: the sword of Shah Rukh Mirza and the putting of survivors to the sword
+  associated_figures:
+  - fig:5
+  - fig:8
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:9
+scenes:
+- id: scene:1
+  label: Deathbed succession warning
+  summary: Shah Shudja, near death, attempts to secure his family’s future and sends
+    Ahmed a letter urging him not to sow discord and to renounce Shiraz for Kerman.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Pious death of Shah Shudja
+  summary: Shah Shudja dies with holy men continually present, reading the Koran aloud,
+    and is remembered for courage, liberality, poetry, and memorization of the Koran.
+  figure_refs:
+  - fig:1
+  - fig:7
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Fall of Zein-el-Abeddin
+  summary: Zein-el-Abeddin’s brief rule is followed by flight before Timur, refuge
+    with Mansur, and betrayal through imprisonment and blinding.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Hafiz and Timur chronological note
+  summary: The narrator places the celebrated interview between Hafiz and Timur in
+    1388 and rejects a later dating because Hafiz likely died before 1393.
+  figure_refs:
+  - fig:4
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: Mansur’s last battle and aftermath
+  summary: Mansur charges Timur’s larger force, is unsupported by his army’s wings,
+    dies under Shah Rukh Mirza’s sword, and his surviving house is later destroyed
+    by Timur.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:8
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:7
+  - ev:9
+- id: scene:6
+  label: Mansur as patron of scholars
+  summary: The passage reports that Mansur distributed money daily among poor scholars
+    of Shiraz.
+  figure_refs:
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: death as departure on a long journey
+  taxonomy_refs:
+  - departure
+  basis: Shah Shudja, while dying, describes himself as about to fare upon a long
+    journey.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The image occurs in a historical anecdote and is not elaborated into a
+    full journey narrative.
+- id: motif:2
+  label: impermanence of worldly power
+  taxonomy_refs:
+  - wisdom
+  basis: Shah Shudja’s letter compares the world to a cloud-shadow and a night dream
+    while warning Ahmed away from discord over Shiraz.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The motif is expressed as moral counsel rather than as a mythic episode.
+- id: motif:3
+  label: deathbed counsel to prevent kin-strife
+  taxonomy_refs: []
+  basis: A dying ruler admonishes a brother who may dispute the succession and urges
+    him to renounce the contested city.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: No supplied taxonomy family directly names this political deathbed pattern.
+- id: motif:4
+  label: pious death accompanied by sacred recitation
+  taxonomy_refs: []
+  basis: Ten holy men continually read the Koran aloud with Shah Shudja at his deathbed.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage frames this as sanctity, but does not expand it into a visionary
+    or afterlife scene.
+- id: motif:5
+  label: betrayal of the fugitive heir by a kinsman
+  taxonomy_refs: []
+  basis: Zein-el-Abeddin flees to Mansur for refuge, and Mansur imprisons and blinds
+    him.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: This is a historical-political motif rather than a clearly mythological
+    one.
+- id: motif:6
+  label: last stand of the outnumbered warrior
+  taxonomy_refs: []
+  basis: Mansur, with a much smaller force, twice charges into Timur’s army and dies
+    fighting after his support fails.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: No available taxonomy family directly corresponds to the martial last-stand
+    pattern.
+- id: motif:7
+  label: ruler as patron of poor scholars
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Mansur is described as a patron of learning who distributed money daily among
+    poor scholars.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: The sacred-exchange taxonomy fit is tentative; the passage presents patronage
+    as generosity rather than ritual exchange.
+- id: motif:8
+  label: extermination of a royal house to secure conquest
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: Timur concludes there will be no peace in Shiraz while any Muzaffaride remains
+    and orders Mansur’s survivors killed.
+  evidence_refs:
+  - ev:9
+  confidence: medium
+  cautions: This is a dynastic-political pattern; its relation to royal legitimacy
+    is indirect.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 289-294
+  quote_or_summary: Shah Shudja, worn out and near death, sends letters to Timur and
+    Sultan Ahmed of Baghdad recommending protection for Zein-el-Abeddin, his brothers,
+    and his nephews.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: lines 294-301
+  quote_or_summary: The deathbed scene shows Shah Shudja summoning Ahmed after hearing
+    Ahmed might dispute Zein-el-Abeddin’s succession; both brothers weep and Ahmed
+    withdraws.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: quote
+  locator: lines 301-310
+  quote_or_summary: Shah Shudja says the world is like “the shadow of a cloud and
+    a dream of the night,” says he is about to fare on “a long journey,” warns against
+    discord, invokes God’s reproach, and tells Ahmed to go to Kerman.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+  rights_note: Public domain source; brief quotation used for evidence.
+- id: ev:4
+  type: summary
+  locator: lines 312-316
+  quote_or_summary: Shah Shudja dies in the odour of sanctity; ten holy men continually
+    read the Koran aloud, and he is remembered for courage, liberality, poetry, and
+    knowing the Koran by heart.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 318-326
+  quote_or_summary: Zein-el-Abeddin’s short reign involves conflict with Mansur; Timur
+    overruns Southern Persia and takes Shiraz; Zein seeks refuge with Mansur, who
+    imprisons and blinds him.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: lines 326-331
+  quote_or_summary: The narrator places the celebrated interview between Hafiz and
+    Timur in 1388 rather than at the second conquest of Shiraz in 1393, noting that
+    Hafiz likely died before 1393.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:7
+  type: summary
+  locator: lines 331-342
+  quote_or_summary: Timur gives Shiraz to Shah Yahya; Mansur later takes it. In 1393
+    Timur advances with 30,000 men; Mansur, with 3000 or 4000, charges twice into
+    the Tartar force, is unsupported, and falls beneath Shah Rukh Mirza’s sword.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:8
+  type: summary
+  locator: lines 343-347
+  quote_or_summary: Mansur is described as brave, reckless, a patron of learning,
+    and one who distributed 200 tomans daily among the poor scholars of Shiraz.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:9
+  type: summary
+  locator: lines 347-349
+  quote_or_summary: Timur sees no peace in Shiraz while any member of the Muzaffaride
+    house remains alive, and Mansur’s survivors are put to the sword.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal historical narrative is clear. Motif labels are cautious because
+    the passage is an introductory historical account rather than a mythic or poetic
+    passage; no comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata. No external comparisons were added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-hafiz-divan-bell-gutenberg__l289-l349
+  passage_sha256=7646209bb83d60124b690e171ab13eb369473f0e1bc48f6056f98bc43c30f0cb

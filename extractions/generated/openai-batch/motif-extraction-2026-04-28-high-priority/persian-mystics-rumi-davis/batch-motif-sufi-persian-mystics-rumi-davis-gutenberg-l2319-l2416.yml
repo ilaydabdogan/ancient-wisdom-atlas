@@ -1,0 +1,427 @@
+---
+record_id: batch.motif.sufi-persian-mystics-rumi-davis-gutenberg-l2319-l2416
+source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+passage_locator:
+  label: 'THE TRUE MOSQUE / A PRAYER / ALL RELIGIONS ARE ONE / APPENDIX: A NOTE ON
+    PERSIAN POETRY; lines 2319-2416'
+  start: '2319'
+  end: '2416'
+  translation: 'The Persian Mystics: Jalálu''d-dín Rúmí'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage summarizes Nīzamī's account of poetry, recounts anecdotes about
+    poets influencing or entertaining rulers, describes royal rewards for successful
+    poets, gives an anecdote about the discovery of prosody from rhythmic labor sounds,
+    and comments on the conventional use of inherited metres, similes, and subjects
+    in Persian poetry.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Nīzamī describes poetry as an art that arranges imaginary propositions so
+    that small things can appear great, great things small, good as evil, and evil
+    as good.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Nīzamī discourages giving money to old poets who have failed to recognize
+    bad writing, but supports patronage of promising young poets.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Amír Nasr b. Ahmad remains in Herāt for four years with his army, while his
+    captains and courtiers wish to return to Bukhárá and their families.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The captains and courtiers offer Rúdagí five thousand dinars to persuade the
+    Amír to leave Herāt and return to Bukhárá.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Rúdagí sings to the Amír with a harp, using images of the Oxus, the Moon,
+    the sky, a meadow, and a cypress tree.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: After Rúdagí's song, the Amír departs immediately and forgets to put on his
+    boots.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: Khidr Khán keeps four trays of gold ready and gives gold by the handful to
+    successful poets.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: Rashídí answers criticism from the Poet-Laureate by composing a satirical
+    verse, and receives four baskets of gold that day.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: Khalil ibn i Ahmad i Bicrí is said to have discovered prosody by listening
+    to the rhythmic beats of fuller's mallets on clothes.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: The passage states that Persian poets conservatively followed old metres,
+    old similes, and old subjects, with strong attention to words rather than ideas.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Nīzamī
+  description: Author of the Four Discourses whose Second Discourse discusses the
+    nature and utility of poetry and the training of poets.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Rúdagí
+  description: Poet who is paid to persuade Amír Nasr b. Ahmad to leave Herāt and
+    who sings to him with a harp.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Amír Nasr b. Ahmad
+  description: Ruler who stays in Herāt with his army for four years and departs for
+    Bukhárá after hearing Rúdagí's song.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Captains and courtiers of the Amír
+  description: Members of the Amír's retinue who grow weary of Herāt and long to return
+    to Bukhárá and their families.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Khidr Khán
+  description: Royal patron who keeps four trays of gold ready for successful poets.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Rashídí
+  description: Minor poet who composes a satirical reply after his verse is said to
+    lack spice.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: Poet-Laureate
+  description: Court poet asked to evaluate Rashídí's poetry, calling it good and
+    correct but lacking spice.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:8
+  name_or_label: Khalil ibn i Ahmad i Bicrí
+  description: Figure credited with instituting prosody and discovering it from rhythmic
+    fuller's mallets.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+- id: fig:9
+  name_or_label: Fuller
+  description: Laborer whose mallets beating clothes provide the rhythm that Khalil
+    is said to hear.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: poetic theorist
+  assigned_to:
+  - fig:1
+  basis: Nīzamī's discourse defines poetry and discusses the training and support
+    of poets.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: poet-performer
+  assigned_to:
+  - fig:2
+  - fig:6
+  basis: Rúdagí sings before the Amír, and Rashídí composes a poetic rejoinder at
+    royal command.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: ruler influenced by poetry
+  assigned_to:
+  - fig:3
+  basis: The Amír leaves Herāt immediately after Rúdagí's song.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: petitioning courtiers
+  assigned_to:
+  - fig:4
+  basis: The captains and courtiers offer Rúdagí money to persuade the Amír to return
+    to Bukhárá.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: royal patron of poets
+  assigned_to:
+  - fig:5
+  basis: Khidr Khán keeps trays of gold and dispenses gold to successful poets.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: court critic
+  assigned_to:
+  - fig:7
+  basis: The Poet-Laureate is asked to judge Rashídí's verse and gives a critical
+    assessment.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: founder of prosody
+  assigned_to:
+  - fig:8
+  basis: Khalil is said to have instituted the technical study of prosody.
+  evidence_refs:
+  - ev:4
+- id: role:8
+  label: source of rhythmic sound
+  assigned_to:
+  - fig:9
+  basis: The fuller's mallets provide the rhythmic beats that lead to the discovery
+    of prosody.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Oxus river waves
+  literal_form: The Oxus deep and its laughing waves in Rúdagí's song.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: Moon and sky
+  literal_form: The Amír is compared to the Moon and Bukhárá to the sky in Rúdagí's
+    song.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Meadow and cypress tree
+  literal_form: Bukhárá is compared to a meadow and the Amír to a cypress tree in
+    Rúdagí's song.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: Gold trays and baskets
+  literal_form: Four trays of gold kept by Khidr Khán and four baskets of gold received
+    by Rashídí.
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: Fuller's mallets
+  literal_form: Mallets beating clothes rhythmically, heard as the basis for discovering
+    prosody.
+  associated_figures:
+  - fig:8
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Nīzamī defines poetry and patronage
+  summary: Nīzamī presents poetry as an art of verbal transformation and comments
+    on which poets should receive patronage.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Rúdagí persuades the Amír to return
+  summary: Rúdagí is hired by courtiers to sing before Amír Nasr b. Ahmad; his song
+    praises Bukhárá and prompts the Amír to depart from Herāt immediately.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Poets rewarded by rulers
+  summary: Khidr Khán gives gold to successful poets, and Rashídí receives gold after
+    composing a satirical poetic reply.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Prosody discovered in rhythmic labor
+  summary: Khalil is said to discover prosody by hearing the rhythmic beats of a fuller's
+    mallets on clothes.
+  figure_refs:
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Conventional inheritance in Persian poetry
+  summary: The passage describes Persian poetry as preserving inherited metres, similes,
+    and subjects, including catalogues of bodily similes for erotic poetry.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Efficacious poetic speech alters royal action
+  taxonomy_refs: []
+  basis: Rúdagí's performed song causes the Amír to leave Herāt immediately for Bukhárá.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is a literary anecdote about court poetry rather than a mythic episode.
+- id: motif:2
+  label: Poet rewarded through royal patronage
+  taxonomy_refs: []
+  basis: The passage gives examples of poets receiving dinars, trays of gold, or baskets
+    of gold from rulers or courtiers.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The rewards are secular court patronage; no sacred exchange is stated.
+- id: motif:3
+  label: Technical wisdom discovered from natural or work rhythm
+  taxonomy_refs:
+  - wisdom
+  basis: Khalil is said to discover prosody by listening to rhythmic beats from fuller's
+    mallets.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage frames this as an anecdote about prosody, not as a mythic
+    revelation.
+- id: motif:4
+  label: Inherited poetic convention preserves old forms
+  taxonomy_refs:
+  - wisdom
+  basis: The passage says Persian poets conservatively follow old metres, similes,
+    and subjects and attend closely to words.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The taxonomy reference is broad; the passage concerns literary tradition
+    rather than explicit sacred wisdom.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 2319-2342
+  quote_or_summary: Nīzamī's Second Discourse discusses the nature and utility of
+    poetry, defines poetry as making things appear otherwise, criticizes unskilled
+    old poets, and supports promising young poets.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: 2344-2378
+  quote_or_summary: Rúdagí is paid by the Amír's captains and courtiers to persuade
+    him to leave Herāt; he sings with a harp using images of Oxus, Moon, sky, meadow,
+    and cypress; the Amír departs immediately and forgets his boots.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: 2380-2402
+  quote_or_summary: Khidr Khán keeps four trays of gold for poets; Rashídí composes
+    a satirical rejoinder to the Poet-Laureate's criticism and receives four baskets
+    of gold.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: 2404-2408
+  quote_or_summary: Khalil ibn i Ahmad i Bicrí is said to have discovered prosody
+    by listening to rhythmic beats of fuller's mallets on clothes.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: 2410-2416
+  quote_or_summary: The passage describes Persian poetry as conventional, preserving
+    old metres, similes, and subjects, and mentions a handbook of bodily similes for
+    erotic poetry.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif candidates are framed cautiously
+    because the passage is literary-critical and anecdotal, not an explicit mythic
+    narrative. No comparison claims are made because the passage does not itself support
+    a comparative mythology claim.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only supplied passage text and metadata were used. Earlier title labels in the locator were not treated as passage content because they do not appear in the supplied passage text.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-persian-mystics-rumi-davis-gutenberg__l2319-l2416
+  passage_sha256=0c83f102c24ec4ab66b2b94752dd87e578425e4530d90363d0f2a5d54f7acbfd

@@ -1,0 +1,298 @@
+---
+record_id: batch.motif.sufi-omar-khayyam-sufistic-quatrains-gutenberg-l2608-l2622
+source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+passage_locator:
+  label: XIII. / XVII. / XVIII. / XXII.; lines 2608-2622
+  start: '2608'
+  end: '2622'
+  translation: The Sufistic Quatrains of Omar Khayyam
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A quatrain says that beloved and excellent people have gone before the
+    speaker, figured as having drunk their cup earlier and then gone silently to rest.
+    An editorial note says the quatrain is inspired by C. 185, where sympathetic friends
+    leave one by one, sink at the foot of Death, and as cup-companions become drunk
+    before the speaker.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage refers to people loved by the speaker or group as 'the loveliest
+    and the best.'
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Those loved people are described as having drunk their cup before the speaker
+    or group and then silently gone to rest.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The source quatrain states that sympathetic friends have left the speaker
+    one by one.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The source quatrain says the friends have sunk low at the foot of Death.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The source quatrain describes the friends as cup-companions in a fellowship
+    of souls who became drunk before the speaker.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: An editorial note identifies C. 185 as the inspiration for the quatrain.
+  category: relationship
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: loved departed companions
+  description: People loved by the speaker or group; in the source quatrain, sympathetic
+    friends and cup-companions who have left one by one.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: speaker or first-person group
+  description: The voice that speaks of 'we loved' in the quatrain and 'me' in the
+    cited source quatrain.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Time
+  description: Personified or figurative Time associated with a vintage that has pressed
+    the loved people.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Death
+  description: Death is named in the phrase saying friends sank low at the foot of
+    Death.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: departed beloved or friends
+  assigned_to:
+  - fig:1
+  basis: They are described as loved people or sympathetic friends who have left and
+    gone to rest.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: cup-companions
+  assigned_to:
+  - fig:1
+  basis: The source quatrain explicitly calls the friends cup-companions in the fellowship
+    of souls.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: mourning or remembering speaker
+  assigned_to:
+  - fig:2
+  basis: The voice speaks of people 'we loved' and, in the source quatrain, of friends
+    who left 'me.'
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: time as pressing force
+  assigned_to:
+  - fig:3
+  basis: The quatrain says the loved ones were from Time's vintage that has been pressed.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: death boundary or destination
+  assigned_to:
+  - fig:4
+  basis: The source quatrain says the friends sank low at the foot of Death.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: cup
+  literal_form: A cup drunk by the departed before the speaker or group.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: vintage
+  literal_form: Time's vintage, described as rolling and pressed.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: drunkenness
+  literal_form: The friends become drunk before the speaker.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: foot of Death
+  literal_form: A location or image at Death's foot where the friends have sunk low.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: fellowship of souls
+  literal_form: The companionship setting in which the friends are cup-companions.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: departed companions drink before the speaker
+  summary: Loved companions are described as having drunk their cup before the speaker
+    or group and then gone one by one to rest or to the foot of Death.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: editorial linkage to source quatrain
+  summary: The passage states that the quatrain's inspiration is found in C. 185 and
+    then provides a parallel quatrain about departed cup-companions.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: departed companions precede the speaker into death
+  taxonomy_refs: []
+  basis: Both the quatrain and its cited source describe beloved friends or companions
+    leaving before the speaker, one by one, and entering rest or Death.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage emphasizes departure and death, but it does not describe rebirth
+    or a detailed afterlife journey.
+- id: motif:2
+  label: death figured as drinking from a cup
+  taxonomy_refs: []
+  basis: The loved companions are said to have drunk their cup before the speaker,
+    and the parallel source says the cup-companions became drunk before the speaker
+    while also having sunk at the foot of Death.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The cup and drunkenness imagery may be metaphorical, but the passage itself
+    does not explicitly define its symbolic meaning.
+- id: motif:3
+  label: fellowship of souls broken by death
+  taxonomy_refs: []
+  basis: The source quatrain calls the departed friends cup-companions in the fellowship
+    of souls and says they have left the speaker one by one.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The motif is inferred from the relationship and sequence described; no
+    formal taxonomy reference is supplied.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly links quatrain XXII with C. 185, and both present
+    friends or beloved companions as having gone before the speaker through cup and
+    drunkenness imagery associated with death.
+  claim_level: same_motif
+  target: C. 185 source quatrain cited in the passage
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim is limited to the relationship asserted within the passage
+    and the translated parallel lines supplied here; no external textual history is
+    used.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2608-2613, quatrain XXII
+  quote_or_summary: The quatrain says that some beloved and excellent people have
+    already drunk their cup and one by one silently gone to rest.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 2617-2621, cited C. 185 parallel
+  quote_or_summary: The cited source quatrain says the speaker's sympathetic friends
+    have left one by one, sunk at the foot of Death, and as cup-companions became
+    drunk before the speaker.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: quote
+  locator: line 2615
+  quote_or_summary: The inspiration for this quatrain is found in C. 185.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short quotation used as evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif labels are cautious because
+    the passage uses poetic images without explicitly explaining their symbolic meaning.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No taxonomy symbol IDs were assigned because the available symbol list does not include cup, wine, drunkenness, Time, or Death; no available motif family was a precise match for the observed death-and-companionship imagery.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-omar-khayyam-sufistic-quatrains-gutenberg__l2608-l2622
+  passage_sha256=d726a483283a341174dd95d4c642240589278123d193413044f05eeda50331e5

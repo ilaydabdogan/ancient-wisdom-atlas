@@ -1,0 +1,330 @@
+---
+record_id: batch.motif.sufi-persian-mystics-rumi-davis-gutenberg-l1162-l1177
+source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+passage_locator:
+  label: THE FINDING OF THE BELOVED / GOD ONLY / THE MOON-SOUL AND THE SEA / LIFE
+    IN DEATH; lines 1162-1177
+  start: '1162'
+  end: '1177'
+  translation: 'The Persian Mystics: Jalálu''d-dín Rúmí'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: Union and meeting are mine in that hour.
+  summary: The speaker instructs mourners not to treat death, burial, or apparent
+    setting as separation. The grave is described as a curtain before Paradise, descent
+    is followed by resurrection, and the soul's release leads to song beyond ordinary
+    place.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The speaker imagines his bier moving on the day of death and says his heart
+    is not in this world.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker tells the addressee not to weep or cry out that he is parted when
+    seeing the hearse.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The speaker states that union and meeting belong to him in the hour associated
+    with death.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The speaker tells the addressee not to say farewell when committing him to
+    the grave.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The grave is described as a curtain hiding the communion of Paradise.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage contrasts descent with resurrection.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The apparent setting of sun and moon is compared to rising.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: A vault that seems like a prison is described as the release of the soul.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The speaker commands silence on this side and opening beyond, where a triumphal
+    song will occur in placeless air.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: deceased speaker
+  description: First-person speaker whose bier, hearse, grave, heart, and soul are
+    discussed.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: addressee or mourner
+  description: Second-person addressee instructed not to weep, not to cry that the
+    speaker is parted, and not to say farewell.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: soul
+  description: The soul is described as released when the vault seems to be a prison.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: speaker facing death
+  assigned_to:
+  - fig:1
+  basis: The first-person voice refers to his bier, hearse, grave, and heart on the
+    day of death.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: mourning witness
+  assigned_to:
+  - fig:2
+  basis: The second-person addressee is told how not to respond when seeing the hearse
+    and committing the speaker to the grave.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: released soul
+  assigned_to:
+  - fig:3
+  basis: The passage says the apparent prison-like vault is the release of the soul.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: bier and hearse
+  literal_form: bier; hearse
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: grave as curtain
+  literal_form: grave; curtain hiding the communion of Paradise
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: descent and resurrection
+  literal_form: descent followed by resurrection
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: setting and rising of sun and moon
+  literal_form: sun and moon setting, understood as rising
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: vault as prison and release
+  literal_form: vault seeming a prison; release of the soul
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: placeless air and triumphal song
+  literal_form: placeless air; triumphal song
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: mourning reinterpreted as union
+  summary: The speaker imagines his funeral procession and tells the addressee not
+    to mourn separation because the hour is one of union and meeting for him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: burial reinterpreted as paradise and resurrection
+  summary: The act of committing the speaker to the grave is not to be called farewell,
+    because the grave is described as a curtain before Paradise and descent is followed
+    by resurrection.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: apparent setting as rising and release
+  summary: The passage explains that what appears as setting is rising, and what seems
+    a prison-like vault is the release of the soul.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: song beyond place
+  summary: The addressee is told to close the mouth on this side and open it beyond,
+    where a triumphal song will be in placeless air.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: life in death
+  taxonomy_refs:
+  - death_rebirth
+  basis: Death, burial, and apparent descent are presented as transition into union,
+    Paradise, resurrection, rising, and release of the soul.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage is mystical lyric rather than narrative myth; the motif is
+    expressed as spiritual instruction.
+- id: motif:2
+  label: resurrection after descent
+  taxonomy_refs:
+  - resurrection
+  basis: The passage explicitly instructs the hearer to consider resurrection after
+    beholding descent.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The text gives a compressed poetic statement, not an extended resurrection
+    narrative.
+- id: motif:3
+  label: union beyond death
+  taxonomy_refs:
+  - annihilation_union
+  - divine_beloved
+  basis: The speaker says that union and meeting are his in the hour of death and
+    associates the grave with the communion of Paradise.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The beloved or divine partner is not named in this excerpt; the taxonomy
+    link relies on the passage's language of union and the supplied Sufi source context.
+- id: motif:4
+  label: soul released from prison-like enclosure
+  taxonomy_refs: []
+  basis: The vault seems to be a prison but is described as the release of the soul.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: No available taxonomy reference directly names this image.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 1162-1164
+  quote_or_summary: '"When my bier moveth on the day of Death, / Think not my heart
+    is in this world."'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 1165-1168
+  quote_or_summary: The speaker says not to weep or cry "Parted, parted!" at the hearse,
+    because "Union and meeting are mine in that hour."
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 1169-1171
+  quote_or_summary: The speaker says not to say farewell at the grave, because the
+    grave is a curtain hiding Paradise's communion; after descent, consider resurrection.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; summarized with short quoted terms from public
+    domain source.
+- id: ev:4
+  type: quote
+  locator: lines 1172-1174
+  quote_or_summary: The speaker asks why setting should harm the sun and moon; what
+    seems setting is rising, and what seems a prison is release of the soul.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; summarized with short quoted terms from public
+    domain source.
+- id: ev:5
+  type: quote
+  locator: lines 1176-1177
+  quote_or_summary: '"Shut thy mouth on this side and open it beyond, / For in placeless
+    air will be thy triumphal song."'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif taxonomy assignment is cautious
+    because the passage is a short mystical lyric and does not provide an extended
+    narrative. No comparison claims were added because the passage itself does not
+    make an explicit cross-textual comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used. Available taxonomy references were applied only where directly supported by passage language or supplied source context.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-persian-mystics-rumi-davis-gutenberg__l1162-l1177
+  passage_sha256=3f6e2febcb3530d82eeb46015e1c9f96b4758c06f43baca816a23866897bcc3c

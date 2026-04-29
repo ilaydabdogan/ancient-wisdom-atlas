@@ -1,0 +1,325 @@
+---
+record_id: batch.motif.sufi-omar-khayyam-sufistic-quatrains-gutenberg-l1504-l1526
+source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+passage_locator:
+  label: LXIV. / LXVI. / LXVII. / LXVIII.; lines 1504-1526
+  start: '1504'
+  end: '1526'
+  translation: The Sufistic Quatrains of Omar Khayyam
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage first presents speaking vessels who notice a sought crescent
+    and react to the creaking of a porter’s shoulder-knot. It then turns to a request
+    that the speaker’s fading life and dead body be treated with grape and vine imagery,
+    buried near a garden, so that the buried ashes will send up perfume that overtakes
+    a passing true believer.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Multiple vessels are described as speaking one by one.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: One vessel sees the little Crescent that all were seeking.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The vessels jog one another and address one another as brothers.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: A Porter’s shoulder-knot is described as creaking.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: The speaker asks that the Grape provide for a fading life.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The speaker asks that the body, after life has died, be washed.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: The speaker asks to be wrapped in a winding-sheet of vine-leaf.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:8
+  text: The speaker asks to be buried by a sweet garden-side.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:9
+  text: The speaker says the buried ashes will cast perfume into the air.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:10
+  text: A true believer passing by will be overtaken unaware by the perfume-snare
+    from the ashes.
+  category: sequence
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Speaking Vessels
+  description: Vessels that speak one by one, seek the little Crescent, and address
+    one another as brothers.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: One vessel
+  description: One among the vessels who spies the little Crescent.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Porter
+  description: A porter associated with a creaking shoulder-knot.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Speaker
+  description: The first-person voice who asks for grape, washing, vine-leaf wrapping,
+    and burial by a garden-side.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:5
+  name_or_label: True Believer
+  description: A true believer passing by who is overtaken unaware by perfume from
+    the buried ashes.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: personified speakers
+  assigned_to:
+  - fig:1
+  basis: The vessels are said to speak, jog one another, and address each other as
+    brothers.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: discoverer of the crescent
+  assigned_to:
+  - fig:2
+  basis: One vessel spies the little Crescent that all were seeking.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: porter
+  assigned_to:
+  - fig:3
+  basis: The passage refers to the Porter’s creaking shoulder-knot.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: burial requester
+  assigned_to:
+  - fig:4
+  basis: The speaker requests grape, washing, vine-leaf wrapping, and garden-side
+    burial.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: passing believer affected by perfume
+  assigned_to:
+  - fig:5
+  basis: The true believer passing by is overtaken unaware by perfume from the buried
+    ashes.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: Vessels
+  literal_form: speaking vessels
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Little Crescent
+  literal_form: little Crescent sought by all the vessels
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Porter’s shoulder-knot
+  literal_form: creaking shoulder-knot
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: Grape
+  literal_form: Grape asked to provide for fading life
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: Vine-leaf winding-sheet
+  literal_form: winding-sheet of vine-leaf
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:6
+  label: Garden-side burial place
+  literal_form: sweet garden-side
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:7
+  label: Buried ashes and perfume
+  literal_form: buried ashes sending perfume into the air
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Speaking vessels and the crescent
+  summary: While the vessels speak one by one, one sees the little Crescent, and the
+    vessels alert one another to the creaking of the Porter’s shoulder-knot.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Requested grape and vine burial
+  summary: The speaker asks for the Grape to provide for fading life, for the dead
+    body to be washed, for wrapping in a vine-leaf winding-sheet, and for burial by
+    a sweet garden-side.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Perfume from buried ashes
+  summary: The speaker says the buried ashes will send a perfume-snare into the air
+    that overtakes any true believer passing by.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Personified vessels in dialogue
+  taxonomy_refs: []
+  basis: Vessels are represented as speaking, seeking, noticing, and addressing one
+    another.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage gives a brief symbolic vignette, but no broader narrative
+    context is supplied here.
+- id: motif:2
+  label: Death prepared through grape and vine imagery
+  taxonomy_refs:
+  - death_rebirth
+  basis: The speaker links fading life, washing of the dead body, vine-leaf burial
+    wrapping, and garden-side burial.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage describes death and burial with vegetal imagery; it does not
+    explicitly state rebirth.
+- id: motif:3
+  label: Posthumous fragrance affecting the passerby
+  taxonomy_refs: []
+  basis: The buried ashes are said to send perfume into the air, overtaking a passing
+    true believer unaware.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The cause and religious meaning of the fragrance are not explained within
+    the provided passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: LXVI, lines 1504-1510
+  quote_or_summary: Vessels speak one by one; one sees the little Crescent all were
+    seeking; they jog one another as brothers and refer to the Porter’s creaking shoulder-knot.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:2
+  type: summary
+  locator: LXVII, lines 1514-1520
+  quote_or_summary: The speaker asks that the Grape provide for fading life, that
+    the dead body be washed, wrapped in a vine-leaf winding-sheet, and buried by a
+    sweet garden-side.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:3
+  type: summary
+  locator: LXVIII, lines 1522-1526
+  quote_or_summary: The speaker says the buried ashes will send perfume into the air
+    as a snare, so that a true believer passing by will be overtaken unaware.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized rather than quoted.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward from the supplied English passage.
+    Motif labels are cautious because the excerpt provides symbolic imagery without
+    explanatory context. No comparison claims were added because the passage itself
+    does not explicitly support a comparison to another text or tradition.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage text and metadata. Available taxonomy references were applied only where directly supportable and with caution.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-omar-khayyam-sufistic-quatrains-gutenberg__l1504-l1526
+  passage_sha256=98173897e5ed10ef3a060fe04b148f9a88fa2de25a45ca47d5b3fbaa2cf2865b

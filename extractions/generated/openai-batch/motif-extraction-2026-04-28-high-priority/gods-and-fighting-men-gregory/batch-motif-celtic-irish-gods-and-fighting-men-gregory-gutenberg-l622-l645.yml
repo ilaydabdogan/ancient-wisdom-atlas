@@ -1,0 +1,240 @@
+---
+record_id: batch.motif.celtic-irish-gods-and-fighting-men-gregory-gutenberg-l622-l645
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+passage_locator:
+  label: Book VIII. Cnoc-an-Air / Book IX. The Wearing Away of the Fianna / Book X.
+    The End of the Fianna / Book XI. Oisin and Patrick; lines 622-645
+  start: '622'
+  end: '645'
+  translation: Gods and Fighting Men
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: Book IX. The Wearing Away of the Fianna ... Book X. The End of the Fianna
+  summary: A contents-style passage lists Books VIII through XI and their chapter
+    titles, including Cnoc-an-Air, the wearing away and end of the Fianna, and Oisin
+    and Patrick.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage is organized as a list of book titles and chapter titles.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Book VIII is titled Cnoc-an-Air and lists chapters named Tailc, Son of Treon;
+    Meargach's Wife; and Ailne's Revenge.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Book IX is titled The Wearing Away of the Fianna and lists chapters on the
+    quarrel with the Sons of Morna, the death of Goll, and the Battle of Gabhra.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Book X is titled The End of the Fianna and lists chapters on the death of
+    Bran, the call of Oisin, and the last of the great men.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Book XI is titled Oisin and Patrick and lists chapters on Oisin's story, Oisin
+    in Patrick's house, the arguments, and Oisin's laments.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Fianna
+  description: A collective named in the book titles The Wearing Away of the Fianna
+    and The End of the Fianna.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Tailc, Son of Treon
+  description: A named chapter subject in Book VIII.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Meargach's Wife
+  description: A chapter subject identified by relationship to Meargach.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Ailne
+  description: A named figure in the chapter title Ailne's Revenge.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Sons of Morna
+  description: A collective named in the chapter title The Quarrel with the Sons of
+    Morna.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Goll
+  description: A named figure in the chapter title Death of Goll.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: Bran
+  description: A named figure in the chapter title Death of Bran.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:8
+  name_or_label: Oisin
+  description: A named figure in Book XI and in chapter titles concerning his call,
+    story, presence in Patrick's house, and laments.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:9
+  name_or_label: Patrick
+  description: A named figure in the book title Oisin and Patrick and in the chapter
+    title Oisin in Patrick's House.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+- id: fig:10
+  name_or_label: Great Men
+  description: A collective named in the chapter title The Last of the Great Men.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: collective subject of decline or ending
+  assigned_to:
+  - fig:1
+  basis: The Fianna are named in titles about wearing away and ending.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:2
+  label: named chapter subject
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:8
+  - fig:9
+  - fig:10
+  basis: These figures or collectives appear in chapter or book titles without further
+    narrative detail in this passage.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:3
+  label: named death subject
+  assigned_to:
+  - fig:6
+  - fig:7
+  basis: Goll and Bran are each named in a chapter title beginning with Death of.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols: []
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: decline and end of a heroic company
+  taxonomy_refs: []
+  basis: The contents headings name The Wearing Away of the Fianna and The End of
+    the Fianna, indicating a thematic sequence of decline and termination for the
+    Fianna.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage is a table of contents, not a narrative episode; details of
+    the motif are not present here.
+- id: motif:2
+  label: death of named companions or heroes
+  taxonomy_refs: []
+  basis: The headings include Death of Goll and Death of Bran.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: Only chapter titles are provided, so no circumstances or symbolic function
+    of the deaths can be extracted.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 622-645
+  quote_or_summary: The passage lists Books VIII-XI with chapter titles in a contents
+    format.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source; concise summary.
+- id: ev:2
+  type: quote
+  locator: lines 622-628
+  quote_or_summary: Book VIII. Cnoc-an-Air; chapters include Tailc, Son of Treon,
+    Meargach's Wife, and Ailne's Revenge.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source; brief excerpted title material.
+- id: ev:3
+  type: quote
+  locator: lines 630-635
+  quote_or_summary: Book IX. The Wearing Away of the Fianna; chapters include The
+    Quarrel with the Sons of Morna, Death of Goll, and The Battle of Gabhra.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source; brief excerpted title material.
+- id: ev:4
+  type: quote
+  locator: lines 637-642
+  quote_or_summary: Book X. The End of the Fianna; chapters include Death of Bran,
+    The Call of Oisin, and The Last of the Great Men.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source; brief excerpted title material.
+- id: ev:5
+  type: quote
+  locator: lines 644-645
+  quote_or_summary: Book XI. Oisin and Patrick; chapters include Oisin's Story, Oisin
+    in Patrick's House, The Arguments, and Oisin's Laments.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source; brief excerpted title material.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is limited because the passage is a table of contents rather than
+    narrative prose. Motif candidates are based only on explicit headings.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No taxonomy symbol references or comparison claims were added because the passage provides only headings and does not support symbolic or comparative interpretation.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:celtic-irish-gods-and-fighting-men-gregory-gutenberg__l622-l645
+  passage_sha256=c3f38a497475a180080f464bc81a5c35af440ca93ce82c6af606652a91ddbb22

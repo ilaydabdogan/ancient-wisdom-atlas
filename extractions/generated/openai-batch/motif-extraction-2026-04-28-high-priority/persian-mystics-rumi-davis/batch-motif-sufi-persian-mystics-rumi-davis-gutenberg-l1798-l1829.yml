@@ -1,0 +1,344 @@
+---
+record_id: batch.motif.sufi-persian-mystics-rumi-davis-gutenberg-l1798-l1829
+source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+passage_locator:
+  label: 'THE LOVE OF THE SOUL AND THE LOVE OF THE BODY / DESTROY NOT EARTHLY BEAUTY:
+    IT BEAUTIFIES THE SOUL / THE DEVIL MAKES USE OF THE BEAUTY OF WOMEN / SELF-AGGRANDISEMENT
+    AND VAINGLORY NO PART OF LOVE; lines 1798-1829'
+  start: '1798'
+  end: '1829'
+  translation: 'The Persian Mystics: Jalálu''d-dín Rúmí'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: '"I am thine, and thou art Mine!"'
+  summary: A lover admitted to his mistress reads sonnets about her and his love instead
+    of embracing her. She rebukes him for loving his own emotional expressions rather
+    than her. The passage then states that eternal life comes through abandoning one's
+    own life, and that when God appears to the ardent lover the lover is absorbed
+    in Him, like shadows vanishing in the sun.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A lover is admitted to the presence of his mistress.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Instead of embracing the mistress, the lover takes out a paper of sonnets
+    and reads them to her.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The mistress says the lover's sighs and invocations are a waste of time while
+    he is in her presence.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The mistress says the lover appears to love his own effusions and ecstatic
+    raptures rather than her.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The mistress uses the image of longed-for water being present yet withheld.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The mistress contrasts being in Bulgaria with the object of love being in
+    Cathay.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The mistress says a truly loved one is the single object of the lover's desires,
+    named as the Alpha and Omega of those desires.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The passage states that eternal life is gained by utter abandonment of one's
+    own life.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The passage states that when God appears to His ardent lover, the lover is
+    absorbed in Him and no part of the lover remains.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: True lovers are compared to shadows that vanish when the sun shines in glory.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: God speaks to the true lover with the words, "I am thine, and thou art Mine!"
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: lover
+  description: A lover admitted to his mistress's presence who reads sonnets instead
+    of embracing her.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: mistress
+  description: The beloved woman who rebukes the lover for loving his own emotional
+    expressions rather than her.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: God
+  description: The divine figure who appears to His ardent lover and speaks to the
+    true lover.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: ardent lover / true lover to God
+  description: The lover who is absorbed in God and to whom God says, "I am thine,
+    and thou art Mine!"
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: self-focused lover
+  assigned_to:
+  - fig:1
+  basis: He reads his own sonnets and is accused of loving his own effusions and raptures
+    rather than the mistress.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: admonishing beloved
+  assigned_to:
+  - fig:2
+  basis: She explains that the lover's behavior wastes the opportunity of her presence
+    and reveals misplaced affection.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:3
+  label: divine beloved
+  assigned_to:
+  - fig:3
+  basis: God appears to the ardent lover, absorbs the lover in Himself, and declares
+    mutual belonging.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:4
+  label: absorbed lover
+  assigned_to:
+  - fig:4
+  basis: The true lover abandons self-life and is absorbed in God so completely that
+    nothing of the lover remains.
+  evidence_refs:
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: paper of sonnets
+  literal_form: paper of sonnets read by the lover
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: longed-for water
+  literal_form: water desired but withheld despite being present
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: distant places
+  literal_form: Bulgaria and Cathay used as distant locations in the mistress's speech
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: Alpha and Omega
+  literal_form: the beginning and end of the lover's desires
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: sun and vanishing shadows
+  literal_form: true lovers as shadows that vanish when the sun shines in glory
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: lover reads sonnets in the mistress's presence
+  summary: A lover is admitted to his mistress but reads a paper of sonnets describing
+    her and his own love instead of embracing her.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: mistress rebukes misplaced love
+  summary: The mistress tells the lover that his devotional performances waste time
+    and show that he loves his own raptures rather than her; she uses images of withheld
+    water, distant places, and a single beloved as Alpha and Omega.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: absorbed lover of God
+  summary: The passage states that eternal life comes through abandoning one's own
+    life; when God appears, the ardent lover is absorbed in Him, like a shadow vanishing
+    in sunlight, and God declares mutual belonging.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: self-abandonment leading to divine absorption
+  taxonomy_refs:
+  - annihilation_union
+  basis: The passage says eternal life is gained by abandoning one's own life and
+    that the ardent lover is absorbed in God until nothing remains of the lover.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage is devotional and metaphorical; the extraction does not specify
+    a technical doctrinal term beyond the supplied motif family.
+- id: motif:2
+  label: God as beloved who claims mutual belonging
+  taxonomy_refs:
+  - divine_beloved
+  basis: The lover-mistress parable is followed by a statement about the true lover
+    to God, to whom God says, "I am thine, and thou art Mine!"
+  evidence_refs:
+  - ev:2
+  - ev:6
+  confidence: high
+  cautions: The human mistress scene functions as an analogy within the passage, but
+    the exact relation between parable and theology should be reviewed.
+- id: motif:3
+  label: false love of one's own devotional display
+  taxonomy_refs: []
+  basis: The mistress accuses the lover of loving his own effusions and ecstatic raptures
+    instead of the beloved present before him.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: No supplied taxonomy reference directly matches this ethical or devotional
+    pattern.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1798-1803
+  quote_or_summary: A lover is admitted to his mistress but, instead of embracing
+    her, pulls out a paper of sonnets and reads descriptions of her charms and his
+    love.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1804-1811
+  quote_or_summary: The mistress says that sighs and invocations are a waste of time
+    in her presence and that he seems to love his own effusions and ecstatic raptures
+    rather than her.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 1812-1815
+  quote_or_summary: The mistress says she sees longed-for water before her but it
+    is withheld, and compares herself being in Bulgaria while the object of the lover's
+    love is in Cathay.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 1816-1821
+  quote_or_summary: The mistress says the truly loved one is the single object of
+    the lover, the Alpha and Omega of his desires, unlike one wrapped up in his own
+    amorous raptures.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 1823-1827
+  quote_or_summary: Eternal life is gained by abandonment of one's own life; when
+    God appears to His ardent lover, the lover is absorbed in Him and not even a hair
+    of the lover remains.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: quote
+  locator: lines 1827-1829
+  quote_or_summary: True lovers are compared to shadows vanishing in the sun; God
+    says to the true lover, "I am thine, and thou art Mine!"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; brief quotation from public domain text.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward from the supplied passage. Motif labels
+    use only supplied taxonomy references where directly supported. No cross-text
+    comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-persian-mystics-rumi-davis-gutenberg__l1798-l1829
+  passage_sha256=d80e21e975a1e9d8bb291d9b683cf241b84ad9dd67207f26ca3f356fc6fc5f38

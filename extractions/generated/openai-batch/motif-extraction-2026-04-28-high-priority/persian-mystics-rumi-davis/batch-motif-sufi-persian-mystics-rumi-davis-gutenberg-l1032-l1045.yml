@@ -1,0 +1,231 @@
+---
+record_id: batch.motif.sufi-persian-mystics-rumi-davis-gutenberg-l1032-l1045
+source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+passage_locator:
+  label: REMEMBER GOD AND FORGET SELF / MORTALITY AND IMMORTALITY / THE BELOVED THE
+    DIVINE CONSOLER / THE SEA OF LOVE; lines 1032-1045
+  start: '1032'
+  end: '1045'
+  translation: 'The Persian Mystics: Jalálu''d-dín Rúmí'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: Mankind, like waterfowl, are sprung from the sea--the Sea of Soul;
+  summary: The passage describes humankind as waterfowl and pearls arising from and
+    abiding in the Sea of Soul. It announces the time of Union, Eternity's beauty,
+    favour, purity, the arrival of a sea-billow and thunder, and a dawn identified
+    as the Light of God.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Mankind is compared to waterfowl sprung from the Sea of Soul.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage asks why the bird, having risen from the Sea, should make its
+    home here.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The speakers are described as pearls in the Sea, where they all abide.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Wave follows wave from the Sea of Soul.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: The passage declares a time of Union's attainment, Eternity's beauty, favour,
+    largesse, and perfect purity.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: A billow of largesse appears, the thunder of the Sea arrives, and a blessed
+    morn dawns, which is identified as the Light of God.
+  category: sequence
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Mankind / we
+  description: Humankind, described as waterfowl, a bird, and pearls in relation to
+    the Sea of Soul.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: God
+  description: Named in the phrase identifying the blessed dawn as the Light of God.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: sea-born beings abiding in the Sea of Soul
+  assigned_to:
+  - fig:1
+  basis: Mankind is said to be sprung from the Sea of Soul and also to abide in it
+    as pearls.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: source associated with divine light
+  assigned_to:
+  - fig:2
+  basis: The blessed morn is corrected or intensified as the Light of God.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: Sea of Soul
+  literal_form: sea / ocean / water
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: waterfowl / bird
+  literal_form: waterfowl and bird imagery applied to mankind
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: pearls
+  literal_form: pearls in the Sea
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: waves and billow
+  literal_form: wave following wave; billow of largesse
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:5
+  label: dawn and Light of God
+  literal_form: blessed morn and divine light
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Origin and abiding in the Sea of Soul
+  summary: Humankind is imaged as waterfowl risen from the Sea of Soul and as pearls
+    abiding within that Sea, while waves proceed from it.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Union and divine dawn
+  summary: The passage announces the time of Union, eternity, favour, purity, a billow
+    and thunder of the Sea, and a dawn identified as the Light of God.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Union with divine or spiritual source
+  taxonomy_refs:
+  - annihilation_union
+  basis: The passage explicitly names the time of Union's attainment and describes
+    humans as arising from and abiding in the Sea of Soul.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage uses lyric imagery rather than doctrinal exposition; 'annihilation'
+    is not named in this excerpt.
+- id: motif:2
+  label: Return or non-attachment to earthly home after arising from the source
+  taxonomy_refs:
+  - return
+  basis: The bird is said to have risen from the Sea, and the passage asks why it
+    should make its home here.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage poses the return implication through a rhetorical question;
+    no explicit journey back is narrated.
+- id: motif:3
+  label: Divine illumination as dawn
+  taxonomy_refs: []
+  basis: A blessed morn dawns and is identified as the Light of God.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: No available taxonomy reference directly matches dawn or light imagery.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1032-1035
+  quote_or_summary: Mankind is likened to waterfowl sprung from the Sea of Soul; the
+    bird has risen from that Sea; humans are pearls abiding in it; waves follow from
+    it.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 1036-1039
+  quote_or_summary: The passage announces the time of Union's attainment, Eternity's
+    beauty, favour, largesse, and the Ocean of perfect purity.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 1040-1045
+  quote_or_summary: A billow of largesse appears, thunder of the Sea arrives, a blessed
+    morn dawns, and the morn is identified as the Light of God.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal imagery is clear. Motif assignment is strongest for union with a
+    spiritual source; other motif labels are interpretive and should be reviewed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata. No external comparisons added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-persian-mystics-rumi-davis-gutenberg__l1032-l1045
+  passage_sha256=6ca392189a7f113abdc4f8cb011c71f6c81049cc2217a8fc418d878e9f258ead

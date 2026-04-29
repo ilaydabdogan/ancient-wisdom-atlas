@@ -1,0 +1,387 @@
+---
+record_id: batch.motif.sufi-omar-khayyam-sufistic-quatrains-gutenberg-l2660-l2700
+source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+passage_locator:
+  label: XVIII. / XXII. / XXIII. / XXIV.; lines 2660-2700
+  start: '2660'
+  end: '2700'
+  translation: The Sufistic Quatrains of Omar Khayyam
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage presents quatrain XXIV, urging enjoyment before descent into
+    dust and the deprivation of wine, song, and companionship after death; it then
+    cites two related quatrains advising against sorrow and urging wine before burial.
+    Quatrain XXV contrasts people absorbed in present or future concerns and introduces
+    a muezzin calling from darkness that the reward or road is neither here nor there;
+    a cited parallel similarly contrasts doctrine, faith, doubt, and certainty before
+    the muezzin's cry.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The speaker urges making the most of what remains before descending into dust.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The dead are described as lying under dust without wine, song, singer, or
+    end.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A cited source advises the addressee not to let sorrow or idle grief occupy
+    the days.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The cited source tells the addressee not to forsake the book, the lover's
+    lips, and the green bank of the field before earth enfolds the person.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Another cited source says to drink wine because the addressee will sleep long
+    beneath the clay without intimate companions.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Quatrain XXV contrasts those preparing for today with those looking toward
+    tomorrow.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: A muezzin cries from the Tower of Darkness, addressing people as fools and
+    saying their reward is neither here nor there.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The cited parallel contrasts people immersed in doctrine and faith with others
+    between doubt and certainty.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: In the cited parallel, a muezzin cries from a lurking place that the road
+    is neither here nor there.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: speaker of quatrain XXIV
+  description: An implied poetic speaker who urges making the most of what remains
+    before death.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: mortals addressed as we or thou
+  description: Human addressees who will descend into dust, be enfolded by earth,
+    or sleep beneath clay.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: muezzin
+  description: A caller who cries from the Tower of Darkness or from a lurking place.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: fools
+  description: People addressed by the muezzin as fools in the statements that the
+    reward or road is neither here nor there.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: people divided by present and future, doctrine and doubt
+  description: Groups described as preparing for today, staring after tomorrow, immersed
+    in doctrine and faith, or standing between doubt and certainty.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: admonishing speaker
+  assigned_to:
+  - fig:1
+  basis: The poetic voice exhorts the audience to make use of remaining time before
+    death.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: mortal addressee
+  assigned_to:
+  - fig:2
+  basis: The addressees are described as destined for dust, earth, or clay.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:3
+  label: crier or religious caller
+  assigned_to:
+  - fig:3
+  basis: The figure is explicitly named a muezzin and is said to cry out.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:4
+  label: rebuked audience
+  assigned_to:
+  - fig:4
+  basis: The muezzin addresses them as fools and delivers a corrective statement.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:5
+  label: divided seekers or disputants
+  assigned_to:
+  - fig:5
+  basis: The passage contrasts groups oriented toward today, tomorrow, doctrine, faith,
+    doubt, and certainty.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: dust and clay
+  literal_form: dust, earth, clay
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: wine
+  literal_form: wine
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:3
+  label: song and singer
+  literal_form: song and singer
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: book, lover's lips, and green bank
+  literal_form: book; lover's lips; green bank of the field
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: Tower of Darkness
+  literal_form: Tower of Darkness
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: road neither here nor there
+  literal_form: road
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: exhortation before descent into dust
+  summary: The speaker urges the audience to use remaining time before death, described
+    as descent into dust and lying under dust without wine, song, or singer.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: cited counsel against sorrow before burial
+  summary: A cited related quatrain tells the addressee not to be occupied by sorrow
+    and not to abandon book, lover, and field before earth enfolds the person.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: cited counsel to drink before sleep beneath clay
+  summary: A cited related quatrain tells the addressee to drink wine because a long
+    sleep beneath clay will lack intimate companions.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: muezzin's rebuke from darkness
+  summary: Groups oriented toward today or tomorrow are addressed by a muezzin from
+    the Tower of Darkness, who says their reward is neither here nor there.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: cited muezzin's cry amid doctrine and doubt
+  summary: A cited parallel describes people divided between doctrine, faith, doubt,
+    and certainty before a muezzin cries that the road is neither here nor there.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: enjoyment before death and burial
+  taxonomy_refs: []
+  basis: Several lines advise making use of present life, drinking wine, and not abandoning
+    pleasures before descent into dust, earth, or clay.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The available taxonomy list has no direct carpe diem or memento mori category;
+    no taxonomy reference is assigned.
+- id: motif:2
+  label: earth or dust as final enclosure of the body
+  taxonomy_refs: []
+  basis: The passage repeatedly describes death as descent into dust, being enfolded
+    by earth, or sleeping beneath clay.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is a literal burial/death image in the passage, not evidence here
+    for a full death-and-rebirth cycle.
+- id: motif:3
+  label: authoritative cry declaring human striving misplaced
+  taxonomy_refs:
+  - wisdom
+  basis: The muezzin's cry rebukes those oriented toward present, future, doctrine,
+    faith, doubt, or certainty and declares that the reward or road is neither here
+    nor there.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The taxonomy link to wisdom is broad; the passage offers admonition rather
+    than an explicit wisdom teacher narrative.
+- id: motif:4
+  label: liminal road or reward denied to opposing positions
+  taxonomy_refs:
+  - duality
+  basis: The passage contrasts opposing orientations such as today and tomorrow, or
+    doubt and certainty, and denies that the answer lies in either place.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The duality reference is based on structural opposition in the passage,
+    not on a named mythic pair or cosmological dualism.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2660-2665; quatrain XXIV
+  quote_or_summary: The speaker urges making the most of what remains before descending
+    into dust and lying under dust without wine, song, or singer.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source metadata; summarized rather than extensively quoted.
+- id: ev:2
+  type: summary
+  locator: lines 2667-2675; inspiration O. 76
+  quote_or_summary: A cited quatrain advises against sorrow and idle grief and says
+    not to forsake the book, the lover's lips, and the green bank before earth enfolds
+    the person.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source metadata; summarized rather than extensively quoted.
+- id: ev:3
+  type: summary
+  locator: lines 2679-2684; inspiration O. 35
+  quote_or_summary: A cited quatrain tells the addressee to drink wine because there
+    will be a long sleep beneath clay without intimate, friend, comrade, or mate.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source metadata; summarized rather than extensively quoted.
+- id: ev:4
+  type: summary
+  locator: lines 2686-2692; quatrain XXV
+  quote_or_summary: Those preparing for today and those looking toward tomorrow are
+    alike; a muezzin from the Tower of Darkness cries that their reward is neither
+    here nor there.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source metadata; summarized rather than extensively quoted.
+- id: ev:5
+  type: summary
+  locator: lines 2694-2700; inspiration C. 396
+  quote_or_summary: A cited parallel describes some immersed in doctrine and faith
+    and others between doubt and certainty; a muezzin cries that the road is neither
+    here nor there.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source metadata; summarized rather than extensively quoted.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward from the supplied passage. Motif labels
+    are passage-level and cautious; taxonomy assignments are limited because available
+    categories do not directly include carpe diem, memento mori, wine, dust, or burial
+    imagery. No comparison claims are made because the passage does not itself support
+    a comparative claim beyond its cited internal parallels.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only supplied passage text and metadata. The supplied passage locator label appears inconsistent with the passage text, which contains quatrains XXIV and XXV; this was noted without altering the requested record id or locator.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-omar-khayyam-sufistic-quatrains-gutenberg__l2660-l2700
+  passage_sha256=07dd01344fdb4e39f0599c4a9fc6ef3f1afee8bc7e20ec25a083deae51b67859

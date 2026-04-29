@@ -1,0 +1,282 @@
+---
+record_id: batch.motif.sufi-omar-khayyam-sufistic-quatrains-gutenberg-l2959-l2974
+source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+passage_locator:
+  label: XXXII. / XXXIV. / XXXV. / XXXVI.; lines 2959-2974
+  start: '2959'
+  end: '2974'
+  translation: The Sufistic Quatrains of Omar Khayyam
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: This jug was once a plaintive lover, as I am,
+  summary: The quatrain imagines a vessel as something that once lived, drank, and
+    could exchange kisses. A cited inspiration states that a jug was once a plaintive
+    lover pursuing a beautiful face, and that its handle was once an arm around a
+    friend's neck.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The speaker thinks the vessel once lived and drank.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker kisses the vessel's passive lip and wonders how many kisses it
+    may have taken and given.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The cited inspiration says the jug was once a plaintive lover like the speaker.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The cited inspiration says the jug pursued one of comely face.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The cited inspiration identifies the jug's handle as an arm that once lay
+    around the neck of a friend.
+  category: relationship
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: speaker
+  description: The first-person voice who thinks about and kisses the vessel, and
+    is compared to a plaintive lover in the cited inspiration.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: vessel or jug
+  description: A vessel or jug imagined as once living, drinking, loving, pursuing,
+    kissing, and embracing.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: one of comely face
+  description: The person pursued by the jug when it was a plaintive lover, according
+    to the cited inspiration.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: friend
+  description: The friend whose neck was once encircled by the arm now seen as the
+    jug's handle.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: first-person speaker
+  assigned_to:
+  - fig:1
+  basis: 'The passage uses first-person speech: the speaker thinks about the vessel
+    and kisses it.'
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: animate or formerly living object
+  assigned_to:
+  - fig:2
+  basis: The vessel is said to have once lived and drunk; the jug is said to have
+    once been a lover.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: plaintive lover
+  assigned_to:
+  - fig:2
+  basis: The inspiration states that the jug was once a plaintive lover.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: beloved or pursued person
+  assigned_to:
+  - fig:3
+  basis: The inspiration says the former lover pursued one of comely face.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: embraced friend
+  assigned_to:
+  - fig:4
+  basis: The jug's handle is identified as an arm that once lay around the neck of
+    a friend.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: vessel or jug
+  literal_form: Vessel; jug
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: lip of the vessel
+  literal_form: passive Lip
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: handle as arm
+  literal_form: handle upon the jug's neck identified as an arm
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: kisses
+  literal_form: kisses taken and given
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: speaker addresses the vessel's former life
+  summary: The speaker imagines the vessel as once alive, capable of drinking and
+    exchanging kisses, and kisses its lip.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: 'cited inspiration: jug as former lover'
+  summary: The cited inspiration presents the jug as once a plaintive lover pursuing
+    a beautiful person, with its present handle interpreted as a former arm around
+    a friend's neck.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: vessel imagined as a former living lover
+  taxonomy_refs: []
+  basis: Both the quatrain and the cited inspiration describe a vessel or jug as something
+    that once lived or was a lover.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: No supplied taxonomy reference precisely matches this object-as-former-lover
+    motif.
+- id: motif:2
+  label: object body part preserves former human gesture
+  taxonomy_refs: []
+  basis: The jug's handle is interpreted as an arm that once embraced a friend's neck.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage gives a poetic identification, not an explicit narrative of
+    transformation.
+- id: motif:3
+  label: kissed vessel associated with reciprocal past kisses
+  taxonomy_refs: []
+  basis: The speaker kisses the vessel's lip and imagines the kisses it may have taken
+    and given.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: This is a lyrical conceit within the quatrain rather than a developed
+    narrative motif.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself states that the inspiration for the quatrain occurs in
+    O. 9, and the included O. 9 excerpt shares the image of a jug or vessel imagined
+    as formerly living or loving.
+  claim_level: same_motif
+  target: O. 9 as cited in the passage
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is limited to the excerpt and citation supplied in the
+    passage; no external textual history is used.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 2959-2964; XXXVI
+  quote_or_summary: The speaker thinks the vessel once lived and drank, kisses its
+    passive lip, and asks how many kisses it might take and give.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:2
+  type: quote
+  locator: lines 2968-2970; cited O. 9 excerpt
+  quote_or_summary: '"This jug was once a plaintive lover, as I am, / And was in pursuit
+    of one of comely face"'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short quotation from provided passage.
+- id: ev:3
+  type: quote
+  locator: lines 2971-2972; cited O. 9 excerpt
+  quote_or_summary: The handle seen upon the jug's neck is described as an arm that
+    once lay around the neck of a friend.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:4
+  type: quote
+  locator: line 2966
+  quote_or_summary: '"The inspiration for this quatrain occurs in O. 9."'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short quotation from provided passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif labels are descriptive because
+    the supplied taxonomy does not include an exact match for a former human or lover
+    embodied as a jug.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the provided passage and metadata. No external taxonomy IDs or comparisons were added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-omar-khayyam-sufistic-quatrains-gutenberg__l2959-l2974
+  passage_sha256=6e99457c2af28d4cbd91720bb6912c4e207560fbdf18b38f903ee3865472b82d

@@ -1,0 +1,177 @@
+---
+record_id: batch.motif.sufi-persian-mystics-rumi-davis-gutenberg-l1066-l1079
+source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+passage_locator:
+  label: THE BELOVED THE DIVINE CONSOLER / THE SEA OF LOVE / THE BEAUTY OF THE BELOVED
+    / THE WATER OF ETERNAL LIFE; lines 1066-1079
+  start: '1066'
+  end: '1079'
+  translation: 'The Persian Mystics: Jalálu''d-dín Rúmí'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage teaches that visible forms and heard sayings have an everlasting
+    archetype or Original in a placeless world. It compares the Soul to an undying
+    fountain whose rivers are created things, and urges the hearer to put away grief
+    and drink from the endless Water.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Visible forms are said to have archetypes in a placeless world.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The perishing of a form is contrasted with an everlasting Original.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Fair shapes and deep sayings are described as not truly lost despite appearing
+    to perish.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: An undying spring-head is said to provide water continually through its branch.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Soul is compared to a fountain, and created things are compared to rivers
+    running from it.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The addressee is instructed to put away grief and continue drinking river-water
+    because the Water has no end.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures: []
+roles: []
+symbols:
+- id: sym:1
+  label: Water without end
+  literal_form: Water, River-water, rivers, fountain, and spring-head
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: Everlasting Original
+  literal_form: Original and archetype in the placeless world
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Fountain of Soul
+  literal_form: Soul conceived as a fountain
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Teaching on imperishable source and endless water
+  summary: The speaker presents visible forms as dependent on an everlasting Original
+    and uses water imagery to describe the Soul as a fountain that continually supplies
+    created things like rivers.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Endless life-giving water from an undying source
+  taxonomy_refs: []
+  basis: The passage names the Water of Eternal Life and describes an undying spring-head,
+    a fountain-like Soul, rivers, and Water that is without end.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The available motif-family list has no exact water-of-life category; only
+    the symbol taxonomy supports water.
+- id: motif:2
+  label: Imperishable archetype behind perishing forms
+  taxonomy_refs:
+  - wisdom
+  basis: The passage states that forms may perish while their archetype or Original
+    remains everlasting, and uses this teaching to counsel against grief.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The mapping to the broad wisdom motif family is interpretive and should
+    be reviewed.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1066-1069
+  quote_or_summary: The passage says every seen form has an archetype in the placeless
+    world, and that the Original is everlasting even if the form perishes.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:2
+  type: summary
+  locator: lines 1070-1071
+  quote_or_summary: Fair shapes and deep sayings are presented as not truly lost,
+    even when they seem to have perished.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:3
+  type: summary
+  locator: lines 1072-1074
+  quote_or_summary: An undying spring-head and its branch are described as continually
+    giving water, so lamentation is questioned.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:4
+  type: summary
+  locator: lines 1075-1077
+  quote_or_summary: The Soul is conceived as a fountain, created things as rivers,
+    and the rivers run while the Fountain flows.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:5
+  type: summary
+  locator: lines 1078-1079
+  quote_or_summary: The addressee is told to abandon grief, keep drinking the River-water,
+    and not fear that the Water will fail because it is endless.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; summary supplied.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal imagery and teaching are clear. Motif-family alignment is limited
+    because the available taxonomy lacks an exact water-of-life motif family.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata; no comparison claims added because the passage does not itself support a specific cross-textual comparison.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-persian-mystics-rumi-davis-gutenberg__l1066-l1079
+  passage_sha256=3cd9d5aaa887054715a91133b1f842ff1f6b590503dee0c1fd38e1d85ddf09d6

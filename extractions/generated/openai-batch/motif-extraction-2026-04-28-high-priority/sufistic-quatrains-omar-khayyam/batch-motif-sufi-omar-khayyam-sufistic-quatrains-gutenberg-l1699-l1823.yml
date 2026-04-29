@@ -1,0 +1,600 @@
+---
+record_id: batch.motif.sufi-omar-khayyam-sufistic-quatrains-gutenberg-l1699-l1823
+source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+passage_locator:
+  label: LXXIV. / LXXV. / TAMAM SHUD. / NOTES.; lines 1699-1823
+  start: '1699'
+  end: '1823'
+  translation: The Sufistic Quatrains of Omar Khayyam
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The notes discuss wine poured on the ground before drinking, possible libation
+    to Earth, Omar and Hafiz on wine reaching the dead, an Oriental legend of Azrael
+    using an apple from the Tree of Life, mathematical compass imagery paralleled
+    by Donne, a magic-lantern image, the widespread potter-and-clay relation of maker
+    and creature, and the Ramadan new moon as a calendrical sign.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A custom is described in which a little wine is thrown on the ground before
+    drinking.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The note proposes that the wine cast down may be a libation to propitiate
+    Earth or a sacrifice of superfluity.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The note says that, in Omar, the wine sinks into the ground to refresh the
+    dust of a dead wine-worshipper.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Hafiz is quoted as saying that when drinking wine, one should pour a draught
+    on the ground because the act gives gain to another.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: An Oriental legend states that Azrael accomplishes his mission by holding
+    an apple from the Tree of Life to the nostril.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Omar’s mathematical quatrain compares two persons to a pair of compasses with
+    two heads, one body, a fixed centre, and a final coming together.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Donne’s verses are presented as a close parallel to Omar’s compass image,
+    including a fixed foot, a roaming foot, a circle, and a return to the beginning.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: A magic-lantern is described as a cylindrical painted interior revolving around
+    a lighted candle.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The relation of pot and potter to man and maker is described as widespread
+    in world literature.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The note quotes a theological comparison in which God has power over humans
+    as a potter has power over clay and vessels.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: An Aristophanes example is summarized in which a pot calls a bystander as
+    witness to its bad treatment.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:12
+  text: At the end of Ramadan, the first glimpse of the new moon is anxiously awaited
+    and greeted with acclamation.
+  category: action
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: wine drinker
+  description: A person who pours or throws a little wine on the ground before drinking.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Earth
+  description: Earth is described as potentially propitiated or made an accomplice
+    by the libation.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: dead wine-worshipper
+  description: A deceased wine-worshipper whose dust may be refreshed by wine sinking
+    into the ground.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Omar
+  description: Poet associated with the wine-ground meaning, the compass quatrain,
+    the pot imagery, and the moon quatrain cited in the notes.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+  - ev:7
+- id: fig:5
+  name_or_label: Hafiz
+  description: Poet described as copying Omar and quoted on pouring wine on the ground.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Azrael
+  description: A death-angel figure who accomplishes his mission with an apple from
+    the Tree of Life.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: paired compass figures
+  description: The two persons in Omar’s comparison are imaged as a pair of compasses
+    with two heads and one body.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+- id: fig:8
+  name_or_label: potter or Maker
+  description: The potter, and by extension God as maker, is described as having power
+    over clay or vessels.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:6
+- id: fig:9
+  name_or_label: clay, vessel, or potsherd
+  description: Human beings or created things are compared to clay, vessels, or potsherds
+    in relation to the potter or Maker.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:6
+- id: fig:10
+  name_or_label: speaking pot
+  description: A pot in the Aristophanes example calls a bystander to witness its
+    bad treatment.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:6
+- id: fig:11
+  name_or_label: new moon
+  description: The new moon is watched for at Ramadan’s close and hailed with acclamation.
+  role_refs:
+  - role:11
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: ritual drinker
+  assigned_to:
+  - fig:1
+  basis: The figure performs the described act of casting wine on the ground before
+    drinking.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: propitiated recipient
+  assigned_to:
+  - fig:2
+  basis: Earth is named as a possible recipient of the libation or accomplice in the
+    revel.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: dead recipient of refreshment
+  assigned_to:
+  - fig:3
+  basis: The wine is said to sink into the ground to refresh the dust of a foregone
+    wine-worshipper.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: poetic source figure
+  assigned_to:
+  - fig:4
+  basis: The notes repeatedly attribute key images or meanings to Omar.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+  - ev:7
+- id: role:5
+  label: poetic imitator or parallel witness
+  assigned_to:
+  - fig:5
+  basis: Hafiz is explicitly described as copying Omar in many ways and is quoted
+    on the wine-pouring act.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: death messenger
+  assigned_to:
+  - fig:6
+  basis: Azrael accomplishes his mission by means of the apple from the Tree of Life.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: paired lovers or paired persons imaged by compasses
+  assigned_to:
+  - fig:7
+  basis: The quoted quatrain speaks of You and I as the image of a pair of compasses.
+  evidence_refs:
+  - ev:4
+- id: role:8
+  label: maker with formative power
+  assigned_to:
+  - fig:8
+  basis: The potter or God is described as having power over clay or vessels.
+  evidence_refs:
+  - ev:6
+- id: role:9
+  label: formed creature or vessel
+  assigned_to:
+  - fig:9
+  basis: The passage compares humans and potsherds to clay or vessels formed by a
+    potter.
+  evidence_refs:
+  - ev:6
+- id: role:10
+  label: personified object complainant
+  assigned_to:
+  - fig:10
+  basis: The pot calls a bystander as witness to bad treatment.
+  evidence_refs:
+  - ev:6
+- id: role:11
+  label: calendrical sign
+  assigned_to:
+  - fig:11
+  basis: The first glimpse of the new moon marks the end of the fasting month and
+    is hailed.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: wine poured on the ground
+  literal_form: A little wine or draught thrown or poured onto the ground before drinking.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: Earth as libation recipient
+  literal_form: The ground or Earth receiving wine.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: dust of the dead wine-worshipper
+  literal_form: Dust in the ground refreshed by wine.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: apple from the Tree of Life
+  literal_form: An apple taken from the Tree of Life and held to the nostril by Azrael.
+  associated_figures:
+  - fig:6
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: pair of compasses
+  literal_form: A pair of compasses with two heads or feet, one body, a fixed centre,
+    and a circular return.
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: magic-lantern with candle
+  literal_form: A cylindrical painted lantern revolving around a lighted candle.
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:5
+- id: sym:7
+  label: potter and clay vessel
+  literal_form: Potter, clay, vessel, potsherd, and pot used for the maker-creature
+    relation.
+  associated_figures:
+  - fig:8
+  - fig:9
+  - fig:10
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:8
+  label: new moon after Ramadan
+  literal_form: The first glimpse of the new moon at the close of the fasting month.
+  associated_figures:
+  - fig:11
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Wine cast down before drinking
+  summary: A drinker pours or throws wine on the ground before drinking; the act is
+    explained as liberality, possible libation to Earth, or a way for wine to reach
+    the dead.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Azrael and the Tree of Life apple
+  summary: Azrael completes his mission by holding an apple from the Tree of Life
+    to the nostril.
+  figure_refs:
+  - fig:6
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: The paired compasses
+  summary: Two persons are compared to a pair of compasses, separated in motion but
+    joined by one body and returning together at the end of the circle.
+  figure_refs:
+  - fig:4
+  - fig:7
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Revolving magic-lantern
+  summary: A painted cylindrical magic-lantern revolves around a candle within.
+  figure_refs: []
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Potter, clay, and speaking pot
+  summary: The note surveys examples in which the potter has power over clay or vessels,
+    and includes a comic speaking-pot story.
+  figure_refs:
+  - fig:8
+  - fig:9
+  - fig:10
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:6
+- id: scene:6
+  label: New moon after the fast
+  summary: At Ramadan’s close, people anxiously watch for the new moon and acclaim
+    it when seen.
+  figure_refs:
+  - fig:11
+  symbol_refs:
+  - sym:8
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Libation or offering before drinking
+  taxonomy_refs:
+  - sacred_exchange
+  - sacrifice
+  basis: The note describes wine thrown on the ground before drinking and explicitly
+    considers whether it is a libation to propitiate Earth or a sacrifice of superfluity.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The libation interpretation is proposed as a question by the editor, not
+    established as certain.
+- id: motif:2
+  label: Drink offering reaches the dead
+  taxonomy_refs: []
+  basis: The passage says that in Omar the wine sinks into the ground to refresh the
+    dust of a dead wine-worshipper, and Hafiz is quoted as saying the act brings gain
+    to another.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage frames this as poetic meaning rather than a fully described
+    ritual system.
+- id: motif:3
+  label: Death messenger with life-tree fruit
+  taxonomy_refs: []
+  basis: Azrael accomplishes his mission by holding an apple from the Tree of Life
+    to the nostril.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage gives only a brief note and does not narrate the full legend.
+- id: motif:4
+  label: Separated pair joined by compass circuit
+  taxonomy_refs:
+  - return
+  basis: Omar’s quatrain and Donne’s parallel use compass imagery in which one foot
+    is fixed, the other roams, and the motion ends in return or reunion.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage treats the image as mathematical and poetic; broader mythic
+    status is not demonstrated.
+- id: motif:5
+  label: Maker as potter, creature as clay vessel
+  taxonomy_refs: []
+  basis: The note states that the relation of pot and potter to man and maker appears
+    widely, and gives theological and literary examples.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: No available taxonomy reference exactly matches this maker-vessel motif.
+- id: motif:6
+  label: New moon marking release from fast
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The new moon is awaited at the close of Ramadan and marks transition from
+    the fasting month to renewed cheer.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The note concerns a calendrical religious custom; the seasonal-cycle taxonomy
+    is approximate.
+comparison_claims:
+- id: claim:1
+  claim: The passage directly compares Hafiz’s instruction to pour wine on the ground
+    with Omar’s wine-ground motif, saying Hafiz copied Omar in many ways.
+  claim_level: same_motif
+  target: Hafiz’s wine-pouring verse and Omar’s wine-ground image
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage provides only a short quoted example from Hafiz and does
+    not analyze textual transmission.
+- id: claim:2
+  claim: The passage presents Omar’s compass quatrain as closely paralleled by Donne’s
+    compass verses.
+  claim_level: visual_similarity
+  target: Omar’s pair of compasses and Donne’s twin-compasses image
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage states parallelism but does not claim historical contact
+    or dependence.
+- id: claim:3
+  claim: The passage identifies the potter-and-clay relation of maker and creature
+    as a motif appearing across world literature, including Hebrew prophetic and later
+    theological examples.
+  claim_level: same_motif
+  target: Potter/clay maker-creature motif in Hebrew prophetic, Pauline, and later
+    theological literature
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is broad and editorial; the passage excerpts only selected
+    examples.
+- id: claim:4
+  claim: The Aristophanes speaking-pot anecdote is presented as another related pot
+    story, sharing personified pottery imagery with Omar’s pots.
+  claim_level: same_function
+  target: Aristophanes speaking-pot story and Omar’s pot imagery
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The Aristophanes example involves comic personification rather than
+    the full maker-creature theological relation.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1699-1708
+  quote_or_summary: A custom of throwing a little wine on the ground before drinking
+    is noted; the editor considers liberality, libation to Earth, and sacrifice of
+    superfluity as explanations.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1708-1713
+  quote_or_summary: In Omar, the wine is said to sink into the ground to refresh the
+    dust of a foregone wine-worshipper; Hafiz is quoted as instructing drinkers to
+    pour a draught on the ground because it benefits another.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 1715-1716
+  quote_or_summary: "“Azrael accomplishes his mission by holding to the nostril an
+    Apple from the Tree of Life.”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: summary
+  locator: lines 1722-1743
+  quote_or_summary: Omar compares two persons to a pair of compasses with two heads
+    and one body that fix a centre and come together at the end; Donne’s verses are
+    quoted as a close parallel involving fixed and roaming compass feet and return
+    to the start.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 1749-1751
+  quote_or_summary: A magic-lantern used in India is described as having a painted
+    cylindrical interior that revolves around a lighted candle.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 1758-1799
+  quote_or_summary: The note says the pot-and-potter relation to man and maker appears
+    widely in literature; it quotes potter/clay theological language and summarizes
+    an Aristophanes story where a pot calls a witness to bad treatment.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 1816-1823
+  quote_or_summary: At the close of Ramadan, the first glimpse of the new moon is
+    sought anxiously and hailed; Omar is said to have another quatrain about the same
+    moon and the dying fasting month.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is an editorial notes section rather than a continuous mythic
+    narrative. Several motifs are explicitly interpretive or comparative in the notes
+    and should be reviewed by a human editor.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy references were limited to the provided available lists.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-omar-khayyam-sufistic-quatrains-gutenberg__l1699-l1823
+  passage_sha256=a2b60219a9d73e4afdb687e6656644c8c9dffa77e90f0c7ec23e13db56eff5c2

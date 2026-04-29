@@ -1,0 +1,316 @@
+---
+record_id: batch.motif.sufi-omar-khayyam-sufistic-quatrains-gutenberg-l3814-l3828
+source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+passage_locator:
+  label: LXXII. / LXXIII. / LXXV. / LXXVI.; lines 3814-3828
+  start: '3814'
+  end: '3828'
+  translation: The Sufistic Quatrains of Omar Khayyam
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: Of my Base metal may be filed a Key, / That shall unlock the Door he howls
+    without.
+  summary: A quatrain says the Vine has struck a fibre that clings to the speaker's
+    being; from the speaker's base metal a key may be filed to unlock a door outside
+    which a dervish howls. A following note cites a parallel in which a creator teaches
+    love and makes a filing of the dust of the heart into a key for the treasure-house
+    of substance.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The Vine is described as having struck a fibre that clings about the speaker's
+    being.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A dervish is described as flouting and howling outside a door.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The speaker's base metal may be filed into a key.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The key is said to unlock a door.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: The note states that the sentiment of the quatrain is contained in C. 143.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: In the cited parallel, a figure identified as 'He' creates the speaker, dictates
+    the lesson of love, and makes a small filing of the dust of the speaker's heart
+    into a key of the treasure-house of substance.
+  category: sequence
+  evidence_refs:
+  - ev:2
+figures:
+- id: fig:1
+  name_or_label: first-person speaker
+  description: The speaking 'my' whose being, base metal, and heart are described.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: the Dervish
+  description: A dervish who may flout and is described as howling outside the door.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: He
+  description: An unnamed figure in the cited parallel who creates the speaker, dictates
+    the lesson of love, and makes a heart-dust filing into a key.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: the Vine
+  description: The Vine is personified as striking a fibre that clings about the speaker's
+    being.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: speaker transformed into key-material
+  assigned_to:
+  - fig:1
+  basis: The speaker's base metal may be filed into a key; in the parallel, dust of
+    the speaker's heart is made into a key.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: excluded or outside religious figure
+  assigned_to:
+  - fig:2
+  basis: The dervish is located outside the door and is described as howling there.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: creator and teacher of love
+  assigned_to:
+  - fig:3
+  basis: The cited parallel says 'He' created the speaker and dictated the lesson
+    of love.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: animating vine
+  assigned_to:
+  - fig:4
+  basis: The Vine acts by striking a fibre that clings to the speaker's being.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: Vine
+  literal_form: Vine striking a fibre
+  associated_figures:
+  - fig:4
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: fibre clinging to being
+  literal_form: fibre clinging about the speaker's being
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: base metal
+  literal_form: the speaker's base metal
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: key
+  literal_form: key filed from base metal or from dust of the heart
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:5
+  label: door
+  literal_form: door unlocked by the key, with the dervish outside
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:6
+  label: dust of the heart
+  literal_form: small filing of the dust of the speaker's heart
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:7
+  label: treasure-house of substance
+  literal_form: treasure-house of substance opened by a key
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:8
+  label: lesson of love
+  literal_form: lesson of love dictated from the first
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Vine, dervish, and unlocking key
+  summary: The Vine acts upon the speaker; the dervish is outside a door; the speaker's
+    base metal may be filed into a key that unlocks the door.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Parallel creation and heart-key image
+  summary: In the cited parallel, an unnamed 'He' creates the speaker, teaches love,
+    and makes dust from the speaker's heart into a key of the treasure-house of substance.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:4
+  - sym:6
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: inner substance transformed into a key for hidden access
+  taxonomy_refs:
+  - mystical_quest
+  - wisdom
+  basis: Both the quatrain and cited parallel describe material from the speaker—base
+    metal or dust of the heart—being filed or made into a key that opens a door or
+    treasure-house.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage uses compact metaphor rather than a developed narrative journey;
+    taxonomy links are approximate and require review.
+- id: motif:2
+  label: love as primordial instruction
+  taxonomy_refs:
+  - divine_beloved
+  - wisdom
+  basis: The cited parallel states that from the first the speaker was dictated the
+    lesson of love.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The identity of 'He' and the theological implications are not specified
+    in the passage itself.
+- id: motif:3
+  label: excluded dervish outside the door
+  taxonomy_refs: []
+  basis: The dervish is placed outside the door that the speaker's key can unlock.
+  evidence_refs:
+  - ev:1
+  confidence: low
+  cautions: The symbolic or polemical role of the dervish is not explained in the
+    supplied passage.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself identifies C. 143 as containing the same sentiment as
+    this quatrain, and both passages share the image of a small filing from the speaker's
+    inner substance becoming a key.
+  claim_level: same_motif
+  target: C. 143 as cited in the note to LXXVI
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: Only the excerpted translation and reference note are available; the
+    full context of C. 143 is not supplied.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 3814-3819
+  quote_or_summary: The Vine strikes a fibre clinging to the speaker's being; the
+    dervish may flout; the speaker's base metal may be filed into a key that unlocks
+    the door outside which the dervish howls.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: quote
+  locator: lines 3821-3826
+  quote_or_summary: The cited parallel says that since eternity 'He' created the speaker,
+    taught the lesson of love, and made a filing of the dust of the speaker's heart
+    into a key of the treasure-house of substance.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: citation
+  locator: lines 3820, 3828
+  quote_or_summary: The editor states that the sentiment of the quatrain is contained
+    in C. 143 and lists references including C. 143, L. 311, B. 307, P. 81, T. 134,
+    and V. 314.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; citation summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif labels are provisional because
+    the passage is metaphorical and brief.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only supplied passage text and metadata. Available symbol taxonomy did not include key, door, vine, heart, or treasure-house, so symbol taxonomy_refs are empty.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-omar-khayyam-sufistic-quatrains-gutenberg__l3814-l3828
+  passage_sha256=e4b5becf87cba520184fc75c801cd4676bc2f8a9daa697bb0888a1f23031c950

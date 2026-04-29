@@ -1,0 +1,411 @@
+---
+record_id: batch.motif.sufi-omar-khayyam-sufistic-quatrains-gutenberg-l3143-l3223
+source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+passage_locator:
+  label: XXXVII. / XLII. / XLIII. / XLIV.; lines 3143-3223
+  start: '3143'
+  end: '3223'
+  translation: The Sufistic Quatrains of Omar Khayyam
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Four quatrains and accompanying source notes present images of the soul
+    leaving bodily dust and soaring heavenward; the body as a temporary tent occupied
+    by the soul as a Sultan until fate dismantles it; existence as a goblet from which
+    the Eternal Saki pours many bubble-like lives; and human coming and departure
+    as leaving no mark on the continuing world, like a pebble cast into the sea.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The soul is addressed as able to purify itself from the dust of the body and
+    soar naked in the heavens.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The body is compared to a tent or clay carcase, while the soul is distinct
+    from it.
+  category: relationship
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: The soul is described as a Sultan resting for one day in a tent in the perishable
+    world.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A ferrash of fate overthrows or strikes the tent after the Sultan has risen,
+    preparing for another guest or halting-place.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The Eternal Saki pours or brings to light many bubble-like beings from the
+    bowl or goblet of existence.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The speaker says a person will be separated from the soul and pass behind
+    the curtain or veil of the Secrets of God.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The world or heavenly sphere is said to continue without being affected by
+    the speaker's coming or departure.
+  category: relationship
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: obs:8
+  text: The world's indifference is compared to the sea not heeding a pebble cast
+    into it.
+  category: object
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Soul
+  description: The soul or naked spirit that can be purified from bodily dust and
+    rise heavenward; elsewhere treated as a Sultan dwelling briefly in the body-tent.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Sultan
+  description: A royal image for the soul that takes one day's rest in a tent and
+    then rises.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Ferrash of fate
+  description: The attendant of fate who strikes or overthrows the tent after the
+    Sultan rises and prepares it for another guest or halting-place.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Eternal Saki
+  description: A cupbearer figure who pours from the bowl or goblet of existence and
+    brings many bubble-like lives to light.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Speaker / human beings
+  description: The first-person or addressed humans whose existence, coming, and departure
+    are considered brief and insignificant in relation to the continuing world.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:6
+  name_or_label: World / heavenly sphere
+  description: The continuing world or heavenly sphere that is not changed by the
+    speaker's arrival or departure.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: liberated ascending spirit
+  assigned_to:
+  - fig:1
+  basis: The soul is said to be able to cast off bodily dust and soar in the heavens.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: temporary royal occupant
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The soul is likened to a Sultan occupying the body as a temporary tent or
+    halting-place.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: agent of bodily dissolution
+  assigned_to:
+  - fig:3
+  basis: The ferrash of fate dismantles the tent after the Sultan has risen.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: cosmic cupbearer or giver of lives
+  assigned_to:
+  - fig:4
+  basis: The Eternal Saki pours from the bowl or goblet of existence, producing many
+    bubble-like beings.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: transient mortal
+  assigned_to:
+  - fig:5
+  basis: Human beings are compared to bubbles and to unremembered arrivals and departures.
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: role:6
+  label: indifferent continuing cosmos
+  assigned_to:
+  - fig:6
+  basis: The world or heavenly sphere is described as continuing unchanged by human
+    coming and departure.
+  evidence_refs:
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: bodily dust
+  literal_form: dust of the body / clay carcase
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: heavenly air / Empyrean
+  literal_form: Air of Heaven; heavens; Empyrean
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: body as tent
+  literal_form: tent; pavilion-like body; halting-place in the perishable world
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: bowl or goblet of existence
+  literal_form: bowl; goblet of existence
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: bubbles of wine
+  literal_form: bubbles like us; bubbles of wine
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: veil or curtain
+  literal_form: Veil; Curtain of the Secrets of God
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:7
+  label: sea and pebble
+  literal_form: sea and pebble-cast
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Soul leaving bodily dust
+  summary: The soul is imagined as able to purify itself from the dust of the body
+    and rise naked into the heavens, making earthly confinement shameful.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Body-tent dismantled after the Sultan rises
+  summary: The body is likened to a tent in the perishable world, the soul to a Sultan,
+    and fate's ferrash dismantles the tent when the Sultan departs.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Eternal Saki pours bubble-like lives
+  summary: The Eternal Saki pours from the bowl or goblet of existence, producing
+    many lives compared to bubbles of wine.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Passing behind the veil and cosmic indifference
+  summary: Humans pass behind the veil or curtain of divine secrets, while the world
+    continues without regard for their coming and departure.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Soul's ascent beyond bodily confinement
+  taxonomy_refs:
+  - ascent
+  - mystical_quest
+  basis: The soul is explicitly described as purifying itself from the body and soaring
+    in the heavens or Empyrean.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage is a lyric quatrain rather than a narrative ascent journey.
+- id: motif:2
+  label: Body as temporary lodging for the departing soul
+  taxonomy_refs:
+  - departure
+  - afterlife_journey_map
+  basis: The body is a tent or halting-place occupied briefly by the soul-Sultan and
+    dismantled when the soul rises.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The afterlife destination is only implied through death and the next halting-place,
+    not mapped in detail.
+- id: motif:3
+  label: Cosmic cupbearer generating transient lives
+  taxonomy_refs:
+  - duality
+  basis: The Eternal Saki pours from the goblet of existence, and human lives appear
+    as bubbles, emphasizing the relation between enduring source and transient forms.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: No available taxonomy entry directly names the cupbearer, wine, or bubble
+    imagery; duality is used cautiously for source/form contrast.
+- id: motif:4
+  label: Passing behind the veil of divine secrecy
+  taxonomy_refs:
+  - forbidden_knowledge
+  - mystical_quest
+  basis: The passage states that one will pass behind the Curtain of the Secrets of
+    God.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The text mentions divine secrets but does not depict an explicit transgressive
+    search for forbidden knowledge.
+- id: motif:5
+  label: Human insignificance before the continuing world
+  taxonomy_refs:
+  - wisdom
+  basis: The passage reflects on coming, departure, and the world's continuance without
+    mark or change from human existence.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: This is a reflective wisdom theme rather than a narrative mythic episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3143-3157; XLIV
+  quote_or_summary: The soul can cast off or purify itself from the body's dust and
+    soar naked in heaven or the Empyrean; earthly confinement is shameful.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 3158-3175; XLV
+  quote_or_summary: The body resembles a tent in the perishable world; the soul is
+    a Sultan; the ferrash of fate dismantles the tent after the Sultan rises and prepares
+    for another guest or halting-place.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 3176-3191; XLVI
+  quote_or_summary: The Eternal Saki pours from the bowl or goblet of existence, bringing
+    to light many bubble-like beings or Khayyams, compared to bubbles of wine.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 3192-3204; XLVII, O. 26 excerpt
+  quote_or_summary: A person will be separated from the soul and pass behind the curtain
+    or veil of the Secrets of God.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 3205-3212; XLVII, O. 51 excerpt
+  quote_or_summary: The speaker's coming adds no profit to the heavenly sphere, and
+    the speaker's departure adds nothing to its beauty or dignity.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 3192-3223; XLVII, N. 123 and FitzGerald quatrain
+  quote_or_summary: The world will continue long after the speakers are no more, without
+    fame or sign of them; human coming and departure are likened to the sea not heeding
+    a pebble cast into it.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal imagery is clear. Motif taxonomy mapping is interpretive because
+    the passage is lyric, philosophical, and heavily metaphorical rather than a continuous
+    mythic narrative. No separate comparison claims were made beyond candidate motif
+    classification.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used. Available taxonomy references were applied sparingly; non-taxonomy symbols were retained as literal passage symbols.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-omar-khayyam-sufistic-quatrains-gutenberg__l3143-l3223
+  passage_sha256=768d24c0c24da23a11f04e9e7a03ff67ae505f8c6d853bcbdd097c9400487e5a

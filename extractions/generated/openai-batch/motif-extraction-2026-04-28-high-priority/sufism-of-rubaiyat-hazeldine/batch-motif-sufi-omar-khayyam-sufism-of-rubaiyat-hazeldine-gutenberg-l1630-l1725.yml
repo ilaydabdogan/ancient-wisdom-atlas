@@ -1,0 +1,322 @@
+---
+record_id: batch.motif.sufi-omar-khayyam-sufism-of-rubaiyat-hazeldine-gutenberg-l1630-l1725
+source_text_path: texts/public-domain/sufi/project-gutenberg/sufism-of-rubaiyat-hazeldine.md
+passage_locator:
+  label: The Sufism of the Rubáiyát, or, the Secret of the Great Paradox / PREFACE
+    / THE AUTHOR. / NOTES; lines 1630-1725
+  start: '1630'
+  end: '1725'
+  translation: The Sufism of the Rubáiyát, or, the Secret of the Great Paradox
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage praises a divine soul of love as conqueror, friend, light,
+    comforter, wine, flame, and source of life. It then reflects on the Moon’s waxing
+    and waning while human generations come and pass. The final stanza is a farewell
+    to the earthly home, asking forgiveness, imagining dust mingled again with the
+    mother, and yielding up life forever.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A first-person speaker writes in praise of a figure addressed as the divine
+    soul of love.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The addressed divine figure is called conqueror of the sorrowful pile of life,
+    song, singer, dance, friend, light, comforter, wine, flame, and life of all that
+    is born.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Moon is described as waning and becoming full repeatedly.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Human beings are described as coming and passing away with the Moon’s cycles.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The Moon is personified with feminine pronouns and is said to come silently,
+    depart silently, and remove human generations as night removes day.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The speaker takes a last farewell of an earthly home, including its pleasures
+    and sorrows.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The speaker asks forgiveness for sins and asks that others not suffer for
+    the speaker’s misdeeds.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The speaker asks that the speaker’s dust be mingled again with the addressed
+    father, mother, and teacher.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: The speaker imagines autumn petals keeping vigil over the tomb and murmuring
+    winds chanting for the soul dead to earth.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:10
+  text: The speaker yields up life forever in the gentle arms of the addressed mother.
+  category: action
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Soul Divine of Love
+  description: A divine addressee praised as conqueror, friend, light, comforter,
+    wine, flame, and life of all that is born.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Moon
+  description: A feminine-personified Moon that wanes, becomes full, comes and departs
+    silently, and removes human generations.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: First-person speaker
+  description: The speaker praises the divine soul of love, bids farewell to the earthly
+    home, asks forgiveness, and yields up life.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:4
+  name_or_label: Earthly Home / Mother
+  description: The earthly home is addressed fondly and later as father, mother, teacher,
+    and mother in whose arms the speaker yields up life.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: divine beloved and comforter
+  assigned_to:
+  - fig:1
+  basis: The figure is addressed as divine love, friend, light, comforter, and wine
+    that cheers.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: cyclical remover of generations
+  assigned_to:
+  - fig:2
+  basis: The Moon’s waxing and waning are linked with mortals coming and passing,
+    and she is said to remove human generations.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: dying or departing speaker
+  assigned_to:
+  - fig:3
+  basis: The speaker gives a final farewell, refers to tomb, dust, and yielding up
+    life forever.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: maternal earthly receiver
+  assigned_to:
+  - fig:4
+  basis: The earthly addressee is called mother, receives the speaker’s dust, and
+    holds the speaker as life is yielded up.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: wine of divine comfort
+  literal_form: wine, vintage, ruby of the wine
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: flame
+  literal_form: flame that burns
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: dew drop
+  literal_form: dew drop's sparkle
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: waxing and waning Moon
+  literal_form: Moon waned and fulled
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: dust mingled with mother earth
+  literal_form: my dust be mingled once again with thine
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: tomb with autumn blooms and winds
+  literal_form: tomb, flurring petals of autumn blooms, murmuring winds
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Praise of the divine soul of love
+  summary: The speaker’s pen praises the divine soul of love as conqueror, source
+    of life, friend, light, comforter, wine, dew, and flame.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Moon cycles and passing generations
+  summary: The Moon repeatedly wanes and becomes full while many people come and pass
+    away; she is said to remove human generations as night removes day.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Farewell to earthly home and yielding of life
+  summary: The speaker bids farewell to the earthly home, asks forgiveness, imagines
+    dust mingled again with the mother, and yields life forever in the mother’s arms.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: divine beloved as comforter and source of life
+  taxonomy_refs:
+  - divine_beloved
+  basis: The divine addressee is directly praised as love, friend, light, comforter,
+    wine, flame, and life of all that is born.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage is devotional and symbolic; it does not narrate a meeting
+    or romance with the divine beloved.
+- id: motif:2
+  label: cosmic cycle measuring human generations
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The Moon’s waning and fullness are linked with generations coming and passing
+    away.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The cycle is lunar rather than explicitly seasonal; the taxonomy reference
+    is approximate.
+- id: motif:3
+  label: return of the dying body to the earthly mother
+  taxonomy_refs:
+  - return
+  basis: The speaker asks that dust be mingled once again with the mother and yields
+    up life in her arms.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage emphasizes death and return to earth, not a completed return
+    journey narrative.
+- id: motif:4
+  label: death as final sleep watched by nature
+  taxonomy_refs: []
+  basis: The speaker calls the tomb the place of the last of many sleeps, with autumn
+    blooms keeping vigil and winds chanting for the soul dead to earth.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: No explicit resurrection or afterlife journey is described in this passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1630-1644; devotional stanza before stanza 99
+  quote_or_summary: The speaker praises the 'Soul Divine of Love' as conqueror of
+    life's sorrow, song/singer/dance, friend, light of the wintry path, dew drop,
+    flame, comforter, wine, and life of all that is born.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufism-of-rubaiyat-hazeldine.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:2
+  type: summary
+  locator: lines 1648-1655; stanza 99
+  quote_or_summary: The Moon wanes and becomes full; with each cycle many come and
+    pass away. Personified as 'she,' the Moon comes and departs silently and removes
+    human generations as night removes day.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufism-of-rubaiyat-hazeldine.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:3
+  type: summary
+  locator: lines 1659-1675; stanza 100
+  quote_or_summary: The speaker bids farewell to the earthly home, asks forgiveness,
+    asks that dust be mingled again with the addressed father/mother/teacher, imagines
+    autumn blooms and winds at the tomb, and yields life forever in the mother's arms.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufism-of-rubaiyat-hazeldine.md
+  rights_note: Public domain source; summarized from provided passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal elements are clear. Motif assignments are interpretive and should
+    be reviewed, especially the mapping of lunar cycles to seasonal_cycle and return-to-earth
+    to return.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Printer line and later editorial typo notes were not treated as mythic content except where stanza wording itself was relevant.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-omar-khayyam-sufism-of-rubaiyat-hazeldine-gutenberg__l1630-l1725
+  passage_sha256=2b5e54d9979d71b160b5758d0c1a427dbeb88450ba4959e533f398decd33fd45

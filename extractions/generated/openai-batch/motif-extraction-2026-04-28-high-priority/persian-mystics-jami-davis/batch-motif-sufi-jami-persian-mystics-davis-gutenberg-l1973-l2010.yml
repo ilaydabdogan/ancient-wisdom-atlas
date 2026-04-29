@@ -1,0 +1,311 @@
+---
+record_id: batch.motif.sufi-jami-persian-mystics-davis-gutenberg-l1973-l2010
+source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+passage_locator:
+  label: SELF-SACRIFICE / GALLANTRY AND HUMOUR / FIFTH GARDEN / A LOVERS' DIALOGUE;
+    lines 1973-2010
+  start: '1973'
+  end: '2010'
+  translation: 'The Persian Mystics: Jámí'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A maiden and a youth exchange declarations of love. The maiden expresses
+    a wish for physical intimacy. The youth says he shares the desire but refuses,
+    citing a divine saying about friendship becoming enmity on the day of resurrection
+    except among the pious. He leaves, reciting verses that advise abandoning a brief
+    earthly love and choosing a love that endures on the day of reckoning in the eternal
+    abode.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is framed as a lovers' dialogue in the Fifth Garden.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The maiden swears by God and says no one in the world is dearer to her than
+    the youth.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The youth replies that his soul and body now belong to the maiden and that
+    his heart inclines toward her.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The girl states that her only wish is mutual embrace and sweetness from one
+    another's lips.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The youth says his desire is the same, but he cites God the Most High about
+    intimate friends on the day of resurrection.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The youth states that he does not want their love to be impaired or their
+    friendship turned into enmity on the morning of resurrection.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: After speaking, the youth departs while reciting verses advising the heart
+    to abandon a brief love and choose a love fit for the day of reckoning and the
+    eternal abode.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Maiden
+  description: Female speaker who swears love for the youth and expresses a wish for
+    physical intimacy.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: Youth
+  description: Male speaker who reciprocates love, cites a divine saying about resurrection,
+    refuses immediate gratification, and departs reciting admonitory verses.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: God the Most High
+  description: Divine authority invoked in the maiden's oath and cited by the youth
+    concerning intimate friends on the day of resurrection.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:5
+roles:
+- id: role:1
+  label: Lover
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Both human speakers declare or affirm desire and affection for one another.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:2
+  label: Speaker of affectionate oath
+  assigned_to:
+  - fig:1
+  basis: The maiden swears by God that no one is dearer to her than the youth.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: Renouncing lover and admonitory speaker
+  assigned_to:
+  - fig:2
+  basis: The youth shares the desire but refuses to act on it, invokes resurrection
+    judgment, departs, and recites verses about abandoning a brief love.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:4
+  label: Divine authority
+  assigned_to:
+  - fig:3
+  basis: God is invoked in an oath and cited as the source of the saying about intimate
+    friends on the day of resurrection.
+  evidence_refs:
+  - ev:2
+  - ev:5
+symbols:
+- id: sym:1
+  label: Sweetness of lips
+  literal_form: Eating sugar from each other's lips
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: Day of resurrection and day of reckoning
+  literal_form: Day of resurrection; day of reckoning
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:3
+  label: Eternal abode
+  literal_form: Eternal abode
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: Edifice of love
+  literal_form: Edifice of our love
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Declarations of love
+  summary: The maiden swears that the youth is dearest to her, and the youth says
+    his soul and body belong to her.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Desire checked by resurrection warning
+  summary: The girl expresses a wish for embrace and kissing; the youth says he shares
+    the desire but refuses because he fears their love becoming enmity at resurrection
+    unless it remains pious.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Departure and admonitory verse
+  summary: The youth leaves while reciting that the heart should abandon a two-day
+    love and choose a love that endures on the day of reckoning in the eternal abode.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Renunciation of immediate desire for pious endurance
+  taxonomy_refs:
+  - sacrifice
+  basis: The youth shares the maiden's desire but declines it and departs so that
+    their love will not become enmity at resurrection.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage presents self-denial rather than an explicit ritual sacrifice.
+- id: motif:2
+  label: Relationships judged or transformed at resurrection
+  taxonomy_refs:
+  - divine_judgment
+  - resurrection
+  basis: The youth cites a divine saying that intimate friends will become enemies
+    on the day of resurrection except the pious, and he frames his conduct by the
+    day of reckoning.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage gives a moral warning, not a narrative depiction of the resurrection
+    itself.
+- id: motif:3
+  label: Brief earthly love contrasted with enduring love
+  taxonomy_refs:
+  - annihilation_union
+  basis: The departing verse contrasts a 'love of two days' with a love by which one
+    may abide in the eternal abode.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage does not explicitly identify the enduring love as union with
+    God; the taxonomy reference is therefore interpretive and needs review.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: citation
+  locator: lines 1973-1977
+  quote_or_summary: The passage heading identifies the section as 'FIFTH GARDEN' and
+    'A LOVERS' DIALOGUE.'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; short heading summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1978-1983
+  quote_or_summary: The maiden swears by God, worshipped openly and secretly by men
+    and fairies, that no one she sees in the world is dearer to her than the youth.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 1984-1990
+  quote_or_summary: The youth addresses the maiden as one who resides in his heart
+    and says his soul and body now belong to her.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 1992-1996
+  quote_or_summary: The girl says her only wish is that the two should put their arms
+    around each other's waists and eat sugar from each other's lips; the youth answers
+    that his desire is the same.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 1996-2006
+  quote_or_summary: 'The youth cites God the Most High: on the day of resurrection
+    intimate friends will become enemies except the pious. He says he does not want
+    their love impaired or their friendship turned into enmity.'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: quote
+  locator: lines 2006-2010
+  quote_or_summary: '"O heart, abandon this love of two days" and choose a love fit
+    for the day of reckoning and the eternal abode.'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; short excerpt used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif assignment is strongest for
+    renunciation, resurrection, and judgment; broader mystical-union interpretation
+    requires review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the supplied passage does not itself compare this episode to another tradition or corpus.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-jami-persian-mystics-davis-gutenberg__l1973-l2010
+  passage_sha256=58f66b0ce4202409c8a1e1aca1f88bbf048bcf00a59aaa59e884efdc07a541a7

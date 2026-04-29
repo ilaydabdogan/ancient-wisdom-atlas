@@ -1,0 +1,283 @@
+---
+record_id: batch.motif.sufi-omar-khayyam-sufistic-quatrains-gutenberg-l1179-l1200
+source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+passage_locator:
+  label: XXIV. / XXVI. / XXVII. / XXVIII.; lines 1179-1200
+  start: '1179'
+  end: '1200'
+  translation: The Sufistic Quatrains of Omar Khayyam
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: One thing is certain, that Life flies; / One thing is certain, and the Rest
+    is Lies;
+  summary: Three quatrains present Khayyam urging departure from the Wise, asserting
+    the swift passing of life and final death of the flower; recalling youthful attendance
+    on Doctor and Saint without progress; and describing the sowing of Wisdom whose
+    harvest is the statement that the speaker came like water and goes like wind.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Old Khayyam invites the addressee to come with him and leave the Wise to talk.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker states that life flies, the rest is lies, and a flower that has
+    once blown dies forever.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The speaker recalls that when young he frequented Doctor and Saint and heard
+    extensive argument.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: After hearing argument, the speaker says he came out by the same door as he
+    went in.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The speaker says he sowed the Seed of Wisdom, labored with his own hand to
+    make it grow, and reaped a harvest.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: 'The harvest is expressed as the statement: the speaker came like water and
+    goes like wind.'
+  category: speech
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Old Khayyam
+  description: Named speaker or persona inviting the addressee to come with him.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: The Wise
+  description: A group left behind to talk.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Myself when young
+  description: The speaker in youth, who frequented Doctor and Saint and later reflects
+    on Wisdom.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Doctor and Saint
+  description: Figures or types frequented by the young speaker, associated with great
+    argument.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: inviting speaker
+  assigned_to:
+  - fig:1
+  basis: Khayyam says, 'come with old Khayyam,' and directs the addressee to leave
+    the Wise.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: talking wise figures
+  assigned_to:
+  - fig:2
+  basis: The Wise are explicitly left 'to talk.'
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: seeker of instruction or wisdom
+  assigned_to:
+  - fig:3
+  basis: The young self frequents Doctor and Saint, hears argument, and later sows
+    the Seed of Wisdom.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: teachers or religious-learned authorities
+  assigned_to:
+  - fig:4
+  basis: Doctor and Saint are the figures the young speaker frequents while hearing
+    great argument.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: flower that dies
+  literal_form: The Flower that once has blown for ever dies.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: door of entry and exit
+  literal_form: The same Door by which the speaker went in and came out.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Seed of Wisdom
+  literal_form: The Seed of Wisdom sown and labored over by the speaker.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: harvest
+  literal_form: The Harvest reaped from the Seed of Wisdom.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: water
+  literal_form: Water in the comparison 'I came like Water.'
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: wind
+  literal_form: Wind in the comparison 'like Wind I go.'
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Leaving the Wise and naming life's certainty
+  summary: Old Khayyam urges the addressee to leave the Wise to talk and states that
+    life passes swiftly while the flower dies forever after blooming.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Youthful attendance on Doctor and Saint
+  summary: The speaker recalls frequenting Doctor and Saint, hearing great argument,
+    and leaving by the same door as he entered.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Sowing Wisdom and reaping transience
+  summary: The speaker describes sowing and cultivating the Seed of Wisdom and reaping
+    the declaration that he came like water and goes like wind.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Quest for wisdom yields awareness of transience
+  taxonomy_refs:
+  - wisdom
+  - mystical_quest
+  basis: The speaker seeks learning among Doctor and Saint, sows the Seed of Wisdom,
+    and the stated harvest is a formulation of coming and going like water and wind.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage is lyric and aphoristic rather than a narrative quest; 'mystical_quest'
+    is inferred from the sequence of seeking and harvest of Wisdom.
+- id: motif:2
+  label: Impermanence of life
+  taxonomy_refs: []
+  basis: The speaker states that life flies, a flower that has once blown dies forever,
+    and the speaker came like water and goes like wind.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: No available taxonomy reference directly names impermanence or mortality.
+- id: motif:3
+  label: Failed or circular instruction
+  taxonomy_refs:
+  - wisdom
+  basis: The young speaker hears great argument from Doctor and Saint but says he
+    came out by the same door as he went in.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage does not explicitly say the instruction failed; the circular
+    door image supports the motif cautiously.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: XXVI, lines 1179-1200 supplied range
+  quote_or_summary: Old Khayyam invites the addressee to leave the Wise; he says life
+    flies, the rest is lies, and the flower that once has blown forever dies.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short excerpt summarized.
+- id: ev:2
+  type: quote
+  locator: XXVII, lines 1179-1200 supplied range
+  quote_or_summary: The young speaker frequented Doctor and Saint, heard great argument,
+    and 'Came out by the same Door as in I went.'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short excerpt included.
+- id: ev:3
+  type: quote
+  locator: XXVIII, lines 1179-1200 supplied range
+  quote_or_summary: 'The speaker sowed the Seed of Wisdom, labored it to grow, and
+    reaped the harvest: ''I came like Water, and like Wind I go.'''
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short excerpt included.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labels are cautious because
+    the passage is a compact lyric sequence and not an explicit myth narrative. No
+    comparison claims were made because the passage itself does not provide comparative
+    evidence.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only supplied passage text and metadata. Available taxonomy references applied only where directly supportable.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-omar-khayyam-sufistic-quatrains-gutenberg__l1179-l1200
+  passage_sha256=34968c3ae67d143125f03bb3aafc08951d1151c997a9e5ed71ee75389c14d717

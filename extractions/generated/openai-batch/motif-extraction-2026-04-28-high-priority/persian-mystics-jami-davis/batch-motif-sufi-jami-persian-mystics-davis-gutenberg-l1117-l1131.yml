@@ -1,0 +1,231 @@
+---
+record_id: batch.motif.sufi-jami-persian-mystics-davis-gutenberg-l1117-l1131
+source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+passage_locator:
+  label: THE MAGIC MIRROR / A LAMENT / ONE HEART, ONE LOVE / GOD THE ONLY LOVE ETERNAL;
+    lines 1117-1131
+  start: '1117'
+  end: '1131'
+  translation: 'The Persian Mystics: Jámí'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage states that the universe is only a seeming, transient existence;
+    it warns the addressee against vain passions and reliance on glittering transitory
+    objects, and urges the heart to turn from them and attach itself to God, who alone
+    is eternal and untouched by contingency.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The universe is described as not existing or appearing to exist yesterday,
+    appearing today without real existence, and being absent tomorrow.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker asks why the addressee allows guidance by vain passions and desires.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Transitory objects are described as glittering with false lustre.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The addressee is instructed to turn the heart away from all transient things
+    and attach it firmly to God.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The addressee is instructed to break loose from all transient things and cleave
+    closely to God.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: God is described as the only one who always has been and always will continue
+    to be.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: God's eternity is imaged as a countenance not scarred by the thorn of contingency.
+  category: attribute
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: God
+  description: The eternal being to whom the heart should be attached; described as
+    always having been and continuing to be.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Addressee
+  description: The person addressed as 'thee' and 'thou,' warned against passions
+    and told to attach the heart to God.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: Eternal divine object of attachment
+  assigned_to:
+  - fig:1
+  basis: God is presented as the one who always has been and will continue to be,
+    and as the one to whom the heart should cleave.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:2
+  label: Admonished seeker or listener
+  assigned_to:
+  - fig:2
+  basis: The passage directly questions and instructs the addressee about desires,
+    transient objects, and attachment to God.
+  evidence_refs:
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: Heart
+  literal_form: heart
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: False glitter of transitory objects
+  literal_form: transitory objects that glitter with false lustre
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Thorn of contingency
+  literal_form: thorn of contingency
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Instruction to abandon the transient and cleave to the eternal
+  summary: The speaker contrasts the apparent, vanishing universe and alluring transient
+    objects with God’s eternity, then commands the addressee to detach the heart from
+    the former and attach it to God.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Turning from transient world to eternal God
+  taxonomy_refs:
+  - divine_beloved
+  basis: The passage urges the addressee to turn the heart from transient objects
+    and attach it to God, under the heading 'God the only love eternal.'
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage uses devotional and admonitory language rather than a narrative
+    beloved figure.
+- id: motif:2
+  label: World as illusory or impermanent appearance
+  taxonomy_refs:
+  - wisdom
+  basis: The universe is said to appear to exist but lack real existence, and worldly
+    objects are called transitory and falsely glittering.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The available taxonomy has no specific 'illusion' or 'impermanence' motif;
+    'wisdom' is a broad fit.
+- id: motif:3
+  label: Detachment and cleaving to the divine
+  taxonomy_refs:
+  - annihilation_union
+  basis: The addressee is told to break loose from all transient things and cleave
+    closely to God.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage suggests devotional detachment and union-language, but does
+    not explicitly describe annihilation or mystical union as an event.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 1117-1121
+  quote_or_summary: The universe is described as nonexistent or not appearing yesterday,
+    only seeming to exist today without real existence, and disappearing tomorrow.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 1121-1125
+  quote_or_summary: The speaker asks what profit comes from being guided by vain passions
+    and desires, or relying on transitory objects with false lustre.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: 1126-1129
+  quote_or_summary: '"Turn thy heart away from all of them, and firmly attach it to
+    God. Break loose from all these, and cleave closely to Him."'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: summary
+  locator: 1129-1131
+  quote_or_summary: God alone is said always to have been and to continue to be; the
+    countenance of His eternity is never scarred by the thorn of contingency.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: citation
+  locator: passage title, 1117
+  quote_or_summary: The section title is 'GOD THE ONLY LOVE ETERNAL.'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; citation only.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif assignment is interpretive because
+    the passage is devotional-philosophical rather than narrative, and available taxonomy
+    terms are broad.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly compare traditions or texts.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-jami-persian-mystics-davis-gutenberg__l1117-l1131
+  passage_sha256=6600458358fc81593625cb2fa0f0548574a8303d87a6167c8084e0730716e53e

@@ -1,0 +1,395 @@
+---
+record_id: batch.motif.sufi-persian-mystics-rumi-davis-gutenberg-l2007-l2020
+source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+passage_locator:
+  label: THE LOVER'S CRY TO THE BELOVED / SORROW TURNED TO JOY / THE GIFTS OF THE
+    BELOVED / THE WISDOM OF THE WEAK; lines 2007-2020
+  start: '2007'
+  end: '2020'
+  translation: 'The Persian Mystics: Jalálu''d-dín Rúmí'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The speaker tells friends that God has given inspiration, and says strong
+    counsel may be suggested to the weak. Examples are given of God-taught capacities
+    in the bee and silkworm that surpass stronger animals. Adam is said to have been
+    taught names by God, gaining glory reaching the seventh heaven and lowering the
+    fame of the angels, while those doomed by God to doubt are called blind.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The speaker addresses friends and states that God has given him inspiration.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that strong counsel is often suggested to the weak.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The bee is described as having wit taught by God, while that wit is withheld
+    from the lion and the wild ass.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The bee fills its cells with liquid sweets because God opens a door of knowledge
+    to it.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The silkworm is described as having a God-taught skill beyond the reach of
+    the elephant.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The earthly Adam is said to have been taught names by God.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Adam’s glory is said to have reached the seventh heaven.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Adam is said to have laid low the name and fame of the angels.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The passage says that those whom God dooms to doubt are blind.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: speaker
+  description: The first-person speaker who says God has given him inspiration.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: God
+  description: The divine giver of inspiration, counsel, knowledge, skill, and instruction.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: the weak
+  description: Those to whom strong counsel may be suggested.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: bee
+  description: A small creature taught wit by God and able to fill cells with liquid
+    sweets.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: lion and wild ass
+  description: Strong animals from whom the bee’s God-taught wit is withheld.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: silkworm
+  description: A creature taught skill by God beyond the reach of the elephant.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: elephant
+  description: A large animal unable to reach the silkworm’s God-taught learning.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:8
+  name_or_label: earthly Adam
+  description: Adam, taught names by God, whose glory reached the seventh heaven.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:9
+  name_or_label: angels
+  description: Angels whose name and fame are said to have been laid low by Adam.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+- id: fig:10
+  name_or_label: those doomed to doubt
+  description: People described as blind because God dooms them to doubt.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: divine instructor and giver
+  assigned_to:
+  - fig:2
+  basis: God gives inspiration, opens knowledge, teaches skill, teaches names, and
+    dooms some to doubt.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:2
+  label: recipient of inspired counsel
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: The speaker receives inspiration, and counsel is said to be suggested to
+    the weak.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: small creature with God-taught capacity
+  assigned_to:
+  - fig:4
+  - fig:6
+  basis: The bee and silkworm receive wit or skill taught by God.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: stronger animal lacking the smaller creature's knowledge
+  assigned_to:
+  - fig:5
+  - fig:7
+  basis: The lion, wild ass, and elephant are contrasted with the bee and silkworm
+    as lacking their God-taught capacities.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: God-taught human exemplar
+  assigned_to:
+  - fig:8
+  basis: Adam is taught names by God and his glory reaches the seventh heaven.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: humbled celestial figures
+  assigned_to:
+  - fig:9
+  basis: The name and fame of the angels are said to be laid low.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: doubters described as blind
+  assigned_to:
+  - fig:10
+  basis: Those whom God dooms to doubt are called blind.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: bee
+  literal_form: bee
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: liquid sweets in cells
+  literal_form: cells filled with liquid sweets
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: door of knowledge
+  literal_form: door of this knowledge
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: silkworm
+  literal_form: silkworm
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: names taught to Adam
+  literal_form: names
+  associated_figures:
+  - fig:2
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: seventh heaven
+  literal_form: seventh heaven
+  associated_figures:
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Inspired teaching on the weak
+  summary: The speaker tells friends that God has given him inspiration and that strong
+    counsel is often suggested to the weak.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Small creatures receive divine skill
+  summary: The bee and silkworm are presented as small creatures receiving God-taught
+    capacities that stronger animals do not possess.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Adam taught names and exalted
+  summary: Adam is taught names by God, gains glory reaching the seventh heaven, and
+    lowers the fame of the angels; doubters are described as blind.
+  figure_refs:
+  - fig:2
+  - fig:8
+  - fig:9
+  - fig:10
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: divine wisdom bestowed on the weak or small
+  taxonomy_refs:
+  - wisdom
+  basis: The passage repeatedly contrasts weaker or smaller recipients of God-taught
+    counsel, wit, or skill with stronger animals who lack it.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage gives didactic examples rather than a developed narrative
+    episode.
+- id: motif:2
+  label: divine instruction of Adam in names
+  taxonomy_refs:
+  - wisdom
+  basis: Adam is explicitly said to have been taught names by God, resulting in exalted
+    glory.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage alludes briefly to Adam rather than narrating the full episode.
+- id: motif:3
+  label: exaltation reaching heaven
+  taxonomy_refs:
+  - ascent
+  basis: Adam’s glory is said to reach the seventh heaven.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The text describes the reach of Adam’s glory, not a literal journey or
+    bodily ascent.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 2007-2010
+  quote_or_summary: '"O friends, God has given me inspiration. / Oftentimes strong
+    counsel is suggested to the weak."'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 2011-2014
+  quote_or_summary: God-taught wit is attributed to the bee, withheld from the lion
+    and wild ass; the bee fills cells with liquid sweets because God opens knowledge
+    to it.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 2015-2016
+  quote_or_summary: The silkworm’s God-taught skill is said to be learning beyond
+    the elephant’s reach.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 2017-2018
+  quote_or_summary: The earthly Adam is taught names by God, and his glory reaches
+    the seventh heaven.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 2019-2020
+  quote_or_summary: Adam lays low the name and fame of the angels; those whom God
+    dooms to doubt are called blind.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is short and explicit about divine instruction, weak recipients,
+    and Adam’s teaching; motif labels beyond wisdom require caution because the lines
+    are didactic and allusive.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage text, source metadata, and available taxonomy references.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-persian-mystics-rumi-davis-gutenberg__l2007-l2020
+  passage_sha256=367a8ca003e654de1f6024bf7cd10fe214da555bd1cb97af311855a1ce8fddca

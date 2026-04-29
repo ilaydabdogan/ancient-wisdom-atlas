@@ -1,0 +1,396 @@
+---
+record_id: batch.motif.sufi-persian-mystics-rumi-davis-gutenberg-l1247-l1263
+source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+passage_locator:
+  label: THE WHOLE AND THE PART / THE DIVINE FRIEND / ASPIRATION / THE JOURNEY TO
+    THE BELOVED; lines 1247-1263
+  start: '1247'
+  end: '1263'
+  translation: 'The Persian Mystics: Jalálu''d-dín Rúmí'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: O soul, seek the Beloved, O friend, seek the Friend,
+  summary: A lyric address urges lovers and travellers to abandon the world because
+    departure has been signaled from heaven. A driver has prepared camels while souls
+    and spirits set off into the Void. The passage warns against heavy slumber and
+    exhorts the soul, friend, and watchman to seek the Beloved and remain awake.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage addresses lovers and says it is time to abandon the world.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A drum of departure is said to reach the speaker's spiritual ear from heaven.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A driver has risen, prepared files of camels, and asks travellers why they
+    are asleep.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Sounds before and behind are identified as the din of departure and camel-bells.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: With each moment, a soul and spirit is setting off into the Void.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A wondrous people comes forth from inverted candles and blue awnings so that
+    mysteries may be revealed.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: A heavy slumber is said to have fallen from the circling spheres, and the
+    listener is warned to beware it.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The soul and friend are exhorted to seek the Beloved or Friend.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: A watchman is told to be wakeful and not to sleep.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: lovers
+  description: Those addressed at the beginning and told to abandon the world.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: driver
+  description: A driver who has risen and made ready files of camels.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: travellers
+  description: Those addressed by the driver as asleep.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: soul and spirit
+  description: A soul and spirit setting off into the Void with each moment.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: wondrous people
+  description: A people that comes forth from inverted candles and blue awnings so
+    that mysteries may be revealed.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Beloved / Friend
+  description: The one whom the soul and friend are urged to seek.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+- id: fig:7
+  name_or_label: watchman
+  description: A watchman addressed and told to be wakeful rather than asleep.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: summoned lovers
+  assigned_to:
+  - fig:1
+  basis: They are directly addressed and told that it is time to abandon the world.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: journey-preparer
+  assigned_to:
+  - fig:2
+  basis: The driver rises and makes ready the files of camels.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: sleeping travellers
+  assigned_to:
+  - fig:3
+  basis: The driver asks the travellers why they are asleep.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: departing soul and spirit
+  assigned_to:
+  - fig:4
+  basis: A soul and spirit is described as setting off into the Void with each moment.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: mystery-revealing people
+  assigned_to:
+  - fig:5
+  basis: The people comes forth so that mysteries may be revealed.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: sought beloved
+  assigned_to:
+  - fig:6
+  basis: The soul and friend are commanded to seek the Beloved or Friend.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: wakeful guardian
+  assigned_to:
+  - fig:7
+  basis: The watchman is told to be wakeful and that it does not befit a watchman
+    to sleep.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: drum of departure
+  literal_form: drum heard from heaven by the spiritual ear
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: files of camels and camel-bells
+  literal_form: prepared camels and the sounds of camel-bells marking departure
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: Void
+  literal_form: the Void into which a soul and spirit sets off
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: inverted candles and blue awnings
+  literal_form: inverted candles and blue awnings from which a wondrous people comes
+    forth
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: heavy slumber
+  literal_form: a heavy slumber falling from the circling spheres
+  associated_figures:
+  - fig:3
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:6
+  label: Beloved / Friend
+  literal_form: the Beloved or Friend sought by the soul and friend
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: summons to abandon the world
+  summary: Lovers are told that the time has come to abandon the world, while a heavenly
+    drum of departure is heard.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: preparation of the caravan
+  summary: The driver has prepared camels and asks sleeping travellers why they are
+    asleep; the sounds of departure and camel-bells surround them.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: souls setting off into the Void
+  summary: With each moment, a soul and spirit is described as setting off into the
+    Void.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: emergence for revelation of mysteries
+  summary: A wondrous people comes forth from inverted candles and blue awnings so
+    that mysteries may be revealed.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: warning against sleep and command to seek
+  summary: The passage warns against heavy slumber, urges the soul and friend to seek
+    the Beloved or Friend, and commands the watchman to remain awake.
+  figure_refs:
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: departure from the world
+  taxonomy_refs:
+  - departure
+  basis: The passage explicitly says it is time to abandon the world and repeatedly
+    names the sounds of departure.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: The passage is lyric and exhortative rather than a narrative account of
+    a completed departure.
+- id: motif:2
+  label: journey to the Beloved
+  taxonomy_refs:
+  - mystical_quest
+  - divine_beloved
+  basis: The title names a journey to the Beloved, and the passage commands the soul
+    and friend to seek the Beloved or Friend.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The Beloved is not explicitly described in doctrinal terms within this
+    passage.
+- id: motif:3
+  label: wakefulness against spiritual slumber
+  taxonomy_refs:
+  - wisdom
+  - initiation
+  basis: The passage warns against heavy slumber and tells the watchman to be wakeful.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The taxonomy references are interpretive because the passage does not
+    use the words wisdom or initiation.
+- id: motif:4
+  label: soul's setting out into the Void
+  taxonomy_refs:
+  - mystical_quest
+  basis: A soul and spirit is described as setting off into the Void with each moment.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The destination and process are not further explained in this excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 1247-1250
+  quote_or_summary: "“O lovers, O lovers, it is time to abandon the world: / The drum
+    of departure reaches my spiritual ear from heaven.”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 1251-1253
+  quote_or_summary: The driver has risen, readied files of camels, and asks the travellers
+    why they are asleep.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 1254-1257
+  quote_or_summary: Sounds before and behind are described as departure and camel-bells;
+    with each moment, a soul and spirit sets off into the Void.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 1258-1260
+  quote_or_summary: From inverted candles and blue awnings comes a wondrous people
+    so that mysteries may be revealed.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 1261-1262
+  quote_or_summary: A heavy slumber is said to have fallen from the circling spheres,
+    and the listener is warned against it.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: quote
+  locator: lines 1262-1263
+  quote_or_summary: "“O soul, seek the Beloved, O friend, seek the Friend, / O watchman,
+    be wakeful.”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:7
+  type: citation
+  locator: passage title, line 1247
+  quote_or_summary: The passage heading is “THE JOURNEY TO THE BELOVED.”
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; citation evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labels for departure and Beloved
+    are strongly supported; broader wisdom/initiation classification is more interpretive.
+    No comparison claims are made from this excerpt alone.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No available symbol taxonomy references apply directly to the passage symbols.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-persian-mystics-rumi-davis-gutenberg__l1247-l1263
+  passage_sha256=16a154824f0a5cd077e8fd0c1d853d76322294a4dca3ed1258e8bd601fa6247a

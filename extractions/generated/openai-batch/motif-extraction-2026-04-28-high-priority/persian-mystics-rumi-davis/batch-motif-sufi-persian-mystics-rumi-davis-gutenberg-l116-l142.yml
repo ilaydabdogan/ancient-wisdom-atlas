@@ -1,0 +1,205 @@
+---
+record_id: batch.motif.sufi-persian-mystics-rumi-davis-gutenberg-l116-l142
+source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+passage_locator:
+  label: PREFACE / F. HADLAND DAVIS. / CONTENTS / INTRODUCTION; lines 116-142
+  start: '116'
+  end: '142'
+  translation: 'The Persian Mystics: Jalálu''d-dín Rúmí'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives a signed and dated front-matter entry by F. Hadland Davis
+    in London, followed by the table of contents for an introduction, a section on
+    the life and work of Jalálu'd-dín Rúmí, selections from the Dīvāni Shamsi Tabrīz
+    and Masnavi, and an appendix on Persian poetry.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: F. Hadland Davis is named above a London date of January 22, 1907.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The contents list an introduction with sections on the origin, early practitioners,
+    nature, influence, and religion of love in Sūfīism.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The contents list a major section titled The Life and Work of Jalálu'd-dín
+    Rúmí.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Subsections under the life and work section include Life, Shamsi Tabrīz, stories
+    of Al-Aflākī and the death of Jalálu'd-dín Rúmí, and the nature and significance
+    of Rúmí's poetry.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The contents list selections from the Dīvāni Shamsi Tabrīz, selections from
+    the Masnavi, and an appendix on Persian poetry.
+  category: object
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: F. Hadland Davis
+  description: Named signatory in the front matter, associated with London and the
+    date January 22, 1907.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Jalálu'd-dín Rúmí
+  description: Named in the title of the life-and-work section and in a subsection
+    on his death and poetry.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Shamsi Tabrīz
+  description: Named as a subsection heading and in the title Dīvāni Shamsi Tabrīz.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Al-Aflākī
+  description: Named in a subsection heading referring to stories of Al-Aflākī and
+    the death of Jalálu'd-dín Rúmí.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: front-matter signatory
+  assigned_to:
+  - fig:1
+  basis: The name appears before the place and date in the front matter.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: central subject of life, work, death, and poetry sections
+  assigned_to:
+  - fig:2
+  basis: The contents explicitly name a section on the life and work of Jalálu'd-dín
+    Rúmí and subsections on his death and poetry.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: named subject or title-associated figure
+  assigned_to:
+  - fig:3
+  basis: Shamsi Tabrīz appears as a subsection heading and within the title of a selected
+    work.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: named source or storyteller figure in contents heading
+  assigned_to:
+  - fig:4
+  basis: The contents refer to the stories of Al-Aflākī in a subsection title.
+  evidence_refs:
+  - ev:3
+symbols: []
+scenes:
+- id: scene:1
+  label: Signed front matter and table of contents
+  summary: The passage presents the name, place, and date of the front matter, then
+    lists the book's major sections and subsections.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: religion of love as a Sufi topic
+  taxonomy_refs:
+  - divine_beloved
+  basis: A contents heading names an Analysis of the Religion of Love within the introduction
+    to Sūfīism.
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: This is only a table-of-contents heading; the passage does not narrate
+    or describe the motif itself.
+- id: motif:2
+  label: mystical Sufi teaching and poetry as study topics
+  taxonomy_refs:
+  - wisdom
+  basis: The contents include the nature of Sūfīism, early Sūfīs, Rúmí's poetry, and
+    selections from major poetic works.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: low
+  cautions: The passage lists topics and titles only; it does not provide doctrinal
+    content, symbolic action, or narrative pattern.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 116-120
+  quote_or_summary: F. Hadland Davis is named, followed by London and the date January
+    22, 1907.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 121-131
+  quote_or_summary: The contents list an introduction with sections on the origin,
+    early Sūfīs, nature, influence, and analysis of the religion of love.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 133-138
+  quote_or_summary: The contents list The Life and Work of Jalálu'd-dín Rúmí, with
+    subsections on life, Shamsi Tabrīz, Al-Aflākī's stories and Rúmí's death, and
+    the nature and significance of Rúmí's poetry.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 140-142
+  quote_or_summary: The contents list selections from the Dīvāni Shamsi Tabrīz, selections
+    from the Masnavi, and an appendix on Persian poetry.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: high
+  notes: The passage is front matter and a table of contents, so named figures and
+    section topics are clear, but motif extraction is necessarily limited and tentative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No symbols from the supplied symbol taxonomy appear in this passage. No comparison claims were made because the passage does not itself support comparative assertions.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-persian-mystics-rumi-davis-gutenberg__l116-l142
+  passage_sha256=a3712e9b190d376c37ea47e73e3b5e0e27e6460d9b8800e275aee7d5a546d242

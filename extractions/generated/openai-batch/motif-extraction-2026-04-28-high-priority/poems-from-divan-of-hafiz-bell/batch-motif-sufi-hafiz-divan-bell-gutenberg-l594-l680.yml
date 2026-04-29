@@ -1,0 +1,514 @@
+---
+record_id: batch.motif.sufi-hafiz-divan-bell-gutenberg-l594-l680
+source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+passage_locator:
+  label: GERTRUDE LOWTHIAN BELL / LONDON / WILLIAM HEINEMANN / INTRODUCTION; lines
+    594-680
+  start: '594'
+  end: '680'
+  translation: Poems from the Divan of Hafiz
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes Hafiz’s contested reputation, accusations against
+    him, a burial dispute settled by consulting his poetry, family losses, posthumous
+    compilation of his Divan, the Divan’s use as a guide to future action, and Bell’s
+    summary of Hafiz as a Sufi within disputed accounts of Sufism’s origins.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Hafiz is described as a teacher, favorite of princes, and critic whose popularity
+    was mixed and whose enemies accused him of heresy and atheism.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: After Hafiz’s death, people debated whether his body could receive burial
+    rites.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The burial question was settled by opening Hafiz’s poems at random and finding
+    a verse that encouraged pious attendance at his corpse and mentioned paradise
+    despite sin.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Hafiz is said to have been married, to have had a son, to have lamented the
+    deaths of wife and child, and to have died poor.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Sudi says Hafiz recited his songs in his school and wished that the poems,
+    described as pearls, might be strung together.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: After Hafiz’s death, his pupil Sayyed Kasim el Anwar gathered the poems, and
+    the Divan became widely popular in Persian-speaking regions.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The Divan of Hafiz is described as being consulted as a guide to future action,
+    with stories of famous men using Sortes Hafizianae.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Nadir Shah is said to have consulted Hafiz’s book before an expedition against
+    Tauris and interpreted the opened verse as encouragement to conquest.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Hafiz is identified as a Sufi, and Sufism is described as mystical with unity
+    as its essential doctrine.
+  category: attribute
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: The passage reports several proposed sources for Sufism, including Indian
+    mystics, Zoroastrian doctrines, Greek philosophy, Neo-Platonism, and Christianity,
+    while stressing uncertainty and objections.
+  category: other
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Hafiz
+  description: Persian poet described as teacher, favorite of princes, Sufi, husband
+    and father, and author whose poems were consulted after his death.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:7
+- id: fig:2
+  name_or_label: Daulat Shah
+  description: Biographer who presents a favorable account of Hafiz’s associations
+    with dervishes, wise men, princes, and noble youths.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Hafiz’s enemies
+  description: Opponents who accused Hafiz of heresy and atheism.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Sudi
+  description: Turkish editor quoted as saying that Hafiz was too busy teaching and
+    composing to gather his songs.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Sayyed Kasim el Anwar
+  description: Pupil of Hafiz who gathered the songs after Hafiz’s death.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: Nadir Shah
+  description: Ruler who is said to have consulted Hafiz’s book before an expedition
+    and to have taken the verse as encouragement.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:6
+- id: fig:7
+  name_or_label: Persian-speaking readers and singers
+  description: People from India to Constantinople who are said to sing and repeat
+    Hafiz’s songs.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:5
+- id: fig:8
+  name_or_label: European readers
+  description: Readers who are said to admire Hafiz’s music and imagery but often
+    not turn to him for wisdom or guidance.
+  role_refs:
+  - role:11
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: poet and teacher
+  assigned_to:
+  - fig:1
+  basis: The passage describes Hafiz as a teacher and says he recited songs in his
+    school.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: contested religious figure
+  assigned_to:
+  - fig:1
+  basis: His enemies accused him of heresy and atheism, and his burial rites were
+    debated.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: posthumous textual authority
+  assigned_to:
+  - fig:1
+  basis: His poems resolved the burial dispute and his Divan was later consulted as
+    a guide to future action.
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: role:4
+  label: Sufi poet
+  assigned_to:
+  - fig:1
+  basis: The passage explicitly states that Hafiz was a Sufi.
+  evidence_refs:
+  - ev:7
+- id: role:5
+  label: favorable biographer
+  assigned_to:
+  - fig:2
+  basis: Daulat Shah is cited as giving a rosy account of Hafiz’s life and companions.
+  evidence_refs:
+  - ev:1
+- id: role:6
+  label: accusers
+  assigned_to:
+  - fig:3
+  basis: The enemies accuse Hafiz of heresy and atheism.
+  evidence_refs:
+  - ev:1
+- id: role:7
+  label: editorial commentator
+  assigned_to:
+  - fig:4
+  basis: Sudi is named as Hafiz’s Turkish editor and is quoted about Hafiz’s teaching
+    and composition.
+  evidence_refs:
+  - ev:4
+- id: role:8
+  label: posthumous compiler
+  assigned_to:
+  - fig:5
+  basis: Sayyed Kasim el Anwar is said to have gathered Hafiz’s songs after Hafiz’s
+    death.
+  evidence_refs:
+  - ev:5
+- id: role:9
+  label: royal consulter of book oracle
+  assigned_to:
+  - fig:6
+  basis: Nadir Shah consulted Hafiz’s book and acted on the verse as encouragement.
+  evidence_refs:
+  - ev:6
+- id: role:10
+  label: popular transmitters
+  assigned_to:
+  - fig:7
+  basis: Persian-speaking people are said to sing and repeat Hafiz’s songs over a
+    wide region.
+  evidence_refs:
+  - ev:5
+- id: role:11
+  label: ambivalent admirers
+  assigned_to:
+  - fig:8
+  basis: European readers are said to admire the verse but often not choose Hafiz
+    as a guide.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: Hafiz’s corpse
+  literal_form: corpse/body awaiting burial rites
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: ocean of sin
+  literal_form: image of being drowned in an ocean of sin
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: paradise
+  literal_form: place in paradise mentioned in the burial-settling verse
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: pearls strung together
+  literal_form: Hafiz’s songs compared to pearls strung for adornment
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: Divan as guide to future action
+  literal_form: book opened and interpreted for guidance
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: captivity by song
+  literal_form: European reader being taken captive by the music of Hafiz’s songs
+  associated_figures:
+  - fig:1
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Reputation and accusation
+  summary: Hafiz is presented as admired by some and opposed by others, with enemies
+    accusing him of heresy and atheism.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Burial dispute settled by poetry
+  summary: After Hafiz’s death, the question of burial rites is settled by opening
+    his poems at random and reading a verse about following his corpse and possible
+    paradise despite sin.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Posthumous gathering of songs
+  summary: Sudi reports that Hafiz recited his songs but did not collect them; after
+    his death, Sayyed Kasim el Anwar gathered them, and the Divan became widely popular.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  - fig:7
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Nadir Shah consults the Divan
+  summary: Nadir Shah opens Hafiz’s book before an expedition and interprets the verse
+    as encouragement for further conquest.
+  figure_refs:
+  - fig:1
+  - fig:6
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: Hafiz as Sufi philosopher
+  summary: The passage contrasts Eastern esteem for Hafiz as philosopher and Sufi
+    with European ambivalence toward his mysticism and wisdom.
+  figure_refs:
+  - fig:1
+  - fig:8
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:7
+- id: scene:6
+  label: Uncertain origins of Sufism
+  summary: The passage lists and evaluates theories that Sufism arose from Indian
+    mysticism, Zoroastrianism, Greek philosophy, Neo-Platonism, or Christianity.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: posthumous judgment mediated by a poet’s own words
+  taxonomy_refs:
+  - divine_judgment
+  basis: A dispute over Hafiz’s burial is resolved by opening his poems and finding
+    a verse that addresses his corpse, sin, and possible paradise.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage frames the event as a biographical anecdote, not as a formal
+    divine judgment narrative.
+- id: motif:2
+  label: book divination for future action
+  taxonomy_refs:
+  - wisdom
+  basis: The Divan is described as consulted like the Aeneid for guidance; Nadir Shah
+    opens it before an expedition and interprets the verse as encouragement.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The available taxonomy has no specific bibliomancy or sortes category;
+    the wisdom reference is functional rather than exact.
+- id: motif:3
+  label: mystical unity as Sufi doctrine
+  taxonomy_refs:
+  - annihilation_union
+  basis: The passage identifies Hafiz as a Sufi and says Sufism’s essential doctrine
+    is unity.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The passage states a doctrine of unity but does not explicitly discuss
+    annihilation, union language, or a narrative of mystical union.
+- id: motif:4
+  label: poems as pearls gathered after death
+  taxonomy_refs: []
+  basis: Sudi’s statement represents Hafiz’s uncollected songs as pearls to be strung,
+    and a pupil gathers them after Hafiz’s death.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: This is an editorial and poetic image rather than a mythic plot motif.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares the Divan of Hafiz to the Aeneid in the function
+    of being consulted as a guide to future action.
+  claim_level: same_function
+  target: Aeneid as a book used for sortes-style guidance
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage gives only a functional comparison and does not describe
+    identical ritual procedures in detail.
+- id: claim:2
+  claim: The passage reports, without endorsing decisively, theories that Sufism may
+    have been influenced by Indian mysticism, Zoroastrian doctrine, Greek philosophy,
+    Neo-Platonism, or Christianity.
+  claim_level: historical_contact
+  target: Proposed external sources for Sufism
+  evidence_refs:
+  - ev:8
+  counter_evidence_refs:
+  - ev:8
+  confidence: uncertain
+  limitations: The same passage emphasizes uncertainty and objections to these origin
+    theories; it does not establish historical contact.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 594-614
+  quote_or_summary: Hafiz is described as a teacher and favorite of princes whose
+    enemies accused him of heresy and atheism; Daulat Shah gives a favorable biographical
+    account that Bell questions.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 614-622
+  quote_or_summary: 'The burial dispute is settled by opening Hafiz’s poems at a verse:
+    “Fear not to follow with pious feet the corpse of Hafiz,” despite his being “drowned
+    in the ocean of sin” and possibly finding “a place in paradise.”'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: summary
+  locator: lines 624-628
+  quote_or_summary: Hafiz was married, had a son, lamented the deaths of wife and
+    child in poems, and is said to have died poor.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 630-636
+  quote_or_summary: Sudi says Hafiz was too busy “teaching and composing philosophical
+    treatises” to gather his songs and wished that “these pearls might be strung together.”
+  source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+  rights_note: Public domain source; short quotation.
+- id: ev:5
+  type: summary
+  locator: lines 636-641
+  quote_or_summary: Sayyed Kasim el Anwar gathered the songs after Hafiz’s death;
+    the Divan became popular in Persian, with songs repeated from India to Constantinople
+    and translated in Europe.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: quote
+  locator: lines 641-650
+  quote_or_summary: The Divan is compared to the Aeneid as consulted for future action;
+    Nadir Shah uses Sortes Hafizianae before an expedition and takes the verse as
+    encouragement to conquest.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+  rights_note: Public domain source; summarized with brief cited phrase.
+- id: ev:7
+  type: summary
+  locator: lines 652-664
+  quote_or_summary: Hafiz is esteemed in the East as a poet and philosopher; Europeans
+    may admire the music and imagery but often reject his mysticism and do not choose
+    him as a guide.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 666-680
+  quote_or_summary: Hafiz is identified as a Sufi; Sufism’s origins are called uncertain,
+    with theories of Indian, Zoroastrian, Greek, Neo-Platonic, and Christian influence,
+    together with objections and cautions.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Biographical and interpretive introduction provides clear evidence for book-divination
+    and disputed burial motifs; broader Sufi-origin comparisons are explicitly uncertain
+    in the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  All observations and motifs are limited to the supplied passage and metadata.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-hafiz-divan-bell-gutenberg__l594-l680
+  passage_sha256=c2df7e21e7a38fb5178b325a0066c66807ab053002b4dde3b4513dea3fec110d

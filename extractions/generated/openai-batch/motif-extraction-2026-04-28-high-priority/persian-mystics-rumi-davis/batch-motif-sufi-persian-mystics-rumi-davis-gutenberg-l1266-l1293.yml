@@ -1,0 +1,348 @@
+---
+record_id: batch.motif.sufi-persian-mystics-rumi-davis-gutenberg-l1266-l1293
+source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+passage_locator:
+  label: ASPIRATION / THE JOURNEY TO THE BELOVED / THE DAY OF RESURRECTION / THE RETURN
+    OF THE BELOVED; lines 1266-1293
+  start: '1266'
+  end: '1293'
+  translation: 'The Persian Mystics: Jalálu''d-dín Rúmí'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: "“Thou wert dust and art spirit, thou wert ignorant and art wise.”"
+  summary: The passage presents a resurrection scene with tumult, lights, and the
+    world giving birth to the everlasting world. It then speaks of the Beloved returning
+    at night and urges abstinence from opium, food, speech, entangled thoughts, life,
+    and the world in order to taste sweetness, enter the circle, see Paradise, gain
+    later speech, and behold the Life of the world.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The resurrection section describes clamour and tumult on every side and candles
+    and torches in every street.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says the teeming world gives birth to the World Everlasting.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The addressed person is described as having been dust and become spirit, and
+    as having been ignorant and become wise.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: A figure who has led the addressee thus far is said to lead the addressee
+    further and gently draw the addressee to himself through pains.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: The Beloved is said always to return at night.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The speaker instructs the addressee not to eat opium, to close the mouth against
+    food, and to refrain from speaking.
+  category: speech
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:7
+  text: A cup-bearer is described as not being a tyrant, and his assembly is said
+    to contain a circle into which the addressee is invited.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:8
+  text: The speaker contrasts the wideness of God's earth with the addressee having
+    fallen asleep in a prison.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: The speaker instructs the addressee to avoid entangled thoughts, abandon life
+    and the world, and thereby see Paradise explained and behold the Life of the world.
+  category: speech
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: the addressed person
+  description: The person or audience spoken to as having changed from dust to spirit
+    and from ignorance to wisdom, and as being instructed to abstain and enter the
+    circle.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: the Beloved
+  description: A beloved figure said to return at night.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: the guiding He
+  description: A figure described as having led the addressee thus far, leading further,
+    and gently drawing the addressee to himself.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: the cup-bearer
+  description: A cup-bearer described as not tyrannical and associated with an assembly
+    containing a circle.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: God
+  description: Named in the phrase referring to the wideness of God's earth.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: instructed aspirant
+  assigned_to:
+  - fig:1
+  basis: The addressee is told what to avoid, abandon, and behold, and is described
+    as undergoing transformation.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: returning beloved
+  assigned_to:
+  - fig:2
+  basis: The passage states that the Beloved always returns at night.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: divine guide or drawer
+  assigned_to:
+  - fig:3
+  basis: The figure has led the addressee and will lead further, drawing the addressee
+    to himself.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: cup-bearer of the assembly
+  assigned_to:
+  - fig:4
+  basis: The cup-bearer is linked with an assembly and a circle into which the addressee
+    is invited.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: possessor of the wide earth
+  assigned_to:
+  - fig:5
+  basis: The passage refers to God's earth as wide in contrast to a prison.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: candles and torches
+  literal_form: candles and torches in every street
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: birth of the World Everlasting
+  literal_form: the teeming world giving birth to the World Everlasting
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: dust becoming spirit
+  literal_form: dust changed into spirit
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: night return
+  literal_form: the Beloved returning at night
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: circle in the assembly
+  literal_form: a circle in the cup-bearer's assembly
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:6
+  label: prison
+  literal_form: a prison in which the addressee has fallen asleep
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:7
+  label: Paradise
+  literal_form: Paradise whose explanation may be seen
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:8
+  label: Life of the world
+  literal_form: the Life of the world to be beheld after abandoning life and the world
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Day of Resurrection
+  summary: A resurrection scene is presented with public tumult, street lights, the
+    birth of the World Everlasting, the addressee's transformation from dust to spirit
+    and ignorance to wisdom, and a guiding figure drawing the addressee onward.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Return of the Beloved
+  summary: At night the Beloved returns; the addressee is urged to abstain, enter
+    the cup-bearer's circle, cease regarding Time's revolution, awaken from prison,
+    avoid thoughts, refrain from speech, and abandon life and the world to behold
+    higher realities.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: resurrection and transformation
+  taxonomy_refs:
+  - resurrection
+  - death_rebirth
+  basis: The passage is headed as a day of resurrection and describes the world giving
+    birth to the World Everlasting and the addressee changing from dust to spirit.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage is poetic and devotional rather than a narrative account of
+    bodily resurrection.
+- id: motif:2
+  label: divine beloved returns
+  taxonomy_refs:
+  - divine_beloved
+  - return
+  basis: The Beloved is explicitly said to return at night.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The identity of the Beloved is not further specified within the passage.
+- id: motif:3
+  label: mystical quest through abstinence and renunciation
+  taxonomy_refs:
+  - mystical_quest
+  - annihilation_union
+  basis: The addressee is instructed to abstain from opium, food, speech, entangled
+    thoughts, life, and the world in order to taste sweetness, see Paradise, gain
+    future speech, and behold the Life of the world.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The motif family assignment is interpretive; the literal passage gives
+    imperatives and desired visionary outcomes.
+- id: motif:4
+  label: guidance toward the divine
+  taxonomy_refs:
+  - mystical_quest
+  basis: A guiding figure is described as having led the addressee so far and as continuing
+    to lead and draw the addressee to himself.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The guiding figure is named only by pronoun in the immediate lines.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1266-1272
+  quote_or_summary: The section titled “THE DAY OF RESURRECTION” describes clamour,
+    candles and torches, the world giving birth to the World Everlasting, the addressee
+    becoming spirit and wise, and a guiding figure leading and drawing the addressee
+    onward.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; concise summary with short title quotation.
+- id: ev:2
+  type: summary
+  locator: lines 1275-1281
+  quote_or_summary: The section titled “THE RETURN OF THE BELOVED” says the Beloved
+    returns at night, urges the addressee not to eat opium and to close the mouth
+    against food, and describes a cup-bearer, an assembly, and a circle.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; concise summary with short title quotation.
+- id: ev:3
+  type: summary
+  locator: lines 1283-1293
+  quote_or_summary: The speaker contrasts wide God's earth with sleeping in a prison,
+    and instructs the addressee to avoid entangled thoughts, refrain from speaking,
+    and abandon life and the world to see Paradise and behold the Life of the world.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; concise summary.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction uses only the supplied passage. Motif assignments are limited
+    to available taxonomy refs and remain draft interpretive candidates.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not provide an explicit comparative link beyond its own devotional imagery and available motif-family classification.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-persian-mystics-rumi-davis-gutenberg__l1266-l1293
+  passage_sha256=71738393aa1e6e045846ea3b472f11b0964eb4feb1af465744ef51fa633042ed

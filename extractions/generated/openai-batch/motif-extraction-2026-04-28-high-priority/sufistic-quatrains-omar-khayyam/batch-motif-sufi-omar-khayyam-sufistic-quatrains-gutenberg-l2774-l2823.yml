@@ -1,0 +1,424 @@
+---
+record_id: batch.motif.sufi-omar-khayyam-sufistic-quatrains-gutenberg-l2774-l2823
+source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+passage_locator:
+  label: XXVI. / XXVII. / XXVIII. / XXIX.; lines 2774-2823
+  start: '2774'
+  end: '2823'
+  translation: The Sufistic Quatrains of Omar Khayyam
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage presents quatrains and source notes about human beings coming
+    into existence without knowing why or whence, leaving without knowing whither,
+    and using wine to drown the memory or misery of this involuntary condition. Editorial
+    notes connect the quatrains to cited ruba'iyat and reference lists.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The speaker describes entering the universe without knowing why or whence.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker compares the movement into existence to water flowing unwillingly.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The speaker describes leaving the universe without knowing whither.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The speaker compares departure to wind blowing along a waste or desert.
+  category: relationship
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: obs:5
+  text: A cited parallel says the speaker was brought into existence in confusion
+    and gains amazement from life.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: A cited parallel says coming, going, and being occur against the speaker's
+    will and without known purpose.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: A cited parallel compares a day of existence passing to water in a great river
+    and wind in the desert.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: A later quatrain asks whence the speaker was hurried here without asking and
+    whither hurried hence without asking.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The quatrain says many cups of forbidden wine must drown the memory of that
+    insolence.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: A cited source passage says the speaker's coming was not in the speaker's
+    power at the Day of Creation and departure is fixed.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: The cited source addresses a nimble cup-bearer and calls for wine to wash
+    down the misery of the world.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:12
+  text: Another cited source says that, if the speaker had control, the speaker would
+    not have come or gone, and it would have been better not to have come, gone, or
+    lived.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:13
+  text: Editorial prose states that quatrain XXIX is inspired by cited materials and
+    that quatrain XXX originates in two ruba'iyat in O.
+  category: relationship
+  evidence_refs:
+  - ev:7
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: speaker
+  description: First-person voice who speaks of involuntary coming, existence, departure,
+    ignorance of origin and destination, and wine as a response.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: cup-bearer
+  description: A nimble cup-bearer addressed in a cited source passage and asked to
+    rise and prepare wine.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: unknowing existential speaker
+  assigned_to:
+  - fig:1
+  basis: The speaker repeatedly says they do not know why, whence, or whither, and
+    cited parallels emphasize confusion and amazement at existence.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: role:2
+  label: unwilling participant in coming and going
+  assigned_to:
+  - fig:1
+  basis: The speaker's coming and going are described as without consent, not in the
+    speaker's power, fixed, or against the speaker's will.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+- id: role:3
+  label: wine-server addressed for relief
+  assigned_to:
+  - fig:2
+  basis: The cited source addresses the cup-bearer and requests wine to wash down
+    worldly misery.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: water
+  literal_form: Water flowing; water in a great river
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: wind
+  literal_form: Wind blowing along the waste or in the desert
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:3
+  label: forbidden wine
+  literal_form: Cups of forbidden wine; wine used to drown memory or wash down misery
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: universe or world
+  literal_form: Universe entered and exited; world whose misery is washed down
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: sym:5
+  label: Day of Creation
+  literal_form: Day of Creation named as the time when coming was not in the speaker's
+    power
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Unwilled entry and exit from the universe
+  summary: The speaker says they enter the universe without knowing why or whence,
+    move like unwilling water, and leave like wind without knowing whither.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Cited reflection on confusion, amazement, and purposeless coming and going
+  summary: A cited parallel says the speaker was brought into existence in confusion,
+    gains amazement from life, and does not know the purpose of coming, going, and
+    being.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Passing existence compared to river water and desert wind
+  summary: A cited parallel describes another day passing from the speaker's existence
+    like water in a great river and wind in the desert.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Wine against involuntary origin and departure
+  summary: The speaker asks why they were hurried here and away without being asked,
+    and says many cups of forbidden wine must drown the memory of the insolence.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Cited request to cup-bearer
+  summary: A cited source says the speaker's coming was not in their power and departure
+    is fixed, then addresses a cup-bearer and calls for wine to wash down worldly
+    misery.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:5
+- id: scene:6
+  label: Cited rejection of coming, going, and living
+  summary: Another cited source says the speaker would not have come or gone if they
+    had control and that it would have been better not to have come, gone, or lived.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Unwilled coming into and going out of existence
+  taxonomy_refs: []
+  basis: Multiple lines describe entry into existence and departure as involuntary,
+    not chosen, not controlled, or fixed.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: This is a passage-level philosophical pattern rather than a named taxonomy
+    motif in the supplied list.
+- id: motif:2
+  label: Ignorance of origin, purpose, and destination
+  taxonomy_refs:
+  - wisdom
+  basis: The speaker repeatedly asks or states not knowing why, whence, whither, or
+    the purpose of coming, going, and being.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The taxonomy reference to wisdom is broad; the passage emphasizes questioning
+    and not-knowing rather than an explicit wisdom figure or teaching.
+- id: motif:3
+  label: Life as flow of water and wind
+  taxonomy_refs: []
+  basis: The passage compares existence, movement into and out of the universe, and
+    the passing of days to water flowing and wind blowing.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: Wind is not present in the supplied symbol taxonomy; water is a symbol
+    reference, but the motif itself is not named in the supplied motif-family list.
+- id: motif:4
+  label: Wine as relief from existential misery or memory
+  taxonomy_refs: []
+  basis: The passage says forbidden wine must drown memory, and a cited source calls
+    for wine to wash down the misery of the world.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage does not explicitly define wine allegorically; extraction
+    remains at the literal-symbolic level.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself states that quatrain XXIX is inspired by C. 235 and O.
+    20, and the cited materials share the pattern of involuntary existence, unknown
+    purpose, and water/wind imagery.
+  claim_level: same_motif
+  target: C. 235 and O. 20 as cited in the editorial notes
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:7
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim is limited to the editorially cited parallels and does not
+    establish broader historical transmission beyond the passage's own source note.
+- id: claim:2
+  claim: The passage itself states that quatrain XXX originates in two ruba'iyat in
+    O.; the cited O. 21 and O. 157 passages share the motif of lacking control over
+    coming and going, while O. 21 also shares wine as a response to worldly misery.
+  claim_level: same_motif
+  target: O. 21 and O. 157 as cited in the editorial notes
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:8
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim follows the passage's editorial assertion and cited translations;
+    it does not independently verify manuscript or textual history.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2774-2781, XXIX quatrain
+  quote_or_summary: The speaker enters the universe without knowing why or whence,
+    like water flowing unwillingly, and leaves like wind along the waste without knowing
+    whither.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 2784-2790, cited C. 235 / O. 20 material
+  quote_or_summary: A cited passage says the speaker was brought into existence in
+    confusion, gains only amazement from life, and does not know the purpose of coming,
+    going, and being.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 2795-2796, cited O. 20 material
+  quote_or_summary: Like water in a great river and like wind in the desert, / Another
+    day passes out of the period of my existence.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: summary
+  locator: lines 2804-2809, XXX quatrain
+  quote_or_summary: The quatrain asks whence the speaker was hurried here and whither
+    hurried away without being asked, and says many cups of forbidden wine must drown
+    the memory of the insolence.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 2813-2818, cited O. 21 material
+  quote_or_summary: A cited passage says the speaker's coming was not in their power
+    at the Day of Creation, departure is fixed, and the cup-bearer is told to bring
+    wine to wash down the misery of the world.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 2822-2827, cited O. 157 material
+  quote_or_summary: A cited passage says that if the speaker controlled the matter,
+    they would not have come or gone, and it would have been better not to have come,
+    gone, or lived.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 2782-2783 and references following XXIX
+  quote_or_summary: The editorial note says the inspiration for quatrain XXIX is found
+    in C. 235 and O. 20, followed by reference lists.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 2811-2812 and references following XXX
+  quote_or_summary: The editorial note says quatrain XXX owes its origin to two ruba'iyat
+    in O., identified as 21 and 151, with later references listing O. 21 and O. 157
+    in the supplied excerpt.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif labels are passage-level and
+    partly non-taxonomic. Comparison claims are confined to editorial source relationships
+    explicitly stated in the supplied passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No external sources used; all claims derive from the supplied passage and metadata.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-omar-khayyam-sufistic-quatrains-gutenberg__l2774-l2823
+  passage_sha256=8fc4848623595141faec5bf3057038632d6fc40da52d873ebb6f6d359bbcf363

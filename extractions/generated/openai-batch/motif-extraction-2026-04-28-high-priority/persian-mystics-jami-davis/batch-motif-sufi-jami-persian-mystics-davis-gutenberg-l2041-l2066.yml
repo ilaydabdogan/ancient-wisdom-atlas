@@ -1,0 +1,345 @@
+---
+record_id: batch.motif.sufi-jami-persian-mystics-davis-gutenberg-l2041-l2066
+source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+passage_locator:
+  label: A BEAUTIFUL WOMAN / SIXTH GARDEN / JOCULARITY / A WEAVER AND A LEARNED PROFESSOR;
+    lines 2041-2066
+  start: '2041'
+  end: '2066'
+  translation: 'The Persian Mystics: Jámí'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: 'The heart is a mirror, and vexation the rust on it: That rust is best polished
+    away by jocularity.'
+  summary: The passage introduces jocularity as a legitimate remedy for vexation,
+    then tells a comic anecdote in which a weaver asks a learned professor to return
+    a deposit, waits during a lecture, mistakes the professor's head-shaking for the
+    substance of teaching, and offers to take the professor's place and wag his head
+    while the professor retrieves the deposit.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The introductory verses say that joking by a contented man should not be blamed
+    and present jocularity as permitted by reason and religion.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The heart is compared to a mirror, vexation to rust on it, and jocularity
+    to a means of polishing away that rust.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A weaver had left something in trust with a learned man and later came to
+    ask for it back.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The learned man was sitting in front of his house on a professional couch,
+    with disciples before him.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The weaver requested his deposit, and the learned man told him to wait until
+    the lecture was finished.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: During the lecture the weaver saw that the learned man often shook his head.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The weaver thought the lesson consisted in the head-shaking and offered to
+    sit in the professor's place and wag his head while the professor brought out
+    the deposit.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: contented man
+  description: A generalized person whose joking is defended in the introductory verses.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: weaver
+  description: A man who had entrusted something to a learned man, asks for its return,
+    observes the lecture, and offers to take the professor's place by wagging his
+    head.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:3
+  name_or_label: learned professor / Mullana
+  description: A learned man seated on a professional couch before disciples, lecturing,
+    and delaying the return of the weaver's deposit.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: disciples
+  description: A number of disciples seated in front of the learned man during his
+    lecture.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: licensed joker
+  assigned_to:
+  - fig:1
+  basis: The introductory verses say a contented man's jokes should not be blamed
+    and are licit by reason and religion.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: claimant of entrusted property
+  assigned_to:
+  - fig:2
+  basis: The weaver had left something in trust and asks to have the deposit back.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:3
+  label: lecturing learned man
+  assigned_to:
+  - fig:3
+  basis: The learned man sits on a professional couch with disciples before him and
+    is delivering a lecture.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:4
+  label: audience of disciples
+  assigned_to:
+  - fig:4
+  basis: The disciples sit in front of the professor during the lecture.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: comic imitator
+  assigned_to:
+  - fig:2
+  basis: The weaver mistakes head-shaking for the act of teaching and offers to replace
+    the professor by wagging his head.
+  evidence_refs:
+  - ev:6
+  - ev:7
+symbols:
+- id: sym:1
+  label: heart as mirror
+  literal_form: mirror image applied to the heart
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: vexation as rust
+  literal_form: rust on a mirror
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: jocularity as polishing
+  literal_form: polishing away rust
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: entrusted deposit
+  literal_form: something left in trust with the learned man
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:5
+  label: professional couch
+  literal_form: the learned man's teaching seat in front of his house
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: head-wagging gesture
+  literal_form: the professor shakes his head; the weaver proposes to wag his head
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+scenes:
+- id: scene:1
+  label: Moral preface on jocularity
+  summary: The passage states that joking by a contented man is not blameworthy and
+    frames jocularity as a way to remove vexation from the heart.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Weaver requests his deposit
+  summary: The weaver comes to the learned man's house to recover an entrusted item
+    and finds him lecturing before disciples.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Comic misunderstanding of teaching
+  summary: After observing the learned man repeatedly shake his head, the weaver assumes
+    this is the substance of the lesson and offers to take the professor's seat and
+    wag his head so the professor can fetch the deposit.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:4
+  - sym:6
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: jocularity as spiritual or moral remedy
+  taxonomy_refs:
+  - wisdom
+  basis: The introductory verses explicitly justify joking and describe jocularity
+    as polishing rust from the mirror of the heart.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The taxonomy reference is broad; the passage names jocularity rather than
+    a formal wisdom-teaching category.
+- id: motif:2
+  label: comic misunderstanding of learned performance
+  taxonomy_refs: []
+  basis: The weaver observes the professor's head-shaking during a lecture and interprets
+    it as the lesson itself, producing a joke about taking the professor's place.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: This is a local comic anecdote; no external motif index is supplied.
+- id: motif:3
+  label: humble claimant interrupts learned authority
+  taxonomy_refs: []
+  basis: The weaver asks the learned professor to return a deposit, is told to wait
+    for the lecture, and then proposes a practical substitution that deflates the
+    professor's formal role.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:7
+  confidence: medium
+  cautions: The passage does not explicitly state social critique; this motif is inferred
+    from the narrated interaction.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 2041-2045
+  quote_or_summary: '"If a contented man jokes, blame him not," and joking is described
+    as "licit by the laws of reason and religion."'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:2
+  type: quote
+  locator: lines 2046-2048
+  quote_or_summary: '"The heart is a mirror, and vexation the rust on it: That rust
+    is best polished away by jocularity."'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:3
+  type: summary
+  locator: lines 2050-2054
+  quote_or_summary: A weaver who had left something in trust with a learned man later
+    came to ask for it back.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 2054-2058
+  quote_or_summary: The learned man was sitting before his house on a professional
+    couch, with a number of disciples in front of him.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: lines 2058-2061
+  quote_or_summary: The weaver says, "Mullana, I am in need of my deposit," and the
+    learned man replies, "Wait an hour till I finish my lecture."
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:6
+  type: summary
+  locator: lines 2061-2063
+  quote_or_summary: As the lecture continued, the weaver noticed that the Mullana
+    often shook his head.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: quote
+  locator: lines 2063-2066
+  quote_or_summary: The weaver says the professor should let him take his place and
+    "wag my head" until the professor brings out the deposit, because he is in haste.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; short quotation used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labeling is cautious because
+    the passage provides a comic moral anecdote but no explicit cross-textual comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not support a specific comparison to another text or tradition.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-jami-persian-mystics-davis-gutenberg__l2041-l2066
+  passage_sha256=fd59aee9665f94ecf6b5b336290861233269173d92988bfac33480986cfe9ed1

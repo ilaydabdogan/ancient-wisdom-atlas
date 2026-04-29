@@ -1,0 +1,328 @@
+---
+record_id: batch.motif.sufi-jami-persian-mystics-davis-gutenberg-l1292-l1340
+source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+passage_locator:
+  label: OUR NEED OF THE BELOVED / THE HIDDEN TRUTH / THE SEA OF BEING / THE REVELATION
+    OF TRUTH; lines 1292-1340
+  start: '1292'
+  end: '1340'
+  translation: 'The Persian Mystics: Jámí'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage presents Being as a sea whose billows veil its actual form;
+    identifies Being with the essence of the Lord in whom all things exist; explains
+    two modes of the revelation of Truth, inward and outward emanation; and admonishes
+    the addressee that the self has no independent existence or action because He
+    lives within human forms.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Being is described as a sea in constant billows, and humans are said to behold
+    only the billows.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The billows are said to come from within, rest upon the sea, and veil the
+    sea's actual form.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Being is identified as the essence of the Lord of all; all things are said
+    to exist in Him and He in all.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: 'The Majesty of the Truth is said to be revealed in two manners: an inward
+    subjective revelation and an outward objective manifestation.'
+  category: sequence
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:5
+  text: The inward revelation is named Most Holy Emanation and consists in the self-manifestation
+    of Truth to His own consciousness from eternity under the forms of substances,
+    their characteristics, and capacities.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The outward revelation is named Holy Emanation and is described as the manifestation
+    of Truth with the impress of the properties and marks of the substances.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The second revelation ranks after the first and is described as a theatre
+    where perfections contained potentially in the first revelation are manifested
+    to sight.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Power and being are denied to humans, yet power and action are ascribed to
+    them because He lives within their forms.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The addressee is told that the self is non-existent and that actions should
+    not be deemed to be done by the self.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The addressee is warned not to vaunt the self, deal in false merchandise,
+    or feign independent existence.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Being / Truth / Lord of all
+  description: The passage identifies Being with the essence of the Lord of all, speaks
+    of Truth self-manifesting, and says He lives within human forms.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: Humans / addressee
+  description: Humans behold the billows; the addressee is told that the self is non-existent
+    and not independently active.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:7
+roles:
+- id: role:1
+  label: immanent divine source
+  assigned_to:
+  - fig:1
+  basis: Being or Truth is described as the essence in which all things exist, as
+    self-manifesting, and as living within human forms.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:2
+  label: human perceiver and admonished self
+  assigned_to:
+  - fig:2
+  basis: Humans behold the billows, and the addressed knower is instructed not to
+    consider the self independently existent or active.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:7
+symbols:
+- id: sym:1
+  label: sea of being
+  literal_form: sea in constant billows
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: billows
+  literal_form: billows seen by humans, resting upon the sea
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: veil
+  literal_form: veil enfolding the actual form of the sea
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: forms inhabited by He
+  literal_form: human forms within which He lives
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: wall before fresco
+  literal_form: wall built before a fresco is begun
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Sea of Being
+  summary: Being is represented as a sea; humans see only its billows, which both
+    arise from and veil the sea.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: All things in the All
+  summary: Being is identified with the Lord's essence, and all things are described
+    as existing in Him while He exists in all.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Two revelations of Truth
+  summary: Truth is said to be revealed first inwardly as Most Holy Emanation and
+    then outwardly as Holy Emanation, where potential perfections are made visible.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Admonition against independent selfhood
+  summary: The addressee is told that human power, being, and action are not independent
+    because He lives within human forms, and the addressee is warned against vaunting
+    the self.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: annihilation of independent self in divine immanence
+  taxonomy_refs:
+  - annihilation_union
+  basis: The passage denies independent selfhood and human power while affirming that
+    He lives within human forms and that all things exist in Him and He in all.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The passage states metaphysical non-independence and immanence, but does
+    not narrate an event of union.
+- id: motif:2
+  label: twofold manifestation of divine truth
+  taxonomy_refs:
+  - duality
+  basis: Truth is described as revealed in two manners, inward subjective revelation
+    and outward objective manifestation, with the second ranked after the first.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The dual structure is explicit, but it is doctrinal exposition rather
+    than a mythic narrative.
+- id: motif:3
+  label: water image for hidden reality and manifest forms
+  taxonomy_refs: []
+  basis: Being is imaged as a sea, while the billows seen by humans arise from it
+    and veil its actual form.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: This is a symbolic metaphor rather than an enacted mythic motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1292-1297
+  quote_or_summary: Being is described as a sea in billows; humans behold the billows,
+    which arise from within, rest on the sea, and veil its actual form.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source text.
+- id: ev:2
+  type: summary
+  locator: lines 1298-1303
+  quote_or_summary: Being is called the essence of the Lord of all; all things exist
+    in Him and He in all, glossed as all things comprehended in the All.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source text.
+- id: ev:3
+  type: summary
+  locator: lines 1306-1314
+  quote_or_summary: The Majesty of Truth is revealed first as inward subjective revelation,
+    named Most Holy Emanation, involving Truth's self-manifestation to His own consciousness
+    from eternity.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source text.
+- id: ev:4
+  type: summary
+  locator: lines 1315-1324
+  quote_or_summary: The second revelation is outward objective manifestation, named
+    Holy Emanation; it manifests Truth with the marks of substances and serves as
+    a theatre where potential perfections become visible.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source text.
+- id: ev:5
+  type: summary
+  locator: lines 1326-1331
+  quote_or_summary: Power and being are denied to humans, but because He lives within
+    human forms, power and action are ascribed to them.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source text.
+- id: ev:6
+  type: summary
+  locator: lines 1332-1336
+  quote_or_summary: The addressee is told that the self is non-existent, actions are
+    not done by the self, and that the wall should be built before the fresco is begun.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source text.
+- id: ev:7
+  type: summary
+  locator: lines 1337-1340
+  quote_or_summary: The addressee is warned not to vaunt the self, trade in false
+    merchandise, or pretend to exist of the self; vain conceits and foolish lies are
+    rejected.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source text.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal doctrinal and symbolic elements are explicit. Motif labeling is cautious
+    because the passage is philosophical-mystical exposition rather than narrative
+    myth.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not make an explicit comparison to another text, tradition, or external motif family.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-jami-persian-mystics-davis-gutenberg__l1292-l1340
+  passage_sha256=da76eae4ae1f3ae192ba462a2e95842ba6c65883141fcd8fbead3f618ca6da7b

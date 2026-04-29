@@ -8,167 +8,22 @@ summary:
   - texts/permissioned/**/*.md
   extraction_glob: extractions/**/*.{yml,yaml}
   text_count: 58
-  texts_with_extractions: 53
-  texts_without_extractions: 5
-  texts_needing_full_extraction: 39
-  texts_needing_review_or_normalization: 53
-  extraction_record_count: 2314
-  candidate_motif_count: 10566
-  taxonomy_ref_count: 8913
-  comparison_claim_count: 2435
+  texts_with_extractions: 58
+  texts_without_extractions: 0
+  texts_needing_full_extraction: 33
+  texts_needing_review_or_normalization: 58
+  extraction_record_count: 2714
+  candidate_motif_count: 12544
+  taxonomy_ref_count: 10818
+  comparison_claim_count: 2809
   status_counts:
-    dense_draft: 19
+    dense_draft: 25
     developing: 16
-    no_extractions: 5
-    thin: 18
+    thin: 17
   priority_counts:
-    high: 23
-    medium: 35
+    high: 17
+    medium: 41
 texts:
-- source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
-  source_text_id: sufi.hafiz.divan.bell_gutenberg
-  title: Poems from the Divan of Hafiz
-  tradition: sufi
-  culture: persian_sufi_lyric_later_translation
-  region: iran
-  date_range: 14th-century Persian lyric source material; 1897 public-domain English
-    translation
-  word_count: 35195
-  target_extraction_records: 9
-  coverage_ratio: 0.0
-  status: no_extractions
-  priority: high
-  needs_full_extraction: true
-  needs_review_or_normalization: false
-  extraction_record_count: 0
-  generated_record_count: 0
-  needs_review_count: 0
-  reviewed_count: 0
-  candidate_motif_count: 0
-  taxonomy_ref_count: 0
-  comparison_claim_count: 0
-  empty_motif_record_count: 0
-  extraction_paths: []
-- source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
-  source_text_id: sufi.persian_mystics_rumi.davis_gutenberg
-  title: 'The Persian Mystics: Jalálu''d-dín Rúmí'
-  tradition: sufi
-  culture: persian_sufi_later_english_selection
-  region: iran_anatolia
-  date_range: 13th-century Persian Sufi source material; early 20th-century public-domain
-    English selection and study
-  word_count: 17629
-  target_extraction_records: 5
-  coverage_ratio: 0.0
-  status: no_extractions
-  priority: high
-  needs_full_extraction: true
-  needs_review_or_normalization: false
-  extraction_record_count: 0
-  generated_record_count: 0
-  needs_review_count: 0
-  reviewed_count: 0
-  candidate_motif_count: 0
-  taxonomy_ref_count: 0
-  comparison_claim_count: 0
-  empty_motif_record_count: 0
-  extraction_paths: []
-- source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
-  source_text_id: sufi.jami.persian_mystics.davis_gutenberg
-  title: 'The Persian Mystics: Jámí'
-  tradition: sufi
-  culture: persian_sufi_later_english_selection
-  region: iran_central_asia
-  date_range: 15th-century Persian Sufi source material; early 20th-century public-domain
-    English selection and study
-  word_count: 14415
-  target_extraction_records: 4
-  coverage_ratio: 0.0
-  status: no_extractions
-  priority: high
-  needs_full_extraction: true
-  needs_review_or_normalization: false
-  extraction_record_count: 0
-  generated_record_count: 0
-  needs_review_count: 0
-  reviewed_count: 0
-  candidate_motif_count: 0
-  taxonomy_ref_count: 0
-  comparison_claim_count: 0
-  empty_motif_record_count: 0
-  extraction_paths: []
-- source_text_path: texts/public-domain/sufi/project-gutenberg/sufism-of-rubaiyat-hazeldine.md
-  source_text_id: sufi.omar_khayyam.sufism_of_rubaiyat.hazeldine_gutenberg
-  title: The Sufism of the Rubáiyát, or, the Secret of the Great Paradox
-  tradition: sufi
-  culture: persian_sufi_interpretive_later_english
-  region: iran_later_english_reception
-  date_range: 1908 public-domain English Sufi interpretation of Omar Khayyam's Rubaiyat
-  word_count: 10591
-  target_extraction_records: 3
-  coverage_ratio: 0.0
-  status: no_extractions
-  priority: high
-  needs_full_extraction: true
-  needs_review_or_normalization: false
-  extraction_record_count: 0
-  generated_record_count: 0
-  needs_review_count: 0
-  reviewed_count: 0
-  candidate_motif_count: 0
-  taxonomy_ref_count: 0
-  comparison_claim_count: 0
-  empty_motif_record_count: 0
-  extraction_paths: []
-- source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
-  source_text_id: sufi.omar_khayyam.sufistic_quatrains.gutenberg
-  title: The Sufistic Quatrains of Omar Khayyam
-  tradition: sufi
-  culture: persian_sufi_reception_anthology
-  region: iran_later_english_reception
-  date_range: Medieval Persian quatrain material in early 20th-century public-domain
-    English anthology
-  word_count: 87627
-  target_extraction_records: 22
-  coverage_ratio: 0.0
-  status: no_extractions
-  priority: high
-  needs_full_extraction: true
-  needs_review_or_normalization: false
-  extraction_record_count: 0
-  generated_record_count: 0
-  needs_review_count: 0
-  reviewed_count: 0
-  candidate_motif_count: 0
-  taxonomy_ref_count: 0
-  comparison_claim_count: 0
-  empty_motif_record_count: 0
-  extraction_paths: []
-- source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
-  source_text_id: celtic_irish.gods_and_fighting_men.gregory_gutenberg
-  title: Gods and Fighting Men
-  tradition: celtic_irish
-  culture: medieval_irish_later_retelling
-  region: ireland
-  date_range: medieval Irish mythic material; 1905 public-domain English retelling
-  word_count: 171517
-  target_extraction_records: 40
-  coverage_ratio: 0.05
-  status: thin
-  priority: high
-  needs_full_extraction: true
-  needs_review_or_normalization: true
-  extraction_record_count: 2
-  generated_record_count: 0
-  needs_review_count: 2
-  reviewed_count: 0
-  candidate_motif_count: 8
-  taxonomy_ref_count: 4
-  comparison_claim_count: 4
-  empty_motif_record_count: 0
-  extraction_paths:
-  - extractions/celtic-irish/project-gutenberg/gods-and-fighting-men/gods-and-fighting-men-oisin-country-of-young.yml
-  - extractions/celtic-irish/project-gutenberg/gods-and-fighting-men/gods-and-fighting-men-tuatha-four-treasures.yml
 - source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
   source_text_id: celtic_irish.heroic_romances_of_ireland.leahy_gutenberg
   title: Heroic Romances of Ireland
@@ -424,31 +279,6 @@ texts:
   extraction_paths:
   - extractions/indigenous-australian/project-gutenberg/australian-legendary-tales/australian-legendary-tales-fire-makers.yml
   - extractions/indigenous-australian/project-gutenberg/australian-legendary-tales/australian-legendary-tales-origin-narran-lake.yml
-- source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
-  source_text_id: islamic.koran.rodwell_gutenberg
-  title: The Koran (Al-Qur'an)
-  tradition: islamic
-  culture: arabic_islamic_later_translation
-  region: arabia_west_asia
-  date_range: 7th century source text; public-domain English translation
-  word_count: 203200
-  target_extraction_records: 40
-  coverage_ratio: 0.05
-  status: thin
-  priority: high
-  needs_full_extraction: true
-  needs_review_or_normalization: true
-  extraction_record_count: 2
-  generated_record_count: 0
-  needs_review_count: 2
-  reviewed_count: 0
-  candidate_motif_count: 6
-  taxonomy_ref_count: 3
-  comparison_claim_count: 2
-  empty_motif_record_count: 0
-  extraction_paths:
-  - extractions/islamic/project-gutenberg/koran/koran-rodwell-earthquake-works-judgment.yml
-  - extractions/islamic/project-gutenberg/koran/koran-rodwell-recitation-created-man.yml
 - source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
   source_text_id: islamic.koran.sale_gutenberg
   title: The Koran (Al-Qur'an)
@@ -474,6 +304,31 @@ texts:
   extraction_paths:
   - extractions/islamic/project-gutenberg/koran-sale/koran-sale-adam-names-eblis-garden-direction.yml
   - extractions/islamic/project-gutenberg/koran-sale/koran-sale-mary-gabriel-palm-infant-jesus.yml
+- source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  source_text_id: islamic.koran.rodwell_gutenberg
+  title: The Koran (Al-Qur'an)
+  tradition: islamic
+  culture: arabic_islamic_later_translation
+  region: arabia_west_asia
+  date_range: 7th century source text; public-domain English translation
+  word_count: 203200
+  target_extraction_records: 40
+  coverage_ratio: 0.05
+  status: thin
+  priority: high
+  needs_full_extraction: true
+  needs_review_or_normalization: true
+  extraction_record_count: 2
+  generated_record_count: 0
+  needs_review_count: 2
+  reviewed_count: 0
+  candidate_motif_count: 6
+  taxonomy_ref_count: 3
+  comparison_claim_count: 2
+  empty_motif_record_count: 0
+  extraction_paths:
+  - extractions/islamic/project-gutenberg/koran/koran-rodwell-earthquake-works-judgment.yml
+  - extractions/islamic/project-gutenberg/koran/koran-rodwell-recitation-created-man.yml
 - source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
   source_text_id: islamicate_folklore.arabian_nights.lang_gutenberg
   title: The Arabian Nights Entertainments
@@ -1441,6 +1296,85 @@ texts:
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/giant-crab-old-india-tales-rouse/batch-motif-buddhist-old-india-tales-rouse-gutenberg-l897-l991.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/giant-crab-old-india-tales-rouse/batch-motif-buddhist-old-india-tales-rouse-gutenberg-l99-l131.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/giant-crab-old-india-tales-rouse/batch-motif-buddhist-old-india-tales-rouse-gutenberg-l994-l1041.yml
+- source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  source_text_id: celtic_irish.gods_and_fighting_men.gregory_gutenberg
+  title: Gods and Fighting Men
+  tradition: celtic_irish
+  culture: medieval_irish_later_retelling
+  region: ireland
+  date_range: medieval Irish mythic material; 1905 public-domain English retelling
+  word_count: 171517
+  target_extraction_records: 40
+  coverage_ratio: 1.4
+  status: dense_draft
+  priority: medium
+  needs_full_extraction: false
+  needs_review_or_normalization: true
+  extraction_record_count: 56
+  generated_record_count: 54
+  needs_review_count: 56
+  reviewed_count: 0
+  candidate_motif_count: 310
+  taxonomy_ref_count: 252
+  comparison_claim_count: 20
+  empty_motif_record_count: 1
+  extraction_paths:
+  - extractions/celtic-irish/project-gutenberg/gods-and-fighting-men/gods-and-fighting-men-oisin-country-of-young.yml
+  - extractions/celtic-irish/project-gutenberg/gods-and-fighting-men/gods-and-fighting-men-tuatha-four-treasures.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l100-l191.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l1071-l1086.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l1089-l1182.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l1184-l1265.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l1267-l1358.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l1361-l1459.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l1461-l1563.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l1565-l1661.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l1663-l1764.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l1766-l1882.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l1884-l1986.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l193-l263.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l1988-l2090.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l2092-l2203.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l2206-l2301.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l2303-l2409.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l2411-l2509.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l2511-l2568.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l2571-l2647.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l265-l327.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l2650-l2742.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l2744-l2820.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l2823-l2893.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l2896-l2982.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l2984-l3048.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l3051-l3156.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l3158-l3248.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l3251-l3311.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l329-l417.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l3314-l3340.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l3343-l3385.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l3388-l3493.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l3495-l3597.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l3599-l3699.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l3701-l3785.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l3788-l3890.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l3892-l3967.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l3969-l4060.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l4062-l4091.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l4094-l4220.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l419-l501.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l4222-l4255.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l4258-l4356.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l503-l544.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l546-l580.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l582-l600.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l603-l620.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l622-l645.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l648-l746.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l68-l98.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l748-l839.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l841-l858.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l861-l964.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l966-l1069.yml
 - source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
   source_text_id: comparative.golden_bough.volume_1_frazer_gutenberg
   title: 'The Golden Bough: A Study in Comparative Religion (Vol. 1 of 2)'
@@ -3515,19 +3449,19 @@ texts:
   date_range: 1st-century CE Latin mythic poem; public-domain English translation
   word_count: 137386
   target_extraction_records: 35
-  coverage_ratio: 4.429
+  coverage_ratio: 5.057
   status: dense_draft
   priority: medium
   needs_full_extraction: false
   needs_review_or_normalization: true
-  extraction_record_count: 155
-  generated_record_count: 155
-  needs_review_count: 155
+  extraction_record_count: 177
+  generated_record_count: 177
+  needs_review_count: 177
   reviewed_count: 0
-  candidate_motif_count: 831
-  taxonomy_ref_count: 709
-  comparison_claim_count: 160
-  empty_motif_record_count: 4
+  candidate_motif_count: 947
+  taxonomy_ref_count: 812
+  comparison_claim_count: 188
+  empty_motif_record_count: 5
   extraction_paths:
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l10032-l10109.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l10111-l10175.yml
@@ -3557,8 +3491,30 @@ texts:
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l11826-l11915.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l11917-l11982.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l11985-l12039.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l12042-l12141.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l1211-l1328.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l12144-l12220.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l12222-l12301.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l12303-l12387.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l12389-l12472.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l12474-l12561.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l12563-l12665.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l12667-l12779.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l12781-l12855.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l12858-l12942.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l12944-l13014.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l13016-l13099.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l13102-l13196.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l13198-l13289.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l13291-l13376.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l1330-l1459.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l13378-l13486.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l13488-l13514.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l13517-l13608.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l13610-l13702.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l13704-l13736.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l13739-l13798.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l13801-l13810.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l1461-l1546.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l1548-l1589.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l1592-l1674.yml
@@ -3684,3 +3640,446 @@ texts:
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l985-l1065.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l9863-l9933.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l9935-l10029.yml
+- source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+  source_text_id: sufi.hafiz.divan.bell_gutenberg
+  title: Poems from the Divan of Hafiz
+  tradition: sufi
+  culture: persian_sufi_lyric_later_translation
+  region: iran
+  date_range: 14th-century Persian lyric source material; 1897 public-domain English
+    translation
+  word_count: 35195
+  target_extraction_records: 9
+  coverage_ratio: 5.778
+  status: dense_draft
+  priority: medium
+  needs_full_extraction: false
+  needs_review_or_normalization: true
+  extraction_record_count: 52
+  generated_record_count: 52
+  needs_review_count: 52
+  reviewed_count: 0
+  candidate_motif_count: 298
+  taxonomy_ref_count: 279
+  comparison_claim_count: 65
+  empty_motif_record_count: 0
+  extraction_paths:
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/poems-from-divan-of-hafiz-bell/batch-motif-sufi-hafiz-divan-bell-gutenberg-l1011-l1075.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/poems-from-divan-of-hafiz-bell/batch-motif-sufi-hafiz-divan-bell-gutenberg-l1077-l1154.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/poems-from-divan-of-hafiz-bell/batch-motif-sufi-hafiz-divan-bell-gutenberg-l1156-l1232.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/poems-from-divan-of-hafiz-bell/batch-motif-sufi-hafiz-divan-bell-gutenberg-l1234-l1273.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/poems-from-divan-of-hafiz-bell/batch-motif-sufi-hafiz-divan-bell-gutenberg-l1276-l1415.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/poems-from-divan-of-hafiz-bell/batch-motif-sufi-hafiz-divan-bell-gutenberg-l128-l213.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/poems-from-divan-of-hafiz-bell/batch-motif-sufi-hafiz-divan-bell-gutenberg-l1417-l1552.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/poems-from-divan-of-hafiz-bell/batch-motif-sufi-hafiz-divan-bell-gutenberg-l1554-l1689.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/poems-from-divan-of-hafiz-bell/batch-motif-sufi-hafiz-divan-bell-gutenberg-l1691-l1831.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/poems-from-divan-of-hafiz-bell/batch-motif-sufi-hafiz-divan-bell-gutenberg-l1833-l1938.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/poems-from-divan-of-hafiz-bell/batch-motif-sufi-hafiz-divan-bell-gutenberg-l1941-l2071.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/poems-from-divan-of-hafiz-bell/batch-motif-sufi-hafiz-divan-bell-gutenberg-l2073-l2125.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/poems-from-divan-of-hafiz-bell/batch-motif-sufi-hafiz-divan-bell-gutenberg-l2128-l2257.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/poems-from-divan-of-hafiz-bell/batch-motif-sufi-hafiz-divan-bell-gutenberg-l215-l287.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/poems-from-divan-of-hafiz-bell/batch-motif-sufi-hafiz-divan-bell-gutenberg-l2259-l2302.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/poems-from-divan-of-hafiz-bell/batch-motif-sufi-hafiz-divan-bell-gutenberg-l2305-l2334.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/poems-from-divan-of-hafiz-bell/batch-motif-sufi-hafiz-divan-bell-gutenberg-l2337-l2463.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/poems-from-divan-of-hafiz-bell/batch-motif-sufi-hafiz-divan-bell-gutenberg-l2465-l2492.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/poems-from-divan-of-hafiz-bell/batch-motif-sufi-hafiz-divan-bell-gutenberg-l2495-l2524.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/poems-from-divan-of-hafiz-bell/batch-motif-sufi-hafiz-divan-bell-gutenberg-l2527-l2559.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/poems-from-divan-of-hafiz-bell/batch-motif-sufi-hafiz-divan-bell-gutenberg-l2562-l2634.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/poems-from-divan-of-hafiz-bell/batch-motif-sufi-hafiz-divan-bell-gutenberg-l2637-l2669.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/poems-from-divan-of-hafiz-bell/batch-motif-sufi-hafiz-divan-bell-gutenberg-l2672-l2709.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/poems-from-divan-of-hafiz-bell/batch-motif-sufi-hafiz-divan-bell-gutenberg-l2712-l2757.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/poems-from-divan-of-hafiz-bell/batch-motif-sufi-hafiz-divan-bell-gutenberg-l2760-l2889.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/poems-from-divan-of-hafiz-bell/batch-motif-sufi-hafiz-divan-bell-gutenberg-l289-l349.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/poems-from-divan-of-hafiz-bell/batch-motif-sufi-hafiz-divan-bell-gutenberg-l2892-l2916.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/poems-from-divan-of-hafiz-bell/batch-motif-sufi-hafiz-divan-bell-gutenberg-l2919-l3005.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/poems-from-divan-of-hafiz-bell/batch-motif-sufi-hafiz-divan-bell-gutenberg-l3007-l3105.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/poems-from-divan-of-hafiz-bell/batch-motif-sufi-hafiz-divan-bell-gutenberg-l3107-l3219.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/poems-from-divan-of-hafiz-bell/batch-motif-sufi-hafiz-divan-bell-gutenberg-l3221-l3341.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/poems-from-divan-of-hafiz-bell/batch-motif-sufi-hafiz-divan-bell-gutenberg-l3343-l3383.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/poems-from-divan-of-hafiz-bell/batch-motif-sufi-hafiz-divan-bell-gutenberg-l3386-l3470.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/poems-from-divan-of-hafiz-bell/batch-motif-sufi-hafiz-divan-bell-gutenberg-l3472-l3550.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/poems-from-divan-of-hafiz-bell/batch-motif-sufi-hafiz-divan-bell-gutenberg-l351-l413.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/poems-from-divan-of-hafiz-bell/batch-motif-sufi-hafiz-divan-bell-gutenberg-l3553-l3644.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/poems-from-divan-of-hafiz-bell/batch-motif-sufi-hafiz-divan-bell-gutenberg-l3646-l3675.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/poems-from-divan-of-hafiz-bell/batch-motif-sufi-hafiz-divan-bell-gutenberg-l3678-l3763.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/poems-from-divan-of-hafiz-bell/batch-motif-sufi-hafiz-divan-bell-gutenberg-l3766-l3778.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/poems-from-divan-of-hafiz-bell/batch-motif-sufi-hafiz-divan-bell-gutenberg-l3781-l3859.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/poems-from-divan-of-hafiz-bell/batch-motif-sufi-hafiz-divan-bell-gutenberg-l3862-l3889.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/poems-from-divan-of-hafiz-bell/batch-motif-sufi-hafiz-divan-bell-gutenberg-l3892-l3989.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/poems-from-divan-of-hafiz-bell/batch-motif-sufi-hafiz-divan-bell-gutenberg-l3991-l4129.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/poems-from-divan-of-hafiz-bell/batch-motif-sufi-hafiz-divan-bell-gutenberg-l415-l498.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/poems-from-divan-of-hafiz-bell/batch-motif-sufi-hafiz-divan-bell-gutenberg-l500-l592.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/poems-from-divan-of-hafiz-bell/batch-motif-sufi-hafiz-divan-bell-gutenberg-l594-l680.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/poems-from-divan-of-hafiz-bell/batch-motif-sufi-hafiz-divan-bell-gutenberg-l66-l125.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/poems-from-divan-of-hafiz-bell/batch-motif-sufi-hafiz-divan-bell-gutenberg-l682-l743.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/poems-from-divan-of-hafiz-bell/batch-motif-sufi-hafiz-divan-bell-gutenberg-l745-l790.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/poems-from-divan-of-hafiz-bell/batch-motif-sufi-hafiz-divan-bell-gutenberg-l792-l859.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/poems-from-divan-of-hafiz-bell/batch-motif-sufi-hafiz-divan-bell-gutenberg-l861-l920.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/poems-from-divan-of-hafiz-bell/batch-motif-sufi-hafiz-divan-bell-gutenberg-l922-l1009.yml
+- source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  source_text_id: sufi.persian_mystics_rumi.davis_gutenberg
+  title: 'The Persian Mystics: Jalálu''d-dín Rúmí'
+  tradition: sufi
+  culture: persian_sufi_later_english_selection
+  region: iran_anatolia
+  date_range: 13th-century Persian Sufi source material; early 20th-century public-domain
+    English selection and study
+  word_count: 17629
+  target_extraction_records: 5
+  coverage_ratio: 11.4
+  status: dense_draft
+  priority: medium
+  needs_full_extraction: false
+  needs_review_or_normalization: true
+  extraction_record_count: 57
+  generated_record_count: 57
+  needs_review_count: 57
+  reviewed_count: 0
+  candidate_motif_count: 229
+  taxonomy_ref_count: 258
+  comparison_claim_count: 24
+  empty_motif_record_count: 0
+  extraction_paths:
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/persian-mystics-rumi-davis/batch-motif-sufi-persian-mystics-rumi-davis-gutenberg-l1032-l1045.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/persian-mystics-rumi-davis/batch-motif-sufi-persian-mystics-rumi-davis-gutenberg-l1048-l1063.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/persian-mystics-rumi-davis/batch-motif-sufi-persian-mystics-rumi-davis-gutenberg-l1066-l1079.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/persian-mystics-rumi-davis/batch-motif-sufi-persian-mystics-rumi-davis-gutenberg-l1082-l1104.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/persian-mystics-rumi-davis/batch-motif-sufi-persian-mystics-rumi-davis-gutenberg-l1107-l1132.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/persian-mystics-rumi-davis/batch-motif-sufi-persian-mystics-rumi-davis-gutenberg-l1135-l1159.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/persian-mystics-rumi-davis/batch-motif-sufi-persian-mystics-rumi-davis-gutenberg-l116-l142.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/persian-mystics-rumi-davis/batch-motif-sufi-persian-mystics-rumi-davis-gutenberg-l1162-l1177.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/persian-mystics-rumi-davis/batch-motif-sufi-persian-mystics-rumi-davis-gutenberg-l1180-l1200.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/persian-mystics-rumi-davis/batch-motif-sufi-persian-mystics-rumi-davis-gutenberg-l1203-l1244.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/persian-mystics-rumi-davis/batch-motif-sufi-persian-mystics-rumi-davis-gutenberg-l1247-l1263.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/persian-mystics-rumi-davis/batch-motif-sufi-persian-mystics-rumi-davis-gutenberg-l1266-l1293.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/persian-mystics-rumi-davis/batch-motif-sufi-persian-mystics-rumi-davis-gutenberg-l1296-l1389.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/persian-mystics-rumi-davis/batch-motif-sufi-persian-mystics-rumi-davis-gutenberg-l1392-l1440.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/persian-mystics-rumi-davis/batch-motif-sufi-persian-mystics-rumi-davis-gutenberg-l1443-l1482.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/persian-mystics-rumi-davis/batch-motif-sufi-persian-mystics-rumi-davis-gutenberg-l145-l162.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/persian-mystics-rumi-davis/batch-motif-sufi-persian-mystics-rumi-davis-gutenberg-l1485-l1516.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/persian-mystics-rumi-davis/batch-motif-sufi-persian-mystics-rumi-davis-gutenberg-l1519-l1537.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/persian-mystics-rumi-davis/batch-motif-sufi-persian-mystics-rumi-davis-gutenberg-l1540-l1555.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/persian-mystics-rumi-davis/batch-motif-sufi-persian-mystics-rumi-davis-gutenberg-l1558-l1580.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/persian-mystics-rumi-davis/batch-motif-sufi-persian-mystics-rumi-davis-gutenberg-l1583-l1612.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/persian-mystics-rumi-davis/batch-motif-sufi-persian-mystics-rumi-davis-gutenberg-l1615-l1632.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/persian-mystics-rumi-davis/batch-motif-sufi-persian-mystics-rumi-davis-gutenberg-l1635-l1678.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/persian-mystics-rumi-davis/batch-motif-sufi-persian-mystics-rumi-davis-gutenberg-l165-l253.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/persian-mystics-rumi-davis/batch-motif-sufi-persian-mystics-rumi-davis-gutenberg-l1681-l1694.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/persian-mystics-rumi-davis/batch-motif-sufi-persian-mystics-rumi-davis-gutenberg-l1697-l1736.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/persian-mystics-rumi-davis/batch-motif-sufi-persian-mystics-rumi-davis-gutenberg-l1739-l1752.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/persian-mystics-rumi-davis/batch-motif-sufi-persian-mystics-rumi-davis-gutenberg-l1755-l1795.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/persian-mystics-rumi-davis/batch-motif-sufi-persian-mystics-rumi-davis-gutenberg-l1798-l1829.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/persian-mystics-rumi-davis/batch-motif-sufi-persian-mystics-rumi-davis-gutenberg-l1832-l1845.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/persian-mystics-rumi-davis/batch-motif-sufi-persian-mystics-rumi-davis-gutenberg-l1848-l1884.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/persian-mystics-rumi-davis/batch-motif-sufi-persian-mystics-rumi-davis-gutenberg-l1887-l1931.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/persian-mystics-rumi-davis/batch-motif-sufi-persian-mystics-rumi-davis-gutenberg-l1934-l1948.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/persian-mystics-rumi-davis/batch-motif-sufi-persian-mystics-rumi-davis-gutenberg-l1951-l2004.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/persian-mystics-rumi-davis/batch-motif-sufi-persian-mystics-rumi-davis-gutenberg-l2007-l2020.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/persian-mystics-rumi-davis/batch-motif-sufi-persian-mystics-rumi-davis-gutenberg-l2023-l2042.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/persian-mystics-rumi-davis/batch-motif-sufi-persian-mystics-rumi-davis-gutenberg-l2045-l2064.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/persian-mystics-rumi-davis/batch-motif-sufi-persian-mystics-rumi-davis-gutenberg-l2067-l2081.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/persian-mystics-rumi-davis/batch-motif-sufi-persian-mystics-rumi-davis-gutenberg-l2084-l2099.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/persian-mystics-rumi-davis/batch-motif-sufi-persian-mystics-rumi-davis-gutenberg-l2102-l2146.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/persian-mystics-rumi-davis/batch-motif-sufi-persian-mystics-rumi-davis-gutenberg-l2149-l2215.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/persian-mystics-rumi-davis/batch-motif-sufi-persian-mystics-rumi-davis-gutenberg-l2218-l2232.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/persian-mystics-rumi-davis/batch-motif-sufi-persian-mystics-rumi-davis-gutenberg-l2235-l2267.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/persian-mystics-rumi-davis/batch-motif-sufi-persian-mystics-rumi-davis-gutenberg-l2270-l2316.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/persian-mystics-rumi-davis/batch-motif-sufi-persian-mystics-rumi-davis-gutenberg-l2319-l2416.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/persian-mystics-rumi-davis/batch-motif-sufi-persian-mystics-rumi-davis-gutenberg-l255-l332.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/persian-mystics-rumi-davis/batch-motif-sufi-persian-mystics-rumi-davis-gutenberg-l334-l439.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/persian-mystics-rumi-davis/batch-motif-sufi-persian-mystics-rumi-davis-gutenberg-l441-l532.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/persian-mystics-rumi-davis/batch-motif-sufi-persian-mystics-rumi-davis-gutenberg-l534-l629.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/persian-mystics-rumi-davis/batch-motif-sufi-persian-mystics-rumi-davis-gutenberg-l632-l706.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/persian-mystics-rumi-davis/batch-motif-sufi-persian-mystics-rumi-davis-gutenberg-l65-l114.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/persian-mystics-rumi-davis/batch-motif-sufi-persian-mystics-rumi-davis-gutenberg-l709-l760.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/persian-mystics-rumi-davis/batch-motif-sufi-persian-mystics-rumi-davis-gutenberg-l763-l842.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/persian-mystics-rumi-davis/batch-motif-sufi-persian-mystics-rumi-davis-gutenberg-l845-l933.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/persian-mystics-rumi-davis/batch-motif-sufi-persian-mystics-rumi-davis-gutenberg-l936-l949.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/persian-mystics-rumi-davis/batch-motif-sufi-persian-mystics-rumi-davis-gutenberg-l952-l980.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/persian-mystics-rumi-davis/batch-motif-sufi-persian-mystics-rumi-davis-gutenberg-l983-l1029.yml
+- source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  source_text_id: sufi.jami.persian_mystics.davis_gutenberg
+  title: 'The Persian Mystics: Jámí'
+  tradition: sufi
+  culture: persian_sufi_later_english_selection
+  region: iran_central_asia
+  date_range: 15th-century Persian Sufi source material; early 20th-century public-domain
+    English selection and study
+  word_count: 14415
+  target_extraction_records: 4
+  coverage_ratio: 12.25
+  status: dense_draft
+  priority: medium
+  needs_full_extraction: false
+  needs_review_or_normalization: true
+  extraction_record_count: 49
+  generated_record_count: 49
+  needs_review_count: 49
+  reviewed_count: 0
+  candidate_motif_count: 172
+  taxonomy_ref_count: 149
+  comparison_claim_count: 16
+  empty_motif_record_count: 0
+  extraction_paths:
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/persian-mystics-jami-davis/batch-motif-sufi-jami-persian-mystics-davis-gutenberg-l1079-l1114.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/persian-mystics-jami-davis/batch-motif-sufi-jami-persian-mystics-davis-gutenberg-l1117-l1131.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/persian-mystics-jami-davis/batch-motif-sufi-jami-persian-mystics-davis-gutenberg-l1134-l1168.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/persian-mystics-jami-davis/batch-motif-sufi-jami-persian-mystics-davis-gutenberg-l1171-l1194.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/persian-mystics-jami-davis/batch-motif-sufi-jami-persian-mystics-davis-gutenberg-l1197-l1212.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/persian-mystics-jami-davis/batch-motif-sufi-jami-persian-mystics-davis-gutenberg-l1215-l1228.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/persian-mystics-jami-davis/batch-motif-sufi-jami-persian-mystics-davis-gutenberg-l1231-l1268.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/persian-mystics-jami-davis/batch-motif-sufi-jami-persian-mystics-davis-gutenberg-l127-l166.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/persian-mystics-jami-davis/batch-motif-sufi-jami-persian-mystics-davis-gutenberg-l1271-l1289.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/persian-mystics-jami-davis/batch-motif-sufi-jami-persian-mystics-davis-gutenberg-l1292-l1340.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/persian-mystics-jami-davis/batch-motif-sufi-jami-persian-mystics-davis-gutenberg-l1343-l1376.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/persian-mystics-jami-davis/batch-motif-sufi-jami-persian-mystics-davis-gutenberg-l1379-l1459.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/persian-mystics-jami-davis/batch-motif-sufi-jami-persian-mystics-davis-gutenberg-l1462-l1487.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/persian-mystics-jami-davis/batch-motif-sufi-jami-persian-mystics-davis-gutenberg-l1490-l1513.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/persian-mystics-jami-davis/batch-motif-sufi-jami-persian-mystics-davis-gutenberg-l1516-l1594.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/persian-mystics-jami-davis/batch-motif-sufi-jami-persian-mystics-davis-gutenberg-l1597-l1608.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/persian-mystics-jami-davis/batch-motif-sufi-jami-persian-mystics-davis-gutenberg-l1611-l1655.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/persian-mystics-jami-davis/batch-motif-sufi-jami-persian-mystics-davis-gutenberg-l1658-l1669.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/persian-mystics-jami-davis/batch-motif-sufi-jami-persian-mystics-davis-gutenberg-l1672-l1683.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/persian-mystics-jami-davis/batch-motif-sufi-jami-persian-mystics-davis-gutenberg-l1686-l1725.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/persian-mystics-jami-davis/batch-motif-sufi-jami-persian-mystics-davis-gutenberg-l169-l257.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/persian-mystics-jami-davis/batch-motif-sufi-jami-persian-mystics-davis-gutenberg-l1728-l1741.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/persian-mystics-jami-davis/batch-motif-sufi-jami-persian-mystics-davis-gutenberg-l1744-l1768.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/persian-mystics-jami-davis/batch-motif-sufi-jami-persian-mystics-davis-gutenberg-l1771-l1795.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/persian-mystics-jami-davis/batch-motif-sufi-jami-persian-mystics-davis-gutenberg-l1798-l1817.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/persian-mystics-jami-davis/batch-motif-sufi-jami-persian-mystics-davis-gutenberg-l1820-l1837.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/persian-mystics-jami-davis/batch-motif-sufi-jami-persian-mystics-davis-gutenberg-l1840-l1864.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/persian-mystics-jami-davis/batch-motif-sufi-jami-persian-mystics-davis-gutenberg-l1867-l1888.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/persian-mystics-jami-davis/batch-motif-sufi-jami-persian-mystics-davis-gutenberg-l1891-l1925.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/persian-mystics-jami-davis/batch-motif-sufi-jami-persian-mystics-davis-gutenberg-l1928-l1949.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/persian-mystics-jami-davis/batch-motif-sufi-jami-persian-mystics-davis-gutenberg-l1952-l1970.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/persian-mystics-jami-davis/batch-motif-sufi-jami-persian-mystics-davis-gutenberg-l1973-l2010.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/persian-mystics-jami-davis/batch-motif-sufi-jami-persian-mystics-davis-gutenberg-l2013-l2038.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/persian-mystics-jami-davis/batch-motif-sufi-jami-persian-mystics-davis-gutenberg-l2041-l2066.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/persian-mystics-jami-davis/batch-motif-sufi-jami-persian-mystics-davis-gutenberg-l2069-l2095.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/persian-mystics-jami-davis/batch-motif-sufi-jami-persian-mystics-davis-gutenberg-l2098-l2112.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/persian-mystics-jami-davis/batch-motif-sufi-jami-persian-mystics-davis-gutenberg-l2115-l2151.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/persian-mystics-jami-davis/batch-motif-sufi-jami-persian-mystics-davis-gutenberg-l259-l357.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/persian-mystics-jami-davis/batch-motif-sufi-jami-persian-mystics-davis-gutenberg-l359-l469.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/persian-mystics-jami-davis/batch-motif-sufi-jami-persian-mystics-davis-gutenberg-l471-l576.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/persian-mystics-jami-davis/batch-motif-sufi-jami-persian-mystics-davis-gutenberg-l578-l687.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/persian-mystics-jami-davis/batch-motif-sufi-jami-persian-mystics-davis-gutenberg-l66-l125.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/persian-mystics-jami-davis/batch-motif-sufi-jami-persian-mystics-davis-gutenberg-l689-l785.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/persian-mystics-jami-davis/batch-motif-sufi-jami-persian-mystics-davis-gutenberg-l788-l861.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/persian-mystics-jami-davis/batch-motif-sufi-jami-persian-mystics-davis-gutenberg-l864-l891.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/persian-mystics-jami-davis/batch-motif-sufi-jami-persian-mystics-davis-gutenberg-l894-l925.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/persian-mystics-jami-davis/batch-motif-sufi-jami-persian-mystics-davis-gutenberg-l928-l945.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/persian-mystics-jami-davis/batch-motif-sufi-jami-persian-mystics-davis-gutenberg-l948-l977.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/persian-mystics-jami-davis/batch-motif-sufi-jami-persian-mystics-davis-gutenberg-l980-l1076.yml
+- source_text_path: texts/public-domain/sufi/project-gutenberg/sufism-of-rubaiyat-hazeldine.md
+  source_text_id: sufi.omar_khayyam.sufism_of_rubaiyat.hazeldine_gutenberg
+  title: The Sufism of the Rubáiyát, or, the Secret of the Great Paradox
+  tradition: sufi
+  culture: persian_sufi_interpretive_later_english
+  region: iran_later_english_reception
+  date_range: 1908 public-domain English Sufi interpretation of Omar Khayyam's Rubaiyat
+  word_count: 10591
+  target_extraction_records: 3
+  coverage_ratio: 4.0
+  status: dense_draft
+  priority: medium
+  needs_full_extraction: false
+  needs_review_or_normalization: true
+  extraction_record_count: 12
+  generated_record_count: 12
+  needs_review_count: 12
+  reviewed_count: 0
+  candidate_motif_count: 80
+  taxonomy_ref_count: 114
+  comparison_claim_count: 7
+  empty_motif_record_count: 0
+  extraction_paths:
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufism-of-rubaiyat-hazeldine/batch-motif-sufi-omar-khayyam-sufism-of-rubaiyat-hazeldine-gutenberg-l1007-l1137.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufism-of-rubaiyat-hazeldine/batch-motif-sufi-omar-khayyam-sufism-of-rubaiyat-hazeldine-gutenberg-l1140-l1298.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufism-of-rubaiyat-hazeldine/batch-motif-sufi-omar-khayyam-sufism-of-rubaiyat-hazeldine-gutenberg-l1301-l1463.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufism-of-rubaiyat-hazeldine/batch-motif-sufi-omar-khayyam-sufism-of-rubaiyat-hazeldine-gutenberg-l1466-l1627.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufism-of-rubaiyat-hazeldine/batch-motif-sufi-omar-khayyam-sufism-of-rubaiyat-hazeldine-gutenberg-l1630-l1725.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufism-of-rubaiyat-hazeldine/batch-motif-sufi-omar-khayyam-sufism-of-rubaiyat-hazeldine-gutenberg-l237-l384.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufism-of-rubaiyat-hazeldine/batch-motif-sufi-omar-khayyam-sufism-of-rubaiyat-hazeldine-gutenberg-l387-l551.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufism-of-rubaiyat-hazeldine/batch-motif-sufi-omar-khayyam-sufism-of-rubaiyat-hazeldine-gutenberg-l554-l709.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufism-of-rubaiyat-hazeldine/batch-motif-sufi-omar-khayyam-sufism-of-rubaiyat-hazeldine-gutenberg-l63-l97.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufism-of-rubaiyat-hazeldine/batch-motif-sufi-omar-khayyam-sufism-of-rubaiyat-hazeldine-gutenberg-l712-l872.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufism-of-rubaiyat-hazeldine/batch-motif-sufi-omar-khayyam-sufism-of-rubaiyat-hazeldine-gutenberg-l875-l1004.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufism-of-rubaiyat-hazeldine/batch-motif-sufi-omar-khayyam-sufism-of-rubaiyat-hazeldine-gutenberg-l99-l234.yml
+- source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  source_text_id: sufi.omar_khayyam.sufistic_quatrains.gutenberg
+  title: The Sufistic Quatrains of Omar Khayyam
+  tradition: sufi
+  culture: persian_sufi_reception_anthology
+  region: iran_later_english_reception
+  date_range: Medieval Persian quatrain material in early 20th-century public-domain
+    English anthology
+  word_count: 87627
+  target_extraction_records: 22
+  coverage_ratio: 7.0
+  status: dense_draft
+  priority: medium
+  needs_full_extraction: false
+  needs_review_or_normalization: true
+  extraction_record_count: 154
+  generated_record_count: 154
+  needs_review_count: 154
+  reviewed_count: 0
+  candidate_motif_count: 781
+  taxonomy_ref_count: 754
+  comparison_claim_count: 218
+  empty_motif_record_count: 6
+  extraction_paths:
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l10132-l10368.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l1035-l1072.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l10370-l10604.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l10606-l10803.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l1075-l1104.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l10805-l10910.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l10912-l11004.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l11006-l11089.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l1107-l1144.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l11091-l11152.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l11155-l11347.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l113-l142.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l11349-l11537.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l1147-l1176.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l11539-l11731.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l11733-l11935.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l1179-l1200.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l11937-l12126.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l1203-l1224.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l12128-l12323.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l1227-l1248.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l12325-l12516.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l1251-l1272.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l12518-l12709.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l12711-l12911.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l1275-l1304.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l12913-l13101.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l1307-l1336.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l13103-l13293.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l13295-l13484.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l1339-l1360.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l13486-l13678.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l1363-l1392.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l13680-l13861.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l13863-l14050.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l1395-l1424.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l14052-l14243.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l14245-l14433.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l1427-l1469.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l14435-l14622.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l145-l175.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l14624-l14819.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l1472-l1501.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l14821-l15012.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l15014-l15203.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l1504-l1526.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l15205-l15301.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l1529-l1550.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l15304-l15431.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l15433-l15578.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l1553-l1574.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l15580-l15683.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l1577-l1697.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l1699-l1823.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l178-l275.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l1826-l1921.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l1923-l2002.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l2004-l2073.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l2076-l2236.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l2238-l2406.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l2408-l2515.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l2518-l2533.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l2536-l2605.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l2608-l2622.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l2625-l2657.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l2660-l2700.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l2703-l2727.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l2730-l2771.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l277-l369.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l2774-l2823.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l2826-l2840.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l2843-l2895.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l2898-l2929.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l2932-l2956.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l2959-l2974.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l2977-l3097.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l3100-l3123.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l3126-l3140.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l3143-l3223.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l3226-l3404.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l3406-l3453.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l3456-l3549.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l3552-l3652.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l3655-l3670.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l3673-l3707.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l371-l459.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l3710-l3725.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l3728-l3750.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l3753-l3794.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l3797-l3811.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l3814-l3828.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l3831-l3898.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l3901-l3915.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l3918-l4012.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l4015-l4029.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l4032-l4047.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l4050-l4072.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l4075-l4098.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l4101-l4172.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l4175-l4189.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l4192-l4209.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l4212-l4244.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l4247-l4305.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l4308-l4368.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l4371-l4396.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l4399-l4414.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l4417-l4432.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l4435-l4470.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l4473-l4513.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l4516-l4537.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l4540-l4595.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l4598-l4633.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l461-l559.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l4636-l4664.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l4667-l4708.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l4710-l4767.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l4769-l4818.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l4820-l4867.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l4869-l4936.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l4938-l4986.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l4988-l5043.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l5045-l5111.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l5114-l5258.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l5260-l5365.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l5367-l5438.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l5440-l5520.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l5522-l5549.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l5552-l5794.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l561-l608.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l5796-l6031.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l6033-l6256.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l611-l714.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l6258-l6483.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l64-l111.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l6485-l6707.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l6709-l6927.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l6929-l7159.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l716-l809.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l7161-l7399.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l7401-l7622.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l7624-l7841.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l7843-l8069.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l8071-l8296.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l811-l891.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l8298-l8522.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l8524-l8747.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l8749-l8976.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l893-l966.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l8978-l9207.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l9209-l9426.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l9428-l9661.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l9663-l9900.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l968-l1032.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/sufistic-quatrains-omar-khayyam/batch-motif-sufi-omar-khayyam-sufistic-quatrains-gutenberg-l9902-l10130.yml

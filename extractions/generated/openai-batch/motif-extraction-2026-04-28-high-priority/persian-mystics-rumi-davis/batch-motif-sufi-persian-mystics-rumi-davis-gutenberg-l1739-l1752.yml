@@ -1,0 +1,296 @@
+---
+record_id: batch.motif.sufi-persian-mystics-rumi-davis-gutenberg-l1739-l1752
+source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+passage_locator:
+  label: 'WHERE LOVE IS / THE LOVE OF THE BELOVED / THE LOVE OF THE SOUL AND THE LOVE
+    OF THE BODY / DESTROY NOT EARTHLY BEAUTY: IT BEAUTIFIES THE SOUL; lines 1739-1752'
+  start: '1739'
+  end: '1752'
+  translation: 'The Persian Mystics: Jalálu''d-dín Rúmí'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: '"It is the claws of thine own foolish thoughts"'
+  summary: The speaker warns the addressed fair one not to damage bodily beauty, describing
+    such self-disfigurement as a sin and as a war against the self; foolish thoughts
+    are likened to poisonous claws that wound the quiet soul.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The speaker tells the addressee not to tear off plumage and not to disfigure
+    the face.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The addressee's face is described as bright as the forenoon sun.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Disfiguring the face is called a grievous sin and paganism.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The moon is said to weep if it lost sight of the addressee's face.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The addressee is told to quit a temper that leads to war with the self.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Foolish thoughts are compared to poisonous claws that make deep wounds on
+    the face of the soul.
+  category: object
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: speaker
+  description: An instructing voice addressing the fair one.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: fair one
+  description: The addressed person, described as having a face bright as the forenoon
+    sun.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: moon
+  description: A celestial body personified as able to weep at the loss of sight of
+    the fair one's face.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: foolish thoughts
+  description: Thoughts described as claws fraught with poison that wound the soul.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: quiet soul
+  description: The soul is described as having a face that can be wounded by foolish
+    thoughts.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: admonishing speaker
+  assigned_to:
+  - fig:1
+  basis: The voice issues imperatives against tearing plumage, disfiguring the face,
+    and warring with the self.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: admonished beautiful addressee
+  assigned_to:
+  - fig:2
+  basis: The addressee is called fair and is warned not to damage their own face.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: personified witness to beauty
+  assigned_to:
+  - fig:3
+  basis: The moon is said to weep if deprived of sight of the face.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: internal injuring force
+  assigned_to:
+  - fig:4
+  basis: Foolish thoughts are described as poisonous claws that wound the soul.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: wounded inner self
+  assigned_to:
+  - fig:5
+  basis: The soul is described as quiet and as having a face wounded by thoughts.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: plumage
+  literal_form: plumage that should not be torn off
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: face
+  literal_form: the fair one's bright face and the soul's face
+  associated_figures:
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:3
+  label: forenoon sun
+  literal_form: comparison for the brightness of the fair one's face
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: moon
+  literal_form: moon that would weep to lose sight of the face
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: poisonous claws
+  literal_form: claws fraught with poison that score deep wounds
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: admonition against disfiguring beauty
+  summary: The speaker urges the fair one not to tear plumage or disfigure a beautiful
+    face, calling such damage sinful.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: cosmic witness to beauty
+  summary: The moon is personified as weeping if it could no longer see the fair one's
+    face.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: foolish thoughts wound the soul
+  summary: The speaker identifies self-warring temper and foolish thoughts as poisonous
+    claws that wound the face of the quiet soul.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: earthly beauty as beneficial to the soul
+  taxonomy_refs:
+  - duality
+  basis: The title states that earthly beauty beautifies the soul, and the passage
+    links harm to the visible face with injury to the soul.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The passage is lyrical admonition rather than a narrative myth; the body-soul
+    relation is explicit but not developed as a full mythic plot.
+- id: motif:2
+  label: self-wounding by hostile thoughts
+  taxonomy_refs:
+  - wisdom
+  basis: The passage warns that the addressee's own foolish thoughts act like poisonous
+    claws that wound the soul.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: This is an ethical and psychological image; the taxonomy reference is
+    broad and should be reviewed.
+- id: motif:3
+  label: celestial body responding to human beauty
+  taxonomy_refs: []
+  basis: The moon is imagined as weeping if it lost sight of the fair one's face.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The image is brief and may be conventional praise rather than an independent
+    motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 1739-1742
+  quote_or_summary: '"Tear not thy plumage off" and "Disfigure not thy face"; the
+    title says earthly beauty beautifies the soul.'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:2
+  type: quote
+  locator: 1743-1746
+  quote_or_summary: The face is "bright as the forenoon sun"; disfiguring it is called
+    a grievous sin and paganism.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:3
+  type: quote
+  locator: '1747'
+  quote_or_summary: '"The moon itself would weep to lose sight of it!"'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:4
+  type: summary
+  locator: 1748-1752
+  quote_or_summary: The addressee is warned against self-war; foolish thoughts are
+    described as poisonous claws that deeply wound the face of the quiet soul.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is brief and metaphorical. Literal images and admonitions are
+    clear; motif assignment is necessarily cautious.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only supplied passage text and metadata; no external comparisons added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-persian-mystics-rumi-davis-gutenberg__l1739-l1752
+  passage_sha256=5f6d7a5e56da2868d73cb767fd173c975acdf4aec3be4395a8800a347ea2fbb5

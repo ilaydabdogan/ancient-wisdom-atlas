@@ -1,0 +1,493 @@
+---
+record_id: batch.motif.sufi-omar-khayyam-sufistic-quatrains-gutenberg-l4308-l4368
+source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+passage_locator:
+  label: XCIII. / XCIV. / XCVI. / XCIX.; lines 4308-4368
+  start: '4308'
+  end: '4368'
+  translation: The Sufistic Quatrains of Omar Khayyam
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage presents quatrains and source notes. One speaker imagines Love
+    and the divine conspiring to grasp, shatter, and remold the scheme of things or
+    heavens so that freedom and the heart's desire might be attained. Another quatrain
+    reflects that the moon will continue to wax, wane, and look through the same garden
+    after the speakers are absent. A following quatrain asks a Saki or friends at
+    a wine gathering to remember the absent speaker by turning down an empty glass
+    or goblet when his turn comes.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A speaker addresses Love and imagines conspiring with Him to grasp the entire
+    scheme of things.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker proposes shattering the scheme of things and remolding it nearer
+    to the heart's desire.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A prose-equivalent quatrain states that if the speaker had God-like control
+    of the heavens, he would do away with the heavens and construct another heaven
+    from the beginning.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The reconstructed heaven is described as enabling freedom and attainment of
+    the heart's desire.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The moon is described as rising, waxing, waning, and looking again through
+    the same garden.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The moon will later seek the speakers and not find one or them.
+  category: sequence
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:7
+  text: A source quatrain advises making the lovesick heart happy now because no one
+    can guarantee tomorrow.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Friends or guests gather together, drink wine, and are asked to remember an
+    absent friend.
+  category: action
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: obs:9
+  text: When the absent speaker's turn comes in the drinking order, the friends are
+    instructed to turn a glass or goblet upside down.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The cup-bearer is described as taking wine around in his hand during the gathering.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: speaker
+  description: First-person voice who imagines remaking the scheme of things and later
+    asks to be remembered at a drinking gathering.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: fig:2
+  name_or_label: Love
+  description: Personified addressee whom the speaker imagines conspiring with Him.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Him / God
+  description: Divine figure named as Him in the verse and as God in the accompanying
+    translation from C. 395.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: moon
+  description: The moon rises, waxes and wanes, and seeks the absent speakers through
+    the garden.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: Saki / Cup-bearer
+  description: Cup-bearer addressed by the speaker and described as carrying wine
+    during a gathering.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:6
+  name_or_label: friends / guests
+  description: Companions who gather, drink wine, and are asked to remember the absent
+    friend.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:7
+  name_or_label: absent friend / helpless one
+  description: A friend or helpless one to be remembered when the cup or goblet reaches
+    his turn.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: cosmic remaker in desire
+  assigned_to:
+  - fig:1
+  basis: The speaker imagines shattering and remolding the scheme of things, or making
+    another heaven, to attain the heart's desire.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: personified companion in imagined conspiracy
+  assigned_to:
+  - fig:2
+  basis: Love is directly addressed as the one with whom the speaker might conspire.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: divine controller of heavens
+  assigned_to:
+  - fig:3
+  basis: The passage refers to Him and explicitly to God-like control of the heavens.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: recurring celestial witness
+  assigned_to:
+  - fig:4
+  basis: The moon repeatedly rises, waxes and wanes, and looks or seeks through the
+    garden after the human figures are absent.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: absent one remembered in ritual gesture
+  assigned_to:
+  - fig:1
+  - fig:7
+  basis: The friends are asked to remember the speaker or friend and to turn a glass
+    upside down when his turn comes.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:6
+  label: wine server
+  assigned_to:
+  - fig:5
+  basis: The Saki or cup-bearer is associated with the passing of wine at the gathering.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:7
+  label: communal drinkers and rememberers
+  assigned_to:
+  - fig:6
+  basis: The friends meet, drink wine together, and are told to remember the absent
+    friend.
+  evidence_refs:
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: scheme of things
+  literal_form: the entire ordered scheme of things
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: heavens remade
+  literal_form: heavens abolished and another heaven constructed from the beginning
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: heart's desire
+  literal_form: the desired condition toward which the remade world or heaven is directed
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:4
+  label: moon
+  literal_form: rising moon that waxes and wanes and later seeks absent people
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:5
+  label: garden
+  literal_form: same garden through which the moon looks or seeks
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: wine in moonlight
+  literal_form: wine drunk in moonlight in the source quatrain
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:7
+  label: empty or inverted glass
+  literal_form: empty glass or goblet turned down or upside down when the absent friend's
+    turn comes
+  associated_figures:
+  - fig:1
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:8
+  label: Mugh wine
+  literal_form: wine carried by the cup-bearer at the gathering
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Imagined remaking of cosmos
+  summary: The speaker imagines joining Love and the divine, grasping the whole scheme
+    of things, destroying it, and remolding it to fit the heart's desire; the accompanying
+    source version describes abolishing and reconstructing the heavens.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Moon seeking absent people in the garden
+  summary: The moon continues its cycles and looks or seeks through the same garden
+    after the present people are no longer there.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Wine gathering and remembrance of the absent friend
+  summary: Friends or guests gather to drink wine, and the speaker asks that, when
+    his turn comes, they remember him by turning down an empty glass or goblet.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: world shattered and remade according to desire
+  taxonomy_refs:
+  - mystical_quest
+  basis: The speaker imagines grasping and shattering the scheme of things, or abolishing
+    and rebuilding the heavens, so that the heart's desire may be attained.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage presents an imagined wish rather than a narrated cosmogony
+    or mythic creation event; the taxonomy reference is thematic and should be reviewed.
+- id: motif:2
+  label: impermanence under the recurring moon
+  taxonomy_refs:
+  - wisdom
+  basis: The moon's continuing cycle contrasts with human absence, and the source
+    quatrain advises present happiness because tomorrow is not guaranteed.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is a lyric wisdom theme rather than a developed mythic narrative.
+- id: motif:3
+  label: ritualized remembrance through an empty cup
+  taxonomy_refs: []
+  basis: At a wine gathering, friends are asked to remember an absent friend by turning
+    down an empty glass or goblet when his turn arrives.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage does not specify a formal ritual beyond the instructed commemorative
+    gesture.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly identifies the first quatrain as a translation from
+    C. 395, whose version also imagines God-like control of the heavens and a reconstructed
+    heaven for attaining the heart's desire.
+  claim_level: same_motif
+  target: C. 395
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:7
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim is limited to the anthology's stated source relationship
+    and the supplied translated excerpts.
+- id: claim:2
+  claim: The moon-and-absence quatrain is explicitly said to be inspired by O. 5,
+    which likewise has the moon seek the speakers and not find them while advising
+    present enjoyment.
+  claim_level: same_motif
+  target: O. 5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:8
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim follows the passage's editorial note and does not establish
+    broader historical transmission beyond the cited anthology relationship.
+- id: claim:3
+  claim: The empty-glass remembrance quatrain is explicitly taken from O. 83 and O.
+    84, which share the setting of friends drinking wine and remembering an absent
+    friend.
+  claim_level: same_motif
+  target: O. 83 and O. 84
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:9
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim is restricted to the supplied variants and does not infer
+    a wider motif history.
+evidence:
+- id: ev:1
+  type: summary
+  locator: XCIX, opening quatrain
+  quote_or_summary: The speaker addresses Love, imagines conspiring with Him to grasp
+    the whole scheme of things, shatter it, and remold it nearer to the heart's desire.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: XCIX, translated from C. 395
+  quote_or_summary: The source version says that with God-like control of the heavens,
+    the speaker would abolish the heavens and construct another heaven so that one
+    might be free and attain the heart's desire.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: C, opening quatrain
+  quote_or_summary: The rising moon will repeatedly wax and wane, look through the
+    same garden, and later look for the speaker or one person in vain.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: C, inspired by O. 5
+  quote_or_summary: The source version says no one can guarantee tomorrow, advises
+    making the lovesick heart happy now and drinking wine in moonlight, and says the
+    moon will seek the speakers long and not find them.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: CI, opening quatrain and O. 83
+  quote_or_summary: At a gathering among guests or friends drinking wine, the speaker
+    asks that when his turn comes, they turn down an empty glass or goblet and remember
+    their friend.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:6
+  type: summary
+  locator: CI, O. 84
+  quote_or_summary: Friends make a tryst, delight in one another, the cup-bearer carries
+    Mugh wine, and they are asked to remember a helpless one in their benediction.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:7
+  type: citation
+  locator: XCIX editorial note and references
+  quote_or_summary: The note states that the quatrain is translated from C. 395 and
+    lists references including C. 395.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain; citation from supplied passage.
+- id: ev:8
+  type: citation
+  locator: C editorial note and references
+  quote_or_summary: The note states that the quatrain in its various forms is inspired
+    by O. 5 and lists references including O. 5.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain; citation from supplied passage.
+- id: ev:9
+  type: citation
+  locator: CI editorial note and references
+  quote_or_summary: The note states that the quatrain is taken from O. 83 and 84 and
+    provides references for both.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain; citation from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is based only on the supplied passage. Motif labels are
+    interpretive and should be reviewed, especially the mapping of cosmic remaking
+    to the available taxonomy.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  The requested locator label differs from the supplied passage headings, which include XCIX, C, and CI; extraction follows the supplied passage text and metadata without correction.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-omar-khayyam-sufistic-quatrains-gutenberg__l4308-l4368
+  passage_sha256=b7a8795e4bb2df6c87808c19a1db3e57d336db98852bd02da2bdbbfe6f15325d

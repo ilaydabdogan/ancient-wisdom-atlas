@@ -1,0 +1,389 @@
+---
+record_id: batch.motif.sufi-jami-persian-mystics-davis-gutenberg-l1231-l1268
+source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+passage_locator:
+  label: TRUTH / THE GOD BEHIND THE VEIL / THE DIVINE SELF-SUFFICIENCY / OUR NEED
+    OF THE BELOVED; lines 1231-1268
+  start: '1231'
+  end: '1268'
+  translation: 'The Persian Mystics: Jámí'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: "“Thou hast no need of us, but we of Thee.”"
+  summary: The speaker addresses an unseen divine Beloved who makes all things visible,
+    is not separate from humanity, yet needs nothing while humans need the divine.
+    The passage says no effort can behold the divine face without prior grace, no
+    substitute can replace the divine, love functions as a mirror revealing divine
+    beauty, and seekers and sought are comprised in the divine. A prose section describes
+    the universe as changing accidents rapidly renewed and mistaken by spectators
+    for permanent existence.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The divine addressee is described as unseen, while making all things seen.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker says the divine and humans are not separate, but the divine has
+    no need of humans while humans need the divine.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage states that no one can behold the divine face or gain access without
+    prevenient grace.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The divine is said to have no peer and no substitute able to take its place.
+  category: attribute
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:5
+  text: The speaker says divine beauty produced love and longing in the speaker.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The speaker compares the speaker's love to a mirror in which divine beauty
+    is brought into evidence.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The passage says every mosque and church harbours the divine.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The passage says seekers and what they seek are all comprised in the divine.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The prose section describes the universe and its parts as accidents that change,
+    are renewed at every breath, disappear, and are replaced by similar sets.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The prose section says rapid succession deceives the spectator into believing
+    the universe is permanent.
+  category: action
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Divine Beloved / Lord / Thou
+  description: The addressed divine figure is unseen, makes all things visible, needs
+    nothing from humans, has no peer, is housed in mosque and church, and comprises
+    seekers and sought.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: Speaker / lover
+  description: The first-person speaker expresses need, love, longing, and seeking
+    toward the divine.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:3
+  name_or_label: Seekers
+  description: Those who seek are said to be known by the speaker and comprised, along
+    with what they seek, in the divine.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: Spectator
+  description: A spectator is deceived by rapid succession into thinking the universe
+    is permanent.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: unseen revealer
+  assigned_to:
+  - fig:1
+  basis: The divine is unseen yet makes all things seen.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: self-sufficient beloved
+  assigned_to:
+  - fig:1
+  basis: The divine needs nothing from humans, while humans need the divine.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: irreplaceable object of seeking
+  assigned_to:
+  - fig:1
+  basis: The divine has no peer or substitute and comprises seekers and sought.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:4
+  label: lover and seeker
+  assigned_to:
+  - fig:2
+  basis: The speaker describes love, longing, and seeking directed toward the divine.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: seekers comprised in the divine
+  assigned_to:
+  - fig:3
+  basis: Seekers and what they seek are said to be all comprised in the divine.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: deceived observer of impermanence
+  assigned_to:
+  - fig:4
+  basis: The spectator is deceived into believing the changing universe is permanent.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: unseen sacred precincts
+  literal_form: sacred precincts none may see
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: divine face
+  literal_form: face that none can behold by endeavour alone
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: mirror of love
+  literal_form: the speaker's love as a mirror revealing divine beauty
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: mosque and church
+  literal_form: mosque and church as places that harbour the divine
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: changing universe
+  literal_form: universe as rapidly renewed accidents linked in a single substance
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+scenes:
+- id: scene:1
+  label: Need of the unseen Beloved
+  summary: The speaker addresses the unseen divine Beloved, stating that the divine
+    makes all things visible and needs nothing from humans, while humans need the
+    divine.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Access by grace and divine irreplaceability
+  summary: The passage says that beholding the divine face or gaining access is impossible
+    by endeavour alone and requires prevenient grace; the divine has no peer or substitute.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Love as mirror of divine beauty
+  summary: The speaker says divine beauty has produced love and longing, and that
+    the speaker's love acts as a mirror bringing divine beauty into evidence.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Seekers and sought in the divine
+  summary: The passage states that only the divine can fathom itself, that mosque
+    and church harbour the divine, and that seekers and the sought are comprised in
+    the divine.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Universe mistaken for permanence
+  summary: The prose section describes the universe as ever-changing accidents renewed
+    at every breath; their rapid succession deceives the spectator into belief in
+    permanence.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: divine beloved as necessary and irreplaceable object of love
+  taxonomy_refs:
+  - divine_beloved
+  basis: The passage repeatedly frames the divine as Beloved, needed by humans, without
+    peer or substitute, and the object of love and longing.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage is devotional and metaphysical rather than a narrative myth
+    episode.
+- id: motif:2
+  label: mystical seeking requiring grace
+  taxonomy_refs:
+  - mystical_quest
+  basis: The passage describes seekers and seeking, while saying access to the divine
+    face cannot be gained by endeavour alone but requires prevenient grace.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: medium
+  cautions: The quest is inward and theological; no journey sequence or ordeal is
+    narrated.
+- id: motif:3
+  label: unity of seeker and sought in the divine
+  taxonomy_refs:
+  - annihilation_union
+  basis: The passage says the divine and humans are not separate and that seekers
+    and sought are all comprised in the divine.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: medium
+  cautions: The passage states unity but does not explicitly describe annihilation,
+    ecstatic union, or a completed initiatory transformation.
+- id: motif:4
+  label: worldly permanence as illusion
+  taxonomy_refs:
+  - wisdom
+  basis: The prose section teaches that the universe is a succession of changing accidents
+    and that spectators are deceived into believing it permanent.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The available taxonomy has no direct impermanence or illusion category;
+    wisdom is a broad fit.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 1231-1236
+  quote_or_summary: "“O Thou whose sacred precincts none may see, / Unseen Thou makest
+    all things seen to be; ... Thou hast no need of us, but we of Thee.”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 1237-1242
+  quote_or_summary: "“None by endeavour can behold Thy face, / Or access gain without
+    prevenient grace; ... Thou hast no peer, and none can take Thy place.”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: summary
+  locator: lines 1243-1248
+  quote_or_summary: The divine is described as without accident, substance, or constraint
+    of cause; the divine can replace what is lost, but if the divine is lost no substitute
+    can be found.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: quote
+  locator: lines 1249-1254
+  quote_or_summary: "“In me Thy beauty love and longing wrought; ... My love is as
+    a mirror in the which / Thy beauty into evidence is brought.”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:5
+  type: quote
+  locator: lines 1255-1260
+  quote_or_summary: "“O Lord, none but Thyself can fathom Thee, / Yet every mosque
+    and church doth harbour Thee; ... Seekers and sought are all comprised in Thee.”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:6
+  type: summary
+  locator: lines 1261-1266
+  quote_or_summary: The universe and its parts are described as accidents, ever changing
+    and renewed at every breath, linked in a single substance, disappearing and being
+    replaced by similar sets.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:7
+  type: summary
+  locator: lines 1266-1268
+  quote_or_summary: Because of rapid succession, the spectator is deceived into believing
+    the universe is a permanent existence.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is based directly on the provided passage. Motif mapping
+    is strongest for divine_beloved; other taxonomy links are broader and should be
+    reviewed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly compare its images or teachings to another tradition or motif family beyond the supplied taxonomy mapping.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-jami-persian-mystics-davis-gutenberg__l1231-l1268
+  passage_sha256=e56c6f8c313df2a65cb3793dc9aab69d60a1309813c54773306a49e2fe0b04af

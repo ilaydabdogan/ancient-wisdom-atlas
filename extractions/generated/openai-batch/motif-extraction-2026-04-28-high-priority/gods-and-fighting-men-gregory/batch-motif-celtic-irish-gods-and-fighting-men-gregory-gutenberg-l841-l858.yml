@@ -1,0 +1,313 @@
+---
+record_id: batch.motif.celtic-irish-gods-and-fighting-men-gregory-gutenberg-l841-l858
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+passage_locator:
+  label: 'GODS AND FIGHTING MEN. / PART ONE: THE GODS. / BOOK ONE: THE COMING OF THE
+    TUATHA DE DANAAN. / CHAPTER I. THE FIGHT WITH THE FIRBOLGS; lines 841-858'
+  start: '841'
+  end: '858'
+  translation: Gods and Fighting Men
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The Tuatha de Danaan take possession of Teamhair, whose names and chief
+    landmarks are described. Teamhair is said to stand above all other places because
+    its king is High King over Ireland. The passage maps nearby hills, a well and
+    stream, the first mill in Ireland, the Lia Fail stone that roars beneath rightful
+    kings, and several named buildings and places used for feasts and assemblies.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Tuatha de Danaan took possession of Teamhair.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: 'Teamhair is given several names: Druim Cain, Liathdruim, and Druim na Descan.'
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Teamhair is said to be above all other places because its king was High King
+    over all Ireland.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage gives a spatial arrangement of Teamhair landmarks, including the
+    king's rath, the Hill of the Hostages, the High Seat, and the Green of Teamhair.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A well called Nemnach was in the Hill of the Sidhe, and a stream called Nith
+    flowed out of it.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The first mill in Ireland was built on the stream called Nith.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The Lia Fail stone lay north of the Hill of the Hostages.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The Lia Fail used to roar under the feet of every king who would take possession
+    of Ireland.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The House of the Women had seven doors to the east and seven doors to the
+    west, and the feasts of Teamhair were held there.
+  category: setting
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The Great House of a Thousand Soldiers and the little Hill of the Woman Soldiers
+    are named as nearby features.
+  category: setting
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Tuatha de Danaan
+  description: A group who take possession of Teamhair.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: King of Teamhair / High King over Ireland
+  description: The king associated with Teamhair, described as High King over all
+    Ireland.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Kings who would take possession of Ireland
+  description: Kings beneath whose feet the Lia Fail stone used to roar when they
+    would take possession of Ireland.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: possessors of Teamhair
+  assigned_to:
+  - fig:1
+  basis: The passage states that the Tuatha de Danaan took possession of Teamhair.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: High King
+  assigned_to:
+  - fig:2
+  basis: Teamhair's king is described as High King over all Ireland.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: claimants or takers of Ireland
+  assigned_to:
+  - fig:3
+  basis: The Lia Fail roars under kings who would take possession of Ireland.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: Teamhair as royal center
+  literal_form: Teamhair, a named place with royal buildings and landmarks
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: Lia Fail recognition stone
+  literal_form: A stone that roars under the feet of kings taking possession of Ireland
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: Nemnach well and Nith stream
+  literal_form: A well in the Hill of the Sidhe and a stream flowing out of it
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: first mill in Ireland
+  literal_form: A mill built on the stream Nith
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: House of the Women with fourteen doors
+  literal_form: A house with seven doors to the east and seven doors to the west
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Tuatha de Danaan take Teamhair
+  summary: The Tuatha de Danaan take possession of Teamhair, which is identified by
+    several names and elevated above other places because of its king's status.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Topography and sacred landmarks of Teamhair
+  summary: The passage maps Teamhair's royal rath, hills, green, Sidhe hill, well,
+    stream, first mill, Lia Fail stone, and feast houses.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: scene:3
+  label: Lia Fail roars beneath kings
+  summary: The Lia Fail stone is described as roaring under the feet of every king
+    who would take possession of Ireland.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: royal legitimacy signaled by a responsive object
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The Lia Fail stone roars under kings who would take possession of Ireland,
+    functioning in the passage as a sign attached to kingship and possession of the
+    land.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage does not explicitly define the stone as a test of legitimacy,
+    only as roaring under such kings.
+- id: motif:2
+  label: central royal place elevated above all others
+  taxonomy_refs:
+  - world_center
+  - royal_legitimacy
+  basis: Teamhair is described as above all other places because its king is High
+    King over all Ireland, and its landmarks are mapped in detail.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage states political and spatial prominence, but does not explicitly
+    present Teamhair as a cosmic world center.
+- id: motif:3
+  label: origin of a cultural technology at a named sacred landscape
+  taxonomy_refs:
+  - culture_hero
+  basis: The passage states that the first mill in Ireland was built on the stream
+    Nith flowing from the well Nemnach in the Hill of the Sidhe.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: No individual culture hero is named; the motif is limited to the stated
+    first occurrence of the mill.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 841-844
+  quote_or_summary: The Tuatha de Danaan take possession of Teamhair, also called
+    Druim Cain, Liathdruim, and Druim na Descan.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source; short summary used.
+- id: ev:2
+  type: quote
+  locator: lines 844-846
+  quote_or_summary: '"from that time it was above all other places, for its king was
+    the High King over all Ireland"'
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source; brief quotation used.
+- id: ev:3
+  type: summary
+  locator: lines 846-848
+  quote_or_summary: The king's rath, Hill of the Hostages, High Seat, and Green of
+    Teamhair are described in relation to one another.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source; short summary used.
+- id: ev:4
+  type: summary
+  locator: lines 848-851
+  quote_or_summary: In the Hill of the Sidhe was the well Nemnach; the stream Nith
+    flowed from it, and the first mill in Ireland was built on that stream.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source; short summary used.
+- id: ev:5
+  type: summary
+  locator: lines 853-855
+  quote_or_summary: North of the Hill of the Hostages stood the Lia Fail, which roared
+    under the feet of every king who would take possession of Ireland.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source; short summary used.
+- id: ev:6
+  type: summary
+  locator: lines 855-857
+  quote_or_summary: The Wall of the Three Whispers was near the House of the Women,
+    which had seven east doors and seven west doors; Teamhair's feasts were held there.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source; short summary used.
+- id: ev:7
+  type: summary
+  locator: lines 857-858
+  quote_or_summary: The Great House of a Thousand Soldiers and the nearby little Hill
+    of the Woman Soldiers are named.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source; short summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Topographical and object details are explicit. Motif assignments beyond royal
+    legitimacy are cautious because the passage mainly lists place-names and landmarks.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage does not itself compare these details to other traditions or motif families beyond the supplied taxonomy mapping.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:celtic-irish-gods-and-fighting-men-gregory-gutenberg__l841-l858
+  passage_sha256=886f25879032c8290ef9f835b32bcd82c5f11530281a05a9ffe22e008ee9082e

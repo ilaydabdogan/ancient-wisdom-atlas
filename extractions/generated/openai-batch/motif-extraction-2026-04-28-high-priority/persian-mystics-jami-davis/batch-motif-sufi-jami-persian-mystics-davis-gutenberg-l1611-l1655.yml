@@ -1,0 +1,407 @@
+---
+record_id: batch.motif.sufi-jami-persian-mystics-davis-gutenberg-l1611-l1655
+source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+passage_locator:
+  label: THE BEAUTY OF ZULAIKHA / SELF DIES IN LOVE / THE FREEING OF ZULAIKHA'S SOUL
+    / BREAKING THE IDOL; lines 1611-1655
+  start: '1611'
+  end: '1655'
+  translation: 'The Persian Mystics: Jámí'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Zulaikha breaks an idol with a flint stone, performs a penitential ablution
+    with tears and inward suffering, prays to God for forgiveness and restoration,
+    and later meets Yúsuf again. In their exchange she says her youth, beauty, wealth,
+    and former royal ornaments are gone through separation and love for him.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A female figure breaks an image or idol into many pieces with a hard flint
+    stone.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The broken idol is described as riven, shattered, and fallen.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The female figure performs an ablution described through the blood of her
+    heart and the tears of her eyes, amid penitential sighs.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: She bows her head to the dust and makes supplication to God's throne.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: In her prayer, she says idol worshippers bend toward the light lent by God's
+    splendour to the idol's face.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: She asks God to wash away the dark stain of her sin and restore the lost blessing
+    for which she prays.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Yúsuf and Zulaikha meet again and speak in question-and-answer form about
+    her lost youth, beauty, eyesight, posture, wealth, and ornaments.
+  category: sequence
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: obs:8
+  text: Zulaikha says her youth, beauty, and pride are gone since parting from Yúsuf.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Zulaikha says her eye's light is drowned in blood-tears because of Yúsuf's
+    loss.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: Zulaikha says her treasure of gold has run dry, but her heart is Love's storehouse.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Zulaikha
+  description: Female speaker who breaks the idol, prays to God, and later answers
+    Yúsuf about her losses and love.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: God
+  description: Addressed in supplication as loving the humble and as the source of
+    splendour before whom idols, makers, and servants bow.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Yúsuf
+  description: Beloved figure who meets Zulaikha again and asks about the loss of
+    her youth, beauty, eye-light, posture, wealth, and diadem.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: fig:4
+  name_or_label: the Friend
+  description: Referenced in a comparison to the one using a hard flint stone; identity
+    is not specified in the supplied passage beyond the note marker.
+  role_refs: []
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: idol worshippers, makers, and servants
+  description: Collective figures mentioned in Zulaikha's prayer as bowing before
+    God or bending before the idol's face.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: penitent idol-breaker
+  assigned_to:
+  - fig:1
+  basis: She breaks the image and then performs penitential acts and supplication.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: separated lover
+  assigned_to:
+  - fig:1
+  basis: She attributes loss of youth, beauty, eye-light, posture, and wealth to separation
+    from Yúsuf and love for him.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:3
+  label: divine addressee of supplication
+  assigned_to:
+  - fig:2
+  basis: Zulaikha addresses God directly and asks for cleansing and restoration.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:4
+  label: beloved questioner
+  assigned_to:
+  - fig:3
+  basis: Yúsuf asks Zulaikha where her former beauty, youth, eye-light, posture, and
+    wealth have gone.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:5
+  label: idol-associated worshippers and makers
+  assigned_to:
+  - fig:5
+  basis: They are mentioned in the prayer in relation to idols and worship.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: idol image
+  literal_form: image or idol broken into a thousand pieces
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:2
+  label: flint stone
+  literal_form: hard flint stone used to break the image
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: tears and heart-blood
+  literal_form: blood of her heart and tears of her eyes used in the description of
+    ablution
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: dust
+  literal_form: dust to which Zulaikha bends her head; dust trodden by another becomes
+    her coronet
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: sym:5
+  label: rose from Yúsuf's garden
+  literal_form: a rose asked for from the garden of Yúsuf
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: cypress tree
+  literal_form: bowed and bent cypress tree used to describe Zulaikha's condition
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: pearls, silver, gold, and diadem
+  literal_form: wealth and royal ornaments named in the dialogue
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:8
+  label: Love's storehouse
+  literal_form: Zulaikha's heart described as Love's storehouse
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Breaking the idol and penitential prayer
+  summary: Zulaikha shatters an idol with flint, performs a penitential ablution through
+    tears and inward suffering, bows to the dust, and prays to God for forgiveness
+    and restoration.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:2
+  label: Yúsuf and Zulaikha meet again
+  summary: Yúsuf asks Zulaikha about her lost beauty, youth, eye-light, posture, wealth,
+    and ornaments; she answers that separation and love have consumed them, while
+    her heart remains Love's storehouse.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:6
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: renunciation of idolatry through breaking an image
+  taxonomy_refs: []
+  basis: The passage centers on Zulaikha breaking an idol into pieces and praying
+    that her earlier turning toward an idol be forgiven.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The supplied taxonomy does not include a specific idol-breaking motif
+    family.
+- id: motif:2
+  label: penitential purification after misdirected worship
+  taxonomy_refs: []
+  basis: Zulaikha performs ablution with tears and heart-blood, bows, and prays for
+    the stain of sin to be washed away.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The ablution is figuratively described; extraction treats it as a literal
+    passage image rather than a doctrinal claim.
+- id: motif:3
+  label: love as self-loss and transformation
+  taxonomy_refs:
+  - annihilation_union
+  - divine_beloved
+  basis: Zulaikha's former beauty, pride, wealth, and ornaments are gone through separation
+    from Yúsuf, and her heart is described as Love's storehouse.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The passage presents Yúsuf as the beloved in dialogue; identifying this
+    with divine-beloved or annihilation-union patterns is supported by Sufi framing
+    but not explicitly systematized in this excerpt.
+- id: motif:4
+  label: beloved restored or sought after repentance
+  taxonomy_refs:
+  - return
+  - divine_beloved
+  basis: After repentance and prayer, the next section presents Yúsuf and Zulaikha
+    meeting again.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The excerpt does not explicitly state that the meeting is caused by the
+    prayer, only that the meeting follows in sequence.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 1611-1614
+  quote_or_summary: '"With a hard flint stone... In a thousand pieces the image she
+    broke. / Riven and shattered the idol fell"'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 1615-1616
+  quote_or_summary: Zulaikha makes an ablution amid penitential sighs, described through
+    the blood of her heart and tears of her eyes.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 1617-1618
+  quote_or_summary: She bends her head to the dust and makes supplication to God's
+    pure throne.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 1619-1628
+  quote_or_summary: In prayer, she addresses God as loving the humble and says idols,
+    their makers, and servants bow to Him; worshippers bend to the light of God's
+    splendour on the idol's face.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 1629-1634
+  quote_or_summary: She says she wronged herself by turning her eyes to an idol, asks
+    that the dark stain of sin be washed away, and prays for restored blessing and
+    a rose from Yúsuf's garden.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: lines 1635-1644
+  quote_or_summary: Yúsuf and Zulaikha meet again; he asks about her lost youth, beauty,
+    pride, eye-light, and bent cypress-like form, and she attributes them to separation
+    and lament for him.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:7
+  type: summary
+  locator: lines 1645-1655
+  quote_or_summary: Yúsuf asks about her pearls, silver, gold, and diadem; Zulaikha
+    says she gave jewels and gold away in praise of his beauty, her treasure ran dry,
+    and her heart is Love's storehouse.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is strong for the supplied passage. Motif assignment is
+    cautious where Sufi allegorical categories are suggested by the source context
+    but not fully explicit in the excerpt.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only supplied passage and metadata. No comparison claims were added because the passage itself does not explicitly support a cross-text comparison.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-jami-persian-mystics-davis-gutenberg__l1611-l1655
+  passage_sha256=84fa39de98e4dba1f8a3c7d8aaf8e09f044b68d89d7093cfb06899bcea9312af

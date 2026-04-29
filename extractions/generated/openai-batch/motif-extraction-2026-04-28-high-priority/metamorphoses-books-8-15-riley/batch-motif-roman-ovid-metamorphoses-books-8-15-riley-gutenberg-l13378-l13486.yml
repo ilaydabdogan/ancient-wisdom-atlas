@@ -1,0 +1,404 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l13378-l13486
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+passage_locator:
+  label: BOOK THE FIFTEENTH. / EXPLANATION. / EXPLANATION. / EXPLANATION.; lines 13378-13486
+  start: '13378'
+  end: '13486'
+  translation: The Metamorphoses of Ovid, Books VIII-XV
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A god associated with Epidaurus travels to Italy and Rome in serpent form
+    aboard an Ausonian ship. He is received with sacrifices, incense, and public welcome,
+    chooses the island in the divided Tiber as his dwelling, resumes celestial form,
+    and ends mourning as a restorer of health.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The god places his body in an Ausonian ship, which is described as laden with
+    divinity, while the descendants of Aeneas rejoice.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A bull is slain on the seashore before the garlanded ship has its cables loosened.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The god is visible aloft on the ship, pressing his neck against the stern
+    and looking down at the waters.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The ship follows a coastal route past numerous Italian and Sicilian landmarks
+    before reaching Antium.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: When the sea is aroused near Antium, the deity unfolds his coils and enters
+    the temple of his parent near the yellow shore.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: After leaving the altars of his sire, the god drags his rattling scales across
+    the shore and returns to the ship.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: At the Tiber, men, matrons, and attendants of Vesta’s fires rush to meet the
+    god with joyful shouts.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Altars are erected along both banks, frankincense burns, and sacrificial victims
+    are cut with knives.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: In Rome, the serpent rises upright, looks for a dwelling, and moves from the
+    Latian ship to an island formed by the divided river.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The serpent is identified as the son of Phoebus and resumes celestial form,
+    ending mourning and coming to the city as a restorer of health.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: God of Epidaurus / serpent son of Phoebus
+  description: A deity traveling in serpent form, described as the God of Epidaurus,
+    the son of Phoebus, and the restorer of health.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: Descendants of Aeneas
+  description: A group who rejoice when the god enters the Ausonian ship.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Sailors
+  description: Those who steer the sail-bearing ship carrying the deity.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: People at the Tiber
+  description: A crowd of matrons and men who rush to meet and welcome the god.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Attendants of Vesta’s fires
+  description: Those who tend Vesta’s fires and join the public welcome of the god.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Phoebus / sire of the god
+  description: The deity named as the serpent’s father; his altars and the temple
+    of the god’s parent are visited.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:5
+roles:
+- id: role:1
+  label: divine passenger
+  assigned_to:
+  - fig:1
+  basis: The ship is described as carrying the god and being laden with divinity.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: serpent-form deity
+  assigned_to:
+  - fig:1
+  basis: The deity unfolds coils, drags rattling scales, and is called the serpent
+    son of Phoebus.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:3
+  label: restorer of health
+  assigned_to:
+  - fig:1
+  basis: The passage states that he came to the city as the restorer of health.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: welcoming community
+  assigned_to:
+  - fig:2
+  - fig:4
+  - fig:5
+  basis: The descendants of Aeneas rejoice, and the crowd with Vesta’s attendants
+    welcomes the god.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:5
+  label: ship handlers
+  assigned_to:
+  - fig:3
+  basis: The sailors steer the sail-bearing ship.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: divine parent
+  assigned_to:
+  - fig:6
+  basis: The passage refers to the god’s parent, sire, and identifies the serpent
+    as the son of Phoebus.
+  evidence_refs:
+  - ev:3
+  - ev:5
+symbols:
+- id: sym:1
+  label: serpent
+  literal_form: The god travels as a serpent with coils, scales, raised neck, and
+    upright posture.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:2
+  label: divine ship
+  literal_form: The Ausonian or Latian ship carries the god as divine freight to Italy
+    and Rome.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: sym:3
+  label: altars, incense, and victims
+  literal_form: Altars line the banks; frankincense burns; victims are sacrificed.
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: divided river and island
+  literal_form: The river divides into two equal arms around dry land called the Island,
+    chosen by the serpent.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: Vesta’s fires
+  literal_form: Sacred fires tended by Vesta’s attendants are mentioned among those
+    welcoming the god.
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Embarkation of the god
+  summary: The god enters the Ausonian ship; a bull is slain, the ship is garlanded,
+    and the voyage begins.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Coastal voyage toward Rome
+  summary: The divine ship moves along the Ionian and Italian coasts, passing named
+    shores, cities, promontories, springs, rivers, and sacred places.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Stop at the parent’s temple
+  summary: Near Antium, the serpent-form deity leaves the ship, enters the temple
+    of his parent, visits the altars of his sire, and returns to the ship.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Public welcome at the Tiber
+  summary: Crowds and attendants of Vesta welcome the god with shouts while altars,
+    incense, and sacrifices line the banks.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Settlement on the Tiber island
+  summary: The serpent rises, seeks a dwelling, moves from the ship to the island
+    formed by the river, resumes celestial form, and ends mourning.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: serpent-form healing deity arrives at a city
+  taxonomy_refs:
+  - serpent
+  basis: The god is repeatedly represented in serpent form and is identified at the
+    end as the restorer of health who comes to Rome.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The passage gives a specific Roman reception narrative; broader serpent-healer
+    interpretation should be reviewed against surrounding context.
+- id: motif:2
+  label: deity changes from animal form to celestial form
+  taxonomy_refs:
+  - shapeshifter
+  basis: The serpent son of Phoebus moves to the island and then resumes celestial
+    form.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: Only the return to celestial form is explicit in this passage; the initial
+    assumption of divine serpent form depends on the passage’s repeated identification
+    of the serpent as the god.
+- id: motif:3
+  label: ritual reception of an arriving god
+  taxonomy_refs:
+  - sacrifice
+  basis: The god’s voyage begins and ends with ritual actions including slaughtered
+    bulls or victims, altars, incense, and public welcome.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: high
+  cautions: The passage describes ritual honors but does not explain their full civic
+    or cultic meaning within this excerpt.
+- id: motif:4
+  label: sacred arrival by sea and river
+  taxonomy_refs: []
+  basis: The god is transported by ship over sea routes to the Tiber, then leaves
+    the ship for an island in the river.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  confidence: medium
+  cautions: No specific supplied taxonomy family exactly matches this transport-and-installation
+    pattern.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 13378-13388
+  quote_or_summary: The god enters the Ausonian ship; the ship is conscious of divine
+    weight; the descendants of Aeneas rejoice; a bull is slain; the garlanded ship
+    departs, and the god is visible aloft by the stern looking at the waters.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source text; summary provided.
+- id: ev:2
+  type: summary
+  locator: lines 13388-13418
+  quote_or_summary: The ship proceeds along the Ionian and Italian coasts, passing
+    named places including Lacinian shores, Scylacean coasts, Pæstum, Capreæ, Surrentine
+    hills, the temple of the Cumaean Sibyl, Sinuessa, Circe’s land, and Antium.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source text; summary provided.
+- id: ev:3
+  type: summary
+  locator: lines 13419-13432
+  quote_or_summary: Near Antium, the deity unfolds his coils, enters the temple of
+    his parent, later leaves the altars of his sire, drags rattling scales over the
+    shore, and returns to the ship until reaching Lavinium and the Tiber.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source text; summary provided.
+- id: ev:4
+  type: summary
+  locator: lines 13432-13443
+  quote_or_summary: At the Tiber, a crowd of matrons and men and those who tend Vesta’s
+    fires welcome the god; altars are erected along the banks, frankincense smokes,
+    and sacrificial victims are cut.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source text; summary provided.
+- id: ev:5
+  type: quote
+  locator: lines 13444-13454
+  quote_or_summary: "“The serpent rises erect” and moves from the Latian ship to the
+    Island in the divided river; “the serpent, son of Phœbus” ends mourning after
+    “having resumed his celestial form” and comes as “the restorer of health.”"
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source text; short quotation from public domain passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is well supported by the passage. Motif labels are candidate-level
+    and should be reviewed against the wider Aesculapius episode and Roman cult context.
+    No comparison claims were added because the excerpt itself does not explicitly
+    compare traditions.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata. Footnotes were not treated as narrative events except where they clarify names already present in the passage.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-8-15-riley-gutenberg__l13378-l13486
+  passage_sha256=05c72046abb382b83768bb23b6403793e46d3975b11b22fbbe8399e2e96f8912

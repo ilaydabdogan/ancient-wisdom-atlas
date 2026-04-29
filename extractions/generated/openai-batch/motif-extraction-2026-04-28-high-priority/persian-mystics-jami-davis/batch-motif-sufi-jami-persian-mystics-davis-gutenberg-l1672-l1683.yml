@@ -1,0 +1,233 @@
+---
+record_id: batch.motif.sufi-jami-persian-mystics-davis-gutenberg-l1672-l1683
+source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+passage_locator:
+  label: THE FREEING OF ZULAIKHA'S SOUL / BREAKING THE IDOL / ZULAIKHA'S YOUTH RETURNS
+    / ZULAIKHA'S WISH; lines 1672-1683
+  start: '1672'
+  end: '1683'
+  translation: 'The Persian Mystics: Jámí'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Zulaikha says her single wish is to remain near the addressed beloved,
+    sit by his side, see him by day, rest her cheek on his foot at night, enjoy the
+    shade of the cypress and the sweetness of his lips, receive balm for her wounded
+    heart, and gain new life from the streams of his love like a dry field receiving
+    water.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Zulaikha replies that the sole wish of her heart is to remain near the addressee
+    and sit by his side.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: She wishes to see the addressee by day and lay her cheek on his foot at night.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: She imagines lying in the shade of a cypress and sipping sweetness from the
+    addressee's ruby lip.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: She describes her heart as wounded and the desired nearness as a soft balm.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: She says the streams of the addressee's love will bestow new life on a dry
+    thirsty field where the waters flow.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Zulaikha
+  description: Speaker of the wish in the passage heading and reply.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: unnamed addressed beloved
+  description: The figure addressed as “thee,” whose side, foot, lip, and love are
+    desired by the speaker.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+roles:
+- id: role:1
+  label: desiring speaker
+  assigned_to:
+  - fig:1
+  basis: Zulaikha states her sole wish and describes what she desires.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: beloved addressee
+  assigned_to:
+  - fig:2
+  basis: The addressee is the object of Zulaikha's desired nearness, sight, bodily
+    devotion, and love imagery.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+symbols:
+- id: sym:1
+  label: cypress shade
+  literal_form: shade of the cypress
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: ruby lip and sugar
+  literal_form: sugar on the ruby lip
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: wounded heart and balm
+  literal_form: wounded heart receiving soft balm
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: streams of love
+  literal_form: streams and sweet waters flowing over a dry thirsty field
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Zulaikha states her wish
+  summary: Zulaikha declares that she wants nothing beyond nearness to the addressee,
+    bodily devotion at his feet, sweetness from his lips, healing for her wounded
+    heart, and new life from his love.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: longing for nearness to the beloved
+  taxonomy_refs:
+  - divine_beloved
+  basis: The speaker's single wish is to remain near the beloved addressee, sit by
+    his side, see him, and rest at his foot.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage itself does not explicitly call the addressee divine; the
+    taxonomy reference is supported only by the devotional beloved pattern and the
+    Sufi source context supplied in metadata.
+- id: motif:2
+  label: love as revivifying water
+  taxonomy_refs: []
+  basis: The addressee's love is pictured as streams whose waters give new life to
+    a dry thirsty field.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The image is metaphorical within the passage; no literal miracle or resurrection
+    is narrated.
+- id: motif:3
+  label: self-abasing devotion at the beloved's feet
+  taxonomy_refs: []
+  basis: Zulaikha wishes to lay her cheek on the addressee's foot at night.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The social or ritual status of the gesture is not explained in the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1672-1675
+  quote_or_summary: Under the heading “Zulaikha's Wish,” she replies that the sole
+    wish of her heart is to be near the addressee and sit by his side.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 1676-1677
+  quote_or_summary: She wants to see the addressee by day and lay her cheek on his
+    foot at night.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 1678-1679
+  quote_or_summary: She wishes to lie in the shade of the cypress and sip the sugar
+    from the addressee's ruby lip.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 1680-1681
+  quote_or_summary: She calls this desired closeness a soft balm for her wounded heart
+    and says she can wish or pray for nothing beyond it.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 1682-1683
+  quote_or_summary: She says the streams of the addressee's love will bestow new life
+    on a dry thirsty field where the sweet waters flow.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; summary generated from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labels are cautious because
+    the passage is strongly lyrical and metaphorical, and the addressee is not named
+    within the supplied passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the supplied passage does not itself make an explicit comparison to another tradition, text, or motif family.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-jami-persian-mystics-davis-gutenberg__l1672-l1683
+  passage_sha256=291493769c505f157872ef0fa719869d633bd5f36d477ce81061f1de9180c03d

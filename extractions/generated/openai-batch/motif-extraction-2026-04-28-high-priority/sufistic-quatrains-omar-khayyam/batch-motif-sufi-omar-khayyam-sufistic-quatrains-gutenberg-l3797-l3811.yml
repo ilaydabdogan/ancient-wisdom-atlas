@@ -1,0 +1,241 @@
+---
+record_id: batch.motif.sufi-omar-khayyam-sufistic-quatrains-gutenberg-l3797-l3811
+source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+passage_locator:
+  label: LXXI. / LXXII. / LXXIII. / LXXV.; lines 3797-3811
+  start: '3797'
+  end: '3811'
+  translation: The Sufistic Quatrains of Omar Khayyam
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: This was the lot decreed for me from the Diwan of Fate
+  summary: The speaker says that when heavenly horses or the Sun were set in motion
+    and the laws of Parwin and Mushtari were established, the speaker's portion of
+    dust and soul was predetermined by Fate, including sins allotted as a portion.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The speaker says they were started from the Goal and placed in a predestined
+    plot of dust and soul.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Parwin and Mushtari are described as flung over the flaming shoulders of the
+    Foal of Heaven.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The source-note translation describes wild horses of the Sun being saddled.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The source-note translation says the laws of Parwin and Mushtari were settled.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The speaker says a lot was decreed from the Diwan of Fate and asks how they
+    can sin if sins are what Fate allotted.
+  category: speech
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: speaker
+  description: First-person speaker whose lot, dust, soul, and sins are described
+    as predestined or allotted.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: unspecified agents
+  description: The unnamed 'they' who flung Parwin and Mushtari, saddled the wild
+    horses of the Sun, and settled laws.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Fate
+  description: Named abstract agency from whose Diwan the speaker's lot is decreed
+    and by whom sins are allotted.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: predestined speaker
+  assigned_to:
+  - fig:1
+  basis: The speaker refers to a predestined plot of dust and soul and a lot decreed
+    for them.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: celestial orderers
+  assigned_to:
+  - fig:2
+  basis: The unnamed agents act on celestial horses and establish the laws of Parwin
+    and Mushtari.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: allotter of human portion
+  assigned_to:
+  - fig:3
+  basis: Fate is said to allot the speaker's sins as a portion.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: Foal of Heaven / wild horses of the Sun
+  literal_form: celestial horse imagery associated with Heaven and the Sun
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: flaming shoulders
+  literal_form: flame imagery on the shoulders of the Foal of Heaven
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Parwin and Mushtari
+  literal_form: named celestial bodies or astral entities whose laws are settled
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:4
+  label: Diwan of Fate
+  literal_form: a register, council, or record associated with Fate from which the
+    speaker's lot is decreed
+  associated_figures:
+  - fig:3
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: Plot of Dust and Soul
+  literal_form: the speaker's predestined place or condition described as dust and
+    soul
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: celestial ordering and predestined allotment
+  summary: At a cosmic beginning or decisive moment, heavenly horse imagery and the
+    ordering of Parwin and Mushtari accompany the speaker's lot being decreed by Fate.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: predestined human lot
+  taxonomy_refs: []
+  basis: The speaker's condition and sins are described as decreed or allotted by
+    Fate.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: The passage frames predestination poetically; no wider doctrinal claim
+    should be inferred from this excerpt alone.
+- id: motif:2
+  label: cosmic ordering of fate
+  taxonomy_refs: []
+  basis: The settling of celestial laws and movement of heavenly horses is linked
+    with the speaker's decreed portion.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The exact identities and functions of Parwin and Mushtari are not explained
+    within the supplied passage.
+- id: motif:3
+  label: denial of personal guilt through fate
+  taxonomy_refs: []
+  basis: The speaker asks how they can sin if sins are what Fate allotted as their
+    portion.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: This is recorded as a passage-level motif, not as a general claim about
+    the whole text or tradition.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 3797-3802
+  quote_or_summary: "“When, started from the Goal, / Over the flaming shoulders of
+    the Foal / Of Heav'n, Parwin and Mushtari they flung, / In my predestined Plot
+    of Dust and Soul.”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: source-note translation following LXXV
+  quote_or_summary: The prose-note translation says that on the day the wild horses
+    of the Sun were saddled, the laws of Parwin and Mushtari were settled.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized for evidence.
+- id: ev:3
+  type: quote
+  locator: source-note translation following LXXV
+  quote_or_summary: "“This was the lot decreed for me from the Diwan of Fate: / How
+    can I sin? (my sins) are what Fate allotted me as my portion.”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labels are passage-level and
+    do not assert external parallels. No comparison claims were made because the supplied
+    passage does not itself establish a comparative relationship.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata. Available taxonomy reference applied only to the explicit flame/fire image.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-omar-khayyam-sufistic-quatrains-gutenberg__l3797-l3811
+  passage_sha256=661c278686efdcb43d5bf7e86c99cd72791ad65dafb121fb362b5dc270a60da6

@@ -1,0 +1,352 @@
+---
+record_id: batch.motif.celtic-irish-gods-and-fighting-men-gregory-gutenberg-l582-l600
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+passage_locator:
+  label: Book V. The Fate of The Children of Lir / PART II. THE FIANNA / Book III.
+    The Battle of the White Strand / Book IV. Huntings and Enchantments; lines 582-600
+  start: '582'
+  end: '600'
+  translation: Gods and Fighting Men
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A table-of-contents segment names Book IV, “Huntings and Enchantments,”
+    lists fifteen chapter titles, and then gives the next heading, “Book V. Oisin's
+    Children.”
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is a contents listing headed “Book IV. Huntings and Enchantments.”
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Fifteen chapters are listed under Book IV.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: 'Two chapter titles name caves: “The Cave of Ceiscoran” and “The Cave of Cruachan.”'
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Several chapter titles identify named or described figures, including the
+    King of Britain's Son, Donn son of Midhir, Ilbrec of Ess Ruadh, Finn, the Red
+    Woman, Angus, and Oisin's Children.
+  category: other
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: obs:5
+  text: Some chapter titles name unusual beings or apparitions, including Cat-Heads
+    and Dog-Heads, the Shadowy One, and phantoms.
+  category: other
+  evidence_refs:
+  - ev:7
+- id: obs:6
+  text: Other chapter titles name events or conditions such as a wedding, Finn's madness,
+    and a hunt.
+  category: other
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: The King of Britain's Son
+  description: A chapter-title figure identified by relationship to the King of Britain.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:2
+  name_or_label: Donn, Son of Midhir
+  description: A chapter-title figure identified as Donn, son of Midhir.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: Cuanna
+  description: Named in the possessive chapter title “The Hospitality of Cuanna's
+    House.”
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: Ilbrec of Ess Ruadh
+  description: A named chapter-title figure associated with Ess Ruadh.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Finn
+  description: Named in chapter titles concerning madness and phantoms.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: fig:6
+  name_or_label: The Red Woman
+  description: A descriptive chapter-title figure.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+- id: fig:7
+  name_or_label: Angus
+  description: Named in the chapter title “The Pigs of Angus.”
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+- id: fig:8
+  name_or_label: Oisin's Children
+  description: Named in the heading “Book V. Oisin's Children.”
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:9
+- id: fig:9
+  name_or_label: Cat-Heads and Dog-Heads
+  description: Collective descriptive beings named in a chapter title.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:7
+- id: fig:10
+  name_or_label: The Shadowy One
+  description: A descriptive chapter-title figure.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:7
+- id: fig:11
+  name_or_label: Phantoms
+  description: Apparitions named in the chapter title “Finn and the Phantoms.”
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: son
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The chapter titles identify these figures by filial relationship.
+  evidence_refs:
+  - ev:4
+- id: role:2
+  label: house-associated named person
+  assigned_to:
+  - fig:3
+  basis: Cuanna is named through the possessive phrase “Cuanna's House.”
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: chapter-title figure
+  assigned_to:
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:9
+  - fig:10
+  - fig:11
+  basis: These figures or beings are named in Book IV chapter titles without further
+    narrative detail in this passage.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: role:4
+  label: children
+  assigned_to:
+  - fig:8
+  basis: The heading names “Oisin's Children.”
+  evidence_refs:
+  - ev:9
+symbols:
+- id: sym:1
+  label: cave
+  literal_form: The Cave of Ceiscoran; The Cave of Cruachan
+  associated_figures: []
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: head
+  literal_form: Lomna's Head
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+- id: sym:3
+  label: animal-headed beings
+  literal_form: Cat-Heads and Dog-Heads
+  associated_figures:
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:4
+  label: pigs
+  literal_form: The Pigs of Angus
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Book IV contents list
+  summary: The passage lists the heading and fifteen chapter titles for Book IV, “Huntings
+    and Enchantments.”
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:9
+  - fig:10
+  - fig:11
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Transition to Book V
+  summary: After the Book IV chapter list, the next heading is “Book V. Oisin's Children.”
+  figure_refs:
+  - fig:8
+  symbol_refs: []
+  evidence_refs:
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: cave episodes
+  taxonomy_refs: []
+  basis: Two chapter titles under Book IV explicitly name caves as the focus of episodes.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage is only a table of contents and gives no narrative action
+    inside the caves.
+- id: motif:2
+  label: huntings and enchantments
+  taxonomy_refs:
+  - mystical_quest
+  basis: The Book IV heading pairs hunting with enchantment, and the chapter list
+    includes titles involving phantoms, a shadowy figure, madness, and a hunt.
+  evidence_refs:
+  - ev:1
+  - ev:7
+  - ev:8
+  confidence: low
+  cautions: The taxonomy link is tentative because the passage provides headings only,
+    not a narrated quest pattern.
+- id: motif:3
+  label: encounter with apparitions
+  taxonomy_refs: []
+  basis: Chapter titles name “The Shadowy One” and “Finn and the Phantoms.”
+  evidence_refs:
+  - ev:7
+  confidence: low
+  cautions: The passage does not describe the encounters or their function.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 582-600
+  quote_or_summary: "“Book IV. Huntings and Enchantments”"
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: lines 582-600
+  quote_or_summary: The contents list gives fifteen chapter numbers under Book IV.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 582-600
+  quote_or_summary: "“The Cave of Ceiscoran”; “The Cave of Cruachan”"
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source; short excerpts used.
+- id: ev:4
+  type: quote
+  locator: lines 582-600
+  quote_or_summary: "“The King of Britain's Son”; “Donn, Son of Midhir”"
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source; short excerpts used.
+- id: ev:5
+  type: quote
+  locator: lines 582-600
+  quote_or_summary: "“The Hospitality of Cuanna's House”; “Ilbrec of Ess Ruadh”"
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source; short excerpts used.
+- id: ev:6
+  type: quote
+  locator: lines 582-600
+  quote_or_summary: "“The Red Woman”; “The Pigs of Angus”"
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source; short excerpts used.
+- id: ev:7
+  type: quote
+  locator: lines 582-600
+  quote_or_summary: "“Cat-Heads and Dog-Heads”; “The Shadowy One”; “Finn and the Phantoms”"
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source; short excerpts used.
+- id: ev:8
+  type: quote
+  locator: lines 582-600
+  quote_or_summary: "“The Wedding at Ceann Slieve”; “Finn's Madness”; “The Hunt of
+    Slieve Cuilinn”"
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source; short excerpts used.
+- id: ev:9
+  type: quote
+  locator: lines 582-600
+  quote_or_summary: "“Book V. Oisin's Children”"
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:10
+  type: quote
+  locator: lines 582-600
+  quote_or_summary: "“Lomna's Head”"
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source; short excerpt used.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: The passage is a table of contents rather than narrative prose, so extraction
+    is limited to headings, named figures, literal objects/settings, and tentative
+    motif candidates.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were made because the passage itself does not support cross-text or cross-tradition comparison.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:celtic-irish-gods-and-fighting-men-gregory-gutenberg__l582-l600
+  passage_sha256=d57b17e3556adf90bcbd5824d114c13430a9497e98550ad1fdf5d11feb5d865d

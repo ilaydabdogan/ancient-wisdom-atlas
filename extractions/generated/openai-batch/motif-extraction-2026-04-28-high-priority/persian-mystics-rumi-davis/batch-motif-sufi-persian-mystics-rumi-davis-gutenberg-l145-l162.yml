@@ -1,0 +1,234 @@
+---
+record_id: batch.motif.sufi-persian-mystics-rumi-davis-gutenberg-l145-l162
+source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+passage_locator:
+  label: F. HADLAND DAVIS. / CONTENTS / INTRODUCTION / EDITORIAL NOTE; lines 145-162
+  start: '145'
+  end: '162'
+  translation: 'The Persian Mystics: Jalálu''d-dín Rúmí'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: these books shall be the ambassadors of good-will and understanding between
+    East and West
+  summary: The editorial note states that the series aims to promote goodwill and
+    understanding between East and West by sharing Oriental ideals and philosophy,
+    with the hope of reviving charity across differences of creed and colour. It is
+    signed by L. Cranmer-Byng and S. A. Kapadia for the Northbrook Society.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The Editors state that the object of the series is definite.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Editors desire the books to serve as ambassadors of goodwill and understanding
+    between East and West.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: East is described as the old world of Thought, and West as the new world of
+    Action.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The Editors express confidence that deeper knowledge of Oriental ideals and
+    philosophy may help revive a spirit of charity toward nations of another creed
+    and colour.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The note is signed by L. Cranmer-Byng and S. A. Kapadia at the Northbrook
+    Society address in Kensington.
+  category: other
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Editors of the series
+  description: The editorial voice presenting the purpose of the series.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: These books
+  description: The books in the series, described as intended ambassadors of goodwill
+    and understanding.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: East and West
+  description: The two cultural regions between which goodwill and understanding are
+    sought; East is called the old world of Thought and West the new world of Action.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: L. Cranmer-Byng and S. A. Kapadia
+  description: Named signatories of the editorial note.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: editorial advocates
+  assigned_to:
+  - fig:1
+  basis: They state the object of the series and express its desired cultural and
+    ethical effect.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: ambassadors of goodwill and understanding
+  assigned_to:
+  - fig:2
+  basis: The books are explicitly described as intended ambassadors between East and
+    West.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: cultural poles to be brought into understanding
+  assigned_to:
+  - fig:3
+  basis: The note frames East and West as regions between which the books should promote
+    goodwill and understanding.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: signatories
+  assigned_to:
+  - fig:4
+  basis: Their names appear at the end of the editorial note.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: books as ambassadors
+  literal_form: Books described as ambassadors of goodwill and understanding
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: East and West
+  literal_form: East and West characterized as old world of Thought and new world
+    of Action
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: revival of charity
+  literal_form: A true spirit of Charity that neither despises nor fears nations of
+    another creed and colour
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Editorial statement of intercultural purpose
+  summary: The Editors describe the series as a means of goodwill and understanding
+    between East and West, linking knowledge of Oriental thought with a hoped-for
+    revival of charity across religious and racial difference.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Editorial signatures and location
+  summary: The editorial note concludes with the names L. Cranmer-Byng and S. A. Kapadia
+    and the Northbrook Society address in Kensington.
+  figure_refs:
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Wisdom as a bridge to ethical understanding
+  taxonomy_refs:
+  - wisdom
+  basis: The note claims that deeper knowledge of Oriental ideals and philosophy may
+    foster charity toward people of another creed and colour.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This is an editorial programmatic statement, not a narrative mythic episode;
+    the motif label is abstract and should be reviewed.
+- id: motif:2
+  label: Mediating envoy between cultural worlds
+  taxonomy_refs: []
+  basis: The books are described as ambassadors of goodwill and understanding between
+    East and West.
+  evidence_refs:
+  - ev:1
+  confidence: low
+  cautions: The passage uses a diplomatic metaphor in editorial prose; no supplied
+    taxonomy family directly matches this pattern.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 145-153
+  quote_or_summary: The Editors desire that the books “shall be the ambassadors of
+    good-will and understanding between East and West,” described as “the old world
+    of Thought and the new of Action.”
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:2
+  type: summary
+  locator: lines 154-158
+  quote_or_summary: The Editors state that deeper knowledge of Oriental ideals and
+    philosophy may help revive a spirit of charity that neither despises nor fears
+    nations of another creed and colour.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 160-162
+  quote_or_summary: The note is signed by L. Cranmer-Byng and S. A. Kapadia and gives
+    the Northbrook Society address at 21 Cromwell Road, Kensington, S.W.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: The passage is clear editorial prose, so literal extraction is reliable.
+    Motif identification is limited because the passage is not a mythic narrative
+    and contains no supported comparative claim.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were extracted because the passage itself does not support a cautious comparison to another motif family, text, pattern, or tradition beyond its own East-West editorial framing.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-persian-mystics-rumi-davis-gutenberg__l145-l162
+  passage_sha256=1220e3f1f03dc04b49f77579263512f3e2b15562c01fef0daaacc65fd271d19a

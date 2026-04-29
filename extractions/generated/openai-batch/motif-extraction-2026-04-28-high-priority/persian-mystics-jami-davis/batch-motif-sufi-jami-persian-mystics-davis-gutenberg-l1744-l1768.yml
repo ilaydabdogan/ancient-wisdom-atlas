@@ -1,0 +1,282 @@
+---
+record_id: batch.motif.sufi-jami-persian-mystics-davis-gutenberg-l1744-l1768
+source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+passage_locator:
+  label: UNITED / SONG IN PRAISE OF THE BELOVED / FIRST GARDEN / PRIDE; lines 1744-1768
+  start: '1744'
+  end: '1768'
+  translation: 'The Persian Mystics: Jámí'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A sequence of short devotional poems describes hastening across land and
+    sea toward union with the addressed beloved, warns that pride is nearly invisible
+    and extremely difficult to uproot, and declares attachment to the beloved's door
+    and threshold over Paradise or reward.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The speakers say they hastened across land and sea, crossed plains, climbed
+    mountains, turned away from what they met, and found the way to the sanctuary
+    of Union with the addressed figure.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage warns not to boast of having no pride, describing pride as more
+    invisible than an ant-foot mark on a black rock in a dark night.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage says extirpating pride from the heart is harder than uprooting
+    a mountain from the earth with a needle.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The speaker addresses the Beloved and says he cannot be far from the Beloved's
+    door or be satisfied with Paradise and houris.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The speaker says his head is on the Beloved's threshold by Love's command
+    and not for wages.
+  category: action
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: devotional speakers / speaker
+  description: The voice speaking as 'we' in the first poem and as 'I' in the final
+    poem.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Thee / Beloved
+  description: The addressed beloved figure whose union, door, and threshold are sought
+    by the speaker.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:3
+  name_or_label: admonished addressee
+  description: The person addressed in the warning against boasting of being without
+    pride.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: seeker of union
+  assigned_to:
+  - fig:1
+  basis: The speakers travel across land and sea, plains, and mountains until they
+    find the sanctuary of Union with the addressed figure.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: beloved object of devotion
+  assigned_to:
+  - fig:2
+  basis: The addressed figure is named as the Beloved, and the speaker seeks union
+    with this figure and remains at the figure's door and threshold.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: threshold devotee
+  assigned_to:
+  - fig:1
+  basis: The speaker says his head is on the Beloved's threshold by Love's command
+    and that he cannot bear to be away from the door.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: recipient of moral admonition
+  assigned_to:
+  - fig:3
+  basis: The warning on pride addresses a 'thy' whose heart may contain pride.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: journey across land and sea
+  literal_form: land, sea, plains, and climbed mountains
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - mountain
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: sanctuary of Union
+  literal_form: sanctuary of Union with Thee
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: hidden pride
+  literal_form: mark of an ant's foot on a black rock in a dark night
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: impossible uprooting image
+  literal_form: root up a mountain from the earth with a needle
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: Beloved's door and threshold
+  literal_form: door and threshold of the Beloved
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: rejected heavenly reward
+  literal_form: Paradise and houris; wages
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Journey to the sanctuary of Union
+  summary: The speakers travel over multiple terrains, turn away from encountered
+    things, and find the way to union with the addressed beloved.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Warning about hidden pride
+  summary: A moral admonition describes pride as nearly invisible and exceptionally
+    difficult to remove from the heart.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Devotion at the Beloved's threshold
+  summary: The speaker declares that he cannot remain away from the Beloved's door,
+    prefers it to Paradise and houris, and rests his head on the threshold by Love's
+    command rather than for payment.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: quest across terrains toward union
+  taxonomy_refs:
+  - mystical_quest
+  - annihilation_union
+  basis: The speakers cross land, sea, plains, and mountains and find the sanctuary
+    of Union with the addressed figure.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage is lyric and devotional rather than a narrative quest episode.
+- id: motif:2
+  label: devotion to the divine beloved over reward
+  taxonomy_refs:
+  - divine_beloved
+  basis: The speaker addresses the Beloved, refuses satisfaction with Paradise and
+    houris, and remains at the Beloved's door and threshold not for wages.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage itself does not explicitly define the Beloved beyond devotional
+    address.
+- id: motif:3
+  label: hidden pride difficult to uproot
+  taxonomy_refs:
+  - wisdom
+  basis: The passage gives admonitory teaching about pride's invisibility and the
+    difficulty of removing it from the heart.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The motif is moral-instructional; the available taxonomy only broadly
+    supports it under wisdom.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1744-1752, FIRST GARDEN / "FOR THEE"
+  quote_or_summary: The speakers hasten across land and sea, pass plains, climb mountains,
+    turn away from what they meet, and find the way to the sanctuary of Union with
+    the addressed figure.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:2
+  type: summary
+  locator: lines 1754-1760, PRIDE
+  quote_or_summary: The passage warns not to boast of having no pride; pride is likened
+    to an ant-foot mark on black rock at night and is harder to remove from the heart
+    than uprooting a mountain with a needle.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:3
+  type: summary
+  locator: lines 1762-1768, "I CANNOT BE FAR FROM THY DOOR"
+  quote_or_summary: The speaker addresses the Beloved, says he cannot be far from
+    the Beloved's door, cannot be satisfied with Paradise and houris, and keeps his
+    head on the threshold by Love's command rather than for wages.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; summarized from provided passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labels are supported by the
+    devotional language but remain broad because the passage is lyric and brief. No
+    comparison claims were made beyond candidate taxonomy mapping.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the provided passage, metadata, and available taxonomy references.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-jami-persian-mystics-davis-gutenberg__l1744-l1768
+  passage_sha256=5e0ac521f8d69aceac4a57bf0fc2b7d2f4485aebf99373118470233ab52482bd

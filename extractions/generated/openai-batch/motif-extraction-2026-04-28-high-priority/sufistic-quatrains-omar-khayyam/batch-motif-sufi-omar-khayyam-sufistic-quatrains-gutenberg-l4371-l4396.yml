@@ -1,0 +1,292 @@
+---
+record_id: batch.motif.sufi-omar-khayyam-sufistic-quatrains-gutenberg-l4371-l4396
+source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+passage_locator:
+  label: XCVI. / XCIX. / APPENDIX. / PAGE 4.; lines 4371-4396
+  start: '4371'
+  end: '4396'
+  translation: The Sufistic Quatrains of Omar Khayyam
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: Khayyam, who stitched the Tents of Science, / Has fallen in Grief's furnace
+    and been suddenly burned;
+  summary: An appendix explains that some stray quatrains from FitzGerald's introduction
+    and notes are being identified with their original texts. Under 'PAGE 4,' a quatrain
+    says that Khayyam, associated with stitching the tents of science, has fallen
+    into the furnace of grief and burned; Fate cuts the tent-ropes of his life, and
+    Hope's broker sells him for nothing. The note identifies the quatrain as Prof.
+    Cowell's literal translation of O. 22 and lists references.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The appendix states an intention to identify stray quatrains from FitzGerald's
+    introduction and notes with original texts that inspired them.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The quatrain describes Khayyam as one who stitched the 'Tents of Science.'
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The quatrain says Khayyam fell into Grief's furnace and was suddenly burned.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The quatrain says Fate's shears cut the tent-ropes of Khayyam's life.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The quatrain says the Broker of Hope sold Khayyam for nothing.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The editorial note identifies the page 4 quatrain as a literal translation
+    by Prof. Cowell of O. 22 and gives additional references.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Khayyam
+  description: Named subject of the quatrain, described as having stitched the Tents
+    of Science and as burned in Grief's furnace.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Fate
+  description: Personified possessor of shears that cut the tent-ropes of Khayyam's
+    life.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Broker of Hope
+  description: Personified broker who sells Khayyam for nothing.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Prof. Cowell
+  description: Named as the translator of the quatrain identified with O. 22.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: learned maker
+  assigned_to:
+  - fig:1
+  basis: Khayyam is said to have stitched the Tents of Science.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: sufferer destroyed by grief
+  assigned_to:
+  - fig:1
+  basis: The quatrain says Khayyam fell in Grief's furnace and was burned.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: life-cutter
+  assigned_to:
+  - fig:2
+  basis: Fate's shears cut the tent-ropes of Khayyam's life.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: seller of hope
+  assigned_to:
+  - fig:3
+  basis: The Broker of Hope sells Khayyam for nothing.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: translator
+  assigned_to:
+  - fig:4
+  basis: The note calls the quatrain a literal translation by Prof. Cowell.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: furnace and burning
+  literal_form: Grief's furnace; suddenly burned
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: tents of science
+  literal_form: Tents of Science stitched by Khayyam
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: shears of fate
+  literal_form: The shears of Fate
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: cut tent-ropes of life
+  literal_form: tent-ropes of his life cut by Fate
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: brokered sale for nothing
+  literal_form: The Broker of Hope sold him for nothing
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Editorial identification of stray quatrain
+  summary: The appendix frames the passage as an attempt to identify stray quatrains
+    and notes that the page 4 quatrain is Prof. Cowell's literal translation of O.
+    22 with listed references.
+  figure_refs:
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: scene:2
+  label: Khayyam burned and his life cut short
+  summary: The quatrain depicts Khayyam, maker of the Tents of Science, as burned
+    in Grief's furnace, having his life-ropes cut by Fate, and being sold for nothing
+    by the Broker of Hope.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: life cut by fate
+  taxonomy_refs: []
+  basis: The quatrain personifies Fate as cutting the tent-ropes of Khayyam's life
+    with shears.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage presents this as poetic imagery; no broader mythic narrative
+    is supplied.
+- id: motif:2
+  label: destruction in the furnace of grief
+  taxonomy_refs: []
+  basis: Khayyam falls into Grief's furnace and is suddenly burned.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The furnace is explicitly linked to grief and may be metaphorical rather
+    than a literal fire scene.
+- id: motif:3
+  label: wisdom-maker undone
+  taxonomy_refs:
+  - wisdom
+  basis: Khayyam is characterized by the making of the Tents of Science before being
+    overcome by grief and fate.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The taxonomy link to wisdom is based on 'Science' and learned activity,
+    not an explicit wisdom-teaching episode.
+comparison_claims:
+- id: claim:1
+  claim: The passage identifies the page 4 quatrain as Prof. Cowell's literal translation
+    of O. 22 and lists related reference numbers, supporting a textual correspondence
+    claim within the cited corpus.
+  claim_level: linguistic_similarity
+  target: O. 22 and listed related references for the quatrain
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage gives reference identifiers but does not provide the original-language
+    text or demonstrate the comparison in detail.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4371-4380
+  quote_or_summary: The appendix states that stray quatrains from FitzGerald's Introduction
+    and Notes, plus some edition-specific quatrains, will be identified with the original
+    texts that inspired them.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: quote
+  locator: lines 4384-4390
+  quote_or_summary: Khayyam 'stitched the Tents of Science' and 'fallen in Grief's
+    furnace and been suddenly burned.'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: quote
+  locator: lines 4389-4391
+  quote_or_summary: "'The shears of Fate have cut the tent-ropes of his life,' and
+    'the Broker of Hope has sold him for nothing.'"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: summary
+  locator: lines 4393-4396
+  quote_or_summary: The note says the page 4 quatrain is a literal translation by
+    Prof. Cowell of O. 22 and lists multiple references including O. 22, C. 59, L.
+    74, and others.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward. Motif labels are cautious because
+    the passage is a short poetic quatrain with editorial notes rather than an extended
+    mythic narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy refs were assigned only where directly supportable by available taxonomy labels.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-omar-khayyam-sufistic-quatrains-gutenberg__l4371-l4396
+  passage_sha256=8deb1fdb9b972629ce7bcd5b05efeb46937d7fb3e281aaaa26e10b1c607ed71c

@@ -1,0 +1,252 @@
+---
+record_id: batch.motif.sufi-jami-persian-mystics-davis-gutenberg-l1820-l1837
+source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+passage_locator:
+  label: OCCUPATION ENNOBLED BY A GREAT MAN / THIRD GARDEN / WISE MAXIMS / THE DOWNFALL
+    OF THE MIGHTY; lines 1820-1837
+  start: '1820'
+  end: '1837'
+  translation: 'The Persian Mystics: Jámí'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage presents wise maxims as jewels stored in the breast and the
+    sage as a treasury of philosophy. It then compares favorites of sultans to people
+    climbing a precipitous mountain who may fall because of anger and changes of fortune;
+    those in higher positions suffer a more disastrous fall.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A wise maxim is described as a jewel produced by the mouth and teeth.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A person who makes the breast a casket of jewels is called happy.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A sage is described as a treasury of the jewels of philosophy.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The addressee is told not to separate from this treasure.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: The favorites of sultans are compared to people climbing a precipitous mountain.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The climbers fall from the mountain because of quakes of anger and the vicissitudes
+    of time.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: The fall of those who are higher up is described as more disastrous than the
+    descent of those in lower positions.
+  category: attribute
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: wise maxim keeper
+  description: The happy person who has made the breast a casket of jewels.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: sage
+  description: A sage described as a treasury of the jewels of philosophy.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: favorites of sultans
+  description: Those favored by sultans, likened to people climbing a precipitous
+    mountain.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: sultans
+  description: Rulers whose favorites are the subject of the comparison.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: recipient or keeper of wisdom
+  assigned_to:
+  - fig:1
+  basis: The passage praises one who stores wise maxims as jewels in the breast.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: bearer of philosophical wisdom
+  assigned_to:
+  - fig:2
+  basis: The sage is called a treasury of the jewels of philosophy.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: precariously elevated court favorite
+  assigned_to:
+  - fig:3
+  basis: The favorites of sultans are compared to climbers high on a precipitous mountain
+    who may fall.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: source of worldly favor
+  assigned_to:
+  - fig:4
+  basis: The favorites are identified as favorites of sultans.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: jewel
+  literal_form: jewel / jewels
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: breast as casket
+  literal_form: breast made into a casket of jewels
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: treasury
+  literal_form: treasury of the jewels of philosophy
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: precipitous mountain
+  literal_form: precipitous mountain
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: fall from height
+  literal_form: falling from the mountain / fall of those who are higher up
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+scenes:
+- id: scene:1
+  label: Wise maxims as jewels
+  summary: The passage praises wise sayings as jewels and describes the sage as a
+    treasury of philosophical jewels.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Downfall of the mighty
+  summary: Court favorites are likened to climbers on a steep mountain whose fall
+    from high position is especially disastrous.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: wisdom preserved as treasure
+  taxonomy_refs:
+  - wisdom
+  basis: Wise maxims and philosophy are repeatedly figured as jewels, a casket, and
+    a treasury.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is an ethical and didactic image rather than a narrative myth episode.
+- id: motif:2
+  label: precarious height and downfall of the powerful
+  taxonomy_refs: []
+  basis: The favorites of sultans are compared to climbers on a precipitous mountain,
+    and their high position makes their fall more disastrous.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: No supplied taxonomy family directly matches this courtly-moral motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1820-1826
+  quote_or_summary: Wise maxims are described as jewels; the happy person stores them
+    in the breast like a casket; the sage is a treasury of the jewels of philosophy,
+    and the addressee is told not to separate from this treasure.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; summarized rather than extensively quoted.
+- id: ev:2
+  type: summary
+  locator: lines 1829-1834
+  quote_or_summary: The favorites of sultans are likened to people climbing a precipitous
+    mountain and falling from it because of anger and changes of time.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; summarized rather than extensively quoted.
+- id: ev:3
+  type: summary
+  locator: lines 1834-1837
+  quote_or_summary: The passage states that the fall of those in higher positions
+    is more disastrous than the coming down of those in lower positions.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; summarized rather than extensively quoted.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif labeling is cautious because
+    the passage is aphoristic rather than mythic; no comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only supplied passage text and metadata were used.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-jami-persian-mystics-davis-gutenberg__l1820-l1837
+  passage_sha256=67b1ec0e9b707d4899b3f9e3c6252e0f4dd9c457cc0be3c810bfa64e12dc33b7

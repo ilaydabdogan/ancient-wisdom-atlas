@@ -1,0 +1,484 @@
+---
+record_id: batch.motif.sufi-jami-persian-mystics-davis-gutenberg-l169-l257
+source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+passage_locator:
+  label: CONTENTS / INTRODUCTION / EDITORIAL NOTE / INTRODUCTION; lines 169-257
+  start: '169'
+  end: '257'
+  translation: 'The Persian Mystics: Jámí'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage gives a biographical introduction to Jámí: his birth and death
+    dates, the origin of his name, a childhood encounter with Khwájah Mohammad Pársá,
+    his reverence for holy men, his education at Herát and Samarqand, his intellectual
+    successes, and the editor’s critical assessment of his pride in contrast with
+    Sufi ideals of self-abandonment and knowledge of God.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Jámí is said to have been born in Jám or nearby Khasjird in 817 A.H. / 1414
+    A.D. and to have died at Herát in 898 A.H. / 1492 A.D.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that the poet took his name from the town of Jám.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: As a child, Jámí and his father were among the people who came out to honor
+    Khwájah Mohammad Pársá as he passed through Jám on the way to Hijaz.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Jámí’s father seated the child in front of Khwájah Mohammad Pársá’s litter.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Jámí later remembered Mohammad Pársá’s radiant countenance and connected the
+    later bond between himself and pious spirits to the influence of Pársá’s glance.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The editor says Jámí valued contact with holy men and attached importance
+    to an unnamed Shaikh who had taken him on his knee as a child.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Jámí began his education at Herát, disliked disciplinary instruction, was
+    not studious as a boy, and preferred games to books.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The passage describes Jámí as naturally clever and quick at absorbing knowledge
+    with little labor.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Jámí studied under Mullá Junaid and then Khwájah 'Alí al-Samarqandi, after
+    which further instruction was said to be unnecessary after forty lessons.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: After attending lectures by Qazí Rúm at Samarqand, Jámí prevailed in an argument
+    with the professor.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: Qazí Rúm publicly praised Jámí’s sharpness of intellect and power of using
+    it.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:12
+  text: The editor criticizes Jámí as conceited and contrasts this with Sufi teaching
+    described as abandonment of self and knowledge of God only.
+  category: attribute
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Nur-addín 'Abd-alrahmán Jámí
+  description: Persian poet and biographical subject of the passage; born in 817 A.H.
+    / 1414 A.D. and died in 898 A.H. / 1492 A.D.
+  role_refs:
+  - role:1
+  - role:4
+  - role:7
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:9
+- id: fig:2
+  name_or_label: Jámí’s father
+  description: Jámí’s father, who brought him before Khwájah Mohammad Pársá and is
+    later named by Jámí as the one who taught him language.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:10
+- id: fig:3
+  name_or_label: Khwájah Mohammad Pársá
+  description: A holy man who passed through Jám on the way to Hijaz and whose countenance
+    and glance were later remembered by Jámí.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Unnamed Shaikh
+  description: A Shaikh who took Jámí on his knee when Jámí was a child.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Mullá Junaid
+  description: An instructor whom Jámí left.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: Khwájah 'Alí al-Samarqandi
+  description: A teacher of Jámí under whom Jámí was said to need no further instruction
+    after forty lessons.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:7
+  name_or_label: Qazí Rúm
+  description: A professor at Samarqand whose lectures Jámí attended and whom Jámí
+    defeated in argument; he later praised Jámí publicly.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: fig:8
+  name_or_label: Dr. Hermann Ethé
+  description: A scholar cited for giving Khasjird near Jám as Jámí’s birthplace.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: poet and biographical subject
+  assigned_to:
+  - fig:1
+  basis: The passage introduces the life of Jámí and calls him the poet.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: father
+  assigned_to:
+  - fig:2
+  basis: The passage identifies this figure as Jámí’s father and describes his actions
+    toward the child.
+  evidence_refs:
+  - ev:2
+  - ev:10
+- id: role:3
+  label: holy man
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: Khwájah Mohammad Pársá is called a holy man, and the unnamed Shaikh is discussed
+    in the context of Jámí’s contact with holy men.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:4
+  label: child recipient of holy influence
+  assigned_to:
+  - fig:1
+  basis: As a child, Jámí is placed before Pársá and later attributes a lasting bond
+    to Pársá’s glance.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: teacher or instructor
+  assigned_to:
+  - fig:5
+  - fig:6
+  - fig:7
+  basis: These figures are described as instructors, teachers, or lecturers connected
+    with Jámí’s education.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:6
+  label: public evaluator
+  assigned_to:
+  - fig:7
+  basis: Qazí Rúm publicly praises Jámí before an assembly.
+  evidence_refs:
+  - ev:8
+- id: role:7
+  label: brilliant but prideful student
+  assigned_to:
+  - fig:1
+  basis: The passage describes Jámí’s intellectual ability and later criticizes his
+    self-assessment and conceit.
+  evidence_refs:
+  - ev:5
+  - ev:8
+  - ev:9
+  - ev:10
+- id: role:8
+  label: scholarly source
+  assigned_to:
+  - fig:8
+  basis: Dr. Hermann Ethé is cited as giving an alternative birthplace for Jámí.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: holy glance
+  literal_form: Khwájah Mohammad Pársá’s glance, remembered as having fortunate influence
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: beaming countenance
+  literal_form: The radiant or beaming countenance of Khwájah Mohammad Pársá
+  associated_figures:
+  - fig:3
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: litter before the holy man
+  literal_form: Khwájah Mohammad Pársá’s litter, before which Jámí’s father seated
+    the child
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: self-abandonment doctrine
+  literal_form: The Sufi teaching summarized as abandonment of self and knowledge
+    of God only
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Birth, death, and naming
+  summary: The passage identifies Jámí’s birth and death dates and discusses Jám or
+    nearby Khasjird as his birthplace, explaining that his name derives from Jám.
+  figure_refs:
+  - fig:1
+  - fig:8
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Childhood meeting with Khwájah Mohammad Pársá
+  summary: Khwájah Mohammad Pársá passes through Jám on the way to Hijaz; Jámí and
+    his father join the crowd, and the child is seated before the holy man’s litter.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Childhood contact with holy men
+  summary: The editor states that Jámí valued contact with holy men and attached importance
+    to a Shaikh who had taken him on his knee in childhood.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Education and intellectual success
+  summary: Jámí begins education at Herát, resists normal study discipline, but is
+    described as naturally clever; he studies under named teachers and excels in learning
+    and argument.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: scene:5
+  label: Editorial critique of pride
+  summary: The editor criticizes Jámí’s self-regard and contrasts it with the Sufi
+    ideal of abandoning self and knowing God.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:9
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: Child marked by contact with a holy person
+  taxonomy_refs:
+  - initiation
+  basis: Jámí is brought as a child before Khwájah Mohammad Pársá and later interprets
+    the encounter, especially the holy man’s glance, as a lasting source of spiritual
+    association.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage is biographical and does not describe a formal initiation
+    rite.
+- id: motif:2
+  label: Wisdom and precocious learning
+  taxonomy_refs:
+  - wisdom
+  basis: Jámí is described as naturally clever, able to absorb knowledge quickly,
+    needing little instruction, and publicly praised for intellectual sharpness.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:8
+  confidence: high
+  cautions: The motif is expressed as biographical intellectual talent rather than
+    as a mythic wisdom quest.
+- id: motif:3
+  label: Self-abandonment versus ego
+  taxonomy_refs:
+  - annihilation_union
+  basis: The editor explicitly describes Sufi teaching as abandonment of self and
+    knowledge of God only, while criticizing Jámí’s pride as inconsistent with that
+    teaching.
+  evidence_refs:
+  - ev:9
+  - ev:10
+  confidence: low
+  cautions: The passage states a doctrine and an editorial contrast; it does not narrate
+    mystical annihilation or union as an event.
+- id: motif:4
+  label: Reverence for holy persons
+  taxonomy_refs:
+  - wisdom
+  basis: The passage says Jámí had faith in contact with holy men and identifies reverence
+    for holy men and holy things as one of his finest characteristics.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The available taxonomy has no exact 'holy person contact' category; 'wisdom'
+    is approximate.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 169-181
+  quote_or_summary: Jámí’s birth and death dates are given; Dr. Hermann Ethé gives
+    Khasjird as birthplace, while the editor favors Jám because Jámí himself referred
+    to it, and the poet’s name is said to come from Jám.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 183-190
+  quote_or_summary: Khwájah Mohammad Pársá passes through Jám on the way to Hijaz;
+    people come to honor him, including the child Jámí and his father, who seats Jámí
+    before Pársá’s litter.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 190-200
+  quote_or_summary: Jámí remembers “The pure refulgence of his ... beaming countenance”
+    and attributes later bonds of union, friendship, confidence, and love to Pársá’s
+    glance.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:4
+  type: summary
+  locator: lines 201-206
+  quote_or_summary: The editor says Jámí had much faith in contact with holy men,
+    valued a Shaikh who took him on his knee as a child, and showed reverence for
+    holy men and holy things.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 215-224
+  quote_or_summary: Jámí begins education at Herát, dislikes disciplinary instruction,
+    prefers games to books, but is naturally clever and quick at absorbing knowledge
+    with little labor.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 226-231
+  quote_or_summary: Jámí leaves Mullá Junaid, studies under Khwájah 'Alí al-Samarqandi,
+    and is said to need no further instruction after forty lessons.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 231-235
+  quote_or_summary: After attending Qazí Rúm’s lectures at Samarqand, Jámí succeeds
+    in an argument with the professor.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: quote
+  locator: lines 235-240
+  quote_or_summary: Qazí Rúm says that no one equal to young Jámí in “sharpness of
+    intellects and power of using them” had entered Samarqand.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:9
+  type: summary
+  locator: lines 242-253
+  quote_or_summary: The editor describes Jámí as suffering from pride or 'swelled
+    head' and contrasts this with Sufi teaching, summarized as abandonment of self
+    and knowledge of God only.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: quote
+  locator: lines 247-250
+  quote_or_summary: Jámí says he found no master superior to himself and claims that,
+    if he is anyone’s pupil, it is his father who taught him language.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; short excerpt quoted.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is a biographical and editorial introduction, so literal extraction
+    is strong, while motif identification is limited and should be reviewed for over-interpretation.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage does not itself compare Jámí’s biography to another tradition or corpus.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-jami-persian-mystics-davis-gutenberg__l169-l257
+  passage_sha256=fac1bd2ffc82f31dba4517e4477b251ed0cf8d996448abf3eacd31c512a735a7

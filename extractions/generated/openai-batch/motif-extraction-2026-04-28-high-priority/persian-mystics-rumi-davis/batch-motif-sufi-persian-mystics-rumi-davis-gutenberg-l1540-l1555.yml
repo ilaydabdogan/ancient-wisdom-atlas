@@ -1,0 +1,258 @@
+---
+record_id: batch.motif.sufi-persian-mystics-rumi-davis-gutenberg-l1540-l1555
+source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+passage_locator:
+  label: THE SILENCE OF LOVE / EARTHLY LOVE ESSENTIAL TO THE LOVE DIVINE / THE ETERNAL
+    SPLENDOUR OF THE BELOVED / WOMAN; lines 1540-1555
+  start: '1540'
+  end: '1555'
+  translation: 'The Persian Mystics: Jalálu''d-dín Rúmí'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: "“Woman is a ray of God, not a mere mistress”"
+  summary: The speaker addresses a divine beloved who seems distant yet appears anew
+    with each dawn, renews the world, and is asked to hear the speaker’s lifeless
+    body and heart. A brief saying identifies woman as a ray of God and, figuratively,
+    the Creator’s Self rather than a mere creature.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The speaker asks why the addressed figure flees from cries on earth and pours
+    sorrow on the sorrowful heart.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The addressed figure is described as appearing anew with each morning dawn
+    from the east, like a bright fountain.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The addressed figure is said to renew the life of the old world.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The speaker asks the addressed figure to hear the cry of the speaker’s lifeless
+    body and heart.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: Woman is described as a ray of God, not merely a mistress.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Woman is further described as, figuratively, the Creator’s Self and not merely
+    a creature.
+  category: attribute
+  evidence_refs:
+  - ev:2
+figures:
+- id: fig:1
+  name_or_label: addressed beloved
+  description: A figure addressed as “Thou,” associated with dawn, sorrow, sweet lips,
+    renewal of life, and hearing the speaker’s cry.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: speaker
+  description: The voice that asks questions of the addressed figure and refers to
+    a lifeless body and heart.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: woman
+  description: Woman is identified as a ray of God and figuratively as the Creator’s
+    Self, not merely a creature or mistress.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: God / Creator
+  description: The divine source named in the statement that woman is a ray of God
+    and the Creator’s Self.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: divine beloved
+  assigned_to:
+  - fig:1
+  basis: The addressed figure is called the Beloved in the heading and is portrayed
+    with renewing and life-giving attributes.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: life-renewer
+  assigned_to:
+  - fig:1
+  basis: The passage says the addressed figure renews the life of the old world.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: supplicant speaker
+  assigned_to:
+  - fig:2
+  basis: The speaker asks the addressed figure to hear the cry of a lifeless body
+    and heart.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: divinized feminine figure
+  assigned_to:
+  - fig:3
+  basis: Woman is described as a ray of God and figuratively as the Creator’s Self
+    rather than a mere creature.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: divine source
+  assigned_to:
+  - fig:4
+  basis: God and the Creator are named as the source or identity in relation to woman.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: dawn from the east
+  literal_form: new morning dawn rising from the east
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: bright fountain
+  literal_form: bright fountain
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: ray of God
+  literal_form: ray of God
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: lifeless body and heart
+  literal_form: lifeless body and heart
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: address to the eternal beloved
+  summary: The speaker questions the beloved’s distance and sorrow-giving, describes
+    the beloved’s dawn-like renewal and sweet attributes, and asks to be heard.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: statement on woman and divine identity
+  summary: Woman is described as a ray of God and figuratively as the Creator’s Self
+    rather than a mere human object of desire.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: divine beloved addressed by the longing speaker
+  taxonomy_refs:
+  - divine_beloved
+  basis: The passage’s heading names the Beloved, and the speaker addresses a powerful
+    beloved figure with longing and complaint.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage is lyric and devotional rather than narrative; the motif is
+    inferred from address and attributes, not from a plotted mythic episode.
+- id: motif:2
+  label: life-renewing divine presence
+  taxonomy_refs:
+  - death_rebirth
+  basis: The addressed figure is said to arise anew with each dawn and renew the life
+    of the old world, while the speaker describes a lifeless body and heart.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage does not narrate an actual death and rebirth event; it uses
+    renewal imagery.
+- id: motif:3
+  label: feminine figure as divine emanation
+  taxonomy_refs:
+  - divine_beloved
+  basis: Woman is described as a ray of God and figuratively as the Creator’s Self
+    rather than a mere creature or mistress.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: Available taxonomy has no exact symbol or motif for divine feminine emanation;
+    the closest supported family is divine beloved.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1540-1548
+  quote_or_summary: In “The Eternal Splendour of the Beloved,” the speaker asks why
+    the addressed Thou flees earthly cries, gives sorrow, appears anew with each eastern
+    dawn like a bright fountain, renews the old world’s life, and should hear the
+    cry of a lifeless body and heart.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source metadata; brief summary used.
+- id: ev:2
+  type: quote
+  locator: lines 1554-1555
+  quote_or_summary: "“Woman is a ray of God, not a mere mistress, / The Creator's
+    Self, as it were, not a mere creature!”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source metadata; short excerpt quoted.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif candidates rely on lyric devotional
+    imagery rather than narrative sequence. No comparison claims were added because
+    the passage itself does not explicitly compare traditions or motif families.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy references were limited to supplied available refs.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-persian-mystics-rumi-davis-gutenberg__l1540-l1555
+  passage_sha256=8eb9869b69b71a610d00a08aecd900f12c5e8e3625aa3c9fb3d30ab1d3bbccc7

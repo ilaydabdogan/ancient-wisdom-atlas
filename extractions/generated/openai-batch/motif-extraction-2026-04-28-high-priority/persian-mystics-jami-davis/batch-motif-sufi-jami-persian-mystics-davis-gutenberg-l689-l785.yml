@@ -1,0 +1,515 @@
+---
+record_id: batch.motif.sufi-jami-persian-mystics-davis-gutenberg-l689-l785
+source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+passage_locator:
+  label: CONTENTS / INTRODUCTION / EDITORIAL NOTE / INTRODUCTION; lines 689-785
+  start: '689'
+  end: '785'
+  translation: 'The Persian Mystics: Jámí'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage contains editorial footnotes with comparative references, followed
+    by selections from "Salámán and Absál." The poetic excerpts address Jámí as a
+    singer of old stories, praise a divine addressee whose beauty appears through
+    mortal beloveds and all created forms, describe a son as a man's desired blessing
+    and support, and portray lust as a destructive force that blinds reason and leads
+    downward.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Editorial footnotes direct readers to compare motifs or episodes involving
+    the babe Jesus speaking in a cave, famous wonderful steeds, and Rama after Lanka's
+    destruction.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The opening poetic excerpt says the guests have departed after drinking wine,
+    leaving empty bowls, and urges Jámí to offer what remains in song or story.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The speaker says the divine addressee's memory enlivens lovers and that mortal
+    beauty is a veil behind which heavenly beauty is hidden.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The speaker asks the divine addressee to reveal perfect beauty and says he
+    wishes to be the divine addressee's lover only, self-lost in that revelation.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The divine addressee is said to move under all forms of truth and created
+    things, so that the speaker discerns only the addressee in the universe.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: A son is described as a blessing that preserves a man's name, supports him,
+    renews his youth and strength, and aids friends in battle.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Lust is described as blinding reason, making a devil seem angelic, ruining
+    a prosperous house, and leading a person down the Way of Nothing.
+  category: attribute
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Jámí
+  description: Named poet addressed in the opening selection and urged to continue
+    offering song or story.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Divine Thou
+  description: A divine addressee whose memory quickens lovers, whose beauty is hidden
+    behind mortal beauty, and who moves under all created forms.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Laila
+  description: A mortal beloved whose cheek is described as a place through which
+    the divine secret beauty inflames Majnún.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Majnún
+  description: A lover inflamed when the divine secret beauty acts through Laila.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Shírín
+  description: A mortal beloved whose lip is described as sweetened by the divine
+    addressee.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Son
+  description: An ideal son described as a man's desired blessing, support, renewed
+    strength, and martial helper.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: Lust
+  description: A personified or abstract destructive force that blinds reason and
+    leads downward.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+- id: fig:8
+  name_or_label: Babe Jesus
+  description: A figure mentioned in an editorial footnote as miraculously speaking
+    in a cave in New Testament Apocryphal Writings.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:1
+- id: fig:9
+  name_or_label: Rakush
+  description: A horse from Firdawsí's Shahnámá mentioned in an editorial comparison.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:1
+- id: fig:10
+  name_or_label: Kyrat
+  description: The wonderful steed of the bandit-poet Kurroglou mentioned in an editorial
+    comparison.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:1
+- id: fig:11
+  name_or_label: Rama
+  description: A figure whose attitude after Lanka's destruction is mentioned in an
+    editorial comparison.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: poet-storyteller
+  assigned_to:
+  - fig:1
+  basis: Jámí is addressed as one who strings pearls on a harp of song and still has
+    a story to tell.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: divine beloved and hidden source of beauty
+  assigned_to:
+  - fig:2
+  basis: The addressee quickens lovers, hides behind mortal beauty, and is sought
+    as the speaker's only beloved.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: mortal beloved as veil of divine beauty
+  assigned_to:
+  - fig:3
+  - fig:5
+  basis: Laila and Shírín are named as mortal beloveds through whom the divine addressee's
+    beauty acts.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: lover affected by divine beauty through mortal beloved
+  assigned_to:
+  - fig:4
+  basis: Majnún is inflamed when divine beauty acts through Laila.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: desired heir and support
+  assigned_to:
+  - fig:6
+  basis: The son is called man's prime desire and is described as support, renewed
+    strength, and battle-aid.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: destructive passion
+  assigned_to:
+  - fig:7
+  basis: Lust blinds reason, causes ruin, and leads downward.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: miraculous speaking child
+  assigned_to:
+  - fig:8
+  basis: The footnote refers to the miraculous speaking of the babe Jesus in a cave.
+  evidence_refs:
+  - ev:1
+- id: role:8
+  label: wonderful steed
+  assigned_to:
+  - fig:9
+  - fig:10
+  basis: The footnote compares Firdawsí's Rakush and Kyrat, called a wonderful steed.
+  evidence_refs:
+  - ev:1
+- id: role:9
+  label: epic figure in aftermath of Lanka's destruction
+  assigned_to:
+  - fig:11
+  basis: The footnote asks readers to compare Rama's attitude after the destruction
+    of Lanka.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: wine and emptied bowls
+  literal_form: Wine, lees, cups, bowls, and a departed revel in the opening excerpt.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: veil of mortal beauty
+  literal_form: A veil through which mortal beauty hides heavenly beauty.
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: all created forms
+  literal_form: Forms of truth and all created things under which the divine addressee
+    moves.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: son as support and continuation
+  literal_form: A son described as a foot to stand on, a hand to stop falling, and
+    a continuation of name and strength.
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: destructive unlawful drink
+  literal_form: Lust compared to an unlawful drink or wine whose taste leads to craving
+    and ruin.
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: road of mire and Way of Nothing
+  literal_form: A miry road and downward Way of Nothing associated with lust.
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: cave
+  literal_form: A cave in which the babe Jesus is said in the footnote to speak miraculously.
+  associated_figures:
+  - fig:8
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Departed revel and unfinished song
+  summary: After guests have drunk and departed, Jámí is urged to offer what remains
+    and continue the old story despite age and spent life.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Divine beauty behind beloved forms
+  summary: The divine addressee is praised as the source of lovers' joy and as the
+    hidden beauty behind mortal beloveds such as Laila and Shírín.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Desire for unveiled divine vision
+  summary: The speaker asks the divine addressee to unfold perfect beauty, desires
+    to be lover of that addressee only, and reports perceiving only that presence
+    in the universe.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Praise of the son
+  summary: A son is presented as man's prime desire, preserving his name and serving
+    as support, strength, and martial ally.
+  figure_refs:
+  - fig:6
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Lust as destructive descent
+  summary: Lust is described as blinding reason, ruining households, enslaving the
+    person through craving, and leading down the Way of Nothing.
+  figure_refs:
+  - fig:7
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:6
+- id: scene:6
+  label: Editorial comparative notes
+  summary: The notes point to comparisons with a speaking babe Jesus in a cave, renowned
+    steeds, and Rama after Lanka's destruction.
+  figure_refs:
+  - fig:8
+  - fig:9
+  - fig:10
+  - fig:11
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:1
+candidate_motifs:
+- id: motif:1
+  label: Divine beloved hidden behind mortal beauty
+  taxonomy_refs:
+  - divine_beloved
+  basis: The divine addressee is the source of lovers' experience, while mortal beauty
+    is described as a veil hiding heavenly beauty.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage is devotional and mystical; the extraction does not identify
+    a narrative episode beyond the imagery in the excerpt.
+- id: motif:2
+  label: Self-loss in divine revelation
+  taxonomy_refs:
+  - annihilation_union
+  basis: The speaker seeks to be the divine addressee's only lover, with eyes sealed
+    to all but that addressee and self lost in revelation.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage states self-loss and exclusive divine vision, but does not
+    narrate a completed union event.
+- id: motif:3
+  label: Mystical quest for unveiled beauty
+  taxonomy_refs:
+  - mystical_quest
+  basis: The speaker asks the divine addressee to unfold perfect beauty and expresses
+    longing for direct vision beyond the veil.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: This is lyrical supplication rather than an extended quest narrative.
+- id: motif:4
+  label: Miraculous speaking child in cave
+  taxonomy_refs:
+  - miraculous_child
+  basis: An editorial note explicitly mentions the miraculous speaking of the babe
+    Jesus in a cave.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The underlying Jámí episode is not included in the supplied passage; the
+    motif appears only through an editorial comparison.
+- id: motif:5
+  label: Destructive passion as downward path
+  taxonomy_refs: []
+  basis: Lust is depicted as blinding reason, ruining a house, enslaving through craving,
+    and leading down the Way of Nothing.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: No matching supplied taxonomy family is assigned because the passage frames
+    this as moral and spiritual warning rather than a listed motif family.
+- id: motif:6
+  label: Son as continuation and support
+  taxonomy_refs: []
+  basis: A son is described as preserving the man's name and acting as support, renewed
+    strength, and battle-aid.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage does not identify the son as divine or miraculous; no supplied
+    parent-child taxonomy is applied.
+comparison_claims:
+- id: claim:1
+  claim: The editorial note invites comparison with a miraculous speaking babe Jesus
+    in a cave in New Testament Apocryphal Writings.
+  claim_level: same_motif
+  target: Miraculous speaking child in a cave; New Testament Apocryphal Writings
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage provides only the editorial comparison and not the corresponding
+    Jámí narrative episode.
+- id: claim:2
+  claim: The editorial note groups Rakush from the Shahnámá with Kyrat, the wonderful
+    steed of Kurroglou, as comparable heroic or wonderful horses.
+  claim_level: same_function
+  target: Wonderful steed motif in Firdawsí's Shahnámá and Kurroglou tradition
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The note is brief and does not describe the traits or narrative functions
+    being compared.
+- id: claim:3
+  claim: The editorial note suggests comparing an attitude in the source context with
+    Rama's attitude after Lanka's destruction.
+  claim_level: same_function
+  target: Rama after the destruction of Lanka
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The passage does not state the source-side attitude or the specific
+    basis of comparison.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 689-700
+  quote_or_summary: 'Footnotes cite comparisons: speaking babe Jesus in a cave, Rakush
+    and Kyrat as steeds, and Rama after Lanka.'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 704-717
+  quote_or_summary: Guests have drunk wine and departed; Jámí is urged to offer what
+    remains and continue the story/song.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: quote
+  locator: lines 721-736
+  quote_or_summary: '"mortal beauty but the veil / Thy heavenly hides behind"'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:4
+  type: quote
+  locator: lines 737-748
+  quote_or_summary: '"Self-lost"; "nothing I discern / But Thee in all the universe."'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:5
+  type: summary
+  locator: lines 752-765
+  quote_or_summary: A son is praised as man's prime desire, continuation of name,
+    support in weakness, renewed strength, and aid in battle.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:6
+  type: summary
+  locator: lines 768-785
+  quote_or_summary: Lust blinds reason, makes a devil seem angelic, ruins the house,
+    acts like unlawful wine, and leads down the Way of Nothing.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: low
+  notes: The lyrical mystical motifs are directly supported by the passage. Comparison
+    claims are mostly editorial footnote signals without the source-side episodes
+    in this excerpt, so they require review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only supplied passage text and metadata were used. Taxonomy references were limited to available lists.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-jami-persian-mystics-davis-gutenberg__l689-l785
+  passage_sha256=235c83f0a4682c0bab824bd5ac6bd1c771628bebfefc56a2ca3db2abe2c46c6f

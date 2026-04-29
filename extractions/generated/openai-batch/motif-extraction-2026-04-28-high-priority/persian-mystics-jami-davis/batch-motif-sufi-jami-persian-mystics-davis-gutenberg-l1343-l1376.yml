@@ -1,0 +1,283 @@
+---
+record_id: batch.motif.sufi-jami-persian-mystics-davis-gutenberg-l1343-l1376
+source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+passage_locator:
+  label: THE HIDDEN TRUTH / THE SEA OF BEING / THE REVELATION OF TRUTH / MIRROR AND
+    FACE; lines 1343-1376
+  start: '1343'
+  end: '1376'
+  translation: 'The Persian Mystics: Jámí'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: "“'Tis Thyself, not Thine image, that is seen.”"
+  summary: The passage presents a mirror-and-face image in which a peerless beauty
+    appears in a mirror, then extends the image to all mirrors in the universe displaying,
+    or directly revealing, the addressed divine presence. A footnote explains this
+    in terms of the material world receiving Very Being and multiplicity being destroyed.
+    The passage then transitions to selections from “Yúsuf and Zulaikha” with an invocation
+    for sweet lips to be bestowed on the pen and fragrance to flow from the book.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Speakers express wonder that a peerless beauty’s face is present in the heart
+    of a mirror.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The poem says the marvel is not the face itself, but that something should
+    be both mirror and face at once.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: All mirrors in the universe are said to display the addressed figure’s image
+    with radiance.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The poem corrects the image-language by saying that the addressed figure’s
+    self, not merely the figure’s image, is seen in the mirrors.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A footnote explains that a portion of the material world can receive Very
+    Being through God’s mercy and become Very Being externalised.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The same footnote says omnipotence requires the destruction of all phenomena
+    and multiplicity of the same substance, with the process repeated endlessly.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The passage transitions to “Selections from Yúsuf and Zulaikha” and invokes
+    lips sweet as sugar for the pen and streams of odour from the book.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: They
+  description: Unspecified speakers who comment on the strange sight of the beauty’s
+    face in the mirror.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Peerless beauty / addressed Thou
+  description: A peerless beauty whose face appears in the mirror and whose image
+    or self is said to be seen in all mirrors.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: God
+  description: Named in the footnote as the source of mercy through which part of
+    the material world can receive Very Being.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: wondering speakers
+  assigned_to:
+  - fig:1
+  basis: They say the appearance of the beauty’s face in the mirror is strange.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: radiant beloved or divine presence addressed
+  assigned_to:
+  - fig:2
+  basis: The addressed figure’s image, and then self, is said to be visible in all
+    mirrors with radiant sheen and effluent grace.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: source of mercy enabling reception of Very Being
+  assigned_to:
+  - fig:3
+  basis: The footnote attributes the material world’s capacity to receive Very Being
+    to the mercy of God.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: mirror
+  literal_form: Mirror or mirrors, including the mirror’s heart and all mirrors in
+    the universe.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: face
+  literal_form: The peerless beauty’s face seen in the mirror.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: radiant image
+  literal_form: The addressed figure’s image with radiant sheen, then identified as
+    the figure’s self rather than image.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: pen and book
+  literal_form: A pen receiving sugar-sweet lips and a book from which streams of
+    odour flow.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Mirror and face paradox
+  summary: Speakers wonder at a peerless face appearing in a mirror, while the poem
+    states that the greater marvel is the simultaneous identity of mirror and face.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Universal mirrors reveal the addressed presence
+  summary: All mirrors in the universe are said to show the addressed figure’s radiance,
+    and the poem clarifies that the figure’s self, not only an image, is seen.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Footnote on material world and Very Being
+  summary: The note interprets the phenomenon as part of the material world receiving
+    Very Being through divine mercy, followed by the destruction of phenomena and
+    multiplicity in an endless process.
+  figure_refs:
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Opening invocation for Yúsuf and Zulaikha
+  summary: The next selection asks that sweet lips be bestowed on the pen and fragrant
+    streams flow from the book.
+  figure_refs: []
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: manifestation of divine presence in reflective forms
+  taxonomy_refs:
+  - annihilation_union
+  basis: The passage moves from a face reflected in a mirror to the claim that the
+    addressed self, not merely an image, is seen in all mirrors; the footnote describes
+    phenomena receiving Very Being and the destruction of multiplicity.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The taxonomy reference is interpretive; the passage does not use the term
+    annihilation, but the footnote explicitly discusses destruction of phenomena and
+    multiplicity.
+- id: motif:2
+  label: divine beloved as radiant beauty
+  taxonomy_refs:
+  - divine_beloved
+  basis: The addressed figure is described as peerless beauty, radiance, and effluent
+    grace, with universal mirrors displaying the figure’s image or self.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The poetic addressee is not named directly in the verse; the divine reading
+    is strengthened by the capitalized address and footnote reference to God and Very
+    Being.
+- id: motif:3
+  label: poetic inspiration through sweet lips and fragrant book
+  taxonomy_refs: []
+  basis: The Yúsuf and Zulaikha opening asks for sugar-sweet lips to be bestowed on
+    the pen and fragrance to flow from the book.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: This is a brief transitional excerpt with limited context and no available
+    taxonomy reference directly matching it.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 1343-1350, “MIRROR AND FACE” first stanza
+  quote_or_summary: "“This peerless beauty's face / Within the mirror's heart now
+    holds a place”; the marvel is that it is “at once mirror and face.”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:2
+  type: quote
+  locator: lines 1351-1356, “MIRROR AND FACE” second stanza
+  quote_or_summary: All mirrors display “Thy image” with radiant sheen; “'Tis Thyself,
+    not Thine image, that is seen.”
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:3
+  type: summary
+  locator: footnote 3 within lines 1343-1376
+  quote_or_summary: The note says part of the material world, through God’s mercy,
+    can receive Very Being and become Very Being externalised; omnipotence requires
+    destruction of phenomena and multiplicity, repeated endlessly.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: "“SELECTIONS FROM ‘YÚSUF AND ZULAIKHA’” opening couplet within lines 1343-1376"
+  quote_or_summary: "“Lips sweet as sugar on my pen bestow, / And from my book let
+    streams of odour flow.”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; short excerpt quoted.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif assignment is more interpretive,
+    especially where theological vocabulary is supplied by the footnote rather than
+    the verse alone. No comparison claims were made because the passage itself does
+    not support a specific cross-text comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage text and metadata. Available taxonomy references were applied only where directly supported by the passage or its footnote.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-jami-persian-mystics-davis-gutenberg__l1343-l1376
+  passage_sha256=9199f5cf8b14b8eb0c71113e8b6a0c9919f24274efe4b0f0b9143e039b5f12f9

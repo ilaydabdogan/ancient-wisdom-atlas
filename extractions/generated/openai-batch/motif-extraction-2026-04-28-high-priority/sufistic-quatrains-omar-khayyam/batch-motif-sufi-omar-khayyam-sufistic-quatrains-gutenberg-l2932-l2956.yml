@@ -1,0 +1,269 @@
+---
+record_id: batch.motif.sufi-omar-khayyam-sufistic-quatrains-gutenberg-l2932-l2956
+source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+passage_locator:
+  label: XXXI. / XXXII. / XXXIV. / XXXV.; lines 2932-2956
+  start: '2932'
+  end: '2956'
+  translation: The Sufistic Quatrains of Omar Khayyam
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: "“Drink!--for, once dead, you never shall return.”"
+  summary: The speaker leans or presses his lips to an earthen urn or jar to learn
+    the secret of life. The vessel answers by whispering an injunction to drink wine,
+    because after death there is no return to this world. The passage notes a related
+    mystic and doctrinal quatrain containing the same injunction.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The speaker leans to the lip of a poor earthen urn to learn the secret of
+    his life.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: In the alternative translation, the speaker presses his lips to the lip of
+    a jar in great desire to ask how long life might be attained.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The urn or jar is described as joining lip to lip with the speaker and whispering.
+  category: action
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:4
+  text: The vessel’s spoken message is an injunction to drink wine.
+  category: speech
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:5
+  text: The vessel’s reason for the injunction is that once dead, the addressee will
+    not return to this world.
+  category: speech
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:6
+  text: The passage identifies another quatrain, C. 489, as containing the same injunction.
+  category: relationship
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: speaker
+  description: A first-person speaker who seeks the secret of life by approaching
+    the lip of an earthen urn or jar.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: earthen urn or jar
+  description: A poor earthen urn, also described as a jar, whose lip meets the speaker’s
+    lip and which whispers an answer.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+roles:
+- id: role:1
+  label: seeker of life’s secret
+  assigned_to:
+  - fig:1
+  basis: The speaker approaches the urn or jar to learn the secret of life or to ask
+    how long life may be attained.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: speaking vessel and instructor
+  assigned_to:
+  - fig:2
+  basis: The urn or jar is personified as whispering the instruction to drink wine
+    and stating that there is no return after death.
+  evidence_refs:
+  - ev:1
+  - ev:2
+symbols:
+- id: sym:1
+  label: earthen urn or jar
+  literal_form: poor earthen urn / jar
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: wine
+  literal_form: wine named in the injunction to drink
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: lip-to-lip contact
+  literal_form: the speaker’s lip pressed or joined to the vessel’s lip
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:4
+  label: non-return after death
+  literal_form: statement that once dead, the addressee never returns / returns not
+    to this world
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+scenes:
+- id: scene:1
+  label: Inquiry at the earthen vessel
+  summary: The speaker approaches the lip of an earthen urn or jar in order to learn
+    the secret of life or how long life may be attained.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Whispered injunction to drink
+  summary: The vessel responds by joining lip to lip with the speaker and whispering
+    that he should drink wine because after death there is no return.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:3
+  label: Related quatrain with same injunction
+  summary: The commentary cites C. 489 as a mystic and doctrinal quatrain with the
+    same instruction to drink wine and the same assertion that there is no returning
+    after departure.
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: speaking vessel gives wisdom about mortality
+  taxonomy_refs:
+  - wisdom
+  basis: A personified earthen urn or jar answers the speaker’s inquiry about life
+    with a whispered teaching about drinking wine and the finality of death.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The taxonomy reference to wisdom is broad; the passage presents instruction,
+    but does not name a formal wisdom figure or tradition.
+- id: motif:2
+  label: no return after death
+  taxonomy_refs: []
+  basis: The quatrain and its cited parallel state that once dead or gone, the addressee
+    does not return to this world.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This motif is phrased from the passage itself and is not mapped to a supplied
+    afterlife or resurrection taxonomy category because the passage emphasizes non-return
+    rather than a journey or resurrection.
+- id: motif:3
+  label: drink wine in response to mortality
+  taxonomy_refs: []
+  basis: The vessel and the related quatrain both command drinking wine on the grounds
+    that life is finite and there is no return after death.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage identifies C. 489 as mystic and doctrinal, but the extracted
+    motif remains at the literal passage level without expanding the doctrinal interpretation.
+comparison_claims:
+- id: claim:1
+  claim: 'The passage commentary states that quatrain C. 489 contains the same injunction
+    as XXXV: drink wine, because there is no returning after one is gone.'
+  claim_level: same_function
+  target: C. 489, described as a mystic and doctrinal quatrain
+  evidence_refs:
+  - ev:3
+  - ev:1
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is limited to the commentary’s stated similarity of
+    injunction; no broader historical or doctrinal relationship is established in
+    the supplied passage.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 2932-2936, XXXV
+  quote_or_summary: The speaker leans to the lip of a poor earthen urn to learn the
+    secret of life; it murmurs, “While you live, / Drink!--for, once dead, you never
+    shall return.”
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: lines 2938-2944, translation from O. 100
+  quote_or_summary: In the cited translation from O. 100, the speaker presses his
+    lips to the lip of the jar to ask how long life might be attained; the jar joins
+    its lip to his and whispers to drink wine because he will not return to this world.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 2951-2956, note on C. 489
+  quote_or_summary: 'The note says C. 489 is “a mystic and doctrinal quatrain containing
+    the same injunction,” followed by: “Drink wine! ... There is no returning for
+    you; when you are gone, you are gone!”'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short excerpt used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif mapping is cautious because
+    the passage’s imagery is compact and only one broad supplied taxonomy reference,
+    wisdom, is directly supportable.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage text and metadata. No external Khayyam or Sufi interpretation has been added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-omar-khayyam-sufistic-quatrains-gutenberg__l2932-l2956
+  passage_sha256=d6936e837096c3f59d2012cc10f2349d43c9c4fbfb311990b25246bcdd256fe8

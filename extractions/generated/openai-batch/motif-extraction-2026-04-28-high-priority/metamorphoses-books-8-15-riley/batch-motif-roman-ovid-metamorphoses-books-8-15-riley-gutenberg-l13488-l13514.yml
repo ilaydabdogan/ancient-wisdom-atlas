@@ -1,0 +1,292 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l13488-l13514
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+passage_locator:
+  label: BOOK THE FIFTEENTH. / EXPLANATION. / EXPLANATION. / EXPLANATION.; lines 13488-13514
+  start: '13488'
+  end: '13514'
+  translation: The Metamorphoses of Ovid, Books VIII-XV
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Translator/editor footnotes identify several Italian places and explain
+    place-name associations, including Caieta being buried by her foster-child Æneas
+    and giving her name to a location; the notes also mention snakes or doves, marshes
+    with pestilential exhalations, and Castrum Inui as the tents of Pan.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Vulturnus is identified as a river of Campania flowing past Capua.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A note says Sinuessa was a town of Campania and discusses a reading of snow-white
+    snakes as possibly doves.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Minturnæ is identified as a town of Latium whose neighboring marshes produced
+    pestilential exhalations.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Caieta is said to have been buried at the spot by her foster-child Æneas and
+    to have given her name to it.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Formiæ is identified as the abode of Antiphates.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Trachas is also called Anxur, now Terracina, and is described as lying in
+    marshes.
+  category: setting
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Antium is identified as the capital of the ancient Volscians.
+  category: setting
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Castrum Inui is glossed as the tents of Pan and as an old town of the Rutulians.
+  category: setting
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Caieta
+  description: A woman buried by her foster-child Æneas, whose name was given to the
+    spot.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:2
+  name_or_label: Æneas
+  description: Caieta’s foster-child, said to have buried her at the spot.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: Antiphates
+  description: Named in the expression 'abode of Antiphates,' identified with Formiæ.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: Pan
+  description: Associated with Castrum Inui, glossed as 'the tents of Pan.'
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: eponymous buried figure
+  assigned_to:
+  - fig:1
+  basis: The note says Caieta was buried there and gave her name to the spot.
+  evidence_refs:
+  - ev:4
+- id: role:2
+  label: foster-child and burier
+  assigned_to:
+  - fig:2
+  basis: The note says Æneas, Caieta’s foster-child, buried her there.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: place-associated named figure
+  assigned_to:
+  - fig:3
+  basis: The note identifies Formiæ as the abode of Antiphates.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: place-associated deity
+  assigned_to:
+  - fig:4
+  basis: The note glosses Castrum Inui as the tents of Pan.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: river
+  literal_form: Vulturnus river of Campania
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: snow-white snakes or doves
+  literal_form: snow-white snakes; editor suggests doves as an emendation
+  associated_figures: []
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: marshes
+  literal_form: marshes near Minturnæ and Trachas/Terracina
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: sym:4
+  label: burial place-name
+  literal_form: spot named from Caieta after her burial
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: tents of Pan
+  literal_form: Castrum Inui, glossed as the tents of Pan
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Caieta buried and place named
+  summary: Caieta is buried by her foster-child Æneas, and the spot receives her name.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:2
+  label: Annotated Italian itinerary and place identifications
+  summary: The notes identify rivers, towns, marshes, and named associations in Campania,
+    Latium, and Rutulian territory.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: burial creates or explains a place-name
+  taxonomy_refs: []
+  basis: The note states that Caieta, after being buried by Æneas, gave her name to
+    the spot.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: This is an explanatory footnote rather than a narrative passage; no provided
+    taxonomy family directly matches the eponymous naming pattern.
+- id: motif:2
+  label: mythic geography through named places
+  taxonomy_refs: []
+  basis: Multiple notes connect locations with mythic or legendary names, including
+    Antiphates, Pan, and Caieta.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:8
+  confidence: medium
+  cautions: The passage consists of editorial place identifications, not a continuous
+    mythic episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 13488-13489; Footnote 75
+  quote_or_summary: Vulturnus is explained as a Campanian river flowing past Capua.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 13491-13495; Footnote 76
+  quote_or_summary: The note discusses 'snow-white snakes' at Sinuessa and reports
+    Heinsius's suggestion to read doves instead of snakes, noting Campania's fame
+    for doves.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 13497-13499; Footnote 77
+  quote_or_summary: Minturnæ is identified as a town of Latium with nearby marshes
+    producing pestilential exhalations.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 13501-13503; Footnote 78
+  quote_or_summary: Caieta is said to have been buried there by her foster-child Æneas
+    and to have given her name to the spot.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: line 13505; Footnote 79
+  quote_or_summary: The abode of Antiphates is identified as Formiæ.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:6
+  type: summary
+  locator: lines 13507-13509; Footnote 80
+  quote_or_summary: Trachas is also called Anxur, its present name is Terracina, and
+    Livy describes it as lying in marshes.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:7
+  type: summary
+  locator: line 13511; Footnote 81
+  quote_or_summary: Antium is identified as the capital of the ancient Volscians.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:8
+  type: summary
+  locator: lines 13513-13514; Footnote 82
+  quote_or_summary: Castrum Inui is glossed as 'the tents of Pan' and described as
+    an old town of the Rutulians.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Place and figure extraction is straightforward from the footnotes. Motif
+    identification is limited because the passage is editorial annotation rather than
+    narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage does not itself support a cautious cross-traditional comparison.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-8-15-riley-gutenberg__l13488-l13514
+  passage_sha256=eb51bdf37af562798363c572e01d66e113804d628b28583ab5814da5fcccf41a

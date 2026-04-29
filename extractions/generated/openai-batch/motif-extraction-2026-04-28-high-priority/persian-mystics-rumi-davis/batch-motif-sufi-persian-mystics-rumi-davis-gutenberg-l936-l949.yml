@@ -1,0 +1,364 @@
+---
+record_id: batch.motif.sufi-persian-mystics-rumi-davis-gutenberg-l936-l949
+source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+passage_locator:
+  label: V. ANALYSIS OF THE RELIGION OF LOVE / I. LIFE / II. SHAMSI TABRIZ / A CRY
+    TO THE BELOVED; lines 936-949
+  start: '936'
+  end: '949'
+  translation: 'The Persian Mystics: Jalálu''d-dín Rúmí'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: Yestereve I delivered to a star tidings for thee
+  summary: The speaker sends tidings and service through a star to a moon-like or
+    sun-like Beloved, displays wounds, tends the heart as a crying child, asks for
+    milk for the heart, and laments the heart's exile from the City of Union.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The speaker says he delivered tidings to a star for the addressee.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker asks that his service be presented to a moon-like form and borne
+    to the sun.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The sun is described as making hard rocks into gold by burning.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The speaker bares his breast, shows wounds, and asks that news of him be given
+    to the Beloved.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Beloved is described as one whose drink is blood.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The speaker rocks to and fro so that his heart, described as a child, may
+    become still.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The speaker asks that the heart-babe be given milk and relieved from weeping.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The addressee is said to help many helpless persons every moment.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The heart's home is identified as the City of Union, and the heart is described
+    as forlorn and kept in exile.
+  category: setting
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: speaker
+  description: First-person voice who sends tidings, bows, shows wounds, rocks the
+    heart, and petitions the Beloved.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: star
+  description: A star to whom the speaker delivers tidings for the addressee.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Beloved / Thou
+  description: The addressed beloved figure, described through moon-like and sun imagery,
+    as recipient of service and news, helper of the helpless, and associated with
+    the City of Union.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: heart-babe
+  description: The speaker's heart personified as a child or babe that weeps, is rocked,
+    and is to be given milk.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: supplicant lover
+  assigned_to:
+  - fig:1
+  basis: The speaker sends service and news, displays wounds, and asks relief from
+    exile.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+- id: role:2
+  label: celestial messenger-recipient
+  assigned_to:
+  - fig:2
+  basis: The star receives tidings for the addressee.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: divine or exalted beloved addressee
+  assigned_to:
+  - fig:3
+  basis: The Beloved is addressed as moon-like, sun-like, helper of the helpless,
+    and source or location of union.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+- id: role:4
+  label: personified needy heart
+  assigned_to:
+  - fig:4
+  basis: The heart is called a child and babe, is rocked, weeps, and needs milk.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: star as bearer of tidings
+  literal_form: star
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: moon-like form
+  literal_form: moon-like form
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: sun that burns and makes gold
+  literal_form: sun, burning, hard rocks made gold
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: wounds and blood-drink
+  literal_form: breast wounds and blood
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: heart as child in cradle
+  literal_form: heart-child, cradle, rocking, weeping
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:6
+  label: milk for the heart-babe
+  literal_form: milk
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - milk
+  evidence_refs:
+  - ev:5
+- id: sym:7
+  label: City of Union and exile
+  literal_form: City of Union; exile of the heart
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Message sent to the beloved through a star
+  summary: The speaker sends tidings and asks that service be carried to the moon-like
+    or sun-like beloved figure.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Wounded speaker asks the Beloved to receive news
+  summary: The speaker exposes wounds and asks that news of him be given to the Beloved
+    described as drinking blood.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Heart-babe soothed and fed
+  summary: The speaker rocks the heart as a child, asks for milk for it, and appeals
+    to the helper of the helpless.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Heart exiled from the City of Union
+  summary: The speaker states that the heart's home is the City of Union and asks
+    why it remains forlorn in exile.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: cry to the divine beloved
+  taxonomy_refs:
+  - divine_beloved
+  basis: The passage is addressed to the Beloved or Thou, who receives service, news,
+    and petitions and is represented with exalted celestial imagery.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage is lyric and devotional; the text does not explicitly define
+    the Beloved's theological identity within these lines alone.
+- id: motif:2
+  label: longing for union after exile
+  taxonomy_refs:
+  - annihilation_union
+  basis: The heart's true home is named the City of Union, while the speaker asks
+    why the forlorn heart is kept in exile.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: Union is explicit, but annihilation is not stated in this passage.
+- id: motif:3
+  label: mystical quest expressed as petition and message
+  taxonomy_refs:
+  - mystical_quest
+  basis: The speaker sends tidings, offers service, reveals wounds, and asks release
+    from the heart's exile from union.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:6
+  confidence: medium
+  cautions: The passage presents an interior devotional appeal rather than a narrative
+    journey.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 936-938
+  quote_or_summary: "“Yestereve I delivered to a star tidings for thee”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; brief quotation used for extraction evidence.
+- id: ev:2
+  type: summary
+  locator: lines 939-942
+  quote_or_summary: The speaker bows and asks that service be carried to the moon-like
+    form and to the sun, which makes hard rocks gold by burning.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; summarized for extraction evidence.
+- id: ev:3
+  type: summary
+  locator: lines 943-944
+  quote_or_summary: The speaker bares his breast, shows wounds, and asks that news
+    be given to the Beloved whose drink is blood.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; summarized for extraction evidence.
+- id: ev:4
+  type: summary
+  locator: lines 945-946
+  quote_or_summary: The speaker rocks to and fro so that the child, identified as
+    the speaker's heart, may become still, as a child sleeps when a cradle is swayed.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; summarized for extraction evidence.
+- id: ev:5
+  type: summary
+  locator: lines 947-948
+  quote_or_summary: The speaker asks for milk for the heart-babe and relief from its
+    weeping, addressing one who helps many helpless people every moment.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; summarized for extraction evidence.
+- id: ev:6
+  type: quote
+  locator: lines 949-950
+  quote_or_summary: "“The heart's home, first to last, is Thy City of Union: / How
+    long wilt Thou keep in exile this heart forlorn?”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; brief quotation used for extraction evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal imagery is clear. Motif assignment is cautious because the passage
+    is lyric and symbolic, and the supplied excerpt alone gives limited doctrinal
+    framing.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata. No comparison claims were added because the passage itself does not explicitly support a comparison beyond candidate motif classification.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-persian-mystics-rumi-davis-gutenberg__l936-l949
+  passage_sha256=153400c239de9d7bb1af1197a47179ed965c7e6269b3148d394608e390f7182f

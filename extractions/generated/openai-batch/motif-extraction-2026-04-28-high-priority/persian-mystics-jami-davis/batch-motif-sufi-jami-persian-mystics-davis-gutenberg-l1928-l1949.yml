@@ -1,0 +1,356 @@
+---
+record_id: batch.motif.sufi-jami-persian-mystics-davis-gutenberg-l1928-l1949
+source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+passage_locator:
+  label: HOW ALEXANDER ACQUIRED HIS POWER / FOURTH GARDEN / LIBERALITY / SELF-SACRIFICE;
+    lines 1928-1949
+  start: '1928'
+  end: '1949'
+  translation: 'The Persian Mystics: Jámí'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A mosque in Egypt burns; Muslims suspect Christians and burn their houses
+    in retaliation. The Sultan captures the perpetrators, distributes lots assigning
+    punishments, and the culprits receive the penalties indicated. A condemned man
+    says he fears not death but worries for his dependent mother. Another man assigned
+    whipping exchanges notes with him, choosing death so the first man may live to
+    care for his mother.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A great mosque in Egypt caught fire and was burnt.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Musulmans suspected Christians of committing the act and burned Christian
+    houses in revenge.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Sultan of Egypt captured the people who had burned the houses and assembled
+    them in one place.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Notes assigning punishments were distributed among the culprits; the punishments
+    included death, cutting off hands, and whipping.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Each culprit underwent the punishment that fell to him by the note he picked
+    up.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: One man assigned death said he did not fear being killed but had a mother
+    who depended on him.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: A nearby man assigned whipping exchanged notes with the condemned man and
+    said he had no mother, so he should be killed in the other's place.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: 'The exchange was carried out: the man assigned whipping was killed, and the
+    man originally condemned to death was whipped instead.'
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Sultan of Egypt
+  description: Ruler who captures the house-burners, assembles them, and orders notes
+    of punishment distributed.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Culprits who burned the houses
+  description: Captured persons among whom punishment notes are distributed.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Condemned man with mother
+  description: A man whose note assigns death; he says he does not fear death but
+    has a mother who depends on him.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+- id: fig:4
+  name_or_label: Man assigned whipping
+  description: A nearby man whose note assigns whipping; he exchanges notes and accepts
+    death in place of the condemned man.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:7
+- id: fig:5
+  name_or_label: Mother of condemned man
+  description: Mother whom the condemned man says no one will care for except himself.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: Musulmans
+  description: People who suspect Christians of burning the mosque and burn Christian
+    houses in revenge.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+- id: fig:7
+  name_or_label: Christians
+  description: People suspected of burning the mosque; their houses are burned in
+    revenge.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: punishing ruler
+  assigned_to:
+  - fig:1
+  basis: The Sultan captures the perpetrators and orders punishment notes distributed.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:2
+  label: punished culprits
+  assigned_to:
+  - fig:2
+  basis: The captured persons receive notes and undergo assigned punishments.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:3
+  label: dependent caregiver under sentence of death
+  assigned_to:
+  - fig:3
+  basis: He receives a death sentence but says his mother depends on him.
+  evidence_refs:
+  - ev:6
+- id: role:4
+  label: voluntary substitute victim
+  assigned_to:
+  - fig:4
+  basis: He exchanges a lesser punishment for death in place of the man with a mother.
+  evidence_refs:
+  - ev:7
+- id: role:5
+  label: dependent mother
+  assigned_to:
+  - fig:5
+  basis: She is described as having no caregiver except her son.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: retaliators
+  assigned_to:
+  - fig:6
+  basis: They burn houses in revenge after suspecting Christians.
+  evidence_refs:
+  - ev:2
+- id: role:7
+  label: suspected group and retaliatory victims
+  assigned_to:
+  - fig:7
+  basis: They are suspected of burning the mosque, and their houses are burned.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: fire
+  literal_form: Fire burning a mosque and later houses
+  associated_figures:
+  - fig:6
+  - fig:7
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: punishment notes
+  literal_form: Notes distributed among culprits, some bearing sentences of death,
+    hand-cutting, or whipping
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: sym:3
+  label: exchange of lots
+  literal_form: The two men exchange their punishment notes
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Burning of mosque and retaliatory houses
+  summary: A mosque in Egypt burns; Muslims suspect Christians and retaliate by burning
+    their houses.
+  figure_refs:
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Distribution of punishments by lot-like notes
+  summary: The Sultan captures the house-burners, gathers them, and has notes assigning
+    different punishments distributed among them.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Voluntary substitution for death
+  summary: A man condemned to death speaks of his dependent mother; another man assigned
+    whipping exchanges notes with him and is killed in his place.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: self-sacrifice by substitution
+  taxonomy_refs:
+  - sacrifice
+  basis: A man voluntarily takes another man's death sentence so the latter may live
+    to care for his mother.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: The passage frames the episode under the heading 'SELF-SACRIFICE'; interpretation
+    is limited to the substitution described.
+- id: motif:2
+  label: punishment assigned by drawn notes
+  taxonomy_refs: []
+  basis: Punishment notes are distributed, and each culprit undergoes the penalty
+    indicated by the note picked up.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage does not explicitly call this a lot or divine judgment; it
+    only describes distributed notes.
+- id: motif:3
+  label: filial obligation as reason for spared life
+  taxonomy_refs: []
+  basis: The condemned man says his concern is that his mother has no caregiver except
+    him.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage gives this as the reason for the exchange, but does not elaborate
+    a broader doctrine of filial duty.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1928-1930
+  quote_or_summary: One night a great mosque in Egypt caught fire and was burnt.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1930-1933
+  quote_or_summary: Musulmans suspected Christians of the act and burned their houses
+    in revenge.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 1933-1935
+  quote_or_summary: The Sultan of Egypt captured the persons who burned the houses
+    and assembled them in one spot.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 1935-1939
+  quote_or_summary: The Sultan ordered notes distributed among them, with some assigning
+    death, some cutting off hands, and some whipping.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 1939-1941
+  quote_or_summary: The culprits picked up the notes and each underwent the punishment
+    that fell to his lot.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: quote
+  locator: lines 1941-1944
+  quote_or_summary: '"I do not fear to be killed, but I have a mother, of whom no
+    one will take care except myself."'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:7
+  type: summary
+  locator: lines 1945-1949
+  quote_or_summary: A man assigned whipping exchanged notes with the condemned man,
+    saying he had no mother and should be killed instead while the other was whipped;
+    this was done.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The narrative actions and roles are explicit. Motif assignment to sacrifice
+    is supported by the heading and voluntary death-substitution; other motif labels
+    are descriptive and not taxonomy-backed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only supplied passage and metadata; no external comparisons added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-jami-persian-mystics-davis-gutenberg__l1928-l1949
+  passage_sha256=f40d57e6a118f2ffafc298195dfea4ea28307cfc71368cce2b2066eff4ba435d

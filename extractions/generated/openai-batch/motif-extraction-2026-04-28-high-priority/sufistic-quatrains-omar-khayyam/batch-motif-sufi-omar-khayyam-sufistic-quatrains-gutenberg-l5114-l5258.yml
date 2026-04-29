@@ -1,0 +1,361 @@
+---
+record_id: batch.motif.sufi-omar-khayyam-sufistic-quatrains-gutenberg-l5114-l5258
+source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+passage_locator:
+  label: STANZA / STANZA / STANZAS WHICH APPEAR IN THE SECOND EDITION ONLY / QUATRAINS
+    OF OMAR KHAYYAM; lines 5114-5258
+  start: '5114'
+  end: '5258'
+  translation: The Sufistic Quatrains of Omar Khayyam
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives a comparative table of stanza numbering across FitzGerald’s
+    first, second, third, and fourth editions of the Rubáiyát, followed by a note
+    on FitzGerald’s liberties with the original, including use of lines from Attar
+    and a disputed line about a snake. The note quotes a quatrain addressing God as
+    knower of secrets, helper in weakness, and giver and accepter of repentance and
+    excuses.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A comparative table aligns stanza numbers across FitzGerald’s first, second,
+    third, and fourth editions.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The note states that FitzGerald took great liberties with the original in
+    his version of Omar Khayyam.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The note states that the first stanza is entirely FitzGerald’s own.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The note states that FitzGerald introduced two lines from Attar into stanza
+    XXXI of the fourth edition, numbered XXXVI in the second edition.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Professor Cowell states that he found no original for a line about a snake
+    in stanza LXXXI of the fourth edition.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The quoted quatrain addresses God as one who knows the secrets of every mind
+    and grasps every hand in weakness.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The quoted quatrain asks God to give repentance and accept excuses.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Cowell says FitzGerald mistook the meaning of giving and accepting and invented
+    his last line from that mistake.
+  category: other
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: FitzGerald
+  description: Translator or adapter whose editions are compared and whose liberties
+    with the original are discussed.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:7
+- id: fig:2
+  name_or_label: Omar Khayyam
+  description: Named as the author associated with the quatrains and the original
+    adapted by FitzGerald.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Attar
+  description: Named as the source of two lines introduced into one FitzGerald stanza.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Professor Cowell
+  description: Named commentator who reports finding no original for a line about
+    the snake and explains FitzGerald’s mistake.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: fig:5
+  name_or_label: God
+  description: Addressed in the quoted quatrain as knower of secrets, helper in weakness,
+    giver of repentance, and accepter of excuses.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: translator-adapter
+  assigned_to:
+  - fig:1
+  basis: The note discusses FitzGerald’s version and says he took liberties with the
+    original.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: attributed poet-source figure
+  assigned_to:
+  - fig:2
+  basis: The passage names Omar Khayyam in relation to the quatrains and the original
+    behind FitzGerald’s version.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: borrowed poetic source
+  assigned_to:
+  - fig:3
+  basis: The note says two lines from Attar were introduced into a stanza.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: scholarly commentator
+  assigned_to:
+  - fig:4
+  basis: Professor Cowell is quoted as evaluating the lack of an original for the
+    snake line and explaining a mistranslation.
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: role:5
+  label: divine addressee
+  assigned_to:
+  - fig:5
+  basis: The quoted quatrain directly addresses God and asks for repentance and accepted
+    excuses.
+  evidence_refs:
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: snake
+  literal_form: A line about a snake, reported by Cowell as lacking an original source
+    in Nicolas.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: grasped hand in weakness
+  literal_form: God grasping every hand in the hour of weakness.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: repentance and excuses
+  literal_form: A prayer that God give repentance and accept excuses.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Editorial comparison of editions
+  summary: The passage presents a table aligning stanza numbers across four editions
+    of FitzGerald’s Rubáiyát.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Note on textual liberties and sources
+  summary: The note states that FitzGerald took liberties with the original, made
+    the first stanza his own, and included two lines from Attar in one stanza.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Cowell on the snake line and mistranslation
+  summary: Professor Cowell says there is no original for FitzGerald’s line about
+    the snake and links the mistaken line to a Nicolas quatrain about God giving repentance
+    and accepting excuses.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+- id: scene:4
+  label: Prayer to God in quoted quatrain
+  summary: The quoted quatrain addresses God as knower of minds and helper in weakness,
+    and asks for repentance and acceptance of excuses.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: divine knowledge of hidden thoughts
+  taxonomy_refs:
+  - wisdom
+  basis: The quoted quatrain addresses God as knowing the secrets of every mind.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage is an editorial note quoting a quatrain, not an extended mythic
+    narrative.
+- id: motif:2
+  label: divine mercy through repentance
+  taxonomy_refs: []
+  basis: The quoted quatrain asks God to give repentance and accept excuses.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: No explicit taxonomy reference is available for repentance; the motif
+    label is descriptive.
+- id: motif:3
+  label: serpent or snake image in disputed textual line
+  taxonomy_refs:
+  - serpent
+  basis: The note reports a line about a snake, but also states that Cowell found
+    no original for it.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: The passage specifically marks the snake line as textually unsupported
+    in the cited original, so this is a weak motif candidate for the underlying quatrain
+    tradition.
+comparison_claims:
+- id: claim:1
+  claim: The passage supports a textual comparison between FitzGerald’s stanza XXXI
+    in the fourth edition and lines attributed to Attar, because it states that two
+    lines from Attar were introduced there.
+  claim_level: linguistic_similarity
+  target: Attar lines in FitzGerald stanza XXXI of the fourth edition / XXXVI of the
+    second edition
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage does not quote the Attar lines or describe their motifs,
+    so only a source relationship is supported.
+- id: claim:2
+  claim: The passage supports a textual comparison between FitzGerald’s disputed snake
+    line and Nicolas quatrain 236, but Cowell presents the relationship as a mistaken
+    version rather than a secure original.
+  claim_level: linguistic_similarity
+  target: Nicolas quatrain 236 and FitzGerald’s stanza LXXXI snake line
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+  counter_evidence_refs:
+  - ev:4
+  confidence: low
+  limitations: The passage explicitly says no original for the snake line was found
+    and attributes the line to FitzGerald’s misunderstanding.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5114-5212
+  quote_or_summary: Comparative table of stanzas in four editions of FitzGerald, listing
+    corresponding stanza numbers across Ed. 1, Ed. 2, and Edd. 3 and 4.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summary provided.
+- id: ev:2
+  type: quote
+  locator: lines 5214-5218
+  quote_or_summary: "“FitzGerald took great liberties with the original in his version
+    of Omar Khayyam. The first stanza is entirely his own”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:3
+  type: summary
+  locator: lines 5216-5219
+  quote_or_summary: The note says stanza XXXI of the fourth edition, numbered XXXVI
+    in the second, includes two lines from Attar.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summary provided.
+- id: ev:4
+  type: quote
+  locator: lines 5219-5223
+  quote_or_summary: "“There is no original for the line about the snake: I have looked
+    for it in vain in Nicolas”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:5
+  type: quote
+  locator: lines 5225-5227
+  quote_or_summary: "“O thou who knowest the secrets of every one's mind, / Who graspest
+    every one's hand in the hour of weakness”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:6
+  type: quote
+  locator: lines 5228-5229
+  quote_or_summary: "“O God, give me repentance and accept my excuses”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:7
+  type: summary
+  locator: lines 5231-5235
+  quote_or_summary: Cowell says FitzGerald mistook the meaning of giving and accepting
+    and invented his last line from that mistake, despite Cowell writing to him about
+    it.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summary provided.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: medium
+  notes: The passage is mainly editorial apparatus rather than mythic narration. Motif
+    extraction is therefore limited to the quoted prayer and the reported snake image.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No taxonomy IDs beyond supplied motif family and symbol labels were inferred. The snake/serpent symbol is included with caution because the note says the line lacks an original source.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-omar-khayyam-sufistic-quatrains-gutenberg__l5114-l5258
+  passage_sha256=3154da625ab8f68642d957d00159815b02a834c5411a3d3a9a4e177b4250b5fd

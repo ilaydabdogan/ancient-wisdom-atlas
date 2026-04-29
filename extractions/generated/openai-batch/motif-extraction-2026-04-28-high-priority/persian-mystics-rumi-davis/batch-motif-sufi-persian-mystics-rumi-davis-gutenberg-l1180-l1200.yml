@@ -1,0 +1,340 @@
+---
+record_id: batch.motif.sufi-persian-mystics-rumi-davis-gutenberg-l1180-l1200
+source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+passage_locator:
+  label: THE MOON-SOUL AND THE SEA / LIFE IN DEATH / THE WHOLE AND THE PART / THE
+    DIVINE FRIEND; lines 1180-1200
+  start: '1180'
+  end: '1200'
+  translation: 'The Persian Mystics: Jalálu''d-dín Rúmí'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage warns against keeping perception closed among reprobates, compares
+    the world to a mirror in which Love is the perfect image, and asks how a part
+    could be greater than the whole. In the following section, a speaking companion
+    addresses the listener as one who will accompany them in the grave, be heard in
+    the tomb, remain watchful, dwell like reason and intellect within the bosom during
+    joy and sorrow, and be associated with an intellectual lamp that affects the dead
+    in tombs.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage warns the addressed person not to keep the eye shut like a bud
+    and the mouth open like a rose in a circle of reprobates.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The world is compared to a mirror, and Love is described as the perfect image.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage asks who has seen a part greater than the whole.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A speaker tells the addressed person to look on the speaker because the speaker
+    is the person's companion in the grave.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The addressed person is described as passing from shop and dwelling on a night
+    associated with the grave.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The addressed person will hear the speaker's hail in the hollow of the tomb
+    and learn that they were never hidden from the speaker's eye.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The speaker says they are like reason and intellect within the addressed person's
+    bosom during joy, gladness, sorrow, and distress.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: When the intellectual lamp is lighted, something is said to go up from dead
+    men in tombs.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Love
+  description: Love is named as the perfect image in the mirror-like world.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Divine Friend / speaking companion
+  description: A speaker in the section titled 'THE DIVINE FRIEND' addresses the listener
+    as a companion in the grave and as reason and intellect within the bosom.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Addressed person
+  description: The person addressed is told to look on the speaker, will pass from
+    shop and dwelling, and will hear the speaker in the tomb.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: dead men in the tombs
+  description: Dead men in tombs are mentioned in connection with the hour when the
+    intellectual lamp is lighted.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: perfect image
+  assigned_to:
+  - fig:1
+  basis: Love is explicitly called the perfect image when the world is likened to
+    a mirror.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: grave companion
+  assigned_to:
+  - fig:2
+  basis: The speaker says they are the addressed person's companion in the grave.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: inner reason and intellect
+  assigned_to:
+  - fig:2
+  basis: The speaker says they are as reason and intellect within the bosom of the
+    addressed person.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: addressed mortal or listener
+  assigned_to:
+  - fig:3
+  basis: The addressed person is told that they will pass from shop and dwelling and
+    hear the speaker in the tomb.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: dead in tombs
+  assigned_to:
+  - fig:4
+  basis: The passage refers to dead men in tombs when the intellectual lamp is lighted.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: mirror
+  literal_form: world resembling a mirror
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: part and whole
+  literal_form: a part compared with the whole
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: grave
+  literal_form: grave
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: tomb
+  literal_form: hollow of the tomb; tombs containing dead men
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: sym:5
+  label: intellectual lamp
+  literal_form: lamp lighted in the hour of intellect
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: eye, bud, mouth, rose
+  literal_form: eye shut like a bud; mouth open like the rose
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Whole and part teaching
+  summary: The speaker warns against closed perception and open speech among reprobates,
+    then presents the world as a mirror where Love is the perfect image and asks whether
+    a part can exceed the whole.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: The Divine Friend in the grave
+  summary: The Divine Friend speaks to the addressed person as a companion in the
+    grave, a voice heard in the tomb, and an inward presence like reason and intellect
+    during joy and sorrow.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: The intellectual lamp and the dead
+  summary: The passage states that when the intellectual lamp is lighted, something
+    goes up from dead men in the tombs.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Divine beloved or divine friend as intimate companion
+  taxonomy_refs:
+  - divine_beloved
+  basis: The section title names the Divine Friend, and the speaker presents this
+    figure as a grave companion, inward presence, and constant watcher.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage uses the title 'Divine Friend' and the language of companionship
+    rather than a developed narrative of a beloved.
+- id: motif:2
+  label: Wisdom or intellect as inner illumination
+  taxonomy_refs:
+  - wisdom
+  basis: The speaker is identified with reason and intellect within the bosom, and
+    an intellectual lamp is said to be lighted.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage is poetic and does not explicitly narrate instruction by a
+    wisdom figure.
+- id: motif:3
+  label: Passage through death with continuing companionship
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The addressed person is told of passing from shop and dwelling, having a
+    companion in the grave, and hearing a hail in the tomb.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage evokes death and tomb imagery but does not provide a detailed
+    afterlife itinerary or map.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 1180-1183
+  quote_or_summary: '"Beware! do not keep, in a circle of reprobates, / Thine eye
+    shut like a bud, thy mouth open like the rose."'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 1184-1186
+  quote_or_summary: '"The world resembles a mirror: thy Love is the perfect image:
+    / O people, who has ever seen a part greater than the whole?"'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 1188-1190
+  quote_or_summary: '"Look on me, for thou art my companion in the grave / On the
+    night when thou shalt pass from shop and dwelling."'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: quote
+  locator: lines 1191-1193
+  quote_or_summary: '"Thou shalt hear my hail in the hollow of the tomb" and learn
+    "That thou wast never concealed from mine eye."'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:5
+  type: quote
+  locator: lines 1194-1196
+  quote_or_summary: '"I am as reason and intellect within thy bosom / At the time
+    of joy and gladness, at the time of sorrow and distress."'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:6
+  type: quote
+  locator: lines 1198-1200
+  quote_or_summary: '"In the hour when the intellectual lamp is lighted, / What a
+    pears goes up from the dead men in the tombs!"'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based on a short poetic passage with abstract figures and probable
+    transcription irregularity in the final line. Motif candidates are limited to
+    taxonomy references directly supported by the passage wording.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage does not itself make a comparison to another tradition, corpus, or motif family beyond the supplied taxonomy candidates.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-persian-mystics-rumi-davis-gutenberg__l1180-l1200
+  passage_sha256=ed9c611122bc4ece9bdf2939359ed241c27ccbb5d29b9144ead62cb7b3291eed

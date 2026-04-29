@@ -1,0 +1,331 @@
+---
+record_id: batch.motif.sufi-persian-mystics-rumi-davis-gutenberg-l2270-l2316
+source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+passage_locator:
+  label: THE OPTIMISTIC ROSE / THE TRUE MOSQUE / A PRAYER / ALL RELIGIONS ARE ONE;
+    lines 2270-2316
+  start: '2270'
+  end: '2316'
+  translation: 'The Persian Mystics: Jalálu''d-dín Rúmí'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives a prayer asking for good in the present world and next
+    world, a pleasant path like a garden, and God as the goal. It then states that
+    the praises of righteous men and all prophets are mingled into one stream and
+    one ewer because the praised one is only One, so all religions are one religion
+    and all praises are directed toward God's Light. The included footnotes gloss
+    several earlier references and include notes on allegory, Joseph as a symbol of
+    beauty, and the idea that all Love is One.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The prayer asks for good in the house of the present world and in the house
+    of the next world.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The prayer asks that the path be made pleasant as a garden and that the Holy
+    One be the speaker's goal.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage says the praises of all prophets are combined in the adorations
+    and benedictions of righteous men.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage uses images of praises mingling into one stream and vessels being
+    emptied into one ewer.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage states that the praised one is only One and that, in this respect,
+    all religions are one religion.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The passage states that all praises are directed toward God's Light and that
+    various forms and figures are borrowed from it.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: A footnote says that a poem signifies that all Love is One and shines through
+    the ever-vanishing lanterns of the world.
+  category: speech
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: speaker of the prayer
+  description: A praying voice asking for good in this world and the next and for
+    the Holy One as goal.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Holy One
+  description: The addressee of the prayer and the requested goal.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: righteous men
+  description: People whose adorations and benedictions contain the praises of all
+    prophets.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: all prophets
+  description: Prophets whose praises are said to be kneaded together in the praises
+    of righteous men.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: God
+  description: The One who is praised; all praises are directed toward God's Light.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: prayer petitioner
+  assigned_to:
+  - fig:1
+  basis: The voice speaks a prayer asking for good and for the Holy One as goal.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: single divine goal and object of praise
+  assigned_to:
+  - fig:2
+  - fig:5
+  basis: The Holy One is asked to be the goal, and the passage states that the praised
+    one is only One.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: praisers
+  assigned_to:
+  - fig:3
+  basis: Righteous men are associated with adorations and benedictions.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: prophetic praise sources
+  assigned_to:
+  - fig:4
+  basis: The praises of all prophets are described as kneaded together.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: houses of present and next world
+  literal_form: house of our present world; house of our next world
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: pleasant path as garden
+  literal_form: path pleasant as a garden
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: one stream
+  literal_form: all praises mingled into one stream
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: one ewer receiving vessels
+  literal_form: all the vessels emptied into one ewer
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: God's Light
+  literal_form: God's Light
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:6
+  label: worldly lanterns
+  literal_form: ever-vanishing lanterns of the world
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Prayer for two worlds and divine goal
+  summary: A speaker prays for good in the present and next worlds, a pleasant path,
+    and the Holy One as the goal.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Praises and religions gathered into unity
+  summary: The passage describes the praises of righteous men, prophets, and religions
+    as mingled into one stream and one ewer because all praise is directed toward
+    the single divine Light.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Footnote gloss on unity of love
+  summary: A footnote explains that a poem signifies that all Love is One and shines
+    through worldly lanterns that vanish.
+  figure_refs: []
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Prayer for good in this world and the next
+  taxonomy_refs:
+  - mystical_quest
+  basis: The prayer asks for good in the present world and next world and frames the
+    Holy One as the goal of the path.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The taxonomy reference is broad; the passage is a devotional prayer rather
+    than a narrative quest.
+- id: motif:2
+  label: Many praises gathered into one divine object
+  taxonomy_refs:
+  - annihilation_union
+  - wisdom
+  basis: The passage says the praises of prophets and righteous men are mingled together
+    because the praised one is only One and all praise is directed toward God's Light.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage states theological unity directly; the annihilation/union
+    taxonomy fit is interpretive and should be reviewed.
+- id: motif:3
+  label: All religions are one in divine praise
+  taxonomy_refs:
+  - wisdom
+  basis: The passage explicitly states that in this respect all religions are only
+    one religion, because praises are directed toward God's Light.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is a doctrinal-poetic assertion in the passage, not a historical
+    claim about religious origins.
+- id: motif:4
+  label: All love as one light through perishing forms
+  taxonomy_refs:
+  - divine_beloved
+  - annihilation_union
+  basis: A footnote says the poem signifies that all Love is One and shines through
+    the ever-vanishing lanterns of the world.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The footnote comments on a poem outside the immediate quoted stanza range;
+    connection to the present excerpts requires review.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself compares different prophetic praises and religious forms
+    by giving them the same divine direction and object of praise.
+  claim_level: same_function
+  target: praises of all prophets and religions within the passage
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is an internal theological comparison, not evidence for historical
+    contact or common inheritance among traditions.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2270-2276, A PRAYER
+  quote_or_summary: The prayer asks for good in the present world and next world,
+    for the path to be pleasant as a garden, and for the Holy One to be the goal.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 2278-2288, ALL RELIGIONS ARE ONE
+  quote_or_summary: The passage says the praises of righteous men and all prophets
+    are kneaded together, mingled into one stream, and emptied into one ewer because
+    the praised one is only One; all religions are one in this respect, and all praises
+    are directed toward God's Light.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: footnotes in lines 2290-2316, especially Footnote 8
+  quote_or_summary: The footnotes gloss earlier references, including a note that
+    the meaning of a poem is that all Love is One and shines through the ever-vanishing
+    lanterns of the world.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The main prayer and unity-of-religions sections are explicit. Motif-family
+    assignments are partly interpretive because the available taxonomy is broad. Footnote-derived
+    motifs need review because most footnotes refer to surrounding poems rather than
+    clearly to the two short excerpts.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No external comparisons or unsupported historical claims were added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-persian-mystics-rumi-davis-gutenberg__l2270-l2316
+  passage_sha256=2af32bc2f01adebc8b4a67e3d69fa3cf56c1395d95f85b32e2bd43fb3ff24d8e

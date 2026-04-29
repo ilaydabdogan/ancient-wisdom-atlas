@@ -1,0 +1,498 @@
+---
+record_id: batch.motif.sufi-omar-khayyam-sufistic-quatrains-gutenberg-l1035-l1072
+source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+passage_locator:
+  label: ASTRONOMER-POET OF PERSIA / EDWARD FITZGERALD. / THE FITZGERALD FIRST EDITION
+    / VIII.; lines 1035-1072
+  start: '1035'
+  end: '1072'
+  translation: The Sufistic Quatrains of Omar Khayyam
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage contrasts transient blossoms, roses, rulers, heroes, and future
+    hopes with a present scene of simple companionship: bread, wine, verse, song,
+    and wilderness imagined as sufficient paradise.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A thousand blossoms wake with the day, and a thousand are scattered into clay.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The first summer month brings the rose and is said to take Jamshyd and Kaikobad
+    away.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The speaker invites the listener to leave the lot of Kaikobad and Kaikhosru
+    forgotten.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage names Rustum and Hatim Tai but tells the listener not to heed
+    them.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The speaker proposes going to a strip of herbage between desert and cultivated
+    land, where slave and sultan are scarcely known.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The passage says to pity Sultan Mahmud on his throne.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The speaker imagines bread beneath a bough, a flask of wine, a book of verse,
+    and a companion singing in the wilderness.
+  category: object
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The wilderness is declared to be paradise enough in the presence of the companion,
+    bread, wine, verse, and song.
+  category: setting
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: Some are said to value mortal sovereignty, while others value the paradise
+    to come.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: The speaker counsels taking the cash in hand and waiving the rest, comparing
+    deferred hope to distant drum music.
+  category: speech
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: old Khayyam
+  description: Speaker who invites the listener to leave royal and heroic lots forgotten
+    and come along with him.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: the companion / Thou
+  description: A companion addressed by the speaker and imagined beside him singing
+    in the wilderness.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:7
+- id: fig:3
+  name_or_label: Jamshyd
+  description: A named royal figure whom the summer month is said to take away.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Kaikobad
+  description: A named royal figure whom the summer month is said to take away and
+    whose lot is to be forgotten.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:5
+  name_or_label: Kaikhosru
+  description: A named royal figure whose lot is to be forgotten.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Rustum
+  description: A named heroic figure who may lay about him, but is not to be heeded.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Hatim Tai
+  description: A named figure who may cry supper, but is not to be heeded.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:8
+  name_or_label: Sultan Mahmud
+  description: A sultan on his throne, whom the speaker says to pity.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+- id: fig:9
+  name_or_label: some and others
+  description: Unnamed people who think mortal sovereignty sweet or paradise to come
+    blessed.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: speaker-guide
+  assigned_to:
+  - fig:1
+  basis: The named speaker invites the listener to come with him and gives counsel
+    about what to heed or waive.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:8
+- id: role:2
+  label: beloved or intimate companion
+  assigned_to:
+  - fig:2
+  basis: The addressed companion is imagined beside the speaker, singing in the wilderness.
+  evidence_refs:
+  - ev:7
+- id: role:3
+  label: legendary or royal exemplar of transience
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:5
+  basis: Named royal figures are taken away by time or treated as lots to be forgotten.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: heroic exemplar not to be heeded
+  assigned_to:
+  - fig:6
+  basis: Rustum is named in a martial action but the listener is told not to heed
+    him.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: generous host exemplar not to be heeded
+  assigned_to:
+  - fig:7
+  basis: Hatim Tai is named as crying supper, but the listener is told not to heed
+    him.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: enthroned ruler to be pitied
+  assigned_to:
+  - fig:8
+  basis: Sultan Mahmud is located on his throne and is the object of pity.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: contrasting opinion holders
+  assigned_to:
+  - fig:9
+  basis: The passage contrasts unnamed groups who praise mortal sovereignty or the
+    paradise to come.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: blossoms returning to clay
+  literal_form: blossoms waking with day and scattering into clay
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: rose of the first summer month
+  literal_form: rose brought by the first summer month
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: boundary strip of herbage
+  literal_form: strip of herbage dividing the desert from the sown
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: desert and cultivated land
+  literal_form: desert and the sown
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: throne
+  literal_form: Sultan Mahmud on his throne
+  associated_figures:
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: bough shelter
+  literal_form: bough above the bread, wine, verse, and companion
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:7
+- id: sym:7
+  label: simple provisions
+  literal_form: loaf of bread, flask of wine, and book of verse
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:8
+  label: wilderness as paradise enough
+  literal_form: wilderness with singing companion declared paradise enough
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:9
+  label: cash in hand
+  literal_form: cash in hand contrasted with the rest
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:10
+  label: distant drum
+  literal_form: music of a distant drum
+  associated_figures:
+  - fig:1
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Seasonal flowering and royal disappearance
+  summary: Blossoms wake and scatter into clay; the summer month brings the rose and
+    takes away named royal figures.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Invitation to forget royal and heroic exemplars
+  summary: The speaker invites the listener to forget the fortunes of kings and not
+    heed heroic or hospitable famous figures.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Marginal herbage beyond social rank
+  summary: The speaker proposes a place between desert and cultivated land where slave
+    and sultan are scarcely known, and tells the listener to pity an enthroned sultan.
+  figure_refs:
+  - fig:1
+  - fig:8
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Wilderness paradise of companionship
+  summary: Bread, wine, verse, a bough, and the singing companion make the wilderness
+    sufficient paradise.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:6
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:7
+- id: scene:5
+  label: Present possession over deferred hope
+  summary: The speaker contrasts those who prize mortal sovereignty or future paradise
+    with counsel to take present possession and waive the rest.
+  figure_refs:
+  - fig:1
+  - fig:9
+  symbol_refs:
+  - sym:9
+  - sym:10
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: seasonal flourishing and mortality
+  taxonomy_refs:
+  - seasonal_cycle
+  - death_rebirth
+  basis: The passage pairs the waking of blossoms and arrival of the rose with scattering
+    into clay and the removal of kings.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage emphasizes transience more than a full rebirth cycle; the
+    taxonomy fit is partial.
+- id: motif:2
+  label: renunciation of royal and heroic fame
+  taxonomy_refs:
+  - wisdom
+  basis: The speaker tells the listener to forget named kings, ignore heroic or hospitable
+    exemplars, and pity an enthroned sultan.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  confidence: medium
+  cautions: This is ethical counsel within lyric poetry, not a narrative wisdom tale.
+- id: motif:3
+  label: liminal retreat beyond social rank
+  taxonomy_refs:
+  - departure
+  - mystical_quest
+  basis: The speaker proposes going to a strip of herbage between desert and cultivated
+    land where slave and sultan are scarcely known.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage describes a desired retreat, not a developed journey narrative.
+- id: motif:4
+  label: paradise found in simple present companionship
+  taxonomy_refs:
+  - divine_beloved
+  - mystical_quest
+  basis: The companion, bread, wine, verse, song, and wilderness are declared sufficient
+    paradise.
+  evidence_refs:
+  - ev:7
+  confidence: low
+  cautions: The companion is not explicitly identified as divine in the passage; the
+    divine_beloved reference is interpretive and needs review.
+- id: motif:5
+  label: present enjoyment over deferred reward
+  taxonomy_refs:
+  - wisdom
+  basis: The speaker contrasts mortal sovereignty and paradise to come with the counsel
+    to take the cash in hand and waive the rest.
+  evidence_refs:
+  - ev:8
+  confidence: high
+  cautions: The passage states the counsel clearly, but broader doctrinal implications
+    should not be inferred from this excerpt alone.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 1035-1040
+  quote_or_summary: "“a thousand Blossoms with the Day / Woke--and a thousand scatter'd
+    into Clay”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:2
+  type: quote
+  locator: lines 1041-1042
+  quote_or_summary: "“this first Summer Month that brings the Rose / Shall take Jamshyd
+    and Kaikobad away”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:3
+  type: summary
+  locator: lines 1045-1048
+  quote_or_summary: The speaker says to come with old Khayyam and leave the lot of
+    Kaikobad and Kaikhosru forgotten.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 1049-1050
+  quote_or_summary: Rustum and Hatim Tai are named, but the listener is told not to
+    heed them.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: lines 1053-1056
+  quote_or_summary: "“some Strip of Herbage strown, / That just divides the desert
+    from the sown” where slave and sultan are scarcely known."
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:6
+  type: summary
+  locator: line 1058
+  quote_or_summary: The passage says to pity Sultan Mahmud on his throne.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: quote
+  locator: lines 1061-1066
+  quote_or_summary: "“a Loaf of Bread beneath the Bough, / A Flask of Wine, a Book
+    of Verse--and Thou / Beside me singing in the Wilderness” makes wilderness “Paradise
+    enow.”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:8
+  type: summary
+  locator: lines 1069-1072
+  quote_or_summary: The passage contrasts mortal sovereignty and paradise to come,
+    then advises taking the cash in hand and waiving the rest, with mention of distant
+    drum music.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Some motif taxonomy mappings, especially
+    divine_beloved and mystical_quest, are tentative and require human review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used. No comparison claims were added because the passage does not itself establish a comparative relationship beyond its named allusions.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-omar-khayyam-sufistic-quatrains-gutenberg__l1035-l1072
+  passage_sha256=0fd25592c6b43133de231a6d951c1d22f096496a29950523c29388522a918b8c

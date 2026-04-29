@@ -1,0 +1,363 @@
+---
+record_id: batch.motif.sufi-persian-mystics-rumi-davis-gutenberg-l2023-l2042
+source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+passage_locator:
+  label: SORROW TURNED TO JOY / THE GIFTS OF THE BELOVED / THE WISDOM OF THE WEAK
+    / WHITE NIGHTS; lines 2023-2042
+  start: '2023'
+  end: '2042'
+  translation: 'The Persian Mystics: Jalálu''d-dín Rúmí'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage says that each night the addressed Thou frees spirits from
+    the body and its snare, so that spirits are released from a cage and social statuses
+    are forgotten. A section titled “The Kingly Soul” describes a soul that destroys
+    and rebuilds the body, gives up family and wealth for love of God, destroys its
+    house to find a hidden treasure, and renews a cleansed channel with a fresh stream.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Each night the addressed Thou frees spirits from the body and its snare.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The body is described as a snare and as a cage from which spirits are released.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: At night prisoners are unaware of their prison, and kings are unaware of their
+    majesty.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The kingly soul lays waste to the body and then builds it anew after its destruction.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A happy soul is described as giving up family, wealth, and goods for love
+    of God.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The soul destroys its house to find a Hidden Treasure and rebuilds the house
+    in a fairer form with that Treasure.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The soul dams up a stream, cleanses the channel, and turns a fresh stream
+    into the channel.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Thou
+  description: The addressed figure who frees spirits from the body every night.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: spirits
+  description: Spirits released from the body, described as freed from a cage at night.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: prisoners and kings
+  description: Human social figures who are said to be unaware of prison or majesty
+    at night.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: the kingly soul
+  description: A soul that destroys the body and rebuilds it anew.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: happy soul
+  description: A soul that gives up family, wealth, and goods for love of God and
+    finds the Hidden Treasure.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: nightly liberator of spirits
+  assigned_to:
+  - fig:1
+  basis: The addressed Thou frees spirits from the body every night.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: released spirits
+  assigned_to:
+  - fig:2
+  basis: The spirits are released from the body and cage at night.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: status-forgetting figures
+  assigned_to:
+  - fig:3
+  basis: Prisoners forget prison and kings forget majesty at night.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: destroyer and rebuilder of the body
+  assigned_to:
+  - fig:4
+  basis: The kingly soul lays waste to the body and builds it anew.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: renouncing seeker of hidden treasure
+  assigned_to:
+  - fig:5
+  basis: The happy soul gives up possessions for love of God and destroys its house
+    to find the Hidden Treasure.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: night
+  literal_form: night
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: body as snare, cage, or prison
+  literal_form: body; snare; cage; prison
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: erased tablets
+  literal_form: rased tablets
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: Hidden Treasure
+  literal_form: Hidden Treasure
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: house destroyed and rebuilt
+  literal_form: house
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: stream and cleansed channel
+  literal_form: stream; channel; fresh stream
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: family, wealth, and goods
+  literal_form: family, wealth, and goods
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Nightly release from the body
+  summary: Every night the addressed Thou frees spirits from the body, described as
+    a snare and cage, and distinctions such as prisoner and king are not perceived.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: The kingly soul destroys and rebuilds
+  summary: The kingly soul destroys the body and rebuilds it anew after destruction.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Renunciation, treasure, and renewed channel
+  summary: A happy soul gives up family and goods for love of God, destroys its house
+    to find Hidden Treasure, rebuilds it, and renews a cleansed channel with a fresh
+    stream.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: nightly liberation of the spirit from bodily confinement
+  taxonomy_refs:
+  - mystical_quest
+  basis: The passage describes spirits being freed every night from the body, represented
+    as a snare and cage.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage presents a lyric-mystical image rather than a narrative quest
+    episode.
+- id: motif:2
+  label: destruction and renewal of the self or body
+  taxonomy_refs:
+  - death_rebirth
+  basis: The kingly soul destroys the body and builds it anew after destruction.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The renewal is spiritual and metaphorical within the passage; it is not
+    a literal physical death scene.
+- id: motif:3
+  label: renunciation for love of God
+  taxonomy_refs:
+  - sacrifice
+  - divine_beloved
+  basis: The happy soul lavishes family, wealth, and goods for love of God.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage does not describe a ritual sacrifice; the assigned motif is
+    based on renunciation of valued possessions.
+- id: motif:4
+  label: hidden treasure found through destruction of the house
+  taxonomy_refs:
+  - mystical_quest
+  basis: The soul destroys its house to find the Hidden Treasure and then rebuilds
+    with that Treasure.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The Hidden Treasure is not explained in the passage beyond the image itself.
+- id: motif:5
+  label: cleansed channel receiving fresh stream
+  taxonomy_refs:
+  - wisdom
+  basis: The soul dams up the stream, cleanses the channel, and turns a fresh stream
+    into it.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage does not explicitly state the meaning of the water image;
+    interpretation should remain tentative.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2023-2028
+  quote_or_summary: Under “WHITE NIGHTS,” every night Thou frees spirits from the
+    body and its snare, making them pure as erased tablets; spirits are released from
+    this cage and set free.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 2029-2030
+  quote_or_summary: At night prisoners are unaware of their prison, and kings are
+    unaware of their majesty.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 2033-2035
+  quote_or_summary: In “THE KINGLY SOUL,” the kingly soul lays waste to the body and
+    builds it anew after its destruction.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 2036-2037
+  quote_or_summary: The happy soul, for love of God, lavishes family, wealth, and
+    goods.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 2038-2040
+  quote_or_summary: The soul destroys its house to find the Hidden Treasure and rebuilds
+    it in a fairer form with that Treasure.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 2041-2042
+  quote_or_summary: The soul dams up the stream, cleanses the channel, and turns a
+    fresh stream into the channel.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif assignments are cautious because
+    the passage is lyric and metaphorical rather than a full mythic narrative. No
+    comparison claims were added because the passage itself does not explicitly support
+    cross-text comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata; taxonomy references limited to the provided lists.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-persian-mystics-rumi-davis-gutenberg__l2023-l2042
+  passage_sha256=34f33aa5d7e889f49ce1b81505c312ae114f2eecccff1437b5ea4fa1ad24b955

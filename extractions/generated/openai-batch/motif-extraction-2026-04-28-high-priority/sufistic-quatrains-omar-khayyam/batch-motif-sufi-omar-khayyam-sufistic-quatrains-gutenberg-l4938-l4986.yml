@@ -1,0 +1,427 @@
+---
+record_id: batch.motif.sufi-omar-khayyam-sufistic-quatrains-gutenberg-l4938-l4986
+source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+passage_locator:
+  label: STANZA / STANZA / STANZA / STANZA; lines 4938-4986
+  start: '4938'
+  end: '4986'
+  translation: The Sufistic Quatrains of Omar Khayyam
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage lists variant readings for several stanzas. Images include
+    the sky as an inverted bowl, human sin and forgiveness, a nearly extinguished
+    tongue whose ashes are kindled into living speech, human substance shaped from
+    common earth and returned to shapeless earth, a cup or vessel made by a maker
+    who may destroy it, silence after a question, and the unresolved question of which
+    is potter and which is pot.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The sky is described as an inverted bowl that rolls as impotently as human
+    beings.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A variant line contrasts pure gold with dross-allayed matter that was lent.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A stanza variant says the face of wretched man is black with sin and mentions
+    giving and taking forgiveness.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A scarcely heard whisper gathers like the ashes of an almost extinguished
+    tongue, and the speaker's ear kindles it into living word.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: A speaker says their substance was taken from common earth, shaped, and may
+    be stamped back into shapeless earth.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: A speaker compares destruction of a made vessel to a peevish boy breaking
+    the cup from which he drank in joy.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: After one question, no one answers, and silence is said to speak.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The dead and the living are associated with questions of what, why, and wherefore.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: An unnamed speaker asks which is the potter and which the pot.
+  category: speech
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: wretched Man
+  description: Humanity or a human figure described as having a face black with sin.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: He
+  description: A maker who subtly wrought the speaker into shape and who made the
+    vessel by free fancy.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: speaker from common earth
+  description: A first-person speaker whose substance was taken from common earth
+    and shaped.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: peevish Boy
+  description: A boy used in an analogy as someone who would not break a cup from
+    which he drank in joy.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: unnamed questioner
+  description: A figure who suddenly exclaims the question about which is potter and
+    which is pot.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:8
+- id: fig:6
+  name_or_label: the Dead and the Living
+  description: Collective figures mentioned in relation to questions of what, why,
+    and wherefore.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: sin-marked human
+  assigned_to:
+  - fig:1
+  basis: The stanza variant says the face of wretched man is black with sin.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: maker of shape and vessel
+  assigned_to:
+  - fig:2
+  basis: The figure called He is said to have wrought the speaker into shape and made
+    the vessel.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:3
+  label: formed earthen substance
+  assigned_to:
+  - fig:3
+  basis: The speaker says their substance was taken from common earth and wrought
+    into shape.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: analogy figure for cup-breaking
+  assigned_to:
+  - fig:4
+  basis: The peevish boy is invoked as someone who would not break the cup from which
+    he drank in joy.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: poser of potter-and-pot question
+  assigned_to:
+  - fig:5
+  basis: One figure suddenly asks which is the potter and which the pot.
+  evidence_refs:
+  - ev:8
+- id: role:6
+  label: subjects of unresolved questioning
+  assigned_to:
+  - fig:6
+  basis: The dead and living are linked with questions of what, why, and wherefore.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: inverted bowl sky
+  literal_form: An inverted bowl called the sky
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: pure gold and dross
+  literal_form: Pure gold contrasted with dross-allayed matter
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: blackened face
+  literal_form: The face of wretched man black with sin
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: ashes of extinguished tongue
+  literal_form: Ashes of an almost extinguished tongue kindled into living word
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: common earth and shapeless earth
+  literal_form: Common earth shaped into substance and stamped back to shapeless earth
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: cup
+  literal_form: A cup from which a boy drank in joy
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: vessel
+  literal_form: A vessel made by He and possibly destroyed afterward
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:8
+  label: potter and pot
+  literal_form: A potter and a pot posed as alternatives in a question
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Sky as inverted bowl
+  summary: A variant describes the sky as an inverted bowl and says it rolls impotently
+    like humans.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Whisper kindled into living word
+  summary: A scarcely heard whisper gathers like ashes of an almost extinguished tongue
+    and becomes living word through the speaker's ear.
+  figure_refs: []
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Earth shaped and returned to shapeless earth
+  summary: A speaker questions why substance taken from common earth and shaped would
+    be stamped back to shapeless earth.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Vessel made and possibly destroyed
+  summary: A speaker asks whether the maker who freely made the vessel would destroy
+    it, using the analogy of a boy and a cup.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: Unanswered potter and pot question
+  summary: After silence, questions about the dead and living lead to the exclamation
+    asking which is the potter and which the pot.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:8
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: creator as maker of human vessel
+  taxonomy_refs: []
+  basis: The passage describes a maker who shapes substance from earth, makes a vessel,
+    and is questioned as a possible destroyer of what he made.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:8
+  confidence: high
+  cautions: The passage is presented as variant readings and uses questions rather
+    than a continuous narrative.
+- id: motif:2
+  label: return from formed life to shapeless earth
+  taxonomy_refs:
+  - death_rebirth
+  basis: The speaker describes substance taken from common earth, wrought into shape,
+    and stamped back to shapeless earth.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage supports return to earth; it does not explicitly describe
+    rebirth.
+- id: motif:3
+  label: wisdom through unresolved questioning
+  taxonomy_refs:
+  - wisdom
+  basis: The passage centers on questions of what, why, wherefore, and the identity
+    of potter and pot, with no answer given.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The available excerpt gives questions and silence, not a stated doctrine
+    or resolution.
+- id: motif:4
+  label: forgiveness and sin-marked humanity
+  taxonomy_refs:
+  - divine_judgment
+  basis: A stanza variant mentions the face of man black with sin and asks for forgiveness
+    to be given and taken.
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: Judgment is not explicitly narrated; the taxonomy reference is based only
+    on sin and forgiveness language.
+- id: motif:5
+  label: speech revived from ashes
+  taxonomy_refs:
+  - death_rebirth
+  basis: A whisper is compared to ashes of an almost extinguished tongue, kindled
+    into living word.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The motif is metaphorical and confined to speech, not an embodied resurrection.
+- id: motif:6
+  label: cosmos as vessel
+  taxonomy_refs: []
+  basis: The sky is called an inverted bowl and described as rolling impotently.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The image is brief and not developed into a full cosmological narrative
+    in this excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 4938-4986; LXXII variant
+  quote_or_summary: "“that inverted Bowl we call The Sky” and “As impotently rolls
+    as you or I.”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:2
+  type: quote
+  locator: lines 4938-4986; LXXIX variant
+  quote_or_summary: "“Pure Gold for what he lent us dross-allay'd.”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:3
+  type: quote
+  locator: lines 4938-4986; LXXXI variant
+  quote_or_summary: "“For all the Sin the Face of wretched Man / Is black with--Man's
+    Forgiveness give--and take!”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:4
+  type: summary
+  locator: lines 4938-4986; LXXXIII variant
+  quote_or_summary: A scarcely heard whisper gathers like ashes of an almost extinguished
+    tongue, and the speaker's ear kindles it into living word.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized for extraction evidence.
+- id: ev:5
+  type: summary
+  locator: lines 4938-4986; LXXXIV variant
+  quote_or_summary: The speaker says their substance was taken from common earth,
+    wrought into shape by He, and might be stamped back to shapeless earth.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized for extraction evidence.
+- id: ev:6
+  type: summary
+  locator: lines 4938-4986; LXXXV variant
+  quote_or_summary: A speaker says a peevish boy would not break a cup from which
+    he drank in joy, then asks whether He who made the vessel by free fancy would
+    destroy it in rage.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized for extraction evidence.
+- id: ev:7
+  type: quote
+  locator: lines 4938-4986; LXXXVI variant
+  quote_or_summary: "“None answer'd this, but after silence spake.”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:8
+  type: quote
+  locator: lines 4938-4986; LXXXVII variant
+  quote_or_summary: "“Thus with the Dead as with the Living, What? / And Why? ...
+    ‘Which is the Potter, pray, and which the Pot?’”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward from the supplied stanza variants.
+    Motif labels are cautious because the passage is a set of edition variants rather
+    than a continuous narrative, and no explicit external comparison is made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only supplied passage text and metadata were used. Taxonomy references were limited to available lists and applied only where directly supportable.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-omar-khayyam-sufistic-quatrains-gutenberg__l4938-l4986
+  passage_sha256=0aef49cfa3a69e9bee70140f24c38902876cecf3c3ff304d81354e4a456d23f0

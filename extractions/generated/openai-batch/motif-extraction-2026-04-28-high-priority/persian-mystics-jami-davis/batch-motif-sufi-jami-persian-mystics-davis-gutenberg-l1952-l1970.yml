@@ -1,0 +1,263 @@
+---
+record_id: batch.motif.sufi-jami-persian-mystics-davis-gutenberg-l1952-l1970
+source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+passage_locator:
+  label: FOURTH GARDEN / LIBERALITY / SELF-SACRIFICE / GALLANTRY AND HUMOUR; lines
+    1952-1970
+  start: '1952'
+  end: '1970'
+  translation: 'The Persian Mystics: Jámí'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: An Arab of the desert welcomes an Arab chief with a qasida ending in a
+    request to receive the chief's generous hand. The chief offers his hand to be
+    kissed, jokes that the man's lip-hairs scratched it, and receives a witty reply
+    comparing the speaker to a porcupine and the chief to a lion. Pleased by the reply,
+    the chief rewards him with dirhams for both the qasida and the sally.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: An Arab of the desert welcomed the arrival of an Arab chief by reciting a
+    qasida.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The qasida ended with a distich asking the chief to stretch out a hand whose
+    palm distributes largesse and whose back is kissed.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The generous man held out his hand to be kissed by the Arab.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The generous man joked that the hairs on the Arab's lips had scratched his
+    hand.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Arab replied with an image in which porcupine bristles cannot injure the
+    paw of a formidable lion.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The liberal man preferred the witty reply to the qasida and ordered monetary
+    rewards of 1,000 and 3,000 dirhams.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Arab of the desert
+  description: A desert Arab who recites a qasida and answers the chief's joke with
+    a witty comparison.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: Arab chief / generous man / liberal man
+  description: An Arab chief described as generous and liberal; he extends his hand
+    to be kissed and rewards the reciter.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+roles:
+- id: role:1
+  label: poetic greeter
+  assigned_to:
+  - fig:1
+  basis: He welcomes the chief by reciting a qasida.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: generous patron
+  assigned_to:
+  - fig:2
+  basis: He is described as generous/liberal and orders dirham rewards.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:3
+  label: witty respondent
+  assigned_to:
+  - fig:1
+  basis: He replies to the joke with a sally that pleases the patron.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:4
+  label: joking superior
+  assigned_to:
+  - fig:2
+  basis: He makes a joke after extending his hand to be kissed.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: outstretched hand
+  literal_form: the chief's hand, with a palm distributing largesse and a back to
+    be kissed
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: hand-kissing gesture
+  literal_form: the chief holds out his hand to be kissed by the Arab
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: porcupine and lion comparison
+  literal_form: bristles of a porcupine and paw of a formidable lion
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: dirham rewards
+  literal_form: 1,000 and 3,000 dirhams
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Poetic welcome of the chief
+  summary: The desert Arab greets the arriving Arab chief with a qasida that praises
+    the chief's largesse through the image of his hand.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Joke and witty reply
+  summary: The chief extends his hand for kissing, jokes about the Arab's lip-hairs
+    scratching it, and hears the Arab's animal comparison in reply.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Reward for poem and sally
+  summary: The chief is pleased by the Arab's wit and orders payments in dirhams for
+    the qasida and the sally.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: generous patron rewards verbal wit
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The passage centers on a patron who receives praise and witty speech, then
+    responds with large monetary gifts.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage is a moral-anecdotal example of liberality and humor rather
+    than an explicitly sacred or ritual exchange.
+- id: motif:2
+  label: humble speaker magnifies powerful patron through animal imagery
+  taxonomy_refs: []
+  basis: The Arab's reply frames the chief as a formidable lion whose paw cannot be
+    hurt by porcupine bristles.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: This is a localized rhetorical image, not necessarily a broader mythic
+    motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1952-1955
+  quote_or_summary: An Arab of the desert welcomes an Arab chief by reciting a qasida.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 1956-1959
+  quote_or_summary: "“Stretch out thy hand to me, the palm whereof / Distributes largesses,
+    and its back is kissed.”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: summary
+  locator: lines 1960-1963
+  quote_or_summary: The generous man holds out his hand to be kissed and jokes that
+    the hairs on the Arab's lips scratched his hand.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 1964-1966
+  quote_or_summary: "“What injury can the bristles of a porcupine inflict upon the
+    paw of a formidable lion?”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; short quotation.
+- id: ev:5
+  type: summary
+  locator: lines 1967-1970
+  quote_or_summary: The liberal man likes the sally better than the qasida and orders
+    rewards of 1,000 and 3,000 dirhams.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif assignment to sacred_exchange
+    is tentative because the passage presents social generosity and wit, not an explicitly
+    mythic or ritual exchange.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No available symbol taxonomy refs apply directly to the passage.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-jami-persian-mystics-davis-gutenberg__l1952-l1970
+  passage_sha256=8bacf4d8d894afcbb18fc662efa8e88af36dd6f21a89a0c69e5c5bf08c466f35

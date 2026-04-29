@@ -1,0 +1,408 @@
+---
+record_id: batch.motif.sufi-persian-mystics-rumi-davis-gutenberg-l1135-l1159
+source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+passage_locator:
+  label: LOVE'S DESIRE / THE FINDING OF THE BELOVED / GOD ONLY / THE MOON-SOUL AND
+    THE SEA; lines 1135-1159
+  start: '1135'
+  end: '1159'
+  translation: 'The Persian Mystics: Jalálu''d-dín Rúmí'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage states that only God contemplates God's beauty, describes two
+    lights becoming indistinguishable, then narrates a moon descending, carrying the
+    speaker through the sky, dissolving the speaker's bodily self into soul, revealing
+    the Eternal Theophany, merging the heavens in the moon, hiding the speaker's being
+    in the sea, and transforming embodied foam-flecks into spirit in the Ocean.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage says that none but God has contemplated the beauty of God.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: An eye and a lamp are described as two individual lights that become indistinguishable
+    when they come together.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A moon appears in the sky at morning-tide, descends, and gazes on the speaker.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The moon is compared to a falcon that snatches a bird while hunting, and it
+    snatches the speaker up and courses over the sky.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The speaker looks at himself and sees himself no more.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The speaker's body becomes, by grace, even as soul within the moon.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: While travelling in soul, the speaker sees nothing except the moon until the
+    secret of the Eternal Theophany is revealed.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The nine spheres of heaven are all merged in the moon.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: The vessel of the speaker's being is completely hidden in the sea.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: The sea breaks into waves, Wisdom rises again, and a voice is cast abroad.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:11
+  text: At every foam-fleck of the sea, something takes figure and is bodied forth.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:12
+  text: Every bodily foam-fleck that receives a sign from the sea melts and turns
+    to spirit in the Ocean.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: God
+  description: The divine subject whose beauty is contemplated only by God.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Speaker
+  description: The first-person experiencer who is gazed upon, snatched up by the
+    moon, loses sight of himself, travels in soul, and has the vessel of his being
+    hidden in the sea.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Moon
+  description: A moon that appears, descends, gazes on the speaker, snatches him up,
+    and contains or absorbs the speaker's transformed body and the nine spheres of
+    heaven.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Sea / Ocean
+  description: The sea in which the vessel of the speaker's being is hidden; it breaks
+    into waves and foam, gives signs to bodily foam-flecks, and is also called the
+    Ocean where they turn to spirit.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: Wisdom
+  description: Wisdom rises when the sea breaks into waves and casts abroad a voice.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: self-contemplating divine
+  assigned_to:
+  - fig:1
+  basis: The passage states that only God has contemplated the beauty of God.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: mystical experiencer
+  assigned_to:
+  - fig:2
+  basis: The speaker undergoes ascent, self-loss, soul travel, and immersion or concealment
+    in the sea.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:3
+  label: descending and transporting celestial figure
+  assigned_to:
+  - fig:3
+  basis: The moon descends from the sky, gazes on the speaker, snatches him up, and
+    carries him over the sky.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: transformative cosmic medium
+  assigned_to:
+  - fig:4
+  basis: The speaker's being is hidden in the sea, and bodily foam-flecks receiving
+    a sign from the sea melt and turn to spirit in the Ocean.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:5
+  label: personified revealer or announcer
+  assigned_to:
+  - fig:5
+  basis: Wisdom rises from the sea's waves and casts abroad a voice.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: two lights
+  literal_form: eye and lamp as two lights
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: moon
+  literal_form: moon appearing, descending, transporting, and containing the heavens
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: falcon and bird simile
+  literal_form: falcon snatching a bird at hunting time
+  associated_figures:
+  - fig:3
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: nine spheres of heaven
+  literal_form: nine spheres of heaven merged in the moon
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: vessel of being
+  literal_form: vessel of the speaker's being hidden in the sea
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: sea / Ocean
+  literal_form: sea, waves, foam-flecks, Ocean
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:7
+  label: foam-flecks of body
+  literal_form: foam-flecks where something takes figure and bodied foam melts into
+    spirit
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: God only and indistinguishable lights
+  summary: The passage states that only God contemplates God's beauty and describes
+    an eye and a lamp becoming indistinguishable as two lights joined together.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Moon descends and snatches the speaker
+  summary: At morning-tide the moon appears, descends, gazes on the speaker, and snatches
+    the speaker up like a falcon taking a bird, carrying him over the sky.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Self-loss and theophanic revelation in the moon
+  summary: The speaker no longer sees himself; his body becomes as soul in the moon,
+    he travels in soul, sees only the moon, receives revelation of the Eternal Theophany,
+    and the nine spheres merge in the moon.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Being hidden in the sea and bodies changed to spirit
+  summary: The speaker's being is hidden in the sea; the sea breaks into waves, Wisdom
+    voices abroad, foam-flecks take form, and bodily foam-flecks that receive a sign
+    from the sea melt and become spirit in the Ocean.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: mystical self-loss and union
+  taxonomy_refs:
+  - annihilation_union
+  basis: The passage describes the speaker seeing himself no more, the body becoming
+    as soul within the moon, and the vessel of being hidden in the sea.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage uses poetic and mystical imagery; the exact doctrinal scope
+    of union is not explained within the supplied lines.
+- id: motif:2
+  label: ascent or celestial transport by a heavenly body
+  taxonomy_refs:
+  - ascent
+  basis: The moon descends, snatches the speaker up, and courses over the sky with
+    him.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage does not describe a complete itinerary beyond movement over
+    the sky and subsequent visionary transformation.
+- id: motif:3
+  label: divine beloved or theophanic focus
+  taxonomy_refs:
+  - divine_beloved
+  basis: The passage centers on God's beauty, the moon as the only thing seen during
+    soul travel, and the revelation of the Eternal Theophany.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: The supplied lines do not explicitly name the moon as the beloved; the
+    identification is based on its role as the sole visionary focus.
+- id: motif:4
+  label: spiritual transformation from body to spirit
+  taxonomy_refs:
+  - annihilation_union
+  basis: The body becomes as soul, and bodily foam-flecks receiving a sign from the
+    sea melt and turn to spirit in the Ocean.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The passage presents the transformation symbolically through moon, sea,
+    and foam imagery.
+- id: motif:5
+  label: mystical quest through vision and revelation
+  taxonomy_refs:
+  - mystical_quest
+  basis: The speaker undergoes a visionary journey involving celestial transport,
+    soul travel, and revelation of the secret of the Eternal Theophany.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage begins in medias res and does not describe an explicit quest
+    departure or prior search.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 1135-1139
+  quote_or_summary: '"None but God has contemplated the beauty of God"; the eye and
+    the lamp are two lights that become indistinguishable when joined.'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 1143-1147
+  quote_or_summary: At morning-tide a moon appears, descends from the sky, gazes on
+    the speaker, and, like a falcon snatching a bird, snatches the speaker up and
+    courses over the sky.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 1148-1152
+  quote_or_summary: The speaker sees himself no more; in the moon his body becomes
+    by grace as soul; travelling in soul, he sees only the moon until the secret of
+    the Eternal Theophany is revealed, and the nine spheres of heaven merge in the
+    moon.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 1153-1155
+  quote_or_summary: The vessel of the speaker's being is hidden in the sea; the sea
+    breaks into waves, Wisdom rises again, and casts abroad a voice.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 1156-1159
+  quote_or_summary: The sea foams; at every foam-fleck something takes figure and
+    is bodied forth, and each bodily foam-fleck that receives a sign from the sea
+    melts and turns to spirit in the Ocean.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is strong because the passage is self-contained and public-domain
+    text is supplied. Motif taxonomy assignment is interpretive, especially for divine_beloved
+    and mystical_quest. No external comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata; comparison_claims left empty because the passage does not itself make a cross-textual comparison.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-persian-mystics-rumi-davis-gutenberg__l1135-l1159
+  passage_sha256=39fc270ad46ff43426215a91b8c77d7814f96d64af188bb36164b8e61dc6f9ed

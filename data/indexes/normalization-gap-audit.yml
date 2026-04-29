@@ -8,13 +8,18 @@ method: 'Heuristic gap audit: motifs are considered mapped if they appear in the
   taxonomy, normalization aliases, hierarchy refs, canonical motif groups, group children/aliases,
   or raw motif group index. Review buckets are semantic triage only, not canonical
   assignments.'
-motif_count: 3462
+motif_count: 3919
 mapped_count: 300
-unmapped_count: 3162
+unmapped_count: 3619
 buckets:
 - id: death_descent_afterlife
   label: Death, Descent, Afterlife, And Ancestors
   motifs:
+  - motif_id: abstention_from_animal_slaughter_because_animals_may_contain_human_souls
+    label: Abstention from animal slaughter because animals may contain human souls
+    occurrences: 1
+    traditions:
+    - roman
   - motif_id: accidental_death_by_received_weapon
     label: accidental death by received weapon
     occurrences: 1
@@ -85,11 +90,41 @@ buckets:
     occurrences: 1
     traditions:
     - roman
+  - motif_id: bodily_return_to_earth
+    label: bodily return to earth
+    occurrences: 1
+    traditions:
+    - sufi
+  - motif_id: body_as_prison_of_the_soul
+    label: Body as prison of the soul
+    occurrences: 1
+    traditions:
+    - sufi
+  - motif_id: brothers_die_together_and_share_one_grave
+    label: Brothers die together and share one grave
+    occurrences: 1
+    traditions:
+    - celtic_irish
+  - motif_id: burial_creates_or_explains_a_place_name
+    label: burial creates or explains a place-name
+    occurrences: 1
+    traditions:
+    - roman
+  - motif_id: cancellation_of_a_soul_to_avert_accumulated_anguish
+    label: cancellation of a soul to avert accumulated anguish
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: captive_royal_woman_preserves_dignity_before_death
     label: Captive royal woman preserves dignity before death
     occurrences: 1
     traditions:
     - roman
+  - motif_id: carpe_diem_before_death
+    label: Carpe diem before death
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: catalogue_of_named_combat_deaths
     label: catalogue of named combat deaths
     occurrences: 1
@@ -150,6 +185,31 @@ buckets:
     occurrences: 1
     traditions:
     - roman
+  - motif_id: death_as_a_leveling_condition
+    label: death as a leveling condition
+    occurrences: 1
+    traditions:
+    - sufi
+  - motif_id: death_as_drinking_and_silent_rest
+    label: Death as drinking and silent rest
+    occurrences: 1
+    traditions:
+    - sufi
+  - motif_id: death_as_final_sleep_watched_by_nature
+    label: death as final sleep watched by nature
+    occurrences: 1
+    traditions:
+    - sufi
+  - motif_id: death_as_passing_into_the_hand_of_wind
+    label: Death as passing into the hand of Wind
+    occurrences: 1
+    traditions:
+    - sufi
+  - motif_id: death_as_predatory_bird_overtaking_the_powerful
+    label: death as predatory bird overtaking the powerful
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: death_by_one_s_own_hunting_dogs
     label: death by one's own hunting dogs
     occurrences: 1
@@ -160,21 +220,56 @@ buckets:
     occurrences: 1
     traditions:
     - roman
+  - motif_id: death_dealing_eye
+    label: death-dealing eye
+    occurrences: 1
+    traditions:
+    - celtic_irish
   - motif_id: death_figure_riding_through_plague_and_famine
     label: Death figure riding through plague and famine
     occurrences: 1
     traditions:
     - norse
+  - motif_id: death_figured_as_drinking_from_a_cup
+    label: death figured as drinking from a cup
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: death_god_as_wild_hunt_rider_or_leader
     label: death god as Wild Hunt rider or leader
     occurrences: 1
     traditions:
     - norse
+  - motif_id: death_memorial_covered_by_living_flowers
+    label: death memorial covered by living flowers
+    occurrences: 1
+    traditions:
+    - sufi
+  - motif_id: death_memorialized_by_place_name_and_burial_site
+    label: death memorialized by place-name and burial site
+    occurrences: 1
+    traditions:
+    - celtic_irish
+  - motif_id: death_messenger_with_life_tree_fruit
+    label: Death messenger with life-tree fruit
+    occurrences: 1
+    traditions:
+    - sufi
+  - motif_id: death_of_named_companions_or_heroes
+    label: death of named companions or heroes
+    occurrences: 1
+    traditions:
+    - celtic_irish
   - motif_id: death_of_the_father_at_the_journey_s_goal
     label: death of the father at the journey's goal
     occurrences: 1
     traditions:
     - roman
+  - motif_id: death_omen_recognized_through_harp_sound
+    label: Death omen recognized through harp sound
+    occurrences: 1
+    traditions:
+    - celtic_irish
   - motif_id: death_pollution_transmitted_through_spouse
     label: death pollution transmitted through spouse
     occurrences: 1
@@ -185,6 +280,16 @@ buckets:
     occurrences: 1
     traditions:
     - persian
+  - motif_id: death_silences_the_senses
+    label: Death silences the senses
+    occurrences: 1
+    traditions:
+    - sufi
+  - motif_id: deathbed_counsel_to_prevent_kin_strife
+    label: deathbed counsel to prevent kin-strife
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: defeated_enemy_requests_burial
     label: defeated enemy requests burial
     occurrences: 1
@@ -195,6 +300,11 @@ buckets:
     occurrences: 1
     traditions:
     - roman
+  - motif_id: departed_companions_precede_the_speaker_into_death
+    label: departed companions precede the speaker into death
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: destructive_passion_kindled_by_underworld_fire_and_serpents
     label: destructive passion kindled by underworld fire and serpents
     occurrences: 1
@@ -220,6 +330,11 @@ buckets:
     occurrences: 1
     traditions:
     - roman
+  - motif_id: divine_warning_signs_before_unavoidable_death
+    label: divine warning signs before unavoidable death
+    occurrences: 1
+    traditions:
+    - roman
   - motif_id: dream_apparition_announces_death
     label: dream apparition announces death
     occurrences: 1
@@ -230,6 +345,16 @@ buckets:
     occurrences: 1
     traditions:
     - roman
+  - motif_id: drink_offering_reaches_the_dead
+    label: Drink offering reaches the dead
+    occurrences: 1
+    traditions:
+    - sufi
+  - motif_id: drink_wine_in_response_to_mortality
+    label: drink wine in response to mortality
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: dying_curse_creates_hereditary_enmity
     label: dying curse creates hereditary enmity
     occurrences: 1
@@ -250,21 +375,41 @@ buckets:
     occurrences: 1
     traditions:
     - roman
+  - motif_id: dying_warrior_amid_lamentation
+    label: dying warrior amid lamentation
+    occurrences: 1
+    traditions:
+    - celtic_irish
   - motif_id: dying_warrior_s_last_command_to_a_trusted_companion
     label: dying warrior's last command to a trusted companion
     occurrences: 1
     traditions:
     - roman
+  - motif_id: elemental_composition_and_separation_at_death
+    label: Elemental composition and separation at death
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: empty_tomb_and_ritual_address_to_absent_dead
     label: empty tomb and ritual address to absent dead
     occurrences: 1
     traditions:
     - roman
+  - motif_id: endless_life_giving_water_from_an_undying_source
+    label: Endless life-giving water from an undying source
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: enduring_fame_after_heroic_death
     label: enduring fame after heroic death
     occurrences: 1
     traditions:
     - roman
+  - motif_id: enjoyment_before_death_and_burial
+    label: enjoyment before death and burial
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: fading_youth_and_rejected_return
     label: Fading youth and rejected return
     occurrences: 1
@@ -275,8 +420,18 @@ buckets:
     occurrences: 1
     traditions:
     - roman
+  - motif_id: false_death_report_causing_the_lover_s_death
+    label: false death report causing the lover’s death
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: false_death_report_leading_to_mistaken_mourning_rites
     label: false death report leading to mistaken mourning rites
+    occurrences: 1
+    traditions:
+    - roman
+  - motif_id: fatal_accusation_leading_to_death_by_frightened_horses
+    label: fatal accusation leading to death by frightened horses
     occurrences: 1
     traditions:
     - roman
@@ -291,8 +446,33 @@ buckets:
     occurrences: 1
     traditions:
     - norse
+  - motif_id: feasting_before_death
+    label: feasting before death
+    occurrences: 1
+    traditions:
+    - sufi
+  - motif_id: fellowship_of_souls_broken_by_death
+    label: fellowship of souls broken by death
+    occurrences: 1
+    traditions:
+    - sufi
+  - motif_id: final_departure_and_mortality
+    label: Final departure and mortality
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: first_love_before_a_deadly_trial
     label: first love before a deadly trial
+    occurrences: 1
+    traditions:
+    - roman
+  - motif_id: formed_thing_made_from_earth_and_returned_to_earth
+    label: formed thing made from earth and returned to earth
+    occurrences: 1
+    traditions:
+    - sufi
+  - motif_id: foundation_at_an_ancestral_or_sacred_burial_site
+    label: foundation at an ancestral or sacred burial site
     occurrences: 1
     traditions:
     - roman
@@ -356,16 +536,56 @@ buckets:
     occurrences: 1
     traditions:
     - roman
+  - motif_id: hidden_spirit_or_life_within_matter
+    label: hidden spirit or life within matter
+    occurrences: 1
+    traditions:
+    - sufi
+  - motif_id: holy_man_s_preparation_for_death_and_burial
+    label: holy man’s preparation for death and burial
+    occurrences: 1
+    traditions:
+    - sufi
+  - motif_id: honour_gift_reversed_into_death_sign
+    label: honour gift reversed into death sign
+    occurrences: 1
+    traditions:
+    - sufi
+  - motif_id: honourable_burial_decided_by_a_verse
+    label: honourable burial decided by a verse
+    occurrences: 1
+    traditions:
+    - sufi
+  - motif_id: hunter_caught_by_the_grave
+    label: Hunter caught by the grave
+    occurrences: 1
+    traditions:
+    - sufi
+  - motif_id: inevitable_descent_into_earth_and_dust
+    label: Inevitable descent into earth and dust
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: infallible_returning_weapon_with_fatal_consequences
     label: infallible returning weapon with fatal consequences
     occurrences: 1
     traditions:
     - roman
+  - motif_id: landscape_made_alive_by_ancestral_memory
+    label: landscape made alive by ancestral memory
+    occurrences: 1
+    traditions:
+    - celtic_irish
   - motif_id: life_of_spirit_bound_to_tree
     label: life of spirit bound to tree
     occurrences: 1
     traditions:
     - roman
+  - motif_id: life_s_transience_and_irreversible_death
+    label: life's transience and irreversible death
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: living_person_invisible_to_the_dead_but_visible_to_dogs
     label: Living person invisible to the dead but visible to dogs
     occurrences: 1
@@ -441,6 +661,31 @@ buckets:
     occurrences: 1
     traditions:
     - comparative
+  - motif_id: mortality_and_carpe_diem_before_death
+    label: mortality and carpe diem before death
+    occurrences: 1
+    traditions:
+    - sufi
+  - motif_id: mortality_figured_as_dust_wind_and_remade_vessels
+    label: Mortality figured as dust, wind, and remade vessels
+    occurrences: 1
+    traditions:
+    - sufi
+  - motif_id: mortality_in_clay_and_adamic_dust
+    label: Mortality in clay and Adamic dust
+    occurrences: 1
+    traditions:
+    - sufi
+  - motif_id: mortality_of_companions_and_remembrance_with_wine
+    label: Mortality of companions and remembrance with wine
+    occurrences: 1
+    traditions:
+    - sufi
+  - motif_id: mortality_under_the_wheel_of_heaven
+    label: mortality under the wheel of heaven
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: mourner_s_tears_released_by_contact_with_the_dead
     label: Mourner's tears released by contact with the dead
     occurrences: 1
@@ -491,6 +736,16 @@ buckets:
     occurrences: 1
     traditions:
     - greek
+  - motif_id: no_return_after_death
+    label: no return after death
+    occurrences: 1
+    traditions:
+    - sufi
+  - motif_id: no_return_after_departure
+    label: No return after departure
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: nocturnal_spirit_causing_dreams_and_apparitions
     label: nocturnal spirit causing dreams and apparitions
     occurrences: 1
@@ -561,6 +816,11 @@ buckets:
     occurrences: 1
     traditions:
     - greek_roman
+  - motif_id: pious_death_accompanied_by_sacred_recitation
+    label: pious death accompanied by sacred recitation
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: plant_juice_as_blood_and_soul_of_the_plant
     label: plant juice as blood and soul of the plant
     occurrences: 1
@@ -571,6 +831,11 @@ buckets:
     occurrences: 1
     traditions:
     - comparative
+  - motif_id: poems_as_pearls_gathered_after_death
+    label: poems as pearls gathered after death
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: poetic_immortality_of_heroic_pair
     label: poetic immortality of heroic pair
     occurrences: 1
@@ -581,6 +846,11 @@ buckets:
     occurrences: 1
     traditions:
     - roman
+  - motif_id: poetic_song_survives_death
+    label: Poetic song survives death
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: poison_originating_from_an_underworld_monster
     label: Poison originating from an underworld monster
     occurrences: 1
@@ -631,6 +901,11 @@ buckets:
     occurrences: 1
     traditions:
     - comparative
+  - motif_id: promised_afterlife_pleasures_contrasted_with_present_enjoyment
+    label: promised afterlife pleasures contrasted with present enjoyment
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: propitiation_of_the_underworld_dead
     label: Propitiation of the underworld dead
     occurrences: 1
@@ -641,6 +916,11 @@ buckets:
     occurrences: 1
     traditions:
     - greek_roman
+  - motif_id: proud_warrior_death_within_fellowship
+    label: proud warrior death within fellowship
+    occurrences: 1
+    traditions:
+    - celtic_irish
   - motif_id: quest_for_immortality_through_fame_and_offspring
     label: Quest for immortality through fame and offspring
     occurrences: 1
@@ -701,6 +981,11 @@ buckets:
     occurrences: 1
     traditions:
     - roman
+  - motif_id: return_to_non_existence
+    label: return to non-existence
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: riddle_observance_connected_with_dreams_divination_or_corpse_presence
     label: riddle observance connected with dreams, divination, or corpse presence
     occurrences: 1
@@ -783,6 +1068,11 @@ buckets:
     occurrences: 1
     traditions:
     - comparative
+  - motif_id: ritual_washing_of_the_dead_body
+    label: Ritual washing of the dead body
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: royal_and_priestly_taboos_around_the_soul
     label: royal and priestly taboos around the soul
     occurrences: 1
@@ -828,6 +1118,11 @@ buckets:
     occurrences: 1
     traditions:
     - norse
+  - motif_id: sealed_vessel_containing_spirits
+    label: sealed vessel containing spirits
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: securing_the_soul_of_the_crop
     label: securing the soul of the crop
     occurrences: 1
@@ -918,6 +1213,11 @@ buckets:
     occurrences: 1
     traditions:
     - comparative
+  - motif_id: soul_released_from_prison_like_enclosure
+    label: soul released from prison-like enclosure
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: soul_represented_by_butterfly
     label: soul represented by butterfly
     occurrences: 1
@@ -973,6 +1273,11 @@ buckets:
     occurrences: 1
     traditions:
     - comparative
+  - motif_id: supernatural_foreknowledge_of_battlefield_death
+    label: Supernatural foreknowledge of battlefield death
+    occurrences: 1
+    traditions:
+    - celtic_irish
   - motif_id: supplication_for_burial_of_the_war_dead
     label: Supplication for burial of the war dead
     occurrences: 1
@@ -1083,6 +1388,11 @@ buckets:
     occurrences: 1
     traditions:
     - greek
+  - motif_id: uncertainty_of_death_place_or_burial_place
+    label: Uncertainty of death-place or burial-place
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: underworld_army_joins_the_battle_of_the_living_gods
     label: underworld army joins the battle of the living gods
     occurrences: 1
@@ -1103,6 +1413,11 @@ buckets:
     occurrences: 1
     traditions:
     - norse
+  - motif_id: universal_cup_of_destiny_or_death
+    label: Universal cup of destiny or death
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: unresolved_heroic_quarrel_persists_after_death
     label: unresolved heroic quarrel persists after death
     occurrences: 1
@@ -1168,6 +1483,16 @@ buckets:
     occurrences: 1
     traditions:
     - norse
+  - motif_id: wine_as_answer_to_mortality_and_sorrow
+    label: wine as answer to mortality and sorrow
+    occurrences: 1
+    traditions:
+    - sufi
+  - motif_id: wine_as_present_tense_spiritual_or_poetic_focus
+    label: wine as present-tense spiritual or poetic focus
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: wish_for_death_reversed_by_fear_of_death
     label: wish for death reversed by fear of death
     occurrences: 1
@@ -1178,7 +1503,7 @@ buckets:
     occurrences: 1
     traditions:
     - japanese
-  count: 232
+  count: 297
 - id: journey_quest_homecoming
   label: Journey, Quest, Exile, And Homecoming
   motifs:
@@ -1262,6 +1587,11 @@ buckets:
     occurrences: 1
     traditions:
     - greek
+  - motif_id: challenge_contests_at_arrival_among_another_people
+    label: challenge contests at arrival among another people
+    occurrences: 1
+    traditions:
+    - celtic_irish
   - motif_id: clan_kinship_with_sacred_object
     label: clan kinship with sacred object
     occurrences: 1
@@ -1332,6 +1662,11 @@ buckets:
     occurrences: 1
     traditions:
     - greek_roman
+  - motif_id: cup_used_to_suppress_existential_questioning
+    label: Cup used to suppress existential questioning
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: cursed_exile_after_filial_or_household_offense
     label: cursed exile after filial or household offense
     occurrences: 1
@@ -1367,6 +1702,11 @@ buckets:
     occurrences: 1
     traditions:
     - buddhist
+  - motif_id: diabolic_request_for_snares_to_catch_humans
+    label: diabolic request for snares to catch humans
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: different_passage_of_time_in_an_otherworld
     label: different passage of time in an otherworld
     occurrences: 1
@@ -1427,6 +1767,11 @@ buckets:
     occurrences: 1
     traditions:
     - comparative
+  - motif_id: fatal_sea_crossing_before_settlement
+    label: fatal sea-crossing before settlement
+    occurrences: 1
+    traditions:
+    - celtic_irish
   - motif_id: fatal_sea_storm_and_shipwreck
     label: fatal sea-storm and shipwreck
     occurrences: 1
@@ -1497,6 +1842,16 @@ buckets:
     occurrences: 1
     traditions:
     - norse
+  - motif_id: heroic_conquest_of_inner_afflictions
+    label: heroic conquest of inner afflictions
+    occurrences: 1
+    traditions:
+    - sufi
+  - motif_id: heroic_fellowship_bound_by_joy_and_courtesy
+    label: heroic fellowship bound by joy and courtesy
+    occurrences: 1
+    traditions:
+    - celtic_irish
   - motif_id: hospitality_during_travel
     label: hospitality during travel
     occurrences: 1
@@ -1552,6 +1907,11 @@ buckets:
     occurrences: 1
     traditions:
     - buddhist
+  - motif_id: journey_episode_indicated_by_chapter_title
+    label: journey episode indicated by chapter title
+    occurrences: 1
+    traditions:
+    - celtic_irish
   - motif_id: kinship_replaces_estrangement_among_guardians
     label: Kinship replaces estrangement among guardians
     occurrences: 1
@@ -1572,6 +1932,11 @@ buckets:
     occurrences: 1
     traditions:
     - norse
+  - motif_id: lamenting_or_questioning_bird_at_an_abandoned_seat_of_power
+    label: lamenting or questioning bird at an abandoned seat of power
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: lasting_friendship_preferred_over_passionate_attachment
     label: lasting friendship preferred over passionate attachment
     occurrences: 1
@@ -1582,6 +1947,11 @@ buckets:
     occurrences: 1
     traditions:
     - roman
+  - motif_id: life_or_passage_figured_as_water_and_wind
+    label: life or passage figured as water and wind
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: long_road_justified_by_a_greater_end
     label: long road justified by a greater end
     occurrences: 1
@@ -1657,6 +2027,16 @@ buckets:
     occurrences: 1
     traditions:
     - roman
+  - motif_id: patronage_request_encoded_in_poetic_indirection
+    label: patronage request encoded in poetic indirection
+    occurrences: 1
+    traditions:
+    - sufi
+  - motif_id: penitential_purification_after_misdirected_worship
+    label: penitential purification after misdirected worship
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: persecuted_innocent_princess_exiled_by_stepmother
     label: persecuted innocent princess exiled by stepmother
     occurrences: 1
@@ -1687,6 +2067,11 @@ buckets:
     occurrences: 1
     traditions:
     - greek
+  - motif_id: propitiatory_royal_gift_exchange_before_conquest
+    label: Propitiatory royal gift exchange before conquest
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: protective_animal_friendship_network
     label: protective animal friendship network
     occurrences: 1
@@ -1747,6 +2132,11 @@ buckets:
     occurrences: 1
     traditions:
     - greek_roman
+  - motif_id: refusal_of_kingship_through_voluntary_exile
+    label: refusal of kingship through voluntary exile
+    occurrences: 1
+    traditions:
+    - roman
   - motif_id: restored_heroine_worshipped_as_foreign_goddess
     label: restored heroine worshipped as foreign goddess
     occurrences: 1
@@ -1757,6 +2147,11 @@ buckets:
     occurrences: 1
     traditions:
     - greek_roman
+  - motif_id: revenge_for_slain_kinsman_as_conquest_motive
+    label: Revenge for slain kinsman as conquest motive
+    occurrences: 1
+    traditions:
+    - celtic_irish
   - motif_id: reversed_beginning_and_backward_passage_through_flood
     label: Reversed beginning and backward passage through flood
     occurrences: 1
@@ -1782,6 +2177,16 @@ buckets:
     occurrences: 1
     traditions:
     - japanese
+  - motif_id: ruined_splendor_questioning_vanished_power
+    label: Ruined splendor questioning vanished power
+    occurrences: 1
+    traditions:
+    - sufi
+  - motif_id: sacred_arrival_by_sea_and_river
+    label: sacred arrival by sea and river
+    occurrences: 1
+    traditions:
+    - roman
   - motif_id: sacred_city_protecting_image_required_for_conquest
     label: sacred city-protecting image required for conquest
     occurrences: 1
@@ -1872,6 +2277,16 @@ buckets:
     occurrences: 1
     traditions:
     - greek
+  - motif_id: speaking_vessel_questions_maker_and_owner
+    label: speaking vessel questions maker and owner
+    occurrences: 1
+    traditions:
+    - sufi
+  - motif_id: speaking_vessel_questions_maker_s_responsibility
+    label: speaking vessel questions maker's responsibility
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: submerged_ship_revealed_by_exact_ritual_action
     label: Submerged ship revealed by exact ritual action
     occurrences: 1
@@ -1882,11 +2297,26 @@ buckets:
     occurrences: 1
     traditions:
     - greek
+  - motif_id: supernatural_road_making_animals_from_the_sea
+    label: Supernatural road-making animals from the sea
+    occurrences: 1
+    traditions:
+    - celtic_irish
+  - motif_id: supernatural_vehicle_crossing_sea_and_land
+    label: Supernatural vehicle crossing sea and land
+    occurrences: 1
+    traditions:
+    - celtic_irish
   - motif_id: survival_after_shipwreck_by_clinging_to_wreckage
     label: survival after shipwreck by clinging to wreckage
     occurrences: 1
     traditions:
     - greek
+  - motif_id: testing_a_companion_through_reversal_of_the_requested_fate
+    label: Testing a companion through reversal of the requested fate
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: totemic_animal_worship_unrelated_to_agriculture
     label: totemic animal worship unrelated to agriculture
     occurrences: 1
@@ -1922,6 +2352,11 @@ buckets:
     occurrences: 1
     traditions:
     - greek
+  - motif_id: unknowing_entry_and_departure_from_existence
+    label: Unknowing entry and departure from existence
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: vengeance_for_a_slain_father_before_the_main_quest
     label: Vengeance for a slain father before the main quest
     occurrences: 1
@@ -1952,6 +2387,11 @@ buckets:
     occurrences: 1
     traditions:
     - greek
+  - motif_id: withheld_honor_after_service_causes_departure
+    label: Withheld honor after service causes departure
+    occurrences: 1
+    traditions:
+    - celtic_irish
   - motif_id: women_kill_husbands_and_marry_arriving_travelers
     label: Women kill husbands and marry arriving travelers
     occurrences: 1
@@ -1962,7 +2402,7 @@ buckets:
     occurrences: 1
     traditions:
     - greek_roman
-  count: 156
+  count: 179
 - id: divine_ritual_sacrifice
   label: Divine Presence, Ritual, Sacrifice, And Purity
   motifs:
@@ -1986,6 +2426,11 @@ buckets:
     occurrences: 1
     traditions:
     - greek_roman
+  - motif_id: all_things_contained_in_divine_unity
+    label: All things contained in divine unity
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: ambivalent_sacred_animal_becoming_demonized
     label: Ambivalent sacred animal becoming demonized
     occurrences: 1
@@ -2207,6 +2652,16 @@ buckets:
     occurrences: 1
     traditions:
     - comparative
+  - motif_id: contested_sacred_wine_imagery
+    label: contested sacred wine imagery
+    occurrences: 1
+    traditions:
+    - sufi
+  - motif_id: continual_divine_annihilation_and_recreation
+    label: continual divine annihilation and recreation
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: continuity_of_sacred_landscape_after_cultic_disappearance
     label: continuity of sacred landscape after cultic disappearance
     occurrences: 1
@@ -2222,6 +2677,21 @@ buckets:
     occurrences: 1
     traditions:
     - roman
+  - motif_id: cosmos_as_divine_or_master_held_apparatus
+    label: Cosmos as divine or master-held apparatus
+    occurrences: 1
+    traditions:
+    - sufi
+  - motif_id: cosmos_as_divine_organism
+    label: cosmos as divine organism
+    occurrences: 1
+    traditions:
+    - sufi
+  - motif_id: creation_as_divine_self_reflection_or_manifestation
+    label: Creation as divine self-reflection or manifestation
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: cult_honor_for_divine_intervention_in_battle_at_sea
     label: cult honor for divine intervention in battle at sea
     occurrences: 1
@@ -2232,6 +2702,11 @@ buckets:
     occurrences: 1
     traditions:
     - greek_roman
+  - motif_id: cursed_poetic_work_causing_madness_in_readers
+    label: cursed poetic work causing madness in readers
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: cursed_treasure_or_ring_brings_bloodshed
     label: Cursed treasure or ring brings bloodshed
     occurrences: 1
@@ -2252,6 +2727,11 @@ buckets:
     occurrences: 1
     traditions:
     - comparative
+  - motif_id: dangerous_sacred_stone_causing_madness
+    label: dangerous sacred stone causing madness
+    occurrences: 1
+    traditions:
+    - celtic_irish
   - motif_id: dangerous_sea_creature_cursed_through_embedded_weapon_materials
     label: Dangerous sea creature cursed through embedded weapon materials
     occurrences: 1
@@ -2342,6 +2822,16 @@ buckets:
     occurrences: 1
     traditions:
     - greek
+  - motif_id: divine_agency_and_human_culpability_in_tension
+    label: divine agency and human culpability in tension
+    occurrences: 1
+    traditions:
+    - sufi
+  - motif_id: divine_agency_behind_love_among_perishing_beings
+    label: divine agency behind love among perishing beings
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: divine_aid_concealed_in_household_action
     label: divine aid concealed in household action
     occurrences: 1
@@ -2477,6 +2967,11 @@ buckets:
     occurrences: 1
     traditions:
     - roman
+  - motif_id: divine_concealment_of_a_threatened_hero_in_a_cloud
+    label: divine concealment of a threatened hero in a cloud
+    occurrences: 1
+    traditions:
+    - roman
   - motif_id: divine_concealment_of_recognition
     label: divine concealment of recognition
     occurrences: 1
@@ -2522,6 +3017,11 @@ buckets:
     occurrences: 1
     traditions:
     - greek_roman
+  - motif_id: divine_foreknowledge_used_to_defend_forbidden_or_disputed_drinking
+    label: divine foreknowledge used to defend forbidden or disputed drinking
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: divine_foundation_of_a_sacrificial_center
     label: divine foundation of a sacrificial center
     occurrences: 1
@@ -2567,6 +3067,11 @@ buckets:
     occurrences: 1
     traditions:
     - greek
+  - motif_id: divine_illumination_as_dawn
+    label: Divine illumination as dawn
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: divine_incarnation_punishing_the_eater_from_within_the_body
     label: divine incarnation punishing the eater from within the body
     occurrences: 1
@@ -2582,6 +3087,11 @@ buckets:
     occurrences: 1
     traditions:
     - roman
+  - motif_id: divine_independence_from_the_world
+    label: Divine independence from the world
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: divine_influence_over_human_displacement_and_rescue
     label: Divine influence over human displacement and rescue
     occurrences: 1
@@ -2637,16 +3147,31 @@ buckets:
     occurrences: 1
     traditions:
     - greek
+  - motif_id: divine_love_animating_nature_and_sacred_mountain
+    label: divine love animating nature and sacred mountain
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: divine_madness_inciting_social_disorder
     label: divine madness inciting social disorder
     occurrences: 1
     traditions:
     - roman
+  - motif_id: divine_making_determines_human_nature
+    label: Divine making determines human nature
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: divine_manufacture_of_human_social_types_with_a_moral_ingredient
     label: divine manufacture of human social types with a moral ingredient
     occurrences: 1
     traditions:
     - greek
+  - motif_id: divine_mercy_through_repentance
+    label: divine mercy through repentance
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: divine_messenger_announces_command
     label: divine messenger announces command
     occurrences: 1
@@ -2817,6 +3342,11 @@ buckets:
     occurrences: 1
     traditions:
     - roman
+  - motif_id: divine_radiance_mediated_by_concealment
+    label: divine radiance mediated by concealment
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: divine_rejuvenation_or_enhancement_of_an_elder
     label: Divine rejuvenation or enhancement of an elder
     occurrences: 1
@@ -2877,6 +3407,11 @@ buckets:
     occurrences: 1
     traditions:
     - roman
+  - motif_id: divine_speech_through_a_tree_or_burning_bush
+    label: divine speech through a tree or burning bush
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: divine_storm_apparatus_accompanying_epiphany
     label: divine storm apparatus accompanying epiphany
     occurrences: 1
@@ -3047,6 +3582,11 @@ buckets:
     occurrences: 1
     traditions:
     - roman
+  - motif_id: enemy_war_leader_vows_to_take_the_hero_s_head
+    label: enemy war leader vows to take the hero's head
+    occurrences: 1
+    traditions:
+    - celtic_irish
   - motif_id: enthroned_goddess_with_emblematic_objects_and_sacred_animals
     label: Enthroned goddess with emblematic objects and sacred animals
     occurrences: 1
@@ -3257,6 +3797,11 @@ buckets:
     occurrences: 1
     traditions:
     - comparative
+  - motif_id: great_battle_between_divine_or_supernatural_hosts
+    label: Great battle between divine or supernatural hosts
+    occurrences: 1
+    traditions:
+    - celtic_irish
   - motif_id: group_taboo_protecting_life_linked_animal_species
     label: group taboo protecting life-linked animal species
     occurrences: 1
@@ -3282,6 +3827,16 @@ buckets:
     occurrences: 1
     traditions:
     - comparative
+  - motif_id: half_divine_heroic_kings_placed_into_human_history
+    label: half-divine heroic kings placed into human history
+    occurrences: 1
+    traditions:
+    - celtic_irish
+  - motif_id: hero_as_equal_and_guest_of_the_gods
+    label: Hero as equal and guest of the gods
+    occurrences: 1
+    traditions:
+    - celtic_irish
   - motif_id: hero_killed_by_divinely_directed_hidden_arrow
     label: Hero killed by divinely directed hidden arrow
     occurrences: 1
@@ -3292,11 +3847,26 @@ buckets:
     occurrences: 1
     traditions:
     - japanese
+  - motif_id: heroic_band_intermarried_or_bonded_with_divine_people
+    label: Heroic band intermarried or bonded with divine people
+    occurrences: 1
+    traditions:
+    - celtic_irish
+  - motif_id: heroic_bearer_of_household_gods_into_a_new_land
+    label: heroic bearer of household gods into a new land
+    occurrences: 1
+    traditions:
+    - roman
   - motif_id: heroic_merit_versus_inherited_lineage
     label: heroic merit versus inherited lineage
     occurrences: 1
     traditions:
     - roman
+  - motif_id: hidden_divine_source_manifested_through_visible_effects
+    label: hidden divine source manifested through visible effects
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: hierarchy_of_divine_crafted_and_imitative_making
     label: Hierarchy of divine, crafted, and imitative making
     occurrences: 1
@@ -3317,6 +3887,16 @@ buckets:
     occurrences: 1
     traditions:
     - greek
+  - motif_id: human_agency_versus_divine_omnipotence
+    label: human agency versus divine omnipotence
+    occurrences: 1
+    traditions:
+    - sufi
+  - motif_id: human_being_as_earthen_vessel_made_by_a_divine_potter
+    label: human being as earthen vessel made by a divine potter
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: human_being_endowed_with_divine_or_supernatural_power
     label: Human being endowed with divine or supernatural power
     occurrences: 1
@@ -3563,6 +4143,11 @@ buckets:
     occurrences: 1
     traditions:
     - greek
+  - motif_id: miraculous_abundance_proves_divine_aid
+    label: Miraculous abundance proves divine aid
+    occurrences: 1
+    traditions:
+    - roman
   - motif_id: mixed_parentage_marked_by_inherited_trait
     label: mixed parentage marked by inherited trait
     occurrences: 1
@@ -3633,6 +4218,11 @@ buckets:
     occurrences: 1
     traditions:
     - roman
+  - motif_id: oracle_directed_embassy_for_divine_aid
+    label: oracle-directed embassy for divine aid
+    occurrences: 1
+    traditions:
+    - roman
   - motif_id: oral_tradition_magnifying_heroic_or_divine_deeds
     label: oral tradition magnifying heroic or divine deeds
     occurrences: 1
@@ -3668,6 +4258,11 @@ buckets:
     occurrences: 1
     traditions:
     - greek_roman
+  - motif_id: petition_for_divine_remaking_of_world_and_life
+    label: petition for divine remaking of world and life
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: poetic_inspiration_mediated_by_divine_beings_and_sacred_water
     label: Poetic inspiration mediated by divine beings and sacred water
     occurrences: 1
@@ -3698,6 +4293,11 @@ buckets:
     occurrences: 1
     traditions:
     - norse
+  - motif_id: predestination_as_hidden_divine_mystery
+    label: predestination as hidden divine mystery
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: preserved_hair_followed_by_ritual_cutting_at_altars
     label: Preserved hair followed by ritual cutting at altars
     occurrences: 1
@@ -3898,6 +4498,11 @@ buckets:
     occurrences: 1
     traditions:
     - buddhist
+  - motif_id: renamed_concealed_immortal_under_divine_protection
+    label: renamed concealed immortal under divine protection
+    occurrences: 1
+    traditions:
+    - roman
   - motif_id: resistance_to_a_god_s_rites
     label: resistance to a god’s rites
     occurrences: 1
@@ -3968,6 +4573,11 @@ buckets:
     occurrences: 1
     traditions:
     - comparative
+  - motif_id: ritual_direction_and_purification_before_prayer
+    label: ritual direction and purification before prayer
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: ritual_election_or_designation_of_a_seasonal_king_by_race
     label: Ritual election or designation of a seasonal king by race
     occurrences: 1
@@ -4193,11 +4803,21 @@ buckets:
     occurrences: 1
     traditions:
     - greek
+  - motif_id: ritualized_plunder_or_mock_combat_for_food
+    label: ritualized plunder or mock combat for food
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: ritualized_public_declaration_of_war_by_spear_casting
     label: Ritualized public declaration of war by spear-casting
     occurrences: 1
     traditions:
     - greek_roman
+  - motif_id: ritualized_remembrance_through_an_empty_cup
+    label: ritualized remembrance through an empty cup
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: ritualized_reward_for_valor
     label: Ritualized reward for valor
     occurrences: 1
@@ -4258,6 +4878,11 @@ buckets:
     occurrences: 1
     traditions:
     - greek
+  - motif_id: sacred_city_characterized_by_gardens_water_mosques_and_communal_piety
+    label: sacred city characterized by gardens, water, mosques, and communal piety
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: sacred_contagion_as_dangerous_force
     label: sacred contagion as dangerous force
     occurrences: 1
@@ -4703,6 +5328,11 @@ buckets:
     occurrences: 1
     traditions:
     - greek
+  - motif_id: transfer_of_cult_through_divine_consent
+    label: transfer of cult through divine consent
+    occurrences: 1
+    traditions:
+    - roman
   - motif_id: transfer_of_curse_sin_evil_omen_or_disease_to_a_substitute
     label: transfer of curse, sin, evil, omen, or disease to a substitute
     occurrences: 1
@@ -4803,6 +5433,11 @@ buckets:
     occurrences: 1
     traditions:
     - greek_roman
+  - motif_id: war_goddess_or_battle_figure_at_water_announcing_bloodshed
+    label: war goddess or battle figure at water announcing bloodshed
+    occurrences: 1
+    traditions:
+    - celtic_irish
   - motif_id: warning_against_a_deceptive_sacred_object_ignored_after_ominous_sign
     label: Warning against a deceptive sacred object ignored after ominous sign
     occurrences: 1
@@ -4833,6 +5468,11 @@ buckets:
     occurrences: 1
     traditions:
     - norse
+  - motif_id: well_known_tale_retold_by_many_writers
+    label: well-known tale retold by many writers
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: wild_revelry_in_a_god_s_retinue
     label: wild revelry in a god's retinue
     occurrences: 1
@@ -4843,6 +5483,11 @@ buckets:
     occurrences: 1
     traditions:
     - comparative
+  - motif_id: wine_as_consolation_and_contested_sacred_pleasure
+    label: wine as consolation and contested sacred pleasure
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: women_only_sacred_festival
     label: women-only sacred festival
     occurrences: 1
@@ -4883,7 +5528,7 @@ buckets:
     occurrences: 1
     traditions:
     - greek
-  count: 583
+  count: 624
 - id: wisdom_speech_dream_revelation
   label: Wisdom, Speech, Dream, Vision, And Revelation
   motifs:
@@ -4932,6 +5577,16 @@ buckets:
     occurrences: 1
     traditions:
     - roman
+  - motif_id: birth_of_named_hero
+    label: birth of named hero
+    occurrences: 1
+    traditions:
+    - celtic_irish
+  - motif_id: book_of_fate_with_inscribed_or_obliterated_names
+    label: Book of Fate with inscribed or obliterated names
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: capture_of_a_named_human_figure
     label: Capture of a named human figure
     occurrences: 1
@@ -4952,6 +5607,11 @@ buckets:
     occurrences: 1
     traditions:
     - japanese
+  - motif_id: cherished_and_ornamented_child
+    label: cherished and ornamented child
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: child_exposed_because_of_a_threatening_prophecy
     label: child exposed because of a threatening prophecy
     occurrences: 1
@@ -4972,6 +5632,11 @@ buckets:
     occurrences: 1
     traditions:
     - japanese
+  - motif_id: dangerous_speech_displaced_to_another_speaker
+    label: Dangerous speech displaced to another speaker
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: deceptive_legal_speech_exploiting_probability
     label: deceptive legal speech exploiting probability
     occurrences: 1
@@ -4987,6 +5652,11 @@ buckets:
     occurrences: 1
     traditions:
     - greek
+  - motif_id: devotional_hearts_as_ornaments_of_the_beloved
+    label: devotional hearts as ornaments of the beloved
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: displaced_allegiance_after_revelation_of_false_parentage
     label: Displaced allegiance after revelation of false parentage
     occurrences: 1
@@ -5022,6 +5692,11 @@ buckets:
     occurrences: 1
     traditions:
     - ainu
+  - motif_id: efficacious_poetic_speech_alters_royal_action
+    label: Efficacious poetic speech alters royal action
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: egypt_as_a_source_of_potent_herbs_and_medical_knowledge
     label: Egypt as a source of potent herbs and medical knowledge
     occurrences: 1
@@ -5152,11 +5827,21 @@ buckets:
     occurrences: 1
     traditions:
     - greek
+  - motif_id: loss_of_song_and_vitality_when_love_withdraws
+    label: loss of song and vitality when love withdraws
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: lover_s_foreknowledge_and_frenzied_reaction_to_abandonment
     label: Lover’s foreknowledge and frenzied reaction to abandonment
     occurrences: 1
     traditions:
     - roman
+  - motif_id: magical_mirror_used_for_distant_vision
+    label: Magical mirror used for distant vision
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: maternal_self_punishment_by_sword
     label: maternal self-punishment by sword
     occurrences: 1
@@ -5167,6 +5852,11 @@ buckets:
     occurrences: 1
     traditions:
     - greek
+  - motif_id: messenger_wind_bird_and_song_carrying_tidings_from_the_beloved
+    label: Messenger wind, bird, and song carrying tidings from the beloved
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: moral_reform_through_corrective_instruction
     label: moral reform through corrective instruction
     occurrences: 1
@@ -5182,6 +5872,11 @@ buckets:
     occurrences: 1
     traditions:
     - greek
+  - motif_id: mythic_geography_through_named_places
+    label: mythic geography through named places
+    occurrences: 1
+    traditions:
+    - roman
   - motif_id: name_based_comparison_of_metalworking_figures
     label: name-based comparison of metalworking figures
     occurrences: 1
@@ -5202,11 +5897,21 @@ buckets:
     occurrences: 1
     traditions:
     - roman
+  - motif_id: nearly_extinguished_speech_revived_into_living_word
+    label: nearly extinguished speech revived into living word
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: new_people_named_from_transformed_origin
     label: New people named from transformed origin
     occurrences: 1
     traditions:
     - roman
+  - motif_id: nightingale_rose_and_wine_song
+    label: nightingale, rose, and wine song
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: ominous_dream_with_internal_interpretation
     label: ominous dream with internal interpretation
     occurrences: 1
@@ -5217,6 +5922,11 @@ buckets:
     occurrences: 1
     traditions:
     - greek_roman
+  - motif_id: oracle_guided_city_foundation_by_ambiguous_sign
+    label: oracle-guided city foundation by ambiguous sign
+    occurrences: 1
+    traditions:
+    - roman
   - motif_id: oracle_sanctioned_marriage_exception
     label: Oracle-sanctioned marriage exception
     occurrences: 1
@@ -5247,6 +5957,11 @@ buckets:
     occurrences: 1
     traditions:
     - greek
+  - motif_id: pre_existence_before_names
+    label: pre-existence before names
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: predator_and_songbird_encounter
     label: predator and songbird encounter
     occurrences: 1
@@ -5282,6 +5997,11 @@ buckets:
     occurrences: 1
     traditions:
     - norse
+  - motif_id: prophecy_of_a_future_city
+    label: prophecy of a future city
+    occurrences: 1
+    traditions:
+    - roman
   - motif_id: prophecy_of_future_buddhahood_after_a_meritorious_encounter
     label: Prophecy of future Buddhahood after a meritorious encounter
     occurrences: 1
@@ -5337,6 +6057,11 @@ buckets:
     occurrences: 1
     traditions:
     - norse
+  - motif_id: separated_lovers_and_eponymous_place_name
+    label: separated lovers and eponymous place-name
+    occurrences: 1
+    traditions:
+    - celtic_irish
   - motif_id: shared_ancestry_explaining_language_affinity
     label: shared ancestry explaining language affinity
     occurrences: 1
@@ -5377,6 +6102,11 @@ buckets:
     occurrences: 1
     traditions:
     - roman
+  - motif_id: tavern_preferred_over_formal_religious_instruction
+    label: tavern preferred over formal religious instruction
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: tears_transformed_into_named_river
     label: Tears transformed into named river
     occurrences: 1
@@ -5457,7 +6187,22 @@ buckets:
     occurrences: 1
     traditions:
     - roman
-  count: 114
+  - motif_id: wine_as_relief_from_existential_misery_or_memory
+    label: Wine as relief from existential misery or memory
+    occurrences: 1
+    traditions:
+    - sufi
+  - motif_id: wine_counsel_in_a_transient_world
+    label: wine counsel in a transient world
+    occurrences: 1
+    traditions:
+    - sufi
+  - motif_id: worldly_transience_as_dream_or_shadow
+    label: worldly transience as dream or shadow
+    occurrences: 1
+    traditions:
+    - sufi
+  count: 134
 - id: power_kingship_law_order
   label: Power, Kingship, Law, Judgment, And Social Order
   motifs:
@@ -5486,6 +6231,11 @@ buckets:
     occurrences: 1
     traditions:
     - roman
+  - motif_id: animated_or_speaking_weapons_and_instruments
+    label: Animated or speaking weapons and instruments
+    occurrences: 1
+    traditions:
+    - celtic_irish
   - motif_id: annual_festival_honoring_a_victory_deity
     label: annual festival honoring a victory deity
     occurrences: 1
@@ -5501,6 +6251,11 @@ buckets:
     occurrences: 1
     traditions:
     - buddhist
+  - motif_id: appeal_to_a_powerful_otherworld_or_enemy_ruler_for_aid
+    label: appeal to a powerful otherworld or enemy ruler for aid
+    occurrences: 1
+    traditions:
+    - celtic_irish
   - motif_id: authority_halts_excessive_combat_to_spare_the_defeated
     label: authority halts excessive combat to spare the defeated
     occurrences: 1
@@ -5551,6 +6306,11 @@ buckets:
     occurrences: 1
     traditions:
     - japanese
+  - motif_id: celestial_ruler_and_zodiacal_order
+    label: Celestial ruler and zodiacal order
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: champion_chase_and_single_combat_at_city_gate
     label: Champion chase and single combat at city gate
     occurrences: 1
@@ -5561,6 +6321,11 @@ buckets:
     occurrences: 1
     traditions:
     - greek_roman
+  - motif_id: city_taken_or_lost_through_stratagem_and_gate_surrender
+    label: city taken or lost through stratagem and gate surrender
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: city_under_destructive_fire
     label: city under destructive fire
     occurrences: 1
@@ -5606,6 +6371,11 @@ buckets:
     occurrences: 1
     traditions:
     - roman
+  - motif_id: complaint_against_unjust_cosmic_order
+    label: Complaint against unjust cosmic order
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: concealment_fails_before_a_more_observant_authority
     label: Concealment fails before a more observant authority
     occurrences: 1
@@ -5646,6 +6416,11 @@ buckets:
     occurrences: 1
     traditions:
     - greek
+  - motif_id: cosmic_ordering_of_fate
+    label: cosmic ordering of fate
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: creation_order_altered_by_mistaken_messenger
     label: Creation order altered by mistaken messenger
     occurrences: 1
@@ -5691,6 +6466,11 @@ buckets:
     occurrences: 1
     traditions:
     - greek
+  - motif_id: disordered_document_ruins_official_presentation
+    label: Disordered document ruins official presentation
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: disordered_household_under_exploitative_guests
     label: disordered household under exploitative guests
     occurrences: 1
@@ -5721,6 +6501,11 @@ buckets:
     occurrences: 1
     traditions:
     - roman
+  - motif_id: empty_cup_marking_absence_or_remembrance
+    label: empty cup marking absence or remembrance
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: enthroned_sky_sovereign_with_thunderbolt_and_eagle
     label: enthroned sky sovereign with thunderbolt and eagle
     occurrences: 1
@@ -5781,6 +6566,11 @@ buckets:
     occurrences: 1
     traditions:
     - roman
+  - motif_id: flower_on_barren_hillside_as_striking_image
+    label: flower on barren hillside as striking image
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: fruit_leads_ruler_to_hidden_tree_and_animal_encounter
     label: fruit leads ruler to hidden tree and animal encounter
     occurrences: 1
@@ -5881,6 +6671,11 @@ buckets:
     occurrences: 1
     traditions:
     - greek
+  - motif_id: humble_claimant_interrupts_learned_authority
+    label: humble claimant interrupts learned authority
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: ideal_city_in_the_clouds
     label: Ideal city in the clouds
     occurrences: 1
@@ -5991,6 +6786,16 @@ buckets:
     occurrences: 1
     traditions:
     - greek
+  - motif_id: loss_of_honor_through_beloved_intoxicants_or_idols
+    label: loss of honor through beloved intoxicants or idols
+    occurrences: 1
+    traditions:
+    - sufi
+  - motif_id: lost_or_sunken_marvelous_city
+    label: lost or sunken marvelous city
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: love_as_source_of_heroic_courage_and_honor
     label: Love as source of heroic courage and honor
     occurrences: 1
@@ -6011,6 +6816,11 @@ buckets:
     occurrences: 1
     traditions:
     - greek
+  - motif_id: miracle_working_mystic_and_signs_of_power
+    label: miracle-working mystic and signs of power
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: mistaking_a_marker_of_solar_progress_for_a_means_of_arresting_the_sun
     label: Mistaking a marker of solar progress for a means of arresting the sun
     occurrences: 1
@@ -6041,6 +6851,11 @@ buckets:
     occurrences: 1
     traditions:
     - greek
+  - motif_id: moral_reciprocity_of_good_and_ill
+    label: moral reciprocity of good and ill
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: music_as_foundation_of_law_and_order
     label: music as foundation of law and order
     occurrences: 1
@@ -6151,6 +6966,11 @@ buckets:
     occurrences: 1
     traditions:
     - greek
+  - motif_id: personified_vessels_speaking_among_themselves
+    label: Personified vessels speaking among themselves
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: petition_for_status_marking_attribute_contested_by_others
     label: petition for status-marking attribute contested by others
     occurrences: 1
@@ -6161,6 +6981,11 @@ buckets:
     occurrences: 1
     traditions:
     - roman
+  - motif_id: poet_challenges_ruler_through_witty_reply
+    label: poet challenges ruler through witty reply
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: posthumous_haunting_and_vengeance_oath
     label: posthumous haunting and vengeance oath
     occurrences: 1
@@ -6211,6 +7036,11 @@ buckets:
     occurrences: 1
     traditions:
     - greek
+  - motif_id: punishment_assigned_by_drawn_notes
+    label: punishment assigned by drawn notes
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: punishment_for_aiding_an_enemy_side
     label: punishment for aiding an enemy side
     occurrences: 1
@@ -6251,6 +7081,11 @@ buckets:
     occurrences: 1
     traditions:
     - greek
+  - motif_id: renunciation_of_idolatry_through_breaking_an_image
+    label: renunciation of idolatry through breaking an image
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: repelling_unwanted_company_through_debt_obligations
     label: Repelling unwanted company through debt obligations
     occurrences: 1
@@ -6301,6 +7136,11 @@ buckets:
     occurrences: 1
     traditions:
     - roman
+  - motif_id: ruler_healed_by_faithful_attendants_and_honors_them_through_poetic_commemoration
+    label: Ruler healed by faithful attendants and honors them through poetic commemoration
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: ruler_protected_from_foreign_magical_danger_or_contamination
     label: Ruler protected from foreign magical danger or contamination
     occurrences: 1
@@ -6311,6 +7151,11 @@ buckets:
     occurrences: 1
     traditions:
     - japanese
+  - motif_id: ruler_supported_by_ornate_collective_labor
+    label: Ruler supported by ornate collective labor
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: ruler_sustains_power_through_manufactured_war
     label: ruler sustains power through manufactured war
     occurrences: 1
@@ -6416,6 +7261,16 @@ buckets:
     occurrences: 1
     traditions:
     - greek
+  - motif_id: speaking_vessels_in_a_potter_s_workshop
+    label: speaking vessels in a potter's workshop
+    occurrences: 1
+    traditions:
+    - sufi
+  - motif_id: submerged_city_visible_beneath_waves
+    label: Submerged city visible beneath waves
+    occurrences: 1
+    traditions:
+    - roman
   - motif_id: supernatural_helper_summoned_by_a_ruler
     label: Supernatural helper summoned by a ruler
     occurrences: 1
@@ -6456,6 +7311,11 @@ buckets:
     occurrences: 1
     traditions:
     - roman
+  - motif_id: threefold_taking_of_family_members
+    label: threefold taking of family members
+    occurrences: 1
+    traditions:
+    - celtic_irish
   - motif_id: toleration_bounded_by_civic_order
     label: toleration bounded by civic order
     occurrences: 1
@@ -6516,6 +7376,11 @@ buckets:
     occurrences: 1
     traditions:
     - greek
+  - motif_id: vanished_kings_and_the_ruin_of_worldly_power
+    label: vanished kings and the ruin of worldly power
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: vengeance_debt_for_a_slain_child
     label: Vengeance debt for a slain child
     occurrences: 1
@@ -6531,6 +7396,11 @@ buckets:
     occurrences: 1
     traditions:
     - greek
+  - motif_id: wonder_working_hero_makes_a_vessel_from_a_small_fragment
+    label: wonder-working hero makes a vessel from a small fragment
+    occurrences: 1
+    traditions:
+    - celtic_irish
   - motif_id: woodland_king_marked_by_tree_materials
     label: woodland king marked by tree materials
     occurrences: 1
@@ -6541,7 +7411,7 @@ buckets:
     occurrences: 1
     traditions:
     - greek_roman
-  count: 216
+  count: 241
 - id: love_family_gender_body
   label: Love, Family, Gender, Birth, And The Body
   motifs:
@@ -6635,6 +7505,11 @@ buckets:
     occurrences: 1
     traditions:
     - roman
+  - motif_id: beauty_as_a_decisive_temptation
+    label: beauty as a decisive temptation
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: beloved_addressed_by_disguised_lover
     label: Beloved addressed by disguised lover
     occurrences: 1
@@ -6645,11 +7520,21 @@ buckets:
     occurrences: 1
     traditions:
     - persian
+  - motif_id: beloved_as_wounder_and_healer
+    label: Beloved as wounder and healer
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: beloved_centered_conversation_around_the_lover
     label: beloved-centered conversation around the lover
     occurrences: 1
     traditions:
     - persian
+  - motif_id: beloved_encoded_in_nature_imagery
+    label: beloved encoded in nature imagery
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: beloved_recognizes_hidden_hero
     label: Beloved recognizes hidden hero
     occurrences: 1
@@ -6665,6 +7550,11 @@ buckets:
     occurrences: 1
     traditions:
     - persian
+  - motif_id: beloved_s_hair_as_entangling_snare
+    label: beloved's hair as entangling snare
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: bereaved_child_discovers_slain_parent
     label: bereaved child discovers slain parent
     occurrences: 1
@@ -6685,6 +7575,11 @@ buckets:
     occurrences: 1
     traditions:
     - roman
+  - motif_id: birth_episode_indicated_by_chapter_title
+    label: birth episode indicated by chapter title
+    occurrences: 1
+    traditions:
+    - celtic_irish
   - motif_id: birth_substance_transferred_to_life_plant
     label: birth substance transferred to life-plant
     occurrences: 1
@@ -6760,6 +7655,11 @@ buckets:
     occurrences: 1
     traditions:
     - roman
+  - motif_id: celestial_body_responding_to_human_beauty
+    label: celestial body responding to human beauty
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: child_avenges_murdered_parent
     label: Child avenges murdered parent
     occurrences: 1
@@ -6825,6 +7725,11 @@ buckets:
     occurrences: 1
     traditions:
     - greek
+  - motif_id: combat_with_guardian_and_guardian_s_sons
+    label: Combat with guardian and guardian's sons
+    occurrences: 1
+    traditions:
+    - celtic_irish
   - motif_id: communal_family_like_polity_preventing_internal_strife
     label: communal family-like polity preventing internal strife
     occurrences: 1
@@ -6915,6 +7820,11 @@ buckets:
     occurrences: 1
     traditions:
     - buddhist
+  - motif_id: denial_of_personal_guilt_through_fate
+    label: denial of personal guilt through fate
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: desire_as_fire_quenched_by_restraint
     label: Desire as fire quenched by restraint
     occurrences: 1
@@ -6945,11 +7855,21 @@ buckets:
     occurrences: 1
     traditions:
     - greek
+  - motif_id: desire_to_remake_the_world
+    label: desire to remake the world
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: destructive_desire_figured_as_fire
     label: destructive desire figured as fire
     occurrences: 1
     traditions:
     - roman
+  - motif_id: devotional_abasement_before_the_beloved_s_passing
+    label: Devotional abasement before the beloved's passing
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: directional_winds_as_personified_regional_powers
     label: Directional winds as personified regional powers
     occurrences: 1
@@ -6995,6 +7915,16 @@ buckets:
     occurrences: 1
     traditions:
     - roman
+  - motif_id: failed_repentance_before_seasonal_pleasure
+    label: failed repentance before seasonal pleasure
+    occurrences: 1
+    traditions:
+    - sufi
+  - motif_id: fair_weather_love_abandoned_when_beauty_fades
+    label: fair-weather love abandoned when beauty fades
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: faithful_wife_attends_fallen_or_punished_husband
     label: faithful wife attends fallen or punished husband
     occurrences: 1
@@ -7030,6 +7960,11 @@ buckets:
     occurrences: 1
     traditions:
     - norse
+  - motif_id: false_love_of_one_s_own_devotional_display
+    label: false love of one's own devotional display
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: family_annihilation_by_supernatural_arrows
     label: family annihilation by supernatural arrows
     occurrences: 1
@@ -7085,6 +8020,11 @@ buckets:
     occurrences: 1
     traditions:
     - roman
+  - motif_id: filial_obligation_as_reason_for_spared_life
+    label: filial obligation as reason for spared life
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: filial_revenge_performed_by_unusually_young_sons
     label: filial revenge performed by unusually young sons
     occurrences: 1
@@ -7095,6 +8035,11 @@ buckets:
     occurrences: 1
     traditions:
     - roman
+  - motif_id: fire_ordeal_separating_the_lovers
+    label: Fire ordeal separating the lovers
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: first_appearance_of_horses_through_exposed_impersonator
     label: first appearance of horses through exposed impersonator
     occurrences: 1
@@ -7180,6 +8125,11 @@ buckets:
     occurrences: 1
     traditions:
     - roman
+  - motif_id: heart_bound_or_snared_by_beauty
+    label: heart bound or snared by beauty
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: hero_rescues_bound_maiden_from_monster
     label: hero rescues bound maiden from monster
     occurrences: 1
@@ -7215,6 +8165,11 @@ buckets:
     occurrences: 1
     traditions:
     - japanese
+  - motif_id: human_grief_mirrored_by_protective_animal_parent
+    label: human grief mirrored by protective animal parent
+    occurrences: 1
+    traditions:
+    - celtic_irish
   - motif_id: human_mistaken_for_giant_child_s_plaything
     label: Human mistaken for giant child's plaything
     occurrences: 1
@@ -7240,6 +8195,16 @@ buckets:
     occurrences: 1
     traditions:
     - persian
+  - motif_id: impossible_task_to_win_the_beloved
+    label: impossible task to win the beloved
+    occurrences: 1
+    traditions:
+    - sufi
+  - motif_id: imprisoned_winds_reshape_the_earth
+    label: imprisoned winds reshape the earth
+    occurrences: 1
+    traditions:
+    - roman
   - motif_id: inappropriate_animal_suitor_rejected_by_higher_status_bride
     label: inappropriate animal suitor rejected by higher-status bride
     occurrences: 1
@@ -7320,11 +8285,21 @@ buckets:
     occurrences: 1
     traditions:
     - comparative
+  - motif_id: love_as_bodily_waning_and_musical_brokenness
+    label: Love as bodily waning and musical brokenness
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: love_as_consuming_fire_and_hidden_wound
     label: love as consuming fire and hidden wound
     occurrences: 1
     traditions:
     - roman
+  - motif_id: love_as_fire_and_longing_as_thirst_for_wine
+    label: Love as fire and longing as thirst for wine
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: love_as_healer_and_reconciler
     label: Love as healer and reconciler
     occurrences: 1
@@ -7340,6 +8315,11 @@ buckets:
     occurrences: 1
     traditions:
     - greek
+  - motif_id: love_as_revivifying_water
+    label: love as revivifying water
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: love_divination_through_garlands_and_fire
     label: love-divination through garlands and fire
     occurrences: 1
@@ -7355,11 +8335,21 @@ buckets:
     occurrences: 1
     traditions:
     - greek
+  - motif_id: love_sickness_as_wasting_illness
+    label: Love-sickness as wasting illness
+    occurrences: 1
+    traditions:
+    - celtic_irish
   - motif_id: love_sickness_healed_by_the_beloved
     label: Love-sickness healed by the beloved
     occurrences: 1
     traditions:
     - greek
+  - motif_id: lover_as_prey_of_the_beloved_hunter
+    label: lover as prey of the beloved-hunter
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: mad_parent_kills_child
     label: mad parent kills child
     occurrences: 1
@@ -7390,6 +8380,11 @@ buckets:
     occurrences: 1
     traditions:
     - greek_roman
+  - motif_id: marked_or_love_attracting_body_feature
+    label: marked or love-attracting body feature
+    occurrences: 1
+    traditions:
+    - celtic_irish
   - motif_id: marriage_alliance_offered_to_a_stranger
     label: marriage alliance offered to a stranger
     occurrences: 1
@@ -7405,6 +8400,11 @@ buckets:
     occurrences: 1
     traditions:
     - greek
+  - motif_id: messenger_bird_or_wind_to_the_distant_beloved
+    label: Messenger bird or wind to the distant beloved
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: miraculous_healing_object_at_birth
     label: Miraculous healing object at birth
     occurrences: 1
@@ -7455,16 +8455,36 @@ buckets:
     occurrences: 1
     traditions:
     - roman
+  - motif_id: music_mediating_hidden_sorrow_and_desire
+    label: music mediating hidden sorrow and desire
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: mutual_benefit_love
     label: mutual-benefit love
     occurrences: 1
     traditions:
     - greek
+  - motif_id: mutual_lovers_union_imagined_as_inexhaustible_sweetness
+    label: mutual lovers’ union imagined as inexhaustible sweetness
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: mythic_person_remembered_through_a_tree
     label: mythic person remembered through a tree
     occurrences: 1
     traditions:
     - roman
+  - motif_id: nurse_s_exclusive_attachment_to_royal_child
+    label: Nurse’s exclusive attachment to royal child
+    occurrences: 1
+    traditions:
+    - sufi
+  - motif_id: oppressive_tribute_of_food_milk_and_children
+    label: oppressive tribute of food, milk, and children
+    occurrences: 1
+    traditions:
+    - celtic_irish
   - motif_id: origin_explanation_for_animal_breeding_season
     label: origin explanation for animal breeding season
     occurrences: 1
@@ -7515,6 +8535,16 @@ buckets:
     occurrences: 1
     traditions:
     - greek
+  - motif_id: personified_cosmic_wheel_as_hostile_fate
+    label: Personified cosmic wheel as hostile fate
+    occurrences: 1
+    traditions:
+    - sufi
+  - motif_id: personified_cosmic_wheel_as_oppressor
+    label: personified cosmic wheel as oppressor
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: personified_envy_infects_a_human_heart
     label: personified envy infects a human heart
     occurrences: 1
@@ -7590,6 +8620,16 @@ buckets:
     occurrences: 1
     traditions:
     - greek_roman
+  - motif_id: personified_vessel_or_clay_as_former_living_being
+    label: personified vessel or clay as former living being
+    occurrences: 1
+    traditions:
+    - sufi
+  - motif_id: personified_vessels_in_dialogue
+    label: Personified vessels in dialogue
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: personified_wind_as_demon_or_foe
     label: Personified wind as demon or foe
     occurrences: 1
@@ -7695,6 +8735,16 @@ buckets:
     occurrences: 1
     traditions:
     - japanese
+  - motif_id: restoration_of_youth_and_beauty_before_union
+    label: Restoration of youth and beauty before union
+    occurrences: 1
+    traditions:
+    - sufi
+  - motif_id: revelatory_sign_from_the_beloved
+    label: revelatory sign from the Beloved
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: revenge_killing_of_children
     label: revenge killing of children
     occurrences: 1
@@ -7730,6 +8780,11 @@ buckets:
     occurrences: 1
     traditions:
     - buddhist
+  - motif_id: secret_entrance_to_the_beloved_s_chamber
+    label: secret entrance to the beloved’s chamber
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: secret_message_as_vehicle_of_transgressive_desire
     label: secret message as vehicle of transgressive desire
     occurrences: 1
@@ -7740,6 +8795,11 @@ buckets:
     occurrences: 1
     traditions:
     - greek
+  - motif_id: self_abasing_devotion_at_the_beloved_s_feet
+    label: self-abasing devotion at the beloved's feet
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: self_killing_with_the_beloved_s_weapon
     label: self-killing with the beloved's weapon
     occurrences: 1
@@ -7780,6 +8840,11 @@ buckets:
     occurrences: 1
     traditions:
     - roman
+  - motif_id: son_as_continuation_and_support
+    label: Son as continuation and support
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: sons_avenge_slain_fathers
     label: sons avenge slain fathers
     occurrences: 1
@@ -7790,6 +8855,11 @@ buckets:
     occurrences: 1
     traditions:
     - roman
+  - motif_id: steadfast_love_despite_hostility
+    label: steadfast love despite hostility
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: stepmother_s_own_child_intensifies_threat_to_stepchild
     label: Stepmother’s own child intensifies threat to stepchild
     occurrences: 1
@@ -7861,6 +8931,11 @@ buckets:
     occurrences: 1
     traditions:
     - greek
+  - motif_id: vessel_imagined_as_a_former_living_lover
+    label: vessel imagined as a former living lover
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: violation_of_parents_as_sign_of_tyranny
     label: violation of parents as sign of tyranny
     occurrences: 1
@@ -7926,22 +9001,37 @@ buckets:
     occurrences: 1
     traditions:
     - greek_roman
+  - motif_id: withered_rose_as_image_of_lost_beauty
+    label: withered rose as image of lost beauty
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: women_only_land_with_seasonal_husbands
     label: Women-only land with seasonal husbands
     occurrences: 1
     traditions:
     - ainu
+  - motif_id: worldly_reputation_lost_through_beloved_idols_and_drink_imagery
+    label: worldly reputation lost through beloved idols and drink imagery
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: worldly_wealth_lost_to_water_contrasted_with_religious_generosity
     label: worldly wealth lost to water contrasted with religious generosity
     occurrences: 1
     traditions:
     - buddhist
+  - motif_id: wounded_heart_of_the_lover
+    label: wounded heart of the lover
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: wronged_husband_traps_adulterous_lovers_in_an_invisible_net
     label: wronged husband traps adulterous lovers in an invisible net
     occurrences: 1
     traditions:
     - roman
-  count: 279
+  count: 323
 - id: animals_trickster_transformation
   label: Animals, Trickster, Disguise, And Transformation
   motifs:
@@ -7960,6 +9050,11 @@ buckets:
     occurrences: 1
     traditions:
     - greek
+  - motif_id: alchemical_transformation_through_the_grape
+    label: alchemical transformation through the grape
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: animal_analogy_for_civic_function
     label: animal analogy for civic function
     occurrences: 1
@@ -7970,6 +9065,11 @@ buckets:
     occurrences: 1
     traditions:
     - greek
+  - motif_id: animal_as_moral_emblem
+    label: Animal as moral emblem
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: animal_behavior_explained_by_an_origin_story
     label: animal behavior explained by an origin story
     occurrences: 1
@@ -8190,6 +9290,11 @@ buckets:
     occurrences: 1
     traditions:
     - roman
+  - motif_id: ascetic_as_serpent
+    label: ascetic as serpent
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: augural_bird_sign_prompting_battle
     label: augural bird-sign prompting battle
     occurrences: 1
@@ -8205,6 +9310,11 @@ buckets:
     occurrences: 1
     traditions:
     - roman
+  - motif_id: bird_messenger_bearing_royal_summons
+    label: bird messenger bearing royal summons
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: bird_omen_confirms_companions_safety
     label: bird omen confirms companions' safety
     occurrences: 1
@@ -8281,6 +9391,11 @@ buckets:
     occurrences: 1
     traditions:
     - greek
+  - motif_id: conflict_with_misshapen_or_animal_headed_opponents
+    label: Conflict with misshapen or animal-headed opponents
+    occurrences: 1
+    traditions:
+    - celtic_irish
   - motif_id: conflicting_attempts_at_transformation
     label: conflicting attempts at transformation
     occurrences: 1
@@ -8426,6 +9541,11 @@ buckets:
     occurrences: 1
     traditions:
     - comparative
+  - motif_id: fallen_royal_glory_and_animal_occupied_ruins
+    label: Fallen royal glory and animal-occupied ruins
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: false_accusation_followed_by_attempted_exposure_to_beasts
     label: false accusation followed by attempted exposure to beasts
     occurrences: 1
@@ -8506,6 +9626,11 @@ buckets:
     occurrences: 1
     traditions:
     - greek
+  - motif_id: healing_skin_of_a_wondrous_animal
+    label: healing skin of a wondrous animal
+    occurrences: 1
+    traditions:
+    - celtic_irish
   - motif_id: helpless_young_animal_saved_without_physical_escape
     label: Helpless young animal saved without physical escape
     occurrences: 1
@@ -8591,6 +9716,11 @@ buckets:
     occurrences: 1
     traditions:
     - greek
+  - motif_id: humble_speaker_magnifies_powerful_patron_through_animal_imagery
+    label: humble speaker magnifies powerful patron through animal imagery
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: hunger_leads_animal_into_self_defeating_trap
     label: Hunger leads animal into self-defeating trap
     occurrences: 1
@@ -8656,6 +9786,11 @@ buckets:
     occurrences: 1
     traditions:
     - comparative
+  - motif_id: locks_compared_to_dangerous_serpents
+    label: locks compared to dangerous serpents
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: loyal_animal_completes_a_dangerous_task_despite_mortal_injury
     label: loyal animal completes a dangerous task despite mortal injury
     occurrences: 1
@@ -8721,6 +9856,11 @@ buckets:
     occurrences: 1
     traditions:
     - roman
+  - motif_id: musical_compulsion_of_animal_and_fatal_chase
+    label: Musical compulsion of animal and fatal chase
+    occurrences: 1
+    traditions:
+    - celtic_irish
   - motif_id: mythic_bird_building_a_nest_from_exotic_aromatics
     label: mythic bird building a nest from exotic aromatics
     occurrences: 1
@@ -8746,6 +9886,11 @@ buckets:
     occurrences: 1
     traditions:
     - greek
+  - motif_id: ominous_animal_and_bloodshed_at_a_feast
+    label: ominous animal and bloodshed at a feast
+    occurrences: 1
+    traditions:
+    - celtic_irish
   - motif_id: origin_of_enduring_animal_feud
     label: Origin of enduring animal feud
     occurrences: 1
@@ -8841,6 +9986,11 @@ buckets:
     occurrences: 1
     traditions:
     - buddhist
+  - motif_id: recovery_of_seized_tribute_cattle_by_animal_call
+    label: recovery of seized tribute cattle by animal call
+    occurrences: 1
+    traditions:
+    - celtic_irish
   - motif_id: regime_transformation_through_civil_conflict
     label: regime transformation through civil conflict
     occurrences: 1
@@ -8891,6 +10041,11 @@ buckets:
     occurrences: 1
     traditions:
     - buddhist
+  - motif_id: serpent_like_critic_of_dogmatism
+    label: serpent-like critic of dogmatism
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: serpent_like_destroyer_at_the_threshold
     label: Serpent-like destroyer at the threshold
     occurrences: 1
@@ -9051,6 +10206,21 @@ buckets:
     occurrences: 1
     traditions:
     - greek
+  - motif_id: wondrous_hound_that_subdues_wild_beasts
+    label: wondrous hound that subdues wild beasts
+    occurrences: 1
+    traditions:
+    - celtic_irish
+  - motif_id: woodland_hunter_hero_with_animal_attentiveness
+    label: woodland hunter hero with animal attentiveness
+    occurrences: 1
+    traditions:
+    - celtic_irish
+  - motif_id: world_supported_or_framed_by_cosmic_bulls
+    label: world supported or framed by cosmic bulls
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: wounded_animal_healed_by_humans_repays_aid
     label: wounded animal healed by humans repays aid
     occurrences: 1
@@ -9061,10 +10231,25 @@ buckets:
     occurrences: 1
     traditions:
     - roman
-  count: 223
+  - motif_id: youth_as_a_vanished_bird
+    label: youth as a vanished bird
+    occurrences: 1
+    traditions:
+    - sufi
+  count: 240
 - id: nature_elements_cosmos
   label: Nature, Elements, Celestial Order, And Cosmos
   motifs:
+  - motif_id: transformative_waters
+    label: transformative waters
+    occurrences: 2
+    traditions:
+    - roman
+  - motif_id: world_as_temporary_lodging
+    label: world as temporary lodging
+    occurrences: 2
+    traditions:
+    - sufi
   - motif_id: ablution_with_old_garments_carried_away_by_water
     label: ablution with old garments carried away by water
     occurrences: 1
@@ -9085,6 +10270,11 @@ buckets:
     occurrences: 1
     traditions:
     - buddhist
+  - motif_id: attachment_to_homeland_over_otherworldly_reward
+    label: attachment to homeland over otherworldly reward
+    occurrences: 1
+    traditions:
+    - celtic_irish
   - motif_id: attempted_restraint_increases_destructive_anger
     label: attempted restraint increases destructive anger
     occurrences: 1
@@ -9140,6 +10330,11 @@ buckets:
     occurrences: 1
     traditions:
     - greek
+  - motif_id: cave_emergence_of_an_otherworld_woman
+    label: Cave emergence of an otherworld woman
+    occurrences: 1
+    traditions:
+    - celtic_irish
   - motif_id: civic_evil_as_uncontrolled_fire
     label: Civic evil as uncontrolled fire
     occurrences: 1
@@ -9160,6 +10355,11 @@ buckets:
     occurrences: 1
     traditions:
     - roman
+  - motif_id: comic_misunderstanding_of_learned_performance
+    label: comic misunderstanding of learned performance
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: concealed_bodily_mark_revealed_by_nature
     label: concealed bodily mark revealed by nature
     occurrences: 1
@@ -9190,6 +10390,11 @@ buckets:
     occurrences: 1
     traditions:
     - japanese
+  - motif_id: control_of_waters_by_object_boundary
+    label: Control of waters by object boundary
+    occurrences: 1
+    traditions:
+    - celtic_irish
   - motif_id: corruption_of_gifted_nature_through_bad_education
     label: Corruption of gifted nature through bad education
     occurrences: 1
@@ -9205,6 +10410,36 @@ buckets:
     occurrences: 1
     traditions:
     - norse
+  - motif_id: cosmos_as_cup_with_human_bubbles
+    label: cosmos as cup with human bubbles
+    occurrences: 1
+    traditions:
+    - sufi
+  - motif_id: cosmos_as_game_board_or_field
+    label: Cosmos as game board or field
+    occurrences: 1
+    traditions:
+    - sufi
+  - motif_id: cosmos_as_illuminated_image_container
+    label: cosmos as illuminated image-container
+    occurrences: 1
+    traditions:
+    - sufi
+  - motif_id: cosmos_as_inverted_vessel
+    label: Cosmos as inverted vessel
+    occurrences: 1
+    traditions:
+    - sufi
+  - motif_id: cosmos_as_vessel
+    label: cosmos as vessel
+    occurrences: 1
+    traditions:
+    - sufi
+  - motif_id: creation_as_clay_mould_and_crucible_formation
+    label: Creation as clay, mould, and crucible formation
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: creation_of_humans_from_earth_and_water
     label: creation of humans from earth and water
     occurrences: 1
@@ -9220,6 +10455,11 @@ buckets:
     occurrences: 1
     traditions:
     - greek
+  - motif_id: dangerous_fiery_weapon_restrained_by_water
+    label: dangerous fiery weapon restrained by water
+    occurrences: 1
+    traditions:
+    - celtic_irish
   - motif_id: dangerous_river_ordeal_followed_by_vulnerability
     label: dangerous river ordeal followed by vulnerability
     occurrences: 1
@@ -9286,6 +10526,16 @@ buckets:
     occurrences: 1
     traditions:
     - ainu
+  - motif_id: drink_poured_to_earth_relieves_hidden_suffering_below
+    label: Drink poured to earth relieves hidden suffering below
+    occurrences: 1
+    traditions:
+    - sufi
+  - motif_id: drowning_in_tears_and_dangerous_waters
+    label: Drowning in tears and dangerous waters
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: dwarf_petrified_by_daylight
     label: Dwarf petrified by daylight
     occurrences: 1
@@ -9296,6 +10546,11 @@ buckets:
     occurrences: 1
     traditions:
     - roman
+  - motif_id: earth_or_dust_as_final_enclosure_of_the_body
+    label: earth or dust as final enclosure of the body
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: earth_strength_giant_defeated_by_being_lifted_from_the_ground
     label: Earth-strength giant defeated by being lifted from the ground
     occurrences: 1
@@ -9311,6 +10566,16 @@ buckets:
     occurrences: 1
     traditions:
     - comparative
+  - motif_id: elemental_magical_warfare
+    label: elemental magical warfare
+    occurrences: 1
+    traditions:
+    - celtic_irish
+  - motif_id: enchanted_tree_with_hidden_musician
+    label: enchanted tree with hidden musician
+    occurrences: 1
+    traditions:
+    - celtic_irish
   - motif_id: enemy_force_as_flood
     label: Enemy force as flood
     occurrences: 1
@@ -9376,6 +10641,11 @@ buckets:
     occurrences: 1
     traditions:
     - comparative
+  - motif_id: fire_of_the_mountain_that_can_cease
+    label: fire of the mountain that can cease
+    occurrences: 1
+    traditions:
+    - roman
   - motif_id: fire_ordeal_survived_by_resourceful_hero
     label: fire ordeal survived by resourceful hero
     occurrences: 1
@@ -9396,6 +10666,11 @@ buckets:
     occurrences: 1
     traditions:
     - comparative
+  - motif_id: first_human_formed_from_earth_and_water
+    label: first human formed from earth and water
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: flight_from_irresistible_voice
     label: flight from irresistible voice
     occurrences: 1
@@ -9446,6 +10721,11 @@ buckets:
     occurrences: 1
     traditions:
     - roman
+  - motif_id: grief_overflowing_as_blood_and_water
+    label: grief overflowing as blood and water
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: grief_transformed_into_water
     label: grief transformed into water
     occurrences: 1
@@ -9531,6 +10811,11 @@ buckets:
     occurrences: 1
     traditions:
     - greek
+  - motif_id: hidden_otherworld_dwellings_after_defeat
+    label: hidden otherworld dwellings after defeat
+    occurrences: 1
+    traditions:
+    - celtic_irish
   - motif_id: hidden_treasure_search_with_unexpected_reward
     label: hidden treasure search with unexpected reward
     occurrences: 1
@@ -9541,6 +10826,11 @@ buckets:
     occurrences: 1
     traditions:
     - buddhist
+  - motif_id: home_poverty_preferred_to_risky_courtly_abundance
+    label: home poverty preferred to risky courtly abundance
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: human_couple_transformed_into_trees
     label: Human couple transformed into trees
     occurrences: 1
@@ -9586,6 +10876,16 @@ buckets:
     occurrences: 1
     traditions:
     - buddhist
+  - motif_id: impermanence_of_worldly_power
+    label: impermanence of worldly power
+    occurrences: 1
+    traditions:
+    - sufi
+  - motif_id: impossible_or_repetitive_otherworld_tasks
+    label: impossible or repetitive otherworld tasks
+    occurrences: 1
+    traditions:
+    - celtic_irish
   - motif_id: innate_nature_revealed_despite_upbringing
     label: Innate nature revealed despite upbringing
     occurrences: 1
@@ -9616,6 +10916,11 @@ buckets:
     occurrences: 1
     traditions:
     - norse
+  - motif_id: life_as_flow_of_water_and_wind
+    label: Life as flow of water and wind
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: life_bound_to_a_tree_or_plant
     label: life bound to a tree or plant
     occurrences: 1
@@ -9626,6 +10931,16 @@ buckets:
     occurrences: 1
     traditions:
     - roman
+  - motif_id: life_giving_water
+    label: Life-giving water
+    occurrences: 1
+    traditions:
+    - sufi
+  - motif_id: life_giving_water_as_perilous_attraction
+    label: life-giving water as perilous attraction
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: life_preserving_water_threatened_by_deception
     label: life-preserving water threatened by deception
     occurrences: 1
@@ -9661,11 +10976,21 @@ buckets:
     occurrences: 1
     traditions:
     - buddhist
+  - motif_id: magical_transport_over_sea_as_over_land
+    label: magical transport over sea as over land
+    occurrences: 1
+    traditions:
+    - celtic_irish
   - motif_id: maimed_wings_and_restored_flight
     label: maimed wings and restored flight
     occurrences: 1
     traditions:
     - greek
+  - motif_id: mediating_envoy_between_cultural_worlds
+    label: Mediating envoy between cultural worlds
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: messenger_as_boundary_crosser_between_worlds
     label: Messenger as boundary-crosser between worlds
     occurrences: 1
@@ -9711,6 +11036,16 @@ buckets:
     occurrences: 1
     traditions:
     - greek_roman
+  - motif_id: moon_as_witness_to_future_absence
+    label: Moon as witness to future absence
+    occurrences: 1
+    traditions:
+    - sufi
+  - motif_id: moral_causality_as_sowing_and_harvest
+    label: Moral causality as sowing and harvest
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: mortal_transformed_into_sea_divinity_after_entering_the_sea
     label: mortal transformed into sea-divinity after entering the sea
     occurrences: 1
@@ -9726,6 +11061,16 @@ buckets:
     occurrences: 1
     traditions:
     - roman
+  - motif_id: mountain_stronghold_as_seat_of_feared_power
+    label: Mountain stronghold as seat of feared power
+    occurrences: 1
+    traditions:
+    - sufi
+  - motif_id: mountain_stronghold_of_an_armed_sectarian_band
+    label: Mountain stronghold of an armed sectarian band
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: mountain_stronghold_overcome_by_concealed_night_ambush
     label: mountain stronghold overcome by concealed night ambush
     occurrences: 1
@@ -9891,6 +11236,11 @@ buckets:
     occurrences: 1
     traditions:
     - comparative
+  - motif_id: radiant_hero_mistaken_for_the_sun
+    label: Radiant hero mistaken for the sun
+    occurrences: 1
+    traditions:
+    - celtic_irish
   - motif_id: rain_stone_brought_into_civic_space_during_drought
     label: Rain-stone brought into civic space during drought
     occurrences: 1
@@ -9941,6 +11291,16 @@ buckets:
     occurrences: 1
     traditions:
     - roman
+  - motif_id: river_disappearance_and_re_emergence
+    label: river disappearance and re-emergence
+    occurrences: 1
+    traditions:
+    - roman
+  - motif_id: river_of_life_as_mystical_water_image
+    label: River of Life as mystical water image
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: safety_on_shore_versus_profit_at_sea
     label: Safety on shore versus profit at sea
     occurrences: 1
@@ -9956,6 +11316,11 @@ buckets:
     occurrences: 1
     traditions:
     - norse
+  - motif_id: sea_born_monster_causing_chariot_catastrophe
+    label: sea-born monster causing chariot catastrophe
+    occurrences: 1
+    traditions:
+    - roman
   - motif_id: sealing_the_household_before_combat
     label: sealing the household before combat
     occurrences: 1
@@ -9981,11 +11346,21 @@ buckets:
     occurrences: 1
     traditions:
     - roman
+  - motif_id: sky_as_powerless_enclosing_vessel
+    label: Sky as powerless enclosing vessel
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: sleeping_pilot_lost_at_sea
     label: Sleeping pilot lost at sea
     occurrences: 1
     traditions:
     - roman
+  - motif_id: solar_fire_of_disciplined_individual_art
+    label: Solar fire of disciplined individual art
+    occurrences: 1
+    traditions:
+    - celtic_irish
   - motif_id: spell_bound_captors_and_magical_waterborne_escape
     label: Spell-bound captors and magical waterborne escape
     occurrences: 1
@@ -10016,6 +11391,11 @@ buckets:
     occurrences: 1
     traditions:
     - comparative
+  - motif_id: sunken_cities_beneath_the_waves
+    label: sunken cities beneath the waves
+    occurrences: 1
+    traditions:
+    - roman
   - motif_id: sunless_cave_as_abode_of_sleep
     label: Sunless cave as abode of sleep
     occurrences: 1
@@ -10051,6 +11431,11 @@ buckets:
     occurrences: 1
     traditions:
     - comparative
+  - motif_id: tears_as_precious_or_inexhaustible_waters
+    label: tears as precious or inexhaustible waters
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: test_reveals_unchanged_nature
     label: test reveals unchanged nature
     occurrences: 1
@@ -10061,6 +11446,11 @@ buckets:
     occurrences: 1
     traditions:
     - japanese
+  - motif_id: transience_of_worldly_pleasure
+    label: Transience of worldly pleasure
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: trapped_warriors_rallied_between_enemy_and_sea
     label: trapped warriors rallied between enemy and sea
     occurrences: 1
@@ -10086,6 +11476,11 @@ buckets:
     occurrences: 1
     traditions:
     - roman
+  - motif_id: tree_obscured_by_its_offshoots
+    label: Tree obscured by its offshoots
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: tree_or_plant_receives_sickness
     label: tree or plant receives sickness
     occurrences: 1
@@ -10116,6 +11511,16 @@ buckets:
     occurrences: 1
     traditions:
     - greek
+  - motif_id: unfailing_otherworldly_food_and_drink
+    label: Unfailing otherworldly food and drink
+    occurrences: 1
+    traditions:
+    - celtic_irish
+  - motif_id: vanishing_or_enduring_tower_in_the_sea_resisted_by_magic
+    label: vanishing or enduring tower in the sea resisted by magic
+    occurrences: 1
+    traditions:
+    - celtic_irish
   - motif_id: variant_creation_genealogies
     label: variant creation genealogies
     occurrences: 1
@@ -10126,6 +11531,11 @@ buckets:
     occurrences: 1
     traditions:
     - buddhist
+  - motif_id: violation_of_otherworld_hill_followed_by_revenge_on_descendants
+    label: violation of otherworld hill followed by revenge on descendants
+    occurrences: 1
+    traditions:
+    - celtic_irish
   - motif_id: warrior_excess_restrained_before_dawn
     label: warrior excess restrained before dawn
     occurrences: 1
@@ -10136,6 +11546,11 @@ buckets:
     occurrences: 1
     traditions:
     - roman
+  - motif_id: water_arising_or_acting_as_agent_of_fate
+    label: Water arising or acting as agent of fate
+    occurrences: 1
+    traditions:
+    - celtic_irish
   - motif_id: water_as_boundary_against_hostile_beings
     label: water as boundary against hostile beings
     occurrences: 1
@@ -10151,6 +11566,16 @@ buckets:
     occurrences: 1
     traditions:
     - roman
+  - motif_id: water_creates_paradise_garden_from_desert
+    label: water creates paradise garden from desert
+    occurrences: 1
+    traditions:
+    - sufi
+  - motif_id: water_image_for_hidden_reality_and_manifest_forms
+    label: water image for hidden reality and manifest forms
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: water_woman_enticing_mortals_at_a_waterfall
     label: Water-woman enticing mortals at a waterfall
     occurrences: 1
@@ -10166,6 +11591,11 @@ buckets:
     occurrences: 1
     traditions:
     - roman
+  - motif_id: weapon_transformed_into_tree
+    label: weapon transformed into tree
+    occurrences: 1
+    traditions:
+    - roman
   - motif_id: wild_mountain_people_against_town_builders
     label: wild mountain people against town-builders
     occurrences: 1
@@ -10176,11 +11606,21 @@ buckets:
     occurrences: 1
     traditions:
     - comparative
+  - motif_id: wine_as_antidote_to_worldly_grief
+    label: Wine as antidote to worldly grief
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: withdrawal_into_water_in_grief
     label: withdrawal into water in grief
     occurrences: 1
     traditions:
     - roman
+  - motif_id: world_as_illusion_or_shadow_play
+    label: world as illusion or shadow-play
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: world_bearing_figure_strained_by_cosmic_disaster
     label: world-bearing figure strained by cosmic disaster
     occurrences: 1
@@ -10191,11 +11631,26 @@ buckets:
     occurrences: 1
     traditions:
     - greek_roman
+  - motif_id: world_re_created_to_alter_destiny
+    label: World re-created to alter destiny
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: world_remade_from_a_clean_surface
     label: world remade from a clean surface
     occurrences: 1
     traditions:
     - greek
+  - motif_id: world_revealing_magic_mirror
+    label: world-revealing magic mirror
+    occurrences: 1
+    traditions:
+    - sufi
+  - motif_id: worldly_goods_as_traps
+    label: worldly goods as traps
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: wounded_or_bleeding_tree
     label: Wounded or bleeding tree
     occurrences: 1
@@ -10211,7 +11666,7 @@ buckets:
     occurrences: 1
     traditions:
     - norse
-  count: 229
+  count: 285
 - id: conflict_violence_ordeal
   label: Conflict, Violence, Heroic Ordeal, And Victory
   motifs:
@@ -10255,6 +11710,11 @@ buckets:
     occurrences: 1
     traditions:
     - roman
+  - motif_id: attempt_to_evade_prophetic_disclosure_by_changing_the_murder_weapon
+    label: attempt to evade prophetic disclosure by changing the murder weapon
+    occurrences: 1
+    traditions:
+    - celtic_irish
   - motif_id: austere_heroic_warrior_regimen
     label: austere heroic-warrior regimen
     occurrences: 1
@@ -10275,6 +11735,11 @@ buckets:
     occurrences: 1
     traditions:
     - roman
+  - motif_id: battle_sequence_indicated_by_headings
+    label: battle sequence indicated by headings
+    occurrences: 1
+    traditions:
+    - celtic_irish
   - motif_id: battlefield_rescue_of_an_endangered_elder_or_ally
     label: battlefield rescue of an endangered elder or ally
     occurrences: 1
@@ -10315,6 +11780,11 @@ buckets:
     occurrences: 1
     traditions:
     - japanese
+  - motif_id: champion_envoys_before_battle
+    label: champion envoys before battle
+    occurrences: 1
+    traditions:
+    - celtic_irish
   - motif_id: civic_liberty_struggle
     label: civic liberty struggle
     occurrences: 1
@@ -10435,6 +11905,11 @@ buckets:
     occurrences: 1
     traditions:
     - roman
+  - motif_id: daily_miraculous_renewal_of_weapons_for_battle
+    label: daily miraculous renewal of weapons for battle
+    occurrences: 1
+    traditions:
+    - celtic_irish
   - motif_id: dangerous_hospitality_at_a_monster_s_dwelling
     label: dangerous hospitality at a monster's dwelling
     occurrences: 1
@@ -10465,6 +11940,11 @@ buckets:
     occurrences: 1
     traditions:
     - roman
+  - motif_id: decline_and_end_of_a_heroic_company
+    label: decline and end of a heroic company
+    occurrences: 1
+    traditions:
+    - celtic_irish
   - motif_id: defeated_enemy_s_supplication_before_the_victor
     label: defeated enemy's supplication before the victor
     occurrences: 1
@@ -10480,6 +11960,11 @@ buckets:
     occurrences: 1
     traditions:
     - persian
+  - motif_id: destructive_passion_as_downward_path
+    label: Destructive passion as downward path
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: discord_grows_when_met_with_violence
     label: discord grows when met with violence
     occurrences: 1
@@ -10490,6 +11975,11 @@ buckets:
     occurrences: 1
     traditions:
     - greek
+  - motif_id: disregarding_calls_of_heroes_or_hosts
+    label: Disregarding calls of heroes or hosts
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: disrupted_wedding_feast_turns_into_combat
     label: Disrupted wedding feast turns into combat
     occurrences: 1
@@ -10520,11 +12010,21 @@ buckets:
     occurrences: 1
     traditions:
     - roman
+  - motif_id: enchanted_burning_weapon
+    label: enchanted burning weapon
+    occurrences: 1
+    traditions:
+    - celtic_irish
   - motif_id: enemy_champion_trapped_inside_the_fortified_camp
     label: enemy champion trapped inside the fortified camp
     occurrences: 1
     traditions:
     - roman
+  - motif_id: enemy_feast_as_coercive_ordeal
+    label: enemy feast as coercive ordeal
+    occurrences: 1
+    traditions:
+    - celtic_irish
   - motif_id: enemy_heads_displayed_as_battle_trophies
     label: enemy heads displayed as battle trophies
     occurrences: 1
@@ -10535,6 +12035,11 @@ buckets:
     occurrences: 1
     traditions:
     - greek
+  - motif_id: enemy_spy_learns_the_source_of_supernatural_advantage
+    label: enemy spy learns the source of supernatural advantage
+    occurrences: 1
+    traditions:
+    - celtic_irish
   - motif_id: enemy_suppliant_granted_a_pledge_of_safety
     label: enemy suppliant granted a pledge of safety
     occurrences: 1
@@ -10560,6 +12065,11 @@ buckets:
     occurrences: 1
     traditions:
     - greek
+  - motif_id: false_ascetic_appearance_and_contested_holiness
+    label: false ascetic appearance and contested holiness
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: false_claim_of_victory_after_escape
     label: false claim of victory after escape
     occurrences: 1
@@ -10785,6 +12295,11 @@ buckets:
     occurrences: 1
     traditions:
     - roman
+  - motif_id: heroic_life_performed_before_a_judging_community
+    label: heroic life performed before a judging community
+    occurrences: 1
+    traditions:
+    - celtic_irish
   - motif_id: heroic_monster_hunt
     label: heroic monster hunt
     occurrences: 1
@@ -10795,6 +12310,11 @@ buckets:
     occurrences: 1
     traditions:
     - roman
+  - motif_id: hidden_access_demonstrated_by_bedside_weapon
+    label: Hidden access demonstrated by bedside weapon
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: hidden_hero_revealed_in_luminous_epiphany
     label: hidden hero revealed in luminous epiphany
     occurrences: 1
@@ -10915,6 +12435,21 @@ buckets:
     occurrences: 1
     traditions:
     - comparative
+  - motif_id: kin_violence_and_blinding_within_a_royal_house
+    label: Kin violence and blinding within a royal house
+    occurrences: 1
+    traditions:
+    - sufi
+  - motif_id: landscape_mobilized_as_battle_ally
+    label: landscape mobilized as battle ally
+    occurrences: 1
+    traditions:
+    - celtic_irish
+  - motif_id: last_stand_of_the_outnumbered_warrior
+    label: last stand of the outnumbered warrior
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: legendary_island_war
     label: legendary island war
     occurrences: 1
@@ -10940,11 +12475,21 @@ buckets:
     occurrences: 1
     traditions:
     - greek
+  - motif_id: magical_invisibility_covering_in_battle
+    label: Magical invisibility covering in battle
+    occurrences: 1
+    traditions:
+    - celtic_irish
   - motif_id: magical_objects_used_in_successive_trials
     label: magical objects used in successive trials
     occurrences: 1
     traditions:
     - buddhist
+  - motif_id: magical_or_herbal_restoration_of_warriors_between_battle_days
+    label: magical or herbal restoration of warriors between battle days
+    occurrences: 1
+    traditions:
+    - celtic_irish
   - motif_id: maimed_warrior_continues_with_altered_weapon_use
     label: Maimed warrior continues with altered weapon use
     occurrences: 1
@@ -11055,11 +12600,26 @@ buckets:
     occurrences: 1
     traditions:
     - roman
+  - motif_id: mortal_lament_for_vanished_heroic_company
+    label: Mortal lament for vanished heroic company
+    occurrences: 1
+    traditions:
+    - celtic_irish
   - motif_id: mutual_destruction_in_revenge
     label: mutual destruction in revenge
     occurrences: 1
     traditions:
     - greek
+  - motif_id: mystery_arising_from_open_heroic_landscape
+    label: mystery arising from open heroic landscape
+    occurrences: 1
+    traditions:
+    - celtic_irish
+  - motif_id: mystical_outsiders_share_reward_with_the_orthodox
+    label: Mystical outsiders share reward with the orthodox
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: natural_fruit_turned_into_a_lethal_weapon
     label: natural fruit turned into a lethal weapon
     occurrences: 1
@@ -11090,6 +12650,11 @@ buckets:
     occurrences: 1
     traditions:
     - roman
+  - motif_id: object_won_after_failed_mediation_and_combat
+    label: object won after failed mediation and combat
+    occurrences: 1
+    traditions:
+    - celtic_irish
   - motif_id: omens_announcing_war_before_settlement
     label: omens announcing war before settlement
     occurrences: 1
@@ -11140,6 +12705,16 @@ buckets:
     occurrences: 1
     traditions:
     - roman
+  - motif_id: piety_interrupted_by_violence
+    label: Piety interrupted by violence
+    occurrences: 1
+    traditions:
+    - sufi
+  - motif_id: poet_rewarded_through_royal_patronage
+    label: Poet rewarded through royal patronage
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: posthumous_hero_cult
     label: posthumous hero cult
     occurrences: 1
@@ -11210,6 +12785,11 @@ buckets:
     occurrences: 1
     traditions:
     - roman
+  - motif_id: rejected_forbidden_passion_turns_toward_revenge
+    label: Rejected forbidden passion turns toward revenge
+    occurrences: 1
+    traditions:
+    - roman
   - motif_id: religious_hero_reidentified_across_traditions
     label: religious hero reidentified across traditions
     occurrences: 1
@@ -11245,6 +12825,11 @@ buckets:
     occurrences: 1
     traditions:
     - greek_roman
+  - motif_id: revenge_through_enchanted_object_and_provoked_conflict
+    label: revenge through enchanted object and provoked conflict
+    occurrences: 1
+    traditions:
+    - celtic_irish
   - motif_id: revenge_through_transformed_body_remains
     label: Revenge through transformed body remains
     occurrences: 1
@@ -11285,6 +12870,11 @@ buckets:
     occurrences: 1
     traditions:
     - roman
+  - motif_id: single_helper_holds_off_attackers_with_limited_weapons
+    label: Single helper holds off attackers with limited weapons
+    occurrences: 1
+    traditions:
+    - celtic_irish
   - motif_id: single_hero_against_a_large_hostile_group
     label: single hero against a large hostile group
     occurrences: 1
@@ -11400,6 +12990,11 @@ buckets:
     occurrences: 1
     traditions:
     - norse
+  - motif_id: vengeance_for_a_slain_predecessor_in_battle
+    label: vengeance for a slain predecessor in battle
+    occurrences: 1
+    traditions:
+    - celtic_irish
   - motif_id: verbal_defeat_turning_into_violence
     label: Verbal defeat turning into violence
     occurrences: 1
@@ -11415,6 +13010,11 @@ buckets:
     occurrences: 1
     traditions:
     - roman
+  - motif_id: victory_proclamation_to_cosmic_and_territorial_features
+    label: victory proclamation to cosmic and territorial features
+    occurrences: 1
+    traditions:
+    - celtic_irish
   - motif_id: victory_recorded_on_a_warrior_s_shield
     label: victory recorded on a warrior's shield
     occurrences: 1
@@ -11455,6 +13055,16 @@ buckets:
     occurrences: 1
     traditions:
     - norse
+  - motif_id: warrior_chooses_loyalty_and_reputation_over_supernatural_safety
+    label: Warrior chooses loyalty and reputation over supernatural safety
+    occurrences: 1
+    traditions:
+    - celtic_irish
+  - motif_id: warrior_image_conquering_inner_afflictions
+    label: warrior image conquering inner afflictions
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: warrior_s_destructive_chariot_aristeia
     label: warrior's destructive chariot aristeia
     occurrences: 1
@@ -11470,6 +13080,11 @@ buckets:
     occurrences: 1
     traditions:
     - japanese
+  - motif_id: weapon_turned_back_upon_the_attacker
+    label: weapon turned back upon the attacker
+    occurrences: 1
+    traditions:
+    - celtic_irish
   - motif_id: women_only_island_confronting_arriving_male_heroes
     label: Women-only island confronting arriving male heroes
     occurrences: 1
@@ -11485,10 +13100,15 @@ buckets:
     occurrences: 1
     traditions:
     - japanese
-  count: 254
+  count: 286
 - id: objects_spaces_boundaries
   label: Objects, Places, Boundaries, And Thresholds
   motifs:
+  - motif_id: appointed_cup_that_all_must_drink
+    label: appointed cup that all must drink
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: bodisat_appearing_across_many_forms_and_statuses
     label: Bodisat appearing across many forms and statuses
     occurrences: 1
@@ -11524,6 +13144,26 @@ buckets:
     occurrences: 1
     traditions:
     - greek
+  - motif_id: cave_episodes
+    label: cave episodes
+    occurrences: 1
+    traditions:
+    - celtic_irish
+  - motif_id: creator_as_maker_of_human_vessel
+    label: creator as maker of human vessel
+    occurrences: 1
+    traditions:
+    - sufi
+  - motif_id: creator_as_potter_shaping_and_judging_vessels
+    label: Creator as potter shaping and judging vessels
+    occurrences: 1
+    traditions:
+    - sufi
+  - motif_id: creator_destroys_created_vessel
+    label: creator destroys created vessel
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: cross_species_encounter_pairing
     label: Cross-species encounter pairing
     occurrences: 1
@@ -11534,6 +13174,11 @@ buckets:
     occurrences: 1
     traditions:
     - greek_roman
+  - motif_id: cupbearer_addressee
+    label: Cupbearer addressee
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: dangerous_intruders_in_the_household
     label: dangerous intruders in the household
     occurrences: 1
@@ -11609,6 +13254,11 @@ buckets:
     occurrences: 1
     traditions:
     - norse
+  - motif_id: excluded_dervish_outside_the_door
+    label: excluded dervish outside the door
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: exorcistic_expulsion_from_a_sick_house
     label: exorcistic expulsion from a sick house
     occurrences: 1
@@ -11704,6 +13354,11 @@ buckets:
     occurrences: 1
     traditions:
     - buddhist
+  - motif_id: kissed_vessel_associated_with_reciprocal_past_kisses
+    label: kissed vessel associated with reciprocal past kisses
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: landmark_produced_by_petrified_giant_action
     label: landmark produced by petrified giant action
     occurrences: 1
@@ -11719,6 +13374,11 @@ buckets:
     occurrences: 1
     traditions:
     - comparative
+  - motif_id: literary_garden_as_cultivated_path_for_readers
+    label: Literary garden as cultivated path for readers
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: loyal_caretaker_guarding_property_during_master_s_absence
     label: Loyal caretaker guarding property during master’s absence
     occurrences: 1
@@ -11729,6 +13389,16 @@ buckets:
     occurrences: 1
     traditions:
     - greek
+  - motif_id: maker_as_potter_creature_as_clay_vessel
+    label: Maker as potter, creature as clay vessel
+    occurrences: 1
+    traditions:
+    - sufi
+  - motif_id: maker_creates_and_destroys_a_beautiful_vessel
+    label: maker creates and destroys a beautiful vessel
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: maritime_race_around_a_fixed_turning_mark
     label: maritime race around a fixed turning mark
     occurrences: 1
@@ -11774,6 +13444,11 @@ buckets:
     occurrences: 1
     traditions:
     - norse
+  - motif_id: moving_island_or_clashing_rocks_become_fixed
+    label: moving island or clashing rocks become fixed
+    occurrences: 1
+    traditions:
+    - roman
   - motif_id: mutinous_seizure_of_communal_vessel
     label: mutinous seizure of communal vessel
     occurrences: 1
@@ -11784,6 +13459,16 @@ buckets:
     occurrences: 1
     traditions:
     - greek_roman
+  - motif_id: natural_forces_coloring_hidden_stones
+    label: natural forces coloring hidden stones
+    occurrences: 1
+    traditions:
+    - sufi
+  - motif_id: object_from_paradise_entering_the_realm_of_decay
+    label: object from paradise entering the realm of decay
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: petition_to_deity_brings_unintended_worsening
     label: petition to deity brings unintended worsening
     occurrences: 1
@@ -11799,6 +13484,11 @@ buckets:
     occurrences: 1
     traditions:
     - comparative
+  - motif_id: poetic_fate_as_severing_of_life
+    label: poetic fate as severing of life
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: polity_as_variegated_garment
     label: Polity as variegated garment
     occurrences: 1
@@ -11819,6 +13509,11 @@ buckets:
     occurrences: 1
     traditions:
     - greek
+  - motif_id: predestination_and_vessels_of_fate
+    label: Predestination and vessels of fate
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: proper_function_and_boundary_maintenance
     label: Proper function and boundary maintenance
     occurrences: 1
@@ -11879,6 +13574,11 @@ buckets:
     occurrences: 1
     traditions:
     - buddhist
+  - motif_id: sensory_garden_as_convivial_poetic_setting
+    label: sensory garden as convivial poetic setting
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: seven_leaders_against_seven_gates
     label: seven leaders against seven gates
     occurrences: 1
@@ -11924,6 +13624,11 @@ buckets:
     occurrences: 1
     traditions:
     - comparative
+  - motif_id: tearful_nightingale_in_the_poet_s_garden
+    label: tearful nightingale in the poet's garden
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: threshold_guarded_by_monstrous_and_avenging_figures
     label: threshold guarded by monstrous and avenging figures
     occurrences: 1
@@ -11954,7 +13659,22 @@ buckets:
     occurrences: 1
     traditions:
     - greek
-  count: 93
+  - motif_id: wine_cup_against_grief_over_possession_and_lack
+    label: wine-cup against grief over possession and lack
+    occurrences: 1
+    traditions:
+    - sufi
+  - motif_id: wine_or_vine_as_ruby_like_outpouring
+    label: Wine or vine as ruby-like outpouring
+    occurrences: 1
+    traditions:
+    - sufi
+  - motif_id: wine_vessel_as_joy_interrupted
+    label: Wine vessel as joy interrupted
+    occurrences: 1
+    traditions:
+    - sufi
+  count: 114
 - id: ethics_psychology_inner_life
   label: Ethics, Psychology, Discipline, And Inner Life
   motifs:
@@ -11969,11 +13689,21 @@ buckets:
     occurrences: 1
     traditions:
     - japanese
+  - motif_id: armed_avoidance_of_dangerous_claimants
+    label: armed avoidance of dangerous claimants
+    occurrences: 1
+    traditions:
+    - celtic_irish
   - motif_id: art_as_enchantment_illusion_and_moral_danger
     label: Art as enchantment, illusion, and moral danger
     occurrences: 1
     traditions:
     - greek
+  - motif_id: ascetic_discipline_undone_by_pleasure_and_wine
+    label: ascetic discipline undone by pleasure and wine
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: ascetic_guardians_forbidden_corrupting_wealth
     label: ascetic guardians forbidden corrupting wealth
     occurrences: 1
@@ -11999,6 +13729,11 @@ buckets:
     occurrences: 1
     traditions:
     - greek
+  - motif_id: condemnation_of_deceptive_hunting_devices
+    label: Condemnation of deceptive hunting devices
+    occurrences: 1
+    traditions:
+    - roman
   - motif_id: danger_inverted_into_safety
     label: danger inverted into safety
     occurrences: 1
@@ -12069,11 +13804,21 @@ buckets:
     occurrences: 1
     traditions:
     - greek
+  - motif_id: destruction_in_the_furnace_of_grief
+    label: destruction in the furnace of grief
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: destructive_pride_in_conflict
     label: destructive pride in conflict
     occurrences: 1
     traditions:
     - greek
+  - motif_id: devotional_service_as_threaded_jewel_or_pearl
+    label: devotional service as threaded jewel or pearl
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: education_through_disciplined_aesthetic_formation
     label: Education through disciplined aesthetic formation
     occurrences: 1
@@ -12149,6 +13894,11 @@ buckets:
     occurrences: 1
     traditions:
     - comparative
+  - motif_id: grief_as_futile_tears_of_blood
+    label: grief as futile tears of blood
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: grief_for_lost_kinsman_or_comrade
     label: grief for lost kinsman or comrade
     occurrences: 1
@@ -12184,6 +13934,11 @@ buckets:
     occurrences: 1
     traditions:
     - greek
+  - motif_id: marvelous_branch_that_removes_grief_and_induces_sleep
+    label: marvelous branch that removes grief and induces sleep
+    occurrences: 1
+    traditions:
+    - celtic_irish
   - motif_id: novel_metal_or_technology_treated_as_dangerous_or_unlucky
     label: Novel metal or technology treated as dangerous or unlucky
     occurrences: 1
@@ -12379,7 +14134,7 @@ buckets:
     occurrences: 1
     traditions:
     - greek
-  count: 84
+  count: 91
 - id: needs_human_sorting
   label: Needs Human Sorting
   motifs:
@@ -12389,6 +14144,11 @@ buckets:
     traditions:
     - greek
     - roman
+  - motif_id: inescapable_chain_of_existence
+    label: inescapable chain of existence
+    occurrences: 2
+    traditions:
+    - sufi
   - motif_id: life_bound_to_an_external_object
     label: Life bound to an external object
     occurrences: 2
@@ -12435,6 +14195,11 @@ buckets:
     occurrences: 1
     traditions:
     - greek
+  - motif_id: acceptance_of_the_final_draught
+    label: acceptance of the final draught
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: accidental_encounter_with_supernatural_beings_in_a_wild_place
     label: Accidental encounter with supernatural beings in a wild place
     occurrences: 1
@@ -12475,11 +14240,26 @@ buckets:
     occurrences: 1
     traditions:
     - roman
+  - motif_id: ambitious_courtier_betrays_benefactor
+    label: Ambitious courtier betrays benefactor
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: analogous_explanations_for_similar_body_cutting_customs
     label: Analogous explanations for similar body-cutting customs
     occurrences: 1
     traditions:
     - comparative
+  - motif_id: angelic_bearer_offers_transformative_drink
+    label: angelic bearer offers transformative drink
+    occurrences: 1
+    traditions:
+    - sufi
+  - motif_id: animated_cult_image_made_by_magical_craft
+    label: Animated cult image made by magical craft
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: annual_expulsion_of_evil_from_the_community
     label: annual expulsion of evil from the community
     occurrences: 1
@@ -12490,16 +14270,31 @@ buckets:
     occurrences: 1
     traditions:
     - greek
+  - motif_id: apotropaic_smoke_averts_the_evil_eye
+    label: Apotropaic smoke averts the evil eye
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: appetite_leads_to_captivity_or_control
     label: Appetite leads to captivity or control
     occurrences: 1
     traditions:
     - buddhist
+  - motif_id: appointed_tryst_prevented_by_sudden_sleep
+    label: Appointed tryst prevented by sudden sleep
+    occurrences: 1
+    traditions:
+    - celtic_irish
   - motif_id: argument_as_waves_to_be_passed
     label: Argument as waves to be passed
     occurrences: 1
     traditions:
     - greek
+  - motif_id: assassination_following_political_disgrace
+    label: Assassination following political disgrace
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: attempt_to_gain_loyalty_through_excessive_favors_fails
     label: attempt to gain loyalty through excessive favors fails
     occurrences: 1
@@ -12530,11 +14325,21 @@ buckets:
     occurrences: 1
     traditions:
     - greek
+  - motif_id: awakening_call_at_dawn
+    label: Awakening call at dawn
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: bacchic_frenzy_as_simile_for_emotional_upheaval
     label: Bacchic frenzy as simile for emotional upheaval
     occurrences: 1
     traditions:
     - roman
+  - motif_id: bad_omen_reversed_by_favorable_interpretation
+    label: Bad omen reversed by favorable interpretation
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: bad_rule_through_wealth_replacing_skill
     label: bad rule through wealth replacing skill
     occurrences: 1
@@ -12585,6 +14390,11 @@ buckets:
     occurrences: 1
     traditions:
     - greek
+  - motif_id: betrayal_of_the_fugitive_heir_by_a_kinsman
+    label: betrayal of the fugitive heir by a kinsman
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: betrayed_guests_make_a_doomed_last_stand
     label: betrayed guests make a doomed last stand
     occurrences: 1
@@ -12615,6 +14425,11 @@ buckets:
     occurrences: 1
     traditions:
     - comparative
+  - motif_id: boar_episode
+    label: boar episode
+    occurrences: 1
+    traditions:
+    - celtic_irish
   - motif_id: boastful_challenger_immediately_destroyed
     label: boastful challenger immediately destroyed
     occurrences: 1
@@ -12630,6 +14445,11 @@ buckets:
     occurrences: 1
     traditions:
     - japanese
+  - motif_id: body_as_temporary_dwelling
+    label: body as temporary dwelling
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: body_diminishes_while_voice_remains
     label: body diminishes while voice remains
     occurrences: 1
@@ -12790,6 +14610,11 @@ buckets:
     occurrences: 1
     traditions:
     - roman
+  - motif_id: colour_as_affliction_sign
+    label: Colour as affliction sign
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: comic_bodily_cure_through_sneezing
     label: Comic bodily cure through sneezing
     occurrences: 1
@@ -12865,6 +14690,11 @@ buckets:
     occurrences: 1
     traditions:
     - greek
+  - motif_id: consuming_power_of_time_and_old_age
+    label: consuming power of time and old age
+    occurrences: 1
+    traditions:
+    - roman
   - motif_id: contagious_magic_through_severed_body_parts
     label: contagious magic through severed body parts
     occurrences: 1
@@ -12915,16 +14745,41 @@ buckets:
     occurrences: 1
     traditions:
     - greek
+  - motif_id: cosmic_decree_of_impermanent_pleasure
+    label: cosmic decree of impermanent pleasure
+    occurrences: 1
+    traditions:
+    - sufi
+  - motif_id: cosmic_dominion_praised_through_game_imagery
+    label: cosmic dominion praised through game imagery
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: cosmic_partition_into_bounded_regions
     label: Cosmic partition into bounded regions
     occurrences: 1
     traditions:
     - roman
+  - motif_id: cosmic_record_and_accumulated_anguish
+    label: cosmic record and accumulated anguish
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: cosmic_response_to_the_future_buddha_s_wish
     label: Cosmic response to the future Buddha’s wish
     occurrences: 1
     traditions:
     - buddhist
+  - motif_id: cosmic_scale_against_a_small_cast_object
+    label: Cosmic scale against a small cast object
+    occurrences: 1
+    traditions:
+    - sufi
+  - motif_id: cosmic_wheel_as_bondage
+    label: cosmic wheel as bondage
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: counter_image_used_as_antidote_or_guarantee
     label: counter-image used as antidote or guarantee
     occurrences: 1
@@ -12990,6 +14845,11 @@ buckets:
     occurrences: 1
     traditions:
     - greek
+  - motif_id: dawn_as_active_conqueror_of_night
+    label: Dawn as active conqueror of night
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: dawn_consultation_between_host_and_guest_before_action
     label: dawn consultation between host and guest before action
     occurrences: 1
@@ -13010,6 +14870,11 @@ buckets:
     occurrences: 1
     traditions:
     - buddhist
+  - motif_id: deceptive_fortune
+    label: Deceptive Fortune
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: deceptive_hollow_image_concealing_enemies
     label: deceptive hollow image concealing enemies
     occurrences: 1
@@ -13250,16 +15115,41 @@ buckets:
     occurrences: 1
     traditions:
     - norse
+  - motif_id: enchanted_music_that_causes_sleep
+    label: Enchanted music that causes sleep
+    occurrences: 1
+    traditions:
+    - celtic_irish
+  - motif_id: enchanted_prevention_of_landing
+    label: Enchanted prevention of landing
+    occurrences: 1
+    traditions:
+    - celtic_irish
+  - motif_id: enchanted_woman_as_interlocutor
+    label: enchanted woman as interlocutor
+    occurrences: 1
+    traditions:
+    - celtic_irish
   - motif_id: enchanting_music_that_attracts_living_beings
     label: Enchanting music that attracts living beings
     occurrences: 1
     traditions:
     - norse
+  - motif_id: enchanting_supernatural_music
+    label: Enchanting supernatural music
+    occurrences: 1
+    traditions:
+    - celtic_irish
   - motif_id: enchantress_using_magic_against_a_resisting_man
     label: enchantress using magic against a resisting man
     occurrences: 1
     traditions:
     - roman
+  - motif_id: encounter_with_apparitions
+    label: encounter with apparitions
+    occurrences: 1
+    traditions:
+    - celtic_irish
   - motif_id: endurance_through_address_to_the_heart
     label: endurance through address to the heart
     occurrences: 1
@@ -13315,6 +15205,11 @@ buckets:
     occurrences: 1
     traditions:
     - ainu
+  - motif_id: etiological_naming_from_supernatural_events
+    label: Etiological naming from supernatural events
+    occurrences: 1
+    traditions:
+    - celtic_irish
   - motif_id: etiology_of_an_abundance_horn
     label: etiology of an abundance horn
     occurrences: 1
@@ -13395,6 +15290,11 @@ buckets:
     occurrences: 1
     traditions:
     - japanese
+  - motif_id: fall_from_court_through_stratagem
+    label: Fall from court through stratagem
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: fall_from_former_status
     label: fall from former status
     occurrences: 1
@@ -13475,6 +15375,11 @@ buckets:
     occurrences: 1
     traditions:
     - greek
+  - motif_id: false_dawn_before_true_dawn
+    label: false dawn before true dawn
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: false_external_heart_deception
     label: False external heart deception
     occurrences: 1
@@ -13520,6 +15425,11 @@ buckets:
     occurrences: 1
     traditions:
     - roman
+  - motif_id: false_textual_alteration_exposed_before_public_assembly
+    label: False textual alteration exposed before public assembly
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: fatal_binding_of_unequal_companions
     label: Fatal binding of unequal companions
     occurrences: 1
@@ -13540,6 +15450,11 @@ buckets:
     occurrences: 1
     traditions:
     - comparative
+  - motif_id: fatal_music_from_a_supernatural_harp
+    label: Fatal music from a supernatural harp
+    occurrences: 1
+    traditions:
+    - celtic_irish
   - motif_id: fatal_pursuit_of_splendid_spoils
     label: fatal pursuit of splendid spoils
     occurrences: 1
@@ -13555,6 +15470,11 @@ buckets:
     occurrences: 1
     traditions:
     - roman
+  - motif_id: fate_inscribed_by_heaven
+    label: fate inscribed by heaven
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: fates_weaving_destiny
     label: Fates weaving destiny
     occurrences: 1
@@ -13570,6 +15490,11 @@ buckets:
     occurrences: 1
     traditions:
     - greek_roman
+  - motif_id: flower_as_model_of_endurance_through_loss
+    label: flower as model of endurance through loss
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: folktale_circulating_under_varied_guises
     label: Folktale circulating under varied guises
     occurrences: 1
@@ -13650,6 +15575,11 @@ buckets:
     occurrences: 1
     traditions:
     - greek
+  - motif_id: futility_of_human_effort_against_decree
+    label: futility of human effort against decree
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: generation_of_beings_from_a_primordial_body
     label: Generation of beings from a primordial body
     occurrences: 1
@@ -13665,6 +15595,11 @@ buckets:
     occurrences: 1
     traditions:
     - norse
+  - motif_id: golden_age_of_bloodless_vegetal_abundance
+    label: Golden Age of bloodless vegetal abundance
+    occurrences: 1
+    traditions:
+    - roman
   - motif_id: golden_fruit_used_to_delay_a_pursuer_or_rival
     label: golden fruit used to delay a pursuer or rival
     occurrences: 1
@@ -13730,11 +15665,21 @@ buckets:
     occurrences: 1
     traditions:
     - greek
+  - motif_id: heaven_as_enclosing_bowl
+    label: heaven as enclosing bowl
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: heavenly_source_of_fortune_and_power
     label: heavenly source of fortune and power
     occurrences: 1
     traditions:
     - persian
+  - motif_id: helpless_heavens_cannot_aid_humans
+    label: helpless heavens cannot aid humans
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: hidden_fugitive_exposed_by_his_own_action
     label: hidden fugitive exposed by his own action
     occurrences: 1
@@ -13745,6 +15690,11 @@ buckets:
     occurrences: 1
     traditions:
     - buddhist
+  - motif_id: hidden_idol_as_false_object_of_devotion
+    label: Hidden idol as false object of devotion
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: hidden_land_with_lost_location
     label: hidden land with lost location
     occurrences: 1
@@ -13760,6 +15710,11 @@ buckets:
     occurrences: 1
     traditions:
     - greek
+  - motif_id: hidden_treasure_among_ruins
+    label: Hidden treasure among ruins
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: hidden_treasure_inside_an_object
     label: hidden treasure inside an object
     occurrences: 1
@@ -13775,6 +15730,11 @@ buckets:
     occurrences: 1
     traditions:
     - greek
+  - motif_id: hope_for_mercy_despite_confessed_sin
+    label: hope for mercy despite confessed sin
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: horns_as_emblems_of_power_and_dignity
     label: horns as emblems of power and dignity
     occurrences: 1
@@ -13800,6 +15760,11 @@ buckets:
     occurrences: 1
     traditions:
     - greek
+  - motif_id: hostile_wheel_of_fate_or_heaven
+    label: Hostile wheel of fate or heaven
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: human_being_treated_as_living_deity
     label: human being treated as living deity
     occurrences: 1
@@ -13810,6 +15775,21 @@ buckets:
     occurrences: 1
     traditions:
     - comparative
+  - motif_id: human_helplessness_before_command_and_prohibition
+    label: Human helplessness before command and prohibition
+    occurrences: 1
+    traditions:
+    - sufi
+  - motif_id: human_life_as_shadow_play_or_magic_lantern_projection
+    label: Human life as shadow-play or magic-lantern projection
+    occurrences: 1
+    traditions:
+    - sufi
+  - motif_id: human_life_figured_as_plant_or_vine_material
+    label: Human life figured as plant or vine material
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: human_or_nymph_reduced_to_voice
     label: Human or nymph reduced to voice
     occurrences: 1
@@ -13820,6 +15800,11 @@ buckets:
     occurrences: 1
     traditions:
     - comparative
+  - motif_id: human_transience_between_voids
+    label: human transience between voids
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: human_victims_devoured_by_a_monstrous_being
     label: Human victims devoured by a monstrous being
     occurrences: 1
@@ -13830,6 +15815,11 @@ buckets:
     occurrences: 1
     traditions:
     - japanese
+  - motif_id: humans_as_game_pieces_moved_by_a_higher_power
+    label: humans as game pieces moved by a higher power
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: humble_hidden_meeting_place_of_early_disciples
     label: Humble hidden meeting place of early disciples
     occurrences: 1
@@ -13915,6 +15905,31 @@ buckets:
     occurrences: 1
     traditions:
     - buddhist
+  - motif_id: imperfect_restoration_corrected_by_further_intervention
+    label: Imperfect restoration corrected by further intervention
+    occurrences: 1
+    traditions:
+    - celtic_irish
+  - motif_id: impermanence_of_breath_and_present_life
+    label: impermanence of breath and present life
+    occurrences: 1
+    traditions:
+    - sufi
+  - motif_id: impermanence_of_life
+    label: Impermanence of life
+    occurrences: 1
+    traditions:
+    - sufi
+  - motif_id: impermanence_of_royal_glory
+    label: Impermanence of royal glory
+    occurrences: 1
+    traditions:
+    - sufi
+  - motif_id: impermanence_of_royal_grandeur
+    label: impermanence of royal grandeur
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: impious_and_riotous_man_brought_to_ruin
     label: impious and riotous man brought to ruin
     occurrences: 1
@@ -13940,11 +15955,21 @@ buckets:
     occurrences: 1
     traditions:
     - roman
+  - motif_id: incoherent_borrowed_work_exposed_by_a_critic
+    label: incoherent borrowed work exposed by a critic
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: indirect_petition_to_concealed_sovereign
     label: indirect petition to concealed sovereign
     occurrences: 1
     traditions:
     - comparative
+  - motif_id: inescapable_bond_of_fate
+    label: inescapable bond of fate
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: inexhaustible_food_supply
     label: inexhaustible food supply
     occurrences: 1
@@ -14015,6 +16040,11 @@ buckets:
     occurrences: 1
     traditions:
     - greek
+  - motif_id: intoxicant_as_precious_but_reputation_damaging_force
+    label: intoxicant as precious but reputation-damaging force
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: intoxication_by_freedom_leading_to_tyranny
     label: intoxication by freedom leading to tyranny
     occurrences: 1
@@ -14055,6 +16085,16 @@ buckets:
     occurrences: 1
     traditions:
     - norse
+  - motif_id: irreversible_written_destiny
+    label: irreversible written destiny
+    occurrences: 1
+    traditions:
+    - sufi
+  - motif_id: irrevocable_writing_of_fate
+    label: irrevocable writing of fate
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: j_taka_past_life_identification
     label: Jātaka past-life identification
     occurrences: 1
@@ -14100,6 +16140,11 @@ buckets:
     occurrences: 1
     traditions:
     - greek_roman
+  - motif_id: lament_indicated_by_chapter_title
+    label: lament indicated by chapter title
+    occurrences: 1
+    traditions:
+    - celtic_irish
   - motif_id: landscape_formed_from_transformed_body
     label: landscape formed from transformed body
     occurrences: 1
@@ -14125,6 +16170,16 @@ buckets:
     occurrences: 1
     traditions:
     - roman
+  - motif_id: liberation_from_bondage_remembered
+    label: liberation from bondage remembered
+    occurrences: 1
+    traditions:
+    - sufi
+  - motif_id: life_as_a_fragile_thread
+    label: Life as a fragile thread
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: life_as_race_ending_in_crown_or_disgrace
     label: life as race ending in crown or disgrace
     occurrences: 1
@@ -14140,6 +16195,11 @@ buckets:
     occurrences: 1
     traditions:
     - norse
+  - motif_id: life_cut_by_fate
+    label: life cut by fate
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: life_index_plant
     label: life-index plant
     occurrences: 1
@@ -14210,6 +16270,11 @@ buckets:
     occurrences: 1
     traditions:
     - greek
+  - motif_id: lunar_communal_folk_imagination
+    label: Lunar communal folk imagination
+    occurrences: 1
+    traditions:
+    - celtic_irish
   - motif_id: lured_guest_ambushed_by_hidden_allies
     label: lured guest ambushed by hidden allies
     occurrences: 1
@@ -14245,6 +16310,11 @@ buckets:
     occurrences: 1
     traditions:
     - buddhist
+  - motif_id: magical_binding_or_drawing_by_thread
+    label: Magical binding or drawing by thread
+    occurrences: 1
+    traditions:
+    - celtic_irish
   - motif_id: magical_cannibal_antagonist
     label: magical cannibal antagonist
     occurrences: 1
@@ -14255,6 +16325,11 @@ buckets:
     occurrences: 1
     traditions:
     - roman
+  - motif_id: magical_forgetfulness_delaying_completion_of_an_obligation
+    label: magical forgetfulness delaying completion of an obligation
+    occurrences: 1
+    traditions:
+    - celtic_irish
   - motif_id: magical_hunting_aids_that_cannot_fail
     label: magical hunting aids that cannot fail
     occurrences: 1
@@ -14265,6 +16340,11 @@ buckets:
     occurrences: 1
     traditions:
     - buddhist
+  - motif_id: magical_music_controlling_emotion_and_sleep
+    label: magical music controlling emotion and sleep
+    occurrences: 1
+    traditions:
+    - celtic_irish
   - motif_id: magical_vengeance_by_the_kin_of_a_slain_giant
     label: Magical vengeance by the kin of a slain giant
     occurrences: 1
@@ -14340,11 +16420,21 @@ buckets:
     occurrences: 1
     traditions:
     - roman
+  - motif_id: miraculous_bodily_sign_and_healing_breath
+    label: miraculous bodily sign and healing breath
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: miraculous_emergence_from_a_slain_body
     label: Miraculous emergence from a slain body
     occurrences: 1
     traditions:
     - greek_roman
+  - motif_id: miraculous_healing_breath
+    label: miraculous healing breath
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: miraculous_multiplication_of_a_monk
     label: Miraculous multiplication of a monk
     occurrences: 1
@@ -14415,6 +16505,11 @@ buckets:
     occurrences: 1
     traditions:
     - greek
+  - motif_id: morning_floral_abundance
+    label: Morning floral abundance
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: mourner_transformed_into_weeping_stone
     label: mourner transformed into weeping stone
     occurrences: 1
@@ -14440,6 +16535,11 @@ buckets:
     occurrences: 1
     traditions:
     - roman
+  - motif_id: music_that_compels_emotion_and_sleep
+    label: music that compels emotion and sleep
+    occurrences: 1
+    traditions:
+    - celtic_irish
   - motif_id: music_that_induces_sleep_or_weakens_vigilance
     label: music that induces sleep or weakens vigilance
     occurrences: 1
@@ -14530,6 +16630,16 @@ buckets:
     occurrences: 1
     traditions:
     - greek
+  - motif_id: night_as_pregnant_with_future_events
+    label: night as pregnant with future events
+    occurrences: 1
+    traditions:
+    - sufi
+  - motif_id: nightingale_calling_to_the_rose_for_wine
+    label: Nightingale calling to the rose for wine
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: noisy_or_violent_driving_out_of_demons
     label: noisy or violent driving out of demons
     occurrences: 1
@@ -14555,6 +16665,11 @@ buckets:
     occurrences: 1
     traditions:
     - comparative
+  - motif_id: object_body_part_preserves_former_human_gesture
+    label: object body part preserves former human gesture
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: obstinate_refusal_of_rescue_or_guidance
     label: obstinate refusal of rescue or guidance
     occurrences: 1
@@ -14660,6 +16775,16 @@ buckets:
     occurrences: 1
     traditions:
     - greek
+  - motif_id: parting_transformed_into_meeting
+    label: parting transformed into meeting
+    occurrences: 1
+    traditions:
+    - sufi
+  - motif_id: past_appointing_future_conduct
+    label: past appointing future conduct
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: past_life_identification_in_j_taka_frame
     label: past-life identification in Jātaka frame
     occurrences: 1
@@ -14700,6 +16825,11 @@ buckets:
     occurrences: 1
     traditions:
     - buddhist
+  - motif_id: peaceful_nonviolent_age_followed_by_first_flesh_eating
+    label: peaceful nonviolent age followed by first flesh-eating
+    occurrences: 1
+    traditions:
+    - roman
   - motif_id: peril_caused_by_premature_disposal_of_supplies
     label: Peril caused by premature disposal of supplies
     occurrences: 1
@@ -14712,6 +16842,11 @@ buckets:
     - norse
   - motif_id: perpetual_mourning_assigned_to_transformed_being
     label: perpetual mourning assigned to transformed being
+    occurrences: 1
+    traditions:
+    - roman
+  - motif_id: pestilence_relieved_by_invited_healing_deity
+    label: pestilence relieved by invited healing deity
     occurrences: 1
     traditions:
     - roman
@@ -14765,6 +16900,16 @@ buckets:
     occurrences: 1
     traditions:
     - greek
+  - motif_id: poetic_inspiration_through_sweet_lips_and_fragrant_book
+    label: poetic inspiration through sweet lips and fragrant book
+    occurrences: 1
+    traditions:
+    - sufi
+  - motif_id: poetic_voice_of_david
+    label: Poetic voice of David
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: political_or_cultural_rationalization_of_mythic_incest_story
     label: Political or cultural rationalization of mythic incest story
     occurrences: 1
@@ -14780,11 +16925,21 @@ buckets:
     occurrences: 1
     traditions:
     - roman
+  - motif_id: posthumous_fragrance_affecting_the_passerby
+    label: Posthumous fragrance affecting the passerby
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: posthumous_inscribed_flower_of_lament
     label: posthumous inscribed flower of lament
     occurrences: 1
     traditions:
     - roman
+  - motif_id: posthumous_intoxication_from_buried_remains
+    label: posthumous intoxication from buried remains
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: poverty_and_crime_arising_from_failed_education_and_constitution
     label: poverty and crime arising from failed education and constitution
     occurrences: 1
@@ -14815,6 +16970,16 @@ buckets:
     occurrences: 1
     traditions:
     - greek
+  - motif_id: precarious_height_and_downfall_of_the_powerful
+    label: precarious height and downfall of the powerful
+    occurrences: 1
+    traditions:
+    - sufi
+  - motif_id: precious_intoxicating_goods_beyond_ordinary_exchange
+    label: precious intoxicating goods beyond ordinary exchange
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: precious_object_bribe_causing_betrayal
     label: precious-object bribe causing betrayal
     occurrences: 1
@@ -14875,11 +17040,31 @@ buckets:
     occurrences: 1
     traditions:
     - greek
+  - motif_id: predestination_and_human_action
+    label: predestination and human action
+    occurrences: 1
+    traditions:
+    - sufi
+  - motif_id: predestined_human_lot
+    label: predestined human lot
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: preference_for_home_becomes_inescapable_confinement
     label: preference for home becomes inescapable confinement
     occurrences: 1
     traditions:
     - greek
+  - motif_id: present_joy_contrasted_with_promised_future_bliss
+    label: Present joy contrasted with promised future bliss
+    occurrences: 1
+    traditions:
+    - sufi
+  - motif_id: present_life_wasted_like_a_spun_thread
+    label: present life wasted like a spun thread
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: preservation_of_older_stories_by_incorporation_into_a_great_epic
     label: Preservation of older stories by incorporation into a great epic
     occurrences: 1
@@ -14900,6 +17085,11 @@ buckets:
     occurrences: 1
     traditions:
     - roman
+  - motif_id: problem_of_evil_under_one_almighty_agent
+    label: Problem of evil under one almighty agent
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: proof_token_placed_at_the_perilous_site
     label: proof token placed at the perilous site
     occurrences: 1
@@ -14975,6 +17165,11 @@ buckets:
     occurrences: 1
     traditions:
     - comparative
+  - motif_id: public_humiliation_of_deceivers
+    label: Public humiliation of deceivers
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: public_ridicule_overcome_by_civic_necessity
     label: public ridicule overcome by civic necessity
     occurrences: 1
@@ -15025,6 +17220,11 @@ buckets:
     occurrences: 1
     traditions:
     - greek
+  - motif_id: radiant_young_commander_arriving_from_the_east
+    label: Radiant young commander arriving from the east
+    occurrences: 1
+    traditions:
+    - celtic_irish
   - motif_id: reciprocal_false_claim_exposes_theft
     label: reciprocal false claim exposes theft
     occurrences: 1
@@ -15065,6 +17265,11 @@ buckets:
     occurrences: 1
     traditions:
     - greek
+  - motif_id: recovery_from_oblivion
+    label: recovery from oblivion
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: reform_of_a_fatal_royal_custom
     label: reform of a fatal royal custom
     occurrences: 1
@@ -15205,6 +17410,11 @@ buckets:
     occurrences: 1
     traditions:
     - greek
+  - motif_id: rise_and_fall_of_cities_under_time
+    label: rise and fall of cities under time
+    occurrences: 1
+    traditions:
+    - roman
   - motif_id: rivalry_of_poetry_and_philosophy
     label: Rivalry of poetry and philosophy
     occurrences: 1
@@ -15285,6 +17495,16 @@ buckets:
     occurrences: 1
     traditions:
     - comparative
+  - motif_id: secret_withheld_because_allies_may_become_enemies
+    label: secret withheld because allies may become enemies
+    occurrences: 1
+    traditions:
+    - sufi
+  - motif_id: seduction_through_sight
+    label: seduction through sight
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: selective_breeding_for_civic_improvement
     label: Selective breeding for civic improvement
     occurrences: 1
@@ -15295,6 +17515,11 @@ buckets:
     occurrences: 1
     traditions:
     - greek
+  - motif_id: separation_as_bitter_drink
+    label: separation as bitter drink
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: separation_causing_refusal_of_food_and_care
     label: separation causing refusal of food and care
     occurrences: 1
@@ -15500,6 +17725,11 @@ buckets:
     occurrences: 1
     traditions:
     - roman
+  - motif_id: superior_healer_slain_by_jealous_healer
+    label: superior healer slain by jealous healer
+    occurrences: 1
+    traditions:
+    - celtic_irish
   - motif_id: superlative_royal_skill_demonstration
     label: Superlative royal skill demonstration
     occurrences: 1
@@ -15525,6 +17755,11 @@ buckets:
     occurrences: 1
     traditions:
     - buddhist
+  - motif_id: supernatural_cosmic_steed
+    label: supernatural cosmic steed
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: supernatural_expansion_or_accommodation_of_an_immense_assembly
     label: supernatural expansion or accommodation of an immense assembly
     occurrences: 1
@@ -15580,6 +17815,11 @@ buckets:
     occurrences: 1
     traditions:
     - roman
+  - motif_id: temporary_embodied_dwelling
+    label: Temporary embodied dwelling
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: temporary_helper_becomes_permanent_master
     label: temporary helper becomes permanent master
     occurrences: 1
@@ -15670,6 +17910,11 @@ buckets:
     occurrences: 1
     traditions:
     - buddhist
+  - motif_id: transmission_of_mystical_poetry_across_cultures
+    label: Transmission of mystical poetry across cultures
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: treasure_secret_withheld_after_brother_s_heart_is_shown
     label: treasure secret withheld after brother's heart is shown
     occurrences: 1
@@ -15680,6 +17925,11 @@ buckets:
     occurrences: 1
     traditions:
     - greek
+  - motif_id: tripartite_cosmic_realm
+    label: tripartite cosmic realm
+    occurrences: 1
+    traditions:
+    - roman
   - motif_id: true_figure_identified_among_identical_claimants
     label: True figure identified among identical claimants
     occurrences: 1
@@ -15690,6 +17940,11 @@ buckets:
     occurrences: 1
     traditions:
     - greek
+  - motif_id: true_friend_needed_in_adversity
+    label: true friend needed in adversity
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: unattainable_object_disparaged_after_failure
     label: unattainable object disparaged after failure
     occurrences: 1
@@ -15725,6 +17980,16 @@ buckets:
     occurrences: 1
     traditions:
     - greek
+  - motif_id: universal_change_with_nothing_perishing
+    label: universal change with nothing perishing
+    occurrences: 1
+    traditions:
+    - roman
+  - motif_id: universal_mutability_of_forms
+    label: universal mutability of forms
+    occurrences: 1
+    traditions:
+    - roman
   - motif_id: universal_stilling_and_suspension_at_a_decisive_moment
     label: Universal stilling and suspension at a decisive moment
     occurrences: 1
@@ -15735,11 +18000,21 @@ buckets:
     occurrences: 1
     traditions:
     - roman
+  - motif_id: unspoken_verse_as_illness_relieved_by_recitation
+    label: unspoken verse as illness relieved by recitation
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: unused_hoarded_wealth_is_equivalent_to_worthless_substitute
     label: Unused hoarded wealth is equivalent to worthless substitute
     occurrences: 1
     traditions:
     - greek
+  - motif_id: unwilled_coming_into_and_going_out_of_existence
+    label: Unwilled coming into and going out of existence
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: unwitting_cannibal_feast_of_kin
     label: unwitting cannibal feast of kin
     occurrences: 1
@@ -15845,6 +18120,11 @@ buckets:
     occurrences: 1
     traditions:
     - greek_roman
+  - motif_id: wine_as_consolation_and_challenge_to_piety
+    label: Wine as consolation and challenge to piety
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: winged_companion_sent_ahead_as_advance_challenger
     label: Winged companion sent ahead as advance challenger
     occurrences: 1
@@ -15865,6 +18145,11 @@ buckets:
     occurrences: 1
     traditions:
     - greek_roman
+  - motif_id: written_and_unalterable_destiny
+    label: written and unalterable destiny
+    occurrences: 1
+    traditions:
+    - sufi
   - motif_id: wrongdoer_involuntarily_reveals_hidden_crime
     label: Wrongdoer involuntarily reveals hidden crime
     occurrences: 1
@@ -15880,4 +18165,4 @@ buckets:
     occurrences: 1
     traditions:
     - roman
-  count: 699
+  count: 805

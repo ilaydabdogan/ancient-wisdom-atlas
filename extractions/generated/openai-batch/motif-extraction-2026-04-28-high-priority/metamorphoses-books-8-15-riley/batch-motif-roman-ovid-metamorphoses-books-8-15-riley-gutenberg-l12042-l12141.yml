@@ -1,0 +1,449 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l12042-l12141
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+passage_locator:
+  label: EXPLANATION. / EXPLANATION. / EXPLANATION. / BOOK THE FIFTEENTH.; lines 12042-12141
+  start: '12042'
+  end: '12141'
+  translation: The Metamorphoses of Ovid, Books VIII-XV
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage introduces Numa seeking knowledge and then gives an old local
+    account of Crotona''s origin: Hercules once foretells a city at Croton''s dwelling;
+    later Hercules appears in dreams to Myscelos and commands him to leave Argos for
+    the river Aesar. Myscelos is prosecuted under a law forbidding departure, prays
+    to Hercules, and is acquitted when black condemnation pebbles miraculously turn
+    white. He sails to Italy, finds Croton''s sacred bones, and founds Crotona there.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Numa leaves his country and cares behind to inquire into the nature of things
+    and reaches the city associated with Hercules.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: An aged local informant recounts the origin of a Greek city on Italian shores.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Hercules, after arriving with Iberian cattle, rests at Croton's dwelling and
+    says that in Croton's grandsons' time the place will be the site of a city.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Hercules appears to Myscelos during sleep and commands him to leave his native
+    home for the streams of the Aesar, threatening him if he does not obey.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Myscelos is divided between the divine command to depart and the city law
+    that forbids departure on pain of death.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Hercules appears again at night with the same command and more severe threats.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Myscelos is accused of contempt for the laws and prays to Hercules for aid.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The voting custom uses black pebbles for condemnation and white pebbles for
+    acquittal.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: After black pebbles are cast into the urn, all the pebbles change from black
+    to white when poured out for counting, and Myscelos is acquitted.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: Myscelos thanks Hercules, sails across the Ionian sea with favorable winds,
+    reaches the mouth of the Aesar, finds Croton's burial mound, and founds walls
+    on the appointed land.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: The new city receives the name of Croton, whose sacred bones are beneath the
+    mound.
+  category: relationship
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Numa
+  description: An illustrious man destined by Fame for sovereign power who seeks knowledge
+    of religious ceremonials and the nature of things.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: aged native informant
+  description: An older local person who knows the past and answers Numa's inquiry
+    about the city's founder.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Hercules / son of Jove / club-bearer / son of Amphitryon
+  description: A divine or heroic figure who arrives with Iberian cattle, foretells
+    a city, commands Myscelos in dreams, and aids his acquittal.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:4
+  name_or_label: Croton
+  description: A host of Hercules whose dwelling becomes the foretold site of a city
+    and whose sacred bones lie beneath a mound near the Aesar.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: fig:5
+  name_or_label: Myscelos, son of Alemon
+  description: An Argive favored by the gods who receives Hercules' dream command,
+    is tried for attempting to leave Argos, is miraculously acquitted, and founds
+    Crotona.
+  role_refs:
+  - role:6
+  - role:7
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:6
+  name_or_label: Argives or city authorities
+  description: The community or authorities whose law forbids leaving the city without
+    permission and under which Myscelos is accused.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: knowledge-seeking ruler-to-be
+  assigned_to:
+  - fig:1
+  basis: Numa is destined for sovereign power and travels to inquire into the nature
+    of things.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: local tradition narrator
+  assigned_to:
+  - fig:2
+  basis: The aged native replies to the inquiry by recounting the city's origin.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: prophetic visitor
+  assigned_to:
+  - fig:3
+  basis: Hercules predicts that Croton's dwelling-place will become the site of a
+    city.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: divine commander and helper
+  assigned_to:
+  - fig:3
+  basis: Hercules commands Myscelos in dreams and later changes the verdict to acquittal.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:5
+  label: eponymous buried figure
+  assigned_to:
+  - fig:4
+  basis: Croton's bones are under the mound, and his name is transferred to the city.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: commanded emigrant
+  assigned_to:
+  - fig:5
+  basis: Myscelos is ordered to leave Argos and go to the Aesar.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: city founder
+  assigned_to:
+  - fig:5
+  basis: Myscelos founds walls on the appointed land and names the city from Croton.
+  evidence_refs:
+  - ev:6
+- id: role:8
+  label: legal obstacle
+  assigned_to:
+  - fig:6
+  basis: The law forbids departure, and Myscelos is accused of contempt for it.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: dream command
+  literal_form: Hercules appearing while Myscelos sleeps and commanding departure
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: black and white judgment pebbles
+  literal_form: Black pebbles for condemnation and white pebbles for acquittal, cast
+    into an urn
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: river Aesar
+  literal_form: Pebbly streams and mouth of the river Aesar, the destination of Myscelos
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: sym:4
+  label: Ionian sea voyage
+  literal_form: Sailing over the Ionian sea with favoring gales
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: burial mound and sacred bones
+  literal_form: A mound covering the sacred bones of Croton
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: appointed land and city walls
+  literal_form: Land where Myscelos founds walls for the new city
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Numa's inquiry and the local account
+  summary: Numa travels in pursuit of knowledge and asks who founded the Greek city
+    on the Italian shores; an aged local person begins an origin account.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Hercules' prophecy at Croton's dwelling
+  summary: Hercules arrives with Iberian cattle, rests at Croton's dwelling, and foretells
+    that the place will become the site of a city.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Myscelos receives dream commands
+  summary: Hercules appears to Myscelos in sleep, commands him to leave Argos for
+    the Aesar, and repeats the command with stronger threats.
+  figure_refs:
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Trial and miraculous acquittal
+  summary: Myscelos is accused under the anti-departure law, prays to Hercules, and
+    is acquitted when the condemning black pebbles turn white.
+  figure_refs:
+  - fig:3
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:5
+  label: Voyage and foundation of Crotona
+  summary: Myscelos sails to Italy, reaches the Aesar, finds Croton's mound, founds
+    walls, and names the city after Croton.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: divinely commanded departure from homeland
+  taxonomy_refs:
+  - departure
+  basis: Myscelos is ordered by Hercules to abandon his native home and go to the
+    Aesar despite the law forbidding departure.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage frames the departure as city-foundation obedience rather than
+    a full heroic quest.
+- id: motif:2
+  label: miraculous reversal of judgment
+  taxonomy_refs:
+  - divine_judgment
+  basis: A legal vote initially produces black condemnation pebbles, but they change
+    to white and the accused is acquitted through Hercules' aid.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The judgment occurs in a civic trial; the divine action alters the verdict
+    rather than delivering an oracle.
+- id: motif:3
+  label: city foundation under heroic divine guidance
+  taxonomy_refs:
+  - culture_hero
+  basis: Hercules foretells the future city, commands Myscelos to go to its site,
+    and enables the founder to escape legal punishment before founding Crotona.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The available taxonomy has no specific 'city foundation' motif; 'culture_hero'
+    is used only for the foundation-guiding function.
+- id: motif:4
+  label: foundation at an ancestral or sacred burial site
+  taxonomy_refs: []
+  basis: Myscelos founds the city near the mound covering Croton's sacred bones and
+    transfers Croton's name to the city.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage gives a foundation aition but does not elaborate ritual treatment
+    of the bones.
+- id: motif:5
+  label: prophecy of a future city
+  taxonomy_refs: []
+  basis: Hercules tells Croton that in the time of Croton's grandsons the place will
+    be the site of a city, and the narration says the promise was fulfilled.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is a brief prophetic statement embedded in an origin account.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 12042-12141; opening frame of Book XV, Fable I
+  quote_or_summary: Numa seeks broader knowledge, travels to the city associated with
+    Hercules, and asks an aged native about the founder of a Greek city on the Italian
+    shores.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 12042-12141; Hercules at Croton's dwelling
+  quote_or_summary: Hercules reaches the Lacinian shores with Iberian cattle, rests
+    at Croton's dwelling, and says that in Croton's grandsons' time the place will
+    be the site of a city.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 12042-12141; first dream command
+  quote_or_summary: 'Hercules addresses sleeping Myscelos: “desert thy native abodes;
+    go, {and} repair to the pebbly streams of the distant Æsar,” with threats if he
+    disobeys; Myscelos weighs the divine order against the law forbidding departure.'
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:4
+  type: summary
+  locator: lines 12042-12141; second dream and accusation
+  quote_or_summary: At night Hercules appears again with the same commands and harsher
+    threats; Myscelos prepares to leave, is accused of contempt for the laws, and
+    prays to Hercules for aid.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 12042-12141; pebble vote miracle
+  quote_or_summary: The old custom uses white pebbles to acquit and black pebbles
+    to condemn; although black pebbles are cast into the urn, when counted they have
+    changed to white, and Myscelos is acquitted by Hercules' aid.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 12042-12141; voyage and foundation
+  quote_or_summary: Myscelos thanks Hercules, sails over the Ionian sea, reaches the
+    river Aesar, finds a mound covering Croton's sacred bones, founds walls on the
+    appointed land, and names the city after Croton.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The narrative sequence and figures are explicit. Motif taxonomy assignment
+    is somewhat approximate where no specific city-foundation category is available.
+    No comparison claims were added because the passage itself does not explicitly
+    compare the account with another tradition.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Extraction uses only the supplied passage and metadata; footnotes were not used for additional motifs beyond geographic clarification present in the passage.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-8-15-riley-gutenberg__l12042-l12141
+  passage_sha256=3bd572a50b4f63dd83606cd040965bfbf4979fe0f282a9a13bba8c2bf3da7a37

@@ -1,0 +1,209 @@
+---
+record_id: batch.motif.sufi-omar-khayyam-sufistic-quatrains-gutenberg-l3655-l3670
+source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+passage_locator:
+  label: XLVIII. / LVIII. / LXIII. / LXVIII.; lines 3655-3670
+  start: '3655'
+  end: '3670'
+  translation: The Sufistic Quatrains of Omar Khayyam
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: "“We are no other than a moving row / Of Magic Shadow-shapes...”"
+  summary: 'A quatrain and accompanying translation compare human beings and the universe
+    to figures revolving in a magic lantern: the vault of heaven is the lantern, the
+    sun is its flame, the universe is its lamp, and a Master holds the show in midnight.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The speaker identifies “we” as a moving row of magic shadow-shapes that come
+    and go.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The shadow-shapes move round with a sun-illumined lantern held in midnight
+    by the Master of the Show.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The accompanying translation says the vault of heaven is understood as a kind
+    of magic-lantern.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The accompanying translation says the sun is the flame and the universe is
+    the lamp.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The accompanying translation says human beings are like figures that revolve
+    in the lamp.
+  category: action
+  evidence_refs:
+  - ev:2
+figures:
+- id: fig:1
+  name_or_label: we / human beings
+  description: The collective human speaker is described as magic shadow-shapes or
+    figures revolving in the lamp.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Master of the Show
+  description: A figure who holds the sun-illumined lantern in midnight.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: shadow-figures in the cosmic lantern
+  assigned_to:
+  - fig:1
+  basis: The passage says “we” are magic shadow-shapes and like figures that revolve
+    in the lamp.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: holder or operator of the show
+  assigned_to:
+  - fig:2
+  basis: The quatrain names the Master of the Show as holding the sun-illumined lantern
+    in midnight.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: magic lantern
+  literal_form: Sun-illumined lantern / magic-lantern
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: sun as flame
+  literal_form: sun / flame
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: universe as lamp
+  literal_form: universe / lamp
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: vault of heaven
+  literal_form: vault of heaven
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: midnight
+  literal_form: Midnight
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Cosmic magic-lantern show
+  summary: Human beings are described as shadow-like figures moving or revolving within
+    a cosmic lamp or lantern, with the sun as the flame and the Master of the Show
+    holding the lantern in midnight.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: Human life as shadow-play or magic-lantern projection
+  taxonomy_refs: []
+  basis: The passage repeatedly describes human beings as magic shadow-shapes or figures
+    revolving in a magic-lantern-like cosmos.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage gives an image rather than an explicit doctrinal explanation
+    of its meaning.
+- id: motif:2
+  label: Cosmos as divine or master-held apparatus
+  taxonomy_refs: []
+  basis: The vault of heaven, sun, universe, and human figures are arranged as parts
+    of a lantern show held by the Master of the Show.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The identity and theological status of the Master are not explained in
+    the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 3655-3660
+  quote_or_summary: "“We are no other than a moving row / Of Magic Shadow-shapes...”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: after quatrain, translation from O. 108
+  quote_or_summary: The prose translation says the vault of heaven is a magic-lantern,
+    the sun is the flame, the universe is the lamp, and humans are figures revolving
+    in it.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: citation
+  locator: reference line following O. 108 translation
+  quote_or_summary: Reference list for O. 108 and related editions is supplied in
+    the passage.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; citation summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The image is explicit, but broader motif classification is limited because
+    the passage itself does not explain doctrinal or comparative context.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the supplied passage does not itself support a specific cross-textual comparison.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-omar-khayyam-sufistic-quatrains-gutenberg__l3655-l3670
+  passage_sha256=b2946cc3e414f0e1c3201873c8a4de633627b1e6cc1476e729a2c4a350828cf0

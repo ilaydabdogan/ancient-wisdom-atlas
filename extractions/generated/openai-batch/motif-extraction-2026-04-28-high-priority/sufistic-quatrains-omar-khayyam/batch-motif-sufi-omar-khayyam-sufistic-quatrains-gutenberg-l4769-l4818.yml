@@ -1,0 +1,298 @@
+---
+record_id: batch.motif.sufi-omar-khayyam-sufistic-quatrains-gutenberg-l4769-l4818
+source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+passage_locator:
+  label: OMAR KHAYYAM / STANZA / STANZA / STANZA; lines 4769-4818
+  start: '4769'
+  end: '4818'
+  translation: The Sufistic Quatrains of Omar Khayyam
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives editorial variants for several stanzas. Images include
+    drinking and kissing an impassive lip; a human whisper arising from poor earth
+    and mankind being composed from luckless mould; a tulip lifting a chalice or cup
+    of heavenly wine; twin offspring of the soil being inverted from heaven to earth
+    like an empty cup; release from human or divine anxiety about tomorrow; and the
+    cup and lip ending where all begins and ends.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A speaker refers to drinking and kissing an impassive lip.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says a human whisper came from poor earth.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage says mankind was cast in luckless mould and given a name.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A tulip lifts a chalice for its accustomed drink of heavenly vintage.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The addressees are called twin offspring of the soil and are imagined being
+    inverted from heaven to earth like an empty cup.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage contrasts human or divine troubles with resigning tomorrow's tangle
+    to itself.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The passage says the cup that is drunk and the lip that is pressed end in
+    what all begins and ends in.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: speaker or addressee who drinks
+  description: An implied person associated with drinking and kissing or pressing
+    a lip.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:2
+  name_or_label: Mankind
+  description: Humanity described as cast in a luckless mould made from poor earth.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Tulip
+  description: A personified tulip that lifts a chalice or cup for heavenly wine.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: twin offspring of the soil
+  description: Two addressees or human figures called offspring of the soil and compared
+    to empty cups inverted from heaven to earth.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: drinker and kisser of the lip
+  assigned_to:
+  - fig:1
+  basis: The text refers to drinking and kissing or pressing the lip.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:2
+  label: earth-formed humanity
+  assigned_to:
+  - fig:2
+  basis: Mankind is described as cast from luckless mould composed of poor earth.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: flower lifting a cup
+  assigned_to:
+  - fig:3
+  basis: The tulip lifts a chalice or cup for heavenly vintage or wine.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: soil-born addressees
+  assigned_to:
+  - fig:4
+  basis: The addressees are called twin offspring of the soil and are compared to
+    empty cups.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: earth and mould
+  literal_form: poor earth; luckless mould
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: cup or chalice
+  literal_form: chalice; tass; empty cup; cup to drink
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:3
+  label: heavenly wine
+  literal_form: heavenly vintage; wine from heaven
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: lip
+  literal_form: impassive lip; lip pressed
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: sym:5
+  label: tulip
+  literal_form: tulip lifting a chalice
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Earth-formed humanity named
+  summary: The passage presents mankind as made from poor earth or luckless mould
+    and called by a name.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Tulip cup lifted to heaven
+  summary: A tulip lifts a chalice or small cup for heavenly drink while soil-born
+    addressees are imagined being returned toward earth like an empty cup.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Cup and lip at beginning and end
+  summary: The addressee drinks the cup and presses the lip, with both placed in relation
+    to what all begins and ends in.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: humanity formed from earth
+  taxonomy_refs:
+  - death_rebirth
+  basis: Mankind is described as composed from poor earth or luckless mould, and the
+    soil-born addressees are imagined returning earthward like empty cups.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The taxonomy reference is approximate; the passage emphasizes earth-formation
+    and return rather than an explicit rebirth episode.
+- id: motif:2
+  label: cup of heavenly wine
+  taxonomy_refs:
+  - divine_beloved
+  basis: The tulip raises a chalice or cup for heavenly vintage or wine, and other
+    lines focus on drinking, lip, and cup imagery.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The passage does not explicitly identify a divine beloved; the association
+    rests on wine-and-lip devotional imagery in the local stanza language.
+- id: motif:3
+  label: resignation of tomorrow's human and divine tangle
+  taxonomy_refs:
+  - wisdom
+  basis: A variant line urges being no more plagued by human or divine concerns and
+    resigning tomorrow's tangle to itself.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: This is a philosophical or admonitory motif rather than a narrative event.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 4769-4771
+  quote_or_summary: "“And drink; and that impassive Lip I kiss'd.”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short excerpt used for extraction evidence.
+- id: ev:2
+  type: quote
+  locator: lines 4775-4784
+  quote_or_summary: "“Poor Earth from which that Human Whisper came” and “The luckless
+    Mould in which Mankind was cast.”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short excerpt used for extraction evidence.
+- id: ev:3
+  type: summary
+  locator: lines 4790-4803
+  quote_or_summary: The tulip lifts a chalice or small cup for heavenly vintage or
+    wine; the addressees are called twin offspring of the soil and are imagined being
+    inverted from heaven to earth like an empty cup.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized for extraction evidence.
+- id: ev:4
+  type: quote
+  locator: lines 4805-4808
+  quote_or_summary: "“plagued no more with Human or Divine” and “To-morrow's tangle
+    to itself resign.”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short excerpt used for extraction evidence.
+- id: ev:5
+  type: summary
+  locator: lines 4810-4818
+  quote_or_summary: A variant says that if the cup is drunk and the lip is pressed,
+    they end in what all begins and ends in; another variant names the cup and lip
+    together.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized for extraction evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is mainly an editorial apparatus quoting stanza variants, so
+    narrative context is fragmentary. Literal imagery is clear, but motif classification
+    is approximate.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the supplied passage does not itself make or support a specific comparison to another text or tradition.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-omar-khayyam-sufistic-quatrains-gutenberg__l4769-l4818
+  passage_sha256=7fa37e41a286c85d1cb223cbdbf5cd1237b252a2b8969ba20a0914168e2b4a2a

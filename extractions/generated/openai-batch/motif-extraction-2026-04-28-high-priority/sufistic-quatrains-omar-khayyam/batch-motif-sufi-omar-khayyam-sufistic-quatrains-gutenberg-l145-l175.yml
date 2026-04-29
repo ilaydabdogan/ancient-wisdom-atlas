@@ -1,0 +1,193 @@
+---
+record_id: batch.motif.sufi-omar-khayyam-sufistic-quatrains-gutenberg-l145-l175
+source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+passage_locator:
+  label: M. WALTER DUNNE, / PUBLISHER / ILLUSTRATIONS / TABLE OF CONTENTS; lines 145-175
+  start: '145'
+  end: '175'
+  translation: The Sufistic Quatrains of Omar Khayyam
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is a table of contents listing sections and page numbers for
+    introductions, Fitzgerald editions and analysis, comparative stanza tables, Whinfield's
+    translation, and Nicolas's prose translation.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage presents a table of contents with section titles and corresponding
+    page numbers.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The listed contents include a general introduction, an introduction to Fitzgerald's
+    first edition, the complete Fitzgerald first edition, notes, an analysis, variations
+    between editions, a comparative table of stanzas, Whinfield's translation, and
+    Nicolas's prose translation.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The table of contents refers to multiple translations or editions associated
+    with Edward Fitzgerald, E.H. Whinfield, and Monsieur J.B. Nicolas.
+  category: relationship
+  evidence_refs:
+  - ev:2
+figures:
+- id: fig:1
+  name_or_label: Edward Fitzgerald
+  description: Named in titles for an introduction to his first edition, an analysis
+    of his translation, variations between his editions, and a comparative table of
+    stanzas in four editions.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Omar Khayyam
+  description: Named as the authorial figure associated with the quatrains in several
+    table-of-contents entries.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Edward Heron-Allen
+  description: Named as the author of an analysis of Edward Fitzgerald's translation.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: E.H. Whinfield, M.A.
+  description: Named as translator of the quatrains of Omar Khayyam.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Monsieur J.B. Nicolas
+  description: Named as the source of a French version from which prose translation
+    is made.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: translator
+  assigned_to:
+  - fig:1
+  - fig:4
+  basis: The table of contents explicitly refers to Fitzgerald's translation and Whinfield's
+    translation.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:2
+  label: named authorial figure
+  assigned_to:
+  - fig:2
+  basis: The passage repeatedly identifies the work as quatrains of Omar Khayyam.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: role:3
+  label: analyst
+  assigned_to:
+  - fig:3
+  basis: Edward Heron-Allen is named in the title of an analysis of Edward Fitzgerald's
+    translation.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: French-version source
+  assigned_to:
+  - fig:5
+  basis: The contents list a prose translation from the French version of Monsieur
+    J.B. Nicolas.
+  evidence_refs:
+  - ev:5
+symbols: []
+scenes:
+- id: scene:1
+  label: Table of contents for editions and translations
+  summary: A contents page enumerates introductory material, Fitzgerald editions and
+    analysis, comparative editorial materials, Whinfield's translation, and Nicolas-related
+    prose translation with page references.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 145-175
+  quote_or_summary: The passage is headed 'TABLE OF CONTENTS' and lists section titles
+    with page numbers.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 148-171
+  quote_or_summary: Entries include Fitzgerald's translation and editions, variations
+    among Fitzgerald editions, and a comparative table of stanzas in the four editions
+    of Fitzgerald.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 156-161
+  quote_or_summary: The contents list an analysis of Edward Fitzgerald's translation,
+    fifth edition, by Edward Heron-Allen, with preface, references, analysis, and
+    appendix.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 168-172
+  quote_or_summary: The contents list the quatrains of Omar Khayyam translated by
+    E.H. Whinfield, including introduction, note, and translation.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 173-175
+  quote_or_summary: The contents list quatrains translated into prose from the French
+    version of Monsieur J.B. Nicolas and a translation of the Nicolas text.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is bibliographic front matter rather than a narrative or symbolic
+    passage; no motif candidates or comparison claims are supported by the provided
+    text.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No available taxonomy symbols or motif families are directly supported by this table-of-contents passage.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-omar-khayyam-sufistic-quatrains-gutenberg__l145-l175
+  passage_sha256=d9aaf2432491014c7cc2885cb8836ef5dd995ea0fd320fac1dcddf1674df43ee

@@ -1,0 +1,400 @@
+---
+record_id: batch.motif.sufi-hafiz-divan-bell-gutenberg-l2527-l2559
+source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+passage_locator:
+  label: XXVII / XXVIII / XXXII / XXXIII; lines 2527-2559
+  start: '2527'
+  end: '2559'
+  translation: Poems from the Divan of Hafiz
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The speaker says Love’s secret treasure, seal, and key remain unchanged;
+    loyal lovers still shed pearl-like tears. He asks the winds about the beloved’s
+    perfume, describes being wounded by the beloved’s brows, and waits for healing.
+    He compares rubies in mines to blood from his wounded heart appearing on the beloved’s
+    lips, then asks the beloved’s curls not to waylay and plunder his pilgrim soul,
+    ending with a song about the still-deep fountain of tears.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A secret treasury, treasure casket, seal, and key are described as unchanged
+    and beyond the reach of thieves.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Faithful lovers are said to scatter pearls from their eyes onto the ground.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The speaker says wandering winds carry the perfume of the beloved’s curls
+    across his cheek from dusk until dawn.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The speaker says a dart from the beloved’s bent brows has wounded him, and
+    that his heart waits for the beloved to heal its pain.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The sun is described as piercing dark mines and setting rubies ablaze.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The speaker links the red ruby on the beloved’s lips with the blood of his
+    wounded heart.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The speaker asks that the beloved’s curls not waylay and plunder his pilgrim
+    soul like robbers.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Hafiz is called on to sing again of weeping eyes and a deep fountain of tears.
+  category: speech
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: speaker / Hafiz
+  description: The lyric voice who has loved, wept, been wounded, waits for healing,
+    and is addressed by name at the end.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+  - ev:8
+- id: fig:2
+  name_or_label: beloved
+  description: The addressed figure whose curls, brows, lips, and rule affect the
+    speaker.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+- id: fig:3
+  name_or_label: lovers
+  description: Faithful lovers who shed pearl-like tears.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: wandering winds
+  description: Winds that can be questioned and that carry the perfume of the beloved’s
+    curls.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: radiant sun
+  description: The sun that pierces dark mines and sets rubies ablaze.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: wounded lover
+  assigned_to:
+  - fig:1
+  basis: The speaker says he is wounded by a dart from the beloved’s brows and that
+    his heart waits for healing.
+  evidence_refs:
+  - ev:4
+- id: role:2
+  label: wounding and healing beloved
+  assigned_to:
+  - fig:2
+  basis: The beloved’s brows wound the speaker, and the speaker asks the beloved to
+    come heal the pain.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: pilgrim soul
+  assigned_to:
+  - fig:1
+  basis: The speaker calls his soul a pilgrim soul that may be waylaid and plundered.
+  evidence_refs:
+  - ev:7
+- id: role:4
+  label: faithful lovers
+  assigned_to:
+  - fig:3
+  basis: The passage states that loyalty is still found among lovers and describes
+    their weeping eyes.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: messenger of perfume
+  assigned_to:
+  - fig:4
+  basis: The winds carry the perfume of the beloved’s curls to the speaker.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: illuminator of hidden gems
+  assigned_to:
+  - fig:5
+  basis: The sun pierces dark mines and sets rubies ablaze.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: secret treasure
+  literal_form: secret treasury, Love’s treasure casket, seal, and key
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: pearls of tears
+  literal_form: pearls scattered from faithful eyes
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:8
+- id: sym:3
+  label: beloved’s curls
+  literal_form: perfumed curls that are carried by the wind and that may waylay the
+    pilgrim soul
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: sym:4
+  label: wounding brows
+  literal_form: bent brows compared to a dart
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: ruby and heart’s blood
+  literal_form: blood-red ruby on the beloved’s lips associated with the speaker’s
+    wounded heart
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: dark mines and radiant sun
+  literal_form: dark mines containing rubies, pierced by the radiant sun
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:7
+  label: fountain of tears
+  literal_form: deep fountain filled with tears
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: unchanged treasure of Love
+  summary: Love’s hidden treasure, casket, seal, and key are said to remain unchanged
+    and beyond theft, while faithful lovers continue to shed tears.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: wind-borne perfume and wound of longing
+  summary: The speaker asks the winds about the beloved and says the winds carry the
+    beloved’s perfume; he also says the beloved’s brows have wounded him and that
+    his heart waits for healing.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: rubies, mines, and heart’s blood
+  summary: The sun illuminates rubies in dark mines, and the speaker connects the
+    blood-red ruby on the beloved’s lips with his own wounded heart.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: pilgrim soul waylaid by curls
+  summary: The speaker asks the beloved’s curls not to ambush and plunder his pilgrim
+    soul, then calls for Hafiz to sing again about weeping eyes and the deep fountain
+    of tears.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:7
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: wounded lover awaiting healing from the beloved
+  taxonomy_refs:
+  - divine_beloved
+  basis: The speaker is wounded by the beloved’s brows and waits for the beloved to
+    heal his heart’s pain.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage is lyric and does not explicitly identify the beloved as divine;
+    the taxonomy link is based on Sufi lyric convention implied by source metadata
+    and must be reviewed.
+- id: motif:2
+  label: pilgrim soul obstructed by the beloved’s tresses
+  taxonomy_refs:
+  - mystical_quest
+  basis: The speaker names his soul as a pilgrim soul and asks the beloved’s curls
+    not to waylay and plunder it.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The passage gives pilgrimage imagery but no extended narrative quest.
+- id: motif:3
+  label: tears as precious or inexhaustible waters
+  taxonomy_refs: []
+  basis: Lovers’ tears are likened to pearls and later to a deep fountain still full
+    of tears.
+  evidence_refs:
+  - ev:2
+  - ev:8
+  confidence: high
+  cautions: No broader mythic comparison is asserted beyond the local lyric pattern.
+- id: motif:4
+  label: hidden treasure of love protected from thieves
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Love’s treasure casket, seal, and key are said to remain secure from thieves
+    who can neither break nor steal them.
+  evidence_refs:
+  - ev:1
+  confidence: low
+  cautions: The sacred-exchange taxonomy link is tentative; the passage does not describe
+    an explicit exchange.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2527-2531
+  quote_or_summary: The jewel of the secret treasury, Love’s treasure casket, seal,
+    and key remain as before and cannot be broken or stolen by thieves.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 2532-2535
+  quote_or_summary: Loyalty remains among lovers, and faithful eyes still scatter
+    pearl-like tears on the ground.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 2536-2541
+  quote_or_summary: The speaker says wandering winds blow the perfume of the beloved’s
+    curls across his cheek from dusk until dawn.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 2542-2545
+  quote_or_summary: A dart from the beloved’s bent brows has wounded the speaker,
+    whose heart waits helplessly for the beloved to heal its pain.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 2546-2550
+  quote_or_summary: Even if there were no seekers after rubies, the radiant sun would
+    still pierce the dark mines and set the stones ablaze.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 2550-2553
+  quote_or_summary: The blood-red ruby on the beloved’s lips is linked to the blood
+    of the speaker’s wounded heart.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:7
+  type: summary
+  locator: lines 2554-2557
+  quote_or_summary: The speaker asks the beloved’s curls not to waylay his pilgrim
+    soul like robbers or plunder him further, saying the beloved’s rule remains merciless.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:8
+  type: summary
+  locator: lines 2558-2559
+  quote_or_summary: Hafiz is urged to sing again of weeping eyes, because the fountain
+    of tears remains deep and full.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+  rights_note: Public domain source; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction uses only the supplied public-domain passage and metadata. Motif
+    assignments are cautious because the passage is symbolic lyric rather than narrative
+    myth.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims added because the passage itself does not explicitly support comparison to another text or tradition.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-hafiz-divan-bell-gutenberg__l2527-l2559
+  passage_sha256=9e8bf1b248eee1acc9580cdee93449499c8df8af5b8a54d1a98f50e5e6f54c5d

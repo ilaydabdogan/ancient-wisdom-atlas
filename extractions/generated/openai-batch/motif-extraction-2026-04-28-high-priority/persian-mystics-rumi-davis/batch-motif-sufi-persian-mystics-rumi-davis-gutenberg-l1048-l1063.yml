@@ -1,0 +1,287 @@
+---
+record_id: batch.motif.sufi-persian-mystics-rumi-davis-gutenberg-l1048-l1063
+source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+passage_locator:
+  label: MORTALITY AND IMMORTALITY / THE BELOVED THE DIVINE CONSOLER / THE SEA OF
+    LOVE / THE BEAUTY OF THE BELOVED; lines 1048-1063
+  start: '1048'
+  end: '1063'
+  translation: 'The Persian Mystics: Jalálu''d-dín Rúmí'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A speaker addresses the Beloved, declaring that spiritual beauty is glorious
+    but the Beloved's own beauty is beyond it. Imagination of the Beloved increases
+    light in the eye, but union with Him dims that light. The speaker venerates the
+    Beloved's beauty, continually inwardly proclaiming divine greatness. The heart
+    is described as having an eye that constantly desires the Beloved, and any heart
+    that has spent one night in the Beloved's air becomes like radiant day.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The speaker addresses an entity called the Beloved and contrasts spiritual
+    beauty with the Beloved's own beauty and loveliness.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says that light grows in the eye through the imagination of the
+    Beloved, but is dimmed in the presence of union with Him.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The speaker stands open-mouthed in veneration of the Beloved's beauty and
+    says that "God is most great" is continually on the heart's lips.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The heart is described as having an eye that is constantly desirous of the
+    Beloved.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The Beloved's love is described as caressing a slave, and the passage questions
+    whether the heart is worthy of that love.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Every heart that has spent one night in the Beloved's air is compared to radiant
+    day.
+  category: attribute
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: speaker
+  description: The first-person voice addressing and venerating the Beloved.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Beloved
+  description: The addressed Beloved, identified with divine beauty, love, and union.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: fig:3
+  name_or_label: heart
+  description: The heart is personified as having lips, an eye, desire, and the capacity
+    to receive the Beloved's love and air.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: adoring speaker
+  assigned_to:
+  - fig:1
+  basis: The speaker directly addresses the Beloved and stands in veneration of the
+    Beloved's beauty.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: divine beloved
+  assigned_to:
+  - fig:2
+  basis: The Beloved is addressed as possessing beauty beyond spiritual beauty, associated
+    with union, love, and the proclamation "God is most great."
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:3
+  label: desiring recipient of divine love
+  assigned_to:
+  - fig:3
+  basis: The heart has an eye fixed in desire, speaks inward praise, receives love,
+    and becomes radiant after being in the Beloved's air.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: light in the eye
+  literal_form: light growing and dimming in the eye
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: heart's eye
+  literal_form: an eye possessed by the heart
+  associated_figures:
+  - fig:3
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: radiant day
+  literal_form: a heart compared to radiant day
+  associated_figures:
+  - fig:3
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: Beloved's air
+  literal_form: air of the Beloved in which a heart sleeps for one night
+  associated_figures:
+  - fig:3
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Veneration of the Beloved's beauty
+  summary: The speaker addresses the Beloved, declares the Beloved's beauty beyond
+    ordinary spiritual beauty, and responds with veneration and inward praise.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:2
+  label: Heart transformed by the Beloved's love and air
+  summary: The Beloved's love is described as caressing the unworthy heart, and the
+    heart that sleeps in the Beloved's air becomes like radiant day.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Divine Beloved as object of adoration and desire
+  taxonomy_refs:
+  - divine_beloved
+  basis: The passage centers on an addressed Beloved whose beauty exceeds spiritual
+    beauty and whose love is desired by the heart.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage is lyric and devotional rather than narrative.
+- id: motif:2
+  label: Union with the divine Beloved surpassing ordinary perception
+  taxonomy_refs:
+  - annihilation_union
+  basis: The passage contrasts imagination of the Beloved, which increases light in
+    the eye, with the presence of union, which dims that light.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage mentions union but does not explicitly describe annihilation
+    or a full mystical process.
+- id: motif:3
+  label: Heart illumined by nearness to the Beloved
+  taxonomy_refs:
+  - mystical_quest
+  basis: The heart desires the Beloved and becomes like radiant day after one night
+    in the Beloved's air.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  confidence: medium
+  cautions: The passage contains devotional imagery of desire and transformation,
+    but no explicit journey sequence.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1048-1051
+  quote_or_summary: The speaker addresses the Beloved, saying spiritual beauty is
+    fair and glorious, but the Beloved's own beauty and loveliness are of another
+    order; the passage asks for a quality equal to His Essence.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:2
+  type: quote
+  locator: lines 1052-1053
+  quote_or_summary: '"Light waxes in the eye at the imagination of Him, / But in presence
+    of His Union it is dimmed."'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; short quotation from provided passage.
+- id: ev:3
+  type: summary
+  locator: lines 1054-1055
+  quote_or_summary: The speaker stands open-mouthed in veneration of the Beloved's
+    beauty, with "God is most great" continually on the heart's lips.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:4
+  type: summary
+  locator: lines 1056-1057
+  quote_or_summary: The heart has an eye constantly desiring the Beloved, and that
+    desire feeds both heart and eye.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:5
+  type: summary
+  locator: lines 1058-1059
+  quote_or_summary: The Beloved's love is described as slave-caressing, while the
+    passage asks where the heart could be worthy of that love.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:6
+  type: quote
+  locator: lines 1060-1061
+  quote_or_summary: '"Every heart that has slept one night in Thy air / Is like radiant
+    day."'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; short quotation from provided passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage provides clear devotional imagery and explicit Beloved/union
+    language. Motif classification is partly interpretive because the excerpt is lyric
+    rather than narrative. No comparison claims were added because the passage itself
+    does not support a specific cross-text comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata; taxonomy references limited to provided available taxonomy.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-persian-mystics-rumi-davis-gutenberg__l1048-l1063
+  passage_sha256=ca45d9bd91e107d85ba89041f2d04a666a8407fb2fa33c276b2e7915fbb502cc

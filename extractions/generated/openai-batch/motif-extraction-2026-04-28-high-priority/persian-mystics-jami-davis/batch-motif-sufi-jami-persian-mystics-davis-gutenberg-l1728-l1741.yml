@@ -1,0 +1,242 @@
+---
+record_id: batch.motif.sufi-jami-persian-mystics-davis-gutenberg-l1728-l1741
+source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+passage_locator:
+  label: ZULAIKHA'S YOUTH RETURNS / ZULAIKHA'S WISH / UNITED / SONG IN PRAISE OF THE
+    BELOVED; lines 1728-1741
+  start: '1728'
+  end: '1741'
+  translation: 'The Persian Mystics: Jámí'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: To the Maker!--the rose-grove of the sphere / Is but one leaf of the flower-garden
+    of. His creation
+  summary: A hymn addresses the Maker, describing the sphere as a single leaf within
+    the flower-garden of His creation. It asks that divine glory shine and perfection
+    be exalted, and sends many greetings from singers associated with Union, Ecstasy,
+    and benevolence.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage opens as a song in praise of the Beloved and directly addresses
+    the Maker.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: 'The sphere is described through garden imagery: a rose-grove and one leaf
+    of the flower-garden of the Maker''s creation.'
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Those who sing the Maker's praises are associated with oblations described
+    as pearls and jewels on a plate.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The speaker wishes for the magnitude of the Maker's glory to shine and for
+    the world of His perfection to be exalted.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A thousand chants of salutation and greeting are said to come from philomels
+    of the garden-mansion of Union and benevolence.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The philomels are identified as musicians of an assembly of witnesses and
+    as songsters in a house of Ecstasy and benevolence.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: the Maker / Beloved
+  description: The divine addressee praised as Maker, source of creation, glory, and
+    perfection.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: those who sing His praises
+  description: Praisers for whom oblations are imagined as a plate of pearls and jewels.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: philomels of the garden-mansion of Union
+  description: Bird-singers who offer chants of salutation and greeting and are called
+    musicians and songsters.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: praised creator
+  assigned_to:
+  - fig:1
+  basis: The passage addresses the Maker and describes creation, glory, and perfection
+    as belonging to Him.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: praising singers
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The passage describes singers of praise and philomels who chant salutations
+    and serve as musicians or songsters.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: garden of creation
+  literal_form: rose-grove, leaf, and flower-garden imagery applied to the sphere
+    and creation
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: pearls and jewels of oblation
+  literal_form: a plate full of pearls and jewels offered as oblations
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Union
+  literal_form: garden-mansion of Union and benevolence
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: Ecstasy
+  literal_form: delightful house of Ecstasy and benevolence
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Hymn of praise to the Maker
+  summary: The speaker praises the Maker by presenting creation through garden imagery,
+    wishing for divine glory and perfection to be exalted, and describing singers
+    who send chants from settings of Union and Ecstasy.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: divine beloved praised as creator
+  taxonomy_refs:
+  - divine_beloved
+  basis: The heading names the Beloved, and the passage praises the Maker as creator,
+    source of glory, and perfection.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: The passage is a short hymn; the identification of the Maker with the
+    Beloved is supported by the heading but not elaborated narratively.
+- id: motif:2
+  label: mystical union and ecstasy expressed through song
+  taxonomy_refs:
+  - annihilation_union
+  - mystical_quest
+  basis: The passage places salutation chants and songsters in settings named Union
+    and Ecstasy.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: low
+  cautions: The passage mentions Union and Ecstasy as devotional settings but does
+    not explicitly describe a quest, annihilation, or a completed mystical transformation.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 1728-1731
+  quote_or_summary: '"To the Maker!--the rose-grove of the sphere / Is but one leaf
+    of the flower-garden of... His creation"'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 1732-1734
+  quote_or_summary: Those who sing the Maker's praises are described as having a plate
+    full of pearls and jewels for oblations.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: quote
+  locator: lines 1735-1736
+  quote_or_summary: '"May the magnitude of His glory shine, and the world of His perfection
+    be exalted!"'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: summary
+  locator: lines 1738-1740
+  quote_or_summary: A thousand chants of greeting come from philomels of the garden-mansion
+    of Union and benevolence.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 1740-1741
+  quote_or_summary: The philomels are musicians of the assembly of witnesses and songsters
+    in the delightful house of Ecstasy and benevolence.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif assignment is cautious because
+    the passage is devotional and symbolic rather than narrative. No comparison claims
+    were made because the passage does not itself support a specific cross-textual
+    comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage text and metadata. Available taxonomy references were applied only where directly supported by the wording of the passage.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-jami-persian-mystics-davis-gutenberg__l1728-l1741
+  passage_sha256=4782f4af40915c07c9e681fd260c8b619534f96863032f9ca0a4df975b457f6d

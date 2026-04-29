@@ -1,0 +1,277 @@
+---
+record_id: batch.motif.sufi-jami-persian-mystics-davis-gutenberg-l1867-l1888
+source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+passage_locator:
+  label: THE DOWNFALL OF THE MIGHTY / JUSTICE AND VIRTUE / HOW ALEXANDER ACQUIRED
+    HIS POWER / FOURTH GARDEN; lines 1867-1888
+  start: '1867'
+  end: '1888'
+  translation: 'The Persian Mystics: Jámí'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Alexander explains that his youthful dominion came from conciliating enemies
+    and strengthening alliances with friends. A following didactic stanza states that
+    a person's value lies not in silver and gold but in power and virtue, and that
+    virtue can raise a slave above a gentleman while lack of virtue can lower a gentleman
+    beneath his slave.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Alexander is asked how he attained dominion, power, and glory at a young age
+    and during a short reign.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Alexander answers that he conciliated foes until they abandoned enmity.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Alexander says he strengthened alliances with friends until they were firm
+    in amity.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The passage states that a man's price is not in silver and gold.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage states that a man's value is his power and virtue.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The passage states that a slave may acquire virtue and attain greater power
+    than a gentleman.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: The passage states that a gentleman lacking virtue may become inferior to
+    his own slave.
+  category: relationship
+  evidence_refs:
+  - ev:2
+figures:
+- id: fig:1
+  name_or_label: Alexander
+  description: A ruler who attained dominion, power, and glory at a youthful age and
+    explains the means of his power.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: foes
+  description: Opponents whom Alexander says he conciliated until they turned from
+    enmity.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: friends
+  description: Allies whom Alexander says he strengthened in bonds of amity.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: man
+  description: A generalized human figure whose value is discussed in terms of power
+    and virtue rather than silver and gold.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: slave
+  description: A low-status figure who may acquire virtue and attain greater power
+    than a gentleman.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: gentleman
+  description: A high-status figure who may become inferior to his own slave through
+    want of virtue.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: ruler explaining power
+  assigned_to:
+  - fig:1
+  basis: Alexander is asked how he attained dominion, power, and glory and gives an
+    answer.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: model of conciliatory rule
+  assigned_to:
+  - fig:1
+  basis: He attributes power to conciliating foes and strengthening alliances.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: former enemies
+  assigned_to:
+  - fig:2
+  basis: They are described as foes turned away from enmity by conciliation.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: allied friends
+  assigned_to:
+  - fig:3
+  basis: They are described as friends whose alliances were strengthened.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: subject of moral valuation
+  assigned_to:
+  - fig:4
+  basis: The passage defines the value of a man by power and virtue rather than wealth.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: virtuous low-status person
+  assigned_to:
+  - fig:5
+  basis: A slave who acquires virtue may attain more power than a gentleman.
+  evidence_refs:
+  - ev:2
+- id: role:7
+  label: high-status person diminished by lack of virtue
+  assigned_to:
+  - fig:6
+  basis: A gentleman without virtue may become inferior to his own slave.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: silver and gold
+  literal_form: silver and gold
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: virtue
+  literal_form: virtue
+  associated_figures:
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: alliances with friends
+  literal_form: alliances
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Alexander explains his dominion
+  summary: Alexander is asked how he gained power and glory so young and answers that
+    he won over foes and secured friends through firm alliances.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: The value of a man
+  summary: A didactic stanza contrasts material price with moral worth and says virtue
+    may elevate a slave above a gentleman, while lack of virtue may lower a gentleman
+    beneath his slave.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: power gained through conciliation and alliance
+  taxonomy_refs:
+  - royal_legitimacy
+  - wisdom
+  basis: Alexander grounds his dominion not in force or inheritance but in reconciling
+    enemies and strengthening bonds with friends.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage is a brief didactic anecdote; the taxonomy link to royal legitimacy
+    is thematic rather than explicit.
+- id: motif:2
+  label: virtue over wealth and social rank
+  taxonomy_refs:
+  - wisdom
+  basis: The stanza states that a person's worth is not silver and gold but power
+    and virtue, and reverses the expected hierarchy between slave and gentleman according
+    to virtue.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is a moral wisdom motif rather than a narrative mythic episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1867-1875
+  quote_or_summary: Alexander is asked how he gained dominion, power, and glory at
+    a young age; he replies that he conciliated foes and strengthened alliances with
+    friends.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: lines 1881-1888
+  quote_or_summary: The stanza says a man's value is not silver and gold but power
+    and virtue; virtue may raise a slave above a gentleman, and lack of virtue may
+    make a gentleman inferior to his slave.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif assignment is limited by the
+    passage's concise didactic form. No comparison claims are made because the passage
+    does not itself establish a comparison to another tradition or motif family beyond
+    available taxonomy tagging.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy references are limited to the provided available motif families; no external comparisons added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-jami-persian-mystics-davis-gutenberg__l1867-l1888
+  passage_sha256=b56162f6b741e3f712d5d1c62cd2134267d4c218b1c646bcd00de7779e9f0504

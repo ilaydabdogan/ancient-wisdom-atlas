@@ -1,0 +1,357 @@
+---
+record_id: batch.motif.sufi-omar-khayyam-sufistic-quatrains-gutenberg-l1307-l1336
+source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+passage_locator:
+  label: XXXIX. / XLII. / XLIII. / XLIV.; lines 1307-1336
+  start: '1307'
+  end: '1336'
+  translation: The Sufistic Quatrains of Omar Khayyam
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: At dusk by an open tavern door, an angelic figure carries a vessel and
+    bids the speaker taste it; the contents are identified as the grape. The grape
+    is said to confute disputing sects and to transform life's base metal into gold
+    like an alchemist. Mahmud is invoked as a victorious lord who scatters and slays
+    fears and sorrows with an enchanted sword. The speaker then advises leaving the
+    wise to dispute and setting aside the quarrel of the universe.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: An angel-shaped figure appears by an open tavern door at dusk, carrying a
+    vessel on his shoulder.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The angel-shaped figure bids the speaker taste from the vessel, and the tasted
+    substance is identified as the grape.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The grape is described as able to confute the two-and-seventy jarring sects
+    with absolute logic.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The grape is described as a subtle alchemist that transforms life's leaden
+    metal into gold.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Mahmud is described as a mighty, victorious lord.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Mahmud scatters and slays a horde of fears and sorrows that infest the soul,
+    using an enchanted sword.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The speaker counsels leaving the wise to wrangle and setting aside the quarrel
+    of the universe.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The speaker proposes being couched in a corner of the hubbub and making game
+    of that which makes as much of the speaker.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: speaker
+  description: The first-person recipient of the angel-shaped figure's invitation
+    and the speaker of the final counsel.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: Angel Shape
+  description: An angel-shaped figure who comes through the dusk by the tavern door,
+    carries a vessel, and bids the speaker taste it.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: the Grape
+  description: The grape is personified as able to confute jarring sects and as a
+    subtle alchemist that transmutes life's leaden metal into gold.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Mahmud
+  description: A mighty, victorious lord who scatters and slays fears and sorrows
+    with an enchanted sword.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Fears and Sorrows
+  description: A black horde said to infest the soul and to be scattered and slain
+    by Mahmud.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: the Wise
+  description: A group characterized as wrangling.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: first-person recipient and counselor
+  assigned_to:
+  - fig:1
+  basis: The speaker is invited to taste from the vessel and later gives counsel to
+    leave disputes aside.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: angelic bearer of vessel
+  assigned_to:
+  - fig:2
+  basis: The figure is angel-shaped, bears a vessel, and commands the tasting.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: transforming alchemist
+  assigned_to:
+  - fig:3
+  basis: The grape is directly described as an alchemist that transmutes leaden metal
+    into gold.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: victorious destroyer of inner afflictions
+  assigned_to:
+  - fig:4
+  basis: Mahmud is called victorious and is said to scatter and slay fears and sorrows.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: personified inner afflictions
+  assigned_to:
+  - fig:5
+  basis: Fears and Sorrows are described as a horde infesting the soul.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: disputants
+  assigned_to:
+  - fig:6
+  basis: The Wise are said to wrangle.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: tavern door
+  literal_form: open tavern door at dusk
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: vessel
+  literal_form: vessel borne on the angel-shaped figure's shoulder
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: grape
+  literal_form: the grape tasted from the vessel; personified as confuter and alchemist
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:4
+  label: alchemical transmutation
+  literal_form: life's leaden metal transmuted into gold
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: enchanted sword
+  literal_form: sword used by Mahmud to scatter and slay fears and sorrows
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: quarrel of the universe
+  literal_form: the universe figured as a quarrel to be let be
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Angel at the tavern door
+  summary: At dusk, an angel-shaped figure arrives by the open tavern door carrying
+    a vessel and tells the speaker to taste its contents, identified as the grape.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: The grape's powers
+  summary: The grape is credited with confuting the disputing sects and with alchemically
+    transforming life's leaden metal into gold.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Mahmud against fears and sorrows
+  summary: Mahmud, named as a victorious lord, scatters and slays the horde of fears
+    and sorrows that infest the soul with an enchanted sword.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Withdrawal from disputation
+  summary: The speaker counsels leaving the wise to wrangle, setting aside the quarrel
+    of the universe, and making game of reciprocal mockery in a corner of the hubbub.
+  figure_refs:
+  - fig:1
+  - fig:6
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: angelic bearer offers transformative drink
+  taxonomy_refs: []
+  basis: An angel-shaped figure bears a vessel and commands the speaker to taste;
+    the contents are then credited with extraordinary confuting and transforming power.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage identifies the drink as the grape, but does not explicitly
+    explain its theological or ritual status.
+- id: motif:2
+  label: alchemical transformation of life
+  taxonomy_refs:
+  - wisdom
+  basis: The grape is described as a subtle alchemist that transforms life's leaden
+    metal into gold, associating insight or potency with transmutation.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The available taxonomy has no specific alchemy motif; the wisdom reference
+    is broad and interpretive.
+- id: motif:3
+  label: heroic conquest of inner afflictions
+  taxonomy_refs: []
+  basis: Mahmud is represented as a victorious lord who uses an enchanted sword to
+    scatter and slay fears and sorrows that infest the soul.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The defeated enemies are explicitly psychological or personified inner
+    states, not external mythic monsters.
+- id: motif:4
+  label: rejection of cosmic disputation
+  taxonomy_refs:
+  - wisdom
+  basis: The speaker advises leaving the wise to wrangle and setting aside the quarrel
+    of the universe.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: This is a philosophical or poetic stance rather than a narrative mythic
+    episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 1307-1312; XLII
+  quote_or_summary: At the tavern door at dusk, an 'Angel Shape' bears a vessel, bids
+    the speaker taste it, and it is 'the Grape.'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 1314-1319; XLIII
+  quote_or_summary: The grape is said to confute the two-and-seventy jarring sects
+    and to transmute life's leaden metal into gold like an alchemist.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 1321-1326; XLIV
+  quote_or_summary: Mahmud, a victorious lord, scatters and slays the horde of fears
+    and sorrows infesting the soul with an enchanted sword.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 1328-1336; XLV
+  quote_or_summary: The speaker counsels leaving the wise to wrangle, letting the
+    quarrel of the universe be, and making game from a corner of the hubbub.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward from the supplied quatrains. Motif
+    labels are interpretive and should be checked by a human reviewer, especially
+    where broad taxonomy references are used.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the supplied passage does not itself support comparison to another named tradition, text, or motif family beyond broad candidate motif labeling.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-omar-khayyam-sufistic-quatrains-gutenberg__l1307-l1336
+  passage_sha256=86d41081611e014e40539e05b2f09c4e24efb4a75fff5c187f26dec80002f268

@@ -1,0 +1,279 @@
+---
+record_id: batch.motif.sufi-jami-persian-mystics-davis-gutenberg-l1798-l1817
+source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+passage_locator:
+  label: FRIENDSHIP / SECOND GARDEN / SILENCE / OCCUPATION ENNOBLED BY A GREAT MAN;
+    lines 1798-1817
+  start: '1798'
+  end: '1817'
+  translation: 'The Persian Mystics: Jámí'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage first advises silence and guarding secrets. It then tells of
+    Alexander demoting an official to a lower post; when asked about the new occupation,
+    the official says that a person is not ennobled by rank, but an office is ennobled
+    by a great person practicing honesty, justice, and equity. Alexander is pleased
+    and restores him to his former office.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that no one repented of keeping a secret sealed, but many
+    repented of revealing one.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage advises remaining silent, because quiet sitting with a collected
+    mind is better than distracting speech.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Alexander removes one of his officials from a high post and employs him in
+    a low post.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The demoted official waits upon Alexander and is asked what he thinks of his
+    occupation.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The official answers that a man is not ennobled by a great occupation, but
+    an occupation is ennobled by a great man.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The official says that honesty, justice, and equity are needed in every post.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Alexander is pleased with the official's opinion and restores him to his former
+    office.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: speaker of the silence maxim
+  description: An unnamed didactic voice advising secrecy and silence.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Alexander
+  description: A ruler who demotes an official, questions him, is pleased by his reply,
+    and reinstalls him.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: demoted official
+  description: An official removed from a high post to a low post who answers Alexander
+    with a maxim about worth, office, honesty, justice, and equity.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: didactic instructor
+  assigned_to:
+  - fig:1
+  basis: The voice gives maxims about secrecy, silence, and collectedness of mind.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: ruler who tests or judges an official
+  assigned_to:
+  - fig:2
+  basis: Alexander lowers an official's post, asks his opinion, and responds to the
+    answer.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:3
+  label: official under demotion
+  assigned_to:
+  - fig:3
+  basis: The man is removed from a high post and employed in a low post.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: wise respondent
+  assigned_to:
+  - fig:3
+  basis: The official gives a moral answer about greatness, office, honesty, justice,
+    and equity.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: restorer of office
+  assigned_to:
+  - fig:2
+  basis: Alexander reinstalls the man in his former office after approving his opinion.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: sealed secret
+  literal_form: a secret under seal
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: high and low posts
+  literal_form: a high post and a low post
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: former office
+  literal_form: the official's former office
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Instruction on silence
+  summary: A didactic voice contrasts the safety of keeping a secret with the regret
+    caused by revealing one, and advises silent collectedness over distracting speech.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Demotion and questioning of the official
+  summary: Alexander lowers an official from a high post to a low one; the official
+    later waits on Alexander and is asked his view of the occupation.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Wise reply and restoration
+  summary: The official replies that office does not ennoble a person, but a great
+    person ennobles an office through honesty, justice, and equity; Alexander approves
+    and restores him.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: wisdom of silence and guarded speech
+  taxonomy_refs:
+  - wisdom
+  basis: The passage offers maxims praising secrecy, silence, and a collected mind
+    over revealing speech.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The available taxonomy only supports a broad wisdom classification, not
+    a specific silence motif.
+- id: motif:2
+  label: humble office ennobled by virtuous character
+  taxonomy_refs:
+  - wisdom
+  basis: The official states that greatness lies not in the rank of the occupation
+    but in the person who practices honesty, justice, and equity in any post.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: This is an ethical exemplum rather than a mythic narrative motif in the
+    narrow sense.
+- id: motif:3
+  label: ruler rewards wise answer after demotion
+  taxonomy_refs:
+  - wisdom
+  basis: Alexander demotes the official, hears his prudent answer, is pleased, and
+    reinstalls him.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage does not explicitly frame the demotion as a deliberate test,
+    so the role of testing is inferred only cautiously from the sequence.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1798-1804
+  quote_or_summary: The section titled 'SILENCE' says that people do not regret keeping
+    a secret sealed but often regret revealing one, and advises quiet collectedness
+    over distracting speech.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1805-1811
+  quote_or_summary: In 'OCCUPATION ENNOBLED BY A GREAT MAN,' Alexander removes an
+    official from a high post to a low post; the man later waits on Alexander and
+    is asked his opinion of the occupation.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 1812-1816
+  quote_or_summary: '"A man is not ennobled by a great occupation, but an occupation
+    is ennobled by a great man. In every post honesty, justice and equity are needed."'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source.
+- id: ev:4
+  type: summary
+  locator: lines 1816-1817
+  quote_or_summary: Alexander is pleased with the opinion and reinstalls the official
+    in his former office.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The extraction is based entirely on the supplied passage. Motif assignment
+    is broad because the passage is mainly didactic and ethical rather than mythic.
+    No comparison claims are made because the passage itself does not support a cross-textual
+    comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No available symbol taxonomy item directly matches the passage symbols; no comparison claims added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-jami-persian-mystics-davis-gutenberg__l1798-l1817
+  passage_sha256=7f27c1af0de36f7902c2f4b431e883e0f925961776dce5f1176a4e588bddf3cb

@@ -1,0 +1,403 @@
+---
+record_id: batch.motif.sufi-hafiz-divan-bell-gutenberg-l2637-l2669
+source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+passage_locator:
+  label: XXXII / XXXIII / XXXIV / XXXVI; lines 2637-2669
+  start: '2637'
+  end: '2669'
+  translation: Poems from the Divan of Hafiz
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The speaker addresses the beloved, asks that the past not be questioned,
+    contrasts Love’s fire and enduring faith with royal sovereignty, warns that a
+    monk without treasure cannot provide truth or alchemy, points instead to the wandering
+    dervish’s goal, denies that learned books hold the key to Love’s locked gateway,
+    and urges Hafiz to accept the season of roses without asking why.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The speaker addresses a beloved and asks that the past be questioned no more.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The beloved is described as the breath of mercy passing over the whole world,
+    while the speaker calls himself an offender.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage says the secret of Love’s fire can be made manifest, and directs
+    attention to a steadfast torch flame rather than the wind’s wayward choir.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The speaker says he will no longer sing of Darius and Alexander’s sovereignty.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A monk is said not to possess Truth’s pure gold or alchemy because his treasure-house
+    is bare and his hearth-stone cold.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A wandering dervish is mentioned as moving toward a goal, and the passage
+    warns not to question his rags.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The passage says learned books do not contain the key to Love’s locked gateway.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: A heart made wise through pain and sorrow is told to ask for no remedy.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: When the time of roses comes again, Hafiz is urged to take what it gives before
+    it passes.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: speaker
+  description: The first-person voice addressing the beloved and later naming Hafiz.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: beloved
+  description: The addressee described as a breath of mercy over the whole world.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: monk
+  description: A monk described as hiding no riches and unable to give Truth’s pure
+    gold or teach alchemy.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: wandering dervish
+  description: A dervish whose goal is to be asked about, while his rags are not to
+    be questioned.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Hafiz
+  description: Named figure urged to take what the time of roses gives before it flies.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Darius and Alexander
+  description: Royal figures whose sovereignty the speaker says he no longer sings
+    of.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: penitent speaker
+  assigned_to:
+  - fig:1
+  basis: The speaker calls himself an offender and asks the beloved not to question
+    the past.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: merciful beloved
+  assigned_to:
+  - fig:2
+  basis: The beloved is described as the breath of mercy passing over the whole wide
+    world.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: false or empty religious teacher
+  assigned_to:
+  - fig:3
+  basis: The monk is said to lack Truth’s pure gold, alchemical knowledge, treasure,
+    and warmth.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: wandering seeker
+  assigned_to:
+  - fig:4
+  basis: The dervish is described as wandering toward a goal or desire not understood
+    by others.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: recipient of counsel
+  assigned_to:
+  - fig:5
+  basis: Hafiz is directly instructed to accept what the time of roses gives.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: earthly sovereigns
+  assigned_to:
+  - fig:6
+  basis: Darius and Alexander are mentioned only in relation to sovereignty that the
+    speaker no longer sings of.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: Love’s fire
+  literal_form: fire
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: torch flame
+  literal_form: steadfastly burning torch flame
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Truth’s pure gold
+  literal_form: gold
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: alchemy
+  literal_form: alchemy
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: wandering dervish’s rags
+  literal_form: rags
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: Love’s locked gateway and key
+  literal_form: locked gateway and key
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:7
+  label: learned books
+  literal_form: books
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:8
+  label: time of roses
+  literal_form: roses
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:9
+  label: breath of mercy
+  literal_form: breath passing over the world
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Appeal to the merciful beloved
+  summary: The speaker addresses the beloved, identifies the beloved with mercy, calls
+    himself an offender, and asks that the past not be questioned.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:9
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Love’s fire over worldly sovereignty
+  summary: The speaker points to Love’s fire and a steadfast torch flame, asks about
+    undying faith and love, and rejects singing of Darius and Alexander’s sovereignty.
+  figure_refs:
+  - fig:1
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Monk and dervish contrasted
+  summary: The passage warns not to ask a monk for truth or alchemy because he lacks
+    treasure, but directs attention to the goal of the wandering dervish rather than
+    his rags.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Books fail to open Love’s gateway
+  summary: The passage says learned books do not provide the key to Love’s locked
+    gateway, tells the sorrow-wise heart not to seek a remedy, and urges Hafiz to
+    accept the returning time of roses.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:6
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: mystical love beyond discursive questioning
+  taxonomy_refs:
+  - mystical_quest
+  - divine_beloved
+  basis: Repeated injunctions not to ask or question are tied to Love’s fire, the
+    beloved as mercy, and the inability of books to supply the key to Love’s locked
+    gateway.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The passage is lyric and does not explicitly identify the beloved as divine;
+    the motif assignment relies on internal Sufi-lyric imagery and available taxonomy
+    labels.
+- id: motif:2
+  label: wandering dervish as seeker of hidden goal
+  taxonomy_refs:
+  - mystical_quest
+  basis: The passage directs inquiry toward the goal of the wandering dervish while
+    rejecting attention to his rags.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The goal is not specified in the passage.
+- id: motif:3
+  label: wisdom through suffering rather than books
+  taxonomy_refs:
+  - wisdom
+  basis: The passage contrasts learned books, which fail to yield the key to Love’s
+    gateway, with a heart grown wise in pain and sorrow.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The exact content of the wisdom is not spelled out beyond relation to
+    Love and acceptance.
+- id: motif:4
+  label: renunciation of worldly sovereignty
+  taxonomy_refs:
+  - annihilation_union
+  basis: The speaker says he no longer sings of Darius and Alexander’s sovereignty,
+    placing this after faith and love that never dies.
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: The passage only states rejection of royal sovereignty as a topic; it
+    does not explicitly describe annihilation or union.
+- id: motif:5
+  label: seasonal rose-time accepted before it passes
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage speaks of the time of roses coming again and urges Hafiz to take
+    what it gives before it flies.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The seasonal cycle is brief and figurative; no fuller mythic seasonal
+    narrative is present.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 2637-2644
+  quote_or_summary: The speaker addresses the beloved, asks who told the beloved not
+    to ask about his life or dwelling, calls the beloved the breath of mercy over
+    the world, calls himself the offender, and asks that the past be questioned no
+    more.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:2
+  type: summary
+  locator: 2645-2652
+  quote_or_summary: The speaker says the secret of Love’s fire may be seen, directs
+    attention to a steadfast torch flame rather than the wind’s choir, asks about
+    faith and love that never dies, and says he sings no more of Darius and Alexander’s
+    sovereignty.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:3
+  type: summary
+  locator: 2653-2660
+  quote_or_summary: The passage says not to ask the monk for Truth’s pure gold or
+    alchemy, because he has no riches, bare treasure-house, and cold hearth; instead
+    ask what goal the wandering dervish seeks, and do not question his rags.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:4
+  type: summary
+  locator: 2661-2669
+  quote_or_summary: The passage says learned books will not yield the key to Love’s
+    locked gateway; the heart grown wise through pain and sorrow should ask no remedy;
+    when the time of roses returns, Hafiz should take what it gives before it passes
+    and ask no more why.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+  rights_note: Public domain source; summarized rather than quoted.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based only on the supplied passage. Motif labels are cautious
+    because the passage is lyric and symbolic rather than narrative; no passage-supported
+    comparison claims were added.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  The provided passage text contains only section XXXVI despite the locator label listing multiple section numbers; extraction follows the supplied passage text.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-hafiz-divan-bell-gutenberg__l2637-l2669
+  passage_sha256=24225faef998df7ebe4f8ff18631a651be71f203d54e25197f43ee23d1edb4a5

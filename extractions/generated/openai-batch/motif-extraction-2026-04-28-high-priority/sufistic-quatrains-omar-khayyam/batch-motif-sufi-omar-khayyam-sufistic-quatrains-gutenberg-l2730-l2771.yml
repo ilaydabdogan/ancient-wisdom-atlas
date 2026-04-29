@@ -1,0 +1,453 @@
+---
+record_id: batch.motif.sufi-omar-khayyam-sufistic-quatrains-gutenberg-l2730-l2771
+source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+passage_locator:
+  label: XXIV. / XXVI. / XXVII. / XXVIII.; lines 2730-2771
+  start: '2730'
+  end: '2771'
+  translation: The Sufistic Quatrains of Omar Khayyam
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: I came like Water, and like Wind I go.
+  summary: Two FitzGerald quatrains describe a youthful seeker frequenting learned
+    and holy figures, hearing arguments, sowing the seed of Wisdom, and concluding
+    that he came like water and goes like wind. The accompanying notes connect these
+    quatrains with Persian source quatrains about study with teachers, a falcon flying
+    from the World of mystery toward heights above and returning by the same door,
+    and the inability of anyone to solve the secrets of eternity.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The speaker says that when young he eagerly frequented Doctor and Saint and
+    listened to extended argument.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker says he came out by the same door through which he entered.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The speaker says he sowed the seed of Wisdom with others and worked by his
+    own hand to make it grow.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The stated harvest of the speaker's effort is the saying that he came like
+    Water and goes like Wind.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The editorial note says the two quatrains should be considered together and
+    are inspired by O. 121, C. 281, and O. 72.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: One cited source quatrain says the speakers frequented a teacher when young,
+    were content with their proficiency for a while, and ended with the statement
+    that they came like water and went like wind.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: One cited source quatrain presents the speaker as a falcon who flew from the
+    World of mystery in order to soar from below to heights above, but returned by
+    the same door after finding no intimate friend.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: One cited source quatrain says no one has solved the tangled secrets of eternity
+    or set foot beyond the orbit of human understanding.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The same cited source quatrain says that, from tyro to teacher, the hands
+    of all people born of women are impotent.
+  category: attribute
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: first-person speaker
+  description: The speaker who remembers youth, study, argument, sowing Wisdom, and
+    coming and going like water and wind.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Doctor and Saint
+  description: Learned and holy figures whom the young speaker frequented and from
+    whom he heard argument.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: teacher
+  description: A teacher frequented by the speakers in one cited source quatrain.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: falcon-speaker
+  description: A first-person figure described as a falcon flying from the World of
+    mystery toward heights above.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: tyro to teacher
+  description: A range of human figures named in the source quatrain as unable to
+    solve or pass beyond the limits described.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: seeker of knowledge or ascent
+  assigned_to:
+  - fig:1
+  - fig:4
+  basis: The first-person figures pursue argument, Wisdom, or flight from the World
+    of mystery toward heights above.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: role:2
+  label: religious or learned instructor
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The Doctor, Saint, and teacher are figures frequented during the speaker's
+    or speakers' youth in contexts of argument or proficiency.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:3
+  label: limited human knower
+  assigned_to:
+  - fig:5
+  basis: The source quatrain says that from tyro to teacher no one has solved the
+    secrets or gone beyond the orbit of human understanding.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: same door
+  literal_form: door of entry and exit
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: sym:2
+  label: seed of Wisdom
+  literal_form: seed
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: harvest
+  literal_form: Harvest reaped from the cultivation of Wisdom
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: water
+  literal_form: Water in the phrase came like Water
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:5
+  label: wind
+  literal_form: Wind in the phrase go like Wind
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:6
+  label: falcon
+  literal_form: falcon
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:7
+  label: World of mystery
+  literal_form: World of mystery
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:8
+  label: heights above
+  literal_form: heights above
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:9
+  label: tangled secrets of eternity
+  literal_form: tangled secrets of eternity
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:10
+  label: orbit of human understanding
+  literal_form: orbit of human understanding
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Youthful attendance on Doctor and Saint
+  summary: The speaker recalls frequenting Doctor and Saint in youth, hearing arguments,
+    and leaving by the same door through which he entered.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Cultivation and harvest of Wisdom
+  summary: The speaker says he sowed the seed of Wisdom, worked to make it grow, and
+    reaped the conclusion that he came like water and goes like wind.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Source quatrain on teacher and outcome
+  summary: A cited source quatrain describes youthful attendance on a teacher, temporary
+    satisfaction with proficiency, and an ending expressed as coming like water and
+    going like wind.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Falcon ascent and return
+  summary: A cited source quatrain describes a falcon-speaker flying from the World
+    of mystery toward the heights above, failing to find an intimate friend, and returning
+    by the same door.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:6
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Unsolved secrets and human limitation
+  summary: A cited source quatrain states that no one has solved eternity's secrets
+    or gone beyond human understanding, and that all humans from tyro to teacher are
+    powerless in this respect.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:9
+  - sym:10
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: quest for wisdom ending in unresolved return
+  taxonomy_refs:
+  - wisdom
+  - mystical_quest
+  basis: The speaker seeks instruction and Wisdom through Doctor, Saint, and cultivation,
+    but the result is a return by the same door and an unresolved conclusion of coming
+    and going.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is a motif-level description of the passage's stated actions and
+    outcome, not a claim about a specific traditional tale type.
+- id: motif:2
+  label: life or passage figured as water and wind
+  taxonomy_refs: []
+  basis: Both FitzGerald's quatrain and a cited source quatrain express coming like
+    water and going like wind.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: No available taxonomy reference directly names wind or transience; only
+    water is available as a symbol reference.
+- id: motif:3
+  label: failed ascent from mystery to higher realm
+  taxonomy_refs:
+  - ascent
+  - mystical_quest
+  basis: The falcon-speaker flies from the World of mystery toward heights above,
+    but does not find an intimate friend and returns by the same door.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The ascent motif is present in the source quatrain quoted in the note,
+    not in the two FitzGerald quatrains alone.
+- id: motif:4
+  label: limits of human understanding before eternity
+  taxonomy_refs:
+  - wisdom
+  basis: The cited source quatrain says no one has solved the secrets of eternity
+    or passed beyond the orbit of human understanding, and that all from tyro to teacher
+    are impotent.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The passage states epistemic limitation rather than narrating a full mythic
+    episode.
+comparison_claims:
+- id: claim:1
+  claim: The editorial note explicitly links FitzGerald's two quatrains with O. 121,
+    C. 281, and O. 72 as inspirations, supporting a comparison between the English
+    quatrains and those cited Persian-source quatrains.
+  claim_level: linguistic_similarity
+  target: O. 121, C. 281, and O. 72 as cited in the note
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage provides translated excerpts and references but does not
+    supply the original-language texts or a detailed philological argument within
+    this extract.
+- id: claim:2
+  claim: The repeated wording about coming like water and going like wind supports
+    comparison of FitzGerald's quatrain with the cited source quatrain O. 121 at the
+    level of shared image and function.
+  claim_level: same_function
+  target: O. 121 source quatrain as quoted in the note
+  evidence_refs:
+  - ev:2
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim is limited to the imagery and conclusion quoted in this passage.
+- id: claim:3
+  claim: The return through the same door in FitzGerald's quatrain can be compared
+    with the falcon source quatrain's return through the same door.
+  claim_level: same_motif
+  target: C. 281 source quatrain as quoted in the note
+  evidence_refs:
+  - ev:1
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: 'The surrounding imagery differs: one scene concerns attending Doctor
+    and Saint, while the source quatrain uses a falcon''s ascent from the World of
+    mystery.'
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 2730-2735; XXVII
+  quote_or_summary: "“Myself when young did eagerly frequent / Doctor and Saint...
+    / Came out by the same door wherein I went.”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 2737-2742; XXVIII
+  quote_or_summary: "“With them the seed of Wisdom did I sow... / ‘I came like Water,
+    and like Wind I go.’”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: summary
+  locator: lines 2744-2745
+  quote_or_summary: The note says these two quatrains must be considered together
+    and are inspired by O. 121, C. 281, and O. 72.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized for evidence.
+- id: ev:4
+  type: summary
+  locator: lines 2747-2753; O. 121 note
+  quote_or_summary: A cited quatrain says that when young the speakers frequented
+    a teacher, were content with proficiency for a while, and ended with the statement
+    that they came like water and went like wind.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized for evidence.
+- id: ev:5
+  type: summary
+  locator: lines 2756-2764; C. 281 note
+  quote_or_summary: A cited quatrain says the speaker, as a falcon, flew from the
+    World of mystery to soar upward, found no intimate friend, and came out by the
+    same door by which he went in.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized for evidence.
+- id: ev:6
+  type: summary
+  locator: lines 2766-2771; O. 72 note
+  quote_or_summary: A cited quatrain says no one has solved eternity's tangled secrets
+    or gone beyond the orbit of human understanding, and that all from tyro to teacher
+    are powerless.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward from the English passage and notes.
+    Motif labels are candidate abstractions and require review, especially where they
+    are drawn from source quatrains embedded in commentary.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage text and metadata. Taxonomy references are limited to supplied motif families and symbols.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-omar-khayyam-sufistic-quatrains-gutenberg__l2730-l2771
+  passage_sha256=f7d7956cf204da66120640081a53f928eb4e458cccc92820f93123678f2b0901

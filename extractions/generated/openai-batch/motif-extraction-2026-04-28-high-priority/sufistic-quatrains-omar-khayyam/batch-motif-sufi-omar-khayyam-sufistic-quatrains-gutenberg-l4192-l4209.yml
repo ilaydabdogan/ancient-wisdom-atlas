@@ -1,0 +1,240 @@
+---
+record_id: batch.motif.sufi-omar-khayyam-sufistic-quatrains-gutenberg-l4192-l4209
+source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+passage_locator:
+  label: LXXXVIII. / LXXXIX. / XCII. / XCIII.; lines 4192-4209
+  start: '4192'
+  end: '4209'
+  translation: The Sufistic Quatrains of Omar Khayyam
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A speaker says that long-loved idols have damaged his worldly credit, drowned
+    his glory in a shallow cup, and sold his reputation for a song. An editorial note
+    connects the quatrain to another verse in which prayer, fasting, ablutions, and
+    a fast are undone by pleasures and wine.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The speaker refers to idols he has loved for a long time.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker says the idols have harmed his credit in the world.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The speaker says his glory has been drowned in a shallow cup.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The speaker says his reputation has been sold for a song.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: An editorial note states that the inspiration for the quatrain comes from
+    C. 170.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: In the cited source verse, the speaker says his mood inclined to prayer and
+    fasting and that he believed salvation was attained.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: In the cited source verse, ablutions are destroyed by pleasures and a fast
+    is annulled by half a draught of wine.
+  category: action
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: speaker
+  description: First-person speaker who loved idols, speaks of worldly credit, glory,
+    reputation, prayer, fasting, salvation, ablutions, pleasures, and wine.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: idols loved so long
+  description: Idols described as long loved by the speaker and as causing harm to
+    credit, glory, and reputation.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: first-person complainant
+  assigned_to:
+  - fig:1
+  basis: The passage is voiced in the first person and describes losses to the speaker's
+    credit, glory, and reputation.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: religious practitioner whose discipline is undone
+  assigned_to:
+  - fig:1
+  basis: The source verse speaks of prayer, fasting, salvation, ablutions, and a fast
+    annulled by wine.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: beloved harmful objects
+  assigned_to:
+  - fig:2
+  basis: The idols are described as loved and as having harmed the speaker's worldly
+    credit and reputation.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: idols
+  literal_form: Idols loved by the speaker
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: shallow cup
+  literal_form: A shallow cup in which the speaker's glory is said to be drowned
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: song
+  literal_form: A song for which the speaker's reputation is said to be sold
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: ablutions
+  literal_form: Ablutions said to be destroyed by pleasures
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: wine
+  literal_form: Half a draught of wine that annuls the speaker's fast
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: ruin of credit, glory, and reputation
+  summary: The speaker attributes damage to worldly credit, glory, and reputation
+    to the idols he has loved.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: ascetic practices undone by pleasure and wine
+  summary: The cited source verse presents prayer, fasting, ablutions, and a fast
+    as being undone by pleasures and a half draught of wine.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: worldly reputation lost through beloved idols and drink imagery
+  taxonomy_refs: []
+  basis: The quatrain links loved idols with damaged credit, drowned glory in a cup,
+    and reputation sold for a song.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage uses figurative language, but the extraction records only
+    the explicit images and actions.
+- id: motif:2
+  label: ascetic discipline undone by pleasure and wine
+  taxonomy_refs: []
+  basis: The cited source verse states that prayer, fasting, ablutions, and a fast
+    are negated by pleasures and wine.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: This motif is drawn from the editorially quoted source verse, not from
+    the main quatrain alone.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4192-4196
+  quote_or_summary: In quatrain XCIII, the speaker says long-loved idols have damaged
+    his worldly credit, drowned his glory in a shallow cup, and sold his reputation
+    for a song.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:2
+  type: summary
+  locator: line 4198
+  quote_or_summary: The editor states that the inspiration for the quatrain comes
+    from C. 170.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:3
+  type: summary
+  locator: lines 4200-4204
+  quote_or_summary: The cited C. 170 verse says that when the speaker inclined to
+    prayer and fasting he thought salvation had been attained, but ablutions were
+    destroyed by pleasures and the fast annulled by half a draught of wine.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:4
+  type: citation
+  locator: lines 4206-4209
+  quote_or_summary: Reference list for C. 170 and note that the last line is suggested
+    by O. 22.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; citation summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward from the supplied passage. Motif labels
+    are descriptive and not mapped to a specific supplied motif family, except for
+    the water-related ablution symbol.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not support a specific cross-text comparison beyond the editorial source relationship.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-omar-khayyam-sufistic-quatrains-gutenberg__l4192-l4209
+  passage_sha256=361a14a072ff111abf331b1aaf6651ac2f01579f8bb7c5049b623742d5b54d2f

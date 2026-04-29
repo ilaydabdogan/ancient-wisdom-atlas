@@ -1,0 +1,478 @@
+---
+record_id: batch.motif.sufi-hafiz-divan-bell-gutenberg-l745-l790
+source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+passage_locator:
+  label: GERTRUDE LOWTHIAN BELL / LONDON / WILLIAM HEINEMANN / INTRODUCTION; lines
+    745-790
+  start: '745'
+  end: '790'
+  translation: Poems from the Divan of Hafiz
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage explains Sufi union with God as a return to a pre-birth condition,
+    compares this with Platonic recollection and return, describes the annihilation
+    of separate personality, presents creation as God’s self-manifesting reflection,
+    retells Jami’s mirror image and a parable of fish seeking the ocean they already
+    inhabit, and notes Sufi allegorical treatment of Qur'anic creation and difficulty
+    with bodily resurrection.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage describes the soul’s losing itself in God as a return to conditions
+    before birth into the world.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage compares the Sufi soul’s longing to return to God with a Platonic
+    image of an immortal steed harnessed to the soul’s chariot longing to return to
+    the plain of birth.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The mortal body is described as a veil separating the Sufi soul from God.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The passage says Eastern philosophers push reunion further than Plato by implying
+    complete annihilation of distinct personality.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: God is described as containing both being and not being and as casting a reflection
+    upon the void, which is identified as the universe.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Jami’s image identifies the human as glass, God as the face reflected in the
+    mirror, and ultimately God as the mirror also.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: A frog sits on the shore of the ocean and praises the ocean day and night.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Fish in shallow water hear the frog’s song, desire to find the ocean, search
+    without discovering it, are caught in a fisherman’s net, see the ocean from outside
+    the water, and leap back into it.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The passage says Sufis outwardly adhere to the Qur'anic creation story while
+    inwardly treating it as allegory.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The passage says the world comes into existence when God manifests himself
+    beyond himself and ceases when God returns into himself again.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: The passage says bodily resurrection is difficult for Sufis because return
+    of the soul to the body is described as return to a prison escaped at death.
+  category: relationship
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Sufi soul
+  description: The soul that longs to return to God and has been separated by the
+    mortal veil of the body.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: God
+  description: The divine source from whom the soul has been separated; described
+    as containing being and not being and manifesting the universe as reflection.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: fig:3
+  name_or_label: Mortal body
+  description: The body described as a veil separating the soul from God and later
+    as a prison escaped at death.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: fig:4
+  name_or_label: Immortal steed
+  description: Platonic image of the steed harnessed to the chariot of the soul and
+    longing to return to the plain of birth.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: Frog
+  description: A frog on the shore of the ocean who praises the ocean continuously.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Fish
+  description: Fish in shallow water who seek the ocean, are caught in a net, see
+    the ocean, and leap back into it.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Fisherman
+  description: The possessor or user of the net into which the fish fall.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: seeker returning to source
+  assigned_to:
+  - fig:1
+  - fig:6
+  basis: The Sufi soul longs to return to God; the fish search for the ocean and leap
+    back into it after seeing it.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: divine source and all-containing reality
+  assigned_to:
+  - fig:2
+  basis: God is the origin from whom the soul is separated and is described as containing
+    being and not being, manifesting and withdrawing the world.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: role:3
+  label: barrier or confinement
+  assigned_to:
+  - fig:3
+  basis: The body is called a mortal veil and a prison from which the soul escapes
+    at death.
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: role:4
+  label: comparative Platonic image of return
+  assigned_to:
+  - fig:4
+  basis: The immortal steed of the soul’s chariot is said to long for return to the
+    plain of birth.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: witness praising surrounding reality
+  assigned_to:
+  - fig:5
+  basis: The frog sits by the ocean, sees its boundless surface, and sings its praise.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: agent of capture
+  assigned_to:
+  - fig:7
+  basis: The fish fall into a fisherman’s net during their search.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: mortal veil
+  literal_form: veil of the body
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: chariot of the soul
+  literal_form: immortal steed harnessed to the chariot of the soul
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: reflection in the void
+  literal_form: God’s reflection cast upon the void, identified as the universe
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: mirror and glass
+  literal_form: glass, face reflected in the mirror, and mirror
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: ocean
+  literal_form: boundless ocean surrounding the frog and fish
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: fisherman’s net
+  literal_form: net into which the searching fish fall
+  associated_figures:
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:7
+  label: body as prison
+  literal_form: prison from which the soul has escaped at death
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Soul’s longing for return to God
+  summary: The Sufi soul is said to long for return to God, from whom it has been
+    separated by the mortal body, and this is compared with a Platonic image of return
+    before birth.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Annihilation and divine reflection
+  summary: Union with God is described as annihilation of distinct personality, while
+    creation is described as God’s reflection upon the void and through the mirror
+    image attributed to Jami.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Fish seeking the ocean
+  summary: A frog praises the ocean; fish hear of it, search for it, fall into a net,
+    see the ocean from outside the water, and leap back into it.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Creation, withdrawal, and rejected bodily return
+  summary: The passage says Sufis treat Qur'anic creation allegorically, describe
+    the world as God’s manifestation and withdrawal, and resist bodily resurrection
+    as the soul’s return to a prison.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Return of the soul to divine origin
+  taxonomy_refs:
+  - return
+  - annihilation_union
+  basis: The passage describes losing the soul in God as a return to pre-birth conditions
+    and the soul’s longing to return to God.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage is explanatory prose about Sufi doctrine rather than a narrative
+    episode from a poem.
+- id: motif:2
+  label: Annihilation of separate personality in union
+  taxonomy_refs:
+  - annihilation_union
+  basis: The passage states that reunion implies complete annihilation of distinct
+    personality.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The statement summarizes Eastern philosophers as represented by the translator’s
+    introduction.
+- id: motif:3
+  label: Creation as divine self-reflection or manifestation
+  taxonomy_refs: []
+  basis: The universe is described as God’s reflection upon the void, and the world
+    comes into existence when God manifests himself beyond himself.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: medium
+  cautions: No available taxonomy family precisely names this creation-by-reflection
+    pattern.
+- id: motif:4
+  label: Seekers search for what surrounds them
+  taxonomy_refs:
+  - mystical_quest
+  basis: The fish seek the ocean while already in water, only recognizing it when
+    drawn out by the net and then returning to it.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The mystical meaning is supplied by the passage’s framing as a parable
+    of universal divine presence.
+- id: motif:5
+  label: Body as prison of the soul
+  taxonomy_refs: []
+  basis: The passage calls the body a prison from which the soul escapes at death
+    and resists being returned to it.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: No available taxonomy reference directly corresponds to this body-prison
+    image.
+- id: motif:6
+  label: Bodily resurrection as contested return
+  taxonomy_refs:
+  - resurrection
+  - return
+  basis: The passage discusses resurrection of the body and says Sufis find the soul’s
+    return to the body repugnant after union with God.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The motif appears as a doctrinal problem rather than as an affirmed narrative
+    event.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares the Sufi soul’s return to God with Platonic
+    doctrines in the Phaedrus involving pre-birth conditions, recollection, and the
+    chariot of the soul.
+  claim_level: same_function
+  target: Platonic Phaedrus doctrine of the soul’s return and recollection
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs:
+  - ev:2
+  confidence: high
+  limitations: The passage also says Sufi reunion is pushed further than Plato because
+    it entails annihilation of distinct personality.
+- id: claim:2
+  claim: The passage contrasts Sufi allegorical interpretation of creation and discomfort
+    with bodily resurrection with Qur'anic teachings as summarized by the author.
+  claim_level: same_motif
+  target: Qur'anic creation and bodily resurrection teachings
+  evidence_refs:
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage provides the author’s summary of Sufi attitudes and does
+    not quote the Qur'an directly.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 745-752
+  quote_or_summary: Losing the soul in God is described as return to pre-birth conditions;
+    the passage compares this with the Phaedrus image of the soul’s chariot and says
+    the Sufi soul longs to return to God through the mortal veil of the body.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 752-758
+  quote_or_summary: Eastern philosophers are said to take reunion beyond Plato, implying
+    annihilation of distinct personality; God contains being and not being and casts
+    a reflection on the void, which is the universe.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: 758-762
+  quote_or_summary: "“Thou art but the glass,” and God is described as the face reflected
+    in the mirror and the mirror also."
+  source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+  rights_note: Public domain source; brief quotation.
+- id: ev:4
+  type: summary
+  locator: 762-772
+  quote_or_summary: Jami’s parable tells of a frog praising the ocean and fish who
+    seek that ocean, fall into a fisherman’s net, see the ocean below them, and leap
+    back into it.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 773-783
+  quote_or_summary: The passage says Sufis outwardly adhere to the Qur'anic creation
+    story but inwardly treat it as allegory; the world exists when God manifests himself
+    and ceases when God returns into himself.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 784-790
+  quote_or_summary: The passage says Sufis find bodily resurrection difficult because
+    a soul united with God would have to return to the body, described as the prison
+    escaped at death.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Extraction is based on explicit prose statements and embedded parables in
+    the supplied passage. Motif mapping is cautious because the passage is interpretive
+    introduction rather than a primary mythic narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only supplied passage text and supplied taxonomy references were used.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-hafiz-divan-bell-gutenberg__l745-l790
+  passage_sha256=d534504e9ed3caf4d78dd212ca32304063d4f6d1107076fc99f0a62318c8c5e4

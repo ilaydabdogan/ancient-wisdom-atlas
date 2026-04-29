@@ -1,0 +1,406 @@
+---
+record_id: batch.motif.sufi-hafiz-divan-bell-gutenberg-l2892-l2916
+source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+passage_locator:
+  label: XXXVII / XXXVIII / XXXIX / XLIII; lines 2892-2916
+  start: '2892'
+  end: '2916'
+  translation: Poems from the Divan of Hafiz
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The speaker longs for union with the addressed beloved/Lord, imagines rising
+    from dust and grave, asks for merciful rain to quicken the grave, and envisions
+    the beloved visiting with wine and lute so that the speaker rises, dances, and
+    is renewed with youth at dawn.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The speaker asks for tidings of union and says he will rise from the dust
+    to welcome the addressee.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker’s soul is compared to a homing bird yearning for Paradise and
+    soaring free from the snares of the world.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The voice of the addressee’s love calls the speaker to be a slave, and the
+    speaker says he will rise above life, the living, time, and mortal span.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The speaker asks the Lord to pour guiding grace as rain of mercy that quickens
+    the speaker’s grave.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The speaker imagines the addressee turning blessed feet toward the grave and
+    bringing wine and a lute.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The addressee’s voice rings through the speaker’s winding-sheet, after which
+    the speaker will arise and dance to the minstrelsy.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The speaker asks to be clasped to the addressee’s breast for one night and
+    says that dawn will awaken him with the flush of youth.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The addressee is named as the goal of all human endeavour and the idol of
+    Hafiz’s worship, whose face bids Hafiz come forth and arise from world and life.
+  category: attribute
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: speaker / Hafiz
+  description: First-person speaker who longs for union, imagines his soul’s release,
+    prays over his grave, and is named as Hafiz at the end.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:8
+- id: fig:2
+  name_or_label: addressed beloved / Lord
+  description: Second-person addressee whose love calls the speaker, who is addressed
+    as Lord in prayer, and whose feet, voice, breast, and face are invoked.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:3
+  name_or_label: speaker’s soul
+  description: The speaker’s soul is likened to a homing bird yearning for Paradise
+    and soaring free from worldly snares.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: lover-supplicant seeking union
+  assigned_to:
+  - fig:1
+  basis: The speaker asks for tidings of union and prays to the Lord for grace and
+    mercy.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: dead or buried figure who will arise
+  assigned_to:
+  - fig:1
+  basis: The speaker refers to dust, grave, winding-sheet, and repeated arising.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+  - ev:8
+- id: role:3
+  label: beloved object of devotion
+  assigned_to:
+  - fig:2
+  basis: The addressee is the one whose union is sought and is called the goal and
+    idol of Hafiz’s worship.
+  evidence_refs:
+  - ev:1
+  - ev:8
+- id: role:4
+  label: revivifying visitor and caller
+  assigned_to:
+  - fig:2
+  basis: The addressee’s love calls the speaker, the addressee visits the grave, and
+    the voice causes the speaker to arise and dance.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+- id: role:5
+  label: liberated soul
+  assigned_to:
+  - fig:3
+  basis: The soul is said to soar toward Paradise after being set free from the snares
+    of the world.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: dust and grave
+  literal_form: dust; grave; winding-sheet
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+- id: sym:2
+  label: homing bird and Paradise flight
+  literal_form: speaker’s soul like a homing bird yearning for Paradise and soaring
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: rain of mercy
+  literal_form: clouds of guiding grace; rain of mercy quickening the grave
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: wine and lute at the grave
+  literal_form: wine and lute brought in the addressee’s hand
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: dawn renewal of youth
+  literal_form: dawn awakening the speaker with the flush of youth on the cheek
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: beloved face
+  literal_form: the addressee’s face bidding Hafiz come forth and arise
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Longing for union and ascent
+  summary: The speaker seeks tidings of union, rises from dust, and imagines the soul
+    soaring toward Paradise free from worldly snares.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Prayer for mercy on the grave
+  summary: The speaker asks the Lord to pour guiding grace as rain of mercy that quickens
+    the grave before the speaker is scattered like wind-blown dust and passes beyond
+    human knowledge.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Grave visitation with music
+  summary: The addressee comes to the speaker’s grave with wine and lute; the addressee’s
+    voice reaches through the winding-sheet, and the speaker rises and dances.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Embrace, dawn, and renewed arising
+  summary: The speaker asks for a night’s embrace; at dawn he expects to awaken with
+    youthful flush, and the addressee’s face calls Hafiz to arise from world and life.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Rising from grave or death into renewed life
+  taxonomy_refs:
+  - resurrection
+  - death_rebirth
+  basis: The passage repeatedly presents the speaker as rising from dust, grave, and
+    winding-sheet, and as being renewed with youth at dawn.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The language is lyric and devotional, so the rising may be poetic or mystical
+    rather than a narrative resurrection event.
+- id: motif:2
+  label: Soul’s ascent from worldly snares toward Paradise
+  taxonomy_refs:
+  - ascent
+  - mystical_quest
+  basis: The speaker’s soul is compared to a homing bird yearning for Paradise and
+    soaring free from the world’s snares.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The ascent is expressed as a simile within lyric speech rather than as
+    a detailed journey map.
+- id: motif:3
+  label: Divine beloved as goal of union and worship
+  taxonomy_refs:
+  - divine_beloved
+  - annihilation_union
+  basis: The speaker seeks union, addresses the Lord, responds to the call of love,
+    and calls the addressee the goal of all endeavour and idol of Hafiz’s worship.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:8
+  confidence: medium
+  cautions: The addressee combines beloved and Lord language; the passage does not
+    explicitly define the figure’s theological status.
+- id: motif:4
+  label: Revivifying water or mercy from above
+  taxonomy_refs:
+  - resurrection
+  basis: The speaker asks for rain of mercy from clouds of guiding grace to quicken
+    the grave.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The water is metaphorically joined to grace and mercy; no separate mythic
+    water source is narrated.
+- id: motif:5
+  label: Music and wine awakening the dead lover
+  taxonomy_refs:
+  - death_rebirth
+  basis: The addressee brings wine and lute to the grave, and the voice through the
+    winding-sheet causes the speaker to arise and dance.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: This is a lyric image; the available taxonomy has no specific wine or
+    music motif family.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 2892-2894
+  quote_or_summary: "“Where are the tidings of union? ... Forth from the dust I will
+    rise up to welcome thee!”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+  rights_note: Public domain source metadata; short excerpt used.
+- id: ev:2
+  type: quote
+  locator: lines 2895-2897
+  quote_or_summary: "“My soul, like a homing bird, yearning for Paradise, / Shall
+    arise and soar, from the snares of the world set free.”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+  rights_note: Public domain source metadata; short excerpt used.
+- id: ev:3
+  type: summary
+  locator: lines 2898-2900
+  quote_or_summary: The voice of the addressee’s love calls the speaker to be a slave;
+    the speaker says he will rise to something greater than mastery of life, the living,
+    time, and mortal span.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 2901-2905
+  quote_or_summary: The speaker asks the Lord for “rain of a mercy that quickeneth
+    on my grave” before being like dust carried by wind beyond human knowledge.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+  rights_note: Public domain source metadata; short excerpt used.
+- id: ev:5
+  type: summary
+  locator: lines 2906-2907
+  quote_or_summary: When the addressee turns blessed feet to the speaker’s grave,
+    the addressee will bring wine and the lute in hand.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:6
+  type: quote
+  locator: lines 2908-2909
+  quote_or_summary: "“Thy voice shall ring through the folds of my winding-sheet,
+    / And I will arise and dance to thy minstrelsy.”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+  rights_note: Public domain source metadata; short excerpt used.
+- id: ev:7
+  type: summary
+  locator: lines 2910-2912
+  quote_or_summary: The speaker asks to be clasped for one night to the addressee’s
+    breast, and says dawn will awaken him with youth’s flush on his cheek.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:8
+  type: quote
+  locator: lines 2913-2916
+  quote_or_summary: The addressee is “the goal to which all men’s endeavour has pressed”
+    and “the idol of Hafiz’ worship”; the addressee’s face bids him “come forth and
+    arise.”
+  source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+  rights_note: Public domain source metadata; short excerpt used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is direct from the supplied passage. Motif labels are
+    cautious because the passage is lyric and metaphorical rather than narrative myth.
+    No comparison claims are made because the passage itself does not compare traditions
+    or texts.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only supplied passage text, metadata, and available taxonomy references.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-hafiz-divan-bell-gutenberg__l2892-l2916
+  passage_sha256=92975c0e450c3b762366b88d903bd3957e0dd433ebaef1d45d1f3da7cf232fc5

@@ -1,0 +1,289 @@
+---
+record_id: batch.motif.sufi-jami-persian-mystics-davis-gutenberg-l1597-l1608
+source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+passage_locator:
+  label: THE WAYS OF LOVE / THE BEAUTY OF ZULAIKHA / SELF DIES IN LOVE / THE FREEING
+    OF ZULAIKHA'S SOUL; lines 1597-1608
+  start: '1597'
+  end: '1608'
+  translation: 'The Persian Mystics: Jámí'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: '"From thy stony dominion my soul will I free"'
+  summary: In a first-person address, the speaker denounces a stone-like object or
+    power that has ruined her rest, says she had bowed before it and made it her god,
+    renounced the bliss of both worlds, and now declares that she will free her soul
+    from its stony dominion and shatter its power.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage is headed as the freeing of Zulaikha's soul.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A first-person speaker addresses a second-person figure or object as having
+    broken the speaker's honour's urn.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The addressed figure or object is called a stone of offence and is associated
+    with stone-like hardness.
+  category: attribute
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:4
+  text: The speaker says she bowed before the addressed figure or object and made
+    it her god.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The speaker says she looked up with wet eyes in woe and renounced all bliss
+    that both worlds can bestow.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The speaker declares that she will free her soul from the addressed figure's
+    stony dominion.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The speaker declares that she will shatter the gem of the addressed figure's
+    power and the figure itself.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Zulaikha's soul
+  description: Named in the heading as the soul being freed.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: first-person speaker
+  description: A speaker using first-person language denounces and rejects a second-person
+    object or power.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: addressed stone-like power
+  description: The addressed second-person figure or object is described as a stone
+    of offence, as having stony dominion, and as having a gem of power.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+roles:
+- id: role:1
+  label: soul to be freed
+  assigned_to:
+  - fig:1
+  basis: The heading names the freeing of Zulaikha's soul.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: renouncing devotee or speaker
+  assigned_to:
+  - fig:2
+  basis: The speaker says she had bowed before the addressed one, made it her god,
+    and now will free her soul from it.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:3
+  label: rejected object of devotion or dominion
+  assigned_to:
+  - fig:3
+  basis: The addressed one is called stone-like, had been made the speaker's god,
+    and is said to hold stony dominion.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+symbols:
+- id: sym:1
+  label: honour's urn
+  literal_form: urn
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: stone of offence
+  literal_form: stone
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: wet eyes
+  literal_form: wet eyes
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: stony dominion
+  literal_form: stony dominion
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: gem of power
+  literal_form: gem
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Denunciation of a stone-like power
+  summary: The speaker addresses a stone-like second-person power, blaming it for
+    broken honour, unrest, and misfortune.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Recognition of misplaced devotion
+  summary: The speaker says she bowed before the addressed power, made it her god,
+    and renounced the bliss of both worlds while looking up in sorrow.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Freeing of the soul
+  summary: The speaker declares the intention to free her soul from stony dominion
+    and shatter the addressed power.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: liberation of the soul from a false object of devotion
+  taxonomy_refs:
+  - mystical_quest
+  basis: The passage presents a speaker recognizing that she had made the addressed
+    power her god and then declaring that she will free her soul from its dominion.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  confidence: medium
+  cautions: The passage does not explicitly name a broader quest; the motif label
+    is inferred from the stated freeing of the soul and rejection of misplaced devotion.
+- id: motif:2
+  label: renunciation of both-worldly bliss under dominating love or devotion
+  taxonomy_refs:
+  - annihilation_union
+  basis: The speaker says she renounced all bliss of both worlds after looking up
+    with wet eyes in woe.
+  evidence_refs:
+  - ev:5
+  confidence: low
+  cautions: The passage describes renunciation and devotion but does not explicitly
+    describe union; the taxonomy link is tentative.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: '1597'
+  quote_or_summary: 'Heading: “THE FREEING OF ZULAIKHA''S SOUL.”'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; brief quotation used for extraction.
+- id: ev:2
+  type: quote
+  locator: 1599-1600
+  quote_or_summary: The speaker addresses one who has “broken mine honour's urn” and
+    calls the addressee a “stone of offence.”
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; brief quotation used for extraction.
+- id: ev:3
+  type: summary
+  locator: 1601-1602
+  quote_or_summary: The speaker says she should strike the heart in her breast with
+    the stone-like substance of the addressee.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: quote
+  locator: 1603-1604
+  quote_or_summary: The speaker says misfortune came “When I bowed down before thee
+    and made thee my god.”
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; brief quotation used for extraction.
+- id: ev:5
+  type: summary
+  locator: 1605-1606
+  quote_or_summary: The speaker says she looked up with wet eyes in woe and renounced
+    all the bliss that both worlds can bestow.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:6
+  type: quote
+  locator: 1607-1608
+  quote_or_summary: The speaker declares, “From thy stony dominion my soul will I
+    free,” and says she will shatter the gem of the addressee's power.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; brief quotation used for extraction.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is based on the supplied English passage. Identification
+    of the first-person speaker with Zulaikha is suggested by the heading but not
+    directly stated in the quoted speech, so figures are kept descriptively labeled.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly support comparison to another text or tradition.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-jami-persian-mystics-davis-gutenberg__l1597-l1608
+  passage_sha256=41e79508f202a8cc97587f4e20d736263d226d39647564bee1103de94b6d687b

@@ -1,0 +1,324 @@
+---
+record_id: batch.motif.sufi-jami-persian-mystics-davis-gutenberg-l928-l945
+source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+passage_locator:
+  label: LOVE'S EARTHLY WAY / REASON / THE MOON OF LOVE / MORTAL PARAMOUR; lines 928-945
+  start: '928'
+  end: '945'
+  translation: 'The Persian Mystics: Jámí'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: O cleanse thy bosom of material form, / And turn the mirror of the soul to
+    spirit
+  summary: The passage addresses a human hearer whose heart was marked with wisdom
+    by the Almighty. It urges cleansing away material form, orienting the soul toward
+    spirit and intellectual truth, veiling the eyes from a mortal paramour, and avoiding
+    lust, which can cast the hearer's exalted degree from heaven to dust.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: An Almighty hand is said to have mixed the addressee's dust and inscribed
+    wisdom on the addressee's heart.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The addressee is instructed to cleanse the bosom of material form and turn
+    the mirror of the soul toward spirit.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The desired condition is possession by spirit and crowning in the light of
+    intellectual truth.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The addressee is told to veil the eyes from a mortal paramour and not follow
+    her step.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The mortal paramour is described as vice, reproach, and pollution at the hem
+    of her garment.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The addressee is warned not to madden the eyes, waste bodily strength, taint
+    the soul, or set body and soul in strife for such pollution.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The addressee's original degree is called supreme, with a star at the top
+    of heaven, but lust is said to fling it down to dust.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Almighty hand
+  description: A divine agency that mixes the addressee's dust and inscribes wisdom
+    on the heart.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: addressed human seeker
+  description: The second-person addressee whose dust, heart, bosom, soul, body, eyes,
+    degree, and star are discussed.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: mortal paramour
+  description: A female mortal beloved or object of desire whom the addressee is told
+    not to follow.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: lust
+  description: A force or condition that can fling the addressee's exalted star down
+    to dust.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: divine creator and wisdom-inscriber
+  assigned_to:
+  - fig:1
+  basis: The Almighty hand mixes dust and inscribes wisdom on the heart.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: admonished spiritual subject
+  assigned_to:
+  - fig:2
+  basis: The addressee is repeatedly instructed to cleanse, turn, veil the eyes, and
+    avoid soul-body strife.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:3
+  label: mortal temptation
+  assigned_to:
+  - fig:3
+  basis: The paramour is presented as someone not to follow and is described as vice,
+    reproach, and pollution.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: degrading passion
+  assigned_to:
+  - fig:4
+  basis: Lust is said to cast the addressee's heavenly star down to dust.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: dust
+  literal_form: dust mixed by the Almighty hand; dust to which the star may be flung
+    down
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: sym:2
+  label: heart marked with wisdom
+  literal_form: the character of wisdom inscribed on the heart
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: mirror of the soul
+  literal_form: mirror of the soul turned to spirit
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: light of intellectual truth
+  literal_form: light in which the addressee is to be crowned
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: veiled eyes
+  literal_form: eyes veiled from a mortal paramour
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: polluted garment-hem
+  literal_form: the mortal paramour's garment-hem described as pollution
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:7
+  label: body and soul in strife
+  literal_form: body and soul set in strife
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:8
+  label: star at the top of heaven
+  literal_form: the addressee's star upon the top of heaven, vulnerable to being cast
+    down
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: spiritual admonition against mortal passion
+  summary: A speaker reminds the addressee of divine formation and inward wisdom,
+    commands purification and orientation toward spirit, warns against the mortal
+    paramour, and states that lust can drag an exalted heavenly state down to dust.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: inward wisdom implanted by divine agency
+  taxonomy_refs:
+  - wisdom
+  basis: The passage states that the Almighty hand inscribed the character of wisdom
+    on the heart.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage gives a devotional and admonitory image rather than a narrative
+    episode of gaining wisdom.
+- id: motif:2
+  label: spirit versus material form and lust
+  taxonomy_refs:
+  - duality
+  basis: The passage contrasts material form, body, mortal paramour, and lust with
+    soul, spirit, wisdom, and intellectual truth, and warns against body-soul strife.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The duality is ethical and mystical in tone; no cosmological dualist system
+    is described.
+- id: motif:3
+  label: spiritual purification and inward quest
+  taxonomy_refs:
+  - mystical_quest
+  basis: The addressee is urged to cleanse the bosom, turn the soul toward spirit,
+    and avoid mortal passion in order to remain aligned with intellectual truth.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage is exhortation rather than a full quest narrative.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 930-931
+  quote_or_summary: '"The Almighty hand that mix''d thy dust inscribed / The character
+    of wisdom on thy heart"'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source text; quotation permitted.
+- id: ev:2
+  type: quote
+  locator: lines 932-936
+  quote_or_summary: '"cleanse thy bosom of material form" and turn "the mirror of
+    the soul to spirit" until crowned in "the light of intellectual truth."'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source text; quotation permitted.
+- id: ev:3
+  type: quote
+  locator: lines 937-940
+  quote_or_summary: The addressee is told to veil the eyes from the mortal paramour;
+    she is called "a vice and a reproach" and her garment-hem "pollution."
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source text; quotation permitted.
+- id: ev:4
+  type: summary
+  locator: lines 941-943
+  quote_or_summary: The speaker warns not to madden the eyes, waste bodily strength,
+    taint the soul, or set body and soul in strife for the paramour's pollution.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source text; summarized.
+- id: ev:5
+  type: quote
+  locator: lines 944-945
+  quote_or_summary: The addressee's degree is supreme and the star is at heaven's
+    top, but lust "Will fling it down even unto the dust."
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source text; quotation permitted.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal imagery and admonitory sequence are clear. Motif-family assignments
+    are limited to the provided taxonomy and should be reviewed for fit with Sufi
+    doctrinal context.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly compare this material to another tradition or motif family beyond the candidate taxonomy mapping.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-jami-persian-mystics-davis-gutenberg__l928-l945
+  passage_sha256=d17a3210731d860ef525d9c336bbb1101d8bf29d30765481aaa5dc041be4a984

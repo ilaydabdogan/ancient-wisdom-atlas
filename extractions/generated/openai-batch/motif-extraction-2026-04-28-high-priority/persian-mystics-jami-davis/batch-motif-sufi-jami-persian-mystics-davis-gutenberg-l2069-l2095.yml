@@ -1,0 +1,311 @@
+---
+record_id: batch.motif.sufi-jami-persian-mystics-davis-gutenberg-l2069-l2095
+source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+passage_locator:
+  label: A WEAVER AND A LEARNED PROFESSOR / A WORD TO THE WISE / THE EXPLICIT BEGGAR
+    / PHANTOM RELATIONS; lines 2069-2095
+  start: '2069'
+  end: '2095'
+  translation: 'The Persian Mystics: Jámí'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'Three brief didactic or comic anecdotes: a warning about neglected shaving,
+    a beggar who asks only for bread rather than household company, and a stranger
+    who claims a hypothetical kinship based on an unrealized marriage between parents.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A gentleman who does not use a hair clipper daily on his face will soon have
+    facial hair that seems to overtake the face.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A mendicant begs at a house door.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The landlord says the people of the house have gone out.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The beggar answers that he wants a morsel of bread, not the people of the
+    house.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A stranger visits a man and complains that the man does not recognize his
+    claims upon him.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The stranger bases his claim on the statement that his father wanted to marry
+    the man's mother, which would have made them brothers.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The man replies that this relationship would make each of them the other's
+    heir.
+  category: speech
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: gentleman
+  description: A man described as failing to use the hair clipper daily on his hirsute
+    countenance.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: mendicant
+  description: A beggar at the door of a house who asks for bread.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: landlord
+  description: The person at the house who says the people have gone out.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: visited man
+  description: A man visited by a stranger and addressed with a claim of relationship.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: stranger
+  description: A visitor who complains that his claims are not recognized and describes
+    a hypothetical brotherhood.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: stranger's father
+  description: The father said to have desired to marry the visited man's mother.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: visited man's mother
+  description: The woman whom the stranger says his father desired to wed.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: neglectful grooming example
+  assigned_to:
+  - fig:1
+  basis: The figure is used in an example about failing to clip facial hair daily.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: direct requester
+  assigned_to:
+  - fig:2
+  basis: The mendicant explicitly asks for bread rather than the household members.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: householder respondent
+  assigned_to:
+  - fig:3
+  basis: The landlord responds to the beggar's request by saying the people are absent.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: skeptical respondent
+  assigned_to:
+  - fig:4
+  basis: The man denies knowledge of the stranger's claims and answers the proposed
+    relationship ironically.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: claimant of hypothetical kinship
+  assigned_to:
+  - fig:5
+  basis: The stranger asserts a claim based on an unrealized parental marriage.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: hypothetical marriage party
+  assigned_to:
+  - fig:6
+  - fig:7
+  basis: The passage refers to a desired but unrealized marriage between the stranger's
+    father and the man's mother.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: hair and hair clipper
+  literal_form: facial hair and hair clipper
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: morsel of bread
+  literal_form: bread
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: house door
+  literal_form: door of a house
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: hypothetical brotherhood and heirship
+  literal_form: claimed relationship based on an unrealized marriage
+  associated_figures:
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Warning about neglected grooming
+  summary: A brief example says that if a gentleman neglects the hair clipper, the
+    hair on his face will soon seem to take over the face.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Beggar asks only for bread
+  summary: A beggar requests aid at a house; when told the people are out, he clarifies
+    that he wants bread, not the people.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Imagined kinship claim
+  summary: A stranger claims a bond with a man through a hypothetical parental marriage,
+    and the man answers by extending the hypothetical to mutual inheritance.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: concise practical wisdom through comic example
+  taxonomy_refs:
+  - wisdom
+  basis: The passages are short pointed examples that correct folly, indirectness,
+    or inflated claims through compact comic reversals.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The taxonomy reference is broad; the passage does not explicitly name
+    a mythic wisdom figure or formal wisdom contest.
+- id: motif:2
+  label: literal request exposes irrelevant excuse
+  taxonomy_refs:
+  - wisdom
+  basis: The beggar's reply turns the landlord's excuse aside by restating the concrete
+    need for bread.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This is an anecdotal wisdom pattern rather than a distinct mythological
+    motif.
+- id: motif:3
+  label: false or phantom kinship claim answered by counter-implication
+  taxonomy_refs:
+  - wisdom
+  basis: A stranger asserts an unrealized family bond, and the respondent exposes
+    its absurdity by applying it to inheritance.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage supports a comic wisdom pattern, but no broader comparative
+    relationship is stated.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2069-2074
+  quote_or_summary: Under 'A WORD TO THE WISE,' a gentleman who fails to use a hair
+    clipper daily will soon have facial hair that seems to pretend to be his head.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:2
+  type: summary
+  locator: lines 2076-2081
+  quote_or_summary: Under 'THE EXPLICIT BEGGAR,' a mendicant begs at a house door;
+    the landlord says the people have gone out, and the beggar replies that he wants
+    bread, not the household people.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:3
+  type: summary
+  locator: lines 2083-2095
+  quote_or_summary: Under 'PHANTOM RELATIONS,' a stranger claims a relationship because
+    his father wished to marry the man's mother; the man answers that such a relationship
+    would make each the other's heir.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; summarized from provided passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The literal extraction is straightforward. Motif labels are broad because
+    the passage contains comic didactic anecdotes rather than extended mythic narrative.
+    No comparison claims were added because the passage itself provides no comparative
+    framing.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only provided passage text and metadata were used.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-jami-persian-mystics-davis-gutenberg__l2069-l2095
+  passage_sha256=ac4418fd36991e2a3ddba8c18653e319fb6241e8356e25109d1c923464760579

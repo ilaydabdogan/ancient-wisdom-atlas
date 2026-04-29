@@ -1,0 +1,475 @@
+---
+record_id: batch.motif.sufi-omar-khayyam-sufistic-quatrains-gutenberg-l4869-l4936
+source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+passage_locator:
+  label: STANZA / STANZA / STANZA / STANZA; lines 4869-4936
+  start: '4869'
+  end: '4936'
+  translation: The Sufistic Quatrains of Omar Khayyam
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is an editorial note section listing variant readings for several
+    stanzas in different editions. The variants include images of a hair dividing
+    false and true, selfhood ceasing, a grape and marriage feast, the calendar and
+    year, a frail cup crumbling to dust, a flower dying, the soul returning as heaven
+    and hell, hell as the shadow of a soul on fire, visionary shapes around a sun-lit
+    lantern, and game pieces moved by a player.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A variant line states that a hair divides the false and the true.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A variant line says that a figure called He contrives, enacts, and beholds
+    Himself.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A variant line addresses a You who will be You no more tomorrow.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A variant line recommends merriment with the fruitful grape.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: A variant passage describes making carouse in a house for a new marriage.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: A variant passage refers to squaring the year to human compass by striking
+    from the calendar.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: A variant line states that a frail cup is crumbled into dust.
+  category: object
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: A variant line states that a flower once blown dies forever.
+  category: object
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: A variant says that after many days the speaker's soul returned and declared
+    itself heaven and hell.
+  category: speech
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: A variant line describes hell as the shadow of a soul on fire.
+  category: attribute
+  evidence_refs:
+  - ev:10
+- id: obs:11
+  text: A variant describes visionary shapes that come and go around a sun-illuminated
+    lantern.
+  category: setting
+  evidence_refs:
+  - ev:11
+- id: obs:12
+  text: A variant describes powerless pieces of a game played by a He figure, and
+    another line says the pieces go right or left as the player strikes.
+  category: relationship
+  evidence_refs:
+  - ev:12
+  - ev:13
+figures:
+- id: fig:1
+  name_or_label: He / Himself
+  description: A figure described as contriving, enacting, and beholding Himself,
+    and as playing a game with pieces.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:12
+- id: fig:2
+  name_or_label: You
+  description: An addressed figure who is said to be You no more tomorrow.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: my Soul
+  description: The speaker's soul returns after many days and says, “Myself am Heav'n
+    and Hell.”
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:9
+- id: fig:4
+  name_or_label: Player
+  description: A player whose strike sends pieces right or left.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:13
+- id: fig:5
+  name_or_label: impotent pieces
+  description: Pieces of a game described as powerless and moved by the player.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:12
+  - ev:13
+roles:
+- id: role:1
+  label: self-acting and observing agent
+  assigned_to:
+  - fig:1
+  basis: The figure is described as contriving, enacting, beholding Himself, and playing
+    a game.
+  evidence_refs:
+  - ev:2
+  - ev:12
+- id: role:2
+  label: addressed self facing loss of identity
+  assigned_to:
+  - fig:2
+  basis: The addressed You is said to become You no more.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: returning soul and speaker of identity claim
+  assigned_to:
+  - fig:3
+  basis: The soul returns after many days and speaks a statement identifying itself
+    with heaven and hell.
+  evidence_refs:
+  - ev:9
+- id: role:4
+  label: game mover
+  assigned_to:
+  - fig:4
+  basis: The player determines whether pieces go right or left by striking.
+  evidence_refs:
+  - ev:13
+- id: role:5
+  label: powerless game pieces
+  assigned_to:
+  - fig:5
+  basis: The pieces are called impotent and move according to the player.
+  evidence_refs:
+  - ev:12
+  - ev:13
+symbols:
+- id: sym:1
+  label: hair as boundary
+  literal_form: a hair dividing the false and true
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: fruitful grape
+  literal_form: fruitful grape
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: marriage carouse
+  literal_form: new marriage and carouse in a house
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: year and calendar
+  literal_form: year squared to human compass; calendar altered by striking
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: frail cup and dust
+  literal_form: frail cup crumbled into dust
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: flower that dies
+  literal_form: flower once blown dies forever
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:7
+  label: heaven and hell in the soul
+  literal_form: soul declaring itself heaven and hell
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:8
+  label: soul on fire
+  literal_form: soul on fire casting hell as shadow
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:10
+- id: sym:9
+  label: sun-illuminated lantern
+  literal_form: sun-illuminated lantern around which visionary shapes come and go
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:11
+- id: sym:10
+  label: game, pieces, and player
+  literal_form: impotent pieces in a game moved right or left by a player
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:12
+  - ev:13
+scenes:
+- id: scene:1
+  label: Editorially listed variants of boundary and identity
+  summary: The passage lists variant lines about a hair dividing false and true, a
+    self-acting He, and a You who will no longer be You.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Merriment, marriage, and calendrical adjustment
+  summary: The variants mention merriment with the grape, a house carouse for a new
+    marriage, and altering the calendar to fit the year to human measure.
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:3
+  label: Images of mortality and returning soul
+  summary: The variants describe a cup crumbling into dust, a flower dying forever,
+    a soul returning as heaven and hell, and hell as the shadow of a soul on fire.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:5
+  - sym:6
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:10
+- id: scene:4
+  label: Visionary lantern and game pieces
+  summary: The variants describe visionary shapes moving around a sun-lit lantern
+    and powerless game pieces moved right or left by a player.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:9
+  - sym:10
+  evidence_refs:
+  - ev:11
+  - ev:12
+  - ev:13
+candidate_motifs:
+- id: motif:1
+  label: thin boundary between false and true
+  taxonomy_refs:
+  - duality
+  - wisdom
+  basis: The passage explicitly states that a hair divides false and true, presenting
+    a minimal boundary between opposed truth values.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage is an editorial variant note rather than a full narrative
+    episode.
+- id: motif:2
+  label: dissolution or transformation of selfhood
+  taxonomy_refs:
+  - annihilation_union
+  basis: A variant addresses a You who will be You no more; another has the soul return
+    and identify itself as heaven and hell.
+  evidence_refs:
+  - ev:3
+  - ev:9
+  confidence: medium
+  cautions: The text does not explain the metaphysical doctrine behind these lines
+    in this passage.
+- id: motif:3
+  label: mortality through fragile objects and flowers
+  taxonomy_refs:
+  - death_rebirth
+  basis: The frail cup crumbles into dust and the flower that has bloomed dies forever.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The evidence supports mortality imagery, but not an explicit rebirth sequence
+    in this excerpt.
+- id: motif:4
+  label: inner heaven and hell
+  taxonomy_refs:
+  - duality
+  basis: The soul declares itself heaven and hell, and hell is described as the shadow
+    of a soul on fire.
+  evidence_refs:
+  - ev:9
+  - ev:10
+  confidence: high
+  cautions: No explicit divine judgment scene is present in this passage.
+- id: motif:5
+  label: world as game controlled by player
+  taxonomy_refs:
+  - duality
+  basis: Humanlike pieces are described as impotent pieces in a game, moving right
+    or left according to the player's strike.
+  evidence_refs:
+  - ev:12
+  - ev:13
+  confidence: medium
+  cautions: The passage does not identify the player or give a complete cosmological
+    explanation.
+- id: motif:6
+  label: human measurement of time
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: A variant refers to squaring the year to human compass and striking from
+    the calendar.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage gives only a brief calendrical image, not a full seasonal
+    myth.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 4873, 4879
+  quote_or_summary: "“A Hair, they say, divides the False and True.”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short quotation.
+- id: ev:2
+  type: quote
+  locator: lines 4883-4885
+  quote_or_summary: "“He does Himself contrive, enact, behold.”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: quote
+  locator: lines 4887-4889
+  quote_or_summary: "“To-morrow, when You shall be You no more.”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: quote
+  locator: lines 4891-4893
+  quote_or_summary: "“Better be merry with the fruitful Grape.”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short quotation.
+- id: ev:5
+  type: quote
+  locator: lines 4895-4898
+  quote_or_summary: "“You know, my Friends, how bravely in my House / For a new Marriage
+    I did make Carouse.”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short quotation.
+- id: ev:6
+  type: quote
+  locator: lines 4900-4903
+  quote_or_summary: "“Have squared the Year to Human Compass” and “by striking from
+    the Calendar.”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short quotation.
+- id: ev:7
+  type: quote
+  locator: lines 4905-4907
+  quote_or_summary: "“When the frail Cup is crumbled into Dust!”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short quotation.
+- id: ev:8
+  type: quote
+  locator: lines 4909-4911
+  quote_or_summary: "“The Flower that once is blown for ever dies.”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short quotation.
+- id: ev:9
+  type: quote
+  locator: lines 4917-4920
+  quote_or_summary: "“And after many days my Soul return'd / And said, «Behold, Myself
+    am Heav'n and Hell.»”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short quotation.
+- id: ev:10
+  type: quote
+  locator: lines 4922-4924
+  quote_or_summary: "“And Hell the Shadow of a Soul on fire.”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short quotation.
+- id: ev:11
+  type: quote
+  locator: lines 4926-4929
+  quote_or_summary: "“visionary Shapes that come and go / Round with this Sun-illumin'd
+    Lantern held.”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short quotation.
+- id: ev:12
+  type: quote
+  locator: lines 4931-4933
+  quote_or_summary: "“Impotent Pieces of the Game He plays.”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short quotation.
+- id: ev:13
+  type: quote
+  locator: lines 4935-4936
+  quote_or_summary: "“But Right or Left as strikes the Player goes.”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage consists of editorial variant excerpts rather than a continuous
+    mythic narrative; motifs are inferred only from the literal variant lines supplied.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No external comparisons were added; taxonomy references are limited to supplied motif families and symbols.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-omar-khayyam-sufistic-quatrains-gutenberg__l4869-l4936
+  passage_sha256=cedfb97f24b726c9669db8a94b06153dc8b2af861cd24c52f933461dbabac308

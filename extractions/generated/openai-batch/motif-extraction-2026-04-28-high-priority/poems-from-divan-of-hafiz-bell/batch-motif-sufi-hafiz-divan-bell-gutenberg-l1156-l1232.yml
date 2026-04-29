@@ -1,0 +1,480 @@
+---
+record_id: batch.motif.sufi-hafiz-divan-bell-gutenberg-l1156-l1232
+source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+passage_locator:
+  label: GERTRUDE LOWTHIAN BELL / LONDON / WILLIAM HEINEMANN / INTRODUCTION; lines
+    1156-1232
+  start: '1156'
+  end: '1232'
+  translation: Poems from the Divan of Hafiz
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage compares Hafiz and Dante as near contemporaries who responded
+    differently to disorder. Dante is presented as historically engaged, grounded
+    in personal faith, and associated with visionary journeys through heaven and hell.
+    Hafiz is presented as largely indifferent to contemporary political events in
+    his poetry, with a broader philosophical range. The passage then quotes Renan
+    on Persian and Indian erotic-mystical poetry, where divine and earthly love may
+    be difficult to separate, and discusses allegorical readings, double meanings,
+    and Sufism as a reaction against rigid religious simplicity.
+  language: English with quoted French
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Hafiz and Dante are described as almost contemporaries.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Both Hafiz and Dante are described as driven by surrounding confusion to seek
+    a solid basis for a theory of existence.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Dante is described as having visionary journeys through heaven and hell while
+    also living keenly among his contemporaries.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Dante is associated with images of fire, a dead heart, and a flame not extinguished
+    by death.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Hafiz is described as having seen political upheaval, sieges, bloodshed, revelry,
+    ascetic rule, and changing rulers, but with almost no echo of these events in
+    his poems.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage says Hafiz formulated the warning that no musician has music to
+    which both the drunk and the sober can dance.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Renan is quoted as saying that in India and Persia a literature developed
+    in which divine love and earthly love cross in ways often difficult to disentangle.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Renan is quoted as saying that some mystical meanings given to Persian and
+    Hindu erotic poems may be allegorical constructions, and that some later poems
+    were made with real double meanings.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Renan is quoted as describing Sufism among non-Arab Muslims as a reaction
+    against the dryness of Islamism.
+  category: attribute
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Hafiz
+  description: Persian poet discussed as a near contemporary of Dante, as detached
+    from contemporary political events in his poems, and as a central example in Renan’s
+    discussion of erotic-mystical interpretation.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:6
+- id: fig:2
+  name_or_label: Dante
+  description: Italian poet compared with Hafiz; described as grounded in personal
+    faith, historically engaged, and associated with visionary journeys through heaven
+    and hell.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Renan
+  description: Quoted commentator who gives a view of mystical poets of India and
+    Persia and of erotic-mystical poetry.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:4
+  name_or_label: Mystical poets of India and Persia
+  description: Collective group described in Renan’s quotation as producing literature
+    where divine and earthly love intermix.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Jalaleddin Rumi and Wali
+  description: Poets named by Renan as examples connected with poems of real double
+    sense.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: Persian poet and philosophical subject
+  assigned_to:
+  - fig:1
+  basis: The passage centers Hafiz’s poetic response to historical disorder and his
+    philosophical range.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: role:2
+  label: Italian poet and comparative counterpart
+  assigned_to:
+  - fig:2
+  basis: Dante is explicitly compared with Hafiz as an almost contemporary and as
+    a contrasting model of mysticism and historical realism.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: Example in erotic-mystical interpretation debate
+  assigned_to:
+  - fig:1
+  basis: Renan’s quotation names Hafiz in relation to allegorical explanations of
+    Persian erotic poetry.
+  evidence_refs:
+  - ev:6
+- id: role:4
+  label: Visionary traveler through heaven and hell
+  assigned_to:
+  - fig:2
+  basis: The passage refers to Dante’s visionary journeys through heaven and hell.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: Quoted critic or commentator
+  assigned_to:
+  - fig:3
+  basis: Renan’s view is introduced and then quoted at length.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:6
+  label: Erotic-mystical poets
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: Renan’s quotation discusses Indian and Persian mystical poets and names Rumi
+    and Wali in relation to poems with double meaning.
+  evidence_refs:
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: Unextinguished fire
+  literal_form: Fire in the dead heart and flame not extinguished by death
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: Heaven and hell journey
+  literal_form: Visionary journeys through heaven and hell
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Snow on desert dust
+  literal_form: Kings and princes vanishing like snow upon the desert’s dusty face
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: Musician, drunk, and sober dancers
+  literal_form: No musician whose music both the drunk and the sober can dance to
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: Crossing of divine and earthly love
+  literal_form: Divine love and terrestrial love crossing in poetry
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Comparison of Hafiz and Dante under historical disorder
+  summary: The passage presents Hafiz and Dante as near contemporaries who both sought
+    a basis for understanding existence amid confusion, but whose temperaments and
+    religious-poetic responses differed.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Dante’s historically grounded visionary mysticism
+  summary: Dante is described as active in political life, vividly preserving his
+    age in poetry, and making visionary journeys through heaven and hell.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Hafiz amid upheaval without historical echo
+  summary: Hafiz is described as witnessing major political and social upheavals,
+    while his poems contain almost no direct echo of them beyond occasional allusions
+    or courtly praise.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Hafiz’s wider philosophical landscape
+  summary: The passage values Hafiz’s apparent indifference to immediate events and
+    gives as an example the warning about no single music suiting both drunk and sober
+    dancers.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Renan on erotic-mystical poetry
+  summary: Renan is quoted on Indian and Persian poetry in which divine and earthly
+    love intertwine, on allegorical interpretation, and on later poems of double meaning.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Visionary journey through heaven and hell
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The passage explicitly refers to Dante’s visionary journeys through heaven
+    and hell.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage is a critical comparison, not a narrative account of the journey
+    itself; the motif is present only by reference.
+- id: motif:2
+  label: Mystical search for a theory of existence
+  taxonomy_refs:
+  - mystical_quest
+  basis: Hafiz and Dante are said to seek a solid platform for a theory of existence
+    in response to confusion.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage frames this as intellectual and poetic orientation rather
+    than a narrated quest.
+- id: motif:3
+  label: Divine and earthly love intertwined
+  taxonomy_refs:
+  - divine_beloved
+  basis: Renan’s quotation describes Indian and Persian literature in which divine
+    love and terrestrial love cross in ways difficult to disentangle.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage discusses a literary category and interpretive problem; it
+    does not quote a specific poem enacting the motif.
+- id: motif:4
+  label: Erotic-mystical double meaning
+  taxonomy_refs:
+  - divine_beloved
+  basis: Renan’s quotation says that some poems came to be made with real double meanings,
+    naming Rumi and Wali as examples.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The claim is reported through Renan’s critical view and is not independently
+    demonstrated in the passage.
+- id: motif:5
+  label: Wisdom warning through musical image
+  taxonomy_refs:
+  - wisdom
+  basis: The passage cites Hafiz’s warning that no musician has music to which both
+    drunk and sober can dance.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: This is a cited aphoristic image rather than a full narrative motif.
+comparison_claims:
+- id: claim:1
+  claim: The passage compares Hafiz and Dante as near contemporaries who both sought
+    a basis for understanding existence amid disorder, while emphasizing their different
+    temperaments and poetic orientations.
+  claim_level: same_function
+  target: Hafiz and Dante as comparative mystical or philosophical poets
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  limitations: The passage supports a functional literary comparison, not a claim
+    of influence or shared tradition.
+- id: claim:2
+  claim: The passage contrasts Dante’s historically grounded visionary mysticism with
+    Hafiz’s relative poetic indifference to contemporary political events.
+  claim_level: same_function
+  target: Dante’s historical-visionary mode and Hafiz’s broader philosophical mode
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a contrast made by the introduction, not a motif genealogy.
+- id: claim:3
+  claim: Renan’s quoted view places Persian and Indian erotic-mystical poetry within
+    a shared pattern where divine and earthly love are difficult to separate.
+  claim_level: same_motif
+  target: Erotic-mystical poetry of India and Persia
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs:
+  - ev:6
+  confidence: medium
+  limitations: Renan also questions whether some mystical readings are later allegorical
+    constructions, especially for some Persian and Hindu erotic poems.
+- id: claim:4
+  claim: Renan compares mystical readings of Persian and Hindu erotic poetry with
+    allegories of the Song of Songs, implying a similar interpretive mechanism rather
+    than necessarily a real mystical content.
+  claim_level: same_function
+  target: Allegorical interpretation of the Song of Songs
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage reports Renan’s skeptical comparison and does not establish
+    historical contact or direct dependence.
+- id: claim:5
+  claim: Renan associates later poems of real double meaning with poets such as Jalaleddin
+    Rumi and Wali, linking them to the erotic-mystical double-sense pattern.
+  claim_level: same_motif
+  target: Poems of Jalaleddin Rumi and Wali with double meaning
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage names examples but does not provide their texts or demonstrate
+    the double meanings directly.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1156-1163
+  quote_or_summary: Hafiz and Dante are described as almost contemporaries; both respond
+    to surrounding confusion by seeking a solid platform for a theory of existence,
+    though Dante finds it in personal faith.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1164-1183
+  quote_or_summary: Dante’s mysticism is said to stand with its feet on earth; his
+    political life, visionary journeys through heaven and hell, enduring fire, and
+    vivid preservation of his age are emphasized.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 1183-1205
+  quote_or_summary: 'Hafiz is contrasted with Dante: contemporary history is said
+    to be too small to occupy his thought, though he witnessed repeated conquest,
+    bloodshed, revelry, ascetic rule, rulers rising and vanishing, and battles; his
+    poems show almost no echo beyond occasional allusions and courtly praise.'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 1207-1220
+  quote_or_summary: Hafiz is said to formulate ideas as profound as the warning that
+    “there is no musician to whose music both the drunk and the sober can dance.”
+  source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+  rights_note: Public domain source; short quotation.
+- id: ev:5
+  type: summary
+  locator: lines 1221-1227
+  quote_or_summary: Renan is quoted as saying that in India and Persia a large literature
+    developed where divine love and earthly love cross in a way often difficult to
+    disentangle.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 1227-1230
+  quote_or_summary: Renan states that in many cases mystical meanings attributed to
+    Persian and Hindu erotic poems may be no more real than Song of Songs allegories;
+    he says allegorical explanation of Hafiz is often a product of commentators or
+    admirers, and that later poems of real double meaning arose, such as those of
+    Rumi and Wali.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 1230-1232
+  quote_or_summary: Renan describes erotic-mystical poetry as a product of refinement,
+    vivid imagination, quietism, mystery, and in Persia hypocrisy imposed by Muslim
+    fanaticism; he calls Sufism a reaction against the dryness of Islamism among non-Arab
+    Muslims.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is an introduction and literary-critical comparison rather than
+    a mythic narrative. Motif candidates are therefore mainly thematic or referential
+    and should be reviewed by a human editor.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used. Comparisons are limited to those explicitly made or reported in the passage.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-hafiz-divan-bell-gutenberg__l1156-l1232
+  passage_sha256=a57a4cac6f5e4949b454eb2c40cee9293358150daf02036e4d59553f2516aaaf

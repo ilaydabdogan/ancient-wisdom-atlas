@@ -1,0 +1,312 @@
+---
+record_id: batch.motif.sufi-jami-persian-mystics-davis-gutenberg-l66-l125
+source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+passage_locator:
+  label: THE PERSIAN MYSTICS / LONDON / JOHN MURRAY, ALBEMARLE STREET, W. / PREFACE;
+    lines 66-125
+  start: '66'
+  end: '125'
+  translation: 'The Persian Mystics: Jámí'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: '"With men of light I sought these pearls to string, / The drift of mystics''
+    sayings forth to bring."'
+  summary: The passage gives the title-page and preface of a 1918 English selection
+    on Jámí. It frames the book as concerned with Eastern wisdom and mysticism, cites
+    a poetic epigraph attributed to Jámí, and records F. Hadland Davis's acknowledgments
+    to scholars, translators, publishers, and prior venues for translations and permissions.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: 'The volume is titled The Persian Mystics: Jámí and is presented as part of
+    the Wisdom of the East series.'
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The title material names F. Hadland Davis as author and John Murray of London
+    as publisher in 1918.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: An epigraph attributed to Jámí describes seeking pearls with 'men of light'
+    in order to bring forth the meaning of mystics' sayings.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The dedication is addressed to those who find beauty and peace in the wisdom
+    and mysticism of the East.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Davis states that the volume depended on the kindness and generosity of Oriental
+    scholars who allowed him to reproduce translations from Jámí.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Davis says he attempted to select translations that illustrate the mystical
+    teaching of Jámí, described as the last great poet of Persia.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Davis acknowledges permissions and sources for translations from the Lawá'ih,
+    Yúsuf and Zulaikha, Salámán and Absál, and the Baháristán.
+  category: relationship
+  evidence_refs:
+  - ev:5
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Jámí
+  description: Named as the subject of the volume, the attributed speaker of the epigraph,
+    and 'the last great poet of Persia.'
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: F. Hadland Davis
+  description: Named as author and as the person preparing the volume and acknowledging
+    permissions.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Oriental scholars
+  description: A collective group described as allowing Davis to reproduce some translations
+    from Jámí.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: E. H. Whinfield
+  description: Acknowledged for permission to quote from his translation of the Lawá'ih.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Edward G. Browne
+  description: Acknowledged for allowing use of his translation from Yúsuf and Zulaikha,
+    called 'The Coming of the Beloved.'
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: Edward FitzGerald
+  description: Identified as the translator of selections from Salámán and Absál.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: poet-subject
+  assigned_to:
+  - fig:1
+  basis: Jámí is named in the title and described as a major Persian poet whose mystical
+    teaching the volume illustrates.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: attributed epigraph speaker
+  assigned_to:
+  - fig:1
+  basis: The epigraph is followed by the attribution 'JÁMÍ.'
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: compiler-author
+  assigned_to:
+  - fig:2
+  basis: Davis is named as author and speaks in the first person in the preface about
+    preparing the volume.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:4
+  label: translator-or-permission-source
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  basis: The preface credits scholars and named translators for permissions or translations
+    used in the volume.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: pearls of mystic sayings
+  literal_form: pearls
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: men of light
+  literal_form: men of light
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Eastern wisdom and mysticism
+  literal_form: wisdom and mysticism of the East
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Title and dedication framing
+  summary: The opening material presents the book as a Wisdom of the East volume on
+    Jámí and dedicates it to readers who find beauty and peace in Eastern wisdom and
+    mysticism.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: scene:2
+  label: Epigraph of gathering pearls
+  summary: A poetic epigraph attributed to Jámí speaks of seeking pearls with men
+    of light in order to convey mystics' sayings.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Prefatory acknowledgments
+  summary: Davis explains that the book relies on permissions and translations from
+    several scholars and translators and identifies works from which selections are
+    drawn.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: wisdom and mystical teaching
+  taxonomy_refs:
+  - wisdom
+  basis: The passage explicitly frames the book through 'Wisdom of the East,' a dedication
+    to Eastern wisdom and mysticism, and Davis's aim to illustrate Jámí's mystical
+    teaching.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: This is prefatory framing rather than a narrative mythic episode.
+- id: motif:2
+  label: quest for mystical meaning
+  taxonomy_refs:
+  - mystical_quest
+  basis: The epigraph describes seeking pearls with 'men of light' in order to bring
+    forth the drift of mystics' sayings.
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: The wording is poetic and metaphorical; the passage does not present a
+    developed journey narrative.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 66-82
+  quote_or_summary: 'Title-page material identifies The Persian Mystics: Jámí, F.
+    Hadland Davis, the Wisdom of the East series, London publisher John Murray, and
+    the year 1918.'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; concise summary.
+- id: ev:2
+  type: quote
+  locator: lines 84-86
+  quote_or_summary: '"With men of light I sought these pearls to string, / The drift
+    of mystics'' sayings forth to bring." — Jámí'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: summary
+  locator: lines 88-92
+  quote_or_summary: The dedication addresses those who find 'great beauty' and 'great
+    peace' in the wisdom and mysticism of the East.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; concise summary with brief quoted phrases.
+- id: ev:4
+  type: summary
+  locator: lines 94-100
+  quote_or_summary: In the preface, Davis says the volume depended on Oriental scholars
+    permitting reproduction of translations from Jámí, and that he chose work illustrating
+    the mystical teaching of the last great poet of Persia.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; concise summary.
+- id: ev:5
+  type: summary
+  locator: lines 102-118
+  quote_or_summary: Davis acknowledges E. H. Whinfield for the Lawá'ih, Edward G.
+    Browne for Yúsuf and Zulaikha, the Orient Review editors, E. Edwards, Kegan Paul,
+    and Ralph T. Griffith.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; concise summary.
+- id: ev:6
+  type: summary
+  locator: lines 120-122
+  quote_or_summary: The translations from Salámán and Absál are attributed to Edward
+    FitzGerald, and those from the Baháristán are said to have been originally published
+    by the Kama Shastra Society.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; concise summary.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is bibliographic and prefatory, so literal extraction is strong
+    but motif identification is limited to explicit wisdom, mysticism, and poetic
+    images.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not support a comparison to another tradition or motif family beyond the supplied taxonomy labels.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-jami-persian-mystics-davis-gutenberg__l66-l125
+  passage_sha256=236b9cb6991fae55e8f3c4a7588a7ad94a391787d74f0e420db74702a6edc6d5

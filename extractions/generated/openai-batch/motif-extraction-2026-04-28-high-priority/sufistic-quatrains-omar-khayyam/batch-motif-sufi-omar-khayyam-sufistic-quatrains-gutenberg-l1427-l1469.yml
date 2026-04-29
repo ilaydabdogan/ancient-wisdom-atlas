@@ -1,0 +1,427 @@
+---
+record_id: batch.motif.sufi-omar-khayyam-sufistic-quatrains-gutenberg-l1427-l1469
+source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+passage_locator:
+  label: LIII. / LVII. / LVIII. / KUZA-NAMA; lines 1427-1469
+  start: '1427'
+  end: '1469'
+  translation: The Sufistic Quatrains of Omar Khayyam
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The speaker addresses a divine maker about predestination, fall, sin, and
+    forgiveness, then begins the Kuza-Nama scene in a potter's shop where clay vessels
+    speak and question the relation between potter, pot, making, and return to earth.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A speaker addresses a figure called “Thou” who set pitfall and gin along the
+    road the speaker was to wander.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker asks whether predestination will enmesh him and whether his fall
+    will be imputed to sin.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The addressed figure is said to have made Man from baser Earth and to have
+    devised Eden and the Snake.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The speaker asks for Man’s forgiveness for the sin that blackens Man’s face.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: At the close of Ramazan, before the better Moon arose, the speaker stands
+    alone in an old potter’s shop.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Clay vessels are arranged around the potter’s shop in rows and are described
+    as a clay population.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Among the earthen vessels, some can articulate and others cannot.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: One impatient speaking vessel asks who is the Potter and who is the Pot.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Another speaking vessel says its substance was taken from common Earth, worked
+    into shape, and may be stamped back to common Earth again.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: speaker
+  description: The first-person voice addressing the maker and later standing alone
+    in the potter’s shop.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Thou
+  description: An addressed maker associated with predestination, the making of Man
+    from Earth, Eden, and the Snake.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Man
+  description: Humanity described as made from baser Earth and marked by sin.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Snake
+  description: The Snake associated with Eden.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: clay population / earthen lot
+  description: Clay vessels in rows in the potter’s shop, some of which can speak.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:6
+  name_or_label: impatient speaking vessel
+  description: One member of the earthen lot that asks who is the Potter and who the
+    Pot.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: another speaking vessel
+  description: A vessel that says it was shaped from common Earth and may be returned
+    to common Earth.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+- id: fig:8
+  name_or_label: Potter
+  description: A figure named in the question about who is the Potter and who is the
+    Pot; also implied as the one who shaped the vessel.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: questioning speaker-observer
+  assigned_to:
+  - fig:1
+  basis: The voice asks questions about predestination and later observes the potter’s
+    shop.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: addressed maker and disposer
+  assigned_to:
+  - fig:2
+  basis: The addressed “Thou” is said to set snares, impose predestination, make Man
+    from Earth, and devise Eden and the Snake.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: earth-made humanity
+  assigned_to:
+  - fig:3
+  basis: Man is described as made from baser Earth and affected by sin.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: Edenic serpent figure
+  assigned_to:
+  - fig:4
+  basis: The Snake is explicitly linked with Eden.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: animated clay vessels
+  assigned_to:
+  - fig:5
+  basis: The earthen lot includes vessels, some of which can articulate.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:6
+  label: speaking pot-questioner
+  assigned_to:
+  - fig:6
+  - fig:7
+  basis: One vessel asks about Potter and Pot; another speaks about being shaped from
+    common Earth and returned to it.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:7
+  label: shaper of clay
+  assigned_to:
+  - fig:8
+  basis: The Potter is named in the question and is associated with shaping a vessel
+    from common Earth.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: Snake
+  literal_form: Snake in Eden
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: Road with pitfall and gin
+  literal_form: Road beset by pitfall and gin
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Earth
+  literal_form: Baser Earth and common Earth used as human or vessel substance
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:4
+  label: Potter and Pot
+  literal_form: Potter, pot, and shaped earthen vessels
+  associated_figures:
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:5
+  label: Potter’s shop
+  literal_form: Old potter’s shop containing rows of clay vessels
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: Moon at close of Ramazan
+  literal_form: The better Moon arising after the close of Ramazan
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Address to the maker about predestination and sin
+  summary: The speaker addresses the maker about snares placed along the road, predestination,
+    fall, sin, the making of Man from Earth, Eden, the Snake, and forgiveness.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Potter’s shop at the close of Ramazan
+  summary: The speaker stands alone in an old potter’s shop surrounded by rows of
+    clay vessels before the moon rises.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Speaking pots question maker and made
+  summary: Some of the earthen vessels speak; one asks who is the Potter and who is
+    the Pot, and another reflects on being shaped from common Earth and returned to
+    common Earth.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Predestination and moral responsibility
+  taxonomy_refs:
+  - divine_judgment
+  basis: The speaker questions whether predestination can enmesh him and then count
+    his fall as sin.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage frames judgment and sin as a question rather than narrating
+    an explicit judgment scene.
+- id: motif:2
+  label: Edenic fall with serpent and sin
+  taxonomy_refs:
+  - serpent
+  - forbidden_knowledge
+  basis: The passage names Eden, the Snake, Man, sin, and forgiveness in a compressed
+    allusion to a fall pattern.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: Forbidden knowledge is not explicitly mentioned in the passage; the association
+    comes from the Eden-and-Snake reference.
+- id: motif:3
+  label: Creation from earth and return to earth
+  taxonomy_refs:
+  - death_rebirth
+  basis: Man is described as made from Earth, and a vessel says its substance was
+    taken from common Earth, shaped, and may be stamped back to common Earth.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: medium
+  cautions: The passage supports return to earth, but it does not explicitly narrate
+    rebirth.
+- id: motif:4
+  label: Potter and pot as maker-made inquiry
+  taxonomy_refs:
+  - wisdom
+  basis: Speaking earthen vessels question who is Potter and who is Pot and reflect
+    on the purpose of being shaped from common Earth.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The motif is extracted as a philosophical-symbolic pattern within the
+    passage; no external taxonomy ID specifically names potter-and-clay imagery.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly aligns its reflection on sin and forgiveness with
+    an Eden-and-Snake fall pattern.
+  claim_level: same_motif
+  target: Edenic fall and serpent motif family
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage names Eden and the Snake but does not recount the full
+    Eden narrative.
+- id: claim:2
+  claim: The potter’s shop scene uses a maker-and-made pattern in which earthen vessels
+    question their relation to a potter.
+  claim_level: same_function
+  target: potter-and-clay creator-created pattern
+  evidence_refs:
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage supports the pattern internally but does not identify an
+    external tradition or source for comparison.
+evidence:
+- id: ev:1
+  type: summary
+  locator: LVII, lines 1427-1432
+  quote_or_summary: The speaker addresses “Thou” about pitfall, gin, the road, predestination,
+    fall, and sin.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: LVIII, lines 1434-1439
+  quote_or_summary: The addressed figure is said to have made Man from baser Earth
+    and devised Eden and the Snake; the speaker asks for Man’s forgiveness for sin.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: KUZA-NAMA LIX, lines 1445-1450
+  quote_or_summary: At the close of Ramazan, before the better Moon rises, the speaker
+    stands alone in an old potter’s shop with rows of clay vessels around him.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: KUZA-NAMA LX, lines 1452-1457
+  quote_or_summary: Among the earthen vessels, some can articulate; one impatiently
+    asks who is the Potter and who the Pot.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: KUZA-NAMA LXI, lines 1459-1464
+  quote_or_summary: Another vessel says its substance was taken from common Earth,
+    shaped, and may be stamped back to common Earth again.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is strong for the supplied passage. Motif and comparison
+    assignments are cautious because several patterns are allusive or philosophical
+    rather than fully narrated myths.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy references were limited to the provided lists; serpent is applied to the explicit Snake reference.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-omar-khayyam-sufistic-quatrains-gutenberg__l1427-l1469
+  passage_sha256=a0f1b800998f64108c26693dc47f50da8f452d681af191ee5236617ff103c32a

@@ -1,0 +1,311 @@
+---
+record_id: batch.motif.sufi-omar-khayyam-sufistic-quatrains-gutenberg-l4050-l4072
+source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+passage_locator:
+  label: LXXXIV. / LXXXV. / LXXXVI. / LXXXVII.; lines 4050-4072
+  start: '4050'
+  end: '4072'
+  translation: The Sufistic Quatrains of Omar Khayyam
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: In quatrain LXXXVI, an ungainly vessel speaks after a silence, complaining
+    that others sneer at its crooked leaning and asking whether the Potter's hand
+    shook. An editorial note describes the quatrain as a companion to Kuza Nama quatrains
+    but says no direct source has been found in O. or C. In quatrain LXXXVII, a loquacious
+    member of the group, identified tentatively as a Sufi pipkin, asks who is the
+    Potter and who is the Pot.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A vessel of ungainly make speaks after a momentary silence.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The vessel says others sneer at it for leaning awry.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The vessel asks whether the Potter's hand shook.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: An editorial note calls quatrain LXXXVI a reflection and companion of Kuza
+    Nama quatrains.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The editorial note says no ruba'i in O. or C. has been found as a direct inspiration
+    for quatrain LXXXVI.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A loquacious member of the lot, tentatively called a Sufi pipkin, becomes
+    heated and speaks.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The Sufi pipkin asks who is the Potter and who is the Pot.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: ungainly vessel
+  description: A vessel of a more ungainly make that speaks and refers to its crooked
+    form.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Potter
+  description: The maker implied by the vessel's question about the Potter's hand
+    and by the later phrase 'Pot and Potter.'
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: Sufi pipkin
+  description: A loquacious member of the lot, tentatively identified by the speaker
+    as a Sufi pipkin.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: the Pot
+  description: A pot named in the Sufi pipkin's question about Potter and Pot.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: speaking vessel
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: Both the ungainly vessel and the Sufi pipkin are vessels or pot-like figures
+    that speak.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: mocked imperfect object
+  assigned_to:
+  - fig:1
+  basis: The vessel reports being sneered at for leaning awry.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: questioned maker
+  assigned_to:
+  - fig:2
+  basis: The vessel asks whether the Potter's hand shook, and the later speaker asks
+    who the Potter is.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:4
+  label: questioning interlocutor
+  assigned_to:
+  - fig:3
+  basis: The loquacious Sufi pipkin asks about the identities of the Potter and the
+    Pot.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: questioned created object
+  assigned_to:
+  - fig:4
+  basis: The Pot is paired with the Potter in the question, 'who is the Potter ...
+    and who the Pot?'
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: vessel
+  literal_form: An ungainly vessel that speaks about its own shape.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: Potter's hand
+  literal_form: The Hand of the Potter, named as a possible cause of the vessel's
+    awry form.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Pot and Potter
+  literal_form: The paired terms 'Pot' and 'Potter' used in a question about identity.
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: Sufi pipkin
+  literal_form: A pipkin identified as Sufi and belonging to the loquacious lot.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: ungainly vessel questions its making
+  summary: After a silence, an ungainly vessel speaks of being mocked for leaning
+    awry and asks whether the Potter's hand shook.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Sufi pipkin questions Pot and Potter
+  summary: A loquacious figure, described tentatively as a Sufi pipkin, responds heatedly
+    and asks who is the Potter and who is the Pot.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: editorial placement among Kuza Nama quatrains
+  summary: The editor says LXXXVI reflects and accompanies Kuza Nama quatrains, while
+    noting no direct ruba'i source in O. or C. has been identified.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: speaking vessel questions maker's responsibility
+  taxonomy_refs: []
+  basis: A vessel with an ungainly form speaks about mockery of its shape and asks
+    whether the Potter's hand shook.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The motif label is descriptive and not tied to a supplied taxonomy reference.
+- id: motif:2
+  label: Pot and Potter identity question
+  taxonomy_refs:
+  - duality
+  basis: A Sufi pipkin asks who is the Potter and who is the Pot, setting maker and
+    made object into explicit relation and questioning their distinction.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The duality taxonomy reference is plausible from the explicit pair, but
+    the passage itself remains brief and interrogative.
+- id: motif:3
+  label: vessel as philosophical speaker
+  taxonomy_refs:
+  - wisdom
+  basis: Pot-like figures speak in questions about form, maker, and identity.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The wisdom reference is inferred from the questioning speech rather than
+    from an explicit term in the passage.
+comparison_claims:
+- id: claim:1
+  claim: The editorial note places quatrain LXXXVI in relation to the Kuza Nama quatrains
+    as a reflection and companion, while also stating that no direct ruba'i source
+    in O. or C. has been found.
+  claim_level: same_motif
+  target: Kuza Nama quatrains
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs:
+  - ev:3
+  confidence: medium
+  limitations: The note supports thematic or motif proximity but explicitly withholds
+    a direct-source claim.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 4050-4053, LXXXVI
+  quote_or_summary: '"After a momentary silence spake / Some Vessel of a more ungainly
+    make"'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: quote
+  locator: lines 4053-4055, LXXXVI
+  quote_or_summary: '"They sneer at me for leaning all awry: / What! did the Hand
+    then of the Potter shake?"'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: summary
+  locator: editorial note after LXXXVI
+  quote_or_summary: The note says the quatrain is a reflection and companion of Kuza
+    Nama quatrains, but that no ruba'i in O. or C. has been found as its direct inspiration,
+    and that it should be considered with No. 88.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: LXXXVII
+  quote_or_summary: '"I think a Sufi pipkin--waxing hot-- / «All this of Pot and Potter--Tell
+    me, then, / Who is the Potter pray, and who the Pot?»"'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:5
+  type: citation
+  locator: LXXXVII editorial note
+  quote_or_summary: 'The note reads: "LXXXVII. Ante sub LXXXIII."'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; brief citation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward. Motif and taxonomy assignments are
+    cautious because the passage is short and partly editorial.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the provided passage and metadata were used. No direct historical-contact claim is made.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-omar-khayyam-sufistic-quatrains-gutenberg__l4050-l4072
+  passage_sha256=71e5a380e8d9c78f86428895c17d8c3d690b413291a49d558882cace611f65f1

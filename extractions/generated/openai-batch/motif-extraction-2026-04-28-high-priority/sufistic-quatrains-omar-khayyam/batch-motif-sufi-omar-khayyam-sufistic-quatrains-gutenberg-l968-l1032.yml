@@ -1,0 +1,576 @@
+---
+record_id: batch.motif.sufi-omar-khayyam-sufistic-quatrains-gutenberg-l968-l1032
+source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+passage_locator:
+  label: OMAR KHAYYAM / ASTRONOMER-POET OF PERSIA / EDWARD FITZGERALD. / THE FITZGERALD
+    FIRST EDITION; lines 968-1032
+  start: '968'
+  end: '1032'
+  translation: The Sufistic Quatrains of Omar Khayyam
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: "“Awake! for Morning in the Bowl of Night”"
+  summary: The first seven quatrains of the Fitzgerald First Edition present dawn
+    as an awakening force, a tavern voice and crowd urging the filling of the cup
+    before life ends, New Year and spring renewal with allusions to Moses, Jesus,
+    Iram, Jamshyd, David, the nightingale and rose, and the brief flight of the Bird
+    of Time.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Morning is personified as casting a stone that makes the stars flee, while
+    a Hunter of the East catches a turret in light.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A voice inside the tavern tells “Little ones” to awake and fill the cup before
+    life’s liquor is dry.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: At cockcrow, people standing before the tavern demand that the door be opened.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The tavern crowd says their stay is short and that, once departed, they may
+    return no more.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The New Year revives old desires, and the thoughtful soul retires to solitude.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage places the White Hand of Moses on a bough and describes Jesus
+    as sighing from the ground.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Iram is described as gone with its rose, and Jamshyd’s seven-ringed cup is
+    said to be lost or unknown.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Despite the loss of Iram and Jamshyd’s cup, the vine still yields ruby-colored
+    produce and a garden still grows by water.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: David’s lips are locked, while the nightingale cries “Wine” to the rose.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The speaker urges filling the cup and casting the winter garment of repentance
+    into the fire of spring.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: The Bird of Time is said to have only a little way to fly and is already on
+    the wing.
+  category: attribute
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Morning / Hunter of the East
+  description: A personified dawn figure associated with driving away stars and catching
+    the Sultan’s turret in light.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Voice within the Tavern
+  description: An unnamed voice that calls for awakening and filling the cup.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Those before the Tavern
+  description: A group at the tavern door who shout for it to be opened.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Thoughtful Soul
+  description: A soul that retires to solitude when the New Year revives old desires.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Moses
+  description: Named through the image of the White Hand of Moses on a bough.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Jesus
+  description: Named as sighing from the ground in the New Year scene.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Jamshyd
+  description: A named figure associated with a seven-ringed cup whose whereabouts
+    are unknown.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:8
+  name_or_label: David
+  description: A named figure whose lips are described as locked.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+- id: fig:9
+  name_or_label: Nightingale
+  description: A bird that cries “Wine” to the rose in high piping Pehlevi.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+- id: fig:10
+  name_or_label: Rose
+  description: A flower addressed by the nightingale and described with a yellow cheek.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+- id: fig:11
+  name_or_label: Bird of Time
+  description: A bird image representing time, described as already on the wing with
+    little distance left to fly.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: personified dawn force
+  assigned_to:
+  - fig:1
+  basis: Morning/Hunter acts on the stars and a turret through images of pursuit and
+    capture by light.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: awakening caller
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The tavern voice and the people outside the tavern both call for waking,
+    filling, or opening.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: retreating contemplative
+  assigned_to:
+  - fig:4
+  basis: The thoughtful soul withdraws to solitude at New Year.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: prophetic or sacred allusion
+  assigned_to:
+  - fig:5
+  - fig:6
+  - fig:8
+  basis: Moses, Jesus, and David are named in compact allusive images rather than
+    narrated episodes.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:5
+  label: legendary royal allusion
+  assigned_to:
+  - fig:7
+  basis: Jamshyd is named with a lost seven-ringed cup.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: singing or crying bird
+  assigned_to:
+  - fig:9
+  basis: The nightingale cries “Wine” to the rose.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: addressed floral recipient
+  assigned_to:
+  - fig:10
+  basis: The rose is the recipient of the nightingale’s cry and is described with
+    a cheek.
+  evidence_refs:
+  - ev:6
+- id: role:8
+  label: time’s moving emblem
+  assigned_to:
+  - fig:11
+  basis: The Bird of Time is used to state that time has little distance left and
+    is already moving.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: dawn light
+  literal_form: Morning, stars put to flight, noose of light
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: tavern cup
+  literal_form: Cup filled before life’s liquor is dry
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: door of the tavern
+  literal_form: Tavern door to be opened at cockcrow
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: bough
+  literal_form: Bough bearing the White Hand of Moses
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: ground with Jesus
+  literal_form: Ground from which Jesus sighs
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: lost seven-ringed cup
+  literal_form: Jamshyd’s seven-ringed cup
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:7
+  label: watered garden
+  literal_form: Garden by the water
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+- id: sym:8
+  label: vine and ruby yield
+  literal_form: Vine yielding ancient ruby
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:9
+  label: nightingale and rose
+  literal_form: Nightingale crying to the rose
+  associated_figures:
+  - fig:9
+  - fig:10
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:10
+  label: fire of spring
+  literal_form: Fire of Spring receiving the winter garment of repentance
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:7
+- id: sym:11
+  label: Bird of Time
+  literal_form: Bird with little way to fly, already on the wing
+  associated_figures:
+  - fig:11
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Dawn drives away night
+  summary: Morning appears in the bowl of night, drives away the stars, and covers
+    the Sultan’s turret in light.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Tavern summons before departure
+  summary: A tavern voice and then a crowd at the tavern door urge awakening, drinking,
+    and opening the door because life is short and departure may be final.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: New Year solitude and sacred allusions
+  summary: New Year revives desire; the thoughtful soul withdraws, and images of Moses
+    and Jesus are placed on a bough and in the ground.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Vanished splendor and enduring garden
+  summary: Iram and Jamshyd’s cup are gone, but the vine continues to yield and a
+    garden still grows by water.
+  figure_refs:
+  - fig:7
+  symbol_refs:
+  - sym:6
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Nightingale cries wine to rose
+  summary: David is silent, while the nightingale calls for wine to the rose.
+  figure_refs:
+  - fig:8
+  - fig:9
+  - fig:10
+  symbol_refs:
+  - sym:9
+  evidence_refs:
+  - ev:6
+- id: scene:6
+  label: Spring fire and the Bird of Time
+  summary: The speaker urges filling the cup, casting off repentance as a winter garment
+    into spring’s fire, and notes that the Bird of Time has little flight left.
+  figure_refs:
+  - fig:11
+  symbol_refs:
+  - sym:2
+  - sym:10
+  - sym:11
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: dawn awakening and summons
+  taxonomy_refs:
+  - departure
+  basis: The passage repeatedly uses awakening language at dawn and at the tavern,
+    with a demand to open the door.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage gives a summons and possible threshold image, but not a full
+    journey narrative.
+- id: motif:2
+  label: cup of life and irreversible departure
+  taxonomy_refs:
+  - wisdom
+  basis: The tavern voice urges filling the cup before life’s liquor is dry, and the
+    crowd says that after departure return may be impossible.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is an aphoristic mortality motif rather than a developed afterlife
+    journey map.
+- id: motif:3
+  label: seasonal renewal of desire and life
+  taxonomy_refs:
+  - seasonal_cycle
+  - death_rebirth
+  basis: New Year revives old desires, spring is fiery, and winter is treated as a
+    garment to be cast off.
+  evidence_refs:
+  - ev:4
+  - ev:7
+  confidence: high
+  cautions: The death-rebirth reference is metaphorical; the explicit pattern is seasonal
+    renewal.
+- id: motif:4
+  label: sacred figures embedded in spring imagery
+  taxonomy_refs:
+  - resurrection
+  - seasonal_cycle
+  basis: Moses’ White Hand is placed on a bough and Jesus is described as sighing
+    from the ground in the New Year stanza.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The allusions are condensed and do not recount the source narratives.
+- id: motif:5
+  label: lost legendary splendor contrasted with enduring nature
+  taxonomy_refs:
+  - wisdom
+  - seasonal_cycle
+  basis: Iram and Jamshyd’s cup are gone or lost, while the vine and watered garden
+    continue.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage names legendary objects and places but does not narrate their
+    myths.
+- id: motif:6
+  label: brief flight of time
+  taxonomy_refs:
+  - wisdom
+  basis: The Bird of Time is described as having only a short way to fly and already
+    being on the wing.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: The bird image is explicit, but its wider symbolic range is not developed
+    in the passage.
+- id: motif:7
+  label: nightingale, rose, and wine song
+  taxonomy_refs: []
+  basis: The nightingale cries “Wine” to the rose while David’s lips are locked.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage supports the literal bird-flower-wine pattern, but not a specific
+    theological reading without external context.
+comparison_claims:
+- id: claim:1
+  claim: The passage juxtaposes Abrahamic prophetic names and Persian legendary names
+    as allusive material within the same meditation on spring, wine, loss, and song.
+  claim_level: same_function
+  target: Abrahamic prophetic and Persian legendary allusion traditions
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage does not narrate the external traditions or establish historical
+    contact; it only names and alludes to them.
+- id: claim:2
+  claim: The repeated awakening calls and tavern threshold function like a call-to-departure
+    or awakening pattern, though the passage does not develop a complete quest or
+    journey.
+  claim_level: same_function
+  target: departure / awakening motif family
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The evidence is limited to imperative awakening, door-opening, and
+    mortality language; no extended itinerary follows.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 977-982, stanza I
+  quote_or_summary: Morning in the bowl of night flings a stone that puts stars to
+    flight; the Hunter of the East catches the Sultan’s turret in a noose of light.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short excerpt summarized.
+- id: ev:2
+  type: quote
+  locator: lines 984-989, stanza II
+  quote_or_summary: 'A tavern voice cries: “Awake, my Little ones, and fill the Cup
+    / Before Life’s Liquor in its Cup be dry.”'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:3
+  type: quote
+  locator: lines 991-996, stanza III
+  quote_or_summary: At cockcrow, those before the tavern shout to open the door, saying
+    they have little time to stay and, once departed, may return no more.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short excerpt summarized.
+- id: ev:4
+  type: quote
+  locator: lines 998-1003, stanza IV
+  quote_or_summary: New Year revives old desires; the thoughtful soul retires to solitude;
+    the White Hand of Moses appears on the bough and Jesus sighs from the ground.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short excerpt summarized.
+- id: ev:5
+  type: summary
+  locator: lines 1005-1010, stanza V
+  quote_or_summary: Iram is gone with its rose, Jamshyd’s seven-ringed cup is lost,
+    but the vine still yields ruby and a garden still grows by water.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: quote
+  locator: lines 1012-1017, stanza VI
+  quote_or_summary: David’s lips are locked; the nightingale cries “Wine! Wine! Wine!
+    Red Wine!” to the rose.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:7
+  type: quote
+  locator: lines 1019-1024, stanza VII
+  quote_or_summary: The speaker urges filling the cup, casting the winter garment
+    of repentance into the fire of spring, and notes that the Bird of Time is already
+    on the wing.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward. Motif assignments are cautious because
+    the quatrains are highly allusive and compressed, and external Sufi or Persian
+    interpretive traditions were not used.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the provided passage and metadata were used. Taxonomy references were limited to supplied motif families and symbols.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-omar-khayyam-sufistic-quatrains-gutenberg__l968-l1032
+  passage_sha256=e4a0ca764fe67a7270760a5710fd2ea8b8664076957c7046f1094d3debbd059c

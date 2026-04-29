@@ -1,0 +1,457 @@
+---
+record_id: batch.motif.sufi-persian-mystics-rumi-davis-gutenberg-l1485-l1516
+source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+passage_locator:
+  label: THY ROSE / THE BELOVED ALL IN ALL / SORROW QUENCHED IN THE BELOVED / THE
+    MUSIC OF LOVE; lines 1485-1516
+  start: '1485'
+  end: '1516'
+  translation: 'The Persian Mystics: Jalálu''d-dín Rúmí'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage presents grief endured by the speaker, praise of Love as a
+    healer and inspirer, Love raising earthly bodies heavenward and animating Mount
+    Sinai, and the Beloved as the all-encompassing reality before whom the lover is
+    veiled, dead, wingless, or senseless without divine light.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The speaker says his days move with grief, labour, sorrow, and anguish, but
+    asks the Incomparable Pure One to abide.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Love is directly addressed as sweet madness, a healer of infirmities, and
+    a physician of pride and self-conceit.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Love is compared to Plato and Galen.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Love is said to exalt earthly bodies to heaven and make hills dance with joy.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage says Love gave life to Mount Sinai when it quaked and Moses fell
+    down in a swoon.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The speaker says that if the Beloved touched him with His lips, he would burst
+    into melody like a flute.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: A faded rose and withered garden are paired with the silence of the nightingale’s
+    song.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The Beloved is described as all in all and all that lives, while the lover
+    is described as a veil and a dead thing.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: When the lover no longer feels Love’s quickening, he becomes like a bird that
+    has lost its wings.
+  category: attribute
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: The speaker asks how he can retain his senses when the Beloved does not show
+    the light of His countenance.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: speaker-lover
+  description: The first-person speaker who suffers grief, addresses the Pure One,
+    and identifies with the lover who depends on the Beloved’s touch and light.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:7
+- id: fig:2
+  name_or_label: Love
+  description: A personified force addressed as sweet madness, healer, physician,
+    Plato, Galen, and the power that exalts bodies, moves hills, and gives life to
+    Mount Sinai.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Beloved
+  description: The Beloved is addressed or described as the all-encompassing living
+    reality whose touch, lips, and countenance affect the lover.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+- id: fig:4
+  name_or_label: Mount Sinai
+  description: The mountain said to have received life from Love, to have quaked,
+    and to be associated with Moses’s swoon.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Moses
+  description: Moses is named as falling down in a swoon when Mount Sinai quaked.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: suffering lover-speaker
+  assigned_to:
+  - fig:1
+  basis: The speaker speaks of grief and anguish and later identifies with the lover
+    dependent on the Beloved’s touch and light.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:7
+- id: role:2
+  label: healer of infirmity and pride
+  assigned_to:
+  - fig:2
+  basis: Love is addressed as healing infirmities and acting as physician of pride
+    and self-conceit.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: animating and elevating force
+  assigned_to:
+  - fig:2
+  basis: Love exalts bodies to heaven, makes hills dance, and gives life to Mount
+    Sinai.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: all-encompassing beloved
+  assigned_to:
+  - fig:3
+  basis: The Beloved is called all in all and all that lives, and the lover is secondary
+    or lifeless without the Beloved.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:5
+  label: living quaking mountain
+  assigned_to:
+  - fig:4
+  basis: Mount Sinai is said to be given life by Love and to quake.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: swooning prophetic figure
+  assigned_to:
+  - fig:5
+  basis: Moses is named as falling down in a swoon in the Mount Sinai episode.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: rose and garden
+  literal_form: faded rose and withered garden
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:2
+  label: nightingale song
+  literal_form: song of the nightingale no longer heard
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: flute melody
+  literal_form: a flute bursting into melody after the Beloved’s touch
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: Mount Sinai and dancing hills
+  literal_form: hills dancing with joy and Mount Sinai quaking
+  associated_figures:
+  - fig:2
+  - fig:4
+  - fig:5
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: lost wings
+  literal_form: a bird who has lost its wings
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: light of the Beloved’s countenance
+  literal_form: the Light of His countenance
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:7
+  label: healing physician
+  literal_form: physician of pride and self-conceit; Plato and Galen
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: grief endured before the Pure One
+  summary: The speaker describes days filled with grief and anguish, but says their
+    passing does not matter if the Pure One abides.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: praise of Love as healer and inspirer
+  summary: Love is praised as sweet madness, healer, physician, and wisdom figure,
+    then described as raising bodies heavenward, making hills dance, and enlivening
+    Mount Sinai in the episode involving Moses.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:4
+  - sym:7
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Beloved’s touch as music
+  summary: The speaker says that the Beloved’s touch with His lips would make him
+    break into melody like a flute.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: faded garden and silent nightingale
+  summary: The passage describes a rose faded, a garden withered, and the nightingale’s
+    song no longer heard.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Beloved all in all
+  summary: The Beloved is declared to be all that lives, while the lover is a veil,
+    a dead thing, wingless without Love’s quickening, and senseless without the Beloved’s
+    light.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: divine beloved as all-encompassing reality
+  taxonomy_refs:
+  - divine_beloved
+  basis: The Beloved is described as all in all, all that lives, and the source whose
+    light and presence sustain the lover.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The passage is lyric and devotional; it does not narrate a full mythic
+    episode.
+- id: motif:2
+  label: lover’s self-effacement before the beloved
+  taxonomy_refs:
+  - annihilation_union
+  basis: The lover is described as a veil and a dead thing in relation to the Beloved,
+    and as powerless without Love’s quickening.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The language suggests self-effacement, but the passage does not explicitly
+    use technical terms for annihilation or union.
+- id: motif:3
+  label: love as ascent from earth to heaven
+  taxonomy_refs:
+  - ascent
+  basis: Love is said to exalt earthly bodies to heaven.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The ascent is expressed as praise of Love rather than as a detailed journey
+    narrative.
+- id: motif:4
+  label: divine love animating nature and sacred mountain
+  taxonomy_refs: []
+  basis: Love makes hills dance, gives life to Mount Sinai, and is linked to the mountain’s
+    quaking and Moses’s swoon.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: No specific taxonomy motif beyond the available mountain symbol is asserted.
+- id: motif:5
+  label: loss of song and vitality when love withdraws
+  taxonomy_refs: []
+  basis: The faded rose, withered garden, silent nightingale, dead lover, and wingless
+    bird all present loss of vitality when the Beloved’s or Love’s animating presence
+    is absent.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: This is a thematic pattern within the passage rather than a separately
+    named taxonomy family.
+comparison_claims:
+- id: claim:1
+  claim: The passage fits the divine beloved motif family insofar as the Beloved is
+    presented as the all-encompassing living reality and the lover as dependent on
+    the Beloved’s presence.
+  claim_level: same_motif
+  target: divine_beloved
+  evidence_refs:
+  - ev:6
+  - ev:7
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a motif-family classification, not a claim of historical contact
+    or a specific parallel text.
+- id: claim:2
+  claim: The passage can be cautiously compared to annihilation-union patterns because
+    the lover is described as veiled, dead, and without vitality apart from the Beloved.
+  claim_level: same_function
+  target: annihilation_union
+  evidence_refs:
+  - ev:6
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage uses poetic devotional imagery and does not explicitly
+    state doctrinal annihilation or completed union.
+- id: claim:3
+  claim: The line in which Love exalts earthly bodies to heaven supports a cautious
+    comparison with ascent motifs.
+  claim_level: same_function
+  target: ascent
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage gives a compressed image of elevation, not a staged ascent
+    journey.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 1485-1490
+  quote_or_summary: "“Through grief my days are as labour and sorrow” and “Do Thou
+    abide, O Incomparable Pure One.”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source text.
+- id: ev:2
+  type: quote
+  locator: lines 1493-1497
+  quote_or_summary: Love is hailed as “sweet madness,” healer of infirmities, “Physician
+    of our pride and self conceit,” and “our Plato and our Galen.”
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source text.
+- id: ev:3
+  type: quote
+  locator: lines 1498-1501
+  quote_or_summary: "“Love exalts our earthly bodies to heaven,” makes hills dance,
+    gives life to Mount Sinai, and Moses falls “in a swoon.”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source text.
+- id: ev:4
+  type: quote
+  locator: lines 1502-1503
+  quote_or_summary: If the Beloved touched the speaker with His lips, the speaker
+    would, “like a flute,” burst into melody.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source text.
+- id: ev:5
+  type: quote
+  locator: lines 1507-1508
+  quote_or_summary: "“When the rose has faded and the garden is withered,” the nightingale’s
+    song is no longer heard."
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source text.
+- id: ev:6
+  type: quote
+  locator: lines 1509-1510
+  quote_or_summary: "“The BELOVED is all in all” and “all that lives”; the lover “veils
+    Him” and is “a dead thing.”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source text.
+- id: ev:7
+  type: quote
+  locator: lines 1511-1516
+  quote_or_summary: Without Love’s quickening the lover is like a bird without wings;
+    the speaker asks how he can retain his senses without the Beloved’s light.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source text.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is direct from the supplied English passage. Motif and
+    comparison assignments are limited to the provided taxonomy and remain interpretive
+    because the passage is lyric rather than narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No external sources or unprovided comparisons were used.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-persian-mystics-rumi-davis-gutenberg__l1485-l1516
+  passage_sha256=62c0ef5eb978fe8cc172ca717e5880d13b8ed0079471e78df58a537b23ac993e

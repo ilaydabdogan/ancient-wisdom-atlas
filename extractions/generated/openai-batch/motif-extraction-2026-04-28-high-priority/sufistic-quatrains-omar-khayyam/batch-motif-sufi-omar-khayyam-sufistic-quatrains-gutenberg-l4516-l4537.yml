@@ -1,0 +1,237 @@
+---
+record_id: batch.motif.sufi-omar-khayyam-sufistic-quatrains-gutenberg-l4516-l4537
+source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+passage_locator:
+  label: IN THE FIRST EDITION. / XXXIII. / XXXVII. / IN THE SECOND EDITION.; lines
+    4516-4537
+  start: '4516'
+  end: '4537'
+  translation: The Sufistic Quatrains of Omar Khayyam
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A second-edition quatrain compares wasting present life to a spider spinning
+    a thread, questions what is gained, and emphasizes uncertainty about whether the
+    speaker will exhale the breath just inhaled. A note cites an underlying Omar Khayyam
+    quatrain that similarly asks why grieve over possessions or lack, urges filling
+    the wine-cup, and repeats uncertainty about the next breath.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage introduces quatrains peculiar to the second edition.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The quatrain says it would be folly to spin away the thread of present life
+    like a spider.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The quatrain asks what is gained for oneself when one does not know whether
+    one will breathe out the breath now being breathed in.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The prose note states that the quatrain is inspired by O. 136.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The cited source quatrain asks how long the speaker shall grieve about what
+    they have or have not.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The cited source quatrain instructs filling up the wine-cup because the speaker
+    does not know whether they will breathe out the breath being drawn in.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: speaker
+  description: The first-person voice that questions grieving, gain, and the uncertainty
+    of the next breath.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: spider
+  description: A spider-like image used in the comparison of spinning away the thread
+    of present life.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: questioning mortal speaker
+  assigned_to:
+  - fig:1
+  basis: The voice asks what is gained and states uncertainty about breathing out
+    the present breath.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:2
+  label: comparison figure
+  assigned_to:
+  - fig:2
+  basis: The spider appears in a simile for spinning away the thread of present life.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: thread of present life
+  literal_form: thread
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: breath
+  literal_form: breath drawn in and breathed out
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:3
+  label: wine-cup
+  literal_form: wine-cup
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: possessions and lack
+  literal_form: what I have or have not
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Reflection on wasting present life
+  summary: The quatrain compares spinning away present life to a spider’s action and
+    questions the value of doing so when the next breath is uncertain.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Source quatrain on grief and the wine-cup
+  summary: The cited underlying quatrain asks why grieve over what one has or lacks
+    and urges filling the wine-cup because the next breath is uncertain.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: uncertainty of life and the next breath
+  taxonomy_refs:
+  - wisdom
+  basis: Both the second-edition quatrain and the cited source quatrain stress that
+    the speaker does not know whether the breath now drawn in will be breathed out.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: The taxonomy reference is broad; the passage frames this as reflective
+    wisdom rather than a narrative mythic episode.
+- id: motif:2
+  label: present life wasted like a spun thread
+  taxonomy_refs: []
+  basis: The quatrain explicitly compares folly to spinning the thread of present
+    life away in a spider-like manner.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This is a poetic image rather than a full narrative motif.
+- id: motif:3
+  label: wine-cup against grief over possession and lack
+  taxonomy_refs: []
+  basis: The cited source quatrain contrasts grieving over what one has or has not
+    with the instruction to fill the wine-cup.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage gives no extended ritual or mythic context for the wine-cup
+    image.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4516-4520
+  quote_or_summary: The passage heading states that these are quatrains peculiar to
+    the second edition and introduces quatrain XIV.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: quote
+  locator: lines 4521-4525
+  quote_or_summary: "“Were it not Folly, Spider-like to spin / The Thread of present
+    Life away to win-- / What? ... Breathe out the very Breath we now breathe in!”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:3
+  type: quote
+  locator: line 4527
+  quote_or_summary: "“This quatrain is inspired by O. 136.”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:4
+  type: summary
+  locator: lines 4529-4533
+  quote_or_summary: The cited O. 136 quatrain asks how long the speaker shall grieve
+    over what they have or have not, tells someone to fill the wine-cup, and says
+    the speaker does not know whether they will breathe out the breath being drawn
+    in.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: citation
+  locator: lines 4535-4537
+  quote_or_summary: Reference list for O. 136 and related editions or catalogues is
+    supplied.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; citation summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is short and explicit. Motif extraction is limited because the
+    material is primarily lyric reflection with editorial notes, not narrative myth.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not support a specific cross-textual or cross-traditional comparison beyond its stated source relationship to O. 136.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-omar-khayyam-sufistic-quatrains-gutenberg__l4516-l4537
+  passage_sha256=c161cee28b08ebd0e1db923b9954621992aa98d214b589632804c880b0ff24c9

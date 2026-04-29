@@ -1,0 +1,217 @@
+---
+record_id: batch.motif.sufi-omar-khayyam-sufistic-quatrains-gutenberg-l64-l111
+source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+passage_locator:
+  label: M. WALTER DUNNE; / PUBLISHER / THE SUFISTIC QUATRAINS OF / OMAR KHAYYAM;
+    lines 64-111
+  start: '64'
+  end: '111'
+  translation: The Sufistic Quatrains of Omar Khayyam
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: THE SUFISTIC QUATRAINS OF / OMAR KHAYYAM
+  summary: Front matter for an illustrated Universal Classics Library volume names
+    M. Walter Dunne as publisher, gives New York and London publication locations,
+    states a 1903 copyright, and presents the volume as The Sufistic Quatrains of
+    Omar Khayyam in definitive form, including translations by Edward Fitzgerald,
+    E. H. Whinfield, and J. B. Nicolas, with Edward Heron-Allen's analysis and translator
+    prefaces.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage identifies the book as part of the Universal Classics Library
+    and describes it as illustrated with photogravures, etchings, reproductions, and
+    portraits of authors.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: M. Walter Dunne is named as publisher, with New York and London given as places
+    associated with publication.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage states a copyright date of 1903 by M. Walter Dunne.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The title presented is The Sufistic Quatrains of Omar Khayyam.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The volume is described as including translations by Edward Fitzgerald, E.
+    H. Whinfield, and J. B. Nicolas, along with Edward Heron-Allen's analysis, translator
+    prefaces, and a general introduction on Omar's place in Sufism.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: M. Walter Dunne
+  description: Named as publisher and copyright holder.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Omar Khayyam
+  description: Named in the title and in the statement about a general introduction
+    dealing with Omar's place in Sufism.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Edward Fitzgerald
+  description: Named as providing translations, specified as 101 quatrains.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: Edward Heron-Allen
+  description: Named as associated with an analysis.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: E. H. Whinfield
+  description: Named as providing translations, specified as 500 quatrains.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: J. B. Nicolas
+  description: Named as providing translations, specified as 464 quatrains.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: publisher
+  assigned_to:
+  - fig:1
+  basis: The passage directly names M. Walter Dunne as publisher.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: copyright holder
+  assigned_to:
+  - fig:1
+  basis: The passage states copyright in 1903 by M. Walter Dunne.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: titular figure associated with the quatrains
+  assigned_to:
+  - fig:2
+  basis: Omar Khayyam is named in the title and in relation to Sufism in the description
+    of the introduction.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:4
+  label: translator
+  assigned_to:
+  - fig:3
+  - fig:5
+  - fig:6
+  basis: The passage lists the volume as including translations by Edward Fitzgerald,
+    E. H. Whinfield, and J. B. Nicolas.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: analyst
+  assigned_to:
+  - fig:4
+  basis: The passage mentions Edward Heron-Allen's analysis.
+  evidence_refs:
+  - ev:5
+symbols: []
+scenes:
+- id: scene:1
+  label: Title-page publication notice
+  summary: The front matter presents the edition, publisher, copyright statement,
+    title, named translators, analysis, prefaces, and general introduction.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 64-78
+  quote_or_summary: The passage identifies the volume as part of the Universal Classics
+    Library and describes illustrations including photogravures, etchings, reproductions,
+    and full-page portraits.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summary used.
+- id: ev:2
+  type: quote
+  locator: lines 80-82
+  quote_or_summary: M WALTER DUNNE, PUBLISHER / NEW YORK & LONDON
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:3
+  type: summary
+  locator: lines 84-90
+  quote_or_summary: The passage gives a 1903 copyright by M. Walter Dunne.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summary used.
+- id: ev:4
+  type: quote
+  locator: lines 94-96
+  quote_or_summary: THE SUFISTIC QUATRAINS OF / OMAR KHAYYAM
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:5
+  type: summary
+  locator: lines 98-111
+  quote_or_summary: The passage describes the volume as in definitive form, including
+    translations by Edward Fitzgerald, E. H. Whinfield, and J. B. Nicolas, with Edward
+    Heron-Allen's analysis, translator prefaces, and a general introduction on Omar's
+    place in Sufism.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summary used.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is bibliographic front matter rather than a narrative or symbolic
+    passage; no supported mythic motif, symbolic object from the available taxonomy,
+    or comparison claim was extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No motif candidates were recorded because the passage only supplies edition, publication, and contents information.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-omar-khayyam-sufistic-quatrains-gutenberg__l64-l111
+  passage_sha256=d614fee1e6527a0aaca60ad4143b217f2aaf8a767b3067963a5097c5ec246a77

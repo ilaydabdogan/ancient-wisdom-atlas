@@ -1,0 +1,228 @@
+---
+record_id: batch.motif.sufi-omar-khayyam-sufistic-quatrains-gutenberg-l4417-l4432
+source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+passage_locator:
+  label: APPENDIX. / PAGE 4. / PAGE 7. / PAGE 7.; lines 4417-4432
+  start: '4417'
+  end: '4432'
+  translation: The Sufistic Quatrains of Omar Khayyam
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: '"I have never said that One was Two."'
+  summary: A speaker admits imperfect good deeds, service, and cleansing from sin,
+    but asks that their refusal to confuse One with Two count toward atonement and
+    grounds hope in the addressee's mercy. A prose note identifies the quatrain as
+    FitzGerald's rendering of O. 1 and lists references.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The speaker says their good deed has been loosely strung on a looser creed.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: 'The speaker asks that one thing plead for their atonement: they never misread
+    One for Two.'
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The alternate rendering says the speaker has never threaded the pearl of the
+    addressee's service.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The alternate rendering says the speaker has never wiped the dust of sin from
+    their face.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The speaker says they are nevertheless not hopeless of the addressee's mercy
+    because they never said One was Two.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The prose note states that the quatrain on page 7 is FitzGerald's rendering
+    of O. 1 and provides reference sigla.
+  category: other
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: first-person speaker
+  description: The speaker refers to themself as "I" and describes imperfect service,
+    sin, hope, and refusal to say One was Two.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: addressed "thy"
+  description: An addressee whose service and mercy are mentioned in the alternate
+    rendering.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: self-accusing hopeful petitioner
+  assigned_to:
+  - fig:1
+  basis: The speaker acknowledges not threading the pearl of service and not wiping
+    away the dust of sin, yet says they are not hopeless of mercy.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: source of service and mercy
+  assigned_to:
+  - fig:2
+  basis: The addressee is associated with "thy service" and "thy mercy."
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: jewel or pearl threaded
+  literal_form: Jewel of Good deed; pearl of thy service
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: dust of sin on the face
+  literal_form: dust of sin from my face
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: One and Two
+  literal_form: One; Two
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:4
+  label: mercy
+  literal_form: thy mercy
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: appeal for atonement and mercy
+  summary: The speaker confesses deficient deeds, service, and cleansing from sin,
+    but appeals to their refusal to confuse One with Two as the reason for atonement
+    or hope in mercy.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: editorial identification of the quatrain
+  summary: A prose note identifies the page 7 quatrain as FitzGerald's rendering of
+    O. 1 and lists reference sigla.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: atonement through affirmation of unity
+  taxonomy_refs:
+  - duality
+  basis: The speaker asks that their refusal to misread One as Two plead for atonement
+    and says hope in mercy rests on never saying One was Two.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage states a contrast of One and Two but does not elaborate a
+    full doctrine; the taxonomy reference to duality is cautious because the quatrain
+    emphasizes rejection of Two.
+- id: motif:2
+  label: hope for mercy despite confessed sin
+  taxonomy_refs: []
+  basis: The speaker admits failure to wipe the dust of sin from their face, yet says
+    they are not hopeless of the addressee's mercy.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: No specific available taxonomy family directly names mercy or penitence.
+- id: motif:3
+  label: devotional service as threaded jewel or pearl
+  taxonomy_refs: []
+  basis: Both renderings use an image of threading a jewel or pearl in connection
+    with good deed or service.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage presents this as poetic imagery rather than a developed narrative
+    motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 4417-4422
+  quote_or_summary: '"If I myself upon a looser Creed / Have loosely strung the Jewel
+    of Good deed, / Let this one thing for my Atonement plead. / That One for Two
+    I never did misread."'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short excerpt used for extraction.
+- id: ev:2
+  type: quote
+  locator: lines 4426-4431
+  quote_or_summary: '"If I have never threaded the pearl of thy service" and "I am
+    not hopeless of thy mercy" because "I have never said that One was Two."'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short excerpt used for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 4424, 4432
+  quote_or_summary: A note says the page 7 quatrain is FitzGerald's rendering of O.
+    1 and lists reference sigla including O. 1, C. 274, L. 423, B. 419, P. 4, and
+    others.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; bibliographic detail summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labels involving unity and duality
+    are cautious because the passage is brief and doctrinal context is not supplied
+    within the excerpt.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata. No comparison claims were added because the passage itself does not explicitly compare traditions or motif families.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-omar-khayyam-sufistic-quatrains-gutenberg__l4417-l4432
+  passage_sha256=8e22f9b0cc08884c59d985d7860cdd4e4f2cda61c762e5ebaf546a0b79ec57b0

@@ -1,0 +1,353 @@
+---
+record_id: batch.motif.sufi-jami-persian-mystics-davis-gutenberg-l2013-l2038
+source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+passage_locator:
+  label: FIFTH GARDEN / A LOVERS' DIALOGUE / A KIND FRIEND / A BEAUTIFUL WOMAN; lines
+    2013-2038
+  start: '2013'
+  end: '2038'
+  translation: 'The Persian Mystics: Jámí'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage first states that sorrow is eased by a kind friend, especially
+    in trouble. It then tells of a beautiful woman whose many admirers abandon her
+    when her attractions disappear; a speaker reproaches one admirer for faithlessness,
+    and the admirer replies that what he loved was the animating spirit expressed
+    through her form, now departed, leaving only a dead body or withered rose.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The speaker addresses the heart and says that sorrow is absent when one has
+    a kind friend.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says a friend is required for a day of trouble, while friends
+    are not scarce in times of comfort.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A beautiful woman had many admirers, whose visits crowded the street where
+    she lived.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: When the woman's attractions disappeared and she became ugly, her lovers abandoned
+    her.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A speaker told one former admirer that the woman was the same friend as before,
+    with the same eyes, brows, and lips, and called his neglect faithless and treacherous.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The former admirer replied that what had ravished the heart and enthralled
+    the senses was the spirit residing in her form and expressed in her limbs, skin,
+    and voice.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The former admirer said that the spirit had departed from the figure and asked
+    how he could love a dead body or fondle a withered rose.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: heart
+  description: The addressed heart in the opening aphorism.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: kind friend
+  description: A friend whose presence removes sorrow in time of trouble.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: beautiful woman
+  description: A woman with many admirers who is later abandoned after her attractions
+    disappear.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: admirers or lovers
+  description: Visitors and lovers of the beautiful woman who abandon her after her
+    attractions disappear.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: speaker or narrator
+  description: The one who reproaches a former admirer for neglecting the woman.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: one former admirer
+  description: The admirer who explains that he loved the spirit residing in the woman's
+    form, not the dead body after that spirit departed.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:7
+  name_or_label: spirit residing in her form
+  description: The spirit said to have resided in the woman's form and to have departed
+    from the figure.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: addressed inner self
+  assigned_to:
+  - fig:1
+  basis: The opening address is made to the heart.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: helper in trouble
+  assigned_to:
+  - fig:2
+  basis: The kind friend is said to remove sorrow and be required in a day of trouble.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: beloved whose outward attractions fade
+  assigned_to:
+  - fig:3
+  basis: She first has many admirers and later loses them when her attractions disappear.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: fair-weather lovers
+  assigned_to:
+  - fig:4
+  basis: They admire her when attractive and abandon her after her attractions disappear.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: moral reprover
+  assigned_to:
+  - fig:5
+  basis: The speaker calls the admirer's neglect faithless and treacherous.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: defending former lover
+  assigned_to:
+  - fig:6
+  basis: He answers the reproach by explaining what he loved and why he no longer
+    loves the figure.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: animating beloved quality
+  assigned_to:
+  - fig:7
+  basis: The spirit is described as residing in the form and as the true source of
+    ravishment.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: heart
+  literal_form: heart
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:2
+  label: kind friend
+  literal_form: friend in time of sorrow or trouble
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: departed spirit
+  literal_form: spirit residing in and departing from the woman's form
+  associated_figures:
+  - fig:3
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: dead body
+  literal_form: dead body
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: withered rose
+  literal_form: withered rose
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Need for a kind friend in sorrow
+  summary: The heart is told that sorrow is relieved by a kind friend and that such
+    a friend is especially needed in trouble.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Admirers abandon the woman after beauty fades
+  summary: A beautiful woman once draws many admirers, but they abandon her after
+    her attractions disappear.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Reproach for faithless neglect
+  summary: The speaker tells one admirer that the woman is the same friend as before
+    and rebukes him for neglecting her.
+  figure_refs:
+  - fig:3
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Love of spirit rather than lifeless form
+  summary: The former admirer says the loved spirit has departed from the woman's
+    figure, leaving something like a dead body or withered rose.
+  figure_refs:
+  - fig:3
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: true friend needed in adversity
+  taxonomy_refs: []
+  basis: The passage contrasts the need for a friend in trouble with the abundance
+    of friends in comfort.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is an ethical aphorism rather than a developed narrative motif.
+- id: motif:2
+  label: fair-weather love abandoned when beauty fades
+  taxonomy_refs: []
+  basis: The woman's admirers abandon her after her attractions disappear.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage presents this as an exemplum within a dialogue, not as a full
+    mythic plot.
+- id: motif:3
+  label: beloved form valued only while animated by spirit
+  taxonomy_refs:
+  - divine_beloved
+  basis: The former admirer says that what ravished him was the spirit residing in
+    the woman's form, and that after the spirit departed he could not love the remaining
+    body.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The available taxonomy reference is only cautiously applicable; the passage
+    itself speaks of a beautiful woman and spirit, not explicitly of a divine beloved.
+- id: motif:4
+  label: withered rose as image of lost beauty
+  taxonomy_refs: []
+  basis: The former admirer compares the abandoned figure to a withered rose.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: This is a local image rather than a taxonomy-linked motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 2013-2018
+  quote_or_summary: 'The speaker addresses the heart: sorrow is relieved by a kind
+    friend, and a friend is needed in trouble more than in comfort.'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; summary provided.
+- id: ev:2
+  type: summary
+  locator: 2021-2028
+  quote_or_summary: A beautiful woman has many admirers and many visitors; when her
+    attractions disappear and she becomes ugly, her lovers abandon her.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; summary provided.
+- id: ev:3
+  type: summary
+  locator: 2028-2032
+  quote_or_summary: The speaker tells one admirer that she is the same friend as before,
+    with the same features, and that neglecting her is faithless and treacherous.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; summary provided.
+- id: ev:4
+  type: summary
+  locator: 2032-2038
+  quote_or_summary: The admirer replies that the spirit residing in her form had enthralled
+    him; since it has departed, he cannot love a dead body or fondle a withered rose.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; summary provided.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labeling is cautious because
+    the passage is an ethical and mystical exemplum, and the only taxonomy-linked
+    candidate is not explicit in the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not support a specific cross-textual comparison.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-jami-persian-mystics-davis-gutenberg__l2013-l2038
+  passage_sha256=e5fe77cca412689f900ddfd831d6a1d89800ba4f3dbd4664b4d1ab8ff848494a

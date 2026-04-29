@@ -1,0 +1,431 @@
+---
+record_id: batch.motif.sufi-omar-khayyam-sufistic-quatrains-gutenberg-l4101-l4172
+source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+passage_locator:
+  label: LXXXVI. / LXXXVII. / LXXXVIII. / LXXXIX.; lines 4101-4172
+  start: '4101'
+  end: '4172'
+  translation: The Sufistic Quatrains of Omar Khayyam
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Three quatrains and editorial source notes present personified vessels
+    made from clay, imagined revival when filled with wine, vessels awaiting porters
+    at the turn of Ramazan to Shawwal, and funerary requests involving wine, grape,
+    living leaf, vine wood, garden-side burial, tavern threshold, and resurrection-day
+    seeking.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A murmuring speaker says its clay has gone dry with long oblivion and imagines
+    recovering if filled with the old familiar juice.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The cited source quatrains describe existence as a plant rooted up, branches
+    scattered, and the speaker's clay made into a flagon or goblet that may live or
+    revive when filled with wine.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Vessels speak one by one; the little Moon looks in; the vessels address one
+    another as brothers and anticipate the porter's shoulder-knot creaking.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The cited concluding source quatrain links the passing of Ramazan and coming
+    of Shawwal with a season of increase, joy, storytellers, bottles on shoulders,
+    and returning porters.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: A speaker asks that the grape provide for fading life, that the body after
+    death be washed, that the body be shrouded in a living leaf, and that it be laid
+    near a frequented garden-side.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: A cited source quatrain requests washing the dead speaker with wine, reciting
+    the funeral service with pure wine, and seeking the speaker on resurrection-day
+    in the earth of the tavern threshold.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Another cited source quatrain asks to be stayed with the wine-cup, made ruby-faced,
+    washed with wine at death, and given coffin planks from vine wood.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: murmuring clay vessel or speaker
+  description: A speaker associated with dry clay who imagines recovery when filled
+    with juice.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: vessels
+  description: A collective of speaking vessels that address one another as brothers.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: little Moon
+  description: The little Moon looks in while the vessels are speaking.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: porter or porters
+  description: Porters are associated with shoulder-knots, bottles carried on shoulders,
+    and arrival or return.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: dead or dying speaker
+  description: A speaker whose fading life, death, washing, shrouding, coffin, and
+    possible resurrection-day location are described in funerary requests.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+roles:
+- id: role:1
+  label: personified speaking vessel
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage has a murmuring speaker of clay and later says the vessels speak
+    one by one.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: revivable clay or body
+  assigned_to:
+  - fig:1
+  - fig:5
+  basis: The clay vessel imagines recovery when filled with juice; cited source quatrains
+    say clay made into a vessel may live or revive when filled with wine.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: watching celestial figure
+  assigned_to:
+  - fig:3
+  basis: The little Moon looks in while the vessels are speaking.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: carrier of bottles or vessels
+  assigned_to:
+  - fig:4
+  basis: The vessels anticipate the porter's shoulder-knot, and the cited quatrain
+    mentions bottles on shoulders and porters.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: funerary subject
+  assigned_to:
+  - fig:5
+  basis: The speaker's dead body is to be washed, shrouded, laid near a garden, or
+    given wine-related rites and a vine-wood coffin.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+symbols:
+- id: sym:1
+  label: clay vessel or goblet
+  literal_form: Clay made into a flagon, goblet, or vessel.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: wine, juice, or grape
+  literal_form: Old familiar juice, wine, pure wine, wine-cup, and grape.
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+  - ev:7
+- id: sym:3
+  label: plant, branches, vine, and living leaf
+  literal_form: Plant of existence, scattered branches, living leaf, and vine wood.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:7
+- id: sym:4
+  label: little Moon
+  literal_form: The little Moon looking in on the vessels.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: porter shoulder-knot and bottles
+  literal_form: Porter's shoulder-knot and bottles carried on the shoulder.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:6
+  label: garden-side and tavern threshold
+  literal_form: A frequented garden-side and the earth of the tavern threshold.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+scenes:
+- id: scene:1
+  label: Clay vessel hopes for recovery through filling
+  summary: A clay speaker, dry with oblivion, imagines that filling with familiar
+    juice could bring recovery; cited variants explain this as clay made from the
+    dead speaker into a wine-filled vessel that may live again.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Speaking vessels await porters
+  summary: The vessels speak, the little Moon looks in, and the vessels anticipate
+    porters whose shoulder-knots or bottle-carrying mark the time after Ramazan as
+    Shawwal arrives.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Wine-centered funerary instructions
+  summary: A speaker requests grape or wine in relation to fading life and death,
+    including washing, shrouding in leaf, burial near a garden or tavern threshold,
+    and a coffin made from vine wood.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Revival of dead clay through wine-filled vessel
+  taxonomy_refs:
+  - death_rebirth
+  - resurrection
+  basis: The passage and cited variants repeatedly imagine the speaker's clay being
+    made into a vessel that may recover, live, or revive when filled with juice or
+    wine.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The revival is poetic and conditional; the passage does not provide a
+    doctrinal explanation.
+- id: motif:2
+  label: Personified vessels speaking among themselves
+  taxonomy_refs: []
+  basis: The vessels speak one by one, address one another as brothers, and anticipate
+    the porter.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: No broader taxonomy reference is directly supported by the available list.
+- id: motif:3
+  label: Wine as funerary medium and marker of posthumous location
+  taxonomy_refs:
+  - resurrection
+  - death_rebirth
+  basis: The speaker asks for wine or grape in death rites, including washing the
+    corpse with wine, seeking the speaker at the tavern threshold on resurrection-day,
+    and making the coffin from vine wood.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The passage uses wine imagery in ritualized funerary requests; interpretation
+    beyond the literal requests is not supplied.
+- id: motif:4
+  label: Human life figured as plant or vine material
+  taxonomy_refs: []
+  basis: A cited quatrain describes existence as a plant uprooted with branches scattered,
+    while later quatrains use living leaf and vine wood in funerary imagery.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:7
+  confidence: medium
+  cautions: The plant imagery appears across related cited quatrains rather than a
+    single continuous narrative scene.
+comparison_claims:
+- id: claim:1
+  claim: The editorial notes explicitly relate the LXXXIX quatrain to cited quatrains
+    C. 188 and O. 116 that share the pattern of dead speaker's clay made into a wine-filled
+    vessel capable of renewed life.
+  claim_level: same_motif
+  target: C. 188 and O. 116 source quatrains cited in the passage
+  evidence_refs:
+  - ev:1
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim is limited to the cited source relationship and shared motif
+    pattern; it does not establish historical transmission beyond the editor's stated
+    inspiration.
+- id: claim:2
+  claim: The editorial note explicitly relates XC to the concluding quatrain of O.
+    158, with shared emphasis on bottles carried by porters at the Ramazan-Shawwal
+    transition.
+  claim_level: same_motif
+  target: O. 158 concluding quatrain cited in the passage
+  evidence_refs:
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The shared pattern concerns the cited scene of porters and bottles;
+    broader ritual or seasonal interpretation is not stated.
+- id: claim:3
+  claim: The editorial notes relate XCI to C. 12 and also quote O. 69, both sharing
+    wine-centered funerary instructions for the speaker's body after death.
+  claim_level: same_motif
+  target: C. 12 and O. 69 source quatrains cited in the passage
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is restricted to the quoted source parallels and does
+    not identify a wider cross-cultural motif.
+evidence:
+- id: ev:1
+  type: summary
+  locator: LXXXIX, opening quatrain
+  quote_or_summary: A speaker says its clay is dry with long oblivion and might recover
+    if filled with the old familiar juice.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: LXXXIX, notes citing C. 188 and O. 116
+  quote_or_summary: The notes cite variants in which the speaker's existence is uprooted
+    like a plant; the speaker's clay is made into a flagon or goblet and may live
+    or revive when filled with wine.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: XC, quatrain
+  quote_or_summary: Vessels speak one by one; the little Moon looks in; they call
+    to each other as brothers and anticipate a porter's creaking shoulder-knot.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: XC, note citing O. 158
+  quote_or_summary: The note cites a concluding quatrain in which Ramazan passes,
+    Shawwal comes, a season of increase and joy arrives, and porters carry bottles
+    on their shoulders.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: XCI, quatrain
+  quote_or_summary: The speaker asks for the grape to provide for fading life, the
+    dead body to be washed, the body to be shrouded in living leaf, and burial near
+    a frequented garden-side.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: XCI, note citing C. 12
+  quote_or_summary: The cited quatrain asks that the dead speaker be washed with wine,
+    that the funeral service be said with pure wine, and that the speaker be sought
+    on resurrection-day in the earth of the tavern threshold.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: XCI, note citing O. 69
+  quote_or_summary: The cited quatrain asks to be stayed with the wine-cup, made ruby-faced,
+    washed with wine when dead, and given coffin planks made from vine wood.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is strong because the passage is explicit. Motif taxonomy
+    mapping is somewhat interpretive, especially where wine-centered death imagery
+    is mapped to death_rebirth or resurrection. Comparison claims rely only on the
+    editorial statements and cited parallels in the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage text and metadata. No external taxonomy IDs or comparisons were added beyond the available taxonomy references and the passage's own cited source parallels.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-omar-khayyam-sufistic-quatrains-gutenberg__l4101-l4172
+  passage_sha256=30dd62022b7bef9a5b40244131b71537cdab72eb7b1a9327153fad82e5fd8279

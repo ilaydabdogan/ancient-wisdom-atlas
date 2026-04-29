@@ -1,0 +1,382 @@
+---
+record_id: batch.motif.sufi-omar-khayyam-sufistic-quatrains-gutenberg-l1395-l1424
+source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+passage_locator:
+  label: XLVII. / XLVIII. / XLIX. / LIII.; lines 1395-1424
+  start: '1395'
+  end: '1424'
+  translation: The Sufistic Quatrains of Omar Khayyam
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Four quatrains describe creation and final reckoning as already inscribed,
+    a predestined plot of dust and soul under celestial imagery, a vine-fibre binding
+    the speaker's being and a key made from base metal, and the speaker's preference
+    for one glimpse of the True Light in a tavern over losing it in a temple.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Earth's first clay is said to be used to knead the last man.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The first morning of creation is said to write what the last dawn of reckoning
+    will read.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Unnamed agents fling Parwin and Mushtara over the shoulders of a flaming foal
+    of heaven.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The speaker refers to a predestined plot made of dust and soul.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A vine has struck a fibre that clings about the speaker's being.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The speaker says a key may be filed from base metal to unlock a door outside
+    which the Sufi howls.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The speaker contrasts the True Light kindling to love with wrath consuming
+    the speaker.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The speaker says one glimpse of the True Light caught in the tavern is better
+    than being lost in the temple.
+  category: setting
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: unnamed agents
+  description: The unspecified 'They' who knead, sow, write, and fling celestial bodies.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Last Man
+  description: The last human figure kneaded from earth's first clay.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: speaker
+  description: The first-person voice whose predestined plot is dust and soul and
+    whose being is bound by the vine fibre.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Sufi
+  description: A Sufi who is said to flout and to howl outside a door.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: one True Light
+  description: A singular light associated with love, wrath, a tavern glimpse, and
+    the temple.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: cosmic makers or determiners
+  assigned_to:
+  - fig:1
+  basis: They knead the last man from first clay, sow seed, write the reckoning, and
+    set celestial bodies in motion.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: end-time human figure
+  assigned_to:
+  - fig:2
+  basis: The last man is explicitly linked to earth's first clay and the final sequence
+    of reckoning.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: predestined first-person seeker
+  assigned_to:
+  - fig:3
+  basis: The speaker identifies a predestined plot of dust and soul and seeks or values
+    a glimpse of the True Light.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:4
+  label: religious critic or excluded seeker
+  assigned_to:
+  - fig:4
+  basis: The Sufi flouts the vine and howls outside the door that the key may unlock.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: divine or ultimate light
+  assigned_to:
+  - fig:5
+  basis: The True Light is singular and connected with love, wrath, tavern, and temple
+    settings.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: first clay
+  literal_form: Earth's first Clay
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: last harvest seed
+  literal_form: Last Harvest and Seed
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: creation morning and reckoning dawn
+  literal_form: first Morning of Creation and Last Dawn of Reckoning
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: flaming foal of heaven
+  literal_form: flaming Foal of Heav'n
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: celestial bodies
+  literal_form: Parwin and Mushtara
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:6
+  label: predestined plot
+  literal_form: predestined Plot of Dust and Soul
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:7
+  label: vine fibre
+  literal_form: Vine and Fibre clinging about the speaker's being
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:8
+  label: base-metal key and locked door
+  literal_form: Base Metal, Key, and Door
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:9
+  label: True Light
+  literal_form: one True Light
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:10
+  label: tavern and temple
+  literal_form: Tavern and Temple
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Creation writes final reckoning
+  summary: The passage presents the first clay, the last man, seed of the last harvest,
+    and the first morning of creation as already connected to the last dawn of reckoning.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Celestial predestination of the speaker
+  summary: The passage says that, from the goal, celestial names are flung over the
+    shoulders of a flaming foal of heaven into the speaker's predestined plot of dust
+    and soul.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Vine, key, and excluded Sufi
+  summary: A vine fibre clings to the speaker's being; despite the Sufi's disdain,
+    the speaker's base metal may be made into a key that unlocks a door outside which
+    the Sufi howls.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Glimpse of True Light in tavern and temple contrast
+  summary: The speaker states that whether the True Light kindles love or wrath consumes
+    the speaker, one tavern glimpse of it is better than being lost in the temple.
+  figure_refs:
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:9
+  - sym:10
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: creation already containing final reckoning
+  taxonomy_refs:
+  - divine_judgment
+  basis: The first morning of creation is said to write what the last dawn of reckoning
+    will read.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage uses poetic personification and does not explicitly describe
+    a judgment scene beyond the phrase 'Reckoning.'
+- id: motif:2
+  label: predestined soul plot under celestial signs
+  taxonomy_refs:
+  - wisdom
+  basis: The speaker names a predestined plot of dust and soul in connection with
+    celestial imagery.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The taxonomy reference is broad; the passage is more about predestination
+    than a discrete narrative wisdom episode.
+- id: motif:3
+  label: hidden access through a key and door
+  taxonomy_refs:
+  - mystical_quest
+  basis: The speaker says base metal may be filed into a key that unlocks a door inaccessible
+    to the howling Sufi.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage does not narrate an actual quest; the key and door remain
+    metaphorical images.
+- id: motif:4
+  label: divine light glimpsed outside formal sanctuary
+  taxonomy_refs:
+  - mystical_quest
+  basis: A glimpse of the True Light in the tavern is valued above being lost in the
+    temple.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage supports a contrast between tavern and temple, but does not
+    specify doctrinal implications beyond the stated preference.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1395-1400; LIII
+  quote_or_summary: Earth's first clay is used for the last man; the first morning
+    of creation writes what the last dawn of reckoning will read.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1401-1408; LIV
+  quote_or_summary: From the goal, Parwin and Mushtara are flung over the shoulders
+    of the flaming foal of heaven into the speaker's predestined plot of dust and
+    soul.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 1409-1416; LV
+  quote_or_summary: A vine fibre clings to the speaker's being; from the speaker's
+    base metal a key may be filed to unlock the door outside which the Sufi howls.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 1417-1424; LVI
+  quote_or_summary: The speaker says that whether the True Light kindles love or wrath
+    consumes him, one glimpse caught in the tavern is better than being lost in the
+    temple.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal images are clear, but motif classification is interpretive because
+    the passage is lyric and metaphorical rather than narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the provided passage and metadata. No comparison claims were added because the passage does not itself support a comparison to an external text or tradition.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-omar-khayyam-sufistic-quatrains-gutenberg__l1395-l1424
+  passage_sha256=61803f204f7afa6deeffb9e17140214467d8311e1ea09f91f869f78d097267ab

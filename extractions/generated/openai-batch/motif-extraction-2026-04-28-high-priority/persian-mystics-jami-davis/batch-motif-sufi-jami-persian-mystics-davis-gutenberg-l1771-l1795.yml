@@ -1,0 +1,288 @@
+---
+record_id: batch.motif.sufi-jami-persian-mystics-davis-gutenberg-l1771-l1795
+source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+passage_locator:
+  label: FIRST GARDEN / PRIDE / FRIENDSHIP / SECOND GARDEN; lines 1771-1795
+  start: '1771'
+  end: '1795'
+  translation: 'The Persian Mystics: Jámí'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage defines a true friend as one whose love grows firmer despite
+    hostility or violence from the friend. It then counsels concealing a necessary
+    secret even from a friend because friends may become enemies. Finally, it advises
+    cultivating only indispensable knowledge and acting in accordance with it once
+    acquired.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A friend is described as becoming more attached even when met with enmity
+    from his friend.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Violence is imagined as a thousand stones striking the friend, making the
+    edifice of love firmer.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The speaker advises a boy not to reveal to a friend a secret that must be
+    concealed from a foe.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The speaker says many friends have become foes over time.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The speaker advises cultivating indispensable knowledge and not seeking dispensable
+    knowledge.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Once indispensable knowledge is acquired, the hearer is told to act only in
+    accordance with it.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: friend
+  description: A figure who remains attached despite enmity and violence from his
+    friend.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: friend who may become foe
+  description: A friend who may later turn into an enemy in the course of time.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: boy
+  description: The addressee of the advice about secrecy.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: speaker
+  description: The advising voice that gives counsel about friendship, secrecy, and
+    knowledge.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: steadfast friend
+  assigned_to:
+  - fig:1
+  basis: The figure's attachment increases despite enmity and violence.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: mutable friend or foe
+  assigned_to:
+  - fig:2
+  basis: The passage says friends may become foes and amity may turn to enmity.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: recipient of counsel
+  assigned_to:
+  - fig:3
+  basis: The speaker addresses the boy directly and instructs him not to reveal a
+    secret.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: moral instructor
+  assigned_to:
+  - fig:4
+  basis: The speaker gives direct imperatives concerning secrecy and indispensable
+    knowledge.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: edifice of love
+  literal_form: An edifice made firmer by stones of violence.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: secret
+  literal_form: A secret necessary to be concealed from a foe and not revealed even
+    to a friend.
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: indispensable knowledge
+  literal_form: Knowledge necessary to the hearer, distinguished from knowledge that
+    can be dispensed with.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+scenes:
+- id: scene:1
+  label: Steadfast friendship under hostility
+  summary: The passage describes a true friend whose attachment and love become firmer
+    despite enmity and violent blows from the friend.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Advice about secrecy
+  summary: The speaker tells a boy not to reveal a necessary secret even to a friend,
+    since friends may later become foes.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Advice about indispensable knowledge
+  summary: The speaker advises cultivating indispensable knowledge, avoiding needless
+    knowledge, and acting according to indispensable knowledge once acquired.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: steadfast love despite hostility
+  taxonomy_refs: []
+  basis: The friend remains attached and love is strengthened even when met with enmity
+    and violence.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: This is an ethical maxim rather than a narrative mythic episode.
+- id: motif:2
+  label: secret withheld because allies may become enemies
+  taxonomy_refs: []
+  basis: The speaker advises concealing a secret even from a friend because friends
+    may become foes with time.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: No available taxonomy reference directly matches this advisory motif.
+- id: motif:3
+  label: practical wisdom over unnecessary knowledge
+  taxonomy_refs:
+  - wisdom
+  basis: The passage instructs the hearer to cultivate only indispensable knowledge
+    and act according to it.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The taxonomy link is broad; the passage is didactic rather than mythic
+    narrative.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 1771-1774
+  quote_or_summary: A true friend becomes more attached even when receiving enmity
+    from his friend.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: 1775-1776
+  quote_or_summary: A thousand stones of violence striking him are said to make the
+    edifice of his love firmer.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: 1781-1782
+  quote_or_summary: The speaker addresses a boy and says that a secret necessary to
+    conceal from a foe should not be revealed even to a friend.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: 1783-1784
+  quote_or_summary: The speaker says he has seen many who became foes from friends,
+    with amity turning to enmity over time.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: 1789-1791
+  quote_or_summary: The speaker advises cultivating indispensable knowledge and not
+    seeking knowledge that can be dispensed with.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:6
+  type: summary
+  locator: 1792-1795
+  quote_or_summary: After acquiring indispensable knowledge, the hearer is told not
+    to desire to act except in accordance with it.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is clear as ethical and didactic verse. Motif identification
+    is limited because it contains maxims rather than a developed mythic narrative,
+    and no comparison claims are directly supported by the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata; available taxonomy applied only where directly supportable.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-jami-persian-mystics-davis-gutenberg__l1771-l1795
+  passage_sha256=b916ebeb22d22b835a44bb8bbdef696663cca242a1d8b4b6ac6491f7576bac20

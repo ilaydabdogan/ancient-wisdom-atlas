@@ -1,0 +1,290 @@
+---
+record_id: batch.motif.sufi-persian-mystics-rumi-davis-gutenberg-l1558-l1580
+source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+passage_locator:
+  label: EARTHLY LOVE ESSENTIAL TO THE LOVE DIVINE / THE ETERNAL SPLENDOUR OF THE
+    BELOVED / WOMAN / THE DIVINE UNION; lines 1558-1580
+  start: '1558'
+  end: '1580'
+  translation: 'The Persian Mystics: Jalálu''d-dín Rúmí'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: Impute it not a fault if I call Him "Bride."
+  summary: The passage presents Mustafa overcome by a sweet call and blissful sleep
+    so that his morning prayer is delayed. It frames the event as a wedding night
+    with a bride and explains that love and mistress are veiled, allowing the divine
+    to be named as Bride. A following garden image contrasts rose or lily, thorn,
+    autumn, stone, ruby, the Gardener’s knowledge, and the sight of One.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Mustafa becomes beside himself at a sweet call.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Mustafa does not lift his head from blissful sleep, and his morning prayer
+    is delayed until noon.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage describes a wedding night in the presence of a bride, where Mustafa’s
+    pure soul attains to kiss her hands.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Love and mistress are described as veiled and hidden, and the speaker says
+    it is not a fault to call Him Bride.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A perfect rose or lily rejoices in spring, while a useless thorn desires autumn
+    to hide the rose’s beauty and the thorn’s shame.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage says common stone and pure ruby may appear as one, while the Gardener
+    knows the difference in autumn.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The sight of One is stated to be better than the world’s sight.
+  category: attribute
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Mustafa
+  description: A named figure overcome by a sweet call, remaining in blissful sleep,
+    and present in the wedding-night scene.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Bride / Him
+  description: A bride in whose presence Mustafa’s soul kisses her hands; the speaker
+    also says he calls Him Bride.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Gardener
+  description: A figure who knows the difference between common stone and pure ruby,
+    or between the garden’s appearances, in autumn.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: overcome lover or devotee
+  assigned_to:
+  - fig:1
+  basis: Mustafa becomes beside himself at the sweet call and remains in blissful
+    sleep.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: veiled beloved-bride
+  assigned_to:
+  - fig:2
+  basis: The passage links bride imagery with veiled love and mistress and permits
+    calling Him Bride.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: discerning knower
+  assigned_to:
+  - fig:3
+  basis: The Gardener is said to know the difference despite autumnal concealment
+    or apparent sameness.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: wedding night and bride
+  literal_form: Wedding night, bride, and kissing the bride’s hands.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: blissful sleep
+  literal_form: Sleep from which Mustafa does not lift his head, delaying prayer.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: rose or lily in spring
+  literal_form: A perfect rose or lily rejoicing when spring comes.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: thorn desiring autumn
+  literal_form: A useless thorn that desires autumn so the garden may hide beauty
+    and shame.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: stone and ruby
+  literal_form: Common stone and pure ruby appearing as one.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: sight of One
+  literal_form: The sight of One contrasted with the world’s sight.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Mustafa’s delayed prayer and wedding-night encounter
+  summary: Mustafa is overcome by a sweet call, remains in blissful sleep, misses
+    the morning prayer until noon, and is described on a wedding night in the presence
+    of a bride.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Garden of concealed difference and the Gardener’s sight
+  summary: The passage uses rose, lily, thorn, spring, autumn, stone, and ruby to
+    describe concealed or revealed difference, while the Gardener knows and the sight
+    of One is preferred to worldly sight.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: divine beloved as bride
+  taxonomy_refs:
+  - divine_beloved
+  basis: The beloved is expressed through veiled love, mistress, and Bride imagery,
+    including the statement that Him may be called Bride.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage itself uses bridal language, but the exact theological referent
+    is expressed through poetic veiling.
+- id: motif:2
+  label: sacred marriage or bridal union
+  taxonomy_refs:
+  - sacred_marriage
+  basis: The scene is explicitly framed as a wedding night in the presence of a bride,
+    with Mustafa’s soul kissing her hands.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage is mystical poetry; the wedding language may be figurative
+    rather than narrative marriage.
+- id: motif:3
+  label: mystical union and self-overcoming
+  taxonomy_refs:
+  - annihilation_union
+  - mystical_quest
+  basis: Mustafa becomes beside himself at the sweet call, remains in blissful sleep,
+    and the passage is headed as divine union.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage does not explicitly name annihilation; the assignment depends
+    on the union framing and ecstatic language.
+- id: motif:4
+  label: hidden difference known by a higher knower
+  taxonomy_refs:
+  - wisdom
+  basis: The thorn seeks autumnal concealment so differences are not seen, but the
+    Gardener knows the difference, and the sight of One is valued above the world’s
+    sight.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The wisdom classification is broad and based on the passage’s contrast
+    between worldly appearance and discerning knowledge.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1558-1563
+  quote_or_summary: Mustafa becomes beside himself at a sweet call; he does not lift
+    his head from blissful sleep, and morning prayer is delayed until noon.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; short summary used.
+- id: ev:2
+  type: quote
+  locator: lines 1564-1570
+  quote_or_summary: "“On that, his wedding night, in the presence of his bride,” and
+    “Impute it not a fault if I call Him ‘Bride.’”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; brief quotation used.
+- id: ev:3
+  type: summary
+  locator: lines 1571-1576
+  quote_or_summary: A perfect rose or lily rejoices in spring; a useless thorn desires
+    autumn to hide the rose’s beauty and the thorn’s shame.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; short summary used.
+- id: ev:4
+  type: summary
+  locator: lines 1577-1580
+  quote_or_summary: Common stone and pure ruby may appear as one; the Gardener knows
+    the difference in autumn, and the sight of One is better than the world’s sight.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; short summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif assignment is more interpretive
+    because the passage uses dense mystical and allegorical poetry. No comparison
+    claims were added because the passage itself does not explicitly compare traditions
+    or texts.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the provided passage and metadata were used; taxonomy references are limited to supplied motif families.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-persian-mystics-rumi-davis-gutenberg__l1558-l1580
+  passage_sha256=cef1c05dcbaa3794e6b5c8c9dcb45981dbe79230437947c9657bbef399c5ca0a

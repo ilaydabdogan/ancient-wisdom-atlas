@@ -1,0 +1,487 @@
+---
+record_id: batch.motif.sufi-hafiz-divan-bell-gutenberg-l2712-l2757
+source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+passage_locator:
+  label: XXXIV / XXXVI / XXXVII / XXXVIII; lines 2712-2757
+  start: '2712'
+  end: '2757'
+  translation: Poems from the Divan of Hafiz
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: When I am dead, open my grave and see / The cloud of smoke that rises round
+    thy feet
+  summary: A lyric speaker declares unceasing desire for the Beloved, imagines dying
+    at her threshold, describes love as fire that continues after death, and asks
+    the Beloved to reveal her face and comfort the distressed world. Her coming transforms
+    winter and thorns into flowering abundance, while her hair wounds the speaker’s
+    heart.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The speaker says desire will not cease until it is satisfied or until his
+    soul expires.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker says he has laid his head on the Beloved’s threshold and imagines
+    dust covering him there after life and love have fled from his body.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The speaker says his soul is on his lips ready to fly, while grief remains
+    in his heart.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The speaker describes the Beloved’s red mouth as burning his thoughts like
+    fire.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The speaker asks that his grave be opened after death, saying smoke will rise
+    and fire will still burn in his dead heart and winding-sheet.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The speaker says the Beloved’s coming makes meadows wait, thorns bear flowers,
+    the cypress bear fruit, and winter flee.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The western wind is described as passing through meadows and gardens seeking
+    a red rose like the Beloved’s cheek.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The speaker calls on the Beloved to reveal her face so that the whole world
+    may be bewildered by her loveliness.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: The cry of man and woman comes to the Beloved, and the speaker asks her to
+    open her lips and comfort their distress.
+  category: speech
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: The Beloved’s curling hair is described as barbed hooks that catch the speaker’s
+    heart and leave it wounded with red drops.
+  category: attribute
+  evidence_refs:
+  - ev:10
+- id: obs:11
+  text: The speaker says Hafiz’s name will be praised and mourned among sad lovers
+    who tell their sighs.
+  category: speech
+  evidence_refs:
+  - ev:11
+figures:
+- id: fig:1
+  name_or_label: lyric speaker / Hafiz
+  description: The first-person speaker who desires the Beloved, imagines dying at
+    her threshold, and identifies Hafiz’s name with sad lovers.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:11
+- id: fig:2
+  name_or_label: Beloved
+  description: The addressed figure with red mouth, sweet lips, radiant face, soft
+    cheek, and curling hair; her coming transforms the landscape and her lips are
+    asked to comfort distress.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:8
+  - ev:9
+  - ev:10
+- id: fig:3
+  name_or_label: western wind
+  description: A personified wind that blows through meadows and gardens while seeking
+    a red rose like the Beloved’s cheek.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:7
+- id: fig:4
+  name_or_label: man and woman
+  description: A collective human group whose cry comes to the Beloved in distress.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:9
+- id: fig:5
+  name_or_label: sad lovers
+  description: Lovers who meet, tell their sighs, and remember Hafiz’s name with praise
+    and tears.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:11
+roles:
+- id: role:1
+  label: desiring lover
+  assigned_to:
+  - fig:1
+  basis: The speaker declares unceasing desire, grief, longing for the Beloved’s lips,
+    and willingness to die at her threshold.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:2
+  label: beloved source of beauty and comfort
+  assigned_to:
+  - fig:2
+  basis: The Beloved’s mouth, face, cheek, and hair are described as objects of longing;
+    her lips are asked to comfort distress, and her coming changes the landscape.
+  evidence_refs:
+  - ev:6
+  - ev:8
+  - ev:9
+  - ev:10
+- id: role:3
+  label: seeker of likeness to the Beloved
+  assigned_to:
+  - fig:3
+  basis: The western wind searches meadows and gardens for a red rose like the Beloved’s
+    cheek.
+  evidence_refs:
+  - ev:7
+- id: role:4
+  label: distressed humanity
+  assigned_to:
+  - fig:4
+  basis: The cry of man and woman comes to the Beloved, and the speaker asks her to
+    comfort their distress.
+  evidence_refs:
+  - ev:9
+- id: role:5
+  label: community of sorrowing lovers
+  assigned_to:
+  - fig:5
+  basis: Sad lovers meet to tell their sighs and remember Hafiz with praise and tears.
+  evidence_refs:
+  - ev:11
+symbols:
+- id: sym:1
+  label: red mouth and sweet lips
+  literal_form: The Beloved’s red mouth and lips
+  associated_figures:
+  - fig:2
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:9
+- id: sym:2
+  label: threshold
+  literal_form: The Beloved’s threshold where the speaker lays his head and imagines
+    dying
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: grave smoke and heart-fire
+  literal_form: Smoke rising from the grave and fire burning in the dead heart and
+    winding-sheet
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: flowering landscape
+  literal_form: Meadows, thorns bearing flowers, fruiting cypress, and winter fleeing
+    before the Beloved
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: red rose
+  literal_form: A red rose sought in gardens as comparable to the Beloved’s cheek
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: radiant face
+  literal_form: The Beloved’s revealed face and radiant loveliness
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:7
+  label: barbed curls and wounded heart
+  literal_form: Curling hair as barbed hooks catching and wounding the speaker’s heart
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+scenes:
+- id: scene:1
+  label: Unceasing desire and imagined death at the threshold
+  summary: The speaker states that desire will not cease until satisfied or ended
+    by death, and imagines remaining at the Beloved’s threshold after life has left
+    his body.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Love-fire continuing after death
+  summary: The speaker imagines his grave opened after death and says smoke and fire
+    will still rise from his dead heart and winding-sheet.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+- id: scene:3
+  label: Beloved’s arrival renews the landscape
+  summary: The Beloved’s coming is described as causing meadows to wait, thorns to
+    flower, the cypress to bear fruit, and winter to flee.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:6
+- id: scene:4
+  label: Wind seeking the rose-like cheek
+  summary: The western wind moves through meadows and gardens hoping to find a red
+    rose like the Beloved’s cheek.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:7
+- id: scene:5
+  label: Revelation and comfort requested from the Beloved
+  summary: The speaker asks the Beloved to reveal her face, bewilder the world with
+    loveliness, and comfort the distress of man and woman.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:6
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: scene:6
+  label: Hair hooks and the wounded lover
+  summary: The Beloved’s curling hair catches the speaker’s heart like hooks, and
+    the wounded heart bleeds.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:10
+- id: scene:7
+  label: Hafiz remembered among sad lovers
+  summary: The speaker says Hafiz’s name will be praised and mourned when sad lovers
+    gather and recount their sighs.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:11
+candidate_motifs:
+- id: motif:1
+  label: longing for the divine beloved
+  taxonomy_refs:
+  - divine_beloved
+  basis: The poem addresses an exalted Beloved whose lips, face, cheek, and hair become
+    the focus of longing and whose revelation can comfort human distress.
+  evidence_refs:
+  - ev:1
+  - ev:8
+  - ev:9
+  - ev:10
+  confidence: medium
+  cautions: The passage itself says only “Beloved” and uses lyric love language; identification
+    as divine or mystical depends on genre context supplied by the source metadata.
+- id: motif:2
+  label: love as fire persisting beyond death
+  taxonomy_refs:
+  - annihilation_union
+  basis: The speaker imagines death, a grave, smoke, and a fire still burning in the
+    dead heart because of love for the Beloved.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: medium
+  cautions: The passage clearly links love, death, and fire, but it does not explicitly
+    describe completed union or doctrinal annihilation.
+- id: motif:3
+  label: beloved’s arrival as seasonal renewal
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The Beloved’s coming is associated with thorns flowering, cypress fruiting,
+    and winter fleeing.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The renewal is expressed as lyric transformation rather than as a full
+    seasonal mythic narrative.
+- id: motif:4
+  label: questing search for the beloved’s likeness
+  taxonomy_refs:
+  - mystical_quest
+  basis: The western wind searches gardens and meadows for a red rose like the Beloved’s
+    cheek, paralleling the speaker’s desire and longing.
+  evidence_refs:
+  - ev:7
+  - ev:1
+  confidence: medium
+  cautions: The search is brief and personified within lyric imagery; it is not a
+    developed quest plot.
+- id: motif:5
+  label: wounded heart of the lover
+  taxonomy_refs: []
+  basis: The Beloved’s curls are barbed hooks that catch and wound the speaker’s heart,
+    causing red drops to start.
+  evidence_refs:
+  - ev:10
+  confidence: high
+  cautions: No available taxonomy reference directly matches this image.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 2714-2717
+  quote_or_summary: "“I cease not from desire till my desire / Is satisfied”; the
+    speaker seeks the Beloved’s red mouth or the expiration of his soul."
+  source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 2718-2721
+  quote_or_summary: The speaker says others may love elsewhere, but he has laid his
+    head on the Beloved’s threshold and will remain there under dust after life and
+    love have fled.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+  rights_note: Public domain source.
+- id: ev:3
+  type: summary
+  locator: lines 2722-2725
+  quote_or_summary: The speaker says his soul is ready to fly from his lips, but grief
+    beats in his heart because the Beloved’s lips will not give peace before he dies.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+  rights_note: Public domain source.
+- id: ev:4
+  type: quote
+  locator: lines 2726-2729
+  quote_or_summary: The speaker longs for “a red mouth that burns my thoughts like
+    fire.”
+  source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:5
+  type: quote
+  locator: lines 2730-2733
+  quote_or_summary: "“When I am dead, open my grave”; smoke rises, and fire still
+    burns in the speaker’s dead heart and winding-sheet."
+  source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:6
+  type: summary
+  locator: lines 2734-2737
+  quote_or_summary: The speaker calls the Beloved to come; meadows wait, thorns bear
+    flowers, the cypress bears fruit, and winter flees before her steps.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+  rights_note: Public domain source.
+- id: ev:7
+  type: summary
+  locator: lines 2738-2741
+  quote_or_summary: The western wind blows through meadows and gardens hoping to find
+    a red rose soft and sweet like the Beloved’s cheek.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+  rights_note: Public domain source.
+- id: ev:8
+  type: summary
+  locator: lines 2742-2744
+  quote_or_summary: The speaker asks the Beloved to reveal her face so that the whole
+    world may be bewildered by her radiant loveliness.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+  rights_note: Public domain source.
+- id: ev:9
+  type: summary
+  locator: lines 2744-2745
+  quote_or_summary: The cry of man and woman comes to the Beloved, and the speaker
+    asks her to open her lips and comfort their distress.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+  rights_note: Public domain source.
+- id: ev:10
+  type: summary
+  locator: lines 2746-2749
+  quote_or_summary: Each curl of the Beloved’s hair becomes a barbed hook that catches
+    the speaker’s heart, leaving it wounded with red drops.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+  rights_note: Public domain source.
+- id: ev:11
+  type: summary
+  locator: lines 2750-2753
+  quote_or_summary: When sad lovers meet and tell their sighs, Hafiz’s name will be
+    spoken with praise and tears among companies where joy and hope have fled.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+  rights_note: Public domain source.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is based directly on the supplied passage. Motif assignment
+    is cautious because the poem’s Sufi framing is supplied by metadata, while the
+    passage itself uses lyric beloved imagery. No comparison claims are made because
+    the passage does not itself establish a comparison to another text or tradition.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the provided passage and metadata were used. The supplied line range contains the poem headed XXXVIII in the provided text.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-hafiz-divan-bell-gutenberg__l2712-l2757
+  passage_sha256=78ce3820bc924e24e664b4afff8662f3fa31d20711ff062d98195ab8c164c081

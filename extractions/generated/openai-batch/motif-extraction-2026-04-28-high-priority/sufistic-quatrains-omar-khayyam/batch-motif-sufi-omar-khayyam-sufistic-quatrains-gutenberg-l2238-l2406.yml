@@ -1,0 +1,657 @@
+---
+record_id: batch.motif.sufi-omar-khayyam-sufistic-quatrains-gutenberg-l2238-l2406
+source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+passage_locator:
+  label: PREFACE / EDWARD HERON-ALLEN. / EXPLANATION OF THE REFERENCES IN THE FOLLOWING
+    PARALLELS / ANALYSIS OF EDWARD FITZGERALD'S QUATRAINS; lines 2238-2406
+  start: '2238'
+  end: '2406'
+  translation: The Sufistic Quatrains of Omar Khayyam
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage analyzes several FitzGerald quatrains and their Persian source
+    parallels. It presents images of spring, roses, wine, repentance, the bird-like
+    flight of time, life passing drop by drop, leaves of life falling, seasonal cycles
+    carrying away ancient kings, the rejection of royal and heroic grandeur, and contentment
+    with book, wine, bread, and a beloved companion in the wilderness.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A nightingale addresses a yellow rose and repeatedly cries that wine must
+    be drunk.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Spring is described with fire imagery, and repentance is imagined as a winter
+    garment to be flung away.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Time is represented as a bird with only a short distance left to flutter before
+    being on the wing.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The commentary explicitly connects FitzGerald's bird-of-time image with a
+    distich from Attar's Mantik ut-tair about a bird of the sky moving along its appointed
+    path.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Life is described as passing; the cup may be sweet or bitter, and wine is
+    urged despite the passage of time.
+  category: action
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: obs:6
+  text: The Wine of Life oozes drop by drop and the Leaves of Life fall one by one.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The passage notes that leaves of life recur as leaves of a tree or of a book,
+    and cites a source line comparing a person falling from destiny to a leaf from
+    a vine branch.
+  category: relationship
+  evidence_refs:
+  - ev:8
+- id: obs:8
+  text: The coming of roses and the first summer month are associated with the removal
+    or destruction of rulers such as Jamshyd, Kaikobad, Jams, and Kais.
+  category: sequence
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: obs:9
+  text: The cup or draught of wine is said to be better than kingdoms, crowns, thrones,
+    and empires of named rulers.
+  category: relationship
+  evidence_refs:
+  - ev:11
+  - ev:12
+- id: obs:10
+  text: The speaker advises not bowing to Rustum son of Zal and not being grateful
+    even if Hatim Tai befriends the addressee.
+  category: speech
+  evidence_refs:
+  - ev:11
+  - ev:12
+- id: obs:11
+  text: A strip of herbage between desert and cultivated land is described as a place
+    where the names of slave and sultan are forgotten.
+  category: setting
+  evidence_refs:
+  - ev:13
+- id: obs:12
+  text: A book of verses, wine, bread, and a singing companion in the wilderness are
+    presented as sufficient to make the wilderness a paradise.
+  category: setting
+  evidence_refs:
+  - ev:14
+  - ev:15
+figures:
+- id: fig:1
+  name_or_label: nightingale
+  description: A bird that cries in the Pehlevi tongue to the yellow rose, urging
+    wine-drinking.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: yellow rose
+  description: The rose addressed by the nightingale in the wine exhortation.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Bird of Time
+  description: A personified bird-image for time, said to have only a little way to
+    flutter and to be on the wing.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Saki
+  description: A wine-server addressed in source parallels and also described as holding
+    the neck of the bottle.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: fig:5
+  name_or_label: ancient kings and rulers
+  description: Jamshyd, Kaikobad, Jams, Kais, Feridun, Kai Khosru, Kawus, Kobad, and
+    Tus are named as rulers or royal figures whose power is diminished or surpassed
+    by wine and time.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:9
+  - ev:10
+  - ev:11
+  - ev:12
+- id: fig:6
+  name_or_label: Zal, Rustum, and Hatim Tai
+  description: Heroic or notable figures named in a counsel not to heed, bow to, or
+    depend on them.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:11
+  - ev:12
+- id: fig:7
+  name_or_label: speaker and companion
+  description: The 'thou and I' or 'Thou beside me' pair seated or singing in the
+    wilderness with food, wine, and verse.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:14
+  - ev:15
+- id: fig:8
+  name_or_label: Sultan and Mahmud
+  description: Figures of social and royal rank mentioned in relation to forgotten
+    slave-and-sultan names and a golden throne.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:13
+  - ev:15
+roles:
+- id: role:1
+  label: wine exhorter
+  assigned_to:
+  - fig:1
+  basis: The nightingale cries to the rose that wine must be drunk.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: addressed flower
+  assigned_to:
+  - fig:2
+  basis: The yellow rose is the addressee of the nightingale's cry.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: personified passing time
+  assigned_to:
+  - fig:3
+  basis: The bird image is explicitly named the Bird of Time and is described as flying
+    away.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: wine-server
+  assigned_to:
+  - fig:4
+  basis: The Saki is addressed to bring wine and is associated with holding a bottle.
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: role:5
+  label: worldly power or prestige figure
+  assigned_to:
+  - fig:5
+  - fig:6
+  - fig:8
+  basis: Kings, heroes, benefactors, sultans, and throne-holders are named as figures
+    whose grandeur is ignored, surpassed, or forgotten.
+  evidence_refs:
+  - ev:9
+  - ev:10
+  - ev:11
+  - ev:12
+  - ev:13
+  - ev:15
+- id: role:6
+  label: wilderness companions
+  assigned_to:
+  - fig:7
+  basis: The speaker and companion are described together in the wilderness with bread,
+    wine, verse, and singing.
+  evidence_refs:
+  - ev:14
+  - ev:15
+symbols:
+- id: sym:1
+  label: wine and cup
+  literal_form: cup, goblet, draught, bottle, wine, Wine of Life
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:12
+  - ev:14
+  - ev:15
+- id: sym:2
+  label: spring roses
+  literal_form: roses, yellow rose, season of roses, first summer month
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:9
+  - ev:10
+- id: sym:3
+  label: bird as time
+  literal_form: Bird of Time; bird of the sky fluttering on an appointed path
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:4
+  label: leaves of life
+  literal_form: Leaves of Life falling; leaf of the vine falling from a branch; leaves
+    of a tree or book
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:5
+  - ev:8
+- id: sym:5
+  label: fire of spring
+  literal_form: fire of Spring
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:6
+  label: winter garment of repentance
+  literal_form: Winter-garment of Repentance
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:7
+  label: wilderness sufficiency
+  literal_form: book of verses, bough, jug or gourd of wine, loaf of bread, wilderness
+  associated_figures:
+  - fig:7
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:14
+  - ev:15
+- id: sym:8
+  label: royal power
+  literal_form: kingdom, crown, empire, throne, golden throne, names of slave and
+    sultan
+  associated_figures:
+  - fig:5
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:11
+  - ev:12
+  - ev:13
+scenes:
+- id: scene:1
+  label: rose garden wine exhortation
+  summary: After rain has washed dust from roses, the nightingale speaks to the yellow
+    rose and urges wine-drinking.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: spring rejection of repentance
+  summary: The quatrain calls for filling the cup and casting away repentance as a
+    winter garment in the fire of spring, while time is represented as a bird already
+    taking wing.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: life passing drop by drop
+  summary: Whether in named cities and whether the cup is sweet or bitter, life passes;
+    wine and life ooze drop by drop, and leaves of life fall one by one.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: scene:4
+  label: seasonal roses and fallen kings
+  summary: Spring and the first summer month bring roses but also scatter roses to
+    dust, fold the leaves of life, and cast down legendary kings.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: scene:5
+  label: wine preferred to royal and heroic grandeur
+  summary: The cup or draught of wine is valued above kingdoms, crowns, thrones, and
+    empires, and the addressee is told not to defer to heroic or generous figures.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:8
+  evidence_refs:
+  - ev:11
+  - ev:12
+- id: scene:6
+  label: wilderness as sufficient paradise
+  summary: In a marginal space between desert and sown land, social ranks are forgotten;
+    elsewhere, verse, bread, wine, and a companion in the wilderness are enough for
+    paradise-like joy beyond any sultan's power.
+  figure_refs:
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:1
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:13
+  - ev:14
+  - ev:15
+candidate_motifs:
+- id: motif:1
+  label: seasonal invitation to wine over repentance
+  taxonomy_refs:
+  - seasonal_cycle
+  - wisdom
+  basis: Spring, roses, and flowers occasion repeated commands to drink wine and abandon
+    penitence or zealot practices.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage is literary commentary and translation; no doctrinal Sufi
+    interpretation is stated in this excerpt.
+- id: motif:2
+  label: flight of time as bird
+  taxonomy_refs:
+  - wisdom
+  basis: Time is personified as a bird in flight, and the commentator compares the
+    image with Attar's bird of the sky on its appointed path.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: The passage supports an image-level motif, not a narrative episode.
+- id: motif:3
+  label: life diminished drop by drop and leaf by leaf
+  taxonomy_refs:
+  - seasonal_cycle
+  - wisdom
+  basis: Life is said to pass, the Wine of Life oozes drop by drop, and Leaves of
+    Life fall one by one, with parallels to falling vine leaves and folded leaves
+    of life.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:8
+  - ev:10
+  confidence: high
+  cautions: The taxonomy reference to seasonal cycle is based on recurring spring,
+    December, leaf, and rose imagery.
+- id: motif:4
+  label: seasonal cycle overthrows kings
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The coming of roses and the first summer month are said to take away Jamshyd
+    and Kaikobad and to fling many Jams and Kais to earth.
+  evidence_refs:
+  - ev:9
+  - ev:10
+  confidence: high
+  cautions: The passage does not narrate the individual myths of these rulers; it
+    uses them as named examples.
+- id: motif:5
+  label: simple wine fellowship surpasses kingship
+  taxonomy_refs:
+  - wisdom
+  basis: Wine, bread, verse, and companionship in the wilderness are valued above
+    royal power, and wine is repeatedly said to be better than kingdoms, crowns, thrones,
+    and empires.
+  evidence_refs:
+  - ev:12
+  - ev:14
+  - ev:15
+  confidence: high
+  cautions: The beloved or companion is not explicitly identified as divine in the
+    supplied passage.
+- id: motif:6
+  label: liminal wilderness outside social rank
+  taxonomy_refs:
+  - departure
+  - wisdom
+  basis: The strip between desert and cultivated land and the wilderness setting are
+    places where slave and sultan are forgotten and simple provisions become paradise
+    enough.
+  evidence_refs:
+  - ev:13
+  - ev:14
+  - ev:15
+  confidence: medium
+  cautions: The passage describes a setting and value contrast rather than a full
+    departure narrative.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself states that FitzGerald's Bird of Time image has a close
+    parallel in Attar's Mantik ut-tair, where a bird of the sky flutters along its
+    appointed path.
+  claim_level: same_motif
+  target: Attar, Mantik ut-tair, 24th distich, bird moving along appointed path
+  evidence_refs:
+  - ev:2
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: Only a brief distich is supplied, and the comparison is limited to
+    the bird/time/path image.
+- id: claim:2
+  claim: The passage notes a recurring Persian literary interchange between Balkh
+    and Babylon, relevant to the place-name variants in the life-passing and cup imagery.
+  claim_level: linguistic_similarity
+  target: Persian belles lettres place-name interchange of Balkh and Babylon
+  evidence_refs:
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim concerns literary place-name substitution, not a mythic narrative
+    parallel.
+- id: claim:3
+  claim: The passage identifies the 'leaves of life' as a recurrent image in the quatrains,
+    appearing as leaves of a tree or a book, and links FitzGerald's use to a source
+    image of a vine leaf falling from a branch.
+  claim_level: same_motif
+  target: Recurring leaves-of-life image in the quatrain corpus
+  evidence_refs:
+  - ev:5
+  - ev:8
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The evidence is internal to the analyzed quatrain corpus and commentary.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 2238-2250
+  quote_or_summary: 'A pleasant day after rain; dust is washed from roses; the nightingale
+    in Pehlevi cries to the yellow rose: "Thou must drink wine!"'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short excerpt summarized with minimal quotation.
+- id: ev:2
+  type: quote
+  locator: lines 2252-2257
+  quote_or_summary: '"Come, fill the Cup"; the speaker says to fling the winter-garment
+    of repentance in the fire of spring; the Bird of Time has little way to flutter
+    and is on the wing.'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short excerpt summarized with brief quotation.
+- id: ev:3
+  type: summary
+  locator: lines 2261-2274
+  quote_or_summary: Source parallels describe resolving to repent from goblet and
+    cup, failing to grieve in the season of roses, asking the Saki to bring wine,
+    and abandoning zealot practices.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 2276-2281
+  quote_or_summary: 'The commentary says the image of the flight of time permeates
+    the quatrains and cites Attar: "The bird of the sky flutters along its appointed
+    path."'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short quotation.
+- id: ev:5
+  type: quote
+  locator: lines 2283-2291
+  quote_or_summary: The quatrain contrasts Naishapur or Babylon and sweet or bitter
+    cup; "The Wine of Life keeps oozing drop by drop" and "The Leaves of Life keep
+    falling one by one."
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:6
+  type: summary
+  locator: lines 2292-2304
+  quote_or_summary: 'The commentary explains source O. 47: life passes; Baghdad and
+    Balkh are equivalent; when the cup is full, sweet or bitter does not matter; the
+    moon continues its monthly cycle after the speaker and addressee.'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 2306-2312
+  quote_or_summary: A closer reference for line 3 describes the Saki holding the bottle-neck
+    and the soul of wine oozing over the cup's rim.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 2314-2321
+  quote_or_summary: The commentary says leaves of life recur as leaves of a tree or
+    book and cites lines about fleeing destiny and falling like a vine leaf from the
+    branch.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: quote
+  locator: lines 2323-2328
+  quote_or_summary: Each morning brings roses, but the Rose of Yesterday is gone;
+    the first summer month that brings the rose shall take Jamshyd and Kaikobad away.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; brief quotation and summary.
+- id: ev:10
+  type: summary
+  locator: lines 2332-2347
+  quote_or_summary: Source parallels say many roses have been scattered to earth and
+    become dust; spring and December fold the leaves of life; the first summer month
+    and December have flung many Jams and Kais to earth.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+- id: ev:11
+  type: summary
+  locator: lines 2349-2355
+  quote_or_summary: A quatrain asks what the speaker has to do with Kaikobad or Kaikhosru
+    and tells the addressee not to heed Zal, Rustum, or Hatim's supper-call.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+- id: ev:12
+  type: summary
+  locator: lines 2357-2373
+  quote_or_summary: Source parallels say the cup is better than Feridun's kingdom
+    and a jar-tile better than Kai Khosru's crown; a draught of wine is better than
+    the empires and thrones of Kawus, Kobad, and Tus; one should not bow to Rustum
+    son of Zal or depend on Hatim Tai's favor.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+- id: ev:13
+  type: summary
+  locator: lines 2375-2380
+  quote_or_summary: The quatrain locates the speaker along a strip of herbage dividing
+    desert from sown land, where the names of slave and sultan are forgotten, and
+    mentions Mahmud on a golden throne.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+- id: ev:14
+  type: quote
+  locator: lines 2382-2387
+  quote_or_summary: A book of verses under a bough, a jug of wine, a loaf of bread,
+    and "Thou" singing in the wilderness would make wilderness paradise enough.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short excerpt summarized.
+- id: ev:15
+  type: summary
+  locator: lines 2388-2406
+  quote_or_summary: The commentary treats quatrains XI and XII together and cites
+    a source where bread, a gourd of wine, mutton, and 'thou and I' sitting in the
+    wilderness are a joy beyond any Sultan's power.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is an English public-domain commentary with translated quatrain
+    excerpts. Literal extraction is strong; motif taxonomy mapping is cautious because
+    the passage mostly provides lyric imagery and textual parallels rather than full
+    myth narratives.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used. No external identifications of named Persian figures or Sufi interpretations were added beyond what the passage states.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-omar-khayyam-sufistic-quatrains-gutenberg__l2238-l2406
+  passage_sha256=83e3b879f0baec4c8040d8207847e9caf0be8482ffebc6510d93bf3e41c6391d

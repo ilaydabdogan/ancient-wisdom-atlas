@@ -1,0 +1,370 @@
+---
+record_id: batch.motif.sufi-hafiz-divan-bell-gutenberg-l66-l125
+source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+passage_locator:
+  label: TRANSLATED BY / GERTRUDE LOWTHIAN BELL / LONDON / WILLIAM HEINEMANN; lines
+    66-125
+  start: '66'
+  end: '125'
+  translation: Poems from the Divan of Hafiz
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is the title and dedication opening of Bell's translation,
+    including a dedication to Hafiz of Shiraz. A poem says Death closes the ears,
+    eyes, and lips in silence, yet Hafiz's songs remain audible. The poem recalls
+    songs of laughter, love, wine, rose, nightingale, and graver music, names Hafiz
+    as a seeker of the keys of Life and Death, says his voice was carried by wind
+    and stream across places, and ends with praise, longing, grief, wisdom, wreaths,
+    and his grave.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage presents a title page, translator attribution, publication place
+    and date, and a dedication to Hafiz of Shiraz.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The verse says that when Death comes, he places fingers on a person's ears,
+    eyes, and lips and whispers for silence.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The verse says that although Hafiz's ear is deaf and his eye suffers Time's
+    eclipse, his songs can still be heard by all men.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The songs are described through images of dead laughter, former love, a wine-cup,
+    a forgotten rose, a nightingale, and graver music beneath tender love notes.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Hafiz is addressed as a seeker of the keys of Life and Death.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The soft summer wind, Mosalla's garden, and the stream of Ruknabad are said
+    to have carried Hafiz's voice farther than he dreamed, toward several named regions
+    and cities.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: A collective speaker says that they laugh, warm themselves at Love's fire,
+    thirst for wine, and lift voices in Grief's dark-robed choir.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The speaker asks Hafiz to sing the wisdom given by joy and sorrow and says
+    that fresh wreaths would be laid upon his grave if the speaker's rhymes had heart-lore.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Hafiz of Shiraz
+  description: Named dedicatee, addressed as Hafiz, Master, Poet, and seeker of the
+    keys of Life and Death.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: Death
+  description: Personified as one who comes to people, places fingers on ears, eyes,
+    and lips, and whispers silence.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Collective speaker
+  description: A speaking group identified by 'we' and 'my' addresses Hafiz, describes
+    shared laughter, thirst, grief, and praise, and imagines wreaths for his grave.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: dedicatee and master poet
+  assigned_to:
+  - fig:1
+  basis: The passage is dedicated to Hafiz of Shiraz and ends by calling him Master
+    and Poet.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:2
+  label: silencer at death
+  assigned_to:
+  - fig:2
+  basis: Death is described as closing ears, eyes, and lips and commanding silence.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: praising speaker or chorus
+  assigned_to:
+  - fig:3
+  basis: The speaker uses collective 'we' language and directly praises and petitions
+    Hafiz.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: seeker of life-and-death knowledge
+  assigned_to:
+  - fig:1
+  basis: Hafiz is addressed as 'Seeker of the keys of Life and Death.'
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: five fingers closing the senses
+  literal_form: Death's fingers on ears, eyes, and lips
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: hour-glass and life-sand
+  literal_form: life-sand slipping through an hour-glass
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: enduring songs
+  literal_form: songs that all men may hear after Hafiz's bodily silence
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: wine-cup
+  literal_form: a cup once rose-red with wine
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: rose and nightingale
+  literal_form: a forgotten rose and a nightingale that piped hushed lays
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: keys of Life and Death
+  literal_form: keys of Life and Death
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:7
+  label: wind and stream carrying voice
+  literal_form: soft summer wind and the stream of Ruknabad carrying Hafiz's voice
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:8
+  label: Love's fire
+  literal_form: fire of Love at which the speakers warm themselves
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:5
+- id: sym:9
+  label: wreaths on the grave
+  literal_form: fresh wreaths to lay upon Hafiz's grave
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Dedication and deathly silence
+  summary: The passage opens with dedication materials and a verse in which Death
+    closes human senses and commands silence.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Songs outlasting the poet's bodily silence
+  summary: Hafiz's senses are described as eclipsed or deaf, but his songs continue
+    to be heard and are characterized through love, wine, rose, nightingale, and graver
+    music.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Voice carried across landscapes
+  summary: Wind, garden, and stream carry Hafiz's voice beyond Mosalla and Ruknabad
+    toward named cities, wastes, seas, and distant lands.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Present praise, longing, grief, and memorial offering
+  summary: The collective speaker describes laughing, warming at Love's fire, craving
+    wine, singing in Grief's choir, asking for wisdom, and wishing to lay wreaths
+    on Hafiz's grave.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:8
+  - sym:9
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Death silences the senses
+  taxonomy_refs: []
+  basis: Death is personified as closing ears, eyes, and lips and commanding silence.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage uses a poetic personification rather than a narrative episode
+    of death in action.
+- id: motif:2
+  label: Poetic song survives death
+  taxonomy_refs: []
+  basis: The poem contrasts Hafiz's deafened ear and eclipsed eye with songs that
+    all men may still hear.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is a literary immortality motif rather than an explicit resurrection
+    or return motif.
+- id: motif:3
+  label: Quest for keys of Life and Death
+  taxonomy_refs:
+  - mystical_quest
+  - wisdom
+  basis: Hafiz is addressed as the seeker of the keys of Life and Death.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage gives the title-like image but does not narrate an actual
+    quest.
+- id: motif:4
+  label: Wisdom born from joy and sorrow
+  taxonomy_refs:
+  - wisdom
+  basis: The speaker asks Hafiz to sing the wisdom that joy and sorrow gave.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The motif is stated as praise and petition, not developed as a full teaching
+    scene.
+- id: motif:5
+  label: Love as fire and longing as thirst for wine
+  taxonomy_refs: []
+  basis: The collective speaker warms at Love's fire and thirsts for wine.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage does not explicitly define whether the love and wine are literal,
+    poetic, or mystical.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 66-80
+  quote_or_summary: Title and publication material identify Poems from the Divan of
+    Hafiz, translated by Gertrude Lowthian Bell, London, 1897, followed by a dedication
+    to Hafiz of Shiraz.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+  rights_note: Public domain source metadata; concise summary.
+- id: ev:2
+  type: quote
+  locator: lines 81-88
+  quote_or_summary: '"When Death comes to you" he lays fingers on ears, eyes, and
+    lips, whispering "Silence"; Hafiz''s songs may still be heard.'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+  rights_note: Public domain source metadata; short excerpt.
+- id: ev:3
+  type: summary
+  locator: lines 89-96
+  quote_or_summary: The passage names songs of dead laughter, love, a rose-red wine-cup,
+    a forgotten rose, a nightingale, graver music, and addresses Hafiz as seeker of
+    the keys of Life and Death.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+  rights_note: Public domain source metadata; concise summary.
+- id: ev:4
+  type: summary
+  locator: lines 97-104
+  quote_or_summary: Summer wind over Mosalla's garden and the stream of Ruknabad are
+    said to have carried Hafiz's voice farther than expected, to Isfahan, Baghdad,
+    Yezd, Ind, and westward.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+  rights_note: Public domain source metadata; concise summary.
+- id: ev:5
+  type: summary
+  locator: lines 105-112
+  quote_or_summary: The speaker says 'we' laugh, warm at Love's fire, thirst for wine,
+    sing in Grief's choir, asks Hafiz to sing wisdom from joy and sorrow, and imagines
+    wreaths upon his grave.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+  rights_note: Public domain source metadata; concise summary.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is strong for the supplied passage. Motif labels are cautious
+    because the passage is a dedication poem with symbolic language rather than a
+    narrative myth. No comparison claims were generated because the passage itself
+    does not explicitly support a cross-textual comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy references were limited to available entries and only applied where directly supported by wording in the passage.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-hafiz-divan-bell-gutenberg__l66-l125
+  passage_sha256=22d72d8d13b82efbf6d7d42475cf89f2be4460cf65d5e9291d2ae834950109e6

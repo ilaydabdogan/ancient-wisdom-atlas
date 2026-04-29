@@ -1,0 +1,417 @@
+---
+record_id: batch.motif.sufi-omar-khayyam-sufistic-quatrains-gutenberg-l4473-l4513
+source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+passage_locator:
+  label: XVIII. / IN THE FIRST EDITION. / XXXIII. / XXXVII.; lines 4473-4513
+  start: '4473'
+  end: '4513'
+  translation: The Sufistic Quatrains of Omar Khayyam
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage presents three first-edition quatrains: a speaker questions
+    Heaven about Destiny guiding children in darkness and receives the reply of blind
+    understanding; the speaker advises leaving the wise to argue and making game of
+    the universe; and the speaker urges filling the cup because yesterday is dead,
+    tomorrow unborn, and today may be sweet. Prose notes comment on their textual
+    parallels or lack of near parallels.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A speaker cries to rolling Heaven and asks what lamp Destiny had to guide
+    her little children stumbling in the dark.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Heaven replies that the guide is a blind Understanding.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The speaker advises leaving the Wise to wrangle and letting the quarrel of
+    the Universe be.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The speaker describes being couched in a corner of the hubbub and making game
+    of that which makes as much of the addressee.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The speaker urges filling the Cup and asks what use there is in repeating
+    that Time is slipping underneath one's feet.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Tomorrow is described as unborn and Yesterday as dead.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The prose commentary states that quatrain No. 33 appears to have no near parallel
+    in the texts, and that No. 45 is in a similar predicament.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The prose commentary states that quatrain No. 37 appears to have been inspired
+    by specified lines of O. 20 and O. 17, and then quotes a parallel couplet about
+    yesterday and today.
+  category: relationship
+  evidence_refs:
+  - ev:4
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: speaker
+  description: The first-person poetic speaker who cries to Heaven and gives counsel.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Heaven
+  description: Rolling Heaven, addressed by the speaker and represented as replying.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Destiny
+  description: A personified female figure whose little children stumble in the dark.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: little Children
+  description: Children of Destiny, described as stumbling in the dark.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: the Wise
+  description: A collective group described as wrangling.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Time
+  description: Time is described as slipping underneath the speaker's or addressee's
+    feet.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: To-morrow
+  description: Tomorrow is described as unborn.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:3
+- id: fig:8
+  name_or_label: Yesterday
+  description: Yesterday is described as dead and past.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:3
+  - ev:5
+roles:
+- id: role:1
+  label: questioner of Heaven
+  assigned_to:
+  - fig:1
+  basis: The speaker cries to Heaven and asks about Destiny's guiding lamp.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: counsel-giver
+  assigned_to:
+  - fig:1
+  basis: The speaker advises leaving the Wise, filling the Cup, and not fretting over
+    yesterday or tomorrow.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: answering cosmic figure
+  assigned_to:
+  - fig:2
+  basis: Heaven replies to the speaker's question.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: personified guide or mother of children
+  assigned_to:
+  - fig:3
+  basis: Destiny is referred to as having little children and a possible guiding lamp.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: stumbling children in darkness
+  assigned_to:
+  - fig:4
+  basis: The children are described as stumbling in the dark.
+  evidence_refs:
+  - ev:1
+- id: role:6
+  label: wrangling wise figures
+  assigned_to:
+  - fig:5
+  basis: The Wise are described as wrangling.
+  evidence_refs:
+  - ev:2
+- id: role:7
+  label: passing force
+  assigned_to:
+  - fig:6
+  basis: Time is described as slipping underneath the feet.
+  evidence_refs:
+  - ev:3
+- id: role:8
+  label: unborn future
+  assigned_to:
+  - fig:7
+  basis: Tomorrow is called unborn.
+  evidence_refs:
+  - ev:3
+- id: role:9
+  label: dead past
+  assigned_to:
+  - fig:8
+  basis: Yesterday is called dead and past.
+  evidence_refs:
+  - ev:3
+  - ev:5
+symbols:
+- id: sym:1
+  label: lamp of guidance
+  literal_form: Lamp
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: darkness
+  literal_form: the Dark
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: blind Understanding
+  literal_form: blind Understanding
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: cup
+  literal_form: Cup
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: unborn tomorrow
+  literal_form: Unborn To-morrow
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: dead yesterday
+  literal_form: dead Yesterday
+  associated_figures:
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+scenes:
+- id: scene:1
+  label: Question to Heaven
+  summary: The speaker asks Heaven what lamp Destiny used to guide her children through
+    darkness; Heaven answers with blind Understanding.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Withdrawal from cosmic dispute
+  summary: The speaker advises leaving the Wise to argue, setting aside the quarrel
+    of the Universe, and making game of it from a corner of the hubbub.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Cup and present sweetness
+  summary: The speaker urges filling the cup and not fretting over dead Yesterday
+    or unborn Tomorrow if Today is sweet.
+  figure_refs:
+  - fig:1
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: scene:4
+  label: Editorial comparison of first-edition quatrains
+  summary: The prose commentary notes that quatrains 33 and 45 lack near textual parallels,
+    while quatrain 37 is linked to lines from O. 20 and O. 17.
+  figure_refs: []
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: questioning Heaven about human guidance in darkness
+  taxonomy_refs:
+  - wisdom
+  basis: The speaker asks Heaven what guide Destiny had for her children in the dark,
+    and Heaven replies with blind Understanding.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage presents a philosophical exchange rather than a developed
+    narrative myth.
+- id: motif:2
+  label: renunciation of cosmic wrangling
+  taxonomy_refs:
+  - wisdom
+  basis: The speaker counsels leaving the Wise to argue and letting the quarrel of
+    the Universe be.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This is expressed as poetic counsel, not as an enacted mythic episode.
+- id: motif:3
+  label: present sweetness over past and future
+  taxonomy_refs:
+  - wisdom
+  basis: The speaker contrasts unborn Tomorrow and dead Yesterday with the possible
+    sweetness of Today, and the quoted parallel repeats that today is sweet while
+    yesterday is past.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The taxonomy reference is broad; no more specific supplied taxonomy category
+    is available for carpe-diem counsel.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself states that quatrain No. 37 appears to have been inspired
+    by specified lines of O. 20 and O. 17, and it quotes a close parallel contrasting
+    past yesterday with sweet today.
+  claim_level: linguistic_similarity
+  target: O. 20 lines 3-4 and O. 17 lines 3-4 in the cited parallel tradition
+  evidence_refs:
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage reports an editorial judgment and gives only the quoted
+    parallel for O. 17; it does not provide the full source context.
+- id: claim:2
+  claim: The passage states that quatrain No. 33 and quatrain No. 45 have no near
+    parallel in the texts.
+  claim_level: linguistic_similarity
+  target: near textual parallels in the compared Khayyam text tradition
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is limited to the editor's statement in the passage and does not
+    independently survey the compared texts.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4475-4481, quatrain XXXIII
+  quote_or_summary: The speaker cries to rolling Heaven, asking what lamp Destiny
+    had to guide her children in the dark; Heaven replies, “A blind Understanding.”
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 4483-4488, quatrain XLV
+  quote_or_summary: The speaker says to leave the Wise to wrangle, let the quarrel
+    of the Universe be, and make game of that which makes as much of the addressee.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 4490-4495, quatrain XXXVII
+  quote_or_summary: The speaker urges filling the Cup, says Time is slipping underfoot,
+    and contrasts unborn Tomorrow and dead Yesterday with sweet Today.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 4497-4507, prose commentary
+  quote_or_summary: The commentary says No. 33 appears to have no near parallel, No.
+    45 is similar in that respect, and No. 37 appears to have been inspired by lines
+    of O. 20 and O. 17.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: lines 4509-4510, quoted parallel
+  quote_or_summary: "“Nothing thou canst say of yesterday, that is past, is sweet;
+    / Be happy and do not speak of yesterday, for to-day is sweet.”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short quotation from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward. Motif assignments use broad supplied
+    taxonomy, chiefly wisdom. Comparison claims are limited to the editorial statements
+    in the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No external sources or taxonomy IDs beyond those supplied were used.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-omar-khayyam-sufistic-quatrains-gutenberg__l4473-l4513
+  passage_sha256=367a525cd5591c913b2c5c89f3a95e95d34cd7c2c79440fd59a5aa5346ca61ee

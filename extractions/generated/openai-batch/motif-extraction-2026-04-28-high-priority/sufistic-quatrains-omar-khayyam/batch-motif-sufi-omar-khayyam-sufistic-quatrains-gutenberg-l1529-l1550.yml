@@ -1,0 +1,331 @@
+---
+record_id: batch.motif.sufi-omar-khayyam-sufistic-quatrains-gutenberg-l1529-l1550
+source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+passage_locator:
+  label: LXVII. / LXVIII. / LXIX. / LXXI.; lines 1529-1550
+  start: '1529'
+  end: '1550'
+  translation: The Sufistic Quatrains of Omar Khayyam
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The speaker says long-loved idols have damaged his public credit, honor,
+    and reputation. He recalls swearing repentance while not sober, then Spring arrives
+    with a rose and tears apart his worn penitence. Wine is said to have acted faithlessly
+    and robbed him of honor, yet the speaker wonders what vintners could buy that
+    is half as precious as the goods they sell.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The speaker says idols loved for a long time have harmed his credit in the
+    eyes of men.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker says his honor was drowned in a shallow cup and his reputation
+    sold for a song.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The speaker says he often swore repentance before, but questions whether he
+    was sober when he swore.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Spring arrives with a rose in hand and tears the speaker's threadbare penitence
+    into pieces.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Wine is described as having acted as an infidel and as having robbed the speaker
+    of his robe of honor.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The speaker wonders what vintners buy that is half as precious as the goods
+    they sell.
+  category: speech
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: speaker
+  description: First-person voice who reports damaged honor, repeated repentance,
+    and wonder about vintners' goods.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: long-loved Idols
+  description: Idols loved by the speaker for a long time; said to have harmed his
+    public credit.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Spring
+  description: Personified season that comes with a rose in hand and tears penitence
+    apart.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Wine
+  description: Personified wine, described as playing the infidel and robbing the
+    speaker of honor.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Vintners
+  description: Sellers whose goods the speaker calls exceptionally precious.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: first-person penitent and drinker
+  assigned_to:
+  - fig:1
+  basis: The speaker speaks of repentance, sobriety, wine, and loss of honor.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: agents of reputational loss
+  assigned_to:
+  - fig:2
+  basis: The idols are said to have harmed the speaker's credit, honor, and reputation.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: seasonal disruptor of penitence
+  assigned_to:
+  - fig:3
+  basis: Spring arrives with a rose and tears penitence apart.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: intoxicant thief of honor
+  assigned_to:
+  - fig:4
+  basis: Wine is said to have robbed the speaker of his robe of honor.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: sellers of precious goods
+  assigned_to:
+  - fig:5
+  basis: The vintners sell goods the speaker calls more precious than what they could
+    buy.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: Idols
+  literal_form: Loved idols
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: shallow Cup
+  literal_form: A shallow cup in which honor is said to be drowned
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Song
+  literal_form: A song for which reputation is said to be sold
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: Rose
+  literal_form: Rose held by Spring
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: threadbare Penitence
+  literal_form: Worn penitence torn into pieces
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:6
+  label: Wine
+  literal_form: Wine personified as acting faithlessly and robbing honor
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:7
+  label: Robe of Honour
+  literal_form: Robe of honor stolen by Wine
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:8
+  label: vintners' Goods
+  literal_form: Goods sold by vintners and called precious
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Idols and public dishonor
+  summary: The speaker attributes loss of credit, honor, and reputation to long-loved
+    idols, a shallow cup, and a song.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Repentance undone by Spring
+  summary: The speaker recalls swearing repentance, questions his sobriety, and describes
+    Spring with a rose tearing his penitence apart.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Wine and the vintners' precious goods
+  summary: Wine is said to have robbed the speaker of honor, yet the speaker praises
+    the value of the vintners' goods.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:6
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: loss of honor through beloved intoxicants or idols
+  taxonomy_refs: []
+  basis: The speaker links loved idols, cup, wine, and vintners' goods with damaged
+    credit, honor, and reputation.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: The passage is lyric and metaphorical; it does not narrate a full mythic
+    episode.
+- id: motif:2
+  label: repentance broken by seasonal renewal
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: Spring arrives with a rose and tears the speaker's penitence apart after
+    he has sworn repentance.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The seasonal-cycle reference is limited to Spring's arrival and its effect
+    on penitence; no larger annual myth is stated.
+- id: motif:3
+  label: precious intoxicating goods beyond ordinary exchange
+  taxonomy_refs: []
+  basis: The speaker asks what vintners could buy that is half as precious as what
+    they sell.
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: This is an evaluative rhetorical question, not a developed exchange myth.
+comparison_claims:
+- id: claim:1
+  claim: Spring's arrival with a rose and the destruction of penitence has the same
+    functional pattern as a seasonal-renewal motif overcoming abstinence or restraint.
+  claim_level: same_function
+  target: seasonal_cycle
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage names Spring and renewal imagery but does not present a
+    full seasonal myth or ritual sequence.
+evidence:
+- id: ev:1
+  type: summary
+  locator: LXIX, lines 1529-1534
+  quote_or_summary: The speaker says his long-loved idols harmed his credit in men's
+    eyes, drowned his honor in a shallow cup, and sold his reputation for a song.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summary used.
+- id: ev:2
+  type: summary
+  locator: LXX, lines 1536-1541
+  quote_or_summary: The speaker recalls swearing repentance, questions whether he
+    was sober, and says Spring came with a rose and tore his threadbare penitence
+    apart.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summary used.
+- id: ev:3
+  type: summary
+  locator: LXXI, lines 1543-1550
+  quote_or_summary: The speaker says Wine played the infidel and robbed him of his
+    robe of honor, then wonders what vintners buy that is half as precious as the
+    goods they sell.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward. Motif and comparison identifications
+    are cautious because the passage is a short lyric with metaphorical personifications
+    rather than an explicit myth narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata. No unsupported historical or intertextual claims added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-omar-khayyam-sufistic-quatrains-gutenberg__l1529-l1550
+  passage_sha256=5d08fc81e810c15f64b251b6abb9d723a3609c174954299b9c75c7cc64a08153

@@ -1,0 +1,359 @@
+---
+record_id: batch.motif.sufi-omar-khayyam-sufistic-quatrains-gutenberg-l2703-l2727
+source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+passage_locator:
+  label: XXII. / XXIII. / XXIV. / XXVI.; lines 2703-2727
+  start: '2703'
+  end: '2727'
+  translation: The Sufistic Quatrains of Omar Khayyam
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage presents quatrains in which saints, sages, and earlier speakers
+    are criticized as ineffective or deluded; the speaker urges the Saki to drink
+    wine and says prior sayings are wind; another quatrain describes the finest human
+    thinkers spurring the Burak of thought toward the highest heaven, yet becoming
+    dizzy and overturned in studying the addressee's being.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Saints and sages are described as having discussed the Two Worlds wisely.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The words of the saints and sages are said to be scorned and scattered, and
+    their mouths stopped with dust.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The speaker addresses the Saki and says those who went before have fallen
+    asleep in the dust of self-esteem.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The speaker tells the Saki to drink wine and hear the truth from the speaker.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The speaker says whatever the predecessors have said is wind.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Those called the cream of mankind's existence spur the Burak of their thoughts
+    up to the highest heaven.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: In studying the addressee's being, their heads are described as turned, overset,
+    and spinning.
+  category: attribute
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Saints and Sages
+  description: Religious or wise figures who discussed the Two Worlds and whose words
+    are said to be scorned.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Saki
+  description: The addressee whom the speaker tells to drink wine and hear the truth.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Speaker
+  description: The voice that addresses the Saki and offers a claim called truth.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Those who have gone before
+  description: Predecessors said to have fallen asleep in the dust of self-esteem
+    and whose sayings are called wind.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Cream of the existence of mankind
+  description: Exceptional human beings who spur the Burak of their thoughts toward
+    the highest heaven but become dizzy in study.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Burak of their thoughts
+  description: A Burak-like mount associated with thought and ascent to the highest
+    heaven.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: wise religious authorities criticized
+  assigned_to:
+  - fig:1
+  basis: They discuss the Two Worlds wisely, but their words are scorned and their
+    mouths stopped with dust.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: addressed cupbearer or listener
+  assigned_to:
+  - fig:2
+  basis: The speaker directly addresses the Saki and commands the Saki to drink wine
+    and listen.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: truth-claiming speaker
+  assigned_to:
+  - fig:3
+  basis: The speaker says to hear the truth from me.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: deluded predecessors
+  assigned_to:
+  - fig:4
+  basis: They are described as asleep in the dust of self-esteem, and their sayings
+    are called wind.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: lofty thinkers made bewildered
+  assigned_to:
+  - fig:5
+  basis: They ascend in thought toward the highest heaven but are turned, overset,
+    and spinning in study.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: ascent vehicle for thought
+  assigned_to:
+  - fig:6
+  basis: The passage says the thinkers spur the Burak of their thoughts upward.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: Two Worlds
+  literal_form: The phrase "Two Worlds" discussed by saints and sages.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Dust
+  literal_form: Dust stopping mouths and dust of self-esteem in which predecessors
+    sleep.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: Wine
+  literal_form: Wine that the Saki is told to drink.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: Wind
+  literal_form: Prior sayings described as wind.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: Burak of thought
+  literal_form: A Burak associated with thought and spurred upward.
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: Highest heaven
+  literal_form: The height to which the Burak of thought is spurred.
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:7
+  label: Spinning head
+  literal_form: Heads turned, overset, and spinning during study of the addressee's
+    being.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Scorn of saints and sages
+  summary: Saints and sages discuss the Two Worlds, but their words are scorned, scattered,
+    and their mouths are stopped with dust.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Saki urged to drink and hear truth
+  summary: The speaker addresses the Saki, says predecessors sleep in the dust of
+    self-esteem, urges wine-drinking, and dismisses prior sayings as wind.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Ascent of thought and bewilderment
+  summary: The finest human beings drive the Burak of their thoughts toward the highest
+    heaven, but in studying the addressee's being their heads spin and are overturned.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Critique of worldly or learned wisdom
+  taxonomy_refs:
+  - wisdom
+  basis: The passage depicts saints, sages, predecessors, and elite thinkers as unable
+    to produce reliable truth or stable understanding.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage's tone is aphoristic and poetic; the exact doctrinal target
+    is not specified in the supplied text.
+- id: motif:2
+  label: Heavenward ascent of thought
+  taxonomy_refs:
+  - ascent
+  basis: The passage explicitly describes the Burak of thought being spurred up to
+    the highest heaven.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The ascent is figurative or intellectual within the passage, not narrated
+    as a bodily journey.
+- id: motif:3
+  label: Mystical bewilderment before being
+  taxonomy_refs:
+  - mystical_quest
+  basis: The finest thinkers seek upward understanding, but in studying the addressee's
+    being become turned, overset, and spinning.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The identity of the addressee and the nature of the being studied are
+    not explicit in the supplied passage.
+comparison_claims:
+- id: claim:1
+  claim: The Burak-linked upward movement of thought fits an ascent motif at the level
+    of imagery and function.
+  claim_level: same_motif
+  target: ascent motif family
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage presents an intellectual or metaphorical ascent rather
+    than a detailed ascent narrative.
+- id: claim:2
+  claim: The passage's repeated dismissal of learned authorities supports comparison
+    with wisdom traditions that critique conventional or scholarly knowledge.
+  claim_level: same_function
+  target: wisdom motif family
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage itself does not name a broader comparative tradition beyond
+    its own poetic claims.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 2703-2707
+  quote_or_summary: '"Saints and Sages" discussed the "Two Worlds"; their words are
+    scorned and scattered, and their mouths are stopped with dust.'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 2711-2716
+  quote_or_summary: 'The speaker addresses the Saki: predecessors have fallen asleep
+    in the dust of self-esteem; the Saki should drink wine and hear truth from the
+    speaker; whatever the predecessors said is wind.'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized for evidence.
+- id: ev:3
+  type: summary
+  locator: lines 2722-2726
+  quote_or_summary: Those called the cream of mankind spur the Burak of their thoughts
+    up to the highest heaven; in studying the addressee's being, their heads are turned,
+    overset, and spinning.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized for evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Extraction is limited to the supplied English passage. Several images are
+    metaphorical, and the identity of the addressee in the final quatrain is not explicit.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No external sources or taxonomy IDs beyond those supplied were used.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-omar-khayyam-sufistic-quatrains-gutenberg__l2703-l2727
+  passage_sha256=765982141bff77a492eb7e1db502fce27bd3436e35a1f4a290d173ba5bc79f3e

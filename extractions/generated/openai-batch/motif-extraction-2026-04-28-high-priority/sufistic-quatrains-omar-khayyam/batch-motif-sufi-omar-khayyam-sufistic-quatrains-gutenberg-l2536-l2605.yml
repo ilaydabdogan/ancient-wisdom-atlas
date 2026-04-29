@@ -1,0 +1,480 @@
+---
+record_id: batch.motif.sufi-omar-khayyam-sufistic-quatrains-gutenberg-l2536-l2605
+source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+passage_locator:
+  label: ANALYSIS OF EDWARD FITZGERALD'S QUATRAINS / XIII. / XVII. / XVIII.; lines
+    2536-2605
+  start: '2536'
+  end: '2605'
+  translation: The Sufistic Quatrains of Omar Khayyam
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Four annotated quatrains contrast former royal glory with ruin, death,
+    and present enjoyment. Royal courts and palaces are occupied by animals; Bahram
+    the hunter is dead and caught by the grave. Flowers and streamside verdure are
+    imagined as growing from the blood, bodies, lips, or clay of former rulers and
+    beauties. The speaker urges the beloved or friend to fill the cup and not grieve
+    over tomorrow, since the living will soon depart and be equal with the ancient
+    dead.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Former royal courts or palaces associated with Jamshyd and Bahram are now
+    occupied by animals such as lions, lizards, foxes, and wild asses.
+  category: setting
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:2
+  text: Bahram, described as a great hunter of wild asses, is represented as dead;
+    the grave has caught him, and a wild ass stamps over his head without waking him.
+  category: sequence
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: Roses, tulips, hyacinths, and violets are described as arising from the blood
+    or bodily traces of former kings, Caesars, beauties, or lovely heads.
+  category: object
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:4
+  text: Streamside herb or verdure is described as growing from the lip or clay of
+    a formerly lovely or angel-natured person, and the hearer is cautioned to tread
+    or lean lightly upon it.
+  category: action
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: obs:5
+  text: The speaker addresses a beloved or friend and asks for the cup to be filled,
+    using it to clear present life of regrets and fears about the future.
+  category: speech
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: obs:6
+  text: The speaker says that tomorrow the living may depart from the earth and become
+    equal with those who died seven thousand years before.
+  category: sequence
+  evidence_refs:
+  - ev:7
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Jamshyd
+  description: Former royal figure whose courts are said to have gloried and included
+    deep drinking.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Bahram
+  description: Former ruler or heroic hunter associated with a palace, wine-cup, and
+    hunting wild asses; he is now dead and caught by the grave.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Animals in the ruins
+  description: Lion, lizard, foxes, lions at rest, and wild ass occupy or move over
+    former royal spaces and the dead Bahram.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: Buried Caesar or king
+  description: Former ruler whose blood is imagined as the source of red flowers.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: Former beauty or lovely person
+  description: A once-lovely head, cheek, lip, angel-natured person, or tulip-cheeked
+    person whose bodily remains are linked to flowers or verdure.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:6
+  name_or_label: Speaker
+  description: First-person poetic voice who reflects on flowers, addresses the beloved
+    or friend, and urges present enjoyment.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:7
+  - ev:8
+- id: fig:7
+  name_or_label: Beloved or friend
+  description: Addressee asked to fill the cup and not suffer anguish concerning the
+    morrow.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+  - ev:8
+roles:
+- id: role:1
+  label: former ruler
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:4
+  basis: Jamshyd, Bahram, Caesar, and a king are named in contexts of courts, palaces,
+    royal blood, or former greatness.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:2
+  label: animal occupants of former royal spaces
+  assigned_to:
+  - fig:3
+  basis: Animals keep or inhabit courts and palaces once associated with Jamshyd and
+    Bahram.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: dead source of later growth
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: Flowers and verdure are described as arising from blood, head, cheek, lip,
+    or clay of former human beings.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:4
+  label: hunter caught by death
+  assigned_to:
+  - fig:2
+  basis: Bahram is described as a hunter of wild asses, but the grave has caught him.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: memento-mori exhorter
+  assigned_to:
+  - fig:6
+  basis: The speaker reflects on death beneath present growth and urges attention
+    to the present cup rather than future fear.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  - ev:8
+- id: role:6
+  label: addressee of present enjoyment
+  assigned_to:
+  - fig:7
+  basis: The beloved or friend is addressed with the request to fill the cup and not
+    grieve about tomorrow.
+  evidence_refs:
+  - ev:7
+  - ev:8
+symbols:
+- id: sym:1
+  label: ruined royal court or palace
+  literal_form: Courts and palace formerly associated with Jamshyd and Bahram, now
+    occupied by animals.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: grave as captor
+  literal_form: The grave catches Bahram, who had once caught wild asses.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: flowers from blood or body
+  literal_form: Rose, tulip, hyacinth, and violet growing from blood or bodily traces
+    of rulers and beauties.
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: reviving herb or verdure
+  literal_form: Tender green herb or verdure growing by the river or stream margin
+    from a lovely lip or clay.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:5
+  label: river or stream margin
+  literal_form: River-lip or margin of a stream where the herb and verdure grow.
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:6
+  label: cup or wine-cup
+  literal_form: Cup to be filled by the beloved or friend; also Bahram's wine-cup
+    in the palace.
+  associated_figures:
+  - fig:2
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: sym:7
+  label: seven thousand years
+  literal_form: A span of seven thousand years naming the ancient dead with whom the
+    living may soon be equal.
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+scenes:
+- id: scene:1
+  label: Royal ruins occupied by animals
+  summary: The passage presents courts or a palace once associated with Jamshyd and
+    Bahram as places where animals now keep watch, rest, whelp, or move over the dead.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Flowers growing from former bodies
+  summary: The speaker imagines red flowers and other garden plants as derived from
+    the blood or bodily marks of former rulers and beauties.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Caution at the riverbank herb
+  summary: The speaker describes tender herb or verdure at a river or stream margin
+    as springing from a lovely person and warns against leaning or stepping on it
+    contemptuously.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Fill the cup before tomorrow
+  summary: The speaker addresses the beloved or friend, urges the filling of the cup
+    and freedom from regret or fear, and notes that tomorrow the living may join the
+    ancient dead.
+  figure_refs:
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Impermanence of royal glory
+  taxonomy_refs: []
+  basis: Royal figures and their courts or palaces are shown as overtaken by animals,
+    death, and the grave.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is a poetic memento-mori pattern rather than a full mythic narrative.
+- id: motif:2
+  label: Vegetation arising from the dead
+  taxonomy_refs:
+  - death_rebirth
+  - seasonal_cycle
+  basis: Flowers, herbs, and verdure are repeatedly described as growing from the
+    blood, lips, cheeks, clay, or bodies of the dead.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage presents this as poetic reflection; it does not describe literal
+    resurrection of the individuals.
+- id: motif:3
+  label: Present enjoyment before death
+  taxonomy_refs:
+  - wisdom
+  basis: The speaker urges the beloved or friend to fill the cup and not grieve over
+    tomorrow, because the living will soon depart and become equal with the ancient
+    dead.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The motif is ethical and poetic; no ritual or doctrinal teaching is stated
+    beyond the lines provided.
+- id: motif:4
+  label: Hunter caught by the grave
+  taxonomy_refs: []
+  basis: Bahram, known for catching wild asses, is himself caught by the grave.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This is a compact ironic reversal within one quatrain, not an extended
+    pursuit narrative.
+comparison_claims:
+- id: claim:1
+  claim: Within the passage, quatrains XIX and XX share a pattern in which living
+    vegetation is linked to the bodies or bodily traces of the dead.
+  claim_level: same_motif
+  target: Body-to-vegetation transformation pattern across adjacent quatrains XIX-XX
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim is limited to recurrence inside the supplied passage and
+    does not assert historical origin or wider diffusion.
+- id: claim:2
+  claim: The FitzGerald rendering and the cited original for quatrain XVIII both present
+    Bahram's former power in contrast with death and animal occupation of his royal
+    space.
+  claim_level: same_function
+  target: Memento-mori contrast between royal/hunting power and death in quatrain
+    XVIII versions
+  evidence_refs:
+  - ev:1
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim compares only the supplied English rendering and the supplied
+    prose original summary; it does not evaluate the Persian text directly.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2536-2545, quatrain XVIII, FitzGerald rendering
+  quote_or_summary: Lion and lizard keep the courts where Jamshyd gloried; Bahram
+    the great hunter sleeps while the wild ass stamps over his head.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 2547-2555, quatrain XVIII original and references
+  quote_or_summary: In Bahram's palace, foxes whelp and lions rest; Bahram once caught
+    wild asses, but now the grave has caught Bahram.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 2557-2563, quatrain XIX, FitzGerald rendering
+  quote_or_summary: The speaker thinks roses grow red where a buried Caesar bled,
+    and hyacinths come from some once lovely head.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 2565-2574, quatrain XIX original and references
+  quote_or_summary: Rose or tulip beds come from the redness of a king's blood; violet
+    shoots are likened to moles once on the cheek of a beauty.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 2576-2582, quatrain XX, FitzGerald rendering
+  quote_or_summary: Reviving green herb grows on the river-lip; the hearer is told
+    to lean lightly because it may spring from a once lovely lip.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 2584-2593, quatrain XX original and references
+  quote_or_summary: Verdure on a stream margin is said to grow from the lip or clay
+    of an angel-natured, tulip-cheeked person; the hearer is warned not to step contemptuously
+    on it.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 2595-2601, quatrain XXI, FitzGerald rendering
+  quote_or_summary: The speaker asks the beloved to fill the cup that clears today
+    of past regrets and future fears, since tomorrow the speaker may be with yesterday's
+    seven thousand years.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 2603-2605 and continuation in supplied passage, quatrain XXI original
+  quote_or_summary: The friend is urged not to suffer anguish about tomorrow, to use
+    the few present moments, and to recognize that departing from earth will make
+    the living equal with those who went seven thousand years ago.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward from the supplied English passage.
+    Motif taxonomy assignments are cautious because the passage is lyric and reflective
+    rather than a mythic narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only supplied passage text and metadata. Available taxonomy refs were applied only where directly supportable.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-omar-khayyam-sufistic-quatrains-gutenberg__l2536-l2605
+  passage_sha256=5a53039bb716b1c52206be5a4ea9a6e3df2b0acafa8abc19ee5efdc8de108250

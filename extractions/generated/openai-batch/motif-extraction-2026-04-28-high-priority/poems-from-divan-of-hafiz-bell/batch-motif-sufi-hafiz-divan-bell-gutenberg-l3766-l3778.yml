@@ -1,0 +1,226 @@
+---
+record_id: batch.motif.sufi-hafiz-divan-bell-gutenberg-l3766-l3778
+source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+passage_locator:
+  label: XVIII / XXIII / XXVIII / XXXIII; lines 3766-3778
+  start: '3766'
+  end: '3778'
+  translation: Poems from the Divan of Hafiz
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Editorial notes explain an Eastern belief that rain, wind, and sunlight
+    color buried precious stones, and describe a Persian poetic image in which the
+    beloved's hair entangles the lover, with locks compared to snakes and curls to
+    hooks. The note also compares this imagery to similar lines in The Merchant of
+    Venice.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that, in the popular science of the East, the coloring
+    of precious stones buried deep in the earth is attributed to rain, wind, and rays
+    of the sun.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage describes the beloved's hair as entangling and entrapping the
+    lover.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The beloved's long locks are compared to deadly snakes.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The beloved's curls are compared to hooks that catch and tear the lover's
+    heart.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage cites similar imagery from The Merchant of Venice involving snaky
+    golden locks and a golden mesh that entraps hearts.
+  category: speech
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: beloved
+  description: A beloved whose hair is described as entrapping the lover.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: lover
+  description: An unfortunate lover caught or wounded by the beloved's hair imagery.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: entrapping beloved
+  assigned_to:
+  - fig:1
+  basis: The beloved's hair is said to entangle and entrap the lover.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: entrapped lover
+  assigned_to:
+  - fig:2
+  basis: The lover is described as unfortunate and as caught or torn by the beloved's
+    locks and curls.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: precious stones colored by natural forces
+  literal_form: precious stones colored by rain, wind, and rays of the sun
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: beloved's entangling hair
+  literal_form: hair, long locks, and curls that entangle, entrap, catch, and tear
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: snake-like locks
+  literal_form: long locks compared to deadly snakes
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: hook-like curls
+  literal_form: curls compared to hooks catching and tearing the lover's heart
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Natural coloring of buried gems
+  summary: The note presents a belief that precious stones receive their coloring
+    from rain, wind, and sunlight, even when buried deep in the earth.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Beloved's hair as snare
+  summary: The note describes a Persian poetic image in which the beloved's hair traps
+    the lover; the hair is likened to snakes and hooks.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: beloved's hair as entangling snare
+  taxonomy_refs: []
+  basis: The passage explicitly identifies a Persian image in which the beloved's
+    hair entangles and entraps the lover.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The note describes a literary image rather than narrating a full mythic
+    episode.
+- id: motif:2
+  label: locks compared to dangerous serpents
+  taxonomy_refs: []
+  basis: The beloved's long locks are said to be compared to deadly snakes.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The comparison is metaphorical and attached to love lyric imagery; no
+    serpent being acts in the passage.
+- id: motif:3
+  label: natural forces coloring hidden stones
+  taxonomy_refs: []
+  basis: The passage states that buried precious stones are colored by rain, wind,
+    and sunlight according to popular Eastern science.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: This is presented as explanatory lore in an editorial note, not as a narrative
+    motif.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself compares the Persian image of the beloved's entangling
+    hair to similar imagery in Shakespeare's The Merchant of Venice.
+  claim_level: visual_similarity
+  target: The Merchant of Venice imagery of snaky golden locks and a golden mesh entrapping
+    hearts
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage supports similarity of imagery only; it does not establish
+    historical contact, shared origin, or identical function.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3766-3769
+  quote_or_summary: According to the popular science of the East, precious stones,
+    even buried deep in the earth, receive their coloring from rain, wind, and the
+    sun's rays.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 3771-3775
+  quote_or_summary: A Persian image describes the beloved's hair as entangling and
+    entrapping the unfortunate lover; long locks are compared to deadly snakes and
+    curls to hooks that catch and tear the lover's heart.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 3775-3778
+  quote_or_summary: The note compares the Persian hair imagery to The Merchant of
+    Venice, citing snaky golden locks and a golden mesh that entraps hearts.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is an editorial explanation of imagery, so literal extraction
+    is straightforward, while motif classification remains limited by the lack of
+    full poetic context.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Extraction uses only the supplied passage and metadata. No historical-contact claim is made for the Shakespeare comparison.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-hafiz-divan-bell-gutenberg__l3766-l3778
+  passage_sha256=c24dba16321b204b95063d2cba3467de750be6d772b9ab40e73e954c93207032

@@ -1,0 +1,265 @@
+---
+record_id: batch.motif.celtic-irish-gods-and-fighting-men-gregory-gutenberg-l603-l620
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+passage_locator:
+  label: Book III. The Battle of the White Strand / Book IV. Huntings and Enchantments
+    / Book VI. Diarmuid / Book VII. Diarmuid and Grania; lines 603-620
+  start: '603'
+  end: '620'
+  translation: Gods and Fighting Men
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is a table of contents listing Book VI, “Diarmuid,” with five
+    chapter titles, and Book VII, “Diarmuid and Grania,” with eight chapter titles.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Book VI is titled “Diarmuid.”
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Book VI includes chapter titles concerning Diarmuid’s birth, his Love-Spot,
+    the Daughter of King Under-Wave, a hard servant, and the House of the Quicken
+    Trees.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Book VII is titled “Diarmuid and Grania.”
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Book VII includes chapter titles concerning a flight from Teamhair, a pursuit,
+    the Green Champions, the Wood of Dubhros, a quarrel, wanderers, fighting and peace,
+    and the Boar of Beinn Gulbain.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Diarmuid
+  description: Named in the title of Book VI and in chapter titles concerning his
+    birth and Love-Spot.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Grania
+  description: Named with Diarmuid in the title of Book VII.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Daughter of King Under-Wave
+  description: Named in a Book VI chapter title.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: King Under-Wave
+  description: Named indirectly through the chapter title “The Daughter of King Under-Wave.”
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Green Champions
+  description: Named in a Book VII chapter title.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Boar of Beinn Gulbain
+  description: Named in a Book VII chapter title.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: named central figure
+  assigned_to:
+  - fig:1
+  basis: Diarmuid is the title of Book VI and is also named in chapter titles.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: named co-title figure
+  assigned_to:
+  - fig:2
+  basis: Grania is named with Diarmuid in the title of Book VII.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: named daughter figure
+  assigned_to:
+  - fig:3
+  basis: The chapter title identifies a daughter associated with King Under-Wave.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: named king figure
+  assigned_to:
+  - fig:4
+  basis: The chapter title identifies King Under-Wave as the father of the daughter
+    figure.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: named champion group
+  assigned_to:
+  - fig:5
+  basis: The chapter title names the Green Champions.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: named animal figure
+  assigned_to:
+  - fig:6
+  basis: The chapter title names the Boar of Beinn Gulbain.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: quicken trees
+  literal_form: Quicken Trees
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: wood
+  literal_form: Wood of Dubhros
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Book VI contents for Diarmuid
+  summary: The listed chapters present topics including Diarmuid’s birth, Love-Spot,
+    an encounter or episode involving the Daughter of King Under-Wave, the Hard Servant,
+    and the House of the Quicken Trees.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Book VII contents for Diarmuid and Grania
+  summary: The listed chapters present topics including flight from Teamhair, pursuit,
+    Green Champions, the Wood of Dubhros, quarrel, wandering, fighting and peace,
+    and the Boar of Beinn Gulbain.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: birth of named hero
+  taxonomy_refs: []
+  basis: A chapter title is “Birth of Diarmuid.”
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: The table of contents gives only a chapter title and does not describe
+    miraculous, sacred, or heroic birth details.
+- id: motif:2
+  label: flight and pursuit
+  taxonomy_refs:
+  - departure
+  basis: Book VII includes chapter titles “The Flight from Teamhair” and “The Pursuit.”
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage does not state the circumstances, pursuers, destination, or
+    outcome of the flight.
+- id: motif:3
+  label: marked or love-attracting body feature
+  taxonomy_refs: []
+  basis: A chapter title is “How Diarmuid got his Love-Spot.”
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: The passage names the Love-Spot but does not describe its appearance,
+    power, origin, or narrative function.
+- id: motif:4
+  label: boar episode
+  taxonomy_refs: []
+  basis: A chapter title is “The Boar of Beinn Gulbain.”
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: The passage does not describe the boar’s actions or relationship to the
+    named figures.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 603-608
+  quote_or_summary: "“Book VI. Diarmuid”"
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source text.
+- id: ev:2
+  type: summary
+  locator: lines 605-610
+  quote_or_summary: 'Book VI lists chapters: Birth of Diarmuid; How Diarmuid got his
+    Love-Spot; The Daughter of King Under-Wave; The Hard Servant; The House of the
+    Quicken Trees.'
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source text.
+- id: ev:3
+  type: quote
+  locator: lines 612-613
+  quote_or_summary: "“Book VII. Diarmuid and Grania”"
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source text.
+- id: ev:4
+  type: summary
+  locator: lines 615-620
+  quote_or_summary: 'Book VII lists chapters: The Flight from Teamhair; The Pursuit;
+    The Green Champions; The Wood of Dubhros; The Quarrel; The Wanderers; Fighting
+    and Peace; The Boar of Beinn Gulbain.'
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source text.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: The passage is a table of contents rather than a narrative episode, so figures
+    and motifs are inferred only from titles and remain limited.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were made because the passage itself does not support cross-textual or cross-traditional comparison.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:celtic-irish-gods-and-fighting-men-gregory-gutenberg__l603-l620
+  passage_sha256=d9c4c24c3d1e3a9b7e75cd0f29b51f9bd48bdfcbe9202ee479c9b2f36a40c613

@@ -1,0 +1,504 @@
+---
+record_id: batch.motif.sufi-jami-persian-mystics-davis-gutenberg-l788-l861
+source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+passage_locator:
+  label: INTRODUCTION / EDITORIAL NOTE / INTRODUCTION / THE BABY DARLING; lines 788-861
+  start: '788'
+  end: '861'
+  translation: 'The Persian Mystics: Jámí'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage contains three lyric sections: a woman cherishes and adorns
+    a baby; a lover explains that natural images name aspects of his lady; and Absál
+    uses adornment, gesture, and display to attract a man''s eyes, with the passage
+    stating that love enters the heart chiefly through the eye.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A female figure sees the baby and closes her eyes to the rest of the world.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The baby is associated with a golden cradle, rose, musk, honeycomb sugar,
+    and milk.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The female figure remains over the baby at night like a taper over his head.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: In the morning she dresses the child, applies collyrium to his eyes, arranges
+    his hair, and fastens a gold and ruby girdle at his waist.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A solitary lover utters changing invocations involving sun, moon, hyacinth-hidden
+    roses, cypress, and a low weed.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A listener questions why the lover speaks of the moon and roses rather than
+    of his mistress.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The lover explains that sun and moon refer to his lady; hyacinth refers to
+    her hair; rose to her cheek; and the weed to himself beneath her cypress shadow.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Absál twists her hair as a chain or curls, darkens her eyes with surma, and
+    adorns her brows as bows.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Absál uses cheek, lips, sleeve, hand, anklets, and movement as means to attract
+    the male figure's attention.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The passage states that love mainly makes its sign by the eye and enters the
+    heart by that road.
+  category: other
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: unnamed female caretaker
+  description: Female figure who dotes on, washes, feeds, watches over, dresses, and
+    ornaments the baby.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: baby darling
+  description: Infant or young child cherished in a golden cradle and adorned by the
+    female caretaker.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: solitary lover
+  description: A lover speaking in symbolic images and explaining their relation to
+    his lady.
+  role_refs:
+  - role:3
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: questioning listener
+  description: A hearer who is puzzled by the lover's language about moon and roses.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: the lady or mistress
+  description: The beloved woman whom the lover identifies through images of sun,
+    moon, hair, cheek, rose, and cypress.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Absál
+  description: Female figure who uses hair, eye cosmetics, adornment, gestures, and
+    bodily display to draw a man's eyes.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:7
+  name_or_label: male target of Absál's wiles
+  description: Male figure whose heart and eyes Absál seeks to bind, snare, and draw
+    toward her.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+roles:
+- id: role:1
+  label: adoring caretaker
+  assigned_to:
+  - fig:1
+  basis: She washes, feeds, watches over, dresses, and adorns the baby while focusing
+    on him above all else.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: cherished child
+  assigned_to:
+  - fig:2
+  basis: The baby is placed in a golden cradle, fed, watched over, and dressed with
+    ornaments.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: lover using symbolic speech
+  assigned_to:
+  - fig:3
+  basis: He speaks of sun, moon, hyacinth, roses, cypress, and weed, then explains
+    these as love-language.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: literal-minded questioner
+  assigned_to:
+  - fig:4
+  basis: He hears the lover and asks why he is not raving about his mistress directly.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: beloved lady
+  assigned_to:
+  - fig:5
+  basis: The lover states that the images name aspects of his lady and her beauty.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: self-abasing lover
+  assigned_to:
+  - fig:3
+  basis: He identifies himself as the wretched weed growing in the lady's cypress
+    shadow.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: seductive actor
+  assigned_to:
+  - fig:6
+  basis: Absál performs bridal wiles intended to solicit the man's eyes and heart.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:8
+  label: object of seduction
+  assigned_to:
+  - fig:7
+  basis: Absál seeks to bind his heart, make him lose his way, snare his heart, and
+    draw his eyes.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+symbols:
+- id: sym:1
+  label: golden cradle
+  literal_form: golden cradle holding the baby
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: milk
+  literal_form: milk withdrawn at day's end after feeding the baby
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - milk
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: night taper
+  literal_form: taper burning all night over the baby's head as a simile for the caretaker
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: collyrium and adorned eyes
+  literal_form: fresh collyrium applied to the child's narcissus eyes
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: sun and moon
+  literal_form: sun and moon named in the lover's invocation and explained as the
+    lady's self
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:6
+  label: hyacinth and rose
+  literal_form: hyacinth for the lady's hair and rose for her cheek
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:7
+  label: cypress and weed
+  literal_form: the lady as cypress and the lover as weed growing in her shadow
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:8
+  label: hair chain
+  literal_form: Absál's hair twined as a musky chain to bind the man's heart
+  associated_figures:
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:9
+  label: eyes and bows
+  literal_form: darkened eyes and adorned brows figured as means to make the man lose
+    his way and be shot
+  associated_figures:
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:10
+  label: snare for the beloved heart
+  literal_form: rose and grain of musk placed to snare the bird of the beloved heart
+  associated_figures:
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:11
+  label: eye as road to the heart
+  literal_form: the eye named as the main road by which love enters and takes possession
+    of the heart
+  associated_figures:
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Baby cherished and watched over
+  summary: A woman devotes her attention to a baby, places him in a golden cradle,
+    washes and feeds him, makes his bed, and watches over him at night.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Child adorned in the morning
+  summary: The woman dresses the growing child with robe, collyrium, arranged hair,
+    and a gold and ruby girdle.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Lover's symbolic speech questioned
+  summary: A solitary lover speaks in natural and celestial images, and a listener
+    challenges him for not speaking plainly of his mistress.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Explanation of love-language
+  summary: The lover explains that the sun, moon, hyacinth, rose, cypress, and weed
+    refer to his lady's features and to his own subordinate position.
+  figure_refs:
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Absál's bridal wiles
+  summary: Absál arranges hair, eyes, brows, cheek, lips, sleeve, and anklets to solicit
+    a man's gaze and draw his heart through the eye.
+  figure_refs:
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:8
+  - sym:9
+  - sym:10
+  - sym:11
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: cherished and ornamented child
+  taxonomy_refs: []
+  basis: The baby is placed in a golden cradle, washed with rose and musk, fed, watched
+    over, dressed, and ornamented.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage does not explicitly describe a miraculous or sacred birth.
+- id: motif:2
+  label: beloved encoded in nature imagery
+  taxonomy_refs: []
+  basis: The lover's natural and celestial images are explained as figurative references
+    to the lady's self, hair, cheek, stature, and the lover's position.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage frames the beloved as a mistress or lady; a specifically divine
+    reading is not stated in the passage.
+- id: motif:3
+  label: seduction through sight
+  taxonomy_refs: []
+  basis: Absál uses hair, eye cosmetics, brows, cheek, lips, sleeve, and anklets to
+    attract the man's gaze, and the passage states that love enters the heart through
+    the eye.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: No broader comparative or historical claim is made by the passage.
+- id: motif:4
+  label: heart bound or snared by beauty
+  taxonomy_refs: []
+  basis: Absál's hair is described as a chain to bind the heart, and rose and musk
+    are used to snare the bird of the beloved heart.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: This is extracted as a local poetic motif rather than assigned to a supplied
+    motif family.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 788-801
+  quote_or_summary: In 'The Baby Darling,' a woman dotes on a baby in a golden cradle,
+    washes him with rose and musk, presses honeycomb sugar to his lips, gives milk,
+    lays him in bed, and watches over him at night like a taper.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 803-809
+  quote_or_summary: Each morning as the child grows, she dresses him, applies collyrium
+    to his eyes, parts his musky hair from his forehead, and fastens a gold and ruby
+    girdle at his waist.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 811-824
+  quote_or_summary: In 'The Moon and Roses,' a solitary lover pours out invocations
+    involving sun, moon, hyacinth-hidden roses, cypress, and weed; a puzzled hearer
+    asks why he speaks of moon and roses instead of his mistress.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 826-835
+  quote_or_summary: 'The lover answers that the questioner misreads love-language:
+    sun and moon are his lady''s self, hyacinth her hair, rose her cheek, and he himself
+    the weed in her cypress shadow.'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 837-846
+  quote_or_summary: In 'The Wiles of Absál,' Absál twines her hair as a musky chain
+    to bind his heart, curls it into temptations, darkens her eyes with surma, adorns
+    her brows as bows, and lays rose and musk as a snare for the beloved heart.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 847-855
+  quote_or_summary: Absál adds to her cheek, laughs to reveal the pearl behind the
+    ruby seal, shows the silver in her sleeve, and dashes her golden anklets to draw
+    the crowned head under her feet.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:7
+  type: summary
+  locator: lines 856-861
+  quote_or_summary: By many bridal wiles Absál solicits his eyes, and the passage
+    says love chiefly makes its sign by the eye and by that road enters and takes
+    possession of the heart.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; summary generated from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is strong for actions, figures, and poetic symbols. Motif
+    labels are local and descriptive because the supplied taxonomy does not directly
+    cover most of the passage, and no passage-internal comparative claims are present.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly compare these scenes to another tradition, motif family, or nearby corpus pattern.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-jami-persian-mystics-davis-gutenberg__l788-l861
+  passage_sha256=244f4a494f73c9f026ae0b2be6bb0a9c380e68540381b3ac2b2fe353d97540d7

@@ -1,0 +1,227 @@
+---
+record_id: batch.motif.sufi-jami-persian-mystics-davis-gutenberg-l127-l166
+source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+passage_locator:
+  label: F. HADLAND DAVIS / CONTENTS / INTRODUCTION / EDITORIAL NOTE; lines 127-166
+  start: '127'
+  end: '166'
+  translation: 'The Persian Mystics: Jámí'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Front matter lists the book contents and gives an editorial note stating
+    that the series aims to promote good-will and understanding between East and West
+    through knowledge of Oriental thought.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage names F. Hadland Davis, London, and March 1908 before the contents
+    list.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The contents list includes introductory sections on Jámí's life, Salámán and
+    Absál, the Lawá'ih, Yúsuf and Zulaikha, and the Baháristán, followed by selections
+    from those works.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The editorial note states that the editors want the books in the series to
+    serve as ambassadors of good-will and understanding between East and West.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The editorial note contrasts East and West as an old world of Thought and
+    a new world of Action.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The editorial note says deeper knowledge of Oriental thought may help revive
+    a spirit of Charity toward nations of another creed and colour.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The editorial note is signed by L. Cranmer-Byng and S. A. Kapadia and gives
+    the Northbrook Society address at 21 Cromwell Road, Kensington, S.W.
+  category: setting
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: F. Hadland Davis
+  description: A named person associated with the London, March 1908 dateline in the
+    front matter.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: editors of this series
+  description: The editorial voice describing the purpose of the series.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: L. Cranmer-Byng
+  description: A named signatory of the editorial note.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: S. A. Kapadia
+  description: A named signatory of the editorial note.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: named front-matter figure
+  assigned_to:
+  - fig:1
+  basis: The passage gives the name with a London and date line.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: series editors
+  assigned_to:
+  - fig:2
+  basis: The editorial note explicitly refers to the object of the editors of the
+    series.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: editorial note signatory
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The names appear as signatures below the editorial note.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: books as ambassadors
+  literal_form: books described as ambassadors of good-will and understanding
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: East and West
+  literal_form: East and West contrasted as old world of Thought and new world of
+    Action
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: Charity
+  literal_form: true spirit of Charity that neither despises nor fears nations of
+    another creed and colour
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Contents and editorial framing
+  summary: 'The passage lists the book''s contents and states the editors'' purpose
+    for the series: promoting cross-cultural good-will, understanding, and knowledge
+    of Oriental thought.'
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: transmission of wisdom across cultural boundary
+  taxonomy_refs:
+  - wisdom
+  basis: The editors frame the books as vehicles for deeper knowledge of Oriental
+    thought and for greater understanding between East and West.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: This is an editorial program rather than a mythic narrative episode; the
+    taxonomy link is thematic and should be reviewed.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 127-130
+  quote_or_summary: '"F. HADLAND DAVIS" followed by "LONDON" and "March, 1908."'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:2
+  type: summary
+  locator: lines 132-148
+  quote_or_summary: 'Contents list: introduction sections on Jámí''s life, Salámán
+    and Absál, Lawá''ih, Yúsuf and Zulaikha, Baháristán, and selections from these
+    works.'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; summarized for extraction evidence.
+- id: ev:3
+  type: quote
+  locator: lines 150-157
+  quote_or_summary: The editors desire that the books be "ambassadors of good-will
+    and understanding between East and West," described as "the old world of Thought"
+    and "the new of Action."
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:4
+  type: summary
+  locator: lines 158-163
+  quote_or_summary: The editors say deeper knowledge of Oriental ideals and philosophy
+    may help revive a true spirit of Charity toward nations of another creed and colour.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; summarized for extraction evidence.
+- id: ev:5
+  type: summary
+  locator: lines 164-166
+  quote_or_summary: The note is signed by L. Cranmer-Byng and S. A. Kapadia and followed
+    by the Northbrook Society address at 21 Cromwell Road, Kensington, S.W.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; summarized for extraction evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is editorial front matter rather than narrative mythic material.
+    Literal extraction is straightforward; motif identification is limited and thematic.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were made because the passage itself does not support a specific comparative mythological relationship.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-jami-persian-mystics-davis-gutenberg__l127-l166
+  passage_sha256=8ea3d3928c44ece0210b7edcee64412198998f3efefc151d3a80f8831bc60e03

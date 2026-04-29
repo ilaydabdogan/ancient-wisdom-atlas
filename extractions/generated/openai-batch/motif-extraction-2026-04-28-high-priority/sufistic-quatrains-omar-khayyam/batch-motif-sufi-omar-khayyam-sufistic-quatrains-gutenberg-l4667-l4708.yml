@@ -1,0 +1,408 @@
+---
+record_id: batch.motif.sufi-omar-khayyam-sufistic-quatrains-gutenberg-l4667-l4708
+source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+passage_locator:
+  label: CVII. / VARIATIONS / OMAR KHAYYAM / STANZA; lines 4667-4708
+  start: '4667'
+  end: '4708'
+  translation: The Sufistic Quatrains of Omar Khayyam
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage lists variant lines between the second, third, and fourth editions
+    of Fitzgerald's translation of Omar Khayyam. The variants include dawn imagery
+    in which the sun dispels stars and night, a drowsy worshipper, wine-vine imagery,
+    morning roses, and references to Rustum, Hatim Tai, and Zal.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is framed as a list of variations between editions of Fitzgerald's
+    translation of Omar Khayyam.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: In one variant, the Sun is behind an eastern height and has chased the stars
+    from Night.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Sun ascends to the field of Heaven and strikes the Sultan's Turret with
+    a shaft of light.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: In another draft variant, the Sun flings a signal into Night that puts the
+    stars to flight.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A variant line asks why a drowsy worshipper lags outside.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: A variant line says that a ruby still gushes from the vine.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: A variant line says that morning brings a thousand roses.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Variant lines mention Rustum crying to battle, Hatim Tai crying to supper,
+    and Zal and Rustum thundering.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Sun
+  description: Celestial figure described as chasing stars, ascending, striking a
+    turret with light, and flinging a signal in variant dawn lines.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Stars
+  description: Celestial group described as chased from Night or put to flight by
+    the Sun's signal.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Drowsy Worshipper
+  description: A worshipper described as drowsy and lingering outside.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Rustum
+  description: Named figure associated with a cry to battle and, in another variant,
+    with thundering alongside Zal.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:7
+- id: fig:5
+  name_or_label: Hatim Tai
+  description: Named figure associated with a cry to supper.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:7
+- id: fig:6
+  name_or_label: Zal
+  description: Named figure who, with Rustum, is said to thunder in a third-edition
+    variant.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: dawn agent
+  assigned_to:
+  - fig:1
+  basis: The Sun drives away stars, ascends, strikes with light, and flings a signal
+    into Night.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: dispersed celestial group
+  assigned_to:
+  - fig:2
+  basis: The stars are chased from Night or put to flight.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: lagging worshipper
+  assigned_to:
+  - fig:3
+  basis: The line asks why the drowsy worshipper lags outside.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: martial or heroic caller
+  assigned_to:
+  - fig:4
+  basis: Rustum is named as crying to battle and as thundering in a variant line.
+  evidence_refs:
+  - ev:7
+- id: role:5
+  label: feast caller
+  assigned_to:
+  - fig:5
+  basis: Hatim Tai is named as crying to supper.
+  evidence_refs:
+  - ev:7
+- id: role:6
+  label: thundering named figure
+  assigned_to:
+  - fig:6
+  basis: Zal is named with Rustum as thundering in a variant line.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: Sun
+  literal_form: The Sun behind an eastern height and acting in Night.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: Eastern height
+  literal_form: The height behind which the Sun appears in the second-edition variant.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Stars and Night
+  literal_form: Stars in or from Night, chased or put to flight by the Sun.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: Field of Heaven
+  literal_form: The heavenly field to which the Sun ascends.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: Sultan's Turret
+  literal_form: A turret struck by the Sun with a shaft of light.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:6
+  label: Shaft of Light
+  literal_form: A shaft of light with which the Sun strikes the Sultan's Turret.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:7
+  label: Signal into Night
+  literal_form: A signal flung by the Sun into Night, putting the stars to flight.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:8
+  label: Ruby from the Vine
+  literal_form: A ruby that gushes from the vine.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:9
+  label: Thousand Roses of Morning
+  literal_form: A thousand roses brought by Morning.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:10
+  label: Battle and Supper Calls
+  literal_form: Calls to battle and supper associated with Rustum and Hatim Tai.
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Second-edition dawn variant
+  summary: The Sun appears behind an eastern height, drives the stars from Night,
+    ascends to Heaven's field, and strikes a Sultan's Turret with a shaft of light.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Third-edition draft dawn variant
+  summary: The Sun flings a signal into Night, and the stars are put to flight.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:7
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Isolated later stanza variants
+  summary: The passage lists separate variant lines involving a drowsy worshipper,
+    a ruby from the vine, morning roses, and named figures calling or thundering.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:8
+  - sym:9
+  - sym:10
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Dawn ascent and dispersal of night
+  taxonomy_refs:
+  - ascent
+  basis: The Sun ascends to the field of Heaven while the stars are chased from Night;
+    another variant has the Sun's signal put the stars to flight.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage is a list of textual variants, not a continuous mythic narrative.
+- id: motif:2
+  label: Awakening call at dawn
+  taxonomy_refs: []
+  basis: The dawn stanza begins with a command to wake, followed by the Sun's actions
+    against Night and the stars.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The imperative is poetic and editorially excerpted; no extended awakening
+    episode is present.
+- id: motif:3
+  label: Wine or vine as ruby-like outpouring
+  taxonomy_refs: []
+  basis: A variant line says that a ruby gushes from the vine.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: Only one isolated line is supplied, so the broader symbolic function is
+    uncertain.
+- id: motif:4
+  label: Morning floral abundance
+  taxonomy_refs: []
+  basis: A variant line says that Morning brings a thousand roses.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The image is brief and isolated from its stanza context.
+- id: motif:5
+  label: Disregarding calls of heroes or hosts
+  taxonomy_refs: []
+  basis: The variant tells the addressee not to heed Rustum's call to battle or Hatim
+    Tai's call to supper; another variant mentions Zal and Rustum thundering.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The passage supplies only variant lines without the full stanzaic argument.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4667-4708
+  quote_or_summary: The passage is headed as variations between the second, third,
+    and fourth editions of Fitzgerald's translation of Omar Khayyam and lists variant
+    stanza lines.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: quote
+  locator: Stanza I, ed. 2; lines 4677-4681
+  quote_or_summary: "“Wake! For the Sun behind yon Eastern height / Has chased the
+    Session of the Stars from Night” and ascends to Heaven's field, striking the Sultan's
+    Turret with light."
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+- id: ev:3
+  type: quote
+  locator: Stanza I, first draft of ed. 3; lines 4683-4686
+  quote_or_summary: "“Wake! For the Sun before him into Night / A Signal flung that
+    put the Stars to flight.”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+- id: ev:4
+  type: quote
+  locator: Stanza II, ed. 2; lines 4688-4690
+  quote_or_summary: "“Why lags the drowsy Worshipper outside?”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+- id: ev:5
+  type: quote
+  locator: Stanza V, edd. 2 and 3; lines 4692-4694
+  quote_or_summary: "“But still a Ruby gushes from the Vine.”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+- id: ev:6
+  type: quote
+  locator: Stanza IX, edd. 2 and 3; lines 4696-4698
+  quote_or_summary: "“Morning a thousand Roses brings, you say.”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+- id: ev:7
+  type: summary
+  locator: Stanza X, ed. 2 and ed. 3; lines 4700-4708
+  quote_or_summary: The second-edition variant mentions Rustum crying to battle and
+    Hatim Tai crying to supper, while the third-edition variant says Zal and Rustum
+    may thunder as they will.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward from the supplied variant lines. Motif
+    labels are cautious because the passage is a list of edition variants rather than
+    a complete narrative unit. No comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only supplied passage text and metadata were used. Taxonomy references were left empty except for the explicit upward movement of the Sun, mapped cautiously to ascent.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-omar-khayyam-sufistic-quatrains-gutenberg__l4667-l4708
+  passage_sha256=3574343f6256f507cd9bad9e74e1d523e0bfd49ce4d130dcd5a61f070a50de93

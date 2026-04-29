@@ -1,0 +1,457 @@
+---
+record_id: batch.motif.sufi-hafiz-divan-bell-gutenberg-l3991-l4129
+source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+passage_locator:
+  label: XXXVII / XXXIX / XLIII / THE END; lines 3991-4129
+  start: '3991'
+  end: '4129'
+  translation: Poems from the Divan of Hafiz
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The selected end matter and footnotes mention a Talmudic account of two
+    angels, Asa and Asail, punished after sin and associated with Solomon’s wisdom;
+    cite Rumi’s door-of-the-Beloved apologue as an image of union between God and
+    man; recount Hallaj’s execution and a saying that revealers of secrets are punished;
+    and quote an Afghan poetic ars poetica personifying Truth as a veiled mistress
+    adorned by poetic craft.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that a similar story is found in the Talmud, where two
+    angels are named Asa and Asail.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: After their sin, the angels are described as carried into a great mountain
+    and suspended by chains over an abyss.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The same angels are said to have taught Solomon wisdom.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Rumi’s apologue describes a lover knocking at the Beloved’s door; when the
+    lover says “I,” entry is refused, and when the lover says “thou,” entry is granted.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The note frames Rumi’s apologue as illustrating the union of God and man.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Hallaj is described as condemned to death with tortures by the Khalif of Baghdad
+    in 919, and his ashes are said to have been thrown into the Tigris.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: A divine answer in the Hallaj anecdote says that revealers of secrets are
+    punished.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The Afghan poetic advice personifies Truth as a mistress on a black steed,
+    veiled by allegory, adorned with metaphor and poetic sound, and made mysterious
+    by hidden meaning.
+  category: attribute
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Asa and Asail
+  description: Two angels named in the Talmudic version; after sin they are placed
+    in a mountain, chained over an abyss, and associated with teaching Solomon wisdom.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Solomon
+  description: Recipient of wisdom taught by Asa and Asail.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: the lover
+  description: Figure in Rumi’s apologue who knocks at the Beloved’s door and is admitted
+    only after answering as “thou.”
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: the Beloved / voice within
+  description: Figure in Rumi’s apologue who refuses entry when the lover asserts
+    separate selfhood and grants entry when the lover answers as the Beloved.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Hallaj
+  description: Ninth-century Sufi described as regarded by some as a sorcerer and
+    by others as a holy worker of miracles; condemned and killed in 919.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Khalif of Baghdad
+  description: Ruler who condemned Hallaj to death with tortures, according to the
+    note.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: God
+  description: In the Hallaj anecdote, God answers why Hallaj was allowed to fall
+    into the Khalif’s hands.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+- id: fig:8
+  name_or_label: Truth
+  description: Personified in the Afghan poetic advice as the poet’s mistress, mounted
+    on a black steed and veiled with allegory.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:4
+- id: fig:9
+  name_or_label: the poet / magician
+  description: Figure in the Afghan poetic advice who must handle metre and adorn
+    personified Truth through poetic craft.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: sinned and chained angelic teachers
+  assigned_to:
+  - fig:1
+  basis: The angels sin, are suspended by chains over an abyss, and teach Solomon
+    wisdom.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: recipient of angel-taught wisdom
+  assigned_to:
+  - fig:2
+  basis: The passage says Asa and Asail taught Solomon wisdom.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: lover seeking entry
+  assigned_to:
+  - fig:3
+  basis: The lover knocks at the door of the Beloved and changes the answer from self-reference
+    to identification with the Beloved.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: Beloved granting or refusing entry
+  assigned_to:
+  - fig:4
+  basis: The voice at the door refuses the lover’s first answer and grants entry after
+    the second.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: punished revealer of secrets
+  assigned_to:
+  - fig:5
+  basis: Hallaj is executed, and the anecdotal divine answer explains that revealers
+    of secrets are punished.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: condemning ruler
+  assigned_to:
+  - fig:6
+  basis: The Khalif of Baghdad condemns Hallaj to death with tortures.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: divine explainer of punishment
+  assigned_to:
+  - fig:7
+  basis: God answers the Sufi’s question about why Hallaj was allowed to fall into
+    the Khalif’s hands.
+  evidence_refs:
+  - ev:3
+- id: role:8
+  label: personified and veiled Truth
+  assigned_to:
+  - fig:8
+  basis: Truth is described as a mistress on a black steed with the veil of allegory
+    drawn across her brow.
+  evidence_refs:
+  - ev:4
+- id: role:9
+  label: poetic maker of ornamented mystery
+  assigned_to:
+  - fig:9
+  basis: The poet is instructed to use metre, metaphor, alliteration, rhythm, and
+    hidden meaning.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: great mountain prison
+  literal_form: great mountain containing the two angels
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: chains over an abyss
+  literal_form: chains suspending the angels over an abyss
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: door of the Beloved
+  literal_form: door at which the lover knocks in Rumi’s apologue
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: Tigris receiving ashes
+  literal_form: Hallaj’s ashes thrown into the Tigris
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: veil of allegory
+  literal_form: veil drawn across the brow of personified Truth
+  associated_figures:
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: poetic ornaments of hidden meaning
+  literal_form: jewels, sandal-wood, saffron, bells, necklace, rhythm, and half-seen
+    eyes used to describe poetic art
+  associated_figures:
+  - fig:8
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Asa and Asail chained after sin
+  summary: The Talmudic version names the two angels Asa and Asail; after sin they
+    are carried into a great mountain, chained over an abyss, and credited with teaching
+    Solomon wisdom.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: The lover at the Beloved’s door
+  summary: A lover knocks at the Beloved’s door, is rejected when answering as a separate
+    “I,” and is admitted when answering as “thou.”
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Hallaj punished and explained
+  summary: Hallaj is condemned by the Khalif of Baghdad, killed with tortures, his
+    ashes thrown into the Tigris, and a divine answer explains the event as punishment
+    for revealers of secrets.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Truth as veiled mistress of poetry
+  summary: The Afghan ars poetica personifies Truth as a mistress veiled by allegory
+    and adorned by metaphor, sound, rhythm, and hidden meaning.
+  figure_refs:
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: sinned angels chained in a mountain and linked to wisdom
+  taxonomy_refs:
+  - divine_judgment
+  - wisdom
+  basis: The passage describes Asa and Asail as angels punished after sin by confinement
+    and suspension over an abyss, while also crediting them with teaching Solomon
+    wisdom.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The agent of punishment is not specified in the excerpt, and the surrounding
+    story referred to as “the same story” is not included here.
+- id: motif:2
+  label: union through loss of separate self at the Beloved’s threshold
+  taxonomy_refs:
+  - annihilation_union
+  - divine_beloved
+  basis: Rumi’s apologue is explicitly introduced as an image of the union of God
+    and man; entry is granted only when the lover answers not as “I” but as “thou.”
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The account is quoted in a footnote rather than in the ode itself.
+- id: motif:3
+  label: punishment of the revealer of secrets
+  taxonomy_refs:
+  - forbidden_knowledge
+  - divine_judgment
+  basis: The Hallaj anecdote explains his fall into the Khalif’s hands with the saying
+    that revealers of secrets are punished.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage reports a later explanatory anecdote and does not specify
+    the secrets revealed.
+- id: motif:4
+  label: veiled Truth disclosed through poetic allegory
+  taxonomy_refs:
+  - wisdom
+  basis: The Afghan poetic advice personifies Truth as a veiled mistress and describes
+    hidden meaning as part of poetic art.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: This is a poetics passage, so the motif is literary-symbolic rather than
+    narrative-mythic.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly says the same story is found in the Talmud, where
+    the two angels are called Asa and Asail.
+  claim_level: same_motif
+  target: Talmudic story of Asa and Asail
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The excerpt gives only the Talmudic summary and does not include the
+    full other version being compared.
+- id: claim:2
+  claim: The note presents Rumi’s door-of-the-Beloved apologue as serving the same
+    moral as other images of union between God and man.
+  claim_level: same_function
+  target: Sufi imagery of union of God and man
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is made by the translator/editor in a footnote, not
+    by a primary narrative voice in the poem.
+- id: claim:3
+  claim: The note cautiously compares the theological problem of human salvation and
+    divine action with a Pauline passage from Philippians.
+  claim_level: same_function
+  target: Philippians 2:12 as quoted in Footnote 7
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: low
+  limitations: This comparison concerns doctrinal formulation more than a narrative
+    motif, and the larger Hafiz context is not present in the excerpt.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3991-3995; note on Talmudic Asa and Asail
+  quote_or_summary: The note says the same story appears in the Talmud; the angels
+    Asa and Asail sin, are carried into a great mountain, suspended by chains over
+    an abyss, and teach Solomon wisdom.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: Footnote 4 within lines 3991-4129
+  quote_or_summary: 'The note introduces Rumi’s apologue as illustrating union of
+    God and man: a lover first answers “It is I” and is refused, then answers “It
+    is thou” and is admitted by the Beloved.'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+  rights_note: Public domain source; concise summary with short quoted phrases.
+- id: ev:3
+  type: summary
+  locator: Footnote 9 within lines 3991-4129
+  quote_or_summary: Hallaj is described as a ninth-century figure, viewed by some
+    as sorcerer and by others as holy miracle-worker; he is condemned by the Khalif
+    of Baghdad in 919, his ashes thrown into the Tigris, and God answers that revealers
+    of secrets are punished.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: Footnote 14 within lines 3991-4129
+  quote_or_summary: An Afghan ars poetica says poetry needs a magician, metre must
+    be weighed, and Truth is a mistress on a black steed, veiled by allegory and adorned
+    with metaphor, sound, rhythm, and hidden meaning.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: Footnote 7 within lines 3991-4129
+  quote_or_summary: The note cites St. Paul in Philippians 2:12 on working out salvation
+    while God works within the believer.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is primarily translator/editorial end matter and footnotes rather
+    than a continuous mythic narrative. Motif candidates are based only on explicit
+    narrative anecdotes and symbolic descriptions present in the supplied excerpt.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used. No external Talmudic, Rumi, Hallaj, or Hafiz context was added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-hafiz-divan-bell-gutenberg__l3991-l4129
+  passage_sha256=a24107e879f73753b184d829f276e8e041b810e82d69716e782b41bcfc231c4c

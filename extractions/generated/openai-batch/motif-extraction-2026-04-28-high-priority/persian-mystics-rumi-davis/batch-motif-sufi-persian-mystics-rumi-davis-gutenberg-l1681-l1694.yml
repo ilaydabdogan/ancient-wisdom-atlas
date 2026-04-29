@@ -1,0 +1,317 @@
+---
+record_id: batch.motif.sufi-persian-mystics-rumi-davis-gutenberg-l1681-l1694
+source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+passage_locator:
+  label: LOVE THE SOURCE OF LIGHT RATHER THAN VANISHING FORM / THE RELIGION OF LOVE
+    / SPIRIT GREATER THAN FORM / WHERE LOVE IS; lines 1681-1694
+  start: '1681'
+  end: '1694'
+  translation: 'The Persian Mystics: Jalálu''d-dín Rúmí'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A damsel asks her lover which city he found most delightful. He replies
+    that the place where his beloved dwells is best; with her, even constricted, low,
+    or painful places become spacious, paradisal, heavenly, or delightful, while without
+    her even flowers become like fire.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A damsel addresses her lover and asks which city from his travels seemed most
+    delightful.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The lover answers that the city where his love dwells is the delightful one.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The lover says that a nook where his queen alights, even if as small as the
+    eye of a needle, is like a wide plain.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The lover compares the beloved's face to Yusuf and to the moon, and says that
+    even the bottom of a well is Paradise where it shines.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The lover says that with the beloved, hell would be heaven, a prison would
+    be a rose-garden, and hell would be a mansion of delight.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The lover says that without the beloved, lilies and roses would be like flames
+    of fire.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: damsel
+  description: A damsel who asks her lover about the most delightful city from his
+    travels.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: lover / fond youth
+  description: The addressee of the damsel's question; he answers by describing the
+    place where his love dwells as most delightful.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: beloved / queen / love
+  description: The lover's beloved, described as dwelling in a city, alighting in
+    a nook, and having a Yusuf-like face that shines as a moon.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: questioner
+  assigned_to:
+  - fig:1
+  basis: She asks the lover which city seemed most delightful.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: speaker-lover
+  assigned_to:
+  - fig:2
+  basis: He answers the question and explains the beloved's transforming presence.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: role:3
+  label: beloved whose presence transforms place
+  assigned_to:
+  - fig:3
+  basis: Places become spacious, paradisal, heavenly, or delightful with her; without
+    her, flowers become like fire.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: city of the beloved
+  literal_form: city wherein my love dwells
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: eye of a needle becoming a wide plain
+  literal_form: eye of a needle; wide plain
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Yusuf-like moon face
+  literal_form: Yusuf-like face shines as a moon
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: well becoming Paradise
+  literal_form: bottom of a well; Paradise
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: hell becoming heaven
+  literal_form: hell; heaven
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: prison becoming rose-garden
+  literal_form: prison; rose-garden
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:7
+  label: flowers as fire without the beloved
+  literal_form: lilies and roses; flames of fire
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Question about the most delightful city
+  summary: A damsel asks her lover which city among those visited in his travels was
+    most delightful.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Beloved's presence transforms place
+  summary: The lover answers that wherever the beloved is, cramped, low, infernal,
+    or imprisoning places become spacious, paradisal, heavenly, or delightful; without
+    her, flowers become like fire.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: beloved's presence transfigures place
+  taxonomy_refs:
+  - divine_beloved
+  basis: The lover repeatedly states that the beloved's presence makes any place,
+    even hell or prison, heavenly and delightful, while her absence makes flowers
+    fiery.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage is voiced as human love poetry; the divine or mystical reading
+    is supported by the anthology context and available taxonomy but is not explicitly
+    stated in these lines.
+- id: motif:2
+  label: journey judged by location of the beloved
+  taxonomy_refs:
+  - mystical_quest
+  basis: The damsel frames the question around travels through many cities, and the
+    lover evaluates the best city solely by whether the beloved dwells there.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage mentions travel retrospectively rather than narrating a full
+    quest.
+- id: motif:3
+  label: reversal of hell and heaven through love
+  taxonomy_refs:
+  - duality
+  basis: The lover contrasts hell/heaven, prison/rose-garden, and flowers/fire, reversing
+    value according to the beloved's presence or absence.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The taxonomy reference is broad; the passage presents poetic oppositions
+    rather than a developed cosmological dualism.
+comparison_claims:
+- id: claim:1
+  claim: The phrase 'Yusuf-like' and the mention of the bottom of a well create an
+    explicit allusive link to the Yusuf/Joseph-in-the-well narrative pattern.
+  claim_level: same_function
+  target: Yusuf/Joseph-in-the-well imagery in nearby Islamic and Persian literary
+    tradition
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage only uses a brief simile and image; it does not retell
+    the Yusuf narrative or identify a specific source text.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1681-1684
+  quote_or_summary: Under the heading 'WHERE LOVE IS,' a damsel asks her lover, addressed
+    as a fond youth, which city from his travels seemed most delightful.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 1685-1687
+  quote_or_summary: '"The city wherein my love dwells"; even a nook where the queen
+    alights, though like "the eye of a needle," is "a wide plain."'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: quote
+  locator: lines 1688-1689
+  quote_or_summary: '"Wherever her Yusuf-like face shines as a moon," even "the bottom
+    of a well" is "Paradise."'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: summary
+  locator: lines 1690-1692
+  quote_or_summary: With the beloved, hell would be heaven, a prison would be a rose-garden,
+    and hell would be a mansion of delight.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: line 1693-1694
+  quote_or_summary: '"Without thee lilies and roses would be as flames of fire!"'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward. Motif labeling is cautious because
+    these lines use love-poetry imagery and do not explicitly state doctrinal interpretation.
+    The Yusuf comparison is based only on an explicit simile and well image.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-persian-mystics-rumi-davis-gutenberg__l1681-l1694
+  passage_sha256=68c032fa5e936d87875026c41e9ecfca2a7369425977c456f8f1d0b2a7216592

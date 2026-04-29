@@ -1,0 +1,511 @@
+---
+record_id: batch.motif.sufi-omar-khayyam-sufistic-quatrains-gutenberg-l611-l714
+source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+passage_locator:
+  label: OF THE / QUATRAINS OF OMAR KHAYYAM / OMAR KHAYYAM / ASTRONOMER-POET OF PERSIA;
+    lines 611-714
+  start: '611'
+  end: '714'
+  translation: The Sufistic Quatrains of Omar Khayyam
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A biographical prefatory passage describes Omar Khayyam’s life in Naishapur,
+    his association with Nizam ul Mulk and Hasan Ben Sabbah under the teacher Imam
+    Mowaffak, the three pupils’ vow to share any future fortune, Nizam’s later rise
+    to office, Hasan’s fall and seizure of Alamut, Omar’s refusal of office in favor
+    of scholarship, and Omar’s astronomical and calendrical work under Malik Shah.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Omar Khayyam is described as born at Naishapur in Khorassan and dying within
+    the first quarter of the twelfth century.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Imam Mowaffak of Naishapur is described as a highly honored teacher whose
+    pupils were believed likely to attain honor and happiness.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Nizam ul Mulk, Omar Khayyam, and Hasan Ben Sabbah studied in connection with
+    Imam Mowaffak and formed a close friendship.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Hasan proposed that whichever of the three attained fortune should share it
+    equally with the others, and the three mutually pledged their words.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Nizam later rose to administrative office during the Sultanate of Sultan Alp
+    Arslan.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Hasan claimed a share of Nizam’s fortune, received a government place, became
+    involved in court intrigue, was disgraced, and later became head of the Persian
+    Ismailians.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Hasan seized the castle of Alamut in a mountainous tract south of the Caspian
+    Sea and was associated with the title Old Man of the Mountains.
+  category: setting
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Nizam ul Mulk is described as one of the victims of the Assassin’s dagger.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: Omar claimed his share from Nizam but asked not for title or office; he asked
+    to live under Nizam’s fortune, pursue science, and pray for Nizam’s prosperity.
+  category: speech
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: Nizam granted Omar a yearly pension from the treasury of Naishapur.
+  category: action
+  evidence_refs:
+  - ev:10
+- id: obs:11
+  text: Omar is described as busied in knowledge, especially astronomy, and as having
+    attained high pre-eminence in that field.
+  category: attribute
+  evidence_refs:
+  - ev:11
+- id: obs:12
+  text: Omar was one of eight learned men employed by Malik Shah to reform the calendar,
+    producing the Jalali era.
+  category: action
+  evidence_refs:
+  - ev:12
+figures:
+- id: fig:1
+  name_or_label: Omar Khayyam
+  description: A native of Naishapur, described as an astronomer-poet, a pupil associated
+    with Imam Mowaffak, a friend of Nizam and Hasan, and a scholar of science and
+    astronomy.
+  role_refs:
+  - role:2
+  - role:4
+  - role:7
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:9
+  - ev:11
+  - ev:12
+- id: fig:2
+  name_or_label: Nizam ul Mulk
+  description: Vizier to Alp Arslan and Malik Shah, narrator of the anecdote, former
+    pupil under Imam Mowaffak, friend of Omar and Hasan, later administrator and benefactor.
+  role_refs:
+  - role:2
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:9
+  - ev:10
+- id: fig:3
+  name_or_label: Hasan Ben Sabbah
+  description: A fellow pupil of Omar and Nizam, described as sharp-witted, later
+    a government claimant, disgraced court intriguer, head of the Persian Ismailians,
+    and holder of Alamut.
+  role_refs:
+  - role:2
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+- id: fig:4
+  name_or_label: Imam Mowaffak of Naishapur
+  description: A revered wise man and teacher of Khorassan under whom pupils studied
+    the Koran and traditions.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:5
+  name_or_label: Malik Shah
+  description: Sultan under whom Omar came to Merv, received praise, and was employed
+    among learned men to reform the calendar.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:11
+  - ev:12
+roles:
+- id: role:1
+  label: revered teacher
+  assigned_to:
+  - fig:4
+  basis: The passage describes Imam Mowaffak as honored and reverenced, and as the
+    teacher under whom Nizam studied.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: student companion
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  basis: The passage presents Omar, Nizam, and Hasan as pupils of similar age who
+    repeated lessons together and formed a close friendship.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: vizier-benefactor
+  assigned_to:
+  - fig:2
+  basis: Nizam is identified as Vizier and later keeps the school-day vow by responding
+    to the claims of Omar and Hasan.
+  evidence_refs:
+  - ev:5
+  - ev:9
+  - ev:10
+- id: role:4
+  label: vow partner
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  basis: The three mutually pledged that future fortune would be shared equally.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: sect leader and mountain stronghold holder
+  assigned_to:
+  - fig:3
+  basis: Hasan is described as head of the Persian Ismailians who seized Alamut and
+    became known as the Old Man of the Mountains.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:6
+  label: royal patron
+  assigned_to:
+  - fig:5
+  basis: Malik Shah is associated with praise and favor toward Omar and with the calendar
+    reform project.
+  evidence_refs:
+  - ev:11
+  - ev:12
+- id: role:7
+  label: scholar-astronomer
+  assigned_to:
+  - fig:1
+  basis: Omar is described as devoted to knowledge and especially pre-eminent in astronomy,
+    and as participating in calendar reform.
+  evidence_refs:
+  - ev:11
+  - ev:12
+symbols:
+- id: sym:1
+  label: mutual pledge
+  literal_form: A spoken vow or bond to share future fortune equally among three school
+    companions.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: mountain stronghold
+  literal_form: The castle of Alamut in a mountainous tract south of the Caspian Sea,
+    described as Hasan’s mountain home.
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:7
+- id: sym:3
+  label: Assassin’s dagger
+  literal_form: A dagger associated with the victims of the Assassins, including Nizam
+    ul Mulk.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:4
+  label: reformed calendar
+  literal_form: The Jalali era, a computation of time produced by eight learned men
+    including Omar.
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:12
+scenes:
+- id: scene:1
+  label: Study under Imam Mowaffak at Naishapur
+  summary: Nizam is sent to Naishapur to study under Imam Mowaffak and there encounters
+    Omar Khayyam and Hasan Ben Sabbah, with whom he forms a friendship.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: The school-day vow
+  summary: Hasan proposes that whichever of the three friends attains fortune should
+    share it equally with the others, and the three agree.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Nizam’s rise and the claims of the friends
+  summary: After years and travels, Nizam rises to office; later his school friends
+    come to claim a share in his good fortune according to the vow.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:9
+  - ev:10
+- id: scene:4
+  label: Hasan’s fall and Alamut
+  summary: Hasan gains a government position, becomes involved in court intrigue,
+    is disgraced, later heads the Ismailians, and seizes Alamut in the mountains.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: scene:5
+  label: Omar’s modest request
+  summary: Omar asks Nizam not for office but for support to live quietly, spread
+    science, and pray for Nizam, and Nizam grants him a pension.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: scene:6
+  label: Omar’s astronomical and calendrical work
+  summary: Omar lives at Naishapur devoted to knowledge and astronomy, receives praise
+    under Malik Shah, and participates in reforming the calendar.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:11
+  - ev:12
+candidate_motifs:
+- id: motif:1
+  label: Companions bound by a vow to share future fortune
+  taxonomy_refs:
+  - covenant
+  - sacred_exchange
+  basis: The three pupils mutually pledge that whichever of them attains fortune will
+    share it equally and reserve no pre-eminence for himself.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage frames this as historical anecdote rather than mythic ritual;
+    the sacred quality of the exchange is not stated.
+- id: motif:2
+  label: Wisdom transmitted through a revered teacher
+  taxonomy_refs:
+  - wisdom
+  basis: Imam Mowaffak is described as a revered wise man and teacher whose pupils
+    were believed to attain honor and happiness through study.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The motif is pedagogical and biographical, not explicitly supernatural.
+- id: motif:3
+  label: Renunciation of office in favor of knowledge
+  taxonomy_refs:
+  - wisdom
+  basis: Omar refuses title or office and instead asks for support to live quietly,
+    spread science, and pursue knowledge, especially astronomy.
+  evidence_refs:
+  - ev:9
+  - ev:11
+  confidence: high
+  cautions: The passage emphasizes scientific learning rather than explicitly mystical
+    quest or ascetic sainthood.
+- id: motif:4
+  label: Mountain stronghold as seat of feared power
+  taxonomy_refs: []
+  basis: Hasan seizes Alamut in a mountainous tract, and from this mountain home gains
+    fearful renown as the Old Man of the Mountains.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The available taxonomy includes mountain as a symbol, but the passage
+    does not present the mountain as cosmic or sacred.
+- id: motif:5
+  label: Learned reform of time reckoning
+  taxonomy_refs:
+  - wisdom
+  basis: Omar is one of eight learned men employed to reform the calendar, producing
+    the Jalali era, praised for its computational accuracy.
+  evidence_refs:
+  - ev:12
+  confidence: medium
+  cautions: This is a historical-scientific motif rather than a mythic creation or
+    calendrical-sacred narrative.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 611-714; biographical opening
+  quote_or_summary: Omar Khayyam is introduced as born at Naishapur in Khorassan in
+    the latter half of the eleventh century and dying in the first quarter of the
+    twelfth century.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 611-714; paragraph on Imam Mowaffak
+  quote_or_summary: Imam Mowaffak of Naishapur is called one of the greatest wise
+    men of Khorassan, highly honored and reverenced, and believed to bring pupils
+    to honor and happiness.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 611-714; Nizam’s account of study at Naishapur
+  quote_or_summary: Nizam studies under Imam Mowaffak and meets Omar Khayyam and Hasan
+    Ben Sabbah; the three are of similar age, repeat lessons together, and form a
+    close friendship.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 611-714; Hasan’s proposal of a vow
+  quote_or_summary: "“let us make a vow, that to whomsoever this fortune falls, he
+    shall share it equally with the rest”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short quotation.
+- id: ev:5
+  type: summary
+  locator: lines 611-714; Nizam’s later career
+  quote_or_summary: Years pass; Nizam travels and later returns invested with office,
+    rising to administer affairs during Sultan Alp Arslan’s sultanate.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 611-714; Hasan’s claim and fall
+  quote_or_summary: Hasan claims a share in Nizam’s fortune, receives a government
+    place, becomes involved in court intrigue, attempts to supplant his benefactor,
+    is disgraced, and later becomes head of the Persian Ismailians.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 611-714; Alamut passage
+  quote_or_summary: In A.D. 1090 Hasan seizes the castle of Alamut in a mountainous
+    tract south of the Caspian Sea and gains renown among Crusaders as the Old Man
+    of the Mountains.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 611-714; Assassin’s dagger passage
+  quote_or_summary: The passage states that one of the countless victims of the Assassin’s
+    dagger was Nizam ul Mulk himself.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: quote
+  locator: lines 611-714; Omar’s request to Nizam
+  quote_or_summary: "“The greatest boon you can confer on me ... is to let me live
+    in a corner under the shadow of your fortune, to spread wide, the advantages of
+    Science”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short quotation.
+- id: ev:10
+  type: summary
+  locator: lines 611-714; Nizam grants Omar a pension
+  quote_or_summary: Nizam accepts Omar’s sincerity and grants him a yearly pension
+    of 1200 mithkals of gold from the treasury of Naishapur.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+- id: ev:11
+  type: summary
+  locator: lines 611-714; Omar’s scholarly life
+  quote_or_summary: Omar lives and dies at Naishapur, busied in knowledge of every
+    kind, especially astronomy, and under Malik Shah receives praise for scientific
+    proficiency.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+- id: ev:12
+  type: summary
+  locator: lines 611-714; calendar reform passage
+  quote_or_summary: When Malik Shah determines to reform the calendar, Omar is one
+    of eight learned men employed; the result is the Jalali era, described as a highly
+    accurate computation of time.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is biographical and historical-prefatory rather than a mythic
+    narrative. Literal extraction is strong; motif labels are cautious and mainly
+    concern vow, wisdom, renunciation of office, mountain stronghold, and calendrical
+    learning.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not support a specific comparative claim beyond internal historical and biographical patterns.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-omar-khayyam-sufistic-quatrains-gutenberg__l611-l714
+  passage_sha256=1cb10cf39763ee9e92c1786f2551d4503c2626a8e62bc1db4c1ccdf79f0d3115

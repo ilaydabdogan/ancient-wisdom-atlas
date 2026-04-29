@@ -1,0 +1,278 @@
+---
+record_id: batch.motif.sufi-persian-mystics-rumi-davis-gutenberg-l1832-l1845
+source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+passage_locator:
+  label: 'DESTROY NOT EARTHLY BEAUTY: IT BEAUTIFIES THE SOUL / THE DEVIL MAKES USE
+    OF THE BEAUTY OF WOMEN / SELF-AGGRANDISEMENT AND VAINGLORY NO PART OF LOVE / LOVE
+    NEEDS NO MEDIATOR; lines 1832-1845'
+  start: '1832'
+  end: '1845'
+  translation: 'The Persian Mystics: Jalálu''d-dín Rúmí'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage states that one who has attained union with God no longer needs
+    intermediaries such as prophets or apostles. The inward voice supersedes outward
+    words, and the speaker says that even evil sent by God appears good to the God-intoxicated
+    saint, while ordinary people perceive mercy, wrath, and vengeance differently.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage says that a person who has attained union with God has no need
+    of intermediaries.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Prophets and apostles are described as links connecting ordinary humanity
+    with God.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A person who hears the inner voice within has no need to listen to outward
+    words, even those of apostles.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The speaker rejects intercession to be saved from evil sent by God.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Evil at God's hand is said to seem good to the speaker.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Mercy and kindness to ordinary people are contrasted with wrath and vengeance
+    as perceived by God-intoxicated saints.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: one who has attained Union with God
+  description: A person described as having attained union with God and therefore
+    lacking need of intermediaries.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: God
+  description: The divine being with whom union is attained and from whom evil may
+    be sent.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:3
+  name_or_label: Prophets and apostles
+  description: Religious messengers described as links connecting ordinary man with
+    God.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: ordinary man
+  description: Ordinary humanity described as needing links to connect with God.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: God-intoxicated saints
+  description: Saints whose perception differs from that of ordinary people regarding
+    mercy, wrath, and vengeance.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: united mystic
+  assigned_to:
+  - fig:1
+  basis: The figure has attained union with God and no longer needs intermediaries.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: divine source
+  assigned_to:
+  - fig:2
+  basis: God is the being with whom union occurs and whose hand sends what is called
+    evil.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:3
+  label: intermediary links
+  assigned_to:
+  - fig:3
+  basis: Prophets and apostles are described as links connecting ordinary man with
+    God.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: ordinary seeker needing mediation
+  assigned_to:
+  - fig:4
+  basis: Ordinary man is described as requiring prophets and apostles as connecting
+    links to God.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: transformed perceivers
+  assigned_to:
+  - fig:5
+  basis: God-intoxicated saints perceive mercy, wrath, and vengeance differently from
+    the vulgar.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: inner voice
+  literal_form: the "inner voice" within
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: outward words
+  literal_form: outward words, even of apostles
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: intercession
+  literal_form: intercession
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Union beyond mediation
+  summary: The passage describes union with God as a state in which intermediaries
+    are no longer needed, because the inner voice supersedes outward apostolic words.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Reversal of ordinary valuation
+  summary: The speaker says he does not desire intercession from evil sent by God,
+    because what appears evil from God's hand seems good, and ordinary evaluations
+    differ from those of God-intoxicated saints.
+  figure_refs:
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Direct union with the divine beyond intermediaries
+  taxonomy_refs:
+  - annihilation_union
+  - divine_beloved
+  - mystical_quest
+  basis: The passage explicitly presents union with God as a state beyond prophets,
+    apostles, outward words, and intercession.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage uses union language but does not narrate a quest sequence
+    or explicitly name annihilation; taxonomy links beyond union should be reviewed.
+- id: motif:2
+  label: Mystical reversal of good and evil
+  taxonomy_refs:
+  - duality
+  - wisdom
+  basis: The speaker states that evil at God's hand seems good, and contrasts vulgar
+    perception with that of God-intoxicated saints.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: This is a doctrinal or mystical valuation motif rather than a narrative
+    episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1832-1834
+  quote_or_summary: One who has attained union with God is said to have no need of
+    intermediaries.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1834-1836
+  quote_or_summary: Prophets and apostles are described as links connecting ordinary
+    man with God.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 1836-1839
+  quote_or_summary: The one who hears the inner voice within need not listen to outward
+    words, even those of apostles.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 1839-1843
+  quote_or_summary: The speaker does not desire intercession to be saved from evil
+    sent by God, because evil at God's hand seems good to him.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 1843-1845
+  quote_or_summary: What ordinary people perceive as mercy and kindness is contrasted
+    with what God-intoxicated saints perceive regarding wrath and vengeance.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The extraction is based only on the supplied passage. Motif candidates are
+    interpretive and should be reviewed, especially taxonomy assignments.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly support comparison to another tradition or corpus.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-persian-mystics-rumi-davis-gutenberg__l1832-l1845
+  passage_sha256=fcb1ef1e9102f78a369266ed030edba5fb855b525a99a1f4ffe98ae061ab0be5

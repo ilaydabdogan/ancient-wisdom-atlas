@@ -1,0 +1,258 @@
+---
+record_id: batch.motif.sufi-omar-khayyam-sufistic-quatrains-gutenberg-l4032-l4047
+source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+passage_locator:
+  label: LXXX. / LXXXI. / LXXXIV. / LXXXV.; lines 4032-4047
+  start: '4032'
+  end: '4047'
+  translation: The Sufistic Quatrains of Omar Khayyam
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: Ne'er a peevish Boy / Would break the Bowl from which he drank in joy
+  summary: A speaker argues that a boy would not break a bowl from which he drank
+    joyfully, and that the maker of a vessel would not later destroy it in wrath.
+    A note identifies the quatrain's inspiration as O. 19, followed by a related version
+    about a cup, a drinker, and made or broken heads and feet.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A figure called a Second speaks the quatrain.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speech says that a peevish boy would not break the bowl from which he
+    drank in joy.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The speech says that the one who made the vessel with his hand will not later
+    destroy it in wrath.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The editorial note states that the quatrain's inspiration comes from O. 19.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The cited related version speaks of the elements of a cup being put together,
+    their breaking up being disapproved by a drinker, and heads and feet made or broken
+    by finger-tips.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Second
+  description: The speaker who utters the quatrain.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: peevish Boy
+  description: A hypothetical boy who would not break the bowl from which he drank
+    in joy.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: maker of the Vessel
+  description: The one who made the vessel with his hand and is said not to destroy
+    it in later wrath.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: drinker
+  description: In the related version, a drinker cannot approve the breaking up of
+    the cup's elements.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: speaker
+  assigned_to:
+  - fig:1
+  basis: The passage introduces the quatrain with 'Then said a Second'.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: user of vessel
+  assigned_to:
+  - fig:2
+  - fig:4
+  basis: The boy drinks from the bowl; the related version mentions a drinker in relation
+    to a cup.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:3
+  label: maker
+  assigned_to:
+  - fig:3
+  basis: The passage identifies a figure who made the vessel with his hand.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: bowl / vessel / cup
+  literal_form: Bowl, Vessel, cup
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: heads and feet
+  literal_form: heads and feet
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: hand / finger-tips
+  literal_form: hand; finger-tips
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+scenes:
+- id: scene:1
+  label: Argument from the unbroken bowl
+  summary: The Second says that a boy would not break a bowl from which he drank joyfully,
+    and that the maker of a vessel would not later destroy it in wrath.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Related O. 19 cup version
+  summary: The note presents a related version in which a cup's elements have been
+    put together, a drinker disapproves of their breaking up, and heads and feet are
+    described as made or broken by finger-tips.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: maker does not destroy what he made
+  taxonomy_refs:
+  - divine_judgment
+  basis: The quatrain reasons that one who made the vessel will not afterwards destroy
+    it in wrath.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage does not explicitly name a deity or formal judgment scene;
+    the taxonomy link rests on the wrath-and-destruction language.
+- id: motif:2
+  label: vessel as analogy for made beings
+  taxonomy_refs:
+  - wisdom
+  basis: The quatrain and its related version use a bowl, vessel, or cup and the act
+    of making or breaking it as a reflective analogy; the related version extends
+    this to heads and feet.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The passage presents the analogy poetically, without an explicit interpretive
+    explanation.
+comparison_claims:
+- id: claim:1
+  claim: The note explicitly links this quatrain to O. 19, and the cited O. 19 version
+    repeats the pattern of a cup or vessel made and then questioned as to its breaking.
+  claim_level: same_motif
+  target: O. 19
+  evidence_refs:
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is limited to the source note and quoted related version
+    supplied in the passage.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 4032-4035
+  quote_or_summary: 'Then said a Second: a peevish boy would not break the bowl from
+    which he drank in joy.'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short excerpt summarized.
+- id: ev:2
+  type: quote
+  locator: lines 4036-4037
+  quote_or_summary: The one who made the vessel with his hand will not afterwards
+    destroy it in wrath.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short excerpt summarized.
+- id: ev:3
+  type: citation
+  locator: line 4039
+  quote_or_summary: The note states that the inspiration for the quatrain comes from
+    O. 19.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; citation-level evidence.
+- id: ev:4
+  type: summary
+  locator: lines 4041-4045
+  quote_or_summary: A related version says the elements of a cup were put together,
+    a drinker cannot approve their breaking up, and asks for love or hate of whom
+    heads and feet were made or broken.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: citation
+  locator: lines 4047
+  quote_or_summary: Reference list includes O. 19, C. 64, L. 40, S.P. 37, P. ii. 7,
+    P. 95, B. ii. 77, T. 309, W. 42, N. 38, V. 220.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; bibliographic citation evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif taxonomy assignments are cautious
+    because the passage uses poetic analogy and does not explicitly state a doctrinal
+    interpretation.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage text and metadata; no external taxonomy identifiers beyond the provided motif family names were added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-omar-khayyam-sufistic-quatrains-gutenberg__l4032-l4047
+  passage_sha256=bc1de3b1e3cc534e30e6a55bf31346ffee810cb203599245bd3454f7b1715c66

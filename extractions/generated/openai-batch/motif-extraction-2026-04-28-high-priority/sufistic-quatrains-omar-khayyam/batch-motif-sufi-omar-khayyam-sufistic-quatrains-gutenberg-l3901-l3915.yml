@@ -1,0 +1,213 @@
+---
+record_id: batch.motif.sufi-omar-khayyam-sufistic-quatrains-gutenberg-l3901-l3915
+source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+passage_locator:
+  label: LXXV. / LXXVI. / LXXVII. / LXXX.; lines 3901-3915
+  start: '3901'
+  end: '3915'
+  translation: The Sufistic Quatrains of Omar Khayyam
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: In a thousand places on the road I walk, Thou placest snares
+  summary: The speaker addresses a divine Thou, saying that the road of life has been
+    beset with pitfalls, traps, and snares by that addressee. The speaker objects
+    that if all things are ordered by the divine and the world is not independent,
+    it is unjust to entangle the speaker and then count the resulting fall as sin
+    or rebellion.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The speaker addresses a figure called “Thou.”
+  category: speech
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:2
+  text: The road the speaker must wander or walk is described as containing pitfalls,
+    a gin, and snares.
+  category: setting
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: The addressed Thou is said to place snares in many places on the road.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The speaker says the world is not independent of the addressed Thou in even
+    the smallest thing.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The speaker says the addressed Thou orders all things and yet calls the speaker
+    rebellious or imputes the fall to sin.
+  category: speech
+  evidence_refs:
+  - ev:1
+  - ev:2
+figures:
+- id: fig:1
+  name_or_label: speaker
+  description: First-person speaker who walks or wanders on the road and is subject
+    to being called sinful or rebellious.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Thou
+  description: Addressed power who is said to beset the road, place snares, order
+    all things, and judge the speaker as sinful or rebellious.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+roles:
+- id: role:1
+  label: human wayfarer or accused speaker
+  assigned_to:
+  - fig:1
+  basis: The speaker walks or wanders on a road and refers to “my Fall” and being
+    called rebellious.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: divine orderer
+  assigned_to:
+  - fig:2
+  basis: The addressed Thou is said to order all things, and the world is said not
+    to be independent of Thee.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: accuser or judge
+  assigned_to:
+  - fig:2
+  basis: The addressed Thou is said to impute the speaker’s fall to sin and call the
+    speaker rebellious.
+  evidence_refs:
+  - ev:1
+  - ev:2
+symbols:
+- id: sym:1
+  label: road
+  literal_form: road walked or wandered by the speaker
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: pitfall, gin, and snares
+  literal_form: traps placed along the road
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: fall
+  literal_form: the speaker’s fall, imputed as sin
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Accusation against divine entrapment
+  summary: The speaker addresses the Thou and complains that the speaker’s road has
+    been filled with traps by that same Thou, who then treats the speaker’s fall as
+    sin or rebellion despite ordering all things.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: life-road beset with traps
+  taxonomy_refs:
+  - mystical_quest
+  basis: The passage frames the speaker’s course as a road walked or wandered, obstructed
+    by pitfalls, a gin, and snares.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage emphasizes theological complaint rather than an extended quest
+    narrative.
+- id: motif:2
+  label: divine predestination and human blame
+  taxonomy_refs:
+  - divine_judgment
+  basis: The speaker states that the Thou orders all things and yet imputes the speaker’s
+    fall to sin or calls the speaker rebellious.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The available taxonomy has no specific predestination motif; divine_judgment
+    is an approximate family because the passage concerns blame, sin, and rebellion.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 3901-3906, quatrain LXXX
+  quote_or_summary: "“Oh Thou, who didst with pitfall and with gin / Beset the Road
+    I was to wander in, / Thou wilt not with Predestined Evil round / Enmesh, and
+    then impute my Fall to Sin!”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; quotation allowed by supplied metadata.
+- id: ev:2
+  type: quote
+  locator: lines 3909-3912, translation from O. 148
+  quote_or_summary: "“In a thousand places on the road I walk, Thou placest snares,”
+    and “In no smallest thing is the world independent of Thee, / Thou orderest all
+    things, and (yet) callest me rebellious!”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; quotation allowed by supplied metadata.
+- id: ev:3
+  type: citation
+  locator: lines 3914-3915
+  quote_or_summary: 'Reference note: O. 148, B. ii. 546; W. 432, N. 390.'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source metadata supplied.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif mapping is limited because available
+    taxonomy does not include a precise predestination/free-will category. No comparison
+    claims were made because the passage itself does not support a comparison to another
+    tradition or corpus.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage text and metadata were used.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-omar-khayyam-sufistic-quatrains-gutenberg__l3901-l3915
+  passage_sha256=b61a1985705319b1a72143039fcca40a3714dcb08831a06b302889a03f36abf6

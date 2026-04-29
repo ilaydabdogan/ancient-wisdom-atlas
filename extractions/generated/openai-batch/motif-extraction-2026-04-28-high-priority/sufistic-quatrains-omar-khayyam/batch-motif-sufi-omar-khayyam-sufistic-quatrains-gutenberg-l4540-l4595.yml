@@ -1,0 +1,441 @@
+---
+record_id: batch.motif.sufi-omar-khayyam-sufistic-quatrains-gutenberg-l4540-l4595
+source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+passage_locator:
+  label: XXXVII. / IN THE SECOND EDITION. / XXVIII. / XLIV.; lines 4540-4595
+  start: '4540'
+  end: '4595'
+  translation: The Sufistic Quatrains of Omar Khayyam
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage presents notes and quatrains on embracing the beloved or cypress
+    within a brief hour before being folded back into the Mother and dissolved; related
+    references emphasize bodily return to earth and mingling with the all. A later
+    quatrain contrasts wine, love, and abstinence with the Prophet's Paradise, hell,
+    and heaven, arguing that if lovers and drunkards are excluded, paradise or heaven
+    would be empty.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A speaker urges an addressee to embrace the waving Cypress within a brief
+    hour of grace.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The quatrain says the Mother will fold the addressee back into her arms and
+    dissolve the addressee in a final embrace.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A cited parallel says all bodies will be hidden in the earth.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A cited parallel describes rosy cheeks, grasping a wine cup, using each bodily
+    part, and those parts being mingled with the all.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A quatrain says that if the Vine and the Love-abjuring Band stand in the Prophet's
+    Paradise, that paradise would be empty like the hollow of a hand.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: A cited parallel says drinking wine and keeping company with the beautiful
+    is better than the hypocrisy of the zealot.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The cited parallels say that if lovers or drunken lovers are doomed to hell,
+    heaven will be unseen or bare.
+  category: speech
+  evidence_refs:
+  - ev:5
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: speaker of XLIV
+  description: The voice urging an addressee to embrace the cypress before dissolution.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: addressee of XLIV
+  description: The person told to embrace the waving Cypress and later to be folded
+    back into the Mother.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: waving Cypress
+  description: A cypress described as being embraced in the addressee's arms.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Mother
+  description: A personified mother who folds the addressee back into her arms and
+    dissolves the addressee in a last embrace.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: drunkards or drunken lovers
+  description: Figures described in cited quatrains as said to be destined for hell.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:6
+  name_or_label: lover
+  description: A figure paired with the drunkard and said to be doomed to hell in
+    a conditional statement.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: zealot
+  description: A figure whose hypocrisy is contrasted with wine-drinking and company
+    with the beautiful.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+- id: fig:8
+  name_or_label: Love-abjuring Band
+  description: A group named as abstaining from love and imagined as standing in the
+    Prophet's Paradise.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:9
+  name_or_label: Prophet
+  description: The Prophet is invoked through the phrase 'Prophet's Paradise.'
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: exhorting speaker
+  assigned_to:
+  - fig:1
+  basis: The voice gives imperatives to the addressee.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: mortal addressee
+  assigned_to:
+  - fig:2
+  basis: The addressee has a brief hour and is later folded back and dissolved.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: embraced beloved or cypress figure
+  assigned_to:
+  - fig:3
+  basis: The cypress is the object the addressee is told to embrace.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: returning or enclosing mother figure
+  assigned_to:
+  - fig:4
+  basis: The Mother folds the addressee back into her arms.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: condemned lover-drinker
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: The cited quatrains state conditionally that lovers and drunkards are doomed
+    to hell.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:6
+  label: abstinent or hypocritical religious figure
+  assigned_to:
+  - fig:7
+  - fig:8
+  basis: The zealot and Love-abjuring Band are contrasted with wine and love.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:7
+  label: paradise-associated prophetic figure
+  assigned_to:
+  - fig:9
+  basis: The passage refers to the Prophet's Paradise.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: waving Cypress
+  literal_form: cypress tree-like figure embraced by the addressee
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Mother's arms
+  literal_form: maternal arms and final embrace
+  associated_figures:
+  - fig:4
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: earth as hiding place for bodies
+  literal_form: earth containing hidden bodies
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: wine cup
+  literal_form: cup grasped in the hand
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: Vine
+  literal_form: vine named alongside the Love-abjuring Band
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: Prophet's Paradise
+  literal_form: paradise imagined as potentially empty
+  associated_figures:
+  - fig:8
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:7
+  label: hell and heaven
+  literal_form: hell as destination for drunkards or lovers; heaven as unseen or bare
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:8
+  label: hollow or palm of the hand
+  literal_form: empty hand used as comparison for empty paradise or bare heaven
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:6
+scenes:
+- id: scene:1
+  label: Embrace before dissolution
+  summary: The speaker urges the addressee to embrace the cypress during a short period
+    of grace before the Mother folds the addressee back into her arms and dissolves
+    the addressee.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Return of bodies to earth and all
+  summary: The cited parallels state that bodies will be hidden in earth and that
+    bodily parts will be mingled with the all.
+  figure_refs: []
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Empty paradise if lovers and drinkers are condemned
+  summary: The quatrain and cited parallels imagine paradise or heaven as empty if
+    wine, love, lovers, or drunkards are excluded or condemned.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:5
+  - sym:6
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: dissolution into mother or all
+  taxonomy_refs:
+  - annihilation_union
+  basis: The passage describes being folded back into the Mother's arms, dissolved
+    in a final embrace, and bodily parts mingling with the all.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: The taxonomy label is interpretive; the passage gives poetic dissolution
+    and mingling but does not explicitly define a doctrinal union.
+- id: motif:2
+  label: bodily return to earth
+  taxonomy_refs: []
+  basis: A cited parallel says the time will come when all bodies will be hidden in
+    the earth.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: No rebirth component is stated in this passage.
+- id: motif:3
+  label: wine and love opposed to ascetic judgment
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage contrasts wine, love, lovers, and drunkards with the zealot,
+    hell, heaven, and the Prophet's Paradise.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The divine judgment taxonomy applies to heaven and hell language, but
+    the quatrains are framed as conditional or polemical statements.
+- id: motif:4
+  label: paradise emptied by exclusion of lovers and drinkers
+  taxonomy_refs:
+  - divine_judgment
+  basis: The quatrain says the Prophet's Paradise would be empty if the Vine and Love-abjuring
+    Band stood there, and the parallels say heaven would be unseen or bare if lovers
+    and drunkards are doomed to hell.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: This is a poetic argument rather than a narrative event.
+comparison_claims:
+- id: claim:1
+  claim: The passage states that the sentiment of quatrain XLIV is traceable in C.
+    189 and C. 195.
+  claim_level: same_function
+  target: C. 189 and C. 195 parallels within the cited Khayyam quatrain tradition
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage gives bibliographic comparison and short translated parallels,
+    but not the full originals or a detailed philological argument.
+- id: claim:2
+  claim: The passage states that quatrain LXV is inspired by O. 127 and C. 60, and
+    that FitzGerald was reminded of it by N. 64, identified as C. 60.
+  claim_level: same_motif
+  target: O. 127 and C. 60/N. 64 parallels on lovers, drunkards, hell, and empty heaven
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The relation is reported by the edition's note; the passage does not
+    independently demonstrate textual transmission beyond the cited parallels.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 4546-4551, XLIV
+  quote_or_summary: The speaker tells the addressee to embrace the 'waving Cypress'
+    during a 'little hour of Grace' before the Mother folds and dissolves the addressee
+    in a last embrace.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short excerpt summarized.
+- id: ev:2
+  type: quote
+  locator: lines 4553-4558, note on C. 189
+  quote_or_summary: The note says the sentiment is traceable in C. 189; the cited
+    lines say to be happy because a time will come when all bodies are hidden in the
+    earth.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short excerpt summarized.
+- id: ev:3
+  type: quote
+  locator: lines 4562-4568, C. 195 parallel
+  quote_or_summary: A cited parallel describes sympathy with rosy cheeks, a hand grasping
+    the wine cup, and bodily parts being mingled with the all.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short excerpt summarized.
+- id: ev:4
+  type: quote
+  locator: lines 4574-4579, LXV
+  quote_or_summary: The quatrain says that if the Vine and Love-abjuring Band stand
+    in the Prophet's Paradise, that paradise would be empty like the hollow of a hand.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short excerpt summarized.
+- id: ev:5
+  type: quote
+  locator: lines 4581-4588, O. 127 parallel
+  quote_or_summary: The note says LXV is inspired by O. 127; the cited parallel prefers
+    wine and company with the beautiful to zealot hypocrisy and says that if lover
+    and drunkard are doomed to hell, no one will see heaven.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short excerpt summarized.
+- id: ev:6
+  type: quote
+  locator: lines 4591-4595, C. 60 / N. 64 parallel
+  quote_or_summary: The note identifies N. 64 as C. 60; the cited parallel says drunkards
+    are said to go to hell and that if drunken lovers are doomed to hell, heaven will
+    be bare like the palm of a hand.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short excerpt summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward from the translated quatrains and editorial
+    notes. Motif labels involving mystical union and judgment require interpretive
+    caution.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No unavailable taxonomy symbol IDs were assigned; symbols are recorded descriptively where the available symbol list did not provide a supported match.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-omar-khayyam-sufistic-quatrains-gutenberg__l4540-l4595
+  passage_sha256=c8e2a842c55de445529e7a0a0da443d07f4220554f342a8c6e97dc73b9e1f524

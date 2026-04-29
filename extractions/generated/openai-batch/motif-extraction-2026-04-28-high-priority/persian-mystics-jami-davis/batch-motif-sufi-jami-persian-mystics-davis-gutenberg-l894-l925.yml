@@ -1,0 +1,397 @@
+---
+record_id: batch.motif.sufi-jami-persian-mystics-davis-gutenberg-l894-l925
+source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+passage_locator:
+  label: THE BABY DARLING / LOVE'S EARTHLY WAY / REASON / THE MOON OF LOVE; lines
+    894-925
+  start: '894'
+  end: '925'
+  translation: 'The Persian Mystics: Jámí'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage first praises Reason as a power that corrects, completes, unites,
+    and serves as the ancient source from which prophets draw. It then presents a
+    speaker addressing a Shah or beloved, declaring servitude and incapacity, seeking
+    liberation from a snare, and abandoning both worlds when looking upon the moon-like
+    beloved. A final short lyric states that without the lover even a heavenly chamber
+    is cramped, while with the lover even an ant's eye is wider than Heaven.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Reason is described as righting the retrograde, completing the imperfect,
+    and uniting the knot.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Reason is called an ancient fountain from which prophets drew, with no one
+    else drawing from it.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage says claims to any other inspiration are false and that there
+    are no prophets except the wise.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A speaker addresses a Shah, calling himself the slave of the Shah's desire
+    and dust of the Shah's throne.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The speaker says he wishes to do whatever the Shah desires but is impeded
+    by his own incompetence and infirm will.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The speaker repeatedly tortures his own soul while devising liberation from
+    a snare in which he languishes.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: When the speaker thinks upon the moon, his soul relapses; when he looks, he
+    leaves both worlds behind to follow her.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The final lyric contrasts the absence and presence of the lover through images
+    of a heavenly chamber, Heaven's horizon, and an ant's eye.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Reason
+  description: Personified or abstract reason described as correcting, completing,
+    uniting, and serving as a fountain for prophets.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Prophets
+  description: Those who draw from the ancient fountain of reason.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: The wise
+  description: The passage identifies true prophets with the wise.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Speaker
+  description: First-person voice who addresses the Shah, calls himself slave and
+    dust, laments incapacity, seeks liberation, and follows the moon-like beloved.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: Shah
+  description: Addressee of the speaker's declaration of servitude and obedience.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Moon-like her
+  description: A feminine beloved or object of contemplation referred to as 'that
+    moon' and 'her.'
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Lover
+  description: The beloved whose absence or presence transforms the speaker's experience
+    of space.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: source of wisdom
+  assigned_to:
+  - fig:1
+  basis: Reason is the fountain from which prophets draw and is linked with wisdom.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: wise prophetic recipients
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: Prophets draw from reason, and true prophets are identified with the wise.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: devoted speaker
+  assigned_to:
+  - fig:4
+  basis: The speaker calls himself the slave of the Shah's desire and dust of the
+    Shah's throne.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: ensnared seeker
+  assigned_to:
+  - fig:4
+  basis: The speaker languishes in a snare and devises liberation from it.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: sovereign addressee
+  assigned_to:
+  - fig:5
+  basis: The addressee is called 'O Shah' and has a throne and desire the speaker
+    would obey.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: beloved object of longing
+  assigned_to:
+  - fig:6
+  - fig:7
+  basis: The moon-like 'her' is followed after the speaker leaves both worlds, and
+    the lover's presence or absence determines the speaker's experience of Heaven-like
+    space.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: fountain of reason
+  literal_form: fountain
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: knot united by reason
+  literal_form: knot
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: throne and dust
+  literal_form: throne; dust of the throne
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: snare of captivity
+  literal_form: snare
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: moon-like beloved
+  literal_form: moon
+  associated_figures:
+  - fig:4
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: both worlds left behind
+  literal_form: both worlds
+  associated_figures:
+  - fig:4
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:7
+  label: Heaven and ant's eye spatial contrast
+  literal_form: Heaven's horizon; ant's eye; chamber
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Reason as prophetic source
+  summary: Reason is praised as a corrective and completing power, an ancient fountain
+    from which prophets draw; other inspiration is denied, and prophets are equated
+    with the wise.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Devotional address to the Shah
+  summary: The speaker addresses the Shah, declares servitude and obedience, and confesses
+    incompetence and infirm will.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Ensnarement and pursuit of the moon-like beloved
+  summary: The speaker seeks liberation from a snare, but thought of the moon-like
+    beloved causes relapse, and direct sight leads him to leave both worlds behind
+    to follow her.
+  figure_refs:
+  - fig:4
+  - fig:6
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Love alters the measure of space
+  summary: The lyric states that without the lover even a heavenly chamber is cramped,
+    while with the lover even an ant's eye is wider than Heaven.
+  figure_refs:
+  - fig:7
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: wisdom as prophetic source
+  taxonomy_refs:
+  - wisdom
+  basis: Reason is presented as the ancient fountain from which prophets draw, and
+    true prophets are identified with the wise.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage speaks poetically about reason and wisdom; it does not narrate
+    a mythic acquisition of wisdom.
+- id: motif:2
+  label: beloved as sovereign or divine object of devotion
+  taxonomy_refs:
+  - divine_beloved
+  basis: The speaker addresses a Shah in terms of servitude, obedience, and dust before
+    the throne, then follows a moon-like beloved after leaving both worlds behind.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The beloved is not explicitly named as divine in the passage; identification
+    with a divine beloved depends on Sufi context beyond the literal lines.
+- id: motif:3
+  label: mystical pursuit beyond both worlds
+  taxonomy_refs:
+  - mystical_quest
+  basis: The speaker seeks liberation from a snare and, upon looking at the moon-like
+    beloved, leaves both worlds behind to follow her.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage gives a lyric expression of pursuit rather than a full journey
+    narrative.
+- id: motif:4
+  label: love transforming cosmic scale
+  taxonomy_refs:
+  - divine_beloved
+  basis: The lover's absence makes even a chamber as broad as Heaven seem narrow,
+    while the lover's presence makes an ant's eye wider than Heaven.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The lover may be earthly or mystical; the passage itself does not specify.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 894-899
+  quote_or_summary: Reason rights the retrograde, completes the imperfect, unites
+    the knot, and is the ancient fountain from which prophets drew.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; short excerpt summarized.
+- id: ev:2
+  type: quote
+  locator: lines 900-901
+  quote_or_summary: Claims to other inspiration are false; there are no prophets except
+    the wise.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; short excerpt summarized.
+- id: ev:3
+  type: quote
+  locator: lines 905-909
+  quote_or_summary: The speaker addresses the Shah as slave of his desire and dust
+    of his throne, willing to do what he desires but sick with incompetence and infirm
+    will.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; short excerpt summarized.
+- id: ev:4
+  type: quote
+  locator: lines 910-915
+  quote_or_summary: The speaker tortures his soul seeking liberation from a snare;
+    thinking on the moon brings relapse, and looking makes him leave both worlds behind
+    to follow her.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; short excerpt summarized.
+- id: ev:5
+  type: quote
+  locator: lines 919-925
+  quote_or_summary: Without the lover a chamber like Heaven's horizon is narrower
+    than an ant's eye; with the lover, an ant's eye is wider than Heaven.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; short excerpt summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif labels involving divine or mystical
+    love are plausible within the supplied Sufi metadata but are not explicitly stated
+    in the passage, so they are marked with caution. No comparison claims were made
+    because the passage itself does not compare traditions or motif families.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the provided passage and metadata were used.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-jami-persian-mystics-davis-gutenberg__l894-l925
+  passage_sha256=2b3f73eca6cf00cdfbaf2163bd061e57adf5a2fce0cf4162ca8134f4ac7eb0d5

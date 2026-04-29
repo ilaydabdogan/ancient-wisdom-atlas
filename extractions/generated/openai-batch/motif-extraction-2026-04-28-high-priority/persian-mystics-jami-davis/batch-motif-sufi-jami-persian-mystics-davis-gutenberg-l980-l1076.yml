@@ -1,0 +1,655 @@
+---
+record_id: batch.motif.sufi-jami-persian-mystics-davis-gutenberg-l980-l1076
+source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+passage_locator:
+  label: MORTAL PARAMOUR / THE DIVINE UNION / THE MAGIC MIRROR / A LAMENT; lines 980-1076
+  start: '980'
+  end: '1076'
+  translation: 'The Persian Mystics: Jámí'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A magic mirror reveals a desired face and secluded lovers. A lament remembers
+    lost union with a beloved and longs for death, annihilation, or renewed eternal
+    intercourse. A didactic stanza counsels sowing for eternity rather than trusting
+    the world. The selections from the Lawá'ih and prayers ask for deliverance from
+    self, removal of veils, true vision of things, purification of the heart, poverty,
+    grace, and intimacy with God.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A mirror is brought at the command of an unnamed male figure.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The mirror is described as reflecting all the world and lifting a veil from
+    secrets, both good and evil.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The viewer looks into the mirror and sees the face of his Desire.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The mirror shows lovers in solitude, turned away from the world and looking
+    only at each other.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The lamenting speaker recalls past togetherness with a beloved as sufficient
+    and separate from the world.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The speaker says the beloved is dead or lost and wishes the pyre's flame had
+    left the beloved living and the speaker dead.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The speaker longs to be with the beloved through annihilation, loss, or renewed
+    eternal intercourse.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: A didactic address to a son says the kingdom of the world is not eternal and
+    advises using intellect as counsellor.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: A prayer asks God to deliver the speaker from worldly vanities, remove the
+    veil of ignorance, and show things as they really are.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: The prayer asks that the phenomenal world become a mirror of divine beauty
+    rather than a separating veil.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:11
+  text: A prayer says alienation from divine beauty proceeds from the self and asks
+    for deliverance from self and intimate knowledge of God.
+  category: speech
+  evidence_refs:
+  - ev:9
+- id: obs:12
+  text: A prayer asks for a pure heart, freedom from error, and guidance on God's
+    road away from self.
+  category: speech
+  evidence_refs:
+  - ev:10
+- id: obs:13
+  text: A prayer asks for the speaker's heart to be turned away from other objects
+    and engrossed with love for God.
+  category: speech
+  evidence_refs:
+  - ev:11
+- id: obs:14
+  text: A prayer asks for the lust for this world and the next to be effaced and for
+    the crown of poverty and grace.
+  category: speech
+  evidence_refs:
+  - ev:12
+figures:
+- id: fig:1
+  name_or_label: unnamed male viewer
+  description: An unnamed figure who commands that a mirror be brought and looks into
+    it.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Desire
+  description: The face seen by the viewer in the mirror, called his Desire.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: lovers in solitude
+  description: A pair shown by the mirror, turned from the world and looking only
+    in each other's eyes.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: lamenting speaker
+  description: A speaker who remembers union with a lost beloved and longs to be with
+    that beloved again.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: lost beloved
+  description: The beloved whose presence once soothed the speaker and whose loss
+    causes grief.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:6
+  name_or_label: son
+  description: The addressee of the didactic counsel about the world, intellect, and
+    eternity.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+- id: fig:7
+  name_or_label: prayer speaker
+  description: A first-person speaker in the prayers asking for deliverance from self,
+    purification, and nearness to God.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:7
+  - ev:9
+  - ev:10
+  - ev:11
+  - ev:12
+- id: fig:8
+  name_or_label: God / Thee
+  description: The divine addressee of prayers for true vision, deliverance, purity,
+    grace, and intimate knowledge.
+  role_refs:
+  - role:7
+  - role:2
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:10
+  - ev:11
+  - ev:12
+roles:
+- id: role:1
+  label: mirror user
+  assigned_to:
+  - fig:1
+  basis: The figure commands that the mirror be brought and looks into it.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: beloved or desired presence
+  assigned_to:
+  - fig:2
+  - fig:5
+  - fig:8
+  basis: Desire is seen in the mirror; the lost beloved is addressed as the object
+    of longing; God is addressed as the one whose beauty and intimacy are sought.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:8
+  - ev:9
+- id: role:3
+  label: secluded lover pair
+  assigned_to:
+  - fig:3
+  basis: The lovers are shown in solitude, turned away from the world, and mutually
+    absorbed.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: supplicant or lamenter
+  assigned_to:
+  - fig:4
+  - fig:7
+  basis: One speaker laments loss; another prays for deliverance, purification, and
+    guidance.
+  evidence_refs:
+  - ev:3
+  - ev:7
+  - ev:10
+- id: role:5
+  label: self-renouncing seeker
+  assigned_to:
+  - fig:4
+  - fig:7
+  basis: The lamenting speaker seeks annihilation or renewal with the beloved; the
+    prayer speaker asks to be delivered from self and led away from self.
+  evidence_refs:
+  - ev:5
+  - ev:9
+  - ev:10
+- id: role:6
+  label: recipient of wisdom counsel
+  assigned_to:
+  - fig:6
+  basis: The passage addresses 'My son' with advice concerning the non-eternal world
+    and the harvest of eternity.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: divine revealer and purifier
+  assigned_to:
+  - fig:8
+  basis: God is asked to remove veils, show things as they really are, purify the
+    heart, and grant grace.
+  evidence_refs:
+  - ev:7
+  - ev:10
+  - ev:12
+symbols:
+- id: sym:1
+  label: magic mirror
+  literal_form: A mirror that reflects all the world and reveals hidden good and evil.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: veil
+  literal_form: A veil lifted from secrets; the veil of ignorance; a veil that can
+    separate from God.
+  associated_figures:
+  - fig:1
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:7
+  - ev:8
+- id: sym:3
+  label: face
+  literal_form: The face of Desire seen in the mirror and divine beauty sought in
+    prayer.
+  associated_figures:
+  - fig:2
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:8
+- id: sym:4
+  label: secluded mutual gaze
+  literal_form: Lovers looking only into each other's eyes, apart from the world.
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:5
+  label: pyre and flame
+  literal_form: A pyre and flame associated with the speaker's wish that death had
+    fallen on the speaker rather than the beloved.
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: seed-field and harvest of eternity
+  literal_form: Today is described as tomorrow's seed-field, to be sown with the harvest
+    of eternity.
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: phenomenal world as mirror
+  literal_form: The phenomenal world is asked to become a mirror reflecting manifestations
+    of divine beauty.
+  associated_figures:
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:8
+  label: road away from self
+  literal_form: A road leading away from self and toward God.
+  associated_figures:
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+- id: sym:9
+  label: pure heart
+  literal_form: The speaker's heart, requested to be made pure and turned away from
+    other objects toward love of God.
+  associated_figures:
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+  - ev:11
+- id: sym:10
+  label: crown of poverty and grace
+  literal_form: A crown of poverty and grace requested by the speaker.
+  associated_figures:
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:12
+scenes:
+- id: scene:1
+  label: mirror revelation
+  summary: An unnamed figure has a world-reflecting mirror brought, looks into it,
+    and sees his Desire and lovers secluded from the world.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: lament for lost union
+  summary: A speaker remembers life with a beloved as complete mutual joy away from
+    the world, mourns the beloved's loss, and wishes for death, annihilation, or renewed
+    union.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: counsel to sow for eternity
+  summary: A didactic voice tells a son that worldly power is not eternal and counsels
+    reliance on intellect and preparation for eternity.
+  figure_refs:
+  - fig:6
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:6
+- id: scene:4
+  label: prayer for true vision and deliverance from self
+  summary: A prayer asks God to remove ignorance, reveal things as they are, make
+    the world a mirror of divine beauty, and grant intimate knowledge by delivering
+    the speaker from self.
+  figure_refs:
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:2
+  - sym:7
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+- id: scene:5
+  label: prayer for purity and God-directed love
+  summary: A prayer asks for a pure heart, freedom from error, guidance away from
+    self, aversion to worldly company, love toward God, poverty, grace, and participation
+    in divine mysteries.
+  figure_refs:
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:8
+  - sym:9
+  - sym:10
+  evidence_refs:
+  - ev:10
+  - ev:11
+  - ev:12
+candidate_motifs:
+- id: motif:1
+  label: world-revealing magic mirror
+  taxonomy_refs: []
+  basis: The mirror reflects all the world, removes a veil from secrets, and reveals
+    the desired face and secluded lovers.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage does not identify the mirror's origin or broader narrative
+    function beyond this scene.
+- id: motif:2
+  label: beloved secluded from the world
+  taxonomy_refs:
+  - divine_beloved
+  basis: The mirror shows lovers turned from the world, and the lament describes two
+    lovers for whom the world is nothing.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The early love scene may be mortal or allegorical; the passage itself
+    shifts toward divine address later but does not explicitly equate every beloved
+    with God.
+- id: motif:3
+  label: annihilation or renewal in union with the beloved
+  taxonomy_refs:
+  - annihilation_union
+  basis: The lamenting speaker asks to be with the beloved through annihilation, loss,
+    or renewed eternal intercourse, and later prayers ask to be led away from self
+    toward God.
+  evidence_refs:
+  - ev:5
+  - ev:10
+  confidence: high
+  cautions: The lament's beloved is not explicitly named as divine in the quoted portion.
+- id: motif:4
+  label: veil removal and true sight
+  taxonomy_refs:
+  - wisdom
+  basis: The passage describes a mirror lifting a veil from secrets and prayers asking
+    God to remove the veil of ignorance and show things as they really are.
+  evidence_refs:
+  - ev:1
+  - ev:7
+  confidence: high
+  cautions: The available taxonomy does not include a specific veil motif; 'wisdom'
+    is a broad classification.
+- id: motif:5
+  label: world as mirror of divine beauty rather than barrier
+  taxonomy_refs:
+  - divine_beloved
+  - wisdom
+  basis: The prayer asks that the phenomenal world reflect divine beauty and not separate
+    the speaker from God.
+  evidence_refs:
+  - ev:8
+  confidence: high
+  cautions: This is a symbolic-theological motif rather than a narrative episode.
+- id: motif:6
+  label: self-renouncing mystical quest toward God
+  taxonomy_refs:
+  - mystical_quest
+  - annihilation_union
+  basis: The prayers ask for deliverance from self, a road away from self, purity,
+    love of God, poverty, grace, and participation in mysteries.
+  evidence_refs:
+  - ev:9
+  - ev:10
+  - ev:11
+  - ev:12
+  confidence: high
+  cautions: The passage presents devotional requests rather than a completed journey
+    narrative.
+- id: motif:7
+  label: sowing for eternity instead of trusting the world
+  taxonomy_refs:
+  - wisdom
+  basis: The counsel says the world is not eternal and urges sowing today for the
+    harvest of eternity.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The seed-field and harvest are metaphorical; no agricultural narrative
+    occurs.
+comparison_claims:
+- id: claim:1
+  claim: 'The world-reflecting mirror in the narrative scene and the prayer''s request
+    that the phenomenal world become a mirror of divine beauty share a revealer function:
+    both oppose mirror-like disclosure to veiling or separation.'
+  claim_level: same_function
+  target: mirror as revealer rather than veil within the passage
+  evidence_refs:
+  - ev:1
+  - ev:8
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The first mirror is a concrete narrative object, while the later mirror
+    is a devotional metaphor; the passage does not state that they are the same object
+    or symbol.
+- id: claim:2
+  claim: The lament's wish for annihilation with the beloved is functionally close
+    to the later prayers for deliverance from self and movement toward God.
+  claim_level: same_function
+  target: self-loss as path to union within the passage
+  evidence_refs:
+  - ev:5
+  - ev:9
+  - ev:10
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The lamented beloved is not explicitly identified as God in the quoted
+    passage, so the comparison remains functional rather than a firm identity claim.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 980-987
+  quote_or_summary: A mirror is brought, described as 'Reflecting all the world' and
+    lifting a veil from secrets, good and evil.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:2
+  type: summary
+  locator: lines 988-997
+  quote_or_summary: Looking into the mirror, the viewer sees the face of his Desire
+    and lovers in solitude, turned from the world and absorbed in each other's eyes.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 1000-1014
+  quote_or_summary: The lamenting speaker recalls the beloved's soothing presence
+    and their past mutual joy, together and apart from the world.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 1015-1018
+  quote_or_summary: The speaker wishes that when the pyre was lit, 'The flame had
+    left thee living and me dead.'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:5
+  type: quote
+  locator: lines 1019-1022
+  quote_or_summary: The speaker longs to be with the beloved, 'annihilation--lost,
+    / Or in eternal intercourse renew'd.'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:6
+  type: summary
+  locator: lines 1024-1031
+  quote_or_summary: A son is told that the kingdom of the world is not eternal, to
+    make intellect his counsellor, and to sow today for the harvest of eternity.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 1040-1047
+  quote_or_summary: A prayer asks God for deliverance from worldly vanities, removal
+    of the veil of ignorance, and sight of things as they really are.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: quote
+  locator: lines 1048-1053
+  quote_or_summary: The prayer asks that the phenomenal world be 'the mirror to reflect
+    the manifestations of thy beauty' rather than a veil separating the speaker from
+    God.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:9
+  type: summary
+  locator: lines 1054-1059
+  quote_or_summary: The prayer says alienation from divine beauty proceeds from the
+    self and asks for deliverance from self and intimate knowledge of God.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: lines 1061-1065
+  quote_or_summary: A prayer asks for a pure heart, freedom from error, tears and
+    sighs, and guidance on God's road away from self so the speaker may approach God.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; summarized.
+- id: ev:11
+  type: summary
+  locator: lines 1066-1070
+  quote_or_summary: A prayer asks for enmity between the world and the speaker, aversion
+    to worldly company, and a heart engrossed with love for God.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; summarized.
+- id: ev:12
+  type: summary
+  locator: lines 1071-1076
+  quote_or_summary: A prayer asks for release from error, truth-seeing, effacement
+    of lust for this world and the next, the crown of poverty and grace, and participation
+    in divine mysteries.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is supported by the supplied passage. Motif labels involving
+    divine beloved and annihilation are strong for the prayer sections but more cautious
+    for the lament, where the beloved is not explicitly identified as divine in the
+    excerpt.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No external texts or taxonomy IDs beyond the supplied available taxonomy references were used.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-jami-persian-mystics-davis-gutenberg__l980-l1076
+  passage_sha256=86d065432e0421fd3c9885aa7548a9efc140adfbbc03e1d8fe4b80d9ae384a47

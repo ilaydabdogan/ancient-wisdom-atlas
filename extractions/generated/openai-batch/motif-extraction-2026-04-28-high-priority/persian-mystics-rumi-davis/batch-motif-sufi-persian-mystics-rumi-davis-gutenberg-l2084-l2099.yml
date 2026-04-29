@@ -1,0 +1,359 @@
+---
+record_id: batch.motif.sufi-persian-mystics-rumi-davis-gutenberg-l2084-l2099
+source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+passage_locator:
+  label: WHITE NIGHTS / SAINT AND HYPOCRITE / HARSHNESS AND ADORATION / THE DIVINE
+    ABSORPTION; lines 2084-2099
+  start: '2084'
+  end: '2099'
+  translation: 'The Persian Mystics: Jalálu''d-dín Rúmí'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: Where are "We" and "I"? There where our Beloved is!
+  summary: A speaker addresses a divine Thou as the glory of the just, questions distinctions
+    such as throne and doorway or We and I, describes the divine as pervading human
+    spirits, says male and female union and dissolution both abide in the divine,
+    and concludes that We and Ye become One Soul and are lost and absorbed in the
+    Beloved.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The speaker addresses a divine Thou and asks to be given justice.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker calls the addressed Thou the throne and calls the speaker the
+    lintel of the divine door, then questions where throne and doorway are.
+  category: object
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: The passage questions the location or status of “We” and “I” and answers that
+    they are where the Beloved is.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The addressed Thou is described as exempt from “Us” and “Me” and as pervading
+    the spirits of all men and women.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: When man and woman become one, the addressed Thou is identified with that
+    One; when their union is dissolved, the Thou remains.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The divine Thou is said to have made “Us” and “Me” in order to play chess
+    with them by Thyself.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The passage says that when Thou becomes one entity with “Us” and “You,” true
+    affection will be shown for the lovers.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The passage concludes that when “We” and “Ye” become One Soul, they will be
+    lost and absorbed in the Beloved.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Divine Thou / Beloved
+  description: The addressed divine figure is called the glory of the just, exempt
+    from “Us” and “Me,” pervading human spirits, and the Beloved in whom distinctions
+    are absorbed.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:7
+- id: fig:2
+  name_or_label: Speaker / I
+  description: The speaker addresses the divine Thou and identifies himself with the
+    lintel of the divine door.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Men and women / lovers
+  description: Human men and women are described as becoming one and as lovers for
+    whom affection is shown when distinctions become one entity with Thou.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:6
+roles:
+- id: role:1
+  label: addressed divine presence
+  assigned_to:
+  - fig:1
+  basis: The passage directly addresses “O Thou” and attributes divine, all-pervading
+    qualities to this figure.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: Beloved absorbing distinctions
+  assigned_to:
+  - fig:1
+  basis: The passage locates “We” and “I” where the Beloved is and ends with all becoming
+    One Soul, lost and absorbed in the Beloved.
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: role:3
+  label: devotional speaker
+  assigned_to:
+  - fig:2
+  basis: The speaker asks for justice and contrasts himself as the lintel with the
+    divine throne or door.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: human lovers joined and dissolved
+  assigned_to:
+  - fig:3
+  basis: Man and woman are described as becoming one, their union dissolving, and
+    lovers receiving true affection when made one with Thou.
+  evidence_refs:
+  - ev:4
+  - ev:6
+symbols:
+- id: sym:1
+  label: throne and door-lintel image
+  literal_form: throne; lintel of Thy door; door-way
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: pronoun divisions
+  literal_form: "“We,” “I,” “Us,” “Me,” “You,” “Ye”"
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+- id: sym:3
+  label: chess game
+  literal_form: play chess with them by Thyself
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: One Soul
+  literal_form: One Soul
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:5
+  label: Beloved
+  literal_form: Beloved
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:7
+scenes:
+- id: scene:1
+  label: Address to the divine and questioning of distinctions
+  summary: The speaker addresses the divine Thou, uses throne and door-lintel imagery,
+    and questions distinctions such as throne and doorway, We and I.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Human union and divine abiding
+  summary: The passage describes the divine as pervading human spirits, being present
+    when man and woman become one, and abiding when their union is dissolved.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Divine play with pronoun divisions
+  summary: The divine is said to have created Us and Me to play chess with them, and
+    to become one entity with Us and You.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Absorption in the Beloved
+  summary: The passage culminates in We and Ye becoming One Soul and being lost and
+    absorbed in the Beloved.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: annihilation and union in the Beloved
+  taxonomy_refs:
+  - annihilation_union
+  basis: The passage repeatedly dissolves distinctions between We, I, Us, You, and
+    Ye, culminating in One Soul lost and absorbed in the Beloved.
+  evidence_refs:
+  - ev:2
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The passage is lyric and conceptual rather than a narrative episode.
+- id: motif:2
+  label: divine beloved as center of identity
+  taxonomy_refs:
+  - divine_beloved
+  basis: The text names the Beloved as the place where We and I are and as the final
+    recipient of absorption.
+  evidence_refs:
+  - ev:2
+  - ev:7
+  confidence: high
+  cautions: The Beloved is addressed through devotional language; no separate narrative
+    character is introduced.
+- id: motif:3
+  label: duality dissolved into oneness
+  taxonomy_refs:
+  - duality
+  basis: Contrasts such as We/I, Us/Me, man/woman, union/dissolution, and We/Ye are
+    presented as becoming one or being absorbed.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:7
+  confidence: medium
+  cautions: The available taxonomy label is broad; the passage emphasizes mystical
+    unity more specifically than duality itself.
+- id: motif:4
+  label: mystical quest for union
+  taxonomy_refs:
+  - mystical_quest
+  basis: The speaker’s devotional address moves toward a state where all distinctions
+    become One Soul and are absorbed in the Beloved.
+  evidence_refs:
+  - ev:1
+  - ev:7
+  confidence: medium
+  cautions: The passage does not narrate a quest journey; the motif is inferred from
+    the devotional movement toward union.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 2086-2087
+  quote_or_summary: "“Do me justice, O Thou who art the glory of the just, / Who art
+    the throne, and I the lintel of Thy door!”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: 2088-2089
+  quote_or_summary: "“where are throne and door-way? / Where are ‘We’ and ‘I’? There
+    where our Beloved is!”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: 2090-2091
+  quote_or_summary: "“O Thou, who art exempt from ‘Us’ and ‘Me,’ / Who pervadest the
+    spirits of all men and women;”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: quote
+  locator: 2092-2093
+  quote_or_summary: "“When man and woman become one, Thou art that One! / When their
+    union is dissolved, lo! Thou abidest!”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:5
+  type: quote
+  locator: 2094-2095
+  quote_or_summary: "“Thou hast made these ‘Us’ and ‘Me’ for this purpose, / To wit,
+    to play chess with them by Thyself.”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:6
+  type: quote
+  locator: 2096-2097
+  quote_or_summary: "“When Thou shalt become one entity with ‘Us’ and ‘You,’ / Then
+    wilt Thou show true affection for these lovers.”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:7
+  type: quote
+  locator: 2098-2099
+  quote_or_summary: "“When these ‘We’ and ‘Ye’ shall all become One Soul, / Then they
+    will be lost and absorbed in the ‘Beloved.’”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif assignment is confident for
+    annihilation-union and divine beloved, but broader taxonomy matches are interpretive.
+    No comparison claims were added because the passage itself does not explicitly
+    compare traditions or texts.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata; taxonomy references limited to the provided lists.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-persian-mystics-rumi-davis-gutenberg__l2084-l2099
+  passage_sha256=4cbdec45def8f5bc7e62c1ad4c1170b3590e8ac4b7efae4599e6c418fb152f60

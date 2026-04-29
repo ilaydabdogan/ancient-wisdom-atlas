@@ -1,0 +1,419 @@
+---
+record_id: batch.motif.sufi-omar-khayyam-sufistic-quatrains-gutenberg-l4598-l4633
+source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+passage_locator:
+  label: XXVIII. / XLIV. / LXXVII. / LXXXVI.; lines 4598-4633
+  start: '4598'
+  end: '4633'
+  translation: The Sufistic Quatrains of Omar Khayyam
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage presents three numbered quatrains with editorial notes. One
+    quatrain says philosophers and doctors may preach, but each is only a link in
+    an eternal chain that cannot be escaped or broken. A note says no authority or
+    inspiration is found for it. Another quatrain refuses, from fear of a wrathful
+    Face, to call injustice grace, and says tavern companions would reject such cowardice.
+    A note compares it to C. 8, which describes social contempt for a man who calls
+    the malicious good or for a drunkard reluctant in generosity. A final quatrain
+    describes a barely heard whisper as ashes of an almost extinguished tongue, kindled
+    by the speaker’s ear into living word; a note says it was evolved from O. 103.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage says philosopher and doctor may preach as they will or will not.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Each preacher is described as one link in an eternal chain that none can slip,
+    break, or overreach.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The editor states that no authority or inspiration is found for the LXXVII
+    quatrain.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The speaker swears not to call injustice grace out of terror of a wrathful
+    Face.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The LXXXVI quatrain says the tavern’s good fellows would kick such a coward
+    from the place.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The editorial note says the inspiration for LXXXVI must have been C. 8.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The C. 8 passage says a man spurned by fellow men, yet counted good for fear
+    of his malice, is no man.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The C. 8 passage says fellow drunkards regard a drunkard reluctant in generosity
+    as a mean fellow.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The XC quatrain describes a scarce-heard whisper gathering among them.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The whisper is compared to stirred ashes of an almost extinguished tongue,
+    which the speaker’s ear kindles into living word.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: The editor states that XC was a fourth quatrain evolved out of O. 103 and
+    refers to quatrains 82, 83, and 87.
+  category: relationship
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Philosopher and Doctor
+  description: Two learned figures named as preachers in the LXXVII quatrain.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Speaker of LXXXVI
+  description: The first-person speaker who swears not to call injustice grace.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Wrathful Face
+  description: A feared face named as the reason someone might call injustice grace.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Good Fellows of the Tavern
+  description: Tavern companions who would expel a coward from the place.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Fellow men and fellow drunkards in C. 8
+  description: Groups who spurn or judge the man and drunkard described in the cited
+    C. 8 passage.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Speaker of XC
+  description: The first-person possessor of the ear that kindles the whisper into
+    living word.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: Editor-commentator
+  description: The prose voice that comments on sources, inspiration, and derivation
+    of the quatrains.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+roles:
+- id: role:1
+  label: preachers
+  assigned_to:
+  - fig:1
+  basis: The quatrain says philosopher and doctor preach.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: links in an eternal chain
+  assigned_to:
+  - fig:1
+  basis: The quatrain says each is one link in an eternal chain.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: ethical refuser
+  assigned_to:
+  - fig:2
+  basis: The speaker swears not to call injustice grace.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: feared wrathful presence
+  assigned_to:
+  - fig:3
+  basis: The speaker refers to terror of his wrathful Face.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: peer judges
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: Tavern fellows would kick out a coward, and fellow men or drunkards judge
+    the figures in C. 8.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:6
+  label: hearer who revivifies speech
+  assigned_to:
+  - fig:6
+  basis: The speaker’s ear kindles the scarcely heard whisper into living word.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: source commentator
+  assigned_to:
+  - fig:7
+  basis: The prose comments identify or deny sources and inspirations for the quatrains.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+symbols:
+- id: sym:1
+  label: eternal chain
+  literal_form: An eternal chain whose links cannot be slipped, broken, or overreached.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: wrathful Face
+  literal_form: A feared wrathful Face.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: tavern fellowship
+  literal_form: The Tavern and its Good Fellows who would expel the coward.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: ashes and kindling of speech
+  literal_form: Stirred ashes, an almost extinguished tongue, and an ear kindling
+    them into living word.
+  associated_figures:
+  - fig:6
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: living word
+  literal_form: A barely heard whisper transformed into living Word.
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Preachers as links in an eternal chain
+  summary: Philosopher and doctor preach, but the quatrain describes each as a link
+    in an eternal chain that cannot be escaped or broken.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Refusal to rename injustice under fear
+  summary: A speaker refuses to call injustice grace because of fear of a wrathful
+    Face and invokes tavern companions who would expel such cowardice.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: C. 8 comparison of peer contempt
+  summary: The cited C. 8 passage describes peer rejection of someone called good
+    only from fear of his malice, and of a drunkard reluctant in generosity.
+  figure_refs:
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Whisper kindled into living word
+  summary: A scarce-heard whisper gathers and is likened to ashes of a nearly extinguished
+    tongue, kindled by the speaker’s ear into living word.
+  figure_refs:
+  - fig:6
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: inescapable chain of existence
+  taxonomy_refs: []
+  basis: The quatrain frames learned preachers as links in an eternal chain that none
+    can evade or break.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage gives a metaphor of constraint but does not elaborate a full
+    mythic cosmology.
+- id: motif:2
+  label: ethical refusal before feared judgment
+  taxonomy_refs:
+  - divine_judgment
+  - wisdom
+  basis: The speaker refuses to call injustice grace despite terror of a wrathful
+    Face.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The identity of the wrathful Face is not explicitly defined in the passage;
+    divine judgment is an available taxonomy fit but remains interpretive.
+- id: motif:3
+  label: community expels cowardice or meanness
+  taxonomy_refs:
+  - wisdom
+  basis: The tavern fellows would expel the coward, and the cited C. 8 passage presents
+    fellow men or drunkards as judges of malice and meanness.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: This is an ethical-social pattern in poetic and editorial material rather
+    than a developed mythic narrative.
+- id: motif:4
+  label: dead or extinguished speech revived
+  taxonomy_refs:
+  - death_rebirth
+  basis: The whisper is described as ashes of an almost extinguished tongue kindled
+    into living word.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The death-rebirth pattern is metaphorical and concerns speech or language,
+    not a literal being.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself says LXXXVI was probably inspired by C. 8, and both passages
+    use peer judgment to condemn moral cowardice or meanness.
+  claim_level: same_function
+  target: C. 8, cited in the editorial note to LXXXVI
+  evidence_refs:
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The source claim is editorial and phrased as the commentator’s opinion;
+    the cited C. 8 passage is similar in social-ethical function but not identical
+    in wording or imagery.
+- id: claim:2
+  claim: The editorial note says XC was evolved out of O. 103 and relates it to quatrains
+    82, 83, and 87.
+  claim_level: linguistic_similarity
+  target: O. 103 and quatrains Nos. 82, 83, and 87
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The passage does not provide O. 103 or the related quatrains, so the
+    nature of the similarity cannot be independently described from the supplied text.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4598-4603, LXXVII
+  quote_or_summary: Philosopher and Doctor may preach as they will; each is one link
+    in an eternal chain that none can slip, break, or overreach.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: line 4605
+  quote_or_summary: "“For this quatrain I can find neither authority nor inspiration.”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: summary
+  locator: lines 4607-4612, LXXXVI
+  quote_or_summary: The speaker swears not to call injustice grace for terror of a
+    wrathful Face; tavern fellows would kick such a coward from the place.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 4614-4623, note and C. 8 citation
+  quote_or_summary: The editor says LXXXVI must have been inspired by C. 8, which
+    says a man is not one whom fellows spurn yet call good from fear, and that fellow
+    drunkards call a reluctant giver mean.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 4625-4630, XC
+  quote_or_summary: A scarce-heard whisper gathers; it is like stirred ashes of an
+    almost extinguished tongue, which the speaker’s ear kindles into living word.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: line 4632
+  quote_or_summary: The editor says XC was a fourth quatrain evolved out of O. 103
+    and refers to quatrains 82, 83, and 87.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward. Motif assignments are cautious because
+    the passage is poetic and editorial rather than a continuous myth narrative; taxonomy
+    matches are partly metaphorical.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage text and metadata. Empty taxonomy_refs are used where no supplied taxonomy item was directly supported.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-omar-khayyam-sufistic-quatrains-gutenberg__l4598-l4633
+  passage_sha256=774004059d20e1ea2b2376104d0faa1de3bc6f6ba86687b03767979ba98abe82

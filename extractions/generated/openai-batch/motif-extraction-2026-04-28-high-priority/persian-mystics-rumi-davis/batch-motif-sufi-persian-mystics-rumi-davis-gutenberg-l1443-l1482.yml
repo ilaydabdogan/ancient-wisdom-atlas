@@ -1,0 +1,343 @@
+---
+record_id: batch.motif.sufi-persian-mystics-rumi-davis-gutenberg-l1443-l1482
+source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+passage_locator:
+  label: THE RETURN OF THE BELOVED / THE CALL OF THE BELOVED / THY ROSE / THE BELOVED
+    ALL IN ALL; lines 1443-1482
+  start: '1443'
+  end: '1482'
+  translation: 'The Persian Mystics: Jalálu''d-dín Rúmí'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: '"I, All in All becoming, now clear see God in All"'
+  summary: The passage presents a speaker whose soul cries out in love to Heaven and
+    God, sees divine beauty in stars, sun, moon, meadow, and creation, and describes
+    union in which two forms share one soul and individual separateness disappears
+    in ecstatic mingling.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The speaker says the soul sends a nightly cry of love up to Heaven.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: God's starry beauty, dawn, sun, moon, meadows, and creation's wonders excite
+    the cry of love.
+  category: setting
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: The speaker says that, becoming All in All, the speaker clearly sees God in
+    All.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The speaker describes a moment when “thou and I” are seated together in a
+    palace.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The two are described as having two forms and two figures but one soul.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The grove, birds, and garden are associated with immortality in the shared
+    arrival of “thou and I.”
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The stars of heaven are said to come gaze upon the pair, and the pair will
+    show them the moon itself.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The pair are described as no longer individuals and as mingled in ecstasy.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The pair are described as sitting in the same nook while at the same moment
+    being in both Irāq and Khorasan.
+  category: setting
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: speaker / soul
+  description: The first-person speaker whose soul sends up the cry of love and who
+    sees God in all.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: God
+  description: Named as the source of starry beauty, sun-beams, and the divine presence
+    seen in all.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: thou
+  description: The addressed companion in the “Thou and I” poem, seated with the speaker
+    and sharing one soul.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: stars of heaven
+  description: Celestial figures that come to gaze upon the pair.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: bright-plumed birds of heaven
+  description: Heavenly birds said to envy the pair's laughter.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: lover-speaker
+  assigned_to:
+  - fig:1
+  basis: The speaker repeatedly voices the cry of love and yearning from union.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: divine beloved / divine presence
+  assigned_to:
+  - fig:2
+  basis: God's beauty draws the cry of love, and the speaker sees God in all.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: beloved companion
+  assigned_to:
+  - fig:3
+  basis: The addressee is paired with the speaker as “thou and I,” sharing palace,
+    garden, one soul, and ecstatic mingling.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: celestial or heavenly witness
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: Stars gaze upon the pair, and birds of heaven react to them with envy.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: cry of Love
+  literal_form: Repeated upward cry of love sent to Heaven and excited by divine beauty
+    and creation.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: heavenly lights
+  literal_form: Stars, sun, moon, and dawn appearing as part of the love imagery.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:3
+  label: palace and garden
+  literal_form: Palace, grove, birds, and garden where the pair are seated or arrive
+    together.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: one soul in two forms
+  literal_form: The stated image of two forms and two figures with one soul.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: simultaneous places
+  literal_form: The pair are in the same nook and at the same moment in both Irāq
+    and Khorasan.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Creation awakens the cry of love
+  summary: The speaker's soul cries to Heaven at night, and divine beauty in stars,
+    daylight, sun, moon, meadows, and creation awakens the same cry.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Seeing God in all from union
+  summary: The speaker describes becoming All in All, seeing God in all, and sending
+    up a cry of love from union and yearning.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Thou and I in palace and garden
+  summary: The speaker and the addressed “thou” sit in a palace, are two forms with
+    one soul, and enter a garden where grove and birds bestow immortality.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Ecstatic mingling beyond individual and place
+  summary: The pair are no longer individuals, mingle in ecstasy, draw the gaze or
+    envy of heavenly beings, and are simultaneously in the same nook, Irāq, and Khorasan.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Divine beloved draws the lover's cry
+  taxonomy_refs:
+  - divine_beloved
+  basis: God's starry beauty draws the cry of love, and the speaker repeatedly responds
+    to divine presence through love.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage names God in the first poem; the “thou” of the second poem
+    is not explicitly identified as God within the excerpt.
+- id: motif:2
+  label: Annihilation or union of lover and beloved
+  taxonomy_refs:
+  - annihilation_union
+  basis: The speaker becomes All in All, sees God in all, and later describes two
+    figures with one soul who are no longer individuals but mingled in ecstasy.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage gives lyric images of union rather than a sequential doctrinal
+    exposition.
+- id: motif:3
+  label: Mystical love expressed through cosmic and natural signs
+  taxonomy_refs:
+  - mystical_quest
+  basis: Stars, sun, moon, dawn, meadows, creation, palace, garden, and heavenly birds
+    all participate in or respond to the speaker's love and union.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage contains mystical imagery, but it does not narrate a quest
+    in a strict journey sequence.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 1443-1448
+  quote_or_summary: "“My Soul sends up to Heaven each night the cry of Love”; God's
+    starry beauty, sun, moon, dawn, and daylight excite that cry."
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source text; short quotation used for extraction evidence.
+- id: ev:2
+  type: quote
+  locator: lines 1449-1454
+  quote_or_summary: Meadows and creation's wonders excite the cry of love; “I, All
+    in All becoming, now clear see God in All.”
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source text; short quotation used for extraction evidence.
+- id: ev:3
+  type: summary
+  locator: lines 1456-1464
+  quote_or_summary: In “THOU AND I,” the speaker and addressee are seated in a palace,
+    described as two forms with one soul, enter a garden, and are gazed upon by the
+    stars of heaven.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source text; summarized for extraction evidence.
+- id: ev:4
+  type: summary
+  locator: lines 1465-1472
+  quote_or_summary: The pair are individuals no more, mingled in ecstasy; birds of
+    heaven envy them; they sit in the same nook while being in both Irāq and Khorasan.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source text; summarized for extraction evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal imagery and named divine language are clear. Identification of the
+    addressed “thou” with the divine beloved is plausible in context but not explicit
+    within the second poem alone. No passage-internal comparative claim is made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used. Available taxonomy references were applied only where directly supported by the passage.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-persian-mystics-rumi-davis-gutenberg__l1443-l1482
+  passage_sha256=a7fa45a6c2c0eb83d1e059cf13136b1ec2be91f2087397cea40ca4824baf207f

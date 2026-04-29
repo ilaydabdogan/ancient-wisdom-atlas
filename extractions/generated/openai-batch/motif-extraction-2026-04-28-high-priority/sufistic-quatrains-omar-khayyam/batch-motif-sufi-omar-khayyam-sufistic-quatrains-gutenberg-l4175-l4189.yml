@@ -1,0 +1,243 @@
+---
+record_id: batch.motif.sufi-omar-khayyam-sufistic-quatrains-gutenberg-l4175-l4189
+source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+passage_locator:
+  label: LXXXVII. / LXXXVIII. / LXXXIX. / XCII.; lines 4175-4189
+  start: '4175'
+  end: '4189'
+  translation: The Sufistic Quatrains of Omar Khayyam
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The speaker says that after death, buried ashes or the body beneath the
+    earth will emit such a wine aroma that passersby, including a true-believer or
+    drinker, will become overtaken or drunk by it.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The speaker imagines being buried, with ashes or body beneath the earth.
+  category: setting
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:2
+  text: Wine or vintage is described as producing an aroma that rises from the burial
+    place.
+  category: object
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: A passerby is affected unexpectedly by the wine aroma from the buried speaker.
+  category: action
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:4
+  text: The prose translation says a drinker passing above the speaker's body becomes
+    drunk and degraded from the aroma of the speaker's potations.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The note states that the quatrain is translated from C. 16 and lists reference
+    sigla.
+  category: other
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: speaker
+  description: First-person voice who says their buried ashes or body beneath the
+    earth will emit wine aroma after death.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: true-believer passerby
+  description: A true-believer passing by who is overtaken unaware by the effect from
+    the buried speaker's vintage.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: drinker passerby
+  description: A drinker who passes above the speaker's body and becomes drunk from
+    the aroma.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: posthumous source of intoxication
+  assigned_to:
+  - fig:1
+  basis: The speaker's buried remains are said to give rise to wine aroma that affects
+    passersby.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: passerby affected by aroma
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The passage describes a passerby being overtaken or becoming drunk from the
+    aroma rising from the speaker's burial place.
+  evidence_refs:
+  - ev:1
+  - ev:2
+symbols:
+- id: sym:1
+  label: wine or vintage
+  literal_form: wine, vintage, potations, and their aroma
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: buried ashes or body
+  literal_form: buried ashes; body beneath the earth
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: earth over the dead
+  literal_form: earth above the speaker's buried body
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: snare of aroma
+  literal_form: a snare of vintage or aroma that overtakes the passerby
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+scenes:
+- id: scene:1
+  label: posthumous wine aroma from burial place
+  summary: The speaker imagines that after burial, the smell of wine from their remains
+    will rise from the earth and intoxicate or overtake a passerby.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: source attribution
+  summary: The editor states that the quatrain is translated from C. 16 and supplies
+    reference sigla.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: posthumous intoxication from buried remains
+  taxonomy_refs: []
+  basis: The passage centers on the speaker's dead and buried body or ashes continuing
+    to emit wine aroma that intoxicates or overtakes the living.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is a passage-specific motif label rather than a supplied taxonomy
+    reference.
+- id: motif:2
+  label: death remains exert influence on the living
+  taxonomy_refs:
+  - death_rebirth
+  basis: The passage portrays a dead speaker's buried remains as continuing to produce
+    an active effect on passersby.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: low
+  cautions: The passage does not describe literal rebirth or resurrection; the taxonomy
+    link is only a broad thematic fit.
+comparison_claims:
+- id: claim:1
+  claim: 'The verse rendering and the supplied prose translation from C. 16 express
+    the same core pattern: a dead speaker''s buried remains give off wine aroma that
+    intoxicates a passerby.'
+  claim_level: same_motif
+  target: C. 16 source quatrain as cited in the passage note
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The source siglum C. 16 is not expanded in the provided passage, and
+    only the English rendering and note are available here.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 4175-4180, quatrain XCII
+  quote_or_summary: '"my buried Ashes" fling up a "snare / Of Vintage" so that a "True-believer
+    passing by" is "overtaken unaware."'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source metadata; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 4183-4186, prose translation from C. 16
+  quote_or_summary: The speaker says they will drink so much wine that, when beneath
+    the earth, wine aroma will rise from the earth and make a drinker passing above
+    the body become drunk and degraded.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:3
+  type: citation
+  locator: lines 4181 and 4188-4189
+  quote_or_summary: The passage states that the quatrain is translated from C. 16
+    and gives references including C. 16, L. 28, B. 26, S.P. 14, B. ii. 11, W. 17,
+    N. 14, and V. 27.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source metadata; citation evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward. Motif taxonomy assignment is cautious
+    because the supplied taxonomy does not include a direct wine-intoxication or grave-aroma
+    category.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the provided passage and metadata were used; no external identifications of source sigla were added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-omar-khayyam-sufistic-quatrains-gutenberg__l4175-l4189
+  passage_sha256=4003f328ed8fd99fc9613244c4b669322ff4888d46c588cb8aae7336637739c0

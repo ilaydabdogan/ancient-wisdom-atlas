@@ -1,0 +1,345 @@
+---
+record_id: batch.motif.sufi-jami-persian-mystics-davis-gutenberg-l1490-l1513
+source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+passage_locator:
+  label: MIRROR AND FACE / THE COMING OF THE BELOVED / THE WAYS OF LOVE / THE BEAUTY
+    OF ZULAIKHA; lines 1490-1513
+  start: '1490'
+  end: '1513'
+  translation: 'The Persian Mystics: Jámí'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes Zulaikha’s beauty through a sequence of comparisons:
+    her face as a paradisal garden, her chin as a well containing the Water of Life
+    that can endanger a thirsty sage, her neck and shoulders as surpassing ivory,
+    rose, and jasmine, her breasts as pure orbs and pomegranates, and her arms as
+    refined silver adorned with amulets likened to holy hearts in prayer.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Zulaikha’s face is compared to the garden of Iram with roses of many hues.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Dark moles on her face are compared to Moorish boys playing in rose-beds.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Her chin is described as having a well containing the Water of Life.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A thirsty sage approaching the well would feel spray before reaching the brink,
+    but would lose his soul if he came nearer.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The well associated with her chin is also described as a whirlpool.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Her neck is described as ivory, and a fawn is drawn toward it with tribute
+    to beauty.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: A rose is described as hanging its head before the brightness of her skin
+    and shoulders, which are said to be fairer than jasmine.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: Her breasts are compared to pure orbs, twin bubbles from fount Kafur, and
+    two young pomegranates on one spray.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Her arms are compared to thrice-purified silver, and a touchstone is said
+    to be proved false when testing them.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: Pearl-pure amulets fastened on her arms are identified by comparison as the
+    hearts of holy people absorbed in prayer.
+  category: object
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Zulaikha
+  description: The woman whose beauty is described throughout the passage.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: thirsty sage
+  description: A hypothetical sage who approaches the well associated with Zulaikha’s
+    chin and risks losing his soul if he comes too near.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: fawn
+  description: A fawn drawn toward Zulaikha’s ivory neck with tribute to beauty.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: holy people absorbed in prayer
+  description: Holy people whose hearts are compared to pearl-pure amulets on Zulaikha’s
+    arms.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: beautiful beloved figure
+  assigned_to:
+  - fig:1
+  basis: The passage centers on Zulaikha’s extraordinary beauty and describes her
+    features through idealized natural and precious images.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:2
+  label: thirsting seeker
+  assigned_to:
+  - fig:2
+  basis: The sage is imagined approaching the Water of Life in thirst and facing danger
+    if he draws nearer.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: creature drawn by beauty
+  assigned_to:
+  - fig:3
+  basis: The fawn is said to be drawn to Zulaikha’s neck with tribute to beauty.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: devotional figures
+  assigned_to:
+  - fig:4
+  basis: The holy are described as absorbed in prayer, and their hearts are compared
+    to amulets.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: garden of Iram
+  literal_form: garden with roses of every hue
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Water of Life
+  literal_form: water in the well of Zulaikha’s chin
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: well and whirlpool
+  literal_form: well containing life-giving water that is also a whirlpool
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: rose and jasmine
+  literal_form: flowers used to describe and compare Zulaikha’s complexion and shoulders
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:5
+  label: pomegranates
+  literal_form: two young pomegranates on one spray
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: silver
+  literal_form: silver used to describe Zulaikha’s chin and arms
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:7
+  label: amulets as holy hearts
+  literal_form: pearl-pure amulets fastened on Zulaikha’s arms, compared to hearts
+    of the holy in prayer
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Description of Zulaikha’s face and chin
+  summary: Zulaikha’s face is presented through garden and rose imagery, while her
+    chin is described as a well containing the Water of Life that can imperil a thirsty
+    sage.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Description of neck, shoulders, breasts, and arms
+  summary: Zulaikha’s neck, shoulders, breasts, and arms are described with images
+    of ivory, flowers, pure light, fount Kafur, pomegranates, silver, and amulets
+    like holy hearts in prayer.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: beloved as overwhelming beauty
+  taxonomy_refs:
+  - divine_beloved
+  basis: The passage presents Zulaikha’s beauty as surpassing natural and precious
+    objects and as powerful enough to draw creatures and endanger a sage’s soul.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage itself describes beauty through hyperbolic imagery; identifying
+    the beloved as divine is supported only by the broader Sufi framing and the devotional
+    language within the passage, so the taxonomy link requires review.
+- id: motif:2
+  label: life-giving water as perilous attraction
+  taxonomy_refs: []
+  basis: The Water of Life appears in a well that attracts a thirsty sage, yet the
+    same place is also a whirlpool where he would lose his soul if he approached too
+    closely.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage presents this as a poetic comparison to Zulaikha’s chin rather
+    than a narrative episode.
+- id: motif:3
+  label: devotional hearts as ornaments of the beloved
+  taxonomy_refs: []
+  basis: The pearl-pure amulets on Zulaikha’s arms are compared to the hearts of holy
+    people absorbed in prayer.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: This is a compact metaphor; its broader ritual or mystical significance
+    is not explained in the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 1490-1495
+  quote_or_summary: Zulaikha’s face is compared to the garden of Iram, with roses
+    of every hue, and her dark moles are compared to Moorish boys among rose-beds.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: 1496-1501
+  quote_or_summary: Her chin is described as a silver well containing the Water of
+    Life; a thirsty sage approaching it would feel spray, but if he came nearer his
+    soul would be lost, since it is both a well and a whirlpool.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: 1502-1505
+  quote_or_summary: Her neck is described as ivory; a fawn is drawn to it, and a rose
+    lowers its head before the gleam of her skin and shoulders fairer than jasmine.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: 1506-1509
+  quote_or_summary: Her breasts are compared to pure orbs, twin bubbles newly risen
+    from fount Kafur, and two young pomegranates on one spray beyond the reach of
+    bold hope.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:5
+  type: summary
+  locator: 1510-1513
+  quote_or_summary: Her arms are likened to thrice-purified silver that falsifies
+    the touchstone, and pearl-pure amulets on them are compared to the hearts of the
+    holy absorbed in prayer.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal imagery is clear, but motif classification is interpretive because
+    the passage is primarily a poetic blazon rather than a narrative myth episode.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata; no external comparisons added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-jami-persian-mystics-davis-gutenberg__l1490-l1513
+  passage_sha256=5bb5b4dffd05d03e7c536392d64f826ba74c3f4baefbbf303093c5dab35ceb6c

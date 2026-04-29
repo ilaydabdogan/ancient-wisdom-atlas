@@ -1,0 +1,566 @@
+---
+record_id: batch.motif.sufi-omar-khayyam-sufistic-quatrains-gutenberg-l3552-l3652
+source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+passage_locator:
+  label: XLIV. / XLVIII. / LVIII. / LXIII.; lines 3552-3652
+  start: '3552'
+  end: '3652'
+  translation: The Sufistic Quatrains of Omar Khayyam
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage presents quatrains and notes on mortality, the non-return of
+    the dead from the road beyond darkness, prophetic revelations as sleep-stories,
+    the soul's search for the afterlife, and heaven and hell as inward states or reflections.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Threats of Hell and hopes of Paradise are contrasted with the certainty that
+    present life passes away.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A flower that has bloomed is said to die forever, and a cited parallel says
+    withered tulips will not bloom again.
+  category: object
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: Many people are said to have passed through a door of darkness before the
+    speaker's generation.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: No one returns from the road beyond darkness to report about it, although
+    the living must also travel it.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The editor states that the road-and-non-return image recurs in the ruba'iyat
+    and cites parallel quatrains.
+  category: relationship
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:6
+  text: Devout and learned predecessors who burned as prophets are described as having
+    told stories after waking from sleep and then returning to sleep.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: A cited Persian parallel says accomplished figures did not make a road out
+    of the dark night but told a fable and went to sleep.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The speaker sends his soul through the Invisible to learn about the afterlife.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: The soul returns and says that it itself is Heaven and Hell.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: A cited parallel says the soul searched beyond the heavens for Tablet and
+    Pen, heaven, and hell, and was told they are within the self.
+  category: action
+  evidence_refs:
+  - ev:9
+- id: obs:11
+  text: Heaven is described as a vision of fulfilled desire, and Hell as the shadow
+    from a soul on fire cast onto darkness.
+  category: attribute
+  evidence_refs:
+  - ev:10
+- id: obs:12
+  text: A cited parallel describes Hell as a spark from worries and Paradise as a
+    tranquil moment.
+  category: attribute
+  evidence_refs:
+  - ev:11
+- id: obs:13
+  text: The editor notes an influence from the Mantik ut-tair distich stating that
+    heaven and hell are reflections of goodness and wrath.
+  category: relationship
+  evidence_refs:
+  - ev:12
+figures:
+- id: fig:1
+  name_or_label: speaker
+  description: First-person poetic speaker who reflects on life, death, heaven, hell,
+    and sends his soul through the Invisible.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:8
+  - ev:10
+- id: fig:2
+  name_or_label: my Soul
+  description: The speaker's personified soul, sent through the Invisible, returning
+    with an answer about Heaven and Hell.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:8
+- id: fig:3
+  name_or_label: myriads before us
+  description: Those who previously passed through the door of Darkness and do not
+    return to report the road.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Devout and Learn'd
+  description: Predecessors described as devout and learned, rising before the speaker's
+    generation and burning as prophets.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: Teacher
+  description: In the cited parallel to O. 15, a teacher gives the judgment that Tablet
+    and Pen, heaven, and hell are within the self.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:9
+roles:
+- id: role:1
+  label: mortal contemplative speaker
+  assigned_to:
+  - fig:1
+  basis: The first-person voice reflects on passing life, afterlife uncertainty, and
+    inward heaven and hell.
+  evidence_refs:
+  - ev:1
+  - ev:8
+  - ev:10
+- id: role:2
+  label: personified messenger-soul
+  assigned_to:
+  - fig:2
+  basis: The soul is sent through the Invisible and returns with an answer.
+  evidence_refs:
+  - ev:8
+- id: role:3
+  label: non-returning dead or predecessors
+  assigned_to:
+  - fig:3
+  basis: They have passed through the door of Darkness and do not return to tell of
+    the road.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: prophetic or learned predecessors
+  assigned_to:
+  - fig:4
+  basis: They are called devout and learned, and as prophets, but their revelations
+    are described as stories told between sleep and sleep.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: instructing teacher
+  assigned_to:
+  - fig:5
+  basis: The Teacher explains that cosmic and afterlife objects are within the self.
+  evidence_refs:
+  - ev:9
+symbols:
+- id: sym:1
+  label: Hell
+  literal_form: Hell; threats of Hell; shadow from a soul on fire; spark from worries
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:8
+  - ev:10
+  - ev:11
+- id: sym:2
+  label: Paradise or Heaven
+  literal_form: Paradise; Hopes of Paradise; Heaven as fulfilled desire; Paradise
+    as a tranquil moment
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:8
+  - ev:10
+  - ev:11
+- id: sym:3
+  label: flower and tulips
+  literal_form: Flower once blown; withered tulips
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:4
+  label: door of Darkness
+  literal_form: door of Darkness
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: road beyond death
+  literal_form: Road which all must travel; long road; road no traveller travels again
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:6
+  label: sleep
+  literal_form: Sleep from which prophets awake and to which they return
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: sym:7
+  label: Invisible
+  literal_form: the Invisible through which the soul is sent
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:8
+  label: Tablet and Pen
+  literal_form: Tablet and Pen searched for beyond the heavens and then located within
+    the self
+  associated_figures:
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:9
+  label: fire
+  literal_form: soul on fire; spark from worries
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:10
+  - ev:11
+- id: sym:10
+  label: watercourse of tears
+  literal_form: Jihun as a water-course worn by filtered tears
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:11
+scenes:
+- id: scene:1
+  label: Certainty of passing life and irreversible death
+  summary: The speaker contrasts uncertain threats and hopes about Hell and Paradise
+    with the certainty that life passes and the bloomed flower dies forever.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Road through the door of Darkness
+  summary: The dead are described as having passed through a dark door and as unable
+    to return to tell the living about the road that the living must also travel.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Prophetic revelations as sleep-stories
+  summary: Devout and learned predecessors are said to have offered revelations that
+    amount to stories or fables before returning to sleep, without making a road through
+    dark night.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:4
+  label: Soul sent through the Invisible
+  summary: The speaker sends his soul into the Invisible to learn about the afterlife;
+    the soul returns and identifies itself with Heaven and Hell.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:7
+  evidence_refs:
+  - ev:8
+- id: scene:5
+  label: Afterlife realities found within the self
+  summary: A cited parallel has the soul seek Tablet and Pen, heaven, and hell beyond
+    the heavens, but a Teacher says these are within the self.
+  figure_refs:
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:8
+  evidence_refs:
+  - ev:9
+- id: scene:6
+  label: Heaven and Hell as inward reflections
+  summary: Heaven and Paradise are described as fulfilled desire or tranquil time,
+    while Hell is associated with the shadow or spark of an inflamed or worried soul;
+    a noted parallel calls heaven and hell reflections of goodness and wrath.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:9
+  - sym:10
+  evidence_refs:
+  - ev:10
+  - ev:11
+  - ev:12
+candidate_motifs:
+- id: motif:1
+  label: life's transience and irreversible death
+  taxonomy_refs: []
+  basis: The flower that has bloomed dies forever, and the cited tulips do not bloom
+    again after withering.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: No rebirth element is present in this passage.
+- id: motif:2
+  label: non-return from the road of death
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The dead pass through a dark doorway onto a road from which none returns
+    to tell the living, and the editor notes this as a recurring ruba'iyat image.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The route is described negatively as unknowable rather than mapped in
+    detail.
+- id: motif:3
+  label: dark night without a road
+  taxonomy_refs:
+  - mystical_quest
+  basis: The cited parallel says the learned have not made a road out of the dark
+    night, but only told a fable and gone to sleep.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The passage presents this as skepticism about revelatory knowledge, not
+    as a completed quest.
+- id: motif:4
+  label: soul-journey seeking afterlife knowledge
+  taxonomy_refs:
+  - afterlife_journey_map
+  - mystical_quest
+  basis: The speaker sends his soul through the Invisible to spell out some letter
+    of the afterlife, and a parallel has the soul search beyond the heavens for Tablet
+    and Pen, heaven, and hell.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: The journey returns inward rather than producing an external geography
+    of the afterlife.
+- id: motif:5
+  label: heaven and hell internalized within the self
+  taxonomy_refs:
+  - wisdom
+  basis: The soul answers that it itself is Heaven and Hell, and the parallel states
+    that Tablet and Pen, heaven, and hell are within the self.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: The taxonomy reference is broad; the passage frames the point as inward
+    insight rather than formal doctrine.
+- id: motif:6
+  label: heaven and hell as reflections of inner states
+  taxonomy_refs:
+  - duality
+  basis: Heaven is fulfilled desire or tranquility, while Hell is an inner shadow,
+    spark, or reflection associated with fire, worry, wrath, and darkness.
+  evidence_refs:
+  - ev:10
+  - ev:11
+  - ev:12
+  confidence: high
+  cautions: The duality is psychological and metaphorical in the supplied passage.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself identifies the road from which no traveller returns as
+    a recurring image within the ruba'iyat and cites parallel quatrains with the same
+    image.
+  claim_level: same_motif
+  target: recurring ruba'iyat image of the non-returning road
+  evidence_refs:
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is limited to parallels cited by the editor in the supplied
+    passage.
+- id: claim:2
+  claim: The passage reports that FitzGerald's heaven-and-hell imagery was influenced
+    by a Mantik ut-tair distich in which heaven and hell are reflections of inner
+    moral states.
+  claim_level: same_function
+  target: Mantik ut-tair distich 1866 on heaven and hell as reflections
+  evidence_refs:
+  - ev:12
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim of influence is the editor's statement in the passage; no
+    independent historical argument is supplied here.
+evidence:
+- id: ev:1
+  type: quote
+  locator: LXIII, lines 3552-3652
+  quote_or_summary: "“One thing at least is certain—This Life flies”; “The Flower
+    that once has blown for ever dies.”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:2
+  type: quote
+  locator: LXIII note, O. 35
+  quote_or_summary: "“The tulips that are withered will never bloom again.”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:3
+  type: quote
+  locator: LXIV, lines 3552-3652
+  quote_or_summary: "“myriads who / Before us pass'd the door of Darkness through”;
+    “Not one returns to tell us of the Road.”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:4
+  type: summary
+  locator: LXIV editorial note and C. 36
+  quote_or_summary: The editor says the image is constantly recurring; the cited C.
+    36 describes a road from which no traveller travels again.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: LXIV editorial note and C. 270
+  quote_or_summary: The cited C. 270 asks where any traveller on the long road has
+    returned to tell the secret, and warns that one will not come back.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: LXV, lines 3552-3652
+  quote_or_summary: The revelations of devout and learned prophetic predecessors are
+    described as stories told after waking from sleep before returning to sleep.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:7
+  type: summary
+  locator: LXV note, C. 127
+  quote_or_summary: The cited C. 127 says accomplished people became lights to others
+    but did not make a road out of the dark night; they told a fable and went to sleep.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:8
+  type: quote
+  locator: LXVI, lines 3552-3652
+  quote_or_summary: "“I sent my Soul through the Invisible”; the soul returned and
+    answered, “I myself am Heav'n and Hell.”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:9
+  type: summary
+  locator: LXVI note, O. 15
+  quote_or_summary: In the cited O. 15, the soul searches beyond the heavens for the
+    Tablet and Pen and for heaven and hell; the Teacher says they are within the self.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:10
+  type: quote
+  locator: LXVII, lines 3552-3652
+  quote_or_summary: "“Heav'n” is “the Vision of fulfill'd Desire,” and Hell is “the
+    Shadow from a Soul on fire” cast on darkness."
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:11
+  type: summary
+  locator: LXVII note, O. 33
+  quote_or_summary: The cited O. 33 describes the heavenly vault as a girdle from
+    a weary body, Jihun as a watercourse of tears, Hell as a spark from worries, and
+    Paradise as a tranquil moment.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:12
+  type: quote
+  locator: LXVII note, Mantik ut-tair distich 1866
+  quote_or_summary: 'The editor says FitzGerald was influenced by a distich: “Heaven
+    and hell are reflections,” one of goodness and the other of wrath.'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short quotation used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Extraction is based only on the supplied passage. Motif labels are cautious
+    because the passage is a poetic and editorial excerpt rather than a narrative
+    myth.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  The supplied locator label mentions XLIV/XLVIII/LVIII/LXIII, while the passage text contains LXIII-LXVII; this discrepancy is preserved in the locator notes for review.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-omar-khayyam-sufistic-quatrains-gutenberg__l3552-l3652
+  passage_sha256=8067b56e7b5359004e2062d5927db178b1e8db68c5cbbc9443098e87477d4429

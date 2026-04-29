@@ -1,0 +1,391 @@
+---
+record_id: batch.motif.sufi-omar-khayyam-sufistic-quatrains-gutenberg-l1923-l2002
+source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+passage_locator:
+  label: EDWARD FITZGERALD'S TRANSLATION / OF THE / QUATRAINS OF OMAR KHAYYAM / PREFACE;
+    lines 1923-2002
+  start: '1923'
+  end: '2002'
+  translation: The Sufistic Quatrains of Omar Khayyam
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The editor explains the manuscript and printed sources used to trace Edward
+    FitzGerald’s quatrains, summarizes how many are paraphrases, composites, or influenced
+    by other texts, discusses Nicolas’ edition and later textual variation, states
+    a preference for literal translation, and records thanks to helpers and rights
+    holders.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The editor says he has FitzGerald’s material before him and identifies the
+    Ouseley, Calcutta, and Nicolas texts as relevant source witnesses for FitzGerald’s
+    first edition.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The editor states that other Oriental poets influenced FitzGerald’s work,
+    especially Attar’s Mantik ut-tair, and that direct or exclusive influence is marked
+    in later parallels.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: 'The editor classifies FitzGerald’s quatrains into groups: faithful paraphrases,
+    composite quatrains, quatrains from Nicolas’ text, quatrains reflecting the general
+    spirit, quatrains influenced by Attar, quatrains influenced by Hafiz, and suppressed
+    quatrains not attributable to the original texts.'
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The editor says Nicolas’ 1867 text and translation affected FitzGerald’s interest
+    and may explain many later variations and additions.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The editor reports collating 5,235 Persian ruba'iyat and appending references
+    to texts where matching or varied forms appear.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The editor states that many ruba'iyat inspiring FitzGerald are represented
+    across many manuscripts and texts examined.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The editor says he intentionally makes his own translations bald and literal
+    rather than polished or graceful.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The editor thanks named individuals, FitzGerald’s literary executor, and Macmillan
+    for assistance and permission to reproduce the poem.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: The editor-narrator
+  description: The first-person speaker who collates ruba'iyat, evaluates sources
+    and influences, prepares translations, and gives thanks.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Edward FitzGerald
+  description: Translator/paraphraser whose quatrains, editions, variations, and source
+    materials are being analyzed.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Omar Khayyam
+  description: Poet to whom quatrains are written by or attributed, and whose ruba'iyat
+    are treated as source material for FitzGerald.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Ferid ud din Attar
+  description: Author of the Mantik ut-tair, named as an influence on FitzGerald’s
+    work.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:5
+  name_or_label: Hafiz
+  description: Author of Odes said to have influenced two FitzGerald quatrains primarily
+    inspired by Omar.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Monsieur J.B. Nicolas
+  description: Publisher/translator of the 1867 Les Quatrains de Khèyam, whose text
+    affected FitzGerald’s later editions.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: Named helpers and rights holders
+  description: Mr. A.T. Pringle, Professor E.B. Cowell, Dr. E. Denison Ross, Mr. Aldis
+    Wright, and Messrs. Macmillan are thanked for assistance or permission.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: editor-collator
+  assigned_to:
+  - fig:1
+  basis: The speaker reports collating Persian ruba'iyat, assigning references, translating
+    originals, and preparing the volume.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+- id: role:2
+  label: translator-paraphraser under study
+  assigned_to:
+  - fig:2
+  basis: FitzGerald’s quatrains and editions are classified by source, influence,
+    and variation.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: role:3
+  label: attributed source poet
+  assigned_to:
+  - fig:3
+  basis: The passage refers to material written by or attributed to Omar and to quatrains
+    primarily inspired by Omar.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: literary influence
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: Attar and Hafiz are named as influencing specified FitzGerald quatrains.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:5
+  label: editor-translator of influential printed text
+  assigned_to:
+  - fig:6
+  basis: Nicolas’ 1867 text and translation are said to have affected FitzGerald’s
+    later variations and additions.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: assistants and permission-givers
+  assigned_to:
+  - fig:7
+  basis: The passage thanks these persons and publishers for assistance and permission
+    to reproduce the poem.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: manuscript witnesses
+  literal_form: Ouseley MS., Calcutta MS., and other manuscript texts
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: ruba'iyat / quatrains
+  literal_form: Persian ruba'iyat and FitzGerald’s quatrains
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: Mantik ut-tair / Parliament of Birds
+  literal_form: A work by Ferid ud din Attar named as an influence
+  associated_figures:
+  - fig:4
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:4
+  label: literal translation
+  literal_form: The editor’s intentionally bald, close English rendering
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Statement of source materials and influences
+  summary: The editor explains that FitzGerald’s first-edition inspiration is traceable
+    to named manuscript or printed texts, while other Oriental poets, especially Attar,
+    also influenced the work.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Classification of FitzGerald’s quatrains
+  summary: The editor summarizes counts and categories of FitzGerald’s quatrains according
+    to source, composite status, general spirit, outside influence, and suppressed
+    unattributed pieces.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Nicolas text and later editions
+  summary: The editor describes Nicolas’ 1867 publication as a stimulus for later
+    variations and additions, and reports extensive collation of Persian ruba'iyat.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Translation method and acknowledgments
+  summary: The editor states that his translations are deliberately literal and thanks
+    people and publishers for assistance and permission.
+  figure_refs:
+  - fig:1
+  - fig:7
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs: []
+comparison_claims:
+- id: claim:1
+  claim: The passage supports a cautious textual-influence comparison between FitzGerald’s
+    quatrains and Attar’s Mantik ut-tair, limited to places where the editor marks
+    the influence as direct or exclusive.
+  claim_level: same_function
+  target: Attar’s Mantik ut-tair / Parliament of Birds as an influence on FitzGerald’s
+    quatrains
+  evidence_refs:
+  - ev:1
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage discusses literary influence and source tracing, not shared
+    mythic narrative content within the quoted range.
+- id: claim:2
+  claim: The passage supports a cautious textual-influence comparison between two
+    FitzGerald quatrains and the Odes of Hafiz.
+  claim_level: same_function
+  target: Hafiz’s Odes as an influence on FitzGerald quatrains primarily inspired
+    by Omar
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage gives no details of the shared imagery or themes, only
+    the asserted influence.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1923-1936
+  quote_or_summary: The editor says FitzGerald’s material is before him, identifies
+    source texts for the first edition, and notes influences from other Oriental poets,
+    especially Attar’s Mantik ut-tair.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1938-1957
+  quote_or_summary: The editor lists categories and counts of FitzGerald’s quatrains,
+    including single-source paraphrases, composites, Nicolas-derived pieces, general-spirit
+    pieces, Attar-influenced pieces, Hafiz-influenced pieces, and suppressed unattributed
+    pieces.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 1959-1976
+  quote_or_summary: The editor states that Nicolas’ 1867 text and translation stimulated
+    FitzGerald’s interest and later variations, and reports collating 5,235 Persian
+    ruba'iyat with references to parallel forms.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 1977-1988
+  quote_or_summary: The editor explains his preference for the Ouseley MS. where lines
+    appear in both Ouseley and Calcutta, notes FitzGerald’s later tendency to eliminate
+    merely general suggestions, and recommends comparison with the first edition.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 1990-1995
+  quote_or_summary: The editor says his translations are intentionally bald and literal,
+    rather than graceful, to present the closest English rendering of the originals.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 1996-2002
+  quote_or_summary: The editor thanks named scholars, FitzGerald’s literary executor,
+    and Macmillan for assistance and permission to reproduce the poem.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: uncertain
+  comparison_claims: medium
+  notes: The passage is a literary preface focused on source criticism, influence,
+    and translation practice rather than mythic narrative. Motif candidates are therefore
+    left empty.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No available taxonomy motif or symbol reference is directly supported by the passage.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-omar-khayyam-sufistic-quatrains-gutenberg__l1923-l2002
+  passage_sha256=e1e4e3471fac6004cdf1b452823f7bf82ba66bd851cd7e5439e55630a28384f1

@@ -1,0 +1,396 @@
+---
+record_id: batch.motif.sufi-persian-mystics-rumi-davis-gutenberg-l1951-l2004
+source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+passage_locator:
+  label: BE LOST IN THE BEAUTY OF THE BELOVED / THE LOVER'S CRY TO THE BELOVED / SORROW
+    TURNED TO JOY / THE GIFTS OF THE BELOVED; lines 1951-2004
+  start: '1951'
+  end: '2004'
+  translation: 'The Persian Mystics: Jalálu''d-dín Rúmí'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage presents God or the Beloved as able to transform sorrow into
+    joy, exchanging human tears, sighs, bodies, and meager wealth for light, divine
+    abundance, heavenly rank, and a kingdom. It describes God as hidden in essence
+    but manifest through gifts and effects, using analogies such as water and mill-stone,
+    wind and dust, spring and garden, soul and limbs, reason and tongue, and joy and
+    laughter. It closes with an exhortation to combine trust in God with practical
+    effort.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that the one who extracts a rose from a thorn can also
+    turn winter into spring and bring joy out of sadness.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: God is described as buying the addressees' worthless wealth and paying them
+    with light that illuminates the heart.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: God is described as accepting frozen and lifeless bodies and giving a kingdom
+    beyond what the addressees dream of.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: God is described as taking tears and sighs of grief and giving a Divine Fount,
+    heavenly rank, and the title given to Abraham.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The addressed divine figure is described as hidden while the heavens are filled
+    with divine light, and as hidden in essence but visible through bounties.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: 'The passage compares the divine figure and the addressees through paired
+    images: water and mill-stone, wind and dust, spring and garden, soul and hand
+    or foot, reason and tongue, and joy and laughter.'
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The passage counsels trust in God while also tying the camel's leg, using
+    means, and exerting oneself step by step.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: God / the Beloved / Thou
+  description: The divine addressee and giver, called God in the passage and addressed
+    as hidden yet manifest through light, bounties, and effects.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Human addressees
+  description: The addressed human recipients described as possessing worthless wealth,
+    frozen bodies, tears, sighs, and as being like mill-stone, dust, garden, hand
+    and foot, tongue, and laughter in relation to the divine.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: Abraham
+  description: Named as the one to whom God gave the title "Father of the Faithful."
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Fatalists
+  description: A group directly addressed and told to practice trust with self-exertion.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: divine benefactor and exchanger
+  assigned_to:
+  - fig:1
+  basis: God takes or buys human offerings such as wealth, bodies, tears, and sighs,
+    and gives light, a kingdom, a divine fount, and heavenly rank.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: hidden source manifested by effects
+  assigned_to:
+  - fig:1
+  basis: The divine figure is described as hidden in essence but known through light,
+    bounties, rivers, motions, and analogical effects.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:3
+  label: recipient and practitioner
+  assigned_to:
+  - fig:2
+  - fig:4
+  basis: The human addressees receive divine gifts and are instructed to trust in
+    God while using means and exerting themselves.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+- id: role:4
+  label: exemplary recipient of title
+  assigned_to:
+  - fig:3
+  basis: Abraham is named as receiving the title "Father of the Faithful" from God.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: rose from thorn
+  literal_form: rose extracted from a thorn
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: winter turned to spring
+  literal_form: winter transformed into spring
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: heart-illuminating light
+  literal_form: Light that illumines the heart
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: Divine Fount
+  literal_form: Divine Fount sweeter than sugar
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: sigh-wind and tear-clouds
+  literal_form: sigh-wind that raised tear-clouds
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: hidden water source
+  literal_form: source causing rivers to flow; water moving a mill-stone
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:7
+  label: wind and dust
+  literal_form: unseen wind and visible dust
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:8
+  label: spring and garden
+  literal_form: unseen spring and visible green garden
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:9
+  label: camel's tied leg
+  literal_form: tying the camel's leg while trusting in God
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Sorrow transformed into joy
+  summary: Natural images of rose from thorn and winter becoming spring are used to
+    state that sadness can be changed into joy.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Gifts of the Beloved
+  summary: God receives the addressees' inadequate or sorrowful offerings and gives
+    light, a kingdom, a divine fount, heavenly rank, and Abraham's title.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Hidden divine presence shown through effects
+  summary: The divine figure is hidden in essence yet known by light, bounties, flowing
+    rivers, and a series of analogies in which unseen causes produce visible effects.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:6
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Trust joined to exertion
+  summary: The passage instructs the addressees to trust in God while also using practical
+    means and striving for their objects.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:9
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: divine beloved as generous giver
+  taxonomy_refs:
+  - divine_beloved
+  basis: The heading names the Beloved, and the passage describes God as the uniquely
+    liberal giver who exchanges human poverty and grief for divine gifts.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage uses both the title Beloved and the name God; the extraction
+    treats them as linked within this passage only.
+- id: motif:2
+  label: sacred exchange of human lack for divine abundance
+  taxonomy_refs:
+  - sacred_exchange
+  basis: God buys worthless wealth, accepts lifeless bodies, takes tears and sighs,
+    and gives light, a kingdom, a divine fount, and heavenly rank.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The exchange is devotional and poetic rather than a formal ritual transaction.
+- id: motif:3
+  label: hidden divine source manifested through visible effects
+  taxonomy_refs: []
+  basis: The divine figure is hidden in essence but revealed by light, bounties, rivers,
+    motion, and analogies of unseen causes producing visible results.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: No specific taxonomy reference was supplied for hidden divine manifestation.
+- id: motif:4
+  label: sorrow transformed into joy through renewal imagery
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage links rose from thorn, winter becoming spring, and sadness becoming
+    joy.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage emphasizes transformation rather than a full cyclical seasonal
+    myth.
+- id: motif:5
+  label: trust in providence combined with human exertion
+  taxonomy_refs:
+  - wisdom
+  basis: The passage quotes the instruction to trust in God while tying the camel's
+    leg, and urges use of means and self-exertion.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: This is a wisdom teaching rather than a narrative mythic episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1951-1958, SORROW TURNED TO JOY
+  quote_or_summary: A speaker says that the one who extracts a rose from a thorn can
+    turn winter into spring and bring joy from sadness.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1959-1967, THE GIFTS OF THE BELOVED
+  quote_or_summary: God buys the addressees' worthless wealth, gives light to the
+    heart, accepts frozen lifeless bodies, and gives a kingdom beyond what they dream.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 1968-1974, THE GIFTS OF THE BELOVED
+  quote_or_summary: God takes tears and grief-laden sighs, gives a Divine Fount and
+    heavenly rank, and gives Abraham the title "Father of the Faithful."
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; short phrase quoted from public domain passage.
+- id: ev:4
+  type: summary
+  locator: lines 1975-1982, THOU ART HIDDEN FROM US
+  quote_or_summary: The divine Thou is hidden though the heavens are filled with light,
+    reveals hidden secrets, causes rivers to flow, and is seen by bounties though
+    hidden in essence.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 1983-1995, THOU ART HIDDEN FROM US
+  quote_or_summary: Analogies compare the divine to water, wind, spring, soul, reason,
+    and joy, and humans or visible effects to mill-stone, dust, garden, limbs, tongue,
+    and laughter.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: quote
+  locator: lines 1996-2004, EXERT YOURSELVES
+  quote_or_summary: '"Trust in God, yet tie the camel''s leg"; the passage also urges
+    using means and exerting oneself bit by bit.'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; brief quote used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif taxonomy assignment is cautious
+    because the passage is lyric-devotional rather than narrative. No comparison claims
+    were made because the passage itself does not compare traditions or texts.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only supplied passage text and metadata. Available taxonomy references were applied only where directly supported.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-persian-mystics-rumi-davis-gutenberg__l1951-l2004
+  passage_sha256=9efa3761dcb79e3cc631516e3be096d87fb0924378a86f793ed05fb4a50876af

@@ -1,0 +1,220 @@
+---
+record_id: batch.motif.sufi-omar-khayyam-sufistic-quatrains-gutenberg-l4399-l4414
+source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+passage_locator:
+  label: XCIX. / APPENDIX. / PAGE 4. / PAGE 7.; lines 4399-4414
+  start: '4399'
+  end: '4414'
+  translation: The Sufistic Quatrains of Omar Khayyam
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: How long wilt thou keep saying, «Have mercy upon Omar!» / Wilt _thou_ be
+    a teacher of mercy to _God_?
+  summary: The passage gives FitzGerald's quatrain and a literal rendering in which
+    an addressed burnt one, destined to burn, is associated with the fires of Hell
+    and is challenged for asking God to have mercy on Omar, as though teaching mercy
+    to God.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: An addressed figure is described as burning or burnt and destined to burn
+    in turn.
+  category: attribute
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:2
+  text: Hell is described as having fires, and the addressed figure is associated
+    with feeding or causing those fires.
+  category: setting
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: The addressed figure repeatedly asks God for mercy on others or on Omar.
+  category: speech
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:4
+  text: The quatrain closes with a rhetorical challenge asking whether the addressed
+    figure can teach mercy to God.
+  category: speech
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:5
+  text: The passage identifies the quatrain as FitzGerald's rendering of C. I. and
+    supplies reference sigla.
+  category: other
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: addressed burnt one
+  description: The second-person figure addressed as one who burns or is burnt and
+    is destined to burn.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: God
+  description: The deity to whom mercy is requested and whom the addressed figure
+    is rhetorically accused of trying to teach mercy.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Omar
+  description: Named in the literal rendering as the person for whom mercy is requested.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: admonished mercy-pleader
+  assigned_to:
+  - fig:1
+  basis: The figure says or is imagined as saying a plea for mercy and is challenged
+    for presuming to teach God mercy.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: divine recipient of mercy plea
+  assigned_to:
+  - fig:2
+  basis: God is addressed in the mercy plea and named in the rhetorical question about
+    teaching mercy.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: named beneficiary of mercy plea
+  assigned_to:
+  - fig:3
+  basis: The literal rendering has the addressed figure saying, 'Have mercy upon Omar.'
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: hell fire
+  literal_form: fires of Hell; burning
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: Hell
+  literal_form: Hell as the place or condition whose fires burn
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: mercy plea
+  literal_form: repeated request for God to have mercy
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+scenes:
+- id: scene:1
+  label: rebuke of the mercy-pleader before God
+  summary: A burnt or burning figure associated with Hell's fires is represented as
+    repeatedly asking God for mercy and is rhetorically rebuked for presuming to teach
+    mercy to God.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: divine mercy and judgment in relation to Hell
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage links Hell's fires with a plea for divine mercy and a challenge
+    about whether a human-like speaker can instruct God in mercy.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage is a short quatrain and does not narrate a formal judgment
+    scene; the motif assignment rests on the explicit Hell and mercy language.
+- id: motif:2
+  label: rhetorical wisdom rebuke
+  taxonomy_refs:
+  - wisdom
+  basis: The quatrain uses a rhetorical question to challenge the speaker's presumption
+    about teaching mercy to God.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: low
+  cautions: This is a broad thematic fit rather than a specific narrative motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4399-4404
+  quote_or_summary: FitzGerald's rendering addresses one who burns for those in Hell
+    and asks how long the figure will cry for God's mercy on them, ending with a question
+    about teaching God.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 4408-4412
+  quote_or_summary: '"O, burnt one (born) of the burnt! destined in turn to burn";
+    "Have mercy upon Omar!"; "Wilt _thou_ be a teacher of mercy to _God_?"'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: summary
+  locator: lines 4406, 4414
+  quote_or_summary: The note states that the quatrain on page 7 is FitzGerald's rendering
+    of C. I. and lists reference sigla.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal elements are explicit in the passage. Motif labels are cautious because
+    the passage is aphoristic rather than a developed mythic narrative, and no comparison
+    claims are made beyond the supplied text.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata; no external comparisons added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-omar-khayyam-sufistic-quatrains-gutenberg__l4399-l4414
+  passage_sha256=97cafb48b38a450c7503dc855bd8cbe9cc24409abd7f5c26d0c6fdc6c0df2a78

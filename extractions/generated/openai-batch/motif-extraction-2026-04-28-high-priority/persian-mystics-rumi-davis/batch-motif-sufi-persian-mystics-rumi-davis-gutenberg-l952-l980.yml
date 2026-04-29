@@ -1,0 +1,402 @@
+---
+record_id: batch.motif.sufi-persian-mystics-rumi-davis-gutenberg-l952-l980
+source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+passage_locator:
+  label: I. LIFE / II. SHAMSI TABRIZ / A CRY TO THE BELOVED / REMEMBER GOD AND FORGET
+    SELF; lines 952-980
+  start: '952'
+  end: '980'
+  translation: 'The Persian Mystics: Jalálu''d-dín Rúmí'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: Keep God in remembrance till self is forgotten,
+  summary: The passage exhorts spirit and reason to seek like flowing water, to gain
+    eternal life by the way of death, and to remember God until self is forgotten.
+    It then depicts a beautiful princely beloved going out to the morning chase, whose
+    glance wounds hearts, and closes with images of the speaker’s body as a moon melting
+    for love and the heart as Zuhra’s lute with broken strings.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The addressed spirit is told to make its head, in search and seeking, like
+    the water of a stream.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Reason is told to tread the way of Death continually in order to gain Eternal
+    Life.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The speaker says to keep God in remembrance until self is forgotten and one
+    is lost in the Called without distraction of caller and call.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A garden and an idol are invoked with wishes involving flowering until Resurrection
+    and beauty over the two worlds.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Prince of the Fair goes proudly to the chase in the morning.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The speaker wishes hearts may become prey to the arrow of the Prince’s glance.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Messages are said to pass continually from the beloved’s eye to the speaker’s
+    eye, filling the speaker’s eyes with intoxication.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The speaker compares the body to the moon melting for Love and the heart to
+    Zuhra’s lute with broken strings.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The passage tells the hearer not to focus on the moon’s waning or Zuhra’s
+    broken state, but on the sweetness of the beloved’s affection.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: spirit
+  description: An addressed spirit exhorted to search and seek like stream water.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: reason
+  description: An addressed reason exhorted to tread the way of Death to gain Eternal
+    Life.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: God / the Called
+  description: The object of remembrance in whom self is to be forgotten and lost.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Prince of the Fair
+  description: A proud princely beloved figure who goes to the morning chase and whose
+    glance is compared to an arrow.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: speaker / lover
+  description: The first-person voice whose eyes receive messages, whose body is likened
+    to the moon, and whose heart is likened to Zuhra’s lute.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:6
+  name_or_label: Zuhra
+  description: A named figure referenced through the simile of Zuhra’s lute and broken
+    state.
+  role_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+roles:
+- id: role:1
+  label: seeker
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:5
+  basis: The passage uses language of search, seeking, treading a way, and receiving
+    the beloved’s messages.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:2
+  label: object of remembrance and self-loss
+  assigned_to:
+  - fig:3
+  basis: God is to be kept in remembrance until self is forgotten and the seeker is
+    lost in the Called.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: beloved hunter
+  assigned_to:
+  - fig:4
+  basis: The Prince goes forth to the chase, and hearts are wished to fall prey to
+    the arrow of his glance.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: love-stricken speaker
+  assigned_to:
+  - fig:5
+  basis: The speaker describes the body as melting for Love and the heart as like
+    a broken lute.
+  evidence_refs:
+  - ev:6
+  - ev:7
+symbols:
+- id: sym:1
+  label: stream water
+  literal_form: water of a stream
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: way of Death
+  literal_form: way of Death
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Eternal Life
+  literal_form: Eternal Life
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: self-forgetting in the Called
+  literal_form: self forgotten; lost in the Called; caller and call
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: garden and rose until Resurrection
+  literal_form: garden and rose in flower to Resurrection
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: arrow of the glance
+  literal_form: arrow of His glance
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:7
+  label: eye messages
+  literal_form: messages passing from his eye to mine
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:8
+  label: melting moon body
+  literal_form: body like the moon melting for Love
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:9
+  label: broken lute heart
+  literal_form: heart like Zuhra’s lute with broken strings
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+scenes:
+- id: scene:1
+  label: Seeking, death-way, and self-forgetting remembrance
+  summary: Spirit and reason are exhorted to seek, to take the way of Death toward
+    Eternal Life, and to remember God until the self is forgotten in the Called.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: The Prince of the Fair at the morning chase
+  summary: A beautiful princely figure goes forth to the morning chase; the speaker
+    wishes hearts to become prey to the arrow of his glance, while messages pass from
+    his eye to the speaker’s eye.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Moon and broken lute images of love
+  summary: The speaker describes bodily and inward states through images of a moon
+    melting for Love and a broken lute, then redirects attention to the sweetness
+    of the beloved’s affection.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:8
+  - sym:9
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Self-forgetting union in the divine call
+  taxonomy_refs:
+  - annihilation_union
+  basis: The passage explicitly joins remembrance of God with forgetting self and
+    being lost in the Called without distraction of caller and call.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage is lyric and devotional rather than a narrative account of
+    union.
+- id: motif:2
+  label: Mystical quest by way of death toward life
+  taxonomy_refs:
+  - mystical_quest
+  - death_rebirth
+  basis: Spirit and reason are exhorted to seek and to tread the way of Death in order
+    to gain Eternal Life.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: Death and life appear as devotional paradoxes; no literal death event
+    is narrated.
+- id: motif:3
+  label: Divine or exalted beloved who wounds and intoxicates the lover
+  taxonomy_refs:
+  - divine_beloved
+  basis: The Prince of the Fair is portrayed as a beloved figure whose glance is an
+    arrow that captures hearts and whose eye sends intoxicating messages to the speaker.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage does not explicitly identify the Prince with God, though the
+    surrounding section and capitalization support a devotional-beloved reading.
+- id: motif:4
+  label: Love as bodily waning and musical brokenness
+  taxonomy_refs: []
+  basis: The speaker’s body is compared to a moon melting for Love and the heart to
+    a lute with broken strings, followed by an emphasis on the sweetness of affection.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: No supplied taxonomy reference directly matches the moon and broken-lute
+    imagery.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 952-958
+  quote_or_summary: "“O spirit,” seek like “the water of a stream”; “O reason,” to
+    gain “Eternal Life” tread “the way of Death.”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 959-961
+  quote_or_summary: "“Keep God in remembrance till self is forgotten,” and be “lost
+    in the Called” without distraction of caller and call."
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: summary
+  locator: lines 963-966
+  quote_or_summary: The poem invokes a garden whose rose may remain in flower until
+    Resurrection and an idol whose beauty scatters the two worlds.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: quote
+  locator: lines 967-970
+  quote_or_summary: The “Prince of the Fair” goes to the morning chase; the speaker
+    wishes hearts to fall prey to “the arrow of His glance.”
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:5
+  type: summary
+  locator: lines 971-973
+  quote_or_summary: Messages pass continually from the beloved’s eye to the speaker’s
+    eye, and the speaker asks that the eyes be gladdened and intoxicated by the message.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: quote
+  locator: lines 975-978
+  quote_or_summary: "“My body is like the moon which is melting for Love,” and the
+    heart is like “Zuhra’s lute” with broken strings."
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:7
+  type: summary
+  locator: lines 979-980
+  quote_or_summary: The speaker tells the hearer not to look at the moon’s waning
+    or Zuhra’s broken state, but to behold the sweetness of the beloved’s affection.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labels involving divine beloved
+    and annihilation are supported by the passage but should be reviewed because the
+    poems are lyric and highly metaphorical.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the provided passage text, locator, source metadata, and supplied taxonomy references were used.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-persian-mystics-rumi-davis-gutenberg__l952-l980
+  passage_sha256=9144e2312075f0414c60973cfc7245d6441ecb2c52ba7a7a3ef7e341e71489c6

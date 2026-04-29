@@ -1,0 +1,456 @@
+---
+record_id: batch.motif.sufi-omar-khayyam-sufistic-quatrains-gutenberg-l3831-l3898
+source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+passage_locator:
+  label: LXXIII. / LXXV. / LXXVI. / LXXVII.; lines 3831-3898
+  start: '3831'
+  end: '3898'
+  translation: The Sufistic Quatrains of Omar Khayyam
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage presents and annotates three quatrains. One prefers a moment
+    of divine light in the tavern to loss in the temple and includes a source quatrain
+    contrasting tavern speech with devotion at the Mihrab without the divine addressee.
+    The next quatrain questions creating conscious beings from nothing, forbidding
+    pleasure, and punishing disobedience eternally; its cited sources emphasize divine
+    foreknowledge, ordination, sin, resurrection, and human helplessness between command
+    and prohibition. The third quatrain frames the creature's condition as an unfair
+    debt or trade, with a cited source describing human formation from earth in a
+    shaping-mould and crucible.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A quatrain states that one flash of the True Light caught in a tavern is better
+    than being lost in a temple.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A translated source quatrain says speaking of the mystery with the divine
+    addressee in a tavern is better than devotions before the Mihrab without the addressee.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The source quatrain addresses a being called the first and last of all created
+    beings and accepts either burning or cherishing by that being.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A quatrain describes conscious something being provoked out of senseless nothing
+    and resenting a yoke of unpermitted pleasure under threat of everlasting penalties.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A cited source states that God fashioned the clay of the speaker's body and
+    knew what would come of it.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The same cited source asks why God should burn the speaker at the Day of Resurrection
+    if sin occurs by divine order.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Another cited source says mortals stand helpless between order and prohibition.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The cited source uses the image of permission to slant a cup but not spill
+    its contents.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: A quatrain frames the creature as being asked to repay pure gold for dross
+    and to answer for a debt never contracted.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: A cited source says earth was mixed in a shaping-mould and the resulting being
+    was turned out of a crucible.
+  category: object
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: quatrain speaker / mortal creature
+  description: The implied speaker or human creature who speaks of divine light, helplessness,
+    sin, debt, and formation.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: divine addressee / True Light / God
+  description: A divine figure addressed as True Light, Thee, first and last of all
+    created beings, and God in cited source material; associated with kindling, burning,
+    cherishing, fashioning, knowing, ordering, and judging.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: mortals
+  description: Mortals described as helpless between divine order and prohibition.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: speaker-supplicant
+  assigned_to:
+  - fig:1
+  basis: The speaker evaluates tavern and temple devotion and accepts being burned
+    or cherished in the cited quatrain.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: divine beloved or addressee
+  assigned_to:
+  - fig:2
+  basis: The divine presence is preferred in the tavern over formal devotion without
+    that presence and is addressed directly as Thee.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: helpless creature
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: The passage describes a helpless creature, mortals standing helpless, and
+    a creature unable to answer a debt.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:4
+  label: creator-judge
+  assigned_to:
+  - fig:2
+  basis: God fashions the clay of the body, knows what will come of it, orders sin,
+    and is questioned as to burning the speaker at resurrection.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: True Light / flash
+  literal_form: Light or flash caught in the tavern
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: fire / burning
+  literal_form: Kindling, wrath-consuming, burning at resurrection, and being burned
+    or cherished
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: sym:3
+  label: tavern
+  literal_form: Tavern where divine mystery or light is encountered
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:4
+  label: temple / Mihrab
+  literal_form: Temple and Mihrab as places of formal devotion
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:5
+  label: clay body / earth mould
+  literal_form: Clay of the body, earth of a shaping-mould
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: sym:6
+  label: cup
+  literal_form: Cup that may be slanted but not spilled
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:7
+  label: gold, dross, and debt
+  literal_form: Pure gold, dross-allayed loan, and unpaid debt imagery
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:8
+  label: crucible
+  literal_form: Crucible from which the speaker was turned out
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Divine presence in tavern versus formal worship without presence
+  summary: The passage contrasts a moment of divine light or mystery in a tavern with
+    formal devotion in a temple or before a Mihrab without the divine addressee.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Creation, prohibition, and punishment questioned
+  summary: A quatrain and cited source question the creation of conscious beings,
+    the imposition of prohibited pleasure, and punishment despite divine foreknowledge
+    or order.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Mortals helpless between command and prohibition
+  summary: A cited quatrain describes mortals as helpless between an order and a prohibition,
+    using the cup image.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Unfair debt and creaturely formation
+  summary: A quatrain frames human obligation as an impossible debt or trade, while
+    a cited source describes the being's formation from earth in a mould and crucible.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:5
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Divine presence preferred over formal ritual setting
+  taxonomy_refs:
+  - divine_beloved
+  basis: The passage states that speech of the mystery with the divine addressee in
+    a tavern is better than devotion at the Mihrab without the addressee.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The motif label is based on the devotional contrast in the passage; the
+    text does not explicitly use the phrase divine beloved.
+- id: motif:2
+  label: Divine judgment questioned under predestination
+  taxonomy_refs:
+  - divine_judgment
+  basis: The quatrains question everlasting penalties, burning at the Day of Resurrection,
+    and punishment for sin known or ordered by God.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage frames the issue as a complaint or paradox, not as a systematic
+    doctrine.
+- id: motif:3
+  label: Human helplessness before command and prohibition
+  taxonomy_refs: []
+  basis: Mortals are described as helpless between an order and prohibition, and the
+    creature cannot answer a debt it never contracted.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: No specific supplied taxonomy family directly matches this pattern.
+- id: motif:4
+  label: Creation as clay, mould, and crucible formation
+  taxonomy_refs: []
+  basis: The cited sources describe God fashioning the clay of the body and earth
+    being mixed in a shaping-mould, with the being turned out of a crucible.
+  evidence_refs:
+  - ev:4
+  - ev:7
+  confidence: medium
+  cautions: The passage uses formation imagery but does not elaborate a full creation
+    myth.
+- id: motif:5
+  label: Unjust sacred exchange or debt
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The quatrain frames divine-human obligation as repayment of pure gold for
+    dross and a debt never contracted.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The exchange imagery is metaphorical and polemical; the passage does not
+    present a ritual exchange.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself presents LXXVII as translated from O. 2, and both passages
+    share the pattern of divine presence in a tavern being preferable to formal devotion
+    without that presence.
+  claim_level: same_motif
+  target: O. 2 source quatrain within the cited Omar Khayyam quatrain tradition
+  evidence_refs:
+  - ev:1
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a source-text comparison supplied by the passage; no independent
+    historical claim is added.
+- id: claim:2
+  claim: The passage identifies C. 85 and N. 226 as main sources for LXXVIII, and
+    the shared pattern concerns divine foreknowledge or ordination, prohibition, sin,
+    and punishment.
+  claim_level: same_motif
+  target: C. 85 and N. 226 source quatrains within the cited rubaiyat tradition
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim is limited to the editor's stated source relationship and
+    thematic overlap in the provided passage.
+- id: claim:3
+  claim: The passage states that LXXIX seems specially inspired by C. 201 and C. 433;
+    the included C. 201 text shares concern with created nature and inability to be
+    otherwise than made.
+  claim_level: same_function
+  target: C. 201 and C. 433 source quatrains within the cited rubaiyat tradition
+  evidence_refs:
+  - ev:6
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: C. 433 is mentioned but not quoted in the supplied passage; the comparison
+    relies mainly on the editorial note and the quoted C. 201 text.
+evidence:
+- id: ev:1
+  type: summary
+  locator: LXXVII, opening quatrain; lines 3831-3836 in supplied range
+  quote_or_summary: One flash of the True Light caught in the tavern is said to be
+    better than being lost in the temple.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: LXXVII, O. 2 translation and references
+  quote_or_summary: The cited translation says speaking of mystery with Thee in a
+    tavern is better than devotions before the Mihrab without Thee; it addresses the
+    first and last of created beings and accepts being burned or cherished.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: LXXVIII, opening quatrain
+  quote_or_summary: The quatrain questions provoking conscious being from nothing
+    into resentment of a yoke of unpermitted pleasure under pain of everlasting penalties.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: LXXVIII, C. 85 translation and references
+  quote_or_summary: A cited source says God fashioned the clay of the speaker's body,
+    knew what would come of it, and is questioned for burning the speaker at the Day
+    of Resurrection when sin occurs by divine order.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: LXXVIII, N. 226 translation and references
+  quote_or_summary: A cited source says abstinence is impossible despite being ordered
+    and ordained; mortals stand helpless between order and prohibition, with a cup-slanting
+    image.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: LXXIX, opening quatrain
+  quote_or_summary: The quatrain asks whether a helpless creature must repay pure
+    gold for dross and answer for a debt never contracted, calling it a sorry trade.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: LXXIX, C. 201 translation and references
+  quote_or_summary: A cited source says the earth of the speaker's shaping-mould was
+    mixed, wonders were produced, and the speaker cannot be better because this is
+    how he came from the crucible.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is strong because the passage is explicit. Motif taxonomy
+    assignment is more interpretive, especially for sacred exchange and divine beloved.
+    Comparison claims are restricted to source relationships and thematic parallels
+    stated in the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata. No external taxonomy IDs beyond the provided available refs were added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-omar-khayyam-sufistic-quatrains-gutenberg__l3831-l3898
+  passage_sha256=b57acccaabe028e6767e2f5422647c94566205f1f30fe394f7acf1ec81e1851d

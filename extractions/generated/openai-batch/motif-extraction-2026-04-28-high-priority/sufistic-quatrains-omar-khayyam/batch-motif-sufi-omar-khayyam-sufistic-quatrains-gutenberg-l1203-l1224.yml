@@ -1,0 +1,293 @@
+---
+record_id: batch.motif.sufi-omar-khayyam-sufistic-quatrains-gutenberg-l1203-l1224
+source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+passage_locator:
+  label: XXVII. / XXVIII. / XXIX. / XXXI.; lines 1203-1224
+  start: '1203'
+  end: '1224'
+  translation: The Sufistic Quatrains of Omar Khayyam
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The speaker describes being carried into and out of the universe without
+    knowing origin, purpose, or destination; asks why one is hurried into and out
+    of life without consent; calls for another cup to drown the memory of the question;
+    and recounts rising from Earth's center through the Seventh Gate to Saturn's throne,
+    unraveling many knots but not the knot of human death and fate.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The speaker says entry into the universe occurs without knowing why or from
+    where, likened to water flowing unwillingly.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker says departure from the universe occurs without knowing whither,
+    likened to wind blowing across a waste.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The speaker asks why one is hurried hither and hence without being asked.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The speaker calls for another cup to drown the memory of the impertinent question.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The speaker says he rose from Earth's Centre through the Seventh Gate and
+    sat on the Throne of Saturn.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The speaker says many knots were unraveled by the road, but not the knot of
+    human death and fate.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: speaker
+  description: First-person voice who describes ignorance of origin and destination,
+    asks questions, calls for a cup, and reports a cosmic ascent.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: existential questioner
+  assigned_to:
+  - fig:1
+  basis: The speaker repeatedly asks or states uncertainty about whence, why, and
+    whither.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: cosmic ascender
+  assigned_to:
+  - fig:1
+  basis: The speaker reports rising from Earth's Centre through the Seventh Gate to
+    the Throne of Saturn.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: water
+  literal_form: Water flowing willy-nilly
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: wind
+  literal_form: Wind blowing along the Waste
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: cup
+  literal_form: Another and another Cup
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: Earth's Centre
+  literal_form: Earth's Centre
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: Seventh Gate
+  literal_form: Seventh Gate
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: Throne of Saturn
+  literal_form: Throne of Saturn
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:7
+  label: knots
+  literal_form: Many Knots; the Knot of Human Death and Fate
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Unknowing passage through the universe
+  summary: The speaker describes being carried into and out of the universe without
+    knowledge of origin, purpose, or destination, using water and wind similes.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Question and cup
+  summary: The speaker asks why one is hurried into and out of existence without consent,
+    then calls for repeated cups to drown the memory of the question.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Ascent to Saturn and unsolved fate
+  summary: The speaker rises from Earth's Centre through the Seventh Gate to Saturn's
+    throne, unravels many knots, but cannot unravel the knot of human death and fate.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Unknowing entry and departure from existence
+  taxonomy_refs: []
+  basis: The passage frames human existence as involuntary movement into and out of
+    the universe without knowledge of origin, purpose, or destination.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is a thematic motif candidate rather than a named taxonomy item from
+    the supplied list.
+- id: motif:2
+  label: Cup used to suppress existential questioning
+  taxonomy_refs: []
+  basis: After asking why one is hurried through existence, the speaker calls for
+    repeated cups to drown the memory of the question.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage does not explicitly define the cup's contents or ritual function.
+- id: motif:3
+  label: Cosmic ascent through gates
+  taxonomy_refs:
+  - ascent
+  - mystical_quest
+  basis: The speaker rises from Earth's Centre through the Seventh Gate and reaches
+    the Throne of Saturn.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage reports the ascent briefly and does not detail a full journey
+    sequence.
+- id: motif:4
+  label: Wisdom gained yet death and fate remain unresolved
+  taxonomy_refs:
+  - wisdom
+  basis: The speaker unravels many knots on the road but cannot unravel the knot of
+    human death and fate.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The identification with wisdom is based on problem-solving imagery rather
+    than an explicit wisdom figure or doctrine.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 1203-1206; XXIX
+  quote_or_summary: '"Into this Universe, and why not knowing, / Nor whence, like
+    Water willy-nilly flowing"'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 1205-1206; XXIX
+  quote_or_summary: '"And out of it, as Wind along the Waste, / I know not whither,
+    willy-nilly blowing."'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 1209-1210; XXX
+  quote_or_summary: '"What, without asking, hither hurried whence? / And, without
+    asking, whither hurried hence!"'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: quote
+  locator: lines 1211-1212; XXX
+  quote_or_summary: '"Another and another Cup to drown / The Memory of this Impertinence!"'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:5
+  type: quote
+  locator: lines 1217-1218; XXXI
+  quote_or_summary: '"Up from Earth''s Centre through the Seventh Gate / I rose, and
+    on the Throne of Saturn sate"'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:6
+  type: quote
+  locator: lines 1219-1220; XXXI
+  quote_or_summary: '"And many Knots unravel''d by the Road; / But not the Knot of
+    Human Death and Fate."'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward from the supplied passage. Motif assignments
+    are limited to available taxonomy references where directly supported. No comparison
+    claims were made because the passage itself does not explicitly compare traditions
+    or motif families.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-omar-khayyam-sufistic-quatrains-gutenberg__l1203-l1224
+  passage_sha256=459d1ac0eed4983f26422c738504a57c125ea2f2d3f22640f29ab3c92edd77f6

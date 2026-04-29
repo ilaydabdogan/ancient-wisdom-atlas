@@ -1,0 +1,248 @@
+---
+record_id: batch.motif.sufi-persian-mystics-rumi-davis-gutenberg-l2067-l2081
+source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+passage_locator:
+  label: THE WISDOM OF THE WEAK / WHITE NIGHTS / SAINT AND HYPOCRITE / HARSHNESS AND
+    ADORATION; lines 2067-2081
+  start: '2067'
+  end: '2081'
+  translation: 'The Persian Mystics: Jalálu''d-dín Rúmí'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: His bitters are very sweets to my soul
+  summary: The speaker complains of the beloved figure's severity, yet treats cries,
+    chastening, grief, and pain as pleasing and spiritually beneficial. The speaker
+    compares absence from the beloved's face to night without day and imagines grief
+    as eye-salve that makes the eyes overflow like seas with pearls.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage is voiced as a complaint about the severity of a figure called
+    the Fickle Fair One.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker says his cries sound sweet to the addressed figure and that this
+    figure requires cries and groans from the two worlds.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The speaker describes himself as under a chastening hand and bewitched by
+    the addressed figure.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The speaker says he is like night without the addressed figure's day and without
+    the vision of that figure's face.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The speaker calls the figure's bitters sweet to his soul and says he is enamoured
+    of his grief and pain.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The speaker says grief and pain make him well-pleasing to a peerless King.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The speaker imagines using the dust of grief as salve for his eyes so that
+    his eyes may teem like seas with pearls.
+  category: object
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: speaker
+  description: First-person speaker who complains, cries, wails, and values grief
+    and pain.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Fickle Fair One / Him / peerless King
+  description: Addressed figure described as severe, sweetened by cries, chastening,
+    illuminating the day by the vision of his face, and called a peerless King.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: suffering adorer
+  assigned_to:
+  - fig:1
+  basis: The speaker cries, wails, and says grief and pain make him pleasing to the
+    addressed figure.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: severe beloved ruler
+  assigned_to:
+  - fig:2
+  basis: The addressed figure is called the Fickle Fair One and peerless King, is
+    associated with severity and chastening, and receives the speaker's cries.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: night and day
+  literal_form: night without His day; face that illumines the day
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: bitters as sweets
+  literal_form: bitters that are sweet to the speaker's soul
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: dust of grief as eye-salve
+  literal_form: dust of grief used as salve for the eyes
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: eyes as seas with pearls
+  literal_form: eyes, like seas, teeming with pearls
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Complaint transformed into adoration
+  summary: The speaker voices a complaint about the beloved figure's severity, but
+    presents crying, chastening, grief, and pain as desirable because they please
+    the beloved figure and open the speaker's vision.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: divine beloved whose severity is adored
+  taxonomy_refs:
+  - divine_beloved
+  basis: The addressed figure is a fair one and king whose harshness, chastening,
+    and bitters are received by the speaker as sweetness and a reason for adoration.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage does not explicitly name the figure as divine within the excerpt;
+    the label is based on devotional address and the supplied Sufi context.
+- id: motif:2
+  label: opposites reversed in mystical devotion
+  taxonomy_refs:
+  - duality
+  basis: 'The passage reverses ordinary valuations: cries are sweet, bitters become
+    sweets, grief and pain are loved, and night is contrasted with the beloved''s
+    illuminating day.'
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: This is an interpretive grouping of several images rather than a single
+    named motif in the passage.
+- id: motif:3
+  label: grief as means of vision and treasure
+  taxonomy_refs:
+  - mystical_quest
+  basis: The speaker uses the dust of grief as eye-salve so that the eyes may teem
+    with pearls, presenting suffering as a means to altered or enriched sight.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage gives the image directly but does not narrate a quest sequence.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 2067-2071
+  quote_or_summary: '"make complaint / Of the severity of that Fickle Fair One"; the
+    speaker says his cries sound sweet and that the figure requires cries and groans.'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 2072-2075
+  quote_or_summary: The speaker asks how he could fail to wail under the figure's
+    chastening hand, be bewitched, or be other than night without the figure's day
+    and illuminating face.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: quote
+  locator: lines 2076-2079
+  quote_or_summary: '"His bitters are very sweets to my soul"; the speaker says he
+    is enamoured of grief and pain because it makes him well-pleasing to his peerless
+    King.'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: summary
+  locator: lines 2080-2081
+  quote_or_summary: The speaker uses the dust of grief as salve for his eyes so that
+    his eyes, like seas, may teem with pearls.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal elements are clear in the passage. Motif labels are cautious and
+    based only on the provided excerpt and available taxonomy references. No passage-supported
+    comparison claims were extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No external comparisons or unprovided taxonomy identifiers were added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-persian-mystics-rumi-davis-gutenberg__l2067-l2081
+  passage_sha256=f57e4c6ec8de733372360ff0f8ab101008fe49a210d82ea191456f615ce08679

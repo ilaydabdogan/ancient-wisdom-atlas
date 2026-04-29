@@ -1,0 +1,485 @@
+---
+record_id: batch.motif.sufi-persian-mystics-rumi-davis-gutenberg-l2045-l2064
+source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+passage_locator:
+  label: THE GIFTS OF THE BELOVED / THE WISDOM OF THE WEAK / WHITE NIGHTS / SAINT
+    AND HYPOCRITE; lines 2045-2064
+  start: '2045'
+  end: '2064'
+  translation: 'The Persian Mystics: Jalálu''d-dín Rúmí'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: Watch the face of each one, regard it well, / It may be by serving thou wilt
+    recognise Truth's face.
+  summary: 'The passage warns the listener to discern true holiness from hypocrisy.
+    It compares hypocrites to a fowler who imitates a bird-call to trap birds, says
+    hypocrites steal the language of Dervishes to deceive the simple, contrasts righteous
+    works with evil works, and contrasts Muhammad with false Musailima. It ends with
+    paired wine images: divine/righteous wine gives musk perfume, while other wine
+    is linked with penalties and pains.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The speaker tells the listener to watch and regard each person's face carefully.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says there are many demons with men's faces and warns against
+    joining hands with everyone.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A fowler sounds a decoy whistle so birds will mistake it for a bird-call,
+    descend, and encounter a net and knife.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Vile hypocrites are said to steal the language of Dervishes in order to beguile
+    the simple.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The works of the righteous are described as light and heat.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The works of the evil are described as treachery and shamelessness.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The passage says stuffed lions are made to scare the simple.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The title of Muhammad is given to false Musailima, but Musailima retains the
+    name Liar while Muhammad retains the title Sublimest of beings.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The wine of God, glossed in the passage as the righteous, yields a perfume
+    of musk; another wine, glossed as the evil, is reserved for penalties and pains.
+  category: attribute
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: addressed listener
+  description: The person addressed by the instruction to watch faces and recognize
+    Truth's face through serving.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: demons with men's faces
+  description: Beings described as demons that have men's faces.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: fowler
+  description: A bird-catcher who sounds a decoy whistle to beguile birds into a snare.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: birds
+  description: Birds that hear a simulated bird-call, descend from the air, and find
+    net and knife.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: vile hypocrites
+  description: Hypocrites who steal the language of Dervishes to beguile the simple
+    with trickery.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Dervishes
+  description: Religious figures whose language is stolen by hypocrites.
+  role_refs: []
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: the simple
+  description: People described as being beguiled by hypocrites and scared by stuffed
+    lions.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:8
+  name_or_label: the righteous
+  description: Those whose works are light and heat and who are glossed with the wine
+    of God.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: fig:9
+  name_or_label: the evil
+  description: Those whose works are treachery and shamelessness and who are glossed
+    with another wine reserved for penalties and pains.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: fig:10
+  name_or_label: false Musailima
+  description: A figure given the title of Muhammad but said to retain the name Liar.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+- id: fig:11
+  name_or_label: Muhammad
+  description: A figure whose title is wrongly given to false Musailima and who retains
+    the title Sublimest of beings.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: discernment-seeking addressee
+  assigned_to:
+  - fig:1
+  basis: The addressee is told to watch faces, serve, and recognize Truth's face.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: deceiver by false appearance or imitation
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:5
+  basis: Demons have men's faces; the fowler simulates a bird-call; hypocrites steal
+    Dervish language to beguile others.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:3
+  label: deceived or vulnerable target
+  assigned_to:
+  - fig:4
+  - fig:7
+  basis: Birds are beguiled by the decoy call; the simple are beguiled and scared.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:4
+  label: righteous exemplar
+  assigned_to:
+  - fig:8
+  - fig:11
+  basis: The righteous are linked with works of light and heat and the wine of God;
+    Muhammad retains the title Sublimest of beings.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:5
+  label: evil counterpart
+  assigned_to:
+  - fig:9
+  basis: The evil are linked with treachery, shamelessness, and wine reserved for
+    penalties and pains.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:6
+  label: false claimant named liar
+  assigned_to:
+  - fig:10
+  basis: False Musailima is given Muhammad's title but retains the name Liar.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: face
+  literal_form: faces, including Truth's face and men's faces on demons
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: joined hand
+  literal_form: joining hand with every one
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: decoy whistle
+  literal_form: fowler's whistle simulating a bird-call
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: net and knife
+  literal_form: net and knife found by descending birds
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: stolen Dervish language
+  literal_form: language of Dervishes used by hypocrites
+  associated_figures:
+  - fig:5
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: light and heat
+  literal_form: light and heat as the works of the righteous
+  associated_figures:
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:7
+  label: stuffed lions
+  literal_form: stuffed lions made to scare the simple
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:8
+  label: names and titles
+  literal_form: the title of Muhammad, the name Liar, and the title Sublimest of beings
+  associated_figures:
+  - fig:10
+  - fig:11
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:9
+  label: wine of God and other wine
+  literal_form: wine of God yielding musk perfume; other wine reserved for penalties
+    and pains
+  associated_figures:
+  - fig:8
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: instruction in discernment
+  summary: The speaker instructs the listener to watch faces closely, recognize Truth's
+    face through service, and avoid joining hands with everyone because deceptive
+    appearances exist.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: fowler's deceptive call
+  summary: A fowler uses a decoy whistle to imitate a bird-call; birds descend and
+    encounter net and knife.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: hypocrites imitate Dervishes
+  summary: Hypocrites steal the language of Dervishes in order to trick the simple.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: contrast of righteous and evil works
+  summary: The passage contrasts the works of the righteous, described as light and
+    heat, with the works of the evil, described as treachery and shamelessness.
+  figure_refs:
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: false and true titles
+  summary: Stuffed lions scare the simple, and false Musailima is given Muhammad's
+    title, but Musailima retains the name Liar while Muhammad retains the title Sublimest
+    of beings.
+  figure_refs:
+  - fig:7
+  - fig:10
+  - fig:11
+  symbol_refs:
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:5
+- id: scene:6
+  label: two wines and their outcomes
+  summary: The wine of God, associated with the righteous, yields musk perfume, while
+    another wine, associated with the evil, is reserved for penalties and pains.
+  figure_refs:
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:9
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: discernment between true and false holiness
+  taxonomy_refs:
+  - wisdom
+  basis: The passage instructs the listener to examine appearances, recognize Truth's
+    face, and distinguish saints from hypocrites.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: The passage is didactic rather than narrative; the motif is extracted
+    from admonition and analogy.
+- id: motif:2
+  label: deceptive imitation that traps the unwary
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The fowler imitates a bird-call to trap birds, and hypocrites imitate Dervish
+    language to beguile the simple.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: No named trickster figure is present; the motif is based on the shared
+    deceptive function of imitation.
+- id: motif:3
+  label: moral duality of righteous and evil works
+  taxonomy_refs:
+  - duality
+  basis: The passage sets paired contrasts between righteous and evil works, true
+    and false names, and two wines with different outcomes.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The duality is ethical and poetic, not a full cosmological dualism.
+- id: motif:4
+  label: false claimant exposed by enduring name
+  taxonomy_refs:
+  - wisdom
+  basis: False Musailima is given Muhammad's title, but Musailima retains the name
+    Liar while Muhammad retains an exalted title.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage gives a compact allusion and does not narrate the background
+    of Musailima.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2045-2048
+  quote_or_summary: The listener is told to watch each face, possibly recognize Truth's
+    face through serving, and avoid joining hands with everyone because there are
+    demons with men's faces.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 2049-2052
+  quote_or_summary: A fowler sounds a decoy whistle; birds mistake it for a bird-call,
+    descend from the air, and find a net and knife.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 2053-2054
+  quote_or_summary: Vile hypocrites steal the language of Dervishes in order to beguile
+    the simple with trickery.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: quote
+  locator: lines 2055-2056
+  quote_or_summary: The works of the righteous are light and heat; the works of the
+    evil are treachery and shamelessness.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:5
+  type: summary
+  locator: lines 2057-2060
+  quote_or_summary: Stuffed lions scare the simple; false Musailima is given Muhammad's
+    title, but Musailima retains the name Liar and Muhammad the title Sublimest of
+    beings.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:6
+  type: summary
+  locator: lines 2061-2064
+  quote_or_summary: The wine of God, glossed as the righteous, yields musk perfume;
+    the other wine, glossed as the evil, is reserved for penalties and pains.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal elements are clear in the provided English passage. Motif assignments
+    are cautious because the passage is a short didactic poem using analogies rather
+    than a complete mythic narrative. No comparison claims were added because the
+    passage itself does not establish an external comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the provided passage text, source metadata, and available taxonomy references.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-persian-mystics-rumi-davis-gutenberg__l2045-l2064
+  passage_sha256=74aa45cd83e78b15682804b8dae43b840a5801c7163911c454f689690b77d426

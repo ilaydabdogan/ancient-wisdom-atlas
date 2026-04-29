@@ -1,0 +1,559 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l13517-l13608
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+passage_locator:
+  label: EXPLANATION. / EXPLANATION. / EXPLANATION. / EXPLANATION.; lines 13517-13608
+  start: '13517'
+  end: '13608'
+  translation: The Metamorphoses of Ovid, Books VIII-XV
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The explanatory note recounts the Roman importation of Æsculapius from
+    Epidaurus during a plague, with the god identified in serpent form and later housed
+    on the Island of the Tiber. The following fable introduces Julius Caesar’s assassination,
+    Venus’s anxious appeal to the gods, the gods’ inability to overturn Fate, numerous
+    ominous portents, and the planned murder in the Senate-house; Caesar is presented
+    as destined for divinization as a star and as the father of Augustus.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Rome is described as suffering a frightful pestilence, after which the Sibylline
+    books are consulted for a remedy.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: An embassy is sent to Epidaurus, and a serpent is delivered to the delegates;
+    priests state that the serpent is the god himself.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The serpent travels by ship, leaves the ship near Antium for three days, returns
+    voluntarily, and later hides among reeds on the Island of the Tiber.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The Romans interpret the serpent’s choice of place as divine habitation and
+    build a temple there in the god’s honor.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Julius Caesar is said to be made a deity and changed into a new planet or
+    star with a brilliant train.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Venus sees that a sad death is being prepared for Caesar and that conspirators’
+    weapons are being brandished.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Venus appeals to the gods to avert the crime and to prevent the murder of
+    the priest from extinguishing the flames of Vesta.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The gods cannot frustrate the decrees of the aged sisters, but portents are
+    given before the crime.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: Portents include sounds of arms and trumpets in the sky, a darkened sun, burning
+    torches among the stars, blood in rain, altered lights of Lucifer and the moon,
+    owls, weeping statues, threatening voices in sacred groves, bad sacrificial entrails,
+    howling dogs, ghosts, and earthquakes.
+  category: object
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: Despite divine warnings, swords are brought into a temple, and the Senate-house
+    is selected for the murder.
+  category: sequence
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Æsculapius
+  description: A healing deity whose arrival from Epidaurus to Rome is associated
+    with ending a plague; the passage identifies him with a serpent delivered to Roman
+    delegates.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: Serpent of Æsculapius
+  description: A serpent delivered at Epidaurus, taken aboard ship, leaving and returning
+    near Antium, then concealing itself among reeds on the Island of the Tiber.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Roman delegates
+  description: Envoys sent by Rome to Epidaurus who receive the serpent and carry
+    it by ship.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Priests of the Deity
+  description: Priests who assure the Roman delegates that the delivered serpent is
+    the god himself.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Julius Caesar
+  description: A Roman ruler, pontiff, and ancestor of Augustus who is targeted for
+    assassination and described as becoming a deity, a planet, and a star.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:10
+- id: fig:6
+  name_or_label: Augustus / our Caesar
+  description: The son or progeny of Julius Caesar, presented as so great that Julius’s
+    fatherhood is his most ennobling act.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: Venus
+  description: The resplendent mother of Æneas and ancestor of Caesar who becomes
+    anxious and petitions the gods against Caesar’s impending murder.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: fig:8
+  name_or_label: Conspirators
+  description: Those whose arms and impious swords are directed against Caesar.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:10
+- id: fig:9
+  name_or_label: Gods above
+  description: Divinities addressed by Venus; they are moved by her words but cannot
+    overturn the decrees of Fate.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: fig:10
+  name_or_label: Aged sisters
+  description: The figures whose iron decrees cannot be frustrated by the gods.
+  role_refs:
+  - role:11
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: plague-ending deity
+  assigned_to:
+  - fig:1
+  basis: The Sibylline books say the plague will not cease until Æsculapius is brought
+    from Epidaurus to Rome.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: serpent-form divine presence
+  assigned_to:
+  - fig:2
+  basis: Priests assure the envoys that the serpent delivered to them is the god himself.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: sacred transporters
+  assigned_to:
+  - fig:3
+  basis: The Roman delegates take the serpent aboard ship and continue the voyage
+    to Rome.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: divine identifiers
+  assigned_to:
+  - fig:4
+  basis: The priests identify the serpent as the deity.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: assassination victim
+  assigned_to:
+  - fig:5
+  basis: The passage says a sad death is being prepared for Caesar and that swords
+    are brought for the murder.
+  evidence_refs:
+  - ev:6
+  - ev:10
+- id: role:6
+  label: deified ruler
+  assigned_to:
+  - fig:5
+  basis: Caesar is said to become a deity, a new planet, and a star with brilliant
+    train.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: legitimating progeny
+  assigned_to:
+  - fig:6
+  basis: The passage states that Julius Caesar’s greatest act was being father of
+    the present Caesar, under whose tutelage the gods care for the human race.
+  evidence_refs:
+  - ev:5
+- id: role:8
+  label: divine intercessor and ancestor
+  assigned_to:
+  - fig:7
+  basis: Venus perceives the plot and pleads with the gods to avert the murder.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:9
+  label: treacherous attackers
+  assigned_to:
+  - fig:8
+  basis: The passage describes treason, impious swords, and conspirators’ arms against
+    Caesar.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:10
+  label: portent-giving but fate-limited gods
+  assigned_to:
+  - fig:9
+  basis: The gods are moved by Venus but cannot frustrate the decrees; they give tokens
+    of woe.
+  evidence_refs:
+  - ev:8
+- id: role:11
+  label: decreers of fate
+  assigned_to:
+  - fig:10
+  basis: Their iron decrees cannot be frustrated by the gods.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: serpent as god
+  literal_form: serpent
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: ship transporting sacred presence
+  literal_form: ship
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: Island of the Tiber habitation
+  literal_form: island, reeds, and temple site
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: star of deification
+  literal_form: new planet and star with brilliant train
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: flames of Vesta
+  literal_form: sacred flames
+  associated_figures:
+  - fig:5
+  - fig:7
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: impious swords
+  literal_form: brandished arms and drawn swords
+  associated_figures:
+  - fig:5
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:10
+- id: sym:7
+  label: omens of approaching murder
+  literal_form: sky-noises, darkened sun, torches among stars, blood-rain, blood-marked
+    moon, owl, weeping statues, entrails, dogs, ghosts, earthquakes
+  associated_figures:
+  - fig:9
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:8
+  - ev:9
+scenes:
+- id: scene:1
+  label: Importation of Æsculapius during plague
+  summary: Rome consults the Sibylline books during a pestilence, sends envoys to
+    Epidaurus, receives a serpent identified as the god, and brings it by ship toward
+    Rome.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Serpent chooses the Tiber Island
+  summary: The serpent leaves the ship, hides among reeds on the Island of the Tiber,
+    and the Romans build a temple there because they believe the god chose the place.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Caesar’s deification and Augustan praise
+  summary: Julius Caesar is described as becoming a deity and star, with special emphasis
+    on his role as father of Augustus.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Venus pleads against Caesar’s murder
+  summary: Venus sees the conspiracy against Caesar, recalls earlier sufferings of
+    her line, and asks the gods to prevent the crime and preserve the flames of Vesta
+    from being extinguished by the priest’s murder.
+  figure_refs:
+  - fig:5
+  - fig:7
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:5
+  label: Portents before the assassination
+  summary: The gods cannot alter Fate but give ominous signs throughout sky, earth,
+    sacred places, sacrifices, and the city before the conspirators bring swords into
+    the Senate-house.
+  figure_refs:
+  - fig:5
+  - fig:8
+  - fig:9
+  - fig:10
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: healing deity arrives in serpent form to end plague
+  taxonomy_refs:
+  - serpent
+  basis: A plague-stricken Rome is instructed to bring Æsculapius from Epidaurus,
+    and a serpent identified as the god is carried toward Rome and given a temple
+    where it chooses to remain.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage is an explanatory note rather than Ovid’s narrated verse at
+    this point; it explicitly identifies the episode as Roman historical explanation.
+- id: motif:2
+  label: dead ruler transformed into celestial divinity
+  taxonomy_refs:
+  - ascent
+  basis: Julius Caesar is described as being made a divinity and changed into a new
+    planet and star with a brilliant train after the assassination context is introduced.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The taxonomy does not include a specific catasterism category; 'ascent'
+    is used only as a broad nearby family.
+- id: motif:3
+  label: dynastic divinization legitimating successor
+  taxonomy_refs:
+  - royal_legitimacy
+  - divine_parent_child
+  basis: Caesar’s divinization is linked to his status as father of Augustus, whose
+    rule is praised as under divine care for the human race.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage presents encomium and genealogy, but the exact mechanism of
+    political legitimacy is interpretive and should be reviewed.
+- id: motif:4
+  label: divine warning signs before unavoidable death
+  taxonomy_refs: []
+  basis: Venus petitions the gods; the gods cannot overturn the decrees of the aged
+    sisters but give many omens before Caesar’s murder proceeds.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:10
+  confidence: high
+  cautions: No supplied taxonomy family precisely names portents before fated murder,
+    so no taxonomy reference is assigned.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 13521-13530
+  quote_or_summary: Rome is ravaged by pestilence; after physicians’ resources fail,
+    the Sibylline books say the plague will not cease until Æsculapius is brought
+    from Epidaurus to Rome.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 13531-13535
+  quote_or_summary: "“a serpent was delivered to them, which the priests of the Deity
+    assured them was the God himself.”"
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: summary
+  locator: lines 13535-13542
+  quote_or_summary: The delegates take the serpent aboard ship; near Antium it leaves
+    for three days and returns of its own accord; at the Island of the Tiber it escapes
+    and hides among reeds.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 13542-13545
+  quote_or_summary: The Romans believe the god has chosen the Tiber Island for habitation,
+    build a temple there, and thereafter turn to Æsculapius in disease and pestilence.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 13547-13572
+  quote_or_summary: The fable summary says Julius Caesar is assassinated and changed
+    into a star; the narrative says Caesar becomes a deity in his city, a new planet
+    and star, and praises him as father of Augustus.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 13572-13577
+  quote_or_summary: Venus perceives that a sad death is being prepared for Caesar
+    and that the conspirators’ weapons are brandished.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 13577-13591
+  quote_or_summary: Venus addresses the deities, describes the treason and impious
+    swords against her line, recalls prior sufferings of Aeneas, and asks the gods
+    to avert the crime and not extinguish Vesta’s flames by the priest’s murder.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 13592-13596
+  quote_or_summary: Venus’s anxious words move the gods, but they cannot frustrate
+    the iron decrees of the aged sisters; they provide tokens of approaching woe.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 13596-13606
+  quote_or_summary: Portents include weapons and trumpets sounding in dark clouds,
+    a livid sun, torches among stars, blood rain, dark Lucifer, a blood-sprinkled
+    moon, Stygian owls, weeping statues, ominous voices in groves, bad sacrificial
+    entrails, howling dogs, ghosts, and earthquakes.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: lines 13606-13608
+  quote_or_summary: The divine warnings cannot avert treachery and Fate; drawn swords
+    are carried into a temple, and the Senate-house is chosen for the murder.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based only on the supplied passage. Motif labels involving
+    catasterism and legitimacy are likely but should be reviewed because the available
+    taxonomy lacks exact categories for some patterns.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not make a comparative claim beyond internal Roman explanatory and Augustan framing.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-8-15-riley-gutenberg__l13517-l13608
+  passage_sha256=36428e33de624f3fd3a8b7eb07b238dde467c94e7058783aa4ef4b34e3183852

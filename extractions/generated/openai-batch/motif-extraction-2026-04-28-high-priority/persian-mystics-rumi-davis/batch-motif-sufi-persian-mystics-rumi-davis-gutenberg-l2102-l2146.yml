@@ -1,0 +1,379 @@
+---
+record_id: batch.motif.sufi-persian-mystics-rumi-davis-gutenberg-l2102-l2146
+source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+passage_locator:
+  label: SAINT AND HYPOCRITE / HARSHNESS AND ADORATION / THE DIVINE ABSORPTION / LOVE
+    MORE THAN SORROW AND JOY; lines 2102-2146
+  start: '2102'
+  end: '2146'
+  translation: 'The Persian Mystics: Jalálu''d-dín Rúmí'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage addresses the Lord or Beloved as beyond description, asks whether
+    human sight, mind, or heart can behold the divine, and says Love exceeds joy and
+    sorrow. It then describes the harper’s heart as emancipated, dying to old life
+    and being regenerated through immersion in divine glory. A final section contrasts
+    night, when people sleep veiled and stars emerge, with morning, when creatures
+    rise, God restores consciousness, and they praise restoration to life.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The speaker addresses the Lord as exalted above description and explanation.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage asks whether bodily sight, human mind, or hearts affected by divine
+    smiles and frowns can behold or conceive the divine.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The garden of Love is described as boundless and as containing fruits besides
+    joy and sorrow.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The true lover is said to be exalted above joy and sorrow and to remain fresh
+    and green independently of autumn or spring.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: The heart of the harper is described as emancipated and freed from both weeping
+    and rejoicing.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The harper’s old life is said to have died, and he is said to have been regenerated.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: The harper is described as exalted above earth and heaven and immersed in
+    the glory of the Lord of glory.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The immersion is described as having no extrication and as like identification
+    with the Very Ocean.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: At night the hidden stars come forth to their work, while people of the world
+    lie unconscious, veiled, and asleep.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: At morning and sunrise every creature raises its head; God restores consciousness
+    to the unconscious, and they praise being restored to life.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Lord / Beauteous One / Beloved / Lord of glory / God
+  description: The divine figure addressed as Lord and Beauteous One, called the Beloved
+    and Lord of glory, and described as restoring consciousness and life.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: true lover
+  description: A lover described as exalted above joy and sorrow and independent of
+    autumn or spring.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: harper
+  description: A harper whose heart is emancipated, whose old life dies, and who is
+    regenerated and immersed in divine glory.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: people of the world / every creature / the unconscious
+  description: A collective lying asleep and veiled at night, then raised from couches,
+    restored to consciousness, and singing praise at morning.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: stars
+  description: Hidden stars that come forth to their work when night returns.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: divine addressee and restorer
+  assigned_to:
+  - fig:1
+  basis: The passage addresses the Lord/Beloved and says God restores consciousness
+    and life.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: lover beyond emotional opposites
+  assigned_to:
+  - fig:2
+  basis: The true lover is said to be above joy and sorrow and independent of seasonal
+    alternation.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: emancipated and regenerated devotee
+  assigned_to:
+  - fig:3
+  basis: The harper’s heart is freed, his old life dies, and he is regenerated and
+    immersed in divine glory.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: sleeping and restored creatures
+  assigned_to:
+  - fig:4
+  basis: The people are asleep and veiled at night, then raised and restored to consciousness
+    and life at morning.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: celestial workers
+  assigned_to:
+  - fig:5
+  basis: The stars are said to come forth to their work at night.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: garden of Love
+  literal_form: fertile, boundless garden containing fruits beyond joy and sorrow
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: paired emotional states
+  literal_form: smiles and frowns; joy and sorrow; weeping and rejoicing
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: seasonal contrast
+  literal_form: autumn and spring
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: Very Ocean
+  literal_form: ocean-like image for immersion without extrication
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: night, veils, and sleep
+  literal_form: night, veils over faces, unconscious sleep
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: morning and sun
+  literal_form: morning bursting forth and the sun arising
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:7
+  label: rings of slaves
+  literal_form: creatures standing in rings as slaves with rings in ears
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Address to the Beloved beyond description
+  summary: The speaker calls upon the Lord, questions the capacity of human perception
+    to behold the divine, and describes Love as exceeding joy and sorrow.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Emancipation and regeneration of the harper
+  summary: The harper’s heart is freed from weeping and rejoicing; his old life dies
+    and he is regenerated.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Immersion in divine glory
+  summary: The harper experiences an indescribable exaltation above earth and heaven,
+    an immersion in the Lord’s glory likened to identification with the Very Ocean.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Night sleep and morning restoration
+  summary: At night the stars emerge while people sleep veiled and unconscious; in
+    the morning creatures rise, God restores consciousness, and they praise being
+    restored to life.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: divine beloved beyond ordinary perception
+  taxonomy_refs:
+  - divine_beloved
+  basis: The passage addresses the Lord as Beauteous One and Beloved and presents
+    the divine as beyond description, explanation, bodily sight, and mental conception.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage is devotional and mystical rather than narrative myth in a
+    strict sense.
+- id: motif:2
+  label: transcending opposed states
+  taxonomy_refs:
+  - duality
+  basis: The passage repeatedly contrasts paired states—smiles and frowns, joy and
+    sorrow, weeping and rejoicing, autumn and spring—and describes the true lover
+    or harper as freed from them.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The dualities are spiritual and affective images, not a cosmological dualism.
+- id: motif:3
+  label: mystical absorption or union
+  taxonomy_refs:
+  - annihilation_union
+  basis: The harper is described as immersed in the glory of the Lord with no extrication
+    and as if identified with the Very Ocean.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The wording is simile-like and mystical; it should not be treated as a
+    literal physical merger.
+- id: motif:4
+  label: death of old life and restoration to life
+  taxonomy_refs:
+  - death_rebirth
+  - resurrection
+  basis: The harper’s old life dies and he is regenerated; later God restores consciousness
+    and the creatures sing that the Lord has restored them to life.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: The harper’s death and regeneration appear spiritual; the morning restoration
+    may be figurative or devotional rather than a full afterlife resurrection scene.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2102-2119
+  quote_or_summary: The speaker invokes the Lord beyond description, questions whether
+    eye, mind, or heart can behold the divine, and says the boundless garden of Love
+    contains fruits beyond joy and sorrow; the true lover is above those states and
+    independent of autumn or spring.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 2120-2125
+  quote_or_summary: The harper’s heart is emancipated; he is freed from weeping and
+    rejoicing, his old life dies, and he is regenerated.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 2126-2132
+  quote_or_summary: The harper undergoes amazement, is exalted above earth and heaven,
+    and experiences indescribable immersion in the glory of the Lord, likened to identification
+    with the Very Ocean.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: lines 2133-2146
+  quote_or_summary: At night hidden stars come forth while people lie unconscious,
+    veiled, and asleep; at morning and sunrise creatures rise, God restores consciousness,
+    and they dance, clap, and sing that the Lord restored them to life.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction uses only the supplied passage. Motif candidates are supported
+    by explicit devotional and mystical language, but some motifs are figurative rather
+    than narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage does not itself make a cross-textual or cross-traditional comparison.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-persian-mystics-rumi-davis-gutenberg__l2102-l2146
+  passage_sha256=920e9401917a6a4841e3fe00c7d5ebacd3a94700ea4d860b187efc86201d1454

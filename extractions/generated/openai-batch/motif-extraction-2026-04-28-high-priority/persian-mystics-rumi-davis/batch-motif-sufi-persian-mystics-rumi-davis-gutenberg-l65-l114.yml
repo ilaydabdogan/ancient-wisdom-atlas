@@ -1,0 +1,283 @@
+---
+record_id: batch.motif.sufi-persian-mystics-rumi-davis-gutenberg-l65-l114
+source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+passage_locator:
+  label: A. T. K. / THIS LITTLE BOOK OF EASTERN WISDOM / IS LOVINGLY INSCRIBED / PREFACE;
+    lines 65-114
+  start: '65'
+  end: '114'
+  translation: 'The Persian Mystics: Jalálu''d-dín Rúmí'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: '"OUR JOURNEY IS TO THE ROSE-GARDEN OF UNION"'
+  summary: The passage contains the title-page and dedication of a book on Jalálu'd-dín
+    Rúmí, including an inscription to A. T. K. and an epigraph about a journey to
+    union. The preface thanks several named contributors and permission holders for
+    selections, translations, and quoted poems used in the volume, and describes the
+    work as an attempt to popularise Rúmí.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The book is titled as part of the Wisdom of the East series and concerns the
+    Persian mystic Jalálu'd-dín Rúmí.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The book is dedicated to A. T. K. as a little book of Eastern wisdom.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: An epigraph attributed to Jalálu'd-dín Rúmí states that the journey is to
+    the rose-garden of union.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The preface thanks R. A. Nicholson, E. H. Whinfield, John Hastie, and others
+    for permissions, translations, quotations, help, sympathy, and interest.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The preface names the Masnavi, the Dīvāni Shamsi Tabrīz, and several poem
+    titles as sources or quoted materials.
+  category: object
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:6
+  text: The preface describes the author's aim as an attempt to popularise the wisest
+    of the Persian Súfís.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: F. Hadland Davis
+  description: Named on the title page as the author and, in the preface, the speaker
+    who thanks contributors and describes the aim of the book.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+- id: fig:2
+  name_or_label: Jalálu'd-dín Rúmí
+  description: Named as the Persian mystic treated by the book and credited with the
+    epigraph about the journey to the rose-garden of union.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:3
+  name_or_label: A. T. K.
+  description: Named recipient of the dedication.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: R. A. Nicholson
+  description: Thanked for permission to use selections from the Dīvāni Shamsi Tabrīz;
+    also named as translator of other lyrical poetry of Rúmí used in the volume.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: E. H. Whinfield
+  description: Thanked for allowing use of quotations from his rendering of the Masnavi.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: John Hastie
+  description: Thanked for permission to quote passages from Professor Hastie's Festival
+    of Spring.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: author and prefatory speaker
+  assigned_to:
+  - fig:1
+  basis: The title page names F. Hadland Davis as author; the preface is written in
+    the first person by the thanking speaker.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+- id: role:2
+  label: named Persian mystic and attributed epigraph speaker
+  assigned_to:
+  - fig:2
+  basis: The title identifies Rúmí as the subject, and the epigraph is attributed
+    to him.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: dedicatee
+  assigned_to:
+  - fig:3
+  basis: The dedication is addressed to A. T. K.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: acknowledged contributor or permission holder
+  assigned_to:
+  - fig:4
+  - fig:5
+  - fig:6
+  basis: The preface thanks these named figures for permissions, translations, and
+    quoted passages.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: rose-garden of union
+  literal_form: rose-garden of union
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: little book of Eastern wisdom
+  literal_form: little book of Eastern wisdom
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Dedication and epigraph
+  summary: The front matter dedicates the book to A. T. K. and presents a Rúmí epigraph
+    about a journey to the rose-garden of union.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Preface acknowledgements
+  summary: The prefatory speaker thanks named contributors and permission holders
+    for use of Rúmí selections, Masnavi quotations, and other quoted poems, and states
+    the aim of popularising Rúmí.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: journey toward union
+  taxonomy_refs:
+  - mystical_quest
+  basis: The epigraph explicitly frames the spiritual aim as a journey to a place
+    of union, expressed as a rose-garden.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage is front matter and gives only a brief epigraph, not a developed
+    narrative of quest or union.
+- id: motif:2
+  label: wisdom transmission through a book
+  taxonomy_refs:
+  - wisdom
+  basis: The front matter identifies the volume with Eastern wisdom, and the preface
+    presents the book as an effort to popularise Rúmí as the wisest of the Persian
+    Súfís.
+  evidence_refs:
+  - ev:2
+  - ev:6
+  confidence: medium
+  cautions: This is a paratextual framing rather than a mythic episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 65-83
+  quote_or_summary: 'Title-page material identifies the work as The Persian Mystics:
+    Jalálu''d-dín Rúmí, in the Wisdom of the East series, by F. Hadland Davis.'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; short summary only.
+- id: ev:2
+  type: quote
+  locator: lines 85-91
+  quote_or_summary: 'Dedicated to A. T. K.: "THIS LITTLE BOOK OF EASTERN WISDOM /
+    IS LOVINGLY INSCRIBED".'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; brief quotation.
+- id: ev:3
+  type: quote
+  locator: lines 93-94
+  quote_or_summary: '"OUR JOURNEY IS TO THE ROSE-GARDEN OF UNION" — Jalálu''d-dín
+    Rúmí.'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; brief quotation.
+- id: ev:4
+  type: summary
+  locator: lines 98-105
+  quote_or_summary: The preface thanks R. A. Nicholson, his publishers, E. H. Whinfield,
+    and John Hastie for permissions to use selections, renderings, and quoted passages.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; summary only.
+- id: ev:5
+  type: summary
+  locator: lines 101-109
+  quote_or_summary: The preface names the Masnavi, the Dīvāni Shamsi Tabrīz, Festival
+    of Spring, several poem titles, and Nicholson's translations from Rúmí's lyrical
+    poetry.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; summary only.
+- id: ev:6
+  type: quote
+  locator: lines 110-114
+  quote_or_summary: The prefatory speaker thanks others for interest in the attempt
+    to "popularise the wisest of the Persian Súfís."
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; brief quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is mostly title-page, dedication, and acknowledgements. Motif
+    extraction is limited to explicit paratextual language about wisdom and the epigraph's
+    journey to union.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not support a specific cross-textual comparison.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-persian-mystics-rumi-davis-gutenberg__l65-l114
+  passage_sha256=873866f135cd7182519f31547f25e8555c9c6015addb976862f140511f71e695

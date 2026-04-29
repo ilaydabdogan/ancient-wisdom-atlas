@@ -1,0 +1,583 @@
+---
+record_id: batch.motif.sufi-hafiz-divan-bell-gutenberg-l1077-l1154
+source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+passage_locator:
+  label: GERTRUDE LOWTHIAN BELL / LONDON / WILLIAM HEINEMANN / INTRODUCTION; lines
+    1077-1154
+  start: '1077'
+  end: '1154'
+  translation: Poems from the Divan of Hafiz
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Bell discusses the relation between Hafiz’s poetry, Sufi interpretation,
+    wine and love imagery, mystical doctrines of self-effacement before the divine,
+    the veiled Beloved, the quest for truth and wisdom, judgment, fate, Paradise imagery,
+    and comparisons with Western mystical or allegorical poetry.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that Hafiz mixes wine, love, and Sufi teaching in a way
+    Bell calls inextricable.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says Hafiz understood and sympathised with Hallaj’s utterance,
+    represented as “I am God.”
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage presents a doctrine in which a person can claim no separate individual
+    existence and knows only participation in the eternally existing.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A cited couplet treats boon companion, minstrel, and cup-bearer as names for
+    Him and calls the image of water and clay an illusion on the road of life.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage links humility at a tavern threshold, love’s perfume, a jewelled
+    cup of ruby wine, tears, and the hunger and thirst after wisdom.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The passage warns that one who cannot leave the palace of the self cannot
+    reach the village of truth.
+  category: setting
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The passage describes heart and soul fixed on the desire of the Beloved, Fate
+    as coming to the brink, striving after the Garden of Paradise, and sacred trees
+    whose shade cannot ultimately protect.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The passage says the Beloved has veiled his face and that lovers recite beauties
+    they can only imagine to be there.
+  category: relationship
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: Bell notes a coincidence between Persian and Indian mystical poetry and Western
+    forms including Troubadour songs, the Romance of the Rose, St. Francis, and Beatrice
+    in Dantean works.
+  category: relationship
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Hafiz
+  description: Persian poet whose Divan is discussed as mixing wine, love, Sufi teaching,
+    and mysticism.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:8
+- id: fig:2
+  name_or_label: Hallaj
+  description: Sufi figure associated in the passage with the saying “I am God.”
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Him
+  description: Divine referent named through figures such as boon companion, minstrel,
+    and cup-bearer in the cited couplet.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Beloved
+  description: Veiled object of heart, soul, and lovers’ desire; Bell reads this as
+    not merely earthly love.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: fig:5
+  name_or_label: lovers
+  description: Those who recite the beauties of the veiled Beloved, though they can
+    only tell what they imagine.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:8
+- id: fig:6
+  name_or_label: Sheikh
+  description: Religious figure contrasted with the speaker at the day of reckoning,
+    gaining little by abstinence.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:10
+- id: fig:7
+  name_or_label: Troubadours
+  description: Western poets whose songs are described as intentionally conveying
+    a deeper meaning beneath the surface.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:9
+- id: fig:8
+  name_or_label: St. Francis
+  description: Western religious figure said to address his Redeemer in terms comparable
+    to Hafiz’s longing after divine wisdom.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:9
+- id: fig:9
+  name_or_label: Redeemer
+  description: Addressee of St. Francis in terms compared with Hafiz’s longing after
+    divine wisdom.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:9
+- id: fig:10
+  name_or_label: Beatrice
+  description: Figure from the Vita Nuova and Divine Comedy described as intangible
+    like the Persian allegorical mistress when allegorical.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:9
+roles:
+- id: role:1
+  label: poet-mystic under discussion
+  assigned_to:
+  - fig:1
+  basis: The passage interprets Hafiz’s poetry through Sufi and mystical imagery.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: heretical divine-identity speaker
+  assigned_to:
+  - fig:2
+  basis: Hallaj is linked to the utterance “I am God,” described as a bold heresy.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: divine addressee or referent
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:9
+  basis: The passage identifies poetic names and beloved imagery with a divine or
+    redemptive referent.
+  evidence_refs:
+  - ev:4
+  - ev:8
+  - ev:9
+- id: role:4
+  label: allegorical beloved or mistress
+  assigned_to:
+  - fig:4
+  - fig:10
+  basis: The passage treats the Beloved and Beatrice as intangible or allegorical
+    beloved figures.
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: role:5
+  label: devotional lovers
+  assigned_to:
+  - fig:5
+  basis: The lovers recite the veiled Beloved’s beauties despite not seeing them directly.
+  evidence_refs:
+  - ev:8
+- id: role:6
+  label: abstinent religious authority
+  assigned_to:
+  - fig:6
+  basis: The Sheikh is contrasted with feasting at the day of reckoning.
+  evidence_refs:
+  - ev:10
+- id: role:7
+  label: Western allegorical poets
+  assigned_to:
+  - fig:7
+  basis: Their songs are said to convey meanings deeper than the surface.
+  evidence_refs:
+  - ev:9
+- id: role:8
+  label: Western devotional speaker
+  assigned_to:
+  - fig:8
+  basis: St. Francis is described as addressing his Redeemer in terms close to Hafiz’s
+    divine longing.
+  evidence_refs:
+  - ev:9
+symbols:
+- id: sym:1
+  label: wine and cup
+  literal_form: wine; jewelled cup of ruby wine
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: sym:2
+  label: tavern threshold dust
+  literal_form: dust from the tavern threshold swept with the cheek
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: water and clay
+  literal_form: image of water and clay, glossed as man
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: road of life
+  literal_form: road of life
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: palace of self and village of truth
+  literal_form: palace of thyself; village of truth
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: Garden of Paradise
+  literal_form: Garden of Paradise
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:7
+  label: sacred trees
+  literal_form: sacred trees and their shade
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:7
+- id: sym:8
+  label: veiled face
+  literal_form: the Beloved has veiled his face
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:9
+  label: day of reckoning
+  literal_form: day of reckoning
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+scenes:
+- id: scene:1
+  label: Sufi interpretation of Hafiz’s poetic imagery
+  summary: Bell describes Hafiz as combining wine, love, and Sufi teaching, including
+    metaphors that name the divine through companion, minstrel, and cup-bearer imagery.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: scene:2
+  label: Self-effacement before the eternal
+  summary: The passage links Hafiz to Hallaj and explains a Sufi doctrine in which
+    individual existence is denied or subordinated to the eternally existing.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Humility, wisdom, and the tavern threshold
+  summary: The passage interprets tavern-threshold humility, ruby wine, and tears
+    as imagery for love and the hunger and thirst after wisdom.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Quest beyond the self toward truth
+  summary: A warning says that remaining in the palace of the self prevents reaching
+    the village of truth.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: Beloved, fate, Paradise, and sacred trees
+  summary: Heart and soul desire the Beloved while fate, Paradise, and sacred trees
+    are weighed as uncertain or insufficient supports against destiny.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:7
+- id: scene:6
+  label: Veiled Beloved and imagined beauty
+  summary: The Beloved’s face is veiled, and lovers speak of the Beloved’s beauties
+    only by imagination.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:8
+  evidence_refs:
+  - ev:8
+- id: scene:7
+  label: Western analogues of mystical or allegorical poetry
+  summary: 'Bell compares Persian and Indian mystical poetry with Western examples:
+    Troubadours, Romance of the Rose, St. Francis addressing his Redeemer, and Beatrice.'
+  figure_refs:
+  - fig:7
+  - fig:8
+  - fig:9
+  - fig:10
+  symbol_refs: []
+  evidence_refs:
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: annihilation of separate self in divine reality
+  taxonomy_refs:
+  - annihilation_union
+  basis: The passage cites Hallaj’s divine-identity utterance and explains that a
+    person can claim no individual existence apart from the eternally existing.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage is Bell’s interpretive introduction and quotes Hafiz selectively
+    rather than presenting a full ode.
+- id: motif:2
+  label: divine beloved concealed from lovers
+  taxonomy_refs:
+  - divine_beloved
+  basis: The Beloved is desired by heart and soul and has a veiled face; lovers describe
+    beauties they cannot directly see.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: Bell explicitly resists reading this as only earthly love, but the passage
+    also notes ambiguity in Hafiz’s love imagery.
+- id: motif:3
+  label: mystical quest for truth and wisdom
+  taxonomy_refs:
+  - mystical_quest
+  - wisdom
+  basis: The passage interprets ruby wine as hunger and thirst after wisdom and frames
+    the palace of self versus village of truth as a movement toward truth.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The imagery is interpretive and metaphorical rather than narrative quest
+    action.
+- id: motif:4
+  label: judgment weighing abstinence and feasting
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage invokes a day of reckoning when the Sheikh’s abstinence and the
+    speaker’s feasting may be judged as equally unprofitable.
+  evidence_refs:
+  - ev:10
+  confidence: medium
+  cautions: This is a moral reflection rather than an extended judgment scene.
+- id: motif:5
+  label: Paradise and sacred trees as insufficient refuge from destiny
+  taxonomy_refs:
+  - mystical_quest
+  basis: The passage presents striving after the Garden of Paradise and seeking shade
+    beneath sacred trees, then states these cannot protect against appointed destiny.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: Although Paradise and sacred trees appear, the passage does not support
+    a full sacred-tree-axis or afterlife journey motif.
+- id: motif:6
+  label: wine as mystical wisdom or divine longing
+  taxonomy_refs:
+  - wisdom
+  - divine_beloved
+  basis: Bell states Hafiz mixes wine, love, and Sufi teaching and glosses the cup
+    of ruby wine as hunger and thirst after wisdom.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: high
+  cautions: 'The passage emphasizes ambiguity: wine imagery is mixed with love and
+    Sufi teaching, not reducible to a single meaning.'
+comparison_claims:
+- id: claim:1
+  claim: The passage itself compares Hafiz’s mystical or allegorical love language
+    with Western mystical and allegorical traditions that also carry deeper meanings
+    beneath the surface.
+  claim_level: same_function
+  target: Troubadour songs, Romance of the Rose, St. Francis, and Beatrice in Dantean
+    works
+  evidence_refs:
+  - ev:9
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: Bell calls the parallel a curious coincidence and does not establish
+    historical contact or common inheritance.
+- id: claim:2
+  claim: The passage presents Beatrice and the Persian allegorical mistress as similarly
+    intangible beloved figures.
+  claim_level: same_function
+  target: Beatrice of the Vita Nuova and Divine Comedy compared with the Persian allegorical
+    mistress
+  evidence_refs:
+  - ev:9
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is framed by Bell and depends on allegorical readings;
+    it is not a direct textual correspondence.
+- id: claim:3
+  claim: The passage compares St. Francis’s address to his Redeemer with Hafiz’s longing
+    after divine wisdom in terms of devotional expression.
+  claim_level: same_function
+  target: St. Francis addressing his Redeemer and Hafiz longing after divine wisdom
+  evidence_refs:
+  - ev:9
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage notes similarity of terms but gives no detailed quotations
+    or historical mechanism.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 1077-1085
+  quote_or_summary: Bell says Hafiz mixes wine, love, and Sufi teaching inextricably.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: 1086-1089
+  quote_or_summary: Hafiz sympathised with Hallaj, “who said, I am God.”
+  source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: summary
+  locator: 1089-1094
+  quote_or_summary: 'Bell glosses a Sufi doctrine: a person can claim no individual
+    existence and knows only being part of the eternally existing.'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: 1094-1098
+  quote_or_summary: "“Boon companion, minstrel, and cup-bearer” are names for Him;
+    “water and clay” is an illusion on the road of life."
+  source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+  rights_note: Public domain source; shortened quotation.
+- id: ev:5
+  type: summary
+  locator: 1098-1107
+  quote_or_summary: Love’s perfume is linked to sweeping dust from the tavern threshold;
+    the jewelled cup of ruby wine is glossed as hunger and thirst after wisdom, accompanied
+    by tears.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: quote
+  locator: 1108-1111
+  quote_or_summary: "“Since thou canst never leave the palace of thyself,” one cannot
+    “reach the village of truth.”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+  rights_note: Public domain source; short quotation.
+- id: ev:7
+  type: summary
+  locator: 1121-1143
+  quote_or_summary: Heart and soul desire the Beloved; Fate, the Garden of Paradise,
+    and sacred trees are weighed, but sacred shade cannot protect against appointed
+    destiny.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: quote
+  locator: 1143-1148
+  quote_or_summary: "“Since the Beloved has veiled his face,” lovers recite beauties
+    they only imagine to be there."
+  source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+  rights_note: Public domain source; shortened quotation.
+- id: ev:9
+  type: summary
+  locator: 1149-1154
+  quote_or_summary: 'Bell compares Persian and Indian mystical poetry with Western
+    examples: Troubadours, Romance of the Rose, St. Francis addressing his Redeemer,
+    and Beatrice as intangible like the Persian allegorical mistress.'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: 1112-1120
+  quote_or_summary: At the day of reckoning, Bell quotes Hafiz as imagining the Sheikh’s
+    abstinence may gain as little as the speaker’s feasting.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Extraction is based on the supplied English introductory passage. Motif identifications
+    are cautious because Bell is interpreting Hafiz’s poetry and the excerpt contains
+    embedded quotations rather than a single narrative myth.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No historical-contact claim is made; the passage frames Western parallels as coincidence or functional similarity.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-hafiz-divan-bell-gutenberg__l1077-l1154
+  passage_sha256=047659f67457fbe360682837f0617d330f0533207e21f6acc01a405a6e3f2992

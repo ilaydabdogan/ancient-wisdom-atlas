@@ -1,0 +1,292 @@
+---
+record_id: batch.motif.sufi-persian-mystics-rumi-davis-gutenberg-l1519-l1537
+source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+passage_locator:
+  label: SORROW QUENCHED IN THE BELOVED / THE MUSIC OF LOVE / THE SILENCE OF LOVE
+    / EARTHLY LOVE ESSENTIAL TO THE LOVE DIVINE; lines 1519-1537
+  start: '1519'
+  end: '1537'
+  translation: 'The Persian Mystics: Jalálu''d-dín Rúmí'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: Love is the astrolabe of God's mysteries.
+  summary: The passage says that love reveals divine mysteries, that the lover is
+    ultimately drawn to the King of Love, that explanations fail before love, and
+    that earthly love should not be quenched because it may become light for others
+    and preserve the lamp of Union.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Love is described as an astrolabe of God's mysteries.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A lover may desire particular loves but is ultimately drawn to the King of
+    Love.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage contrasts verbal explanation with love that remains unexplained.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Anything that withdraws the eyes from God is called an idol.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The speaker instructs not to quench an earthy torch, so that it may become
+    a light for mankind.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Neglect of the earthy torch is said to quench at midnight the lamp of Union.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: lover
+  description: A lover who may seek one love or another and is finally drawn to the
+    King of Love.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: King of Love
+  description: The final object toward which the lover is drawn.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: God
+  description: God is named in connection with mysteries and as the focus from which
+    an idol withdraws the eyes.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:4
+  name_or_label: mankind
+  description: The earthy torch may become a light to lighten mankind.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: lover or seeker
+  assigned_to:
+  - fig:1
+  basis: The figure desires love and is drawn toward the King of Love.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: beloved sovereign
+  assigned_to:
+  - fig:2
+  basis: The passage calls this figure the King of Love and makes him the lover's
+    final attraction.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: divine focus
+  assigned_to:
+  - fig:3
+  basis: God is associated with mysteries and is the one from whom an idol diverts
+    attention.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:4
+  label: recipients of illumination
+  assigned_to:
+  - fig:4
+  basis: Mankind is the group to be lightened by the earthy torch.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: astrolabe
+  literal_form: astrolabe
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: idol
+  literal_form: idol
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: earthy torch
+  literal_form: torch
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: lamp of Union
+  literal_form: lamp
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: tongue and words
+  literal_form: tongue; words
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Love beyond explanation
+  summary: Love is presented as a means of approaching God's mysteries, while spoken
+    explanation becomes inadequate when one falls in love.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: scene:2
+  label: The lover drawn to the King of Love
+  summary: A lover may pursue particular loves, but ultimately is drawn to the King
+    of Love.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Earthly love as light toward Union
+  summary: The passage warns against letting anything divert the eyes from God, but
+    also says not to quench the earthy torch, because neglect may extinguish the lamp
+    of Union.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: divine beloved as final object of love
+  taxonomy_refs:
+  - divine_beloved
+  basis: The lover is ultimately drawn beyond particular loves to the King of Love.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage uses devotional and metaphoric language; it does not narrate
+    a full encounter with the beloved.
+- id: motif:2
+  label: union through preserved earthly love
+  taxonomy_refs:
+  - annihilation_union
+  basis: The passage links care for the earthy torch with avoiding the extinguishing
+    of the lamp of Union.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: Union is named, but the passage does not explicitly describe annihilation
+    or a completed mystical union.
+- id: motif:3
+  label: mystical quest for divine knowledge
+  taxonomy_refs:
+  - mystical_quest
+  - wisdom
+  basis: Love is described as an instrument for God's mysteries, and inadequate speech
+    gives way to unexplained love.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: The passage is lyric and aphoristic rather than a quest narrative.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 1519-1520
+  quote_or_summary: "“Love is the astrolabe of God's mysteries.”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 1521-1523
+  quote_or_summary: A lover may seek one love or another, but in the end is drawn
+    to the King of Love.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 1524-1527
+  quote_or_summary: The passage says that describing love becomes shameful when one
+    falls in love, and that unexplained love is better than explanation by the tongue.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: quote
+  locator: lines 1531-1532
+  quote_or_summary: "“Whatever withdraws thine eyes from God is an idol.”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:5
+  type: summary
+  locator: lines 1533-1535
+  quote_or_summary: The passage instructs not to quench the earthy torch, so that
+    it may be a light for mankind.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: lines 1536-1537
+  quote_or_summary: Neglecting care for the earthy torch is said to quench at midnight
+    the lamp of Union.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif assignment is interpretive because
+    the passage is lyric and metaphorical. No comparison claims were made beyond candidate
+    taxonomy mapping.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata; no external comparisons added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-persian-mystics-rumi-davis-gutenberg__l1519-l1537
+  passage_sha256=5a515978a6f7611494e4ff3a23bacfb48349b8123b8350faf35ee292bef7da00

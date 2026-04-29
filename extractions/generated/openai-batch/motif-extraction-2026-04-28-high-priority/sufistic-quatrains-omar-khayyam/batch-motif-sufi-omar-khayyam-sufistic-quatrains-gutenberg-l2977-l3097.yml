@@ -1,0 +1,524 @@
+---
+record_id: batch.motif.sufi-omar-khayyam-sufistic-quatrains-gutenberg-l2977-l3097
+source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+passage_locator:
+  label: XXXIV. / XXXV. / XXXVI. / XXXVII.; lines 2977-3097
+  start: '2977'
+  end: '3097'
+  translation: The Sufistic Quatrains of Omar Khayyam
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A sequence of annotated quatrains presents a potter pounding clay that
+    speaks as a former human, reflections on humans as earth and clay shaped into
+    vessels, drops from cups descending into earth to quench anguish, a tulip-like
+    cup lifted before heaven turns the drinker back to earth, and advice to abandon
+    perplexities for wine and the beloved because time passes quickly.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A potter is described pounding wet or fresh clay in a bazaar or by the way.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The clay is personified as having an obliterated tongue and speaking in mystic
+    language, asking to be treated gently because it was once like the potter.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A reflection describes a clod of saturated earth cast by a maker into human
+    mould.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: An editorial note connects the quatrain to a story in the Mantik ut-tair about
+    well water becoming bitter when drawn in a vessel made from clay that once had
+    been a man.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: In a potter's workshop, the master makes handles and covers for goblets and
+    jars out of the skulls of kings and the feet of beggars.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The speaker sees ancestors' dust on the hands of every potter, though people
+    without vision do not see it.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: A draught or drop scattered from cups upon the earth is said to descend and
+    quench the fire of anguish in a hidden or burning eye.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: A tulip in spring is likened to lifting a cup for a morning drink or heavenly
+    vintage from the soil.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: The worn-out sky or heaven is said to suddenly invert the drinker to the level
+    of earth like an empty cup.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: The addressee is advised to resign human or divine perplexities, take wine,
+    and play with the curls or ringlets of a loved one because these few days will
+    not remain.
+  category: speech
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Potter
+  description: A potter in the bazaar or by the way who pounds fresh clay.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Personified clay
+  description: Wet or fresh clay with an obliterated tongue that says it was once
+    like the potter and asks for gentle treatment.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Maker or master potter
+  description: A maker or master associated with casting earth into human mould and
+    making vessel parts from human remains.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:4
+  name_or_label: Cup-bearer
+  description: The figure who scatters draughts upon the earth.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: Tulip
+  description: A tulip in spring that uplifts its cup or looks up from the soil for
+    a morning drink.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:7
+- id: fig:6
+  name_or_label: Cypress-slender Minister of Wine / loved one
+  description: A beloved or wine-serving figure with curls or long ringlets.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:8
+- id: fig:7
+  name_or_label: Human addressee
+  description: The addressed person urged to lift a cup, drink wine, resign perplexities,
+    and remember the sudden return to earth.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:7
+  - ev:8
+roles:
+- id: role:1
+  label: potter or shaper of clay
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: The passage describes potters pounding clay and making vessel parts from
+    clay or human remains.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: former-human speaking matter
+  assigned_to:
+  - fig:2
+  basis: The clay says it was once like the potter and asks to be treated gently.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: maker of human form
+  assigned_to:
+  - fig:3
+  basis: A clod of saturated earth is described as cast by the maker into human mould.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: pourer or scatterer of drink
+  assigned_to:
+  - fig:4
+  basis: The cup-bearer scatters draughts upon the earth.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: plant-cup image
+  assigned_to:
+  - fig:5
+  basis: The tulip is likened to lifting a cup in spring from the soil.
+  evidence_refs:
+  - ev:7
+- id: role:6
+  label: beloved associated with wine and curls
+  assigned_to:
+  - fig:6
+  basis: The quatrain speaks of the Minister of Wine and of playing with the curls
+    or ringlets of a loved one.
+  evidence_refs:
+  - ev:8
+- id: role:7
+  label: recipient of carpe-diem counsel
+  assigned_to:
+  - fig:7
+  basis: The addressee is instructed to lift the cup, drink, and resign perplexities
+    because time passes and heaven will return them to earth.
+  evidence_refs:
+  - ev:7
+  - ev:8
+symbols:
+- id: sym:1
+  label: clay as former human substance
+  literal_form: wet clay, fresh clay, clod of saturated earth, ancestors' dust
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: sym:2
+  label: potter's workshop and wheel
+  literal_form: workshop of a potter, shadow of the wheel, hands of every potter
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: cup, goblet, jar, and vessel
+  literal_form: cups, goblets, jars, vessel, empty cup
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+- id: sym:4
+  label: water or draught poured to earth
+  literal_form: drop, draught, well water, cup contents scattered upon earth
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: sym:5
+  label: fire of anguish
+  literal_form: fire of Anguish in a hidden or burning eye
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: earth as receiver and return point
+  literal_form: earth, soil, level of the earth, beneath the earth
+  associated_figures:
+  - fig:2
+  - fig:5
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:6
+  - ev:7
+- id: sym:7
+  label: wine and heavenly vintage
+  literal_form: wine, heavenly vintage, morning sup
+  associated_figures:
+  - fig:5
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: sym:8
+  label: beloved's curls or ringlets
+  literal_form: tresses, curls, long ringlets, curly locks
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Potter and speaking clay
+  summary: A potter pounds fresh clay; the clay speaks and asks for gentleness, saying
+    it was once like the potter.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Human clay and potter's workshop
+  summary: The passage reflects on earth shaped into human mould and on potters forming
+    vessels from the remains or dust of kings, beggars, and ancestors.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:6
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Draught poured to earth
+  summary: Drops or draughts scattered from cups onto the earth are imagined as descending
+    to quench anguish in a hidden eye below.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:6
+- id: scene:4
+  label: Tulip cup and return to earth
+  summary: The tulip lifts its cup from the soil, and the addressee is told to do
+    likewise before heaven or the sky inverts the drinker to earth like an empty cup.
+  figure_refs:
+  - fig:5
+  - fig:7
+  symbol_refs:
+  - sym:3
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:7
+- id: scene:5
+  label: Abandoning perplexity for wine and the beloved
+  summary: The addressee is urged to set aside human and divine perplexities, take
+    wine, and play with the beloved's curls because worldly days quickly pass.
+  figure_refs:
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Clay that was once human speaks to the potter
+  taxonomy_refs:
+  - death_rebirth
+  basis: The clay addresses the potter and says it was once like him, turning human
+    mortality into speaking material.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: 'The taxonomy reference is approximate: the passage emphasizes material
+    transformation after death rather than a full rebirth narrative.'
+- id: motif:2
+  label: Human remains transformed into vessels
+  taxonomy_refs:
+  - death_rebirth
+  basis: The passage repeatedly links clay, skulls, feet, and ancestral dust with
+    the potter's making of goblets, jars, and other vessel parts.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The motif is presented as poetic reflection and annotated source comparison,
+    not as a continuous mythic episode.
+- id: motif:3
+  label: Drink poured to earth relieves hidden suffering below
+  taxonomy_refs: []
+  basis: A draught scattered upon the earth is said to quench the fire of anguish
+    in a hidden or burning eye beneath the earth.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The identity of the hidden eye is not specified in the passage.
+- id: motif:4
+  label: Cup lifted before sudden return to earth
+  taxonomy_refs:
+  - wisdom
+  basis: The tulip and addressee lift the cup while the sky or heaven may suddenly
+    invert the drinker to earth like an empty cup.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: This is mainly a wisdom or mortality image; it is not presented as a mythic
+    journey.
+- id: motif:5
+  label: Resignation of metaphysical perplexity for wine and beloved
+  taxonomy_refs:
+  - wisdom
+  basis: The addressee is told to resign human or divine tangles and turn to wine
+    and the beloved because life quickly passes.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: The passage frames the theme as recurrent sentiment rather than a discrete
+    narrative motif.
+comparison_claims:
+- id: claim:1
+  claim: The human-clay and potter imagery is presented as a recurrent idea in the
+    ruba'iyat tradition represented by the cited quatrains.
+  claim_level: same_motif
+  target: ruba'iyat potter/human-clay passages cited as C. 475 and C. 488
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim is limited to the relationships stated by the editor within
+    this passage.
+- id: claim:2
+  claim: The note links the clay-once-human vessel image to a story in the Mantik
+    ut-tair about bitter well water drawn in a vessel made from former human clay.
+  claim_level: same_motif
+  target: Mantik ut-tair story of the well water and vessel made from clay once human
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: Only the editor's summary of the Mantik ut-tair story is provided;
+    the full source passage is not included.
+- id: claim:3
+  claim: The counsel to abandon striving or study for wine and the beloved is explicitly
+    identified as recurrent and supported by several cited parallels.
+  claim_level: same_function
+  target: ruba'iyat parallels O. 73, O. 118, and O. 131; Nicolas quatrains 48, 155,
+    and 359
+  evidence_refs:
+  - ev:8
+  - ev:9
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison concerns recurring sentiment and function, not necessarily
+    a shared narrative episode.
+evidence:
+- id: ev:1
+  type: quote
+  locator: XXXVII; O. 89
+  quote_or_summary: A potter pounds wet or fresh clay; the clay says, "I was once
+    like thee--so treat me well."
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:2
+  type: summary
+  locator: XXXVIII
+  quote_or_summary: The quatrain asks whether an old story has rolled through human
+    generations of saturated earth cast by the maker into human mould.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: XXXVIII editorial note
+  quote_or_summary: The editor notes FitzGerald had in mind a Mantik ut-tair story
+    in which sweet well water became bitter when drawn in a vessel made from clay
+    that once had been a man.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: XXXVIII; C. 475
+  quote_or_summary: In the potter's workshop, the master makes handles and covers
+    for goblets and jars "Out of the skulls of kings and the feet of beggars."
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:5
+  type: summary
+  locator: XXXVIII; C. 488
+  quote_or_summary: The speaker enters the abode of potters and sees ancestors' dust
+    on the hands of every potter, though others do not see it.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: quote
+  locator: XXXIX; O. 81
+  quote_or_summary: Every draught scattered upon the earth "Quenches the fire of anguish
+    in some burning eye."
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:7
+  type: summary
+  locator: XL; C. 37
+  quote_or_summary: The tulip lifts its cup in spring; the addressee is told to drink
+    cheerfully because the worn-out sky will suddenly invert them to the level of
+    earth.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: XLI; O. 73, O. 118, O. 131
+  quote_or_summary: The quatrain and cited parallels advise resigning human or divine
+    perplexities, taking wine, and playing with the curls or ringlets of a loved one
+    because all quickly passes.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: XLI editorial note
+  quote_or_summary: The editor states that the sentiment of XLI is very recurrent
+    and that Nicolas's quatrains 48, 155, and 359 convey the same idea.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is strong because the passage provides explicit annotations
+    and parallels. Motif classification is more interpretive, especially where poetic
+    images are mapped to broad taxonomy families.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only supplied passage text and metadata. Available symbol taxonomy was applied only to water and fire where directly supported.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-omar-khayyam-sufistic-quatrains-gutenberg__l2977-l3097
+  passage_sha256=08a10af1e46841a8b033196d7ddc94c58d1e3f16f80b06efabf3189a05411163
