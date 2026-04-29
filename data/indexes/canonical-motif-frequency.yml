@@ -7,8 +7,8 @@ method: Counts distinct traditions for indexed motif IDs that map to canonical_m
 indexed_motif_count: 9072
 indexed_occurrence_count: 31658
 canonical_motif_group_count: 53
-mapped_motif_count: 300
-unmapped_motif_count: 8772
+mapped_motif_count: 308
+unmapped_motif_count: 8764
 canonical_motifs:
 - canonical_motif_id: death_and_transformation
   label: Death, Rebirth, and Transformation
@@ -42,7 +42,7 @@ canonical_motifs:
     mesopotamian: 1
     norse: 51
     persian: 3
-    roman: 104
+    roman: 105
     sufi: 237
   mapped_motifs:
   - motif_id: death_rebirth
@@ -109,6 +109,13 @@ canonical_motifs:
       norse: 5
       roman: 1
       sufi: 1
+  - motif_id: age_renewal_through_medea_s_arts
+    label: age renewal through Medea's arts
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      roman: 1
   - motif_id: ancestors_or_dead_persons_embodied_in_trees
     label: Ancestors or dead persons embodied in trees
     relationship: symbolic_variant
@@ -215,8 +222,8 @@ canonical_motifs:
     traditions:
       celtic_irish: 1
   tradition_count: 22
-  occurrence_count: 1373
-  mapped_motif_count: 18
+  occurrence_count: 1374
+  mapped_motif_count: 19
 - canonical_motif_id: initiation
   label: Initiation and Transformative Ordeal
   description: The passage from one state of being to another through ordeal, instruction,
@@ -1338,6 +1345,155 @@ canonical_motifs:
   tradition_count: 19
   occurrence_count: 168
   mapped_motif_count: 5
+- canonical_motif_id: sacrifice
+  label: Sacrifice and Offering
+  description: 'The giving up of something precious # life, status, possession, self
+    # to the sacred. Includes burnt offerings, self-sacrifice, the scapegoat, and
+    sacrificial death that creates or renews.'
+  related:
+  - covenant
+  - sacred_exchange
+  - death_and_transformation
+  - primordial_sacrifice
+  is_meta_group: false
+  traditions:
+    buddhist: 27
+    celtic_irish: 8
+    celtic_welsh: 3
+    comparative: 350
+    daoist: 9
+    finnish_karelian: 5
+    greek: 128
+    greek_roman: 52
+    hindu: 169
+    indigenous_australian: 2
+    islamic: 74
+    islamicate_folklore: 8
+    japanese: 4
+    jewish_christian: 9
+    norse: 15
+    persian: 3
+    roman: 106
+    sufi: 53
+  mapped_motifs:
+  - motif_id: sacrifice
+    label: Sacrifice
+    relationship: canonical_group
+    occurrence_count: 1011
+    tradition_count: 18
+    traditions:
+      buddhist: 26
+      celtic_irish: 8
+      celtic_welsh: 3
+      comparative: 342
+      daoist: 9
+      finnish_karelian: 5
+      greek: 128
+      greek_roman: 52
+      hindu: 169
+      indigenous_australian: 2
+      islamic: 74
+      islamicate_folklore: 8
+      japanese: 4
+      jewish_christian: 4
+      norse: 15
+      persian: 3
+      roman: 106
+      sufi: 53
+  - motif_id: atonement_rite
+    label: atonement rite
+    relationship: child
+    occurrence_count: 2
+    tradition_count: 1
+    traditions:
+      jewish_christian: 2
+  - motif_id: annual_expulsion_of_evil_from_the_community
+    label: annual expulsion of evil from the community
+    relationship: ritual_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      comparative: 1
+  - motif_id: annual_purification
+    label: annual purification
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      jewish_christian: 1
+  - motif_id: boundary_preventing_return_of_expelled_harms
+    label: boundary preventing return of expelled harms
+    relationship: ritual_expulsion_child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      comparative: 1
+  - motif_id: closing_boundaries_after_expelling_spirits
+    label: Closing boundaries after expelling spirits
+    relationship: ritual_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      comparative: 1
+  - motif_id: communal_expulsion_of_misfortune_causing_spirits
+    label: Communal expulsion of misfortune-causing spirits
+    relationship: ritual_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      comparative: 1
+  - motif_id: community_clearance_of_harmful_spiritual_beings
+    label: community clearance of harmful spiritual beings
+    relationship: ritual_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      comparative: 1
+  - motif_id: completion_of_duty_before_death
+    label: completion of duty before death
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      buddhist: 1
+  - motif_id: exorcism_of_evil_spirits_attached_to_persons
+    label: Exorcism of evil spirits attached to persons
+    relationship: ritual_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      comparative: 1
+  - motif_id: expulsion_of_disease_devils_or_evil_spirits
+    label: Expulsion of disease, devils, or evil spirits
+    relationship: ritual_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      comparative: 1
+  - motif_id: illness_or_misfortune_attributed_to_harmful_spirits_and_treated_by_expulsion
+    label: Illness or misfortune attributed to harmful spirits and treated by expulsion
+    relationship: ritual_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      comparative: 1
+  - motif_id: ritualized_release
+    label: ritualized release
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      jewish_christian: 1
+  - motif_id: scapegoat
+    label: scapegoat
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      jewish_christian: 1
+  tradition_count: 18
+  occurrence_count: 1025
+  mapped_motif_count: 14
 - canonical_motif_id: miraculous_child
   label: Miraculous Child and Sacred Birth
   description: 'The child born under extraordinary circumstances # virgin birth, divine
@@ -1451,148 +1607,6 @@ canonical_motifs:
   tradition_count: 18
   occurrence_count: 1024
   mapped_motif_count: 5
-- canonical_motif_id: sacrifice
-  label: Sacrifice and Offering
-  description: 'The giving up of something precious # life, status, possession, self
-    # to the sacred. Includes burnt offerings, self-sacrifice, the scapegoat, and
-    sacrificial death that creates or renews.'
-  related:
-  - covenant
-  - sacred_exchange
-  - death_and_transformation
-  - primordial_sacrifice
-  is_meta_group: false
-  traditions:
-    buddhist: 27
-    celtic_irish: 8
-    celtic_welsh: 3
-    comparative: 349
-    daoist: 9
-    finnish_karelian: 5
-    greek: 128
-    greek_roman: 52
-    hindu: 169
-    indigenous_australian: 2
-    islamic: 74
-    islamicate_folklore: 8
-    japanese: 4
-    jewish_christian: 9
-    norse: 15
-    persian: 3
-    roman: 106
-    sufi: 53
-  mapped_motifs:
-  - motif_id: sacrifice
-    label: Sacrifice
-    relationship: canonical_group
-    occurrence_count: 1011
-    tradition_count: 18
-    traditions:
-      buddhist: 26
-      celtic_irish: 8
-      celtic_welsh: 3
-      comparative: 342
-      daoist: 9
-      finnish_karelian: 5
-      greek: 128
-      greek_roman: 52
-      hindu: 169
-      indigenous_australian: 2
-      islamic: 74
-      islamicate_folklore: 8
-      japanese: 4
-      jewish_christian: 4
-      norse: 15
-      persian: 3
-      roman: 106
-      sufi: 53
-  - motif_id: atonement_rite
-    label: atonement rite
-    relationship: child
-    occurrence_count: 2
-    tradition_count: 1
-    traditions:
-      jewish_christian: 2
-  - motif_id: annual_purification
-    label: annual purification
-    relationship: child
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      jewish_christian: 1
-  - motif_id: boundary_preventing_return_of_expelled_harms
-    label: boundary preventing return of expelled harms
-    relationship: ritual_expulsion_child
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      comparative: 1
-  - motif_id: closing_boundaries_after_expelling_spirits
-    label: Closing boundaries after expelling spirits
-    relationship: ritual_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      comparative: 1
-  - motif_id: communal_expulsion_of_misfortune_causing_spirits
-    label: Communal expulsion of misfortune-causing spirits
-    relationship: ritual_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      comparative: 1
-  - motif_id: community_clearance_of_harmful_spiritual_beings
-    label: community clearance of harmful spiritual beings
-    relationship: ritual_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      comparative: 1
-  - motif_id: completion_of_duty_before_death
-    label: completion of duty before death
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      buddhist: 1
-  - motif_id: exorcism_of_evil_spirits_attached_to_persons
-    label: Exorcism of evil spirits attached to persons
-    relationship: ritual_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      comparative: 1
-  - motif_id: expulsion_of_disease_devils_or_evil_spirits
-    label: Expulsion of disease, devils, or evil spirits
-    relationship: ritual_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      comparative: 1
-  - motif_id: illness_or_misfortune_attributed_to_harmful_spirits_and_treated_by_expulsion
-    label: Illness or misfortune attributed to harmful spirits and treated by expulsion
-    relationship: ritual_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      comparative: 1
-  - motif_id: ritualized_release
-    label: ritualized release
-    relationship: child
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      jewish_christian: 1
-  - motif_id: scapegoat
-    label: scapegoat
-    relationship: child
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      jewish_christian: 1
-  tradition_count: 18
-  occurrence_count: 1024
-  mapped_motif_count: 13
 - canonical_motif_id: shapeshifter
   label: Shapeshifter and Transformation
   description: 'The figure who changes form # human to animal, god to mortal, one
@@ -2772,6 +2786,138 @@ canonical_motifs:
   tradition_count: 7
   occurrence_count: 12
   mapped_motif_count: 12
+- canonical_motif_id: sacred_law
+  label: Sacred Law and Social Order
+  description: The divine origin of law, ethical codes, and social obligations. Includes
+    dietary laws, purity codes, social care mandates, and the idea that the moral
+    order reflects the cosmic order.
+  related:
+  - covenant
+  - divine_judgment
+  - royal_legitimacy
+  is_meta_group: false
+  traditions:
+    comparative: 11
+    confucian: 1
+    japanese: 1
+    jewish_christian: 2
+    sufi: 1
+  mapped_motifs:
+  - motif_id: animal_taboo_based_on_mythic_death
+    label: animal taboo based on mythic death
+    relationship: ritual_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      comparative: 1
+  - motif_id: apotropaic_mirror_repels_spirits
+    label: Apotropaic mirror repels spirits
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      comparative: 1
+  - motif_id: apotropaic_plant_against_evil_spirits
+    label: apotropaic plant against evil spirits
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      comparative: 1
+  - motif_id: apotropaic_removal_of_death_and_disease_from_village_or_house
+    label: Apotropaic removal of death and disease from village or house
+    relationship: ritual_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      comparative: 1
+  - motif_id: apotropaic_smoke_averts_the_evil_eye
+    label: Apotropaic smoke averts the evil eye
+    relationship: ritual_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      sufi: 1
+  - motif_id: avoidance_of_raw_flesh_or_blood_to_prevent_spirit_contact
+    label: Avoidance of raw flesh or blood to prevent spirit contact
+    relationship: ritual_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      comparative: 1
+  - motif_id: avoidance_of_sharp_instruments_near_the_dead_or_the_soul
+    label: Avoidance of sharp instruments near the dead or the soul
+    relationship: ritual_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      comparative: 1
+  - motif_id: blood_as_life
+    label: blood as life
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      jewish_christian: 1
+  - motif_id: blood_contains_the_animal_s_life_or_soul
+    label: Blood contains the animal's life or soul
+    relationship: symbolic_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      comparative: 1
+  - motif_id: clinging_spirit_contagion_after_contact_with_death_or_persons
+    label: Clinging spirit contagion after contact with death or persons
+    relationship: ritual_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      comparative: 1
+  - motif_id: covered_mouth_or_face_blocks_spiritual_danger
+    label: covered mouth or face blocks spiritual danger
+    relationship: ritual_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      comparative: 1
+  - motif_id: danger_of_a_sacred_or_spirit_bearing_substance_over_a_tabooed_head
+    label: danger of a sacred or spirit-bearing substance over a tabooed head
+    relationship: ritual_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      comparative: 1
+  - motif_id: dying_mother_s_moral_injunction_to_child
+    label: Dying mother’s moral injunction to child
+    relationship: narrower_than
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      japanese: 1
+  - motif_id: killed_animal_soul_or_spirit_monitors_human_treatment
+    label: Killed animal soul or spirit monitors human treatment
+    relationship: ethical_taboo_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      comparative: 1
+  - motif_id: reciprocity_as_ethical_command
+    label: reciprocity as ethical command
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      confucian: 1
+  - motif_id: social_care
+    label: social care
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      jewish_christian: 1
+  tradition_count: 5
+  occurrence_count: 16
+  mapped_motif_count: 16
 - canonical_motif_id: divine_intervention
   label: Divine Intervention and Guidance
   description: 'The direct action of gods or sacred powers in human affairs # sending
@@ -2787,7 +2933,7 @@ canonical_motifs:
     greek: 5
     greek_roman: 2
     hindu: 1
-    islamic: 2
+    islamic: 4
   mapped_motifs:
   - motif_id: divine_intervention
     label: divine intervention
@@ -2796,6 +2942,20 @@ canonical_motifs:
     tradition_count: 1
     traditions:
       greek: 2
+  - motif_id: angelic_messenger_and_guardian_functions
+    label: Angelic messenger and guardian functions
+    relationship: role_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      islamic: 1
+  - motif_id: angelic_promise_of_success_before_conflict
+    label: angelic promise of success before conflict
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      islamic: 1
   - motif_id: civic_or_communal_tutelary_spirit
     label: civic or communal tutelary spirit
     relationship: role_variant
@@ -2874,8 +3034,8 @@ canonical_motifs:
     traditions:
       islamic: 1
   tradition_count: 5
-  occurrence_count: 13
-  mapped_motif_count: 12
+  occurrence_count: 15
+  mapped_motif_count: 14
 - canonical_motif_id: sacred_treasures
   label: Sacred Treasures and Power Objects
   description: 'Objects of divine origin or power # swords, spears, stones, rings,
@@ -3047,12 +3207,19 @@ canonical_motifs:
   - shapeshifter
   is_meta_group: false
   traditions:
-    celtic_irish: 2
+    celtic_irish: 3
     celtic_welsh: 1
     comparative: 2
     greek: 1
     greek_roman: 1
   mapped_motifs:
+  - motif_id: abundant_food_and_drink_in_the_marvelous_land
+    label: Abundant food and drink in the marvelous land
+    relationship: narrower_than
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      celtic_irish: 1
   - motif_id: blessed_island_with_painless_divine_death_in_old_age
     label: Blessed island with painless divine death in old age
     relationship: narrower_than
@@ -3103,132 +3270,8 @@ canonical_motifs:
     traditions:
       celtic_irish: 1
   tradition_count: 5
-  occurrence_count: 7
-  mapped_motif_count: 7
-- canonical_motif_id: sacred_law
-  label: Sacred Law and Social Order
-  description: The divine origin of law, ethical codes, and social obligations. Includes
-    dietary laws, purity codes, social care mandates, and the idea that the moral
-    order reflects the cosmic order.
-  related:
-  - covenant
-  - divine_judgment
-  - royal_legitimacy
-  is_meta_group: false
-  traditions:
-    comparative: 11
-    confucian: 1
-    japanese: 1
-    jewish_christian: 2
-  mapped_motifs:
-  - motif_id: animal_taboo_based_on_mythic_death
-    label: animal taboo based on mythic death
-    relationship: ritual_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      comparative: 1
-  - motif_id: apotropaic_mirror_repels_spirits
-    label: Apotropaic mirror repels spirits
-    relationship: child
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      comparative: 1
-  - motif_id: apotropaic_plant_against_evil_spirits
-    label: apotropaic plant against evil spirits
-    relationship: child
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      comparative: 1
-  - motif_id: apotropaic_removal_of_death_and_disease_from_village_or_house
-    label: Apotropaic removal of death and disease from village or house
-    relationship: ritual_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      comparative: 1
-  - motif_id: avoidance_of_raw_flesh_or_blood_to_prevent_spirit_contact
-    label: Avoidance of raw flesh or blood to prevent spirit contact
-    relationship: ritual_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      comparative: 1
-  - motif_id: avoidance_of_sharp_instruments_near_the_dead_or_the_soul
-    label: Avoidance of sharp instruments near the dead or the soul
-    relationship: ritual_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      comparative: 1
-  - motif_id: blood_as_life
-    label: blood as life
-    relationship: child
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      jewish_christian: 1
-  - motif_id: blood_contains_the_animal_s_life_or_soul
-    label: Blood contains the animal's life or soul
-    relationship: symbolic_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      comparative: 1
-  - motif_id: clinging_spirit_contagion_after_contact_with_death_or_persons
-    label: Clinging spirit contagion after contact with death or persons
-    relationship: ritual_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      comparative: 1
-  - motif_id: covered_mouth_or_face_blocks_spiritual_danger
-    label: covered mouth or face blocks spiritual danger
-    relationship: ritual_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      comparative: 1
-  - motif_id: danger_of_a_sacred_or_spirit_bearing_substance_over_a_tabooed_head
-    label: danger of a sacred or spirit-bearing substance over a tabooed head
-    relationship: ritual_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      comparative: 1
-  - motif_id: dying_mother_s_moral_injunction_to_child
-    label: Dying mother’s moral injunction to child
-    relationship: narrower_than
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      japanese: 1
-  - motif_id: killed_animal_soul_or_spirit_monitors_human_treatment
-    label: Killed animal soul or spirit monitors human treatment
-    relationship: ethical_taboo_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      comparative: 1
-  - motif_id: reciprocity_as_ethical_command
-    label: reciprocity as ethical command
-    relationship: child
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      confucian: 1
-  - motif_id: social_care
-    label: social care
-    relationship: child
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      jewish_christian: 1
-  tradition_count: 4
-  occurrence_count: 15
-  mapped_motif_count: 15
+  occurrence_count: 8
+  mapped_motif_count: 8
 - canonical_motif_id: dream_and_vision
   label: Dream, Vision, and Altered Perception
   description: Dreams, visions, and altered states as sources of sacred knowledge,
@@ -3284,204 +3327,6 @@ canonical_motifs:
   tradition_count: 4
   occurrence_count: 5
   mapped_motif_count: 5
-- canonical_motif_id: sacred_combat
-  label: Sacred Combat and Ritual Warfare
-  description: Warfare, raiding, or single combat as a sacred or ritually significant
-    activity. Includes cattle raids as cosmic catalysts, single combat at fords, and
-    battles that determine cosmic order.
-  related:
-  - divine_warrior
-  - sacrifice
-  - divine_judgment
-  is_meta_group: false
-  traditions:
-    celtic_irish: 4
-    hindu: 1
-    maya_quiche: 1
-  mapped_motifs:
-  - motif_id: cattle_raid_catalyst
-    label: cattle raid catalyst
-    relationship: child
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      celtic_irish: 1
-  - motif_id: doom_prophecy_before_raid
-    label: doom prophecy before raid
-    relationship: child
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      celtic_irish: 1
-  - motif_id: failed_negotiated_exchange
-    label: failed negotiated exchange
-    relationship: child
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      celtic_irish: 1
-  - motif_id: household_reversal
-    label: household reversal
-    relationship: child
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      maya_quiche: 1
-  - motif_id: violated_queen_as_trigger_of_vengeance
-    label: violated queen as trigger of vengeance
-    relationship: child
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      hindu: 1
-  - motif_id: wealth_contest_between_rulers
-    label: wealth contest between rulers
-    relationship: child
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      celtic_irish: 1
-  tradition_count: 3
-  occurrence_count: 6
-  mapped_motif_count: 6
-- canonical_motif_id: death_by_fate
-  label: Death Attributed to Fate or Destiny
-  description: Death understood as fated, destined, or determined by forces beyond
-    human control. The warrior who cannot escape the death assigned to them. Includes
-    the Norse concept of wyrd, Greek moira, and Islamic qadar.
-  related:
-  - divine_judgment
-  - lament_and_mourning
-  - sacrifice
-  is_meta_group: false
-  traditions:
-    greek: 1
-    greek_roman: 3
-    persian: 1
-  mapped_motifs:
-  - motif_id: death_attributed_to_non_human_agency_and_to_fate_destiny
-    label: Death attributed to non-human agency and to fate/destiny
-    relationship: child
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      persian: 1
-  - motif_id: death_by_a_weapon_made_partly_from_oneself_or_one_s_kind
-    label: death by a weapon made partly from oneself or one's kind
-    relationship: death_mechanism_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      greek: 1
-  - motif_id: dying_warrior_foretells_conqueror_s_death
-    label: Dying warrior foretells conqueror's death
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      greek_roman: 1
-  - motif_id: fate_goddesses_present_at_birth_and_death
-    label: fate goddesses present at birth and death
-    relationship: role_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      greek_roman: 1
-  - motif_id: ignored_warning_leads_to_heroic_death
-    label: Ignored warning leads to heroic death
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      greek_roman: 1
-  tradition_count: 3
-  occurrence_count: 5
-  mapped_motif_count: 5
-- canonical_motif_id: pride_and_downfall
-  label: Pride, Hubris, and Downfall
-  description: The pattern of overreaching pride followed by destruction or humbling.
-    Includes failed towers, punished transgressors, kings brought low, and the moral
-    that power without wisdom or humility leads to ruin.
-  related:
-  - divine_judgment
-  - sacred_knowledge
-  - royal_legitimacy
-  is_meta_group: false
-  traditions:
-    buddhist: 1
-    hindu: 1
-    persian: 2
-  mapped_motifs:
-  - motif_id: destructive_passion_leading_to_death
-    label: destructive passion leading to death
-    relationship: narrower_than
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      buddhist: 1
-  - motif_id: endurance_of_a_record_contrasted_with_daily_transience
-    label: Endurance of a record contrasted with daily transience
-    relationship: child
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      persian: 1
-  - motif_id: pride_as_brief_rule_followed_by_downfall_dissolution
-    label: Pride as brief rule followed by downfall/dissolution
-    relationship: child
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      persian: 1
-  - motif_id: pride_humbled_in_divine_containment
-    label: pride humbled in divine containment
-    relationship: child
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      hindu: 1
-  tradition_count: 3
-  occurrence_count: 4
-  mapped_motif_count: 4
-- canonical_motif_id: sacred_vessel
-  label: Sacred Vessel and Container
-  description: 'The sacred container # cauldron, grail, ark, pot, sealed jar # that
-    holds life, death, wisdom, or transformative power. Includes vessels of resurrection,
-    vessels of preservation, and vessels that must not be opened.'
-  related:
-  - flood_and_renewal
-  - death_and_transformation
-  - sacred_knowledge
-  is_meta_group: false
-  traditions:
-    celtic_irish: 1
-    islamicate_folklore: 1
-    jewish_christian: 1
-  mapped_motifs:
-  - motif_id: portable_sanctuary
-    label: portable sanctuary
-    relationship: child
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      jewish_christian: 1
-  - motif_id: sacred_cauldron
-    label: sacred cauldron
-    relationship: child
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      celtic_irish: 1
-  - motif_id: sealed_spirit_vessel
-    label: sealed spirit vessel
-    relationship: child
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      islamicate_folklore: 1
-  tradition_count: 3
-  occurrence_count: 3
-  mapped_motif_count: 3
 - canonical_motif_id: external_soul
   label: External Soul and Life-Token
   description: A being's life, soul, vulnerability, shadow, reflection, or vital force
@@ -3497,8 +3342,17 @@ canonical_motifs:
   is_meta_group: false
   traditions:
     comparative: 37
-    greek_roman: 1
+    greek_roman: 2
+    roman: 1
   mapped_motifs:
+  - motif_id: life_bound_to_an_external_object
+    label: Life bound to an external object
+    relationship: alias
+    occurrence_count: 2
+    tradition_count: 2
+    traditions:
+      greek_roman: 1
+      roman: 1
   - motif_id: external_or_detachable_soul
     label: External or detachable soul
     relationship: uncertain
@@ -3751,9 +3605,214 @@ canonical_motifs:
     tradition_count: 1
     traditions:
       comparative: 1
-  tradition_count: 2
-  occurrence_count: 38
-  mapped_motif_count: 36
+  tradition_count: 3
+  occurrence_count: 40
+  mapped_motif_count: 37
+- canonical_motif_id: sacred_combat
+  label: Sacred Combat and Ritual Warfare
+  description: Warfare, raiding, or single combat as a sacred or ritually significant
+    activity. Includes cattle raids as cosmic catalysts, single combat at fords, and
+    battles that determine cosmic order.
+  related:
+  - divine_warrior
+  - sacrifice
+  - divine_judgment
+  is_meta_group: false
+  traditions:
+    celtic_irish: 7
+    hindu: 1
+    maya_quiche: 1
+  mapped_motifs:
+  - motif_id: cattle_raid
+    label: cattle raid
+    relationship: narrower_than
+    occurrence_count: 3
+    tradition_count: 1
+    traditions:
+      celtic_irish: 3
+  - motif_id: cattle_raid_catalyst
+    label: cattle raid catalyst
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      celtic_irish: 1
+  - motif_id: doom_prophecy_before_raid
+    label: doom prophecy before raid
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      celtic_irish: 1
+  - motif_id: failed_negotiated_exchange
+    label: failed negotiated exchange
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      celtic_irish: 1
+  - motif_id: household_reversal
+    label: household reversal
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      maya_quiche: 1
+  - motif_id: violated_queen_as_trigger_of_vengeance
+    label: violated queen as trigger of vengeance
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      hindu: 1
+  - motif_id: wealth_contest_between_rulers
+    label: wealth contest between rulers
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      celtic_irish: 1
+  tradition_count: 3
+  occurrence_count: 9
+  mapped_motif_count: 7
+- canonical_motif_id: death_by_fate
+  label: Death Attributed to Fate or Destiny
+  description: Death understood as fated, destined, or determined by forces beyond
+    human control. The warrior who cannot escape the death assigned to them. Includes
+    the Norse concept of wyrd, Greek moira, and Islamic qadar.
+  related:
+  - divine_judgment
+  - lament_and_mourning
+  - sacrifice
+  is_meta_group: false
+  traditions:
+    greek: 1
+    greek_roman: 3
+    persian: 1
+  mapped_motifs:
+  - motif_id: death_attributed_to_non_human_agency_and_to_fate_destiny
+    label: Death attributed to non-human agency and to fate/destiny
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      persian: 1
+  - motif_id: death_by_a_weapon_made_partly_from_oneself_or_one_s_kind
+    label: death by a weapon made partly from oneself or one's kind
+    relationship: death_mechanism_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
+  - motif_id: dying_warrior_foretells_conqueror_s_death
+    label: Dying warrior foretells conqueror's death
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek_roman: 1
+  - motif_id: fate_goddesses_present_at_birth_and_death
+    label: fate goddesses present at birth and death
+    relationship: role_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek_roman: 1
+  - motif_id: ignored_warning_leads_to_heroic_death
+    label: Ignored warning leads to heroic death
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek_roman: 1
+  tradition_count: 3
+  occurrence_count: 5
+  mapped_motif_count: 5
+- canonical_motif_id: pride_and_downfall
+  label: Pride, Hubris, and Downfall
+  description: The pattern of overreaching pride followed by destruction or humbling.
+    Includes failed towers, punished transgressors, kings brought low, and the moral
+    that power without wisdom or humility leads to ruin.
+  related:
+  - divine_judgment
+  - sacred_knowledge
+  - royal_legitimacy
+  is_meta_group: false
+  traditions:
+    buddhist: 1
+    hindu: 1
+    persian: 2
+  mapped_motifs:
+  - motif_id: destructive_passion_leading_to_death
+    label: destructive passion leading to death
+    relationship: narrower_than
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      buddhist: 1
+  - motif_id: endurance_of_a_record_contrasted_with_daily_transience
+    label: Endurance of a record contrasted with daily transience
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      persian: 1
+  - motif_id: pride_as_brief_rule_followed_by_downfall_dissolution
+    label: Pride as brief rule followed by downfall/dissolution
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      persian: 1
+  - motif_id: pride_humbled_in_divine_containment
+    label: pride humbled in divine containment
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      hindu: 1
+  tradition_count: 3
+  occurrence_count: 4
+  mapped_motif_count: 4
+- canonical_motif_id: sacred_vessel
+  label: Sacred Vessel and Container
+  description: 'The sacred container # cauldron, grail, ark, pot, sealed jar # that
+    holds life, death, wisdom, or transformative power. Includes vessels of resurrection,
+    vessels of preservation, and vessels that must not be opened.'
+  related:
+  - flood_and_renewal
+  - death_and_transformation
+  - sacred_knowledge
+  is_meta_group: false
+  traditions:
+    celtic_irish: 1
+    islamicate_folklore: 1
+    jewish_christian: 1
+  mapped_motifs:
+  - motif_id: portable_sanctuary
+    label: portable sanctuary
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      jewish_christian: 1
+  - motif_id: sacred_cauldron
+    label: sacred cauldron
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      celtic_irish: 1
+  - motif_id: sealed_spirit_vessel
+    label: sealed spirit vessel
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      islamicate_folklore: 1
+  tradition_count: 3
+  occurrence_count: 3
+  mapped_motif_count: 3
 - canonical_motif_id: storytelling_as_power
   label: Storytelling and Narrative as Sacred Power
   description: The act of telling stories as a means of survival, transmission of

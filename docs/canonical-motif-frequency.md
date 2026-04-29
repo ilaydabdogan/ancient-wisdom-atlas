@@ -9,14 +9,14 @@ This report counts only motif IDs that already map to a canonical normalization 
 - Indexed motif IDs: 9072
 - Indexed motif occurrences: 31658
 - Canonical motif groups: 53
-- Mapped motif IDs counted: 300
-- Unmapped motif IDs excluded: 8772
+- Mapped motif IDs counted: 308
+- Unmapped motif IDs excluded: 8764
 
 ## Ranked Canonical Motifs
 
 | Rank | Canonical Motif | Distinct Traditions | Occurrences | Mapped Motif IDs | Top Traditions |
 | ---: | --- | ---: | ---: | ---: | --- |
-| 1 | `death_and_transformation` Death, Rebirth, and Transformation | 22 | 1373 | 18 | islamic (415), comparative (250), sufi (237), roman (104), greek (58) |
+| 1 | `death_and_transformation` Death, Rebirth, and Transformation | 22 | 1374 | 19 | islamic (415), comparative (250), sufi (237), roman (105), greek (58) |
 | 2 | `initiation` Initiation and Transformative Ordeal | 22 | 689 | 3 | sufi (146), greek (103), hindu (71), comparative (63), celtic_welsh (50) |
 | 3 | `sacred_knowledge` Sacred Knowledge and Wisdom | 21 | 4142 | 9 | sufi (927), greek (914), islamic (558), daoist (364), buddhist (344) |
 | 4 | `divine_judgment` Divine Judgment and Moral Reckoning | 21 | 2207 | 10 | islamic (1212), greek (274), sufi (212), roman (198), hindu (105) |
@@ -28,8 +28,8 @@ This report counts only motif IDs that already map to a canonical normalization 
 | 10 | `serpent_guardian` Serpent and Serpent Guardian | 19 | 341 | 1 | roman (80), hindu (49), greek (37), greek_roman (30), norse (28) |
 | 11 | `flood_and_renewal` Flood, Fire, and Cosmic Renewal | 19 | 287 | 4 | islamic (98), roman (49), hindu (30), greek (22), norse (18) |
 | 12 | `descent` Descent and Underworld Journey | 19 | 168 | 5 | roman (32), greek (24), hindu (16), finnish_karelian (15), norse (12) |
-| 13 | `miraculous_child` Miraculous Child and Sacred Birth | 18 | 1024 | 5 | greek (226), roman (190), hindu (147), islamic (110), greek_roman (90) |
-| 14 | `sacrifice` Sacrifice and Offering | 18 | 1024 | 13 | comparative (349), hindu (169), greek (128), roman (106), islamic (74) |
+| 13 | `sacrifice` Sacrifice and Offering | 18 | 1025 | 14 | comparative (350), hindu (169), greek (128), roman (106), islamic (74) |
+| 14 | `miraculous_child` Miraculous Child and Sacred Birth | 18 | 1024 | 5 | greek (226), roman (190), hindu (147), islamic (110), greek_roman (90) |
 | 15 | `shapeshifter` Shapeshifter and Transformation | 18 | 804 | 6 | roman (345), greek (81), celtic_irish (77), hindu (75), norse (41) |
 | 16 | `trickster` Trickster and Boundary Crosser | 18 | 424 | 4 | greek (103), celtic_irish (40), buddhist (39), roman (34), norse (31) |
 | 17 | `sacred_twins` Sacred Twins and Sibling Pairs | 18 | 189 | 2 | hindu (70), greek (32), roman (27), greek_roman (14), islamic (10) |
@@ -45,17 +45,17 @@ This report counts only motif IDs that already map to a canonical normalization 
 | 27 | `sacred_fire` Sacred Fire and Divine Light | 13 | 68 | 3 | roman (10), islamic (10), hindu (7), greek (7), norse (6) |
 | 28 | `mother_goddess` Sacred Feminine and Mother Goddess | 10 | 81 | 2 | greek (19), greek_roman (15), roman (13), comparative (13), finnish_karelian (11) |
 | 29 | `lament_and_mourning` Lament, Mourning, and Tragic Recognition | 7 | 12 | 12 | greek (4), greek_roman (2), persian (2), buddhist (1), hindu (1) |
-| 30 | `divine_intervention` Divine Intervention and Guidance | 5 | 13 | 12 | greek (5), comparative (3), greek_roman (2), islamic (2), hindu (1) |
-| 31 | `sacred_treasures` Sacred Treasures and Power Objects | 5 | 9 | 9 | jewish_christian (3), comparative (2), japanese (2), celtic_irish (1), greek (1) |
-| 32 | `divine_warrior` Divine Warrior and Sacred Combat | 5 | 8 | 8 | greek (2), greek_roman (2), norse (2), hindu (1), jewish_christian (1) |
-| 33 | `otherworld` Otherworld and Enchanted Realm | 5 | 7 | 7 | celtic_irish (2), comparative (2), celtic_welsh (1), greek (1), greek_roman (1) |
-| 34 | `sacred_law` Sacred Law and Social Order | 4 | 15 | 15 | comparative (11), jewish_christian (2), confucian (1), japanese (1) |
+| 30 | `sacred_law` Sacred Law and Social Order | 5 | 16 | 16 | comparative (11), jewish_christian (2), confucian (1), japanese (1), sufi (1) |
+| 31 | `divine_intervention` Divine Intervention and Guidance | 5 | 15 | 14 | greek (5), islamic (4), comparative (3), greek_roman (2), hindu (1) |
+| 32 | `sacred_treasures` Sacred Treasures and Power Objects | 5 | 9 | 9 | jewish_christian (3), comparative (2), japanese (2), celtic_irish (1), greek (1) |
+| 33 | `divine_warrior` Divine Warrior and Sacred Combat | 5 | 8 | 8 | greek (2), greek_roman (2), norse (2), hindu (1), jewish_christian (1) |
+| 34 | `otherworld` Otherworld and Enchanted Realm | 5 | 8 | 8 | celtic_irish (3), comparative (2), celtic_welsh (1), greek (1), greek_roman (1) |
 | 35 | `dream_and_vision` Dream, Vision, and Altered Perception | 4 | 5 | 5 | norse (2), buddhist (1), comparative (1), greek_roman (1) |
-| 36 | `sacred_combat` Sacred Combat and Ritual Warfare | 3 | 6 | 6 | celtic_irish (4), hindu (1), maya_quiche (1) |
-| 37 | `death_by_fate` Death Attributed to Fate or Destiny | 3 | 5 | 5 | greek_roman (3), greek (1), persian (1) |
-| 38 | `pride_and_downfall` Pride, Hubris, and Downfall | 3 | 4 | 4 | persian (2), buddhist (1), hindu (1) |
-| 39 | `sacred_vessel` Sacred Vessel and Container | 3 | 3 | 3 | celtic_irish (1), islamicate_folklore (1), jewish_christian (1) |
-| 40 | `external_soul` External Soul and Life-Token | 2 | 38 | 36 | comparative (37), greek_roman (1) |
+| 36 | `external_soul` External Soul and Life-Token | 3 | 40 | 37 | comparative (37), greek_roman (2), roman (1) |
+| 37 | `sacred_combat` Sacred Combat and Ritual Warfare | 3 | 9 | 7 | celtic_irish (7), hindu (1), maya_quiche (1) |
+| 38 | `death_by_fate` Death Attributed to Fate or Destiny | 3 | 5 | 5 | greek_roman (3), greek (1), persian (1) |
+| 39 | `pride_and_downfall` Pride, Hubris, and Downfall | 3 | 4 | 4 | persian (2), buddhist (1), hindu (1) |
+| 40 | `sacred_vessel` Sacred Vessel and Container | 3 | 3 | 3 | celtic_irish (1), islamicate_folklore (1), jewish_christian (1) |
 | 41 | `storytelling_as_power` Storytelling and Narrative as Sacred Power | 2 | 7 | 7 | islamicate_folklore (5), greek (2) |
 | 42 | `heroic_funeral_rites` Heroic Funeral Rites and Memorialization | 2 | 4 | 4 | greek (3), greek_roman (1) |
 | 43 | `soul_loss_restoration` Soul Loss and Restoration | 2 | 3 | 3 | comparative (2), greek (1) |
@@ -74,14 +74,15 @@ This report counts only motif IDs that already map to a canonical normalization 
 
 - Canonical motif ID: `death_and_transformation`
 - Distinct traditions: 22
-- Occurrences: 1373
-- Mapped motif IDs: 18
+- Occurrences: 1374
+- Mapped motif IDs: 19
 
 | Mapped Motif ID | Relationship | Traditions | Occurrences |
 | --- | --- | ---: | ---: |
 | `death_rebirth` | alias | 22 | 732 |
 | `resurrection` | child | 18 | 556 |
 | `dying_and_returning` | alias | 6 | 70 |
+| `age_renewal_through_medea_s_arts` | functional_variant | 1 | 1 |
 | `ancestors_or_dead_persons_embodied_in_trees` | symbolic_variant | 1 | 1 |
 | `bestowal_of_immortality` | functional_variant | 1 | 1 |
 | `birth_or_generation_as_access_to_immortality` | thematic_variant | 1 | 1 |
@@ -263,6 +264,30 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `dead_father_seeks_news_of_living_son` | child | 1 | 1 |
 | `dead_or_ancestors_detain_the_souls_of_the_living` | functional_variant | 1 | 1 |
 
+## Sacrifice and Offering
+
+- Canonical motif ID: `sacrifice`
+- Distinct traditions: 18
+- Occurrences: 1025
+- Mapped motif IDs: 14
+
+| Mapped Motif ID | Relationship | Traditions | Occurrences |
+| --- | --- | ---: | ---: |
+| `sacrifice` | canonical_group | 18 | 1011 |
+| `atonement_rite` | child | 1 | 2 |
+| `annual_expulsion_of_evil_from_the_community` | ritual_variant | 1 | 1 |
+| `annual_purification` | child | 1 | 1 |
+| `boundary_preventing_return_of_expelled_harms` | ritual_expulsion_child | 1 | 1 |
+| `closing_boundaries_after_expelling_spirits` | ritual_variant | 1 | 1 |
+| `communal_expulsion_of_misfortune_causing_spirits` | ritual_variant | 1 | 1 |
+| `community_clearance_of_harmful_spiritual_beings` | ritual_variant | 1 | 1 |
+| `completion_of_duty_before_death` | functional_variant | 1 | 1 |
+| `exorcism_of_evil_spirits_attached_to_persons` | ritual_variant | 1 | 1 |
+| `expulsion_of_disease_devils_or_evil_spirits` | ritual_variant | 1 | 1 |
+| `illness_or_misfortune_attributed_to_harmful_spirits_and_treated_by_expulsion` | ritual_variant | 1 | 1 |
+| `ritualized_release` | child | 1 | 1 |
+| `scapegoat` | child | 1 | 1 |
+
 ## Miraculous Child and Sacred Birth
 
 - Canonical motif ID: `miraculous_child`
@@ -277,29 +302,6 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `divine_parent_child` | child | 14 | 485 |
 | `bear_nursed_first_ancestor` | functional_variant | 1 | 1 |
 | `miraculous_birth_under_palm` | child | 1 | 1 |
-
-## Sacrifice and Offering
-
-- Canonical motif ID: `sacrifice`
-- Distinct traditions: 18
-- Occurrences: 1024
-- Mapped motif IDs: 13
-
-| Mapped Motif ID | Relationship | Traditions | Occurrences |
-| --- | --- | ---: | ---: |
-| `sacrifice` | canonical_group | 18 | 1011 |
-| `atonement_rite` | child | 1 | 2 |
-| `annual_purification` | child | 1 | 1 |
-| `boundary_preventing_return_of_expelled_harms` | ritual_expulsion_child | 1 | 1 |
-| `closing_boundaries_after_expelling_spirits` | ritual_variant | 1 | 1 |
-| `communal_expulsion_of_misfortune_causing_spirits` | ritual_variant | 1 | 1 |
-| `community_clearance_of_harmful_spiritual_beings` | ritual_variant | 1 | 1 |
-| `completion_of_duty_before_death` | functional_variant | 1 | 1 |
-| `exorcism_of_evil_spirits_attached_to_persons` | ritual_variant | 1 | 1 |
-| `expulsion_of_disease_devils_or_evil_spirits` | ritual_variant | 1 | 1 |
-| `illness_or_misfortune_attributed_to_harmful_spirits_and_treated_by_expulsion` | ritual_variant | 1 | 1 |
-| `ritualized_release` | child | 1 | 1 |
-| `scapegoat` | child | 1 | 1 |
 
 ## Shapeshifter and Transformation
 
@@ -519,16 +521,44 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `mourning_expressed_through_embracing_and_kissing_the_deceased_warrior_s_horse_and_equipment` | child | 1 | 1 |
 | `prolonged_mourning_without_relief_leading_to_physical_collapse_death` | child | 1 | 1 |
 
+## Sacred Law and Social Order
+
+- Canonical motif ID: `sacred_law`
+- Distinct traditions: 5
+- Occurrences: 16
+- Mapped motif IDs: 16
+
+| Mapped Motif ID | Relationship | Traditions | Occurrences |
+| --- | --- | ---: | ---: |
+| `animal_taboo_based_on_mythic_death` | ritual_variant | 1 | 1 |
+| `apotropaic_mirror_repels_spirits` | child | 1 | 1 |
+| `apotropaic_plant_against_evil_spirits` | child | 1 | 1 |
+| `apotropaic_removal_of_death_and_disease_from_village_or_house` | ritual_variant | 1 | 1 |
+| `apotropaic_smoke_averts_the_evil_eye` | ritual_variant | 1 | 1 |
+| `avoidance_of_raw_flesh_or_blood_to_prevent_spirit_contact` | ritual_variant | 1 | 1 |
+| `avoidance_of_sharp_instruments_near_the_dead_or_the_soul` | ritual_variant | 1 | 1 |
+| `blood_as_life` | child | 1 | 1 |
+| `blood_contains_the_animal_s_life_or_soul` | symbolic_variant | 1 | 1 |
+| `clinging_spirit_contagion_after_contact_with_death_or_persons` | ritual_variant | 1 | 1 |
+| `covered_mouth_or_face_blocks_spiritual_danger` | ritual_variant | 1 | 1 |
+| `danger_of_a_sacred_or_spirit_bearing_substance_over_a_tabooed_head` | ritual_variant | 1 | 1 |
+| `dying_mother_s_moral_injunction_to_child` | narrower_than | 1 | 1 |
+| `killed_animal_soul_or_spirit_monitors_human_treatment` | ethical_taboo_variant | 1 | 1 |
+| `reciprocity_as_ethical_command` | child | 1 | 1 |
+| `social_care` | child | 1 | 1 |
+
 ## Divine Intervention and Guidance
 
 - Canonical motif ID: `divine_intervention`
 - Distinct traditions: 5
-- Occurrences: 13
-- Mapped motif IDs: 12
+- Occurrences: 15
+- Mapped motif IDs: 14
 
 | Mapped Motif ID | Relationship | Traditions | Occurrences |
 | --- | --- | ---: | ---: |
 | `divine_intervention` | canonical_group | 1 | 2 |
+| `angelic_messenger_and_guardian_functions` | role_variant | 1 | 1 |
+| `angelic_promise_of_success_before_conflict` | functional_variant | 1 | 1 |
 | `civic_or_communal_tutelary_spirit` | role_variant | 1 | 1 |
 | `dead_or_departed_agent_mediating_rain` | ancestor_agency_variant | 1 | 1 |
 | `death_answers_a_summons` | role_variant | 1 | 1 |
@@ -582,11 +612,12 @@ This report counts only motif IDs that already map to a canonical normalization 
 
 - Canonical motif ID: `otherworld`
 - Distinct traditions: 5
-- Occurrences: 7
-- Mapped motif IDs: 7
+- Occurrences: 8
+- Mapped motif IDs: 8
 
 | Mapped Motif ID | Relationship | Traditions | Occurrences |
 | --- | --- | ---: | ---: |
+| `abundant_food_and_drink_in_the_marvelous_land` | narrower_than | 1 | 1 |
 | `blessed_island_with_painless_divine_death_in_old_age` | narrower_than | 1 | 1 |
 | `child_taken_by_wood_spirits_and_recovered_in_a_tree` | enchanted_abduction_variant | 1 | 1 |
 | `goat_formed_woodland_spirit` | spirit_being_variant | 1 | 1 |
@@ -594,31 +625,6 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `otherworld_exchange` | child | 1 | 1 |
 | `otherworld_protection_in_small_form` | child | 1 | 1 |
 | `otherworld_sojourn` | child | 1 | 1 |
-
-## Sacred Law and Social Order
-
-- Canonical motif ID: `sacred_law`
-- Distinct traditions: 4
-- Occurrences: 15
-- Mapped motif IDs: 15
-
-| Mapped Motif ID | Relationship | Traditions | Occurrences |
-| --- | --- | ---: | ---: |
-| `animal_taboo_based_on_mythic_death` | ritual_variant | 1 | 1 |
-| `apotropaic_mirror_repels_spirits` | child | 1 | 1 |
-| `apotropaic_plant_against_evil_spirits` | child | 1 | 1 |
-| `apotropaic_removal_of_death_and_disease_from_village_or_house` | ritual_variant | 1 | 1 |
-| `avoidance_of_raw_flesh_or_blood_to_prevent_spirit_contact` | ritual_variant | 1 | 1 |
-| `avoidance_of_sharp_instruments_near_the_dead_or_the_soul` | ritual_variant | 1 | 1 |
-| `blood_as_life` | child | 1 | 1 |
-| `blood_contains_the_animal_s_life_or_soul` | symbolic_variant | 1 | 1 |
-| `clinging_spirit_contagion_after_contact_with_death_or_persons` | ritual_variant | 1 | 1 |
-| `covered_mouth_or_face_blocks_spiritual_danger` | ritual_variant | 1 | 1 |
-| `danger_of_a_sacred_or_spirit_bearing_substance_over_a_tabooed_head` | ritual_variant | 1 | 1 |
-| `dying_mother_s_moral_injunction_to_child` | narrower_than | 1 | 1 |
-| `killed_animal_soul_or_spirit_monitors_human_treatment` | ethical_taboo_variant | 1 | 1 |
-| `reciprocity_as_ethical_command` | child | 1 | 1 |
-| `social_care` | child | 1 | 1 |
 
 ## Dream, Vision, and Altered Perception
 
@@ -635,15 +641,63 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `dream_imagery_of_animals_foreshadowing_or_associated_with_violent_consumption` | child | 1 | 1 |
 | `intoxication_as_spirit_possession_or_inspiration` | functional_variant | 1 | 1 |
 
+## External Soul and Life-Token
+
+- Canonical motif ID: `external_soul`
+- Distinct traditions: 3
+- Occurrences: 40
+- Mapped motif IDs: 37
+
+| Mapped Motif ID | Relationship | Traditions | Occurrences |
+| --- | --- | ---: | ---: |
+| `life_bound_to_an_external_object` | alias | 2 | 2 |
+| `external_or_detachable_soul` | uncertain | 1 | 2 |
+| `external_soul_located_outside_the_body` | narrower_than | 1 | 2 |
+| `breaking_or_burning_the_token_causes_death` | functional_variant | 1 | 1 |
+| `breath_caught_as_departing_soul` | symbolic_variant | 1 | 1 |
+| `capture_and_confinement_of_the_separable_soul` | functional_variant | 1 | 1 |
+| `death_by_destruction_of_an_external_animal_soul` | child | 1 | 1 |
+| `death_caused_by_damage_to_external_life_object` | child | 1 | 1 |
+| `death_through_loss_of_shadow` | symbolic_variant | 1 | 1 |
+| `external_life_or_soul_hidden_in_hair` | narrower_than | 1 | 1 |
+| `external_life_or_soul_hidden_outside_the_body` | alias | 1 | 1 |
+| `external_life_soul_fate_safety_or_strength_kept_outside_the_body` | alias | 1 | 1 |
+| `external_or_vulnerable_soul` | broader_label | 1 | 1 |
+| `external_soul_harmed_to_kill_its_owner` | functional_variant | 1 | 1 |
+| `external_soul_hidden_outside_the_body` | alias | 1 | 1 |
+| `external_soul_kept_outside_the_body` | alias | 1 | 1 |
+| `external_soul_or_external_life_kept_in_an_object` | narrower_than | 1 | 1 |
+| `external_soul_or_external_life_token` | alias | 1 | 1 |
+| `external_soul_or_life_bound_to_another_object` | narrower_than | 1 | 1 |
+| `external_soul_or_life_bound_to_external_object` | alias | 1 | 1 |
+| `external_soul_or_life_placed_outside_the_body` | alias | 1 | 1 |
+| `external_soul_or_life_stored_outside_the_body` | alias | 1 | 1 |
+| `external_soul_or_separable_soul` | uncertain | 1 | 1 |
+| `external_soul_secured_in_a_totemic_object` | child | 1 | 1 |
+| `external_soul_soul_recall_and_soul_transfer` | broader_label | 1 | 1 |
+| `externalized_life_or_soul_stored_outside_the_body` | alias | 1 | 1 |
+| `externalized_life_strength_or_soul` | alias | 1 | 1 |
+| `fatal_loss_or_capture_of_reflection_soul_in_water` | functional_variant | 1 | 1 |
+| `hidden_external_soul` | child | 1 | 1 |
+| `invulnerability_through_externalized_soul` | child | 1 | 1 |
+| `invulnerability_through_soul_removal_and_guarded_soul_box` | child | 1 | 1 |
+| `life_bound_tree_spirit` | symbolic_variant | 1 | 1 |
+| `life_object_as_death_object` | child | 1 | 1 |
+| `life_or_consciousness_controlled_by_handling_an_external_soul_object` | child | 1 | 1 |
+| `life_or_death_bound_to_an_animal_receptacle` | symbolic_variant | 1 | 1 |
+| `life_or_soul_deposited_in_an_external_object` | child | 1 | 1 |
+| `life_or_soul_kept_outside_the_body` | broader_label | 1 | 1 |
+
 ## Sacred Combat and Ritual Warfare
 
 - Canonical motif ID: `sacred_combat`
 - Distinct traditions: 3
-- Occurrences: 6
-- Mapped motif IDs: 6
+- Occurrences: 9
+- Mapped motif IDs: 7
 
 | Mapped Motif ID | Relationship | Traditions | Occurrences |
 | --- | --- | ---: | ---: |
+| `cattle_raid` | narrower_than | 1 | 3 |
 | `cattle_raid_catalyst` | child | 1 | 1 |
 | `doom_prophecy_before_raid` | child | 1 | 1 |
 | `failed_negotiated_exchange` | child | 1 | 1 |
@@ -692,52 +746,6 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `portable_sanctuary` | child | 1 | 1 |
 | `sacred_cauldron` | child | 1 | 1 |
 | `sealed_spirit_vessel` | child | 1 | 1 |
-
-## External Soul and Life-Token
-
-- Canonical motif ID: `external_soul`
-- Distinct traditions: 2
-- Occurrences: 38
-- Mapped motif IDs: 36
-
-| Mapped Motif ID | Relationship | Traditions | Occurrences |
-| --- | --- | ---: | ---: |
-| `external_or_detachable_soul` | uncertain | 1 | 2 |
-| `external_soul_located_outside_the_body` | narrower_than | 1 | 2 |
-| `breaking_or_burning_the_token_causes_death` | functional_variant | 1 | 1 |
-| `breath_caught_as_departing_soul` | symbolic_variant | 1 | 1 |
-| `capture_and_confinement_of_the_separable_soul` | functional_variant | 1 | 1 |
-| `death_by_destruction_of_an_external_animal_soul` | child | 1 | 1 |
-| `death_caused_by_damage_to_external_life_object` | child | 1 | 1 |
-| `death_through_loss_of_shadow` | symbolic_variant | 1 | 1 |
-| `external_life_or_soul_hidden_in_hair` | narrower_than | 1 | 1 |
-| `external_life_or_soul_hidden_outside_the_body` | alias | 1 | 1 |
-| `external_life_soul_fate_safety_or_strength_kept_outside_the_body` | alias | 1 | 1 |
-| `external_or_vulnerable_soul` | broader_label | 1 | 1 |
-| `external_soul_harmed_to_kill_its_owner` | functional_variant | 1 | 1 |
-| `external_soul_hidden_outside_the_body` | alias | 1 | 1 |
-| `external_soul_kept_outside_the_body` | alias | 1 | 1 |
-| `external_soul_or_external_life_kept_in_an_object` | narrower_than | 1 | 1 |
-| `external_soul_or_external_life_token` | alias | 1 | 1 |
-| `external_soul_or_life_bound_to_another_object` | narrower_than | 1 | 1 |
-| `external_soul_or_life_bound_to_external_object` | alias | 1 | 1 |
-| `external_soul_or_life_placed_outside_the_body` | alias | 1 | 1 |
-| `external_soul_or_life_stored_outside_the_body` | alias | 1 | 1 |
-| `external_soul_or_separable_soul` | uncertain | 1 | 1 |
-| `external_soul_secured_in_a_totemic_object` | child | 1 | 1 |
-| `external_soul_soul_recall_and_soul_transfer` | broader_label | 1 | 1 |
-| `externalized_life_or_soul_stored_outside_the_body` | alias | 1 | 1 |
-| `externalized_life_strength_or_soul` | alias | 1 | 1 |
-| `fatal_loss_or_capture_of_reflection_soul_in_water` | functional_variant | 1 | 1 |
-| `hidden_external_soul` | child | 1 | 1 |
-| `invulnerability_through_externalized_soul` | child | 1 | 1 |
-| `invulnerability_through_soul_removal_and_guarded_soul_box` | child | 1 | 1 |
-| `life_bound_tree_spirit` | symbolic_variant | 1 | 1 |
-| `life_object_as_death_object` | child | 1 | 1 |
-| `life_or_consciousness_controlled_by_handling_an_external_soul_object` | child | 1 | 1 |
-| `life_or_death_bound_to_an_animal_receptacle` | symbolic_variant | 1 | 1 |
-| `life_or_soul_deposited_in_an_external_object` | child | 1 | 1 |
-| `life_or_soul_kept_outside_the_body` | broader_label | 1 | 1 |
 
 ## Storytelling and Narrative as Sacred Power
 

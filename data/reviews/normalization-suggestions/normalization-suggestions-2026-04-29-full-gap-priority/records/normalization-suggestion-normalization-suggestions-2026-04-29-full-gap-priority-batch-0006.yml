@@ -1,0 +1,318 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0006
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.ancient-giant-race
+  motif_id: ancient_giant_race
+  label: ancient giant race
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A race of giants may be mythic ancestry, monstrous beings, primordial
+    peoples, or a local ethnographic/geographic tradition depending on context.
+  cautions: Single occurrence; avoid forcing into divine_race unless the group is
+    explicitly divine or semi-divine and culture-founding.
+  suggested_aliases:
+  - giant race
+  - primordial giants
+  - ancient giants
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_race
+    - cosmic_origin
+    - sacred_combat
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ancient-oral-tale-transmission
+  motif_id: ancient_oral_tale_transmission
+  label: Ancient oral tale transmission
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes transmission history rather than a narrative or symbolic
+    motif.
+  cautions: Preserve as provenance or source-history metadata if useful; do not use
+    as evidence for motif similarity.
+  suggested_aliases:
+  - oral transmission
+  - tale transmission
+  - ancient oral transmission
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ancient-poems-preserved-through-editorial-transmission
+  motif_id: ancient_poems_preserved_through_editorial_transmission
+  label: ancient poems preserved through editorial transmission
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This is an editorial/transmission-history note, not a mythic motif.
+  cautions: Keep for manuscript or reception metadata; exclude from Pattern Explorer
+    motif queries.
+  suggested_aliases:
+  - editorial transmission of poems
+  - poems preserved by editors
+  - textual preservation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ancient-unconquered-people-resisting-empires
+  motif_id: ancient_unconquered_people_resisting_empires
+  label: Ancient unconquered people resisting empires
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could be a historical-geographic detail, ethnographic trope, sacred combat
+    motif, or political ideology of resistance.
+  cautions: Single occurrence and possibly person/place/people-specific; source context
+    needed before indexing as motif.
+  suggested_aliases:
+  - unconquered people
+  - resistance to empire
+  - people resisting conquest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - royal_legitimacy
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.angelic-bearer-offers-transformative-drink
+  motif_id: angelic_bearer_offers_transformative_drink
+  label: angelic bearer offers transformative drink
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: An angelic drink that transforms the recipient fits mystical initiation
+    or interior transformation through sacred mediation.
+  cautions: If the drink is mainly a sacred object or vessel, sacred_vessel may be
+    secondary; if it conveys knowledge, sacred_knowledge may also apply.
+  suggested_aliases:
+  - transformative drink
+  - angelic cupbearer
+  - mystical drink offered by angel
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_knowledge
+    - sacred_vessel
+    - divine_intervention
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.angelic-messenger-and-guardian-functions
+  motif_id: angelic_messenger_and_guardian_functions
+  label: Angelic messenger and guardian functions
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: high
+  rationale: Angels acting as messengers or guardians are direct sacred agents guiding,
+    protecting, or mediating divine action.
+  cautions: If a specific boundary or gate is guarded, threshold_guardian may be a
+    secondary mapping.
+  suggested_aliases:
+  - angelic messenger
+  - angelic guardian
+  - angel as divine agent
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - theophany
+    - threshold_guardian
+    - sacred_knowledge
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.angelic-messengers-with-multiple-wings
+  motif_id: angelic_messengers_with_multiple_wings
+  label: Angelic messengers with multiple wings
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The core function is angelic mediation; the number or multiplicity of
+    wings is likely iconographic detail.
+  cautions: If the passage emphasizes visionary manifestation of angelic form, theophany
+    or dream_and_vision may be secondary; preserve wing detail as evidence.
+  suggested_aliases:
+  - many-winged angels
+  - multi-winged messengers
+  - angelic messengers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - theophany
+    - dream_and_vision
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.angelic-obedience-and-restricted-intercession
+  motif_id: angelic_obedience_and_restricted_intercession
+  label: Angelic obedience and restricted intercession
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: role_variant
+  confidence: medium
+  rationale: The label centers on angels operating under divine order and limits on
+    mediation, fitting sacred law or ordered hierarchy.
+  cautions: Could also fit divine_judgment if intercession occurs in judgment scenes;
+    source context should decide primary placement.
+  suggested_aliases:
+  - restricted intercession
+  - angelic obedience
+  - intercession only by permission
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_judgment
+    - divine_intervention
+    - royal_legitimacy
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.angelic-promise-of-success-before-conflict
+  motif_id: angelic_promise_of_success_before_conflict
+  label: angelic promise of success before conflict
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: high
+  rationale: A divine or angelic assurance before battle is supernatural guidance
+    and support in human affairs.
+  cautions: If the conflict is framed as sacred combat or divine warfare, divine_warrior
+    or sacred_combat may be secondary mappings.
+  suggested_aliases:
+  - angelic assurance before battle
+  - promise of victory
+  - divine promise before conflict
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_warrior
+    - sacred_combat
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.angelic-prostration-before-a-newly-created-human
+  motif_id: angelic_prostration_before_a_newly_created_human
+  label: Angelic prostration before a newly created human
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: The episode belongs to creation-order narratives about the status of
+    the newly created human within cosmic hierarchy.
+  cautions: May also index under sacred_law or divine_judgment when the emphasis is
+    obedience/refusal; avoid treating it as a generic worship motif without source
+    context.
+  suggested_aliases:
+  - angels prostrate before human
+  - prostration before Adam
+  - honor shown to newly created human
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - divine_judgment
+    - cosmic_origin
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Suggestions are provisional taxonomy placements only and make no claims about borrowing,
+  contact, or common origin.
+- Several angelic labels may need a future angelic-agency subgroup if many similar
+  items recur, but existing divine_intervention and sacred_law groups are sufficient
+  for this batch.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Human review recommended for giant-race and unconquered-people labels because
+    they may be contextual, ethnographic, or historically specific rather than reusable
+    motifs.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0006
+  input_sha256: c01a71168ffdc9d8bd27cff4228d6980ce29ed5b9356350e420d5aaa62d8d309

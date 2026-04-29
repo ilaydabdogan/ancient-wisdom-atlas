@@ -7,8 +7,8 @@ This report lists motif IDs that are present in the motif occurrence index but n
 ## Summary
 
 - Indexed motif IDs: 9072
-- Already mapped: 301
-- Unmapped: 8771
+- Already mapped: 309
+- Unmapped: 8763
 
 | Review Bucket | Unmapped Motifs |
 | --- | ---: |
@@ -23,7 +23,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | Conflict, Violence, Heroic Ordeal, And Victory | 1150 |
 | Objects, Places, Boundaries, And Thresholds | 249 |
 | Ethics, Psychology, Discipline, And Inner Life | 173 |
-| Needs Human Sorting | 1880 |
+| Needs Human Sorting | 1872 |
 
 ## Death, Descent, Afterlife, And Ancestors
 
@@ -6975,11 +6975,9 @@ This report lists motif IDs that are present in the motif occurrence index but n
 
 | Motif ID | Label | Occurrences | Traditions |
 | --- | --- | ---: | --- |
-| `cattle_raid` | cattle raid | 3 | celtic_irish |
 | `hunter_becomes_hunted` | hunter becomes hunted | 2 | greek, roman |
 | `inescapable_chain_of_existence` | inescapable chain of existence | 2 | sufi |
 | `inexhaustible_food_supply` | inexhaustible food supply | 2 | japanese, sufi |
-| `life_bound_to_an_external_object` | Life bound to an external object | 2 | greek_roman, roman |
 | `recognition_by_bodily_scar` | recognition by bodily scar | 2 | greek |
 | `abandonment_after_rejected_aid` | abandonment after rejected aid | 1 | greek |
 | `abandonment_of_the_corruptible_body` | Abandonment of the corruptible body | 1 | buddhist |
@@ -6997,7 +6995,6 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `abundance_giving_cow` | abundance-giving cow | 1 | celtic_irish |
 | `abundant_dairy_yield_at_a_raiding_camp` | Abundant dairy yield at a raiding camp | 1 | celtic_irish |
 | `abundant_faraway_land` | abundant faraway land | 1 | greek |
-| `abundant_food_and_drink_in_the_marvelous_land` | Abundant food and drink in the marvelous land | 1 | celtic_irish |
 | `abundant_pictorial_simile` | abundant pictorial simile | 1 | greek |
 | `acceptance_of_destiny_after_loss` | acceptance of destiny after loss | 1 | daoist |
 | `acceptance_of_the_final_draught` | acceptance of the final draught | 1 | sufi |
@@ -7012,7 +7009,6 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `adversarial_being_followed_by_the_unfaithful_majority` | Adversarial being followed by the unfaithful majority | 1 | islamic |
 | `afflicted_people_promised_succession_in_the_land` | Afflicted people promised succession in the land | 1 | islamic |
 | `age_contrast_in_paired_women` | age contrast in paired women | 1 | greek |
-| `age_renewal_through_medea_s_arts` | age renewal through Medea's arts | 1 | roman |
 | `aging_singer_laments_loss_of_voice` | Aging singer laments loss of voice | 1 | finnish_karelian |
 | `alarm_pursuit_and_defeat_after_theft` | alarm, pursuit, and defeat after theft | 1 | celtic_irish |
 | `allegorical_figures_explained_by_a_host` | Allegorical figures explained by a host | 1 | celtic_irish |
@@ -7030,10 +7026,8 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `ancient_poems_preserved_through_editorial_transmission` | ancient poems preserved through editorial transmission | 1 | greek |
 | `ancient_unconquered_people_resisting_empires` | Ancient unconquered people resisting empires | 1 | islamic |
 | `angelic_bearer_offers_transformative_drink` | angelic bearer offers transformative drink | 1 | sufi |
-| `angelic_messenger_and_guardian_functions` | Angelic messenger and guardian functions | 1 | islamic |
 | `angelic_messengers_with_multiple_wings` | Angelic messengers with multiple wings | 1 | islamic |
 | `angelic_obedience_and_restricted_intercession` | Angelic obedience and restricted intercession | 1 | islamic |
-| `angelic_promise_of_success_before_conflict` | angelic promise of success before conflict | 1 | islamic |
 | `angelic_prostration_before_a_newly_created_human` | Angelic prostration before a newly created human | 1 | islamic |
 | `animated_cult_image_made_by_magical_craft` | Animated cult image made by magical craft | 1 | sufi |
 | `animated_images_responding_to_music` | animated images responding to music | 1 | celtic_irish |
@@ -7042,13 +7036,11 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `animation_of_a_cult_object_by_supernatural_residue` | animation of a cult object by supernatural residue | 1 | islamic |
 | `animation_of_clay_creatures` | animation of clay creatures | 1 | islamic |
 | `annihilating_breath_reduces_bodies_to_ashes` | annihilating breath reduces bodies to ashes | 1 | celtic_irish |
-| `annual_expulsion_of_evil_from_the_community` | annual expulsion of evil from the community | 1 | comparative |
 | `anonymous_champion_defeats_repeated_challengers` | Anonymous champion defeats repeated challengers | 1 | celtic_welsh |
 | `anthropomorphic_or_corporeal_deity` | anthropomorphic or corporeal deity | 1 | islamic |
 | `anticipation_of_future_life` | anticipation of future life | 1 | greek |
 | `apostasy_and_replacement_of_a_religious_community` | apostasy and replacement of a religious community | 1 | islamic |
 | `apotropaic_diversion_of_predator_hunger` | apotropaic diversion of predator hunger | 1 | finnish_karelian |
-| `apotropaic_smoke_averts_the_evil_eye` | Apotropaic smoke averts the evil eye | 1 | sufi |
 | `appeal_for_liberation_from_bonds` | appeal for liberation from bonds | 1 | celtic_irish |
 | `appearance_of_christ_in_human_form_with_identity_proclamation` | Appearance of Christ in human form with identity proclamation | 1 | islamic |
 | `appetite_leads_to_captivity_or_control` | Appetite leads to captivity or control | 1 | buddhist |

@@ -1,0 +1,2279 @@
+---
+normalization_suggestion_acceptance_version: '1'
+run_id: normalization-suggestions-2026-04-29-full-gap-priority
+generated_on: '2026-04-29'
+suggestions_path: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+normalization_path: taxonomy/motif-normalization.yml
+policy: Auto-accept only high-confidence map_to_existing_group suggestions whose target
+  group already exists. Stage all new-group, exclusion, low-confidence, medium-confidence,
+  and human-review suggestions separately.
+counts:
+  suggestions: 80
+  auto_accepted: 8
+  review_needed: 72
+auto_accepted:
+- motif_id: abundant_food_and_drink_in_the_marvelous_land
+  label: Abundant food and drink in the marvelous land
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: narrower_than
+  confidence: high
+  reason: auto-accepted high-confidence existing-group placement
+  rationale: Food and drink abundance in a marvelous land fits the enchanted otherworld
+    or blessed realm pattern.
+  cautions: If the passage emphasizes hospitality exchange or feasting obligations
+    rather than realm quality, sacred_exchange may be secondary.
+  suggested_aliases:
+  - otherworldly abundance
+  - marvelous land feast
+  - abundant food in otherworld
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- motif_id: age_renewal_through_medea_s_arts
+  label: age renewal through Medea's arts
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: functional_variant
+  confidence: high
+  reason: auto-accepted high-confidence existing-group placement
+  rationale: Magical rejuvenation is a renewal or rebirth of the body into a transformed
+    state.
+  cautions: The Medea reference is episode-specific; preserve as evidence detail rather
+    than a canonical label. If the rite uses dismemberment or cauldron imagery, sacred_vessel
+    may be relevant secondarily.
+  suggested_aliases:
+  - magical rejuvenation
+  - age renewal by magic
+  - rejuvenation through sorcery
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_vessel
+    reason_existing_groups_insufficient: ''
+- motif_id: angelic_messenger_and_guardian_functions
+  label: Angelic messenger and guardian functions
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: high
+  reason: auto-accepted high-confidence existing-group placement
+  rationale: Angels acting as messengers or guardians are direct sacred agents guiding,
+    protecting, or mediating divine action.
+  cautions: If a specific boundary or gate is guarded, threshold_guardian may be a
+    secondary mapping.
+  suggested_aliases:
+  - angelic messenger
+  - angelic guardian
+  - angel as divine agent
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - theophany
+    - threshold_guardian
+    - sacred_knowledge
+    reason_existing_groups_insufficient: ''
+- motif_id: angelic_promise_of_success_before_conflict
+  label: angelic promise of success before conflict
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: high
+  reason: auto-accepted high-confidence existing-group placement
+  rationale: A divine or angelic assurance before battle is supernatural guidance
+    and support in human affairs.
+  cautions: If the conflict is framed as sacred combat or divine warfare, divine_warrior
+    or sacred_combat may be secondary mappings.
+  suggested_aliases:
+  - angelic assurance before battle
+  - promise of victory
+  - divine promise before conflict
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_warrior
+    - sacred_combat
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- motif_id: annual_expulsion_of_evil_from_the_community
+  label: annual expulsion of evil from the community
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: high
+  reason: auto-accepted high-confidence existing-group placement
+  rationale: The existing sacrifice group already includes ritual expulsion, annual
+    purification, and communal expulsion of harmful spirits or misfortune.
+  cautions: If no offering, scapegoat, transfer, or expulsion rite is present, sacred_law
+    or divine_judgment may be better; comparative labels should be checked for source
+    basis.
+  suggested_aliases:
+  - annual evil expulsion
+  - communal expulsion of evil
+  - yearly purification expulsion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- motif_id: apotropaic_smoke_averts_the_evil_eye
+  label: Apotropaic smoke averts the evil eye
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  reason: auto-accepted high-confidence existing-group placement
+  rationale: A smoke rite averting the evil eye is a clear apotropaic protection practice,
+    matching existing sacred_law children for protective objects and rites.
+  cautions: Preserve smoke and evil-eye specifics as evidence detail; do not collapse
+    into sacred_fire unless smoke/fire mediates divine presence or sacrifice.
+  suggested_aliases:
+  - evil eye averted by smoke
+  - apotropaic smoke
+  - smoke protection against evil eye
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- motif_id: cattle_raid
+  label: cattle raid
+  occurrences: 3
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: narrower_than
+  confidence: high
+  reason: auto-accepted high-confidence existing-group placement
+  rationale: The existing group already includes cattle_raid_catalyst and frames raids
+    as ritually or narratively significant warfare.
+  cautions: Confirm the raid functions as mythic catalyst or sacred conflict, not
+    merely a plot setting.
+  suggested_aliases:
+  - cattle raid
+  - cattle-raid episode
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- motif_id: life_bound_to_an_external_object
+  label: Life bound to an external object
+  occurrences: 2
+  traditions:
+  - greek_roman
+  - roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: external_soul
+  suggested_group_label: External Soul and Life-Token
+  relationship: alias
+  confidence: high
+  reason: auto-accepted high-confidence existing-group placement
+  rationale: The label is a direct variant of the accepted external_soul group and
+    its children about life kept in objects.
+  cautions: Preserve whether the object is a true soul-container, vulnerability token,
+    fate-token, or magical object.
+  suggested_aliases:
+  - life bound to external object
+  - external life object
+  - life-token
+  - life tied to object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+review_needed:
+- motif_id: abandonment_after_rejected_aid
+  label: abandonment after rejected aid
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  reason: low confidence
+  rationale: The label describes a moral or plot consequence, but the sacred function
+    is unclear without passage context.
+  cautions: Single occurrence; may be a passage artifact or ethical exemplum rather
+    than a stable motif.
+  suggested_aliases:
+  - rejected aid followed by abandonment
+  - abandonment after refusing help
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- motif_id: abandonment_of_the_corruptible_body
+  label: Abandonment of the corruptible body
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: symbolic_variant
+  confidence: medium
+  reason: not high-confidence existing-group placement
+  rationale: Renouncing or leaving the corruptible body fits liberation-oriented interior
+    transformation and overlaps with body-as-prison imagery already placed under mystical_quest.
+  cautions: Could instead belong under death_and_transformation if the passage describes
+    literal death or postmortem transformation.
+  suggested_aliases:
+  - corruptible body abandoned
+  - renunciation of the body
+  - body as corruptible shell
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- motif_id: abducted_captives_guide_rescuer_through_hidden_entrance
+  label: Abducted captives guide rescuer through hidden entrance
+  occurrences: 1
+  traditions:
+  - japanese
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  reason: low confidence
+  rationale: This combines abduction, captive guidance, rescue, and hidden entry in
+    a highly episode-specific way.
+  cautions: May map to hero_journey, otherworld, threshold_guardian, or descent if
+    the hidden entrance crosses into a charged realm; otherwise preserve as evidence
+    detail.
+  suggested_aliases:
+  - captives guide rescuer
+  - hidden entrance rescue
+  - abducted captives as guides
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- motif_id: abducted_infant_whose_fate_is_unknown
+  label: abducted infant whose fate is unknown
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: functional_variant
+  confidence: medium
+  reason: not high-confidence existing-group placement
+  rationale: An abducted infant with uncertain fate fits the threatened or concealed
+    child pattern in miraculous_child if the child has special status.
+  cautions: If the episode emphasizes fairy/otherworld abduction rather than destined
+    infancy, otherworld may be a better placement; single occurrence is highly contextual.
+  suggested_aliases:
+  - abducted infant
+  - lost infant of unknown fate
+  - threatened infant abduction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- motif_id: abolition_of_artificial_standards_restores_natural_integrity
+  label: abolition of artificial standards restores natural integrity
+  occurrences: 1
+  traditions:
+  - daoist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: duality
+  suggested_group_label: Duality and Cosmic Opposition
+  relationship: functional_variant
+  confidence: medium
+  reason: not high-confidence existing-group placement
+  rationale: Daoist return from imposed standards to natural integrity fits the existing
+    non-action/natural-order side of the duality group.
+  cautions: This may be an ethical-philosophical teaching rather than a narrative
+    motif; review passage context before indexing broadly.
+  suggested_aliases:
+  - return_to_natural_integrity
+  - abolition_of_artificial_standards
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- motif_id: abolition_of_coercive_widow_inheritance
+  label: abolition of coercive widow inheritance
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  reason: not high-confidence existing-group placement
+  rationale: The label describes reform of a coercive kinship practice through sacred/legal
+    social order.
+  cautions: May be a passage-specific legal reform rather than a reusable motif; culturally
+    sensitive family-law context needs source review.
+  suggested_aliases:
+  - prohibition_of_coercive_widow_inheritance
+  - widow_protection_under_sacred_law
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- motif_id: absence_creates_longing_for_one_s_kind
+  label: absence creates longing for one’s kind
+  occurrences: 1
+  traditions:
+  - daoist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: symbolic_variant
+  confidence: low
+  reason: low confidence
+  rationale: The motif centers on longing generated by absence, which broadly fits
+    the longing aspect of sacred love.
+  cautions: Could instead be a psychological, social, or Daoist natural-affinity statement;
+    source evidence is needed to confirm sacred or mythic function.
+  suggested_aliases:
+  - longing_for_ones_kind
+  - absence_and_longing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- motif_id: absent_champion_invoked_to_restore_courage
+  label: absent champion invoked to restore courage
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: role_variant
+  confidence: medium
+  reason: not high-confidence existing-group placement
+  rationale: An absent champion invoked in battle or crisis functions as a warrior
+    exemplar restoring martial courage.
+  cautions: If the champion is only rhetorically remembered and no sacred or heroic
+    agency is implied, it may be a literary detail.
+  suggested_aliases:
+  - invoked_absent_champion
+  - heroic_exemplar_restores_courage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- motif_id: absent_protectors_invoked_in_crisis
+  label: absent protectors invoked in crisis
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  reason: not high-confidence existing-group placement
+  rationale: Invoking protectors during crisis seeks direct aid or guidance from absent
+    sacred or powerful agents.
+  cautions: Could also be prayer, heroic memory, or social appeal depending on who
+    the protectors are and whether intervention follows.
+  suggested_aliases:
+  - protectors_invoked_in_crisis
+  - invocation_of_absent_protectors
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- motif_id: absent_younger_rival_who_would_have_won
+  label: absent younger rival who would have won
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: medium
+  reason: suggested exclusion
+  rationale: The label reads as an episode-specific counterfactual or commentary about
+    a contest rather than a durable motif.
+  cautions: If the source repeatedly uses absent rightful rivals to structure succession
+    or legitimacy, reconsider under royal_legitimacy or sacred_combat.
+  suggested_aliases:
+  - absent_rival_counterfactual
+  - younger_rival_would_have_won
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- motif_id: absurd_exchange_value_reveals_corruption
+  label: Absurd exchange value reveals corruption
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  reason: not high-confidence existing-group placement
+  rationale: An absurd valuation exposing corruption functions as moral reckoning
+    through economic or social inversion.
+  cautions: May be a didactic parable rather than divine judgment; if no sacred adjudication
+    is present, sacred_law or wisdom may be better.
+  suggested_aliases:
+  - absurd_valuation_reveals_corruption
+  - moral_exposure_through_exchange_value
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- motif_id: absurd_valuation_as_moral_exposure
+  label: absurd valuation as moral exposure
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  reason: not high-confidence existing-group placement
+  rationale: This is a close variant of absurd exchange value revealing corruption
+    and fits moral reckoning or exposure of wrongdoing.
+  cautions: Likely duplicate or near-duplicate of absurd_exchange_value_reveals_corruption;
+    verify whether both labels refer to the same passage.
+  suggested_aliases:
+  - absurd_exchange_value_reveals_corruption
+  - moral_exposure_through_absurd_valuation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- motif_id: abundance_and_cultivated_fertility_imagery
+  label: Abundance and cultivated fertility imagery
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: mother_goddess
+  suggested_group_label: Sacred Feminine and Mother Goddess
+  relationship: symbolic_variant
+  confidence: low
+  reason: low confidence
+  rationale: Abundance and cultivated fertility fall within the fertility and nourishment
+    field already covered by mother_goddess.
+  cautions: The label may be only descriptive imagery with no goddess, ritual, or
+    narrative role; if seasonal recurrence is central, sacred_time may be better.
+  suggested_aliases:
+  - cultivated_fertility_imagery
+  - abundance_fertility_imagery
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- motif_id: abundance_giving_cow
+  label: abundance-giving cow
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animal Source of Abundance
+  relationship: symbolic_variant
+  confidence: medium
+  reason: new group candidate
+  rationale: A cow that gives abundance is a recurring animal-provision motif not
+    cleanly held by mother_goddess, sacred_treasures, or sacred_exchange.
+  cautions: Could map to mother_goddess if the cow is a goddess form, to sacred_exchange
+    if tied to reciprocity, or to sacred_treasures if treated as a possessed power-object;
+    review source context.
+  suggested_aliases:
+  - wish_giving_cow
+  - abundance_cow
+  - provider_animal
+  suggested_new_group:
+    id: animal_source_of_abundance
+    label: Animal Source of Abundance
+    description: An animal, often sacred or otherworldly, provides inexhaustible food,
+      wealth, fertility, or prosperity to humans or a community.
+    parent_group_ids:
+    - sacred_exchange
+    - mother_goddess
+    related_group_ids:
+    - sacred_treasures
+    - sacred_time
+    - culture_hero
+    reason_existing_groups_insufficient: Existing groups cover fertility, exchange,
+      and power objects, but do not directly capture provision or inexhaustible abundance
+      mediated by an animal.
+- motif_id: abundant_dairy_yield_at_a_raiding_camp
+  label: Abundant dairy yield at a raiding camp
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: uncertain
+  confidence: low
+  reason: low confidence
+  rationale: The raiding-camp setting may connect to cattle-raid or ritual-warfare
+    narrative contexts, while abundance may signal prosperity or sovereignty.
+  cautions: Single occurrence and highly contextual; could be a feast, prosperity,
+    sovereignty, or passage detail rather than a reusable motif.
+  suggested_aliases:
+  - abundant dairy at raiding camp
+  - raiding-camp abundance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- motif_id: abundant_faraway_land
+  label: abundant faraway land
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: narrower_than
+  confidence: medium
+  reason: not high-confidence existing-group placement
+  rationale: A distant land of abundance often functions as a blessed or marvelous
+    otherworld adjacent to ordinary geography.
+  cautions: Confirm the land is enchanted, blessed, or nonordinary; if merely geographic
+    wealth, exclude or treat as setting detail.
+  suggested_aliases:
+  - land of abundance
+  - faraway abundant land
+  - blessed distant land
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- motif_id: abundant_pictorial_simile
+  label: abundant pictorial simile
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  reason: suggested exclusion
+  rationale: The label describes a stylistic or rhetorical feature rather than a narrative
+    or symbolic motif.
+  cautions: Preserve only as literary-form evidence if needed; do not use in motif
+    pattern queries.
+  suggested_aliases:
+  - pictorial simile
+  - abundant visual simile
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- motif_id: acceptance_of_destiny_after_loss
+  label: acceptance of destiny after loss
+  occurrences: 1
+  traditions:
+  - daoist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: functional_variant
+  confidence: medium
+  reason: not high-confidence existing-group placement
+  rationale: The motif centers on loss interpreted through acceptance of destiny or
+    fate.
+  cautions: If the emphasis is Daoist non-action or inner discipline rather than death
+    or fated loss, duality or wisdom-related review may be better.
+  suggested_aliases:
+  - acceptance of fate after loss
+  - destiny accepted after bereavement
+  - fated loss accepted
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- motif_id: acceptance_of_the_final_draught
+  label: acceptance of the final draught
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: uncertain
+  confidence: low
+  reason: low confidence
+  rationale: In a Sufi context the final draught may symbolize surrender, death, annihilation,
+    or mystical consummation.
+  cautions: Ambiguous without passage evidence; could belong under annihilation_union,
+    sacred_love, sacrifice, or literal death acceptance.
+  suggested_aliases:
+  - final draught accepted
+  - acceptance of final cup
+  - mystical final draught
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- motif_id: accidental_encounter_with_supernatural_beings_in_a_wild_place
+  label: Accidental encounter with supernatural beings in a wild place
+  occurrences: 1
+  traditions:
+  - japanese
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: functional_variant
+  confidence: medium
+  reason: not high-confidence existing-group placement
+  rationale: A wild-place encounter with supernatural beings often marks contact with
+    an adjacent enchanted realm.
+  cautions: If the beings guard a boundary, threshold_guardian may fit; if the focus
+    is divine manifestation, theophany may be secondary.
+  suggested_aliases:
+  - wild-place supernatural encounter
+  - accidental encounter with spirits in wilderness
+  - supernatural beings encountered in wild place
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- motif_id: accidental_killing_by_the_would_be_protector
+  label: Accidental killing by the would-be protector
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  reason: low confidence
+  rationale: The label describes an ironic narrative reversal, but its symbolic function
+    is unclear without source context.
+  cautions: Could be fate, tragic recognition, moral consequence, or plot artifact;
+    avoid mapping only from accidental violence.
+  suggested_aliases:
+  - protector accidentally kills ward
+  - fatal protection reversal
+  - accidental death by protector
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- motif_id: accumulation_of_wonderful_objects
+  label: accumulation of wonderful objects
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: narrower_than
+  confidence: medium
+  reason: not high-confidence existing-group placement
+  rationale: Wonderful objects gathered together fit the broader power-object or sacred-treasure
+    group.
+  cautions: If the objects are merely decorative or signs of abundance, this may be
+    a passage detail; identify whether they confer power, merit, or authority.
+  suggested_aliases:
+  - collection of wonderful objects
+  - gathered marvelous objects
+  - accumulated sacred treasures
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- motif_id: accusation_of_black_magic_leading_to_condemnation
+  label: accusation of black magic leading to condemnation
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: uncertain
+  confidence: low
+  reason: low confidence
+  rationale: Condemnation after a magic accusation may involve social or divine judgment,
+    but the judging authority is unclear.
+  cautions: Culturally sensitive and possibly legal/social rather than mythic; review
+    terminology and source evidence before indexing.
+  suggested_aliases:
+  - magic accusation leading to condemnation
+  - sorcery charge and condemnation
+  - condemnation for alleged black magic
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- motif_id: actions_explained_by_a_past_loss
+  label: actions explained by a past loss
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  reason: low confidence
+  rationale: The label describes motivation or characterization rather than a clear
+    recurring symbolic or narrative motif.
+  cautions: May be a passage-specific explanatory note; source context is needed to
+    decide whether loss, mourning, vengeance, or trauma is central.
+  suggested_aliases:
+  - past loss as motivation
+  - action motivated by earlier loss
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - lament_and_mourning
+    reason_existing_groups_insufficient: ''
+- motif_id: admired_feature_becomes_cause_of_ruin
+  label: admired feature becomes cause of ruin
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: functional_variant
+  confidence: medium
+  reason: not high-confidence existing-group placement
+  rationale: A valued or admired trait becoming the source of destruction fits reversal,
+    overvaluation, and downfall logic.
+  cautions: If the feature is not tied to pride, transgression, or moral reversal,
+    this may be only an ironic plot detail.
+  suggested_aliases:
+  - valued trait causes ruin
+  - beauty or excellence as downfall
+  - admired quality becomes fatal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- motif_id: adopted_predator_betrays_the_flock
+  label: Adopted predator betrays the flock
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  reason: low confidence
+  rationale: This reads like an animal-fable motif about misplaced trust and predatory
+    nature, not well covered by existing groups.
+  cautions: Could be a moral exemplum, trickster/deceiver episode, or too specific
+    animal tale; avoid forcing into trickster unless deception or boundary-breaking
+    is central.
+  suggested_aliases:
+  - predator accepted among prey betrays them
+  - misplaced trust in predator
+  - adopted enemy within the flock
+  suggested_new_group:
+    id: animal_fable_moral_reversal
+    label: Animal Fable and Moral Reversal
+    description: Animal-centered episodes that teach moral, social, or practical lessons
+      through predation, deception, misplaced trust, or reversal of expected roles.
+    parent_group_ids:
+    - trickster
+    - sacred_law
+    related_group_ids:
+    - divine_judgment
+    - pride_and_downfall
+    reason_existing_groups_insufficient: Existing trickster and sacred-law groups
+      can cover some functions, but do not clearly hold animal-fable moral exempla
+      where the main pattern is social trust betrayed by natural role.
+- motif_id: advance_delayed_for_reinforcements
+  label: advance delayed for reinforcements
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: medium
+  reason: suggested exclusion
+  rationale: The label appears to describe tactical plot logistics rather than a symbolic
+    motif.
+  cautions: If the delay is ritually mandated, fated, or part of a heroic ordeal,
+    review under sacred_combat or hero_journey instead.
+  suggested_aliases:
+  - delayed advance awaiting allies
+  - reinforcement delay
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- motif_id: adversarial_being_followed_by_the_unfaithful_majority
+  label: Adversarial being followed by the unfaithful majority
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  reason: not high-confidence existing-group placement
+  rationale: The motif centers on a moral test in which most people follow an opposing
+    being, inviting judgment or reckoning.
+  cautions: May involve culturally sensitive demonological or eschatological material;
+    confirm whether the passage emphasizes judgment, temptation, or communal disobedience.
+  suggested_aliases:
+  - unfaithful majority follows adversary
+  - majority led astray by adversarial being
+  - adversary as test of faithfulness
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- motif_id: afflicted_people_promised_succession_in_the_land
+  label: Afflicted people promised succession in the land
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  reason: not high-confidence existing-group placement
+  rationale: A suffering community receiving a divine promise of land and succession
+    fits sacred promise and communal covenantal order.
+  cautions: Could also support divine_judgment or royal_legitimacy if the emphasis
+    is punishment of oppressors or legitimate rule; source context should decide secondary
+    mappings.
+  suggested_aliases:
+  - oppressed people promised inheritance
+  - afflicted community promised the land
+  - divine promise of succession after affliction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_judgment
+    - royal_legitimacy
+    reason_existing_groups_insufficient: ''
+- motif_id: age_contrast_in_paired_women
+  label: age contrast in paired women
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  reason: low confidence
+  rationale: The label indicates a comparative character contrast but not a clear
+    mythic function by itself.
+  cautions: Could belong to duality, sacred love, mother_goddess, or passage-specific
+    characterization depending on the source; likely too thin without evidence.
+  suggested_aliases:
+  - old and young female pair
+  - paired women with age contrast
+  - female age contrast
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - duality
+    reason_existing_groups_insufficient: ''
+- motif_id: aging_singer_laments_loss_of_voice
+  label: Aging singer laments loss of voice
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: functional_variant
+  confidence: medium
+  reason: not high-confidence existing-group placement
+  rationale: The core pattern is lament over aging, loss, and diminished expressive
+    power.
+  cautions: Could be a poetic self-reference or performance-context artifact rather
+    than a mythic motif; if emphasis is song as sacred transmission, storytelling_as_power
+    may be secondary.
+  suggested_aliases:
+  - lament for lost voice
+  - aging poet mourns diminished song
+  - loss of voice in old age
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - storytelling_as_power
+    reason_existing_groups_insufficient: ''
+- motif_id: alarm_pursuit_and_defeat_after_theft
+  label: alarm, pursuit, and defeat after theft
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  reason: not high-confidence existing-group placement
+  rationale: Theft followed by pursuit and defeat fits boundary-crossing and transgressive
+    action, often in trickster or heroic theft sequences.
+  cautions: If the theft is a cattle raid, martial episode, or sacred-object recovery
+    rather than trickster action, sacred_combat or sacred_treasures may be better.
+  suggested_aliases:
+  - pursuit after theft
+  - theft triggers alarm and chase
+  - defeat following stolen goods
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - sacred_treasures
+    reason_existing_groups_insufficient: ''
+- motif_id: allegorical_figures_explained_by_a_host
+  label: Allegorical figures explained by a host
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: medium
+  reason: not high-confidence existing-group placement
+  rationale: A host interpreting allegorical figures functions as guided explanation
+    or transmitted hidden meaning.
+  cautions: Could instead be an episode-specific literary device if the figures are
+    not sacred or transformative.
+  suggested_aliases:
+  - guided_allegorical_explanation
+  - host_explains_symbolic_figures
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- motif_id: allies_recognize_comrades_by_the_sound_of_blows
+  label: Allies recognize comrades by the sound of blows
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: low
+  reason: low confidence
+  rationale: Recognition through combat sound is a highly specific warrior-battle
+    detail within combat narrative.
+  cautions: May be too episode-specific for pattern queries unless similar recognition-by-sound
+    combat motifs recur.
+  suggested_aliases:
+  - recognition_by_sound_of_combat
+  - warrior_recognized_by_blows
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- motif_id: ally_dies_or_nearly_dies_for_the_captive
+  label: ally dies or nearly dies for the captive
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: functional_variant
+  confidence: medium
+  reason: not high-confidence existing-group placement
+  rationale: An ally risking or giving life for another fits self-sacrificial surrender
+    for rescue or loyalty.
+  cautions: If the focus is rescue plot mechanics rather than sacred or ethical self-offering,
+    hero_journey may be a secondary fit.
+  suggested_aliases:
+  - self_sacrifice_for_captive
+  - ally_risks_life_for_rescue
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- motif_id: altered_food_token_signals_changed_fidelity_status
+  label: altered food token signals changed fidelity status
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  reason: low confidence
+  rationale: The label combines food-token symbolism and fidelity status, but the
+    narrative function is unclear.
+  cautions: Could belong to sacred_love, sacred_exchange, or sacred_treasures, or
+    be an over-specific episode artifact.
+  suggested_aliases:
+  - food_token_signals_fidelity
+  - altered_token_of_fidelity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- motif_id: altruistic_reception_of_refugees_by_fellow_believers
+  label: altruistic reception of refugees by fellow believers
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  reason: not high-confidence existing-group placement
+  rationale: Hospitable reception of refugees by co-believers expresses sacred reciprocity,
+    charity, and communal obligation.
+  cautions: Could also support covenant or sacred_law if framed as legal-ethical command
+    rather than reciprocal hospitality.
+  suggested_aliases:
+  - sacred_hospitality_to_refugees
+  - believers_receive_refugees
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- motif_id: ambiguous_supernatural_identity_of_a_strange_captive
+  label: ambiguous supernatural identity of a strange captive
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  reason: low confidence
+  rationale: A strange captive with uncertain supernatural identity could signal divine
+    disguise, otherworld being, or narrative suspense.
+  cautions: Source evidence is needed before mapping to otherworld, shapeshifter,
+    divine_intervention, or threshold_guardian.
+  suggested_aliases:
+  - strange_captive_with_supernatural_identity
+  - ambiguous_divine_captive
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- motif_id: ambitious_courtier_betrays_benefactor
+  label: Ambitious courtier betrays benefactor
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: functional_variant
+  confidence: medium
+  reason: not high-confidence existing-group placement
+  rationale: Ambitious betrayal by a courtier fits overreaching pride and moral downfall
+    narratives.
+  cautions: If no downfall or sacred moral reckoning follows, this may be a court-intrigue
+    plot detail rather than a motif.
+  suggested_aliases:
+  - courtier_betrays_benefactor
+  - ambition_leads_to_betrayal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- motif_id: ambivalent_ecstatic_expression
+  label: ambivalent ecstatic expression
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: meta_artifact
+  confidence: low
+  reason: low confidence
+  rationale: Ecstatic expression may mark mystical experience, but the label is abstract
+    and interpretive.
+  cautions: Review whether this is an actual motif of ecstatic utterance/behavior
+    or a scholarly description of tone.
+  suggested_aliases:
+  - ecstatic_expression
+  - ambivalent_mystical_ecstasy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- motif_id: ambush_overcome_with_lone_survivor
+  label: ambush overcome with lone survivor
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  reason: not high-confidence existing-group placement
+  rationale: An ambush survived or overcome by a lone remnant belongs to combat ordeal
+    and survival narrative.
+  cautions: Do not map to survivor_pair or flood renewal; this is battle survival
+    unless broader catastrophe renewal is present.
+  suggested_aliases:
+  - lone_survivor_of_ambush
+  - ambush_survival
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- motif_id: analogous_explanations_for_similar_body_cutting_customs
+  label: Analogous explanations for similar body-cutting customs
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  reason: suggested exclusion
+  rationale: The label describes comparative explanation of customs rather than a
+    narrative or symbolic motif.
+  cautions: If source passages contain an actual body-cutting rite, preserve that
+    separately under sacrifice, sacred_law, or initiation as evidence warrants.
+  suggested_aliases:
+  - comparative_explanation_of_body_cutting_customs
+  - analogous_custom_explanations
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- motif_id: ancient_giant_race
+  label: ancient giant race
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  reason: low confidence
+  rationale: A race of giants may be mythic ancestry, monstrous beings, primordial
+    peoples, or a local ethnographic/geographic tradition depending on context.
+  cautions: Single occurrence; avoid forcing into divine_race unless the group is
+    explicitly divine or semi-divine and culture-founding.
+  suggested_aliases:
+  - giant race
+  - primordial giants
+  - ancient giants
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_race
+    - cosmic_origin
+    - sacred_combat
+    reason_existing_groups_insufficient: ''
+- motif_id: ancient_oral_tale_transmission
+  label: Ancient oral tale transmission
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  reason: suggested exclusion
+  rationale: The label describes transmission history rather than a narrative or symbolic
+    motif.
+  cautions: Preserve as provenance or source-history metadata if useful; do not use
+    as evidence for motif similarity.
+  suggested_aliases:
+  - oral transmission
+  - tale transmission
+  - ancient oral transmission
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- motif_id: ancient_poems_preserved_through_editorial_transmission
+  label: ancient poems preserved through editorial transmission
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  reason: suggested exclusion
+  rationale: This is an editorial/transmission-history note, not a mythic motif.
+  cautions: Keep for manuscript or reception metadata; exclude from Pattern Explorer
+    motif queries.
+  suggested_aliases:
+  - editorial transmission of poems
+  - poems preserved by editors
+  - textual preservation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- motif_id: ancient_unconquered_people_resisting_empires
+  label: Ancient unconquered people resisting empires
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  reason: low confidence
+  rationale: Could be a historical-geographic detail, ethnographic trope, sacred combat
+    motif, or political ideology of resistance.
+  cautions: Single occurrence and possibly person/place/people-specific; source context
+    needed before indexing as motif.
+  suggested_aliases:
+  - unconquered people
+  - resistance to empire
+  - people resisting conquest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - royal_legitimacy
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- motif_id: angelic_bearer_offers_transformative_drink
+  label: angelic bearer offers transformative drink
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: functional_variant
+  confidence: medium
+  reason: not high-confidence existing-group placement
+  rationale: An angelic drink that transforms the recipient fits mystical initiation
+    or interior transformation through sacred mediation.
+  cautions: If the drink is mainly a sacred object or vessel, sacred_vessel may be
+    secondary; if it conveys knowledge, sacred_knowledge may also apply.
+  suggested_aliases:
+  - transformative drink
+  - angelic cupbearer
+  - mystical drink offered by angel
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_knowledge
+    - sacred_vessel
+    - divine_intervention
+    reason_existing_groups_insufficient: ''
+- motif_id: angelic_messengers_with_multiple_wings
+  label: Angelic messengers with multiple wings
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: over_specific_label
+  confidence: medium
+  reason: not high-confidence existing-group placement
+  rationale: The core function is angelic mediation; the number or multiplicity of
+    wings is likely iconographic detail.
+  cautions: If the passage emphasizes visionary manifestation of angelic form, theophany
+    or dream_and_vision may be secondary; preserve wing detail as evidence.
+  suggested_aliases:
+  - many-winged angels
+  - multi-winged messengers
+  - angelic messengers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - theophany
+    - dream_and_vision
+    reason_existing_groups_insufficient: ''
+- motif_id: angelic_obedience_and_restricted_intercession
+  label: Angelic obedience and restricted intercession
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: role_variant
+  confidence: medium
+  reason: not high-confidence existing-group placement
+  rationale: The label centers on angels operating under divine order and limits on
+    mediation, fitting sacred law or ordered hierarchy.
+  cautions: Could also fit divine_judgment if intercession occurs in judgment scenes;
+    source context should decide primary placement.
+  suggested_aliases:
+  - restricted intercession
+  - angelic obedience
+  - intercession only by permission
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_judgment
+    - divine_intervention
+    - royal_legitimacy
+    reason_existing_groups_insufficient: ''
+- motif_id: angelic_prostration_before_a_newly_created_human
+  label: Angelic prostration before a newly created human
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  reason: not high-confidence existing-group placement
+  rationale: The episode belongs to creation-order narratives about the status of
+    the newly created human within cosmic hierarchy.
+  cautions: May also index under sacred_law or divine_judgment when the emphasis is
+    obedience/refusal; avoid treating it as a generic worship motif without source
+    context.
+  suggested_aliases:
+  - angels prostrate before human
+  - prostration before Adam
+  - honor shown to newly created human
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - divine_judgment
+    - cosmic_origin
+    reason_existing_groups_insufficient: ''
+- motif_id: animated_cult_image_made_by_magical_craft
+  label: Animated cult image made by magical craft
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animated Images and Artificial Life
+  relationship: child
+  confidence: medium
+  reason: new group candidate
+  rationale: The label describes a crafted image made animate, a recurring artificial-life/cult-object
+    pattern not cleanly covered by sacred_craft or sacred_treasures alone.
+  cautions: Single occurrence; verify whether the passage is narrative motif, polemic
+    about images, or magical-object commentary before promoting.
+  suggested_aliases:
+  - living cult image
+  - animated idol
+  - magically animated image
+  - artificial life by craft
+  suggested_new_group:
+    id: animated_images_artificial_life
+    label: Animated Images and Artificial Life
+    description: Manufactured images, statues, idols, automata, or clay/artificial
+      beings become lifelike, move, speak, respond, or are animated by magical, divine,
+      musical, or supernatural power.
+    parent_group_ids:
+    - sacred_craft
+    - sacred_treasures
+    related_group_ids:
+    - divine_intervention
+    - sacred_knowledge
+    - idol
+    reason_existing_groups_insufficient: Existing groups cover sacred craft, treasures,
+      vessels, and idols, but not the specific function of artificial or cultic objects
+      becoming animate.
+- motif_id: animated_images_responding_to_music
+  label: animated images responding to music
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animated Images and Artificial Life
+  relationship: functional_variant
+  confidence: medium
+  reason: new group candidate
+  rationale: Images that animate or respond to music fit an artificial/living-image
+    complex better than general sacred song or craft.
+  cautions: Could be an over-specific marvel episode; retain music as evidence detail
+    unless many musical-animation labels recur.
+  suggested_aliases:
+  - musically animated images
+  - responsive animated images
+  - living images responding to song
+  suggested_new_group:
+    id: animated_images_artificial_life
+    label: Animated Images and Artificial Life
+    description: Manufactured images, statues, idols, automata, or clay/artificial
+      beings become lifelike, move, speak, respond, or are animated by magical, divine,
+      musical, or supernatural power.
+    parent_group_ids:
+    - sacred_craft
+    - sacred_treasures
+    related_group_ids:
+    - sacred_song
+    - storytelling_as_power
+    - divine_intervention
+    reason_existing_groups_insufficient: Existing groups do not distinguish animation
+      of manufactured images from ordinary sacred objects, craft, or musical performance.
+- motif_id: animated_or_life_like_manufactured_image
+  label: animated or life-like manufactured image
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animated Images and Artificial Life
+  relationship: narrower_than
+  confidence: high
+  reason: new group candidate
+  rationale: This is a broad direct label for manufactured images that appear alive
+    or become animate.
+  cautions: Check whether the source treats this as a marvel, idol critique, automaton,
+    or creation-of-life episode.
+  suggested_aliases:
+  - lifelike manufactured image
+  - animated manufactured image
+  - living artificial image
+  suggested_new_group:
+    id: animated_images_artificial_life
+    label: Animated Images and Artificial Life
+    description: Manufactured images, statues, idols, automata, or clay/artificial
+      beings become lifelike, move, speak, respond, or are animated by magical, divine,
+      musical, or supernatural power.
+    parent_group_ids:
+    - sacred_craft
+    - sacred_treasures
+    related_group_ids:
+    - divine_intervention
+    - sacred_knowledge
+    - cosmic_origin
+    reason_existing_groups_insufficient: Sacred_craft covers making, and sacred_treasures
+      covers power objects, but neither captures the artificial-life or image-animation
+      function.
+- motif_id: animated_or_sounding_calf_that_misleads_israel
+  label: Animated or sounding calf that misleads Israel
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: uncertain
+  confidence: low
+  reason: low confidence
+  rationale: The label combines an animated/sounding cult object with a specific scriptural
+    idolatry and misguidance episode.
+  cautions: Culturally and textually specific; may fit idol, forbidden_knowledge,
+    covenant breach, divine_judgment, or the proposed animated_images_artificial_life
+    group depending on evidence.
+  suggested_aliases:
+  - sounding calf idol
+  - animated calf idol
+  - misleading cult image
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- motif_id: animation_of_a_cult_object_by_supernatural_residue
+  label: animation of a cult object by supernatural residue
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animated Images and Artificial Life
+  relationship: functional_variant
+  confidence: medium
+  reason: new group candidate
+  rationale: A cult object animated by residual supernatural power is a specific mechanism
+    within the animated-image/artificial-life pattern.
+  cautions: May be tied to a specific golden-calf exegetical episode; review whether
+    to index as motif or preserve as evidence note.
+  suggested_aliases:
+  - cult object animated by residue
+  - supernatural residue animates image
+  - animated idol by sacred trace
+  suggested_new_group:
+    id: animated_images_artificial_life
+    label: Animated Images and Artificial Life
+    description: Manufactured images, statues, idols, automata, or clay/artificial
+      beings become lifelike, move, speak, respond, or are animated by magical, divine,
+      musical, or supernatural power.
+    parent_group_ids:
+    - sacred_craft
+    - sacred_treasures
+    related_group_ids:
+    - divine_intervention
+    - sacred_knowledge
+    - idol
+    reason_existing_groups_insufficient: Current groups lack a container for animation
+      of cultic or manufactured objects; sacred_treasures alone misses the lifelike
+      animation function.
+- motif_id: animation_of_clay_creatures
+  label: animation of clay creatures
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animated Images and Artificial Life
+  relationship: functional_variant
+  confidence: high
+  reason: new group candidate
+  rationale: Animating clay creatures is artificial life from formed matter and belongs
+    with manufactured beings becoming alive.
+  cautions: If the passage emphasizes divine creation from clay rather than crafted
+    artificial beings, cosmic_origin or sacred_birth may be relevant secondary context.
+  suggested_aliases:
+  - clay creatures brought to life
+  - animation from clay
+  - formed clay life
+  suggested_new_group:
+    id: animated_images_artificial_life
+    label: Animated Images and Artificial Life
+    description: Manufactured images, statues, idols, automata, or clay/artificial
+      beings become lifelike, move, speak, respond, or are animated by magical, divine,
+      musical, or supernatural power.
+    parent_group_ids:
+    - sacred_craft
+    - cosmic_origin
+    related_group_ids:
+    - divine_intervention
+    - sacred_knowledge
+    - miraculous_child
+    reason_existing_groups_insufficient: Cosmic_origin can cover creation broadly,
+      but a creature formed and animated from clay as a marvel or sign needs an artificial-life/image-animation
+      grouping.
+- motif_id: annihilating_breath_reduces_bodies_to_ashes
+  label: annihilating breath reduces bodies to ashes
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  reason: not high-confidence existing-group placement
+  rationale: A destructive supernatural breath reducing bodies to ashes reads as a
+    combat or overpowering annihilation motif.
+  cautions: If the passage emphasizes cosmic destruction by fire, map secondarily
+    to flood_and_renewal or world_destroying_fire; if merely a monster trait, a future
+    monster/peril group may fit better.
+  suggested_aliases:
+  - destructive breath
+  - fiery annihilating breath
+  - bodies reduced to ashes by breath
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- motif_id: anonymous_champion_defeats_repeated_challengers
+  label: Anonymous champion defeats repeated challengers
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  reason: not high-confidence existing-group placement
+  rationale: Repeated challenger defeat by a champion is a heroic combat pattern,
+    best parked under sacred_combat rather than divine_warrior unless divine agency
+    is explicit.
+  cautions: May be an episode-specific heroic feat without sacred function; consider
+    exclusion if it is only plot detail.
+  suggested_aliases:
+  - unknown champion defeats challengers
+  - disguised champion defeats challengers
+  - repeated challenge combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- motif_id: anthropomorphic_or_corporeal_deity
+  label: anthropomorphic or corporeal deity
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: uncertain
+  confidence: low
+  reason: low confidence
+  rationale: A deity appearing or being described in bodily form may be theophany,
+    but the label could also be theological classification rather than narrative motif.
+  cautions: Sensitive doctrinal issue in Islamic context; verify whether the source
+    describes a manifestation, polemic, metaphor, or anthropomorphic theology before
+    indexing.
+  suggested_aliases:
+  - corporeal deity
+  - deity in human form
+  - anthropomorphic divine form
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- motif_id: anticipation_of_future_life
+  label: anticipation of future life
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  reason: low confidence
+  rationale: The label may refer to afterlife hope, philosophical immortality, rebirth,
+    or narrative foreshadowing; the function is unclear without passage evidence.
+  cautions: Do not map automatically to afterlife_passage or death_and_transformation
+    unless a postmortem route, renewal, or immortality doctrine is explicit.
+  suggested_aliases:
+  - future life
+  - hope for afterlife
+  - anticipation of afterlife
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- motif_id: apostasy_and_replacement_of_a_religious_community
+  label: apostasy and replacement of a religious community
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  reason: not high-confidence existing-group placement
+  rationale: A community's apostasy followed by replacement fits sacred judgment and
+    moral reckoning applied to a collective.
+  cautions: May also involve covenant or sacred law if the passage emphasizes breach
+    of divine agreement rather than punitive replacement.
+  suggested_aliases:
+  - apostate community replaced
+  - community replaced after apostasy
+  - collective apostasy and replacement
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- motif_id: apotropaic_diversion_of_predator_hunger
+  label: apotropaic diversion of predator hunger
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  reason: not high-confidence existing-group placement
+  rationale: The apotropaic function aligns with existing protective ritual and spirit-danger
+    motifs currently folded under sacred_law.
+  cautions: If the predator is a mythic animal agent in a tale rather than ritual
+    danger, trickster or animal-survival context may be better; source evidence needed.
+  suggested_aliases:
+  - predator hunger diverted by apotropaic means
+  - ritual diversion of predator hunger
+  - apotropaic predator avoidance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- motif_id: appeal_for_liberation_from_bonds
+  label: appeal for liberation from bonds
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  reason: low confidence
+  rationale: The label could be literal captivity, ritual release, social obligation,
+    or spiritual liberation; no existing group is clearly indicated from wording alone.
+  cautions: Map to hero_journey only if release enables quest/return; to sacred_exchange
+    or ritualized_release only if the bonds are ritually or covenantally framed.
+  suggested_aliases:
+  - plea for release from bonds
+  - liberation from bondage
+  - appeal for release
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- motif_id: appearance_of_christ_in_human_form_with_identity_proclamation
+  label: Appearance of Christ in human form with identity proclamation
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: narrower_than
+  confidence: medium
+  reason: not high-confidence existing-group placement
+  rationale: A sacred figure appearing in human form and proclaiming identity functions
+    as a manifestation/revelation encounter.
+  cautions: Culturally sensitive interreligious figure; verify whether the source
+    treats Christ as divine manifestation, prophetic sign, eschatological figure,
+    or narrative identification before final placement.
+  suggested_aliases:
+  - christophany with identity proclamation
+  - sacred figure appears in human form
+  - identity-proclaiming appearance of Christ
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- motif_id: appetite_leads_to_captivity_or_control
+  label: Appetite leads to captivity or control
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  reason: low confidence
+  rationale: This may be an ethical-psychological teaching about craving, a trap motif,
+    or a narrative capture episode; current groups do not cleanly capture the function.
+  cautions: If Buddhist doctrinal craving is central, a future ethics/desire group
+    may be needed; if merely a plot trap, it may be too contextual for broad pattern
+    queries.
+  suggested_aliases:
+  - craving leads to bondage
+  - appetite as trap
+  - desire causing captivity
+  suggested_new_group:
+    id: craving_and_bondage
+    label: Craving and Bondage
+    description: Desire, appetite, attachment, or craving leads to captivity, control,
+      suffering, or loss of freedom, often as an ethical or spiritual warning.
+    parent_group_ids:
+    - mystical_quest
+    related_group_ids:
+    - sacred_law
+    - divine_judgment
+    - initiation
+    reason_existing_groups_insufficient: Existing groups cover sacred law, judgment,
+      and mystical quest, but not the recurring ethical-psychological pattern where
+      desire itself produces bondage or suffering.
+- motif_id: appointed_tryst_prevented_by_sudden_sleep
+  label: Appointed tryst prevented by sudden sleep
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: over_specific_label
+  confidence: low
+  reason: low confidence
+  rationale: A thwarted tryst belongs broadly with love, longing, and frustrated union
+    if the romance function is central.
+  cautions: Highly episode-specific; if sleep is magical otherworld interference,
+    otherworld or dream_and_vision may be secondary. Consider excluding if it is only
+    plot detail.
+  suggested_aliases:
+  - tryst thwarted by sleep
+  - sudden sleep prevents lovers' meeting
+  - failed appointed tryst
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- motif_id: appointment_of_twelve_authorized_representatives
+  label: appointment of twelve authorized representatives
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: role_variant
+  confidence: medium
+  reason: not high-confidence existing-group placement
+  rationale: Authorized representatives appointed in a sacred narrative concerns delegated
+    authority and legitimate communal leadership.
+  cautions: The number twelve may be tradition-specific and should be preserved as
+    evidence detail; if the focus is covenantal communal order, covenant may also
+    apply.
+  suggested_aliases:
+  - twelve appointed representatives
+  - appointment of authorized deputies
+  - delegated sacred authority
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- motif_id: arch_rebel_s_cruel_public_end_after_long_resistance
+  label: arch-rebel's cruel public end after long resistance
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: over_specific_label
+  confidence: medium
+  reason: not high-confidence existing-group placement
+  rationale: A rebel's public destruction after resistance functions as exemplary
+    punishment and restoration of moral order.
+  cautions: Likely over-specific to an episode or polemical narrative; verify sacred
+    judgment rather than political chronicle before broad indexing.
+  suggested_aliases:
+  - rebel punished publicly
+  - public end of arch-rebel
+  - exemplary punishment of rebel
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- motif_id: hunter_becomes_hunted
+  label: hunter becomes hunted
+  occurrences: 2
+  traditions:
+  - greek
+  - roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: medium
+  reason: model requested human review
+  rationale: The reversal could express divine judgment, metamorphic punishment, irony,
+    or an ordeal depending on the episode.
+  cautions: Needs source evidence before choosing between divine_judgment, shapeshifter,
+    sacred_combat, or pride_and_downfall.
+  suggested_aliases:
+  - hunter hunted
+  - predator becomes prey
+  - reversal of the hunt
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- motif_id: inescapable_chain_of_existence
+  label: inescapable chain of existence
+  occurrences: 2
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: symbolic_variant
+  confidence: medium
+  reason: not high-confidence existing-group placement
+  rationale: In Sufi context the label likely concerns spiritual ontology and the
+    seeker's relation to being, fitting the interior mystical path.
+  cautions: Could be philosophical commentary rather than a narrative motif; review
+    whether it marks experience, doctrine, or passage gloss.
+  suggested_aliases:
+  - chain of existence
+  - great chain of being
+  - inescapable being
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- motif_id: inexhaustible_food_supply
+  label: inexhaustible food supply
+  occurrences: 2
+  traditions:
+  - japanese
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Miraculous Provision and Inexhaustible Food
+  relationship: functional_variant
+  confidence: medium
+  reason: new group candidate
+  rationale: A recurring miraculous abundance motif is not cleanly covered by sacrifice,
+    sacred_exchange, or sacred_treasures.
+  cautions: Review whether instances involve divine hospitality, magical objects,
+    ascetic miracle, or comic abundance before promoting.
+  suggested_aliases:
+  - inexhaustible food
+  - miraculous food supply
+  - unfailing provision
+  - endless food
+  suggested_new_group:
+    id: miraculous_provision
+    label: Miraculous Provision and Inexhaustible Food
+    description: Food, drink, wealth, or sustenance is supernaturally provided, multiplied,
+      or made inexhaustible, often signaling divine favor, hospitality, abundance,
+      or spiritual power.
+    parent_group_ids:
+    - divine_intervention
+    - sacred_exchange
+    related_group_ids:
+    - sacred_treasures
+    - sacrifice
+    - sacred_love
+    reason_existing_groups_insufficient: Existing groups cover offering, exchange,
+      and power objects, but not the distinct function of miraculous abundance or
+      inexhaustible sustenance.
+- motif_id: recognition_by_bodily_scar
+  label: recognition by bodily scar
+  occurrences: 2
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: medium
+  reason: model requested human review
+  rationale: A scar recognition scene is a recurring narrative device but not clearly
+    covered by current sacred motif groups.
+  cautions: May be too literary or episode-specific for Pattern Explorer unless it
+    recurs across traditions; could relate to return/homecoming if identity restoration
+    is central.
+  suggested_aliases:
+  - scar recognition
+  - recognition scar
+  - identity recognized by scar
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''

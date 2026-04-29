@@ -1,6 +1,6 @@
 ---
 normalization_version: '1'
-updated_on: '2026-04-28'
+updated_on: '2026-04-29'
 status: draft
 canonical_taxonomy_path: taxonomy/motifs.yml
 purpose: 'Review-time normalization guidance for mapping candidate motif labels to
@@ -4409,3 +4409,131 @@ raw_motif_group_index:
     group_label: Cosmic Origin and Creation
     relationship: child
     review_action: map_to_group
+  abundant_food_and_drink_in_the_marvelous_land:
+    group_id: otherworld
+    relationship: narrower_than
+    confidence: high
+    review_status: model_auto_accepted_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'Food and drink abundance in a marvelous land fits the enchanted otherworld
+      or blessed realm pattern. Caution: If the passage emphasizes hospitality exchange
+      or feasting obligations rather than realm quality, sacred_exchange may be secondary.'
+    suggested_aliases:
+    - otherworldly abundance
+    - marvelous land feast
+    - abundant food in otherworld
+  age_renewal_through_medea_s_arts:
+    group_id: death_and_transformation
+    relationship: functional_variant
+    confidence: high
+    review_status: model_auto_accepted_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'Magical rejuvenation is a renewal or rebirth of the body into a transformed
+      state. Caution: The Medea reference is episode-specific; preserve as evidence
+      detail rather than a canonical label. If the rite uses dismemberment or cauldron
+      imagery, sacred_vessel may be relevant secondarily.'
+    suggested_aliases:
+    - magical rejuvenation
+    - age renewal by magic
+    - rejuvenation through sorcery
+  angelic_messenger_and_guardian_functions:
+    group_id: divine_intervention
+    relationship: role_variant
+    confidence: high
+    review_status: model_auto_accepted_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'Angels acting as messengers or guardians are direct sacred agents guiding,
+      protecting, or mediating divine action. Caution: If a specific boundary or gate
+      is guarded, threshold_guardian may be a secondary mapping.'
+    suggested_aliases:
+    - angelic messenger
+    - angelic guardian
+    - angel as divine agent
+  angelic_promise_of_success_before_conflict:
+    group_id: divine_intervention
+    relationship: functional_variant
+    confidence: high
+    review_status: model_auto_accepted_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'A divine or angelic assurance before battle is supernatural guidance and
+      support in human affairs. Caution: If the conflict is framed as sacred combat
+      or divine warfare, divine_warrior or sacred_combat may be secondary mappings.'
+    suggested_aliases:
+    - angelic assurance before battle
+    - promise of victory
+    - divine promise before conflict
+  annual_expulsion_of_evil_from_the_community:
+    group_id: sacrifice
+    relationship: ritual_variant
+    confidence: high
+    review_status: model_auto_accepted_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'The existing sacrifice group already includes ritual expulsion, annual
+      purification, and communal expulsion of harmful spirits or misfortune. Caution:
+      If no offering, scapegoat, transfer, or expulsion rite is present, sacred_law
+      or divine_judgment may be better; comparative labels should be checked for source
+      basis.'
+    suggested_aliases:
+    - annual evil expulsion
+    - communal expulsion of evil
+    - yearly purification expulsion
+  apotropaic_smoke_averts_the_evil_eye:
+    group_id: sacred_law
+    relationship: ritual_variant
+    confidence: high
+    review_status: model_auto_accepted_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'A smoke rite averting the evil eye is a clear apotropaic protection practice,
+      matching existing sacred_law children for protective objects and rites. Caution:
+      Preserve smoke and evil-eye specifics as evidence detail; do not collapse into
+      sacred_fire unless smoke/fire mediates divine presence or sacrifice.'
+    suggested_aliases:
+    - evil eye averted by smoke
+    - apotropaic smoke
+    - smoke protection against evil eye
+  cattle_raid:
+    group_id: sacred_combat
+    relationship: narrower_than
+    confidence: high
+    review_status: model_auto_accepted_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'The existing group already includes cattle_raid_catalyst and frames raids
+      as ritually or narratively significant warfare. Caution: Confirm the raid functions
+      as mythic catalyst or sacred conflict, not merely a plot setting.'
+    suggested_aliases:
+    - cattle raid
+    - cattle-raid episode
+  life_bound_to_an_external_object:
+    group_id: external_soul
+    relationship: alias
+    confidence: high
+    review_status: model_auto_accepted_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'The label is a direct variant of the accepted external_soul group and
+      its children about life kept in objects. Caution: Preserve whether the object
+      is a true soul-container, vulnerability token, fate-token, or magical object.'
+    suggested_aliases:
+    - life bound to external object
+    - external life object
+    - life-token
+    - life tied to object
+normalization_suggestion_acceptance:
+  updated_on: '2026-04-29'
+  latest_run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  policy: Auto-accept only high-confidence map_to_existing_group suggestions whose
+    target group already exists. Stage all new-group, exclusion, low-confidence, medium-confidence,
+    and human-review suggestions separately.
+  latest_suggestions_path: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+  latest_review_data_path: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/auto-acceptance.yml
+  latest_report_path: docs/motif-normalization-auto-accept-review.md
+  latest_suggestion_count: 80
+  latest_auto_accepted_count: 8
+  latest_review_needed_count: 72

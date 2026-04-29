@@ -1,0 +1,291 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0003
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.abundant-dairy-yield-at-a-raiding-camp
+  motif_id: abundant_dairy_yield_at_a_raiding_camp
+  label: Abundant dairy yield at a raiding camp
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: uncertain
+  confidence: low
+  rationale: The raiding-camp setting may connect to cattle-raid or ritual-warfare
+    narrative contexts, while abundance may signal prosperity or sovereignty.
+  cautions: Single occurrence and highly contextual; could be a feast, prosperity,
+    sovereignty, or passage detail rather than a reusable motif.
+  suggested_aliases:
+  - abundant dairy at raiding camp
+  - raiding-camp abundance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.abundant-faraway-land
+  motif_id: abundant_faraway_land
+  label: abundant faraway land
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: narrower_than
+  confidence: medium
+  rationale: A distant land of abundance often functions as a blessed or marvelous
+    otherworld adjacent to ordinary geography.
+  cautions: Confirm the land is enchanted, blessed, or nonordinary; if merely geographic
+    wealth, exclude or treat as setting detail.
+  suggested_aliases:
+  - land of abundance
+  - faraway abundant land
+  - blessed distant land
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.abundant-food-and-drink-in-the-marvelous-land
+  motif_id: abundant_food_and_drink_in_the_marvelous_land
+  label: Abundant food and drink in the marvelous land
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: narrower_than
+  confidence: high
+  rationale: Food and drink abundance in a marvelous land fits the enchanted otherworld
+    or blessed realm pattern.
+  cautions: If the passage emphasizes hospitality exchange or feasting obligations
+    rather than realm quality, sacred_exchange may be secondary.
+  suggested_aliases:
+  - otherworldly abundance
+  - marvelous land feast
+  - abundant food in otherworld
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.abundant-pictorial-simile
+  motif_id: abundant_pictorial_simile
+  label: abundant pictorial simile
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes a stylistic or rhetorical feature rather than a narrative
+    or symbolic motif.
+  cautions: Preserve only as literary-form evidence if needed; do not use in motif
+    pattern queries.
+  suggested_aliases:
+  - pictorial simile
+  - abundant visual simile
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.acceptance-of-destiny-after-loss
+  motif_id: acceptance_of_destiny_after_loss
+  label: acceptance of destiny after loss
+  occurrences: 1
+  traditions:
+  - daoist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on loss interpreted through acceptance of destiny or
+    fate.
+  cautions: If the emphasis is Daoist non-action or inner discipline rather than death
+    or fated loss, duality or wisdom-related review may be better.
+  suggested_aliases:
+  - acceptance of fate after loss
+  - destiny accepted after bereavement
+  - fated loss accepted
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.acceptance-of-the-final-draught
+  motif_id: acceptance_of_the_final_draught
+  label: acceptance of the final draught
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: uncertain
+  confidence: low
+  rationale: In a Sufi context the final draught may symbolize surrender, death, annihilation,
+    or mystical consummation.
+  cautions: Ambiguous without passage evidence; could belong under annihilation_union,
+    sacred_love, sacrifice, or literal death acceptance.
+  suggested_aliases:
+  - final draught accepted
+  - acceptance of final cup
+  - mystical final draught
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.accidental-encounter-with-supernatural-beings-in-a-wild-place
+  motif_id: accidental_encounter_with_supernatural_beings_in_a_wild_place
+  label: Accidental encounter with supernatural beings in a wild place
+  occurrences: 1
+  traditions:
+  - japanese
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: functional_variant
+  confidence: medium
+  rationale: A wild-place encounter with supernatural beings often marks contact with
+    an adjacent enchanted realm.
+  cautions: If the beings guard a boundary, threshold_guardian may fit; if the focus
+    is divine manifestation, theophany may be secondary.
+  suggested_aliases:
+  - wild-place supernatural encounter
+  - accidental encounter with spirits in wilderness
+  - supernatural beings encountered in wild place
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.accidental-killing-by-the-would-be-protector
+  motif_id: accidental_killing_by_the_would_be_protector
+  label: Accidental killing by the would-be protector
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes an ironic narrative reversal, but its symbolic function
+    is unclear without source context.
+  cautions: Could be fate, tragic recognition, moral consequence, or plot artifact;
+    avoid mapping only from accidental violence.
+  suggested_aliases:
+  - protector accidentally kills ward
+  - fatal protection reversal
+  - accidental death by protector
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.accumulation-of-wonderful-objects
+  motif_id: accumulation_of_wonderful_objects
+  label: accumulation of wonderful objects
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: narrower_than
+  confidence: medium
+  rationale: Wonderful objects gathered together fit the broader power-object or sacred-treasure
+    group.
+  cautions: If the objects are merely decorative or signs of abundance, this may be
+    a passage detail; identify whether they confer power, merit, or authority.
+  suggested_aliases:
+  - collection of wonderful objects
+  - gathered marvelous objects
+  - accumulated sacred treasures
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.accusation-of-black-magic-leading-to-condemnation
+  motif_id: accusation_of_black_magic_leading_to_condemnation
+  label: accusation of black magic leading to condemnation
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: uncertain
+  confidence: low
+  rationale: Condemnation after a magic accusation may involve social or divine judgment,
+    but the judging authority is unclear.
+  cautions: Culturally sensitive and possibly legal/social rather than mythic; review
+    terminology and source evidence before indexing.
+  suggested_aliases:
+  - magic accusation leading to condemnation
+  - sorcery charge and condemnation
+  - condemnation for alleged black magic
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Suggestions are provisional placements for review only and do not imply historical
+  transmission or common origin.
+- Several one-off labels appear highly contextual; retain local evidence notes where
+  mapping is uncertain.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Batch contains 10 unmapped motifs from needs_human_sorting; uncertain and
+    culturally sensitive items flagged for human review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0003
+  input_sha256: a2dfdf51b18442b36d47526c23a25cd43f8a0a68f6eca76b22dcec1291fa05df

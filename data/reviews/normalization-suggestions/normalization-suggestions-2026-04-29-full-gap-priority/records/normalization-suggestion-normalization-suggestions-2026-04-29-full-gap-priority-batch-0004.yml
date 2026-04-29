@@ -1,0 +1,313 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0004
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.actions-explained-by-a-past-loss
+  motif_id: actions_explained_by_a_past_loss
+  label: actions explained by a past loss
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes motivation or characterization rather than a clear
+    recurring symbolic or narrative motif.
+  cautions: May be a passage-specific explanatory note; source context is needed to
+    decide whether loss, mourning, vengeance, or trauma is central.
+  suggested_aliases:
+  - past loss as motivation
+  - action motivated by earlier loss
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - lament_and_mourning
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.admired-feature-becomes-cause-of-ruin
+  motif_id: admired_feature_becomes_cause_of_ruin
+  label: admired feature becomes cause of ruin
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: functional_variant
+  confidence: medium
+  rationale: A valued or admired trait becoming the source of destruction fits reversal,
+    overvaluation, and downfall logic.
+  cautions: If the feature is not tied to pride, transgression, or moral reversal,
+    this may be only an ironic plot detail.
+  suggested_aliases:
+  - valued trait causes ruin
+  - beauty or excellence as downfall
+  - admired quality becomes fatal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.adopted-predator-betrays-the-flock
+  motif_id: adopted_predator_betrays_the_flock
+  label: Adopted predator betrays the flock
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This reads like an animal-fable motif about misplaced trust and predatory
+    nature, not well covered by existing groups.
+  cautions: Could be a moral exemplum, trickster/deceiver episode, or too specific
+    animal tale; avoid forcing into trickster unless deception or boundary-breaking
+    is central.
+  suggested_aliases:
+  - predator accepted among prey betrays them
+  - misplaced trust in predator
+  - adopted enemy within the flock
+  suggested_new_group:
+    id: animal_fable_moral_reversal
+    label: Animal Fable and Moral Reversal
+    description: Animal-centered episodes that teach moral, social, or practical lessons
+      through predation, deception, misplaced trust, or reversal of expected roles.
+    parent_group_ids:
+    - trickster
+    - sacred_law
+    related_group_ids:
+    - divine_judgment
+    - pride_and_downfall
+    reason_existing_groups_insufficient: Existing trickster and sacred-law groups
+      can cover some functions, but do not clearly hold animal-fable moral exempla
+      where the main pattern is social trust betrayed by natural role.
+- suggestion_id: normalization.suggestion.advance-delayed-for-reinforcements
+  motif_id: advance_delayed_for_reinforcements
+  label: advance delayed for reinforcements
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label appears to describe tactical plot logistics rather than a symbolic
+    motif.
+  cautions: If the delay is ritually mandated, fated, or part of a heroic ordeal,
+    review under sacred_combat or hero_journey instead.
+  suggested_aliases:
+  - delayed advance awaiting allies
+  - reinforcement delay
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.adversarial-being-followed-by-the-unfaithful-majority
+  motif_id: adversarial_being_followed_by_the_unfaithful_majority
+  label: Adversarial being followed by the unfaithful majority
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on a moral test in which most people follow an opposing
+    being, inviting judgment or reckoning.
+  cautions: May involve culturally sensitive demonological or eschatological material;
+    confirm whether the passage emphasizes judgment, temptation, or communal disobedience.
+  suggested_aliases:
+  - unfaithful majority follows adversary
+  - majority led astray by adversarial being
+  - adversary as test of faithfulness
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.afflicted-people-promised-succession-in-the-land
+  motif_id: afflicted_people_promised_succession_in_the_land
+  label: Afflicted people promised succession in the land
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: A suffering community receiving a divine promise of land and succession
+    fits sacred promise and communal covenantal order.
+  cautions: Could also support divine_judgment or royal_legitimacy if the emphasis
+    is punishment of oppressors or legitimate rule; source context should decide secondary
+    mappings.
+  suggested_aliases:
+  - oppressed people promised inheritance
+  - afflicted community promised the land
+  - divine promise of succession after affliction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_judgment
+    - royal_legitimacy
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.age-contrast-in-paired-women
+  motif_id: age_contrast_in_paired_women
+  label: age contrast in paired women
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label indicates a comparative character contrast but not a clear
+    mythic function by itself.
+  cautions: Could belong to duality, sacred love, mother_goddess, or passage-specific
+    characterization depending on the source; likely too thin without evidence.
+  suggested_aliases:
+  - old and young female pair
+  - paired women with age contrast
+  - female age contrast
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - duality
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.age-renewal-through-medea-s-arts
+  motif_id: age_renewal_through_medea_s_arts
+  label: age renewal through Medea's arts
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: functional_variant
+  confidence: high
+  rationale: Magical rejuvenation is a renewal or rebirth of the body into a transformed
+    state.
+  cautions: The Medea reference is episode-specific; preserve as evidence detail rather
+    than a canonical label. If the rite uses dismemberment or cauldron imagery, sacred_vessel
+    may be relevant secondarily.
+  suggested_aliases:
+  - magical rejuvenation
+  - age renewal by magic
+  - rejuvenation through sorcery
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_vessel
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.aging-singer-laments-loss-of-voice
+  motif_id: aging_singer_laments_loss_of_voice
+  label: Aging singer laments loss of voice
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core pattern is lament over aging, loss, and diminished expressive
+    power.
+  cautions: Could be a poetic self-reference or performance-context artifact rather
+    than a mythic motif; if emphasis is song as sacred transmission, storytelling_as_power
+    may be secondary.
+  suggested_aliases:
+  - lament for lost voice
+  - aging poet mourns diminished song
+  - loss of voice in old age
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - storytelling_as_power
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.alarm-pursuit-and-defeat-after-theft
+  motif_id: alarm_pursuit_and_defeat_after_theft
+  label: alarm, pursuit, and defeat after theft
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: Theft followed by pursuit and defeat fits boundary-crossing and transgressive
+    action, often in trickster or heroic theft sequences.
+  cautions: If the theft is a cattle raid, martial episode, or sacred-object recovery
+    rather than trickster action, sacred_combat or sacred_treasures may be better.
+  suggested_aliases:
+  - pursuit after theft
+  - theft triggers alarm and chase
+  - defeat following stolen goods
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - sacred_treasures
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Suggestions are provisional placements for review only and do not imply historical
+  transmission or common origin.
+- Several one-occurrence labels look like episode logistics or literary characterization;
+  human review should check passage evidence before indexing them as motifs.
+- Animal-fable and tactical-combat labels may require future grouping if many similar
+  unmapped motifs recur.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_normalization_assistant
+  reviewed_at: ''
+  notes: Batch includes low-context generated labels; recommended actions favor existing
+    groups where function is clear and human review where labels are abstract or over-specific.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0004
+  input_sha256: 3c2e5d5be1d25e0afcb8d6d156c3a3d34dd396870f4456709bcb8e687d4e3d30
