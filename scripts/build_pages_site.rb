@@ -462,12 +462,24 @@ def taxonomy_constellation_html(normalization, proposed_review, current_output, 
   data = taxonomy_constellation_data(normalization, proposed_review, current_output)
   <<~HTML
     <div class="constellation-map" data-source="#{esc(data_id)}">
+      <div class="constellation-toolbar">
+        <input type="search" class="constellation-search" placeholder="Find a family">
+        <select class="constellation-label-mode" aria-label="Label density">
+          <option value="focus">Focus labels</option>
+          <option value="top">Major labels</option>
+          <option value="all">All labels</option>
+        </select>
+        <div class="constellation-legend" aria-label="Constellation legend">
+          <span><i></i> canonical family</span>
+          <span><i class="small"></i> node size = child motifs</span>
+        </div>
+      </div>
       <div class="constellation-stage">
         <svg class="constellation-svg" role="img" aria-label="Interactive constellation map of motif taxonomy families"></svg>
         <aside class="constellation-panel" aria-live="polite">
           <span class="row-kicker">Selected Family</span>
           <h3>Choose A Star</h3>
-          <p>Hover to reveal related families. Click a node to inspect its children and related families.</p>
+          <p>Search or click a node to inspect its children and related families.</p>
         </aside>
       </div>
     </div>
@@ -2294,16 +2306,75 @@ STYLE_CSS = <<~CSS
     box-shadow: 0 22px 60px rgba(11, 11, 9, 0.34);
   }
 
+  .constellation-toolbar {
+    display: grid;
+    grid-template-columns: minmax(220px, 1fr) 160px auto;
+    gap: 12px;
+    align-items: center;
+    padding: 12px;
+    background: rgba(15, 15, 12, 0.96);
+    border-bottom: 1px solid #242219;
+  }
+
+  .constellation-search,
+  .constellation-label-mode {
+    min-height: 42px;
+    padding: 10px 12px;
+    background: rgba(255, 255, 255, 0.045);
+    border: 1px solid rgba(186, 160, 79, 0.24);
+    border-radius: 6px;
+    color: #f4ead0;
+    font: inherit;
+  }
+
+  .constellation-search::placeholder {
+    color: rgba(244, 234, 208, 0.52);
+  }
+
+  .constellation-label-mode option {
+    color: #20231f;
+  }
+
+  .constellation-legend {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+    gap: 12px;
+    color: rgba(244, 234, 208, 0.68);
+    font-size: 12px;
+  }
+
+  .constellation-legend span {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    white-space: nowrap;
+  }
+
+  .constellation-legend i {
+    display: inline-block;
+    width: 12px;
+    height: 12px;
+    border-radius: 999px;
+    background: #baa04f;
+    box-shadow: 0 0 10px rgba(186, 160, 79, 0.7);
+  }
+
+  .constellation-legend i.small {
+    width: 8px;
+    height: 8px;
+  }
+
   .constellation-stage {
     display: grid;
-    grid-template-columns: minmax(0, 1fr) 320px;
-    min-height: 720px;
+    grid-template-columns: minmax(0, 1fr) 360px;
+    min-height: 760px;
   }
 
   .constellation-svg {
     width: 100%;
-    height: 720px;
-    min-height: 560px;
+    height: 760px;
+    min-height: 620px;
     display: block;
     background:
       radial-gradient(circle at 50% 50%, rgba(186, 160, 79, 0.06), transparent 50%),
@@ -2314,7 +2385,7 @@ STYLE_CSS = <<~CSS
   .constellation-link {
     stroke: #2a2820;
     stroke-width: 1;
-    opacity: 0.72;
+    opacity: 0.48;
   }
 
   .constellation-link.pending {
@@ -2324,7 +2395,7 @@ STYLE_CSS = <<~CSS
 
   .constellation-link.is-active {
     stroke: rgba(186, 160, 79, 0.74);
-    stroke-width: 1.5;
+    stroke-width: 1.7;
     opacity: 1;
   }
 
@@ -2359,10 +2430,22 @@ STYLE_CSS = <<~CSS
     pointer-events: none;
     fill: #e9dbad;
     font-family: "Cormorant Garamond", Georgia, serif;
-    font-size: 13px;
+    font-size: 14px;
     letter-spacing: 0;
     text-anchor: middle;
     text-shadow: 0 1px 8px #0b0b09;
+    opacity: 0;
+    transition: opacity 140ms ease;
+  }
+
+  .constellation-label.is-key,
+  .constellation-label.is-active,
+  .constellation-map.show-all-labels .constellation-label {
+    opacity: 0.92;
+  }
+
+  .constellation-map.focus-labels .constellation-label.is-key:not(.is-active) {
+    opacity: 0.22;
   }
 
   .constellation-label.pending {
@@ -2381,19 +2464,24 @@ STYLE_CSS = <<~CSS
   }
 
   .constellation-panel {
-    padding: 22px;
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+    padding: 24px;
     background: rgba(15, 15, 12, 0.94);
     border-left: 1px solid #242219;
     color: #f4ead0;
+    overflow: auto;
   }
 
   .constellation-panel h3 {
     color: #f6e7b4;
     font-family: "Cormorant Garamond", Georgia, serif;
-    font-size: 30px;
+    font-size: 34px;
   }
 
   .constellation-panel p {
+    margin: 0;
     color: rgba(244, 234, 208, 0.74);
   }
 
@@ -2402,11 +2490,13 @@ STYLE_CSS = <<~CSS
   }
 
   .constellation-panel-section {
-    margin-top: 18px;
+    margin-top: 4px;
   }
 
   .constellation-panel-section strong {
-    display: block;
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
     margin-bottom: 8px;
     color: #baa04f;
     font-size: 12px;
@@ -2417,6 +2507,9 @@ STYLE_CSS = <<~CSS
     display: flex;
     flex-wrap: wrap;
     gap: 7px;
+    max-height: 170px;
+    overflow: auto;
+    padding-right: 4px;
   }
 
   .constellation-panel-list a,
@@ -2431,16 +2524,51 @@ STYLE_CSS = <<~CSS
     text-decoration: none;
   }
 
+  .constellation-panel-metrics {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 8px;
+  }
+
+  .constellation-panel-metrics span,
+  .constellation-panel-action {
+    padding: 9px 10px;
+    background: rgba(186, 160, 79, 0.10);
+    border: 1px solid rgba(186, 160, 79, 0.24);
+    border-radius: 6px;
+  }
+
+  .constellation-panel-metrics b {
+    display: block;
+    color: #f6e7b4;
+    font-family: "JetBrains Mono", ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+    font-size: 18px;
+  }
+
+  .constellation-panel-metrics small {
+    color: rgba(244, 234, 208, 0.66);
+  }
+
+  .constellation-panel-action {
+    display: inline-flex;
+    justify-content: center;
+    color: #0b0b09 !important;
+    background: #baa04f;
+    border-color: #d8c67e;
+    font-weight: 800;
+    text-decoration: none;
+  }
+
   .constellation-page main {
     width: min(1440px, calc(100% - 32px));
   }
 
   .constellation-page .constellation-stage {
-    min-height: 820px;
+    min-height: 860px;
   }
 
   .constellation-page .constellation-svg {
-    height: 820px;
+    height: 860px;
   }
 
   .insight-band {
@@ -2711,12 +2839,13 @@ STYLE_CSS = <<~CSS
       grid-template-columns: repeat(2, minmax(0, 1fr));
     }
 
-    .doc-shell, .motif-detail-grid, .timeline-row, .insight-band, .explorer-controls, .explorer-row, .taxonomy-grid, .constellation-stage, .family-timeline-row {
+    .doc-shell, .motif-detail-grid, .timeline-row, .insight-band, .explorer-controls, .explorer-row, .taxonomy-grid, .constellation-stage, .family-timeline-row, .constellation-toolbar {
       grid-template-columns: 1fr;
     }
 
     .metadata-panel { position: static; }
     .explorer-metrics { justify-items: start; text-align: left; }
+    .constellation-legend { justify-content: flex-start; }
     .constellation-panel { border-left: 0; border-top: 1px solid #242219; }
   }
 
@@ -2816,11 +2945,19 @@ APP_JS = <<~JS
       const dataScript = document.getElementById(map.dataset.source);
       const svg = map.querySelector(".constellation-svg");
       const panel = map.querySelector(".constellation-panel");
+      const search = map.querySelector(".constellation-search");
+      const labelMode = map.querySelector(".constellation-label-mode");
       if (!dataScript || !svg || !panel) return;
 
       const data = JSON.parse(dataScript.textContent);
       const nodes = data.nodes.map((node, index) => ({ ...node, index }));
       const nodeById = new Map(nodes.map((node) => [node.id, node]));
+      const keyLabelIds = new Set(nodes
+        .filter((node) => node.type === "approved")
+        .slice()
+        .sort((left, right) => Number(right.child_count || 0) - Number(left.child_count || 0))
+        .slice(0, 10)
+        .map((node) => node.id));
       const links = data.links
         .map((link) => ({ ...link, sourceNode: nodeById.get(link.source), targetNode: nodeById.get(link.target) }))
         .filter((link) => link.sourceNode && link.targetNode);
@@ -2829,6 +2966,7 @@ APP_JS = <<~JS
         connected.get(link.source).add(link.target);
         connected.get(link.target).add(link.source);
       });
+      let selectedId = null;
 
       const radiusFor = (node) => {
         const base = node.type === "pending" ? 5 : 8;
@@ -2862,7 +3000,7 @@ APP_JS = <<~JS
       };
 
       const keepInside = (node, width, height) => {
-        const r = radiusFor(node) + 18;
+        const r = radiusFor(node) + 34;
         node.x = Math.max(r, Math.min(width - r, node.x));
         node.y = Math.max(r, Math.min(height - r, node.y));
       };
@@ -2870,11 +3008,11 @@ APP_JS = <<~JS
       const initializePositions = (width, height) => {
         const cx = width / 2;
         const cy = height / 2;
-        const inner = Math.min(width, height) * 0.25;
-        const outer = Math.min(width, height) * 0.42;
+        const inner = Math.min(width, height) * 0.30;
+        const outer = Math.min(width, height) * 0.44;
         nodes.forEach((node) => {
           const angle = hashAngle(node.id);
-          const distance = node.type === "pending" ? outer : inner + (node.index % 7) * 11;
+          const distance = node.type === "pending" ? outer : inner + (node.index % 9) * 13;
           node.x = cx + Math.cos(angle) * distance;
           node.y = cy + Math.sin(angle) * distance;
           node.vx = 0;
@@ -2887,15 +3025,15 @@ APP_JS = <<~JS
         const cx = width / 2;
         const cy = height / 2;
         const edgeRadius = Math.min(width, height) * 0.43;
-        for (let step = 0; step < 360; step += 1) {
+        for (let step = 0; step < 430; step += 1) {
           links.forEach((link) => {
             const source = link.sourceNode;
             const target = link.targetNode;
             const dx = target.x - source.x;
             const dy = target.y - source.y;
             const distance = Math.sqrt(dx * dx + dy * dy) || 1;
-            const desired = link.type === "pending" ? 185 : 132;
-            const strength = link.type === "pending" ? 0.010 : 0.018;
+            const desired = link.type === "pending" ? 210 : 166;
+            const strength = link.type === "pending" ? 0.009 : 0.014;
             const force = (distance - desired) * strength;
             const fx = (dx / distance) * force;
             const fy = (dy / distance) * force;
@@ -2913,8 +3051,8 @@ APP_JS = <<~JS
               const dy = b.y - a.y;
               const distanceSq = Math.max(dx * dx + dy * dy, 36);
               const distance = Math.sqrt(distanceSq);
-              const minDistance = a.r + b.r + 28;
-              const push = distance < minDistance ? 0.08 : 260 / distanceSq;
+              const minDistance = a.r + b.r + 42;
+              const push = distance < minDistance ? 0.11 : 430 / distanceSq;
               const fx = (dx / distance) * push;
               const fy = (dy / distance) * push;
               a.vx -= fx;
@@ -2945,19 +3083,29 @@ APP_JS = <<~JS
       };
 
       const showPanel = (node) => {
-        const children = node.children && node.children.length
-          ? node.children.map((child) => `<a href="${htmlEscape(child.url)}">${htmlEscape(child.label)}</a>`).join("")
+        const childItems = node.children || [];
+        const relatedItems = node.related || [];
+        const visibleChildren = childItems.slice(0, 12);
+        const hiddenChildCount = Math.max(0, childItems.length - visibleChildren.length);
+        const children = visibleChildren.length
+          ? visibleChildren.map((child) => `<a href="${htmlEscape(child.url)}">${htmlEscape(child.label)}</a>`).join("") +
+            (hiddenChildCount ? `<span>+${hiddenChildCount} more</span>` : "")
           : "<span>None yet</span>";
-        const related = node.related && node.related.length
-          ? node.related.map((item) => `<a href="${htmlEscape(item.url)}">${htmlEscape(item.label)}</a>`).join("")
+        const related = relatedItems.length
+          ? relatedItems.map((item) => `<a href="${htmlEscape(item.url)}">${htmlEscape(item.label)}</a>`).join("")
           : "<span>None yet</span>";
         const kicker = node.type === "pending" ? "Pending Proposed Group" : "Canonical Family";
         panel.innerHTML = `
           <span class="row-kicker">${htmlEscape(kicker)}</span>
           <h3>${htmlEscape(node.label)}</h3>
           <p>${htmlEscape(node.description || "")}</p>
+          <div class="constellation-panel-metrics">
+            <span><b>${Number(node.child_count || 0)}</b><small>child motifs</small></span>
+            <span><b>${relatedItems.length}</b><small>${node.type === "pending" ? "suggested parents" : "related families"}</small></span>
+          </div>
+          ${node.url ? `<a class="constellation-panel-action" href="${htmlEscape(node.url)}">Open research page</a>` : ""}
           <div class="constellation-panel-section">
-            <strong>Children <span>${node.child_count}</span></strong>
+            <strong>Top Children <span>${node.child_count}</span></strong>
             <div class="constellation-panel-list">${children}</div>
           </div>
           <div class="constellation-panel-section">
@@ -2967,11 +3115,16 @@ APP_JS = <<~JS
         `;
       };
 
+      const setLabelMode = (mode) => {
+        map.classList.toggle("focus-labels", mode === "focus");
+        map.classList.toggle("show-all-labels", mode === "all");
+      };
+
       const render = () => {
         const bounds = map.querySelector(".constellation-stage").getBoundingClientRect();
-        const panelWidth = panel.getBoundingClientRect().width || 320;
+        const panelWidth = panel.getBoundingClientRect().width || 360;
         const width = Math.max(620, Math.floor(bounds.width - (window.innerWidth > 900 ? panelWidth : 0)));
-        const height = Math.max(560, Math.floor(svg.getBoundingClientRect().height || 720));
+        const height = Math.max(620, Math.floor(svg.getBoundingClientRect().height || 760));
         svg.setAttribute("viewBox", `0 0 ${width} ${height}`);
         clearSvg();
         initializePositions(width, height);
@@ -3015,23 +3168,12 @@ APP_JS = <<~JS
           });
           count.textContent = node.child_count.toString();
           nodeLayer.append(circle, count);
-          circle.addEventListener("mouseenter", () => highlight(node.id));
-          circle.addEventListener("mouseleave", () => highlight(null));
-          circle.addEventListener("focus", () => highlight(node.id));
-          circle.addEventListener("blur", () => highlight(null));
-          circle.addEventListener("click", () => showPanel(node));
-          circle.addEventListener("keydown", (event) => {
-            if (event.key === "Enter" || event.key === " ") {
-              event.preventDefault();
-              showPanel(node);
-            }
-          });
           return circle;
         });
 
         const labelEls = nodes.map((node) => {
           const label = svgEl("text", {
-            class: `constellation-label ${node.type}`,
+            class: `constellation-label ${node.type}${keyLabelIds.has(node.id) ? " is-key" : ""}`,
             x: node.x.toFixed(1),
             y: (node.y + node.r + 15).toFixed(1),
             "data-id": node.id
@@ -3052,6 +3194,7 @@ APP_JS = <<~JS
           });
           [...labelEls, ...countEls].forEach((el) => {
             const active = activeSet && activeSet.has(el.dataset.id);
+            el.classList.toggle("is-active", Boolean(id && active));
             el.classList.toggle("is-dim", Boolean(id && !active));
           });
           linkEls.forEach((el) => {
@@ -3061,8 +3204,52 @@ APP_JS = <<~JS
           });
         }
 
+        const selectNode = (node) => {
+          if (!node) return;
+          selectedId = node.id;
+          showPanel(node);
+          highlight(node.id);
+        };
+
+        nodeEls.forEach((circle) => {
+          const node = nodeById.get(circle.dataset.id);
+          circle.addEventListener("mouseenter", () => highlight(circle.dataset.id));
+          circle.addEventListener("mouseleave", () => highlight(selectedId));
+          circle.addEventListener("focus", () => highlight(circle.dataset.id));
+          circle.addEventListener("blur", () => highlight(selectedId));
+          circle.addEventListener("click", () => selectNode(node));
+          circle.addEventListener("keydown", (event) => {
+            if (event.key === "Enter" || event.key === " ") {
+              event.preventDefault();
+              selectNode(node);
+            }
+          });
+        });
+
+        if (search) {
+          search.oninput = () => {
+            const query = search.value.trim().toLowerCase();
+            if (!query) {
+              highlight(selectedId);
+              return;
+            }
+            const match = nodes.find((node) =>
+              node.label.toLowerCase().includes(query) ||
+              node.id.toLowerCase().includes(query)
+            );
+            if (match) selectNode(match);
+          };
+        }
+
+        if (labelMode) {
+          setLabelMode(labelMode.value || "focus");
+          labelMode.onchange = () => setLabelMode(labelMode.value || "focus");
+        } else {
+          setLabelMode("focus");
+        }
+
         const firstApproved = nodes.find((node) => node.id === "death_and_transformation") || nodes.find((node) => node.type === "approved");
-        if (firstApproved) showPanel(firstApproved);
+        selectNode((selectedId && nodeById.get(selectedId)) || firstApproved);
       };
 
       render();
