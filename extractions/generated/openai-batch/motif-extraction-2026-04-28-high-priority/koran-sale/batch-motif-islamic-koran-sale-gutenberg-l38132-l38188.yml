@@ -1,0 +1,467 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l38132-l38188
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: ENTITLED, THOSE WHO GIVE SHORT MEASURE OR WEIGHT; REVEALED AT MECCA. / IN
+    THE NAME OF THE MOST MERCIFUL GOD. / CHAPTER LXXXIV. / IN THE NAME OF THE MOST
+    MERCIFUL GOD.; lines 38132-38188
+  start: '38132'
+  end: '38188'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes cosmic disruption, humanity's labor toward meeting
+    the Lord, divergent accounts and afterlife outcomes for those receiving their
+    book in the right hand or behind the back, an oath by evening sky, night, and
+    full moon, successive transfer from state to state, denial of resurrection by
+    unbelievers, and reward for those who believe and do good works.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Heaven is described as being rent in sunder and obeying its Lord.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Earth is described as being stretched out, casting forth what is within it,
+    remaining empty, and obeying its Lord.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Man is addressed as laboring toward meeting the Lord and is told he will meet
+    him.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A person whose book is given into his right hand is called to an easy account
+    and returns to his family with joy.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: A person whose book is given behind his back invokes destruction and is sent
+    into hell to be burned.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The condemned person had rejoiced insolently among his family on earth and
+    thought he would never return to God.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The speaker swears by the redness of the sky after sunset, by night and what
+    it gathers, and by the full moon.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The hearers are told they will be transferred successively from state to state;
+    Sale's note glosses this as movement from living, to dead, to new life in another
+    world.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: The passage asks why some do not believe the resurrection or humble themselves
+    when the Koran is read.
+  category: speech
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: Unbelievers accuse the Koran of imposture, while God is said to know what
+    they hide in their breasts.
+  category: speech
+  evidence_refs:
+  - ev:10
+- id: obs:11
+  text: Those who believe and do good works are excepted from the denunciation of
+    punishment and are promised a never-failing reward.
+  category: relationship
+  evidence_refs:
+  - ev:11
+figures:
+- id: fig:1
+  name_or_label: the Lord / God
+  description: The divine being whom heaven and earth obey, whom man will meet, who
+    beholds and knows what is hidden, and who prepares reward or punishment.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:6
+  - ev:10
+  - ev:11
+- id: fig:2
+  name_or_label: man
+  description: Humanity or the addressed human being, described as laboring toward
+    meeting the Lord.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: recipient of the book in the right hand
+  description: A person whose book is given into his right hand and who receives an
+    easy account and joyful return to family.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: recipient of the book behind the back
+  description: A person whose book is given behind his back and who is sent into hell
+    to be burned.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:5
+  name_or_label: unbelievers
+  description: Those who do not believe the resurrection and accuse the Koran of imposture.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: fig:6
+  name_or_label: those who believe and do good works
+  description: Those excepted from the grievous punishment and promised a never-failing
+    reward.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:11
+roles:
+- id: role:1
+  label: divine judge and knower
+  assigned_to:
+  - fig:1
+  basis: The Lord is met by humanity, beholds the one who denied return, knows hidden
+    malice, and is associated with punishment and reward.
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:10
+  - ev:11
+- id: role:2
+  label: human laborer toward divine meeting
+  assigned_to:
+  - fig:2
+  basis: The addressed human is said to labor toward meeting the Lord.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: favorably accounted recipient
+  assigned_to:
+  - fig:3
+  basis: Receiving the book in the right hand leads to an easy account and joyful
+    return.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: condemned recipient
+  assigned_to:
+  - fig:4
+  basis: Receiving the book behind the back leads to invocation of destruction and
+    burning in hell.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: deniers of resurrection and scripture
+  assigned_to:
+  - fig:5
+  basis: They do not believe the resurrection and accuse the Koran of imposture.
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: role:6
+  label: rewarded believers
+  assigned_to:
+  - fig:6
+  basis: Those who believe and do good works are promised a never-failing reward.
+  evidence_refs:
+  - ev:11
+symbols:
+- id: sym:1
+  label: rending of heaven
+  literal_form: heaven rent in sunder
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: emptied earth
+  literal_form: earth stretched out and casting forth what is within it
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: book in the right hand
+  literal_form: book given into the right hand
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: book behind the back
+  literal_form: book given behind the back
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: hell burning
+  literal_form: sent into hell to be burned
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: evening redness, night, and full moon
+  literal_form: redness of the sky after sunset; night; moon in the full
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:7
+  label: successive states
+  literal_form: transfer from state to state
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Cosmic rending and emptying
+  summary: Heaven is rent and earth is stretched out and emptied, both obeying the
+    Lord.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Human meeting and account
+  summary: Humanity is told it labors toward meeting the Lord; one recipient of the
+    book receives an easy account and joy, while another receives condemnation and
+    hell burning.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:3
+  label: Oath by celestial signs and transition of states
+  summary: The speaker invokes evening sky, night, and the full moon, then states
+    that the hearers will be transferred from state to state.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: scene:4
+  label: Denial, punishment, and reward
+  summary: Unbelievers deny resurrection and accuse the Koran of imposture, while
+    believers who do good works are promised a never-failing reward.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:9
+  - ev:10
+  - ev:11
+candidate_motifs:
+- id: motif:1
+  label: cosmic dissolution before judgment
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage links the rending of heaven and emptying of earth with human
+    meeting of the Lord and divergent judgment outcomes.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The taxonomy reference is broad; the passage gives eschatological signs
+    and judgment but not a full narrative sequence.
+- id: motif:2
+  label: book of account determining afterlife fate
+  taxonomy_refs:
+  - divine_judgment
+  basis: The book is delivered differently to two people, followed by easy account
+    and joy for one, and destruction and hell burning for the other.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage does not detail the contents of the book, only its delivery
+    and outcomes.
+- id: motif:3
+  label: resurrection or renewed life after death
+  taxonomy_refs:
+  - resurrection
+  basis: The passage explicitly asks why they do not believe the resurrection and
+    describes successive transfer from life to death to another-worldly life in Sale's
+    note.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: The note supplies the explicit gloss for the sequence of states.
+- id: motif:4
+  label: return to God after earthly denial
+  taxonomy_refs:
+  - return
+  basis: The condemned person thought he would never return to God, but the Lord beheld
+    him.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The return is theological and eschatological; it is not a journey narrative
+    in the passage.
+- id: motif:5
+  label: reward for belief and good works
+  taxonomy_refs:
+  - divine_judgment
+  basis: Those who believe and do good works are excepted from punishment and receive
+    a never-failing reward.
+  evidence_refs:
+  - ev:11
+  confidence: high
+  cautions: This is a concise doctrinal statement rather than an extended mythic episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 38132-38188; Chapter LXXXIV opening
+  quote_or_summary: Heaven shall be rent in sunder and shall obey its Lord.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 38132-38188; Chapter LXXXIV opening
+  quote_or_summary: Earth shall be stretched out, cast forth what is within it, remain
+    empty, and obey its Lord; Sale notes mountains and hills are levelled and hidden
+    treasures and dead bodies are cast out.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 38132-38188; Chapter LXXXIV
+  quote_or_summary: "“O man, verily laboring thou laborest to meet thy LORD, and thou
+    shalt meet him.”"
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; short quotation.
+- id: ev:4
+  type: summary
+  locator: lines 38132-38188; Chapter LXXXIV
+  quote_or_summary: The one whose book is given into his right hand receives an easy
+    account and turns to his family with joy.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 38132-38188; Chapter LXXXIV
+  quote_or_summary: The one whose book is given behind his back invokes destruction
+    and is sent into hell to be burned; Sale notes this means into the left hand,
+    with the hand bound behind the back.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 38132-38188; Chapter LXXXIV
+  quote_or_summary: The condemned one rejoiced insolently among his earthly family,
+    thought he would never return to God, and yet his Lord beheld him.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 38132-38188; Chapter LXXXIV
+  quote_or_summary: The speaker swears by the redness of the sky after sunset, the
+    night and what it drives together, and the full moon.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 38132-38188; Chapter LXXXIV and note u
+  quote_or_summary: The hearers will be transferred successively from state to state;
+    Sale glosses this as from living to dead, and from dead to new life in another
+    world.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 38132-38188; Chapter LXXXIV
+  quote_or_summary: The passage asks why they do not believe the resurrection and
+    do not worship or humble themselves when the Koran is read.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+- id: ev:10
+  type: summary
+  locator: lines 38132-38188; Chapter LXXXIV
+  quote_or_summary: Unbelievers accuse the Koran of imposture, but God knows what
+    they hide in their breasts.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+- id: ev:11
+  type: summary
+  locator: lines 38132-38188; Chapter LXXXIV ending
+  quote_or_summary: A grievous punishment is announced, except for those who believe
+    and do good works, for whom a never-failing reward is prepared.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based directly on the supplied passage and notes. Motif assignments
+    use only the supplied taxonomy refs and remain broad. No comparison claims are
+    made because the passage itself does not establish cross-textual comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  The user-supplied passage locator label appears to include wording from an adjacent chapter, while the passage text itself is Chapter LXXXIV, The Rending in Sunder; this discrepancy should be checked against the canonical markdown line range.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l38132-l38188
+  passage_sha256=2b55d0cbae7a86154ac0c57900ddaea34d7f375268477578e40bf6d11dbd91dc

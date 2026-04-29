@@ -1,0 +1,401 @@
+---
+record_id: batch.motif.islamic-koran-rodwell-gutenberg-l467-l517
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+passage_locator:
+  label: PUBLIC SERVICES, / AND EMINENT LITERARY ATTAINMENTS, / THE TRANSLATOR. /
+    PREFACE; lines 467-517
+  start: '467'
+  end: '517'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The translator explains the chronological and thematic arrangement of the
+    Suras, contrasting early poetic Suras with later didactic and Medinan Suras. The
+    passage describes early material as self-communion, truth-seeking, mental struggle,
+    natural imagery, and pictures of Heaven, Hell, judgment, woe, and punishment.
+    It characterizes Muhammad's changing role from admonisher and public warner to
+    missionary, apostle, legislator, and warrior, and notes later engagement with
+    Jewish and Christian histories.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The translator states that the arrangement of Suras is based on Muslim traditions,
+    chronological lists, subject matter, and probable connections with events in Muhammad's
+    life.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says earlier fragmentary Suras are ordered more by subject matter
+    than by historical allusion.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The early Suras are described as using language of self-communion, aspiration
+    after truth, mental struggle, pictures of Heaven and Hell, descriptions of natural
+    objects, and references to opposition from Muhammad's Meccan townsmen.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage contrasts earlier, middle, and later Suras, describing the earlier
+    ones as predominantly poetic and containing natural beauty, brief utterances,
+    and denunciations of woe and punishment.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage says Muhammad openly assumes the office of public warner, after
+    which the Suras become more prosaic and didactic while retaining rhyme.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage states that descriptions of natural objects, judgment, Heaven,
+    and Hell give way to increasing historical statements from Jewish and then Christian
+    histories.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The Medina Suras are described as presenting Muhammad as disputant with enemies
+    of his faith and as Apostle pleading for what he believes to be the Truth of God.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The passage contrasts Muhammad at Mecca as admonisher and persuader with Muhammad
+    at Medina as legislator and warrior.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The passage says obedience, gifts, and pleasure of God and the Apostle are
+    spoken of together, and that attributes elsewhere applied to Allah are applied
+    to Muhammad in the cited Sura.
+  category: relationship
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Translator-narrator
+  description: The first-person arranger of the Suras in this translation, explaining
+    criteria for ordering them.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Muhammad
+  description: The passage discusses events in his life and describes him as public
+    warner, missionary, Apostle, admonisher, persuader, legislator, warrior, Poet,
+    and Scribe.
+  role_refs:
+  - role:2
+  - role:3
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+  - ev:7
+- id: fig:3
+  name_or_label: Allah / God
+  description: The passage refers to the Truth of God and to obedience, gifts, and
+    pleasure associated with God.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: fig:4
+  name_or_label: Townsmen of Mecca
+  description: The passage says Muhammad met opposition from his townsmen of Mecca
+    at the outset of his public career.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Enemies of Muhammad's faith
+  description: The passage describes the Medina Suras as involving disputation with
+    enemies of Muhammad's faith.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: Arranger and commentator
+  assigned_to:
+  - fig:1
+  basis: The first-person voice explains the principles used to arrange the Suras
+    in the translation.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: Public warner
+  assigned_to:
+  - fig:2
+  basis: The passage states that Muhammad openly assumes the office of public warner.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: Admonisher and persuader
+  assigned_to:
+  - fig:2
+  basis: The passage characterizes Muhammad at Mecca as the admonisher and persuader.
+  evidence_refs:
+  - ev:6
+- id: role:4
+  label: Apostle and pleader for the Truth of God
+  assigned_to:
+  - fig:2
+  basis: The passage describes the Apostle pleading for what he believes to be the
+    Truth of God.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: Legislator and warrior
+  assigned_to:
+  - fig:2
+  basis: The passage characterizes Muhammad at Medina as legislator and warrior.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: Divine authority
+  assigned_to:
+  - fig:3
+  basis: The passage refers to the Truth of God and to obedience, gifts, and pleasure
+    associated with God.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:7
+  label: Opponents
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: The passage refers to Meccan opposition and enemies of Muhammad's faith.
+  evidence_refs:
+  - ev:2
+  - ev:6
+symbols:
+- id: sym:1
+  label: Heaven and Hell
+  literal_form: Vivid pictures of Heaven and Hell and later descriptions of Heaven
+    and Hell.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:2
+  label: Judgment, woe, and punishment
+  literal_form: Descriptions of judgment and denunciations of woe and punishment.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:3
+  label: Natural objects
+  literal_form: Descriptions and appreciation of the beauty of natural objects.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: Pen of the Poet and the Scribe
+  literal_form: The pen named as an instrument associated with the Poet and Scribe,
+    contrasted with other weapons.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Translator explains Sura arrangement
+  summary: The translator describes arranging the Suras by Muslim traditions, chronological
+    scholarship, subject matter, and relation to Muhammad's life.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Early Sura qualities
+  summary: The early Suras are characterized as poetic, fragmentary, inward, truth-seeking,
+    and filled with natural imagery, Heaven and Hell, and judgment-related language.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: scene:3
+  label: Muhammad assumes public warning role
+  summary: With Muhammad's changed position as public warner, the Suras are said to
+    become more prosaic, didactic, missionary, and dogmatic.
+  figure_refs:
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Medina role as apostle, legislator, and warrior
+  summary: The Medina Suras are described as presenting Muhammad disputing with enemies
+    of his faith, pleading for the Truth of God, and acting as legislator and warrior
+    rather than chiefly as poet or scribe.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Divine judgment and afterlife recompense imagery
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage explicitly mentions Heaven, Hell, judgment, woe, and punishment
+    as prominent subject matter in the Suras under discussion.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: This is extracted from a translator's literary preface summarizing Sura
+    contents, not from a direct Qur'anic narrative passage.
+- id: motif:2
+  label: Prophet as public warner and admonisher
+  taxonomy_refs: []
+  basis: The passage describes Muhammad assuming the office of public warner and characterizes
+    him at Mecca as an admonisher and persuader.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  confidence: medium
+  cautions: No supplied taxonomy family directly matches this role pattern; the passage
+    is analytical rather than narrative.
+- id: motif:3
+  label: Shift from poetic revelation to legal and martial authority
+  taxonomy_refs: []
+  basis: The passage contrasts early poetic and inward Suras with later Medinan material
+    where Muhammad is described as legislator and warrior using other weapons than
+    the pen.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  confidence: medium
+  cautions: This is a literary-historical pattern asserted by the translator, not
+    an event narrated within the scripture itself.
+comparison_claims:
+- id: claim:1
+  claim: The passage states that later Sura material increasingly includes historical
+    statements first from Jewish and then from Christian histories.
+  claim_level: historical_contact
+  target: Jewish and Christian historical traditions
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim reflects the translator's preface and does not provide specific
+    examples in this line range; it should be reviewed against the Qur'anic passages
+    themselves.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 467-474
+  quote_or_summary: The arrangement is said to depend partly on Muslim traditions,
+    chronological lists, subject matter, and probable connection with events in Muhammad's
+    life.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source text.
+- id: ev:2
+  type: summary
+  locator: lines 483-491
+  quote_or_summary: The translator places earlier fragmentary Suras by subject matter;
+    they are described as self-communion, aspiration after truth, mental struggle,
+    pictures of Heaven and Hell, natural-object descriptions, and references to Meccan
+    opposition.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source text.
+- id: ev:3
+  type: summary
+  locator: lines 493-500
+  quote_or_summary: The earlier Suras are described as poetical, appreciative of natural
+    beauty, brief and impassioned, and containing denunciations of woe and punishment.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source text.
+- id: ev:4
+  type: quote
+  locator: lines 500-503
+  quote_or_summary: Muhammad "openly assumes the office of 'public warner,'" after
+    which the Suras take a more prosaic and didactic tone while preserving rhyme.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source text; short quotation used for evidence.
+- id: ev:5
+  type: summary
+  locator: lines 505-508
+  quote_or_summary: Descriptions of natural objects, judgment, Heaven, and Hell are
+    said to give way to historical statements, first from Jewish and then from Christian
+    histories.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source text.
+- id: ev:6
+  type: summary
+  locator: lines 508-514
+  quote_or_summary: In the Medina Suras, Muhammad is described as disputant with enemies
+    of his faith, Apostle pleading for the Truth of God, Meccan admonisher and persuader,
+    and Medinan legislator and warrior using other weapons than the pen.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source text.
+- id: ev:7
+  type: summary
+  locator: lines 514-517
+  quote_or_summary: The passage says obedience, gifts, and pleasure of God and the
+    Apostle are spoken of together, and that attributes elsewhere applied to Allah
+    are applied to Muhammad in Sura ix.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source text.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is a translator's preface and literary-historical analysis, not
+    a direct mythic or narrative episode. Motif candidates are therefore based on
+    the passage's descriptions of Qur'anic contents and roles rather than on narrated
+    events.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No external sources or unsupplied taxonomy identifiers were used.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-rodwell-gutenberg__l467-l517
+  passage_sha256=427cc48341934df6b0da3319284f8debd582d1983814875ed761bcb356666bc9

@@ -1,0 +1,402 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l37999-l38042
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: IN THE NAME OF THE MOST MERCIFUL GOD. / CHAPTER LXXXII. / ENTITLED, THE CLEAVING
+    IN SUNDER; REVEALED AT MECCA. / IN THE NAME OF THE MOST MERCIFUL GOD.; lines 37999-38042
+  start: '37999'
+  end: '38042'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Chapter LXXXII describes cosmic disruption, the overturning of graves,
+    human accountability before God, guardian angels who record actions, the divergent
+    fates of the just and wicked, and the day of judgment when no soul can aid another
+    and command belongs to God.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage says heaven will be cloven in sunder, stars scattered, seas allowed
+    to join their waters, and graves turned upside down.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Every soul will know what it has committed and what it has omitted.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Human beings are addressed as created, put together, rightly disposed, and
+    fashioned by the Lord in whatever form he pleased.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage states that the addressees deny the last judgment as falsehood.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Guardian angels are appointed over people, are honourable in God's sight,
+    write down actions, and know what people do.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The just are said to be in a place of delight.
+  category: setting
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The wicked are said to be in hell, cast therein on the day of judgment, and
+    not absent from it forever.
+  category: setting
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: On the day of judgment, one soul cannot obtain anything on behalf of another
+    soul, and the command belongs to God.
+  category: relationship
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: God / gracious Lord
+  description: The divine figure addressed as the gracious Lord who creates and fashions
+    humans, and whose command belongs to the day of judgment.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:8
+- id: fig:2
+  name_or_label: Every soul
+  description: Souls that will know what they have committed and omitted and cannot
+    obtain anything on behalf of another soul on the day of judgment.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:8
+- id: fig:3
+  name_or_label: Guardian angels
+  description: Appointed beings over people, honourable in God's sight, who write
+    down actions and know what people do.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: The just
+  description: Those who shall be in a place of delight.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: The wicked
+  description: Those who shall be in hell and cast therein on the day of judgment.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+- id: fig:6
+  name_or_label: Man / human addressee
+  description: The human addressee questioned about being seduced against the gracious
+    Lord who created and fashioned him.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: creator and fashioner
+  assigned_to:
+  - fig:1
+  basis: The Lord is described as creating, putting together, rightly disposing, and
+    fashioning the human being.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: ultimate commander on judgment day
+  assigned_to:
+  - fig:1
+  basis: The passage says the command on that day shall be God's.
+  evidence_refs:
+  - ev:8
+- id: role:3
+  label: accountable soul or human
+  assigned_to:
+  - fig:2
+  - fig:6
+  basis: Souls know their deeds and humans are addressed concerning denial of judgment
+    and relation to the Lord.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:8
+- id: role:4
+  label: recording guardian
+  assigned_to:
+  - fig:3
+  basis: The guardian angels are appointed over people and write down actions.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: righteous recipient of delight
+  assigned_to:
+  - fig:4
+  basis: The just are said to be in a place of delight.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: wicked recipient of hell-punishment
+  assigned_to:
+  - fig:5
+  basis: The wicked are said to be in hell and cast therein on the day of judgment.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: cleft heaven
+  literal_form: heaven cloven in sunder
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: scattered stars
+  literal_form: stars scattered
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: joining seas
+  literal_form: seas suffered to join their waters
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: overturned graves
+  literal_form: graves turned upside down
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:5
+  label: record of actions
+  literal_form: guardian angels writing down actions
+  associated_figures:
+  - fig:3
+  - fig:2
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: place of delight
+  literal_form: a place of delight for the just
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: hell
+  literal_form: hell where the wicked are cast on the day of judgment
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Cosmic signs and opened graves
+  summary: The passage begins with heaven split, stars scattered, seas joining, and
+    graves overturned.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Human accountability before the Creator
+  summary: Every soul knows its deeds and omissions, while the human addressee is
+    questioned about being seduced against the Lord who created and fashioned him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Guardian angels record deeds
+  summary: Honourable guardian angels appointed over people write down actions and
+    know what people do.
+  figure_refs:
+  - fig:3
+  - fig:2
+  - fig:6
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Judgment and final recompense
+  summary: The just are in delight, the wicked are in hell on the day of judgment,
+    no soul can aid another, and command belongs to God.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Divine judgment of souls
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage explicitly names the last judgment and day of judgment, describes
+    moral accountability, separates the just and wicked, and assigns ultimate command
+    to God.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The extraction is limited to this chapter passage and Sale's English translation.
+- id: motif:2
+  label: Resurrection or grave-opening before judgment
+  taxonomy_refs:
+  - resurrection
+  basis: The passage lists graves being turned upside down among eschatological events
+    before every soul knows its deeds.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage mentions graves being overturned but does not narrate individual
+    bodies rising in detail.
+- id: motif:3
+  label: Cosmic disorder at the end time
+  taxonomy_refs:
+  - chaos
+  basis: The heaven is split, stars are scattered, and seas join their waters as signs
+    preceding judgment.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The available taxonomy includes 'chaos'; the passage presents ordered
+    eschatological signs rather than an extended myth of primordial chaos.
+- id: motif:4
+  label: Supernatural recorders of deeds
+  taxonomy_refs:
+  - divine_judgment
+  basis: Guardian angels are appointed over people and write down their actions, supporting
+    the judgment framework.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: No separate taxonomy reference for recording angels is provided; it is
+    grouped under divine judgment.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 37999-38042; opening signs
+  quote_or_summary: Heaven is cloven in sunder, stars are scattered, seas join their
+    waters, and graves are turned upside down.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 37999-38042; after cosmic signs
+  quote_or_summary: '"every soul shall know what it hath committed, and what it hath
+    omitted."'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; short quotation.
+- id: ev:3
+  type: summary
+  locator: lines 37999-38042; address to man
+  quote_or_summary: The human addressee is asked what seduced him against the gracious
+    Lord, who created, assembled, rightly disposed, and fashioned him.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 37999-38042; denial of judgment
+  quote_or_summary: '"But ye deny the last judgment as a falsehood."'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; short quotation.
+- id: ev:5
+  type: summary
+  locator: lines 37999-38042; guardian angels
+  quote_or_summary: Guardian angels are appointed over people, are honourable before
+    God, write down actions, and know what people do.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+- id: ev:6
+  type: quote
+  locator: lines 37999-38042; fate of the just
+  quote_or_summary: '"The just shall surely be in a place of delight"'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; short quotation.
+- id: ev:7
+  type: summary
+  locator: lines 37999-38042; fate of the wicked
+  quote_or_summary: The wicked shall be in hell, cast there on the day of judgment,
+    and not absent from it forever.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 37999-38042; final statement on judgment day
+  quote_or_summary: On the day of judgment, one soul cannot obtain anything on behalf
+    of another, and the command belongs to God.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is short and explicit about judgment imagery. Motif mapping is
+    constrained to the provided taxonomy; comparison claims are omitted because the
+    passage itself does not make a comparative claim.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Footnotes from the supplied excerpt include cross-references and comments; only the passage content directly relevant to Chapter LXXXII was used for motif extraction.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l37999-l38042
+  passage_sha256=6de080897b1f17743728338ef4f3b45db068abd89ac6cbcdec962fe6dc0ac354

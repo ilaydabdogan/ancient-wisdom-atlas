@@ -1,0 +1,373 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l38668-l38701
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: IN THE NAME OF THE MOST MERCIFUL GOD. / CHAPTER XCIII. / ENTITLED, THE BRIGHTNESS;
+    REVEALED AT MECCA. / IN THE NAME OF THE MOST MERCIFUL GOD.; lines 38668-38701
+  start: '38668'
+  end: '38701'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The chapter invokes the brightness of morning and the darkening night,
+    reassures the addressed recipient that the Lord has not forsaken or hated him,
+    promises a better life to come and a satisfying reward, recalls divine care, guidance,
+    and enrichment, and commands him not to oppress the orphan or repulse the beggar
+    but to declare the Lord's goodness.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage opens with an oath or invocation by the brightness of morning
+    and by the night when it grows dark.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A note explains the term for brightness as the bright part of the day several
+    hours after sunrise.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The addressed recipient is told that his Lord has not forsaken him and does
+    not hate him.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The life to come is said to be better for the addressed recipient than the
+    present life.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The Lord is said to give the addressed recipient a reward that will please
+    him.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The Lord is described as having found the addressed recipient an orphan and
+    taken care of him.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The Lord is described as having found the addressed recipient wandering in
+    error and guided him into truth.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The Lord is described as having found the addressed recipient needy and enriched
+    him.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: The addressed recipient is commanded not to oppress the orphan, not to repulse
+    the beggar, and to declare the Lord's goodness.
+  category: speech
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: the Lord
+  description: The divine figure who is said not to have forsaken the addressed recipient
+    and who cares, guides, enriches, and gives reward.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: addressed recipient
+  description: The second-person figure addressed as having been an orphan, wandering
+    in error, and needy, and as receiving care, guidance, enrichment, and promised
+    reward from the Lord.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:3
+  name_or_label: orphan
+  description: A vulnerable person whom the addressed recipient is commanded not to
+    oppress; the addressed recipient is also described as formerly an orphan.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+  - ev:8
+- id: fig:4
+  name_or_label: beggar
+  description: A vulnerable person whom the addressed recipient is commanded not to
+    repulse.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: divine benefactor and guide
+  assigned_to:
+  - fig:1
+  basis: The Lord is said to care for the orphaned recipient, guide him into truth,
+    enrich him, and give him a pleasing reward.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:2
+  label: recipient of divine reassurance
+  assigned_to:
+  - fig:2
+  basis: The addressed recipient is reassured that the Lord has not forsaken or hated
+    him.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: beneficiary of past divine aid
+  assigned_to:
+  - fig:2
+  basis: The addressed recipient is described as formerly orphaned, wandering, and
+    needy, and as having been cared for, guided, and enriched.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:4
+  label: vulnerable person protected by command
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The passage commands that the orphan not be oppressed and the beggar not
+    be repulsed.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: brightness of morning
+  literal_form: the brightness of the morning
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: darkening night
+  literal_form: the night, when it groweth dark
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: life to come
+  literal_form: the life to come contrasted with this present life
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Morning and night invocation
+  summary: The passage invokes the brightness of morning and the darkening night before
+    the address to the recipient.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Divine reassurance and promised reward
+  summary: The addressed recipient is told that the Lord has not forsaken or hated
+    him, that the life to come will be better than the present life, and that the
+    Lord will give him a pleasing reward.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Recollection of divine care
+  summary: The passage recalls that the Lord found the addressed recipient orphaned,
+    wandering in error, and needy, then cared for him, guided him, and enriched him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: scene:4
+  label: Commands concerning the vulnerable and divine goodness
+  summary: The addressed recipient is commanded not to oppress the orphan, not to
+    repulse the beggar, and to declare the goodness of the Lord.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: contrast of bright morning and dark night
+  taxonomy_refs:
+  - duality
+  basis: The passage juxtaposes the brightness of morning with the night growing dark.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage presents a contrastive pair of times of day, but does not
+    explicitly explain a symbolic opposition beyond the juxtaposition.
+- id: motif:2
+  label: divine reassurance after apparent abandonment
+  taxonomy_refs: []
+  basis: The addressed recipient is directly reassured that the Lord has not forsaken
+    him and does not hate him.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage denies abandonment but does not narrate the circumstances
+    that prompted the reassurance.
+- id: motif:3
+  label: future reward surpassing present life
+  taxonomy_refs: []
+  basis: The passage says the life to come will be better than the present life and
+    that the Lord will give a pleasing reward.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage does not elaborate the nature of the future life or reward.
+- id: motif:4
+  label: reversal through divine care, guidance, and enrichment
+  taxonomy_refs: []
+  basis: The recipient is described as orphaned, wandering in error, and needy, and
+    then as cared for, guided, and enriched by the Lord.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The sequence is retrospective and compressed rather than a detailed narrative
+    episode.
+- id: motif:5
+  label: ethical protection of orphan and beggar
+  taxonomy_refs: []
+  basis: The passage commands the recipient not to oppress the orphan and not to repulse
+    the beggar.
+  evidence_refs:
+  - ev:8
+  confidence: high
+  cautions: This is an ethical injunction rather than a narrative motif.
+comparison_claims:
+- id: claim:1
+  claim: The paired invocation of morning brightness and darkening night can be cautiously
+    compared to a broad duality pattern because it places contrasting times and light
+    conditions side by side.
+  claim_level: same_motif
+  target: duality motif family
+  evidence_refs:
+  - ev:1
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage does not state an explicit conflict, cosmology, or moral
+    polarity between the two images; the comparison is limited to formal contrast.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 38668-38701
+  quote_or_summary: '"BY the brightness of the morning; ... and by the night, when
+    it groweth dark"'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text supplied in request.
+- id: ev:2
+  type: note
+  locator: 38668-38701, note b
+  quote_or_summary: The note says the original word means the bright part of the day
+    when the sun shines fully, three or four hours after sunrise.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text supplied in request.
+- id: ev:3
+  type: quote
+  locator: 38668-38701
+  quote_or_summary: '"thy LORD hath not forsaken thee, neither doth he hate thee"'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text supplied in request.
+- id: ev:4
+  type: summary
+  locator: 38668-38701
+  quote_or_summary: The passage says the life to come will be better for the addressed
+    recipient than the present life, and that the Lord will give a reward with which
+    he will be pleased.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text supplied in request.
+- id: ev:5
+  type: summary
+  locator: 38668-38701
+  quote_or_summary: The passage asks whether the Lord found the addressed recipient
+    an orphan and took care of him.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text supplied in request.
+- id: ev:6
+  type: summary
+  locator: 38668-38701
+  quote_or_summary: The passage asks whether the Lord found the addressed recipient
+    wandering in error and guided him into truth.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text supplied in request.
+- id: ev:7
+  type: summary
+  locator: 38668-38701
+  quote_or_summary: The passage asks whether the Lord found the addressed recipient
+    needy and enriched him.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text supplied in request.
+- id: ev:8
+  type: quote
+  locator: 38668-38701
+  quote_or_summary: '"Wherefore oppress not the orphan: neither repulse the beggar:
+    but declare the goodness of thy LORD."'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text supplied in request.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Extraction is based directly on the supplied English passage. Motif labels
+    are descriptive; taxonomy alignment is limited to the broad morning/night duality.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Extraneous apparatus notes in the supplied line range were not used except for note b, which directly explains the brightness term.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l38668-l38701
+  passage_sha256=3f3dfe93f4aa994551cbe45833ac27db98b5a4d00a60b144409842349c4a6aa7

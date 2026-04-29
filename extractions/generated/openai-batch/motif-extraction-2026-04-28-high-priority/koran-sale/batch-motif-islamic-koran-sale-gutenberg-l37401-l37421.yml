@@ -1,0 +1,401 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l37401-l37421
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: IN THE NAME OF THE MOST MERCIFUL GOD. / CHAPTER LXXIV / ENTITLED, THE COVERED;
+    REVEALED AT MECCA. / IN THE NAME OF THE MOST MERCIFUL GOD.; lines 37401-37421
+  start: '37401'
+  end: '37421'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Translator’s notes explain details connected with hell, its guards, the
+    tormented, a trial involving accusations of borrowing from Jewish tradition, the
+    blessed who redeem themselves by good works, and a demand by infidels that each
+    receive a heavenly writing commanding them to follow Mohammed.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The notes give explanations for why the guards of hell are of a different
+    nature and species from those tormented, including lack of fellow-feeling or their
+    strength and severity.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The notes describe a trial in which critics might claim that a particular
+    detail was borrowed by Mohammed from the Jews.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The notes state that a detail is conformable to what is contained in the books
+    of the Jews.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The notes gloss a phrase as referring either to all creatures or specifically
+    to the number and strength of the guards of hell.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The notes identify an antecedent as seeming to be hell.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The notes identify the blessed as those who redeem themselves by their good
+    works, with alternate explanations naming angels or those who die as infants.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The notes report that infidels demanded that Mohammed bring each man a writing
+    from heaven saying, from God to that person, to follow Mohammed.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: guards of hell
+  description: Beings connected with hell, described in the notes as different in
+    nature and species from those tormented and as having great strength and severity
+    of temper.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: those who are to be tormented
+  description: Persons described as undergoing torments, distinct in nature and species
+    from the guards of hell.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Mohammed
+  description: Named as the prophet whom infidels refused to obey unless he brought
+    writings from heaven.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: fig:4
+  name_or_label: the Jews
+  description: Named as the group from whom critics might say a detail was borrowed,
+    and whose books are said to contain a conformable detail.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:5
+  name_or_label: the blessed
+  description: Identified in the notes as those who redeem themselves by their good
+    works.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: angels
+  description: Named as one possible identification of the blessed.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:7
+  name_or_label: those who die infants
+  description: Named as another possible identification of the blessed.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:8
+  name_or_label: infidels
+  description: Persons said to have told Mohammed they would not obey him as a prophet
+    unless he brought each man a writing from heaven.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+- id: fig:9
+  name_or_label: God
+  description: 'Named in the formula requested for the heavenly writing: from God
+    to a particular person, commanding that person to follow Mohammed.'
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: guards of hell
+  assigned_to:
+  - fig:1
+  basis: The notes explicitly refer to the number and strength of the guards of hell
+    and explain their nature and severity.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: tormented sufferers
+  assigned_to:
+  - fig:2
+  basis: The notes refer to those who are to be tormented and their sufferings.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: prophet challenged by demand for heavenly writings
+  assigned_to:
+  - fig:3
+  basis: The notes say infidels would not obey Mohammed as a prophet unless he brought
+    each man a writing from heaven.
+  evidence_refs:
+  - ev:7
+- id: role:4
+  label: scriptural comparison group
+  assigned_to:
+  - fig:4
+  basis: The notes mention the Jews as a group from whom a detail might be alleged
+    to be borrowed and whose books contain a conformable detail.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: blessed or possible blessed beings
+  assigned_to:
+  - fig:5
+  - fig:6
+  - fig:7
+  basis: The notes identify the blessed as those redeeming themselves by good works,
+    with alternate identifications as angels or infants who die.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: objectors demanding written proof
+  assigned_to:
+  - fig:8
+  basis: The notes report that infidels demanded individual writings from heaven before
+    obeying Mohammed.
+  evidence_refs:
+  - ev:7
+- id: role:7
+  label: divine sender named in demanded writing
+  assigned_to:
+  - fig:9
+  basis: The demanded message is formulated as coming from God to an individual person.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: hell
+  literal_form: hell as the place associated with guards and torment
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: guards of hell
+  literal_form: guards whose number, strength, nature, and severity are noted
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:3
+  label: writing from heaven
+  literal_form: an individual heavenly writing saying from God to a named person to
+    follow Mohammed
+  associated_figures:
+  - fig:3
+  - fig:8
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:4
+  label: good works
+  literal_form: good works by which the blessed redeem themselves
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Explanation of hell’s guards and the tormented
+  summary: The notes explain why the guards of hell may differ in nature from those
+    tormented, either to prevent compassion or because of their strength and severity.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Accusation of borrowing and Jewish textual conformity
+  summary: The notes describe a trial in which critics might say Mohammed borrowed
+    a detail from the Jews, and add that the detail conforms to what is in their books.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Identification of the blessed
+  summary: The notes identify the blessed as those redeeming themselves by good works,
+    while also reporting alternate identifications as angels or those who die as infants.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:6
+- id: scene:4
+  label: Demand for individual writings from heaven
+  summary: The notes report that infidels would not obey Mohammed as a prophet unless
+    he brought each person a heavenly writing from God commanding that person to follow
+    Mohammed.
+  figure_refs:
+  - fig:3
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: hell guarded by severe beings
+  taxonomy_refs:
+  - divine_judgment
+  basis: The notes discuss hell, those tormented, and guards of hell characterized
+    by strength and severity.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage is explanatory annotation rather than a full narrative scene.
+- id: motif:2
+  label: redemption by good works among the blessed
+  taxonomy_refs:
+  - divine_judgment
+  basis: The notes identify the blessed as those who redeem themselves by their good
+    works.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The note reports multiple interpretations of who the blessed are.
+- id: motif:3
+  label: demand for written heavenly authorization
+  taxonomy_refs:
+  - wisdom
+  basis: The notes report a demand that Mohammed provide individual writings from
+    heaven, from God, commanding obedience to him.
+  evidence_refs:
+  - ev:7
+  confidence: low
+  cautions: No direct taxonomy reference for heavenly writings is available; the wisdom
+    classification is broad and should be reviewed.
+comparison_claims:
+- id: claim:1
+  claim: The notes explicitly compare a detail in the passage with material said to
+    be contained in Jewish books, while also noting that critics might claim Mohammed
+    borrowed the detail from the Jews.
+  claim_level: linguistic_similarity
+  target: Jewish books or Jewish tradition as referenced by the notes
+  evidence_refs:
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage does not identify the specific Jewish books or give the
+    comparable wording; it only reports conformity and a possible accusation of borrowing.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 37401-37404
+  quote_or_summary: The notes explain that the guards differ from the tormented so
+    they will not feel compassion, or because of their strength and severity.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 37405-37406
+  quote_or_summary: The notes say the matter may be a trial because people might claim
+    it was borrowed by Mohammed from the Jews.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 37407-37408
+  quote_or_summary: The notes state that the detail is especially relevant to the
+    Jews because it conforms to what is contained in their books.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 37409-37410
+  quote_or_summary: A note glosses the reference as all creatures, or specifically
+    the number and strength of the guards of hell.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: line 37411
+  quote_or_summary: A note says the antecedent appears to be hell.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 37413-37415
+  quote_or_summary: A note identifies the blessed as those who redeem themselves by
+    good works, with alternate views naming angels or those who die as infants.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 37417-37420
+  quote_or_summary: A note reports that infidels told Mohammed they would not obey
+    him as prophet until he brought each man a writing from heaven, from God to that
+    person, saying to follow Mohammed.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: low
+  notes: The supplied passage consists of translator’s explanatory notes rather than
+    the main Qur'anic verses, so motif extraction is necessarily cautious.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage text and metadata. No external Qur'anic context was added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l37401-l37421
+  passage_sha256=b638e7713ea200ca9da5998c2adca26ed39872f73c9f91e112084d91112d7651

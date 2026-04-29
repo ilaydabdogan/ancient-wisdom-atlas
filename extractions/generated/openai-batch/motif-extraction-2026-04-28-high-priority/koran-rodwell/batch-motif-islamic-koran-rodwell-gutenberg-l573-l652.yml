@@ -1,0 +1,378 @@
+---
+record_id: batch.motif.islamic-koran-rodwell-gutenberg-l573-l652
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+passage_locator:
+  label: PUBLIC SERVICES, / AND EMINENT LITERARY ATTAINMENTS, / THE TRANSLATOR. /
+    PREFACE; lines 573-652
+  start: '573'
+  end: '652'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: '"the last hour and awful judgment as imminent"'
+  summary: The translator discusses difficulties in assigning individual Qur'anic
+    verses to precise events, suggests that later and earlier revelations may have
+    been arranged together, comments on eschatological expectation in early Islam,
+    describes the Qur'an's limited explicit historical detail about Muhammad, criticizes
+    later traditions as memory-based and often mythic or fabricated, and lists early
+    biographical sources for Muhammad's life.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage says that connecting whole Suras with major features of Muhammad's
+    life is easier than identifying the exact events behind individual verses.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage suggests that Muhammad may have mixed later and earlier revelations
+    in the same Suras to soften earlier statements about an imminent last hour and
+    judgment.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage states that belief in the nearness of the end of all things may
+    have helped early Islamic successes at Mecca.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage explicitly compares this eschatological motivation with the Apostles'
+    appeal to flee from coming wrath.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage says the Qur'an contains few allusions to contemporary minor events
+    and few details about Muhammad's daily life.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage says Muhammad is addressed throughout by the Angel Gabriel as
+    recipient of divine revelations with the command word 'SAY.'
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The passage says traditions about Muhammad were not customarily written down
+    for at least most of a century and depended on memory.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The passage states that myths, fabrication, invented miracles, and invented
+    historical events appear in later traditions and commentaries, especially in attempts
+    to explain difficult Qur'anic texts.
+  category: attribute
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:9
+  text: The passage lists early or later sources and biographers connected with information
+    about Muhammad, including Zohri, Orwa, Ibn Ishaq, Ibn Hisham, Waquidi, and Tabari.
+  category: relationship
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Muhammad
+  description: Presented as the subject of Qur'anic chronology, the recipient of divine
+    revelations, and the central figure whose biography later traditions attempt to
+    preserve.
+  role_refs:
+  - role:1
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: Angel Gabriel
+  description: Named as addressing Muhammad throughout with the word 'SAY' as recipient
+    of divine revelations.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Muhammad's followers
+  description: Described as being led to remain in an attitude of expectation and
+    as part of early Islam's successes at Mecca.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: The Apostles
+  description: Mentioned as a comparative example for the motivating force of an appeal
+    to flee from coming wrath.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Muslim traditions and commentators
+  description: Described as transmitting and interpreting traditions, with some miracles
+    and historical events said to have been invented to explain difficult texts.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:6
+  name_or_label: Early biographical authorities
+  description: Includes Zohri, Orwa, Ibn Ishaq, Ibn Hisham, Waquidi, and Tabari as
+    named authorities or compilers connected with information about Muhammad's life.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+roles:
+- id: role:1
+  label: recipient and mediator of divine revelation
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Muhammad is described as recipient of divine revelations, and Gabriel is
+    described as addressing him with the command 'SAY.'
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: subject and shapers of later tradition
+  assigned_to:
+  - fig:1
+  - fig:5
+  basis: The passage discusses traditions about Muhammad and later interpretation,
+    including mythic and fabricated elements in transmission and commentary.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:3
+  label: expectant religious community
+  assigned_to:
+  - fig:3
+  basis: The passage says Muhammad's followers were led to continue in an attitude
+    of expectation and that belief in the end may have promoted early successes.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: biographical transmitters
+  assigned_to:
+  - fig:6
+  basis: The passage names early and later writers whose works or reports are linked
+    to information about Muhammad's life.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: role:5
+  label: comparative apostolic precedent
+  assigned_to:
+  - fig:4
+  basis: The Apostles are cited as a comparison for the motivating argument of fleeing
+    from coming wrath.
+  evidence_refs:
+  - ev:2
+symbols: []
+scenes:
+- id: scene:1
+  label: Arrangement of revelations and eschatological expectation
+  summary: The passage discusses the difficulty of dating individual verses and suggests
+    that later and earlier revelations may have been mixed in relation to statements
+    about the imminent last hour and judgment.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: End-time expectation as religious motivation
+  summary: The passage says belief that the end of all things was near may have supported
+    early Islam's successes at Mecca, and compares this function with the Apostles'
+    warning about coming wrath.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Revelation through Gabriel and limited historical detail
+  summary: The passage notes that the Qur'an includes few detailed allusions to Muhammad's
+    daily life while presenting him as addressed by Gabriel with the command 'SAY.'
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Transmission, myth formation, and interpretation
+  summary: The passage describes traditions about Muhammad as orally transmitted for
+    a long period and says myths, fabrications, miracles, and historical events entered
+    some later interpretive traditions.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:5
+  label: Named biographical sources
+  summary: The passage lists several authorities and compilers used for information
+    about Muhammad's life and early Islam.
+  figure_refs:
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: imminent final judgment
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage refers to earlier statements representing the last hour and awful
+    judgment as imminent and to belief that the end of all things was at hand.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage is a translator's historical-critical preface, not a direct
+    Qur'anic narrative passage.
+- id: motif:2
+  label: angel-mediated divine revelation
+  taxonomy_refs:
+  - wisdom
+  basis: The passage says Muhammad is addressed by the Angel Gabriel as recipient
+    of divine revelations with the command 'SAY,' and also mentions guidance and direction
+    as recurring terms.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The available taxonomy has no specific angelic-revelation motif; 'wisdom'
+    is used only broadly for revealed guidance.
+- id: motif:3
+  label: myth formation around a founding religious figure
+  taxonomy_refs: []
+  basis: The passage says later traditions about Muhammad were memory-based, colored
+    by convictions, and often tinged with myth, fabrication, invented miracles, and
+    invented events used for interpretation.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: This is a historiographical claim by the translator rather than a mythic
+    episode within the Qur'an itself.
+comparison_claims:
+- id: claim:1
+  claim: The passage compares the motivating function of early Islamic expectation
+    of the end with the Apostles' appeal to flee from coming wrath.
+  claim_level: same_function
+  target: Apostolic warning of 'the wrath to come'
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage gives only a brief analogy and does not provide detailed
+    apostolic texts or historical evidence within this excerpt.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 573-586
+  quote_or_summary: The passage says individual verses are hard to connect to precise
+    events and suggests Muhammad may have mixed later and earlier revelations to soften
+    statements about the imminent last hour and judgment.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source metadata; concise summary used.
+- id: ev:2
+  type: quote
+  locator: lines 587-592
+  quote_or_summary: Belief that 'the end of all things was at hand' may have promoted
+    early Islam at Mecca, as with the Apostles' argument to flee from 'the wrath to
+    come.'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source metadata; short excerpt used.
+- id: ev:3
+  type: summary
+  locator: lines 593-606
+  quote_or_summary: The passage says contemporary allusions and details of Muhammad's
+    daily life are few; Muhammad's name occurs five times, and he is addressed by
+    Angel Gabriel as recipient of revelations with the word 'SAY.'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source metadata; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 607-626
+  quote_or_summary: The passage says traditions concerning Muhammad were not customarily
+    written down for much of a century, rested on memory, and were affected by prejudice,
+    convictions, myth formation, fabrication, and factional purposes.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source metadata; concise summary used.
+- id: ev:5
+  type: summary
+  locator: lines 627-636
+  quote_or_summary: The passage says traditions are reliable only under strict conditions
+    and that readers find miracles and historical events invented to explain dark
+    and perplexing texts, with early traditions tinged by the mythical element.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source metadata; concise summary used.
+- id: ev:6
+  type: summary
+  locator: lines 637-641
+  quote_or_summary: Zohri is named as the first known biographer of Muhammad; much
+    of his information is said to derive from Orwa, a relative of Ayesha.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source metadata; concise summary used.
+- id: ev:7
+  type: summary
+  locator: lines 642-646
+  quote_or_summary: Ibn Ishaq is said to have composed a biography of Muhammad for
+    Caliph Al Mansur, and Ibn Hisham based his Life of Muhammad on this work.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source metadata; concise summary used.
+- id: ev:8
+  type: summary
+  locator: lines 647-652
+  quote_or_summary: Waquidi is described as composing a biographical work made of
+    traditions, and Tabari is described as composing annals of Muhammad's life and
+    Islam's progress.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source metadata; concise summary used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: 'The excerpt is a translator''s preface and historical-critical discussion
+    rather than a direct mythic narrative. Motif extraction is limited to explicit
+    themes in the passage: judgment expectation, revelation, and myth formation in
+    tradition.'
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No taxonomy symbol refs were assigned because the passage contains no supported literal forms from the available symbol list.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-rodwell-gutenberg__l573-l652
+  passage_sha256=d1dd91190aab53bf6326085a9bf3c4e4db8b523e65bd8c084dabaa1ca3ac0061

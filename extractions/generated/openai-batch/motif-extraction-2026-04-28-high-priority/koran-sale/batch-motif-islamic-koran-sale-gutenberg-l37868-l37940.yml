@@ -1,0 +1,490 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l37868-l37940
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: IN THE NAME OF THE MOST MERCIFUL GOD. / CHAPTER LXXX. / ENTITLED, HE FROWNED;
+    REVEALED AT MECCA. / IN THE NAME OF THE MOST MERCIFUL GOD.; lines 37868-37940
+  start: '37868'
+  end: '37940'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage rebukes the prophet for turning from a blind seeker while attending
+    to a wealthy man, describes the Koran as an admonition in pure exalted volumes,
+    recalls human creation from seed, death, burial, and future raising to life, points
+    to rain and vegetation as provision, and depicts the trumpet of the last day when
+    kinship ties are abandoned and faces show joy or condemnation.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The prophet frowned and turned aside because a blind man came to him.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage contrasts respectful reception of a wealthy man with neglect of
+    one who comes earnestly, seeks salvation, and fears God.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Koran is described as an admonition written in honorable, exalted, pure
+    volumes by honored and just scribes.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A note identifies the blind man as Abdallah Ebn Omm Mactm and explains that
+    Mohammed was reprimanded after turning away from him during discourse with principal
+    Koreish.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: God is said to create man from a drop of seed, form him with proportion, and
+    facilitate his passage out of the womb.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: God is said to cause man to die, lay him in the grave, and later raise him
+    to life when it pleases him.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The passage describes water poured down by showers, the earth cleft open,
+    and plants including corn, grapes, clover, olive, palm, thick gardens, fruits,
+    and grass provided for humans and cattle.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: When the stunning sound of the trumpet is heard, a man flees from brother,
+    mother, father, wife, and children.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: On that day some faces are bright, laughing, and joyful, while other faces
+    bear dust and are covered with darkness; the latter are identified as unbelievers
+    and wicked.
+  category: attribute
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: the prophet / Mohammed
+  description: The prophet who frowned and turned aside from the blind man; the note
+    identifies him as Mohammed.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: the blind man / Abdallah Ebn Omm Mactm
+  description: A blind man who came seeking instruction; the note names him Abdallah
+    Ebn Omm Mactm.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:3
+  name_or_label: the wealthy man / principal Koreish
+  description: The passage mentions a wealthy man respectfully received; the note
+    refers to principal Koreish whom Mohammed hoped to convert.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:4
+  name_or_label: God
+  description: The creator, commander, provider of food, causer of death, and raiser
+    of the dead in the passage.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: man / humankind
+  description: Humanity addressed as created from seed, dying, buried, raised, provided
+    for, and accountable.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:6
+  name_or_label: scribes / angels
+  description: Honored and just scribes associated with the pure volumes; the note
+    says the preserved table is touched only by angels.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:8
+- id: fig:7
+  name_or_label: family members
+  description: Brother, mother, father, wife, and children from whom a man flees on
+    the day of the trumpet.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+- id: fig:8
+  name_or_label: unbelievers, the wicked
+  description: Those whose faces are covered with dust and darkness on that day.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:7
+- id: fig:9
+  name_or_label: joyful ones
+  description: Those whose faces are bright, laughing, and joyful on that day.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: reprimanded prophet
+  assigned_to:
+  - fig:1
+  basis: The prophet is rebuked for frowning and turning aside from the blind man.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: blind seeker of instruction
+  assigned_to:
+  - fig:2
+  basis: The blind man comes earnestly seeking salvation and, according to the note,
+    asks to be taught what God taught the apostle.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: honored wealthy audience
+  assigned_to:
+  - fig:3
+  basis: The passage says the wealthy man is respectfully received, and the note connects
+    the scene with discourse among principal Koreish.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:4
+  label: creator, provider, and raiser of the dead
+  assigned_to:
+  - fig:4
+  basis: God creates man, causes death and burial, raises to life, and provides food
+    through rain and vegetation.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:5
+  label: mortal accountable creature
+  assigned_to:
+  - fig:5
+  basis: Man is described as created from seed, dying, buried, raised, commanded by
+    God, and facing the day of the trumpet.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+- id: role:6
+  label: sacred transcribers or guardians of pure writings
+  assigned_to:
+  - fig:6
+  basis: The volumes are written by honored and just scribes; the note associates
+    the preserved table with angels and exclusion of evil spirits.
+  evidence_refs:
+  - ev:2
+  - ev:8
+- id: role:7
+  label: kin abandoned at judgment
+  assigned_to:
+  - fig:7
+  basis: On the day of the trumpet a man flees from named family members.
+  evidence_refs:
+  - ev:6
+- id: role:8
+  label: condemned wicked unbelievers
+  assigned_to:
+  - fig:8
+  basis: Dusty and darkened faces are identified as unbelievers and wicked.
+  evidence_refs:
+  - ev:7
+- id: role:9
+  label: joyful recipients on that day
+  assigned_to:
+  - fig:9
+  basis: Some faces are described as bright, laughing, and joyful.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: pure exalted volumes
+  literal_form: honorable, exalted, pure volumes containing the admonition
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:8
+- id: sym:2
+  label: drop of seed
+  literal_form: a drop of seed from which man is created
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: grave
+  literal_form: the grave where man is laid after death
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: water by showers
+  literal_form: water poured down by showers
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: food-bearing vegetation
+  literal_form: corn, grapes, clover, olive, palm, thick gardens with trees, fruits,
+    and grass
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: stunning trumpet sound
+  literal_form: the stunning sound of the trumpet
+  associated_figures:
+  - fig:5
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: contrasted faces
+  literal_form: bright, laughing faces and dusty, darkened faces
+  associated_figures:
+  - fig:8
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Rebuke over the blind seeker
+  summary: The prophet is corrected for turning from a blind man who comes seeking
+    admonition while giving respectful attention to a wealthy man.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: scene:2
+  label: Description of the written admonition
+  summary: The Koran is presented as an admonition preserved in honorable, exalted,
+    pure volumes by honored scribes; the note links this to a preserved table and
+    angels.
+  figure_refs:
+  - fig:6
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:8
+- id: scene:3
+  label: Human origin, death, and raising
+  summary: Man is described as created by God from seed, formed, brought from the
+    womb, caused to die, placed in the grave, and later raised to life.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Provision of food through rain and growth
+  summary: 'Humankind is told to consider food: water descends, earth opens, and crops,
+    fruits, trees, grass, and gardens arise for humans and cattle.'
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Trumpet and final separation
+  summary: At the trumpet sound, each person is occupied with his own affair and flees
+    kin; faces then appear either joyful and bright or dusty and darkened.
+  figure_refs:
+  - fig:5
+  - fig:7
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Admonition to heed the humble seeker
+  taxonomy_refs:
+  - wisdom
+  basis: The passage rebukes neglect of a blind man seeking salvation and presents
+    the Koran as admonition retained by the willing.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The taxonomy reference is broad; the passage is primarily moral and revelatory
+    admonition rather than a narrative wisdom contest.
+- id: motif:2
+  label: Human creation, death, burial, and resurrection
+  taxonomy_refs:
+  - resurrection
+  basis: God creates man from seed, causes death and burial, and later raises him
+    to life.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: No detailed afterlife journey or geography is described in this passage.
+- id: motif:3
+  label: Divine provision through rain and vegetation
+  taxonomy_refs: []
+  basis: The passage points to showers, cleft earth, crops, trees, fruits, and grass
+    as provision for humans and cattle.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: No specific available motif family exactly matches agricultural provision;
+    water and tree are recorded as symbols only.
+- id: motif:4
+  label: Eschatological trumpet and judgment by visible signs
+  taxonomy_refs:
+  - divine_judgment
+  basis: The trumpet marks a day when kinship ties are abandoned and faces show joy
+    or darkness, with darkened faces identified as unbelievers and wicked.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The passage gives judgment imagery but does not describe a full trial
+    scene or weighing procedure.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 37874-37883
+  quote_or_summary: The prophet frowns and turns aside because the blind man comes;
+    the text contrasts the wealthy man respectfully received with the earnest, God-fearing
+    seeker neglected.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 37884-37889
+  quote_or_summary: The Koran is called an admonition written in honorable, exalted,
+    pure volumes by honored and just scribes.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: note n within lines 37868-37940
+  quote_or_summary: The note names the blind man Abdallah Ebn Omm Mactm, says he interrupted
+    Mohammed during discourse with principal Koreish, and explains that Mohammed was
+    reprimanded and later showed him respect.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 37909-37917
+  quote_or_summary: God creates man from a drop of seed, forms him, facilitates birth,
+    causes death and burial, and later raises him to life.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 37918-37926
+  quote_or_summary: 'Man is told to consider food: showers pour down water, earth
+    is cleft, and grains, fruits, trees, gardens, and grass are produced for people
+    and cattle.'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 37927-37933
+  quote_or_summary: At the stunning sound of the trumpet, a man flees from brother,
+    mother, father, wife, and children, each person having enough of his own business.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 37934-37940
+  quote_or_summary: Some faces are bright, laughing, and joyful; others have dust
+    and darkness upon them, and are identified as unbelievers and wicked.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: note o within lines 37868-37940
+  quote_or_summary: The note says the pure volumes are transcribed from a preserved
+    table, kept from evil spirits, touched only by angels, and sometimes understood
+    as books of the prophets.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based on the supplied passage and notes. Motif labels are conservative
+    and limited to available taxonomy where directly supported. No comparison claims
+    were added because the passage does not itself establish cross-textual comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Line locators are approximate within the supplied stable range where embedded verse-style numbering is present.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l37868-l37940
+  passage_sha256=c529edbd0b0454a5c3a09c7039e810f47d7c439a6672d05b58cbecdba4f418ed

@@ -1,0 +1,207 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l39022-l39041
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: ENTITLED, THE STRIKING; REVEALED AT MECCA. / IN THE NAME OF THE MOST MERCIFUL
+    GOD. / CHAPTER CII. / IN THE NAME OF THE MOST MERCIFUL GOD.; lines 39022-39041
+  start: '39022'
+  end: '39041'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: Verily ye shall see hell... Then shall ye be examined, on that day, concerning
+    the pleasures...
+  summary: The passage warns that rivalry in multiplying riches and children distracts
+    people until death. It says they will later know their folly, will see hell with
+    certainty, and will be examined on that day about the pleasures of worldly life.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The addressed audience is said to be occupied by the desire to multiply riches
+    and children until they visit the graves.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage repeatedly states that the audience will hereafter know their
+    folly.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The audience is told that if they knew the consequence with certainty, they
+    would not act in this way.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The audience is told they shall see hell, and then surely see it with the
+    eye of certainty.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: On that day, the audience will be examined concerning the pleasures with which
+    they amused themselves in life.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: addressed audience
+  description: The people addressed as 'ye,' occupied by multiplying riches and children
+    and later subject to seeing hell and examination.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: worldly pleasure-seekers subject to examination
+  assigned_to:
+  - fig:1
+  basis: The audience is described as occupied with multiplying riches and children
+    and later examined concerning worldly pleasures.
+  evidence_refs:
+  - ev:1
+  - ev:5
+symbols:
+- id: sym:1
+  label: graves
+  literal_form: graves
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: hell
+  literal_form: hell
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: worldly pleasures
+  literal_form: pleasures of this life
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: riches and children
+  literal_form: riches and children
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: worldly preoccupation until graves
+  summary: The audience is described as being occupied by rivalry in multiplying riches
+    and children until they visit the graves.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: future knowledge, vision of hell, and examination
+  summary: The audience is warned that they will know their folly, see hell with certainty,
+    and be examined about the pleasures of life.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: divine judgment after worldly distraction
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage describes a future day when the audience will see hell and be
+    examined concerning pleasures enjoyed in life.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage does not describe the examiner or detailed procedure within
+    this line range.
+- id: motif:2
+  label: warning against worldly accumulation before death
+  taxonomy_refs: []
+  basis: The audience is warned that desire for multiplying riches and children occupies
+    them until they visit the graves, followed by future recognition of folly.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: No supplied taxonomy family directly names this warning pattern.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 39022-39041
+  quote_or_summary: "“THE emulous desire of multiplying riches and children employeth
+    you, until ye visit the graves.”"
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; short excerpt used.
+- id: ev:2
+  type: quote
+  locator: lines 39022-39041
+  quote_or_summary: "“hereafter shall ye know your folly” is stated repeatedly."
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; short excerpt used.
+- id: ev:3
+  type: summary
+  locator: lines 39022-39041
+  quote_or_summary: The passage says that certain knowledge of the consequence would
+    prevent the audience from acting this way.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 39022-39041
+  quote_or_summary: "“Verily ye shall see hell: again, ye shall surely see it with
+    the eye of certainty.”"
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; short excerpt used.
+- id: ev:5
+  type: quote
+  locator: lines 39022-39041
+  quote_or_summary: "“Then shall ye be examined, on that day, concerning the pleasures...”"
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; short excerpt used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based entirely on the supplied passage. Motif identification
+    is limited to the explicit eschatological warning and examination described in
+    the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  The provided passage locator label appears inconsistent with the supplied passage text; the extraction follows the supplied passage text for Chapter CII, 'The Emulous Desire of Multiplying.'
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l39022-l39041
+  passage_sha256=5b0387455425f8f69eb49bd29719376559bac7630b6304341d58a2d838a425c7

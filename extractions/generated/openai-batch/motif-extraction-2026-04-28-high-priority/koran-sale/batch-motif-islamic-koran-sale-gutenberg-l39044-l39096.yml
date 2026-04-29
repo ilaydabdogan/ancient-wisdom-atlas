@@ -1,0 +1,332 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l39044-l39096
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: IN THE NAME OF THE MOST MERCIFUL GOD. / CHAPTER CIV. / ENTITLED, THE SLANDERER;
+    REVEALED AT MECCA. / IN THE NAME OF THE MOST MERCIFUL GOD.; lines 39044-39096
+  start: '39044'
+  end: '39096'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage includes a brief chapter invoking the afternoon and stating
+    that humanity is in loss except those who believe, do right, and mutually recommend
+    truth and perseverance. It then presents a warning against the slanderer and backbiter
+    who accumulates riches and imagines wealth can make him immortal; such a person
+    will be cast into Al Hotama, described as the kindled fire of God rising over
+    hearts and enclosing its occupants like a vaulted structure on vast columns.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The speaker swears by or invokes the afternoon.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Man is said to employ himself in what will prove to be loss, with an exception
+    for those who believe, do right, and mutually recommend truth and perseverance.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A woe is pronounced upon every slanderer and backbiter.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The slanderer and backbiter is described as heaping up riches and preparing
+    them for a future time.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The figure who heaps up riches thinks that his riches will render him immortal.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The condemned figure is said to be cast into Al Hotama.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Al Hotama is explained as the kindled fire of God.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The fire is described as mounting above the hearts of those cast into it.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The fire or place of punishment is described as an arched vault above them
+    on columns of vast extent.
+  category: setting
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: man
+  description: Humanity in general, described as being occupied in what will prove
+    loss, except for specified righteous persons.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: those who believe and do right
+  description: Persons excepted from the general loss because they believe, do right,
+    and recommend truth and perseverance to one another.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: slanderer and backbiter
+  description: A condemned person who heaps up riches, prepares them for the future,
+    and thinks wealth will make him immortal.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: God
+  description: Named in the invocation and as the possessor or source of the kindled
+    fire described as the fire of God.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:6
+roles:
+- id: role:1
+  label: humanity subject to loss
+  assigned_to:
+  - fig:1
+  basis: The passage states that man employs himself in what will prove loss, before
+    naming an exception.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: righteous exception
+  assigned_to:
+  - fig:2
+  basis: Those who believe, do right, and mutually recommend truth and perseverance
+    are excepted from the stated loss.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: condemned hoarder and slanderer
+  assigned_to:
+  - fig:3
+  basis: The passage pronounces woe on the slanderer and backbiter who heaps riches
+    and imagines they confer immortality, then says he will be cast into Al Hotama.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: divine source of punitive fire
+  assigned_to:
+  - fig:4
+  basis: Al Hotama is identified as the kindled fire of God.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: afternoon
+  literal_form: the afternoon
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: riches
+  literal_form: heaped-up riches prepared for the time to come
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: Al Hotama
+  literal_form: Al Hotama, the place or condition into which the condemned figure
+    is cast
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: kindled fire of God
+  literal_form: kindled fire of God
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: hearts
+  literal_form: the hearts of those cast into the fire
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: arched vault and vast columns
+  literal_form: an arched vault above them on columns of vast extent
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Statement on loss and righteous exception
+  summary: The passage invokes the afternoon and states that humanity is in loss except
+    those who believe, act rightly, and mutually urge truth and perseverance.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Condemnation of the slanderer who trusts riches
+  summary: A woe is pronounced on the slanderer and backbiter who accumulates wealth
+    and thinks it will make him immortal.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Casting into Al Hotama
+  summary: The condemned figure is said to be cast into Al Hotama, explained as the
+    kindled fire of God that rises over hearts and encloses its victims under a vaulted
+    structure with vast columns.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: divine punishment of the morally condemned
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage condemns the slanderer and backbiter and describes his being
+    cast into a divinely identified fire.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage does not describe a formal judgment scene; the motif is inferred
+    from the stated condemnation and punishment.
+- id: motif:2
+  label: wealth fails to confer immortality
+  taxonomy_refs: []
+  basis: The condemned figure heaps riches and thinks they will render him immortal,
+    but the passage rejects this and states he will be cast into Al Hotama.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: No available taxonomy reference directly matches this motif.
+- id: motif:3
+  label: fiery confinement after condemnation
+  taxonomy_refs:
+  - divine_judgment
+  basis: Al Hotama is described as the kindled fire of God rising above hearts and
+    enclosing those cast into it like an arched vault on vast columns.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage gives a compact image of punishment rather than a detailed
+    afterlife topography.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 39044-39052
+  quote_or_summary: Chapter CIII invokes the afternoon and says humanity is in loss
+    except those who believe, do right, and mutually recommend truth and perseverance.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: quote
+  locator: lines 39058-39063
+  quote_or_summary: '"WOE unto every slanderer, and backbiter" who heaps up riches
+    and prepares them for the future.'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: summary
+  locator: lines 39088-39090
+  quote_or_summary: The rich hoarder thinks his riches will make him immortal, but
+    he will be cast into Al Hotama.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: lines 39091-39094
+  quote_or_summary: Al Hotama is identified as the kindled fire of God, which mounts
+    above the hearts of those cast into it.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:5
+  type: quote
+  locator: lines 39095-39096
+  quote_or_summary: '"it shall be as an arched vault above them / on columns of vast
+    extent."'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:6
+  type: summary
+  locator: lines 39048, 39060
+  quote_or_summary: Both chapters begin with the invocation in the name of the most
+    merciful God.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward from the supplied passage. Motif labels
+    are cautious and limited to available evidence and taxonomy. No comparison claims
+    are made because the passage itself does not establish comparison to another text
+    or tradition.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  The supplied range includes the end of Chapter CIII and all of Chapter CIV, along with translator notes; extraction focuses on the canonical passage content and does not use the notes to add unsupported narrative details.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l39044-l39096
+  passage_sha256=fcce5e3c5bc3a0ce600a834c0d62a9a32493162f1e6dda707036f924fb89abaa

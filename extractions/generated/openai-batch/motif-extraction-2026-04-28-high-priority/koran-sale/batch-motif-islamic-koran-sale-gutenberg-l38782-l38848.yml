@@ -1,0 +1,544 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l38782-l38848
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: ENTITLED, THE FIG; WHERE IT WAS REVEALED IS DISPUTED. / IN THE NAME OF THE
+    MOST MERCIFUL GOD. / CHAPTER XCVI. / IN THE NAME OF THE MOST MERCIFUL GOD.; lines
+    38782-38848
+  start: '38782'
+  end: '38848'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage commands reading in the Lord's name, describes the Lord as
+    creator of humanity from congealed blood and as teacher of the pen and unknown
+    knowledge, warns that wealth can make humans insolent, declares return to the
+    Lord, challenges one who forbids the servant while praying and denies revelation,
+    and threatens punishment by the forelock with infernal guards. Commentary identifies
+    the opening verses as an early revelation and connects later verses with Abu Jahl's
+    opposition to Mohammed's prayer.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage commands reading in the name of the Lord who created all things.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Human beings are described as created from congealed blood.
+  category: attribute
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: obs:3
+  text: The Lord is described as teaching the use of the pen and teaching humanity
+    what it did not know.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The passage states that man becomes insolent when he sees himself abounding
+    in riches.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage states that the return of all is unto the Lord.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: A figure is described as forbidding the servant when he prays.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: The passage asks about the same figure if he follows right direction, commands
+    piety, accuses divine revelations of falsehood, or turns back.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The passage states that God sees.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The passage threatens to drag the opposing figure by the lying, sinful forelock
+    if he does not forbear.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: The opposing figure is told to call his council, while infernal guards will
+    be called to cast him into hell.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:11
+  text: The passage concludes by telling the addressee not to obey the opponent, but
+    to continue adoring God and draw near to him.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:12
+  text: A note says the first five verses are generally allowed to be the first revealed
+    passage of the Koran, though alternatives are mentioned.
+  category: other
+  evidence_refs:
+  - ev:5
+- id: obs:13
+  text: A note says the repeated command to read is understood as a reply to Mohammed's
+    statement that he could not read, and that God would remedy the defect.
+  category: other
+  evidence_refs:
+  - ev:7
+- id: obs:14
+  text: A note says the remaining part of the chapter was revealed against Abu Jahl
+    and describes his threat against Mohammed during adoration.
+  category: other
+  evidence_refs:
+  - ev:8
+- id: obs:15
+  text: A note says Abu Jahl turned back in fright after seeing a ditch of fire and
+    a terrible appearance of troops between himself and Mohammed.
+  category: sequence
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: the Lord / God
+  description: The creator of all things, creator of man from congealed blood, teacher
+    of the pen and unknown knowledge, seer, and the one to whom all return.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: man / humanity
+  description: Humanity is created from congealed blood, taught by God, and described
+    as liable to insolence when abounding in riches.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: fig:3
+  name_or_label: the servant who prays
+  description: A servant is described as praying and being forbidden by an opponent;
+    commentary connects this with Mohammed.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:8
+- id: fig:4
+  name_or_label: Mohammed
+  description: In commentary, Mohammed is the illiterate recipient of the command
+    to read and the one threatened by Abu Jahl during adoration.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: fig:5
+  name_or_label: opponent / Abu Jahl
+  description: The passage describes a figure who forbids the servant, may deny revelations,
+    and is threatened with punishment; commentary identifies the later part as against
+    Abu Jahl.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:8
+- id: fig:6
+  name_or_label: infernal guards
+  description: Agents who will be called to cast the opponent into hell.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: council of the opponent
+  description: The group the opponent is told to call to his assistance.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:4
+- id: fig:8
+  name_or_label: angel
+  description: A commentary note says the former words were spoken by the angel.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: creator
+  assigned_to:
+  - fig:1
+  basis: The Lord is said to have created all things and man from congealed blood.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: divine teacher
+  assigned_to:
+  - fig:1
+  basis: The Lord is said to teach the use of the pen and what man did not know.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: divine judge and seer
+  assigned_to:
+  - fig:1
+  basis: The passage says return is to the Lord, that God sees, and that infernal
+    guards will be called against the opponent.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:4
+  label: created and instructed humanity
+  assigned_to:
+  - fig:2
+  basis: Humanity is described as created from congealed blood and taught by God.
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: role:5
+  label: praying servant
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The passage refers to the servant when he prays; commentary links the prayer
+    scene to Mohammed.
+  evidence_refs:
+  - ev:2
+  - ev:8
+- id: role:6
+  label: recipient of command to read
+  assigned_to:
+  - fig:4
+  basis: Commentary says the command to read is a reply to Mohammed, who declared
+    that he could not read.
+  evidence_refs:
+  - ev:7
+- id: role:7
+  label: adversary who forbids prayer and denies revelation
+  assigned_to:
+  - fig:5
+  basis: The passage describes one who forbids the servant praying, turns back, and
+    accuses divine revelations of falsehood; commentary identifies Abu Jahl as the
+    target of the remaining chapter.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:8
+- id: role:8
+  label: punitive infernal agents
+  assigned_to:
+  - fig:6
+  basis: The infernal guards are said to be called to cast the opponent into hell.
+  evidence_refs:
+  - ev:4
+- id: role:9
+  label: human support group
+  assigned_to:
+  - fig:7
+  basis: The opponent is told to call his council for assistance.
+  evidence_refs:
+  - ev:4
+- id: role:10
+  label: revelatory messenger in commentary
+  assigned_to:
+  - fig:8
+  basis: A note says the earlier words were spoken by the angel.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: pen
+  literal_form: the pen
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: congealed blood
+  literal_form: congealed blood / thick or concreted blood
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: sym:3
+  label: forelock
+  literal_form: the lying, sinful forelock
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: hell and infernal guards
+  literal_form: infernal guards called to cast him into hell
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: ditch of fire
+  literal_form: a ditch of fire seen between Abu Jahl and Mohammed in commentary
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:8
+- id: sym:6
+  label: prayer or adoration
+  literal_form: the servant when he prays; Mohammed in the act of adoration
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:8
+- id: sym:7
+  label: divine revelations
+  literal_form: the divine revelations accused of falsehood by the opponent
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Command to read and divine teaching
+  summary: The addressee is commanded to read in the name of the Lord, who creates,
+    teaches the pen, and teaches what humanity does not know.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:8
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: scene:2
+  label: Human insolence and return to the Lord
+  summary: The passage states that man becomes insolent through wealth and that all
+    return to the Lord.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Opponent forbids prayer and denies revelation
+  summary: An opponent is described as forbidding the servant when he prays and as
+    potentially denying divine revelations and turning back.
+  figure_refs:
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:4
+  label: Threat of divine punishment
+  summary: The passage warns that God sees, threatens to drag the opponent by the
+    sinful forelock, and contrasts his council with infernal guards who will cast
+    him into hell.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Commentarial protection from Abu Jahl
+  summary: Commentary reports that Abu Jahl threatened Mohammed during adoration but
+    turned back after seeing a ditch of fire and a terrible appearance of troops.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:8
+- id: scene:6
+  label: Instruction to continue adoration
+  summary: The passage tells the addressee not to obey the opponent but to continue
+    adoring God and draw near to him.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: divine teaching of knowledge
+  taxonomy_refs:
+  - wisdom
+  basis: God is described as teaching the use of the pen and teaching humanity what
+    it did not know.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage frames this as divine instruction rather than a developed
+    wisdom tale.
+- id: motif:2
+  label: return to divine judgment
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage says all return to the Lord, that God sees, and that the opponent
+    may be dragged by the forelock and cast into hell by infernal guards.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: The judgment is presented as admonition and threat, not as a narrated
+    afterlife journey.
+- id: motif:3
+  label: prophetic commissioning through revelatory command
+  taxonomy_refs:
+  - initiation
+  - wisdom
+  basis: The opening command to read is linked by commentary to Mohammed's inability
+    to read and to the promise that God would remedy this defect; another note says
+    these opening verses are generally held to be the first revealed passage of the
+    Koran.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  confidence: medium
+  cautions: The commissioning structure is inferred from the commentary supplied with
+    the passage; the passage itself gives commands and attributes of God rather than
+    a full narrative scene.
+- id: motif:4
+  label: divine protection of a praying servant
+  taxonomy_refs:
+  - divine_judgment
+  basis: Commentary says Abu Jahl threatened Mohammed in adoration but turned back
+    after seeing a ditch of fire and troops defending him.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: This motif is drawn from Sale's commentary note rather than the main translated
+    verses.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 38782-38790
+  quote_or_summary: The chapter opens with a command to read in the Lord's name; the
+    Lord creates all things, creates man of congealed blood, teaches the pen, and
+    teaches man what he does not know.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 38791-38796
+  quote_or_summary: The passage says man becomes insolent when rich, that return is
+    to the Lord, and asks about one who forbids the servant when he prays.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 38797-38800
+  quote_or_summary: The passage asks whether the opponent follows right direction
+    or commands piety, and whether he accuses divine revelations of falsehood and
+    turns back.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 38842-38848
+  quote_or_summary: The passage says God sees, threatens to drag the offender by the
+    lying sinful forelock, contrasts his council with infernal guards, and commands
+    continued adoration and nearness to God.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: note l, within lines 38801-38841
+  quote_or_summary: The note says the first five verses, ending with God teaching
+    man what he knew not, are generally allowed to be the first revealed passage of
+    the Koran, though other views are mentioned.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: note m, within lines 38801-38841
+  quote_or_summary: The note glosses congealed blood as thick or concreted blood and
+    adds exceptions in the commentator's account.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: note n, within lines 38801-38841
+  quote_or_summary: The note says the repeated command is supposed to reply to Mohammed,
+    who said he could not read, and that God, who inspired writing, would remedy the
+    defect; it also mentions words spoken by the angel.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: notes o-p, within lines 38801-38841
+  quote_or_summary: The notes say the remaining chapter was revealed against Abu Jahl,
+    who threatened Mohammed during adoration but turned back after seeing a ditch
+    of fire and a terrible appearance of troops defending him.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Main observations are explicit in the supplied passage and notes. Motif labels
+    are limited to supported taxonomy references and remain draft candidates. No external
+    comparison claims were added.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage text, notes, metadata, and available taxonomy references were used.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l38782-l38848
+  passage_sha256=c9e430e69bde375d6cbc55503290e6609137f162859c0cd5a8872b7c6d0397fc

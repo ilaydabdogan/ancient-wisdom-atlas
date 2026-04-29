@@ -1,0 +1,435 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l33132-l33207
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: CHAPTER XLIII. / IN THE NAME OF THE MOST MERCIFUL GOD. / CHAPTER XLIV. /
+    IN THE NAME OF THE MOST MERCIFUL GOD.; lines 33132-33207
+  start: '33132'
+  end: '33207'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Chapter XLIV opens by invoking the perspicuous book and says the Koran
+    was sent down on a blessed night when every determined decree is sent down. It
+    affirms God as lord of heaven and earth, giver of life and death, then warns of
+    a day when heaven produces visible smoke covering humankind as a tormenting plague.
+    Those afflicted ask for the plague to be removed and promise belief, but the text
+    recalls their rejection of a manifest apostle and says they will return to unbelief.
+    It then announces divine vengeance and recalls an earlier trial of the people
+    of Pharaoh when an honourable messenger came to them.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage says the Koran was sent down on a blessed night.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says every determined matter is distinctly sent down on that night
+    as a command from God.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage describes God as lord of heaven and earth and as the one who gives
+    life and causes death.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage warns of a day when heaven produces visible smoke covering mankind.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The visible smoke is called a tormenting plague.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Those under the plague ask the Lord to remove it and say they will become
+    true believers.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The passage says a manifest apostle came to them, but they turned away and
+    called him instructed by others or distracted.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The passage says the plague will be removed for a little while, but the people
+    will return to infidelity.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: The passage announces a later assault with great power and divine vengeance.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: The passage recalls that the people of Pharaoh were tested before them and
+    that an honourable messenger came to those people.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:11
+  text: 'Sale''s note reports differing interpretations of the smoke: either a famine-related
+    smoke in Mohammed''s time or an eschatological sign before the day of judgment.'
+  category: other
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: God / the Lord
+  description: The sender of the Koran and decrees, lord of heaven and earth, giver
+    of life and death, remover of the plague, and agent of vengeance.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:7
+- id: fig:2
+  name_or_label: Those addressed as doubters / afflicted people
+  description: They are described as amusing themselves with doubt, being covered
+    by the smoke, asking for the plague to be removed, promising belief, and later
+    returning to infidelity.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:3
+  name_or_label: Manifest apostle
+  description: A manifest apostle came to the people, but they retired from him and
+    accused him of being instructed by others or distracted.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+- id: fig:4
+  name_or_label: People of Pharaoh
+  description: An earlier people whom God made trial of before the present addressees.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:8
+- id: fig:5
+  name_or_label: Honourable messenger
+  description: A messenger who came to the people of Pharaoh.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: divine revealer
+  assigned_to:
+  - fig:1
+  basis: God sends down the Koran and determined decrees on the blessed night.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: divine judge and punisher
+  assigned_to:
+  - fig:1
+  basis: God is associated with the plague, its removal, and later vengeance.
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: role:3
+  label: doubters under punishment
+  assigned_to:
+  - fig:2
+  basis: They are described as doubting, being covered by the tormenting smoke, pleading
+    for removal, and returning to infidelity.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+- id: role:4
+  label: messenger rejected or sent to a tested people
+  assigned_to:
+  - fig:3
+  - fig:5
+  basis: One apostle is rejected by the addressees, and another messenger comes to
+    the people of Pharaoh.
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: role:5
+  label: precedent people tested by God
+  assigned_to:
+  - fig:4
+  basis: The people of Pharaoh are explicitly named as having been tried before the
+    present group.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: perspicuous book
+  literal_form: The book of the Koran invoked at the chapter opening.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: blessed night
+  literal_form: The night on which the Koran and decrees are said to be sent down.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: determined decree
+  literal_form: Every determined thing distinctly sent down as a command.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: visible smoke
+  literal_form: Smoke produced by heaven and covering mankind as a tormenting plague.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:9
+- id: sym:5
+  label: heaven and earth
+  literal_form: The cosmic domain over which God is lord; heaven is also the source
+    from which the smoke appears.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Revelation and decree on the blessed night
+  summary: The Koran is said to be sent down on a blessed night, and every determined
+    matter is sent down as a command from God.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Visible smoke as plague
+  summary: Heaven produces visible smoke covering mankind, and the afflicted people
+    ask the Lord to remove the tormenting plague while promising belief.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Rejected apostle and return to infidelity
+  summary: The text recalls that a manifest apostle had come to the people and was
+    rejected; it then says the plague will be lifted briefly, but they will return
+    to infidelity, followed by divine vengeance.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:4
+  label: Precedent of Pharaoh's people
+  summary: The passage recalls that God previously tested the people of Pharaoh and
+    that an honourable messenger came to them.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Revelation of a sacred book on a blessed night
+  taxonomy_refs:
+  - wisdom
+  basis: The passage centers the sending down of the Koran and divine determinations
+    on a blessed night.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The available taxonomy has no exact category for scripture revelation;
+    'wisdom' is a broad fit only.
+- id: motif:2
+  label: Heaven-sent smoke plague as warning
+  taxonomy_refs:
+  - divine_judgment
+  basis: The smoke comes from heaven, covers mankind, is called a tormenting plague,
+    and is linked to divine vengeance after rejection of an apostle.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The passage and notes preserve multiple interpretations of the smoke's
+    referent.
+- id: motif:3
+  label: Temporary repentance under affliction followed by relapse
+  taxonomy_refs:
+  - divine_judgment
+  basis: The afflicted people promise belief if the plague is removed, but the passage
+    states they will return to infidelity.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  confidence: high
+  cautions: The passage does not provide further narrative details beyond the predicted
+    relapse.
+- id: motif:4
+  label: Earlier punished or tested people as warning precedent
+  taxonomy_refs:
+  - divine_judgment
+  basis: The people of Pharaoh are explicitly recalled as a prior group tested when
+    a messenger came to them.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: This excerpt only begins the Pharaoh precedent and does not include the
+    full outcome.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly uses the people of Pharaoh as an earlier warning precedent
+    for the present addressees, with both contexts involving divine testing and a
+    messenger.
+  claim_level: same_function
+  target: People of Pharaoh episode within the passage's scriptural memory
+  evidence_refs:
+  - ev:8
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The excerpt gives only the opening of the Pharaoh comparison and does
+    not narrate the full parallel.
+- id: claim:2
+  claim: 'Sale''s note records two interpretive placements for the smoke motif: a
+    historical famine-associated sign and an eschatological sign before the day of
+    judgment.'
+  claim_level: same_motif
+  target: Smoke as historical plague sign and smoke as eschatological judgment sign
+  evidence_refs:
+  - ev:9
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This comparison is based on the translator's commentary, not on a direct
+    comparison made in the main translated verse.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 33132-33207, Chapter XLIV opening
+  quote_or_summary: '"BY the perspicuous book of the Koran; verily we have sent down
+    the same on a blessed night"'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text.
+- id: ev:2
+  type: quote
+  locator: lines 33132-33207, Chapter XLIV opening
+  quote_or_summary: '"on the night wherein is distinctly sent down the decree of every
+    determined thing, as a command from us"'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text.
+- id: ev:3
+  type: quote
+  locator: lines 33132-33207, Chapter XLIV opening
+  quote_or_summary: '"the LORD of heaven and earth"; "he giveth life, and he causeth
+    to die"'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text.
+- id: ev:4
+  type: quote
+  locator: lines 33132-33207, verse marked 10
+  quote_or_summary: '"the heaven shall produce a visible smoke, which shall cover
+    mankind: this will be a tormenting plague"'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text.
+- id: ev:5
+  type: quote
+  locator: lines 33132-33207, after verse marked 10
+  quote_or_summary: '"O LORD, take this plague from off us: verily we will become
+    true believers."'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text.
+- id: ev:6
+  type: quote
+  locator: lines 33132-33207, after plague plea
+  quote_or_summary: '"a manifest apostle came unto them, but they retired from him,
+    saying, This man is instructed by others, or is a distracted person"'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text.
+- id: ev:7
+  type: summary
+  locator: lines 33132-33207, after apostle rejection
+  quote_or_summary: God says the plague will be taken away for a little, the people
+    will return to infidelity, and on a later day God will assault them with great
+    power and take vengeance.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text.
+- id: ev:8
+  type: quote
+  locator: lines 33132-33207, Pharaoh transition
+  quote_or_summary: '"We made trial of the people of Pharaoh before them, and an honourable
+    messenger came unto them"'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text.
+- id: ev:9
+  type: summary
+  locator: lines 33132-33207, Sale footnote c
+  quote_or_summary: 'The note says commentators differ: some identify the smoke with
+    a famine in Mohammed''s time, while a tradition of Ali treats it as a sign before
+    the day of judgment filling east to west for forty days.'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is strong for the translated passage. Motif taxonomy mapping
+    is partly broad because available taxonomy lacks exact categories for scripture
+    descent, decree night, and smoke plague.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage text and metadata. No identification of unnamed messengers beyond the labels present in the excerpt.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l33132-l33207
+  passage_sha256=fd862cc1ef18075b3667d1eb6574402bbce09bc791b5d0180227e8a502d48fdd

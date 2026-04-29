@@ -1,0 +1,521 @@
+---
+record_id: batch.motif.islamic-koran-rodwell-gutenberg-l722-l779
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+passage_locator:
+  label: PUBLIC SERVICES, / AND EMINENT LITERARY ATTAINMENTS, / THE TRANSLATOR. /
+    PREFACE; lines 722-779
+  start: '722'
+  end: '779'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A translator's preface discusses alleged sources for Qur'anic materials
+    about Christianity, including possible Gnostic influence, Ebionite, Essene, and
+    Sabeite points of contact, and possible indirect acquaintance with Jewish and
+    Christian scriptural language. It notes a view in which Jesus was not put to death
+    but was miraculously taken from the earth like Enoch or Elijah, and compares judgment-related
+    phrases with a cry of Gabriel.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage reports a supposition that Muhammad derived some ideas about Christianity
+    from Gnosticism and that the Koran alludes to sectarian division among Christians.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that there is no historical authority in the excerpt for
+    supposing Gnostic doctrines were taught or professed in Arabia.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage presents as possible that a Gnostic doctrine about the Crucifixion
+    was adopted by Muhammad to make Islam more acceptable to Jews by asserting that
+    Jesus had not been put to death.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage says that, in this scenario, Jews would be asked to believe in
+    Jesus as a holy teacher who was miraculously taken from the earth like Enoch or
+    Elijah.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage contrasts Qur'anic statements about Jesus' family and history
+    with Gnostic doctrines of emanations and a baptismal union with a higher nature.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage says Muhammad borrowed in several points from the doctrines of
+    the Ebionites, Essenes, and Sabeites.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The passage lists practices or teachings associated with Ebionites or Sabeites,
+    including circumcision, opposition to celibacy, a Jerusalem-facing Kebla, ritual
+    washings, and oaths by natural objects.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The passage states that there is no evidence Muhammad had access to the Christian
+    Scriptures, while allowing that fragments may have reached him through Chadijah,
+    Waraka, or other Meccan Christians.
+  category: other
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The passage compares language about the last judgment and the dead hearing
+    the Son of God's voice with an exterminating or awakening cry of Gabriel.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The passage says Qur'anic passages of this kind result from Muhammad's general
+    acquaintance with scriptural phraseology through popular legends and personal
+    intercourse with Jews and Christians, and that materials were carefully recast.
+  category: other
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Muhammad
+  description: Presented by the preface as possibly adopting or recasting doctrines
+    and scriptural phraseology from surrounding religious traditions.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:7
+- id: fig:2
+  name_or_label: Jesus
+  description: Described as represented in the Koran as a holy teacher who had not
+    been put to death and had been miraculously taken from the earth.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Jews
+  description: Presented as a possible audience to be reconciled to Islam by a doctrine
+    that Jesus had not been put to death.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Christians
+  description: Presented as a community reproached in the Koran for having split their
+    religion into parties.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: Enoch
+  description: Named as a patriarch comparable to Jesus in being miraculously taken
+    from the earth.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Elijah
+  description: Named as a prophet comparable to Jesus in being miraculously taken
+    from the earth.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:7
+  name_or_label: Gabriel
+  description: Associated with an exterminating or awakening cry compared to judgment
+    language about the dead hearing a divine voice.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+- id: fig:8
+  name_or_label: Ebionites, Essenes, and Sabeites
+  description: Named as groups whose doctrines or practices are said to have points
+    of contact with Islam.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+- id: fig:9
+  name_or_label: Chadijah, Waraka, and other Meccan Christians
+  description: Named as possible intermediaries through whom fragments of the Old
+    or New Testament may have reached Muhammad.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: religious recipient and recaster
+  assigned_to:
+  - fig:1
+  basis: The passage says Muhammad may have adopted, borrowed, or recast materials
+    from other religious traditions.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:7
+- id: role:2
+  label: holy teacher miraculously taken from earth
+  assigned_to:
+  - fig:2
+  basis: Jesus is described as a holy teacher not put to death but miraculously taken
+    from the earth.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: hypothetical reconciled audience
+  assigned_to:
+  - fig:3
+  basis: The passage says the Crucifixion doctrine may have been adopted to reconcile
+    Jews to Islam.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: divided religious community
+  assigned_to:
+  - fig:4
+  basis: The passage says the Koran reproaches Christians for having split their religion
+    into parties.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: precedent for miraculous removal
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: Enoch and Elijah are named as comparanda for a holy figure miraculously taken
+    from the earth.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: angelic voice or cry at judgment
+  assigned_to:
+  - fig:7
+  basis: Gabriel is associated with an exterminating or awakening cry compared with
+    last-judgment language.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: source-tradition groups
+  assigned_to:
+  - fig:8
+  basis: The passage says Muhammad borrowed in several points from these groups or
+    that their practices show points of contact with Islam.
+  evidence_refs:
+  - ev:4
+- id: role:8
+  label: possible textual intermediaries
+  assigned_to:
+  - fig:9
+  basis: The passage says fragments of scripture may have reached Muhammad through
+    these persons or groups.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: miraculous taking from earth
+  literal_form: A holy teacher being miraculously taken from the earth rather than
+    put to death.
+  associated_figures:
+  - fig:2
+  - fig:5
+  - fig:6
+  taxonomy_refs:
+  - ascent
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: Crucifixion denied
+  literal_form: The claim that Jesus had not been put to death.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Gabriel's awakening or exterminating cry
+  literal_form: An exterminating or awakening cry attributed to Gabriel.
+  associated_figures:
+  - fig:7
+  taxonomy_refs:
+  - divine_judgment
+  - resurrection
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: the hour as judgment or crisis
+  literal_form: The word hour used as meaning any judgment or crisis, including the
+    last judgment context.
+  associated_figures: []
+  taxonomy_refs:
+  - divine_judgment
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: Jerusalem as Kebla
+  literal_form: Jerusalem enjoined as the direction of prayer.
+  associated_figures:
+  - fig:8
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: oaths by natural objects
+  literal_form: Oaths by clouds, signs of the Zodiac, oil, winds, and similar natural
+    objects.
+  associated_figures:
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Hypothetical reconciliation through a non-crucifixion doctrine
+  summary: The preface proposes that a doctrine denying Jesus' death could have been
+    adopted to reconcile Jews to Islam by removing the obstacle of atonement and presenting
+    Jesus as a holy teacher taken from earth.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Comparison of judgment voices
+  summary: The preface compares scriptural language about the last judgment and the
+    dead hearing the Son of God's voice with an exterminating or awakening cry of
+    Gabriel.
+  figure_refs:
+  - fig:7
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:6
+- id: scene:3
+  label: Borrowing and ritual points of contact
+  summary: The preface identifies points of contact between Islam and the Ebionites,
+    Essenes, and Sabeites, including prayer direction, washings, and oaths by natural
+    objects.
+  figure_refs:
+  - fig:1
+  - fig:8
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Indirect scriptural acquaintance and recasting
+  summary: The preface states that direct access to Christian Scripture is not evidenced,
+    but allows possible fragments and describes scriptural phraseology as coming through
+    legends or personal contact and being carefully recast.
+  figure_refs:
+  - fig:1
+  - fig:9
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Miraculous removal from earth instead of death
+  taxonomy_refs:
+  - ascent
+  basis: Jesus is described as not put to death but miraculously taken from the earth,
+    with Enoch and Elijah named as parallels.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage is a translator's preface summarizing and interpreting Qur'anic
+    representation, not a direct narrative extract from the Koran itself.
+- id: motif:2
+  label: Denial or avoidance of the Crucifixion
+  taxonomy_refs: []
+  basis: The passage says a doctrine concerning the Crucifixion may have been adopted
+    in which Jesus had not been put to death.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The excerpt presents this as a possible historical explanation, not as
+    a full narrative motif in the passage.
+- id: motif:3
+  label: Awakening cry at the last judgment
+  taxonomy_refs:
+  - divine_judgment
+  - resurrection
+  basis: The passage mentions the last judgment, the dead hearing a divine voice,
+    and an exterminating or awakening cry of Gabriel.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: This motif is mentioned in a comparative aside rather than narrated.
+- id: motif:4
+  label: Ritual orientation and purification as religious contact points
+  taxonomy_refs: []
+  basis: The passage lists Jerusalem as Kebla and ritual washings among practices
+    showing contact between Islam and Ebionite or Sabeite groups.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: These are ritual motifs or practices rather than mythic narrative motifs.
+- id: motif:5
+  label: Sacred language recast from neighboring traditions
+  taxonomy_refs:
+  - wisdom
+  basis: The passage says scriptural phraseology reached Muhammad through legends
+    and personal contact and that materials were carefully recast.
+  evidence_refs:
+  - ev:7
+  confidence: low
+  cautions: The taxonomy reference is broad; the passage concerns textual and doctrinal
+    transmission more than a discrete mythic motif.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares Jesus' miraculous taking from earth with
+    the cases of Enoch and Elijah.
+  claim_level: same_motif
+  target: Enoch and Elijah as figures miraculously taken from earth
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is made in the translator's explanatory preface and
+    does not itself provide the full Enoch or Elijah narratives.
+- id: claim:2
+  claim: The passage compares an awakening or exterminating cry of Gabriel with New
+    Testament-style last-judgment language about the dead hearing the Son of God's
+    voice.
+  claim_level: same_function
+  target: Last-judgment voice that the dead hear
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is brief and based on phraseological resemblance as
+    reported in the preface.
+- id: claim:3
+  claim: The passage argues for historical points of contact between Islam and the
+    doctrines or practices of Ebionites, Essenes, and Sabeites.
+  claim_level: historical_contact
+  target: Ebionite, Essene, and Sabeite traditions
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is the translator's historical inference; the excerpt does not
+    provide independent documentation beyond the stated parallels.
+- id: claim:4
+  claim: The passage cautiously links Qur'anic phraseology with Jewish and Christian
+    scriptural language through popular legends and personal intercourse, while denying
+    clear direct access to Christian Scriptures.
+  claim_level: linguistic_similarity
+  target: Old and New Testament phraseology
+  evidence_refs:
+  - ev:5
+  - ev:7
+  counter_evidence_refs:
+  - ev:5
+  confidence: medium
+  limitations: The passage distinguishes general acquaintance and recasting from direct
+    quotation; it also says some similarities may be accidental.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 722-733
+  quote_or_summary: The preface reports a supposition that Muhammad derived notions
+    about Christianity from Gnosticism, but says there is no historical authority
+    for Gnostic doctrines being taught in Arabia.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source text; summary generated from supplied passage.
+- id: ev:2
+  type: quote
+  locator: lines 734-743
+  quote_or_summary: The passage says it is possible Jesus was presented as not put
+    to death and as "a holy teacher" who, like Enoch or Elijah, "had been miraculously
+    taken from the earth."
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source text; short quotation from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 743-748
+  quote_or_summary: The preface says Qur'anic statements about Jesus' family and history
+    are opposed to Gnostic emanation doctrines and to a baptismal union with a higher
+    nature.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source text; summary generated from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 748-760
+  quote_or_summary: The preface says Muhammad borrowed in several points from Ebionites,
+    Essenes, and Sabeites and lists practices including circumcision, opposition to
+    celibacy, Jerusalem as Kebla, washings, and oaths by natural objects.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source text; summary generated from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 762-770
+  quote_or_summary: The preface says there is no evidence Muhammad had access to Christian
+    Scriptures, though fragments may have reached him through Chadijah, Waraka, or
+    other Meccan Christians; it mentions one direct quotation from Scripture in the
+    Koran.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source text; summary generated from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 770-776
+  quote_or_summary: The preface compares several scriptural passages and includes
+    the last judgment, the dead hearing the Son of God's voice, and the exterminating
+    or awakening cry of Gabriel.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source text; summary generated from supplied passage.
+- id: ev:7
+  type: summary
+  locator: lines 776-779
+  quote_or_summary: The preface says such passages result from Muhammad's general
+    acquaintance with scriptural phraseology through legends and personal intercourse
+    with Jews and Christians, and that any materials were carefully recast.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source text; summary generated from supplied passage.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is a scholarly preface rather than a mythic narrative. Motifs
+    are extracted from reported doctrines, comparisons, and ritual-contact claims
+    within the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No figures or comparisons were added beyond those named or directly supported in the supplied passage.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-rodwell-gutenberg__l722-l779
+  passage_sha256=1cd67d0bd8c7e8eac37c81e3c2bb6b5c531beaf9a938d081e480a1dc6205e9af

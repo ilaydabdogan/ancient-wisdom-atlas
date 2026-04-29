@@ -10,45 +10,20 @@ summary:
   text_count: 58
   texts_with_extractions: 58
   texts_without_extractions: 0
-  texts_needing_full_extraction: 22
+  texts_needing_full_extraction: 21
   texts_needing_review_or_normalization: 58
-  extraction_record_count: 4714
-  candidate_motif_count: 22360
-  taxonomy_ref_count: 17691
-  comparison_claim_count: 4239
+  extraction_record_count: 4914
+  candidate_motif_count: 23489
+  taxonomy_ref_count: 18692
+  comparison_claim_count: 4404
   status_counts:
-    dense_draft: 36
+    dense_draft: 37
     developing: 16
-    thin: 6
+    thin: 5
   priority_counts:
-    high: 6
-    medium: 52
+    high: 5
+    medium: 53
 texts:
-- source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
-  source_text_id: islamic.koran.rodwell_gutenberg
-  title: The Koran (Al-Qur'an)
-  tradition: islamic
-  culture: arabic_islamic_later_translation
-  region: arabia_west_asia
-  date_range: 7th century source text; public-domain English translation
-  word_count: 203200
-  target_extraction_records: 40
-  coverage_ratio: 0.05
-  status: thin
-  priority: high
-  needs_full_extraction: true
-  needs_review_or_normalization: true
-  extraction_record_count: 2
-  generated_record_count: 0
-  needs_review_count: 2
-  reviewed_count: 0
-  candidate_motif_count: 6
-  taxonomy_ref_count: 3
-  comparison_claim_count: 2
-  empty_motif_record_count: 0
-  extraction_paths:
-  - extractions/islamic/project-gutenberg/koran/koran-rodwell-earthquake-works-judgment.yml
-  - extractions/islamic/project-gutenberg/koran/koran-rodwell-recitation-created-man.yml
 - source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
   source_text_id: islamicate_folklore.arabian_nights.lang_gutenberg
   title: The Arabian Nights Entertainments
@@ -4518,6 +4493,88 @@ texts:
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/australian-legendary-tales-parker/batch-motif-indigenous-australian-australian-legendary-tales-parker-gutenberg-l933-l1019.yml
   - extractions/indigenous-australian/project-gutenberg/australian-legendary-tales/australian-legendary-tales-fire-makers.yml
   - extractions/indigenous-australian/project-gutenberg/australian-legendary-tales/australian-legendary-tales-origin-narran-lake.yml
+- source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  source_text_id: islamic.koran.rodwell_gutenberg
+  title: The Koran (Al-Qur'an)
+  tradition: islamic
+  culture: arabic_islamic_later_translation
+  region: arabia_west_asia
+  date_range: 7th century source text; public-domain English translation
+  word_count: 203200
+  target_extraction_records: 40
+  coverage_ratio: 1.475
+  status: dense_draft
+  priority: medium
+  needs_full_extraction: false
+  needs_review_or_normalization: true
+  extraction_record_count: 59
+  generated_record_count: 57
+  needs_review_count: 59
+  reviewed_count: 0
+  candidate_motif_count: 380
+  taxonomy_ref_count: 365
+  comparison_claim_count: 83
+  empty_motif_record_count: 1
+  extraction_paths:
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l1143-l1311.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l1313-l1435.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l1437-l1607.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l1609-l1839.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l1841-l2018.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l201-l285.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l2020-l2251.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l2254-l2504.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l2506-l2739.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l2741-l2973.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l287-l351.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l2975-l3208.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l3210-l3455.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l3457-l3676.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l353-l384.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l3678-l3891.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l386-l465.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l3893-l4118.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l4120-l4331.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l4333-l4512.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l4514-l4760.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l467-l517.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l4762-l4955.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l4957-l5183.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l5185-l5401.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l519-l571.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l5403-l5596.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l5598-l5788.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l573-l652.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l5790-l5982.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l5984-l6131.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l6133-l6277.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l6279-l6438.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l6440-l6654.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l654-l720.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l6656-l6879.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l67-l198.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l6881-l7048.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l7050-l7238.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l722-l779.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l7240-l7394.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l7396-l7552.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l7554-l7691.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l7693-l7858.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l781-l846.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l7860-l8026.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l8028-l8198.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l8200-l8362.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l8364-l8516.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l848-l912.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l8518-l8693.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l8695-l8860.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l8862-l9028.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l9030-l9193.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l914-l996.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l9195-l9356.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l998-l1141.yml
+  - extractions/islamic/project-gutenberg/koran/koran-rodwell-earthquake-works-judgment.yml
+  - extractions/islamic/project-gutenberg/koran/koran-rodwell-recitation-created-man.yml
 - source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
   source_text_id: islamic.koran.sale_gutenberg
   title: The Koran (Al-Qur'an)
@@ -4527,19 +4584,19 @@ texts:
   date_range: 7th century source text; 1734 public-domain English translation
   word_count: 423262
   target_extraction_records: 40
-  coverage_ratio: 5.65
+  coverage_ratio: 9.225
   status: dense_draft
   priority: medium
   needs_full_extraction: false
   needs_review_or_normalization: true
-  extraction_record_count: 226
-  generated_record_count: 224
-  needs_review_count: 226
+  extraction_record_count: 369
+  generated_record_count: 367
+  needs_review_count: 369
   reviewed_count: 0
-  candidate_motif_count: 1070
-  taxonomy_ref_count: 765
-  comparison_claim_count: 277
-  empty_motif_record_count: 6
+  candidate_motif_count: 1825
+  taxonomy_ref_count: 1404
+  comparison_claim_count: 361
+  empty_motif_record_count: 7
   extraction_paths:
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l10045-l10130.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l10133-l10199.yml
@@ -4637,26 +4694,169 @@ texts:
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l2914-l2964.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l294-l377.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l2967-l3017.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l30090-l30134.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l30137-l30241.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l3020-l3067.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l30244-l30332.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l30335-l30394.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l30397-l30478.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l30481-l30579.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l30582-l30681.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l30683-l30751.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l3070-l3120.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l30754-l30821.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l30824-l30891.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l30894-l30975.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l30978-l31092.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l31094-l31213.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l31215-l31300.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l3123-l3167.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l31302-l31400.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l31403-l31487.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l31490-l31585.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l31587-l31688.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l31690-l31726.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l3170-l3216.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l31729-l31833.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l31836-l31890.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l31893-l31952.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l31955-l32047.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l32049-l32073.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l32076-l32134.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l32137-l32197.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l3219-l3266.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l32200-l32262.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l32265-l32322.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l32325-l32398.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l32401-l32508.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l32511-l32573.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l32576-l32633.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l32636-l32735.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l3269-l3318.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l32737-l32811.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l32814-l32849.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l32852-l32936.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l32939-l33033.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l33035-l33129.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l33132-l33207.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l3321-l3372.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l33210-l33306.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l33309-l33405.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l33408-l33433.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l33436-l33526.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l33529-l33618.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l33621-l33701.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l33704-l33797.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l3375-l3422.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l33800-l33884.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l33886-l33983.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l33986-l34065.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l34068-l34136.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l34138-l34184.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l34187-l34273.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l3425-l3470.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l34275-l34337.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l34340-l34446.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l34449-l34490.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l34492-l34610.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l34613-l34720.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l34723-l34758.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l3473-l3523.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l34760-l34864.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l34867-l34951.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l34954-l35047.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l35049-l35102.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l35105-l35216.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l35218-l35320.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l3526-l3575.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l35323-l35422.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l35425-l35492.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l35495-l35590.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l35592-l35638.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l35641-l35736.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l35739-l35815.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l3578-l3663.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l35818-l35898.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l35900-l35947.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l35949-l36032.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l36035-l36118.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l36121-l36175.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l36178-l36249.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l36252-l36326.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l36329-l36351.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l36353-l36436.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l36439-l36508.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l36511-l36589.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l36592-l36677.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l3665-l3714.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l36679-l36751.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l36754-l36875.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l36878-l36974.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l36977-l37065.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l37068-l37158.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l37160-l37248.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l3717-l3792.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l37250-l37280.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l37283-l37399.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l37401-l37421.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l37424-l37503.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l37506-l37595.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l37597-l37624.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l37627-l37713.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l37716-l37782.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l37784-l37866.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l378-l462.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l37868-l37940.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l37942-l37996.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l3795-l3850.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l37999-l38042.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l38045-l38130.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l38132-l38188.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l38191-l38267.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l38270-l38295.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l38298-l38347.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l38349-l38409.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l38412-l38514.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l38516-l38545.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l3853-l3902.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l38548-l38575.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l38577-l38631.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l38634-l38665.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l38668-l38701.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l38704-l38720.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l38723-l38779.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l38782-l38848.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l38851-l38865.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l38868-l38924.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l38927-l38963.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l38966-l38988.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l38991-l39019.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l39022-l39041.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l39044-l39096.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l3905-l3954.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l39099-l39107.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l39109-l39187.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l39189-l39204.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l39207-l39250.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l39253-l39273.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l39275-l39321.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l39324-l39379.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l39382-l39445.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l39448-l39466.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l39468-l39512.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l39515-l39524.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l39526-l39627.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l3957-l4008.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l39628-l39754.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l39757-l39845.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l39848-l39924.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l39927-l39986.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l39988-l40053.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l40056-l40155.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l4011-l4062.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l40156-l40260.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l40263-l40374.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l40377-l40474.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l4065-l4117.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l4120-l4169.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l4172-l4219.yml

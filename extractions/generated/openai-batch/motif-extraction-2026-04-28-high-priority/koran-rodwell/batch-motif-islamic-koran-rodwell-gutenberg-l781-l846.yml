@@ -1,0 +1,417 @@
+---
+record_id: batch.motif.islamic-koran-rodwell-gutenberg-l781-l846
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+passage_locator:
+  label: PUBLIC SERVICES, / AND EMINENT LITERARY ATTAINMENTS, / THE TRANSLATOR. /
+    PREFACE; lines 781-846
+  start: '781'
+  end: '846'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The preface argues about Arabic biblical translations before Muhammad,
+    possible Jewish and Christian sources for Muhammad’s knowledge of biblical narratives,
+    alleged rabbinic influence, accusations by the Koreisch that he received dictation
+    from teachers, and the author’s view that Qur'anic materials were recast into
+    a unified style by a single pen.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that there are no traces of Arabic versions of the Old
+    or New Testament before the time of Muhammad.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage dates the earliest known Arabic Old Testament version to R. Saadias
+    Gaon in A.D. 900 and describes the oldest Arabic New Testament version mentioned
+    as copied in 1171 and published in 1616.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage says that the phraseology of existing Arabic biblical versions
+    is not that of the Koran and that these versions appear to derive from several
+    other textual traditions.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage claims Muhammad could have derived knowledge of Scripture histories
+    from Arab Jews.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage states that Muhammad received instruction from Jewish and Christian
+    informants in secrecy and declared biblical histories to pagan Meccans as divine
+    revelation.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage asserts that Rabbins of the Hejaz communicated legends to Muhammad
+    and connects this with Talmudic material.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The passage says Muhammad at one time had relations of friendship and intimacy
+    with Jews and mentions an individual Jew as a witness to his mission.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The passage states that the Koreisch accused Muhammad of writing from the
+    dictation of teachers morning and evening.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: The passage says Muhammad’s received information was embellished and recast
+    in his own mind and words.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: The passage describes the ayats of the Koran as having unity of thought, directness
+    and simplicity of purpose, a peculiar and laboured style, and uniform diction.
+  category: attribute
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Muhammad
+  description: Central figure discussed as receiving information, declaring revelation,
+    and shaping Koranic ayats and Suras.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: Arab Jews
+  description: Group said to be a source from whom Muhammad could derive knowledge
+    of Scripture histories.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Christian informants
+  description: Group described as giving instruction to Muhammad in secrecy.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Rabbins of the Hejaz
+  description: Group said to have communicated legends to Muhammad.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: ignorant pagan Meccans
+  description: Audience to whom Muhammad is said to have declared biblical histories
+    as revealed by God.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: individual Jew
+  description: An unnamed Jew described as a witness to Muhammad’s mission.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+- id: fig:7
+  name_or_label: Koreisch
+  description: Group said to know enough of Muhammad’s private history to reject his
+    claims and accuse him of writing from teachers’ dictation.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:7
+- id: fig:8
+  name_or_label: R. Saadias Gaon
+  description: Named as author of the earliest Arabic Old Testament version known
+    to the passage’s author.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: recipient or claimant of revelation
+  assigned_to:
+  - fig:1
+  basis: The passage says Muhammad declared biblical histories to be revealed by God
+    and discusses his claim about divine revelation.
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: role:2
+  label: receiver of instruction
+  assigned_to:
+  - fig:1
+  basis: The passage says Muhammad received instruction from Jewish and Christian
+    informants and was accused of writing from teachers’ dictation.
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: role:3
+  label: reworker of transmitted material
+  assigned_to:
+  - fig:1
+  basis: The passage says information received by Muhammad was embellished and recast
+    in his own mind and words.
+  evidence_refs:
+  - ev:8
+- id: role:4
+  label: source of transmitted religious narratives
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:4
+  basis: Arab Jews, Christian informants, and Rabbins of the Hejaz are each described
+    as providing or communicating knowledge, instruction, or legends.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:5
+  label: audience of proclaimed revelation
+  assigned_to:
+  - fig:5
+  basis: The passage says Muhammad declared biblical histories to pagan Meccans as
+    revealed by God.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: witness to mission
+  assigned_to:
+  - fig:6
+  basis: The passage mentions an individual Jew as a witness to Muhammad’s mission.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: accusers or rejecters of prophetic claim
+  assigned_to:
+  - fig:7
+  basis: The passage states that the Koreisch disbelieved and disproved Muhammad’s
+    pretensions and accused him of dictation from teachers.
+  evidence_refs:
+  - ev:7
+- id: role:8
+  label: translator of Arabic Old Testament version
+  assigned_to:
+  - fig:8
+  basis: The passage identifies R. Saadias Gaon with the earliest known Arabic Old
+    Testament version.
+  evidence_refs:
+  - ev:1
+symbols: []
+scenes:
+- id: scene:1
+  label: Argument about Arabic biblical versions
+  summary: The passage argues that Arabic versions of the Old and New Testament are
+    not traceable before Muhammad and that later known Arabic versions do not match
+    the Koran’s phraseology.
+  figure_refs:
+  - fig:8
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Transmission of scriptural histories
+  summary: The passage presents Muhammad as receiving scriptural histories, instruction,
+    and legends from Arab Jews, Christian informants, and Rabbins of the Hejaz, then
+    declaring some of those histories as divine revelation to pagan Meccans.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Challenge to prophetic claim
+  summary: The passage states that the Koreisch rejected Muhammad’s claim to divine
+    revelation and accused him of writing from teachers’ dictation.
+  figure_refs:
+  - fig:1
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+- id: scene:4
+  label: Recasting into Koranic form
+  summary: The passage says Muhammad embellished and recast received information into
+    his own words and presents the Koranic ayats as evidence of a single authorial
+    style.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Secret instruction followed by public claim of revelation
+  taxonomy_refs: []
+  basis: The passage describes Muhammad as receiving instruction in secrecy from Jewish
+    and Christian informants and declaring biblical histories to pagan Meccans as
+    revealed by God.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: This is a claim made in the translator’s preface, not a narrative episode
+    from the Koran itself; it is polemical and requires historical review.
+- id: motif:2
+  label: Transmission and recasting of sacred narratives
+  taxonomy_refs:
+  - wisdom
+  basis: The passage describes scriptural histories, rabbinic legends, and other information
+    as transmitted to Muhammad and then embellished and recast in his own words into
+    ayats and Suras.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:8
+  confidence: medium
+  cautions: The taxonomy link to wisdom is broad; the passage concerns literary and
+    religious transmission rather than a mythic wisdom quest.
+- id: motif:3
+  label: Disputed revelation attributed to human teachers
+  taxonomy_refs: []
+  basis: The passage says the Koreisch rejected Muhammad’s claim to divine revelation
+    and accused him of writing from the dictation of teachers morning and evening.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: This records the passage’s description of an accusation and does not establish
+    the historical accuracy of the accusation.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares Koranic narrative material with histories
+    common to the Scriptures and the Koran, while stating that existing Arabic biblical
+    versions do not share the Koran’s phraseology.
+  claim_level: same_function
+  target: Scriptural histories shared between the Scriptures and the Koran
+  evidence_refs:
+  - ev:2
+  - ev:3
+  counter_evidence_refs:
+  - ev:2
+  confidence: medium
+  limitations: The passage is concerned with textual source criticism and does not
+    provide a specific narrative-by-narrative comparison.
+- id: claim:2
+  claim: The passage claims an identity between some Koranic material and Talmudic
+    or Rabbinic versions of Scripture histories and moral precepts.
+  claim_level: same_motif
+  target: Talmudic and Rabbinic treatments of Scripture histories
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage asserts the relationship generally and does not quote the
+    specific Koranic or Talmudic passages here.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 781-797
+  quote_or_summary: The passage states that no Arabic Old or New Testament versions
+    are traceable before Muhammad; it names R. Saadias Gaon’s A.D. 900 Old Testament
+    version and a New Testament version copied in 1171 and published in 1616.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:2
+  type: summary
+  locator: lines 798-817
+  quote_or_summary: The passage says later Arabic biblical versions would be relevant
+    if their phraseology and proper names resembled the Koran, but states that this
+    does not appear to be the case and that existing versions derive from other textual
+    bases.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:3
+  type: quote
+  locator: lines 818-819
+  quote_or_summary: "“From the Arab Jews, Muhammad would be enabled to derive an abundant,
+    though most distorted, knowledge of the Scripture histories.”"
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: summary
+  locator: lines 819-823
+  quote_or_summary: The passage says Muhammad received instruction secretly from Jewish
+    and Christian informants and declared biblical histories to pagan Meccans as revealed
+    by God.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:5
+  type: summary
+  locator: lines 823-828
+  quote_or_summary: The passage claims that Talmudic perversions of Scripture histories
+    and Rabbinic moral precepts show that Rabbins of the Hejaz communicated legends
+    to Muhammad; it notes that the Talmud was completed before Muhammad’s era.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:6
+  type: summary
+  locator: lines 828-834
+  quote_or_summary: The passage mentions an individual Jew as witness to Muhammad’s
+    mission and says Muhammad’s relations with Jews were once those of friendship
+    and intimacy.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:7
+  type: summary
+  locator: lines 834-839
+  quote_or_summary: The passage says the Koreisch disbelieved Muhammad’s claim to
+    divine revelation and accused him of writing from teachers’ dictation morning
+    and evening.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:8
+  type: summary
+  locator: lines 839-846
+  quote_or_summary: The passage says Muhammad embellished and recast received information
+    in his own words; it describes unity of thought, style, and diction in the Koranic
+    ayats and says shaping materials into Suras required time, study, and meditation.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; summary supplied.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is a translator’s preface and historical-source argument, not
+    a mythic narrative passage. Extracted motifs concern claims made within the passage
+    about transmission, revelation, and textual comparison; human review is needed
+    for polemical framing and historical accuracy.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No concrete mythic symbols from the provided taxonomy were present in this passage; symbols array left empty.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-rodwell-gutenberg__l781-l846
+  passage_sha256=5e78f970ba513b6d4b5e6cf6c5e9a8ceed9ea0454a6d5be66cb1f8a6e569ca6b

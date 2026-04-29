@@ -1,0 +1,468 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l35105-l35216
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: IN THE NAME OF THE MOST MERCIFUL GOD. / CHAPTER LVI. / ENTITLED, THE INEVITABLE;
+    REVEALED AT MECCA. / IN THE NAME OF THE MOST MERCIFUL GOD.; lines 35105-35216
+  start: '35105'
+  end: '35216'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: When the earth shall be shaken with a violent shock; and the mountains shall
+    be dashed in pieces... and ye shall be separated into three distinct classes
+  summary: The passage announces the sudden coming of the day of judgment, cosmic
+    upheaval, and the division of people into three classes. It describes the blessed
+    state of those who preceded others in faith and the companions of the right hand,
+    including gardens, couches, attendants, food, drink, peace, trees, shade, water,
+    fruits, and created damsels. It contrasts the companions of the right hand with
+    the miserable companions of the left hand.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The day of judgment is described as coming suddenly and as a prediction no
+    soul will call false.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The earth is shaken violently, and the mountains are broken into pieces and
+    become scattered dust.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: People are separated into three distinct classes.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The companions of the right hand are described as happy, and the companions
+    of the left hand are described as miserable.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Those who have preceded others in faith are said to precede them to paradise
+    and approach near to God.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Those near to God dwell in gardens of delight and recline on adorned couches
+    while facing one another.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Ever-blooming youths attend those in paradise with vessels and flowing wine,
+    which does not cause headache or disturb reason.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Paradise includes chosen fruits, desired bird flesh, fair damsels with large
+    black eyes, and peaceful speech.
+  category: object
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: The companions of the right hand dwell among thornless lote-trees, loaded
+    mauzz trees, extended shade, flowing water, abundant fruit, and lofty beds.
+  category: setting
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: The damsels of paradise are described as specially created, virgins, beloved
+    by their husbands, and of equal age with them.
+  category: attribute
+  evidence_refs:
+  - ev:9
+- id: obs:11
+  text: A footnote identifies the companions of the right and left hand as the blessed
+    and the damned and connects the terms with the delivery of books into right or
+    left hands.
+  category: other
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: God
+  description: The deity named in the opening formula and approached by those who
+    have preceded others in faith.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: companions of the right hand
+  description: A happy class whose abode is described with trees, shade, water, fruits,
+    beds, and damsels.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:8
+  - ev:9
+- id: fig:3
+  name_or_label: companions of the left hand
+  description: A miserable class named in contrast to the companions of the right
+    hand.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: those who have preceded others in the faith
+  description: A class who precede others to paradise, approach near to God, and dwell
+    in gardens of delight.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: ever-blooming youths
+  description: Youths who continually attend the blessed with goblets, beakers, and
+    a cup of flowing wine.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: fair damsels of paradise
+  description: Damsels described as fair, large-eyed, pearl-like, specially created,
+    virgins, beloved, and of equal age with their husbands.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+  - ev:9
+roles:
+- id: role:1
+  label: deity approached by the foremost faithful
+  assigned_to:
+  - fig:1
+  basis: Those who preceded others in faith are said to approach near unto God.
+  evidence_refs:
+  - ev:4
+- id: role:2
+  label: happy afterlife class
+  assigned_to:
+  - fig:2
+  basis: The companions of the right hand are called happy and are assigned a pleasurable
+    abode.
+  evidence_refs:
+  - ev:3
+  - ev:8
+  - ev:9
+- id: role:3
+  label: miserable afterlife class
+  assigned_to:
+  - fig:3
+  basis: The companions of the left hand are explicitly called miserable.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: foremost faithful near God
+  assigned_to:
+  - fig:4
+  basis: They precede others to paradise and approach near to God.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:5
+  label: paradise attendants
+  assigned_to:
+  - fig:5
+  basis: They go round to attend the blessed with drinking vessels and flowing wine.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: paradise companions
+  assigned_to:
+  - fig:6
+  basis: They accompany the blessed and are described as created for delight in paradise.
+  evidence_refs:
+  - ev:7
+  - ev:9
+symbols:
+- id: sym:1
+  label: shattered mountains
+  literal_form: mountains dashed in pieces and becoming scattered dust
+  associated_figures: []
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: right hand and left hand division
+  literal_form: companions of the right hand and companions of the left hand
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:10
+- id: sym:3
+  label: gardens of delight
+  literal_form: paradisal gardens where the foremost faithful dwell
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: paradise trees
+  literal_form: thornless lote-trees and loaded mauzz trees
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:8
+- id: sym:5
+  label: flowing water
+  literal_form: flowing water near the companions of the right hand
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:8
+- id: sym:6
+  label: peaceful salutation
+  literal_form: the repeated salutation, Peace! Peace!
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:7
+  label: flowing wine
+  literal_form: a cup of flowing wine served without headache or disturbance of reason
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: sudden day of judgment and cosmic upheaval
+  summary: The day of judgment arrives suddenly; the earth shakes, the mountains are
+    pulverized, and people are separated into three classes.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:2
+  label: paradise of those near to God
+  summary: Those who preceded others in faith are near God in gardens of delight,
+    reclining on adorned couches, attended by youths, receiving food and drink, accompanied
+    by damsels, and hearing only peace.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:3
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: scene:3
+  label: abode of the companions of the right hand
+  summary: The companions of the right hand are placed among thornless trees, loaded
+    trees, shade, flowing water, abundant fruit, lofty beds, and specially created
+    damsels.
+  figure_refs:
+  - fig:2
+  - fig:6
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: sudden divine judgment with separation of the blessed and miserable
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage names the day of judgment, describes its sudden arrival, and
+    divides people into classes including happy right-hand companions and miserable
+    left-hand companions.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:10
+  confidence: high
+  cautions: The passage focuses on judgment and classification but does not narrate
+    an extended courtroom scene.
+- id: motif:2
+  label: cosmic upheaval at judgment
+  taxonomy_refs:
+  - chaos
+  basis: The earth shakes violently and mountains are reduced to scattered dust at
+    the arrival of the judgment day.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The upheaval is brief and tied specifically to eschatological judgment
+    rather than a full chaos myth.
+- id: motif:3
+  label: afterlife abodes ranked by moral or religious class
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The passage distinguishes three classes and gives detailed paradisal settings
+    for the foremost faithful and for the companions of the right hand.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:8
+  - ev:9
+  confidence: medium
+  cautions: The passage maps classes and abodes but does not describe a journey through
+    the afterlife.
+- id: motif:4
+  label: paradise garden of abundance and peace
+  taxonomy_refs: []
+  basis: The blessed dwell amid gardens, couches, food, drink, attendants, damsels,
+    trees, shade, water, fruit, and the salutation of peace.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: No specific taxonomy reference for paradise garden was supplied beyond
+    related object symbols such as tree and water.
+- id: motif:5
+  label: right-left moral polarity
+  taxonomy_refs:
+  - duality
+  basis: The passage opposes the happy companions of the right hand to the miserable
+    companions of the left hand, with a note linking the hands to blessed and damned
+    status.
+  evidence_refs:
+  - ev:3
+  - ev:10
+  confidence: medium
+  cautions: The passage also includes a third class, so the structure is not purely
+    binary.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 35105-35216; opening judgment announcement
+  quote_or_summary: "“WHEN the inevitables day of judgment shall suddenly come, no
+    soul shall charge the prediction of its coming with falsehood”"
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; short quotation used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 35105-35216; cosmic upheaval
+  quote_or_summary: "“the earth shall be shaken with a violent shock; and the mountains
+    shall be dashed in pieces, and shall become as dust scattered abroad”"
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; short quotation used for evidence.
+- id: ev:3
+  type: summary
+  locator: lines 35105-35216; class division
+  quote_or_summary: 'People are separated into three classes: companions of the right
+    hand, companions of the left hand, and those who have preceded others in faith;
+    the right-hand group is happy and the left-hand group miserable.'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 35105-35216; lines around numbered 10
+  quote_or_summary: Those who have preceded others in faith are said to precede them
+    to paradise and approach near to God.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 35105-35216; foremost faithful paradise description
+  quote_or_summary: The foremost faithful dwell in gardens of delight, recline on
+    gold- and jewel-adorned couches, and sit opposite one another.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: lines 35105-35216; attendant youths and wine
+  quote_or_summary: Ever-blooming youths attend with goblets, beakers, and flowing
+    wine that does not cause headache or disturb reason.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized evidence.
+- id: ev:7
+  type: summary
+  locator: lines 35105-35216; food, damsels, and peace
+  quote_or_summary: The blessed receive chosen fruits and desired bird flesh; fair
+    large-eyed damsels accompany them; they hear no vain discourse or charge of sin,
+    only “Peace! Peace!”
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; short quotation and summary from public
+    domain text.
+- id: ev:8
+  type: summary
+  locator: lines 35105-35216; companions of the right hand abode
+  quote_or_summary: The companions of the right hand dwell among thornless lote-trees,
+    loaded mauzz trees, extended shade, flowing water, abundant fruit, and lofty beds.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized evidence.
+- id: ev:9
+  type: summary
+  locator: lines 35105-35216; created damsels
+  quote_or_summary: The damsels of paradise are described as specially created, virgins,
+    beloved by their husbands, and of equal age with them for the delight of the companions
+    of the right hand.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized evidence.
+- id: ev:10
+  type: note
+  locator: lines 35105-35216; note t
+  quote_or_summary: The note explains the right-hand and left-hand groups as the blessed
+    and damned and links them to the delivery of books of deeds into the right or
+    left hand.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized translator/editorial note.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The main eschatological classification and paradise imagery are explicit.
+    Motif taxonomy assignments are cautious where the supplied taxonomy lacks a direct
+    paradise-garden category. No comparison claims were made because the passage itself
+    does not establish an external comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used. Footnotes were treated as passage-supplied notes when cited.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l35105-l35216
+  passage_sha256=0466d4c2813a4d3e3d3d2645ae24916cf56349f9a3f1c4a0a24dcdaf8e810c47

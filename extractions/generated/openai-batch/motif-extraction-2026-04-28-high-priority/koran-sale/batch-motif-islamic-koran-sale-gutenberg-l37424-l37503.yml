@@ -1,0 +1,568 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l37424-l37503
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: IN THE NAME OF THE MOST MERCIFUL GOD. / CHAPTER LXXV. / ENTITLED, THE RESURRECTION;
+    REVEALED AT MECCA. / IN THE NAME OF THE MOST MERCIFUL GOD.; lines 37424-37503
+  start: '37424'
+  end: '37503'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Chapter LXXV, entitled The Resurrection, swears by the day of resurrection
+    and the self-accusing soul; asserts that God can reassemble human bones; describes
+    cosmic signs, lack of refuge, disclosure of deeds, self-witness, instruction to
+    Mohammed concerning revelation, divergent faces on the last day, death agony,
+    being driven to the Lord, condemnation of unbelief, and creation from seed as
+    proof of the ability to quicken the dead.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage swears by the day of resurrection and by the soul that accuses
+    itself.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage denies that human bones will remain ungathered and states that
+    even the smallest finger bones can be put together.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The day of resurrection is associated with dazzled sight, an eclipsed moon,
+    and the conjunction of the sun and moon.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: On that day, man asks for a refuge, but the passage states that there is no
+    place to flee.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: On that day, the Lord is described as the sure mansion of rest, and a person
+    is told what he has done first and last.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: A person is described as evidence against himself, and his excuses are not
+    accepted.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Mohammed is told not to move his tongue hastily in repeating revelations brought
+    by Gabriel before their completion.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: God is said to be responsible for collecting the Koran in Mohammed's mind,
+    teaching its reading, and explaining it.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: On that day, some faces are bright and looking toward their Lord, while other
+    faces are dismal and expect a crushing calamity.
+  category: attribute
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: At death, a man's soul is described as coming up to his throat, while bystanders
+    ask who can bring a charm to recover him.
+  category: sequence
+  evidence_refs:
+  - ev:10
+- id: obs:11
+  text: The dying person is said to think it is his departure from this world, and
+    on that day he is driven to his Lord.
+  category: sequence
+  evidence_refs:
+  - ev:11
+- id: obs:12
+  text: The condemned person is described as not believing, not praying, accusing
+    God's apostle of imposture, turning back, and going to his family haughtily.
+  category: action
+  evidence_refs:
+  - ev:12
+- id: obs:13
+  text: The passage recalls human formation from emitted seed, then coagulated blood,
+    then fashioned proportionately, and made into male and female.
+  category: sequence
+  evidence_refs:
+  - ev:13
+- id: obs:14
+  text: The passage concludes by asking whether the one who made humans is able to
+    quicken the dead.
+  category: speech
+  evidence_refs:
+  - ev:14
+figures:
+- id: fig:1
+  name_or_label: God / LORD
+  description: The divine figure who can gather bones, is the destination on the day,
+    gives revelation, forms humans, and can quicken the dead.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:8
+  - ev:13
+  - ev:14
+- id: fig:2
+  name_or_label: Man / human being
+  description: The human figure who questions resurrection, seeks refuge, is told
+    his deeds, witnesses against himself, dies, is driven to the Lord, and is recalled
+    as created from seed.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:10
+  - ev:11
+  - ev:13
+- id: fig:3
+  name_or_label: Mohammed
+  description: The addressee instructed not to hasten in repeating revelations brought
+    to him by Gabriel.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: fig:4
+  name_or_label: Gabriel / the angel
+  description: The angelic mediator by whose tongue the revelation is read to Mohammed.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: fig:5
+  name_or_label: standers-by
+  description: Bystanders at a man's death agony who ask who can bring a charm to
+    recover him.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:10
+- id: fig:6
+  name_or_label: God's apostle
+  description: The apostle whom the condemned person accuses of imposture.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:12
+roles:
+- id: role:1
+  label: resurrecting deity
+  assigned_to:
+  - fig:1
+  basis: God is described as able to reassemble bones and quicken the dead.
+  evidence_refs:
+  - ev:2
+  - ev:14
+- id: role:2
+  label: divine judge and final destination
+  assigned_to:
+  - fig:1
+  basis: The Lord is the final place of rest and the one to whom the dying person
+    is driven.
+  evidence_refs:
+  - ev:5
+  - ev:11
+- id: role:3
+  label: creator and revealer
+  assigned_to:
+  - fig:1
+  basis: God forms the human being and is responsible for collecting, teaching, and
+    explaining the revelation.
+  evidence_refs:
+  - ev:8
+  - ev:13
+- id: role:4
+  label: accountable human
+  assigned_to:
+  - fig:2
+  basis: The human is told his deeds and is evidence against himself.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:5
+  label: dying person
+  assigned_to:
+  - fig:2
+  basis: The man's soul comes up to his throat and he is described as departing the
+    world.
+  evidence_refs:
+  - ev:10
+  - ev:11
+- id: role:6
+  label: recipient of revelation
+  assigned_to:
+  - fig:3
+  basis: Mohammed is instructed about how to receive and repeat the revelations.
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: role:7
+  label: angelic revealer
+  assigned_to:
+  - fig:4
+  basis: Gabriel brings revelations and the angel's tongue reads them.
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: role:8
+  label: deathbed witnesses
+  assigned_to:
+  - fig:5
+  basis: The standers-by speak during the man's last agony.
+  evidence_refs:
+  - ev:10
+- id: role:9
+  label: rejected apostle
+  assigned_to:
+  - fig:6
+  basis: The condemned person accuses God's apostle of imposture and turns back from
+    obeying him.
+  evidence_refs:
+  - ev:12
+symbols:
+- id: sym:1
+  label: gathered bones
+  literal_form: human bones, including the smallest bones of the fingers
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: darkened and conjoined luminaries
+  literal_form: eclipsed moon; sun and moon in conjunction
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: no refuge
+  literal_form: absence of a place to flee on the day of resurrection
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: self-witness
+  literal_form: a man as evidence against himself
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: contrasting faces
+  literal_form: bright countenances looking toward the Lord and dismal countenances
+    expecting calamity
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:6
+  label: soul at the throat
+  literal_form: a man's soul coming up to his throat in last agony
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+- id: sym:7
+  label: seed and coagulated blood
+  literal_form: emitted seed and little coagulated blood from which a human is formed
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:13
+scenes:
+- id: scene:1
+  label: Oath and assertion of bodily resurrection
+  summary: The passage invokes the day of resurrection and the self-accusing soul,
+    then affirms that God can gather human bones, including finger bones.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Cosmic signs and lack of refuge
+  summary: The day of resurrection is marked by altered sight, the moon's loss of
+    light, and sun-moon conjunction; man asks where to flee, but no refuge is available.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Judgment and self-testimony
+  summary: A person is brought before the Lord's final destination, told his deeds,
+    and becomes evidence against himself while excuses are rejected.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Instruction on receiving revelation
+  summary: Mohammed is told not to hurry his tongue while Gabriel brings revelation;
+    God will collect, teach, and explain the recitation.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: scene:5
+  label: Contrasting conditions on the day
+  summary: Some faces are bright and directed toward the Lord, while others are dismal
+    and expect crushing calamity.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:9
+- id: scene:6
+  label: Death agony and being driven to the Lord
+  summary: At death, the soul rises to the throat, bystanders ask for a charm, the
+    dying person recognizes departure from the world, and he is driven to the Lord.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:10
+  - ev:11
+- id: scene:7
+  label: Condemnation and proof from creation
+  summary: The passage condemns unbelief and rejection of the apostle, recalls human
+    formation from seed and blood into male and female, and asks whether the creator
+    can quicken the dead.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:6
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:12
+  - ev:13
+  - ev:14
+candidate_motifs:
+- id: motif:1
+  label: bodily resurrection of the dead
+  taxonomy_refs:
+  - resurrection
+  basis: The passage explicitly affirms the day of resurrection, the gathering of
+    bones, and the ability to quicken the dead.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:14
+  confidence: high
+  cautions: The extraction follows the English translation wording supplied in the
+    passage.
+- id: motif:2
+  label: final divine judgment with self-testimony
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage describes disclosure of deeds, a person serving as evidence against
+    himself, rejected excuses, and divergent outcomes marked by bright or dismal faces.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:9
+  confidence: high
+  cautions: The passage does not provide a detailed courtroom setting; the motif is
+    inferred from judgment actions stated in the text.
+- id: motif:3
+  label: cosmic portents at the last day
+  taxonomy_refs: []
+  basis: The passage links the eschatological day with dazzled sight, an eclipsed
+    moon, and conjunction or loss of light of the sun and moon.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: No available taxonomy reference exactly names cosmic portents.
+- id: motif:4
+  label: death as departure and approach to the divine
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The passage describes the soul reaching the throat, departure from the world,
+    and the person being driven to the Lord.
+  evidence_refs:
+  - ev:10
+  - ev:11
+  confidence: medium
+  cautions: The passage gives only a brief deathbed transition rather than an extended
+    afterlife itinerary.
+- id: motif:5
+  label: creation from seed as argument for resurrection
+  taxonomy_refs:
+  - resurrection
+  basis: The passage recalls formation from seed and coagulated blood, then asks whether
+    the creator can quicken the dead.
+  evidence_refs:
+  - ev:13
+  - ev:14
+  confidence: high
+  cautions: This is a theological argument within the passage, not a separate narrative
+    episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 37424-37432
+  quote_or_summary: The chapter is entitled The Resurrection and opens with an oath
+    by the day of resurrection and the self-accusing soul.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 37432-37435
+  quote_or_summary: "“doth man think that we will not gather his bones together? Yea:
+    we are able to put together the smallest bones of his fingers.”"
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: summary
+  locator: lines 37437-37440
+  quote_or_summary: The day is described with dazzled sight, an eclipsed moon, and
+    the sun and moon in conjunction.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 37441-37442
+  quote_or_summary: "“Where is a place of refuge? By no means: there shall be no place
+    to fly unto.”"
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short quotation.
+- id: ev:5
+  type: summary
+  locator: lines 37443-37444
+  quote_or_summary: With the Lord is the sure mansion of rest, and a person is told
+    what he has done first and last.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 37445-37446
+  quote_or_summary: A man is evidence against himself, and his excuses are not received.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 37447-37450
+  quote_or_summary: Mohammed is told not to move his tongue hastily in repeating revelations
+    brought by Gabriel before they are finished.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 37451-37458
+  quote_or_summary: God will collect the Koran in Mohammed's mind, teach the true
+    reading, and afterward explain it; Mohammed is told to follow the angelic reading.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 37461-37465
+  quote_or_summary: Some countenances are bright and look toward the Lord; others
+    are dismal and expect a crushing calamity.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: lines 37466-37469
+  quote_or_summary: At a man's last agony, his soul comes up to his throat, and bystanders
+    ask who can bring a charm to recover him.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:11
+  type: summary
+  locator: lines 37470-37484
+  quote_or_summary: The dying person thinks it is his departure out of the world;
+    one leg is joined with the other, and he is driven to the Lord.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:12
+  type: summary
+  locator: lines 37485-37490
+  quote_or_summary: The person believed not, did not pray, accused God's apostle of
+    imposture, turned back from obedience, and went to his family haughtily.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:13
+  type: summary
+  locator: lines 37494-37498
+  quote_or_summary: Man is described as a drop of emitted seed, then coagulated blood;
+    God forms and proportions him and makes male and female.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:14
+  type: quote
+  locator: line 37499
+  quote_or_summary: "“Is not he who hath done this able to quicken the dead?”"
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: uncertain
+  notes: The passage explicitly names resurrection and describes judgment, death,
+    and creation as proof of resurrection. No external comparison claims were made
+    because the passage itself does not compare traditions or texts.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only supplied passage text and metadata. Footnotes were consulted only where included in the provided passage, but core extraction emphasizes the main passage wording.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l37424-l37503
+  passage_sha256=64b508fca0b2c00e5cc5284b6c2b566a3d27380c63c371d03356c9179646c081

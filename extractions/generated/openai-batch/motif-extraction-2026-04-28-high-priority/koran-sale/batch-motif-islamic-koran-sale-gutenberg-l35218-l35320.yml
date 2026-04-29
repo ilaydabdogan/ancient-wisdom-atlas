@@ -1,0 +1,507 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l35218-l35320
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: IN THE NAME OF THE MOST MERCIFUL GOD. / CHAPTER LVI. / ENTITLED, THE INEVITABLE;
+    REVEALED AT MECCA. / IN THE NAME OF THE MOST MERCIFUL GOD.; lines 35218-35320
+  start: '35218'
+  end: '35320'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes the companions of the left hand suffering burning
+    winds, scalding water, black smoke, the fruit of al Zakkum, boiling water, and
+    hell fire. It answers denial of resurrection by asserting that all will be gathered
+    to judgment at a known time and by pointing to divine creation, death, seed, grain,
+    water, and fire as signs of divine power. It swears by the setting of the stars
+    that the Koran is a revelation written in a preserved book. It then describes
+    the soul at death and three possible outcomes: nearness to God with rest, mercy,
+    and a garden; greeting by the companions of the right hand; or boiling water and
+    hell fire for rejecters.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The companions of the left hand are described as dwelling amid burning winds,
+    scalding water, and the shade of black smoke.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage reports that some people questioned whether they and their forefathers
+    would be raised after becoming dust and bones.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage says the first and the last will be gathered together to judgment
+    at a fixed time on a known day.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Erring deniers are told they will eat from the tree of al Zakkum and drink
+    boiling water like thirsty camels.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The speaker asks whether humans create emitted seed, make sown grain spring
+    forth, send water down from clouds, or produce the tree from which fire is struck.
+  category: speech
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:6
+  text: The passage states that death has been decreed for all and that God is able
+    to produce people again in a condition or form they do not know.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The passage swears by the setting of the stars and states that the Koran is
+    a revelation whose original is written in a preserved book.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The passage describes a dying person whose soul comes up to his throat while
+    others look on.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: The passage says those near God receive rest, mercy, and a garden of delights;
+    the companions of the right hand receive a greeting of peace; rejecters receive
+    boiling water and hell fire.
+  category: sequence
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: companions of the left hand
+  description: A group described as miserable and placed amid burning winds, scalding
+    water, black smoke, and later punishments.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: God / LORD
+  description: The divine speaker or referent described as creator, sender of water,
+    producer of fire, revealer of the Koran, near to the dying person, and giver of
+    final outcomes.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:3
+  name_or_label: erring deniers of resurrection
+  description: People addressed as having erred, denied resurrection as falsehood,
+    and destined to eat al Zakkum and drink boiling water.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: those who approach near unto God
+  description: A category of dying or judged persons whose reward is rest, mercy,
+    and a garden of delights.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:8
+- id: fig:5
+  name_or_label: companions of the right hand
+  description: A group associated with the salutation, 'Peace be unto thee,' and called
+    brethren in the passage.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:8
+- id: fig:6
+  name_or_label: dying person
+  description: A person whose soul comes up to his throat while others look on.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:7
+- id: fig:7
+  name_or_label: onlookers at deathbed
+  description: People who look on as the soul of the dying person comes up to his
+    throat and who cannot see the true condition described in the passage.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+- id: fig:8
+  name_or_label: those who reject the true faith and go astray
+  description: A category whose entertainment consists of boiling water and the burning
+    of hell fire.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: punished afterlife group
+  assigned_to:
+  - fig:1
+  - fig:3
+  - fig:8
+  basis: These figures are associated with burning winds, scalding or boiling water,
+    al Zakkum, black smoke, or hell fire.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:8
+- id: role:2
+  label: creator, judge, and revealer
+  assigned_to:
+  - fig:2
+  basis: God is described as creator, decreer of death, sender of water, producer
+    of fire, revealer of the Koran, and near to the dying person.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:3
+  label: denier or rejecter
+  assigned_to:
+  - fig:3
+  - fig:8
+  basis: The passage identifies these figures as denying resurrection, rejecting true
+    faith, or going astray.
+  evidence_refs:
+  - ev:2
+  - ev:8
+- id: role:4
+  label: rewarded afterlife group
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: These figures receive rest, mercy, a garden of delights, or a salutation
+    of peace.
+  evidence_refs:
+  - ev:8
+- id: role:5
+  label: person at death threshold
+  assigned_to:
+  - fig:6
+  basis: The dying person is described at the moment when the soul comes up to the
+    throat.
+  evidence_refs:
+  - ev:7
+- id: role:6
+  label: deathbed witness
+  assigned_to:
+  - fig:7
+  basis: The onlookers see the dying person but not the true condition described in
+    the passage.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: tree of al Zakkum
+  literal_form: Infernal tree whose fruit is eaten by erring deniers.
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: boiling or scalding water
+  literal_form: Scalding or boiling water drunk or received by punished figures.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:8
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:8
+- id: sym:3
+  label: hell fire and struck fire
+  literal_form: Fire is described both as hell fire for rejecters and as fire struck
+    from a tree, ordained as admonition and advantage to desert travelers.
+  associated_figures:
+  - fig:2
+  - fig:8
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:5
+  - ev:8
+- id: sym:4
+  label: black smoke
+  literal_form: Shade of black smoke that is neither cool nor agreeable.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:5
+  label: seed and grain
+  literal_form: Emitted seed and sown grain used in questions about creation and growth.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:6
+  label: water from clouds
+  literal_form: Drinkable water described as sent down from the clouds and potentially
+    made brackish.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+- id: sym:7
+  label: setting of the stars
+  literal_form: The setting of the stars is invoked in an oath.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:8
+  label: preserved book
+  literal_form: The preserved book in which the original of the Koran is said to be
+    written.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:9
+  label: garden of delights
+  literal_form: Garden named as a reward for those who approach near unto God.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Punishment of the companions of the left hand
+  summary: The companions of the left hand are placed in burning winds, scalding water,
+    and black smoke because of former pleasures and wickedness.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Denial answered by judgment and punishment
+  summary: Deniers question resurrection after death, dust, and bones; the reply states
+    that all will be gathered to judgment and that erring deniers will eat al Zakkum
+    and drink boiling water.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Creation and provision as signs of divine power
+  summary: The passage asks whether humans create seed, grain, water, and fire, and
+    asserts divine power over death, renewed production, crops, water, and fire.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Oath concerning revelation
+  summary: An oath by the setting of the stars introduces the claim that the Koran
+    is an excellent revelation whose original is in a preserved book and is touched
+    only by the clean.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: Deathbed and final outcomes
+  summary: At death, the soul comes to the throat while onlookers watch; the passage
+    then distinguishes those near God, the companions of the right hand, and rejecters,
+    assigning each an outcome.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:9
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: resurrection after death
+  taxonomy_refs:
+  - resurrection
+  basis: The passage directly reports denial of being raised after becoming dust and
+    bones, asserts gathering to judgment, and argues that divine creation and production
+    demonstrate power to produce people again.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: The extraction follows Sale's English wording and notes; no additional
+    doctrinal context is added.
+- id: motif:2
+  label: divine judgment with divided afterlife outcomes
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage states that the first and last will be gathered to judgment and
+    later divides people into those near God, companions of the right hand, and rejecters,
+    each with a distinct outcome.
+  evidence_refs:
+  - ev:2
+  - ev:8
+  confidence: high
+  cautions: The passage uses several named categories; their broader Qur'anic meanings
+    are not inferred beyond this excerpt.
+- id: motif:3
+  label: afterlife topography of reward and punishment
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: 'The passage depicts contrasting afterlife destinations or conditions: burning
+    winds, scalding or boiling water, black smoke, al Zakkum, hell fire, rest, mercy,
+    peace, and a garden of delights.'
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:8
+  confidence: medium
+  cautions: The passage gives afterlife states and groups but does not narrate a full
+    journey through them.
+- id: motif:4
+  label: natural signs used to argue divine power
+  taxonomy_refs:
+  - wisdom
+  basis: The passage uses questions about seed, grain, water from clouds, and fire
+    from a tree to instruct the hearers to recognize divine creation and give thanks.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: This is a didactic pattern rather than a narrative motif; the taxonomy
+    reference is broad.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 35225-35234
+  quote_or_summary: The companions of the left hand dwell amid burning winds, scalding
+    water, and black smoke, after enjoying worldly pleasures and persisting in wickedness.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summary generated from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 35235-35247
+  quote_or_summary: Some ask whether they and their forefathers will be raised after
+    death, dust, and bones; the reply says the first and last will be gathered to
+    judgment at a known day.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summary generated from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 35248-35255
+  quote_or_summary: Those who erred and denied resurrection are told they will eat
+    the fruit of al Zakkum, fill their bellies, and drink boiling water like thirsty
+    camels on the day of judgment.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summary generated from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 35256-35263
+  quote_or_summary: The passage says God created humans, decreed death, can substitute
+    others, and can produce people again; it asks whether humans create the seed they
+    emit.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summary generated from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 35264-35273
+  quote_or_summary: The passage asks whether humans cause grain to spring forth, send
+    water down from clouds, or produce the tree from which fire is struck; it says
+    fire is an admonition and advantage for desert travelers.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summary generated from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 35274-35280
+  quote_or_summary: The passage swears by the setting of the stars that this is the
+    excellent Koran, whose original is written in the preserved book and is a revelation
+    from the Lord of all creatures.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summary generated from supplied passage.
+- id: ev:7
+  type: summary
+  locator: lines 35300-35306
+  quote_or_summary: When a dying person's soul comes up to his throat, onlookers watch;
+    the passage says God is nearer to him than they are, though they do not see his
+    true condition.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summary generated from supplied passage.
+- id: ev:8
+  type: summary
+  locator: lines 35307-35318
+  quote_or_summary: If the dying person is among those near God, he receives rest,
+    mercy, and a garden of delights; if among the companions of the right hand, he
+    is greeted with peace; if among rejecters gone astray, he receives boiling water
+    and hell fire.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summary generated from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is strong because the passage is explicit. Motif assignments
+    are limited to the supplied taxonomy and avoid broader Islamic interpretive context.
+    No comparison claims were made because the passage itself does not require comparison
+    beyond candidate taxonomy matching.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  All evidence is derived only from the supplied passage and metadata.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l35218-l35320
+  passage_sha256=5fa9995a264d1d5a6ec85411dec08e17a179ebb99afd588978876e047685141f

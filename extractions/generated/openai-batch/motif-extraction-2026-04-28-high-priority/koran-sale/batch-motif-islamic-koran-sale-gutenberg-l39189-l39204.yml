@@ -1,0 +1,195 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l39189-l39204
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: IN THE NAME OF THE MOST MERCIFUL GOD. / CHAPTER CV. / ENTITLED, THE ELEPHANT;
+    REVEALED AT MECCA. / IN THE NAME OF THE MOST MERCIFUL GOD.; lines 39189-39204
+  start: '39189'
+  end: '39204'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: |-
+    and send against them flocks of birds,
+    which casts down upon them stones of baked clay;
+    and render them like the leaves of corn eaten by cattle?
+  summary: The passage describes flocks of birds being sent against unnamed targets;
+    the birds cast stones of baked clay on them, leaving them compared to corn leaves
+    eaten by cattle.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Flocks of birds are sent against unnamed targets.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The birds cast down stones of baked clay upon the targets.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The targets are rendered like leaves of corn eaten by cattle.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage occurs under a chapter label entitled “The Elephant.”
+  category: setting
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: flocks of birds
+  description: Birds acting collectively in flocks and casting down stones.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: unnamed targets
+  description: The group referred to as “them,” against whom the birds are sent and
+    upon whom stones are cast.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: aerial agents of attack
+  assigned_to:
+  - fig:1
+  basis: The birds are sent against the targets and cast stones down upon them.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: targets of destructive attack
+  assigned_to:
+  - fig:2
+  basis: The unnamed targets receive the attack and are described as being reduced
+    to a damaged state.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: flocks of birds
+  literal_form: collective birds in flight
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: stones of baked clay
+  literal_form: stones made or described as baked clay
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: eaten corn leaves
+  literal_form: leaves of corn eaten by cattle used as a comparison for the targets’
+    condition
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Birds cast baked-clay stones on unnamed targets
+  summary: Flocks of birds are sent against an unnamed group, cast down stones of
+    baked clay on them, and the group is left in a state compared to corn leaves eaten
+    by cattle.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: destruction by birds bearing stones
+  taxonomy_refs: []
+  basis: The passage centers on flocks of birds attacking an unnamed group by dropping
+    stones of baked clay, resulting in devastation.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The excerpt does not identify the targets or the sender within the quoted
+    lines.
+- id: motif:2
+  label: punitive destruction of an opposing group
+  taxonomy_refs: []
+  basis: The birds are sent against a group and the group is rendered like eaten corn
+    leaves, suggesting a destructive punitive episode within the passage.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage excerpt implies punishment or destruction but does not explicitly
+    name the judge, offense, or full narrative context.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 39189-39204
+  quote_or_summary: "“and send against them flocks of birds,”"
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; short excerpt used.
+- id: ev:2
+  type: quote
+  locator: lines 39189-39204
+  quote_or_summary: "“which casts down upon them stones of baked clay”"
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; short excerpt used.
+- id: ev:3
+  type: quote
+  locator: lines 39189-39204
+  quote_or_summary: "“render them like the leaves of corn eaten by cattle”"
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; short excerpt used.
+- id: ev:4
+  type: citation
+  locator: passage label; lines 39189-39204
+  quote_or_summary: Chapter label identifies Chapter CV as entitled “The Elephant.”
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; citation/label summary.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward for the provided lines. Motif labeling
+    is limited because the excerpt supplies only the closing action and not the full
+    narrative antecedent or explicit subject of the verbs.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Footnote material in the provided passage was not used for motif extraction except insofar as the passage label identifies the chapter title.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l39189-l39204
+  passage_sha256=5e594384b187dd4d37b36074818b436bbe5da07b62104547c1c7456fe4b169c1

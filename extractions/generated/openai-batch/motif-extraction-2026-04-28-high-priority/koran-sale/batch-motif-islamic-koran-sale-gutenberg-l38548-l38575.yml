@@ -1,0 +1,381 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l38548-l38575
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: IN THE NAME OF THE MOST MERCIFUL GOD. / CHAPTER XC. / ENTITLED, THE TERRITORY;
+    REVEALED AT MECCA. / IN THE NAME OF THE MOST MERCIFUL GOD.; lines 38548-38575
+  start: '38548'
+  end: '38575'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage swears by the territory, the prophet's residence in it, and
+    by begetting. It says man was created in misery, questions human self-confidence
+    and display of wealth, names human faculties and two moral highways, then defines
+    the difficult cliff as freeing a captive or feeding needy persons in famine. Believers
+    who practice perseverance and mercy are companions of the right hand, while disbelievers
+    are companions of the left hand with arched fire above them.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: An oath is made by the territory, by the prophet's residence in the territory,
+    and by the begetter and the begotten.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Man is said to have been created in misery and is questioned about whether
+    anyone can prevail over him or see him.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage names two eyes, a tongue, and two lips as things made for man.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage says man has been shown two highways of good and evil.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The cliff is defined as freeing a captive or feeding an orphan kinsman or
+    a poor man during famine.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Those who believe and recommend perseverance and mercy to one another are
+    called companions of the right hand.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Those who disbelieve the signs are called companions of the left hand, with
+    arched fire above them.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Most Merciful God / divine speaker
+  description: The passage opens in the name of the Most Merciful God and uses a divine
+    first-person plural voice for creation and instruction.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: prophet
+  description: The prophet is addressed as residing in the territory.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: man
+  description: Man is described as created in misery, possessing bodily faculties,
+    and shown two highways.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: captive
+  description: A captive is named as someone to be freed in the explanation of the
+    cliff.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: orphan of kin
+  description: An orphan who is of kin is named as someone to be fed in famine.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: poor man who lies on the ground
+  description: A poor man lying on the ground is named as someone to be fed in famine.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: companions of the right hand
+  description: Believers who recommend perseverance and mercy to one another are called
+    companions of the right hand.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:8
+  name_or_label: companions of the left hand
+  description: Those who disbelieve the signs are called companions of the left hand.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: creator and revealer
+  assigned_to:
+  - fig:1
+  basis: The divine voice says man was created and shown the two highways.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: addressed resident of the territory
+  assigned_to:
+  - fig:2
+  basis: The prophet is addressed as residing in the sworn-by territory.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: human moral agent
+  assigned_to:
+  - fig:3
+  basis: Man is described as endowed with faculties and shown the two highways of
+    good and evil.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: recipient of aid
+  assigned_to:
+  - fig:4
+  - fig:5
+  - fig:6
+  basis: The captive, orphan, and poor man are named in acts of freeing or feeding.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: righteous believers
+  assigned_to:
+  - fig:7
+  basis: They believe and recommend perseverance and mercy and are called companions
+    of the right hand.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: disbelievers subject to fire
+  assigned_to:
+  - fig:8
+  basis: They disbelieve the signs and have arched fire above them.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: territory
+  literal_form: territory sworn by at the beginning of the passage
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: two highways of good and evil
+  literal_form: two highways
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: cliff
+  literal_form: cliff that must be attempted
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: right hand
+  literal_form: right hand
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: left hand
+  literal_form: left hand
+  associated_figures:
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: arched fire
+  literal_form: fire arched above the companions of the left hand
+  associated_figures:
+  - fig:8
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Oath and human condition
+  summary: The passage swears by the territory and declares that man was created in
+    misery, while questioning human assumptions of power, expenditure, and being unseen.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Human faculties and moral roads
+  summary: Human faculties are named, and man is said to have been shown two highways
+    of good and evil.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: The cliff as aid to the vulnerable
+  summary: The cliff is explained as freeing a captive or feeding an orphan kinsman
+    or a poor man in famine.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Right-hand and left-hand outcomes
+  summary: Believers who recommend perseverance and mercy are companions of the right
+    hand, while disbelievers are companions of the left hand with arched fire above
+    them.
+  figure_refs:
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: moral dual path
+  taxonomy_refs:
+  - duality
+  basis: The passage states that man has been shown two highways of good and evil.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The taxonomy reference is broad; the passage gives a direct image of two
+    moral ways but does not elaborate a journey narrative.
+- id: motif:2
+  label: difficult ascent or test of righteous action
+  taxonomy_refs:
+  - ascent
+  basis: The passage asks about the cliff and defines it through difficult acts of
+    liberation and feeding in famine.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The text says 'cliff' rather than narrating an actual ascent; the motif
+    identification rests on the passage's own image of attempting the cliff.
+- id: motif:3
+  label: charitable liberation and feeding of the vulnerable
+  taxonomy_refs:
+  - sacrifice
+  basis: The cliff is defined as freeing a captive and feeding an orphan or poor man
+    during famine.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage describes righteous social obligations; 'sacrifice' is an
+    approximate taxonomy fit because no ritual sacrifice is described.
+- id: motif:4
+  label: right-hand reward and left-hand punishment
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage distinguishes companions of the right hand from companions of
+    the left hand and associates the latter with fire.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The immediate passage gives the classification and punishment, but not
+    a full courtroom or resurrection scene.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 38554-38562
+  quote_or_summary: The passage swears by the territory, the prophet's residence there,
+    and begetting; it says man was created in misery and questions his assumptions
+    of power, wealth, and being unseen.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; concise summary used.
+- id: ev:2
+  type: quote
+  locator: lines 38563-38566
+  quote_or_summary: '"Have we not made him two eyes, and a tongue, and two lips; and
+    shown him the two highways of good and evil?"'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; short excerpt.
+- id: ev:3
+  type: summary
+  locator: lines 38567-38572
+  quote_or_summary: The passage says he does not attempt the cliff, then defines the
+    cliff as freeing a captive or feeding an orphan kinsman or a poor man in a day
+    of famine.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 38572-38574
+  quote_or_summary: Those who believe and recommend perseverance and mercy to one
+    another are called companions of the right hand.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; concise summary used.
+- id: ev:5
+  type: quote
+  locator: lines 38574-38575
+  quote_or_summary: '"But they who shall disbelieve our signs shall be the companions
+    of the left hand: above them shall be arched fire."'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; short excerpt.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labels are candidate mappings
+    to the supplied broad taxonomy and should be reviewed, especially ascent and sacrifice.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage alone does not explicitly compare itself to another tradition or corpus.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l38548-l38575
+  passage_sha256=fbc26f6600143160d05140fd3123791ed23ecd189eefa9fcd5a8c97cec95aa65

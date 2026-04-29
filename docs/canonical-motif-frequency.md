@@ -6,43 +6,43 @@ This report counts only motif IDs that already map to a canonical normalization 
 
 ## Summary
 
-- Indexed motif IDs: 7921
-- Indexed motif occurrences: 25564
+- Indexed motif IDs: 8182
+- Indexed motif occurrences: 26827
 - Canonical motif groups: 53
 - Mapped motif IDs counted: 300
-- Unmapped motif IDs excluded: 7621
+- Unmapped motif IDs excluded: 7882
 
 ## Ranked Canonical Motifs
 
 | Rank | Canonical Motif | Distinct Traditions | Occurrences | Mapped Motif IDs | Top Traditions |
 | ---: | --- | ---: | ---: | ---: | --- |
-| 1 | `death_and_transformation` Death, Rebirth, and Transformation | 21 | 931 | 18 | comparative (250), sufi (141), roman (104), islamic (78), greek (58) |
-| 2 | `initiation` Initiation and Transformative Ordeal | 21 | 528 | 3 | greek (103), hindu (71), comparative (63), celtic_welsh (50), celtic_irish (48) |
-| 3 | `sacred_knowledge` Sacred Knowledge and Wisdom | 20 | 3105 | 9 | greek (914), sufi (393), daoist (364), buddhist (344), persian (241) |
-| 4 | `divine_judgment` Divine Judgment and Moral Reckoning | 20 | 1086 | 10 | greek (274), islamic (223), roman (198), hindu (105), sufi (84) |
-| 5 | `ascent` Ascent and Heavenly Journey | 19 | 356 | 3 | greek (95), hindu (59), roman (54), sufi (39), buddhist (17) |
-| 6 | `hero_journey` The Hero's Journey | 18 | 1395 | 5 | greek (305), hindu (286), celtic_irish (169), roman (114), finnish_karelian (98) |
-| 7 | `sacred_exchange` Sacred Exchange and Reciprocity | 18 | 1069 | 4 | greek (219), hindu (167), comparative (124), celtic_irish (98), roman (86) |
-| 8 | `royal_legitimacy` Royal Legitimacy and Sacred Kingship | 18 | 860 | 4 | hindu (310), greek (115), comparative (88), roman (76), celtic_irish (63) |
-| 9 | `axis_mundi` World Axis and Sacred Center | 18 | 403 | 7 | comparative (74), hindu (63), greek (42), norse (41), roman (37) |
-| 10 | `serpent_guardian` Serpent and Serpent Guardian | 18 | 315 | 1 | roman (80), hindu (49), greek (37), greek_roman (30), norse (28) |
-| 11 | `flood_and_renewal` Flood, Fire, and Cosmic Renewal | 18 | 187 | 4 | roman (49), hindu (30), greek (22), norse (18), greek_roman (12) |
-| 12 | `sacrifice` Sacrifice and Offering | 17 | 939 | 13 | comparative (349), hindu (169), greek (128), roman (106), greek_roman (52) |
-| 13 | `miraculous_child` Miraculous Child and Sacred Birth | 17 | 926 | 5 | greek (226), roman (190), hindu (147), greek_roman (90), norse (49) |
-| 14 | `shapeshifter` Shapeshifter and Transformation | 17 | 771 | 6 | roman (345), greek (81), celtic_irish (77), hindu (75), norse (41) |
-| 15 | `sacred_time` Sacred Time and Ritual Cycle | 17 | 741 | 4 | comparative (491), sufi (61), norse (52), greek (32), greek_roman (24) |
-| 16 | `trickster` Trickster and Boundary Crosser | 17 | 363 | 4 | greek (103), celtic_irish (40), buddhist (39), roman (34), norse (31) |
-| 17 | `duality` Duality and Cosmic Opposition | 17 | 353 | 4 | greek (162), sufi (56), daoist (47), islamic (18), norse (14) |
-| 18 | `sacred_twins` Sacred Twins and Sibling Pairs | 17 | 180 | 2 | hindu (70), greek (32), roman (27), greek_roman (14), norse (8) |
-| 19 | `cosmic_origin` Cosmic Origin and Creation | 17 | 157 | 5 | hindu (32), greek (28), norse (23), roman (17), finnish_karelian (13) |
-| 20 | `descent` Descent and Underworld Journey | 17 | 148 | 5 | roman (32), greek (24), hindu (16), finnish_karelian (15), norse (12) |
-| 21 | `mystical_quest` Mystical Quest and Interior Journey | 16 | 1330 | 8 | sufi (571), celtic_irish (121), greek (113), roman (102), hindu (86) |
-| 22 | `culture_hero` Culture Hero and Founder | 16 | 257 | 1 | finnish_karelian (41), roman (41), celtic_irish (37), greek_roman (35), greek (30) |
-| 23 | `sacred_love` Sacred Love and Longing | 15 | 617 | 9 | hindu (188), roman (86), greek (83), celtic_irish (73), greek_roman (44) |
-| 24 | `covenant` Covenant and Sacred Bond | 15 | 189 | 2 | islamic (58), greek (26), hindu (24), roman (20), celtic_irish (18) |
-| 25 | `sacred_waters` Sacred Waters and Passage Through Water | 14 | 86 | 2 | roman (23), greek (13), hindu (10), finnish_karelian (9), celtic_irish (7) |
-| 26 | `afterlife_passage` Afterlife Navigation and Passage | 13 | 334 | 4 | greek (73), roman (51), hindu (40), norse (34), islamic (30) |
-| 27 | `sacred_fire` Sacred Fire and Divine Light | 11 | 52 | 3 | roman (10), greek (7), hindu (7), norse (6), finnish_karelian (6) |
+| 1 | `death_and_transformation` Death, Rebirth, and Transformation | 21 | 1060 | 18 | comparative (250), islamic (207), sufi (141), roman (104), greek (58) |
+| 2 | `initiation` Initiation and Transformative Ordeal | 21 | 532 | 3 | greek (103), hindu (71), comparative (63), celtic_welsh (50), celtic_irish (48) |
+| 3 | `sacred_knowledge` Sacred Knowledge and Wisdom | 20 | 3236 | 9 | greek (914), sufi (393), daoist (364), buddhist (344), islamic (244) |
+| 4 | `divine_judgment` Divine Judgment and Moral Reckoning | 20 | 1470 | 10 | islamic (607), greek (274), roman (198), hindu (105), sufi (84) |
+| 5 | `ascent` Ascent and Heavenly Journey | 19 | 379 | 3 | greek (95), hindu (59), roman (54), sufi (39), islamic (37) |
+| 6 | `hero_journey` The Hero's Journey | 18 | 1422 | 5 | greek (305), hindu (286), celtic_irish (169), roman (114), finnish_karelian (98) |
+| 7 | `sacred_exchange` Sacred Exchange and Reciprocity | 18 | 1104 | 4 | greek (219), hindu (167), comparative (124), celtic_irish (98), roman (86) |
+| 8 | `royal_legitimacy` Royal Legitimacy and Sacred Kingship | 18 | 870 | 4 | hindu (310), greek (115), comparative (88), roman (76), celtic_irish (63) |
+| 9 | `axis_mundi` World Axis and Sacred Center | 18 | 422 | 7 | comparative (74), hindu (63), greek (42), norse (41), roman (37) |
+| 10 | `serpent_guardian` Serpent and Serpent Guardian | 18 | 319 | 1 | roman (80), hindu (49), greek (37), greek_roman (30), norse (28) |
+| 11 | `flood_and_renewal` Flood, Fire, and Cosmic Renewal | 18 | 223 | 4 | roman (49), islamic (46), hindu (30), greek (22), norse (18) |
+| 12 | `descent` Descent and Underworld Journey | 18 | 151 | 5 | roman (32), greek (24), hindu (16), finnish_karelian (15), norse (12) |
+| 13 | `miraculous_child` Miraculous Child and Sacred Birth | 17 | 958 | 5 | greek (226), roman (190), hindu (147), greek_roman (90), islamic (56) |
+| 14 | `sacrifice` Sacrifice and Offering | 17 | 954 | 13 | comparative (349), hindu (169), greek (128), roman (106), greek_roman (52) |
+| 15 | `shapeshifter` Shapeshifter and Transformation | 17 | 773 | 6 | roman (345), greek (81), celtic_irish (77), hindu (75), norse (41) |
+| 16 | `sacred_time` Sacred Time and Ritual Cycle | 17 | 750 | 4 | comparative (491), sufi (61), norse (52), greek (32), greek_roman (24) |
+| 17 | `duality` Duality and Cosmic Opposition | 17 | 380 | 4 | greek (162), sufi (56), daoist (47), islamic (45), norse (14) |
+| 18 | `trickster` Trickster and Boundary Crosser | 17 | 367 | 4 | greek (103), celtic_irish (40), buddhist (39), roman (34), norse (31) |
+| 19 | `sacred_twins` Sacred Twins and Sibling Pairs | 17 | 181 | 2 | hindu (70), greek (32), roman (27), greek_roman (14), norse (8) |
+| 20 | `cosmic_origin` Cosmic Origin and Creation | 17 | 176 | 5 | hindu (32), greek (28), norse (23), islamic (22), roman (17) |
+| 21 | `mystical_quest` Mystical Quest and Interior Journey | 16 | 1333 | 8 | sufi (571), celtic_irish (121), greek (113), roman (102), hindu (86) |
+| 22 | `culture_hero` Culture Hero and Founder | 16 | 259 | 1 | finnish_karelian (41), roman (41), celtic_irish (37), greek_roman (35), greek (30) |
+| 23 | `sacred_love` Sacred Love and Longing | 15 | 618 | 9 | hindu (188), roman (86), greek (83), celtic_irish (73), greek_roman (44) |
+| 24 | `covenant` Covenant and Sacred Bond | 15 | 215 | 2 | islamic (84), greek (26), hindu (24), roman (20), celtic_irish (18) |
+| 25 | `sacred_waters` Sacred Waters and Passage Through Water | 14 | 90 | 2 | roman (23), greek (13), hindu (10), finnish_karelian (9), celtic_irish (7) |
+| 26 | `afterlife_passage` Afterlife Navigation and Passage | 13 | 383 | 4 | islamic (79), greek (73), roman (51), hindu (40), norse (34) |
+| 27 | `sacred_fire` Sacred Fire and Divine Light | 11 | 54 | 3 | roman (10), greek (7), hindu (7), norse (6), finnish_karelian (6) |
 | 28 | `mother_goddess` Sacred Feminine and Mother Goddess | 10 | 81 | 2 | greek (19), greek_roman (15), roman (13), comparative (13), finnish_karelian (11) |
 | 29 | `lament_and_mourning` Lament, Mourning, and Tragic Recognition | 7 | 12 | 12 | greek (4), greek_roman (2), persian (2), buddhist (1), hindu (1) |
 | 30 | `divine_intervention` Divine Intervention and Guidance | 5 | 13 | 12 | greek (5), comparative (3), greek_roman (2), islamic (2), hindu (1) |
@@ -74,13 +74,13 @@ This report counts only motif IDs that already map to a canonical normalization 
 
 - Canonical motif ID: `death_and_transformation`
 - Distinct traditions: 21
-- Occurrences: 931
+- Occurrences: 1060
 - Mapped motif IDs: 18
 
 | Mapped Motif ID | Relationship | Traditions | Occurrences |
 | --- | --- | ---: | ---: |
-| `death_rebirth` | alias | 21 | 602 |
-| `resurrection` | child | 17 | 244 |
+| `death_rebirth` | alias | 21 | 616 |
+| `resurrection` | child | 17 | 359 |
 | `dying_and_returning` | alias | 6 | 70 |
 | `ancestors_or_dead_persons_embodied_in_trees` | symbolic_variant | 1 | 1 |
 | `bestowal_of_immortality` | functional_variant | 1 | 1 |
@@ -102,12 +102,12 @@ This report counts only motif IDs that already map to a canonical normalization 
 
 - Canonical motif ID: `initiation`
 - Distinct traditions: 21
-- Occurrences: 528
+- Occurrences: 532
 - Mapped motif IDs: 3
 
 | Mapped Motif ID | Relationship | Traditions | Occurrences |
 | --- | --- | ---: | ---: |
-| `initiation` | canonical_group | 21 | 507 |
+| `initiation` | canonical_group | 21 | 511 |
 | `labyrinth_initiation` | taxonomy_motif_family | 6 | 20 |
 | `heroic_childhood_signs` | child | 1 | 1 |
 
@@ -115,14 +115,14 @@ This report counts only motif IDs that already map to a canonical normalization 
 
 - Canonical motif ID: `sacred_knowledge`
 - Distinct traditions: 20
-- Occurrences: 3105
+- Occurrences: 3236
 - Mapped motif IDs: 9
 
 | Mapped Motif ID | Relationship | Traditions | Occurrences |
 | --- | --- | ---: | ---: |
-| `wisdom` | child | 20 | 2851 |
-| `forbidden_knowledge` | child | 16 | 97 |
-| `sacred_theft` | child | 15 | 151 |
+| `wisdom` | child | 20 | 2971 |
+| `forbidden_knowledge` | child | 16 | 107 |
+| `sacred_theft` | child | 15 | 152 |
 | `ancestral_inheritance_overcome_by_conscious_action` | thematic_variant | 1 | 1 |
 | `ideal_realized_in_death_and_misery` | philosophical_variant | 1 | 1 |
 | `immortal_soul_as_source_of_motion` | doctrinal_variant | 1 | 1 |
@@ -134,12 +134,12 @@ This report counts only motif IDs that already map to a canonical normalization 
 
 - Canonical motif ID: `divine_judgment`
 - Distinct traditions: 20
-- Occurrences: 1086
+- Occurrences: 1470
 - Mapped motif IDs: 10
 
 | Mapped Motif ID | Relationship | Traditions | Occurrences |
 | --- | --- | ---: | ---: |
-| `divine_judgment` | canonical_group | 20 | 1077 |
+| `divine_judgment` | canonical_group | 20 | 1461 |
 | `ancestral_exemplars_judging_later_imitators` | role_variant | 1 | 1 |
 | `community_restored_after_deceiver_s_death` | functional_variant | 1 | 1 |
 | `death_of_a_tyrant_celebrated_by_the_people` | functional_variant | 1 | 1 |
@@ -154,12 +154,12 @@ This report counts only motif IDs that already map to a canonical normalization 
 
 - Canonical motif ID: `ascent`
 - Distinct traditions: 19
-- Occurrences: 356
+- Occurrences: 379
 - Mapped motif IDs: 3
 
 | Mapped Motif ID | Relationship | Traditions | Occurrences |
 | --- | --- | ---: | ---: |
-| `ascent` | canonical_group | 19 | 354 |
+| `ascent` | canonical_group | 19 | 377 |
 | `theophany` | child | 1 | 1 |
 | `theophany_of_many_forms` | child | 1 | 1 |
 
@@ -167,13 +167,13 @@ This report counts only motif IDs that already map to a canonical normalization 
 
 - Canonical motif ID: `hero_journey`
 - Distinct traditions: 18
-- Occurrences: 1395
+- Occurrences: 1422
 - Mapped motif IDs: 5
 
 | Mapped Motif ID | Relationship | Traditions | Occurrences |
 | --- | --- | ---: | ---: |
-| `departure` | child | 18 | 812 |
-| `return` | child | 17 | 580 |
+| `departure` | child | 18 | 829 |
+| `return` | child | 17 | 590 |
 | `caravan_lost_in_deadly_desert_through_failed_navigation` | ordeal_variant | 1 | 1 |
 | `divine_call` | child | 1 | 1 |
 | `divine_helper_counsels_returning_hero` | functional_variant | 1 | 1 |
@@ -182,12 +182,12 @@ This report counts only motif IDs that already map to a canonical normalization 
 
 - Canonical motif ID: `sacred_exchange`
 - Distinct traditions: 18
-- Occurrences: 1069
+- Occurrences: 1104
 - Mapped motif IDs: 4
 
 | Mapped Motif ID | Relationship | Traditions | Occurrences |
 | --- | --- | ---: | ---: |
-| `sacred_exchange` | canonical_group | 18 | 1066 |
+| `sacred_exchange` | canonical_group | 18 | 1101 |
 | `coercing_a_rain_god_spirit_fetish_animal_or_substitute` | ritual_variant | 1 | 1 |
 | `discarded_object_spirit_causes_child_deaths_until_ritually_honoured` | ritual_variant | 1 | 1 |
 | `ritual_transfer` | alias | 1 | 1 |
@@ -196,12 +196,12 @@ This report counts only motif IDs that already map to a canonical normalization 
 
 - Canonical motif ID: `royal_legitimacy`
 - Distinct traditions: 18
-- Occurrences: 860
+- Occurrences: 870
 - Mapped motif IDs: 4
 
 | Mapped Motif ID | Relationship | Traditions | Occurrences |
 | --- | --- | ---: | ---: |
-| `royal_legitimacy` | canonical_group | 18 | 857 |
+| `royal_legitimacy` | canonical_group | 18 | 867 |
 | `ethical_rule_by_virtue` | child | 1 | 1 |
 | `false_noble_ancestry_claim_in_a_place_of_the_dead` | status_claim_variant | 1 | 1 |
 | `gentle_remonstrance_within_hierarchy` | child | 1 | 1 |
@@ -210,16 +210,16 @@ This report counts only motif IDs that already map to a canonical normalization 
 
 - Canonical motif ID: `axis_mundi`
 - Distinct traditions: 18
-- Occurrences: 403
+- Occurrences: 422
 - Mapped motif IDs: 7
 
 | Mapped Motif ID | Relationship | Traditions | Occurrences |
 | --- | --- | ---: | ---: |
-| `sacred_tree_axis` | child | 17 | 178 |
-| `world_center` | child | 15 | 106 |
-| `cosmic_mountain` | child | 12 | 56 |
-| `tree` | alias | 12 | 33 |
-| `mountain` | alias | 10 | 28 |
+| `sacred_tree_axis` | child | 17 | 183 |
+| `world_center` | child | 15 | 111 |
+| `tree` | alias | 13 | 34 |
+| `cosmic_mountain` | child | 12 | 62 |
+| `mountain` | alias | 10 | 30 |
 | `ensouled_trees_and_vegetation_spirits` | symbolic_variant | 1 | 1 |
 | `sacred_mountain` | child | 1 | 1 |
 
@@ -227,37 +227,67 @@ This report counts only motif IDs that already map to a canonical normalization 
 
 - Canonical motif ID: `serpent_guardian`
 - Distinct traditions: 18
-- Occurrences: 315
+- Occurrences: 319
 - Mapped motif IDs: 1
 
 | Mapped Motif ID | Relationship | Traditions | Occurrences |
 | --- | --- | ---: | ---: |
-| `serpent` | alias | 18 | 315 |
+| `serpent` | alias | 18 | 319 |
 
 ## Flood, Fire, and Cosmic Renewal
 
 - Canonical motif ID: `flood_and_renewal`
 - Distinct traditions: 18
-- Occurrences: 187
+- Occurrences: 223
 - Mapped motif IDs: 4
 
 | Mapped Motif ID | Relationship | Traditions | Occurrences |
 | --- | --- | ---: | ---: |
-| `ark_vessel` | child | 14 | 48 |
-| `flood_and_renewal` | canonical_group | 13 | 54 |
-| `world_destroying_fire` | taxonomy_motif_family | 12 | 67 |
-| `survivor_pair` | child | 8 | 18 |
+| `ark_vessel` | child | 14 | 63 |
+| `flood_and_renewal` | canonical_group | 13 | 68 |
+| `world_destroying_fire` | taxonomy_motif_family | 12 | 72 |
+| `survivor_pair` | child | 9 | 20 |
+
+## Descent and Underworld Journey
+
+- Canonical motif ID: `descent`
+- Distinct traditions: 18
+- Occurrences: 151
+- Mapped motif IDs: 5
+
+| Mapped Motif ID | Relationship | Traditions | Occurrences |
+| --- | --- | ---: | ---: |
+| `hero_descent` | child | 18 | 139 |
+| `cave` | alias | 5 | 8 |
+| `descent` | canonical_group | 2 | 2 |
+| `dead_father_seeks_news_of_living_son` | child | 1 | 1 |
+| `dead_or_ancestors_detain_the_souls_of_the_living` | functional_variant | 1 | 1 |
+
+## Miraculous Child and Sacred Birth
+
+- Canonical motif ID: `miraculous_child`
+- Distinct traditions: 17
+- Occurrences: 958
+- Mapped motif IDs: 5
+
+| Mapped Motif ID | Relationship | Traditions | Occurrences |
+| --- | --- | ---: | ---: |
+| `miraculous_child` | canonical_group | 16 | 195 |
+| `sacred_birth` | child | 15 | 285 |
+| `divine_parent_child` | child | 14 | 476 |
+| `bear_nursed_first_ancestor` | functional_variant | 1 | 1 |
+| `miraculous_birth_under_palm` | child | 1 | 1 |
 
 ## Sacrifice and Offering
 
 - Canonical motif ID: `sacrifice`
 - Distinct traditions: 17
-- Occurrences: 939
+- Occurrences: 954
 - Mapped motif IDs: 13
 
 | Mapped Motif ID | Relationship | Traditions | Occurrences |
 | --- | --- | ---: | ---: |
-| `sacrifice` | canonical_group | 17 | 926 |
+| `sacrifice` | canonical_group | 17 | 941 |
 | `atonement_rite` | child | 1 | 2 |
 | `annual_purification` | child | 1 | 1 |
 | `boundary_preventing_return_of_expelled_harms` | ritual_expulsion_child | 1 | 1 |
@@ -271,31 +301,16 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `ritualized_release` | child | 1 | 1 |
 | `scapegoat` | child | 1 | 1 |
 
-## Miraculous Child and Sacred Birth
-
-- Canonical motif ID: `miraculous_child`
-- Distinct traditions: 17
-- Occurrences: 926
-- Mapped motif IDs: 5
-
-| Mapped Motif ID | Relationship | Traditions | Occurrences |
-| --- | --- | ---: | ---: |
-| `miraculous_child` | canonical_group | 16 | 183 |
-| `sacred_birth` | child | 15 | 272 |
-| `divine_parent_child` | child | 14 | 469 |
-| `bear_nursed_first_ancestor` | functional_variant | 1 | 1 |
-| `miraculous_birth_under_palm` | child | 1 | 1 |
-
 ## Shapeshifter and Transformation
 
 - Canonical motif ID: `shapeshifter`
 - Distinct traditions: 17
-- Occurrences: 771
+- Occurrences: 773
 - Mapped motif IDs: 6
 
 | Mapped Motif ID | Relationship | Traditions | Occurrences |
 | --- | --- | ---: | ---: |
-| `shapeshifter` | canonical_group | 17 | 766 |
+| `shapeshifter` | canonical_group | 17 | 768 |
 | `animal_body_as_temporary_location_of_a_living_person_s_soul` | functional_variant | 1 | 1 |
 | `animal_body_explained_by_ancestral_punishment` | functional_variant | 1 | 1 |
 | `human_animal_identity_through_transferred_soul` | functional_variant | 1 | 1 |
@@ -306,97 +321,82 @@ This report counts only motif IDs that already map to a canonical normalization 
 
 - Canonical motif ID: `sacred_time`
 - Distinct traditions: 17
-- Occurrences: 741
+- Occurrences: 750
 - Mapped motif IDs: 4
 
 | Mapped Motif ID | Relationship | Traditions | Occurrences |
 | --- | --- | ---: | ---: |
-| `seasonal_cycle` | child | 16 | 738 |
+| `seasonal_cycle` | child | 16 | 747 |
 | `corn_spirit_embodied_in_harvest_animal` | seasonal_cycle_child | 1 | 1 |
 | `jubilee` | child | 1 | 1 |
 | `sabbath_cycle` | child | 1 | 1 |
-
-## Trickster and Boundary Crosser
-
-- Canonical motif ID: `trickster`
-- Distinct traditions: 17
-- Occurrences: 363
-- Mapped motif IDs: 4
-
-| Mapped Motif ID | Relationship | Traditions | Occurrences |
-| --- | --- | ---: | ---: |
-| `trickster_boundary` | child | 17 | 360 |
-| `animal_pleads_usefulness_to_avoid_death` | narrative_strategy | 1 | 1 |
-| `feigned_death_to_escape_a_predator` | narrative_strategy | 1 | 1 |
-| `feigning_death_to_escape_captivity` | narrative_strategy | 1 | 1 |
 
 ## Duality and Cosmic Opposition
 
 - Canonical motif ID: `duality`
 - Distinct traditions: 17
-- Occurrences: 353
+- Occurrences: 380
 - Mapped motif IDs: 4
 
 | Mapped Motif ID | Relationship | Traditions | Occurrences |
 | --- | --- | ---: | ---: |
-| `duality` | canonical_group | 17 | 350 |
+| `duality` | canonical_group | 17 | 377 |
 | `cosmic_witness` | child | 1 | 1 |
 | `inner_division_of_the_soul` | symbolic_variant | 1 | 1 |
 | `non_action` | child | 1 | 1 |
+
+## Trickster and Boundary Crosser
+
+- Canonical motif ID: `trickster`
+- Distinct traditions: 17
+- Occurrences: 367
+- Mapped motif IDs: 4
+
+| Mapped Motif ID | Relationship | Traditions | Occurrences |
+| --- | --- | ---: | ---: |
+| `trickster_boundary` | child | 17 | 364 |
+| `animal_pleads_usefulness_to_avoid_death` | narrative_strategy | 1 | 1 |
+| `feigned_death_to_escape_a_predator` | narrative_strategy | 1 | 1 |
+| `feigning_death_to_escape_captivity` | narrative_strategy | 1 | 1 |
 
 ## Sacred Twins and Sibling Pairs
 
 - Canonical motif ID: `sacred_twins`
 - Distinct traditions: 17
-- Occurrences: 180
+- Occurrences: 181
 - Mapped motif IDs: 2
 
 | Mapped Motif ID | Relationship | Traditions | Occurrences |
 | --- | --- | ---: | ---: |
-| `sibling_pair` | child | 16 | 138 |
+| `sibling_pair` | child | 16 | 139 |
 | `sacred_twins` | canonical_group | 10 | 42 |
 
 ## Cosmic Origin and Creation
 
 - Canonical motif ID: `cosmic_origin`
 - Distinct traditions: 17
-- Occurrences: 157
+- Occurrences: 176
 - Mapped motif IDs: 5
 
 | Mapped Motif ID | Relationship | Traditions | Occurrences |
 | --- | --- | ---: | ---: |
-| `chaos` | child | 17 | 153 |
+| `chaos` | child | 17 | 172 |
 | `cosmic_origin` | canonical_group | 1 | 1 |
 | `failed_creation` | child | 1 | 1 |
 | `waters_divided` | child | 1 | 1 |
 | `world_egg` | child | 1 | 1 |
 
-## Descent and Underworld Journey
-
-- Canonical motif ID: `descent`
-- Distinct traditions: 17
-- Occurrences: 148
-- Mapped motif IDs: 5
-
-| Mapped Motif ID | Relationship | Traditions | Occurrences |
-| --- | --- | ---: | ---: |
-| `hero_descent` | child | 17 | 136 |
-| `cave` | alias | 5 | 8 |
-| `descent` | canonical_group | 2 | 2 |
-| `dead_father_seeks_news_of_living_son` | child | 1 | 1 |
-| `dead_or_ancestors_detain_the_souls_of_the_living` | functional_variant | 1 | 1 |
-
 ## Mystical Quest and Interior Journey
 
 - Canonical motif ID: `mystical_quest`
 - Distinct traditions: 16
-- Occurrences: 1330
+- Occurrences: 1333
 - Mapped motif IDs: 8
 
 | Mapped Motif ID | Relationship | Traditions | Occurrences |
 | --- | --- | ---: | ---: |
-| `mystical_quest` | canonical_group | 15 | 646 |
-| `divine_beloved` | child | 14 | 459 |
+| `mystical_quest` | canonical_group | 15 | 648 |
+| `divine_beloved` | child | 14 | 460 |
 | `annihilation_union` | child | 11 | 219 |
 | `renunciation` | child | 1 | 2 |
 | `body_as_tomb_or_shell_imprisoning_soul` | symbolic_variant | 1 | 1 |
@@ -408,24 +408,24 @@ This report counts only motif IDs that already map to a canonical normalization 
 
 - Canonical motif ID: `culture_hero`
 - Distinct traditions: 16
-- Occurrences: 257
+- Occurrences: 259
 - Mapped motif IDs: 1
 
 | Mapped Motif ID | Relationship | Traditions | Occurrences |
 | --- | --- | ---: | ---: |
-| `culture_hero` | canonical_group | 16 | 257 |
+| `culture_hero` | canonical_group | 16 | 259 |
 
 ## Sacred Love and Longing
 
 - Canonical motif ID: `sacred_love`
 - Distinct traditions: 15
-- Occurrences: 617
+- Occurrences: 618
 - Mapped motif IDs: 9
 
 | Mapped Motif ID | Relationship | Traditions | Occurrences |
 | --- | --- | ---: | ---: |
 | `stolen_beloved` | taxonomy_motif_family | 13 | 355 |
-| `sacred_marriage` | taxonomy_motif_family | 13 | 255 |
+| `sacred_marriage` | taxonomy_motif_family | 13 | 256 |
 | `after_death_reunion_of_a_purified_pair` | functional_variant | 1 | 1 |
 | `deadly_marriage_race` | functional_variant | 1 | 1 |
 | `enduring_love_beyond_bodily_decay` | child | 1 | 1 |
@@ -438,36 +438,36 @@ This report counts only motif IDs that already map to a canonical normalization 
 
 - Canonical motif ID: `covenant`
 - Distinct traditions: 15
-- Occurrences: 189
+- Occurrences: 215
 - Mapped motif IDs: 2
 
 | Mapped Motif ID | Relationship | Traditions | Occurrences |
 | --- | --- | ---: | ---: |
-| `covenant` | canonical_group | 15 | 188 |
+| `covenant` | canonical_group | 15 | 214 |
 | `broken_and_renewed_covenant` | child | 1 | 1 |
 
 ## Sacred Waters and Passage Through Water
 
 - Canonical motif ID: `sacred_waters`
 - Distinct traditions: 14
-- Occurrences: 86
+- Occurrences: 90
 - Mapped motif IDs: 2
 
 | Mapped Motif ID | Relationship | Traditions | Occurrences |
 | --- | --- | ---: | ---: |
-| `water` | alias | 13 | 85 |
+| `water` | alias | 13 | 89 |
 | `passage_through_waters` | child | 1 | 1 |
 
 ## Afterlife Navigation and Passage
 
 - Canonical motif ID: `afterlife_passage`
 - Distinct traditions: 13
-- Occurrences: 334
+- Occurrences: 383
 - Mapped motif IDs: 4
 
 | Mapped Motif ID | Relationship | Traditions | Occurrences |
 | --- | --- | ---: | ---: |
-| `afterlife_journey_map` | taxonomy_motif_family | 13 | 331 |
+| `afterlife_journey_map` | taxonomy_motif_family | 13 | 380 |
 | `coin_payment_accompanying_death_registration` | ritual_variant | 1 | 1 |
 | `fear_that_a_dead_wrongdoer_may_be_rejected_at_death_s_gate_and_return` | functional_variant | 1 | 1 |
 | `funerary_deity_as_administrator_of_death_rites` | role_variant | 1 | 1 |
@@ -476,12 +476,12 @@ This report counts only motif IDs that already map to a canonical normalization 
 
 - Canonical motif ID: `sacred_fire`
 - Distinct traditions: 11
-- Occurrences: 52
+- Occurrences: 54
 - Mapped motif IDs: 3
 
 | Mapped Motif ID | Relationship | Traditions | Occurrences |
 | --- | --- | ---: | ---: |
-| `fire` | alias | 10 | 49 |
+| `fire` | alias | 10 | 51 |
 | `sacred_fire` | canonical_group | 1 | 2 |
 | `cloud_fire_guidance` | child | 1 | 1 |
 

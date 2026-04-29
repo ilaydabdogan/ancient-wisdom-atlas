@@ -1,0 +1,531 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l30683-l30751
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: IN THE NAME OF THE MOST MERCIFUL GOD. / CHAPTER XXXVI. / ENTITLED, Y. S.;
+    REVEALED AT MECCA. / IN THE NAME OF THE MOST MERCIFUL GOD.; lines 30683-30751
+  start: '30683'
+  end: '30751'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: "“Verily we will restore the dead to life, and will write down their works...”"
+  summary: The passage opens Sura XXXVI, declaring the addressed prophet to be a messenger
+    sent with revelation to warn a negligent people. It describes many as unable or
+    unwilling to believe, using images of yokes, barriers, and darkness. It promises
+    mercy and reward to one who follows the admonition, states that the dead will
+    be restored to life and that deeds and traces are recorded, and introduces the
+    inhabitants of Antioch as an example involving apostles of Jesus. Sale’s notes
+    add commentarial explanations, including blindness, the meaning of the mysterious
+    letters, and a story of disciples sent to Antioch.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage swears by the instructive Koran and states that the addressed
+    figure is one of God’s messengers, sent to show the right way.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The addressed messenger is to warn a people whose fathers were not warned
+    and who live in negligence.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A sentence has been pronounced against the greater part of the people, and
+    they are said not to believe.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The unbelieving group is described with yokes on their necks, bars before
+    and behind them, and darkness covering them so they do not see.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Preaching is said to have effect only for one who follows the admonition of
+    the Koran and fears the Merciful in secret.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The receptive follower is promised mercy and an honourable reward.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The passage states that the dead will be restored to life and that works and
+    footsteps will be written in a plain register.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The inhabitants of Antioch are introduced as an example, at the time when
+    apostles of Jesus came to them.
+  category: setting
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Sale’s note reports a commentarial story in which Jesus sends disciples to
+    Antioch, they heal the sick and blind, Habb believes after his child is healed,
+    and a prince later imprisons the disciples.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: God / the Merciful
+  description: The divine speaker associated with revelation, judgment, mercy, restoring
+    the dead to life, and recording deeds.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Mohammed
+  description: The figure addressed as one of the messengers of God; Sale’s preceding
+    note identifies him as Mohammed.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:8
+- id: fig:3
+  name_or_label: Negligent people / greater part of them
+  description: A people whose fathers were not warned, who live in negligence, and
+    whose greater part is described as not believing.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Follower of the admonition
+  description: A person who follows the admonition of the Koran and fears the Merciful
+    in secret.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Inhabitants of Antioch
+  description: The city’s inhabitants are proposed as an example; Sale’s note describes
+    them as idolaters.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: fig:6
+  name_or_label: Apostles or disciples of Jesus
+  description: Envoys associated with Jesus who come to Antioch; Sale’s note says
+    they preach and perform healings.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: fig:7
+  name_or_label: Jesus
+  description: Named as the figure whose apostles came to Antioch; Sale’s note says
+    he sent disciples there.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: fig:8
+  name_or_label: Habb, surnamed al Najjar
+  description: In Sale’s note, a carpenter or shepherd near Antioch who is convinced
+    by the healing of his child and believes.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:7
+- id: fig:9
+  name_or_label: Prince of Antioch
+  description: In Sale’s note, the authority who orders the disciples imprisoned.
+  role_refs:
+  - role:11
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: Revealer
+  assigned_to:
+  - fig:1
+  basis: The passage calls the message a revelation of the mighty and merciful God.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: Judge and recorder
+  assigned_to:
+  - fig:1
+  basis: The passage refers to a divine sentence and to works and footsteps being
+    written in a plain register.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:3
+  label: Restorer of the dead
+  assigned_to:
+  - fig:1
+  basis: The passage states that the dead will be restored to life.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: Messenger and warner
+  assigned_to:
+  - fig:2
+  basis: The addressed figure is said to be one of the messengers, sent to show the
+    right way and warn a negligent people.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:8
+- id: role:5
+  label: Obstructed unbelievers
+  assigned_to:
+  - fig:3
+  basis: They are described as under a sentence, not believing, and blocked by yokes,
+    bars, and darkness.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:6
+  label: Receptive believer
+  assigned_to:
+  - fig:4
+  basis: This figure follows the admonition, fears the Merciful in secret, and receives
+    good tidings.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: Exemplary city population
+  assigned_to:
+  - fig:5
+  basis: The inhabitants of Antioch are proposed as an example for the audience.
+  evidence_refs:
+  - ev:6
+- id: role:8
+  label: Envoy-preachers and healers
+  assigned_to:
+  - fig:6
+  basis: They are described as apostles of Jesus who come to Antioch; Sale’s note
+    says they preach and cure infirmities.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:9
+  label: Sender of disciples
+  assigned_to:
+  - fig:7
+  basis: Sale’s note says Jesus sent disciples to Antioch.
+  evidence_refs:
+  - ev:7
+- id: role:10
+  label: Converted witness
+  assigned_to:
+  - fig:8
+  basis: Sale’s note says Habb believed after witnessing his child’s healing.
+  evidence_refs:
+  - ev:7
+- id: role:11
+  label: Opposing ruler
+  assigned_to:
+  - fig:9
+  basis: Sale’s note says the prince ordered the disciples imprisoned.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: Instructive Koran
+  literal_form: Revealed admonition identified as the Koran
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:2
+  label: Yokes on necks
+  literal_form: Yokes or collars reaching to the chins
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: Bars before and behind
+  literal_form: A bar placed before them and a bar behind them
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: Darkness covering the unbelievers
+  literal_form: Darkness covering them so that they do not see
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: Plain register
+  literal_form: A register in which works and footsteps are set down
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: City of Antioch
+  literal_form: The city whose inhabitants are given as an example
+  associated_figures:
+  - fig:5
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: sym:7
+  label: Healing touch
+  literal_form: Disciples laying hands on a sick child in Sale’s note
+  associated_figures:
+  - fig:6
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Revelation and prophetic commission
+  summary: The passage invokes the instructive Koran and declares that the addressed
+    figure is a messenger sent to show the right way and warn a negligent people.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Obstruction of unbelief
+  summary: The greater part of the people is described as not believing, with yokes
+    on their necks, barriers around them, and darkness covering them.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Effective warning and final record
+  summary: Only the one who follows the admonition and fears the Merciful in secret
+    responds to preaching; the passage promises mercy and reward, resurrection of
+    the dead, and a written record of works and traces.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Antioch example
+  summary: The inhabitants of Antioch are introduced as an example when apostles of
+    Jesus came to them.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: Sale’s commentarial Antioch mission
+  summary: Sale’s note recounts a story in which Jesus sends disciples to Antioch,
+    healings validate their preaching, Habb believes, and the prince imprisons the
+    disciples.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Divine judgment and record of deeds
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage mentions a divine sentence against unbelievers and states that
+    works and footsteps are written in a plain register.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: high
+  cautions: The passage does not describe the full judgment scene here; it gives judgment
+    and record motifs in compressed form.
+- id: motif:2
+  label: Restoration of the dead
+  taxonomy_refs:
+  - resurrection
+  basis: The passage explicitly states that the dead will be restored to life.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: No detailed resurrection sequence is provided in this excerpt.
+- id: motif:3
+  label: Revelatory wisdom guiding the right way
+  taxonomy_refs:
+  - wisdom
+  basis: The Koran is called instructive, and the messenger is sent to show the right
+    way and give admonition.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: medium
+  cautions: The available taxonomy label is broad; the passage emphasizes revelation
+    and admonition rather than wisdom as an abstract figure.
+- id: motif:4
+  label: Miraculous healing validating envoys
+  taxonomy_refs: []
+  basis: Sale’s note reports that the disciples prove their truth by curing the sick,
+    blind, and lepers, including Habb’s child.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: This motif comes from the translator’s commentarial note, not from the
+    Qur'anic wording in the excerpt.
+- id: motif:5
+  label: Rejected or persecuted messengers
+  taxonomy_refs: []
+  basis: Sale’s note says the disciples preached in Antioch and were imprisoned by
+    the prince for attempting to change the people’s worship.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The Qur'anic excerpt only introduces the Antioch example; the persecution
+    details are supplied by Sale’s note.
+comparison_claims:
+- id: claim:1
+  claim: The Antioch example is explicitly connected in the passage and Sale’s note
+    with Jesus’ apostles or disciples, and the note presents a mission-and-healing
+    pattern comparable in function to Christian apostolic mission narratives.
+  claim_level: same_function
+  target: Christian apostolic mission and miracle-healing pattern
+  evidence_refs:
+  - ev:6
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is supported by the translator’s note and named Christian
+    figures, but this excerpt does not itself quote a parallel Christian text or establish
+    historical dependence.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 30683-30751, opening verses of Chapter XXXVI
+  quote_or_summary: "“I SWEAR by the instructive Koran, that thou art one of the messengers
+    of God, sent to show the right way.”"
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: lines 30683-30751, warning and sentence passage
+  quote_or_summary: The messenger is to warn a people whose fathers were not warned;
+    a sentence has been pronounced against the greater part of them, and they shall
+    not believe.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 30683-30751, yokes and barriers passage
+  quote_or_summary: "“We have put yokes on their necks... and we have set a bar before
+    them, and a bar behind them; and we have covered them with darkness.”"
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:4
+  type: summary
+  locator: lines 30683-30751, verse marked 10
+  quote_or_summary: Preaching is effective only for the one who follows the Koran’s
+    admonition and fears the Merciful in secret; that person receives good tidings
+    of mercy and an honourable reward.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: lines 30683-30751, resurrection and register passage
+  quote_or_summary: "“Verily we will restore the dead to life, and will write down
+    their works... and everything do we set down in a plain register.”"
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:6
+  type: quote
+  locator: lines 30683-30751, Antioch example introduction
+  quote_or_summary: "“Propound unto them as an example the inhabitants of the city
+    of Antioch, when the apostles of Jesus came thereto.”"
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:7
+  type: summary
+  locator: lines 30683-30751, Sale note c
+  quote_or_summary: Sale’s note says commentators tell of Jesus sending disciples
+    to Antioch; they meet Habb, heal his sick child, cure many infirmities, preach
+    one God, are imprisoned by the prince, and another disciple, often identified
+    as Simon Peter, is sent.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: note
+  locator: lines 30683-30751, preceding note fragment
+  quote_or_summary: The passage begins with a note fragment identifying the preceding
+    reference as “viz., Mohammed.”
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Core observations from the Qur'anic passage are clear. Some Antioch details
+    and named figures come from Sale’s commentary rather than the translated Qur'anic
+    verses, so they require review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage text and metadata. Available taxonomy references were applied only where directly supported.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l30683-l30751
+  passage_sha256=765126467d86d3d8bcad10df25506bd7a98e9ddeddb48ea2e3426447f315c34f

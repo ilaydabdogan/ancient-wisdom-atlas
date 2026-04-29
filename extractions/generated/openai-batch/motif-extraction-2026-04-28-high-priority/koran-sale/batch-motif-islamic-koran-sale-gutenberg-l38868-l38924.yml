@@ -1,0 +1,423 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l38868-l38924
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: ENTITLED, AL KADR; WHERE IT WAS REVEALED IS DISPUTED. / IN THE NAME OF THE
+    MOST MERCIFUL GOD. / CHAPTER XCVIII. / IN THE NAME OF THE MOST MERCIFUL GOD.;
+    lines 38868-38924
+  start: '38868'
+  end: '38924'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage includes commentary on the night of al Kadr, divine decrees,
+    and the descent of the Koran through Gabriel, then presents Chapter XCVIII: unbelievers
+    among scripture-receivers and idolaters are said to reject the clear evidence
+    brought by an apostle from God; all were commanded to worship God, pray, and give
+    alms; disbelievers are consigned to hell, while believers who do good works receive
+    perpetual gardens with flowing rivers and divine pleasure.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A note explains al Kadr as signifying power, honor, dignity, or divine decree,
+    and says divine decrees for the coming year are fixed or taken from a preserved
+    table by God's throne and given to angels.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A note states that Mohammed received his first revelations on the night of
+    al Kadr and that Gabriel revealed the Koran to him in portions.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The unbelievers among those given scriptures and among idolaters are described
+    as not staggering until clear evidence came to them.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The clear evidence is described as an apostle from God rehearsing pure books
+    of revelations containing right discourses.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Those given the scriptures are said to have become divided only after the
+    clear evidence came to them.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The commanded practices are worship of God with pure religion, orthodoxy,
+    constancy in prayer, and giving alms.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Those who do not believe are said to be cast into the fire of hell forever
+    and called the worst of creatures.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Those who believe and do good works are called the best of creatures and receive
+    gardens of perpetual abode with flowing rivers.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: God is said to be well pleased in the righteous, and they are well pleased
+    in him.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: God / LORD
+  description: Divine source of decrees, revelation, command, judgment, reward, and
+    pleasure.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Mohammed
+  description: Named in the note as receiving his first revelations on the night of
+    al Kadr.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Gabriel
+  description: Named in the note as revealing the Koran to Mohammed in parcels.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Angels
+  description: The note says divine decrees are given to angels to be executed.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: Apostle from God
+  description: A messenger from God rehearsing pure books of revelations containing
+    right discourses.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Unbelievers among scripture-receivers and idolaters
+  description: Groups described as unbelieving and destined for the fire of hell.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:7
+  name_or_label: Those to whom the scriptures were given
+  description: A group said to become divided after clear evidence came to them.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:8
+  name_or_label: Believers who do good works
+  description: A group called the best of creatures and rewarded with perpetual gardens.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: divine source
+  assigned_to:
+  - fig:1
+  basis: God is associated with revelation, decrees, command, reward, and punishment.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:2
+  label: divine judge and rewarder
+  assigned_to:
+  - fig:1
+  basis: The passage assigns hell to unbelievers and gardens and divine pleasure to
+    believers.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:3
+  label: revelation bearer
+  assigned_to:
+  - fig:3
+  - fig:5
+  basis: Gabriel reveals the Koran in parcels; the apostle rehearses pure books of
+    revelations.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: recipient prophet
+  assigned_to:
+  - fig:2
+  basis: The note says Mohammed received his first revelations on the night of al
+    Kadr.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: angelic executors of decrees
+  assigned_to:
+  - fig:4
+  basis: The note says decrees are given to angels to be executed.
+  evidence_refs:
+  - ev:1
+- id: role:6
+  label: condemned unbelievers
+  assigned_to:
+  - fig:6
+  basis: The passage says unbelievers among scripture-receivers and idolaters are
+    cast into hell-fire forever.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: divided scripture-receivers
+  assigned_to:
+  - fig:7
+  basis: Those given scripture are described as divided after clear evidence came.
+  evidence_refs:
+  - ev:3
+- id: role:8
+  label: rewarded righteous
+  assigned_to:
+  - fig:8
+  basis: Believers who do good works receive gardens of perpetual abode and divine
+    pleasure.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: Night of al Kadr
+  literal_form: A night named for power, honor, dignity, or divine decree, associated
+    in the note with annual decrees and first revelation.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Preserved table by God's throne
+  literal_form: A preserved table by God's throne from which decrees are taken and
+    given to angels.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Clear evidence
+  literal_form: Clear evidence identified in the note as Mohammed or the Koran, and
+    in the chapter as an apostle from God rehearsing pure revelations.
+  associated_figures:
+  - fig:5
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: Fire of hell
+  literal_form: The fire of hell in which unbelievers remain forever.
+  associated_figures:
+  - fig:6
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: Gardens with flowing rivers
+  literal_form: Gardens of perpetual abode through which rivers flow.
+  associated_figures:
+  - fig:1
+  - fig:8
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Decrees and revelation on the night of al Kadr
+  summary: The note describes divine decrees being fixed or transferred from a preserved
+    table by God's throne to angels, and the Koran being sent down and later revealed
+    by Gabriel to Mohammed in portions.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Arrival of clear evidence
+  summary: Unbelievers among scripture-receivers and idolaters encounter clear evidence,
+    described as an apostle from God rehearsing pure revelation.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Commanded religion
+  summary: The passage states that the people were commanded to worship God with pure
+    religion, pray constantly, and give alms.
+  figure_refs:
+  - fig:1
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Condemnation of unbelievers
+  summary: Unbelievers among scripture-receivers and idolaters are said to be cast
+    into the fire of hell forever.
+  figure_refs:
+  - fig:1
+  - fig:6
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Reward of believers
+  summary: Believers who do good works are rewarded with perpetual gardens through
+    which rivers flow and mutual pleasure with God.
+  figure_refs:
+  - fig:1
+  - fig:8
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Divine judgment separating unbelievers and righteous believers
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage contrasts unbelievers consigned to eternal hell-fire with believers
+    rewarded by perpetual gardens and divine pleasure.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage gives judgment outcomes but does not narrate a courtroom scene
+    or final judgment event in detail.
+- id: motif:2
+  label: Revelation as clear evidence and right discourse
+  taxonomy_refs:
+  - wisdom
+  basis: The apostle from God rehearses pure books of revelation containing right
+    discourses, and the passage presents this as clear evidence.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The available taxonomy only broadly matches this revelation motif through
+    wisdom; the passage itself emphasizes evidence and scripture.
+- id: motif:3
+  label: Heavenly decree and mediated revelation
+  taxonomy_refs: []
+  basis: The note describes decrees taken from a preserved table by God's throne and
+    given to angels, and the Koran being sent down and revealed by Gabriel to Mohammed.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: This motif is drawn from the translator's note/commentarial material included
+    in the passage range, not from the main verses of Chapter XCVIII.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 38868-38924, translator notes preceding Chapter XCVIII
+  quote_or_summary: The note explains al Kadr as power, honor, dignity, or divine
+    decree; says yearly divine decrees are fixed or taken from a preserved table by
+    God's throne and given to angels; and says Mohammed received first revelations,
+    with Gabriel revealing the Koran in parcels.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summary provided.
+- id: ev:2
+  type: summary
+  locator: lines 38868-38924, Chapter XCVIII opening verses
+  quote_or_summary: 'Unbelievers among scripture-receivers and idolaters did not stagger
+    until clear evidence came: an apostle from God rehearsing pure books of revelation
+    containing right discourses.'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summary provided.
+- id: ev:3
+  type: summary
+  locator: lines 38868-38924, Chapter XCVIII middle verses
+  quote_or_summary: Those given scripture became divided after clear evidence came;
+    they were commanded to worship God in pure religion, be constant in prayer, and
+    give alms.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summary provided.
+- id: ev:4
+  type: summary
+  locator: lines 38868-38924, Chapter XCVIII judgment on unbelievers
+  quote_or_summary: Unbelievers among scripture-receivers and idolaters are said to
+    be cast into the fire of hell forever and called the worst of creatures.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summary provided.
+- id: ev:5
+  type: summary
+  locator: lines 38868-38924, Chapter XCVIII reward of believers
+  quote_or_summary: Believers who do good works are called the best of creatures;
+    their reward is gardens of perpetual abode with flowing rivers, lasting forever,
+    and mutual pleasure with God.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summary provided.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is limited by the passage range combining translator/commentarial
+    notes on al Kadr with the main text of Chapter XCVIII. No comparison claims were
+    made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  All motifs and symbols are based only on the supplied passage and metadata. Taxonomy references are used only where directly supported by available refs.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l38868-l38924
+  passage_sha256=37ef4805fb7ac784a4a14ca53b96ead4416d4dfad2ccf587996482ef694ff306

@@ -1,0 +1,592 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l31729-l31833
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: ENTITLED, S.; REVEALED AT MECCA. / IN THE NAME OF THE MOST MERCIFUL GOD.
+    / CHAPTER XXXIX. / IN THE NAME OF THE MOST MERCIFUL GOD.; lines 31729-31833
+  start: '31729'
+  end: '31833'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Opening portion of Chapter XXXIX states that the book is revealed from
+    God, commands pure worship, rejects patrons and divine sonship, describes God
+    as creator and governor of cosmic cycles and human formation, contrasts ingratitude
+    and prayerful obedience, warns of hell and resurrection loss, promises paradise
+    to the God-fearing, and presents rain-fed vegetation that grows, withers, and
+    becomes dust as instruction.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage says the revelation of the book is from God and commands worship
+    of God with pure religion.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Some people are described as taking patrons besides God and saying they worship
+    them only to be brought nearer to God.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage states that God will judge between disputants and will not direct
+    one who is a liar or ungrateful.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The passage rejects the idea that God has a son and calls God sole and almighty.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: God is described as creating the heavens and earth, causing night and day
+    to succeed each other, and assigning the sun and moon to appointed periods.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Human beings are described as created from one man, with his wife formed from
+    him, and formed in mothers' wombs through gradual formations within three veils
+    of darkness.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: The passage says a burdened soul shall not bear another's burden, and that
+    people will return to their Lord, who will declare what they have done and reward
+    them accordingly.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: A man in harm calls on his Lord, but after receiving favor forgets the being
+    he invoked and sets up equals to God.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: A prayerful person at night, prostrate and standing, is contrasted with the
+    wicked unbeliever; those who know and those who do not know are also contrasted.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: Those who lose their own souls and families on the day of resurrection are
+    called losers.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: Punishment is described with roofs of fire above and floors of fire below.
+  category: setting
+  evidence_refs:
+  - ev:6
+- id: obs:12
+  text: Those who avoid idol worship and turn to God receive good tidings and are
+    described as following the best of God's word.
+  category: attribute
+  evidence_refs:
+  - ev:7
+- id: obs:13
+  text: Those who fear their Lord are promised high apartments in paradise, with other
+    apartments over them and rivers running beneath.
+  category: setting
+  evidence_refs:
+  - ev:8
+- id: obs:14
+  text: God sends down water from heaven, makes it enter the earth as sources, produces
+    various corn, then causes it to wither, turn yellow, and crumble into dust.
+  category: sequence
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: God
+  description: The mighty and wise source of revelation; sole, almighty Lord, creator,
+    judge, forgiver, and giver of reward or punishment.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:6
+  - ev:8
+  - ev:9
+- id: fig:2
+  name_or_label: Mohammed
+  description: Addressed in the passage as the one commanded to speak and worship
+    God; asked whether he can deliver one destined for hell.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: fig:3
+  name_or_label: Those who take patrons besides God
+  description: People who say they worship other patrons so that those patrons may
+    bring them nearer to God.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Ungrateful or forgetful man
+  description: A person who calls on God during harm but forgets after receiving favor
+    and sets up equals to God.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Prayerful servant
+  description: One who prays during the hours of night, prostrate and standing, heeds
+    the life to come, and hopes for God's mercy.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: Men of understanding
+  description: People who are warned, heed God's word, and follow what is most excellent
+    in it.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:5
+  - ev:7
+  - ev:9
+- id: fig:7
+  name_or_label: Those who fear their Lord
+  description: People for whom high apartments in paradise are prepared.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:8
+- id: fig:8
+  name_or_label: Wicked unbeliever or condemned person
+  description: A figure contrasted with the prayerful servant and described as destined
+    to dwell in hell fire when sentence is pronounced.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:5
+  - ev:7
+roles:
+- id: role:1
+  label: revealer and lord
+  assigned_to:
+  - fig:1
+  basis: The book is said to be revealed from God, who is called Lord.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: creator and cosmic governor
+  assigned_to:
+  - fig:1
+  basis: God creates heavens, earth, humans, and governs night, day, sun, moon, water,
+    and vegetation.
+  evidence_refs:
+  - ev:2
+  - ev:9
+- id: role:3
+  label: judge and rewarder
+  assigned_to:
+  - fig:1
+  basis: God judges disagreements, declares deeds after return, and rewards accordingly.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:4
+  label: commanded messenger-speaker
+  assigned_to:
+  - fig:2
+  basis: Commands introduced by 'Say' direct the speaker to proclaim worship, warning,
+    and good tidings; Mohammed is named in a question about deliverance from hell.
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: role:5
+  label: idolatrous intermediaries' worshippers
+  assigned_to:
+  - fig:3
+  basis: They take patrons besides God and explain their worship as seeking nearness
+    to God.
+  evidence_refs:
+  - ev:1
+- id: role:6
+  label: ungrateful recipient of favor
+  assigned_to:
+  - fig:4
+  basis: He invokes God in harm, then forgets after favor and sets up equals to God.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: night worshipper
+  assigned_to:
+  - fig:5
+  basis: He prays at night, prostrate and standing, and hopes for God's mercy.
+  evidence_refs:
+  - ev:5
+- id: role:8
+  label: understanding hearers
+  assigned_to:
+  - fig:6
+  basis: The passage says men of understanding are warned and follow the best of God's
+    word.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  - ev:9
+- id: role:9
+  label: paradise recipients
+  assigned_to:
+  - fig:7
+  basis: Those who fear their Lord receive prepared high apartments in paradise.
+  evidence_refs:
+  - ev:8
+- id: role:10
+  label: hell-destined unbeliever
+  assigned_to:
+  - fig:8
+  basis: The wicked unbeliever and the one under sentence of eternal punishment are
+    associated with hell fire.
+  evidence_refs:
+  - ev:5
+  - ev:7
+symbols:
+- id: sym:1
+  label: revealed book
+  literal_form: book revealed from God with truth
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: night and day succession
+  literal_form: night succeeding day and day succeeding night
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: sun and moon under appointed service
+  literal_form: sun and moon performing services until an appointed period
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: three veils of darkness
+  literal_form: three veils of darkness around gradual womb formation
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: individual burden
+  literal_form: a burdened soul not bearing another's burden
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: hell fire enclosure
+  literal_form: roofs of fire above and floors of fire below
+  associated_figures:
+  - fig:8
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: sym:7
+  label: paradise apartments and rivers
+  literal_form: high apartments in paradise with other apartments above and rivers
+    beneath
+  associated_figures:
+  - fig:7
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:8
+- id: sym:8
+  label: heaven-sent water and withering crop
+  literal_form: water from heaven, earth sources, corn growth, yellowing, withering,
+    and dust
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Revelation and pure worship command
+  summary: The passage identifies the book as revelation from God, commands pure religion
+    toward God, and says God will judge those who worship patrons besides him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Creation and formation
+  summary: God creates and governs the heavens, earth, night, day, sun, moon, human
+    origin, cattle, and human development in the womb.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Return and recompense
+  summary: The passage states that no soul bears another's burden and that people
+    return to their Lord, who declares and rewards their deeds.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Distress, favor, and forgetfulness
+  summary: A harmed man invokes his Lord but after receiving favor forgets the one
+    he invoked and sets up equals to God, with hell fire threatened.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Contrasted worshippers and knowers
+  summary: The night worshipper who hopes for mercy and heeds the life to come is
+    contrasted with the wicked unbeliever and with those who lack knowledge.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:8
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+- id: scene:6
+  label: Resurrection loss and fiery punishment
+  summary: Those who lose themselves and families on the day of resurrection are warned
+    of fire above and below.
+  figure_refs:
+  - fig:1
+  - fig:8
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:6
+- id: scene:7
+  label: Good tidings and paradise promise
+  summary: Those who avoid idols and turn to God receive good tidings; those who fear
+    their Lord are promised layered apartments in paradise with rivers beneath.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: scene:8
+  label: Rain-fed vegetation as instruction
+  summary: God sends down water that enters the earth, brings forth corn, then the
+    corn withers, yellows, and crumbles into dust as instruction for men of understanding.
+  figure_refs:
+  - fig:1
+  - fig:6
+  symbol_refs:
+  - sym:8
+  evidence_refs:
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: divine judgment and recompense
+  taxonomy_refs:
+  - divine_judgment
+  basis: God judges between religious disputants, people return to their Lord, and
+    deeds are declared and rewarded accordingly.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: The passage is doctrinal proclamation rather than narrative myth.
+- id: motif:2
+  label: resurrection-day loss and afterlife punishment
+  taxonomy_refs:
+  - resurrection
+  - divine_judgment
+  basis: The passage names the day of resurrection, describes loss of souls and families,
+    and depicts punishment with fire above and below.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The passage gives warning imagery, not an extended resurrection narrative.
+- id: motif:3
+  label: contrasting afterlife destinations
+  taxonomy_refs:
+  - afterlife_journey_map
+  - duality
+  basis: Condemned figures are destined for hell fire, while those who fear God are
+    promised high apartments in paradise with rivers beneath.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: There is no detailed journey map; the motif is limited to opposed destinations
+    and settings.
+- id: motif:4
+  label: moral duality of believer and unbeliever
+  taxonomy_refs:
+  - duality
+  basis: The passage contrasts the prayerful person with the wicked unbeliever and
+    those who know with those who do not know.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The contrast is ethical and religious, not a paired mythic dualism of
+    deities.
+- id: motif:5
+  label: water-driven growth, decay, and instruction
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: Water from heaven produces corn, which then withers, yellows, and crumbles
+    into dust; this is presented as instruction.
+  evidence_refs:
+  - ev:9
+  confidence: medium
+  cautions: The passage presents an agricultural cycle as a sign or lesson; it does
+    not narrate a full seasonal myth.
+- id: motif:6
+  label: divine creative ordering
+  taxonomy_refs: []
+  basis: God creates heavens and earth, orders night and day, appoints sun and moon,
+    and forms humans in the womb.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: No matching creation-specific motif family is supplied in the available
+    taxonomy list beyond broader adjacent categories.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 31729-31752
+  quote_or_summary: The book is revealed from God with truth; pure religion is to
+    be exhibited to God; worshippers of other patrons say these patrons bring them
+    nearer to God; God will judge between them; divine sonship is denied.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summary used.
+- id: ev:2
+  type: summary
+  locator: lines 31753-31765
+  quote_or_summary: God creates heavens and earth, makes night and day succeed one
+    another, assigns sun and moon to appointed periods, creates humans from one man
+    and his wife, bestows cattle, and forms humans in wombs within three veils of
+    darkness.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summary used.
+- id: ev:3
+  type: summary
+  locator: lines 31784-31790
+  quote_or_summary: If people are ungrateful God has no need of them; no burdened
+    soul bears another's burden; people return to their Lord, who declares what they
+    have wrought and rewards accordingly.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summary used.
+- id: ev:4
+  type: summary
+  locator: lines 31791-31798
+  quote_or_summary: When harm befalls a man he calls on his Lord, but after God grants
+    favor he forgets the being invoked and sets up equals to God; he is warned that
+    he will be among inhabitants of hell fire.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summary used.
+- id: ev:5
+  type: summary
+  locator: lines 31799-31806
+  quote_or_summary: A person praying in the night, prostrate and standing, heeding
+    the life to come and hoping for mercy, is contrasted with the wicked unbeliever;
+    those who know and those who do not are not equal; men of understanding are warned.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summary used.
+- id: ev:6
+  type: summary
+  locator: lines 31812-31818
+  quote_or_summary: Those who lose themselves and their families on the day of resurrection
+    suffer manifest loss; over them are roofs of fire and under them floors of fire,
+    by which God terrifies his servants.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summary used.
+- id: ev:7
+  type: summary
+  locator: lines 31819-31823
+  quote_or_summary: Those who eschew idol worship and turn to God receive good tidings;
+    those who hear God's word and follow the most excellent part are directed by God
+    and are men of understanding; Mohammed is addressed regarding one destined for
+    hell fire.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summary used.
+- id: ev:8
+  type: summary
+  locator: lines 31824-31828
+  quote_or_summary: For those who fear their Lord, high apartments in paradise are
+    prepared, with other apartments built over them and rivers running beneath; this
+    is called God's promise.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summary used.
+- id: ev:9
+  type: summary
+  locator: lines 31829-31833
+  quote_or_summary: God sends down water from heaven, makes it enter and form sources
+    in the earth, produces various corn, then makes it wither, turn yellow, and crumble
+    into dust; this is instruction to men of understanding.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based directly on the supplied English passage. Motif labels
+    are limited to the provided taxonomy and stated imagery; no external comparison
+    claims were added.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Footnotes in the supplied passage were used only where they clarified literal wording already present; no external source material was introduced.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l31729-l31833
+  passage_sha256=c282e4970292a71edfd0a1016a894f05dbb19311ae35a03d92c0a6716dc7e04b

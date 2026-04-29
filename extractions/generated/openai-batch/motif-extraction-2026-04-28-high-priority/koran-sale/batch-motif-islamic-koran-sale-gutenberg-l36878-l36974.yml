@@ -1,0 +1,472 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l36878-l36974
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: IN THE NAME OF THE MOST MERCIFUL GOD. / CHAPTER LXX. / ENTITLED, THE STEPS;
+    REVEALED AT MECCA. / IN THE NAME OF THE MOST MERCIFUL GOD.; lines 36878-36974
+  start: '36878'
+  end: '36974'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: '"by which the angels ascend unto him, and the spirit Gabriel also"'
+  summary: The passage announces unavoidable divine punishment, describes angels and
+    Gabriel ascending by the steps to God, portrays cosmic disruption and judgment,
+    contrasts the wicked with the devout, promises gardens to the righteous, and ends
+    with the threatened day when people come forth from their graves in humiliation.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A demand is made for vengeance to fall on unbelievers, and the passage says
+    no one can avert what is inflicted by God.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: God is called possessor of the steps, by which angels and Gabriel ascend to
+    him in a day whose space is fifty thousand years.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The heaven is said to become like molten brass and the mountains like colored
+    wool scattered by wind on a certain day.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The wicked person wishes to redeem himself from the punishment by surrendering
+    close kin and everyone on earth, but this is rejected.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Hell fire is described as dragging people by their scalps and calling one
+    who turned away from faith and hoarded riches.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Human beings are described as impatient, complaining when touched by evil
+    and niggardly when good comes.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The devout are characterized by persevering in prayers, giving a due portion
+    of their substance, believing the day of judgment, dreading divine punishment,
+    keeping entrusted things and covenants, giving upright testimony, and observing
+    prayer rites.
+  category: attribute
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:8
+  text: Those who meet the described righteous qualities are said to dwell amid gardens
+    and be highly honored.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: God swears by the Lord of the east and west and states the ability to destroy
+    the unbelievers and substitute better people in their place.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The threatened day is described as one when people come forth hastily from
+    their graves, with downcast looks and ignominy attending them.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: God
+  description: The divine being who inflicts unavoidable punishment, possesses the
+    steps, is ascended to by angels and Gabriel, and can destroy and replace the unbelievers.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: fig:2
+  name_or_label: angels
+  description: Heavenly beings who ascend unto God by the steps.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Gabriel
+  description: The spirit Gabriel, who also ascends unto God by the steps.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: unbelievers
+  description: Those on whom vengeance and punishment are announced; later described
+    as gathering in companies and being threatened with a day of emergence from graves.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:7
+- id: fig:5
+  name_or_label: the wicked person
+  description: A person who wishes to redeem himself from punishment by giving up
+    family, kin, and all on earth.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: devout people
+  description: Those who persevere in prayer, give a fixed portion to the needy, believe
+    the day of judgment, dread divine punishment, keep trusts and covenants, and observe
+    prayer rites.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:7
+  name_or_label: hell fire
+  description: Fire that drags people by their scalps and calls the one who turned
+    back from faith and hoarded riches.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: divine judge
+  assigned_to:
+  - fig:1
+  basis: God is the source of unavoidable punishment and threatens judgment on unbelievers.
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: role:2
+  label: possessor of the steps
+  assigned_to:
+  - fig:1
+  basis: The passage calls God the possessor of the steps by which angels and Gabriel
+    ascend.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: ascending heavenly messenger
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: Angels and Gabriel ascend unto God by the steps.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: threatened sinner or unbeliever
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: Unbelievers and the wicked are associated with vengeance, punishment, failed
+    ransom, and the threatened day.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:7
+- id: role:5
+  label: righteous worshipper
+  assigned_to:
+  - fig:6
+  basis: The passage lists prayer, almsgiving, belief, dread of punishment, covenant-keeping,
+    testimony, and prayer rites as qualities of those honored in gardens.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:6
+  label: punitive agent
+  assigned_to:
+  - fig:7
+  basis: Hell fire drags and calls those who turned away and hoarded wealth.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: the steps
+  literal_form: steps by which angels and Gabriel ascend unto God
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - ascent
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: molten-brass heaven
+  literal_form: heaven becoming like molten brass
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: scattered wool-like mountains
+  literal_form: mountains like wool of various colours scattered by wind
+  associated_figures: []
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: hell fire
+  literal_form: fire that drags by scalps and calls the apostate hoarder
+  associated_figures:
+  - fig:7
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: gardens of honor
+  literal_form: gardens where the righteous shall dwell, highly honored
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: graves
+  literal_form: graves from which people come forth hastily on the threatened day
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:7
+  label: east and west
+  literal_form: the east and the west invoked in a divine oath
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Demanded punishment and ascent by the steps
+  summary: A demand for vengeance against unbelievers is answered by the assertion
+    that divine punishment cannot be averted; angels and Gabriel ascend to God by
+    the steps over a vast span of time.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Cosmic upheaval and failed ransom
+  summary: On the day of punishment, heaven and mountains are transformed, social
+    bonds fail, and the wicked person unsuccessfully offers family and all earthly
+    beings as ransom.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Punitive hell fire
+  summary: Hell fire drags by the scalps and calls the person who turned away from
+    faith and hoarded riches.
+  figure_refs:
+  - fig:7
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Qualities of the devout
+  summary: The passage contrasts ordinary human impatience with the practices of the
+    devout, including prayer, giving, belief in judgment, sexual restraint, keeping
+    trusts and covenants, and upright testimony.
+  figure_refs:
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:5
+  label: Gardens for the righteous
+  summary: Those who maintain the named practices are promised honored dwelling amid
+    gardens.
+  figure_refs:
+  - fig:6
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:5
+- id: scene:6
+  label: Threatened resurrection from graves
+  summary: The unbelievers are told to continue their vain disputes until the day
+    they meet the threat, when they come hastily from graves with downcast looks and
+    ignominy.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: ascent to the divine realm by steps
+  taxonomy_refs:
+  - ascent
+  basis: Angels and Gabriel ascend unto God by the steps over a vast cosmological
+    time span.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage names the steps and ascent but does not narrate a human ascent
+    journey.
+- id: motif:2
+  label: day of divine judgment
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage repeatedly describes an unavoidable punishment, a day of judgment,
+    dread of the Lord's punishment, and a threatened day for unbelievers.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:7
+  confidence: high
+  cautions: The extraction is limited to this passage and does not reconstruct broader
+    eschatology.
+- id: motif:3
+  label: cosmic dissolution before judgment
+  taxonomy_refs:
+  - chaos
+  basis: The heaven becomes like molten brass and mountains become scattered wool
+    on the day of punishment.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The taxonomy has no exact 'apocalypse' category; 'chaos' is used cautiously
+    for cosmic disruption.
+- id: motif:4
+  label: punitive fire of the afterlife
+  taxonomy_refs:
+  - divine_judgment
+  basis: Hell fire drags and summons the one who turned away from faith and hoarded
+    riches.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The available motif families do not include a separate hell or underworld-fire
+    category.
+- id: motif:5
+  label: resurrection from graves for judgment
+  taxonomy_refs:
+  - resurrection
+  - divine_judgment
+  basis: The threatened day includes people coming forth hastily from their graves
+    with downcast looks and shame.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: The passage emphasizes emergence and humiliation, not a full narrative
+    of restored life.
+- id: motif:6
+  label: righteous rewarded in gardens
+  taxonomy_refs:
+  - divine_judgment
+  basis: Those marked by prayer, charity, covenant-keeping, and other righteous practices
+    are said to dwell in honored gardens.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The garden reward is explicit, but no available taxonomy category specifically
+    names paradise gardens.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 36878-36888
+  quote_or_summary: A demanded vengeance on unbelievers is said to be unavoidable
+    from God, possessor of the steps; angels and Gabriel ascend to him in a day of
+    fifty thousand years.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; concise summary.
+- id: ev:2
+  type: summary
+  locator: lines 36889-36899
+  quote_or_summary: On a certain day the heaven becomes like molten brass, mountains
+    like scattered colored wool; friends do not ask after friends, and the wicked
+    seeks to ransom himself with family, kin, and all on earth.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; concise summary.
+- id: ev:3
+  type: quote
+  locator: lines 36900-36905
+  quote_or_summary: '"hell fire, dragging them by their scalps," calls the one who
+    turned back from faith and hoarded riches.'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; short quotation.
+- id: ev:4
+  type: summary
+  locator: lines 36906-36917
+  quote_or_summary: Human beings are described as impatient and complaining or niggardly,
+    except the devout who persevere in prayer, give a due portion, believe the day
+    of judgment, and dread the Lord's punishment.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; concise summary.
+- id: ev:5
+  type: summary
+  locator: lines 36918-36935
+  quote_or_summary: The devout are further described by sexual restraint, keeping
+    trusts and covenants, upright testimony, and observing prayer rites; these shall
+    dwell honored amid gardens.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; concise summary.
+- id: ev:6
+  type: summary
+  locator: lines 36936-36943
+  quote_or_summary: Unbelievers run in companies; God swears by the Lord of east and
+    west that he can destroy them and replace them with better people.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; concise summary.
+- id: ev:7
+  type: summary
+  locator: lines 36944-36974
+  quote_or_summary: The threatened day is described as one when they come forth hastily
+    from graves as troops hasten to a standard, with downcast looks and ignominy.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; concise summary.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is explicit about ascent, judgment, cosmic disturbance, hell
+    fire, resurrection from graves, and reward in gardens. Motif taxonomy mapping
+    is partly approximate where the available families lack exact eschatological categories.
+    No comparison claims are made because the passage itself does not support cross-textual
+    comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage text and metadata. Footnote material was not separately extracted except where the main passage already supported the observation.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l36878-l36974
+  passage_sha256=1edef2bdc69919c827b00d31ff135468593bf904c0ee545ab872e22bac7f8c3e

@@ -1,0 +1,520 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l33800-l33884
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: IN THE NAME OF THE MOST MERCIFUL GOD. / CHAPTER XLVIII. / ENTITLED, THE VICTORY;
+    REVEALED AT MEDINA. / IN THE NAME OF THE MOST MERCIFUL GOD.; lines 33800-33884
+  start: '33800'
+  end: '33884'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage announces a manifest victory granted to the addressed apostle,
+    divine forgiveness, favor, guidance, and assistance. It describes tranquility
+    sent into believers' hearts, promised gardens with rivers for believing men and
+    women, punishment and hell for hypocrites, idolaters, and unbelievers, the apostle's
+    role as witness and warner, the oath of fealty as a covenant with God, and the
+    excuses and later claims of desert Arabs who remained behind.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: God is said to have granted the addressed apostle a manifest victory, forgiveness,
+    completion of favor, guidance, and glorious assistance.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: God is said to send secure tranquility into the hearts of true believers so
+    that their faith may increase.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: True believing men and women are promised gardens beneath which rivers flow,
+    dwelling there forever, and expiation of evil deeds.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Hypocritical men and women and idolaters are described as having an ill opinion
+    of God and are threatened with evil fortune, divine anger, curse, and hell.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The addressed apostle is described as a witness, bearer of good tidings, and
+    denouncer of threats.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Those who swear fealty to the apostle are said to swear fealty to God, with
+    the hand of God over their hands.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Violation of the oath is said to harm only the violator's own soul, while
+    performing the covenant with God brings a great reward.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Desert Arabs who were left behind are represented as offering excuses about
+    their property and families and asking the apostle to seek pardon for them.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: The passage says the left-behind Arabs speak with their tongues what is not
+    in their hearts and had imagined that the apostle and believers would not return
+    to their families.
+  category: attribute
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: obs:10
+  text: Unbelievers are threatened with prepared burning fire, while God is said to
+    forgive or punish whom he pleases.
+  category: action
+  evidence_refs:
+  - ev:9
+- id: obs:11
+  text: Those left behind are said to ask to follow when the believers go to take
+    spoil, and are accused of seeking to change the word of God.
+  category: speech
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: God
+  description: The divine agent who grants victory, sends tranquility, owns the hosts
+    and kingdom of heaven and earth, forgives, punishes, and covenants.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:6
+  - ev:9
+- id: fig:2
+  name_or_label: The addressed apostle
+  description: The recipient of manifest victory and divine assistance; described
+    as witness, bearer of good tidings, and denouncer of threats.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: True believers of both sexes
+  description: Believers whose faith is increased and who are promised gardens beneath
+    which rivers flow.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Hypocritical men and women
+  description: Persons said to conceive an ill opinion of God and to be subject to
+    punishment, anger, curse, and hell.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Idolaters and idolatresses
+  description: Persons grouped with hypocrites as conceiving an ill opinion of God
+    and threatened with punishment and hell.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Those who swear fealty
+  description: People who swear fealty to the apostle, thereby swearing fealty to
+    God.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:6
+- id: fig:7
+  name_or_label: Arabs of the desert who were left behind
+  description: People who stayed behind, gave excuses, asked for pardon, and later
+    sought to follow for spoil.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:7
+  - ev:10
+- id: fig:8
+  name_or_label: Unbelievers
+  description: Persons for whom burning fire is said to have been prepared.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:9
+roles:
+- id: role:1
+  label: divine granter of victory and guidance
+  assigned_to:
+  - fig:1
+  basis: God grants victory, forgiveness, favor, guidance, and assistance to the addressed
+    apostle.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: divine judge and punisher
+  assigned_to:
+  - fig:1
+  basis: God punishes hypocrites, idolaters, and unbelievers, prepares hell or burning
+    fire, and forgives or punishes whom he pleases.
+  evidence_refs:
+  - ev:4
+  - ev:9
+- id: role:3
+  label: covenant party
+  assigned_to:
+  - fig:1
+  basis: Fealty sworn to the apostle is identified as fealty to God, and the oath
+    is described as covenanted with God.
+  evidence_refs:
+  - ev:6
+- id: role:4
+  label: victorious apostle
+  assigned_to:
+  - fig:2
+  basis: The addressed apostle receives a manifest victory and divine assistance.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: witness and messenger of tidings and threats
+  assigned_to:
+  - fig:2
+  basis: The apostle is sent as witness, bearer of good tidings, and denouncer of
+    threats.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: faithful recipients of tranquility and reward
+  assigned_to:
+  - fig:3
+  basis: True believers receive tranquility, increased faith, gardens with rivers,
+    and expiation of evil deeds.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:7
+  label: threatened unbelieving or hostile group
+  assigned_to:
+  - fig:4
+  - fig:5
+  - fig:8
+  basis: Hypocrites, idolaters, and unbelievers are threatened with punishment, hell,
+    or burning fire.
+  evidence_refs:
+  - ev:4
+  - ev:9
+- id: role:8
+  label: oath-takers
+  assigned_to:
+  - fig:6
+  basis: They swear fealty to the apostle and are warned against violating the oath.
+  evidence_refs:
+  - ev:6
+- id: role:9
+  label: left-behind excuse-makers
+  assigned_to:
+  - fig:7
+  basis: They claim property and families prevented them from going forth and later
+    seek to follow for spoil.
+  evidence_refs:
+  - ev:7
+  - ev:10
+symbols:
+- id: sym:1
+  label: gardens with rivers
+  literal_form: gardens beneath which rivers flow
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: hell
+  literal_form: hell prepared for punished hypocrites and idolaters
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: burning fire
+  literal_form: burning fire prepared for unbelievers
+  associated_figures:
+  - fig:8
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:9
+- id: sym:4
+  label: hand of God over hands
+  literal_form: the hand of God is over the hands of those swearing fealty
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: hosts of heaven and earth
+  literal_form: hosts of heaven and earth belonging to God
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:6
+  label: spoil or booty
+  literal_form: spoil sought by those who were left behind
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+scenes:
+- id: scene:1
+  label: Granting of manifest victory
+  summary: God grants the addressed apostle manifest victory, forgiveness, completion
+    of favor, right guidance, and glorious assistance.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Tranquility and promised garden reward
+  summary: God sends tranquility into believers' hearts and promises believing men
+    and women eternal gardens beneath which rivers flow and expiation of evil deeds.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Punishment of hypocrites, idolaters, and unbelievers
+  summary: Hypocrites, idolaters, and unbelievers are threatened with evil fortune,
+    divine anger, curse, hell, or burning fire, while God's power to forgive and punish
+    is affirmed.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  - fig:8
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:9
+- id: scene:4
+  label: Apostolic mission
+  summary: The apostle is sent as witness, bearer of good tidings, and denouncer of
+    threats so that people may believe, assist, revere, and praise.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Fealty as covenant with God
+  summary: Those swearing fealty to the apostle are said to swear fealty to God; violation
+    harms the violator, while performance of the covenant brings reward.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:6
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:6
+- id: scene:6
+  label: Excuses and later request of the left-behind
+  summary: Desert Arabs left behind give excuses and ask for pardon, are described
+    as insincere and corrupt in imagination, and later ask to follow for spoil but
+    are refused.
+  figure_refs:
+  - fig:2
+  - fig:7
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: covenant through oath of fealty
+  taxonomy_refs:
+  - covenant
+  basis: The passage identifies fealty sworn to the apostle as fealty to God and describes
+    performance or violation of what was covenanted with God.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The passage frames the oath in religious and communal terms; no broader
+    comparative claim is made here.
+- id: motif:2
+  label: divine judgment separating reward and punishment
+  taxonomy_refs:
+  - divine_judgment
+  basis: Believers receive gardens, rivers, and expiation, while hypocrites, idolaters,
+    and unbelievers are threatened with divine anger, curse, hell, or burning fire.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:9
+  confidence: high
+  cautions: The extraction records the passage's judgment pattern without inferring
+    a full eschatological system beyond the stated details.
+- id: motif:3
+  label: divinely granted victory and legitimation of the apostle
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The apostle's victory, forgiveness, guidance, and mission as witness and
+    warner are all presented as divinely granted or authorized.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: medium
+  cautions: The available taxonomy lacks a specific prophetic-victory category; 'royal_legitimacy'
+    is only an approximate fit for divine authorization.
+- id: motif:4
+  label: faithful remnant contrasted with those left behind
+  taxonomy_refs: []
+  basis: True believers receive tranquility and promised reward, while those left
+    behind are described as insincere, fearful of non-return, and seeking spoil afterward.
+  evidence_refs:
+  - ev:2
+  - ev:7
+  - ev:8
+  - ev:10
+  confidence: medium
+  cautions: This is a passage-level pattern rather than a named taxonomy motif in
+    the provided list.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 33800-33884
+  quote_or_summary: God grants the addressed apostle a manifest victory, forgiveness,
+    completed favor, right guidance, and glorious assistance.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summary used.
+- id: ev:2
+  type: summary
+  locator: lines 33800-33884
+  quote_or_summary: God sends secure tranquility into the hearts of true believers
+    so their faith may increase; the hosts of heaven and earth belong to God.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summary used.
+- id: ev:3
+  type: quote
+  locator: lines 33800-33884
+  quote_or_summary: '"gardens beneath which rivers flow, to dwell therein forever";
+    evil deeds are expiated from true believers of both sexes.'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short quote used.
+- id: ev:4
+  type: summary
+  locator: lines 33800-33884
+  quote_or_summary: Hypocritical men and women and idolaters are said to hold an ill
+    opinion of God and are threatened with evil fortune, divine anger, curse, and
+    hell.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summary used.
+- id: ev:5
+  type: summary
+  locator: lines 33800-33884
+  quote_or_summary: The apostle is sent as a witness, bearer of good tidings, and
+    denouncer of threats, so that people may believe, assist, revere, and praise.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summary used.
+- id: ev:6
+  type: quote
+  locator: lines 33800-33884
+  quote_or_summary: '"they who swear fealty unto thee, swear fealty unto GOD: the
+    hand of GOD is over their hands"; keeping the covenant with God brings a great
+    reward.'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short quote used.
+- id: ev:7
+  type: summary
+  locator: lines 33800-33884
+  quote_or_summary: Desert Arabs left behind say their substance and families occupied
+    them, ask for pardon, and are described as saying with their tongues what is not
+    in their hearts.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summary used.
+- id: ev:8
+  type: summary
+  locator: lines 33800-33884
+  quote_or_summary: The left-behind people had imagined that the apostle and true
+    believers would never return to their families and are called corrupt.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summary used.
+- id: ev:9
+  type: summary
+  locator: lines 33800-33884
+  quote_or_summary: Burning fire is prepared for unbelievers; God has the kingdom
+    of heaven and earth and forgives or punishes whom he pleases.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summary used.
+- id: ev:10
+  type: summary
+  locator: lines 33800-33884
+  quote_or_summary: Those left behind ask to follow when the believers go to take
+    spoil, are said to seek to change God's word, and accuse others of envying them
+    a share of booty.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is strong for the supplied passage. Motif candidates are
+    limited to the provided taxonomy and are most secure for covenant and divine judgment.
+    No comparison claims were added because the passage does not itself provide an
+    explicit comparative frame.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Footnote material in the supplied passage was not used for independent historical conclusions beyond identifying that the chapter concerns victory and that commentary discusses possible referents for that victory.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l33800-l33884
+  passage_sha256=7944d0af90a971469aaafd38523eaee2d388edf889d6647abb247c8850e32289

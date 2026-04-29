@@ -1,0 +1,665 @@
+---
+record_id: batch.motif.islamic-koran-rodwell-gutenberg-l8200-l8362
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+passage_locator:
+  label: PUBLIC SERVICES, / AND EMINENT LITERARY ATTAINMENTS, / THE TRANSLATOR. /
+    PREFACE; lines 8200-8362
+  start: '8200'
+  end: '8362'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes a judgment scene in which mouths are sealed and limbs
+    testify, warns of divine power to blind or transform, states that Muhammad was
+    not taught poetry but received a clear warning, argues from creation and human
+    origin to resurrection, and begins Sura XLIII by presenting the Arabic Koran as
+    a wise archetypal book, recalling rejected prophets, divine creation, rain reviving
+    dead land, transport by ships and beasts, return to God, and rejecting claims
+    that God has offspring.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: On the named day, mouths are sealed while hands speak and feet bear witness
+    to deeds.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker says that, if willed, eyes could be put out and people could be
+    transformed in place so that they could neither move onward nor return.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage says that lengthened days cause a person to stoop through age.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage states that Muhammad was not taught poetry and that the Book is
+    a warning and a clear Koran.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Animals are described as created for humans, subjected to them, used for riding,
+    eating, profitable uses, and beverages.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Some people are said to have taken other gods beside God, though these gods
+    have no power to succour them.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Man is described as created from moist germs of life and as arguing about
+    whether rotten bones can be given life.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The answer given is that the one who first gave beings existence can give
+    life to the bones again.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: Fire is said to be given from the green tree, from which people kindle flame.
+  category: object
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: Divine creation of the heavens and earth is used as a basis for the ability
+    to create human likenesses.
+  category: relationship
+  evidence_refs:
+  - ev:10
+- id: obs:11
+  text: The divine command is described as saying “BE,” after which the thing exists.
+  category: speech
+  evidence_refs:
+  - ev:11
+- id: obs:12
+  text: The opening of Sura XLIII presents the Koran as Arabic, a transcript of an
+    archetypal Book, lofty and filled with wisdom.
+  category: attribute
+  evidence_refs:
+  - ev:12
+- id: obs:13
+  text: The passage states that earlier prophets were mocked and that stronger nations
+    were destroyed.
+  category: sequence
+  evidence_refs:
+  - ev:13
+- id: obs:14
+  text: God is described as making earth a couch, tracing routes, sending rain, reviving
+    dead land, creating sexual couples, and making ships and beasts for riding.
+  category: action
+  evidence_refs:
+  - ev:14
+- id: obs:15
+  text: Rain reviving dead land is explicitly compared to being brought forth from
+    the grave.
+  category: relationship
+  evidence_refs:
+  - ev:15
+- id: obs:16
+  text: Riders are instructed to remember the goodness of their Lord and say that
+    the subjected mounts were not attainable by themselves.
+  category: speech
+  evidence_refs:
+  - ev:16
+- id: obs:17
+  text: The passage rejects assigning offspring to God and specifically questions
+    the idea that God adopted daughters while choosing sons for humans.
+  category: speech
+  evidence_refs:
+  - ev:17
+figures:
+- id: fig:1
+  name_or_label: God / the divine speaker
+  description: The creator, judge, giver of warning, reviver of bones and dead land,
+    and sovereign over all things.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:8
+  - ev:10
+  - ev:11
+  - ev:14
+  - ev:15
+- id: fig:2
+  name_or_label: Muhammad
+  description: Named as one not taught poetry; associated with the clear Koran as
+    warning.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: Infidels / transgressing people / man as caviller
+  description: People warned by the Koran, described as arguing about resurrection,
+    taking other gods, and assigning offspring to God.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:17
+- id: fig:4
+  name_or_label: Hands and feet
+  description: Body members that speak or bear witness when mouths are sealed.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: Other gods beside God
+  description: Entities taken as helpers, but described as lacking power to succour
+    their votaries.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: Animals, beasts, and ships used for transport
+  description: Created or made for human use, with animals ridden, eaten, and used
+    for benefits and beverages; ships and beasts are also means of riding.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:5
+  - ev:14
+  - ev:16
+- id: fig:7
+  name_or_label: Earlier prophets
+  description: Prophets sent among people of old and made objects of scorn.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:13
+roles:
+- id: role:1
+  label: divine judge
+  assigned_to:
+  - fig:1
+  basis: The divine speaker seals mouths and receives testimony from hands and feet.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: creator and reviver
+  assigned_to:
+  - fig:1
+  basis: God is credited with first creation, creation of heavens and earth, and reviving
+    bones and dead land.
+  evidence_refs:
+  - ev:8
+  - ev:10
+  - ev:14
+  - ev:15
+- id: role:3
+  label: sovereign commander
+  assigned_to:
+  - fig:1
+  basis: The divine command makes things exist by saying “BE,” and sway over all things
+    is in God’s hand.
+  evidence_refs:
+  - ev:11
+- id: role:4
+  label: recipient or bearer of warning
+  assigned_to:
+  - fig:2
+  basis: Muhammad is distinguished from a poet, and the Book is called a warning and
+    clear Koran.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: disputant or unbelieving audience
+  assigned_to:
+  - fig:3
+  basis: The audience argues about rotten bones, takes other gods, and is warned so
+    that sentence may be justly given.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+- id: role:6
+  label: bodily witnesses
+  assigned_to:
+  - fig:4
+  basis: Hands speak and feet bear witness to deeds after mouths are sealed.
+  evidence_refs:
+  - ev:1
+- id: role:7
+  label: powerless helpers
+  assigned_to:
+  - fig:5
+  basis: The other gods are taken as helpers but have no power to succour.
+  evidence_refs:
+  - ev:6
+- id: role:8
+  label: subjected transport and provision
+  assigned_to:
+  - fig:6
+  basis: Animals, beasts, and ships are described as subjected or made for riding
+    and human benefit.
+  evidence_refs:
+  - ev:5
+  - ev:14
+  - ev:16
+- id: role:9
+  label: rejected messengers
+  assigned_to:
+  - fig:7
+  basis: Earlier prophets are said to have been scorned by those to whom they came.
+  evidence_refs:
+  - ev:13
+symbols:
+- id: sym:1
+  label: sealed mouth
+  literal_form: mouths sealed on the day of judgment
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: testifying limbs
+  literal_form: hands speaking and feet bearing witness
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: rotten bones restored to life
+  literal_form: bones when rotten, to be given life again
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: sym:4
+  label: fire from green tree
+  literal_form: fire given from the green tree, used to kindle flame
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  - tree
+  evidence_refs:
+  - ev:9
+- id: sym:5
+  label: archetypal Book
+  literal_form: a transcript of the archetypal Book, lofty and filled with wisdom
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:12
+- id: sym:6
+  label: rain reviving dead land
+  literal_form: rain sent from heaven in due degree, quickening a dead land
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:14
+  - ev:15
+- id: sym:7
+  label: ships and riding beasts
+  literal_form: ships and beasts made for riding, with riders balanced on their backs
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:14
+  - ev:16
+scenes:
+- id: scene:1
+  label: Bodily testimony at judgment
+  summary: A future day is described in which mouths are sealed and bodily members
+    testify to what people have done.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Threat of disabling transformation
+  summary: The divine speaker states that blindness or transformation in place could
+    be imposed, preventing sight, advance, or return.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Warning through the clear Koran
+  summary: Muhammad is said not to have been taught poetry; the Book is instead a
+    warning and clear Koran for the living and for just sentence against infidels.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Created animals and powerless gods
+  summary: The passage points to animals created and subjected for human riding, food,
+    and profit, then contrasts this with people taking other gods that cannot help
+    them.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Argument for resurrection
+  summary: A human disputant questions who can revive rotten bones; the response appeals
+    to first creation, fire from the green tree, creation of heavens and earth, and
+    the divine command that brings things into being.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:10
+  - ev:11
+- id: scene:6
+  label: Opening of Sura XLIII
+  summary: The passage presents the Arabic Koran as derived from an archetypal wise
+    book, recalls mocked prophets and destroyed nations, and describes divine creation,
+    guidance routes, rain, revival of dead land, sexual couples, ships, beasts, return
+    to God, and rejection of divine offspring.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:12
+  - ev:13
+  - ev:14
+  - ev:15
+  - ev:16
+  - ev:17
+candidate_motifs:
+- id: motif:1
+  label: Divine judgment with bodily testimony
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage depicts a judgment day where mouths are sealed and hands and
+    feet testify to deeds, supporting just sentence against unbelievers.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: high
+  cautions: The taxonomy reference is broad; the specific bodily-witness image is
+    not listed as a separate taxonomy symbol.
+- id: motif:2
+  label: Resurrection from decay and grave
+  taxonomy_refs:
+  - resurrection
+  basis: The passage answers the question of who can give life to rotten bones and
+    compares rain reviving dead land to being brought forth from the grave.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:15
+  confidence: high
+  cautions: The passage argues for resurrection rather than narrating a completed
+    resurrection event.
+- id: motif:3
+  label: Creation as proof of divine power
+  taxonomy_refs: []
+  basis: First creation, creation of heavens and earth, fire from the green tree,
+    and the command “BE” are invoked to establish divine capacity to create and revive.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+  - ev:11
+  confidence: high
+  cautions: No closer available taxonomy family is supplied beyond related resurrection
+    and divine judgment categories.
+- id: motif:4
+  label: Rain revives dead land as analogy for resurrection
+  taxonomy_refs:
+  - resurrection
+  basis: Rain from heaven quickens a dead land, and the text explicitly says that
+    in this way people will be brought forth from the grave.
+  evidence_refs:
+  - ev:14
+  - ev:15
+  confidence: high
+  cautions: This is an explicit analogy in the passage, not an independent agricultural
+    myth narrative.
+- id: motif:5
+  label: Revealed wise archetypal book
+  taxonomy_refs:
+  - wisdom
+  basis: The Koran is described as Arabic for understanding and as a transcript of
+    an archetypal Book that is lofty and filled with wisdom.
+  evidence_refs:
+  - ev:12
+  confidence: medium
+  cautions: The taxonomy link to wisdom is general; the passage presents scripture
+    rather than a wisdom quest narrative.
+- id: motif:6
+  label: Rejected prophets and destroyed former nations
+  taxonomy_refs:
+  - divine_judgment
+  basis: Prophets among those of old were scorned, after which stronger nations were
+    destroyed.
+  evidence_refs:
+  - ev:13
+  confidence: medium
+  cautions: The passage states the pattern briefly without narrating an individual
+    prophet story.
+comparison_claims:
+- id: claim:1
+  claim: The translator’s note connects the image of bodily members bearing witness
+    against a person with Rabbinic passages in Chagiga and Taanith and with Isaiah
+    43:12.
+  claim_level: same_motif
+  target: Rabbinic and biblical motif of bodily or personal witnesses against a person
+  evidence_refs:
+  - ev:18
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is supplied in a translator’s footnote, not developed
+    in the Koranic verse itself; exact historical relationship is not established
+    here.
+- id: claim:2
+  claim: The translator’s note says the Arabic form for the word in the fire-from-tree
+    phrase is Rabbinic Hebrew, supporting a limited linguistic comparison.
+  claim_level: linguistic_similarity
+  target: Rabbinic Hebrew form associated with the fire-from-green-tree phrase
+  evidence_refs:
+  - ev:19
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The note concerns word form only and does not establish a shared narrative
+    motif or historical borrowing.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8200-8202
+  quote_or_summary: On that day mouths are sealed; hands speak and feet bear witness
+    to what people have done.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 8204-8209
+  quote_or_summary: The speaker says eyes could be put out, or people transformed
+    where they stand so they cannot move onward or return.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: line 8211
+  quote_or_summary: One whose days are lengthened is caused to stoop through age.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 8213-8218
+  quote_or_summary: Muhammad was not taught poetry; the Book is a warning and clear
+    Koran to warn the living and justify sentence against infidels.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 8220-8226
+  quote_or_summary: Created animals are mastered and subjected for riding, eating,
+    profitable uses, and beverages.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 8228-8233
+  quote_or_summary: People have taken other gods for help, but these gods cannot succour
+    them, though their votaries serve as an army.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 8237-8242
+  quote_or_summary: Man, created from moist germs of life, becomes a caviller and
+    asks who will give life to rotten bones.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 8244-8245
+  quote_or_summary: The answer says the one who gave beings existence at first will
+    give life to the bones.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: quote
+  locator: lines 8247-8248
+  quote_or_summary: "“out of the green tree hath given you fire”"
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:10
+  type: summary
+  locator: lines 8250-8252
+  quote_or_summary: The creator of the heavens and earth is said to be able to create
+    human likenesses.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; summarized.
+- id: ev:11
+  type: quote
+  locator: lines 8254-8257
+  quote_or_summary: "“BE, and IT IS”; all things are under God’s sway, and people
+    will be brought back to Him."
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; short excerpt with summary.
+- id: ev:12
+  type: summary
+  locator: lines 8311-8317
+  quote_or_summary: Sura XLIII opens with the luminous Book; the Koran is Arabic for
+    understanding and a lofty, wise transcript of the archetypal Book.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; summarized.
+- id: ev:13
+  type: summary
+  locator: lines 8321-8327
+  quote_or_summary: Many prophets were sent among those of old, but each was scorned;
+    stronger nations were destroyed, and their example has gone before.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; summarized.
+- id: ev:14
+  type: summary
+  locator: lines 8329-8339
+  quote_or_summary: The creator of heavens and earth made earth a couch, traced routes,
+    sent rain, created sexual couples, and made ships and beasts for riding.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; summarized.
+- id: ev:15
+  type: summary
+  locator: lines 8335-8336
+  quote_or_summary: Rain quickens dead land; the passage says people shall similarly
+    be brought forth from the grave.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; summarized.
+- id: ev:16
+  type: summary
+  locator: lines 8341-8346
+  quote_or_summary: Riders are to sit balanced on mounts, remember the Lord’s goodness,
+    and say these were subjected by God, not attained by themselves.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; summarized.
+- id: ev:17
+  type: summary
+  locator: lines 8348-8354
+  quote_or_summary: The passage says humans return to the Lord and rejects assigning
+    God servants as offspring, daughters, or sons.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; summarized.
+- id: ev:18
+  type: note
+  locator: footnote 14 within lines 8260-8295
+  quote_or_summary: Translator’s note compares the bodily-witness verse with Chagiga
+    16, Taanith 11, Isaiah 43:12, and another Koran passage.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; summarized note.
+- id: ev:19
+  type: note
+  locator: footnote 18 within lines 8260-8295
+  quote_or_summary: Translator’s note says the form of the Arabic word in the fire-from-tree
+    phrase is Rabbinic Hebrew.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; summarized note.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Extraction uses only the supplied passage and translator notes. Comparison
+    claims are limited to explicit footnote material and do not assert historical
+    dependence.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  The supplied locator label appears inconsistent with the actual passage content, which contains Qur'anic text and notes rather than the prefatory material named in the label.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-rodwell-gutenberg__l8200-l8362
+  passage_sha256=9ab76cc0f60109a8fae563ce754c5a6e955b299eae4755f363a007c748de639f

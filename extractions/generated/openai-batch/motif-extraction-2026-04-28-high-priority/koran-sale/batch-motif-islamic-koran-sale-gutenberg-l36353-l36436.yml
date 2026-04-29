@@ -1,0 +1,462 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l36353-l36436
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: IN THE NAME OF THE MOST MERCIFUL GOD. / CHAPTER LXVI. / ENTITLED, PROHIBITION;
+    REVEALED AT MEDINA. / IN THE NAME OF THE MOST MERCIFUL GOD.; lines 36353-36436
+  start: '36353'
+  end: '36436'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'Commentary on the occasion for Chapter LXVI reports competing explanations:
+    an abstention from honey, or more commonly Mohammed''s oath to avoid Mary after
+    Hafsa reproached him. The note explains the chapter as releasing him from that
+    oath, discusses expiation or exception in oaths, disputes another author''s representation,
+    and recounts Hafsa''s disclosure to Ayesha, Mohammed''s claim that God revealed
+    the betrayal, his temporary separation from his wives, and his later restoration
+    of Hafsa by Gabriel''s direction with a promise of paradise.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: 'The passage reports two explanations for the chapter''s occasion: one concerning
+    Mohammed''s vow not to eat honey, and another, described as the more received
+    opinion, concerning Mary and Hafsa.'
+  category: sequence
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:2
+  text: In the Mary account, Hafsa reproached Mohammed after learning of his act with
+    Mary, and he promised with an oath not to touch Mary again.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage states that freeing Mohammed from the obligation of this promise
+    was the design of the chapter.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The commentator argues that Dr. Prideaux added words not found in the Koran
+    and misrepresented the passage as a general permission to all Moslems.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage explains that God appointed an expiation for oaths, or allowed
+    an exception in oaths, though Al Beidwi disapproves one application of this opinion.
+  category: other
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Mohammed asked Hafsa to keep the matter secret and also told her that Abu
+    Becr and Omar would succeed him in governing his people.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Hafsa disclosed the matter to Ayesha, and Mohammed told Hafsa that God had
+    revealed her betrayal to him.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Mohammed divorced Hafsa and separated himself from all his other wives for
+    a month, spending that time in Mary's apartment.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The passage says Mohammed later took Hafsa back by Gabriel's direction, with
+    Gabriel commending her devotion and assuring that she would be one of Mohammed's
+    wives in paradise.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: The passage rejects a claim that Mary and her son were sent away to Egypt
+    after Mohammed's death, stating instead that Mary remained in Arabia until her
+    death and that her son died before his father.
+  category: other
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Mohammed
+  description: Prophet named in the passage; husband of Hafsa and Ayesha, master of
+    Mary, maker of the oath, and recipient of divine or angelic direction in the reported
+    narrative.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: Hafsa
+  description: One of Mohammed's wives; reproaches him, receives his request for secrecy,
+    discloses the matter to Ayesha, is divorced and later restored.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:6
+  - ev:7
+- id: fig:3
+  name_or_label: Mary
+  description: Coptic slave or concubine of Mohammed, sent as a present by al Mokawkas;
+    central to the more received account of the chapter's occasion.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+- id: fig:4
+  name_or_label: Ayesha
+  description: One of Mohammed's wives; in one version the day was due to her, and
+    Hafsa later disclosed the secret to her.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: fig:5
+  name_or_label: God
+  description: Divine figure said to have allowed expiation or exception in oaths
+    and to have revealed Hafsa's disclosure to Mohammed.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:6
+  name_or_label: Gabriel
+  description: Angel said to direct Mohammed to take Hafsa back and to commend her
+    devotion.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:7
+- id: fig:7
+  name_or_label: Abu Becr and Omar
+  description: Figures whom Mohammed foretold, according to the note, as future successors
+    in government of his people.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: prophet and husband
+  assigned_to:
+  - fig:1
+  basis: The passage repeatedly identifies Mohammed as prophet and narrates actions
+    involving his wives.
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: role:2
+  label: oath-maker released from obligation
+  assigned_to:
+  - fig:1
+  basis: He promises with an oath not to touch Mary, and the chapter is explained
+    as freeing him from that obligation.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:3
+  label: wife who reproaches and is restored
+  assigned_to:
+  - fig:2
+  basis: Hafsa reproaches Mohammed, is divorced, and is later taken back.
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: role:4
+  label: keeper and betrayer of secret
+  assigned_to:
+  - fig:2
+  basis: Mohammed asks Hafsa to keep the affair secret, but she tells Ayesha.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: concubine involved in oath narrative
+  assigned_to:
+  - fig:3
+  basis: Mary is the slave or concubine whom Mohammed promises not to touch again.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: confidante wife
+  assigned_to:
+  - fig:4
+  basis: Ayesha receives Hafsa's disclosure and is described as living in strict friendship
+    with her.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: divine revealer and releaser of oaths
+  assigned_to:
+  - fig:5
+  basis: God is said to allow expiation or exception in oaths and to reveal the secret
+    disclosure to Mohammed.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:8
+  label: angelic mediator
+  assigned_to:
+  - fig:6
+  basis: Gabriel is said to direct Hafsa's restoration and affirm her future status
+    in paradise.
+  evidence_refs:
+  - ev:7
+- id: role:9
+  label: foretold successors
+  assigned_to:
+  - fig:7
+  basis: Mohammed is said to foretell that Abu Becr and Omar would succeed him in
+    government.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: oath of prohibition
+  literal_form: An oath or promise not to touch Mary again
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:2
+  label: secret disclosure
+  literal_form: A private affair Hafsa was asked to keep secret but disclosed to Ayesha
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:3
+  label: month of separation
+  literal_form: A whole month during which Mohammed separated from his wives and stayed
+    in Mary's apartment
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: wife in paradise
+  literal_form: Gabriel's assurance that Hafsa would be one of Mohammed's wives in
+    paradise
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Competing occasion reports
+  summary: The commentary presents a honey-abstention explanation and a more received
+    Mary-and-Hafsa explanation for the chapter's occasion.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Oath after reproach
+  summary: Hafsa learns of Mohammed's act with Mary and reproaches him; he pacifies
+    her by swearing not to touch Mary again.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Exception or expiation for oath
+  summary: The commentary explains the passage as allowing expiation or exception
+    in oaths, particularly in relation to Mohammed's oath, while noting disagreement
+    by Al Beidwi.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Secret revealed and household separation
+  summary: Hafsa tells Ayesha the secret; Mohammed says God revealed this betrayal,
+    divorces Hafsa, and separates from his wives for a month in Mary's apartment.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: Angelic restoration and paradise assurance
+  summary: Mohammed later takes Hafsa back by Gabriel's direction; Gabriel commends
+    her devotion and assures her place as one of Mohammed's wives in paradise.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:6
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Oath of abstention released by divine allowance
+  taxonomy_refs:
+  - covenant
+  basis: The passage centers the chapter's occasion on an oath not to touch Mary and
+    explains the chapter as freeing Mohammed from the obligation through divine allowance
+    of expiation or exception in oaths.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: medium
+  cautions: The available taxonomy has no exact oath-expiation category; 'covenant'
+    is only a broad fit because the episode concerns a binding oath or promise.
+- id: motif:2
+  label: Betrayed secret disclosed by divine revelation
+  taxonomy_refs: []
+  basis: Hafsa is asked to keep the matter secret, tells Ayesha, and Mohammed says
+    God revealed her disclosure to him.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: This is a passage-level narrative pattern, not matched to a supplied taxonomy
+    family.
+- id: motif:3
+  label: Temporary repudiation followed by angelic restoration
+  taxonomy_refs: []
+  basis: Mohammed divorces Hafsa and separates from his wives, then later takes Hafsa
+    back by Gabriel's direction.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The account is mediated through commentary and cited exegetical reports,
+    not a direct quoted verse in this passage.
+- id: motif:4
+  label: Paradise status promised for a restored spouse
+  taxonomy_refs: []
+  basis: Gabriel is said to assure Mohammed that Hafsa will be one of his wives in
+    paradise.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: No exact supplied taxonomy family is available for this afterlife-marital
+    assurance.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 36353-36359
+  quote_or_summary: Some suppose the passage was occasioned by Mohammed's protest
+    never to eat honey again after wives commented on a smell associated with a honey-like
+    juice.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 36359-36368
+  quote_or_summary: The more received opinion says Mohammed lay with Mary, Hafsa learned
+    of it and reproached him, and he swore not to touch Mary again; the chapter is
+    said to free him from that promise.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 36369-36389
+  quote_or_summary: The commentator disputes Dr. Prideaux's representation, saying
+    he added words not found in the Koran and miscast the passage as a general permission.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 36390-36413
+  quote_or_summary: The commentary rejects a report that Mary and her son were sent
+    to Egypt, saying eastern writers agree Mary stayed in Arabia until death and her
+    son died before Mohammed.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 36414-36421
+  quote_or_summary: The note explains that God appointed expiation for oaths or allowed
+    an exception in oaths, with debate over its application to Mohammed's oath.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 36422-36432
+  quote_or_summary: Mohammed asks Hafsa to keep the affair secret, tells her Abu Becr
+    and Omar would succeed him, Hafsa tells Ayesha, and Mohammed says God revealed
+    her betrayal; he divorces Hafsa and separates from his wives for a month in Mary's
+    apartment.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 36432-36436
+  quote_or_summary: Mohammed later takes Hafsa back by Gabriel's direction; Gabriel
+    commends Hafsa's fasting and devotion and assures she will be one of Mohammed's
+    wives in paradise.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is primarily Sale's commentary and notes on an occasion of revelation,
+    with cited exegetical traditions and polemical discussion. Motif candidates are
+    extracted from the reported narrative only and should be reviewed against the
+    Quranic text and source commentary context.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Comparison claims were left empty because the passage itself does not explicitly compare this material with another tradition or motif family beyond internal exegetical alternatives.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l36353-l36436
+  passage_sha256=e99ad7ceeb21f969960d2a254844b53347dced55046100b1c3388cc99c763d98

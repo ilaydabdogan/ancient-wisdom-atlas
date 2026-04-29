@@ -1,0 +1,376 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l31690-l31726
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: IN THE NAME OF THE MOST MERCIFUL GOD. / CHAPTER XXXVIII. / ENTITLED, S.;
+    REVEALED AT MECCA. / IN THE NAME OF THE MOST MERCIFUL GOD.; lines 31690-31726
+  start: '31690'
+  end: '31726'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: God expels Eblis from mercy and curses him until the day of judgment. Eblis
+    asks for respite until the resurrection, receives respite until a determined time,
+    and vows to seduce humans except God's chosen servants. God declares that hell
+    will be filled with Eblis and those who follow him. The passage then states that
+    the Koran is an admonition to all creatures and that its truth will be known after
+    a season.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: God tells Eblis to depart and says he will be driven away from mercy.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: God says his curse will be upon Eblis until the day of judgment.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Eblis asks the Lord to respite him until the day of resurrection.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: God grants Eblis respite until a determined time.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Eblis swears by God's might that he will seduce them all except God's chosen
+    servants.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: God says he will fill hell with Eblis and with those who follow Eblis.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The speaker is instructed to say to the Meccans that no reward is asked for
+    the preaching.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The Koran is described as an admonition to all creatures whose truth will
+    be known after a season.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: God
+  description: The divine speaker who expels Eblis, grants respite, and declares judgment.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: Eblis
+  description: The being driven away from mercy, cursed until judgment, granted respite,
+    and vowing to seduce others.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: God's chosen servants
+  description: Those excepted by Eblis from his vow to seduce all.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Followers of Eblis
+  description: Those who follow Eblis and are said to be included with him in hell.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Meccans
+  description: The addressed audience told that no reward is asked for the preaching.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: divine speaker
+  assigned_to:
+  - fig:1
+  basis: God speaks commands and judgments in direct speech.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: role:2
+  label: judge and punisher
+  assigned_to:
+  - fig:1
+  basis: God imposes a curse and declares hell will be filled with Eblis and his followers.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:3
+  label: cursed outcast
+  assigned_to:
+  - fig:2
+  basis: Eblis is told to depart, is driven from mercy, and is cursed until judgment.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: seducer
+  assigned_to:
+  - fig:2
+  basis: Eblis vows to seduce all except God's chosen servants.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: protected chosen servants
+  assigned_to:
+  - fig:3
+  basis: Eblis excludes God's peculiarly chosen servants from his vow of seduction.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: followers of the seducer
+  assigned_to:
+  - fig:4
+  basis: God says hell will be filled with Eblis and those who follow him.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: human audience of admonition
+  assigned_to:
+  - fig:5
+  basis: The Meccans are addressed regarding the preaching and the Koran's admonition.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: day of judgment
+  literal_form: eschatological time of judgment
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: day of resurrection
+  literal_form: eschatological time requested by Eblis as a respite limit
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: determined time
+  literal_form: appointed time until which Eblis is respited
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: hell
+  literal_form: place to be filled with Eblis and his followers
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: the Koran as admonition
+  literal_form: revealed text described as an admonition to all creatures
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Expulsion and curse of Eblis
+  summary: God commands Eblis to depart, says he is driven away from mercy, and places
+    a curse upon him until the day of judgment.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Respite until the determined time
+  summary: Eblis asks for respite until the day of resurrection, and God grants him
+    respite until a determined time.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Vow to seduce and exception of chosen servants
+  summary: Eblis swears by God's might that he will seduce them all, except God's
+    peculiarly chosen servants.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Sentence of hell
+  summary: God declares that hell will be filled with Eblis and with those who follow
+    him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Admonition to the Meccans
+  summary: The Meccans are told that no reward is asked for the preaching, that the
+    Koran is an admonition to all creatures, and that its truth will be known after
+    a season.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: divine judgment against a rebel figure
+  taxonomy_refs:
+  - divine_judgment
+  basis: God expels Eblis from mercy, curses him until judgment, and declares hell
+    for him and his followers.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: high
+  cautions: The passage identifies judgment and punishment clearly, but broader narrative
+    context outside the excerpt is not used.
+- id: motif:2
+  label: respite before final reckoning
+  taxonomy_refs:
+  - divine_judgment
+  basis: Eblis asks for respite until resurrection and receives respite until a determined
+    time.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The exact nature of the determined time is not explained within the passage.
+- id: motif:3
+  label: temptation of humans by a seducer
+  taxonomy_refs:
+  - forbidden_knowledge
+  basis: Eblis vows to seduce all except God's chosen servants.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage uses the language of seduction but does not specify forbidden
+    knowledge or the content of the temptation in this excerpt.
+- id: motif:4
+  label: resurrection as eschatological horizon
+  taxonomy_refs:
+  - resurrection
+  basis: Eblis asks to be respited until the day of resurrection.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage mentions resurrection as a time marker rather than narrating
+    resurrection itself.
+- id: motif:5
+  label: revealed admonition to all creatures
+  taxonomy_refs:
+  - wisdom
+  basis: The Koran is described as an admonition to all creatures whose truth will
+    be known after a season.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The taxonomy reference is broad; the passage frames the text as admonition
+    rather than abstract wisdom teaching.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 31690-31726
+  quote_or_summary: 'God says to Eblis: “Get thee hence therefore; for thou shalt
+    be driven away from mercy” and that his curse will be upon him “until the day
+    of judgment.”'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 31690-31726
+  quote_or_summary: Eblis asks the Lord for respite until the day of resurrection,
+    and God says he will be among those respited until the determined time.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: quote
+  locator: lines 31690-31726
+  quote_or_summary: Eblis says, “By thy might do I swear, I will surely seduce them
+    all,” except God's peculiarly chosen servants.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: summary
+  locator: lines 31690-31726
+  quote_or_summary: God declares a just sentence and says he will fill hell with Eblis
+    and with those who follow him.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 31690-31726
+  quote_or_summary: The Meccans are told no reward is asked for the preaching; the
+    Koran is described as an admonition to all creatures, whose truth will be known
+    after a season.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The main actions and figures are explicit in the excerpt. Motif assignments
+    are limited to available taxonomy references and should be reviewed, especially
+    the broad use of forbidden_knowledge and wisdom.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used. Footnote material in the excerpt was not used for motif interpretation except as part of the provided context.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l31690-l31726
+  passage_sha256=454c9496647a976d443bcbdedd446ad76db241c0434ade5cea759fc1e65de5e6

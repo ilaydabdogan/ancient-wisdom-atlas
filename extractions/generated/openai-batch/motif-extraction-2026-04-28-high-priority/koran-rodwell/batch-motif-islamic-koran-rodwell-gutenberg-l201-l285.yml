@@ -1,0 +1,380 @@
+---
+record_id: batch.motif.islamic-koran-rodwell-gutenberg-l201-l285
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+passage_locator:
+  label: The Koran (Al-Qur'an) / INTRODUCTION; lines 201-285
+  start: '201'
+  end: '285'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The introduction describes the Koran as a major religious book whose influence
+    transformed Arabian tribes and shaped later Islamic political, religious, literary,
+    and philosophical developments. It links the text closely with Muhammed as its
+    producer, presents divergent evaluations of him, notes orthodox Muslim belief
+    in the Koran as Allah's eternal utterance, and argues that the Koran reworked
+    Jewish, Christian, Rabbinic, apocryphal, and Arabian materials in a distinctive
+    manner.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that the Koran occupies an important position among major
+    religious books and has strongly affected large groups of people.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says the Koran transformed heterogeneous desert tribes of the
+    Arabian peninsula into a nation of heroes and helped create Muhammedan politico-religious
+    organisations.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage describes the Koran at first as not a book but a living voice
+    consisting of admonitions, promises, threats, and instructions to hostile or turbulent
+    Arab assemblies.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage says the Koran was published as a book after the prophet's death,
+    while during Muhammed's lifetime it existed as notes, speeches, and listeners'
+    memories.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage states that speaking of the Koran is practically the same as speaking
+    of Muhammed because of the close identity between the work and the mind that produced
+    it.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage reports that Muslims regard Muhammed as the prophet par excellence
+    and the Koran as the eternal utterance of Allah.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The passage says the Koran has been compared with Christian and Jewish traditions
+    and stands in close relation to them and to some Arabian legends.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The passage says Biblical reminiscences, Rabbinic legends, Christian traditions,
+    apocryphal sources, and native heathen stories are reshaped through the prophet's
+    mind into new forms.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The passage states that the Koran indirectly gave impetus to studies among
+    Arabs and their allies, including linguistic investigations, poetry, literature,
+    philosophy, mathematics, astronomy, and other sciences.
+  category: action
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Muhammed
+  description: The prophet described as the producer of the Koran and as closely identified
+    with the work.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Allah
+  description: Named as the source whose eternal utterance the orthodox are said to
+    regard the Koran to be.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: Arabian desert tribes
+  description: Heterogeneous desert tribes of the Arabian peninsula said to have been
+    transformed into a nation of heroes.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Muhammed's faithful adherents
+  description: Adherents for whom the reshaped traditions serve as encouragement.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: Muhammed's opponents
+  description: Opponents whose hearts the reshaped forms are said to strike with terror.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: prophet
+  assigned_to:
+  - fig:1
+  basis: The passage repeatedly identifies Muhammed as the prophet and discusses his
+    prophetic inspiration.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:2
+  label: producer of the Koran
+  assigned_to:
+  - fig:1
+  basis: The passage states that the power of the book lay in the mind which produced
+    it and identifies the literary work with Muhammed's mind.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: divine source in orthodox Muslim view
+  assigned_to:
+  - fig:2
+  basis: The passage says the Koran is regarded by the orthodox as the eternal utterance
+    of Allah.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: transformed community
+  assigned_to:
+  - fig:3
+  basis: The tribes are described as transformed into a nation of heroes.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: encouraged followers
+  assigned_to:
+  - fig:4
+  basis: The passage says the new forms serve as encouragement to faithful adherents.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: terror-struck opponents
+  assigned_to:
+  - fig:5
+  basis: The passage says the new forms strike terror into the hearts of opponents.
+  evidence_refs:
+  - ev:6
+symbols: []
+scenes:
+- id: scene:1
+  label: Transformative social effect of the Koran
+  summary: The Koran is described as changing Arabian desert tribes into a heroic
+    nation and helping create broad politico-religious organisations.
+  figure_refs:
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: The Koran as living proclamation before becoming a book
+  summary: The passage describes the Koran first as oral proclamation addressed to
+    Arab assemblies and later as a book published after the prophet's death.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Close identification of text and prophet
+  summary: The passage argues that evaluating the Koran is closely connected with
+    evaluating Muhammed because of the identity between the work and the mind that
+    produced it.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Reworking of earlier traditions
+  summary: The passage says Jewish, Christian, Rabbinic, apocryphal, and Arabian materials
+    pass through the prophet's mind and emerge in new forms for encouragement and
+    warning.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Later intellectual and literary movement
+  summary: The Koran is described as the starting-point or indirect impetus for literary,
+    philosophical, linguistic, poetic, mathematical, astronomical, and scientific
+    studies.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Prophetic proclamation becomes sacred book
+  taxonomy_refs: []
+  basis: The passage presents the Koran as first a living authoritative proclamation
+    and later as a published book after the prophet's death.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This is an introductory historical-literary claim rather than a mythic
+    episode within the Koranic text itself.
+- id: motif:2
+  label: Prophet as culture-forming figure
+  taxonomy_refs:
+  - culture_hero
+  basis: The passage attributes the transformation of tribes and the creation of large
+    politico-religious organisations to the influence of the Koran and the mind of
+    Muhammed behind it.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: The passage frames this as historical and evaluative commentary, not as
+    a narrative myth of a culture hero.
+- id: motif:3
+  label: Sacred utterance of a deity
+  taxonomy_refs: []
+  basis: The passage reports the orthodox Muslim view that the Koran is the eternal
+    utterance of Allah.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The statement is about belief concerning the text's status; the passage
+    itself does not narrate a revelation scene.
+- id: motif:4
+  label: Wisdom and learning initiated by sacred text
+  taxonomy_refs:
+  - wisdom
+  basis: The passage says the Koran indirectly gave impetus to philosophy, sciences,
+    linguistic investigations, poetry, and literature among Arabs and their allies.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The motif label is broad; the passage describes intellectual history rather
+    than a discrete mythic wisdom episode.
+- id: motif:5
+  label: Transformation of inherited traditions into new forms
+  taxonomy_refs: []
+  basis: The passage says Biblical, Rabbinic, Christian, apocryphal, and native Arabian
+    materials are blended and reshaped into new forms serving Muhammed's purposes.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: This is a comparative-literary pattern supported by the introduction,
+    not a specific narrative motif.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly claims that the Koran stands in close relationship
+    to Christian and Jewish traditions of its time, along with some Arabian legends.
+  claim_level: same_function
+  target: Christian, Jewish, and Arabian traditional materials in relation to the
+    Koran
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage gives a general introductory assessment and does not identify
+    specific shared stories or motifs in this line range.
+- id: claim:2
+  claim: The passage claims that Biblical reminiscences, Rabbinic legends, Christian
+    traditions from apocryphal sources, and native heathen stories were reshaped into
+    new forms in the Koranic context.
+  claim_level: visual_similarity
+  target: Biblical, Rabbinic, Christian apocryphal, and native Arabian story traditions
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The schema's comparison levels do not include a precise category for
+    literary reworking; no specific visual or linguistic similarity is demonstrated
+    in the passage.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 201-214
+  quote_or_summary: The Koran is described as a major religious book that transformed
+    Arabian desert tribes into a nation of heroes and helped create vast Muhammedan
+    politico-religious organisations.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 215-225
+  quote_or_summary: The Koran is described as initially a living authoritative proclamation
+    of admonitions, promises, threats, and instructions, later published as a book
+    after the prophet's death.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 226-231
+  quote_or_summary: The passage says that speaking of the Koran is practically the
+    same as speaking of Muhammed and stresses the identity between the work and the
+    producing mind.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 232-240
+  quote_or_summary: The passage notes differing estimates of Muhammed and says Muslims
+    regard him as the prophet par excellence and the Koran as the eternal utterance
+    of Allah.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 258-263
+  quote_or_summary: The passage states that comparison with Christian and Jewish traditions
+    shows the Koran's close relationship to those traditions and to some Arabian legends.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 264-273
+  quote_or_summary: The passage says Biblical reminiscences, Rabbinic legends, Christian
+    traditions from apocryphal sources, and native heathen stories pass through the
+    prophet's mind and emerge in new forms that encourage adherents and terrify opponents.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 274-285
+  quote_or_summary: The passage describes the Koran as the starting-point of a literary
+    and philosophical movement and as an indirect impetus for Arabic learning, sciences,
+    poetry, and literature.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: low
+  notes: The passage is an introduction and contains historical-literary evaluation
+    rather than a mythic narrative. Motif candidates are therefore broad and require
+    human review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No available symbol taxonomy item is directly supported in this passage; symbols are left empty.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-rodwell-gutenberg__l201-l285
+  passage_sha256=ed4f36f14602db62f99de155f1b040336a11f181e46968980f3a652259ff96c8

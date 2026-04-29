@@ -1,0 +1,586 @@
+---
+record_id: batch.motif.islamic-koran-rodwell-gutenberg-l998-l1141
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+passage_locator:
+  label: PUBLIC SERVICES, / AND EMINENT LITERARY ATTAINMENTS, / THE TRANSLATOR. /
+    PREFACE; lines 998-1141
+  start: '998'
+  end: '1141'
+  translation: The Koran (Al-Qur'an), Rodwell translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage presents an opening prayer praising Allah as merciful maker
+    and king of the day of fate, asking for guidance on the straight path. It then
+    gives Sura XCVI, in which God commands recitation in the name of the creating
+    Lord, says man was created from clots of blood, teaches by the pen, warns against
+    human insolence and opposition to a praying servant, and threatens punishment
+    by the guards of Hell while commanding adoration and nearness to God. Translator
+    notes discuss the Bismillah formula, the term qaraa, and Gabriel as speaker in
+    the Suras.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Allah is praised as merciful, compassionate, maker of the three worlds, and
+    king of the day of fate.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaking worshippers say they worship Allah alone and ask Allah alone
+    for aid.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The worshippers ask to be guided to the straight path, distinguished from
+    the path of those hated or deviating.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Sura opens with a command to recite in the name of the Lord who created.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Man is said to have been created from clots of blood.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The Lord is said to have taught the use of the pen and taught man what he
+    did not know.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Man is described as insolent because he sees himself as possessed of riches.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: All are said to return to the Lord.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: A figure is described as holding back a servant of God when the servant prays.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The passage asks whether the obstructing figure knows that God sees.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: A warning states that if the obstructing figure does not desist, he will be
+    seized by the forelock, described as lying and sinful.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:12
+  text: The obstructing figure may summon his associates, while the divine speaker
+    will summon the guards of Hell.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:13
+  text: The final command is not to obey the obstructing figure, but to adore and
+    draw near to God.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:14
+  text: A translator note says the Bismillah formula is of Jewish origin and was adopted
+    and used by Muhammad.
+  category: other
+  evidence_refs:
+  - ev:8
+- id: obs:15
+  text: A translator note says the speaker in the Suras is Gabriel, of whom Muhammad
+    believed he had a vision on Mount Hira near Mecca.
+  category: other
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Allah / God / Lord
+  description: The merciful and compassionate deity praised as maker, worshipped alone,
+    asked for guidance, creator of man, teacher by the pen, seer of human acts, and
+    summoner of Hell's guards.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: Speaking worshippers
+  description: The first-person plural speakers who worship Allah alone and ask for
+    aid and guidance.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Man
+  description: Humanity, created from clots of blood, taught by the Lord, and described
+    as prone to insolence when rich.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: Servant of God
+  description: A servant of God who prays and is held back by another figure.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: One who holds back the servant
+  description: A figure who holds back a servant of God during prayer, is accused
+    of lying and sin, and is threatened with seizure by the forelock.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: fig:6
+  name_or_label: Associates
+  description: The associates whom the obstructing figure is told to summon.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:7
+- id: fig:7
+  name_or_label: Guards of Hell
+  description: The guards of Hell whom the divine speaker says will be summoned.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:7
+- id: fig:8
+  name_or_label: Gabriel
+  description: In a translator note, Gabriel is identified as the speaker in the Suras.
+  role_refs:
+  - role:11
+  evidence_refs:
+  - ev:9
+- id: fig:9
+  name_or_label: Muhammad
+  description: In translator notes, Muhammad is said to have adopted and used the
+    Bismillah formula and to have believed he had a vision of Gabriel on Mount Hira.
+  role_refs:
+  - role:12
+  evidence_refs:
+  - ev:8
+  - ev:9
+roles:
+- id: role:1
+  label: merciful sovereign
+  assigned_to:
+  - fig:1
+  basis: Allah is called merciful and compassionate and king of the day of fate.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: creator
+  assigned_to:
+  - fig:1
+  basis: God is described as maker of the worlds and as Lord who created man.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: teacher of knowledge
+  assigned_to:
+  - fig:1
+  basis: The Lord teaches the use of the pen and teaches man what he did not know.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: judge and punisher
+  assigned_to:
+  - fig:1
+  basis: All return to the Lord; God sees; the divine speaker threatens seizure and
+    summons Hell's guards.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:5
+  label: supplicants
+  assigned_to:
+  - fig:2
+  basis: The speakers worship and ask for aid and guidance.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:6
+  label: created human subject
+  assigned_to:
+  - fig:3
+  basis: Man is created from clots, taught, and warned against insolence.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:7
+  label: praying servant
+  assigned_to:
+  - fig:4
+  basis: A servant of God is described as praying.
+  evidence_refs:
+  - ev:6
+- id: role:8
+  label: opponent of prayer
+  assigned_to:
+  - fig:5
+  basis: This figure holds back the praying servant and is warned to desist.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:9
+  label: human allies of opponent
+  assigned_to:
+  - fig:6
+  basis: The opponent is told to summon his associates.
+  evidence_refs:
+  - ev:7
+- id: role:10
+  label: agents of hellish punishment
+  assigned_to:
+  - fig:7
+  basis: The divine speaker says the guards of Hell will be summoned.
+  evidence_refs:
+  - ev:7
+- id: role:11
+  label: angelic speaker in translator note
+  assigned_to:
+  - fig:8
+  basis: The note identifies Gabriel as the speaker in the Suras.
+  evidence_refs:
+  - ev:9
+- id: role:12
+  label: recipient and adopter in translator notes
+  assigned_to:
+  - fig:9
+  basis: Notes say Muhammad adopted the formula and believed he had a vision of Gabriel.
+  evidence_refs:
+  - ev:8
+  - ev:9
+symbols:
+- id: sym:1
+  label: straight path
+  literal_form: path that is straight
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: day of fate
+  literal_form: day of Fate
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: clots of blood
+  literal_form: clots of blood
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: pen
+  literal_form: the pen
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: forelock
+  literal_form: lying sinful forelock
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: Hell
+  literal_form: Hell
+  associated_figures:
+  - fig:1
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:7
+  label: Mount Hira
+  literal_form: mountain Hira near Mecca
+  associated_figures:
+  - fig:8
+  - fig:9
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Opening praise and supplication
+  summary: Allah is praised as merciful creator and king of the day of fate; the speakers
+    worship him alone and ask for aid and guidance on the straight path.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Command to recite and divine teaching
+  summary: The Sura commands recitation in the name of the creating Lord, describes
+    man as made from clots of blood, and says the Lord taught the pen and unknown
+    knowledge.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Warning against insolence and obstruction of prayer
+  summary: Man is warned against insolence from riches, all are said to return to
+    the Lord, and an opponent who prevents a servant's prayer is warned that God sees.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Threat of divine enforcement
+  summary: The opponent is warned of seizure by the forelock and told he may call
+    associates, while the divine speaker will call the guards of Hell; the listener
+    is commanded to adore and draw near to God.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:7
+- id: scene:5
+  label: Translator note on revelation setting
+  summary: A note identifies Gabriel as speaker in the Suras and says Muhammad believed
+    he had a vision of Gabriel on Mount Hira near Mecca.
+  figure_refs:
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: Divine judgment and punishment of the impious opponent
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage states that all return to the Lord, that God sees the opponent,
+    and that the divine speaker will seize him and summon the guards of Hell if he
+    does not desist.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The passage emphasizes warning and judgment, but does not narrate the
+    punishment as already carried out.
+- id: motif:2
+  label: Divine gift of knowledge through writing
+  taxonomy_refs:
+  - wisdom
+  basis: The Lord is said to teach the use of the pen and to teach man what he did
+    not know.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage presents teaching as a theological claim, not a full wisdom
+    tale.
+- id: motif:3
+  label: Guidance on the straight path
+  taxonomy_refs: []
+  basis: The worshippers ask Allah to guide them to the straight path and away from
+    hated or deviating paths.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: No supplied taxonomy reference directly corresponds to the straight-path
+    image.
+- id: motif:4
+  label: Human origin from lowly bodily matter
+  taxonomy_refs: []
+  basis: Man is said to be created from clots of blood.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The available taxonomy list does not include a creation-from-blood or
+    anthropogony category.
+- id: motif:5
+  label: Visionary revelation through an angelic speaker on a mountain
+  taxonomy_refs: []
+  basis: The translator note says Gabriel is the speaker in the Suras and that Muhammad
+    believed he had a vision on Mount Hira near Mecca.
+  evidence_refs:
+  - ev:9
+  confidence: medium
+  cautions: This is from a translator note, not the translated verses in this passage,
+    and no available motif family precisely matches it.
+comparison_claims:
+- id: claim:1
+  claim: A translator note explicitly compares the Bismillah formula to Jewish tradition
+    by stating that it is of Jewish origin and was adopted and used by Muhammad.
+  claim_level: historical_contact
+  target: Jewish-origin sacred formula used as the Bismillah
+  evidence_refs:
+  - ev:8
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim rests on the translator's note within the passage, not on
+    independent evidence supplied here.
+- id: claim:2
+  claim: A translator note links the Qur'anic root qaraa to the term Koran and analogizes
+    it to Rabbinic mikra, supporting a cautious linguistic comparison rather than
+    a motif identity.
+  claim_level: linguistic_similarity
+  target: Rabbinic mikra and the Arabic root qaraa / Koran
+  evidence_refs:
+  - ev:10
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is lexical and philological; it does not establish shared
+    narrative motif or historical dependence by itself.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 998-1002
+  quote_or_summary: 'Opening prayer: in Allah''s name; praise to Allah who made the
+    three worlds; merciful and compassionate; king of the day of fate; worshipped
+    alone and asked for aid.'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; short summary used.
+- id: ev:2
+  type: summary
+  locator: lines 1003-1006
+  quote_or_summary: The speakers ask to be guided to the straight path, the path of
+    those loved, not those hated or deviating.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; short summary used.
+- id: ev:3
+  type: quote
+  locator: Sura XCVI, opening verses in supplied passage
+  quote_or_summary: '"RECITE thou, in the name of thy Lord who created; Created man
+    from CLOTS OF BLOOD"'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:4
+  type: summary
+  locator: Sura XCVI, verses on pen in supplied passage
+  quote_or_summary: The Lord is called most beneficent, teaches the use of the pen,
+    and teaches man what he did not know.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; short summary used.
+- id: ev:5
+  type: summary
+  locator: Sura XCVI, verses on human insolence and return in supplied passage
+  quote_or_summary: Man is called insolent because he sees himself rich; all return
+    to the Lord.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; short summary used.
+- id: ev:6
+  type: summary
+  locator: Sura XCVI, verses on the servant at prayer in supplied passage
+  quote_or_summary: The passage asks about one who holds back a servant of God when
+    he prays and asks whether that figure knows God sees.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; short summary used.
+- id: ev:7
+  type: summary
+  locator: Sura XCVI, closing warning in supplied passage
+  quote_or_summary: If the opponent does not desist, he will be seized by the lying
+    sinful forelock; he may summon associates, while the divine speaker summons guards
+    of Hell; the command is to adore and draw near to God.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; short summary used.
+- id: ev:8
+  type: summary
+  locator: translator note 2 to Sura XCVI in supplied passage
+  quote_or_summary: The note says the Bismillah formula is of Jewish origin, was taught
+    to the Koreisch by Omayah of Taief, and was adopted and constantly used by Muhammad.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; short summary used.
+- id: ev:9
+  type: summary
+  locator: translator note 3 to Sura XCVI in supplied passage
+  quote_or_summary: The note says Gabriel is the speaker in the Suras and that Muhammad
+    believed he had a vision of Gabriel on Mount Hira near Mecca.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; short summary used.
+- id: ev:10
+  type: summary
+  locator: translator note 3 to Sura XCVI in supplied passage
+  quote_or_summary: The note discusses qaraa as the root of Koran, meaning to address,
+    recite, call, cry aloud, or proclaim, and compares it with Rabbinic mikra.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; short summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Verse-level observations are direct from the supplied passage. Some figures
+    and motifs derive from translator notes rather than the translated Qur'anic verses
+    and should be reviewed separately.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No taxonomy IDs beyond the supplied lists were added. Comparison claims are limited to claims explicitly made by translator notes in the passage.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-rodwell-gutenberg__l998-l1141
+  passage_sha256=3a67a7cd73b2d362ee94dfd9b75edffced48a5b847ce111473aefbdab89fd9a0

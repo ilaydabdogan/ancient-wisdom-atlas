@@ -1,0 +1,541 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l30754-l30821
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: IN THE NAME OF THE MOST MERCIFUL GOD. / CHAPTER XXXVI. / ENTITLED, Y. S.;
+    REVEALED AT MECCA. / IN THE NAME OF THE MOST MERCIFUL GOD.; lines 30754-30821
+  start: '30754'
+  end: '30821'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage recounts messengers sent to a city, their rejection and threatened
+    punishment, a believer from the far side of the city who urges obedience and is
+    killed, his admission to paradise, and the destruction of the unbelieving people
+    by a single heavenly cry. Sale’s notes and commentary identify the city with Antioch,
+    the martyr as Habb al Najjar, and recount associated miracle traditions involving
+    Peter, healing, raising a dead lad, destruction of idols, and the destruction
+    of unbelievers by Gabriel’s cry.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Two apostles are sent to the people and are rejected as impostors; they are
+    then strengthened with a third apostle.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The apostles state that they are sent by God and that their duty is public
+    preaching.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The inhabitants deny the apostles’ claim and threaten stoning and painful
+    punishment if they do not stop preaching.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A man comes hastily from the farther parts of the city and urges his people
+    to follow the messengers, who ask no reward and are rightly directed.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The man declares belief in the Lord, rejects reliance on other gods, and says
+    all will return to the creator.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The people stone the man; at his death he is told to enter paradise, and he
+    speaks of God’s mercy and honor toward him.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: After the man is slain, no army is sent down; instead one cry of Gabriel from
+    heaven makes the people utterly extinct.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The passage says many earlier generations were destroyed and that all will
+    be assembled before God.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: The accompanying commentary says Peter arranged for the imprisoned apostles
+    to be examined, miracles were performed, a dead lad was raised, idols were demolished,
+    many embraced the faith, and unbelievers were destroyed by Gabriel’s cry.
+  category: sequence
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: A note identifies the slain man as Habb al Najjar and says his tomb near Antioch
+    was visited by Muslims.
+  category: other
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: two apostles
+  description: The first two apostles sent to the people and rejected as impostors.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: third apostle
+  description: A third apostle sent to strengthen the first two; the note identifies
+    him as Simon Peter.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:11
+- id: fig:3
+  name_or_label: inhabitants of the city / Antioch
+  description: The people who reject the apostles, threaten them, stone the believing
+    man, and are destroyed by a heavenly cry.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:7
+  - ev:12
+- id: fig:4
+  name_or_label: certain man / Habb al Najjar
+  description: A man from the farther parts of the city who urges his people to follow
+    the messengers, professes belief, is stoned, and is admitted to paradise.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:10
+- id: fig:5
+  name_or_label: God / LORD / Merciful
+  description: The creator and sender of the apostles, to whom people return and before
+    whom all are assembled.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:8
+- id: fig:6
+  name_or_label: Gabriel
+  description: The angel whose single cry from heaven destroys the unbelieving people.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+  - ev:9
+- id: fig:7
+  name_or_label: Simon Peter
+  description: In Sale’s note and commentary, the third apostle and a figure who examines
+    the other apostles, acknowledges their proof, and demolishes idols.
+  role_refs:
+  - role:1
+  - role:7
+  evidence_refs:
+  - ev:9
+  - ev:11
+- id: fig:8
+  name_or_label: dead lad
+  description: In the commentary, a lad who had been dead seven days and is raised
+    to life at the apostles’ prayers.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:9
+- id: fig:9
+  name_or_label: blind person
+  description: In the commentary, a blind person whose sight is restored as a proof
+    of the apostles’ mission.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:9
+roles:
+- id: role:1
+  label: sent messenger
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:7
+  basis: The apostles say they are sent by God, and the third is sent to strengthen
+    the first two.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:11
+- id: role:2
+  label: rejecting community
+  assigned_to:
+  - fig:3
+  basis: The inhabitants deny the apostles, threaten violence, kill the believer,
+    and are destroyed.
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:7
+- id: role:3
+  label: believing witness
+  assigned_to:
+  - fig:4
+  basis: The man urges his people to follow the messengers and declares belief in
+    the Lord.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:4
+  label: martyr admitted to paradise
+  assigned_to:
+  - fig:4
+  basis: He is stoned and, as he dies, is told to enter paradise.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: divine sender and judge
+  assigned_to:
+  - fig:5
+  basis: God sends the apostles, is identified as creator, receives return, and assembles
+    all before himself.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:8
+- id: role:6
+  label: angelic destroyer
+  assigned_to:
+  - fig:6
+  basis: Gabriel’s single cry from heaven destroys the unbelieving people.
+  evidence_refs:
+  - ev:7
+- id: role:7
+  label: destroyer of idols
+  assigned_to:
+  - fig:7
+  basis: The commentary says Peter ran and demolished the idols after being convinced
+    by the miracle.
+  evidence_refs:
+  - ev:9
+- id: role:8
+  label: miracle recipient
+  assigned_to:
+  - fig:8
+  - fig:9
+  basis: The commentary describes a blind person restored to sight and a dead lad
+    raised to life.
+  evidence_refs:
+  - ev:9
+symbols:
+- id: sym:1
+  label: one cry from heaven
+  literal_form: A single cry of Gabriel from heaven that causes the people’s extinction.
+  associated_figures:
+  - fig:3
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:2
+  label: paradise
+  literal_form: The place into which the stoned believer is told to enter at death.
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:3
+  label: stoning
+  literal_form: The killing of the believing man by stoning.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: idols
+  literal_form: Images demolished by Peter in the commentary after the miracle convinces
+    him.
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:5
+  label: raising of the dead
+  literal_form: A lad dead seven days is raised to life at the apostles’ prayers in
+    the commentary.
+  associated_figures:
+  - fig:1
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Sending and rejection of the apostles
+  summary: Two apostles are sent and rejected; a third strengthens them; the inhabitants
+    accuse them of lying and threaten them if they continue preaching.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Witness from the far side of the city
+  summary: A man from the far parts of the city urges the people to follow the messengers,
+    declares belief in the creator, and rejects other gods.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Martyrdom and paradise
+  summary: The people stone the believing man; at death he is told to enter paradise
+    and speaks of God’s mercy and honor.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:6
+- id: scene:4
+  label: Destruction by Gabriel’s cry
+  summary: After the killing, the people are not attacked by a heavenly army but are
+    made extinct by one cry from Gabriel.
+  figure_refs:
+  - fig:3
+  - fig:6
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:7
+- id: scene:5
+  label: Final assembly before God
+  summary: The passage states that destroyed generations do not return to their people,
+    but all will be assembled before God.
+  figure_refs:
+  - fig:3
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:8
+- id: scene:6
+  label: Commentarial miracle proof and idol demolition
+  summary: The commentary recounts Peter’s examination of the apostles, miracles of
+    healing and raising the dead, Peter’s destruction of idols, conversions, and destruction
+    of unbelievers by Gabriel’s cry.
+  figure_refs:
+  - fig:1
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: messengers rejected by a city
+  taxonomy_refs: []
+  basis: The apostles are sent, accused of lying, and threatened by the inhabitants.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage does not provide a listed taxonomy reference for this exact
+    narrative pattern.
+- id: motif:2
+  label: believing witness martyred and admitted to paradise
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The man professes belief, is stoned, and is told at death to enter paradise.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The afterlife element is explicit, but the passage gives only a brief
+    admission to paradise rather than an extended afterlife journey map.
+- id: motif:3
+  label: divine judgment on an unbelieving people
+  taxonomy_refs:
+  - divine_judgment
+  basis: After rejecting the apostles and killing the believer, the people are destroyed
+    by a single cry from Gabriel.
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The destruction is presented theologically in the passage; no broader
+    comparative claim is inferred.
+- id: motif:4
+  label: final assembly before God
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage states that all will be assembled before God.
+  evidence_refs:
+  - ev:8
+  confidence: high
+  cautions: The passage summarizes the final assembly without extended judgment-scene
+    detail.
+- id: motif:5
+  label: raising of the dead as proof of mission
+  taxonomy_refs:
+  - resurrection
+  basis: The commentary says the apostles’ prayers raise a lad who had been dead seven
+    days, convincing Peter.
+  evidence_refs:
+  - ev:9
+  confidence: medium
+  cautions: This detail appears in Sale’s accompanying commentary rather than in the
+    main translated verses.
+- id: motif:6
+  label: destruction of idols after miraculous proof
+  taxonomy_refs: []
+  basis: The commentary says Peter acknowledges the miracle, demolishes idols, and
+    many people embrace the faith.
+  evidence_refs:
+  - ev:9
+  confidence: medium
+  cautions: This is a commentarial narrative detail and has no exact listed taxonomy
+    reference.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 30754-30757
+  quote_or_summary: Two apostles are sent, rejected as impostors, and strengthened
+    with a third.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 30757-30762
+  quote_or_summary: The apostles say they are sent by God and that their duty is public
+    preaching.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 30758-30768
+  quote_or_summary: The inhabitants call the apostles mere men, accuse them of lying,
+    read evil omens from them, and threaten stoning and painful punishment.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 30769-30773
+  quote_or_summary: A man comes from the farther parts of the city and urges his people
+    to follow the messengers, who ask no reward and are rightly directed.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 30774-30781
+  quote_or_summary: The man says he should worship the creator, to whom all return;
+    other gods cannot deliver him; he declares belief in the Lord.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 30782-30785
+  quote_or_summary: The man is stoned; as he dies, he is told to enter paradise and
+    says he wishes his people knew God’s mercy and honor toward him.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 30786-30791
+  quote_or_summary: After the people slay him, no heavenly army is sent; one cry of
+    Gabriel from heaven makes them utterly extinct.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 30792-30797
+  quote_or_summary: The passage laments that apostles are mocked, recalls destroyed
+    generations, and says all will be assembled before God.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 30798-30813
+  quote_or_summary: The commentary recounts Peter’s examination of the apostles, miracles
+    of healing and raising a dead lad, Peter’s demolition of idols, conversions, and
+    destruction of unbelievers by Gabriel’s cry.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: lines 30817-30819
+  quote_or_summary: A note identifies the martyr as Habb al Najjar and says his tomb
+    near Antioch is shown and visited by Muslims.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:11
+  type: summary
+  locator: lines 30814-30815
+  quote_or_summary: Notes say some identify the first two apostles as John and Paul,
+    while the third is Simon Peter.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:12
+  type: summary
+  locator: passage label and lines 30764-30769
+  quote_or_summary: The passage and commentary frame the city as Antioch and its inhabitants
+    as the people addressed by the apostles.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied passage. Motifs based on the main
+    translated verses are higher confidence; details from Sale’s notes and commentary
+    are marked as such. No comparison claims are asserted beyond candidate motif classification.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Taxonomy references are limited to the supplied available taxonomy list. Symbols not present in that list are retained with empty taxonomy_refs when directly supported by the passage.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l30754-l30821
+  passage_sha256=845360650d4ab04da69fcb0f373b51bf56425eb42ded1cc667b72fe9b20d06e1

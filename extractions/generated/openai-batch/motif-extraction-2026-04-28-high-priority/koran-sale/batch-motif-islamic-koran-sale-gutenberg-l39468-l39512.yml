@@ -1,0 +1,407 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l39468-l39512
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: ENTITLED, THE DAYBREAK; WHERE IT WAS REVEALED IS DISPUTED. / IN THE NAME
+    OF THE MOST MERCIFUL GOD. / CHAPTER CXIV. / IN THE NAME OF THE MOST MERCIFUL GOD.;
+    lines 39468-39512
+  start: '39468'
+  end: '39512'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives a short prayer commanding the speaker to seek refuge
+    with the Lord, King, and God of men from the hidden whisperer who suggests evil
+    in human breasts, and from genii and men. The accompanying notes identify the
+    whisperer as the devil and relate a commentary tradition in which Mohammed is
+    bewitched by knots on a hidden cord and freed when the two chapters are recited
+    over it.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The speaker is instructed to seek refuge with the Lord, king, and God of men.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The requested deliverance is from the mischief of a whisperer who withdraws
+    slyly.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The whisperer is described as placing evil suggestions into the breasts of
+    men.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The sources named at the end of the prayer are genii and men.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: A note identifies the withdrawing whisperer as the devil, who withdraws when
+    a man mentions God or seeks divine protection.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: A note describes witches tying knots in a cord and blowing on them while uttering
+    magical words to harm or debilitate a chosen person.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: A commentary tradition says Lobeid and his daughters bewitched Mohammed by
+    tying eleven knots on a cord and hiding it in a well.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: In the same tradition, Gabriel tells Mohammed how to use the two chapters
+    and where the cord is hidden; Ali fetches it; the chapters are repeated over the
+    cord; one knot is loosed at each verse until Mohammed is freed from the charm.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Speaker seeking refuge
+  description: The first-person voice commanded to say that refuge is sought with
+    God.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Lord, king, and God of men
+  description: The divine figure invoked as Lord, king, and God of men.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Whisperer who withdraws
+  description: A being who slyly withdraws and whispers evil suggestions into human
+    breasts; a note identifies this figure as the devil.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: Men
+  description: Humans are named as those over whom God is Lord, king, and God, as
+    recipients of whispered suggestions, and as one class from which mischief may
+    come.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: Genii
+  description: Genii are named alongside men as a source from which the speaker seeks
+    protection.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:6
+  name_or_label: Witches
+  description: The note describes witches who tie knots in a cord, blow on them, and
+    speak magical words to injure someone.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: Lobeid
+  description: A Jewish figure in the commentary tradition who, with his daughters,
+    bewitched Mohammed by means of knots on a hidden cord.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:8
+  name_or_label: Lobeid's daughters
+  description: Assistants of Lobeid in the commentary tradition of bewitching Mohammed.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:9
+  name_or_label: Mohammed
+  description: The prophet who is said in the commentary tradition to fall ill from
+    the charm and later be freed when the chapters are recited over the cord.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:10
+  name_or_label: Gabriel
+  description: The angelic figure who tells Mohammed how to use the chapters and where
+    the cord is hidden.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+- id: fig:11
+  name_or_label: Ali
+  description: The figure sent by Mohammed to fetch the hidden cord.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: supplicant or reciting voice
+  assigned_to:
+  - fig:1
+  basis: The voice is commanded to say that it seeks refuge.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: divine protector
+  assigned_to:
+  - fig:2
+  basis: The prayer asks this divine figure for refuge and deliverance from mischief.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: evil suggester
+  assigned_to:
+  - fig:3
+  basis: The figure whispers evil suggestions and is identified in the note as the
+    devil.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: possible source of mischief
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: The prayer ends by naming genii and men in connection with the mischief from
+    which refuge is sought.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: magical aggressor
+  assigned_to:
+  - fig:6
+  - fig:7
+  - fig:8
+  basis: The notes describe witches, and then Lobeid with his daughters, using knots
+    and words to harm or bewitch.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:6
+  label: bewitched victim freed by recitation
+  assigned_to:
+  - fig:9
+  basis: The commentary says Mohammed was bewitched, fell ill, and was freed as the
+    chapters were recited over the cord.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: revealing guide
+  assigned_to:
+  - fig:10
+  basis: Gabriel acquaints Mohammed with the use of the chapters and the location
+    of the cord.
+  evidence_refs:
+  - ev:4
+- id: role:8
+  label: retriever of hidden object
+  assigned_to:
+  - fig:11
+  basis: Ali is sent to fetch the hidden cord.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: whispering into the breast
+  literal_form: Evil suggestions whispered into the breasts of men.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: refuge with God
+  literal_form: The speaker's flight for refuge unto the Lord, king, and God of men.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: knotted cord charm
+  literal_form: A cord with eleven knots used in the commentary tradition to bewitch
+    Mohammed.
+  associated_figures:
+  - fig:7
+  - fig:8
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: hidden well
+  literal_form: The well where the bewitched cord is said to have been hidden.
+  associated_figures:
+  - fig:7
+  - fig:8
+  - fig:10
+  - fig:11
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: loosening knots by recitation
+  literal_form: One knot loosens at each verse as the chapters are repeated over the
+    cord.
+  associated_figures:
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Prayer for protection from the whisperer
+  summary: The speaker is told to seek refuge with the Lord, king, and God of men
+    from the withdrawing whisperer who places evil suggestions in human breasts, and
+    from genii and men.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Commentary on knot magic
+  summary: A note explains a magical practice in which witches tie knots in a cord,
+    blow on them, and pronounce magical words to injure a person.
+  figure_refs:
+  - fig:6
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Mohammed freed from a charm
+  summary: A commentary tradition says Lobeid and his daughters bewitch Mohammed with
+    eleven knots on a cord hidden in a well; Gabriel reveals the remedy and location;
+    Ali fetches the cord; recitation of the two chapters loosens the knots and frees
+    Mohammed.
+  figure_refs:
+  - fig:7
+  - fig:8
+  - fig:9
+  - fig:10
+  - fig:11
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Divine protection against hidden evil influence
+  taxonomy_refs: []
+  basis: The prayer seeks refuge with God from a concealed whisperer who suggests
+    evil and from genii and men.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: No exact supplied taxonomy family directly names this protective-prayer
+    motif.
+- id: motif:2
+  label: Harmful magic by knotted cord
+  taxonomy_refs: []
+  basis: The notes describe knot-tying, blowing, and magical words as a means to injure
+    or debilitate a person, and apply this to a story about Mohammed being bewitched.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This motif is in the translator/commentary notes rather than the short
+    chapter text itself.
+- id: motif:3
+  label: Liberation from enchantment through revealed recitation
+  taxonomy_refs: []
+  basis: In the commentary tradition, Gabriel reveals how the chapters should be used;
+    recitation over the cord loosens the knots one by one until Mohammed is freed.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The motif depends on the cited commentary tradition embedded in the note.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 39468-39512, Chapter CXIV prayer
+  quote_or_summary: 'The passage commands: seek refuge with the Lord, king, and God
+    of men from the withdrawing whisperer who whispers evil suggestions into human
+    breasts, and from genii and men.'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized rather than extensively quoted.
+- id: ev:2
+  type: summary
+  locator: line range 39468-39512, note t
+  quote_or_summary: The note explains that the withdrawing whisperer is the devil,
+    who withdraws when a man mentions God or has recourse to divine protection.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: line range 39468-39512, note r, first paragraph
+  quote_or_summary: The note describes witches tying knots in a cord, blowing on them,
+    and uttering magical words in order to affect or debilitate someone they intend
+    to injure.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: line range 39468-39512, note r, commentary tradition
+  quote_or_summary: The commentators relate that Lobeid, with his daughters, bewitched
+    Mohammed by eleven knots on a cord hidden in a well; Gabriel revealed the remedy
+    and location; Ali fetched the cord; recitation of the two chapters loosened each
+    knot until Mohammed was freed.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The main chapter is short and clear. Additional motif material comes from
+    translator/commentary notes within the supplied passage, so those motifs are separated
+    and cautioned. No comparison claims are made because the passage itself does not
+    support a specific cross-text comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the provided passage and metadata. Supplied taxonomy did not include a direct protective-prayer or knot-magic category, so taxonomy_refs are left empty.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l39468-l39512
+  passage_sha256=61732a8c4780cd78621536aade7986cc689ef43da73b546b0e70197803ae5d21

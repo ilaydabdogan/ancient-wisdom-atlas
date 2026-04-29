@@ -1,0 +1,564 @@
+---
+record_id: batch.motif.islamic-koran-rodwell-gutenberg-l7860-l8026
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+passage_locator:
+  label: PUBLIC SERVICES, / AND EMINENT LITERARY ATTAINMENTS, / THE TRANSLATOR. /
+    PREFACE; lines 7860-8026
+  start: '7860'
+  end: '8026'
+  translation: The Koran (Al-Qur'an), Rodwell translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes punishments and disputes among the people of the
+    fire, then presents a revealed account of God's creation of man from clay, the
+    angels' prostration, Eblis's proud refusal, his curse and respite until an appointed
+    day, his vow to seduce humans except sincere servants, and the warning function
+    of the Koran.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Hell is described as a place where people are burned and made to taste boiling
+    water, gore, and similar things.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A company is said to be thrown headlong with its leaders, and no greeting
+    or welcome is given to them.
+  category: sequence
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: The condemned blame one another and ask God to double the fire-punishment
+    of the one who brought it upon them.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The condemned wonder why they do not see men whom they had counted among the
+    wicked and treated with scorn.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The speaker is instructed to say that he is only a warner and that there is
+    no God but God, the One and Almighty.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The speaker says he had no knowledge of the dispute among the celestial chiefs
+    except by revelation, because he is a public preacher.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: God says he is about to make man of clay and commands the angels to fall down
+    in worship after the man is formed and receives God's spirit.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The angels prostrate themselves with one accord, except Eblis.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Eblis is described as swelling with pride and becoming an unbeliever.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: Eblis says he is more excellent than the clay-made human because he was created
+    from fire.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: God tells Eblis to leave, calls him accursed, and places a ban on him until
+    the day of reckoning.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:12
+  text: Eblis asks for respite until the day of Resurrection, and God grants him respite
+    until the appointed time.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:13
+  text: Eblis swears that he will seduce all of them except God's sincere servants.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:14
+  text: God says he will fill Hell with Eblis and with those who follow him.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:15
+  text: The speaker is instructed to say that he asks no wage and that the Koran is
+    a warning to all creatures.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: people of the fire
+  description: Condemned people in Hell who are burned, given boiling water and gore,
+    and wrangle with one another.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: leaders among the condemned
+  description: Leaders addressed as being joined by a company thrown in headlong with
+    them; they are blamed for preparing the abode of punishment.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: the speaker as warner
+  description: The speaker is told to declare himself a warner and public preacher
+    who received revelation.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: fig:4
+  name_or_label: God
+  description: The One, Almighty Lord who creates man, commands the angels, judges
+    Eblis, grants respite, and declares Hell's filling.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:5
+  name_or_label: angels
+  description: Celestial beings commanded to prostrate before the newly made man;
+    they prostrate with one accord.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: man made of clay
+  description: The human figure formed by God from clay and animated by God's spirit.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:7
+  name_or_label: Eblis
+  description: The being who refuses to prostrate, claims superiority because he is
+    created of fire, is cursed, receives respite, and vows to seduce humans.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:8
+  name_or_label: sincere servants
+  description: Those excepted by Eblis from his vow to seduce all of them.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+- id: fig:9
+  name_or_label: followers of Eblis
+  description: Those who follow Eblis and are included with him in the declared filling
+    of Hell.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: condemned or punished beings
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:9
+  basis: These figures are described as burned, punished in Hell, or included in Hell
+    with Eblis.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: role:2
+  label: warner and public preacher
+  assigned_to:
+  - fig:3
+  basis: The speaker is instructed to say he is a warner, received revelation, asks
+    no wage, and conveys warning.
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: role:3
+  label: creator and judge
+  assigned_to:
+  - fig:4
+  basis: God makes man, commands prostration, curses Eblis, grants respite, and declares
+    judgment.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:4
+  label: obedient prostrating beings
+  assigned_to:
+  - fig:5
+  basis: The angels prostrate themselves with one accord after the command.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: newly created human figure
+  assigned_to:
+  - fig:6
+  basis: Man is made from clay, formed, and receives God's spirit.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: proud refuser and seducer
+  assigned_to:
+  - fig:7
+  basis: Eblis refuses to prostrate, claims superiority, is cursed, and vows to seduce
+    all except sincere servants.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:7
+  label: exempt sincere servants
+  assigned_to:
+  - fig:8
+  basis: Eblis excludes God's sincere servants from the scope of his intended seduction.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: fire of Hell and fiery origin
+  literal_form: fire
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:7
+  - fig:9
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+- id: sym:2
+  label: punitive boiling fluids
+  literal_form: boiling water and gore
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: clay of human formation
+  literal_form: clay
+  associated_figures:
+  - fig:4
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: divine breath or spirit
+  literal_form: God breathing his spirit into the formed man
+  associated_figures:
+  - fig:4
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: prostration before the newly formed man
+  literal_form: falling down in worship or prostration
+  associated_figures:
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:6
+  label: appointed eschatological day
+  literal_form: day of reckoning, day of Resurrection, and day of the time appointed
+  associated_figures:
+  - fig:4
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+scenes:
+- id: scene:1
+  label: Punishment and wrangling in the fire
+  summary: The people of the fire receive burning punishment and punitive substances,
+    while leaders and followers blame one another and dispute their fate.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Proclamation of warning and revelation
+  summary: The speaker is instructed to proclaim monotheism, identify himself as a
+    warner, and state that knowledge of the celestial dispute came by revelation.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Creation of man and angelic prostration
+  summary: God announces the making of man from clay, breathes spirit into him, and
+    commands the angels to prostrate; the angels obey except Eblis.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Eblis's refusal and curse
+  summary: God questions Eblis's refusal, Eblis claims superiority through his fiery
+    origin over clay, and God declares him accursed until the day of reckoning.
+  figure_refs:
+  - fig:4
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Respite, seduction, and final judgment
+  summary: Eblis receives respite until the appointed time, vows to seduce all except
+    sincere servants, and God declares that Hell will be filled with Eblis and his
+    followers.
+  figure_refs:
+  - fig:4
+  - fig:7
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:1
+  - sym:6
+  evidence_refs:
+  - ev:6
+- id: scene:6
+  label: Closing warning
+  summary: The speaker asks no wage and presents the Koran as a warning whose message
+    will be known after a time.
+  figure_refs:
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Eschatological punishment and judgment in Hell
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage describes Hell, fire, punitive substances, doubled punishment,
+    the day of reckoning, and God's declaration that Hell will be filled with Eblis
+    and followers.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage emphasizes punishment and judgment; no broader afterlife itinerary
+    is described.
+- id: motif:2
+  label: Creation of man from clay and divine spirit
+  taxonomy_refs: []
+  basis: God states that he will make man from clay, form him, and breathe his spirit
+    into him.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: No supplied taxonomy reference directly names this creation pattern.
+- id: motif:3
+  label: Angelic prostration before a newly created human
+  taxonomy_refs: []
+  basis: The angels are commanded to fall down before the formed man and prostrate,
+    while Eblis refuses.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The extraction treats prostration as a narrative motif without assigning
+    an unsupported taxonomy family.
+- id: motif:4
+  label: Proud rebel refuses divine command
+  taxonomy_refs:
+  - duality
+  basis: Eblis refuses to prostrate, becomes proud and unbelieving, and contrasts
+    his fiery origin with the human's clay origin.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The duality reference is limited to the explicit fire/clay and obedience/refusal
+    contrasts.
+- id: motif:5
+  label: Tempter granted respite until the appointed day
+  taxonomy_refs:
+  - resurrection
+  - trickster_boundary
+  basis: Eblis asks for delay until the day of Resurrection, receives respite until
+    the appointed time, and vows to seduce all except sincere servants.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The trickster-boundary classification is tentative because the passage
+    presents Eblis primarily as a seducing adversary rather than as an ambiguous trickster.
+- id: motif:6
+  label: Warning revelation without payment
+  taxonomy_refs:
+  - wisdom
+  basis: The speaker identifies the Koran as a warning to all creatures and says he
+    asks no wage for it.
+  evidence_refs:
+  - ev:7
+  confidence: low
+  cautions: The wisdom taxonomy reference is broad; the passage frames the message
+    as warning rather than explicitly as wisdom teaching.
+comparison_claims:
+- id: claim:1
+  claim: A translator footnote explicitly directs comparison between Eblis's statement
+    that he was created of fire and Psalm civ.4.
+  claim_level: visual_similarity
+  target: Ps. civ.4, as cited in Rodwell's footnote 22
+  evidence_refs:
+  - ev:5
+  - ev:8
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The footnote gives only a brief 'Comp.' citation and does not demonstrate
+    dependence, shared origin, or a full motif equivalence.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 7860-7866
+  quote_or_summary: Hell is described as a burning bed; the condemned taste boiling
+    water, gore, and related punishments, and a company is thrown headlong with its
+    leaders into the fire.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 7867-7875
+  quote_or_summary: The condemned deny welcome to each other, blame those who prepared
+    the abode, ask for doubled punishment, and wonder why they cannot see men they
+    once scorned; this is called the wrangling of the people of the fire.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 7876-7884
+  quote_or_summary: The speaker proclaims himself a warner, declares God as the one
+    almighty Lord, calls the message weighty, and says knowledge of the celestial
+    chiefs' dispute came by revelation because he is a public preacher.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 7885-7891
+  quote_or_summary: God says he will make man of clay, form him, breathe his spirit
+    into him, and command worshipful prostration; the angels prostrate, except Eblis,
+    who is proud and unbelieving.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 7892-7898
+  quote_or_summary: God asks Eblis why he did not prostrate before the one made by
+    God's hands; Eblis claims superiority because he was created of fire and man of
+    clay; God expels and curses him until the day of reckoning.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 7899-7906
+  quote_or_summary: Eblis asks for respite until the day of Resurrection; God grants
+    respite until the appointed time; Eblis vows to seduce all except sincere servants,
+    and God declares Hell will be filled with Eblis and followers.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 7907-7909
+  quote_or_summary: The speaker says he asks no wage, is not an intermeddler, and
+    that the Koran is a warning to all creatures whose message will be known after
+    a time.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: note
+  locator: lines 8017-8024, translator notes 20-23
+  quote_or_summary: Translator notes identify the celestial dispute as concerning
+    creation of man, compare the statement about creation from fire with Ps. civ.4,
+    and gloss the curse as literally 'stoned.'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; summarized translator note.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: low
+  notes: Narrative extraction is strong for the provided passage. Taxonomy mapping
+    is conservative where the available motif families do not directly name creation
+    from clay, prostration, or Eblis's rebellion. The comparison claim is based only
+    on a brief translator footnote.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Translator footnotes were treated as secondary evidence and not merged with the Qur'anic narrative except where explicitly cited in evidence and comparison.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-rodwell-gutenberg__l7860-l8026
+  passage_sha256=70e9501487a47a1f47acdcda5c86738d52197b983643464374352c2edb45c074

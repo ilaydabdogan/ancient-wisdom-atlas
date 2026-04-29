@@ -1,0 +1,680 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l40377-l40474
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: IN THE NAME OF THE MOST MERCIFUL GOD. / FINIS / AN INDEX / OF THE; lines
+    40377-40474
+  start: '40377'
+  end: '40474'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: An index segment listing topics and references from T through Z, including
+    entries on heavenly and legal tables, paradise fountains and streams, the Temple
+    of Jerusalem built by genii, the destruction of peoples, God's throne and the
+    last-day trumpet, Moses' burning bush and water from the rock, winds subject to
+    Solomon, Zacharias being promised John, and the tree of hell.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The index states that a table was caused to descend from heaven by Jesus.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The index lists the tables of the law.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The index identifies Tasnim as a fountain in paradise and Zenjebil as a stream
+    in paradise.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The index states that the Temple of Jerusalem was built by genii.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The index says the tribe of Thamud has a story and destruction, and also lists
+    other destroyed peoples.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The index states that God's throne will be borne by eight angels on the day
+    of judgment.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The index states that a trumpet will sound at the last day.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The index states that thunder celebrates the praise of God.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: The index identifies Towa as the valley where Moses saw the burning bush.
+  category: setting
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: The index states that water was produced from the rock by Moses.
+  category: action
+  evidence_refs:
+  - ev:10
+- id: obs:11
+  text: The index states that winds are subject to Solomon.
+  category: relationship
+  evidence_refs:
+  - ev:11
+- id: obs:12
+  text: The index states that Zacharias prayed for a son, was promised John, and educated
+    the Virgin Mary.
+  category: sequence
+  evidence_refs:
+  - ev:12
+- id: obs:13
+  text: The index identifies Al Zakkum as the tree of hell.
+  category: object
+  evidence_refs:
+  - ev:13
+- id: obs:14
+  text: The index states that the works of an infidel will appear to him at the last
+    day.
+  category: sequence
+  evidence_refs:
+  - ev:14
+figures:
+- id: fig:1
+  name_or_label: Jesus
+  description: Named in the index as causing a table to descend from heaven.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: God
+  description: Named in entries concerning decrees, throne, thunder's praise, unity,
+    and judgment-related topics.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:8
+  - ev:15
+- id: fig:3
+  name_or_label: Genii
+  description: Named as builders of the Temple of Jerusalem.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Thamud
+  description: A tribe whose story and destruction are listed in the index.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Eight angels
+  description: Angels who will bear God's throne on the day of judgment.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: Moses
+  description: Named in connection with seeing the burning bush in Towa and producing
+    water from the rock.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: fig:7
+  name_or_label: Solomon
+  description: Named in connection with winds being subject to him.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:11
+- id: fig:8
+  name_or_label: Zacharias
+  description: Prays for a son, is promised John, and educates the Virgin Mary.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:12
+- id: fig:9
+  name_or_label: John
+  description: Promised to Zacharias after Zacharias prays for a son.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:12
+- id: fig:10
+  name_or_label: Virgin Mary
+  description: Educated by Zacharias according to the index entry.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:12
+- id: fig:11
+  name_or_label: Unbelievers / infidel
+  description: Listed in connection with sentence and works appearing at the last
+    day.
+  role_refs:
+  - role:11
+  evidence_refs:
+  - ev:14
+  - ev:16
+roles:
+- id: role:1
+  label: agent of heavenly descent
+  assigned_to:
+  - fig:1
+  basis: Jesus is named in connection with a table caused to descend from heaven.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: divine judge and enthroned deity
+  assigned_to:
+  - fig:2
+  basis: God is associated with decrees, throne, praise, unity, and the day of judgment.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:8
+  - ev:15
+- id: role:3
+  label: supernatural builders
+  assigned_to:
+  - fig:3
+  basis: The Temple of Jerusalem is said to be built by genii.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: destroyed people
+  assigned_to:
+  - fig:4
+  basis: The tribe of Thamud is indexed by story and destruction.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: eschatological throne-bearers
+  assigned_to:
+  - fig:5
+  basis: Eight angels are said to bear God's throne on the day of judgment.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: prophetic miracle figure
+  assigned_to:
+  - fig:6
+  basis: Moses is associated with seeing the burning bush and producing water from
+    the rock.
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: role:7
+  label: ruler over winds
+  assigned_to:
+  - fig:7
+  basis: Winds are said to be subject to Solomon.
+  evidence_refs:
+  - ev:11
+- id: role:8
+  label: praying father figure
+  assigned_to:
+  - fig:8
+  basis: Zacharias prays for a son and is promised John.
+  evidence_refs:
+  - ev:12
+- id: role:9
+  label: promised son
+  assigned_to:
+  - fig:9
+  basis: John is promised to Zacharias after prayer.
+  evidence_refs:
+  - ev:12
+- id: role:10
+  label: ward of Zacharias
+  assigned_to:
+  - fig:10
+  basis: The index states that Zacharias educates the Virgin Mary.
+  evidence_refs:
+  - ev:12
+- id: role:11
+  label: subject of last-day reckoning
+  assigned_to:
+  - fig:11
+  basis: The works of an infidel appear to him at the last day, and unbelievers have
+    a sentence.
+  evidence_refs:
+  - ev:14
+  - ev:16
+symbols:
+- id: sym:1
+  label: heavenly table
+  literal_form: Table caused to descend from heaven
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: tables of the law
+  literal_form: Tables of the law
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: paradise fountain and stream
+  literal_form: Tasnim, a fountain in paradise; Zenjebil, a stream in paradise
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: temple built by genii
+  literal_form: Temple of Jerusalem built by genii
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: throne of God
+  literal_form: God's throne borne by eight angels on the day of judgment
+  associated_figures:
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: last-day trumpet
+  literal_form: Trumpet sounding at the last day
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:7
+  label: praising thunder
+  literal_form: Thunder celebrates the praise of God
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:8
+  label: burning bush
+  literal_form: Burning bush seen by Moses in the valley Towa
+  associated_figures:
+  - fig:6
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:9
+- id: sym:9
+  label: water from the rock
+  literal_form: Water produced from the rock by Moses
+  associated_figures:
+  - fig:6
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:10
+- id: sym:10
+  label: winds subject to Solomon
+  literal_form: Winds subject to Solomon
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:11
+- id: sym:11
+  label: tree of hell
+  literal_form: Al Zakkum, the tree of hell
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:13
+scenes:
+- id: scene:1
+  label: Heavenly table descends
+  summary: The index records a table caused to descend from heaven by Jesus.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Eschatological throne and trumpet
+  summary: The index records God's throne borne by eight angels on the day of judgment
+    and a trumpet sounding at the last day.
+  figure_refs:
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:3
+  label: Moses and miraculous signs
+  summary: The index records Moses seeing the burning bush in the valley Towa and
+    producing water from a rock.
+  figure_refs:
+  - fig:6
+  symbol_refs:
+  - sym:8
+  - sym:9
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: scene:4
+  label: Solomon and supernatural dominion
+  summary: The index records that winds are subject to Solomon and separately that
+    the Temple of Jerusalem was built by genii.
+  figure_refs:
+  - fig:3
+  - fig:7
+  symbol_refs:
+  - sym:4
+  - sym:10
+  evidence_refs:
+  - ev:4
+  - ev:11
+- id: scene:5
+  label: Zacharias promised a son
+  summary: The index records that Zacharias prays for a son, is promised John, and
+    educates the Virgin Mary.
+  figure_refs:
+  - fig:8
+  - fig:9
+  - fig:10
+  symbol_refs: []
+  evidence_refs:
+  - ev:12
+- id: scene:6
+  label: Otherworldly landscape markers
+  summary: The index identifies a paradise fountain and stream and the tree of hell.
+  figure_refs: []
+  symbol_refs:
+  - sym:3
+  - sym:11
+  evidence_refs:
+  - ev:3
+  - ev:13
+- id: scene:7
+  label: Destroyed peoples and last-day reckoning
+  summary: The index lists destroyed peoples and states that the works of an infidel
+    will appear to him at the last day.
+  figure_refs:
+  - fig:4
+  - fig:11
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:14
+  - ev:16
+candidate_motifs:
+- id: motif:1
+  label: Heavenly object descends to humans
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The index entry states that a table was caused to descend from heaven by
+    Jesus.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage is only an index entry and does not give narrative details
+    or ritual function.
+- id: motif:2
+  label: Written divine law on tablets
+  taxonomy_refs:
+  - covenant
+  basis: The index lists the tables of the law.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The index does not narrate the giving of the law; covenant association
+    is inferred from the object label.
+- id: motif:3
+  label: Day of judgment with throne-bearers and trumpet
+  taxonomy_refs:
+  - divine_judgment
+  - resurrection
+  basis: The index states that God's throne will be borne by eight angels on the day
+    of judgment and that a trumpet will sound at the last day.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The entry supplies condensed eschatological images rather than a full
+    apocalypse narrative.
+- id: motif:4
+  label: Miraculous water from stone
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The index states that water was produced from the rock by Moses.
+  evidence_refs:
+  - ev:10
+  confidence: medium
+  cautions: The passage does not state the circumstances or beneficiaries of the miracle.
+- id: motif:5
+  label: Revelatory fire or burning bush encounter
+  taxonomy_refs:
+  - wisdom
+  - initiation
+  basis: The index identifies Towa as the valley where Moses saw the burning bush.
+  evidence_refs:
+  - ev:9
+  confidence: medium
+  cautions: The index does not describe speech, commission, or revelation; the motif
+    label is based only on the burning-bush notice.
+- id: motif:6
+  label: Human or royal command over elements
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The index states that winds are subject to Solomon.
+  evidence_refs:
+  - ev:11
+  confidence: medium
+  cautions: The index gives no extended account of Solomon's kingship or use of the
+    winds.
+- id: motif:7
+  label: Supernatural construction by spirits
+  taxonomy_refs: []
+  basis: The Temple of Jerusalem is listed as built by genii.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: No taxonomy reference is assigned because the available motif families
+    do not directly name spirit-built architecture.
+- id: motif:8
+  label: Destruction of impious or condemned peoples
+  taxonomy_refs:
+  - divine_judgment
+  basis: The index lists the story and destruction of Thamud and other destroyed peoples.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The index does not state the cause of each destruction in this line range.
+- id: motif:9
+  label: Promised child after prayer
+  taxonomy_refs:
+  - miraculous_child
+  - sacred_birth
+  basis: Zacharias prays for a son and is promised John.
+  evidence_refs:
+  - ev:12
+  confidence: high
+  cautions: The passage does not describe the birth itself, only the prayer and promise.
+- id: motif:10
+  label: Paradise waters and hell tree as afterlife markers
+  taxonomy_refs:
+  - afterlife_journey_map
+  - divine_judgment
+  basis: The index identifies Tasnim and Zenjebil as paradise waters and Al Zakkum
+    as the tree of hell.
+  evidence_refs:
+  - ev:3
+  - ev:13
+  confidence: medium
+  cautions: The passage names afterlife features but does not describe a journey through
+    them.
+- id: motif:11
+  label: Last-day manifestation of deeds
+  taxonomy_refs:
+  - divine_judgment
+  basis: The index states that the works of an infidel will appear to him at the last
+    day.
+  evidence_refs:
+  - ev:14
+  confidence: high
+  cautions: The mechanism and outcome of the reckoning are not described in this index
+    entry.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 40377-40378
+  quote_or_summary: "“TABLE caused to descend form heaven by Jesus”; also mentions
+    a table of God's decrees."
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; short quotation used for evidence.
+- id: ev:2
+  type: quote
+  locator: line 40378
+  quote_or_summary: "“Tables of the law” is listed."
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; short quotation used for evidence.
+- id: ev:3
+  type: summary
+  locator: lines 40384, 40472
+  quote_or_summary: Tasnim is listed as a fountain in paradise, and Zenjebil is listed
+    as a stream in paradise.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: line 40389
+  quote_or_summary: The Temple of Jerusalem is listed as built by genii.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 40394-40395, 40402, 40459-40460
+  quote_or_summary: Thamud's story and destruction are listed; the people of Tobba
+    and inhabitants of Yaman are also listed as destroyed.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: line 40397
+  quote_or_summary: God's throne is listed and said to be borne by eight angels on
+    the day of judgment.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized evidence.
+- id: ev:7
+  type: quote
+  locator: line 40408
+  quote_or_summary: "“Trumpet will sound at the last day.”"
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; short quotation used for evidence.
+- id: ev:8
+  type: quote
+  locator: line 40398
+  quote_or_summary: "“Thunder celebrates the praise of God.”"
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; short quotation used for evidence.
+- id: ev:9
+  type: summary
+  locator: line 40406
+  quote_or_summary: Towa is identified as the valley where Moses saw the burning bush.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized evidence.
+- id: ev:10
+  type: quote
+  locator: line 40435
+  quote_or_summary: "“Water produced from the rock by Moses.”"
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; short quotation used for evidence.
+- id: ev:11
+  type: summary
+  locator: line 40443
+  quote_or_summary: Winds are listed as useful and subject to Solomon.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized evidence.
+- id: ev:12
+  type: summary
+  locator: lines 40467-40468
+  quote_or_summary: Zacharias prays for a son, is promised John, and educates the
+    Virgin Mary.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized evidence.
+- id: ev:13
+  type: quote
+  locator: line 40469
+  quote_or_summary: "“Al Zakkm, the tree of hell.”"
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; short quotation used for evidence.
+- id: ev:14
+  type: summary
+  locator: line 40456
+  quote_or_summary: The works of an infidel are said to appear to him at the last
+    day.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized evidence.
+- id: ev:15
+  type: summary
+  locator: line 40411
+  quote_or_summary: The unity of God is asserted in the index.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized evidence.
+- id: ev:16
+  type: summary
+  locator: lines 40410, 40441
+  quote_or_summary: Unbelievers and the wicked are listed with their sentence.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is an index, so it preserves motifs as compressed topical references
+    rather than as full narrative episodes. Extraction is limited to objects, figures,
+    actions, and motifs explicitly named in the supplied lines.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not make cross-traditional comparisons; candidate motif taxonomy links are limited to the supplied available taxonomy references.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l40377-l40474
+  passage_sha256=a32d280a2654372932d95fda92570e2ac8048f07e156897cdadd8e64d1f6bd31

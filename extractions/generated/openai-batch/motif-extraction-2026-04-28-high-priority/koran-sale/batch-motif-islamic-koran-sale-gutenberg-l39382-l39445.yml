@@ -1,0 +1,391 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l39382-l39445
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: ENTITLED, ABU LAHEB; REVEALED AT MECCA. / IN THE NAME OF THE MOST MERCIFUL
+    GOD. / CHAPTER CXII. / IN THE NAME OF THE MOST MERCIFUL GOD.; lines 39382-39445
+  start: '39382'
+  end: '39445'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage contains Chapter CXI, announcing the ruin of Abu Laheb, the
+    uselessness of his wealth, his burning in flaming fire, and his wife carrying
+    wood with a palm-fibre cord on her neck. The notes identify Abu Laheb as Mohammed's
+    hostile uncle and explain the wife's wood-bearing in relation to hostility toward
+    Mohammed. Chapter CXII declares God's unity, eternity, non-begetting and non-begotten
+    status, and incomparability.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Abu Laheb's hands are said to perish, and he himself is said to perish.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Abu Laheb's riches and gains are said not to profit him.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Abu Laheb is said to go down to be burned in flaming fire.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Abu Laheb's wife is included in the announced punishment and is described
+    as bearing wood.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The wife is described as having a cord of twisted palm-tree fibres on her
+    neck.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: A note identifies Abu Laheb as Abd'al Uzza, an uncle of Mohammed and a bitter
+    enemy to him.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: A note reports that Abu Laheb reacted to Mohammed's warning by cursing him
+    and taking up a stone to cast at him.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: A note explains the wife's wood-bearing as fuel in hell or as thorns and brambles
+    placed in Mohammed's way.
+  category: other
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Chapter CXII states that God is one and eternal.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: Chapter CXII states that God neither begets nor is begotten, and that no one
+    is like him.
+  category: attribute
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Abu Laheb
+  description: The named target of Chapter CXI; identified in the note as Abd'al Uzza,
+    Mohammed's uncle and enemy.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: wife of Abu Laheb
+  description: Described as bearing wood and wearing a cord of twisted palm-tree fibres
+    on her neck; the note names her Omm Jeml.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:3
+  name_or_label: God
+  description: Named in the invocation and in Chapter CXII as one, eternal, unbegetting,
+    unbegotten, and without likeness.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+- id: fig:4
+  name_or_label: Mohammed
+  description: Mentioned in the notes as Abu Laheb's nephew and as the prophet whose
+    warning Abu Laheb opposed.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: Koreish
+  description: Mentioned in the note to Chapter CXII as asking Mohammed about the
+    distinguishing attributes of the God he invited them to worship.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: condemned opponent
+  assigned_to:
+  - fig:1
+  basis: The chapter announces Abu Laheb's perishing and burning in flaming fire;
+    the note identifies him as a bitter enemy of Mohammed.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: kinsman of Mohammed
+  assigned_to:
+  - fig:1
+  basis: The note calls Abu Laheb an uncle of Mohammed.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: accompanying condemned wife
+  assigned_to:
+  - fig:2
+  basis: The wife is included with Abu Laheb and described with wood and a neck cord.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: one eternal deity
+  assigned_to:
+  - fig:3
+  basis: Chapter CXII declares God one and eternal, neither begetting nor begotten,
+    and incomparable.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: warned prophet opposed by Abu Laheb
+  assigned_to:
+  - fig:4
+  basis: The notes say Mohammed warned his near relations and Abu Laheb opposed him.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:6
+  label: questioning group
+  assigned_to:
+  - fig:5
+  basis: The note says the Koreish asked Mohammed about the distinguishing attributes
+    of the God he invited them to worship.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: flaming fire
+  literal_form: flaming fire in which Abu Laheb is to be burned
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: wood or fuel
+  literal_form: wood borne by Abu Laheb's wife; note explains it as fuel in hell or
+    thorns and brambles
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:3
+  label: twisted palm-fibre cord
+  literal_form: cord of twisted fibres of a palm-tree on the wife's neck
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: hands of Abu Laheb
+  literal_form: hands named in the announcement of perishing; note says commentators
+    understand them as person, affairs, or hopes
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:8
+- id: sym:5
+  label: divine unity formula
+  literal_form: God is one, eternal, neither begetting nor begotten, with none like
+    him
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Condemnation of Abu Laheb and his wife
+  summary: Chapter CXI announces Abu Laheb's perishing, the failure of his wealth,
+    his burning in flaming fire, and his wife's wood-bearing with a palm-fibre cord
+    on her neck.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Commentarial occasion of revelation
+  summary: The notes describe Abu Laheb as Mohammed's hostile uncle who cursed Mohammed
+    and took up a stone after Mohammed warned his relations.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Declaration of divine unity
+  summary: Chapter CXII answers with a concise statement of God's oneness, eternity,
+    absence of begetting or being begotten, and incomparability.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: divine judgment on an opponent
+  taxonomy_refs:
+  - divine_judgment
+  basis: Abu Laheb is condemned to perish, his wealth is declared useless, and he
+    is said to be burned in flaming fire; the note frames this as divine vengeance.
+  evidence_refs:
+  - ev:1
+  - ev:9
+  confidence: high
+  cautions: The passage is a translated Qur'anic chapter with translator notes; extraction
+    records the passage-level condemnation without expanding beyond the supplied text.
+- id: motif:2
+  label: punitive fire
+  taxonomy_refs: []
+  basis: The punishment is described as being burned in flaming fire, and the wife's
+    wood is glossed as fuel in hell by the note.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: high
+  cautions: Although the symbol taxonomy includes fire, the available motif families
+    do not include a precise punitive-fire motif except indirectly through divine
+    judgment.
+- id: motif:3
+  label: divine unity and incomparability
+  taxonomy_refs: []
+  basis: Chapter CXII states that God is one, eternal, neither begetting nor begotten,
+    and without likeness.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: No available taxonomy motif precisely captures this doctrinal declaration;
+    it is retained as a passage-level candidate motif without a taxonomy reference.
+- id: motif:4
+  label: rejection of divine parent-child relation
+  taxonomy_refs:
+  - divine_parent_child
+  basis: Chapter CXII explicitly denies that God begets or is begotten.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The available taxonomy label is positive and broad; the passage uses the
+    relation negatively, as a denial rather than as a narrative of divine parentage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 39386-39389
+  quote_or_summary: '"THE hands of Abu Laheb shall perish... His riches shall not
+    profit him... He shall go down to be burned into flaming fire"'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 39390-39391
+  quote_or_summary: '"and his wife also, bearing wood, having on her neck a cord of
+    twisted fibres of a palm-tree."'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: summary
+  locator: note g, lines 39403-39407
+  quote_or_summary: The note identifies Abu Laheb as Abd'al Uzza, Mohammed's uncle,
+    and says he was a bitter enemy who opposed Mohammed's new religion.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: note g, lines 39407-39412
+  quote_or_summary: The note says Mohammed warned his near relations of grievous chastisement,
+    after which Abu Laheb cursed him and took up a stone to cast at him; the passage
+    was then revealed.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: note m, lines 39433-39436
+  quote_or_summary: The note explains the wife's wood-bearing either as fuel in hell
+    because she fomented her husband's hatred, or as thorns and brambles she placed
+    in Mohammed's way at night.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: quote
+  locator: lines 39398-39401
+  quote_or_summary: '"God is one GOD; the eternal GOD: be begetteth not, neither is
+    he begotten: and there is not any one like unto him."'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:7
+  type: summary
+  locator: note n, lines 39437-39442
+  quote_or_summary: The note says Chapter CXII was revealed in answer to the Koreish,
+    who asked Mohammed about the distinguishing attributes of the God he invited them
+    to worship.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:8
+  type: summary
+  locator: note g continuation, lines 39413-39417
+  quote_or_summary: The note reports that commentators understand Abu Laheb's hands
+    as his person, his affairs, or his hopes in this world and the next.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:9
+  type: summary
+  locator: note i, lines 39422-39426
+  quote_or_summary: The note says Abu Laheb's possessions and rank did not protect
+    him against the vengeance of God.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The basic figures and images are explicit. Motif taxonomy assignment is clearest
+    for divine judgment and fire imagery; the divine unity material lacks a close
+    supplied taxonomy match. No comparison claims were made because the passage itself
+    does not support a comparative claim beyond internal doctrinal and commentarial
+    explanation.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Extraction uses only the supplied passage text and metadata, including translator notes within the provided line range.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l39382-l39445
+  passage_sha256=b014ce60628694012a13bf0e88dd95fa8a6f86bcbfea5759bc9dd4901a4705e3

@@ -1,0 +1,357 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l38516-l38545
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: CHAPTER LXXXVIII. / IN THE NAME OF THE MOST MERCIFUL GOD. / CHAPTER LXXXIX.
+    / IN THE NAME OF THE MOST MERCIFUL GOD.; lines 38516-38545
+  start: '38516'
+  end: '38545'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'Translator/editorial notes explain several phrases: a word meaning mixture
+    or scourge; the difference between worldly and afterlife chastisement; worldly
+    fortune not proving divine favor or disfavor; exclusion of women and young children
+    from inheritance; a tradition that hell will be dragged to the last-day tribunal
+    by innumerable angels; the unmatched divine power to punish and bind; and interpretations
+    of the satisfied soul as attaining knowledge, assurance, or salvation.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A note says the original word can mean a mixture or a scourge of platted thongs,
+    and some interpret it as representing worldly chastisement as lighter than the
+    chastisement of the next life.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A note states that worldly prosperity or adversity is not a certain sign of
+    God's favor or disfavor.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A note refers to women or young children not being allowed a share in the
+    inheritance of husbands or parents.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A cited tradition says that on the last day hell will be dragged toward the
+    tribunal by 70,000 halters, each hauled by 70,000 angels.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The same tradition describes hell as coming with great roaring and fury.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: A note explains that none will be able to punish or bind as God will punish
+    and bind the wicked.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: A note gives interpretations of the soul as resting content in knowledge of
+    the necessary Being, in knowledge of truth, or in security of salvation and freedom
+    from fear or sorrow.
+  category: attribute
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: God
+  description: Named as the one whose favor or disfavor is not proven by worldly fortune,
+    and as the one who will punish and bind the wicked.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:2
+  name_or_label: Hell
+  description: Described in a tradition as dragged toward the last-day tribunal and
+    coming with roaring and fury.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: Angels
+  description: Described as hauling the halters by which hell is dragged toward the
+    tribunal.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: The wicked
+  description: Described as those whom God will punish and bind.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: The soul
+  description: Explained in several interpretations as attaining knowledge, contentment,
+    assurance, salvation, and freedom from fear or sorrow.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: Women or young children
+  description: Mentioned as persons not allowed a share in inheritance in the note's
+    explanation.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: divine judge and punisher
+  assigned_to:
+  - fig:1
+  basis: The note says God will punish and bind the wicked, and refers to divine favor
+    or disfavor.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:2
+  label: personified eschatological hell
+  assigned_to:
+  - fig:2
+  basis: Hell is described as being dragged toward a tribunal and as roaring with
+    fury.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: angelic haulers
+  assigned_to:
+  - fig:3
+  basis: Angels haul the halters attached to hell.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: punished and bound wicked
+  assigned_to:
+  - fig:4
+  basis: The wicked are the objects of God's punishment and binding.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: satisfied or secure soul
+  assigned_to:
+  - fig:5
+  basis: The soul is interpreted as resting content, relying securely on truth, or
+    secure of salvation.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: excluded heirs
+  assigned_to:
+  - fig:6
+  basis: The note mentions women or young children being denied inheritance shares.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: scourge of platted thongs
+  literal_form: A scourge used as an explanatory image for chastisement in this life.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: halters dragging hell
+  literal_form: 70,000 halters, each hauled by 70,000 angels, used to drag hell toward
+    the tribunal.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: last-day tribunal
+  literal_form: A tribunal toward which hell is dragged on the last day.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: roaring and furious hell
+  literal_form: Hell coming with great roaring and fury.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: soul at rest
+  literal_form: The soul resting content or secure after attaining knowledge, truth,
+    or salvation.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Worldly chastisement contrasted with afterlife chastisement
+  summary: A note interprets the image of a scourge as indicating that punishment
+    in this life is lighter than punishment in the next life.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Hell dragged to the last-day tribunal
+  summary: A tradition describes hell being pulled toward the tribunal by many halters
+    hauled by many angels, while roaring furiously.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Divine punishment and binding of the wicked
+  summary: A note states that none will punish or bind as God will punish and bind
+    the wicked.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Soul resting in knowledge or salvation
+  summary: A note reports several interpretations of the soul as content in knowledge,
+    secure in truth, or free from fear and sorrow through salvation.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Last-day divine judgment
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage notes a last-day tribunal, hell being brought toward it, and
+    God's unmatched punishment and binding of the wicked.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The supplied passage is explanatory note material rather than the main
+    Qur'anic verse text.
+- id: motif:2
+  label: Afterlife punishment contrasted with worldly punishment
+  taxonomy_refs:
+  - divine_judgment
+  basis: The note contrasts chastisement in this life with a more severe chastisement
+    in the next life.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The interpretation is reported as one explanation of the original word.
+- id: motif:3
+  label: Tranquil or saved soul through knowledge
+  taxonomy_refs:
+  - wisdom
+  basis: The note interprets the soul as resting content in knowledge of the necessary
+    Being, in truth, or in security of salvation.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The note reports multiple interpretations, and the taxonomy match to wisdom
+    is broad.
+comparison_claims:
+- id: claim:1
+  claim: The translator explicitly remarks that the interpretation of the satisfied
+    soul shows that Muslims are not strangers to Quietism.
+  claim_level: same_function
+  target: Quietism as a contemplative religious pattern
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: low
+  limitations: This is the translator's comparative comment within a note, not a historical
+    argument established by the passage itself.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 38516-38520
+  quote_or_summary: The original word is glossed as meaning mixture and also a scourge
+    of platted thongs; some interpret this as worldly chastisement being much lighter
+    than that of the next life.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 38521-38522
+  quote_or_summary: Worldly prosperity or adversity is not a certain mark of God's
+    favor or disfavor.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 38523-38524
+  quote_or_summary: The note refers to not allowing women or young children a share
+    in inheritance from husbands or parents.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 38525-38528
+  quote_or_summary: A tradition says that on the last day hell will be dragged toward
+    the tribunal by 70,000 halters, each hauled by 70,000 angels, and will come with
+    roaring and fury.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 38529-38531
+  quote_or_summary: A note glosses the phrase as meaning that none will be able to
+    punish or bind as God will then punish and bind the wicked.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 38532-38541
+  quote_or_summary: A note reports interpretations of the soul as resting content
+    in knowledge of the necessary Being, satisfied with truth, or secure of salvation
+    and free from fear or sorrow; it also compares this to Quietism.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: low
+  notes: The passage is mainly translator/editorial annotation rather than continuous
+    primary narrative, so motifs are extracted from reported explanations and traditions.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No taxonomy symbol reference was applied because the available symbol list does not include hell, scourge, halter, tribunal, or soul.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l38516-l38545
+  passage_sha256=eb9e16ea58c16176400b08ccd8107241a8c73f375113e6dd271f79c960479bde

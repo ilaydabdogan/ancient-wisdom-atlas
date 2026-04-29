@@ -1,0 +1,843 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l39628-l39754
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: IN THE NAME OF THE MOST MERCIFUL GOD. / FINIS / AN INDEX / OF THE; lines
+    39628-39754
+  start: '39628'
+  end: '39754'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: An index section listing topics, figures, places, and brief episode summaries
+    from Sale's Koran edition, including entries on Arafat, the Ark of Israel, Asia
+    wife of Pharaoh, Azral, Mohammed's heavenly journey, the Caaba, Cain and Abel,
+    the golden calf, the sacrificed cow, David, Dhu'lkarnein, and afterlife rewards
+    and punishments.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Mount Arafat is listed with an explanation of its name and a procession to
+    it.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Ark of Israel is listed as having been taken by the Amalekites.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Arrows used for divination are listed as forbidden.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Asia, wife of Pharaoh, is described as martyred by her husband for believing
+    in Moses, taken alive into paradise, and counted among four perfect women.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Azral is identified as the angel of death and is connected with a story involving
+    Solomon.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Abu Becr is listed as bearing testimony to the truth of Mohammed's journey
+    to heaven.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The Caaba is listed as a place of worship built and cleansed by Abraham and
+    Ismael; a celestial model of the Caaba is also listed.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Cain and Abel are listed with their sacrifices; Cain kills his brother and
+    is instructed by a raven to bury him.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The golden calf is listed as made, animated, and worshipped by the Israelites.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: A dead body is listed as raised to life by a part of the sacrificed cow.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: David is listed as killing Goliath, showing extraordinary devotion, having
+    birds and mountains sing praises with him, making breastplates, repenting, and
+    judging with Solomon.
+  category: sequence
+  evidence_refs:
+  - ev:9
+- id: obs:12
+  text: Dhu'lkarnein is listed as building a wall to prevent incursions of Gog and
+    Magog.
+  category: action
+  evidence_refs:
+  - ev:10
+- id: obs:13
+  text: The blessed are listed with future happiness, while the damned and unbelievers
+    are listed with punitive drink or collars in the life to come.
+  category: attribute
+  evidence_refs:
+  - ev:8
+- id: obs:14
+  text: Al Arem is listed as an inundation, and Canaan is listed as an unbelieving
+    son of Noah.
+  category: other
+  evidence_refs:
+  - ev:11
+- id: obs:15
+  text: Babel is listed as a destroyed tower, and Balaam is listed with punishment
+    for cursing the Israelites.
+  category: sequence
+  evidence_refs:
+  - ev:12
+figures:
+- id: fig:1
+  name_or_label: Mohammed
+  description: Religious figure whose death, heavenly journey, victory, wife, enemies,
+    and other actions are indexed in the passage.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: Abu Becr
+  description: Attends Mohammed in flight from Mecca and bears testimony to Mohammed's
+    journey to heaven.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Asia
+  description: Wife of Pharaoh, martyred for believing in Moses and taken alive into
+    paradise.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Pharaoh
+  description: Husband of Asia who martyrs her according to the index entry.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Moses
+  description: Belief in Moses is the stated reason for Asia's martyrdom.
+  role_refs: []
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Azral
+  description: The angel of death, with an indexed account of why he was appointed
+    to that office.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:7
+  name_or_label: Solomon
+  description: A figure associated with Azral, Asaf as vizir, Balkis, and judgment
+    with David.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:9
+- id: fig:8
+  name_or_label: Abraham
+  description: Listed as builder and cleanser of the Caaba with Ismael.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+- id: fig:9
+  name_or_label: Ismael
+  description: Listed as builder and cleanser of the Caaba with Abraham.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+- id: fig:10
+  name_or_label: Cain
+  description: Kills his brother after the sacrifices of Cain and Abel.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:6
+- id: fig:11
+  name_or_label: Abel
+  description: Brother killed by Cain after their sacrifices.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:6
+- id: fig:12
+  name_or_label: Raven
+  description: Instructs Cain to bury his brother.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:6
+- id: fig:13
+  name_or_label: Israelites
+  description: People associated with the golden calf, Balaam's curse, the cow sacrifice,
+    and other entries.
+  role_refs:
+  - role:11
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:12
+- id: fig:14
+  name_or_label: David
+  description: Kills Goliath, is extraordinarily devout, is praised with birds and
+    mountains, makes breastplates, repents, and judges with Solomon.
+  role_refs:
+  - role:12
+  evidence_refs:
+  - ev:9
+- id: fig:15
+  name_or_label: Dhu'lkarnein
+  description: Builds a wall to prevent incursions of Gog and Magog.
+  role_refs:
+  - role:13
+  evidence_refs:
+  - ev:10
+- id: fig:16
+  name_or_label: Gog and Magog
+  description: Groups whose incursions are prevented by the wall built by Dhu'lkarnein.
+  role_refs:
+  - role:14
+  evidence_refs:
+  - ev:10
+- id: fig:17
+  name_or_label: Balkis, queen of Saba
+  description: Visits Solomon, is received by him, and marries him.
+  role_refs:
+  - role:15
+  evidence_refs:
+  - ev:4
+- id: fig:18
+  name_or_label: Balaam
+  description: Punished for cursing the Israelites.
+  role_refs:
+  - role:16
+  evidence_refs:
+  - ev:12
+roles:
+- id: role:1
+  label: heaven-journey figure
+  assigned_to:
+  - fig:1
+  basis: The index notes Mohammed's journey to heaven.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: witness to heavenly journey
+  assigned_to:
+  - fig:2
+  basis: Abu Becr bears testimony to the truth of Mohammed's journey to heaven.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: martyr and paradise-taken believer
+  assigned_to:
+  - fig:3
+  basis: Asia is martyred for believing in Moses and taken alive into paradise.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: persecuting husband
+  assigned_to:
+  - fig:4
+  basis: Pharaoh martyrs Asia, his wife, for her belief.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: angel of death
+  assigned_to:
+  - fig:6
+  basis: Azral is explicitly identified as the angel of death.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: judge-associated royal figure
+  assigned_to:
+  - fig:7
+  basis: Solomon is linked with judgment alongside David and receives Balkis, queen
+    of Saba.
+  evidence_refs:
+  - ev:4
+  - ev:9
+- id: role:7
+  label: builders and cleansers of the Caaba
+  assigned_to:
+  - fig:8
+  - fig:9
+  basis: Abraham and Ismael are listed as having built and cleansed the Caaba.
+  evidence_refs:
+  - ev:5
+- id: role:8
+  label: fratricide
+  assigned_to:
+  - fig:10
+  basis: Cain kills his brother.
+  evidence_refs:
+  - ev:6
+- id: role:9
+  label: slain brother
+  assigned_to:
+  - fig:11
+  basis: Abel is the brother killed by Cain.
+  evidence_refs:
+  - ev:6
+- id: role:10
+  label: animal burial instructor
+  assigned_to:
+  - fig:12
+  basis: A raven instructs Cain to bury his brother.
+  evidence_refs:
+  - ev:6
+- id: role:11
+  label: people associated with sacrifice and idolatry episodes
+  assigned_to:
+  - fig:13
+  basis: Israelites are linked to the sacrificed cow and golden calf entries.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:12
+  label: warrior, devotee, craftsman, and judge
+  assigned_to:
+  - fig:14
+  basis: David kills Goliath, displays devotion, makes breastplates, repents, and
+    judges with Solomon.
+  evidence_refs:
+  - ev:9
+- id: role:13
+  label: barrier builder
+  assigned_to:
+  - fig:15
+  basis: Dhu'lkarnein builds a wall to prevent incursions.
+  evidence_refs:
+  - ev:10
+- id: role:14
+  label: contained incursion force
+  assigned_to:
+  - fig:16
+  basis: Gog and Magog are the groups whose incursions the wall prevents.
+  evidence_refs:
+  - ev:10
+- id: role:15
+  label: visiting queen and bride
+  assigned_to:
+  - fig:17
+  basis: Balkis, queen of Saba, visits Solomon and marries him.
+  evidence_refs:
+  - ev:4
+- id: role:16
+  label: punished curser
+  assigned_to:
+  - fig:18
+  basis: Balaam is punished for cursing the Israelites.
+  evidence_refs:
+  - ev:12
+symbols:
+- id: sym:1
+  label: Mount Arafat
+  literal_form: mountain
+  associated_figures: []
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Ark of Israel
+  literal_form: ark
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: arrows for divination
+  literal_form: arrows
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: paradise waters
+  literal_form: fountain and river in paradise
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:8
+- id: sym:5
+  label: Caaba and celestial model
+  literal_form: place of worship and its celestial model
+  associated_figures:
+  - fig:8
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: golden calf
+  literal_form: animated golden calf
+  associated_figures:
+  - fig:13
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:7
+  label: sacrificed cow
+  literal_form: cow ordered to be sacrificed; part of cow raises dead body
+  associated_figures:
+  - fig:13
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:8
+  label: protective wall
+  literal_form: wall against Gog and Magog
+  associated_figures:
+  - fig:15
+  - fig:16
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+- id: sym:9
+  label: birds and mountains praising with David
+  literal_form: birds and mountains
+  associated_figures:
+  - fig:14
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:9
+- id: sym:10
+  label: punishments of the damned
+  literal_form: collars and drink of the damned
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:11
+  label: raven burial instructor
+  literal_form: raven
+  associated_figures:
+  - fig:10
+  - fig:11
+  - fig:12
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: testimony to Mohammed's heavenly journey
+  summary: Abu Becr is listed as testifying to the truth of Mohammed's journey to
+    heaven.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:2
+  label: Asia's martyrdom and entry into paradise
+  summary: Asia is martyred by Pharaoh for believing in Moses and is taken alive into
+    paradise.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: building and cleansing of the Caaba
+  summary: The Caaba is appointed for worship and is built and cleansed by Abraham
+    and Ismael; a celestial model is also indexed.
+  figure_refs:
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Cain and Abel sacrifices, killing, and burial instruction
+  summary: Cain and Abel offer sacrifices; Cain kills Abel and is instructed by a
+    raven to bury him.
+  figure_refs:
+  - fig:10
+  - fig:11
+  - fig:12
+  symbol_refs:
+  - sym:11
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: golden calf made and worshipped
+  summary: The golden calf is made, animated, and worshipped by the Israelites.
+  figure_refs:
+  - fig:13
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:7
+- id: scene:6
+  label: sacrificed cow and revived dead body
+  summary: A cow is ordered to be sacrificed, and a dead body is raised to life by
+    a part of that cow.
+  figure_refs:
+  - fig:13
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:6
+- id: scene:7
+  label: David's heroic and devotional acts
+  summary: David kills Goliath, practices extraordinary devotion, is praised with
+    birds and mountains, makes breastplates, repents, and judges with Solomon.
+  figure_refs:
+  - fig:14
+  - fig:7
+  symbol_refs:
+  - sym:9
+  evidence_refs:
+  - ev:9
+- id: scene:8
+  label: Dhu'lkarnein's wall against Gog and Magog
+  summary: Dhu'lkarnein builds a wall to prevent the incursions of Gog and Magog.
+  figure_refs:
+  - fig:15
+  - fig:16
+  symbol_refs:
+  - sym:8
+  evidence_refs:
+  - ev:10
+- id: scene:9
+  label: afterlife happiness and punishment
+  summary: The blessed have future happiness, while the damned and unbelievers are
+    associated with punitive drink and collars in the life to come.
+  figure_refs: []
+  symbol_refs:
+  - sym:4
+  - sym:10
+  evidence_refs:
+  - ev:8
+- id: scene:10
+  label: Balaam punished after cursing Israel
+  summary: Balaam is listed as punished for cursing the Israelites.
+  figure_refs:
+  - fig:18
+  - fig:13
+  symbol_refs: []
+  evidence_refs:
+  - ev:12
+candidate_motifs:
+- id: motif:1
+  label: heavenly ascent or journey to heaven
+  taxonomy_refs:
+  - ascent
+  basis: Mohammed's journey to heaven is explicitly indexed, with Abu Becr testifying
+    to it.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The index gives only a brief reference, not the full narrative.
+- id: motif:2
+  label: martyr taken alive into paradise
+  taxonomy_refs:
+  - ascent
+  - divine_beloved
+  basis: Asia is martyred for belief and taken alive into paradise.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage does not elaborate how she is taken into paradise.
+- id: motif:3
+  label: sacrifice and consequence
+  taxonomy_refs:
+  - sacrifice
+  basis: Cain and Abel's sacrifices, the ordered cow sacrifice, and camels appointed
+    for sacrifice are all indexed.
+  evidence_refs:
+  - ev:6
+  - ev:13
+  confidence: high
+  cautions: Different sacrifice references may belong to separate contexts.
+- id: motif:4
+  label: revival of the dead
+  taxonomy_refs:
+  - resurrection
+  - death_rebirth
+  basis: A dead body is raised to life by part of the sacrificed cow.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The index does not describe the full circumstances.
+- id: motif:5
+  label: divine judgment in afterlife reward and punishment
+  taxonomy_refs:
+  - divine_judgment
+  basis: The blessed, believers, damned, and unbelievers are indexed with future happiness,
+    sentences, collars, and drink of the damned.
+  evidence_refs:
+  - ev:8
+  confidence: high
+  cautions: The evidence is a thematic index summary rather than a continuous passage.
+- id: motif:6
+  label: sacred vessel taken by enemies
+  taxonomy_refs:
+  - ark_vessel
+  basis: The Ark of Israel is listed as taken by the Amalekites.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage names the ark but gives no additional narrative detail.
+- id: motif:7
+  label: destructive inundation
+  taxonomy_refs:
+  - flood_and_renewal
+  basis: Al Arem is listed as an inundation.
+  evidence_refs:
+  - ev:11
+  confidence: low
+  cautions: The index does not state renewal or a full flood narrative in this excerpt.
+- id: motif:8
+  label: sacred center with heavenly counterpart
+  taxonomy_refs:
+  - world_center
+  basis: The Caaba is appointed as a place of worship and a celestial model of the
+    Caaba is listed.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The phrase 'world center' is not used in the passage; the motif assignment
+    rests on the place of worship and celestial model entries.
+- id: motif:9
+  label: protective barrier against monstrous or hostile peoples
+  taxonomy_refs: []
+  basis: Dhu'lkarnein builds a wall to prevent incursions of Gog and Magog.
+  evidence_refs:
+  - ev:10
+  confidence: high
+  cautions: No available taxonomy reference directly names barrier-building or containment.
+- id: motif:10
+  label: animal teaches burial rite
+  taxonomy_refs:
+  - wisdom
+  basis: A raven instructs Cain to bury his slain brother.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The wisdom taxonomy fit is broad; the passage only states the raven's
+    instruction.
+- id: motif:11
+  label: idolatrous animated image
+  taxonomy_refs: []
+  basis: The golden calf is made, animated, and worshipped by the Israelites.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: No available taxonomy reference specifically covers idolatrous images.
+- id: motif:12
+  label: divination prohibited
+  taxonomy_refs:
+  - forbidden_knowledge
+  basis: Arrows for divination are listed as forbidden.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage gives only the index entry, without the underlying legal or
+    ritual discussion.
+comparison_claims:
+- id: claim:1
+  claim: The indexed 'journey to heaven' aligns with the ascent motif family at the
+    level of motif function.
+  claim_level: same_motif
+  target: ascent motif family
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The excerpt is an index entry and does not preserve the full journey
+    narrative.
+- id: claim:2
+  claim: The dead body raised by a part of the sacrificed cow aligns with a resurrection
+    or revival-of-the-dead motif family.
+  claim_level: same_motif
+  target: resurrection motif family
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The index gives a compressed reference only.
+- id: claim:3
+  claim: Entries such as Cain and Abel, Babel, Balaam, David, the Ark of Israel, Israelites,
+    Jews, Christians, and Barnabas indicate overlap with nearby biblical and Jewish-Christian
+    narrative corpora at the level of named episodes and figures.
+  claim_level: same_motif
+  target: biblical and Jewish-Christian narrative corpus
+  evidence_refs:
+  - ev:6
+  - ev:9
+  - ev:12
+  - ev:14
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage is an English index and does not itself establish historical
+    transmission, only shared named figures and episodes.
+- id: claim:4
+  claim: Dhu'lkarnein's wall against Gog and Magog fits a protective barrier or containment
+    pattern also known from traditions about Gog and Magog.
+  claim_level: same_function
+  target: Gog and Magog barrier-containment pattern
+  evidence_refs:
+  - ev:10
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage gives no external comparison and only states the index
+    summary.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 39631-39636
+  quote_or_summary: '"Arafat, Mount"; "Ark of Israel taken by the Amalekites"; "Arrows
+    for divination forbidden".'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text.
+- id: ev:2
+  type: quote
+  locator: 39644-39649
+  quote_or_summary: '"Asia, the wife of Pharaoh, marytred by her husband for believing
+    in Moses... is taken alive into paradise"; "Azral, the angel of death".'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text.
+- id: ev:3
+  type: quote
+  locator: 39664-39670
+  quote_or_summary: '"Becr (Abu) attends Mohammed in his flight from Mecca" and "bears
+    testimony to the truth of Mohammed''s journey to heaven".'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text.
+- id: ev:4
+  type: quote
+  locator: 39657-39659
+  quote_or_summary: '"Balks, queen of Saba, visits Solomon, and her reception... marries
+    Solomon".'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text.
+- id: ev:5
+  type: quote
+  locator: 39694-39700, 39741
+  quote_or_summary: '"Al Caaba, appointed for a place of worship... built and cleansed
+    by Abraham and Ismael"; "Al Dorb, the celestial mode of the Caaba".'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text.
+- id: ev:6
+  type: quote
+  locator: 39702-39717
+  quote_or_summary: '"Cain and Abel, their sacrifices"; "Cain kills his brother";
+    "instructed by a raven to bury him"; "Cow ordered to be sacrificed"; "Dead body
+    raised to life by a part of the sacrificed Cow".'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text.
+- id: ev:7
+  type: quote
+  locator: 39704-39705
+  quote_or_summary: '"Calf, the golden, of what and by whom made... animated... worshipped
+    by the Israelites".'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text.
+- id: ev:8
+  type: quote
+  locator: 39678, 39712, 39740, 39754
+  quote_or_summary: '"Blessed, their future happiness described"; "Collars to be worn
+    by the unbelievers in the life to come"; "Drink of the damned".'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text.
+- id: ev:9
+  type: quote
+  locator: 39719-39724
+  quote_or_summary: '"DAVID kills Goliah"; "his extraordinary devotion"; "the birds
+    and mountains sing praises with him"; "makes breastplates"; "his and Solomon''s
+    judgment".'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text.
+- id: ev:10
+  type: quote
+  locator: 39730-39731
+  quote_or_summary: '"Dhu''lkarnein... builds a wall to prevent the incursions of
+    Gog and Magog".'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text.
+- id: ev:11
+  type: quote
+  locator: 39635, 39706
+  quote_or_summary: '"Al Arem, the inundation of"; "Canaan, an unbelieving son of
+    Noah".'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text.
+- id: ev:12
+  type: quote
+  locator: 39654-39656
+  quote_or_summary: '"Babel, the tower of, destroyed"; "Balaam, his punishment for
+    cursing the Israelites".'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text.
+- id: ev:13
+  type: quote
+  locator: 39705-39706
+  quote_or_summary: '"Camels... appointed for sacrifice".'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text.
+- id: ev:14
+  type: quote
+  locator: 39660, 39719, 39750
+  quote_or_summary: The index references Barnabas's apocryphal gospel, David, and
+    Christians, alongside Jewish and Israelite materials elsewhere in the excerpt.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The source passage is an index rather than a continuous narrative. Motif
+    extraction is based on concise index summaries and therefore should be checked
+    against the referenced passages and notes.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used. Spellings and names follow the passage where practical, including older transliterations and typographical forms.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l39628-l39754
+  passage_sha256=8bc46a910cb35e8282ed38799881cf283ff77e04163eccda4b1397478dc1dafd

@@ -1,0 +1,498 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l39526-l39627
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: IN THE NAME OF THE MOST MERCIFUL GOD. / FINIS / AN INDEX / OF THE; lines
+    39526-39627
+  start: '39526'
+  end: '39627'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: An alphabetical index section lists persons, peoples, objects, doctrines,
+    and episodes associated with the Koran and Sale's notes, including entries on
+    Abraham, Adam, angels, destroyed tribes, resurrection, judgment, Solomon's ants,
+    and Arabian customs.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The index entry for Abraham says he demolished idols, preached to his people,
+    disputed with Nimrod, escaped a fire ordered by Nimrod, desired conviction of
+    the resurrection, sacrificed birds, entertained angels, received the promise of
+    Isaac, sacrificed his son, and was commanded with Ismael to build and cleanse
+    the Caaba.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The index entry for Adam refers to traditions concerning his creation, angels
+    worshipping him, his fall, repentance, meeting Eve at Mount Arafat, and his posterity
+    being extracted from his loins to acknowledge God.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The index entry for Angels says they have different forms and orders, support
+    God's throne, record human actions, take souls, preside over hell, guard against
+    devils, assist Moslems at Bedr, and appear to Abraham and Lot.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The index entry for Ad identifies a potent Arab tribe destroyed for infidelity.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The index entry for Animals says irrational animals will be raised at the
+    resurrection and judged, and that animals are created of water.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The index entry for Ants refers to the valley of ants and to the queen ant's
+    speech on the approach of Solomon's army.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The index entry for Arabians mentions the custom of burying daughters alive,
+    worshipping naked, and superstitions concerning eating and cattle.
+  category: other
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The index entry for Abel says his ram was sacrificed by Abraham.
+  category: object
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Abraham
+  description: Patriarch associated in the index with idol demolition, dispute with
+    Nimrod, escape from fire, sacrifices, angelic visitation, Isaac, Ismael, and the
+    Caaba.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Adam
+  description: First human figure associated with creation traditions, angelic worship,
+    fall, repentance, Eve, Mount Arafat, and descendants acknowledging God.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Angels
+  description: Heavenly beings described as having forms and orders, recording actions,
+    taking souls, guarding hell, assisting at Bedr, and appearing to Abraham and Lot.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Ad
+  description: A potent tribe of Arabs said to have been destroyed for infidelity.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Animals
+  description: Irrational animals said to be raised at resurrection and judged; also
+    said to be created of water.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: Queen of the ants
+  description: Ant figure whose speech is mentioned in connection with Solomon's approaching
+    army.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:6
+- id: fig:7
+  name_or_label: Solomon's army
+  description: Army whose approach occasions the speech of the queen of the ants.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:6
+- id: fig:8
+  name_or_label: Abel's ram
+  description: Ram associated with Abel and said to have been sacrificed by Abraham.
+  role_refs:
+  - role:11
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: patriarch
+  assigned_to:
+  - fig:1
+  basis: The index names Abraham as patriarch.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: idol-destroyer
+  assigned_to:
+  - fig:1
+  basis: The index says Abraham demolishes the idols of the Chaldeans.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: sacrificer and sanctuary-builder
+  assigned_to:
+  - fig:1
+  basis: The index associates Abraham with sacrifices and with building and cleansing
+    the Caaba with Ismael.
+  evidence_refs:
+  - ev:1
+  - ev:8
+- id: role:4
+  label: created ancestor who falls and repents
+  assigned_to:
+  - fig:2
+  basis: The index links Adam with creation, fall, repentance, Eve, and posterity.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: heavenly messengers and agents
+  assigned_to:
+  - fig:3
+  basis: The index says angels appear to Abraham and Lot, assist Moslems, record actions,
+    and take souls.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: guardians and attendants of divine order
+  assigned_to:
+  - fig:3
+  basis: The index says angels support God's throne, preside over hell, and guard
+    against devils.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: destroyed infidel tribe
+  assigned_to:
+  - fig:4
+  basis: The index says Ad was destroyed for infidelity.
+  evidence_refs:
+  - ev:4
+- id: role:8
+  label: resurrected and judged creatures
+  assigned_to:
+  - fig:5
+  basis: The index says irrational animals will be raised and judged.
+  evidence_refs:
+  - ev:5
+- id: role:9
+  label: speaking animal ruler
+  assigned_to:
+  - fig:6
+  basis: The index refers to the queen ant's speech.
+  evidence_refs:
+  - ev:6
+- id: role:10
+  label: approaching royal army
+  assigned_to:
+  - fig:7
+  basis: The index mentions Solomon's army approaching the valley of ants.
+  evidence_refs:
+  - ev:6
+- id: role:11
+  label: sacrificial animal
+  assigned_to:
+  - fig:8
+  basis: The index says Abel's ram was sacrificed by Abraham.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: fire of Nimrod
+  literal_form: fire
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Mount Arafat
+  literal_form: mountain
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: water as animal origin
+  literal_form: water
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: Caaba
+  literal_form: sanctuary built and cleansed by Abraham and Ismael
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:5
+  label: sacrificial ram
+  literal_form: ram
+  associated_figures:
+  - fig:1
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Abraham's trials and sacred acts
+  summary: The index groups Abraham's destruction of idols, dispute with Nimrod, escape
+    from fire, desire for assurance of resurrection, sacrifices, angelic hospitality,
+    promise of Isaac, and building and cleansing of the Caaba.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:8
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:8
+- id: scene:2
+  label: Adam's creation, fall, and descendants
+  summary: The index groups Adam's creation traditions, angelic worship, fall, repentance,
+    meeting with Eve at Mount Arafat, and posterity acknowledging God.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Angelic administration
+  summary: The index presents angels as beings with forms and orders who support the
+    throne, record actions, take souls, guard hell, assist in battle, and appear to
+    Abraham and Lot.
+  figure_refs:
+  - fig:3
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Destruction of Ad
+  summary: The index says the tribe of Ad was destroyed for infidelity.
+  figure_refs:
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Resurrection and judgment of animals
+  summary: The index says irrational animals will be raised at the resurrection and
+    judged, and that animals were created of water.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+- id: scene:6
+  label: Valley of the ants
+  summary: The index mentions a valley of ants and the queen ant speaking when Solomon's
+    army approaches.
+  figure_refs:
+  - fig:6
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: deliverance from destructive fire
+  taxonomy_refs:
+  - world_destroying_fire
+  basis: Abraham is said to escape the fire into which he was thrown by Nimrod's order.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The index gives only a compressed reference; it does not narrate the episode
+    in full.
+- id: motif:2
+  label: sacrifice involving patriarch and son
+  taxonomy_refs:
+  - sacrifice
+  basis: The index associates Abraham with sacrifice of his son and with Abel's ram
+    sacrificed by Abraham.
+  evidence_refs:
+  - ev:1
+  - ev:8
+  confidence: high
+  cautions: The index wording is brief and does not identify the son in the same phrase.
+- id: motif:3
+  label: resurrection and judgment
+  taxonomy_refs:
+  - resurrection
+  - divine_judgment
+  basis: The index mentions Abraham desiring conviction of resurrection and animals
+    being raised and judged.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: high
+  cautions: The index includes page references rather than full doctrinal exposition.
+- id: motif:4
+  label: fall and repentance of first human
+  taxonomy_refs:
+  - death_rebirth
+  basis: Adam is associated with creation, fall, repentance, and prayer.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The taxonomy match is broad; the passage itself says fall and repentance,
+    not literal death and rebirth.
+- id: motif:5
+  label: angels as heavenly administrators
+  taxonomy_refs:
+  - divine_judgment
+  basis: Angels are said to record human actions, take souls, preside over hell, and
+    guard against devils.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The motif is inferred from listed angelic functions in an index entry.
+- id: motif:6
+  label: destruction of an unbelieving people
+  taxonomy_refs:
+  - divine_judgment
+  basis: The tribe of Ad is described as destroyed for infidelity.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The index supplies no detailed destruction narrative in this passage.
+- id: motif:7
+  label: speaking animal warns community
+  taxonomy_refs:
+  - wisdom
+  basis: The queen of the ants is said to speak to the ants when Solomon's army approaches.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The index gives only a brief notice; the exact content of the speech is
+    not included here.
+- id: motif:8
+  label: sacred construction and purification of a sanctuary
+  taxonomy_refs:
+  - world_center
+  - covenant
+  basis: Abraham and Ismael are said to be commanded to build and cleanse the Caaba.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The world-center and covenant associations are cautious taxonomy mappings;
+    the passage itself names only command, building, cleansing, and prayer for Mecca.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 39526-39627, entry 'Abraham'
+  quote_or_summary: Abraham is indexed as patriarch; former idolater; demolisher of
+    Chaldean idols; preacher; disputant with Nimrod; survivor of Nimrod's fire; seeker
+    of conviction about resurrection; sacrificer of birds and of his son; host of
+    angels; recipient of Isaac's promise; friend of God; builder and cleanser of the
+    Caaba with Ismael.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 39526-39627, entry 'Adam'
+  quote_or_summary: Adam is indexed with creation traditions, angelic worship, fall,
+    repentance and prayer, meeting Eve at Mount Arafat, retreat to Ceylon, unusual
+    stature, posterity extracted from his loins to acknowledge God, and naming his
+    eldest son as directed by the devil.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 39526-39627, entry 'Angels'
+  quote_or_summary: Angels are indexed as having original forms and orders, supporting
+    God's throne, recording actions, taking souls, presiding over hell, guarding against
+    devils, assisting Moslems at Bedr, being wrongly worshipped as daughters of God,
+    and appearing to Abraham and Lot.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 39526-39627, entry 'Ad'
+  quote_or_summary: Ad is described as a potent tribe of Arabs destroyed for infidelity.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 39526-39627, entry 'Animals'
+  quote_or_summary: Irrational animals are said to be raised at the resurrection and
+    judged; animals are also said to be created of water.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 39526-39627, entry 'Ants'
+  quote_or_summary: The index mentions the valley of ants and the queen ant's speech
+    to them on the approach of Solomon's army.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 39526-39627, entry 'Arabians'
+  quote_or_summary: Arabian customs are indexed, including burying daughters alive,
+    superstitions about eating and cattle, and worshipping naked.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 39526-39627, entry 'Abel'
+  quote_or_summary: The index says Abel is to be seen under Cain and says his ram
+    was sacrificed by Abraham.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is an index, so it contains compressed references to episodes
+    rather than full narrative context. Motif candidates are based only on the index
+    wording supplied.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage does not itself make explicit comparative claims beyond index cross-references.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l39526-l39627
+  passage_sha256=856b6b377304252305dc98508545acf29fd5f2d86e76fc437b904d0af873ee38

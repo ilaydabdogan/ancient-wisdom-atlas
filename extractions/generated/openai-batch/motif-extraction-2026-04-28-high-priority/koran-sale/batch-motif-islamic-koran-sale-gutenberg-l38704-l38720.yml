@@ -1,0 +1,265 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l38704-l38720
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: IN THE NAME OF THE MOST MERCIFUL GOD. / CHAPTER XCIV. / ENTITLED, HAVE WE
+    NOT OPENED; REVEALED AT MECCA / IN THE NAME OF THE MOST MERCIFUL GOD.; lines 38704-38720
+  start: '38704'
+  end: '38720'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: Verily a difficulty shall be attended with ease.
+  summary: A divine voice reminds the addressed recipient that his breast has been
+    opened, his burden eased, and his reputation raised. The passage repeats that
+    difficulty is accompanied by ease, then instructs the recipient, after preaching,
+    to labor in service to God and make supplication to the Lord.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage is headed as Chapter XCIV, entitled “Have We Not Opened,” and
+    marked as revealed at Mecca.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A divine plural speaker says that the recipient’s breast has been opened.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The speaker says that the recipient’s burden, which galled his back, has been
+    eased.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The speaker says that the recipient’s reputation has been raised.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The statement that difficulty shall be attended with ease is repeated twice.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The recipient is instructed, after ending his preaching, to labor to serve
+    God in return for God’s favors.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The recipient is instructed to make supplication to the Lord.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: divine speaker / God / Lord
+  description: The speaking divine figure described by the headings as God and later
+    named as God and Lord.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: addressed recipient
+  description: The person addressed as “thy/thee,” associated with an opened breast,
+    eased burden, raised reputation, preaching, service, and supplication.
+  role_refs:
+  - role:3
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:4
+roles:
+- id: role:1
+  label: divine benefactor
+  assigned_to:
+  - fig:1
+  basis: The speaker is credited with opening the recipient’s breast, easing his burden,
+    and raising his reputation.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: recipient of supplication
+  assigned_to:
+  - fig:1
+  basis: The recipient is told to make supplication unto the Lord.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: recipient of divine favor
+  assigned_to:
+  - fig:2
+  basis: The addressed person is said to have received relief from burden and raised
+    reputation.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: preacher
+  assigned_to:
+  - fig:2
+  basis: The addressed person is told what to do after ending his preaching.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: supplicant and servant
+  assigned_to:
+  - fig:2
+  basis: The addressed person is instructed to serve God and make supplication to
+    the Lord.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: opened breast
+  literal_form: The recipient’s breast is said to have been opened.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: eased burden on the back
+  literal_form: A burden that galled the recipient’s back is said to have been eased.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: difficulty attended with ease
+  literal_form: The paired terms difficulty and ease appear in a repeated saying.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: supplication to the Lord
+  literal_form: The act of making supplication unto the Lord.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Reminder of divine relief and elevation
+  summary: The divine speaker reminds the addressed recipient that his breast has
+    been opened, his burden eased, and his reputation raised.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Repeated assurance of ease with difficulty
+  summary: The passage repeats that difficulty shall be accompanied by ease.
+  figure_refs: []
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Instruction after preaching
+  summary: The recipient is told, after preaching, to labor in service to God in return
+    for favors and to make supplication to the Lord.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: divine easing of a burdensome weight
+  taxonomy_refs: []
+  basis: The passage says the recipient’s burden, which galled his back, has been
+    eased by the divine speaker.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage does not narrate a broader quest or deliverance episode; the
+    motif is extracted from a compact devotional statement.
+- id: motif:2
+  label: hardship accompanied by relief
+  taxonomy_refs:
+  - duality
+  basis: The passage twice states that difficulty shall be attended with ease.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The duality reference is limited to the explicit pairing of difficulty
+    and ease, not to a larger cosmological dualism.
+- id: motif:3
+  label: service and supplication in return for divine favor
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The recipient is instructed to labor to serve God in return for divine favors
+    and to supplicate the Lord.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The exchange is devotional rather than a narrated bargain or ritual transaction.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: citation
+  locator: lines 38704-38708
+  quote_or_summary: Chapter XCIV is entitled “Have We Not Opened,” marked as revealed
+    at Mecca, and opened in the name of the most merciful God.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 38710-38714
+  quote_or_summary: The divine speaker asks whether the recipient’s breast has been
+    opened, his burden eased from his back, and his reputation raised.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: quote
+  locator: lines 38715-38716
+  quote_or_summary: "“Verily a difficulty shall be attended with ease” is stated twice."
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:4
+  type: summary
+  locator: lines 38717-38719
+  quote_or_summary: After preaching, the recipient is told to labor in service to
+    God in return for favors and to make supplication to the Lord.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labels are cautious because
+    the passage is brief and devotional, with limited narrative development. No comparison
+    claims are made because the passage itself does not support a specific cross-textual
+    comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage text and metadata; no external identifications were added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l38704-l38720
+  passage_sha256=df81bed835cc84b7e95c9b3dda87e3b3476a09ef9a187e3fd9deab7798424e8a

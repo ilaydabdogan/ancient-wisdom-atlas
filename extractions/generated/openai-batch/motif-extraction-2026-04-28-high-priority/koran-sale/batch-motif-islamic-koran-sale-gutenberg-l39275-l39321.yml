@@ -1,0 +1,348 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l39275-l39321
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: ENTITLED, NECESSARIES; WHERE IT WAS REVEALED IS DISPUTED. / IN THE NAME OF
+    THE MOST MERCIFUL GOD. / CHAPTER CVIII. / IN THE NAME OF THE MOST MERCIFUL GOD.;
+    lines 39275-39321
+  start: '39275'
+  end: '39321'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: VERILY we have given thee al Cawthar. Wherefore pray unto thy LORD, and slay
+    the victims. Verily he who hateth thee shall be childless.
+  summary: The passage says that God has given the addressed person al Cawthar; therefore
+    the addressee is to pray to the Lord and sacrifice victims, while the addressee's
+    hater will be childless. A note explains al Cawthar as abundance and commonly
+    as a river in paradise whose water flows into Mohammed's pond for the blessed
+    to drink before admission into paradise.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The speaker states that al Cawthar has been given to the addressed person.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The addressed person is commanded to pray to the Lord.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:3
+  text: The addressed person is commanded to slay victims.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The one who hates the addressed person is said to be childless.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: A note says al Cawthar signifies abundance, especially of good, and may include
+    wisdom, prophecy, the Koran, intercession, children, followers, and similar goods.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: A note says al Cawthar is generally expounded as a river in paradise whose
+    water is derived into Mohammed's pond, from which the blessed drink before admission
+    into paradise.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: A tradition quoted in the note describes the river as sweeter than honey,
+    whiter than milk, cooler than snow, and smoother than cream, with chrysolite banks
+    and silver drinking vessels.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Those who drink from the river are said never to thirst.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: God / LORD
+  description: The divine giver of al Cawthar and the one to whom prayer is directed.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Addressed person / Mohammed
+  description: The person addressed as the recipient of al Cawthar; the note associates
+    the paradisal pond with Mohammed.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Hater of the addressed person
+  description: The person who hates the addressee and is said to be childless.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: The blessed
+  description: Those who drink from Mohammed's pond before admission into paradise
+    and never thirst.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:5
+roles:
+- id: role:1
+  label: divine giver and object of prayer
+  assigned_to:
+  - fig:1
+  basis: The passage says al Cawthar has been given and commands prayer to the Lord.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: recipient of divine gift and commanded worshipper
+  assigned_to:
+  - fig:2
+  basis: The addressee receives al Cawthar and is commanded to pray and slay victims.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: hostile opponent marked by childlessness
+  assigned_to:
+  - fig:3
+  basis: The passage identifies the hater of the addressee as childless.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: paradisal drinkers
+  assigned_to:
+  - fig:4
+  basis: The note says the blessed drink from the pond before admission into paradise
+    and then never thirst.
+  evidence_refs:
+  - ev:2
+  - ev:5
+symbols:
+- id: sym:1
+  label: al Cawthar
+  literal_form: A named divine gift, glossed as abundance and generally as a river
+    in paradise.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: river in paradise
+  literal_form: A paradisal river whose water flows into Mohammed's pond.
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:3
+  label: Mohammed's pond
+  literal_form: A pond receiving water from al Cawthar, from which the blessed drink
+    before admission into paradise.
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: sacrificial victims
+  literal_form: Victims to be slain after the command to pray to the Lord.
+  associated_figures:
+  - fig:2
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: silver vessels
+  literal_form: Silver vessels used for drinking from the river in the quoted tradition.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Gift of al Cawthar
+  summary: God gives al Cawthar to the addressed person.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Command to pray and sacrifice
+  summary: The addressed person is told to pray to the Lord and slay victims in response
+    to the gift.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Hater declared childless
+  summary: The hater of the addressed person is declared childless.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Paradisal river and drinkers
+  summary: The note describes al Cawthar as a river in paradise feeding Mohammed's
+    pond, where the blessed drink before entering paradise and never thirst.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:2
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Divine gift of abundance
+  taxonomy_refs: []
+  basis: Al Cawthar is presented as a gift from God and glossed as abundance, especially
+    of good.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The precise referent of al Cawthar is multiple in the note.
+- id: motif:2
+  label: Prayer and sacrifice after divine benefaction
+  taxonomy_refs:
+  - sacrifice
+  - sacred_exchange
+  basis: After receiving al Cawthar, the addressee is commanded to pray to the Lord
+    and slay victims.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: The passage does not explicitly frame the prayer and sacrifice as an exchange,
+    only as a commanded response.
+- id: motif:3
+  label: Paradisal life-giving water
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The note describes a river in paradise whose water is drunk by the blessed
+    before admission into paradise and whose drinkers never thirst.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: medium
+  cautions: This is from the translator's explanatory note and tradition report, not
+    from the short chapter text alone.
+- id: motif:4
+  label: Hostile opponent rendered without posterity
+  taxonomy_refs: []
+  basis: The passage says the addressee's hater shall be childless.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: No broader taxonomy reference is assigned because the available taxonomy
+    list does not include a direct posterity-loss or curse motif.
+- id: motif:5
+  label: Wisdom and prophecy as divine abundance
+  taxonomy_refs:
+  - wisdom
+  basis: The note includes wisdom and prophecy among possible meanings of al Cawthar
+    as abundance of good.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The note lists several possible meanings rather than choosing this as
+    the exclusive meaning.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 39275-39321
+  quote_or_summary: "“VERILY we have given thee al Cawthar.”"
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:2
+  type: summary
+  locator: 39275-39321, note z
+  quote_or_summary: The note says al Cawthar means abundance, especially of good,
+    and may refer to wisdom, prophecy, the Koran, intercession, children, followers,
+    or generally to a river in paradise whose water flows into Mohammed's pond for
+    the blessed to drink before admission into paradise.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized for extraction evidence.
+- id: ev:3
+  type: quote
+  locator: 39275-39321
+  quote_or_summary: "“Wherefore pray unto thy LORD, and slay the victims.”"
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:4
+  type: quote
+  locator: 39275-39321
+  quote_or_summary: "“Verily he who hateth thee shall be childless.”"
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:5
+  type: summary
+  locator: 39275-39321, note z
+  quote_or_summary: A tradition quoted in the note describes the promised river as
+    sweeter than honey, whiter than milk, cooler than snow, smoother than cream, with
+    chrysolite banks and silver vessels; drinkers from it shall never thirst.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized for extraction evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The short chapter text is clear, but several symbolic and motif candidates
+    depend on Sale's explanatory note z rather than the chapter text alone. No comparison
+    claims are made because the passage does not itself support a specific cross-text
+    comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Footnotes from adjacent material are present in the supplied passage, but extraction focuses on the chapter text and note z concerning al Cawthar.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l39275-l39321
+  passage_sha256=099f4084b4d645f5d3d51fc53a6d7fe409db0c376f4b70e5313efe4d2696240c

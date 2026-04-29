@@ -1,0 +1,459 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l35592-l35638
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: CHAPTER LVII. / IN THE NAME OF THE MOST MERCIFUL GOD. / CHAPTER LVIII. /
+    IN THE NAME OF THE MOST MERCIFUL GOD.; lines 35592-35638
+  start: '35592'
+  end: '35638'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage includes translator notes on private cabals, altered greetings,
+    assembly etiquette, and almsgiving before private consultation. The main passage
+    condemns people allied with those under divine anger, says their oaths are used
+    as a cloak, foretells their punishment and resurrection before God, identifies
+    them as the party of the devil, and contrasts them with believers whose hearts
+    God has marked with faith and who will enter gardens with flowing rivers.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The notes describe Jews and hypocritical Moslems privately caballing against
+    Mohammed and making signs to one another when seeing true believers, despite being
+    forbidden.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The notes say public assemblies were to make room for the prophet and more
+    honorable companions, and discuss alms before private consultation with the apostle.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage says some people have taken as friends a people against whom God
+    is incensed.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The condemned people swear knowingly to lies and use oaths as a cloak.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage says their wealth and children will not avail them against God,
+    and that they will be inhabitants of hell fire forever.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: On a certain day God will raise them all, and they will swear to God as they
+    swear to people now.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Satan is said to have prevailed against them and caused them to forget the
+    remembrance of God.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Those who oppose God and his apostle are said to be placed among the most
+    vile.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Believers in God and the last day are described as not loving those who oppose
+    God and his apostle, even if they are close relatives.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: God is said to have written faith in believers' hearts, strengthened them
+    with his spirit, and promised them gardens beneath which rivers flow.
+  category: action
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: God
+  description: Divine actor who is incensed, prepares punishment, raises all on a
+    certain day, writes faith in hearts, strengthens believers with his spirit, and
+    leads them into gardens.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:7
+- id: fig:2
+  name_or_label: Those who take friends among people under divine anger
+  description: A condemned group described as swearing knowingly to lies, using oaths
+    as a cloak, turning men from God's way, and destined for punishment.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: People against whom God is incensed
+  description: A people whom the condemned group has taken as friends.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Satan
+  description: A being said to have prevailed against the condemned group and caused
+    them to forget the remembrance of God.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Party of the devil
+  description: The group associated with Satan and doomed to perdition.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: God's apostle
+  description: The apostle of God, opposition to whom is paired with opposition to
+    God.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: fig:7
+  name_or_label: Believers in God and the last day
+  description: People who do not love opponents of God and his apostle; God has written
+    faith in their hearts and will lead them into gardens.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:7
+- id: fig:8
+  name_or_label: Party of God
+  description: The prospering group identified with those in whom God has written
+    faith.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: divine judge
+  assigned_to:
+  - fig:1
+  basis: God prepares punishment, raises all on a certain day, and determines the
+    fate of opposing and believing groups.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:7
+- id: role:2
+  label: divine benefactor of believers
+  assigned_to:
+  - fig:1
+  basis: God writes faith in hearts, strengthens believers with his spirit, and leads
+    them into gardens with rivers.
+  evidence_refs:
+  - ev:7
+- id: role:3
+  label: condemned opponents
+  assigned_to:
+  - fig:2
+  - fig:5
+  basis: They are described as liars, users of oaths as a cloak, party of the devil,
+    and destined for hell fire or perdition.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:4
+  label: forbidden allies
+  assigned_to:
+  - fig:3
+  basis: They are the people against whom God is incensed and whom the condemned group
+    has taken as friends.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: tempter or adversarial influence
+  assigned_to:
+  - fig:4
+  basis: Satan prevails against the condemned group and makes them forget God's remembrance.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: divine apostle
+  assigned_to:
+  - fig:6
+  basis: The apostle is paired with God as one whom opponents oppose and whom believers
+    do not reject in favor of hostile kinship ties.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:7
+  label: faithful rewarded group
+  assigned_to:
+  - fig:7
+  - fig:8
+  basis: They are described as having faith written in their hearts, receiving divine
+    strengthening, entering gardens with rivers, and prospering.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: oaths as a cloak
+  literal_form: oaths used as a cloak
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: hell fire
+  literal_form: hell fire
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: raising on a certain day
+  literal_form: God raising all on a certain day
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: faith written in hearts
+  literal_form: faith written in the hearts of believers
+  associated_figures:
+  - fig:1
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:5
+  label: gardens with rivers
+  literal_form: gardens beneath which rivers flow
+  associated_figures:
+  - fig:1
+  - fig:7
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: opposed parties
+  literal_form: party of the devil and party of God
+  associated_figures:
+  - fig:5
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:7
+scenes:
+- id: scene:1
+  label: Private caballing and public assembly conduct in translator notes
+  summary: The notes describe private caballing and signs against Mohammed and true
+    believers, altered greetings, and rules for making space in assemblies and giving
+    alms before private consultation.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Condemnation of false allies and oath-makers
+  summary: A group that has befriended people under divine anger is accused of lying
+    oaths, using oaths as a cloak, turning others from God's way, and facing shameful
+    punishment and hell fire.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Raising and renewed false swearing before God
+  summary: On a certain day God raises the condemned, who swear to him as they swore
+    to people, imagining that it will help them.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Party of the devil doomed to perdition
+  summary: Satan prevails against the condemned, causes them to forget God's remembrance,
+    and they are called the party of the devil and doomed to perdition.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Believers identified as party of God
+  summary: Believers in God and the last day reject love for opponents of God and
+    his apostle, even among close kin; God writes faith in their hearts, strengthens
+    them, and leads them into gardens with rivers.
+  figure_refs:
+  - fig:1
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: divine judgment of false oath-makers
+  taxonomy_refs:
+  - divine_judgment
+  basis: God prepares grievous and shameful punishment for those who knowingly swear
+    lies, use oaths as a cloak, and turn people from God's way.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The motif is identified at passage level from explicit judgment language;
+    no broader narrative context is inferred.
+- id: motif:2
+  label: resurrection for judgment
+  taxonomy_refs:
+  - resurrection
+  - divine_judgment
+  basis: The passage says God will raise them all on a certain day, when they again
+    swear falsely before him.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage states raising and confrontation before God, but gives limited
+    procedural detail.
+- id: motif:3
+  label: opposed sacred and demonic parties
+  taxonomy_refs:
+  - duality
+  basis: The text contrasts the party of the devil, doomed to perdition, with the
+    party of God, which prospers.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  confidence: medium
+  cautions: The contrast is theological and communal; broader dualistic cosmology
+    should not be inferred beyond the stated opposition.
+- id: motif:4
+  label: afterlife punishment and reward
+  taxonomy_refs:
+  - divine_judgment
+  basis: The condemned abide in hell fire forever, while believers are led into gardens
+    beneath which rivers flow.
+  evidence_refs:
+  - ev:3
+  - ev:7
+  confidence: high
+  cautions: The available taxonomy lacks a specific paradise-garden motif; classification
+    is limited to judgment.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 35592-35599
+  quote_or_summary: 'Translator note: Jews and hypocritical Moslems privately caballed
+    against Mohammed, made signs to one another when seeing true believers, and used
+    an altered greeting implying mischief.'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summary generated from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 35600-35610
+  quote_or_summary: 'Translator notes: Moslems are commanded to make room in public
+    assemblies for the prophet and honorable companions, and alms before private consultation
+    with the apostle are discussed as a temporary or abrogated instruction.'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summary generated from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 35614-35625
+  quote_or_summary: Those who take as friends a people under God's anger are said
+    to swear lies knowingly, use oaths as a cloak, turn men from God's way, and face
+    punishment; wealth and children will not avail them, and they will abide in hell
+    fire forever.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summary generated from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 35626-35628
+  quote_or_summary: On a certain day God will raise them all, and they will swear
+    to him as they swear now, imagining it will serve them.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summary generated from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 35629-35632
+  quote_or_summary: Satan has prevailed against them and made them forget God's remembrance;
+    they are called the party of the devil and doomed to perdition.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summary generated from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 35633-35635
+  quote_or_summary: Those who oppose God and his apostle will be placed among the
+    most vile; God states that he and his apostles will prevail.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summary generated from supplied passage.
+- id: ev:7
+  type: summary
+  locator: lines 35636-35638
+  quote_or_summary: Believers in God and the last day do not love opponents of God
+    and his apostle, even among close relatives; God has written faith in their hearts,
+    strengthened them with his spirit, and will lead them into gardens beneath which
+    rivers flow; they are the party of God and will prosper.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summary generated from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based only on the supplied English passage and translator notes.
+    Motif labels use available taxonomy where directly supported; comparison claims
+    are omitted because the passage does not itself make cross-textual comparisons.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No external sources or unstated chapter context were used.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l35592-l35638
+  passage_sha256=117c45294dce4187429e9bf013f95eb8a0f7b50297909b3754f767d3005e5ef8

@@ -1,0 +1,329 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l39207-l39250
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: IN THE NAME OF THE MOST MERCIFUL GOD. / CHAPTER CVI. / ENTITLED, KOREISH;
+    REVEALED AT MECCA. / IN THE NAME OF THE MOST MERCIFUL GOD.; lines 39207-39250
+  start: '39207'
+  end: '39250'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: let them serve the LORD of this house; who supplieth them with food against
+    hunger, and hath rendered them secure from fear.
+  summary: Chapter CVI addresses the tribe of Koreish, mentions their uniting and
+    their winter and summer merchant caravans, and exhorts them to serve the Lord
+    of the house, who provides food and security. Sale's notes discuss links to the
+    preceding chapter, the ancestry of Koreish, and Hshem's institution of two yearly
+    caravans.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The chapter concerns the uniting of the tribe of Koreish.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Koreish are associated with sending out a caravan of merchants and purveyors
+    in winter and summer.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage exhorts them to serve the Lord of this house.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Lord is described as supplying them with food against hunger.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The Lord is described as rendering them secure from fear.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Sale's note reports an interpretation that the preceding chapter's destruction
+    of Abraha's army was for the uniting of the Koreish.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: 'Sale''s note says Hshem first appointed the two yearly caravans: one in winter
+    for Yaman and one in summer for Syria.'
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Koreish
+  description: The tribe addressed by the chapter; Sale's note identifies them as
+    a noble Arabian tribe and as the posterity of Fehr.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Lord of this house
+  description: The divine figure whom the Koreish are told to serve, described as
+    providing food and security.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Hshem
+  description: Sale's note identifies Hshem as the great-grandfather of Mohammed and
+    says he first appointed the two yearly caravans.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Abraha's army
+  description: Mentioned in Sale's note as the army destroyed in the preceding chapter,
+    according to one interpretation connected with the uniting of Koreish.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: united tribe
+  assigned_to:
+  - fig:1
+  basis: The text speaks of the uniting of the tribe of Koreish.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: divine provider
+  assigned_to:
+  - fig:2
+  basis: The Lord is said to supply food against hunger.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: divine protector
+  assigned_to:
+  - fig:2
+  basis: The Lord is said to render them secure from fear.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: worshiping community
+  assigned_to:
+  - fig:1
+  basis: The passage exhorts the Koreish to serve the Lord of this house.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: institutional founder of caravans
+  assigned_to:
+  - fig:3
+  basis: Sale's note says Hshem first appointed the two yearly caravans.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: defeated hostile army in commentary
+  assigned_to:
+  - fig:4
+  basis: Sale's note mentions the destruction of the army of Abraha in relation to
+    an interpretation of the chapter.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: the house
+  literal_form: '"this house"'
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: seasonal caravans
+  literal_form: caravan of merchants and purveyors in winter and summer
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:3
+  label: food against hunger
+  literal_form: food supplied against hunger
+  associated_figures:
+  - fig:2
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: security from fear
+  literal_form: being rendered secure from fear
+  associated_figures:
+  - fig:2
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Uniting and seasonal caravans of Koreish
+  summary: The chapter introduces the uniting of Koreish and their sending out of
+    merchant caravans in winter and summer.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Exhortation to serve the Lord of the house
+  summary: The Koreish are told to serve the Lord of this house, who supplies food
+    and secures them from fear.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Commentarial explanation of the caravans
+  summary: Sale's note explains that Hshem appointed two yearly caravans, one in winter
+    to Yaman and one in summer to Syria.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Commentarial link to Abraha's army
+  summary: Sale's note records an interpretation connecting the chapter with the preceding
+    chapter, in which God destroyed Abraha's army for the uniting of Koreish.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Divine provision and protection of a community
+  taxonomy_refs: []
+  basis: The passage describes the Lord as supplying food against hunger and rendering
+    the community secure from fear.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage states provision and security directly; no broader narrative
+    development is present in this short chapter.
+- id: motif:2
+  label: Sacred service in response to divine benefaction
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The exhortation to serve the Lord of the house is paired with divine acts
+    of feeding and securing the people.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The text does not present a formal bargain or covenant; the exchange-like
+    reading is inferred from the juxtaposition of service and benefaction.
+- id: motif:3
+  label: Seasonal cycle of trade journeys
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The chapter and note describe recurring winter and summer caravans, with
+    destinations specified in the note.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: medium
+  cautions: This is a historical or economic seasonal pattern rather than an explicit
+    mythic cycle of seasonal death, renewal, or cosmic order.
+- id: motif:4
+  label: Communal unification associated with divine deliverance
+  taxonomy_refs: []
+  basis: Sale's note reports an interpretation that God's destruction of Abraha's
+    army in the preceding chapter was for the uniting of Koreish.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: This motif depends on Sale's reported commentary rather than on the short
+    chapter text alone.
+comparison_claims:
+- id: claim:1
+  claim: Sale's note records a cautious intratextual connection between this chapter
+    and the preceding chapter, interpreting the destruction of Abraha's army as serving
+    the uniting of Koreish.
+  claim_level: same_function
+  target: preceding chapter's Abraha army episode
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim is reported as one interpretive option among others; it is
+    not asserted as the only reading.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 39207-39250, Chapter CVI opening verses
+  quote_or_summary: The text refers to "the uniting of the tribe of Koreish" and to
+    their caravan of merchants and purveyors "in winter and summer."
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:2
+  type: quote
+  locator: lines 39207-39250, Chapter CVI closing verses
+  quote_or_summary: 'The text says: "let them serve the LORD of this house; who supplieth
+    them with food against hunger, and hath rendered them secure from fear."'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:3
+  type: summary
+  locator: lines 39207-39250, Sale note q
+  quote_or_summary: Sale's note says some connect the chapter with the preceding chapter,
+    reading God's destruction of Abraha's army as being for the uniting of Koreish;
+    it also describes the Koreish as descendants of Fehr in the line of Ismael.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized for extraction evidence.
+- id: ev:4
+  type: summary
+  locator: lines 39207-39250, Sale note r
+  quote_or_summary: 'Sale''s note says Hshem, Mohammed''s great-grandfather, first
+    appointed the two yearly caravans: winter to Yaman and summer to Syria.'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized for extraction evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The basic figures and actions are explicit. Motif assignments are cautious
+    because the chapter is brief and some contextual details come from Sale's explanatory
+    notes. A stray note marked p about stones appears in the supplied line range but
+    belongs to adjacent material and was not used as central evidence for this chapter.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Extraction uses only the supplied passage and metadata. Commentary in Sale's notes is distinguished from the chapter text.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l39207-l39250
+  passage_sha256=7dae75b511ea758322e16da1855e67d189d5dfd7b1986fa817c2e4e534ee6d69

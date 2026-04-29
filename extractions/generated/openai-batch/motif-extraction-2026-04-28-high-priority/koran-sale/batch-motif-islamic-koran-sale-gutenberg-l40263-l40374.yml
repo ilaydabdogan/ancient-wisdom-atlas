@@ -1,0 +1,609 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l40263-l40374
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: IN THE NAME OF THE MOST MERCIFUL GOD. / FINIS / AN INDEX / OF THE; lines
+    40263-40374
+  start: '40263'
+  end: '40374'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: An alphabetical index segment lists topics and cross-references from Rafe
+    to swine's flesh. It includes entries on resurrection, judgment, repentance, Moses,
+    Sinai, Solomon, Satan, the serpent, paradise, hell, and related figures or events.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The index states that resurrection is asserted and described, that signs of
+    its approach are given, and that its time is known to God alone.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage identifies the day of separation and the striking as names or
+    epithets of the last day or day of judgment, and mentions smoke preceding the
+    day of judgment.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage states that Moses produced water from a rock.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage states that seventy Israelites demanded to see God, were killed
+    by lightning, and were restored to life at Moses' prayer.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage states that Mount Sinai was lifted over the Israelites and that
+    the souls of all prophets were present at the delivery of the law to Moses there.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The passage states that Satan was punished for seducing the first parents
+    and that the serpent received a sentence for assisting in the seduction of man.
+  category: relationship
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: obs:7
+  text: The passage states that Solomon succeeded David, had power over the winds,
+    was deprived of his signet and kingdom for some days, and had his death concealed
+    for a year.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:8
+  text: The passage states that Sakhar, a devil, got Solomon's signet and reigned
+    in his stead before being punished.
+  category: sequence
+  evidence_refs:
+  - ev:9
+- id: obs:9
+  text: The passage states that Sheddad, son of Ad, made a garden in imitation of
+    paradise and was destroyed while going to view it.
+  category: sequence
+  evidence_refs:
+  - ev:10
+- id: obs:10
+  text: The passage identifies Salsabil as a fountain in paradise and Al Shira as
+    one of the names of hell.
+  category: object
+  evidence_refs:
+  - ev:11
+- id: obs:11
+  text: The passage states that Adam was cast down from paradise onto Serendib, where
+    the print of his foot is shown on a mountain.
+  category: setting
+  evidence_refs:
+  - ev:12
+- id: obs:12
+  text: The passage states that Shem was raised to life by Jesus.
+  category: action
+  evidence_refs:
+  - ev:13
+figures:
+- id: fig:1
+  name_or_label: Moses
+  description: A figure associated with producing water from a rock, prayer that restores
+    Israelites to life, and receiving the law at Sinai.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Seventy Israelites
+  description: A group who demanded to see God, were killed by lightning, and were
+    restored to life at Moses' prayer.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: Solomon
+  description: Successor of David with power over the winds; he is linked to judgment,
+    loss of signet and kingdom, and concealed death.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:8
+- id: fig:4
+  name_or_label: Sakhar
+  description: A devil who gets Solomon's signet and reigns in his stead before punishment.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:9
+- id: fig:5
+  name_or_label: Satan
+  description: A figure punished for seducing the first parents and believed to assist
+    the Koreish.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: Serpent
+  description: A serpent sentenced for assisting in the seduction of man.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:7
+- id: fig:7
+  name_or_label: Adam
+  description: A figure cast down from paradise onto Serendib, with a footprint shown
+    on a mountain there.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:12
+- id: fig:8
+  name_or_label: Sheddad, son of Ad
+  description: A figure who makes a garden in imitation of paradise and is destroyed
+    while going to view it.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:10
+- id: fig:9
+  name_or_label: Jesus
+  description: A figure by whom Shem is raised to life.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:13
+- id: fig:10
+  name_or_label: Shem
+  description: A figure raised to life by Jesus.
+  role_refs:
+  - role:11
+  evidence_refs:
+  - ev:13
+roles:
+- id: role:1
+  label: miraculous water provider
+  assigned_to:
+  - fig:1
+  basis: The index says Moses produced water from a rock.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: intercessor at restoration to life
+  assigned_to:
+  - fig:1
+  basis: The seventy Israelites are restored to life at Moses' prayer.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: group killed and restored
+  assigned_to:
+  - fig:2
+  basis: They demand to see God, are killed by lightning, and are restored to life.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: kingly figure with wind power and concealed death
+  assigned_to:
+  - fig:3
+  basis: Solomon succeeds David, has power over winds, loses signet and kingdom for
+    some days, and has his death concealed for a year.
+  evidence_refs:
+  - ev:8
+- id: role:5
+  label: devil usurper
+  assigned_to:
+  - fig:4
+  basis: Sakhar gets Solomon's signet and reigns in his stead.
+  evidence_refs:
+  - ev:9
+- id: role:6
+  label: seducer of first parents
+  assigned_to:
+  - fig:5
+  basis: Satan is punished for seducing the first parents.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: assistant in human seduction
+  assigned_to:
+  - fig:6
+  basis: The serpent receives a sentence for assisting in the seduction of man.
+  evidence_refs:
+  - ev:7
+- id: role:8
+  label: cast down from paradise
+  assigned_to:
+  - fig:7
+  basis: Adam is said to have been cast down from paradise onto Serendib.
+  evidence_refs:
+  - ev:12
+- id: role:9
+  label: imitator of paradise destroyed before viewing it
+  assigned_to:
+  - fig:8
+  basis: Sheddad makes a garden in imitation of paradise and is destroyed in going
+    to view it.
+  evidence_refs:
+  - ev:10
+- id: role:10
+  label: raiser of the dead
+  assigned_to:
+  - fig:9
+  basis: Shem is raised to life by Jesus.
+  evidence_refs:
+  - ev:13
+- id: role:11
+  label: restored dead figure
+  assigned_to:
+  - fig:10
+  basis: Shem is described as raised to life by Jesus.
+  evidence_refs:
+  - ev:13
+symbols:
+- id: sym:1
+  label: water from rock
+  literal_form: Water produced from a rock by Moses
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: Sinai as lifted mountain
+  literal_form: Mount Sinai lifted over the Israelites
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: serpent in seduction
+  literal_form: Serpent sentenced for assisting in the seduction of man
+  associated_figures:
+  - fig:6
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:7
+- id: sym:4
+  label: Solomon's signet
+  literal_form: Signet obtained by Sakhar, with consequent reign in Solomon's stead
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: sym:5
+  label: fountain in paradise
+  literal_form: Salsabil, a fountain in paradise
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:11
+- id: sym:6
+  label: mountain footprint of Adam
+  literal_form: Print of Adam's foot shown on a mountain in Serendib
+  associated_figures:
+  - fig:7
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:12
+- id: sym:7
+  label: smoke before judgment
+  literal_form: Smoke preceding the day of judgment
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Resurrection and last-day signs
+  summary: The index groups resurrection with description, signs of approach, divine
+    knowledge of its time, and names or signs of the day of judgment.
+  figure_refs: []
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Moses produces water from rock
+  summary: Moses is associated with producing water from a rock.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Seventy Israelites killed and restored
+  summary: Seventy Israelites demand to see God, are killed by lightning, and are
+    restored to life at Moses' prayer.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Sinai lifted over Israel
+  summary: Mount Sinai is lifted over the Israelites, and the souls of all prophets
+    are present at the delivery of the law to Moses there.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Satan and serpent in seduction
+  summary: Satan is punished for seducing the first parents, and the serpent is sentenced
+    for assisting in the seduction of man.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:6
+  label: Solomon's signet and concealed death
+  summary: Solomon succeeds David, has power over winds, is deprived of signet and
+    kingdom for some days, and has his death concealed for a year; Sakhar gets the
+    signet and reigns in his stead.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: scene:7
+  label: Imitated paradise and destruction
+  summary: Sheddad makes a garden in imitation of paradise and is destroyed while
+    going to view it.
+  figure_refs:
+  - fig:8
+  symbol_refs: []
+  evidence_refs:
+  - ev:10
+- id: scene:8
+  label: Adam cast down to Serendib
+  summary: Adam is cast down from paradise to Serendib, where his footprint is shown
+    on a mountain.
+  figure_refs:
+  - fig:7
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:12
+- id: scene:9
+  label: Shem raised to life
+  summary: Shem is raised to life by Jesus.
+  figure_refs:
+  - fig:9
+  - fig:10
+  symbol_refs: []
+  evidence_refs:
+  - ev:13
+candidate_motifs:
+- id: motif:1
+  label: Resurrection and last judgment
+  taxonomy_refs:
+  - resurrection
+  - divine_judgment
+  basis: The index explicitly lists resurrection, signs of its approach, divine knowledge
+    of its time, and day-of-judgment terminology.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage is an index, so it summarizes other locations rather than
+    narrating the scenes directly.
+- id: motif:2
+  label: Miraculous water from rock
+  taxonomy_refs: []
+  basis: The passage states that Moses produced water from a rock.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: No supplied motif-family taxonomy directly names miraculous provision;
+    only the water symbol is available.
+- id: motif:3
+  label: Death and restoration to life
+  taxonomy_refs:
+  - death_rebirth
+  - resurrection
+  basis: Seventy Israelites are killed by lightning and restored to life at Moses'
+    prayer; Shem is also raised to life by Jesus.
+  evidence_refs:
+  - ev:4
+  - ev:13
+  confidence: high
+  cautions: The index gives compressed summaries without full narrative context.
+- id: motif:4
+  label: Sacred mountain and lawgiving setting
+  taxonomy_refs:
+  - cosmic_mountain
+  basis: Mount Sinai is lifted over the Israelites, and the souls of prophets are
+    present at the delivery of the law to Moses there.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The taxonomy reference is cautious because the passage identifies a sacred/lawgiving
+    mountain but does not call it a cosmic mountain.
+- id: motif:5
+  label: Serpent and seduction of humanity
+  taxonomy_refs:
+  - serpent
+  basis: The serpent is sentenced for assisting in the seduction of man, and Satan
+    is punished for seducing the first parents.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The passage is an index entry and does not provide narrative details beyond
+    the seduction and punishment.
+- id: motif:6
+  label: Demonic usurpation through royal signet
+  taxonomy_refs:
+  - trickster_boundary
+  basis: Sakhar, a devil, gets Solomon's signet and reigns in his stead; Solomon is
+    deprived of signet and kingdom for some days.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  confidence: medium
+  cautions: The passage does not explicitly state theft or deception in the Sakhar
+    entry; the trickster-boundary taxonomy is tentative.
+- id: motif:7
+  label: False or imitated paradise punished
+  taxonomy_refs:
+  - divine_judgment
+  basis: Sheddad makes a garden in imitation of paradise and is destroyed while going
+    to view it.
+  evidence_refs:
+  - ev:10
+  confidence: medium
+  cautions: The agent of destruction and full cause are not specified in the index
+    entry.
+- id: motif:8
+  label: Fall or descent from paradise
+  taxonomy_refs:
+  - departure
+  basis: Adam is described as cast down from paradise onto Serendib.
+  evidence_refs:
+  - ev:12
+  confidence: medium
+  cautions: The passage provides only an index summary and does not narrate the cause
+    or sequence of the descent.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 40280-40281
+  quote_or_summary: Resurrection is asserted and described; signs of its approach
+    are noted; its time is known to God alone.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 40316, 40335, 40369
+  quote_or_summary: Separation is named as a day of judgment title; smoke precedes
+    the day of judgment; striking is an epithet of the last day.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: line 40292
+  quote_or_summary: "“Rock, whence Moses produced water”"
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:4
+  type: summary
+  locator: lines 40320-40321
+  quote_or_summary: Seventy Israelites demand to see God, are killed by lightning,
+    and are restored to life at Moses' prayer.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 40342-40343
+  quote_or_summary: Mount Sinai is lifted over the Israelites; the souls of all prophets
+    are present at the delivery of the law to Moses there.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 40311-40312
+  quote_or_summary: Satan is punished for seducing the first parents and is believed
+    to assist the Koreish.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: line 40319
+  quote_or_summary: The serpent receives a sentence for assisting in the seduction
+    of man.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 40357-40363
+  quote_or_summary: Solomon succeeds David, has power over winds, is linked with judgments
+    and the queen of Saba, is deprived of his signet and kingdom for some days, and
+    has his death concealed for a year.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 40301-40302
+  quote_or_summary: Sakhar, a devil, gets Solomon's signet, reigns in his stead, and
+    is punished.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: lines 40328-40329
+  quote_or_summary: Sheddad, son of Ad, makes a garden in imitation of paradise and
+    is destroyed while going to view it.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:11
+  type: summary
+  locator: lines 40303, 40308
+  quote_or_summary: Salsabil is identified as a fountain in paradise; Al Shira is
+    identified as one of the names of hell.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:12
+  type: summary
+  locator: lines 40317-40318
+  quote_or_summary: Adam is cast down from paradise onto Serendib, where the print
+    of his foot is shown on a mountain.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:13
+  type: summary
+  locator: line 40333
+  quote_or_summary: Shem is raised to life by Jesus.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is an alphabetical index, so entries are compressed references
+    to other passages and notes. Motif candidates are based only on the index wording
+    and available taxonomy references.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not make explicit cross-traditional comparisons beyond index references.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l40263-l40374
+  passage_sha256=ae85149771de24ad617564e77de1c014d8437f31b62b5c4479d85de7ed0cfa19

@@ -1,0 +1,270 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l38723-l38779
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: IN THE NAME OF THE MOST MERCIFUL GOD. / CHAPTER XCV. / ENTITLED, THE FIG;
+    WHERE IT WAS REVEALED IS DISPUTED. / IN THE NAME OF THE MOST MERCIFUL GOD.; lines
+    38723-38779
+  start: '38723'
+  end: '38779'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Chapter XCV invokes the fig, the olive, Mount Sinai, and a secure territory;
+    it states that God created man in an excellent form, then rendered him low except
+    for believers who do righteous works, and asks why the day of judgment should
+    be denied when God is the most wise judge. A note reports commentator explanations
+    of the fig and olive as useful fruits or possibly holy-land mountains or temples.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage opens with an oath or invocation by the fig, the olive, Mount
+    Sinai, and a territory of security.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that man was created in a most excellent fabric.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage states that man was afterward rendered the vilest of the vile,
+    with an exception for those who believe and work righteousness.
+  category: sequence
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:4
+  text: Those who believe and work righteousness are said to receive an endless reward.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage refers to the day of judgment and calls God the most wise judge.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The translator's note says commentators understand the fig and olive as useful
+    fruits, while some instead identify the words with holy-land mountains or with
+    temples at Damascus and Jerusalem.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: God
+  description: The divine figure named as creator and as the most wise judge.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: man
+  description: Humanity described as created in an excellent fabric and afterward
+    rendered low.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: those who believe and work righteousness
+  description: A subgroup excepted from the vilest state and promised an endless reward.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: creator
+  assigned_to:
+  - fig:1
+  basis: The passage states that God created man of a most excellent fabric.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: wise judge
+  assigned_to:
+  - fig:1
+  basis: The passage asks whether God is not the most wise judge in connection with
+    the day of judgment.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: created humanity
+  assigned_to:
+  - fig:2
+  basis: Man is the object of creation and subsequent lowering in the passage.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: righteous reward recipients
+  assigned_to:
+  - fig:3
+  basis: Those who believe and work righteousness are excepted and promised an endless
+    reward.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: fig
+  literal_form: the fig
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: sym:2
+  label: olive
+  literal_form: the olive
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: sym:3
+  label: Mount Sinai
+  literal_form: mount Sinai
+  associated_figures: []
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: territory of security
+  literal_form: this territory of security
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:5
+  label: day of judgment
+  literal_form: the day of judgment
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Oath by sacred or marked places and fruits
+  summary: The passage invokes the fig, the olive, Mount Sinai, and a secure territory
+    before making statements about human creation and judgment.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Creation, lowering, and righteous exception
+  summary: Man is said to have been created in an excellent form, then rendered low,
+    except for believers who do righteous works and receive an endless reward.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Question of judgment
+  summary: The passage asks why the day of judgment should be denied and identifies
+    God as the most wise judge.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: divine judgment by a wise judge
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage explicitly names the day of judgment and calls God the most wise
+    judge.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage gives a brief doctrinal statement rather than an extended
+    judgment narrative.
+- id: motif:2
+  label: righteous rewarded after moral testing or distinction
+  taxonomy_refs: []
+  basis: The passage contrasts humanity's lowered state with believers who work righteousness
+    and receive an endless reward.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage does not narrate an individual trial; it states a moral distinction
+    in general terms.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 38723-38779
+  quote_or_summary: '"BY the fig, and the olive; and by mount Sinai, and this territory
+    of security"'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 38723-38779
+  quote_or_summary: '"verily we created man of a most excellent fabric; afterwards
+    we rendered him the vilest of the vile"'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 38723-38779
+  quote_or_summary: '"except those who believe, and work righteousness; for they shall
+    receive an endless reward"'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:4
+  type: quote
+  locator: lines 38723-38779
+  quote_or_summary: '"What, therefore, shall cause thee to deny the day of judgment
+    after this? Is not GOD the most wise judge?"'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:5
+  type: summary
+  locator: lines 38723-38779, note g
+  quote_or_summary: The translator's note reports commentator views that the fig and
+    olive are sworn by for their uses and virtues, and that some interpret them instead
+    as holy-land mountains or as the temples of Damascus and Jerusalem.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Main extraction is based on explicit wording in the supplied passage. Motif
+    assignment is limited to the available taxonomy and avoids unsupported broader
+    comparisons.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Footnotes c-f in the supplied passage appear to refer to preceding material and were not used for motif extraction because they are not directly tied to Chapter XCV in this excerpt.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l38723-l38779
+  passage_sha256=215db245513f9683574095e9ea5ce241c1c495d4b2cf45398edba1c7771dce10

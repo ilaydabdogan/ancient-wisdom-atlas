@@ -1,0 +1,430 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l38349-l38409
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: CHAPTER LXXXVII. / IN THE NAME OF THE MOST MERCIFUL GOD. / CHAPTER LXXXVIII.
+    / IN THE NAME OF THE MOST MERCIFUL GOD.; lines 38349-38409
+  start: '38349'
+  end: '38409'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: HATH the news of the overwhelming day of judgment reached thee?
+  summary: The passage describes the overwhelming day of judgment, contrasting cast-down
+    faces who suffer fire, boiling drink, and thorny food with joyful faces placed
+    in a lofty garden with a running fountain and prepared furnishings. It then calls
+    attention to created camels, raised heaven, fixed mountains, and extended earth,
+    and instructs the addressed figure to warn the people. Those who turn back and
+    disbelieve will receive greater punishment, return to God, and be brought to account.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage opens by asking whether news of the overwhelming day of judgment
+    has reached the addressed figure.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: On that day, some countenances are described as cast down, labouring, and
+    toiling.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The cast-down group is described as being cast into scorching fire, given
+    drink from a boiling fountain, and fed dry thorns and thistles that do not satisfy
+    hunger.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Other countenances are described as joyful and pleased with their past endeavor.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The joyful group is placed in a lofty garden containing no vain discourse,
+    a running fountain, raised beds, goblets, cushions, and carpets.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage asks its audience to consider camels, the heaven, mountains, and
+    the earth in relation to their created or arranged forms.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The addressed figure is instructed to warn the people and is described as
+    a warner only, not one empowered to act with authority over them.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Whoever turns back and disbelieves is said to be punished by God with the
+    greater punishment of the life to come.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The passage states that they will return to God and that bringing them to
+    account will be God's part.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: GOD
+  description: The divine speaker or agent who punishes the disbeliever, receives
+    the return of people, and brings them to account.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: Addressed warner
+  description: The figure addressed as 'thee' and instructed to warn the people without
+    authority over them.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:3
+  name_or_label: Cast-down countenances
+  description: Those whose faces are cast down on the day of judgment and who suffer
+    fire, boiling drink, and thorny food.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Joyful countenances
+  description: Those whose faces are joyful, who are pleased with past endeavor, and
+    who are placed in a lofty garden.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Whoever turns back and disbelieves
+  description: A person or group described as turning back and disbelieving, subject
+    to greater punishment in the life to come.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: divine judge and accountant
+  assigned_to:
+  - fig:1
+  basis: The passage says all return to God and that bringing them to account is God's
+    part.
+  evidence_refs:
+  - ev:7
+- id: role:2
+  label: divine punisher
+  assigned_to:
+  - fig:1
+  basis: God is said to punish the one who turns back and disbelieves with the greater
+    punishment of the life to come.
+  evidence_refs:
+  - ev:6
+- id: role:3
+  label: warner
+  assigned_to:
+  - fig:2
+  basis: The addressed figure is told to warn the people and is called a warner only.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: punished disbeliever or condemned group
+  assigned_to:
+  - fig:3
+  - fig:5
+  basis: The cast-down group suffers fire, boiling drink, and thorny food; the one
+    who turns back and disbelieves receives greater punishment.
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: role:5
+  label: rewarded group
+  assigned_to:
+  - fig:4
+  basis: The joyful group is pleased with past endeavor and placed in a lofty garden.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: scorching fire
+  literal_form: scorching fire into which the cast-down group is cast
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: boiling fountain
+  literal_form: boiling fountain given as drink to the cast-down group
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: dry thorns and thistles
+  literal_form: dry thorns and thistles used as food that neither fatten nor satisfy
+    hunger
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: lofty garden
+  literal_form: lofty garden where the joyful group is placed
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: running fountain
+  literal_form: running fountain in the lofty garden
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: prepared furnishings of the garden
+  literal_form: raised beds, goblets, cushions, and carpets
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:7
+  label: camels
+  literal_form: camels considered in relation to how they are created
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:8
+  label: heaven raised
+  literal_form: the heaven considered in relation to how it is raised
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:9
+  label: fixed mountains
+  literal_form: mountains considered in relation to how they are fixed
+  associated_figures: []
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:4
+- id: sym:10
+  label: extended earth
+  literal_form: the earth considered in relation to how it is extended
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Question about the overwhelming day
+  summary: The passage names the overwhelming day of judgment and asks whether its
+    news has reached the addressed figure.
+  figure_refs:
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Punishment of cast-down faces
+  summary: Some faces on the judgment day are cast down, labouring and toiling, and
+    are subjected to fire, boiling drink, and unsatisfying thorny food.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Reward of joyful faces
+  summary: Other faces are joyful and pleased with past endeavor, and they are placed
+    in a lofty garden with a running fountain and prepared furnishings.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Signs in creation
+  summary: The passage calls attention to camels, heaven, mountains, and earth as
+    objects of consideration.
+  figure_refs: []
+  symbol_refs:
+  - sym:7
+  - sym:8
+  - sym:9
+  - sym:10
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Warning, return, and account
+  summary: The addressed figure is told to warn without authority over the people;
+    those who turn back and disbelieve are punished by God, return to God, and are
+    brought to account.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: final divine judgment and accounting
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage names the day of judgment, describes punishment and reward, and
+    states that people return to God to be brought to account.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The extraction is limited to this passage's eschatological statements
+    and does not infer details beyond the stated judgment, punishment, reward, return,
+    and account.
+- id: motif:2
+  label: contrasting afterlife realms of punishment and reward
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The passage contrasts scorching fire, boiling drink, and thorny food with
+    a lofty garden, running fountain, and prepared furnishings.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage presents afterlife settings and fates but does not narrate
+    a journey through them.
+- id: motif:3
+  label: warning before judgment
+  taxonomy_refs:
+  - divine_judgment
+  basis: The addressed figure is instructed to warn the people, while the passage
+    states that disbelievers will be punished and brought to account.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The motif label is descriptive; no separate taxonomy item for warning
+    is supplied.
+- id: motif:4
+  label: contemplation of created signs
+  taxonomy_refs:
+  - wisdom
+  basis: The passage asks the audience to consider camels, heaven, mountains, and
+    earth in relation to their created or arranged forms.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The connection to the supplied wisdom motif family is interpretive and
+    based on the passage's call to consider created phenomena.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 38349-38409, opening of Chapter LXXXVIII
+  quote_or_summary: '"HATH the news of the overwhelming day of judgment reached thee?"'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 38349-38409, punishment description
+  quote_or_summary: Some faces on the day are cast down, labouring and toiling; they
+    are cast into scorching fire, drink from a boiling fountain, and have only dry
+    thorns and thistles that do not satisfy hunger.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 38349-38409, reward description around verse marker 10
+  quote_or_summary: Other faces are joyful and pleased with past endeavor; they are
+    placed in a lofty garden with no vain discourse, a running fountain, raised beds,
+    goblets, cushions, and carpets.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 38349-38409, created signs around verse markers 10-20
+  quote_or_summary: The passage asks whether they consider the camels and how they
+    are created, the heaven and how it is raised, the mountains and how they are fixed,
+    and the earth and how it is extended.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 38349-38409, warning instruction after verse marker 20
+  quote_or_summary: The addressed figure is told to warn the people, being only a
+    warner and not empowered to act with authority over them.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: lines 38349-38409, punishment of disbeliever
+  quote_or_summary: Whoever turns back and disbelieves will be punished by God with
+    the greater punishment of the life to come.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:7
+  type: quote
+  locator: lines 38349-38409, closing statement
+  quote_or_summary: '"Verily unto us shall they return: then shall it be our part
+    to bring them to account."'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short quotation used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is strong for the judgment, punishment, garden reward,
+    created signs, warning, return, and accounting. Motif assignments use only supplied
+    taxonomy refs; the afterlife-map and wisdom assignments are somewhat interpretive.
+    No comparison claims are made because the passage itself does not present a comparison
+    to another corpus or tradition.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Footnotes in the supplied passage were used only where they clarify literal referents already present in the passage; no external comparisons were added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l38349-l38409
+  passage_sha256=a538c9e746ce4fccbd6234202baddcd5b1a159d404f593b7728982e24b1cf80f

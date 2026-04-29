@@ -1,0 +1,348 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l37250-l37280
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: ENTITLED, THE GENII; REVEALED AT MECCA. / IN THE NAME OF THE MOST MERCIFUL
+    GOD. / CHAPTER LXXIII. / IN THE NAME OF THE MOST MERCIFUL GOD.; lines 37250-37280
+  start: '37250'
+  end: '37280'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Commentarial notes explain difficult Qur'anic precepts, the suitability
+    of night for meditation, prayer, and attentive reading of God's word, a polemical
+    alternative reading by Marracci, infernal punishments involving the tree al Zakkum
+    and corruption from the damned, the easing or abrogation of prolonged night devotion,
+    and the merit of good deeds performed during life.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage describes Qur'anic precepts as heavy and difficult for those obliged
+    to observe them, especially for the prophet responsible for his people observing
+    them.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The nighttime is described as especially suitable for meditation, prayer,
+    and distinct attentive reading of God's word because of the absence of distractions.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Marracci is reported as offering a sexualized Latin paraphrase of the night-season
+    explanation, which the note criticizes as ridicule.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Infernal food or punishment is described with thorns, thistles, the fruit
+    of the infernal tree al Zakkum, and corruption flowing from the bodies of the
+    damned.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: A later explanation says the obligation of night reading and prayer was made
+    easier because some Moslems watched the whole night until their legs and feet
+    swelled.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The commentators add that dedicating part of the night to devotion was abrogated
+    by the institution of five hours of prayer.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Good deeds done during one's lifetime are said to be more meritorious before
+    God than good deferred until death and ordered by will.
+  category: attribute
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: God
+  description: Divine figure whose word is read and in whose sight good deeds have
+    merit.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: fig:2
+  name_or_label: the prophet
+  description: The prophet is described as especially burdened by the precepts because
+    of his care that his people observe them.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Moslems observing night devotion
+  description: Some Moslems are described as spending the whole night in reading and
+    praying, standing and walking until their legs and feet swelled.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: the damned
+  description: Bodies of the damned are described as producing corruption associated
+    with infernal punishment.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Marracci
+  description: A commentator who is reported as giving a sexualized paraphrase of
+    the night-season explanation.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: commentators
+  description: Commentators are cited for explanations of night devotion and its abrogation
+    by five hours of prayer.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:5
+roles:
+- id: role:1
+  label: divine authority
+  assigned_to:
+  - fig:1
+  basis: God's word is the object of devotional reading, and merit is evaluated in
+    God's sight.
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: role:2
+  label: responsible prophet
+  assigned_to:
+  - fig:2
+  basis: The prophet is described as caring that his people observe the precepts.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: night devotees
+  assigned_to:
+  - fig:3
+  basis: Some Moslems keep night vigil in reading and prayer.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: damned sufferers
+  assigned_to:
+  - fig:4
+  basis: The damned are named in connection with infernal corruption.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: polemical interpreter
+  assigned_to:
+  - fig:5
+  basis: Marracci is reported as reinterpreting the passage in a sexualized way, criticized
+    by the note.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: exegetical authorities
+  assigned_to:
+  - fig:6
+  basis: Commentators supply explanations of nighttime devotion and abrogation.
+  evidence_refs:
+  - ev:2
+  - ev:5
+symbols:
+- id: sym:1
+  label: nighttime
+  literal_form: the nighttime or first hours of the night
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:2
+  label: God's word
+  literal_form: reading God's word distinctly and with attention
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: infernal tree al Zakkum
+  literal_form: the fruit of the infernal tree al Zakkum
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: thorns and thistles
+  literal_form: thorns and thistles
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: five hours of prayer
+  literal_form: the institution of the five hours of prayer
+  associated_figures:
+  - fig:3
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Night as devotional time
+  summary: The note explains night as a fitting time for meditation, prayer, and attentive
+    reading because distracting noise and objects are absent.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Infernal punishment imagery
+  summary: The note lists thorns, thistles, the fruit of al Zakkum, and corruption
+    from the damned as infernal elements.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Easing the night-vigil obligation
+  summary: The note says the duty of counting and spending night hours in reading
+    and prayer was made easier, after some Moslems kept vigil all night, and was later
+    considered abrogated by five hours of prayer.
+  figure_refs:
+  - fig:3
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: night vigil for prayer and sacred reading
+  taxonomy_refs:
+  - wisdom
+  basis: The passage presents night as the proper time for meditation, prayer, and
+    attentive reading of God's word, and describes believers keeping night vigil.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: medium
+  cautions: The taxonomy link to wisdom is broad; the passage is exegetical commentary
+    rather than a narrative myth.
+- id: motif:2
+  label: infernal punishment through dreadful food and corruption
+  taxonomy_refs:
+  - divine_judgment
+  basis: Infernal elements include thorns, thistles, fruit of the infernal tree al
+    Zakkum, and corruption flowing from the bodies of the damned.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage gives a brief explanatory note, not a full judgment scene.
+- id: motif:3
+  label: religious burden eased by later dispensation
+  taxonomy_refs:
+  - covenant
+  basis: The note describes a demanding devotional precept and an easing or abrogation
+    of the night-vigil requirement through the institution of five hours of prayer.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: medium
+  cautions: The covenant taxonomy fit is indirect; the passage frames this as legal
+    or devotional interpretation.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 37250-37253
+  quote_or_summary: The precepts in the Koran are described as heavy and difficult
+    for observers, especially the prophet, who must see that his people observe them.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 37254-37259
+  quote_or_summary: The note explains the night, especially early hours, as proper
+    for meditation, prayer, and attentive reading of God's word because distractions
+    are absent.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 37260-37267
+  quote_or_summary: Marracci is said to reinterpret the night-season explanation in
+    sexual terms, and the note criticizes this as a way to make the book ridiculous.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 37268-37270
+  quote_or_summary: '"As thorns and thistles, the fruit of the infernal tree al Zakkm,
+    and the corruption flowing from the bodies of the damned."'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short quotation.
+- id: ev:5
+  type: summary
+  locator: lines 37271-37277
+  quote_or_summary: The note says the obligation of counting night hours for reading
+    and prayer was made easy; some Moslems watched all night until their legs and
+    feet swelled, and commentators say this devotion was abrogated by the five hours
+    of prayer.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 37278-37280
+  quote_or_summary: Good done during life is said to be more meritorious before God
+    than good deferred until death and ordered by will.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward, but motif-family assignments are broad
+    because the passage is commentary rather than narrative myth. No comparison claims
+    were made because the passage does not itself support a comparative claim.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  The passage is primarily exegetical and polemical commentary; motifs are therefore recorded cautiously.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l37250-l37280
+  passage_sha256=a2c59ee941649b370dbb074d79cc51d5cdaca79b213dd22a2d5f556caf298e03
