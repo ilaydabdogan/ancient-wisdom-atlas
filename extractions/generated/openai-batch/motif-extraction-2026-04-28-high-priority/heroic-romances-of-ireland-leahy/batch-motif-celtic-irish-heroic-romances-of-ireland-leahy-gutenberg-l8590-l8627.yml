@@ -1,0 +1,285 @@
+---
+record_id: batch.motif.celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l8590-l8627
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+passage_locator:
+  label: PAGE 153 / END OF VOL. I. / VOL. II / PREFACE TO VOL. II; lines 8590-8627
+  start: '8590'
+  end: '8627'
+  translation: Heroic Romances of Ireland
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: Banba is one of the names of Ireland.
+  summary: The passage gives a note that Banba is one of Ireland's names, then opens
+    the preface to Volume II. The preface explains that shorter tales, called lesser
+    Tains or remscela, customarily preceded recital of the Great Tain. It lists preserved
+    and lost lesser Tains, identifies five edited tales included in the volume, describes
+    their verse and prose presentation, and notes that some appear to lead up to the
+    Great Tain. It also mentions a possible variant in the Tain bo Flidais in which
+    Cuchulain is defeated and Connaught gains his land for allies.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Banba is stated to be one of the names of Ireland.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The preface states that ancient Ireland appears to have had a custom of preceding
+    the recital of the Great Tain with shorter stories.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Great Tain is described as the central story of the Irish Heroic Age.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A list of fourteen lesser Tains is mentioned, with three said to be lost and
+    eleven preserved titles named.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: 'Five lesser Tains are identified as edited and included in the volume: Dartada,
+    Flidais, Fraich, Regamon, and Regamna.'
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The last four tales are described as short and perhaps more truly preludes,
+    or remscela, than the Tain bo Fraich.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The Tain bo Fraich is described as having enough interest to be independent
+    and as being as long as the other four tales together.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: All five tales are said to have been rendered into verse with a prose literal
+    translation opposite the verse rendering.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Each tale is said to have a short introduction describing manuscript authority
+    prefixed to it.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The tales are said to appear to have been put into their present form later
+    than the Great Tain in order to lead up to it.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: The end of the Tain bo Flidais is described as a possible exception because
+    it seems to give a different account of the end of the war of Cualgne.
+  category: relationship
+  evidence_refs:
+  - ev:8
+- id: obs:12
+  text: The Tain bo Flidais is said to seem to claim that Cuchulain was defeated and
+    that Connaught gained his land for its allies.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:13
+  text: The last four tales are said to be expressly stated in the text to be remscela
+    to the Great Tain.
+  category: relationship
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Banba
+  description: Named as one of the names of Ireland.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Ireland
+  description: A place or country for which Banba is given as one name; ancient Ireland
+    is also the setting of the stated recital custom.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Cuchulain
+  description: Named in a reported variant account as defeated.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:8
+- id: fig:4
+  name_or_label: Connaught
+  description: Named in a reported variant account as gaining Cuchulain's land for
+    its allies.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: alternate name of Ireland
+  assigned_to:
+  - fig:1
+  basis: The passage states that Banba is one of the names of Ireland.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: named country and cultural setting
+  assigned_to:
+  - fig:2
+  basis: Ireland is named through Banba and ancient Ireland is cited as the setting
+    for the recital custom.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: defeated named hero in reported variant account
+  assigned_to:
+  - fig:3
+  basis: The preface says the Tain bo Flidais seems to claim that Cuchulain was defeated.
+  evidence_refs:
+  - ev:8
+- id: role:4
+  label: land-gaining polity in reported variant account
+  assigned_to:
+  - fig:4
+  basis: The preface says Connaught gained Cuchulain's land for its allies.
+  evidence_refs:
+  - ev:8
+symbols: []
+scenes:
+- id: scene:1
+  label: Reported variant ending of the war of Cualgne
+  summary: The preface reports that the end of the Tain bo Flidais appears to give
+    a different ending to the war of Cualgne, claiming that Cuchulain was defeated
+    and Connaught gained his land for its allies.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Preludes leading to a central heroic narrative
+  taxonomy_refs: []
+  basis: The passage describes shorter stories or remscela as preceding and leading
+    up to the Great Tain, which is called the central story of the Irish Heroic Age.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:7
+  - ev:9
+  confidence: medium
+  cautions: This is primarily a literary-framing pattern described in a preface, not
+    a full narrative motif enacted within the passage.
+- id: motif:2
+  label: Variant defeat of a hero and transfer of land
+  taxonomy_refs: []
+  basis: The preface reports that the Tain bo Flidais seems to claim Cuchulain was
+    defeated and Connaught gained his land for its allies.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: The passage only summarizes a possible exception or variant account; it
+    does not narrate the episode directly.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 8590-8592
+  quote_or_summary: '"Banba is one of the names of Ireland."'
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 8598-8601
+  quote_or_summary: The preface says shorter stories customarily preceded recital
+    of the Great Tain, described as the central story of the Irish Heroic Age.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 8601-8606
+  quote_or_summary: A list of fourteen lesser Tains is cited; three are lost and the
+    preserved ones are named as Aingen, Dartada, Flidais, Fraich, Munad, Regamon,
+    Regamna, Ros, Ruanadh, Sailin, and Ere.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 8606-8608
+  quote_or_summary: 'Five edited tales are identified: Tain bo Dartada, Flidais, Fraich,
+    Regamon, and Regamna; the preface says all five are included in the volume.'
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 8610-8614
+  quote_or_summary: The last four tales are called short and perhaps more truly preludes,
+    or remscela, than Tain bo Fraich; Tain bo Fraich is described as interesting enough
+    to stand independently and as long as the other four together.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: lines 8614-8619
+  quote_or_summary: All five tales are said to be rendered in verse with facing prose
+    literal translation, and each has a short introduction describing manuscript authority.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:7
+  type: summary
+  locator: lines 8619-8622
+  quote_or_summary: The tales are said to seem to go back to a strong literary period,
+    but to have been put into their present form later than the Great Tain in order
+    to lead up to it.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:8
+  type: summary
+  locator: lines 8622-8626
+  quote_or_summary: The preface notes a possible exception at the end of the Tain
+    bo Flidais, which appears to give a different ending to the war of Cualgne and
+    to claim that Cuchulain was defeated and Connaught gained his land for its allies.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:9
+  type: quote
+  locator: lines 8626-8627
+  quote_or_summary: The last four tales are "expressly stated in the text to be 'remscela'
+    to the Great Tain."
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is mostly prefatory and bibliographic rather than narrative.
+    Extracted motif candidates are limited to explicitly stated literary framing and
+    a summarized variant outcome.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No taxonomy references were assigned because the passage does not directly support any provided motif-family or symbol taxonomy item.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:celtic-irish-heroic-romances-of-ireland-leahy-gutenberg__l8590-l8627
+  passage_sha256=c862a3e9259d808367eee8351b23b30c6481ced83d116447fe94e0e8bce245f9

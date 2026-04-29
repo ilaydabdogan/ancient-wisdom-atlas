@@ -1,0 +1,223 @@
+---
+record_id: batch.motif.celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l337-l414
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+passage_locator:
+  label: A. H. LEAHY / IN TWO VOLUMES / VOL. I / PREFACE; lines 337-414
+  start: '337'
+  end: '414'
+  translation: Heroic Romances of Ireland
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: |-
+    All the elves of Troom seem dead,
+    All their mighty deeds are fled;
+    For their Hound, who hounds surpassed,
+    Elves have bound in slumber fast.
+  summary: The preface describes the contents of the first volume, explains editorial
+    and translation methods for prose, verse, and rhetoric, discusses omitted and
+    included versions, and gives a short verse excerpt as an example of Irish metre
+    rendered in English.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The collection is presented as an attempt to render old Irish romances for
+    English readers in corresponding English literary forms.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The first part contains five named stories, described as being told in a characteristic
+    mixture of prose and verse.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage notes multiple versions for some tales, including two versions
+    of the Courtship of Etain and two independent versions underlying the Sick-bed
+    of Cuchulain.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A full translation of the Glenn Masain version of the Death of the Sons of
+    Usnach was omitted, but an extract was added to the Book of Leinster version for
+    comparison.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The translator states that the prose is nearly literal, with adjustments made
+    for English idiom, and that nothing was added except to fill a lacuna in one Etain
+    version.
+  category: other
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The passage discusses verse translation practices, including stanza form,
+    syllable counts, rhyme patterns, and selective reproduction of Irish metres.
+  category: other
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: obs:7
+  text: The quoted metrical example says that the elves of Troom seem dead, their
+    deeds are gone, and their Hound has been bound in deep slumber by elves.
+  category: action
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: elves of Troom
+  description: A collective group in the metrical example, described as seeming dead
+    and as having mighty deeds that are fled.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:8
+- id: fig:2
+  name_or_label: their Hound
+  description: A hound associated with the elves, described as surpassing other hounds
+    and being bound in slumber.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: collective supernatural group in verse example
+  assigned_to:
+  - fig:1
+  basis: The example names elves of Troom and attributes past deeds to them.
+  evidence_refs:
+  - ev:8
+- id: role:2
+  label: exceptional bound hound
+  assigned_to:
+  - fig:2
+  basis: The example calls the figure a Hound who surpassed hounds and says he was
+    bound in slumber.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: slumber binding
+  literal_form: a hound bound in slumber
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:2
+  label: elves
+  literal_form: elves of Troom
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Metrical example of elves and the Hound
+  summary: In the quoted example used to illustrate metre, the elves of Troom appear
+    diminished or dead, their deeds are gone, and their Hound is bound in slumber.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: supernatural hound bound in sleep
+  taxonomy_refs: []
+  basis: The only narrative-like image in the passage is the metrical example in which
+    an exceptional Hound is bound in slumber by elves.
+  evidence_refs:
+  - ev:8
+  confidence: low
+  cautions: This is a short metrical illustration in a preface, not a full narrative
+    episode; the surrounding passage does not explain the story context.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 337-340
+  quote_or_summary: The collection is described as an attempt to give English readers
+    old romances in English literary forms corresponding to Irish forms.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:2
+  type: summary
+  locator: 341-346
+  quote_or_summary: The first part contains five named stories, including Courtship
+    of Etain, Boar of Mac Datho, Sick-bed of Cuchulain, Death of the Sons of Usnach,
+    and Combat at the Ford.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:3
+  type: summary
+  locator: 346-349
+  quote_or_summary: The passage states that two versions of Courtship of Etain are
+    given and that Sick-bed of Cuchulain consists of two independent versions.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:4
+  type: summary
+  locator: 349-355
+  quote_or_summary: The Glenn Masain version of Death of the Sons of Usnach is not
+    fully translated, but an extract is added for comparison with the Book of Leinster
+    version.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:5
+  type: summary
+  locator: 355-368
+  quote_or_summary: The prose translation is described as nearly literal but adjusted
+    for English idiom; nothing is added except to fill a lacuna in the Leabhar na
+    h-Uidhri Etain.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:6
+  type: summary
+  locator: 368-389
+  quote_or_summary: The passage explains practices for verse and rhetoric translations,
+    including literal renderings in notes and a general use of four-line stanzas.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:7
+  type: summary
+  locator: 390-407
+  quote_or_summary: The preface describes Irish verse metres, rhyme systems, and when
+    these are reproduced or not reproduced in English.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:8
+  type: quote
+  locator: 409-414
+  quote_or_summary: All the elves of Troom seem dead, / All their mighty deeds are
+    fled; / For their Hound, who hounds surpassed, / Elves have bound in slumber fast.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; brief quotation from public domain text.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: high
+  notes: Most of the passage is editorial preface rather than mythic narrative. The
+    only motif-like content is a short verse example, so motif identification is necessarily
+    tentative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No taxonomy motif family was assigned because the passage does not clearly support one from the available list.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:celtic-irish-heroic-romances-of-ireland-leahy-gutenberg__l337-l414
+  passage_sha256=aaf9e822b306fecb5a9d9bc0117938b486107b21fee9dcb54e1ea44e9d842032

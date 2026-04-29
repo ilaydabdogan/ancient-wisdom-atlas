@@ -1,0 +1,268 @@
+---
+record_id: batch.motif.celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l6466-l6489
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+passage_locator:
+  label: THE COMBAT AT THE FORD / INTRODUCTION / THE COMBAT AT THE FORD / SPECIAL
+    NOTE; lines 6466-6489
+  start: '6466'
+  end: '6489'
+  translation: Heroic Romances of Ireland
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: The sentiment which gives reality and power to the situation is based upon
+    the strength of the tie of blood-brotherhood
+  summary: The note argues that the episode of Cuchulain's combat with Ferdiad depends
+    on the powerful tie of blood-brotherhood, set against old Irish heroic ideals
+    of personal honour and warrior pre-eminence. It proposes that the episode belonged
+    to an older redaction of the Tain, while also allowing that later storytellers
+    may have elaborated and modernised its beauty and pathos.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage discusses a contention that an older redaction would resemble
+    a younger one in emphasizing the chivalrous bearing of two opponents.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The situation is described as deriving its power from the strength of blood-brotherhood.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Blood-brotherhood is said to nearly balance the old Irish heroic ideal of
+    personal honour and warrior pre-eminence.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The tie of blood-brotherhood and its sentiment are described as pre-Christian
+    and as likely weakening during the historical period from about the fourth century
+    onward.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage identifies the episode as Cuchulain's combat with Ferdiad.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage argues that later storytellers would have been tempted to elaborate,
+    adorn, and modernise the episode because of its beauty, pathos, and climactic
+    artistry.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Cuchulain
+  description: Named participant in the combat episode.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:2
+  name_or_label: Ferdiad
+  description: Named participant in the combat episode with Cuchulain.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: two opponents
+  description: The two opponents are described as having chivalrous bearing in the
+    redactional comparison.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: story-telling class
+  description: Later storytellers are described as likely to elaborate, adorn, and
+    modernise the episode.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: combatant
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage names the episode as Cuchulain's combat with Ferdiad.
+  evidence_refs:
+  - ev:4
+- id: role:2
+  label: chivalrous opponent
+  assigned_to:
+  - fig:3
+  basis: The passage refers to the chivalrous bearing of the two opponents.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: blood-brotherhood participant
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage links the combat situation to the strong tie of blood-brotherhood
+    between the opponents; the named episode is Cuchulain's combat with Ferdiad.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:4
+  label: later elaborator
+  assigned_to:
+  - fig:4
+  basis: The passage says the story-telling class would be tempted to elaborate, adorn,
+    and modernise the episode.
+  evidence_refs:
+  - ev:5
+symbols: []
+scenes:
+- id: scene:1
+  label: Combat between blood-brothers framed by honour
+  summary: The passage summarizes the combat episode as a situation in which the tie
+    of blood-brotherhood is set against old Irish warrior honour and pre-eminence.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: scene:2
+  label: Redactional elaboration of a climactic episode
+  summary: The passage proposes that the episode existed in an older redaction but
+    that later storytellers probably elaborated and modernised it because of its beauty,
+    pathos, and climactic function.
+  figure_refs:
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: blood-brothers compelled into combat
+  taxonomy_refs:
+  - sibling_pair
+  basis: The passage presents the combat of Cuchulain and Ferdiad as powered by blood-brotherhood
+    while also involving warrior honour and opposition.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: 'The taxonomy reference is approximate: the passage describes blood-brotherhood
+    rather than biological siblings.'
+- id: motif:2
+  label: kinship loyalty opposed to heroic honour
+  taxonomy_refs: []
+  basis: The passage explicitly contrasts the tie of blood-brotherhood with the ideal
+    of personal honour and warrior pre-eminence.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is an abstract thematic pattern from the note, not a detailed narrative
+    scene in the supplied passage.
+- id: motif:3
+  label: later adornment of an older heroic episode
+  taxonomy_refs: []
+  basis: The passage argues that the episode likely existed in an older redaction
+    but was later elaborated, adorned, and modernised by storytellers.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: This is a redactional-literary pattern rather than a mythic narrative
+    motif.
+comparison_claims:
+- id: claim:1
+  claim: The note claims that the older redaction, if complete, would resemble the
+    younger redaction in its emphasis on the chivalrous bearing of the two opponents.
+  claim_level: same_function
+  target: older and younger redactions of the Tain episode
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim is presented as an argument about a lost or incomplete older
+    redaction, not as direct evidence from the older text.
+- id: claim:2
+  claim: The note contrasts a pre-Christian blood-brotherhood sentiment with the feelings,
+    customs, and literary conventions of a tenth- or eleventh-century storyteller,
+    arguing for the episode's older origin.
+  claim_level: common_inheritance
+  target: pre-Christian heroic tradition and later medieval Irish storytelling
+  evidence_refs:
+  - ev:3
+  - ev:4
+  counter_evidence_refs:
+  - ev:5
+  confidence: medium
+  limitations: The passage also allows for substantial later elaboration and modernisation,
+    limiting confidence in reconstructing the original form.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 6466-6469
+  quote_or_summary: The note says an older redaction, if complete, may have resembled
+    the younger one in emphasizing the chivalrous bearing of the two opponents.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: 6470-6475
+  quote_or_summary: The situation is based on the "strength of the tie of blood-brotherhood,"
+    which almost balances old Irish heroic personal honour and warrior pre-eminence.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: summary
+  locator: 6475-6478
+  quote_or_summary: The blood-brotherhood tie and the sentiment based on it are described
+    as pre-Christian and as losing rather than gaining strength from about the fourth
+    century onward.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: 6478-6484
+  quote_or_summary: The note refers to "Cuchulain's combat with Ferdiad" and argues
+    that it must have existed in the older redaction of the Tain because a tenth-
+    or eleventh-century storyteller would not have found such a situation in contemporary
+    conventions.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; short quotation with summary.
+- id: ev:5
+  type: summary
+  locator: 6484-6489
+  quote_or_summary: The passage says the episode's beauty, pathos, and role as an
+    artistic climax would tempt gifted storytellers to elaborate, adorn, modernise,
+    and depart from the original form.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is a scholarly note rather than the narrative episode itself,
+    so extracted motifs are based on its explicit description of the combat situation
+    and redactional argument.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No available symbol taxonomy item is directly present in the passage.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:celtic-irish-heroic-romances-of-ireland-leahy-gutenberg__l6466-l6489
+  passage_sha256=e9981025a47e80d04594e0279b7193bf5711f2fadb48c2794e23a50c8a7090e0

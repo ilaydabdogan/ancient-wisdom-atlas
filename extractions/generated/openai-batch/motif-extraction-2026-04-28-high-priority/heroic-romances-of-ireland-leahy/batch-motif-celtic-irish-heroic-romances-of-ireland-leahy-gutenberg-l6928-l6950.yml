@@ -1,0 +1,167 @@
+---
+record_id: batch.motif.celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l6928-l6950
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+passage_locator:
+  label: PAGE 25 / PAGE 26 / PAGE 27 / PAGE 28.; lines 6928-6950
+  start: '6928'
+  end: '6950'
+  translation: Heroic Romances of Ireland
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: '"He ascended."'
+  summary: The passage consists of translator or editor notes on several lines, giving
+    glosses and conjectures for phrases including an ascent or mounting on heights,
+    shoulder edges, light cast in every direction, obtaining a forfeit of a stake,
+    and uncertain readings such as “eager” and “easily stopped.”
+  language: English with Old Irish lexical notes
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A note glosses a phrase as “He ascended” and discusses a possible reading
+    meaning “mounted on the heights.”
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A note translates an Old Irish phrase as “to the edges of his two shoulders.”
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A note explains a phrase translated as “Casting their light on every side”
+    as meaning “in every direction.”
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A note glosses a conditional phrase about obtaining the forfeit of a stake.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Several notes discuss uncertain or conjectural lexical readings, including
+    “eager” and “easily stopped.”
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: unnamed male subject
+  description: The grammatical subject of the quoted phrase “He ascended.”
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: ascender
+  assigned_to:
+  - fig:1
+  basis: The quoted note says “He ascended,” with a possible interpretation as mounting
+    on heights.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: light cast in every direction
+  literal_form: light
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: stake and forfeit
+  literal_form: stake / forfeit
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: heights
+  literal_form: heights
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: ascent or mounting on heights
+  summary: A referenced line is glossed as an ascent, with a conjectural alternative
+    meaning mounting on heights.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:1
+candidate_motifs:
+- id: motif:1
+  label: ascent or mounting to heights
+  taxonomy_refs:
+  - ascent
+  basis: The note directly glosses the referenced phrase as “He ascended” and gives
+    a possible reading “mounted on the heights.”
+  evidence_refs:
+  - ev:1
+  confidence: low
+  cautions: This passage is an editorial note rather than a full narrative scene;
+    the surrounding story context is not included in the supplied passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 6928-6931
+  quote_or_summary: 'Line 23 notes: “He ascended,” with discussion of an unknown compound
+    and a possible reading “mounted on the heights.”'
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; short excerpt used for identification.
+- id: ev:2
+  type: summary
+  locator: lines 6933-6934
+  quote_or_summary: Line 29 gives an Old Irish phrase and translates it as reaching
+    to the edges of his two shoulders.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 6938-6939
+  quote_or_summary: Line 19 notes “Casting their light on every side” and explains
+    the phrase as “in every direction.”
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; short excerpt used for identification.
+- id: ev:4
+  type: summary
+  locator: lines 6941-6942
+  quote_or_summary: Line 25 explains a conditional phrase about obtaining the forfeit
+    of a stake and cites a lexical reference for the term.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 6944-6950
+  quote_or_summary: Lines 29-30 discuss uncertain or conjectural readings for “Eager”
+    and “Easily stopped,” with references to Bruiden da Derga and a note that one
+    conjecture lacks Strachan’s authority.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: The supplied passage is primarily philological commentary, so motif extraction
+    is limited and the ascent motif is only weakly supported without surrounding narrative
+    context.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not support comparison beyond the available ascent taxonomy reference.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:celtic-irish-heroic-romances-of-ireland-leahy-gutenberg__l6928-l6950
+  passage_sha256=a4d82d490e9d2af50e80806fcadeb7d6453bbbe00fc9bdf144b50541ac0696f4

@@ -1,0 +1,159 @@
+---
+record_id: batch.motif.celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l2706-l2716
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+passage_locator:
+  label: MAC DATHO'S BOAR / FROM THE BOOK OF LEINSTER (TWELFTH-CENTURY MS.) / THE
+    SICK-BED OF CUCHULAIN / INTRODUCTION; lines 2706-2716
+  start: '2706'
+  end: '2716'
+  translation: Heroic Romances of Ireland
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: The whole has been translated direct from the Irish in Irische Texte, vol.
+    i.
+  summary: 'The passage explains the translator''s source base and method: direct
+    translation from Irish in Irische Texte, consultation of the Leabhar na h-Uidhri
+    facsimile, marking doubtful words from Windisch, and occasional use of Thurneysen''s
+    translation while noting differences.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage states that the whole has been translated directly from the Irish
+    in Irische Texte, volume i.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that the facsimile of the Leabhar na h-Uidhri was occasionally
+    consulted.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Words marked as doubtful by Windisch in his glossary are indicated by question
+    marks in the notes.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A special note is made where Windisch gives no probable meaning, unless later
+    dictionaries include the word.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Thurneysen's translation is sometimes used when there is no other guide, but
+    the passage says he omits some passages and often translates freely.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Where Thurneysen and Windisch appear to differ, Windisch's glossary is followed
+    for the rendering.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Windisch
+  description: A scholar whose glossary marks doubtful words and gives renderings
+    followed in some cases.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Thurneysen
+  description: A translator whose translation is sometimes used, though the passage
+    says he omits some passages and often translates freely.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: glossary authority cited by translator
+  assigned_to:
+  - fig:1
+  basis: The passage describes Windisch's glossary as marking doubtful words and as
+    a source followed where renderings differ.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:2
+  label: translation source used conditionally
+  assigned_to:
+  - fig:2
+  basis: The passage says Thurneysen's translation has sometimes been used when there
+    is no other guide.
+  evidence_refs:
+  - ev:4
+symbols: []
+scenes:
+- id: scene:1
+  label: Editorial explanation of translation method
+  summary: The translator describes the textual sources, treatment of doubtful words,
+    and criteria for using or preferring scholarly translations and glossary renderings.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 2706-2707
+  quote_or_summary: '"translated direct from the Irish in Irische Texte, vol. i."'
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:2
+  type: summary
+  locator: lines 2707-2708
+  quote_or_summary: The translator occasionally refers to the facsimile of the Leabhar
+    na h-Uidhri.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 2708-2712
+  quote_or_summary: Words marked doubtful by Windisch in his glossary are marked with
+    question marks in notes; special notes are added where no probable meaning is
+    given, unless later dictionaries include the word.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 2712-2716
+  quote_or_summary: Thurneysen's translation is sometimes used where there is no other
+    guide; the passage notes omissions and free translation, and says Windisch's glossary
+    is followed where renderings seem to differ.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: This is an editorial and translation-method passage rather than a narrative
+    mythological episode; no motif, symbol, or comparison claims are supported by
+    the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Passage contains source-critical and translation notes only; available taxonomy references were not applied because no supported mythic motif or symbol appears.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:celtic-irish-heroic-romances-of-ireland-leahy-gutenberg__l2706-l2716
+  passage_sha256=94ae9dfa978e739eac1f0e6b2105385623f05b6d64854d09ae0d96767aff8e0b

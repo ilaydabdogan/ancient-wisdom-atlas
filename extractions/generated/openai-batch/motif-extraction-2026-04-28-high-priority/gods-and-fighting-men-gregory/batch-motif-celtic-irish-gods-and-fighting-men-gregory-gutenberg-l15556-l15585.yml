@@ -1,0 +1,135 @@
+---
+record_id: batch.motif.celtic-irish-gods-and-fighting-men-gregory-gutenberg-l15556-l15585
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+passage_locator:
+  label: I. THE APOLOGY / II. THE AGE AND ORIGIN OF THE STORIES OF THE FIANNA / III.
+    THE AUTHORITIES / PART ONE. BOOKS ONE, TWO, AND THREE; lines 15556-15585
+  start: '15556'
+  end: '15585'
+  translation: Gods and Fighting Men
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: THE COMING OF THE TUATHA DE DANAAN, AND LUGH OF THE LONG HAND, AND THE COMING
+    OF THE GAEL.
+  summary: The passage is a section heading for Part One, Books One, Two, and Three,
+    followed by a list of scholarly and manuscript authorities cited for the material.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage opens Part One, Books One, Two, and Three.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The section heading names the coming of the Tuatha De Danaan.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The section heading names Lugh with the epithet 'of the Long Hand.'
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The section heading names the coming of the Gael.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: The passage lists authorities including O'Curry, De Jubainville, Hennessy,
+    Atkinson, the Annals of the Four Masters, Nennius, Whitley Stokes, Nutt, Keating,
+    Curtin, and others.
+  category: other
+  evidence_refs:
+  - ev:2
+figures:
+- id: fig:1
+  name_or_label: Tuatha De Danaan
+  description: Named collective in the section heading, associated with a 'coming.'
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Lugh of the Long Hand
+  description: Named figure in the section heading, identified by the epithet 'of
+    the Long Hand.'
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: the Gael
+  description: Named collective in the section heading, associated with a 'coming.'
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: group whose coming is announced
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: The heading explicitly refers to 'the coming' of the Tuatha De Danaan and
+    'the coming' of the Gael.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: named figure with epithet
+  assigned_to:
+  - fig:2
+  basis: The heading names Lugh as 'Lugh of the Long Hand.'
+  evidence_refs:
+  - ev:1
+symbols: []
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: coming or arrival of named peoples or beings
+  taxonomy_refs: []
+  basis: The heading announces the coming of the Tuatha De Danaan and the coming of
+    the Gael.
+  evidence_refs:
+  - ev:1
+  confidence: low
+  cautions: The passage is a heading and bibliography, not a narrative episode; no
+    details of the arrivals are provided in this line range.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 15556-15560
+  quote_or_summary: PART ONE. BOOKS ONE, TWO, AND THREE / THE COMING OF THE TUATHA
+    DE DANAAN, AND LUGH OF THE LONG HAND, AND THE COMING OF THE GAEL.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 15561-15585
+  quote_or_summary: A bibliography of authorities is listed, including works by O'Curry,
+    De Jubainville, Hennessy, Atkinson, Nennius, Whitley Stokes, Nutt, Keating, Curtin,
+    and several journals, manuscript series, and collections.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: Extraction of heading and named figures is straightforward. Motif identification
+    is weak because the passage contains only a title and source list, with no narrative
+    development.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No symbols, narrative scenes, or comparison claims were extracted because the passage is primarily a section heading and bibliography.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:celtic-irish-gods-and-fighting-men-gregory-gutenberg__l15556-l15585
+  passage_sha256=542e4c8a185f220f741f5a38ba756358ba8dec27a1f0ec6e85b9b548eee5f727

@@ -1,0 +1,345 @@
+---
+record_id: batch.motif.celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l1995-l2030
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+passage_locator:
+  label: THE COURTSHIP OF ETAIN / LEABHAR NA H-UIDHRI VERSION / MAC DATHO'S BOAR /
+    INTRODUCTION; lines 1995-2030
+  start: '1995'
+  end: '2030'
+  translation: Heroic Romances of Ireland
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The introduction situates "Mac Datho's Boar" before the principal events
+    of the Heroic Period, identifies several named leaders and champions, describes
+    the textual basis in the Book of Leinster with some Harleian and Rawlinson readings,
+    and notes stylistic features and manuscript variations, including a single supernatural
+    variation in Rawlinson.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The tale is described as seeming to concern events before the principal events
+    of the Heroic Period.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Conor and Ailill are identified as leaders of Ulster and Connaught.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The king of Leinster in this tale is Mesroda Mac Datho, not Mesgegra.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The Ulster champion in this tale is Conall Cernach rather than Cuchulain.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: The translation follows the Book of Leinster text as printed by Windisch,
+    with some later Harleian readings where the Leinster text seemed untranslatable.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: A Rawlinson B. 512 version is described as slightly different but substantially
+    the Leinster version.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: The style of the tale is described as more barbaric than the other romances
+    but relieved by humour.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The passage states that the only supernatural touch occurs in one Rawlinson
+    manuscript variation.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: Curoi mac Dari is described as apparently a Munster hero whose prominence
+    was overshadowed by Ulster in accepted versions.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:10
+  text: Ferloga is mentioned in connection with a remark that he did not get his cepoc.
+  category: other
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Mesroda Mac Datho
+  description: Named as the king of Leinster in this tale.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Conor
+  description: Named as a usual leader of Ulster.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Ailill
+  description: Named as a usual leader of Connaught.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Mesgegra
+  description: Named as Mesroda Mac Datho's brother and as a figure appearing in the
+    "Siege of Howth," but not as the king of Leinster in this tale.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: Conall Cernach
+  description: Named as the Ulster champion and as Cuchulain's elder comrade.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:6
+  name_or_label: Cuchulain
+  description: Named as a figure who is not the Ulster champion in this tale.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+- id: fig:7
+  name_or_label: Curoi mac Dari
+  description: Described as seeming to have been a Munster hero and as overshadowed
+    in accepted versions by Ulster's superior glory.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:8
+  name_or_label: Ferloga
+  description: Mentioned in connection with a variant remark that he did not get his
+    cepoc.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: provincial leader
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: Conor and Ailill are identified as leaders of Ulster and Connaught.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: king of Leinster
+  assigned_to:
+  - fig:1
+  basis: Mesroda Mac Datho is named as the king of Leinster in the tale.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: Ulster champion
+  assigned_to:
+  - fig:5
+  basis: Conall Cernach is identified as the Ulster champion.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: elder comrade
+  assigned_to:
+  - fig:5
+  basis: Conall Cernach is described as Cuchulain's elder comrade.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: related or contrasting named figure
+  assigned_to:
+  - fig:4
+  - fig:6
+  - fig:8
+  basis: Mesgegra, Cuchulain, and Ferloga are mentioned in relation to the tale or
+    its variants rather than as principal figures in the introductory description.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:6
+  label: Munster hero
+  assigned_to:
+  - fig:7
+  basis: Curoi mac Dari is described as seeming to have been a Munster hero.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: Mac Datho's boar
+  literal_form: boar in the tale title
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: cepoc
+  literal_form: cepoc, an untranslated item or term mentioned in connection with Ferloga
+  associated_figures:
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Heroic-period placement and named leaders
+  summary: The introduction places the tale before the principal Heroic Period events
+    and identifies its relevant leaders and champions across Ulster, Connaught, and
+    Leinster.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Manuscript and variant framing
+  summary: The introduction explains the manuscript basis of the rendering and notes
+    differences among Leinster, Harleian, and Rawlinson materials, including verse
+    passages and a supernatural variation.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Notes on overshadowed and variant figures
+  summary: The introduction notes Curoi mac Dari as a Munster hero overshadowed by
+    Ulster in accepted versions and mentions a variant remark about Ferloga and his
+    cepoc.
+  figure_refs:
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Provincial heroic rivalry frame
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The passage frames the tale through named provincial leaders, a king of Leinster,
+    and an Ulster champion, suggesting a heroic-political setting among Irish provinces.
+  evidence_refs:
+  - ev:1
+  confidence: low
+  cautions: The passage is introductory and does not narrate an actual contest, succession,
+    or legitimating act; the taxonomy reference is only a broad fit.
+- id: motif:2
+  label: Regional hero overshadowed by dominant heroic tradition
+  taxonomy_refs:
+  - culture_hero
+  basis: Curoi mac Dari is described as a Munster hero whose prominence is overshadowed
+    in accepted versions by Ulster's superior glory.
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: This is a literary-historical observation about versions rather than a
+    fully narrated mythic motif in the passage.
+comparison_claims:
+- id: claim:1
+  claim: The introduction explicitly compares this tale's cast and chronology with
+    other Irish heroic romances, noting that many named characters appear as chief
+    actors elsewhere while this tale uses different figures for Leinster kingship
+    and Ulster championship.
+  claim_level: same_function
+  target: Other romances of the Irish Heroic Period, including the "Siege of Howth"
+    as named in the passage
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is limited to roles and textual placement; the passage
+    does not provide narrative episodes for deeper motif comparison.
+- id: claim:2
+  claim: The introduction contrasts the Rawlinson version of this tale with the case
+    of Etain by saying it is substantially the Leinster version and does not present
+    a different view of the story.
+  claim_level: same_function
+  target: Manuscript-version variation in the tale of Etain
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is a textual comparison, not a direct mythic-symbolic comparison.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1995-2003
+  quote_or_summary: The introduction says "Mac Datho's Boar" seems to precede the
+    principal Heroic Period events; Conor and Ailill are leaders of Ulster and Connaught;
+    Mesroda Mac Datho is king of Leinster rather than Mesgegra; Conall Cernach, not
+    Cuchulain, is the Ulster champion.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 2004-2016
+  quote_or_summary: The rendering follows the Book of Leinster text printed by Windisch,
+    with some Harleian readings; a Rawlinson B. 512 version is slightly different
+    but substantially the Leinster version and unlike Etain does not give a different
+    view of the story.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 2017-2027
+  quote_or_summary: The tale's style is called more barbaric than other romances but
+    relieved by humour; the only supernatural touch is said to occur in a Rawlinson
+    variation; Curoi mac Dari is described as a Munster hero overshadowed by Ulster
+    in accepted versions.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: lines 2027-2030
+  quote_or_summary: The passage mentions a remark that Ferloga did not get his cepoc
+    and suggests it may have been inserted by a later critic.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: medium
+  notes: The passage is an editorial introduction rather than a narrative episode,
+    so figure and textual observations are stronger than motif extraction.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No unsupported external details were added; taxonomy references are broad and low-confidence because the passage contains little narrated mythic action.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:celtic-irish-heroic-romances-of-ireland-leahy-gutenberg__l1995-l2030
+  passage_sha256=4e3de03d6bd85f2d7cc929f6aec6a468a4695f900ba22ffe95a35d476146d51c

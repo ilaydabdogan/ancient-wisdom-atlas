@@ -1,0 +1,515 @@
+---
+record_id: batch.motif.celtic-irish-tain-bo-cualnge-dunn-gutenberg-l8283-l8384
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+passage_locator:
+  label: THE SLAYING OF ORLAM / THE PROPOSALS / THE DEATH OF FORGEMEN / THE GREAT
+    ROUT ON THE PLAIN OF MURTHEMNE FOLLOWETH HERE BELOW; lines 8283-8384
+  start: '8283'
+  end: '8384'
+  translation: The Ancient Irish Epic Tale Tain Bo Cualnge
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: '"Three days and three nights," the young warrior made answer.'
+  summary: The youths of Ulster come from Emain Macha to aid Cuchulain while he sleeps
+    for three days and nights. They fight the opposing hosts and are slain, as is
+    Follomain after vowing to take Ailill's head and gold diadem. Cuchulain wakes,
+    hears the news from a young warrior from Faery, laments that he was absent, and
+    prepares with Laeg to avenge them using the scythed chariot.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Thrice fifty boys, described as sons of the kings of Ulster, came from Emain
+    Macha to help Cuchulain.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The youths offered three battles to the hosts; thrice their number fell, and
+    the youths also fell except Follomain.
+  category: sequence
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: obs:3
+  text: Follomain vowed not to return to Emain Macha until he brought Ailill's head
+    and the gold diadem on it.
+  category: speech
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:4
+  text: The two sons of Bethe son of Ban attacked and wounded Follomain, and he fell
+    by their hands.
+  category: action
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:5
+  text: Cuchulain remained in a heavy sleep for three days and three nights at the
+    Gravemound on the Slopes.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: After waking, Cuchulain asked how long he had slept and was told it had been
+    three days and three nights.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Cuchulain lamented that he had not been present in his strength, saying the
+    youths and Follomain would not have fallen.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The young warrior declined to remain with Cuchulain, saying that glory, honour,
+    and fame for deeds done in Cuchulain's company would fall to Cuchulain.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: The young warrior from Faery went away, and those present did not know what
+    way he had gone.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: Cuchulain asked Laeg to go with him to avenge the youths and to prepare the
+    scythed chariot if its equipment was available.
+  category: action
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Youths of Ulster
+  description: Thrice fifty boys, sons of the kings of Ulster, who came from Emain
+    Macha to help Cuchulain and were slain after fighting the hosts.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Follomain son of Conchobar
+  description: Conchobar's son, accompanying the youths; he vows to take Ailill's
+    head and gold diadem but is killed by the two sons of Bethe son of Ban.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Cuchulain
+  description: Hero who sleeps for three days and nights, wakes to learn of the youths'
+    deaths, laments his absence, and prepares to avenge them.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:9
+- id: fig:4
+  name_or_label: Young warrior from Faery
+  description: A young warrior who tells Cuchulain what happened during his sleep,
+    advises him to act alone, and departs mysteriously.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+  - ev:7
+  - ev:8
+- id: fig:5
+  name_or_label: Laeg
+  description: Cuchulain's companion addressed in the passage as Laeg; he agrees to
+    go with Cuchulain and is asked about readying the scythed chariot.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:9
+- id: fig:6
+  name_or_label: Ailill
+  description: King whose head and gold diadem Follomain vows to take; his diadem
+    had been entrusted to the two sons of Bethe son of Ban.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:7
+  name_or_label: Two sons of Bethe son of Ban
+  description: The two sons of Ailill's foster-mother and foster-father, entrusted
+    with Ailill's diadem; they attack and kill Follomain.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:8
+  name_or_label: The hosts
+  description: The opposing forces against whom the youths fight three battles and
+    whom Cuchulain intends to attack in vengeance.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:9
+roles:
+- id: role:1
+  label: fallen youthful auxiliaries
+  assigned_to:
+  - fig:1
+  basis: They come from Emain Macha to help Cuchulain, fight the hosts, and fall.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: leader or companion of the youths
+  assigned_to:
+  - fig:2
+  basis: The youths are described as accompanying Follomain, Conchobar's son.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: vow-maker and slain warrior
+  assigned_to:
+  - fig:2
+  basis: He vows to take Ailill's head and diadem before returning, but falls by the
+    hands of the two sons of Bethe son of Ban.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: sleeping hero
+  assigned_to:
+  - fig:3
+  basis: Cuchulain remains in a heavy sleep for three days and three nights while
+    the fighting occurs.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:5
+  label: avenger of slain allies
+  assigned_to:
+  - fig:3
+  basis: After learning of the deaths, Cuchulain says he and Laeg will avenge the
+    youths on the hosts.
+  evidence_refs:
+  - ev:6
+  - ev:9
+- id: role:6
+  label: otherworld informer and counselor
+  assigned_to:
+  - fig:4
+  basis: The young warrior reports what happened, tells Cuchulain to try his feats
+    alone, and is identified as from Faery before vanishing.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  - ev:8
+- id: role:7
+  label: companion and chariot-preparer
+  assigned_to:
+  - fig:5
+  basis: Laeg agrees to go with Cuchulain and is asked to make ready the scythed chariot.
+  evidence_refs:
+  - ev:9
+- id: role:8
+  label: enemy king and target of trophy vow
+  assigned_to:
+  - fig:6
+  basis: Follomain vows to carry off Ailill's head and the gold diadem on it.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:9
+  label: slayers and diadem guardians
+  assigned_to:
+  - fig:7
+  basis: They are said to have been entrusted with Ailill's diadem and to have killed
+    Follomain.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:10
+  label: opposing army
+  assigned_to:
+  - fig:8
+  basis: The youths offer battles to the hosts, and Cuchulain plans vengeance on the
+    hosts.
+  evidence_refs:
+  - ev:1
+  - ev:9
+symbols:
+- id: sym:1
+  label: gold diadem
+  literal_form: A gold diadem on Ailill's head, entrusted to the two sons of Bethe
+    son of Ban and named in Follomain's vow.
+  associated_figures:
+  - fig:2
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: Ailill's head as vowed trophy
+  literal_form: Ailill's head, which Follomain vows to bring with the gold diadem.
+  associated_figures:
+  - fig:2
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: three days and three nights
+  literal_form: The duration of Cuchulain's heavy sleep and the period during which
+    the youths fight.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: scythed chariot
+  literal_form: Cuchulain's scythed chariot, which he asks Laeg to ready for vengeance.
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:5
+  label: Gravemound on the Slopes
+  literal_form: The place where Cuchulain sleeps heavily for three days and three
+    nights.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: The youths of Ulster fight and fall
+  summary: Thrice fifty youths from Emain Macha come to aid Cuchulain, fight three
+    battles against the hosts, kill many, and are themselves slain except Follomain.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:8
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: scene:2
+  label: Follomain's vow and death
+  summary: Follomain vows not to return to Emain Macha until he takes Ailill's head
+    with its gold diadem, but the two sons of Bethe son of Ban attack him and he falls.
+  figure_refs:
+  - fig:2
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Cuchulain wakes and hears the report
+  summary: Cuchulain wakes after three days and nights at the Gravemound on the Slopes
+    and asks the young warrior how long he has slept and who attacked the hosts.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Cuchulain laments and receives counsel
+  summary: Cuchulain laments that he was not present in strength. The young warrior
+    says the deaths are no disgrace to him, declines to remain, and tells him to test
+    his arms alone against the hosts.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:5
+  label: The otherworld warrior departs and vengeance is prepared
+  summary: The young warrior from Faery vanishes, and Cuchulain asks Laeg to go with
+    him to avenge the youths and prepare the scythed chariot if possible.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:8
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: slaughtered band of youthful allies
+  taxonomy_refs: []
+  basis: A group of noble youths comes to aid the absent hero, fights multiple battles,
+    and is slain.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: The passage frames the event as a massacre, but it does not describe ritual
+    sacrifice or a formal initiation.
+- id: motif:2
+  label: hero asleep while allies die
+  taxonomy_refs: []
+  basis: Cuchulain sleeps for three days and three nights while the youths fight and
+    fall, then wakes and laments his absence.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage gives the sleep literally; it does not explain its cause within
+    this excerpt.
+- id: motif:3
+  label: martial vow to return only with enemy's head and regalia
+  taxonomy_refs: []
+  basis: Follomain vows not to return to Emain Macha until he brings Ailill's head
+    with the gold diadem on it.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage presents the vow and its failure, but does not state a wider
+    political or ritual meaning for the diadem.
+- id: motif:4
+  label: otherworld warrior counselor who vanishes
+  taxonomy_refs: []
+  basis: A young warrior from Faery reports events to Cuchulain, advises him to act
+    alone, and leaves by an unknown way.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The passage identifies him as from Faery but gives no name or further
+    nature here.
+- id: motif:5
+  label: vengeance preparation with war chariot
+  taxonomy_refs: []
+  basis: After hearing of the youths' deaths, Cuchulain asks Laeg to accompany him
+    in vengeance and to ready the scythed chariot.
+  evidence_refs:
+  - ev:9
+  confidence: medium
+  cautions: The excerpt ends before the vengeance action itself occurs.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8283-8291
+  quote_or_summary: 'The youths come from Emain Macha to help Cuchulain: thrice fifty
+    boys, sons of kings of Ulster, accompanying Follomain; they fight three battles,
+    kill thrice their number, and fall except Follomain.'
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 8291-8299
+  quote_or_summary: Follomain vows not to return to Emain unless he brings Ailill's
+    head and gold diadem; the two sons of Bethe son of Ban, entrusted with Ailill's
+    diadem, attack and wound him so that he falls.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 8317-8333
+  quote_or_summary: The young warrior recounts that during Cuchulain's sleep the youths
+    fought for three days and nights, fell except Follomain, and that Follomain fell
+    after seeking Ailill's head and diadem.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 8306-8311
+  quote_or_summary: Cuchulain remains in heavy sleep for three days and three nights
+    at the Gravemound on the Slopes, then rises strengthened.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:5
+  type: quote
+  locator: lines 8311-8318
+  quote_or_summary: Cuchulain asks how long he has slept; the young warrior answers,
+    "Three days and three nights."
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; short quotation from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 8345-8349
+  quote_or_summary: Cuchulain cries that if he had been there in his strength, the
+    youths would not have fallen and Follomain would not have perished.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:7
+  type: summary
+  locator: lines 8354-8365
+  quote_or_summary: The young warrior refuses to stay, saying deeds performed with
+    Cuchulain would bring glory, honour, and fame to Cuchulain, and advises him to
+    test his arms alone against the hosts.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:8
+  type: summary
+  locator: lines 8371-8373
+  quote_or_summary: The young warrior from Faery goes away, and no one knows what
+    way he has gone.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:9
+  type: summary
+  locator: lines 8373-8384
+  quote_or_summary: Cuchulain tells Laeg they will avenge the youths on the hosts;
+    Laeg agrees, and Cuchulain asks whether the scythed chariot can be made ready.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summary generated from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Core figures, actions, and sequence are explicit in the passage. Motif labels
+    are descriptive and not tied to taxonomy except where no available taxonomy clearly
+    applies. No comparison claims are made because the passage itself does not support
+    external comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy references were left empty where the available taxonomy did not directly match the passage evidence.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:celtic-irish-tain-bo-cualnge-dunn-gutenberg__l8283-l8384
+  passage_sha256=5ceb08266bbf51731f3e8878eb3b3ab55e3fb06b2b81ed3ae425ebeee5078218

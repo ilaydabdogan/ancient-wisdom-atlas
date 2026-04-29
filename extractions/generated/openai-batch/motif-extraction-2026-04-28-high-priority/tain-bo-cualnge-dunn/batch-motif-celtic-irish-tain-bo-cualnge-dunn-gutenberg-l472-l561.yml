@@ -1,0 +1,484 @@
+---
+record_id: batch.motif.celtic-irish-tain-bo-cualnge-dunn-gutenberg-l472-l561
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+passage_locator:
+  label: WITH TWO PAGES IN FACSIMILE OF THE MANUSCRIPTS / MY MOTHER / CONTENTS / PREFACE;
+    lines 472-561
+  start: '472'
+  end: '561'
+  translation: The Ancient Irish Epic Tale Tain Bo Cualnge
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage summarizes Cuchulain's agreement with Medb for daily single
+    combats to delay the Connacht host, his victories including the fatal four-day
+    combat with Ferdiad, Medb's later breach of chivalric laws and seizure of the
+    Brown Bull of Cualnge, the recovery of the Ulstermen and final battle, and the
+    destructive combat between the Brown Bull and the Whitehorned. It then describes
+    the manuscript preservation and versions of the Tain Bo Cualnge.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Cuchulain permits the Connacht host to continue only if they send one champion
+    each day to fight him in single combat.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: After Cuchulain kills an opponent, the host is to halt and camp until the
+    following morning.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Medb agrees to the terms governing the daily single combats.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Cuchulain wins the ensuing combats and kills many celebrated Connacht warriors.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Ferdiad is described as Cuchulain's former friend and foster-brother, and
+    falls to Cuchulain after a four-day battle.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Medb breaks the sacred laws of ancient Irish chivalry, leads her army into
+    Ulster, pillages and burns, and takes possession of the Brown Bull of Cualnge.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Conchobar and his warriors recover from debility and gather the Ulster forces.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Medb's army is repulsed in the final battle and retreats into Connacht.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The Brown Bull's bellowing reaches the Whitehorned at Cruachan, prompting
+    the Whitehorned to rush out and attack.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The Brown Bull defeats the Whitehorned, scatters him in fragments over Ireland,
+    then returns toward Ulster and dies by striking his head against a rock.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: The text states that the Tain Bo Cualnge is preserved in multiple manuscripts
+    and manuscript groupings.
+  category: other
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Cuchulain
+  description: A heroic youth who fights Connacht champions in single combat and kills
+    Ferdiad.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Medb
+  description: Leader associated with the Connacht host; she agrees to Cuchulain's
+    terms, later invades Ulster, and carries off the Brown Bull of Cualnge.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Connacht host
+  description: The army delayed by Cuchulain's single combats and later repulsed in
+    the final battle.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:4
+  name_or_label: Ferdiad
+  description: Cuchulain's former friend and foster-brother; he opposes Cuchulain
+    in the severest single combat and is killed after four days.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Conchobar
+  description: King whose residence is Emain Macha and whose forces later gather and
+    win the final battle.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:6
+  name_or_label: Ulstermen
+  description: Forces of Ulster who recover from debility, gather, and defeat Medb's
+    army.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Brown Bull of Cualnge
+  description: The prize carried off by Medb; later it bellows, fights the Whitehorned,
+    kills it, returns in fury toward Ulster, and dies against a rock.
+  role_refs:
+  - role:7
+  - role:8
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:8
+  name_or_label: Whitehorned
+  description: A bull remaining in a stall at Cruachan; it hears the Brown Bull and
+    rushes to attack, then is defeated and fragmented.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:5
+- id: fig:9
+  name_or_label: macRoth
+  description: Medb's trusty herald who reports the gathering of the Ulstermen.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:4
+- id: fig:10
+  name_or_label: Fergus
+  description: An exiled countryman who identifies the Ulster leaders and troops for
+    the nobles of Connacht.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: single-combat defender
+  assigned_to:
+  - fig:1
+  basis: Cuchulain requires daily champions from the Connacht host and fights them
+    individually.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: slayer of foster-brother opponent
+  assigned_to:
+  - fig:1
+  basis: Ferdiad, Cuchulain's former friend and foster-brother, falls by Cuchulain's
+    hands after four days.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: invading queen or commander
+  assigned_to:
+  - fig:2
+  basis: Medb leads her army into Ulster and carries off the Brown Bull.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: invading host
+  assigned_to:
+  - fig:3
+  basis: The Connacht host marches, camps under the combat terms, and later retreats
+    after defeat.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:5
+  label: foster-brother opponent
+  assigned_to:
+  - fig:4
+  basis: Ferdiad is named as Cuchulain's former friend and foster-brother and his
+    opponent in the severest combat.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: Ulster royal defenders
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: Conchobar and the Ulstermen gather after debility and win the final battle.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: prize of war
+  assigned_to:
+  - fig:7
+  basis: The Brown Bull of Cualnge is explicitly called the prize of war carried off
+    by Medb.
+  evidence_refs:
+  - ev:4
+- id: role:8
+  label: rival bull combatant
+  assigned_to:
+  - fig:7
+  - fig:8
+  basis: The Brown Bull and the Whitehorned engage in a furious battle.
+  evidence_refs:
+  - ev:5
+- id: role:9
+  label: herald
+  assigned_to:
+  - fig:9
+  basis: macRoth is described as Medb's trusty herald who reports the Ulster gathering.
+  evidence_refs:
+  - ev:4
+- id: role:10
+  label: identifier of exiled countrymen
+  assigned_to:
+  - fig:10
+  basis: Fergus designates the Ulster leaders and troops from macRoth's description.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Brown Bull of Cualnge
+  literal_form: Bull
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: Whitehorned
+  literal_form: Bull in a stall at Cruachan
+  associated_figures:
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: single combat
+  literal_form: Daily duel between one Connacht champion and Cuchulain
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:4
+  label: rock of death
+  literal_form: Rock against which the Brown Bull dashes his head
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Terms of daily single combat
+  summary: Cuchulain allows the Connacht host to march only under the condition that
+    they send one champion each day; after he kills the opponent, the host must halt
+    until morning, and Medb agrees.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Victories of Cuchulain and death of Ferdiad
+  summary: Cuchulain defeats many Connacht warriors, and in the severest combat kills
+    his former friend and foster-brother Ferdiad after four days of fighting.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Medb overruns Ulster and seizes the bull
+  summary: Medb breaks chivalric laws, leads her army into Ulster, pillages and burns
+    up to Emain Macha, and takes the Brown Bull of Cualnge.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:5
+  - fig:7
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Gathering of the Ulstermen and final battle
+  summary: Conchobar and the Ulstermen recover, gather their forces, are reported
+    to Medb by macRoth and identified by Fergus, and defeat Medb's army in the final
+    battle.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:5
+  - fig:6
+  - fig:9
+  - fig:10
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: End of the two bulls
+  summary: The Brown Bull's bellowing provokes the Whitehorned to attack; the Brown
+    Bull destroys the Whitehorned, then returns toward Ulster and dies by striking
+    a rock.
+  figure_refs:
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:5
+- id: scene:6
+  label: Manuscript preservation of the Tain
+  summary: The passage describes the preservation of the Tain in numerous manuscripts
+    and distinguishes manuscript groupings and fragments.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: single combat used to delay an invading army
+  taxonomy_refs: []
+  basis: Cuchulain's condition requires the Connacht host to send one champion per
+    day, and the host must halt after each champion is killed.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage is a summary rather than the full episode.
+- id: motif:2
+  label: fatal combat between former foster-brothers
+  taxonomy_refs: []
+  basis: Ferdiad is identified as Cuchulain's former friend and foster-brother, and
+    he dies by Cuchulain's hands after a four-day battle.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: No broader comparative classification is asserted from the passage alone.
+- id: motif:3
+  label: breach of sacred martial law during a cattle raid
+  taxonomy_refs:
+  - covenant
+  basis: Medb first agrees to the combat terms but later breaks the sacred laws of
+    ancient Irish chivalry, overruns Ulster, and takes the Brown Bull.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: The covenant taxonomy reference is approximate because the passage describes
+    agreed terms and sacred martial law, not an explicit religious covenant.
+- id: motif:4
+  label: war prize carried off from enemy territory
+  taxonomy_refs: []
+  basis: Medb lays waste the land of her divorced husband and carries off the Brown
+    Bull of Cualnge, which the passage calls the prize of war.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage does not characterize the seizure as sacred theft.
+- id: motif:5
+  label: rival bulls fight to mutual destruction
+  taxonomy_refs:
+  - duality
+  basis: The Brown Bull and the Whitehorned engage in a furious battle; the Brown
+    Bull destroys the Whitehorned and then dies in rage against a rock.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The duality taxonomy reference is cautious; the passage presents rivalry
+    between two bulls but does not explicitly interpret them as cosmological doubles.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 472-478
+  quote_or_summary: Cuchulain agrees to let the Connacht host continue if they send
+    one champion each day; after he kills the opponent, the host must halt and camp
+    until morning, and Medb accepts the terms.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 478-485
+  quote_or_summary: Cuchulain wins the single combats, kills many Connacht warriors,
+    and after a four-day battle kills Ferdiad, his former friend and foster-brother.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 486-491
+  quote_or_summary: Medb breaks the sacred laws of ancient Irish chivalry, invades
+    Ulster, pillages and burns up to Emain Macha, and takes the Brown Bull of Cualnge.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 493-505
+  quote_or_summary: Conchobar and the Ulstermen recover and gather; macRoth reports
+    them to Medb, Fergus identifies them, Medb's army is repulsed, and the passage
+    balances Medb's seizure of the bull with Conchobar's victory.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 507-516
+  quote_or_summary: The Brown Bull bellows; the Whitehorned hears from Cruachan and
+    attacks; the Brown Bull defeats and fragments the Whitehorned, then returns in
+    fury and dies by striking a rock.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 517-561
+  quote_or_summary: The Tain Bo Cualnge is said to survive in numerous manuscripts,
+    with versions and fragments including Leabhar na hUidhre, Book of Leinster, Yellow
+    Book of Lecan, and other named manuscripts.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Narrative events are clearly summarized in the passage. Motif taxonomy links
+    are limited because the passage itself provides little explicit symbolic interpretation.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used. Manuscript-preservation details were recorded as a scene and evidence but not treated as mythic motifs.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:celtic-irish-tain-bo-cualnge-dunn-gutenberg__l472-l561
+  passage_sha256=d762d1ec84b5e19b78ad2bd04d0e3034e653db765afe18ac273758c38c207942

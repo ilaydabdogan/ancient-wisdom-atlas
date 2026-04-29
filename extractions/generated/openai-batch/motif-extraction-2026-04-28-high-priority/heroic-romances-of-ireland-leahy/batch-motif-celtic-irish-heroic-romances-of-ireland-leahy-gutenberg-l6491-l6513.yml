@@ -1,0 +1,207 @@
+---
+record_id: batch.motif.celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l6491-l6513
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+passage_locator:
+  label: SPECIAL NOTE / ALFRED NUTT. / GENERAL NOTES / THE COURTSHIP OF ETAIN; lines
+    6491-6513
+  start: '6491'
+  end: '6513'
+  translation: Heroic Romances of Ireland
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A scholarly note to The Courtship of Etain states that Professor Strachan
+    revised the translations and supplied linguistic notes unless otherwise stated.
+    It gives literal renderings for two phrases from page 7, line 17, including an
+    Old Irish phrase glossed as a device of mind and another glossed as the coming
+    of fatness and form.
+  language: English with Old Irish lexical notes
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is a general note for The Courtship of Etain, attributed under
+    the heading Alfred Nutt.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The note says Professor Strachan revised the translations of both versions
+    of the romance.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The note says linguistic notes are due to Professor Strachan unless otherwise
+    stated.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The note says renderings marked doubtful are cases where Professor Strachan
+    does not assent.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: For page 7, line 17, the phrase translated as devised means is literally glossed
+    as a device of mind.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The note compares the Old Irish phrase to another phrase cited from Meyer,
+    Hib. Minora, page 28.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: For page 7, line 17, a phrase about becoming well-nourished is literally glossed
+    as the coming of fatness and form.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The note proposes that one Old Irish term probably means fatness and another
+    means form.
+  category: attribute
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Alfred Nutt
+  description: Named in the heading preceding the general notes.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Professor Strachan
+  description: Named as the reviser of both translations and as the source of linguistic
+    notes unless otherwise stated.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Meyer
+  description: Named in a citation to Hib. Minora, page 28, for comparison with an
+    Old Irish phrase.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: named note heading figure
+  assigned_to:
+  - fig:1
+  basis: The heading lists Alfred Nutt immediately before General Notes.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: translation reviser
+  assigned_to:
+  - fig:2
+  basis: The passage states that Professor Strachan revised the translations of both
+    versions.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: linguistic note source
+  assigned_to:
+  - fig:2
+  basis: The passage states that the linguistic notes are due to Professor Strachan
+    unless otherwise stated.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: cited comparative source author
+  assigned_to:
+  - fig:3
+  basis: The passage cites Meyer, Hib. Minora, page 28, in a comparison of Old Irish
+    phrasing.
+  evidence_refs:
+  - ev:3
+symbols: []
+scenes:
+- id: scene:1
+  label: Scholarly translation and linguistic note
+  summary: The passage records editorial information about the translation and gives
+    literal linguistic glosses for phrases from page 7, line 17 of The Courtship of
+    Etain.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs: []
+comparison_claims:
+- id: claim:1
+  claim: The note explicitly compares one Old Irish phrase from The Courtship of Etain
+    with a phrase cited from Meyer, Hib. Minora, page 28.
+  claim_level: linguistic_similarity
+  target: Old Irish phrase cited as airecc memman aith in Meyer, Hib. Minora, p. 28
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is a linguistic comparison only; the passage does not establish
+    a mythological motif or narrative parallel.
+evidence:
+- id: ev:1
+  type: citation
+  locator: lines 6491-6495
+  quote_or_summary: 'Heading sequence: Alfred Nutt; General Notes; The Courtship of
+    Etain.'
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; short heading summarized.
+- id: ev:2
+  type: summary
+  locator: lines 6497-6501
+  quote_or_summary: The note states that Professor Strachan revised both versions
+    of the romance, supplied linguistic notes unless otherwise stated, and did not
+    assent to renderings marked doubtful.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 6504-6507
+  quote_or_summary: For page 7, line 17, an expression rendered as devised means is
+    literally glossed as a device of mind and compared with a phrase cited from Meyer,
+    Hib. Minora, p. 28.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 6509-6513
+  quote_or_summary: For page 7, line 17, the wording about becoming well-nourished
+    is literally glossed as the coming of fatness and form; the note says one term
+    probably means fatness and another form.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: medium
+  notes: The passage is a scholarly note rather than a narrative episode. No mythological
+    symbols or motifs are extracted; one explicit linguistic comparison is recorded
+    with caution.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No available taxonomy motif or symbol references were assigned because the passage contains editorial and lexical commentary only.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:celtic-irish-heroic-romances-of-ireland-leahy-gutenberg__l6491-l6513
+  passage_sha256=17ec08fc6e4a706418c96795ab2d0eaa8018cafb275f375229fe310dd71dbb4e

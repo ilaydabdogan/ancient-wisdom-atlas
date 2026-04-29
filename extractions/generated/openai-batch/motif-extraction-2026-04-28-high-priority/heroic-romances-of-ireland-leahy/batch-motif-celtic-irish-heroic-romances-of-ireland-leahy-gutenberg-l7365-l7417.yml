@@ -1,0 +1,413 @@
+---
+record_id: batch.motif.celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l7365-l7417
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+passage_locator:
+  label: PAGE 59 / PAGE 60 / PAGE 61 / PAGE 62; lines 7365-7417
+  start: '7365'
+  end: '7417'
+  translation: Heroic Romances of Ireland
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: '"A woman''s protection." The "perilous passage," passed only by a woman''s
+    help, occurs elsewhere both in Irish and in other early literatures.'
+  summary: The passage is a set of notes and literal translations. It identifies Eogan
+    Inbir as an opponent of the Tuatha De Danaan; discusses a likely scribal slip
+    involving Liban and Fand; notes the recurring motif of a perilous passage crossed
+    only through a woman's help; explains Labraid's formulaic martial title; and translates
+    short poems praising Labraid and welcoming Laeg.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Eogan Inbir is said to occur in the Book of Leinster version of the Book of
+    Invasions as one of the opponents of the Tuatha De Danaan.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The note says the text reads "said Fand," but the editor treats this as probably
+    a scribal slip for "said Liban."
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A note describes "a woman's protection" as a perilous passage passed only
+    by a woman's help.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The note says this perilous-passage pattern occurs elsewhere in Irish and
+    other early literatures, naming Maelduin, Chretien de Troyes's Ivain, and the
+    Mabinogion's "Lady of the Fountain."
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Labraid is described as having the usual title Labraid Luath lamar-claideb,
+    commonly translated "Labraid quick-hand-on-sword."
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: A translated rhetorical passage asks where Labraid is and describes him as
+    the head of victorious troops, triumphing from his chariot and reddening red spear-points.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Another translated rhetorical passage says Labraid is present, not slow, and
+    that an assembly of war and slaughter will occur when the plain of Fidga is full.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: A translated greeting welcomes Laeg for the sake of the woman with whom he
+    has come and also for himself.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Eogan Inbir
+  description: Named as an opponent of the Tuatha De Danaan in the Book of Leinster
+    version of the Book of Invasions.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Tuatha De Danaan
+  description: Called "the Folk of the Gods" and named as those opposed by Eogan Inbir.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Liban
+  description: Named in the editorial correction "Said Liban" and as a giver of Labraid's
+    usual title in both forms of the romance.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:4
+  name_or_label: Fand
+  description: Named as the reading in the text where the editor suspects a scribal
+    slip.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Labraid
+  description: Named as Labraid/Labra, associated with a swift hand-on-sword title
+    and praised in martial rhetoric.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:6
+  name_or_label: Laeg
+  description: Named as a figure welcomed in translated rhetoric and as one who describes
+    Fairyland elsewhere according to the note.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: fig:7
+  name_or_label: unnamed woman connected with Laeg
+  description: Referred to in the greeting as "her with whom thou hast come."
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:7
+- id: fig:8
+  name_or_label: woman helper in perilous passage
+  description: A general woman whose help is required for passing the perilous passage
+    in the note's motif description.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: opponent
+  assigned_to:
+  - fig:1
+  basis: Eogan Inbir is named as one of the opponents of the Tuatha De Danaan.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: opposed divine folk
+  assigned_to:
+  - fig:2
+  basis: The Tuatha De Danaan are called "the Folk of the Gods" and are the group
+    opposed by Eogan Inbir.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: corrected speaker or source of title
+  assigned_to:
+  - fig:3
+  basis: The note corrects a speech attribution to Liban and says Liban gives Labraid
+    his usual title.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:4
+  label: misattributed speaker in manuscript reading
+  assigned_to:
+  - fig:4
+  basis: The note says the text gives "said Fand" but treats it as a scribal slip.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: swift martial leader
+  assigned_to:
+  - fig:5
+  basis: Labraid is associated with the title "quick-hand-on-sword" and praised as
+    head of victorious troops.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:6
+  label: welcomed arrival
+  assigned_to:
+  - fig:6
+  basis: The translated rhetoric says, "Welcome to thee, O Laeg."
+  evidence_refs:
+  - ev:7
+- id: role:7
+  label: female companion of Laeg
+  assigned_to:
+  - fig:7
+  basis: Laeg is welcomed for the sake of the woman with whom he has come.
+  evidence_refs:
+  - ev:7
+- id: role:8
+  label: female helper or protector
+  assigned_to:
+  - fig:8
+  basis: The note defines the perilous passage as passed only by a woman's help.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: woman's protection
+  literal_form: A woman's protection or help required to pass a perilous passage.
+  associated_figures:
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: perilous passage
+  literal_form: A dangerous passage crossed only with a woman's help.
+  associated_figures:
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: martial equipment
+  literal_form: Sword, chariot, and red spear-points in the praise of Labraid.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: plain of Fidga
+  literal_form: The plain of Fidga, said to become full when war assembly and slaughter
+    are set.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Genealogical-literary note on Eogan Inbir
+  summary: The note places Eogan Inbir in the Book of Leinster version of the Book
+    of Invasions as an opponent of the Tuatha De Danaan.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Editorial correction of speech attribution
+  summary: The note states that the manuscript reading "said Fand" is likely a scribal
+    slip and should read "said Liban."
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Woman-assisted perilous passage
+  summary: The note identifies a recurring pattern in which a perilous passage can
+    be passed only with a woman's help.
+  figure_refs:
+  - fig:8
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Martial praise of Labraid
+  summary: The translated rhetoric praises Labraid as swift, victorious, chariot-associated,
+    and connected with war assembly and slaughter on the plain of Fidga.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Welcome to Laeg
+  summary: A translated greeting welcomes Laeg both because of the woman with whom
+    he has come and for his own sake.
+  figure_refs:
+  - fig:6
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Perilous passage passable only by woman's help
+  taxonomy_refs: []
+  basis: The note explicitly defines "a woman's protection" as a perilous passage
+    passed only by a woman's help and says it recurs in other literature.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage is an editorial note, not the full narrative episode; it does
+    not describe the physical passage in detail.
+- id: motif:2
+  label: Formulaic martial praise of a swift sword-bearing leader
+  taxonomy_refs: []
+  basis: Labraid is given a recurring martial epithet and the translated rhetoric
+    praises him as swift, victorious, chariot-borne, and reddening spear-points.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: This is a poetic praise formula rather than a complete narrative motif.
+- id: motif:3
+  label: Welcome mediated by female companion
+  taxonomy_refs: []
+  basis: The greeting welcomes Laeg first for the sake of the woman with whom he has
+    come and then for himself.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The passage gives only the greeting, not the surrounding narrative context.
+comparison_claims:
+- id: claim:1
+  claim: The woman-assisted perilous passage is explicitly compared by the note to
+    occurrences in Irish and other early literatures.
+  claim_level: same_motif
+  target: Maelduin para. 17; Chretien de Troyes's Ivain; Mabinogion, "Lady of the
+    Fountain"
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage reports parallels but does not quote or summarize the compared
+    episodes, so the degree of similarity cannot be independently assessed from this
+    passage alone.
+- id: claim:2
+  claim: The note compares Labraid's closely attached heroic title to a Homeric-style
+    formulaic title associated with Menelaus.
+  claim_level: linguistic_similarity
+  target: Homeric epithet formula for Menelaus
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison concerns formulaic attachment of a title, not a shared
+    narrative motif.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 7365-7368
+  quote_or_summary: Eogan Inbir occurs in the Book of Leinster version of the Book
+    of Invasions as an opponent of the Tuatha De Danaan, called the Folk of the Gods.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; concise summary.
+- id: ev:2
+  type: summary
+  locator: lines 7370-7373
+  quote_or_summary: The note says the text gives "said Fand," but this seems to be
+    a scribal slip for "said Liban," with a similar error noted elsewhere.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; concise summary.
+- id: ev:3
+  type: quote
+  locator: lines 7375-7378
+  quote_or_summary: '"A woman''s protection." The "perilous passage," passed only
+    by a woman''s help, occurs elsewhere both in Irish and in other early literatures.'
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: summary
+  locator: lines 7380-7388
+  quote_or_summary: Labraid's usual title is given as Labraid Luath lamar-claideb,
+    closely connected with him and usually translated "Labraid quick-hand-on-sword."
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; concise summary.
+- id: ev:5
+  type: summary
+  locator: lines 7392-7396
+  quote_or_summary: The translated rhetoric asks where Labraid is, calls him head
+    of victorious troops, and says he triumphs from his chariot and reddens spear-points.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; concise summary.
+- id: ev:6
+  type: summary
+  locator: lines 7398-7402
+  quote_or_summary: The translated rhetoric says Labraid is there, is not slow, and
+    that war assembly and slaughter will be set when the plain of Fidga is full.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; concise summary.
+- id: ev:7
+  type: quote
+  locator: lines 7404-7407
+  quote_or_summary: '"Welcome to thee, O Laeg! for the sake of her with whom thou
+    hast come; and since thou hast come, welcome to thee for thyself!"'
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Extraction is based on an editorial-note passage with translated poetic excerpts.
+    The woman-assisted perilous passage and formulaic-title comparison are explicit;
+    broader motif interpretation is limited by lack of full narrative context.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No taxonomy symbol refs were assigned because the available symbol list does not directly match the passage's main literal forms. Motif taxonomy refs were left empty to avoid overclassification.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:celtic-irish-heroic-romances-of-ireland-leahy-gutenberg__l7365-l7417
+  passage_sha256=4092017d09fab4b6e0de3a9a2a2e0606c174abc3418be8839ba2710717ddd892

@@ -1,0 +1,159 @@
+---
+record_id: batch.motif.celtic-irish-tain-bo-cualnge-dunn-gutenberg-l87-l104
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+passage_locator:
+  label: The Ancient Irish Epic Tale Tain Bo Cualnge / THE ANCIENT IRISH EPIC TALE
+    / TAIN BO CUALNGE / WITH TWO PAGES IN FACSIMILE OF THE MANUSCRIPTS; lines 87-104
+  start: '87'
+  end: '104'
+  translation: The Ancient Irish Epic Tale Tain Bo Cualnge
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: '"the mouths of the men of Erin and Alba shall be full of that name"'
+  summary: Front-matter passage for the 1914 London edition, including a facsimile
+    illustration caption from the Book of Leinster that says the men of Erin and Alba
+    will hear the name Cuchulain and have their mouths full of that name.
+  language: English, with an Irish manuscript caption reproduced in the illustration
+    note
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage announces two facsimile manuscript pages and includes an illustration
+    note attributed to the Book of Leinster, folio 64a.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The illustration note gives an Irish text followed by an English rendering.
+  category: speech
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: The English rendering says that the men of Erin and Alba shall hear the name
+    Cuchulain.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The English rendering says that the mouths of the men of Erin and Alba shall
+    be full of that name.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The page identifies London, David Nutt, 17 Grape Street, New Oxford Street,
+    W.C., and the year 1914.
+  category: setting
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Cuchulain
+  description: Named in parentheses as the name that the men of Erin and Alba shall
+    hear and speak of.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: men of Erin and Alba
+  description: A collective group said to hear and have their mouths full of the name
+    Cuchulain.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: named heroic referent
+  assigned_to:
+  - fig:1
+  basis: Cuchulain is identified as the name that will be heard and spoken by the
+    men of Erin and Alba.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: collective hearers and speakers of the name
+  assigned_to:
+  - fig:2
+  basis: The men of Erin and Alba are said to hear the name and have their mouths
+    full of it.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: renowned name
+  literal_form: the name Cuchulain
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Announcement of Cuchulain's name among Erin and Alba
+  summary: The caption states that the men of Erin and Alba will hear the name Cuchulain
+    and speak of it widely.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: heroic name proclaimed among peoples
+  taxonomy_refs: []
+  basis: The passage centers on the future hearing and widespread speaking of Cuchulain's
+    name by the men of Erin and Alba.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This is a front-matter caption rather than a narrative episode; no supplied
+    taxonomy motif family directly matches the pattern.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 87-91
+  quote_or_summary: The passage heading announces two facsimile manuscript pages and
+    gives an illustration note with Irish text, attributed to Book of Leinster, folio
+    64a.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: quote
+  locator: lines 93-96
+  quote_or_summary: '"For the men of Erin and Alba shall hear that name (Cuchulain)
+    and the mouths of the men of Erin and Alba shall be full of that name."'
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: summary
+  locator: lines 98-103
+  quote_or_summary: The page lists London, David Nutt, 17 Grape Street, New Oxford
+    Street, W.C., and 1914.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is bibliographic/front-matter material with one mythically relevant
+    caption about Cuchulain's name; motif extraction is therefore limited.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not support a comparison to another tradition or motif family.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:celtic-irish-tain-bo-cualnge-dunn-gutenberg__l87-l104
+  passage_sha256=d7385b271d8ec49aff534ecfde2cbf25657699123f4c2ebc58e955ec76e0c4dd

@@ -1,0 +1,219 @@
+---
+record_id: batch.motif.celtic-irish-tain-bo-cualnge-dunn-gutenberg-l8906-l8938
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+passage_locator:
+  label: THE DEATH OF FORGEMEN / THE GREAT ROUT ON THE PLAIN OF MURTHEMNE FOLLOWETH
+    HERE BELOW / THE SCYTHED CHARIOT / XVIII; lines 8906-8938
+  start: '8906'
+  end: '8938'
+  translation: The Ancient Irish Epic Tale Tain Bo Cualnge
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: Then it was that a very bold young warrior of the Ulstermen came nigh the
+    hosts...
+  summary: A bold young Ulster warrior, Oengus son of Oenlam Gabe, approaches the
+    hosts, drives them from Moda Loga/Lugmud to Ath da Fert, prevents their passage
+    by showering them with stones, is said by scholars to have been capable of killing
+    much of the host in single combat, but is instead attacked from ambush on every
+    side and killed in unequal fight at Ath da Fert in Sliab Fuait.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Oengus son of Oenlam Gabe is introduced as a very bold young warrior of the
+    Ulstermen.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Oengus approaches the hosts and drives them from Moda Loga, then called Lugmud,
+    to Ath da Fert in Sliab Fuait.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Oengus prevents the hosts from passing and showers them with stones.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: A scholarly comment says that if Oengus had fought the hosts in single combat,
+    two-thirds of the host would have fallen before him by Emain Macha.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The hosts do not fight Oengus in single combat; they attack him from ambush
+    on every side.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Oengus falls at the hands of the hosts in unequal fight at Ath da Fert in
+    Sliab Fuait.
+  category: sequence
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Oengus son of Oenlam Gabe
+  description: A very bold young warrior of the Ulstermen, also identified by the
+    by-name connected with Oenlam Gabe, 'the One-handed Smith.'
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: the hosts
+  description: The opposing hosts whom Oengus drives back and who later attack him
+    from ambush on every side.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+roles:
+- id: role:1
+  label: bold young Ulster warrior
+  assigned_to:
+  - fig:1
+  basis: The passage explicitly calls Oengus a very bold young warrior of the Ulstermen.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: opposing host
+  assigned_to:
+  - fig:2
+  basis: The hosts are the group Oengus approaches, drives back, blocks, and fights
+    against.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: ambushers
+  assigned_to:
+  - fig:2
+  basis: The passage says they attacked Oengus from ambush on every side.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: slain warrior in unequal fight
+  assigned_to:
+  - fig:1
+  basis: The passage says Oengus fell at their hands in unequal fight.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: stones as weapons
+  literal_form: stones showered by Oengus against the hosts
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Ford of the Two Gravemounds
+  literal_form: Ath da Fert, 'the Ford of the Two Gravemounds,' in Sliab Fuait
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+scenes:
+- id: scene:1
+  label: Oengus drives back the hosts
+  summary: Oengus comes near the hosts, drives them from Moda Loga/Lugmud to Ath da
+    Fert, stops them from passing, and attacks them with stones.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Ambush and death of Oengus
+  summary: Instead of fighting Oengus in single combat, the hosts attack him from
+    ambush on every side, and he dies in unequal fight at Ath da Fert in Sliab Fuait.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: single warrior holds back a host
+  taxonomy_refs: []
+  basis: A lone bold warrior of the Ulstermen drives the hosts back, prevents their
+    passage, and attacks them with stones.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: No supplied taxonomy motif family directly matches this battle pattern.
+- id: motif:2
+  label: hero denied single combat and slain by ambush
+  taxonomy_refs: []
+  basis: The passage contrasts the expected or hypothetical single combat with the
+    hosts' actual ambush from every side, resulting in Oengus's death in unequal fight.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The motif is extracted at the narrative-pattern level; the passage does
+    not make an explicit comparative claim.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8906-8913
+  quote_or_summary: Oengus son of Oenlam Gabe, a bold young Ulster warrior, approaches
+    the hosts, drives them from Moda Loga/Lugmud to Ath da Fert, blocks them, and
+    showers them with stones.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 8913-8918
+  quote_or_summary: Scholars say that if Oengus had fought them in single combat,
+    two-thirds of the host would have fallen before him by Emain Macha.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 8918-8921
+  quote_or_summary: The hosts do not act that way; they attack him from ambush on
+    every side until he falls at their hands in unequal fight at Ath da Fert in Sliab
+    Fuait.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif labels are descriptive and not
+    mapped to a supplied taxonomy family. No comparison claims were made because the
+    passage itself does not support external comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used. Footnote sigla were not treated as narrative evidence.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:celtic-irish-tain-bo-cualnge-dunn-gutenberg__l8906-l8938
+  passage_sha256=ba79ebfa2c726631eac9474de13169f3298239215d50856facf9ff7a083f959c

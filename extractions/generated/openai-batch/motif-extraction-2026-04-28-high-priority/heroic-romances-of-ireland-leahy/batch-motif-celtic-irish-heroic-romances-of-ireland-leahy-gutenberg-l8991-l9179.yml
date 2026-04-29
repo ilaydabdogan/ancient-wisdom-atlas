@@ -1,0 +1,494 @@
+---
+record_id: batch.motif.celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l8991-l9179
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+passage_locator:
+  label: MORTALS / IMMORTALS / TAIN BO FRAICH / THE RAID FOR THE CATTLE OF FRAECH;
+    lines 8991-9179
+  start: '8991'
+  end: '9179'
+  translation: Heroic Romances of Ireland
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes Ailill and Maev's splendid palace chamber, the welcome
+    of Fraech and his companions, a chess match between Maev and Fraech, the richly
+    adorned harpers who play for the company, the animated golden figures on their
+    harps, the death of twelve hearers from the music, the genealogy of the three
+    musical strains as children of Boand and the Harp of the Dagda, and Lothar's cutting
+    up of meat for the meal.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The house and royal chamber are described as richly built with pine, brass,
+    bronze, silver, gilded rails, and multiple windows.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Queen Maev and King Ailill welcome Fraech and the strangers.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A chess board of findruine with gold edges, jeweled light, and silver and
+    gold pieces is prepared.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Queen Maev and Fraech sit at the chess board and play chess.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Fraech's harpers carry their harps in otter-skin sacks embroidered with silver
+    and gold thread and showing rubies.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The harps are of gold, silver, and bronze and bear figures of serpents, birds,
+    and hounds of gold and silver.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: When the harpers move the strings, the figures on the harps run or float around
+    the men.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: Twelve of Ailill and Medb's people die while hearing the harpers' playing.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The three named strains are Sorrow-strain, Joy-strain, and Sleep-strain, also
+    called the Chants of Uaithne or Child-birth.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: Boand from the fairies is named as the mother of the triad, and the Harp of
+    the Dagda is associated with their fatherhood or origin.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: Boand foretells that men who hear these harpers will be struck to death by
+    their art.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:12
+  text: After the music ceases, Fergus praises it, silence and peace come over all,
+    and Fraech calls for the food to be divided.
+  category: sequence
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: obs:13
+  text: Lothar crouches on the floor and splits the joints with a sword without striking
+    the dainty parts.
+  category: action
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Queen Maev / Medb
+  description: Queen in the palace, royal host, and chess player against Fraech.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Ailill
+  description: King in the palace, royal host, and speaker who asks whether Fraech's
+    harpmen should play.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Fraech
+  description: Visitor welcomed by the royal pair; he courteously replies, plays chess
+    with Maev, allows the harpers to play, and later calls for the food.
+  role_refs:
+  - role:3
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:7
+- id: fig:4
+  name_or_label: Fraech's harpers / the three brothers
+  description: Wondrous harpers associated with the three strains of Sorrow, Joy,
+    and Sleep; their playing kills twelve listeners.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:5
+  name_or_label: Boand
+  description: A fairy-associated mother of the three strains who foretells death
+    from the harpers' art.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:6
+  name_or_label: Fergus
+  description: Listener who says the music was stately after the strains die away.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+- id: fig:7
+  name_or_label: Lothar
+  description: Man who sets his feet on the floor, crouches, and splits the joints
+    with a sword.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:7
+- id: fig:8
+  name_or_label: Twelve of Ailill and Medb's people
+  description: Listeners who die with weeping and sadness when the harpers play.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: royal host
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Maev and Ailill welcome the strangers in their palace and direct the feast
+    and entertainment.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: chess player
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: Maev and Fraech sit at the chess-board and play.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: honored visitor
+  assigned_to:
+  - fig:3
+  basis: Fraech and the strangers are welcomed by the queen and king.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: supernatural or wondrous musicians
+  assigned_to:
+  - fig:4
+  basis: The harpers are called wondrous, have richly decorated harps with animated
+    figures, and their playing kills listeners.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: fairy mother
+  assigned_to:
+  - fig:5
+  basis: Boand from the fairies is named as mother of the triad.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: prophetic speaker
+  assigned_to:
+  - fig:5
+  basis: Boand's words foretell that hearers of the harpers will perish by their art.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: listener and evaluator of music
+  assigned_to:
+  - fig:6
+  basis: Fergus remarks that the music was stately after it ends.
+  evidence_refs:
+  - ev:6
+- id: role:8
+  label: meat divider
+  assigned_to:
+  - fig:7
+  basis: Lothar crouches and divides the joints with his sword.
+  evidence_refs:
+  - ev:7
+- id: role:9
+  label: fatal hearers
+  assigned_to:
+  - fig:8
+  basis: Twelve of Ailill and Medb's people die while hearing the playing.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: jeweled chess board
+  literal_form: Findruine chess board with gold edges, handles, jewels giving light,
+    and gold and silver pieces.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: enchanted harps
+  literal_form: Harps of gold, silver, and bronze played by the harpers.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:3
+  label: serpent figures on harps
+  literal_form: Gold and silver serpent figures decorating the harps and moving when
+    the strings are played.
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: bird and hound figures on harps
+  literal_form: Gold and silver figures of birds and hounds on the harps that move
+    with the music.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: three musical strains
+  literal_form: Sorrow-strain, Joy-strain, and Sleep-strain, called the Chants of
+    Uaithne or Child-birth.
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:6
+  label: roe-hide and swan-white cloaks
+  literal_form: White roe-hide girdles with dark spots and white linen cloaks compared
+    to swan's wings or tunics.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Splendid palace and royal welcome
+  summary: The palace and royal chamber of Maev and Ailill are described in rich materials,
+    and Fraech and the strangers are welcomed by the royal pair.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Chess match before the feast
+  summary: A jeweled chess board is set out, and Maev plays chess with Fraech while
+    the question of food is deferred.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Harpers perform with animated harp figures
+  summary: Fraech's wondrous harpers appear with richly adorned harp cases and harps
+    bearing serpent, bird, and hound figures that move when the strings are played.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:6
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Lethal music and origin of the three strains
+  summary: The harpers' playing causes twelve of Ailill and Medb's people to die;
+    the passage explains the three strains as Sorrow, Joy, and Sleep, children of
+    Boand and connected with the Harp of the Dagda, with Boand foretelling deadly
+    effects from their art.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:8
+  symbol_refs:
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Music ceases and food is divided
+  summary: After the strains cease and Fergus praises the music, Fraech calls for
+    the meat, and Lothar divides the joints with a sword.
+  figure_refs:
+  - fig:3
+  - fig:6
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: lethal supernatural music
+  taxonomy_refs: []
+  basis: The harpers' performance causes twelve listeners to die, and Boand's prophecy
+    says men who hear these harpers will be struck to death by their art.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  confidence: high
+  cautions: The passage presents the effect directly, but no external motif index
+    number is supplied.
+- id: motif:2
+  label: animated images responding to music
+  taxonomy_refs: []
+  basis: Serpent, bird, and hound figures on the harps move or float around the harpmen
+    when the strings are played.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage does not explicitly explain whether the animation is magical,
+    mechanical, or poetic; it only states the figures move with the music.
+- id: motif:3
+  label: supernatural parentage of musical powers
+  taxonomy_refs:
+  - divine_parent_child
+  basis: The three musical strains are described as noble brothers, with Boand from
+    the fairies as mother and the Harp of the Dagda as their father or source.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The taxonomy reference is broad; the passage treats the children as musical
+    strains and harpers, not simply human offspring.
+- id: motif:4
+  label: sacred or wondrous birth of three strains
+  taxonomy_refs:
+  - sacred_birth
+  basis: Sorrow, Joy, and Sleep are narrated as arising during Boand's childbirth
+    and being named as the three sons of Uaithne or Child-birth.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The birth account is embedded in a poetic explanation of musical strains,
+    so literal versus symbolic status requires review.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 8991-9025
+  quote_or_summary: The palace and central chamber are described with pine planks,
+    brass frames and columns, bronze walls, silver and gilded rails, and a royal couch
+    area for Maev and Ailill.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: 9026-9053
+  quote_or_summary: Maev and Ailill welcome Fraech and the strangers; Maev has the
+    men set up chess, and she and Fraech play on a jeweled board with gold, silver,
+    and luminous decoration.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: 9054-9083
+  quote_or_summary: Ailill asks whether Fraech's harpmen should play. They carry harps
+    in decorated otter-skin cases, wear roe-hide and white cloaks, and have gold,
+    silver, and bronze harps with serpent, bird, and hound figures that move when
+    the strings are played.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: quote
+  locator: 9084-9095
+  quote_or_summary: The harpers play so that twelve of Ailill and Medb's people die
+    with weeping and sadness.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; brief paraphrased quotation/summary used.
+- id: ev:5
+  type: summary
+  locator: 9096-9158
+  quote_or_summary: The three strains are named as Sorrow-strain, Joy-strain, and
+    Sleep-strain, the Chants of Uaithne or Child-birth. Boand from the fairies is
+    their mother, and the Harp of the Dagda is identified as their father or source
+    in the birth narrative.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:6
+  type: summary
+  locator: 9159-9170
+  quote_or_summary: Boand foretells that cows, women, and men who hear these harpers
+    will be slain or perish by the harpers' art; after the strains die away, Fergus
+    praises the music and silence and peace come over all.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:7
+  type: summary
+  locator: 9171-9179
+  quote_or_summary: Fraech calls for the food to be divided, and Lothar crouches on
+    the floor and splits the joints with a sword without striking the dainty parts.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is strongly supported by the supplied passage. Motif labels
+    for lethal music and animated harp figures are direct, while taxonomy mappings
+    for parentage and sacred birth are broader and need human review. No comparison
+    claims were made because the passage itself does not establish a specific cross-textual
+    comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata. Footnote material was treated as part of the supplied passage when it clarified wording or identified the Dagda, but no external claims were added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:celtic-irish-heroic-romances-of-ireland-leahy-gutenberg__l8991-l9179
+  passage_sha256=6799ef2e8c16292b1457caa2f42a0141fcc05a3efda7d4dca17fdfbacac04875

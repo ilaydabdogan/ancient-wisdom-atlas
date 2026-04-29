@@ -1,0 +1,311 @@
+---
+record_id: batch.motif.celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l7139-l7150
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+passage_locator:
+  label: PAGE 38 / PAGE 41 / PAGE 42 / PAGE 45; lines 7139-7150
+  start: '7139'
+  end: '7150'
+  translation: Heroic Romances of Ireland
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Ket and Conall exchange formal rhetoric of welcome that characterizes each
+    hero with hard, fiery, icy, oceanic, bovine, and leonine images. The speech anticipates
+    proof of their rivalry in combat or separation, and says that heroes will engage
+    in violent strife in the house that night.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Ket welcomes Conall and addresses him with images including a heart of stone,
+    glowing fire, ice, boiling blood, scars, victory, and sonship of Finnchoem.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Ket says Conall can measure himself with him.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Conall welcomes Ket and identifies him as first-born of Mata and son of Magach.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Conall describes Ket with images including a heart of ice, chariot leadership
+    in battle, a stormy ocean, and a raging bull.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Conall says the matter will be proved if they are in combat and also if they
+    are separated.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The speech says heroes will stride to lion-strife and that man will overturn
+    man in the house that night.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Ket
+  description: Speaker who welcomes Conall and is addressed as first-born of Mata
+    and son of Magach.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Conall
+  description: Speaker who welcomes Ket and is addressed as son of Finnchoem.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Finnchoem
+  description: Named as Conall's parent or kin in the phrase identifying Conall as
+    son of Finnchoem.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Mata
+  description: Named in the phrase identifying Ket as first-born of Mata.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Magach
+  description: Named in the phrase identifying Ket as Magach's son.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: Rhetorical opponent
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Ket and Conall exchange formal welcomes and refer to a test in combat.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: Hero addressed as victory-winner
+  assigned_to:
+  - fig:2
+  basis: Ket calls Conall the scarred winner of victory and says he can measure himself
+    with Ket.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: Battle leader addressed in praise-challenge
+  assigned_to:
+  - fig:1
+  basis: Conall calls Ket a chariot chief of the fight and uses martial imagery for
+    him.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: Named kin identifier
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:5
+  basis: The rhetoric identifies Conall and Ket through named parentage or kin terms.
+  evidence_refs:
+  - ev:1
+  - ev:2
+symbols:
+- id: sym:1
+  label: Fire image
+  literal_form: wild glowing fire
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Ice image
+  literal_form: sparkle of ice; heart of ice
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: Stone-heart image
+  literal_form: heart of stone
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: Boiling blood image
+  literal_form: wrathfully boiling blood in hero breast
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:5
+  label: Ocean image
+  literal_form: stormy ocean
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:6
+  label: Bull image
+  literal_form: fair raging bull
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:7
+  label: Lion-strife image
+  literal_form: wild lion-strife
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Exchange of martial welcomes
+  summary: Ket and Conall address one another in elevated rhetoric, each describing
+    the other through heroic, elemental, and animal images.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Anticipated combat in the house
+  summary: Conall states that the rivalry will be proved in combat or separation,
+    and the speech anticipates heroes engaging in violent strife in the house that
+    night.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Formal heroic challenge through mutual praise and taunt
+  taxonomy_refs: []
+  basis: The two named heroes welcome each other while using heightened martial images
+    and explicitly refer to proof through combat.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage is brief and presented as a literal translation of rhetoric;
+    it does not narrate the combat itself.
+- id: motif:2
+  label: Hero characterized by elemental and animal imagery
+  taxonomy_refs: []
+  basis: Conall and Ket are described through fire, ice, stone, blood, ocean, bull,
+    and lion-strife images in the rhetorical exchange.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: The imagery is rhetorical and should not be treated as literal transformation
+    or divine symbolism without additional context.
+- id: motif:3
+  label: Combat to be proven in a feast-hall or house setting
+  taxonomy_refs: []
+  basis: The speech says that man will overturn man that night in the house.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The immediate passage mentions a house but gives little detail about the
+    broader setting or occasion.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 7139-7144
+  quote_or_summary: Ket welcomes Conall with phrases including “heart of stone,” “wild
+    glowing fire,” “sparkle of ice,” “wrathfully boiling blood,” “scarred winner of
+    victory,” and “son of Finnchoem.”
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:2
+  type: quote
+  locator: lines 7144-7147
+  quote_or_summary: Conall welcomes Ket as “first-born of Mata,” with phrases including
+    “heart of ice,” “chariot chief of the fight,” “stormy ocean,” “fair raging bull,”
+    and “Magach's son.”
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:3
+  type: quote
+  locator: lines 7147-7148
+  quote_or_summary: 'Conall says, “That will be proved if we are in combat: that will
+    be proved if we are separated.”'
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:4
+  type: quote
+  locator: lines 7149-7150
+  quote_or_summary: The speech says that “heroes shall stride to wild lion-strife”
+    and that “man overturns man to-night in this house.”
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward for speakers, images, and anticipated
+    combat. Motif labeling is limited by the short rhetorical passage and lack of
+    broader narrative context. No comparison claims are made because the passage itself
+    does not support a specific cross-textual comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy symbol references were applied only to explicit fire and ocean/water imagery; no motif-family taxonomy reference was assigned.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:celtic-irish-heroic-romances-of-ireland-leahy-gutenberg__l7139-l7150
+  passage_sha256=7e0bba38856b5630e6e6d2dc57c497bdd9089ebdbba6f87d81e8192b4a5e4f3a

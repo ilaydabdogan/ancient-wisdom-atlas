@@ -1,0 +1,299 @@
+---
+record_id: batch.motif.celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l7153-l7169
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+passage_locator:
+  label: PAGE 42 / PAGE 45 / PAGE 46 / PAGE 47; lines 7153-7169
+  start: '7153'
+  end: '7169'
+  translation: Heroic Romances of Ireland
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'A note says a quatrain is literally translated elsewhere and is absent
+    from the Leinster version. Another note discusses a great oak-tree: after Fergus
+    plucks it up, the Rawlinson manuscript adds an alternate attribution in which
+    Curoi mac Dari brings the oak, arrives among the men, and carries off half of
+    the Boar from the northern half of Ireland. The editor describes this as a survival
+    of the Munster account of the Heroic Age, possibly partly preserved in tales of
+    Finn mac Cumhail.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that the literal translation of a quatrain is in A.O.,
+    p. 63, and that the quatrain does not occur in the Leinster version.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A line note identifies the phrase as referring to a great oak-tree.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage says Fergus plucks up the oak-tree.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Rawlinson manuscript is said to add that others attribute the bringing
+    of the oak to Curoi mac Dari.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Rawlinson addition says Curoi came to them when no man of Munster was
+    there except Lugaid son of Curoi and Cetin Pauci.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The Rawlinson addition says Curoi carried off, alone, one half of the Boar
+    from all the northern half of Ireland.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The editor identifies the exploit attributed to Curoi as an example of survival
+    of the Munster account of the Heroic Age and says part of that account may be
+    preserved in tales of Finn mac Cumhail.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Fergus
+  description: A figure said to have plucked up the oak-tree.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Curoi mac Dari
+  description: A figure to whom some attribute bringing the oak; he is also said to
+    have carried off half of the Boar alone.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Lugaid the son of Curoi
+  description: Named as one of the men of Munster present before Curoi arrived.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Cetin Pauci
+  description: Named as one of the men of Munster present before Curoi arrived.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Finn mac Cumhail
+  description: Named in an editorial comparison to tales that may preserve part of
+    the Munster account of the Heroic Age.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: oak-uprooter
+  assigned_to:
+  - fig:1
+  basis: The passage says the oak-tree was plucked up by Fergus.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: alternate heroic claimant
+  assigned_to:
+  - fig:2
+  basis: The Rawlinson addition attributes bringing the oak and carrying off half
+    of the Boar to Curoi.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: Munster man present before Curoi's arrival
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The passage names Lugaid and Cetin Pauci as the only men of Munster there
+    before Curoi arrived.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: figure in possibly related tale tradition
+  assigned_to:
+  - fig:5
+  basis: The editor mentions tales of Finn mac Cumhail as possibly preserving part
+    of the Munster account.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: oak-tree
+  literal_form: great oak-tree
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: Boar portion
+  literal_form: one half of the Boar
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Notes on quatrain transmission
+  summary: The passage notes where a literal translation of a quatrain appears and
+    states that the quatrain is absent from the Leinster version.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Oak-tree feat with alternate attribution
+  summary: Fergus is associated with plucking up a great oak-tree, while the Rawlinson
+    manuscript preserves an alternate account in which Curoi mac Dari brings the oak.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Curoi carries off half of the Boar
+  summary: Curoi is said to carry off one half of the Boar by himself from the northern
+    half of Ireland.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Editorial placement in Munster heroic tradition
+  summary: The editor treats Curoi's exploit as a survival of the Munster account
+    of the Heroic Age and connects it cautiously with tales of Finn mac Cumhail.
+  figure_refs:
+  - fig:2
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Hero uproots or transports a great tree
+  taxonomy_refs: []
+  basis: The passage records an oak-tree feat, with Fergus plucking up the oak and
+    an alternate Rawlinson attribution that Curoi brought the oak.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage is a textual note and gives only brief information about the
+    action; it does not describe a sacred-tree or axis-world function.
+- id: motif:2
+  label: Single hero carries off a contested trophy portion
+  taxonomy_refs: []
+  basis: Curoi is said to carry off all alone one half of the Boar from all the northern
+    half of Ireland.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The immediate narrative context of the Boar is not included in this passage.
+- id: motif:3
+  label: Regional heroic-tradition survival
+  taxonomy_refs: []
+  basis: The editor identifies Curoi's exploit as a survival of the Munster account
+    of the Heroic Age, possibly also preserved in tales of Finn mac Cumhail.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: This is an editorial claim in the passage, not an independently demonstrated
+    historical relationship in the excerpt.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly frames the exploit attributed to Curoi as a survival
+    of a Munster Heroic Age account and suggests that related material may also be
+    preserved in tales of Finn mac Cumhail.
+  claim_level: historical_contact
+  target: Munster account of the Heroic Age and tales of Finn mac Cumhail
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim is based only on the editor's note in this excerpt; no detailed
+    parallel from the Finn tales is provided here.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 7153-7157 / PAGE 46
+  quote_or_summary: The note says the literal translation of a quatrain is in A.O.,
+    p. 63, and that the quatrain does not occur in the Leinster version.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 7159-7161 / PAGE 47, Line 4
+  quote_or_summary: The note identifies a great oak-tree and refers to the plucking
+    up of the oak-tree by Fergus.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 7161-7165 / PAGE 47
+  quote_or_summary: The Rawlinson manuscript addition says that others claimed Curoi
+    mac Dari took the oak to them and arrived when no man of Munster was there except
+    Lugaid son of Curoi and Cetin Pauci.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 7165-7167 / PAGE 47
+  quote_or_summary: The Rawlinson addition says Curoi carried off alone one half of
+    the Boar from all the northern half of Ireland.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: lines 7167-7169 / PAGE 47
+  quote_or_summary: The editor calls Curoi's exploit a survival of the Munster account
+    of the Heroic Age, part of which may be preserved in tales of Finn mac Cumhail.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The extraction is based on a short editorial passage. Literal actions and
+    named figures are clear, but motif and comparison fields are limited by the excerpt's
+    brevity and by its note-like character.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No unsupported taxonomy motif family was assigned. The available symbol taxonomy supports tagging the oak as tree only.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:celtic-irish-heroic-romances-of-ireland-leahy-gutenberg__l7153-l7169
+  passage_sha256=5e257d385342d3fb6a5570c7897530d6addd81e108b62233104c570531a0702f

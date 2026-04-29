@@ -1,0 +1,233 @@
+---
+record_id: batch.motif.celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l8287-l8305
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+passage_locator:
+  label: THE COMBAT AT THE FORD / PAGE 118 / PAGE 121 / PAGE 124; lines 8287-8305
+  start: '8287'
+  end: '8305'
+  translation: Heroic Romances of Ireland
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: "“distressful will be thy departure / to encounter the Rock of Ulster”"
+  summary: The passage gives corrections to a translated stanza. It warns an addressed
+    person that it would be better to stay, that threats will have consequences, that
+    departure to encounter the Rock of Ulster will be distressful, and that woe will
+    come to the one who goes on that journey. A separate correction mentions taking
+    the point of a weapon through him.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A corrected line states that someone may take the point of a weapon through
+    him.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The poem advises the addressed person that it would be better to stay.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The addressed person’s threats are described as not gentle.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The stanza predicts that someone will have sickness on account of the situation.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The stanza describes the addressed person’s departure as distressful.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The departure is described as going to encounter the Rock of Ulster.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: The stanza predicts that the venture may turn out ill, be long remembered,
+    and bring woe to the one who goes on the journey.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:8
+  text: Another corrected line says, “I will not keep back to please you.”
+  category: speech
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: addressed person
+  description: The person addressed as “thee” and warned to stay rather than depart.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Rock of Ulster
+  description: The named figure or entity that the addressed person is said to go
+    to encounter.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: speaker of refusal
+  description: The speaker of the corrected line, “I will not keep back to please
+    you.”
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: warned journey-taker
+  assigned_to:
+  - fig:1
+  basis: The stanza tells the addressed person it would be better to stay and describes
+    the departure and journey as harmful.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: encountered opponent or endpoint
+  assigned_to:
+  - fig:2
+  basis: The stanza says the departure is “to encounter the Rock of Ulster.”
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: one who refuses to hold back
+  assigned_to:
+  - fig:3
+  basis: The corrected line states, “I will not keep back to please you.”
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: weapon point
+  literal_form: the point of a weapon
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: journey
+  literal_form: departure and journey to encounter the Rock of Ulster
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Rock of Ulster
+  literal_form: Rock of Ulster
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: warning before a dangerous departure
+  summary: An addressed person is warned that it would be better to stay, because
+    the departure to encounter the Rock of Ulster will bring sickness, distress, ill
+    outcome, lasting remembrance, and woe.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: corrected weapon-line
+  summary: A corrected line states that someone may receive the point of a weapon
+    through him.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:3
+  label: refusal to hold back
+  summary: A corrected line records a speaker saying that he will not keep back to
+    please the addressee.
+  figure_refs:
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: ominous departure toward confrontation
+  taxonomy_refs:
+  - departure
+  basis: The stanza explicitly frames a departure or journey toward an encounter and
+    surrounds it with warnings of distress, sickness, ill outcome, lasting remembrance,
+    and woe.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage is a translation note and corrected stanza excerpt, not a
+    full narrative episode; the identities and larger context of the journey are not
+    supplied here.
+- id: motif:2
+  label: forewarned combat injury
+  taxonomy_refs: []
+  basis: A corrected line mentions receiving the point of a weapon through the body,
+    while the stanza warns of an encounter with harmful consequences.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: low
+  cautions: The passage does not narrate the combat itself; it only gives corrected
+    wording and warnings.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 8287-8289
+  quote_or_summary: "“So that he may take the point of a weapon through him.”"
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 8293-8302
+  quote_or_summary: The corrected stanza says it would be better for the addressed
+    person to stay; threats will not be gentle; someone will have sickness; the departure
+    to encounter the Rock of Ulster will be distressful; the venture may turn out
+    ill, be long remembered, and bring woe to the one who goes on the journey.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 8304-8305
+  quote_or_summary: "“I will not keep back to please you.”"
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is brief and consists of translation corrections rather than
+    a continuous narrative; extraction is limited to the literal warnings, weapon
+    image, journey, and named encounter.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not support a comparative link beyond the local motif candidate of an ominous departure.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:celtic-irish-heroic-romances-of-ireland-leahy-gutenberg__l8287-l8305
+  passage_sha256=54bfbe117337dd760a8a3722b722536c0efced5d99f074a8772b0db47d7269b7

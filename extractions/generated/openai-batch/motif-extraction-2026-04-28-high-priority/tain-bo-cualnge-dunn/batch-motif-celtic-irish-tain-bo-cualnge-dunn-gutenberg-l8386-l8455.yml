@@ -1,0 +1,385 @@
+---
+record_id: batch.motif.celtic-irish-tain-bo-cualnge-dunn-gutenberg-l8386-l8455
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+passage_locator:
+  label: THE PROPOSALS / THE DEATH OF FORGEMEN / THE GREAT ROUT ON THE PLAIN OF MURTHEMNE
+    FOLLOWETH HERE BELOW / THE SCYTHED CHARIOT; lines 8386-8455
+  start: '8386'
+  end: '8455'
+  translation: The Ancient Irish Epic Tale Tain Bo Cualnge
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The charioteer Laeg arms himself for charioteering with special garments
+    and equipment, prepares the horses and a point-studded chariot, and casts a concealment
+    spell. Cuchulain then rises and puts on layered war-dress meant to restrain the
+    deranging violence of his nature.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The charioteer puts on a light stitched buckskin kirtle, a raven-feather over-mantle,
+    a crested plated battle-cap, and a red-yellow frontlet.
+  category: action
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:2
+  text: The raven-feather mantle is described as having passed through a chain of
+    named possessors before being presented to Laeg.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The charioteer opens the hobbles of the steeds, takes a gold-mounted goad
+    in his right hand, and takes the reins in his left hand.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The horses are covered with iron-sheathed, gold-bedecked coats of mail from
+    forehead to forehand.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The chariot is studded with dartlets, lancelets, spearlets, and hardened spits
+    so that its frame bristles with points.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A spell of concealment is cast over the horses and the charioteer’s fellow,
+    making them unseen by the camp while the camp remains visible to them.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: 'The charioteer is expected to perform three named gifts of charioteership:
+    leaping over a cleft in the ranks, unerring driving, and handling the goad.'
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Cuchulain rises and dons war-dress consisting of many waxed, board-like skin-tunics
+    bound to his skin to keep his wit and reason from derangement when his violent
+    nature comes over him.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Laeg son of Riangabair
+  description: Cuchulain’s charioteer, recipient of the raven-feather mantle, and
+    the one who prepares for charioteering.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: Cuchulain son of Sualtaim
+  description: Champion and battle-warrior who gives the mantle to Laeg and later
+    dons his own war-dress.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:3
+  name_or_label: Simon Magus
+  description: Named as the maker of the raven-feather mantle, made as a gift.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Darius / Nero, king of the Romans
+  description: Named in the transmission of the raven-feather mantle, with textual
+    variants in the passage notes.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: Conchobar
+  description: Named as a possessor and donor in the mantle’s transmission chain.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:6
+  name_or_label: The steeds
+  description: The chariot horses are unhobbled, armored with mail, and included under
+    the concealment spell.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: charioteer
+  assigned_to:
+  - fig:1
+  basis: Laeg is explicitly identified as Cuchulain’s charioteer and prepares the
+    horses, reins, goad, and chariot.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: role:2
+  label: champion and battle-warrior
+  assigned_to:
+  - fig:2
+  basis: Cuchulain is called champion and battle-warrior and dons war-dress for battle,
+    fight, and combat.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: heirloom makers, possessors, or donors
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  basis: The mantle is described through a chain of making, bestowal, giving, and
+    presentation among these named figures.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: concealed combatants and team
+  assigned_to:
+  - fig:1
+  - fig:6
+  basis: The spell of concealment is cast over the horses and over the charioteer’s
+    fellow before chariot action.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: raven-feather mantle
+  literal_form: Over-mantle of raven’s feathers
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: frontlet as charioteer’s token
+  literal_form: Red-yellow frontlet placed on the forehead to distinguish the charioteer
+    from his master
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: gold-mounted goad
+  literal_form: Gold-mounted goad held in the right hand
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: armored horses
+  literal_form: Iron-sheathed, gold-bedecked coats of mail covering the horses
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: spiked or scythed chariot
+  literal_form: Chariot studded with dartlets, lancelets, spearlets, and hardened
+    spits
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: spell of concealment
+  literal_form: A concealment spell or veil of protection cast over the horses and
+    fellow
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:7
+  label: layered restraining war-dress
+  literal_form: Twenty-seven waxed, board-like skin-tunics bound to Cuchulain’s skin
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Charioteer’s arming
+  summary: Laeg puts on specialized charioteering garments and takes the frontlet,
+    goad, and reins while preparing the steeds.
+  figure_refs:
+  - fig:1
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Preparation of horses and chariot
+  summary: The horses are armored, the chariot is fitted with many sharp points, and
+    a concealment spell is cast before the charioteering feats.
+  figure_refs:
+  - fig:1
+  - fig:6
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Cuchulain’s war-dress
+  summary: Cuchulain rises as champion and battle-warrior and binds on layered skin-tunics
+    to preserve his reason against battle frenzy.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: formal arming before battle
+  taxonomy_refs: []
+  basis: The passage details the charioteer’s clothing, insignia, tools, horses, and
+    chariot, followed by Cuchulain’s war-dress.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: This is a passage-level battle-preparation pattern, not tied to a supplied
+    taxonomy family.
+- id: motif:2
+  label: magical concealment in combat
+  taxonomy_refs: []
+  basis: A spell makes the horses and fellow invisible to the camp while the camp
+    remains visible to them.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage supports concealment magic, but does not itself give a broader
+    comparative classification.
+- id: motif:3
+  label: deadly spiked battle vehicle
+  taxonomy_refs: []
+  basis: The chariot is described as bristling with sharp points, with every portion
+    becoming a passage of laceration.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The heading calls it a scythed chariot, but the described weaponry here
+    is a field of points and spits.
+- id: motif:4
+  label: restraint of battle frenzy by protective dress
+  taxonomy_refs: []
+  basis: Cuchulain’s many bound skin-tunics are said to prevent his wit and reason
+    from derangement when his violent nature comes over him.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The extraction remains literal and does not infer a psychological or ritual
+    interpretation beyond the stated function.
+- id: motif:5
+  label: prestige object transmitted through gift-chain
+  taxonomy_refs: []
+  basis: The raven-feather mantle is made as a gift and passes through several named
+    figures before being presented to Laeg.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: Although the mantle is a gift-chain object, the passage does not explicitly
+    characterize the exchange as sacred.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8386-8411; W.2525
+  quote_or_summary: The charioteer dons his charioteering suit, including a buckskin
+    kirtle and a raven-feather mantle made by Simon Magus and transmitted through
+    Darius/Nero, Conchobar, Cuchulain, and Laeg.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summary only.
+- id: ev:2
+  type: summary
+  locator: lines 8412-8425; W.2525
+  quote_or_summary: The charioteer takes a crested battle-cap, places a red-yellow
+    frontlet on his forehead as a token of charioteering, opens the horses’ hobbles,
+    and takes goad and reins.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summary only.
+- id: ev:3
+  type: summary
+  locator: lines 8434-8443; W.2542
+  quote_or_summary: He puts iron-sheathed, gold-bedecked mail on the horses, and the
+    chariot is studded with dartlets, lancelets, spearlets, and hardened spits.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summary only.
+- id: ev:4
+  type: summary
+  locator: lines 8444-8451; W.2542
+  quote_or_summary: He casts a concealment spell over the horses and fellow so they
+    are hidden from the camp while seeing it, and the three gifts of charioteership
+    are named.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summary only.
+- id: ev:5
+  type: summary
+  locator: lines 8452-8455; W.2542
+  quote_or_summary: Cuchulain son of Sualtaim rises as champion and battle-warrior
+    and dons many bound skin-tunics to keep his wit and reason from derangement in
+    battle fury.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summary only.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is well supported by the provided passage. Motif labels
+    are descriptive and not mapped to supplied taxonomy families. No comparison claims
+    were made because the passage itself does not support a cautious cross-textual
+    comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata; taxonomy references left empty where not directly supported.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:celtic-irish-tain-bo-cualnge-dunn-gutenberg__l8386-l8455
+  passage_sha256=d449acb8a12d18a3979232db31d1d0cd879fc8a59dfd1db792a3a4c4921730b0

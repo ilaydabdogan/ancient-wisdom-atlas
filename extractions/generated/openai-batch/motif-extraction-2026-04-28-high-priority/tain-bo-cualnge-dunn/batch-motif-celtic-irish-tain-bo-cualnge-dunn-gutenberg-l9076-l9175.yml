@@ -1,0 +1,394 @@
+---
+record_id: batch.motif.celtic-irish-tain-bo-cualnge-dunn-gutenberg-l9076-l9175
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+passage_locator:
+  label: THE SCYTHED CHARIOT / XVIII / HERE NOW IS TOLD THE MISTHROW AT BELACH EOIN.
+    / HERE NOW FOLLOWETH THE DISGUISING OF TAMON; lines 9076-9175
+  start: '9076'
+  end: '9175'
+  translation: The Ancient Irish Epic Tale Tain Bo Cualnge
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: because no 'blood on weapons' resulted therefrom
+  summary: Cuchulain greets Fergus, who has come not for hospitality but to fight.
+    Cuchulain observes that Fergus lacks a real sword because Ailill had earlier replaced
+    it with a wooden one. Fergus invokes his former training and honor-bond with Cuchulain
+    and asks him to give way before him, promising that he will later retreat before
+    Cuchulain in the battle of the Tain, causing the men of Erin to flee as well.
+    Cuchulain retreats in his chariot before Fergus in public view. Medb urges pursuit,
+    but Fergus refuses. The encounter is called Fergus's White Battle because no blood
+    is shed on weapons, and the host moves on to camp in Crich Roiss.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Fergus tells Cuchulain that he has come to fight and do battle rather than
+    to receive hospitality.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Cuchulain states that Fergus has no sword in the sheath of the great staff
+    he carries.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Ailill had earlier removed Fergus's sword from its sheath and put a wooden
+    sword in its place.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Fergus invokes the honor and training he and others bestowed on Cuchulain
+    and asks Cuchulain to give way before him.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Fergus promises that he will later retreat before Cuchulain when Cuchulain
+    is wounded and bloody in the battle of the Tain.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Cuchulain mounts his chariot and flees from Fergus before the men of Erin.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The men of Erin rejoice when they see Cuchulain flee, and Medb urges Fergus
+    to pursue him.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Fergus refuses to pursue Cuchulain further and says the flight he obtained
+    from him is more than the men of Erin could have obtained.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The episode is called the White Battle because no blood on weapons resulted
+    from it.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: After the encounter, the host continues past Cuchulain and camps in Crich
+    Roiss.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Cuchulain
+  description: Warrior who greets Fergus, identifies the missing sword, and retreats
+    in his chariot before Fergus.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Fergus
+  description: Cuchulain's master who comes to fight, carries a sheath without a real
+    sword, asks Cuchulain to give way, and refuses to pursue him further.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: Ailill
+  description: Figure who removed Fergus's sword from its sheath and replaced it with
+    a wooden sword.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Medb
+  description: Speaker who urges Fergus to pursue Cuchulain after Cuchulain flees.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: men of Erin
+  description: Collective witnesses who see Cuchulain flee, rejoice, and are said
+    by Fergus to be unable to obtain such a retreat from him.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: fosterling
+  assigned_to:
+  - fig:1
+  basis: Fergus addresses Cuchulain as fosterling.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: master and former trainer
+  assigned_to:
+  - fig:2
+  basis: Cuchulain calls Fergus his master, and Fergus invokes the honor and training
+    he bestowed on Cuchulain.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: strategic retreater
+  assigned_to:
+  - fig:1
+  basis: Cuchulain gives way and flees before Fergus for Ulster's advantage and so
+    Fergus may later give way before him.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: challenger without an effective sword
+  assigned_to:
+  - fig:2
+  basis: Fergus comes to fight, but Cuchulain notes there is no sword in his sheath.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:5
+  label: weapon-substituter
+  assigned_to:
+  - fig:3
+  basis: Ailill removed Fergus's sword and placed a wooden sword in its stead.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: pursuit-urging speaker
+  assigned_to:
+  - fig:4
+  basis: Medb cries out for Fergus to pursue Cuchulain quickly.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: watching army
+  assigned_to:
+  - fig:5
+  basis: The men of Erin see Cuchulain's flight, rejoice, and comment on it.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: absent true sword and wooden replacement
+  literal_form: Fergus's sword removed from its sheath and a wooden sword put in its
+    place
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: chariot of retreat
+  literal_form: Cuchulain's chariot, mounted before he flees from Fergus
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: White Battle
+  literal_form: A battle-name explained by the absence of blood on weapons
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Fergus arrives and announces combat
+  summary: Cuchulain welcomes Fergus and offers lodging, but Fergus says he has come
+    to fight and do battle.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: The missing sword is explained
+  summary: Cuchulain observes Fergus lacks a real sword, and the narration explains
+    that Ailill had replaced Fergus's sword with a wooden one.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Fergus negotiates a reciprocal retreat
+  summary: Fergus asks Cuchulain to give way before him by invoking their bond and
+    promises to retreat before Cuchulain later, causing the men of Erin to flee as
+    well.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Cuchulain flees in public view
+  summary: Cuchulain mounts his chariot and flees from Fergus before the men of Erin,
+    going as far as Grellach Dolluid.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Medb urges pursuit and Fergus refuses
+  summary: The men of Erin rejoice at Cuchulain's flight; Medb urges pursuit, but
+    Fergus refuses and says the feat is greater than the host could have achieved.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+- id: scene:6
+  label: The White Battle and onward march
+  summary: The episode is named the White Battle because no blood was shed on weapons,
+    and the army continues onward to camp in Crich Roiss.
+  figure_refs:
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: bloodless battle
+  taxonomy_refs: []
+  basis: The encounter is explicitly named the White Battle because no blood on weapons
+    resulted from it.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: This is a local episode label in the passage; no broader taxonomy mapping
+    is asserted.
+- id: motif:2
+  label: reciprocal strategic retreat
+  taxonomy_refs: []
+  basis: Fergus asks Cuchulain to retreat before him now and promises that he will
+    later retreat before Cuchulain, with the men of Erin following in flight.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage presents a tactical exchange rather than an explicit ritual
+    category.
+- id: motif:3
+  label: weapon substitution before combat
+  taxonomy_refs: []
+  basis: Ailill had removed Fergus's sword and replaced it with a wooden sword, leaving
+    Fergus without an effective weapon when he comes to fight.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage gives the substitution as backstory; it does not explicitly
+    frame Ailill's act as a mythic trickster pattern.
+- id: motif:4
+  label: foster-bond invoked in battle
+  taxonomy_refs: []
+  basis: Fergus invokes the honor and training he bestowed on Cuchulain to persuade
+    him to give way despite the combat setting.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: The social bond is explicit, but the passage does not define a formal
+    motif family for it.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 9076-9084
+  quote_or_summary: Cuchulain welcomes Fergus as master and offers lodging; Fergus
+    replies that he has come to fight and do battle.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; concise summary.
+- id: ev:2
+  type: summary
+  locator: lines 9084-9094
+  quote_or_summary: Cuchulain says Fergus has no sword in the sheath he bears; the
+    narration explains that Ailill had found Fergus's sword and replaced it with a
+    wooden sword.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; concise summary.
+- id: ev:3
+  type: summary
+  locator: lines 9095-9114
+  quote_or_summary: Fergus invokes the honor and training he bestowed on Cuchulain
+    and asks him to give way; he promises to retreat before Cuchulain later in the
+    Tain, so that all the men of Erin will flee as well.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; concise summary.
+- id: ev:4
+  type: summary
+  locator: lines 9114-9121
+  quote_or_summary: Cuchulain has his chariot brought, mounts it, and flees from Fergus
+    before the men of Erin as far as Grellach Dolluid.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; concise summary.
+- id: ev:5
+  type: summary
+  locator: lines 9121-9139
+  quote_or_summary: The men of Erin rejoice and say Cuchulain has fled; Medb urges
+    Fergus to pursue him, but Fergus refuses and says even four of the five provinces
+    could not have obtained so much from Cuchulain.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; concise summary.
+- id: ev:6
+  type: quote
+  locator: lines 9139-9145
+  quote_or_summary: The passage calls the episode Fergus's White Battle, since no
+    "blood on weapons" resulted, and then says the host marches past Cuchulain and
+    camps in Crich Roiss.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; short quotation used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is strong for figures, actions, and sequence. Motif labels
+    are descriptive and not mapped to supplied taxonomy families. No comparison claims
+    were made because the passage itself does not support cross-text comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used; footnote witness markers were not treated as narrative content.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:celtic-irish-tain-bo-cualnge-dunn-gutenberg__l9076-l9175
+  passage_sha256=eb1b09e093a7675549235d2b52603d5b941b82b4d55e643e5dee8b35c46bc20e

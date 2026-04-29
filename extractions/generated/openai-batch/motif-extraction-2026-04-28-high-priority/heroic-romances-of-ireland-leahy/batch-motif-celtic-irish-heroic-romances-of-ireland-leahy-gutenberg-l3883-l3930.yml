@@ -1,0 +1,389 @@
+---
+record_id: batch.motif.celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l3883-l3930
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+passage_locator:
+  label: INTRODUCTION / THE SICK-BED OF CUCHULAIN / THE EXILE OF THE SONS' OF USNACH
+    / INTRODUCTION; lines 3883-3930
+  start: '3883'
+  end: '3930'
+  translation: Heroic Romances of Ireland
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The introduction identifies the following text as a translation of the
+    Book of Leinster version of the tale of Deirdre, notes use of parallel manuscripts
+    where needed, and compares this older version with the Glenn Masain version. It
+    says Deirdre's final lament from the later version is included for comparison,
+    that the idea of Deirdre as a seer and a supernatural Druidic mist do not appear
+    in the Book of Leinster, and that later versions use literary devices such as
+    increasing horror after catastrophe by irrelevant or contrasting matter.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage introduces a version of the tale of Deirdre translated from the
+    Book of Leinster text, with readings from the Book of Lecan and Egerton 1782 where
+    the Leinster text is deficient or doubtful.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A verse translation of Deirdre's final lament from the Glenn Masain version
+    is said to have been added for comparison with the corresponding lament in the
+    Leinster text.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage states that the two lament poems are nearly the same length but
+    otherwise have no point in common.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage states that Deirdre as a seer is prominent in the Glenn Masain
+    version but does not appear in the older Leinster text.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage states that a supernatural Druidic mist appears only in a late
+    manuscript continuation of the Glenn Masain version and not in the Book of Leinster.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The passage describes a literary device in which Deirdre's death is followed
+    by a cheerful account of relationships among chief heroes of the Heroic Period.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The passage gives the tale of the murder of the son of Ronan as another example
+    where comic relief is introduced at a tragic point.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Deirdre
+  description: Named central figure of the tale; associated in the passage with a
+    final lament, a death, and, in the Glenn Masain version, a seer role.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:6
+- id: fig:2
+  name_or_label: Sons of Usnach
+  description: Named in the title of the introduced tale as exiles.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:8
+- id: fig:3
+  name_or_label: son of Ronan
+  description: Named as the murdered figure in another old Irish tale used as a literary
+    comparison.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:7
+- id: fig:4
+  name_or_label: chief heroes of the Heroic Period
+  description: A group whose relationships are described cheerfully after the tragedy
+    of Deirdre's death in the later version.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: lamenting figure
+  assigned_to:
+  - fig:1
+  basis: The passage refers to Deirdre's final lament and a corresponding lament in
+    the Leinster text.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: seer in later version
+  assigned_to:
+  - fig:1
+  basis: The passage says the idea of Deirdre as a seer is prominent in the Glenn
+    Masain version but absent from the older Leinster text.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: tragic deceased figure
+  assigned_to:
+  - fig:1
+  basis: The passage refers to the tragedy of Deirdre's death.
+  evidence_refs:
+  - ev:6
+- id: role:4
+  label: exiles named by title
+  assigned_to:
+  - fig:2
+  basis: The title names the episode as the exile of the sons of Usnach.
+  evidence_refs:
+  - ev:8
+- id: role:5
+  label: murder victim in comparative example
+  assigned_to:
+  - fig:3
+  basis: The passage names the murder of the son of Ronan as an example from old Irish
+    literature.
+  evidence_refs:
+  - ev:7
+- id: role:6
+  label: heroic kinship group
+  assigned_to:
+  - fig:4
+  basis: The passage says a cheerful account of relationships of chief heroes follows
+    Deirdre's death in the later version.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: supernatural Druidic mist
+  literal_form: mist
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:2
+  label: final lament
+  literal_form: lament poem
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+scenes:
+- id: scene:1
+  label: Textual introduction of the Deirdre tale
+  summary: The introduction identifies the Book of Leinster version as the main source
+    for the translated tale of Deirdre, supplemented by parallel manuscript readings
+    where necessary.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Comparison of Deirdre's laments
+  summary: The passage compares Deirdre's final lament in the Glenn Masain version
+    with the corresponding lament in the Leinster text, noting that the poems are
+    similar in length but otherwise different.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Later-version supernatural elements absent from Leinster
+  summary: The passage states that Deirdre as a seer and the supernatural Druidic
+    mist are features of later or parallel material and not of the older Book of Leinster
+    version.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Catastrophe followed by contrasting matter
+  summary: The passage describes Deirdre's death being followed by a cheerful account
+    of heroic relationships, and compares this device with comic relief in the tale
+    of the murder of the son of Ronan.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: exile or departure of named heroic figures
+  taxonomy_refs:
+  - departure
+  basis: The episode title names the exile of the sons of Usnach.
+  evidence_refs:
+  - ev:8
+  confidence: low
+  cautions: The passage is an introduction and title reference; it does not narrate
+    the exile itself in this line range.
+- id: motif:2
+  label: prophetic or seer heroine in variant tradition
+  taxonomy_refs:
+  - wisdom
+  basis: The introduction says the idea of Deirdre as a seer is prominent in the Glenn
+    Masain version, though absent from the older Leinster text.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: This is a feature attributed to a variant version, not to the Book of
+    Leinster version being introduced.
+- id: motif:3
+  label: supernatural obscuring mist
+  taxonomy_refs: []
+  basis: The introduction mentions a supernatural Druidic mist in a late continuation
+    of the Glenn Masain version and notes its absence from the Book of Leinster.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The available taxonomy list has no specific mist motif; the passage discusses
+    this as a textual variant rather than narrating the episode.
+- id: motif:4
+  label: lament after tragic death
+  taxonomy_refs: []
+  basis: The passage discusses Deirdre's final lament and the tragedy of Deirdre's
+    death.
+  evidence_refs:
+  - ev:2
+  - ev:6
+  confidence: medium
+  cautions: The introduction refers to laments and death rather than presenting the
+    lament or death scene itself.
+- id: motif:5
+  label: comic or cheerful contrast after catastrophe
+  taxonomy_refs: []
+  basis: The passage identifies a literary artifice in which horror at catastrophe
+    is intensified by irrelevant or cheerful matter, citing Deirdre's death and the
+    murder of the son of Ronan.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: This is a literary pattern identified by the editor, not a mythic episode
+    narrated directly in the passage.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares Deirdre's final lament in the Glenn Masain
+    version with the corresponding lament in the Leinster text, noting similar length
+    but otherwise little commonality.
+  claim_level: same_function
+  target: Deirdre's final lament in the Glenn Masain and Leinster versions
+  evidence_refs:
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is limited to editorial comments on the laments, not
+    a full analysis of their contents.
+- id: claim:2
+  claim: The passage contrasts the Glenn Masain and Book of Leinster versions by saying
+    Deirdre as seer and the supernatural Druidic mist belong to later or parallel
+    material and are absent from the older Leinster text.
+  claim_level: same_motif
+  target: Variant features in Glenn Masain versus Book of Leinster Deirdre tradition
+  evidence_refs:
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage supports only a textual-variant comparison; it does not
+    narrate the supernatural mist or seer episodes.
+- id: claim:3
+  claim: The passage compares the literary practice of contrasting tragic catastrophe
+    with irrelevant or comic relief in the Deirdre material and in the tale of the
+    murder of the son of Ronan.
+  claim_level: same_function
+  target: Catastrophe followed by contrasting relief in old Irish literature
+  evidence_refs:
+  - ev:6
+  - ev:7
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim concerns literary function as described by the editor, not
+    historical contact or shared origin.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3887-3894
+  quote_or_summary: The Deirdre tale is translated from the Book of Leinster text
+    printed by Windisch, with parallel readings from the Book of Lecan and Egerton
+    1782 used where needed.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 3904-3909
+  quote_or_summary: A verse translation of Deirdre's final lament from the Glenn Masain
+    version is added to compare it with the corresponding lament in the Leinster text.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 3909-3911
+  quote_or_summary: "“These two poems are nearly of the same length, but have no other
+    point in common.”"
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: summary
+  locator: lines 3913-3916
+  quote_or_summary: Deirdre as a seer is prominent in the Glenn Masain version but
+    does not appear in the older Leinster text.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 3916-3919
+  quote_or_summary: A supernatural Druidic mist appears only in a late manuscript
+    continuation of the Glenn Masain version and does not appear in the Book of Leinster.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 3919-3925
+  quote_or_summary: The later version uses literary artifices, including intensifying
+    horror after catastrophe with irrelevant matter; Deirdre's death is followed by
+    a cheerful account of relationships among chief heroes.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 3925-3928
+  quote_or_summary: A better example of this practice is said to occur in old Irish
+    literature at the tragic part of the tale of the murder of the son of Ronan, where
+    almost comic relief is introduced.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: quote
+  locator: lines 3883-3885
+  quote_or_summary: "“THE EXILE OF THE SONS' OF USNACH”"
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is editorial introduction rather than narrative, so motifs are
+    mostly textual-variant or literary-pattern candidates and require review before
+    being treated as narrative motifs.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the provided passage and metadata were used. Taxonomy refs were applied only where directly supportable and otherwise left empty.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:celtic-irish-heroic-romances-of-ireland-leahy-gutenberg__l3883-l3930
+  passage_sha256=9d5789a235456260fba8eda2628222975dffb7022422283a3f435dc83a1426b1

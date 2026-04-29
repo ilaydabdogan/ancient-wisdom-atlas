@@ -1,0 +1,378 @@
+---
+record_id: batch.motif.celtic-irish-gods-and-fighting-men-gregory-gutenberg-l15633-l15803
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+passage_locator:
+  label: PART ONE. BOOKS ONE, TWO, AND THREE / BOOK FOUR / THE EVER-LIVING LIVING
+    ONES / PART TWO. THE FIANNA; lines 15633-15803
+  start: '15633'
+  end: '15803'
+  translation: Gods and Fighting Men
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is a source and acknowledgement section for Part Two, The Fianna.
+    It lists story headings with manuscript, printed, and folk-source references,
+    then notes specific materials taken from Duanaire Finn and oral or folk sources,
+    including Grania's sleepy song, Finn's shield, Cumhal's treasure-bag, Finn's descent
+    from Ethlinn, and a story of Caoilte helping the King of Ireland in a dark wood.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage lists source references for many Fianna story headings, including
+    titles concerning Finn, Bran, Oisin, Diarmuid, Grania, caves, battles, and hunts.
+  category: other
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:2
+  text: The passage says Grania's sleepy song, the description of Finn's shield, the
+    description of Cumhal's treasure-bag, and Finn's descent from Ethlinn were taken
+    from Duanaire Finn.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:3
+  text: The passage says the author sometimes used parts of stories or comments gathered
+    directly from the people.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:4
+  text: The passage says the story of Caoilte coming to help the King of Ireland in
+    a dark wood is the only one given without either a literary or folk ancestry.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:5
+  text: The passage says Mr Yeats had written of Caoilte's burning hair in a poem
+    after having the story in mind.
+  category: attribute
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Finn
+  description: A named Fianna figure appearing in story headings and in the author's
+    note on Finn's shield and descent from Ethlinn.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Grania
+  description: A named figure whose sleepy song is mentioned as taken from Duanaire
+    Finn; also appears in the story heading Diarmuid and Grania.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Cumhal
+  description: A named figure associated with a treasure-bag described from Duanaire
+    Finn.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Ethlinn
+  description: A named figure from whom Finn is said to descend.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Caoilte
+  description: A named figure in a story where he comes to help the King of Ireland
+    in a dark wood; he is also associated with burning hair in Yeats's poem.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:6
+  name_or_label: King of Ireland
+  description: A royal figure whom Caoilte is said to help in a dark wood.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: Bran
+  description: A named figure in the story heading Birth of Bran.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:8
+  name_or_label: Oisin
+  description: A named Fianna figure appearing in headings concerning Oisin's mother,
+    Oisin's children, and Oisin and Patrick.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:9
+  name_or_label: Diarmuid
+  description: A named figure appearing in story headings concerning his birth, love-spot,
+    and Diarmuid and Grania.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: named Fianna-story figure
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  - fig:7
+  - fig:8
+  - fig:9
+  basis: These figures are named in Fianna story headings or in the author's notes
+    on Fianna materials.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:2
+  label: ancestor or descent figure
+  assigned_to:
+  - fig:4
+  basis: The passage states the fact of Finn's descent from Ethlinn.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: helper in dark wood story
+  assigned_to:
+  - fig:5
+  basis: The passage refers to a story of Caoilte coming to the help of the King of
+    Ireland in a dark wood.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: royal recipient of help
+  assigned_to:
+  - fig:6
+  basis: The passage identifies the King of Ireland as the one Caoilte comes to help.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: cave
+  literal_form: Cave in the story headings The Cave of Ceiscoran and Cave of Cruachan.
+  associated_figures: []
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: shield
+  literal_form: Finn's shield, whose description is said to come from Duanaire Finn.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: treasure-bag
+  literal_form: Cumhal's treasure-bag, whose description is said to come from Duanaire
+    Finn.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: dark wood
+  literal_form: A dark wood in the story of Caoilte helping the King of Ireland.
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: burning hair
+  literal_form: Caoilte's burning hair, mentioned as a phrase in a poem by Yeats.
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: quicken trees
+  literal_form: Quicken trees in the story heading House of the Quicken Trees.
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+- id: sym:7
+  label: under-wave
+  literal_form: Under-wave in the story heading Daughter of King Under-Wave.
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:8
+  label: hound
+  literal_form: The hound in the story heading The Hound.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Caoilte helps the King of Ireland in a dark wood
+  summary: The passage refers to a story in which Caoilte comes to the help of the
+    King of Ireland in a dark wood, while noting that this story lacks identified
+    literary or folk ancestry in the author's sources.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+- id: scene:2
+  label: Source attribution for Duanaire Finn materials
+  summary: The author attributes Grania's sleepy song, Finn's shield, Cumhal's treasure-bag,
+    and Finn's descent from Ethlinn to Duanaire Finn.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: hero birth story headings
+  taxonomy_refs: []
+  basis: The source list includes story headings Birth of Bran and Birth of Diarmuid.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: low
+  cautions: The passage provides only titles and source references, not narrative
+    details of the births.
+- id: motif:2
+  label: genealogical descent of hero
+  taxonomy_refs: []
+  basis: The author mentions the fact of Finn's descent from Ethlinn.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage gives no further genealogy, divine status, or narrative context.
+- id: motif:3
+  label: heroic aid in a dark wood
+  taxonomy_refs: []
+  basis: The passage refers to Caoilte coming to the help of the King of Ireland in
+    a dark wood.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage is a source note and does not narrate the episode beyond this
+    brief description.
+- id: motif:4
+  label: marvelous or fiery bodily attribute
+  taxonomy_refs: []
+  basis: The passage mentions the phrase Caoilte's burning hair in connection with
+    a poem by Yeats.
+  evidence_refs:
+  - ev:6
+  confidence: low
+  cautions: The phrase is reported as poetic wording, and the passage gives no mythic
+    explanation or episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 15633-15692
+  quote_or_summary: The passage begins Part Two, The Fianna, and lists source references
+    for story headings including The Coming of Finn, Birth of Bran, Oisin's Mother,
+    The Hound, Battle of the White Strand, The Cave of Ceiscoran, and Cave of Cruachan.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 15693-15758
+  quote_or_summary: The passage continues the source list with headings including
+    Wedding at Ceann Slieve, The Pigs of Angus, Hunt of Slieve Cuilinn, Oisin's Children,
+    Birth of Diarmuid, How Diarmuid Got His Love-Spot, Daughter of King Under-Wave,
+    House of the Quicken Trees, Diarmuid and Grania, and later Fianna ending and lament
+    materials.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: 15759-15764
+  quote_or_summary: '"I have taken Grania''s sleepy song, and the description of Finn''s
+    shield and of Cumhal''s treasure-bag, and the fact of Finn''s descent from Ethlinn,
+    from Duanaire Finn"'
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: summary
+  locator: 15764-15767
+  quote_or_summary: The author says she sometimes used parts of stories or comments
+    gathered directly from the people who kept the heroes in mind.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: 15767-15771
+  quote_or_summary: '"The story of Caoilte coming to the help of the King of Ireland
+    in a dark wood is the only one I have given without either a literary or a folk
+    ancestry."'
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source; short quotation.
+- id: ev:6
+  type: summary
+  locator: 15771-15773
+  quote_or_summary: The author says the story was heard or read by Mr Yeats, who had
+    written of Caoilte's burning hair in one of his poems.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 15775-15803
+  quote_or_summary: The author thanks Kuno Meyer, Whitley Stokes, and Standish Hayes
+    O'Grady for discovery, translation, and source materials relating to Irish literature.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: The passage is primarily bibliographic and authorial source commentary rather
+    than a narrative episode. Extracted motifs are based on titles or brief authorial
+    references only and need human review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were made because the passage provides source attributions but does not itself establish comparative motif relationships.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:celtic-irish-gods-and-fighting-men-gregory-gutenberg__l15633-l15803
+  passage_sha256=8954c72b4e7a11703bbd4a57d560f8dca280fe561fd2bd544bf38d082e68ef9b

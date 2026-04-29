@@ -1,0 +1,291 @@
+---
+record_id: batch.motif.celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l7028-l7052
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+passage_locator:
+  label: PAGE 31 / PAGE 32 / MAC DATHO'S BOAR / PAGE 37; lines 7028-7052
+  start: '7028'
+  end: '7052'
+  translation: Heroic Romances of Ireland
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Editorial notes to Mac Datho's Boar mention a variant description of a
+    hound as guardian of Leinster or able to run around Leinster in a day, identify
+    this as the only supernatural touch in either version, cite a Rawlinson verse
+    about Mesroda son of Datho, and explain references to Irish hostelries and related
+    figures or tales.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: 'A Rawlinson version gives a variant for the hound: instead of being guardian
+    of all Leinster, it would run round Leinster in a day.'
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The note describes the hound's power as semi-supernatural and says it is the
+    only supernatural touch in either version of the tale.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A verse naming Mesroda son of Datho is said to come from the Rawlinson manuscript.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The list of hostelries or guest-houses of Ireland includes the scene of the
+    Togail Da Derga.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The note says Conaire, king of Ireland, was killed in the sack of the Togail
+    Da Derga setting.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Forgall the Wily is identified as the father of Emer, Cuchulain's wife.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The tale of the plunder of da Choca is located in a Trinity College Dublin
+    manuscript classed as H. 3, 18.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: the hound
+  description: A hound connected with Leinster, described in variant readings as guardian
+    of all Leinster or as able to run round Leinster in a day.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Mesroda son of Datho
+  description: Named in a verse from the Rawlinson manuscript.
+  role_refs: []
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Conaire
+  description: King of Ireland, said to have been killed in the sack of the Togail
+    Da Derga setting.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Forgall the Wily
+  description: Identified as the father of Emer.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Emer
+  description: Identified as Cuchulain's wife and daughter of Forgall the Wily.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Cuchulain
+  description: Identified through his relationship to Emer, who is called his wife.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: semi-supernatural hound
+  assigned_to:
+  - fig:1
+  basis: The note calls the hound's power semi-supernatural and describes a variant
+    ability to run round Leinster in a day.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: king of Ireland
+  assigned_to:
+  - fig:3
+  basis: Conaire is explicitly called king of Ireland.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: father
+  assigned_to:
+  - fig:4
+  basis: Forgall the Wily is identified as the father of Emer.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: daughter
+  assigned_to:
+  - fig:5
+  basis: Emer is identified as the child of Forgall the Wily.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: wife
+  assigned_to:
+  - fig:5
+  basis: Emer is identified as Cuchulain's wife.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: husband
+  assigned_to:
+  - fig:6
+  basis: Cuchulain is identified as the husband of Emer by the phrase naming Emer
+    as his wife.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: supernatural hound
+  literal_form: hound with semi-supernatural power
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: guest-house or hostelry
+  literal_form: hostelries or guest-houses of Ireland, including the Togail Da Derga
+    setting
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Variant description of the Leinster hound
+  summary: The note reports variant descriptions of a hound as guardian of all Leinster
+    or able to run round Leinster in a day, and identifies this as the tale's only
+    supernatural element.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Reference to the sack of Togail Da Derga
+  summary: The note states that a list of Irish guest-houses includes the scene of
+    the Togail Da Derga, in whose sack Conaire, king of Ireland, was killed.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Kinship identification of Forgall, Emer, and Cuchulain
+  summary: The note identifies Forgall the Wily as Emer's father and Emer as Cuchulain's
+    wife.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: semi-supernatural guardian or swift hound
+  taxonomy_refs: []
+  basis: The passage's note identifies a hound with an extraordinary Leinster-wide
+    guardianship or day-long circuit ability and explicitly calls this a semi-supernatural
+    power.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage is an editorial note and gives only a brief variant description,
+    not a full narrative episode.
+- id: motif:2
+  label: death of a king in a sacked guest-house
+  taxonomy_refs: []
+  basis: The note states that Conaire, king of Ireland, was killed in the sack of
+    a setting associated with Togail Da Derga and included among Irish hostelries
+    or guest-houses.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: This is a cross-reference to another tale rather than an episode narrated
+    in the passage.
+comparison_claims:
+- id: claim:1
+  claim: The passage connects its list of Irish hostelries or guest-houses with the
+    nearby Irish tale Togail Da Derga by identifying one listed setting as the place
+    where Conaire was killed.
+  claim_level: same_function
+  target: Togail Da Derga within the Irish heroic-romance corpus
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The note provides a literary cross-reference and setting association
+    only; it does not argue historical contact or shared origin.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 7034-7038
+  quote_or_summary: 'Variant: the hound was either guardian of all Leinster or "would
+    run round Leinster in a day"; the note calls this the only supernatural touch
+    in either version.'
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: lines 7040-7044
+  quote_or_summary: The note says the verse naming Mesroda son of Datho is from the
+    Rawlinson manuscript and gives a reference for its literal version.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 7046-7049
+  quote_or_summary: The list of hostelries or guest-houses includes the scene of Togail
+    Da Derga, where Conaire, king of Ireland, was killed in the sack.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 7049-7050
+  quote_or_summary: '"Forgall the Wily was the father of Emer, Cuchulain''s wife."'
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:5
+  type: summary
+  locator: lines 7050-7052
+  quote_or_summary: The tale of the plunder of da Choca is said to be in a Trinity
+    College Dublin manuscript classed as H. 3, 18.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage consists of editorial notes rather than a continuous mythic narrative.
+    Extraction is limited to stated variants, named figures, settings, and cross-references.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No available taxonomy reference was assigned; none of the supplied motif-family or symbol IDs is directly supported by the passage.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:celtic-irish-heroic-romances-of-ireland-leahy-gutenberg__l7028-l7052
+  passage_sha256=1cc22f325fac5fd39edb56b1135d8d0ce11e3d7b71401abade13a63131bec83f

@@ -1,0 +1,533 @@
+---
+record_id: batch.motif.celtic-irish-tain-bo-cualnge-dunn-gutenberg-l10737-l10825
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+passage_locator:
+  label: XVIII / HERE NOW IS TOLD THE MISTHROW AT BELACH EOIN. / HERE NOW FOLLOWETH
+    THE DISGUISING OF TAMON / HERE NOW COMETH THE HEAD-PLACE OF FERCHU; lines 10737-10825
+  start: '10737'
+  end: '10825'
+  translation: The Ancient Irish Epic Tale Tain Bo Cualnge
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Cuchulain and Ferdiad choose weapons and fight at the ford over two days.
+    After the first day of spear-casting, they make a truce, kiss in remembrance of
+    friendship, share quarters for horses and attendants, receive healing, and exchange
+    equal portions of remedies and provisions. On the next day they fight with lances
+    from chariots until horses, drivers, and warriors are exhausted, and Cuchulain
+    calls for the combat to cease.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Ferdiad asks which weapons they will use next, and Cuchulain grants him the
+    choice until nightfall because Ferdiad first reached the ford.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: They choose straight-cut, smooth-hardened throwing-spears with flax cords
+    and take up hard, equally strong shields.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: They cast spears at each other from noon until evening, and each wounds and
+    reddens the other.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Ferdiad proposes a truce, Cuchulain agrees, and they cease fighting and hand
+    their arms to their charioteers.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The two warriors meet in the middle of the ford, put hands on each other's
+    necks, and give three kisses in remembrance of fellowship and friendship.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Their horses stay in one paddock, and their charioteers stay at one fire and
+    prepare rush beds with pillows for the wounded men.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Healing and curing folk apply herbs, grasses, and a curing charm to the warriors'
+    wounds.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Cuchulain sends an equal portion of his healing remedies across the ford to
+    Ferdiad so that Ferdiad will not have received less care if he falls by Cuchulain's
+    hand.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: Ferdiad sends an equal portion of food and strong drink over the ford to Cuchulain
+    because Ferdiad has more purveyors.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: The next morning Cuchulain chooses well-tempered lances and chariot combat,
+    and Ferdiad assents.
+  category: speech
+  evidence_refs:
+  - ev:9
+- id: obs:11
+  text: They fight with lances from morning twilight until evening, leaving severe
+    wounds described as open enough for birds to pass through.
+  category: action
+  evidence_refs:
+  - ev:10
+- id: obs:12
+  text: At evening the horses are spent, the drivers wearied, and the heroes exhausted;
+    Cuchulain calls for the combat to stop.
+  category: sequence
+  evidence_refs:
+  - ev:11
+figures:
+- id: fig:1
+  name_or_label: Cuchulain
+  description: Warrior who fights Ferdiad at the ford, alternates weapon choice, accepts
+    and later calls truces, receives healing, and sends equal healing portions to
+    Ferdiad.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:7
+  - ev:9
+  - ev:11
+- id: fig:2
+  name_or_label: Ferdiad
+  description: Warrior who fights Cuchulain at the ford, chooses the first day's weapons,
+    proposes a truce, receives healing portions, and sends food and drink to Cuchulain.
+  role_refs:
+  - role:1
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:7
+  - ev:8
+  - ev:9
+- id: fig:3
+  name_or_label: Charioteers
+  description: Attendants who receive the warriors' arms, share one fire, and prepare
+    beds for the wounded warriors.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:4
+  name_or_label: Healing and curing folk
+  description: People who come to heal and cure the warriors and apply herbs, grasses,
+    and a curing charm to their wounds.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: Horses
+  description: The warriors' horses stay in one paddock at night and become spent
+    during the second day's chariot combat.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+  - ev:11
+- id: fig:6
+  name_or_label: Men of Erin
+  description: Purveyors to Ferdiad who bring food and drink and seek to have him
+    keep Cuchulain off from them.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:8
+- id: fig:7
+  name_or_label: Inhabitants of Mag Breg
+  description: Purveyors to Cuchulain who come daily or nightly to converse with him.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: opposing combatant
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Cuchulain and Ferdiad repeatedly cast and thrust weapons at each other at
+    the ford.
+  evidence_refs:
+  - ev:2
+  - ev:10
+- id: role:2
+  label: former friend or fellow
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: They exchange three kisses in remembrance of fellowship and friendship.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: provider of reciprocal healing care
+  assigned_to:
+  - fig:1
+  basis: Cuchulain sends equal portions of healing herbs, grasses, and charms to Ferdiad.
+  evidence_refs:
+  - ev:7
+- id: role:4
+  label: provider of reciprocal provisions
+  assigned_to:
+  - fig:2
+  basis: Ferdiad sends equal portions of food and drink to Cuchulain.
+  evidence_refs:
+  - ev:8
+- id: role:5
+  label: martial attendant
+  assigned_to:
+  - fig:3
+  basis: The charioteers receive arms, share a fire, and prepare beds.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:6
+  label: healer
+  assigned_to:
+  - fig:4
+  basis: The healing and curing folk come to heal and apply remedies.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: chariot-combat animals
+  assigned_to:
+  - fig:5
+  basis: The horses are kept together and later are spent in chariot combat.
+  evidence_refs:
+  - ev:5
+  - ev:11
+- id: role:8
+  label: purveyor
+  assigned_to:
+  - fig:6
+  - fig:7
+  basis: The passage identifies the men of Erin as purveyors to Ferdiad and the inhabitants
+    of Mag Breg as purveyors to Cuchulain.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: ford of combat
+  literal_form: ford
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:7
+  - ev:8
+  - ev:9
+- id: sym:2
+  label: chosen weapons
+  literal_form: throwing-spears, shields, lances, chariots
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:9
+  - ev:10
+- id: sym:3
+  label: three kisses of fellowship
+  literal_form: three kisses
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: shared fire
+  literal_form: one and the same fire
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: healing remedies
+  literal_form: healing herbs, grasses, and a curing charm
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: sym:6
+  label: reciprocal provisions
+  literal_form: food, savoury, soothing and strong drink
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: First weapon choice and spear-casting combat
+  summary: Ferdiad chooses throwing-spears, both warriors take shields, and they cast
+    spears at each other from noon until evening, wounding each other.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Truce and gestures of friendship
+  summary: Ferdiad proposes a truce, the warriors cease fighting, hand off their weapons,
+    meet in the middle of the ford, and exchange three kisses in remembrance of friendship.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Night lodging and healing
+  summary: The horses and charioteers share quarters, beds are made for the wounded
+    warriors, healers apply remedies, and Cuchulain sends Ferdiad an equal portion
+    of the healing treatments.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: scene:4
+  label: Reciprocal sharing of provisions
+  summary: Ferdiad sends an equal portion of food and drink to Cuchulain because his
+    supply network is larger.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:6
+  evidence_refs:
+  - ev:8
+- id: scene:5
+  label: Second day of chariot and lance combat
+  summary: On the following day Cuchulain chooses lance and chariot combat; both warriors
+    fight until evening, and Cuchulain calls for a halt when horses, drivers, and
+    warriors are exhausted.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:9
+  - ev:10
+  - ev:11
+candidate_motifs:
+- id: motif:1
+  label: ritualized single combat with alternating weapon choice
+  taxonomy_refs: []
+  basis: The two named warriors fight at a ford, alternate the right to choose weapons,
+    and observe formal rules for stopping the fighting.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:9
+  - ev:11
+  confidence: high
+  cautions: This is a passage-level combat pattern rather than a listed taxonomy family.
+- id: motif:2
+  label: friendship maintained within mortal combat
+  taxonomy_refs: []
+  basis: Despite wounding each other, the warriors make a truce, exchange kisses in
+    remembrance of fellowship, share care, and resume combat the next day.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:7
+  - ev:8
+  - ev:10
+  confidence: high
+  cautions: The passage does not explain the larger narrative cause of their opposition.
+- id: motif:3
+  label: reciprocal exchange between opponents
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Cuchulain sends Ferdiad equal healing remedies, and Ferdiad sends Cuchulain
+    equal food and drink across the ford.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The exchange is martial and ethical in context; the passage does not explicitly
+    call it sacred.
+- id: motif:4
+  label: liminal combat at a ford
+  taxonomy_refs: []
+  basis: The duel takes place at the ford of combat; opponents meet in the middle
+    of the ford and send remedies and provisions across it.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:7
+  - ev:8
+  - ev:9
+  confidence: medium
+  cautions: The passage establishes the ford as the combat setting, but broader symbolic
+    significance requires context beyond the excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 10737-10748
+  quote_or_summary: Ferdiad asks which weapons to use; Cuchulain grants him choice
+    until nightfall because Ferdiad first reached the ford; Ferdiad chooses straight-cut
+    throwing-spears with flax cords, and both take hard shields.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 10748-10755
+  quote_or_summary: They cast spears at each other from noon until the sun yellows
+    at evening, with equal excellence in defense and throwing, and each wounds the
+    other.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 10755-10766
+  quote_or_summary: Ferdiad asks for a truce; Cuchulain agrees; they stop fighting
+    and throw their arms into the hands of their charioteers.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: 10768-10772
+  quote_or_summary: '"each of them put his hand on the other''s neck and gave him
+    three kisses" in remembrance of fellowship and friendship.'
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; short quotation.
+- id: ev:5
+  type: summary
+  locator: 10772-10775
+  quote_or_summary: Their horses are in the same paddock, their charioteers at the
+    same fire, and the charioteers make rush beds with pillows for the wounded men.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 10775-10782
+  quote_or_summary: Healing and curing folk come and lay healing herbs, grasses, and
+    a curing charm on the warriors' wounds.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 10782-10790
+  quote_or_summary: Cuchulain sends a like portion of every healing herb, grass, and
+    curing charm across the ford to Ferdiad, so that Ferdiad will not be said to have
+    had less care if he falls.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: 10791-10801
+  quote_or_summary: Ferdiad sends Cuchulain a like portion of food, savoury, and strong
+    drink; Ferdiad has more purveyors, while only the inhabitants of Mag Breg supply
+    Cuchulain and converse with him.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: 10802-10813
+  quote_or_summary: The next morning Cuchulain asks about weapons; Ferdiad says the
+    choice is Cuchulain's; Cuchulain chooses well-tempered lances and chariot combat,
+    and Ferdiad agrees.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: 10813-10820
+  quote_or_summary: Both warriors take broad shields and lances and fight from early
+    morning twilight until evening; the passage hyperbolically describes birds carrying
+    blood and flesh through their wounds.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summarized.
+- id: ev:11
+  type: summary
+  locator: 10820-10825
+  quote_or_summary: At evening their horses are spent, drivers wearied, and the heroes
+    exhausted; Cuchulain proposes stopping and speaks verses about not breaking the
+    chariots and hobbling the steeds.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is strong for the supplied passage. Motif labels are cautious
+    and passage-level; only one taxonomy family is tentatively referenced, because
+    the passage does not explicitly frame the exchange as sacred.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not support a comparison to another tradition or corpus beyond its own local combat pattern.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:celtic-irish-tain-bo-cualnge-dunn-gutenberg__l10737-l10825
+  passage_sha256=37fa7d19b46d270fb47919add2ae9367d07535d158efc32b123a48b34d43e97c

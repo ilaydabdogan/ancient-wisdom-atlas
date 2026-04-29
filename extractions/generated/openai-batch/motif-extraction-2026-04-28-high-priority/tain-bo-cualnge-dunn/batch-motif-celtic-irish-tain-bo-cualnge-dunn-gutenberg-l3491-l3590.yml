@@ -1,0 +1,457 @@
+---
+record_id: batch.motif.celtic-irish-tain-bo-cualnge-dunn-gutenberg-l3491-l3590
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+passage_locator:
+  label: THE PILLOW-TALK / THIS IS THE ROUTE OF THE TAIN / THE MARCH OF THE HOST /
+    THE YOUTHFUL EXPLOITS OF CUCHULAIN; lines 3491-3590
+  start: '3491'
+  end: '3590'
+  translation: The Ancient Irish Epic Tale Tain Bo Cualnge
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: At a guarded ford, Conall Cernach warns the armed boy Cuchulain that he
+    is too young for warrior deeds. Cuchulain asks to take over the provincial watch
+    and then heads south toward a border station. Conall follows to protect him, but
+    Cuchulain disables Conall's chariot with a stone cast, causing Conall to turn
+    back under an Ulster geis concerning damaged chariots. Cuchulain continues with
+    Ibar to Fertas Locha Echtrann and then asks about Sliab Moduirn and its white
+    cairn, directing Ibar to drive there.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Conall Cernach is stationed to guard the province at a ford, as Ulster champions
+    take turns guarding approaches so that arrivals are met before reaching Emain
+    unnoticed.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Conall identifies Cuchulain's arms and says he thinks it is too soon for the
+    boy to take arms or fight a warrior.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Cuchulain asks Conall to go home and leave him to keep the watch and guard
+    of the province.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Cuchulain says he will go south to Fertas Locha Echtrann, where champions
+    are accustomed to stand, and says he may redden his hands that day.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Conall follows Cuchulain to protect him from going alone into peril on the
+    border.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Cuchulain throws a hand-stone from his sling at Conall's chariot, breaks the
+    chariot-collar, and Conall falls with an injury.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Cuchulain says he cast the stone to test whether his cast is straight and
+    whether he has warrior material in him.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Cuchulain invokes a geis among the men of Ulster against proceeding after
+    a mishap to their chariots, and Conall turns back.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Cuchulain remains at Fertas Locha Echtrann until the end of the day and finds
+    no one there before them.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: Ibar urges a return to Emain because food distribution has begun and Cuchulain
+    has an assigned place there between Conchobar's feet.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: Cuchulain asks about Sliab Moduirn and then about the white cairn on the mountain,
+    and orders Ibar to drive to the cairn.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Cuchulain / the little boy / the lad
+  description: A young armed boy who seeks to keep watch, go to border stations, test
+    his cast, and travel to the mountain cairn.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:7
+- id: fig:2
+  name_or_label: Conall Cernach
+  description: An Ulster champion guarding the province who warns Cuchulain, tries
+    to protect him, is stopped by damage to his chariot, and turns back.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Ibar
+  description: Cuchulain's charioteer, who answers questions, fetches horses, urges
+    return to Emain, and identifies Sliab Moduirn and the white cairn.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:6
+  - ev:7
+- id: fig:4
+  name_or_label: Conchobar
+  description: A ruler or household head at Emain whose feet are the assigned seating
+    place for Cuchulain and whose hostlers and tumblers are mentioned by Ibar.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: champions / men of Ulster
+  description: A collective group whose champions rotate guard duty and whose geis
+    about damaged chariots is invoked.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:1
+  - ev:5
+roles:
+- id: role:1
+  label: provincial guardian
+  assigned_to:
+  - fig:2
+  basis: Conall is keeping watch and ward of the province at the ford.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: youthful armed warrior-candidate
+  assigned_to:
+  - fig:1
+  basis: Conall says the boy has taken arms but is not yet capable of deeds, while
+    the boy seeks opportunities for combat.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: protective elder champion
+  assigned_to:
+  - fig:2
+  basis: Conall follows Cuchulain to prevent him from going alone into peril on the
+    border.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: weapon-tester
+  assigned_to:
+  - fig:1
+  basis: Cuchulain casts a stone at the chariot and says he did it to test his aim
+    and warrior capacity.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: charioteer and guide
+  assigned_to:
+  - fig:3
+  basis: Ibar answers Cuchulain's questions, fetches horses, and drives with him.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:6
+  label: household ruler mentioned
+  assigned_to:
+  - fig:4
+  basis: Ibar refers to Cuchulain's assigned place between Conchobar's feet and to
+    Conchobar's household.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: collective warrior order
+  assigned_to:
+  - fig:5
+  basis: Ulster champions rotate guard duty, and the men of Ulster share a geis about
+    chariot mishaps.
+  evidence_refs:
+  - ev:1
+  - ev:5
+symbols:
+- id: sym:1
+  label: ford watchpoint
+  literal_form: ford where Conall guards the province
+  associated_figures:
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: taken arms
+  literal_form: weapons taken by Cuchulain
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: border station
+  literal_form: Fertas Locha Echtrann, a place where champions take stand
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: sym:4
+  label: sling-stone cast
+  literal_form: hand-stone hurled from a sling
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: damaged chariot
+  literal_form: Conall's chariot with broken collar after the stone cast
+  associated_figures:
+  - fig:2
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:6
+  label: mountain
+  literal_form: Sliab Moduirn
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:7
+- id: sym:7
+  label: white cairn
+  literal_form: Finncharn, the white cairn on the height of Sliab Moduirn
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Conall warns the armed boy at the ford
+  summary: At the provincial watch, Conall confirms Cuchulain has taken arms but warns
+    that he is too young for fighting and should not keep the guard alone.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Cuchulain seeks the border and rejects protection
+  summary: Cuchulain announces his intention to go south to Fertas Locha Echtrann,
+    while Conall insists on following to protect him from border peril.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Stone cast stops Conall's chariot
+  summary: Cuchulain uses a sling-stone to break Conall's chariot-collar, explains
+    the act as a test of his cast, and uses the Ulster geis about chariot mishaps
+    to make Conall turn back.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Journey from Fertas to the white cairn
+  summary: After waiting at Fertas without encounter, Ibar urges return to Emain,
+    but Cuchulain asks about Sliab Moduirn and its white cairn and directs Ibar to
+    proceed there.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: youthful warrior initiation by taking arms
+  taxonomy_refs:
+  - initiation
+  basis: The passage centers on a young boy who has taken arms despite elders' doubts
+    and seeks proof that he can perform warrior deeds.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage presents a stage in a martial initiation, but no formal rite
+    is described in this excerpt.
+- id: motif:2
+  label: departure from protective supervision into peril
+  taxonomy_refs:
+  - departure
+  basis: Cuchulain repeatedly resists Conall's protection, goes toward border danger,
+    and engineers Conall's return so that he can continue independently.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The departure is local and martial rather than a full exile or long quest
+    in this excerpt.
+- id: motif:3
+  label: heroic test of weapon skill
+  taxonomy_refs: []
+  basis: Cuchulain casts a stone from his sling and explicitly says the act tests
+    whether his cast is straight and whether he has warrior material in him.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The target is Conall's chariot rather than an enemy combatant.
+- id: motif:4
+  label: boundary watch and threshold encounter
+  taxonomy_refs: []
+  basis: The action begins at a guarded ford and moves toward a border station where
+    champions stand, emphasizing watched boundaries and controlled access to Emain.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: This is a setting-pattern rather than a developed narrative motif in the
+    excerpt.
+- id: motif:5
+  label: journey toward mountain cairn
+  taxonomy_refs: []
+  basis: Cuchulain asks about Sliab Moduirn and the white cairn on its height and
+    commands Ibar to drive there.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The symbolic or narrative function of the cairn is not revealed within
+    the supplied passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 3491-3500
+  quote_or_summary: Conall Cernach guards the province at a ford; Ulster champions
+    take turns on Sliab Fuait so that no one comes to Emain unperceived.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: 3500-3520
+  quote_or_summary: Conall says the boy has taken arms too soon and is not yet able
+    to fight a warrior; Cuchulain asks Conall to go home and leave him the provincial
+    watch.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: 3520-3537
+  quote_or_summary: Cuchulain proposes going south to Fertas Locha Echtrann, where
+    champions stand, and Conall says he will follow to keep the boy from going alone
+    into peril on the border.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: 3545-3562
+  quote_or_summary: Cuchulain casts a hand-stone from his sling at Conall's chariot,
+    breaks the chariot-collar, and says he did it to test his aim and warrior capacity.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: 3562-3572
+  quote_or_summary: Cuchulain tells Conall to go back, invoking an Ulster geis against
+    proceeding after a mishap to a chariot; Conall turns back to the Ford of Watching.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:6
+  type: summary
+  locator: 3573-3583
+  quote_or_summary: Cuchulain waits at Fertas Locha Echtrann until day's end; Ibar
+    urges return to Emain, where food distribution has begun and Cuchulain has an
+    assigned place between Conchobar's feet.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:7
+  type: summary
+  locator: 3583-3590
+  quote_or_summary: Cuchulain asks Ibar about Sliab Moduirn and the white cairn called
+    Finncharn on the mountain height, then tells him to drive to the cairn.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal sequence and figures are explicit in the passage. Motif labels
+    are candidate classifications based only on this excerpt; no comparison claims
+    are made because the passage does not itself compare traditions or motif families.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Taxonomy references are limited to supplied available refs; only the mountain symbol uses an available symbol ref.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:celtic-irish-tain-bo-cualnge-dunn-gutenberg__l3491-l3590
+  passage_sha256=d8f1a96f819fbc316262c8d5aa03452f6b5f4c9cd0cc9e636e7bc53495437c91

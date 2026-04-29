@@ -1,0 +1,249 @@
+---
+record_id: batch.motif.celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l7351-l7362
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+passage_locator:
+  label: PAGE 58 / PAGE 59 / PAGE 60 / PAGE 61; lines 7351-7362
+  start: '7351'
+  end: '7362'
+  translation: Heroic Romances of Ireland
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A translator's note discusses the Irish phrase rendered “Hath released
+    her,” explaining that it is often understood as Manannan having deserted Fand,
+    after which she turned to Cuchulain. The note argues that the verb need not mean
+    desertion and may mean that Manannan left Fand free to pursue her own course.
+    It identifies Manannan as the Sea God, described as the Celtic Poseidon.
+  language: English, with cited Irish phrase
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage glosses the Irish phrase “ros leci” as “Hath released her.”
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that the words are usually taken to mean that Manannan
+    had deserted Fand and that she then turned to Cuchulain.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage states that “to desert” is not the only meaning of the verb “lecim.”
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage states that in a second form of the story Fand seems to have left
+    Manannan.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage offers the interpretation that Manannan may have left Fand at
+    liberty to pursue her own course.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The passage identifies Manannan as the Sea God and as the Celtic Poseidon.
+  category: attribute
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Manannan
+  description: A figure connected with Fand; identified in the note as the Sea God
+    and the Celtic Poseidon.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Fand
+  description: A figure said to have been deserted or released by Manannan in one
+    interpretation, and to have left Manannan in another form of the story.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Cuchulain
+  description: A figure to whom Fand is said to have turned in the usual interpretation
+    described by the note.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: Sea God
+  assigned_to:
+  - fig:1
+  basis: The passage explicitly identifies Manannan as the Sea God.
+  evidence_refs:
+  - ev:6
+- id: role:2
+  label: divine husband
+  assigned_to:
+  - fig:1
+  basis: The passage compares Manannan's possible release of Fand to what divine husbands
+    often did in other mythologies.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: released or departing woman
+  assigned_to:
+  - fig:2
+  basis: The passage discusses whether Fand was deserted or released by Manannan,
+    and notes another version in which she seems to have left him.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: role:4
+  label: alternative beloved or partner
+  assigned_to:
+  - fig:3
+  basis: The usual interpretation described in the note says Fand turned to Cuchulain
+    after Manannan deserted her.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: sea divinity
+  literal_form: Sea God / Celtic Poseidon
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Manannan releases or deserts Fand
+  summary: The note discusses whether the phrase means that Manannan deserted Fand,
+    leading her to turn to Cuchulain, or instead that Manannan left Fand free to choose
+    her own course.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: divine husband releases beloved to choose her course
+  taxonomy_refs:
+  - divine_beloved
+  basis: The passage proposes that Manannan may have left Fand at liberty and explicitly
+    relates this to the behavior of divine husbands in other mythologies.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: This is a translator's explanatory note rather than a direct narrative
+    episode; the taxonomy link is approximate.
+- id: motif:2
+  label: sea god compared with Poseidon
+  taxonomy_refs: []
+  basis: The passage identifies Manannan as the Sea God and calls him the Celtic Poseidon.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: This is an explicit scholarly comparison in the note, not a developed
+    narrative motif in the excerpt.
+comparison_claims:
+- id: claim:1
+  claim: The passage cautiously compares Manannan's role to sea-god figures by calling
+    him the Celtic Poseidon.
+  claim_level: same_function
+  target: Poseidon as sea god
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage gives only the equivalence label and does not develop a
+    detailed comparison.
+- id: claim:2
+  claim: The note suggests that a divine husband allowing a beloved to pursue her
+    own course is a pattern found in other mythologies.
+  claim_level: same_motif
+  target: divine husbands in other mythologies releasing or allowing wives freedom
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The other mythologies are not named, and no specific parallel texts
+    are cited in the passage.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 7351-7352
+  quote_or_summary: "“Hath released her,” Irish ros leci."
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: 7352-7355
+  quote_or_summary: The note says the words are usually understood to mean that Manannan
+    had deserted Fand and that she then turned to Cuchulain.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 7354-7355
+  quote_or_summary: The note states that “to desert” is not the only possible meaning
+    of “lecim.”
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 7355-7356
+  quote_or_summary: The note says that in the second form of the story Fand seems
+    to have left Manannan.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 7358-7361
+  quote_or_summary: The note proposes that Manannan may simply have left Fand free
+    to pursue her own course, adding that divine husbands often did this in other
+    mythologies.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: quote
+  locator: 7361-7362
+  quote_or_summary: "“Manannan is, of course, the Sea God, the Celtic Poseidon.”"
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; short excerpt used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is a translator's note interpreting a phrase and making explicit
+    comparisons; narrative action is indirect and should be reviewed against the surrounding
+    story.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No taxonomy symbol was assigned because the passage mentions the sea but the provided symbol list includes water, not sea; sea divinity was recorded without a taxonomy reference.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:celtic-irish-heroic-romances-of-ireland-leahy-gutenberg__l7351-l7362
+  passage_sha256=651933c26550e9f8a80f6eacf8175ebd6cc30761d9946d1b83b3979b5a89e3c0

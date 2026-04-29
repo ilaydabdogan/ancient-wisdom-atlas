@@ -1,0 +1,199 @@
+---
+record_id: batch.motif.celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l8567-l8587
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+passage_locator:
+  label: PAGE 148 / PAGE 149 / PAGE 150 / PAGE 151; lines 8567-8587
+  start: '8567'
+  end: '8587'
+  translation: Heroic Romances of Ireland
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage consists of editorial notes on poem lines: a line directing
+    people to a swift battle from German the green-terrible, a gloss identifying the
+    Torrian Sea with the Mediterranean, a literal rendering contrasting one speaker
+    alive with another in death, and a lexical note on a phrase about wars being gay
+    or games.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: An editorial note gives lines 11 and 12 of a poem as a command for all to
+    go to a swift battle that will come from German the green-terrible.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The editor adds an uncertain alternative explanation connecting the wording
+    with a terrible green spear.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: An editorial note identifies the Torrian Sea as the Mediterranean.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A literal rendering of another line contrasts one addressed as being in death
+    with the speaker as alive and nimble.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A lexical note discusses the phrase translated as wars being gay, suggesting
+    meanings such as game, little, scanty, or sport, with disagreement among translators.
+  category: other
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: German the green-terrible
+  description: Named figure or entity from whom the swift battle is said to come in
+    the quoted poem line.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: unnamed speaker
+  description: The speaker in the literal line rendered as alive and nimble.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: unnamed addressee in death
+  description: The addressee in the literal line rendered as being in death.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: source of approaching battle
+  assigned_to:
+  - fig:1
+  basis: The battle is described as coming from German the green-terrible.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: living speaker
+  assigned_to:
+  - fig:2
+  basis: The literal rendering says, "I alive and nimble."
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: dead or death-associated addressee
+  assigned_to:
+  - fig:3
+  basis: The literal rendering says, "Thou in death."
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: Torrian Sea / Mediterranean
+  literal_form: sea
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: terrible green spear
+  literal_form: spear
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: swift battle
+  literal_form: battle
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: death
+  literal_form: state of death
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Command to go to approaching battle
+  summary: The quoted poem line commands all to go to a swift battle that will come
+    from German the green-terrible, with an uncertain gloss involving a green spear.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Alive speaker and death-associated addressee
+  summary: A literal line sets an addressee in death against a speaker who remains
+    alive and nimble.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: PAGE 149; note on lines 11-12 of the poem; batch lines 8567-8570
+  quote_or_summary: '"Go ye all to the swift battle that shall come to you from German
+    the green-terrible" with editor''s uncertain gloss "of the terrible green spear."'
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; short excerpt used for extraction.
+- id: ev:2
+  type: summary
+  locator: PAGE 150; note on line 12; batch lines 8572-8574
+  quote_or_summary: The Torrian Sea is glossed as the Mediterranean.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: PAGE 151; note on line 15; batch lines 8576-8578
+  quote_or_summary: 'Literally: "Thou in death, I alive and nimble."'
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; short excerpt used for extraction.
+- id: ev:4
+  type: summary
+  locator: PAGE 151; note on line 23; batch lines 8580-8587
+  quote_or_summary: The note discusses the translation of a phrase about wars being
+    gay, comparing possible senses such as game, little, scanty, and sport, and noting
+    uncertainty about O'Curry's rendering.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: uncertain
+  comparison_claims: uncertain
+  notes: The passage is mainly editorial notes and lexical glosses rather than a continuous
+    narrative episode. Figures and symbols are extracted only where the notes preserve
+    literal content from poem lines.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No candidate motif or comparison claim was added because the supplied passage does not itself support a stable comparative motif assignment.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:celtic-irish-heroic-romances-of-ireland-leahy-gutenberg__l8567-l8587
+  passage_sha256=6d559ab0dcb91f98d65e1f4051371fe663ee3d25e458a94225003968c5d692d5

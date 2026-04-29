@@ -1,0 +1,326 @@
+---
+record_id: batch.motif.celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l8397-l8439
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+passage_locator:
+  label: PAGE 126 / PAGE 127 / PAGE 128 / PAGE 129; lines 8397-8439
+  start: '8397'
+  end: '8439'
+  translation: Heroic Romances of Ireland
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: What has brought thee here, O Hound, / to fight with a strong champion?
+  summary: 'A metrical note introduces an Old Irish verse and a literal translation
+    of its first two stanzas. The translated stanzas present a hostile exchange: an
+    addressed figure called the Hound is warned that his blood will flow and that
+    his journey is woe; a first-person speaker says he has come before assembled warriors
+    and a prince to put the Hound under water and slay him in battle. Additional notes
+    gloss two later lines as references to need of height and absence of valour or
+    strength.'
+  language: English with Old Irish excerpt
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage is framed as an editorial note on the metre of a poem and includes
+    an Old Irish verse as an illustration.
+  category: other
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:2
+  text: The literal translation addresses a figure called the Hound and asks why he
+    has come to fight a strong champion.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:3
+  text: The addressed Hound is told that crimson-red blood will flow over the breaths
+    of his steeds.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The Hound's journey is described as woe, and he is told he will need healing
+    if he reaches home alive.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A first-person speaker says he has come before warriors, battalions, hundreds,
+    and a mighty host-possessing prince.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The first-person speaker says he has come to put the addressed figure under
+    the water and to slay him in combat.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: 'The passage includes brief line glosses: one line is rendered as need of
+    height, and another as absence of valour and strength.'
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: O Hound
+  description: The figure directly addressed in the translated stanzas; warned of
+    bloodshed, injury, need of healing, and being put under water.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: strong champion
+  description: A champion whom the addressed Hound is said to have come to fight.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: first-person speaker
+  description: The speaker who says he has come before warriors and a prince to put
+    the addressed figure under water and slay him.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: mighty host-possessing prince
+  description: A prince around whom warriors gather in the second translated stanza.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: warriors, battalions, and hundreds
+  description: Collective martial groups before whom the first-person speaker says
+    he has come.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: addressed combatant
+  assigned_to:
+  - fig:1
+  basis: The Hound is directly addressed and described as coming to fight and as the
+    target of threatened violence.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:2
+  label: opposing champion
+  assigned_to:
+  - fig:2
+  basis: The Hound is asked why he has come to fight this strong champion.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: threatening speaker
+  assigned_to:
+  - fig:3
+  basis: The first-person voice declares an intention to put the Hound under water
+    and slay him.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: prince with host
+  assigned_to:
+  - fig:4
+  basis: The prince is described as mighty and host-possessing, with warriors gathered
+    around him.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: assembled martial witnesses or forces
+  assigned_to:
+  - fig:5
+  basis: The warriors, battalions, and hundreds are named as gathered martial groups
+    before whom the speaker has come.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: blood
+  literal_form: crimson-red blood flowing
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: steeds' breaths
+  literal_form: breaths of the Hound's steeds
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: fuel against a house
+  literal_form: a kindling of fuel against a house
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: water
+  literal_form: being put under the water
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: height
+  literal_form: need of height
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Editorial presentation of verse metre
+  summary: The editor states that the metre of the poem is shared with preceding poems
+    in the romance and quotes an Old Irish verse to illustrate it.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Warning to the Hound
+  summary: A voice addresses the Hound, asking why he has come to fight a strong champion
+    and warning that his blood will flow, his journey is woe, and he will need healing
+    if he reaches home alive.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Threat before assembled forces
+  summary: A first-person speaker says he has come before warriors, battalions, hundreds,
+    and a host-possessing prince to put the Hound under water and slay him in battle.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Additional line glosses
+  summary: Two later line glosses are supplied, one referring to need of height and
+    another to lack of valour and strength.
+  figure_refs: []
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: formal combat challenge and threat
+  taxonomy_refs: []
+  basis: The translated stanzas center on a hostile address to the Hound, a coming
+    fight with a strong champion, and an explicit threat to slay him in battle.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage is a quoted and glossed excerpt rather than a full narrative
+    scene.
+- id: motif:2
+  label: threatened submersion of an opponent
+  taxonomy_refs: []
+  basis: The speaker says he has come to put the addressed figure under the water
+    and to slay him.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage does not state whether the submersion occurs; it is a threat
+    within translated speech.
+- id: motif:3
+  label: wounded hero's possible return home
+  taxonomy_refs:
+  - return
+  basis: The addressed Hound is warned that he will need healing if he reaches home
+    alive.
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: The passage only poses the possibility of reaching home alive; it does
+    not narrate an actual return.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: PAGE 129; lines 8397-8403
+  quote_or_summary: The editor notes that this poem's metre is shared with preceding
+    poems in the romance, except the second, and quotes the original of the fifth
+    verse as illustration.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; concise summary.
+- id: ev:2
+  type: quote
+  locator: PAGE 129; lines 8405-8412
+  quote_or_summary: Old Irish verse beginning “Re funiud, re n-aidchi” and ending
+    “Rachthair thairsiu is treo.”
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:3
+  type: quote
+  locator: PAGE 129; lines 8416-8424
+  quote_or_summary: "“What has brought thee here, O Hound, / to fight with a strong
+    champion?” The stanza also warns that crimson-red blood will flow, the journey
+    is woe, and healing will be needed if he reaches home alive."
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; brief quotation plus summary.
+- id: ev:4
+  type: summary
+  locator: PAGE 129; lines 8426-8434
+  quote_or_summary: The speaker says he has come before warriors, a mighty host-possessing
+    prince, battalions, and hundreds, to put the addressed figure under water and
+    slay him in battle.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; concise summary.
+- id: ev:5
+  type: quote
+  locator: PAGE 129; lines 8437-8439
+  quote_or_summary: Line notes render phrases as “Good is thy need of height” and
+    “Without valour, without strength.”
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward for the supplied editorial note and
+    translated stanzas. Motif labels remain cautious because the passage is fragmentary
+    and mostly quoted for metre.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not support a specific cross-textual or historical comparison.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:celtic-irish-heroic-romances-of-ireland-leahy-gutenberg__l8397-l8439
+  passage_sha256=733044f5709209ab6a9077bca4ea97a947610c473b2d7f2888645f8d8654c82f

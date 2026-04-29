@@ -1,0 +1,277 @@
+---
+record_id: batch.motif.celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l6694-l6716
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+passage_locator:
+  label: PAGE 13 / PAGE 14 / PAGE 15 / PAGE 17; lines 6694-6716
+  start: '6694'
+  end: '6716'
+  translation: Heroic Romances of Ireland
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: "“it is a race up heaven, / it is a weapon under the ocean”"
+  summary: A translator’s note gives an uncertain literal rendering of a rhetorical
+    passage about love, comparing the speaker’s affection to intense or impossible
+    images involving endurance, the skin, strength, the divided earth, heaven, a broken
+    neck, a spectre, drowning, the ocean, and an echo.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage is presented as a translator’s literal rendering of rhetoric,
+    with some words marked uncertain.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker describes love as enduring longer than a year and as being like
+    something under the skin.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The speaker compares love to strength over destruction, dividing the earth
+    into quarters, and the summit of heaven.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The speaker compares love to breaking a neck and to battle against a spectre.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The speaker compares love to drowning with cold or water, a race up heaven,
+    a weapon under the ocean, and affection for an echo.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The rhetoric concludes by identifying these comparisons with the speaker’s
+    affection, love, and desire for the one loved.
+  category: relationship
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: first-person speaker
+  description: The voice that says “my affection and my love and my desire.”
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:6
+- id: fig:2
+  name_or_label: the one loved
+  description: The person described as “the one on whom I have set” the speaker’s
+    love.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:6
+- id: fig:3
+  name_or_label: spectre
+  description: A spectre appears as the opponent in the image of “a battle against
+    a spectre.”
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: lover or desiring speaker
+  assigned_to:
+  - fig:1
+  basis: The first-person voice names “my affection and my love and my desire.”
+  evidence_refs:
+  - ev:6
+- id: role:2
+  label: beloved or object of affection
+  assigned_to:
+  - fig:2
+  basis: The passage refers to “the one on whom I have set” love.
+  evidence_refs:
+  - ev:6
+- id: role:3
+  label: rhetorical opponent
+  assigned_to:
+  - fig:3
+  basis: The spectre is named only within the image of a battle against it.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: earth divided into quarters
+  literal_form: dividing into quarters of the earth
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: summit of heaven
+  literal_form: summit of heaven
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: battle against a spectre
+  literal_form: battle against a spectre
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: drowning with cold or water
+  literal_form: drowning with cold or water
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: race up heaven
+  literal_form: race up heaven
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: weapon under the ocean
+  literal_form: weapon under the ocean
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+- id: sym:7
+  label: affection for an echo
+  literal_form: affection for an echo
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:8
+  label: under the skin
+  literal_form: being under the skin
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: uncertain rhetorical description of love
+  summary: The passage lists a sequence of metaphor-like images used to characterize
+    the speaker’s love and desire for the beloved.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: heavenward ascent image
+  taxonomy_refs:
+  - ascent
+  basis: The rhetoric includes the images “summit of heaven” and “a race up heaven.”
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: low
+  cautions: The passage is a translator’s uncertain rendering of rhetoric, not a narrative
+    ascent episode.
+- id: motif:2
+  label: submerged weapon image
+  taxonomy_refs: []
+  basis: The rhetoric includes the image of “a weapon under the ocean.”
+  evidence_refs:
+  - ev:5
+  confidence: low
+  cautions: No action, owner, recovery, or narrative function of the weapon is given.
+- id: motif:3
+  label: combat with spectral being
+  taxonomy_refs: []
+  basis: The rhetoric includes the comparison “a battle against a spectre.”
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: The spectre appears only in a rhetorical comparison and not as an enacted
+    encounter.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: note
+  locator: lines 6694-6699
+  quote_or_summary: Translator notes that the rhetoric is literally translated, but
+    some words are uncertain.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; short excerpt or summary used.
+- id: ev:2
+  type: quote
+  locator: lines 6700-6702
+  quote_or_summary: "“It is love that was longer enduring (?) than a year my love,
+    / it is like being under the skin”"
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: summary
+  locator: lines 6703-6707
+  quote_or_summary: Love is rendered as the kingdom of strength over destruction,
+    the dividing of the earth into quarters, and the summit of heaven.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summary used.
+- id: ev:4
+  type: quote
+  locator: lines 6708-6709
+  quote_or_summary: "“it is breaking of the neck, / it is a battle against a spectre.”"
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:5
+  type: quote
+  locator: lines 6710-6713
+  quote_or_summary: "“It is drowning with cold (or ? water), / it is a race up heaven,
+    / it is a weapon under the ocean, / it is affection for an echo”"
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:6
+  type: quote
+  locator: lines 6714-6716
+  quote_or_summary: "“my affection and my love and my desire of the one on whom I
+    / have set (my love).”"
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; short excerpt used.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: Extraction is limited by the passage’s own warning that the text is defective
+    and the literal translation contains uncertain words. Motif candidates are based
+    on isolated rhetorical images rather than narrative episodes.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not establish a comparison with another text, tradition, or motif family beyond isolated images.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:celtic-irish-heroic-romances-of-ireland-leahy-gutenberg__l6694-l6716
+  passage_sha256=a1e5fcd6c36db29c67ba09406651ac30cb2f4994d44bef7d6a78db41fb55b6c0

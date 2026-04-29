@@ -1,0 +1,226 @@
+---
+record_id: batch.motif.celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l7243-l7261
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+passage_locator:
+  label: PAGE 47 / PAGE 48 / THE SICK-BED OF CUCHULAIN / PAGE 57; lines 7243-7261
+  start: '7243'
+  end: '7261'
+  translation: Heroic Romances of Ireland
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Editorial notes to The Sick-Bed of Cuchulain identify Samhain as November
+    1 and its eve as Hallow-e'en; describe an exhibition of tongue tips as antiquarian
+    material not belonging to the usual romance; and refer readers to a Book of Leinster
+    version of the Combat at the Ford for comparison with demons screaming from warriors'
+    weapons.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The note identifies Samhain as held on November 1 and connects its eve with
+    Hallow-e'en.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says the exhibition of tips of tongues, compared to Indian scalps,
+    has nothing to do with the story and is not in usual descriptions of the romance.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage characterizes the tongue-tip detail as antiquarian information,
+    possibly correct, and uses it to comment on an earlier barbaric form of the legends.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage mentions demons screaming from the weapons of warriors and directs
+    comparison to the Book of Leinster version of the Combat at the Ford.
+  category: action
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: demons
+  description: Demons described as screaming from the weapons of warriors.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: warriors
+  description: Warriors whose weapons are associated with screaming demons.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: screaming supernatural beings
+  assigned_to:
+  - fig:1
+  basis: The passage refers to demons screaming from weapons.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: weapon-bearing warriors
+  assigned_to:
+  - fig:2
+  basis: The weapons from which the demons scream are identified as weapons of warriors.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: Samhain
+  literal_form: seasonal festival date, November 1, with its eve identified as Hallow-e'en
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: tips of tongues
+  literal_form: displayed body parts compared to scalps
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: weapons of warriors
+  literal_form: weapons from which demons scream
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Editorial note on Samhain
+  summary: The editor explains the calendrical timing of Samhain and its eve.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Editorial note on tongue-tip exhibition
+  summary: The editor treats the display of tongue tips as antiquarian information
+    outside the usual romance tradition.
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Comparison note on screaming demons from weapons
+  summary: The editor notes demons screaming from warriors' weapons and points to
+    the Book of Leinster Combat at the Ford for comparison.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: seasonal festival marker
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: Samhain is identified by date and by its eve, Hallow-e'en.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage gives calendrical information only; it does not describe a
+    ritual or narrative episode at Samhain.
+- id: motif:2
+  label: display of enemy body parts as trophies
+  taxonomy_refs: []
+  basis: The editor mentions an exhibition of tips of tongues and compares it to Indian
+    scalps.
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: The passage explicitly says this detail has nothing to do with the story
+    and is not in the usual descriptions of the romance.
+- id: motif:3
+  label: supernatural cries from warriors' weapons
+  taxonomy_refs: []
+  basis: The passage mentions demons screaming from the weapons of warriors.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: Only an editorial note is provided; the narrative context and function
+    are not included in this passage.
+comparison_claims:
+- id: claim:1
+  claim: The editor explicitly invites comparison between demons screaming from warriors'
+    weapons and material in the Book of Leinster version of the Combat at the Ford.
+  claim_level: same_motif
+  target: Book of Leinster version of the Combat at the Ford, pages 126 and 143 in
+    the same volume
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage does not quote or summarize the compared Book of Leinster
+    passages, so the exact degree of similarity cannot be verified from this excerpt
+    alone.
+- id: claim:2
+  claim: The display of tongue tips is compared in principle to Indian scalps as a
+    trophy-display pattern.
+  claim_level: same_function
+  target: Indian scalps as a comparative trophy-display practice
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The passage states that the tongue-tip detail is not part of the story
+    or usual descriptions of the romance, so this comparison should not be treated
+    as a narrative motif in the romance without further evidence.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 7247-7248
+  quote_or_summary: Samhain is said to have been held on November 1, and its eve is
+    identified with Hallow-e'en.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 7250-7256
+  quote_or_summary: The exhibition of tongue tips, compared to Indian scalps, is described
+    as unrelated to the story, absent from usual descriptions, and possibly correct
+    antiquarian information suggesting a barbaric earlier form of the legends.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 7258-7261
+  quote_or_summary: For demons screaming from warriors' weapons, the note directs
+    comparison to the Book of Leinster version of the Combat at the Ford on pages
+    126 and 143 in the volume.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is editorial commentary rather than a full narrative episode.
+    Literal extraction is clear, but motif interpretation is limited by the lack of
+    surrounding story context.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used. No external taxonomy IDs beyond the provided available refs were added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:celtic-irish-heroic-romances-of-ireland-leahy-gutenberg__l7243-l7261
+  passage_sha256=eac380b8e11e57878014ccb90a44181888d88e3b4b25db30e41c3fd73227b079

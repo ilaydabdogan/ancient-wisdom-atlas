@@ -1,0 +1,504 @@
+---
+record_id: batch.motif.celtic-irish-tain-bo-cualnge-dunn-gutenberg-l4201-l4322
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+passage_locator:
+  label: THIS IS THE ROUTE OF THE TAIN / THE MARCH OF THE HOST / THE YOUTHFUL EXPLOITS
+    OF CUCHULAIN / THE SLAYING OF ORLAM; lines 4201-4322
+  start: '4201'
+  end: '4322'
+  translation: The Ancient Irish Epic Tale Tain Bo Cualnge
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The host marches eastward. Cuchulain encounters Orlam's charioteer cutting
+    chariot-poles from a holly tree, helps trim them, reveals his identity, and spares
+    the charioteer because he does not kill unarmed attendants. He sends the charioteer
+    to warn Orlam, but reaches Orlam first, offers combat, beheads him, displays the
+    head, and compels the charioteer to carry it back to the camp. The passage ends
+    with an explanation of the local place-names associated with Orlam's death and
+    gravestones.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The four grand provinces of Erin set forth eastwards over Cronn, described
+    as a mountain.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Cuchulain has gone ahead and comes upon Orlam's charioteer near Tamlacht Orlaim,
+    north of Disert Lochaid.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The charioteer is cutting chariot-poles from a holly tree or holm in the wood.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Cuchulain tells Laeg to check the horses and hold the chariot while he investigates
+    who is cutting the woods.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The charioteer says the chariots were broken during pursuit of Cuchulain and
+    asks the unknown young warrior for help so Cuchulain will not come upon him.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Cuchulain cuts, straightens, trims, and polishes the chariot-poles so smooth
+    that the charioteer becomes afraid and asks who he is.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Cuchulain reveals that he is the famous Cuchulain spoken of by the charioteer.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Cuchulain says he will not kill charioteers, horseboys, or unarmed persons,
+    asks where Orlam is, and sends the charioteer to warn him.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Cuchulain reaches Orlam faster than the charioteer, offers combat, strikes
+    off Orlam's head, raises it, and displays it before the host.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: Cuchulain puts Orlam's head on the charioteer's back and orders him to carry
+    it to the camp under threat of a sling-stone.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: The charioteer reports his adventures to Ailill and Medb, and the passage
+    explains names for the place where Orlam fell.
+  category: sequence
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Cuchulain
+  description: Battle-victorious warrior who investigates the wood-cutting, trims
+    the chariot-poles, spares the charioteer, kills Orlam, and sends Orlam's head
+    to the camp.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: Laeg
+  description: Cuchulain's charioteer, addressed when Cuchulain orders the horses
+    and chariot to be held.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Orlam's charioteer / gilla
+  description: Servant of Orlam, son of Ailill and Medb; he cuts chariot-poles, speaks
+    with Cuchulain, is spared, and carries Orlam's head to camp.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:7
+  - ev:8
+- id: fig:4
+  name_or_label: Orlam
+  description: Son of Ailill and Medb, found by Cuchulain near a trench with his back
+    to a pillar-stone; Cuchulain offers him combat and beheads him.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:5
+  name_or_label: Ailill
+  description: Named as Orlam's father and as one of the persons to whom the charioteer
+    reports at camp.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+  - ev:8
+- id: fig:6
+  name_or_label: Medb
+  description: Named as Orlam's mother and as one of the persons to whom the charioteer
+    reports; she comments on the exploit.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+  - ev:8
+- id: fig:7
+  name_or_label: Men of Erin / host
+  description: The assembled host before whom Cuchulain displays Orlam's severed head.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: battle-victorious warrior
+  assigned_to:
+  - fig:1
+  basis: The passage describes Cuchulain as battle-victorious and shows him offering
+    combat and killing Orlam.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:2
+  label: sender of warning and head-token
+  assigned_to:
+  - fig:1
+  basis: Cuchulain sends the charioteer to warn Orlam and later compels him to carry
+    Orlam's head to camp.
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: role:3
+  label: charioteer companion
+  assigned_to:
+  - fig:2
+  basis: Laeg is addressed by Cuchulain while managing the horses and chariot.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: enemy charioteer spared as noncombatant
+  assigned_to:
+  - fig:3
+  basis: The charioteer identifies himself as Orlam's charioteer, and Cuchulain says
+    he does not slay charioteers, horseboys, or unarmed persons.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: compelled messenger
+  assigned_to:
+  - fig:3
+  basis: Cuchulain orders him to carry Orlam's head to camp under threat of a sling-stone.
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: role:6
+  label: combatant slain and beheaded
+  assigned_to:
+  - fig:4
+  basis: Cuchulain offers Orlam combat and strikes off his head.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: camp rulers or commanders receiving report
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: The charioteer reports his adventures to Ailill and Medb at the camp.
+  evidence_refs:
+  - ev:8
+- id: role:8
+  label: witnessing host
+  assigned_to:
+  - fig:7
+  basis: Cuchulain displays Orlam's head to the men of Erin and in the presence of
+    the host.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: mountain crossing
+  literal_form: Cronn, described as a mountain
+  associated_figures: []
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: holly tree / holm used for chariot-poles
+  literal_form: holly-tree or holm in the wood from which chariot-poles are cut
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:3
+  label: chariot-poles
+  literal_form: wooden chariot-poles cut, straightened, trimmed, and polished
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: severed head
+  literal_form: Orlam's head, struck off, raised, displayed, and carried to camp
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: sym:5
+  label: sling-stone threat
+  literal_form: a stone from Cuchulain's sling threatened against the charioteer
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: sym:6
+  label: gravestones and flagstones
+  literal_form: Tamlacht Orlaim, Leaca Orlaim, Tamlachta, little gravestones associated
+    with violent deaths
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:8
+scenes:
+- id: scene:1
+  label: March and encounter at Orlam's Gravestone
+  summary: The host marches eastward over Cronn while Cuchulain, ahead of them, finds
+    Orlam's charioteer cutting poles from a holly tree near Tamlacht Orlaim.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:6
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Investigation and concealed identity
+  summary: Cuchulain asks Laeg to hold the chariot, questions the charioteer, and
+    hears that the chariots were broken in pursuit of Cuchulain.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Heroic craft display and revelation
+  summary: Cuchulain trims the poles with extraordinary skill, prompting the charioteer
+    to fear him and ask his identity; Cuchulain reveals himself.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Mercy toward the charioteer and warning to Orlam
+  summary: Cuchulain spares the charioteer because he does not kill unarmed attendants
+    and sends him to warn Orlam to be on guard.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Slaying and display of Orlam
+  summary: Cuchulain reaches Orlam before the charioteer, offers combat, beheads him,
+    and displays the head before the host.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:7
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:6
+- id: scene:6
+  label: Head carried to camp and place-name explanation
+  summary: Cuchulain makes the charioteer carry Orlam's head to camp under threat;
+    the charioteer reports to Ailill and Medb, and the passage explains local names
+    connected with the death.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: warrior spares noncombatant attendant
+  taxonomy_refs: []
+  basis: Cuchulain explicitly refuses to kill the charioteer, horseboys, or unarmed
+    persons, even though the charioteer belongs to Orlam.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage states the rule in Cuchulain's speech, but does not generalize
+    it beyond this episode.
+- id: motif:2
+  label: hidden hero revealed through extraordinary skill
+  taxonomy_refs: []
+  basis: The charioteer does not initially recognize Cuchulain; Cuchulain's remarkable
+    trimming of the poles causes fear and leads to his self-identification.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage does not call the identity hidden as a formal disguise; the
+    pattern is inferred from the sequence of non-recognition, feat, and revelation.
+- id: motif:3
+  label: severed head displayed as victory token
+  taxonomy_refs: []
+  basis: Cuchulain beheads Orlam, raises and displays the head to the men of Erin,
+    then sends it to the camp on the charioteer's back.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The passage presents the action literally; broader cultural interpretation
+    of head-taking is not supplied here.
+- id: motif:4
+  label: compelled messenger carries proof of defeat
+  taxonomy_refs: []
+  basis: The spared charioteer is forced to carry Orlam's head back to the camp and
+    report what happened, under threat from Cuchulain's sling.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The head functions as a carried token in this episode, but the passage
+    does not explicitly label it as proof or tribute.
+- id: motif:5
+  label: place-name explained by violent death
+  taxonomy_refs: []
+  basis: The passage explains Leaca Orlaim, Tamlacht Orlaim, and Tamlachta through
+    Orlam's fall, gravestones, and violent deaths caused by Cuchulain.
+  evidence_refs:
+  - ev:8
+  confidence: high
+  cautions: No available taxonomy reference precisely matches place-name etiology.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 4201-4213
+  quote_or_summary: The four provinces march east over Cronn, a mountain; Cuchulain
+    has gone ahead and finds Orlam's charioteer cutting chariot-poles from a holly
+    tree at Tamlacht Orlaim north of Disert Lochaid.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; short summary used.
+- id: ev:2
+  type: summary
+  locator: 4218-4229
+  quote_or_summary: Cuchulain hears uproar, addresses Laeg, orders the horses and
+    chariot checked, and goes to learn who is cutting the woods.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; short summary used.
+- id: ev:3
+  type: summary
+  locator: 4229-4238
+  quote_or_summary: The charioteer explains that he is cutting chariot-poles because
+    their chariots were broken during pursuit of Cuchulain, and he asks the young
+    warrior for aid so Cuchulain will not come upon him.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; short summary used.
+- id: ev:4
+  type: summary
+  locator: 4238-4250
+  quote_or_summary: Cuchulain cuts and polishes the poles until they are extremely
+    smooth; the charioteer becomes afraid, asks who he is, and Cuchulain says he is
+    the renowned Cuchulain.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; short summary used.
+- id: ev:5
+  type: summary
+  locator: 4250-4266
+  quote_or_summary: The charioteer identifies himself as Orlam's charioteer. Cuchulain
+    says he will not slay charioteers, horseboys, or unarmed persons, asks where Orlam
+    is, and sends the charioteer to warn him.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; short summary used.
+- id: ev:6
+  type: summary
+  locator: 4289-4295
+  quote_or_summary: The charioteer goes one way and Cuchulain another; Cuchulain reaches
+    Orlam first, offers combat, strikes off Orlam's head, raises it, and displays
+    it before the host.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; short summary used.
+- id: ev:7
+  type: summary
+  locator: 4295-4301
+  quote_or_summary: Cuchulain puts the head on the charioteer's back and orders him
+    to take it to camp, threatening that a stone from his sling will reach him if
+    he does not.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; short summary used.
+- id: ev:8
+  type: summary
+  locator: 4303-4316
+  quote_or_summary: Near camp, the charioteer removes the head and reports to Ailill
+    and Medb; the text explains Leaca Orlaim, Tamlacht Orlaim, and Tamlachta from
+    Orlam's fall, little gravestones, and violent deaths wrought by Cuchulain.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; short summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal episode structure is clear. Motif labels are candidate descriptive
+    patterns without external comparison claims. No comparison claims were added because
+    the passage does not itself support a broader cross-tradition comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy symbol refs were assigned only for explicit mountain and tree forms present in the passage.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:celtic-irish-tain-bo-cualnge-dunn-gutenberg__l4201-l4322
+  passage_sha256=2a0dde5649cd49167c87b00b39dc3eefe9c1fdde9033b5b7c2a376b1e1636ee2

@@ -1,0 +1,354 @@
+---
+record_id: batch.motif.celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l9702-l9723
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+passage_locator:
+  label: MORTALS / IMMORTALS / TAIN BO FRAICH / THE RAID FOR THE CATTLE OF FRAECH;
+    lines 9702-9723
+  start: '9702'
+  end: '9723'
+  translation: Heroic Romances of Ireland
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: '"That night shall be thy marriage feast; / And thine our daughter''s hand."'
+  summary: The parents instruct Fraech to pledge himself and fulfill an oath when
+    the cattle of Cualgne are raided. They promise their daughter in marriage when
+    the cattle reach their western land. Fraech accepts the oath and task, stays for
+    a night of feasting, then departs with his comrades after bidding farewell to
+    Ailill and Maev.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The parents ask Fraech to heed their daughter's word and pledge his troth
+    to her.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The parents connect Fraech's oath with a future ride for the cattle of Cualgne.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The parents promise that the night the cattle reach their western land will
+    be Fraech's marriage feast and that their daughter's hand will be his.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Fraech answers that he will take the oath and perform the requested task.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Fraech remains through the night while feasting continues until morning.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Fraech departs homeward with his comrades after giving farewell to Ailill
+    and Maev.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Fraech
+  description: A man addressed by the parents; he accepts an oath and task, stays
+    for the feast, and later departs with comrades.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: her parents
+  description: The speakers who urge Fraech to pledge troth, redeem an oath, and promise
+    him their daughter's hand after the cattle reach the western land.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: the daughter
+  description: The daughter whose hand in marriage is promised to Fraech.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: Cualgne's kine
+  description: Cattle associated with Cualgne, mentioned as the object of a future
+    ride and return to the western land.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:5
+  name_or_label: Fraech's comrades
+  description: Companions who accompany Fraech when he rides away homeward.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: Ailill and Maev
+  description: Named figures to whom Fraech gives farewell before leaving.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: oath-taker
+  assigned_to:
+  - fig:1
+  basis: Fraech explicitly says he will take the oath.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: task-acceptor
+  assigned_to:
+  - fig:1
+  basis: Fraech says he will do the task asked of him.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: marriage-condition speakers
+  assigned_to:
+  - fig:2
+  basis: The parents set conditions involving an oath, cattle, and the daughter's
+    hand.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: promisers of bride
+  assigned_to:
+  - fig:2
+  basis: They say their daughter's hand will be Fraech's.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: promised bride
+  assigned_to:
+  - fig:3
+  basis: The daughter's hand is promised to Fraech as part of the parents' speech.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: raid-object
+  assigned_to:
+  - fig:4
+  basis: The cattle are the object involved in the future ride from the east to the
+    western land.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:7
+  label: departing companions
+  assigned_to:
+  - fig:5
+  basis: They are with Fraech as he rides homeward.
+  evidence_refs:
+  - ev:5
+- id: role:8
+  label: farewell recipients
+  assigned_to:
+  - fig:6
+  basis: Fraech gives Ailill and Maev an adieu before leaving.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: oath
+  literal_form: Fraech's accepted oath to redeem the parents' demand in the cattle
+    raid context.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: cattle of Cualgne
+  literal_form: Cualgne's kine, named as the cattle sought in the future ride and
+    return.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: marriage feast
+  literal_form: The feast promised for the night the cattle reach the western land.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: daughter's hand
+  literal_form: The parents' phrase for giving their daughter in marriage to Fraech.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Conditional marriage promise
+  summary: The parents tell Fraech to pledge troth, redeem his oath during the cattle
+    raid, and receive their daughter's hand when the cattle arrive in the western
+    land.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Acceptance of oath and task
+  summary: Fraech answers that he will take the oath and perform the task asked of
+    him.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Feast and departure
+  summary: Fraech stays through the night of feasting, then leaves homeward with his
+    comrades after bidding farewell to Ailill and Maev.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Bride promised in exchange for completing a task
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The parents promise their daughter's hand and a marriage feast after Fraech
+    fulfills the oath-linked cattle task.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage presents a social bargain and marriage condition; it does
+    not explicitly frame the exchange as sacred or supernatural.
+- id: motif:2
+  label: Marriage conditioned on cattle raid success
+  taxonomy_refs: []
+  basis: The marriage is explicitly set for the night the cattle from Cualgne reach
+    the western land.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is a passage-level narrative pattern rather than a supplied taxonomy
+    category.
+- id: motif:3
+  label: Hero accepts oath-bound quest or task
+  taxonomy_refs:
+  - mystical_quest
+  basis: Fraech accepts an oath and agrees to perform the task required by the parents.
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: The task is stated as a cattle-raid obligation; the passage does not describe
+    a mystical journey or supernatural quest.
+- id: motif:4
+  label: Departure after feast
+  taxonomy_refs:
+  - departure
+  basis: After staying through the night feast, Fraech rides homeward with his comrades.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage records a literal departure but gives limited narrative context
+    for a larger departure motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 9702-9706
+  quote_or_summary: The parents tell Fraech to hear the woman's word, pledge troth,
+    and redeem his oath when riding for Cualgne's cattle.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: quote
+  locator: 9710-9713
+  quote_or_summary: '"That night shall be thy marriage feast; / And thine our daughter''s
+    hand."'
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:3
+  type: quote
+  locator: 9715-9716
+  quote_or_summary: Fraech says he will take the oath and do the task asked of him.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: 9717-9718
+  quote_or_summary: Fraech stays until morning while they feast through the night.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: 9719-9723
+  quote_or_summary: Fraech rides homeward with his comrades and gives farewell to
+    Ailill and Maev before leaving for their land.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal extraction is straightforward. Motif candidates are limited because
+    the passage gives only a short conditional marriage and departure episode, with
+    little broader context in the supplied excerpt.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata. No comparison claims were added because the passage itself does not support a specific external comparison.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:celtic-irish-heroic-romances-of-ireland-leahy-gutenberg__l9702-l9723
+  passage_sha256=366a0d59eb634bba301cd7280259933ab8639c74ce11c2eda5606ba8c6b6e05c

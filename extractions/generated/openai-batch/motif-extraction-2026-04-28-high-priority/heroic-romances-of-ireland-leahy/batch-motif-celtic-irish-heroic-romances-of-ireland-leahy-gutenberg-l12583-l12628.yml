@@ -1,0 +1,403 @@
+---
+record_id: batch.motif.celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l12583-l12628
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+passage_locator:
+  label: THE APPARITION OF THE GREAT QUEEN TO CUCHULAIN / FROM THE YELLOW BOOK OF
+    LECAN (FOURTEENTH CENTURY) / THE APPARITION OF THE GREAT QUEEN TO CUCHULAIN /
+    LITERAL TRANSLATION; lines 12583-12628
+  start: '12583'
+  end: '12628'
+  translation: Heroic Romances of Ireland
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'A woman threatens Cuchulain that, during his combat with an equal opponent
+    at a ford, she will take several animal forms—an eel, a grey wolf, and a white
+    red-eared heifer—to hinder him and endanger him. Cuchulain replies to each threat
+    with a counter-threat of injury and denial of healing. They separate: Cuchulain
+    returns to Dun Imrid, and the Morrigan goes with her cow to the fairy mound of
+    Cruachan. The passage states that the tale is a prelude to the Tain bo Cualnge.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The woman says she can hinder Cuchulain when he is fighting an opponent equal
+    to him in strength, victories, feats, fierceness, endurance, nobility, bravery,
+    and greatness.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The woman says she will become an eel and draw a noose around Cuchulain's
+    feet in the ford, making the fight unequal for him.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Cuchulain swears that he will break the woman against a green stone of the
+    ford and will not heal her if she does not leave him.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The woman says she will become a grey wolf against Cuchulain and strip a stripe
+    from him from his right side or hand to his left.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Cuchulain says he will beat the woman away with a spear until one of her eyes
+    bursts from her head, and he again refuses healing if she does not leave him.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The woman says she will become a white heifer with red ears and enter a lake
+    near the ford where Cuchulain is fighting an equal opponent.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The woman says one hundred white, red-eared cows will follow her, that 'truth
+    of men' will be tested that day, and that Cuchulain's head will be taken from
+    him.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Cuchulain says he will strike the woman with a sling-cast to break one of
+    her legs, and again says she will have no help from him if she does not leave
+    him.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: After the exchange, Cuchulain returns to Dun Imrid, while the Morrigan goes
+    with her cow to the fairy mound of Cruachan.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: The passage states that this tale is a prelude to the Tain bo Cualnge.
+  category: relationship
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Cuchulain
+  description: A warrior addressed by the woman and threatened during a future combat
+    at a ford; he answers her threats with threats of injury.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: the woman / the Morrigan
+  description: A woman who threatens to oppose Cuchulain in animal forms; later identified
+    as the Morrigan going with her cow to the fairy mound of Cruachan.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:7
+- id: fig:3
+  name_or_label: equal opponent
+  description: An unnamed man equal to Cuchulain in strength, victories, feats, fierceness,
+    endurance, nobility, bravery, and greatness, against whom Cuchulain is imagined
+    fighting.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:5
+roles:
+- id: role:1
+  label: threatened warrior
+  assigned_to:
+  - fig:1
+  basis: Cuchulain is the target of the woman's threatened interventions during combat
+    and replies with counter-threats.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:6
+- id: role:2
+  label: adversarial shapeshifter
+  assigned_to:
+  - fig:2
+  basis: The woman says she will become an eel, a grey wolf, and a white red-eared
+    heifer in order to act against Cuchulain.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: role:3
+  label: Morrigan departing to Cruachan
+  assigned_to:
+  - fig:2
+  basis: The closing sentence identifies the departing figure as the Morrigan going
+    with her cow to the fairy mound of Cruachan.
+  evidence_refs:
+  - ev:7
+- id: role:4
+  label: matched combat opponent
+  assigned_to:
+  - fig:3
+  basis: The woman frames her threats around Cuchulain's combat with a man equal to
+    him in martial qualities.
+  evidence_refs:
+  - ev:1
+  - ev:5
+symbols:
+- id: sym:1
+  label: eel-form
+  literal_form: eel
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: noose at the ford
+  literal_form: noose around Cuchulain's feet in the ford
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: green stone of the ford
+  literal_form: green stone of the ford
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: grey wolf-form
+  literal_form: grey wolf
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: white heifer with red ears
+  literal_form: white heifer with red ears
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: lake near the ford
+  literal_form: lake near the ford
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+- id: sym:7
+  label: one hundred white red-eared cows
+  literal_form: one hundred white, red-eared cows
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:8
+  label: fairy mound of Cruachan
+  literal_form: fairy mound of Cruachan
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Threats at the ford combat
+  summary: The woman describes how she will interfere with Cuchulain during a future
+    ford-combat against an equal opponent, first as an eel that nooses his feet, then
+    as a wolf, then as a white red-eared heifer accompanied by cows.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: scene:2
+  label: Cuchulain's counter-threats
+  summary: Cuchulain replies to each threatened animal form by declaring a corresponding
+    injury he will inflict and by refusing healing or help if the woman does not leave
+    him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+- id: scene:3
+  label: Separation after the encounter
+  summary: 'The figures separate: Cuchulain returns to Dun Imrid, and the Morrigan
+    goes with her cow to the fairy mound of Cruachan; the passage identifies the tale
+    as a prelude to the Tain bo Cualnge.'
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:8
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Adversarial shapeshifting into animal forms
+  taxonomy_refs:
+  - shapeshifter
+  basis: The woman threatens to become an eel, a grey wolf, and a white red-eared
+    heifer in order to oppose Cuchulain during combat.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The passage presents intended transformations in speech; it does not narrate
+    their actual occurrence within this excerpt.
+- id: motif:2
+  label: Supernatural hindrance of a hero in single combat
+  taxonomy_refs: []
+  basis: The woman plans to intervene during Cuchulain's combat with an equal opponent
+    by entangling him, wounding him, or drawing dangerous cattle into the scene.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The figure is identified as the Morrigan only in the closing separation
+    sentence; the combat itself is prospective rather than enacted here.
+- id: motif:3
+  label: Threat and counter-threat before future conflict
+  taxonomy_refs: []
+  basis: The exchange consists of the woman's three threatened interventions and Cuchulain's
+    three threatened retaliatory injuries with refusal of healing.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: This is a narrative pattern in the dialogue rather than a named taxonomy
+    motif in the supplied list.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly links this encounter as a prelude to the Tain bo Cualnge.
+  claim_level: same_function
+  target: Tain bo Cualnge
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage gives a textual or narrative linkage, not a detailed comparison
+    of motifs across separate traditions.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 12583-12596
+  quote_or_summary: The woman says that when Cuchulain fights an equal man, she will
+    be an eel and draw a noose about his feet in the ford, making the combat unequal.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 12596-12600
+  quote_or_summary: Cuchulain swears he will break her against a green stone of the
+    ford and will not heal her if she does not leave him.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 12600-12608
+  quote_or_summary: The woman says she will be a grey wolf against Cuchulain and strip
+    a stripe from him from right to left; a footnote notes uncertainty about the word
+    translated as a strip.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: lines 12609-12612
+  quote_or_summary: Cuchulain says he will beat her away with the spear until one
+    of her eyes bursts, and that she will not have healing from him if she does not
+    leave him.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:5
+  type: summary
+  locator: lines 12612-12620
+  quote_or_summary: The woman says she will be a white heifer with red ears, go into
+    a lake near the ford, and be followed by one hundred white red-eared cows; she
+    says 'truth of men' will be tested and Cuchulain's head will be taken.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:6
+  type: summary
+  locator: lines 12620-12623
+  quote_or_summary: Cuchulain says he will cast at her with his sling to break one
+    of her legs and that she will have no help from him if she does not leave him.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:7
+  type: summary
+  locator: lines 12624-12628
+  quote_or_summary: 'They separate: Cuchulain returns to Dun Imrid, and the Morrigan
+    with her cow goes to the fairy mound of Cruachan; the tale is said to be a prelude
+    to the Tain bo Cualnge. A footnote notes a variant naming the Badb.'
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is strong. Motif labeling is based on supplied taxonomy
+    only where directly supported. The comparison claim is limited to the passage's
+    own statement that the tale is a prelude to the Tain bo Cualnge.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Footnotes about uncertain translations were included only where relevant to wording; no external information about the Morrigan, Badb, or the Tain bo Cualnge was added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:celtic-irish-heroic-romances-of-ireland-leahy-gutenberg__l12583-l12628
+  passage_sha256=fab9ff518f85f79255db9fa0bcd3d22430860b193a22586144d61f111c62baab

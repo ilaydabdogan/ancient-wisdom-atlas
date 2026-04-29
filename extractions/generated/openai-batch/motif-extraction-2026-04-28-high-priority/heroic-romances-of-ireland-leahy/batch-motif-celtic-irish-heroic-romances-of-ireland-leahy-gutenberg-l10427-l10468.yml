@@ -1,0 +1,472 @@
+---
+record_id: batch.motif.celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l10427-l10468
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+passage_locator:
+  label: Part I / LITERAL TRANSLATION / TAIN BO FRAICH / PART II; lines 10427-10468
+  start: '10427'
+  end: '10468'
+  translation: Heroic Romances of Ireland
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Conall agrees to a raid on a castle. A snake attacks him and coils around
+    his waist while the raiders plunder the castle, free a woman and her three sons,
+    and take jewels. The serpent later releases Conall without harming him. The party
+    travels north, recovers cattle, and drives them onward. Bicne dies while the cows
+    are being driven, and place-names are explained from his death and from cattle
+    horns shed near Bangor. Fraech returns home with his children and cattle, then
+    later obeys the summons of Ailill and Maev and rides on the Raid of Cualgne.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Conall says that the raid will be carried out.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A castle is sought, and a snake flies or darts at Conall and coils around
+    his waist.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The castle is plundered in haste while the snake is on Conall.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: A woman and her three sons are freed from imprisonment.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: The conquerors take the costliest and most beautiful jewels from the dun.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:6
+  text: The serpent later releases Conall from his belt, and he suffers no harm from
+    it.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: The party travels north to the Pictish domains and finds three of their cattle
+    on the plains.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:8
+  text: Bicne dies while the cows are being driven, by trampling hooves or by being
+    tossed.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: Loegaire is named as Bicne's father, and Conall Cernach is named as chief.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:10
+  text: The title Inver-Bicne is said to mark the grief of Bicne's comrades.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:11
+  text: The cows of Fraech pass across the Stream of Bicne and shed their horns near
+    Benchor, giving rise to the name Strand of Horns at Bangor.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:12
+  text: Fraech returns home with his children and cattle, lives there, and later obeys
+    the summons of Ailill and Maev to ride on the Raid of Cualgne.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Conall / Conall Cernach
+  description: A raid participant who answers that the raid will be done; the snake
+    coils around his waist and later leaves him unharmed; he is also named as chief
+    in connection with Bicne.
+  role_refs:
+  - role:1
+  - role:2
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: snake / serpent
+  description: A serpent that darts at Conall, coils around his waist, later leaves
+    his belt, and does him no harm.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: freed woman
+  description: A woman freed from prison during the plundering of the castle.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: three sons of the freed woman
+  description: Three sons who are freed with the woman.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: Bicne
+  description: A man whose doom falls at Ard Uan Echach; he dies during the driving
+    of cows.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Loegaire
+  description: Named as Bicne's father.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: Fraech
+  description: Associated with the cows; returns home with his children and cattle
+    and later rides on the Raid of Cualgne after the summons of Ailill and Maev.
+  role_refs:
+  - role:8
+  - role:9
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:8
+  name_or_label: Ailill and Maev
+  description: Named as those whose summons Fraech obeys before riding on the Raid
+    of Cualgne.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: raid pledger
+  assigned_to:
+  - fig:1
+  basis: Conall answers that the raid will be done.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: serpent-bound but unharmed man
+  assigned_to:
+  - fig:1
+  basis: The snake coils around Conall's waist and later leaves him unharmed.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: attacking yet nonfatal serpent
+  assigned_to:
+  - fig:2
+  basis: The serpent darts at Conall, coils around him, and later releases him without
+    harm.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: released captive
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The woman is freed from prison and her three sons are freed with her.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: death victim during cattle drive
+  assigned_to:
+  - fig:5
+  basis: Bicne dies while the cows are being driven.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: chief
+  assigned_to:
+  - fig:1
+  basis: Conall Cernach is named as chief in the passage about Bicne.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: father
+  assigned_to:
+  - fig:6
+  basis: Loegaire is named as Bicne's father.
+  evidence_refs:
+  - ev:3
+- id: role:8
+  label: cattle-associated returnee
+  assigned_to:
+  - fig:7
+  basis: The passage names the cows of Fraech and says Fraech returns home with his
+    children and cattle.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:9
+  label: later raid participant
+  assigned_to:
+  - fig:7
+  basis: Fraech later obeys the summons of Ailill and Maev and rides on the Raid of
+    Cualgne.
+  evidence_refs:
+  - ev:5
+- id: role:10
+  label: summoning rulers
+  assigned_to:
+  - fig:8
+  basis: The summons of Ailill and Maev calls Fraech before the Raid of Cualgne.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: serpent
+  literal_form: snake or serpent that attacks, coils around Conall's waist, and then
+    leaves him unharmed
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: castle or dun
+  literal_form: fortified place that is raided and plundered; it contains the imprisoned
+    woman, her sons, and jewels
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: jewels
+  literal_form: costly and beautiful jewels taken from the dun
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: cattle
+  literal_form: recovered cattle driven through the landscape; cows also cause Bicne's
+    death and shed horns near Bangor
+  associated_figures:
+  - fig:5
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:5
+  label: water crossings and shore
+  literal_form: shore, Stream of Bicne, and sea-foam setting at Ard Uan Echach
+  associated_figures:
+  - fig:5
+  - fig:7
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:6
+  label: shed horns
+  literal_form: horns cast by Fraech's cattle near Benchor, used to explain the name
+    Strand of Horns
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Raid on the castle and release of captives
+  summary: Conall agrees to the raid; a snake coils around him as the castle is plundered,
+    the woman and her three sons are freed, and jewels are taken.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Serpent releases Conall and cattle are recovered
+  summary: The serpent leaves Conall unharmed. The party travels north to the Pictish
+    domains, finds three cattle, and drives them toward the shore.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Death of Bicne during the cattle drive
+  summary: At Ard Uan Echach, Bicne dies while the cows are being driven, and the
+    passage links his death to the place-name Inver-Bicne.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Cattle horns and the naming of Bangor strand
+  summary: Fraech's cows pass the Stream of Bicne and shed their horns near Benchor,
+    producing the place-name Strand of Horns.
+  figure_refs:
+  - fig:7
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Fraech returns and later joins the Raid of Cualgne
+  summary: Fraech returns home with his children and cattle, lives there, and later
+    responds to Ailill and Maev's summons by riding on the Raid of Cualgne.
+  figure_refs:
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: serpent encounter without injury
+  taxonomy_refs:
+  - serpent
+  basis: A serpent attacks Conall, coils around his waist, and later releases him
+    without harm.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage presents the serpent's action literally but does not explain
+    its meaning or origin.
+- id: motif:2
+  label: rescue of captives from a fortified place
+  taxonomy_refs:
+  - stolen_beloved
+  basis: During the raid on the castle, a woman and her three sons are freed from
+    prison.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: 'The taxonomy reference is approximate: the passage says the woman is
+    imprisoned and freed, but it does not call her a beloved or describe an abduction.'
+- id: motif:3
+  label: return with recovered cattle
+  taxonomy_refs:
+  - return
+  basis: The party recovers cattle, and Fraech later returns home with his children
+    and cattle.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: medium
+  cautions: The passage is part of a cattle-raid narrative, but the available taxonomy
+    has no specific cattle-raid motif family.
+- id: motif:4
+  label: place-name origin from death or animal sign
+  taxonomy_refs: []
+  basis: The passage explains Inver-Bicne from Bicne's death and Bangor's Strand of
+    Horns from cattle shedding their horns.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: No matching taxonomy reference was provided for etiological place-naming.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 10427-10435
+  quote_or_summary: Conall pledges the raid; the castle is reached; a snake darts
+    at Conall and coils around his waist; the castle is plundered; a woman and her
+    three sons are freed; jewels are taken from the dun.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: 10436-10442
+  quote_or_summary: The serpent leaves Conall's belt and harms him no further; the
+    party travels north to the Pictish domains, finds three cattle on the plains,
+    and drives them to the shore by Dunolly.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: 10445-10451
+  quote_or_summary: At Ard Uan Echach, Bicne dies while cows are driven, by trampling
+    or tossing; Loegaire is named as his father, Conall Cernach as chief, and Inver-Bicne
+    as a name preserving grief for him.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: 10456-10459
+  quote_or_summary: Fraech's cows pass across the Stream of Bicne and shed their horns
+    near Benchor; the strand of Bangor is said to be called Strand of Horns from this
+    event.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:5
+  type: summary
+  locator: 10461-10468
+  quote_or_summary: Fraech travels home with his children and cattle, lives there,
+    and later obeys the summons of Ailill and Maev and rides on the Raid of Cualgne.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal sequence is clear in the supplied passage. Motif mapping is cautious
+    because some likely narrative types, especially cattle raid and etiological place-name,
+    are not present in the supplied taxonomy.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata. Footnote pronunciation notes were not treated as motif evidence.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:celtic-irish-heroic-romances-of-ireland-leahy-gutenberg__l10427-l10468
+  passage_sha256=3dc59abc23fee5cdc5f6af130096f37d3c54620945f48b78bddf39a67c599398

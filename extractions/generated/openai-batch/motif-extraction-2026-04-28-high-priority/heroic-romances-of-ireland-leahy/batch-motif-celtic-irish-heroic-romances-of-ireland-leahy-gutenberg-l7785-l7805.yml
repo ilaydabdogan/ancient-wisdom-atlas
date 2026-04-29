@@ -1,0 +1,181 @@
+---
+record_id: batch.motif.celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l7785-l7805
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+passage_locator:
+  label: PAGE 76 / PAGE 78 / PAGE 79 / PAGE 81; lines 7785-7805
+  start: '7785'
+  end: '7805'
+  translation: Heroic Romances of Ireland
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Translator's notes discuss the literal wording of one line, identify a
+    poem in which Fand resigns Cuchulain, propose a translation of its first verse
+    in which the speaker goes on a compelled journey while wishing to remain, and
+    comment on a doubtful original word in another line.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A note gives a literal rendering of the phrase translated as “Fair seems all
+    that's red,” including statements about red, new, lofty, known, absent, and accustomed
+    things.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage identifies a poem in which Fand resigns Cuchulain.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The proposed first verse translation has a female speaker say she will go
+    on a journey because of strong compulsion, though she would prefer to remain.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A note discusses an original phrase from line 16 and suggests that a doubtful
+    word may support the translation “I myself was greatly glowing.”
+  category: attribute
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Fand
+  description: Named as the figure who resigns Cuchulain in the referenced poem.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Cuchulain
+  description: Named as the figure whom Fand resigns in the referenced poem.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Female speaker of the translated first verse
+  description: A speaker who says she will go on a journey under strong compulsion
+    and would rather remain.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: resigning figure
+  assigned_to:
+  - fig:1
+  basis: The note states that Fand resigns Cuchulain.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: resigned beloved or companion
+  assigned_to:
+  - fig:2
+  basis: The note identifies Cuchulain as the one resigned by Fand.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: compelled journeying speaker
+  assigned_to:
+  - fig:3
+  basis: The proposed verse translation has the speaker go on a journey because of
+    strong compulsion while preferring to remain.
+  evidence_refs:
+  - ev:3
+symbols: []
+scenes:
+- id: scene:1
+  label: Reference to Fand resigning Cuchulain
+  summary: The note refers readers to a translation of a poem in which Fand resigns
+    Cuchulain.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Compelled journey in proposed verse translation
+  summary: A female speaker says she will go on a journey that is best for her because
+    of strong compulsion, although she would prefer to remain.
+  figure_refs:
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Compelled departure from desired place or relationship
+  taxonomy_refs:
+  - departure
+  basis: The proposed verse translation centers on a speaker leaving on a journey
+    under strong compulsion while saying it would be dearer to remain.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage is a translator's note and gives only a brief translated excerpt,
+    not the full narrative context.
+- id: motif:2
+  label: Renunciation of a beloved or companion
+  taxonomy_refs: []
+  basis: The note identifies a poem in which Fand resigns Cuchulain.
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: The passage does not quote or summarize the full resignation episode,
+    so the motif is based only on the note's brief description.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 7785-7788
+  quote_or_summary: "“fair is each red, white is each new, beautiful each lofty, sour
+    is each known, revered is each thing absent, failure is each thing accustomed.”"
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:2
+  type: summary
+  locator: lines 7790-7791
+  quote_or_summary: The note says that a translation of the poem in which Fand resigns
+    Cuchulain may be found in Thurneysen.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized for extraction evidence.
+- id: ev:3
+  type: quote
+  locator: lines 7792-7798
+  quote_or_summary: "“I am she who will go on a journey / which is best for me on
+    account of strong compulsion; ... it were dearer to me to remain.”"
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:4
+  type: summary
+  locator: lines 7800-7805
+  quote_or_summary: 'The note discusses line 16, the original phrase “daig is misi
+    rop iran,” and suggests a possible translation: “I myself was greatly glowing.”'
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized with brief quoted phrases for extraction
+    evidence.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: The passage is mainly philological commentary with only brief references
+    to narrative content, so motif extraction is limited and should be checked against
+    the surrounding poem.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not support a comparative mythology claim beyond internal translation commentary.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:celtic-irish-heroic-romances-of-ireland-leahy-gutenberg__l7785-l7805
+  passage_sha256=e5d5e071dfd3b7d61222a2ac8a8b1ad487e8cbe523ab2d5d01cc610eecc6e157

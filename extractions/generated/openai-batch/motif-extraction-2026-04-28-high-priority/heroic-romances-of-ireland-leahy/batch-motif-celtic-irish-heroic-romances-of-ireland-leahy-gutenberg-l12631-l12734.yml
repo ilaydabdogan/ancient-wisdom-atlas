@@ -1,0 +1,359 @@
+---
+record_id: batch.motif.celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l12631-l12734
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+passage_locator:
+  label: THE APPARITION OF THE GREAT QUEEN TO CUCHULAIN / LITERAL TRANSLATION / TEXT
+    OF LEABHAR NA H-UIDHRI / INTRODUCTION; lines 12631-12734
+  start: '12631'
+  end: '12734'
+  translation: Heroic Romances of Ireland
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: An editorial introduction explains that the following pages present the
+    Leabhar na h-Uidhri text for the conclusion of the Courtship of Etain with interlinear
+    translation. It describes the passage as containing rhetoric, regular verse, prose,
+    dialogue, antiquarian material, and descriptive passages, and it discusses several
+    Irish descriptive styles with examples involving Mider, Eochaid, Cuchulain, horses,
+    goblins, and supernatural description.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage introduces a text from Leabhar na h-Uidhri corresponding to the
+    end of the tale of the Courtship of Etain.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The editor states that the passage contains rhetoric, regular verse, and prose,
+    including narrative, rapid dialogue, antiquarian insertion, and two descriptive
+    passages.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: One descriptive style is exemplified by the description of Mider's appearance
+    and is characterized as a succession of images in short sentences.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Another descriptive style is exemplified by the description of the horses
+    that Mider offers to Eochaid and is characterized as a series of epithets or substantives.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: A third descriptive style, said not to appear in the prose of the romances
+    in this collection, is said to be often used for descriptions of the supernatural.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The editor names passages describing Cuchulain's distortions as examples of
+    the third descriptive style.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The editor states that the description of goblins met by Cuchulain is clear
+    and is not to be classed with the third descriptive style.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The regular verse in the extract is described as having description as a prominent
+    feature.
+  category: attribute
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Etain
+  description: Named in the title of the tale, the Courtship of Etain, whose conclusion
+    is introduced in this passage.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Mider
+  description: A named figure whose appearance is described elsewhere in the text
+    and who is said to offer horses to Eochaid.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Eochaid
+  description: A named figure to whom Mider offers horses.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Cuchulain
+  description: A named figure associated with passages describing his distortions
+    and with a clear description of goblins met by him.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:5
+  name_or_label: goblins
+  description: Beings met by Cuchulain in a description mentioned by the editor.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: title figure in referenced tale
+  assigned_to:
+  - fig:1
+  basis: Etain is named in the tale title whose conclusion the introduced text gives.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: described figure
+  assigned_to:
+  - fig:2
+  basis: Mider's appearance is given as the example of one descriptive style.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: offerer of horses
+  assigned_to:
+  - fig:2
+  basis: The passage refers to the horses that Mider offers to Eochaid.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: recipient of offered horses
+  assigned_to:
+  - fig:3
+  basis: Eochaid is named as the recipient of horses offered by Mider.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: figure associated with distortions and goblin encounter
+  assigned_to:
+  - fig:4
+  basis: Cuchulain is named in connection with distortions and with goblins met by
+    him.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:6
+  label: encountered beings
+  assigned_to:
+  - fig:5
+  basis: The goblins are described as being met by Cuchulain.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: horses offered by Mider
+  literal_form: horses
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: Cuchulain's distortions
+  literal_form: distortions
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - shapeshifter
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: goblins met by Cuchulain
+  literal_form: goblins
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Introduction of the Leabhar na h-Uidhri Courtship of Etain text
+  summary: The editor introduces the manuscript source and explains that the following
+    text gives the conclusion of the Courtship of Etain with interlinear translation.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Mider's appearance as descriptive example
+  summary: The editor cites the description of Mider's appearance as an example of
+    a style built from short, image-like sentences.
+  figure_refs:
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Mider offers horses to Eochaid
+  summary: The editor cites the horses offered by Mider to Eochaid as an example of
+    a descriptive style made from epithets or substantives.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Cuchulain's supernatural distortions
+  summary: The editor refers to descriptions of Cuchulain's distortions as examples
+    of a style often used for supernatural description.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Cuchulain meets goblins
+  summary: The editor refers to the description of goblins met by Cuchulain and classifies
+    the description as clear rather than vague.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: supernatural distortion or transformation of a hero figure
+  taxonomy_refs:
+  - shapeshifter
+  basis: The passage says that passages describing Cuchulain's distortions belong
+    to a style often used for supernatural description.
+  evidence_refs:
+  - ev:5
+  confidence: low
+  cautions: The passage is an editorial discussion of style, not the narrative description
+    itself; it does not give the details or cause of the distortions.
+- id: motif:2
+  label: offer of remarkable horses between named figures
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The passage mentions the horses that Mider offers to Eochaid as a descriptive
+    example.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: The passage only states that horses are offered; it does not describe
+    a completed exchange, ritual value, or sacred status.
+comparison_claims:
+- id: claim:1
+  claim: The passage compares descriptive styles across several Irish romances and
+    treats descriptions of supernatural material as a recurring stylistic pattern
+    in nearby corpus traditions.
+  claim_level: same_function
+  target: Irish romance descriptions of supernatural figures or events, including
+    Bruidne da Derga, Bricriu's Feast, the Great Tain, and the Sick-bed
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs:
+  - ev:6
+  confidence: medium
+  limitations: This is a comparison of literary description rather than a direct claim
+    of shared narrative motif or historical contact.
+- id: claim:2
+  claim: The passage distinguishes the clear goblin description in the Tain bo Regamna
+    from the vaguer third style used for some supernatural descriptions.
+  claim_level: same_function
+  target: Descriptions of supernatural beings in Irish romance prose
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs:
+  - ev:5
+  confidence: medium
+  limitations: The claim concerns descriptive form and clarity, not the origin or
+    identity of the goblin motif.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 12631-12645
+  quote_or_summary: The passage states that the following pages give the Leabhar na
+    h-Uidhri text for the conclusion of the Courtship of Etain, with interlinear word-for-word
+    translation.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 12661-12670
+  quote_or_summary: The editor says the passage contains rhetoric, regular verse,
+    and prose, including narrative, rapid dialogue, an antiquarian insertion, and
+    two descriptive passages.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 12678-12685
+  quote_or_summary: The first descriptive style is exemplified by Mider's appearance
+    and consists of successive images in short sentences, producing a clear word-picture.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 12685-12696
+  quote_or_summary: The second descriptive style is exemplified by the horses that
+    Mider offers to Eochaid and consists of series of epithets or substantives.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 12699-12714
+  quote_or_summary: The editor describes a third style often used for supernatural
+    description, names Bruidne da Derga, Bricriu's Feast, and the Great Tain, and
+    says such passages include descriptions of Cuchulain's distortions.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 12714-12723
+  quote_or_summary: The editor says the Tain bo Regamna has a clear description of
+    goblins met by Cuchulain and should not be regarded as belonging to the third
+    form.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 12729-12734
+  quote_or_summary: The editor states that the regular verse in the extract gives
+    a fair idea of the form, and that description is common and prominent in it.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: medium
+  notes: The passage is primarily an editorial and stylistic introduction, so motif
+    extraction is limited and many items are referenced rather than narrated.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No unsupported taxonomy IDs were added beyond the supplied list. Symbol and motif assignments are cautious because the passage summarizes or references narrative material rather than presenting it directly.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:celtic-irish-heroic-romances-of-ireland-leahy-gutenberg__l12631-l12734
+  passage_sha256=93a86fe5962810ad64b53c94f8bcc032609076410f3ac5a7629d1130e1b0f62e

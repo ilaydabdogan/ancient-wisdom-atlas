@@ -1,0 +1,539 @@
+---
+record_id: batch.motif.celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l503-l580
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+passage_locator:
+  label: A. H. LEAHY / IN TWO VOLUMES / VOL. I / PREFACE; lines 503-580
+  start: '503'
+  end: '580'
+  translation: Heroic Romances of Ireland
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Leahy's preface characterizes the included Irish romances by tone, literary
+    quality, supernatural content, and relation to other tale versions. It identifies
+    Dartaid as fairy vengeance for breach of faith; Flidais as a raid-like tale; Regamon
+    as a youthful foray with a good ending; Regamna as grotesque supernatural prophecy
+    linked to the Great Tain; Deirdre as a tragic romance with a major lament; Fraech
+    as a graceful romance involving a demi-god, fairies, and fairy harpers; and the
+    Sick-bed of Cuchulain as a romance of supernatural beings in which Fand yields
+    her lover to a mortal woman with a better claim.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The preface states that the tales differ greatly in tone and merit and may
+    come from writers separated by hundreds of years.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Dartaid is described as a tale of fairy vengeance for a breach of faith.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Flidais is described as a direct raid story, compared to Scottish Border riding
+    ballads, and as not much concerned with right or wrong.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Regamon is described as a merry foray by boys and girls, with a modern-style
+    good ending, and with less concern for rights than Flidais.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Flidais and Regamon are said to have no trace of the supernatural element.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The Tain bo Regamna is described as a grotesque presentation of the supernatural,
+    ending with prophecies that follow the action of the relevant part of the Great
+    Tain.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The Boar of Mac Datho is described as archaic and savage, relieved by humor,
+    and without a supernatural element.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The Leinster version of the Deirdre story is described as savage at the opening,
+    rapid in prose action, and notable for a sustained lament and restrained account
+    of Deirdre's tragic death.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The Fraech romance is described as having a demi-god hero, a considerable
+    fairy role, essentially human interest, an involved plot, brilliant descriptions,
+    and an account of the parentage of three fairy harpers.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The Sick-bed of Cuchulain is said to consist of two separate versions, with
+    the second and longer part a fragmentary but stately romance involving supernatural
+    beings.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: The conclusion of the Sick-bed is described as remarkable because of the importance
+    of two women heroines; Fand resigns her lover to a weaker mortal woman who has
+    a better claim on him.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Fairies in Dartaid
+  description: Supernatural agents associated with vengeance for a breach of faith
+    in Dartaid.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Boys and girls in Regamon
+  description: Youthful participants in a merry foray in Regamon.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Deirdre
+  description: Figure whose tragic death and lament are discussed in connection with
+    the Leinster version of the Deirdre story.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Fraech
+  description: Hero of the romance Fraech, described as a demi-god.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Fairies in Fraech
+  description: Supernatural beings said to play a considerable part in the romance
+    Fraech.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: Three fairy harpers
+  description: Fairy harpers whose parentage is included as a notable piece of Celtic
+    mythology in Fraech.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: Compiler of the Leabhar na h-Uidhri exemplar
+  description: A manuscript compiler described as seemingly antiquarian and as inserting
+    old religious or ceremonial information into preserved romances.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+- id: fig:8
+  name_or_label: Fand
+  description: A woman heroine in the Sick-bed conclusion who resigns her lover to
+    a mortal woman with a better claim.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:6
+- id: fig:9
+  name_or_label: Weaker mortal woman
+  description: Mortal woman in the Sick-bed conclusion who has a better claim on Fand's
+    lover.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:6
+- id: fig:10
+  name_or_label: Fand's lover
+  description: The lover whom Fand resigns to the mortal woman with a better claim.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: fairy avengers
+  assigned_to:
+  - fig:1
+  basis: The passage characterizes Dartaid as fairy vengeance for breach of faith.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: youthful forayers
+  assigned_to:
+  - fig:2
+  basis: Regamon is called a merry foray by boys and girls.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: tragic heroine associated with lament
+  assigned_to:
+  - fig:3
+  basis: The passage highlights Deirdre's lament and tragic death.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: demi-god hero
+  assigned_to:
+  - fig:4
+  basis: Fraech's hero is explicitly described as a demi-god.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: fairy or supernatural participants
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: Fairies play a considerable part in Fraech, and the passage mentions three
+    fairy harpers.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: mythological parentage subjects
+  assigned_to:
+  - fig:6
+  basis: The parentage of the three fairy harpers is singled out as a piece of Celtic
+    mythology.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: antiquarian manuscript compiler
+  assigned_to:
+  - fig:7
+  basis: The compiler is described as seemingly antiquarian and as inserting antiquarian
+    information into romances.
+  evidence_refs:
+  - ev:6
+- id: role:8
+  label: renouncing heroine
+  assigned_to:
+  - fig:8
+  basis: Fand resigns her lover to another woman.
+  evidence_refs:
+  - ev:6
+- id: role:9
+  label: mortal woman with better claim
+  assigned_to:
+  - fig:9
+  basis: The mortal woman is said to have a better claim upon the lover.
+  evidence_refs:
+  - ev:6
+- id: role:10
+  label: contested lover
+  assigned_to:
+  - fig:10
+  basis: The lover is the person whom Fand resigns to the mortal woman.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: breach of faith
+  literal_form: Broken faith or promise that provokes fairy vengeance in Dartaid.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - covenant
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: prophecies closing Regamna
+  literal_form: A series of prophecies that follow the action of the related part
+    of the Great Tain.
+  associated_figures: []
+  taxonomy_refs:
+  - wisdom
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: Connaught palace
+  literal_form: A palace description in Fraech, described as of antiquarian interest.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: three fairy harpers
+  literal_form: A group of three fairy harpers whose parentage is included in Fraech.
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: resigned lover
+  literal_form: The lover whom Fand yields to a mortal woman with a better claim.
+  associated_figures:
+  - fig:8
+  - fig:9
+  - fig:10
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Prefatory survey of tale variation
+  summary: The preface frames the collection as varied in tone and merit, possibly
+    reflecting composition by writers separated by long periods.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Three Tains classified by action and supernatural content
+  summary: Dartaid is classified as fairy vengeance for breach of faith; Flidais as
+    a raid tale; and Regamon as a merry foray by boys and girls with a good ending.
+    Flidais and Regamon are said to lack a supernatural element.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Regamna and Mac Datho characterized
+  summary: Regamna is described as a grotesque supernatural tale whose closing prophecies
+    align with the Great Tain, while Mac Datho is described as archaic, savage, humorous,
+    and non-supernatural.
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Deirdre version and lament
+  summary: The Leinster Deirdre story is praised for rapid prose action, a sustained
+    lament, and restraint in narrating Deirdre's tragic death, and is compared with
+    a later fifteenth-century version.
+  figure_refs:
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Fraech as demi-god and fairy romance
+  summary: Fraech is presented as a graceful romance with a demi-god hero, significant
+    fairy presence, human interest, elaborate descriptions including the Connaught
+    palace, and the parentage of three fairy harpers.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+- id: scene:6
+  label: Sick-bed manuscript context and Fand's renunciation
+  summary: The Sick-bed is described as affected in part by compiler additions but
+    also as a stately fragment involving supernatural beings; its conclusion centers
+    the actions of two women heroines, especially Fand yielding her lover to a mortal
+    woman.
+  figure_refs:
+  - fig:7
+  - fig:8
+  - fig:9
+  - fig:10
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: fairy vengeance for broken faith
+  taxonomy_refs:
+  - covenant
+  - divine_judgment
+  basis: Dartaid is explicitly summarized as a tale of fairy vengeance for a breach
+    of faith.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is a preface's summary of the tale rather than the tale episode itself.
+- id: motif:2
+  label: raid or foray tale without supernatural element
+  taxonomy_refs: []
+  basis: Flidais is described as a raid tale and Regamon as a foray by boys and girls;
+    both are said to lack the supernatural element.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is a genre or action-pattern classification, not a detailed mythic
+    episode.
+- id: motif:3
+  label: prophetic foretelling linked to a larger epic action
+  taxonomy_refs:
+  - wisdom
+  basis: Regamna closes with prophecies that exactly follow the action of the relevant
+    part of the Great Tain.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage does not quote the prophecies or identify their speakers.
+- id: motif:4
+  label: tragic heroine's lament at death
+  taxonomy_refs: []
+  basis: The Deirdre story is noted for a sustained lament and a restrained account
+    of Deirdre's tragic death.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage evaluates literary effect rather than narrating the death
+    scene.
+- id: motif:5
+  label: demi-god hero in fairy-involved romance
+  taxonomy_refs:
+  - divine_parent_child
+  basis: Fraech's hero is called a demi-god, and fairies are said to play a considerable
+    part in the romance.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage does not describe the hero's parentage or specific fairy actions.
+- id: motif:6
+  label: parentage of fairy musicians
+  taxonomy_refs:
+  - divine_parent_child
+  basis: The passage singles out the parentage of the three fairy harpers as a notable
+    piece of Celtic mythology.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: No details of the parentage are supplied in this passage.
+- id: motif:7
+  label: supernatural beloved yields lover to mortal claimant
+  taxonomy_refs:
+  - divine_beloved
+  basis: In the Sick-bed conclusion, Fand resigns her lover to a weaker mortal woman
+    who has a better claim upon him, in a tale dealing with supernatural beings.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage does not explicitly state Fand's supernatural status within
+    the extracted lines; the link to divine-beloved pattern is therefore cautious.
+comparison_claims:
+- id: claim:1
+  claim: Flidais is compared in the preface to Scottish Border riding ballads as a
+    direct raid-like story.
+  claim_level: same_function
+  target: Scottish Border riding ballads
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage states resemblance only; it does not claim borrowing, shared
+    origin, or historical contact.
+- id: claim:2
+  claim: The Leinster version and fifteenth-century version are treated as versions
+    of the same Deirdre story with different characterization and sentiment.
+  claim_level: same_motif
+  target: Fifteenth-century version of the Deirdre story
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage gives only a brief comparative literary judgment, not a
+    full motif-by-motif comparison.
+- id: claim:3
+  claim: Regamna is presented as closely associated with the Great Tain because its
+    closing prophecies follow the action of the relevant part of that larger tale.
+  claim_level: same_function
+  target: The Great Tain
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The relationship is described as association and prophetic alignment,
+    not as an independent historical claim.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 503-511
+  quote_or_summary: The tales are said to vary greatly in tone and merit, likely reflecting
+    authors separated by hundreds of years; the preface warns against broad generalizations
+    based only on abstracts or compilations.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 512-522
+  quote_or_summary: Dartaid is summarized as fairy vengeance for breach of faith;
+    Flidais as a raid resembling Scottish Border riding ballads; Regamon as a merry
+    foray by boys and girls with a good ending; Flidais and Regamon are said to lack
+    supernatural elements.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 523-531
+  quote_or_summary: Tain bo Regamna is described as a grotesque supernatural piece
+    whose prophecies correspond to part of the Great Tain; Boar of Mac Datho is described
+    as archaic, savage, humorous, and non-supernatural.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: lines 532-540
+  quote_or_summary: The Leinster Deirdre story is praised for rapid action, a sustained
+    lament, and restraint in recounting Deirdre's tragic death; parts of a fifteenth-century
+    version are added for comparison.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:5
+  type: summary
+  locator: lines 542-556
+  quote_or_summary: The remaining romances are said to show beauty; Fraech has a demi-god
+    hero, substantial fairy involvement, human interest, an involved plot, brilliant
+    descriptions, the Connaught palace description, and the parentage of three fairy
+    harpers.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:6
+  type: summary
+  locator: lines 558-580
+  quote_or_summary: The Sick-bed of Cuchulain and Courtship of Etain are discussed
+    in relation to compiler additions; the Sick-bed has two versions, involves supernatural
+    beings, and concludes with important action by two women heroines, including Fand
+    resigning her lover to a mortal woman with a better claim.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is prefatory literary commentary rather than a primary narrative
+    episode. Motif candidates are based on Leahy's summaries and evaluations of the
+    tales, so several require review against the tale texts themselves.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No external sources were used. Taxonomy references were limited to the supplied available taxonomy list.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:celtic-irish-heroic-romances-of-ireland-leahy-gutenberg__l503-l580
+  passage_sha256=2108f069207979bcb00136a6801b3286b0ef381eebf92bd0284cf3f111519bff

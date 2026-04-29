@@ -1,0 +1,483 @@
+---
+record_id: batch.motif.celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l2033-l2183
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+passage_locator:
+  label: MAC DATHO'S BOAR / INTRODUCTION / MAC DATHO'S BOAR / FROM THE BOOK OF LEINSTER
+    (TWELFTH-CENTURY MS.); lines 2033-2183
+  start: '2033'
+  end: '2183'
+  translation: Heroic Romances of Ireland
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Mac Datho, king in Leinster, possesses the famed hound Ailbe, guardian
+    of Leinster. Heralds from Connaught and Ulster arrive simultaneously to demand
+    the hound on behalf of rival rulers, each offering rich payment. Mac Datho is
+    troubled by the threat of war if he refuses either side. His wife advises promising
+    the hound to both. Mac Datho then separately tells the Connaught and Ulster messengers
+    that their respective rulers have been awarded the hound and should come in splendor
+    to collect it.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Mac Datho is described as a glorious king ruling over the men of Leinster.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Mac Datho possesses a hound named Ailbe, described as the guardian of all
+    Leinster and widely famed.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Messengers from Ailill and Maev and messengers from Conor arrive at the same
+    hour to demand Ailbe.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Mac Datho's palace is described as a hostelry with seven doors, seven passages,
+    and seven cauldrons containing meat.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Travellers in the hostelry may thrust a fork into a cauldron once; whatever
+    they draw out on the first attempt is their food, and no second attempt is allowed.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The Connaught messengers offer six thousand milch cows, a two-horsed chariot
+    with horses, and an equal amount again after a year in exchange for the hound.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The Ulster messengers offer treasures, cattle, an equal amount again after
+    a year, and Conor's friendship in exchange for the hound.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Mac Datho becomes silent, does not eat or sleep, and tosses about because
+    of the competing demands.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Mac Datho says that refusal to Conor or Ailill would bring destructive military
+    retaliation.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: Mac Datho's wife advises him to give the hound to both parties.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: Mac Datho separately tells the Connaught messengers that the hound is awarded
+    to Ailill and Maev.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:12
+  text: Mac Datho separately tells the Ulster messengers that the hound is awarded
+    to Conor.
+  category: speech
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Mesroda Mac Datho
+  description: King over the men of Leinster and owner of the hound Ailbe.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: Ailbe
+  description: Mac Datho's famed hound, called the guardian of all Leinster.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: Ailill
+  description: Ruler associated with Connaught who sends messengers to demand Ailbe.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:7
+- id: fig:4
+  name_or_label: Maev
+  description: Queen associated with Connaught who sends messengers to demand Ailbe.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:7
+- id: fig:5
+  name_or_label: Conor son of Ness
+  description: Ruler associated with Ulster who sends messengers to demand Ailbe.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:8
+- id: fig:6
+  name_or_label: Connaught messengers
+  description: Heralds sent by Ailill and Maev to ask Mac Datho for the hound.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:7
+- id: fig:7
+  name_or_label: Ulster messengers
+  description: Heralds sent by Conor to ask Mac Datho for the hound.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:8
+- id: fig:8
+  name_or_label: Mac Datho's wife
+  description: The wife who questions Mac Datho's distress and advises promising the
+    hound to both parties.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: Leinster king
+  assigned_to:
+  - fig:1
+  basis: The passage names Mac Datho as a king ruling over the men of Leinster.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: owner of contested hound
+  assigned_to:
+  - fig:1
+  basis: The hound Ailbe is among Mac Datho's possessions and is demanded by rival
+    parties.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: deceptive host or allocator
+  assigned_to:
+  - fig:1
+  basis: After his wife's counsel, Mac Datho separately promises the hound to both
+    Connaught and Ulster.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: role:4
+  label: famed guardian animal
+  assigned_to:
+  - fig:2
+  basis: Ailbe is called the guardian of all Leinster and is famous throughout the
+    land.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: rival claimant
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:5
+  basis: Ailill, Maev, and Conor each seek possession of Ailbe through their messengers.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:6
+  label: herald or envoy
+  assigned_to:
+  - fig:6
+  - fig:7
+  basis: Both groups are described as heralds or messengers sent to demand the hound.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:7
+  label: counsel-giver
+  assigned_to:
+  - fig:8
+  basis: Mac Datho's wife proposes the plan to give the hound to both claimants.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: Ailbe the hound
+  literal_form: Famed hound and guardian of Leinster
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: sevenfold hostelry
+  literal_form: Palace-hostelry with seven doors, seven passages, and seven cauldrons
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: cauldrons of meat
+  literal_form: Seven cauldrons seething with ox flesh and salted swine flesh
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: exchange payment
+  literal_form: Milch cows, cattle, treasures, chariot, horses, and promised future
+    payment
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Introduction of Mac Datho and Ailbe
+  summary: Mac Datho is introduced as a Leinster king who owns Ailbe, the famed guardian
+    hound of Leinster.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Arrival of rival heralds
+  summary: Heralds from Connaught and Ulster arrive at the same time to request Mac
+    Datho's hound.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: scene:3
+  label: Description of the hostelry
+  summary: The narrative describes Mac Datho's palace-hostelry, its sevenfold architecture,
+    seven cauldrons, and the rule governing travellers' food.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Mac Datho's anxiety and his wife's counsel
+  summary: Mac Datho is sleepless and troubled by the danger of offending either claimant;
+    his wife advises promising the hound to both sides.
+  figure_refs:
+  - fig:1
+  - fig:8
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Separate promises to Connaught and Ulster
+  summary: Mac Datho separately tells Connaught and Ulster messengers that their own
+    rulers have been awarded the hound and should come to receive it.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Rival rulers contest a prized guardian animal
+  taxonomy_refs: []
+  basis: Two royal parties demand the same famed hound, whose possession is valuable
+    enough to draw large payments and threats of conflict.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage introduces the dispute but does not yet narrate the later
+    outcome of the contest.
+- id: motif:2
+  label: Deceptive double promise to avoid immediate retaliation
+  taxonomy_refs:
+  - trickster_boundary
+  basis: Mac Datho, after receiving his wife's advice, promises the single hound separately
+    to both rival claimants.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The passage presents a stratagem but does not explicitly call Mac Datho
+    a trickster; taxonomy alignment is functional and should be reviewed.
+- id: motif:3
+  label: Prestige exchange for a heroic animal
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The hound is requested through formal embassies and offered for cattle, treasure,
+    chariot, horses, future payment, and political friendship.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The exchange is political and heroic rather than explicitly sacred in
+    this passage.
+- id: motif:4
+  label: Wise counsel from spouse resolves a ruler's dilemma
+  taxonomy_refs:
+  - wisdom
+  basis: Mac Datho is unable to decide between dangerous alternatives until his wife
+    proposes the plan that ends his immediate grief.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The counsel is prudent within the narrative situation but morally ambiguous
+    because it entails promising the same hound to both parties.
+- id: motif:5
+  label: Ritualized hospitality in a many-doored hostelry
+  taxonomy_refs: []
+  basis: The palace-hostelry is described with seven doors, seven passages, seven
+    cauldrons, and a fixed rule for travellers' portions.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The description is institutional and spatial; no broader mythic taxonomy
+    reference is directly supported by the passage alone.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 2033-2051
+  quote_or_summary: Mac Datho is introduced as king over the men of Leinster; he owns
+    Ailbe, a famed hound described as guardian of all Leinster.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 2052-2058
+  quote_or_summary: Messengers from Ailill and Maev and heralds from Conor son of
+    Ness arrive at the same hour to demand the hound and are brought before Mac Datho.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 2059-2074
+  quote_or_summary: Mac Datho's palace-hostelry is described with seven doors, seven
+    passages, seven cauldrons of ox and swine flesh, and a one-thrust food rule for
+    travellers.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 2075-2090
+  quote_or_summary: Connaught envoys offer six thousand milch cows, a two-horsed chariot,
+    horses, and later equal payment; Ulster envoys offer treasures, cattle, future
+    payment, and Conor's friendship.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 2091-2139
+  quote_or_summary: Mac Datho grows silent, does not eat or sleep, and explains that
+    refusing either Conor or Ailill would bring destructive retaliation against him
+    and his people.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: quote
+  locator: 2140-2144
+  quote_or_summary: '"Of that hound to them both be thou giver, / And who dies for
+    it little we care."'
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; short quotation.
+- id: ev:7
+  type: summary
+  locator: 2153-2174
+  quote_or_summary: After three days and nights, Mac Datho privately tells the Connaught
+    messengers that he has decided to give the hound to Ailill and Maev and invites
+    them to come in splendor.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: 2175-2183
+  quote_or_summary: Mac Datho then tells the Ulster messengers that he has awarded
+    the hound to Conor and invites the nobles of Ulster to come bear it away.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The main narrative elements are explicit. Motif-family mappings, especially
+    trickster_boundary and sacred_exchange, are interpretive and need review. No comparison
+    claims were made because the passage itself does not support cross-textual comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy references are limited to supplied available refs and are included only where the passage gives functional support.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:celtic-irish-heroic-romances-of-ireland-leahy-gutenberg__l2033-l2183
+  passage_sha256=244ced282af0ac8c034122e4fea615d2095f2575b5bc959940957ff25263e646

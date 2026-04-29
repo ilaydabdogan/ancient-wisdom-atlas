@@ -1,0 +1,469 @@
+---
+record_id: batch.motif.celtic-irish-gods-and-fighting-men-gregory-gutenberg-l13368-l13481
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+passage_locator:
+  label: 'CHAPTER VIII. THE BOAR OF BEINN GULBAIN / BOOK EIGHT: CNOC-AN-AIR. / CHAPTER
+    I. TAILC, SON OF TREON / CHAPTER II. MEARGACH''S WIFE; lines 13368-13481'
+  start: '13368'
+  end: '13481'
+  translation: Gods and Fighting Men
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: '"I knew by the voice of the battle-crow over your dun every evening... that
+    misfortune and grief were at hand."'
+  summary: Ailne laments the deaths of her husband and two sons, listing ominous signs
+    that foretold their defeat. Grania denies that Finn or the Fianna used treachery.
+    Ailne refuses hospitality and seeks satisfaction, leading to battle; Ailne is
+    defeated and the hill is named Cnoc-an-Air, the Hill of Slaughter.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Ailne grieves for three men who have fallen far from home by the Fianna.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Ailne says she knew of the impending deaths through repeated signs involving
+    the Sidhe, birds, blood, animals, visions, and changes in the landscape.
+  category: sequence
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: obs:3
+  text: Grania tells Ailne not to accuse Finn or the Fianna of treachery or deceit.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:4
+  text: Ailne says she would not reproach the Fianna if the men had fallen in fair
+    battle, and suggests they may have been overcome by Druid spells.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:5
+  text: Ailne refuses food from Grania and the Fianna and seeks satisfaction for the
+    death of her husband and two sons.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:6
+  text: A battle is fought between Ailne's side and the Fianna; Ailne is worsted and
+    returns with the remaining men.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:7
+  text: The hill where the battles were fought receives the name Cnoc-an-Air, the
+    Hill of Slaughter.
+  category: setting
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Ailne of the Bright Face
+  description: A queen or noble woman who laments her husband and two sons, accuses
+    Finn and the Fianna, refuses hospitality, and leads or accompanies the opposing
+    side in battle.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: Grania
+  description: A woman present with the Fianna who answers Ailne and defends Finn
+    and the Fianna against charges of treachery.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: Finn, son of Cumhal
+  description: Leader of the Fianna, accused by Ailne of treachery and defended by
+    Grania.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: The Fianna
+  description: The fighting band opposed by Ailne; Grania defends them, and they fight
+    a hard battle against Ailne's side.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: fig:5
+  name_or_label: Ailne's three men
+  description: Ailne's husband and two sons, described as three strong fighters whose
+    deaths she laments and seeks to avenge.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: fig:6
+  name_or_label: The Sidhe
+  description: A great host seen fighting over the dun and in the valleys of the air,
+    interpreted by Ailne as a sign of destruction for her three men.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+- id: fig:7
+  name_or_label: Ailne's army
+  description: The force that Ailne hopes will destroy the Fianna and that later fights
+    them; survivors return with Ailne.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+roles:
+- id: role:1
+  label: lamenting avenger
+  assigned_to:
+  - fig:1
+  basis: Ailne laments the dead and demands satisfaction for their deaths.
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: role:2
+  label: defender of Finn and the Fianna
+  assigned_to:
+  - fig:2
+  basis: Grania repeatedly denies that Finn or the Fianna acted through treachery.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:3
+  label: accused leader
+  assigned_to:
+  - fig:3
+  basis: Ailne names Finn as treacherous, while Grania rejects the accusation.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:4
+  label: battle party
+  assigned_to:
+  - fig:4
+  - fig:7
+  basis: The Fianna and Ailne's forces fight a severe battle against one another.
+  evidence_refs:
+  - ev:7
+- id: role:5
+  label: slain kin
+  assigned_to:
+  - fig:5
+  basis: Ailne identifies the dead as her husband and two sons and seeks satisfaction
+    for them.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: omen-bearing supernatural host
+  assigned_to:
+  - fig:6
+  basis: Ailne interprets the Sidhe fighting in the air as foretelling destruction.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: Sidhe host fighting in the air
+  literal_form: The great host of the Sidhe fighting over the dun and in the valleys
+    of the air.
+  associated_figures:
+  - fig:1
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: battle-crow over the dun
+  literal_form: The voice of the battle-crow heard over the dun every evening.
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: raven voice and flight
+  literal_form: The raven's voice every morning and its flight before the men as they
+    left the dun.
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:4
+  label: blood in water
+  literal_form: A stream near the dun turning to blood and a vision of a lake of blood
+    in place of the dun.
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:5
+  label: withering tree
+  literal_form: The tree before the dun withers.
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: eagle over the dun
+  literal_form: An eagle comes every evening over the dun.
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:7
+  label: howling hounds
+  literal_form: Ciardan's hounds and Uaithnin howl mournfully or early each morning.
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:8
+  label: tears of blood
+  literal_form: Ailne sees tears of blood on the cheeks of the three men when they
+    depart.
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:9
+  label: severed head and hands in vision
+  literal_form: Ailne sees a sorrowful vision of herself in danger, with her head
+    and hands cut off.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Ailne's lament of portents
+  summary: Ailne mourns her three dead men and recites many signs that she says foretold
+    their defeat and death.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:7
+  - sym:8
+  - sym:9
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:2
+  label: Grania disputes the accusation of treachery
+  summary: Grania tells Ailne not to speak against Finn or the Fianna and says the
+    three men fell by bravery and the strong hand, not by deceit.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:3
+  label: Refusal of hospitality and demand for satisfaction
+  summary: Grania invites Ailne to eat and drink with her and the Fianna, but Ailne
+    refuses and demands satisfaction for her husband and sons.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+- id: scene:4
+  label: Battle at Cnoc-an-Air
+  summary: Ailne's forces and the Fianna fight a hard battle; Ailne is defeated and
+    the battlefield hill is named the Hill of Slaughter.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Ominous signs foretelling death in battle
+  taxonomy_refs: []
+  basis: Ailne repeatedly interprets supernatural, animal, bodily, and landscape signs
+    as foretelling the deaths of her three men.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage presents the signs as Ailne's knowledge and lament; it does
+    not separately verify each omen outside her speech.
+- id: motif:2
+  label: Blood-water portent of slaughter
+  taxonomy_refs: []
+  basis: Ailne names a stream turning to blood and a vision of a lake of blood as
+    signs of treachery and death.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The blood-water images appear within Ailne's lament and vision language.
+- id: motif:3
+  label: Lament leading to revenge battle
+  taxonomy_refs: []
+  basis: Ailne's grief for her husband and sons turns into refusal of hospitality,
+    demand for satisfaction, and battle with the Fianna.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The passage does not frame this as a formal legal vengeance ritual beyond
+    the stated demand for satisfaction.
+- id: motif:4
+  label: Place-name from battle slaughter
+  taxonomy_refs: []
+  basis: The hill receives the name Cnoc-an-Air, the Hill of Slaughter, because of
+    the battles fought there.
+  evidence_refs:
+  - ev:8
+  confidence: high
+  cautions: Only the immediate naming explanation is supplied in this passage.
+comparison_claims:
+- id: claim:1
+  claim: The passage fits a broader omen-portent pattern in which birds, animal cries,
+    blood imagery, visions, and changes in trees or waters foretell death or defeat.
+  claim_level: same_function
+  target: omen-portent pattern foretelling battle death
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is a functional comparison to a general pattern; the passage alone
+    does not establish historical contact, common inheritance, or a specific external
+    taxonomy number.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 13368-13383
+  quote_or_summary: 'Ailne laments: "my three proud lions" and says her "three sure
+    fighters" have fallen far off by the Fianna.'
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:2
+  type: summary
+  locator: 13384-13403
+  quote_or_summary: Ailne says the Sidhe fought over the dun, she heard their voices,
+    saw tears of blood on the men's cheeks, heard the battle-crow, and heard the raven;
+    these signs foretold death and non-return.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: 13404-13413
+  quote_or_summary: Ailne says the stream near the dun turned to blood, an eagle came
+    over the dun, and the tree before the dun withered.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source; concise quotation/paraphrase used.
+- id: ev:4
+  type: summary
+  locator: 13420-13435
+  quote_or_summary: 'Ailne adds further signs: the raven''s flight, mournful hounds,
+    sleeplessness and tears, a vision of her own severed head and hands, Uaithnin
+    the hound howling, and a vision of a lake of blood.'
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 13414-13419, 13436-13442
+  quote_or_summary: Grania tells Ailne not to speak against Finn or the Fianna and
+    says the three men were not brought to their end by treachery or deceit.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 13443-13469
+  quote_or_summary: Ailne says she would not reproach the Fianna if the men had fallen
+    fairly, suspects Druid spells, refuses food from those who did such deeds, and
+    wants satisfaction for her husband and two sons.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 13470-13478
+  quote_or_summary: Terms for combat escalate to a great battle; many men die on each
+    side, Ailne of the Bright Face is worsted, and she returns with surviving men
+    to their own country.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: quote
+  locator: 13479-13481
+  quote_or_summary: '"the hill in the west those battles were fought on got the name
+    of Cnoc-an-Air, the Hill of Slaughter."'
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source; short quotation used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward. Motif labels are descriptive rather
+    than tied to a supplied detailed motif index; comparison is limited to a general
+    functional pattern.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the provided passage and metadata were used. Available taxonomy refs were applied only to explicit water and tree symbols.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:celtic-irish-gods-and-fighting-men-gregory-gutenberg__l13368-l13481
+  passage_sha256=eed2232934f2a32d4912fffbfe38aeb74e606b8d5ced725f39701903a1609ae9

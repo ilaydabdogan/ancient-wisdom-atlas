@@ -1,0 +1,413 @@
+---
+record_id: batch.motif.celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l6841-l6925
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+passage_locator:
+  label: PAGE 23 / PAGE 24 / PAGE 25 / PAGE 26; lines 6841-6925
+  start: '6841'
+  end: '6925'
+  translation: Heroic Romances of Ireland
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A literal rendering of a poem invites a fair-haired woman to come with
+    the speaker into a marvelous land, described as the Great Plain or Great Country.
+    The land has music, beautiful bodies and faces, no private possession, more intoxicating
+    drink than Ireland, sweet streams, mead and wine, blemishless men, sinless conception,
+    invisibility to outsiders, and promised gifts of gold, pork, milk, and mead.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: An unnamed speaker addresses a fair-haired woman and asks whether she will
+    come with him into a marvelous land.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The land is described as having music and bodies marked by primrose-colored
+    hair, snow-colored body, white teeth, black eyebrows, foxglove-colored cheeks,
+    and eyes compared with hosts or blackbird eggs.
+  category: attribute
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: The country is said to have no distinction of “mine” and “thine.”
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The speaker contrasts the plains and ale of Fal, identified in the passage
+    as Ireland, with the Great Plain or Great Country, which is presented as superior.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: In the land described, a young man does not go before an old man.
+  category: attribute
+  evidence_refs:
+  - ev:3
+  - ev:8
+- id: obs:6
+  text: Smooth, sweet streams flow through the land, and there is a choice of mead
+    and wine.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Men in the land are described as handsome or blemishless, and conception is
+    described as without sin and without crime.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The speaker says that his people see everything on every side, while no one
+    sees them.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The speaker attributes this hidden or separate condition to the cloud of the
+    sin of Adam encompassing them from the reckoning.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: If the woman comes to the speaker’s strong people, she is promised a golden
+    top of head or head-ornament, unsalted pork, new milk, and mead.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: fair-haired woman
+  description: The woman addressed by the speaker and invited to come into the marvelous
+    land.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: fig:2
+  name_or_label: unnamed speaker
+  description: The first-person speaker who invites the woman and describes the marvelous
+    land and his people.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: speaker’s strong people
+  description: The people to whom the speaker says the woman may come; they see all
+    around them, are not seen, and are associated with the promised gifts.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: men of the land
+  description: Men in the described land are said to be handsome or without blemish;
+    the relation of young and old men is noted.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: invited addressee
+  assigned_to:
+  - fig:1
+  basis: The speaker directly asks the fair-haired woman to come with him and promises
+    her gifts if she comes.
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: role:2
+  label: inviter and describer of the marvelous land
+  assigned_to:
+  - fig:2
+  basis: The speaker issues the invitation and gives a first-person account of the
+    land and people.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+- id: role:3
+  label: hidden or otherworldly people
+  assigned_to:
+  - fig:3
+  basis: The people are described as seeing everything while no one sees them and
+    as encompassed away from reckoning.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: blemishless inhabitants
+  assigned_to:
+  - fig:4
+  basis: The men of the land are described as handsome or without blemish, and the
+    passage comments on young and old men there.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: marvelous land / Great Plain / Great Country
+  literal_form: A marvelous country contrasted with Fal/Ireland and named as the Great
+    Plain and Great Country.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: sweet streams
+  literal_form: Smooth and sweet streams flowing through the land.
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: new milk
+  literal_form: New milk promised as drink if the woman comes to the speaker’s people.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - milk
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: mead, wine, and ale
+  literal_form: Choice of mead and wine in the land, and ale of the Great Country
+    said to be more intoxicating than the ale of Fal.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+- id: sym:5
+  label: golden head or head-adornment
+  literal_form: The woman is told that a top of head of gold shall be on her head.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: cloud of the sin of Adam
+  literal_form: A cloud of Adam’s sin said to encompass the speaker’s people from
+    the reckoning.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:7
+  label: unsalted pork
+  literal_form: Unsalted pork promised to the woman if she comes to the speaker’s
+    people.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Invitation to the marvelous land
+  summary: The speaker asks the fair-haired woman to come with him into a marvelous
+    land and begins describing its beauty and music.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Description of the Great Plain or Great Country
+  summary: The speaker contrasts the land with Fal/Ireland and describes its social
+    order, drink, streams, blemishless men, and sinless conception.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Hidden people and promised gifts
+  summary: The speaker says his people see all while remaining unseen, then promises
+    the woman gold, pork, new milk, and mead if she comes to them.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Invitation to an otherworldly marvelous land
+  taxonomy_refs:
+  - afterlife_journey_map
+  - departure
+  basis: A speaker invites a woman to leave with him for a marvelous land, identified
+    as the Great Plain or Great Country and contrasted with Ireland.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+  confidence: medium
+  cautions: The passage does not explicitly call the land an afterlife realm, and
+    no completed journey is narrated in this excerpt.
+- id: motif:2
+  label: Hidden people who see but are not seen
+  taxonomy_refs: []
+  basis: The speaker’s people are described as seeing everything on every side while
+    no one sees them.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The exact mechanism and narrative context of invisibility are not fully
+    explained in the excerpt.
+- id: motif:3
+  label: Abundant food and drink in the marvelous land
+  taxonomy_refs: []
+  basis: The land offers more intoxicating ale than Fal, sweet streams, mead, wine,
+    new milk, pork, and other gifts.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  confidence: high
+  cautions: The motif is descriptive rather than attached to a full narrative sequence
+    in this passage.
+- id: motif:4
+  label: Blemishless and sinless condition of inhabitants
+  taxonomy_refs: []
+  basis: The inhabitants are described as handsome or without blemish, with conception
+    without sin and without crime.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The theological framing is partly mediated through the translator’s rendering
+    and notes.
+comparison_claims:
+- id: claim:1
+  claim: The translator notes a comparison with a Celtic story about magical pigs
+    that could not be counted accurately, suggesting a possible nearby-corpus analogy
+    for an unreckonable or count-resistant feature.
+  claim_level: same_function
+  target: A story of magical pigs referenced in Revue Celtique, vol. xiii, p. 449
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The excerpt gives only the translator’s brief comparison note and does
+    not reproduce the other story or clearly identify the exact line being compared.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 6841-6925, poem opening
+  quote_or_summary: "“O fair-haired woman, will you come with me / into a marvellous
+    land wherein is music (?)”"
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:2
+  type: summary
+  locator: lines 6841-6925, poem stanzas 1-3
+  quote_or_summary: 'The land is described through bodily colors and features: primrose
+    hair, snow-colored body, white teeth, black eyebrows, foxglove-colored cheeks,
+    and eyes compared with hosts or blackbird eggs; it has no “mine” and “thine.”'
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 6841-6925, poem stanzas 3-4
+  quote_or_summary: The Great Plain and Great Country are contrasted favorably with
+    the plains and ale of Fal/Ireland; the passage also says a young man there does
+    not go before an old man.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 6841-6925, poem stanza 5
+  quote_or_summary: "“Stream smooth and sweet flow through the land, / there is choice
+    of mead and wine; / men handsome (?) without blemish, / conception without sin,
+    without crime.”"
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:5
+  type: summary
+  locator: lines 6841-6925, poem stanza 6
+  quote_or_summary: The speaker says his people see all on every side, yet no one
+    sees them; the cloud of Adam’s sin encompasses them from the reckoning.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 6841-6925, poem final stanza
+  quote_or_summary: The speaker tells the woman that if she comes to his strong people
+    she will have a golden top of head, unsalted pork, new milk, and mead.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: note
+  locator: translator note to Line 24
+  quote_or_summary: 'The translator notes: “Compare a story of some magical pigs that
+    could not be counted accurately.”'
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:8
+  type: note
+  locator: translator note to Line 16
+  quote_or_summary: The translator says the line has often been rendered as no youth
+    growing to old age, but argues that the Irish means a young man does not go before
+    an old man, possibly because older men do not become feeble there.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: low
+  notes: The passage is a translated poem with substantial translator uncertainty
+    in several notes. Motif labels are limited to what the excerpt directly describes.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata; uncertain translation points were not resolved beyond the translator’s notes.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:celtic-irish-heroic-romances-of-ireland-leahy-gutenberg__l6841-l6925
+  passage_sha256=766907ea137a45818f4596a5ccdb0d5db1b2f201cf67c8a921237ea45adb559b

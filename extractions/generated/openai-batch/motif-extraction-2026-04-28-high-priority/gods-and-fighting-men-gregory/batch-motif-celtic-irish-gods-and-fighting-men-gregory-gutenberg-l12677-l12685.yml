@@ -1,0 +1,308 @@
+---
+record_id: batch.motif.celtic-irish-gods-and-fighting-men-gregory-gutenberg-l12677-l12685
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+passage_locator:
+  label: CHAPTER III. THE GREEN CHAMPIONS / CHAPTER IV. THE WOOD OF DUBHROS / CHAPTER
+    V. THE QUARREL / CHAPTER VI. THE WANDERERS; lines 12677-12685
+  start: '12677'
+  end: '12685'
+  translation: Gods and Fighting Men
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Diarmuid and Grania go outside and see Finn and the Fianna approaching.
+    Diarmuid finds a small boat in the harbour, where a richly dressed man is waiting.
+    They recognize him as Angus, who has come again to help them escape from Finn,
+    and they go with him for a time to Brugh na Boinne, where Osgar joins them.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Diarmuid and Grania go outside together.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Finn and the Fianna of Ireland are seen coming toward Diarmuid and Grania.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Diarmuid sees a little boat in the shelter of the harbour, and he and Grania
+    enter it.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A man in the boat is described as wearing beautiful clothes and a wide embroidered
+    golden-yellow cloak.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Diarmuid and Grania recognize the man in the boat as Angus.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Angus has come again to help Diarmuid and Grania escape from Finn.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Diarmuid and Grania go back with Angus for a while to Brugh na Boinne.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: Osgar comes to them at Brugh na Boinne.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Diarmuid
+  description: One of the two people escaping; he sees the boat and enters it with
+    Grania.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Grania
+  description: Companion of Diarmuid; she goes outside and enters the boat with him.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Finn
+  description: Figure from whom Diarmuid and Grania are escaping; he is seen approaching
+    with the Fianna of Ireland.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:4
+  name_or_label: Fianna of Ireland
+  description: Group accompanying Finn and coming toward Diarmuid and Grania.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: Angus
+  description: A man waiting in the boat, richly dressed with an embroidered golden-yellow
+    cloak, recognized by Diarmuid and Grania as Angus, who helps them escape.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Osgar
+  description: A figure who comes to Diarmuid, Grania, and Angus at Brugh na Boinne.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: escaping pair
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Diarmuid and Grania enter the boat and are helped by Angus to escape from
+    Finn.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: approaching pursuers
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: Finn and the Fianna are seen coming toward Diarmuid and Grania, and Angus
+    helps them escape from Finn.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: escape helper
+  assigned_to:
+  - fig:5
+  basis: Angus is explicitly said to have come again to help Diarmuid and Grania escape
+    from Finn.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: arrival at refuge
+  assigned_to:
+  - fig:6
+  basis: Osgar comes to the group at Brugh na Boinne after their escape with Angus.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: little boat in harbour
+  literal_form: A little boat at hand in the shelter of the harbour.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: embroidered golden-yellow cloak
+  literal_form: A wide embroidered golden-yellow cloak over the shoulders of the man
+    in the boat.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: Brugh na Boinne
+  literal_form: The place to which Diarmuid and Grania go back with Angus for a while.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Pursuers approach
+  summary: After going outside, Diarmuid and Grania see Finn and the Fianna of Ireland
+    coming toward them.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Escape by harbour boat
+  summary: Diarmuid finds a little boat in the harbour and enters it with Grania;
+    they find Angus waiting there and recognize him as their helper.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Retreat to Brugh na Boinne
+  summary: Angus takes Diarmuid and Grania back for a while to Brugh na Boinne, and
+    Osgar comes to them there.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: flight from pursuer aided by helper
+  taxonomy_refs:
+  - departure
+  basis: Diarmuid and Grania flee Finn by entering a harbour boat where Angus is waiting
+    to help them escape.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage supports an escape or departure pattern, but does not provide
+    broader context for why the pursuit occurs.
+- id: motif:2
+  label: safe passage by boat
+  taxonomy_refs: []
+  basis: The escape depends on the immediate discovery of a little boat in the harbour
+    and the presence of Angus in it.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The boat functions as the means of escape in this passage; no explicit
+    symbolic meaning is stated.
+- id: motif:3
+  label: refuge at named dwelling
+  taxonomy_refs: []
+  basis: After the escape, Diarmuid and Grania go with Angus for a while to Brugh
+    na Boinne.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage does not describe Brugh na Boinne beyond naming it as their
+    destination.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 12677-12679
+  quote_or_summary: Diarmuid and Grania go outside and see Finn and the Fianna of
+    Ireland coming toward them.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 12679-12681
+  quote_or_summary: Diarmuid sees a little boat in the shelter of the harbour, and
+    he and Grania enter it.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 12681-12684
+  quote_or_summary: A richly dressed man with a wide embroidered golden-yellow cloak
+    is in the boat; Diarmuid and Grania recognize him as Angus, who has come again
+    to help them escape from Finn, and they go with him to Brugh na Boinne for a while.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: '12685'
+  quote_or_summary: Osgar comes to them at Brugh na Boinne.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward from the supplied passage. Motif labels
+    are limited to passage-level patterns and require human review for alignment with
+    broader taxonomy.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly support a comparison to another text, tradition, or motif family beyond local motif candidates.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:celtic-irish-gods-and-fighting-men-gregory-gutenberg__l12677-l12685
+  passage_sha256=326734b9e978df2dc9f720c99baa85a63f120e961d4f59679c70aeed2313f2b6

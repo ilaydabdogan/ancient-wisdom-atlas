@@ -1,0 +1,196 @@
+---
+record_id: batch.motif.celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l7420-l7449
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+passage_locator:
+  label: PAGE 60 / PAGE 61 / PAGE 62 / PAGE 63; lines 7420-7449
+  start: '7420'
+  end: '7449'
+  translation: Heroic Romances of Ireland
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A translator's note discusses the derivations and meanings of the names
+    Fand and Aed Abra, rejects the implication of the rendering 'Fiery Eyebrows' as
+    authorial intent, and proposes corrections to literal translations of three invocations
+    to Labraid, including martial epithets and disputed meanings of Irish terms.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The note says the derivations of the names Fand and Aed Abra suit the Antiquarian
+    form of the romance and would be out of place in the other form.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The note states that Abra properly means an eyelash and cautions that the
+    rendering involving fiery eyebrows does not seem to reflect the authors' intended
+    meaning.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The note refers readers to Thurneysen for literal translations of three invocations
+    to Labraid and then lists proposed alterations.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Proposed changes to the first invocation describe an heir of a small host
+    equipped with light spears, one who seeks out trespasses, and an attacker of heroes.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Proposed changes to the second and third invocations include the title for
+    Labraid as swift with hand on sword of battle, a line ending with a wounded side,
+    and a dispute over whether gus means wrath or strength.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: For the third invocation, the note discusses an Irish phrase rendered by Thurneysen
+    as piercing through men and suggests a meaning like sifting warriors.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Fand
+  description: A named figure whose name derivation is discussed in the note.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Aed Abra
+  description: A named figure whose name derivation is discussed; the note says Abra
+    properly means an eyelash.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Labraid
+  description: The named addressee or subject of three invocations; the note discusses
+    martial titles and actions attributed to him in translation.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: name whose derivation is discussed
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage comments on the derivations and meanings of the names Fand and
+    Aed Abra.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: invoked martial figure
+  assigned_to:
+  - fig:3
+  basis: The passage refers to three invocations to Labraid and proposed translations
+    of martial descriptions attached to him.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+symbols: []
+scenes:
+- id: scene:1
+  label: philological note on names and invocations
+  summary: The passage presents textual and translation notes about the names Fand
+    and Aed Abra and about three invocations to Labraid, especially terms with martial
+    meanings.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: martial invocation with heroic epithets
+  taxonomy_refs: []
+  basis: The passage describes three invocations to Labraid and mentions epithets
+    or actions such as light spears, hand on sword of battle, attacker of heroes,
+    and sifting warriors.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: low
+  cautions: The passage is a translator's philological note rather than the full narrative
+    or invocation text; motif identification is therefore tentative.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 7420-7427
+  quote_or_summary: The note says the derivations of Fand and Aed Abra fit the Antiquarian
+    form; it states Abra means eyelash and cautions against treating the 'Fiery Eyebrows'
+    rendering as authorial intent.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 7429-7432
+  quote_or_summary: The note directs readers to Thurneysen for literal translations
+    of three invocations to Labraid and introduces proposed alterations.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 7433-7438
+  quote_or_summary: The note proposes changes to the first invocation, including an
+    heir of a little host with light spears, one who seeks out trespasses, and an
+    attacker of heroes.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 7440-7444
+  quote_or_summary: The note proposes changes to the second invocation's title for
+    Labraid, mentions a wounded side, and contrasts translations of gus as wrath or
+    strength.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 7446-7449
+  quote_or_summary: The note discusses criathraid ocu in the third invocation, contrasting
+    'pierceth through men' with a suggested meaning like 'sifteth warriors.'
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: high
+  notes: The passage is primarily textual commentary, so literal extraction is strong
+    but motif identification is tentative and limited.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No taxonomy symbol was assigned. Although the phrase 'Fiery Eyebrows' contains fiery imagery, the passage explicitly cautions that this rendering likely was not intended by the romance authors.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:celtic-irish-heroic-romances-of-ireland-leahy-gutenberg__l7420-l7449
+  passage_sha256=827024a28ee5a50f7b7bf7da3f50a8949ef35d30d057fe5c58d6e2aef97aaf94

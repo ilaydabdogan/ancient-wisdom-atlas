@@ -1,0 +1,261 @@
+---
+record_id: batch.motif.celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l8442-l8482
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+passage_locator:
+  label: PAGE 129 / PAGE 133 / PAGE 134 / PAGE 138; lines 8442-8482
+  start: '8442'
+  end: '8482'
+  translation: Heroic Romances of Ireland
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Editorial notes on literal translations and metrical form in a dialogue
+    involving Cuchulain and Ferdia. The notes explain epithets addressed to Cuchulain
+    and argue that a line about going to the sod of a final resting-place refers specifically
+    to Ferdia rather than to every person generally.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A note gives a literal rendering of a line about the excellence of a woman's
+    beauty and says the same line occurs elsewhere but is not rendered in a verse
+    translation.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A line addresses Cuchulain as renowned for beautiful feats; the note says
+    O'Curry printed it as prose, while the editor regards it as verse in the original.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Two dialogue lines address Cuchulain with wound-making and warrior or champion
+    epithets.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Two dialogue lines state that someone needs to go to the sod where his final
+    resting-place shall be.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The note identifies the person implied by the phrase 'some one' as Ferdia
+    and says the line explains Ferdia's appearance.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The note contrasts the editor's interpretation with O'Curry's and Douglas
+    Hyde's more general rendering of the same lines as a statement about fate and
+    the sepulchre.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: A later line addresses Cuchulain as overflowing or brimming with deeds of
+    valour.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Cuchulain
+  description: A figure addressed in dialogue with epithets concerning feats, wounds,
+    warriorhood, championship, and deeds of valour.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: Ferdia
+  description: The figure whom the note identifies as the implied person needing to
+    go to the sod of his final resting-place.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: O'Curry
+  description: A translator or editor whose prose rendering and interpretation are
+    discussed in the note.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:4
+  name_or_label: Douglas Hyde
+  description: A translator whose rendering of the lines about fate and the sepulchre
+    is quoted in the note.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: addressed warrior or champion
+  assigned_to:
+  - fig:1
+  basis: Cuchulain is directly addressed with epithets including true warrior, champion,
+    and bearer of deeds of valour.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:2
+  label: person approaching final resting-place
+  assigned_to:
+  - fig:2
+  basis: The note says the line about someone going to the sod of his final resting-place
+    means Ferdia and explains his appearance.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: translator or commentator
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: O'Curry and Douglas Hyde are cited for their renderings or interpretations
+    of the dialogue lines.
+  evidence_refs:
+  - ev:2
+  - ev:4
+symbols:
+- id: sym:1
+  label: sod of final resting-place
+  literal_form: sod where his final resting-place shall be
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: wounds
+  literal_form: wounds
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: deeds of valour
+  literal_form: floods of deeds of valour
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Dialogue epithets for Cuchulain
+  summary: The notes record several dialogue lines in which Cuchulain is addressed
+    with martial and heroic epithets.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: scene:2
+  label: Ferdia and the final resting-place
+  summary: The note explains that the dialogue line about someone needing to go to
+    the sod of his final resting-place refers to Ferdia and to his appearance, not
+    to a universal moral reflection.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: foreknown movement toward a final resting-place
+  taxonomy_refs: []
+  basis: The passage explains a line as referring to Ferdia needing to go to the sod
+    where his final resting-place shall be.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage is an editorial note on translation rather than a full narrative
+    scene; no broader taxonomy motif is directly stated.
+- id: motif:2
+  label: hero addressed through martial epithets
+  taxonomy_refs: []
+  basis: Cuchulain is repeatedly addressed with epithets involving feats, wounds,
+    warriorhood, championship, and deeds of valour.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: These are dialogue epithets preserved in translation notes; the surrounding
+    narrative action is not included in the provided passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8442-8450
+  quote_or_summary: The note gives a literal rendering, 'Whatever be the excellence
+    of her beauty,' and says the same line appears in related places with different
+    translation treatment.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 8451-8455
+  quote_or_summary: A line addresses Cuchulain as renowned for beautiful feats; the
+    note says it is clearly verse in the original though O'Curry gives it as prose.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 8456-8460
+  quote_or_summary: Dialogue lines address Cuchulain as a breeder of wounds and as
+    a true warrior or champion.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 8461-8479
+  quote_or_summary: The note explains lines about someone needing to go to the sod
+    of his final resting-place; it rejects a universal rendering by O'Curry and Hyde
+    and says the person meant is Ferdia.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 8480-8482
+  quote_or_summary: A line addresses Cuchulain as having floods of deeds of valour
+    or brimming over with such deeds.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: The provided text is primarily editorial commentary on translation and meter,
+    with only short fragments of the underlying dialogue. Motif candidates are therefore
+    limited and should be reviewed against the full romance passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No taxonomy references were assigned because the provided passage does not directly support the available motif-family or symbol IDs.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:celtic-irish-heroic-romances-of-ireland-leahy-gutenberg__l8442-l8482
+  passage_sha256=2c4fae79ffd885d871b682b1b26196ed19a9eb430b4cdaeca4686a6c517a40fc

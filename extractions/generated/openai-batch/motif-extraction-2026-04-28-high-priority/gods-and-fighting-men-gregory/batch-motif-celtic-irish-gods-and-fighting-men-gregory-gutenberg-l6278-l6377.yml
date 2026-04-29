@@ -1,0 +1,509 @@
+---
+record_id: batch.motif.celtic-irish-gods-and-fighting-men-gregory-gutenberg-l6278-l6377
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+passage_locator:
+  label: CHAPTER II. FINN'S HOUSEHOLD / CHAPTER III. BIRTH OF BRAN. / CHAPTER IV.
+    OISIN'S MOTHER. / CHAPTER V. THE BEST MEN OF THE FIANNA; lines 6278-6377
+  start: '6278'
+  end: '6377'
+  translation: Gods and Fighting Men
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage names notable men of the Fianna, praises Goll, describes his
+    great chessboard, and recounts Caoilte's feats. Caoilte attempts to free Finn
+    from Teamhair by disguise and service, is recognized by the king, and is told
+    that Finn will be released only if Caoilte brings together a pair of every wild
+    creature in Ireland. Caoilte travels through Ireland gathering paired birds, beasts,
+    fish, and other creatures from named places.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Finn is said to have other good men with him while Oisin was young, including
+    Goll son of Morna, Caoilte son of Ronan, and Lugaidh's Son.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Goll is described as a tall, light-haired Connacht man, praised for strength,
+    bravery, kindness, generosity, sweet speech, and loyalty to friends.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Goll possessed a chessboard called the Solustairtech, the Shining Thing, with
+    gold and silver chessmen as large as the fist of the biggest man of the Fianna;
+    after Goll's death it was buried in Slieve Baune.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Caoilte is described as a grey, thin man and the best runner of the Fianna.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Caoilte is credited with killing a Fomor man, a five-headed giant in a wheeling
+    door, an enchanted boar, and a grey stag that had escaped the Fianna for twenty-seven
+    years.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Finn is held by force at Teamhair by the High King because of a rebellion
+    stirred up by the Fianna.
+  category: setting
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Caoilte goes out to avenge or free Finn and causes destruction through Ireland,
+    including killing, opening doors struck by the east wind, burning fields, and
+    disrupting households.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: At Teamhair Caoilte takes the doorkeeper's clothes, exchanges his worn sword
+    for the king's powerful sword, and enters the palace disguised as a servant.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: Caoilte serves at the king's feast and is suspected or recognized through
+    his eyes and later through the sound or quality of his lament.
+  category: sequence
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: The king states that Finn can be freed only if Caoilte brings together a couple
+    of all the wild creatures of Ireland.
+  category: speech
+  evidence_refs:
+  - ev:10
+- id: obs:11
+  text: Caoilte travels through Ireland gathering two of many kinds of creatures,
+    including birds, mammals, fish, and domestic animals, each associated with named
+    places.
+  category: action
+  evidence_refs:
+  - ev:11
+- id: obs:12
+  text: The list of gathering places includes caves, lakes, rivers, strands, woods,
+    mountains, a great sea, and other named landscapes.
+  category: setting
+  evidence_refs:
+  - ev:11
+figures:
+- id: fig:1
+  name_or_label: Finn
+  description: Leader or master of Caoilte, held prisoner at Teamhair by the High
+    King.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:6
+  - ev:9
+  - ev:10
+- id: fig:2
+  name_or_label: Goll son of Morna
+  description: A Connacht man of the Fianna described as tall, light-haired, strong,
+    brave, kind, generous, sweet-voiced, and faithful.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Caoilte son of Ronan
+  description: A grey, thin man of the Fianna, called their best runner, who performs
+    feats and undertakes the task of gathering paired creatures to free Finn.
+  role_refs:
+  - role:3
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:8
+  - ev:10
+  - ev:11
+- id: fig:4
+  name_or_label: Lugaidh's Son
+  description: Named among the best men with Finn, without further description in
+    this passage.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: High King / King of Ireland
+  description: The ruler at Teamhair who keeps Finn by force, recognizes Caoilte,
+    and sets the condition for Finn's release.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+  - ev:9
+  - ev:10
+- id: fig:6
+  name_or_label: wild creatures of Ireland
+  description: Collective animals, birds, fish, and other creatures that Caoilte is
+    required to gather in pairs.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:10
+  - ev:11
+roles:
+- id: role:1
+  label: captive leader
+  assigned_to:
+  - fig:1
+  basis: Finn is kept by force at Teamhair and Caoilte seeks his freedom.
+  evidence_refs:
+  - ev:6
+  - ev:10
+- id: role:2
+  label: notable member of the Fianna
+  assigned_to:
+  - fig:2
+  - fig:4
+  basis: Goll and Lugaidh's Son are named among the best men with Finn.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: heroic retainer
+  assigned_to:
+  - fig:3
+  basis: Caoilte acts for the sake of Finn and seeks to free him.
+  evidence_refs:
+  - ev:6
+  - ev:10
+  - ev:11
+- id: role:4
+  label: runner and performer of feats
+  assigned_to:
+  - fig:3
+  basis: Caoilte is called the best runner and credited with multiple killings of
+    difficult foes or quarry.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:5
+  label: disguised infiltrator
+  assigned_to:
+  - fig:3
+  basis: Caoilte takes servant disguise and enters the palace to find how to free
+    Finn.
+  evidence_refs:
+  - ev:8
+- id: role:6
+  label: captor and task-setter
+  assigned_to:
+  - fig:5
+  basis: The king holds Finn and sets the condition of gathering all wild creatures
+    in pairs.
+  evidence_refs:
+  - ev:6
+  - ev:10
+- id: role:7
+  label: paired creatures to be gathered
+  assigned_to:
+  - fig:6
+  basis: The king demands a couple of all wild creatures, and Caoilte gathers them
+    two by two from named places.
+  evidence_refs:
+  - ev:10
+  - ev:11
+symbols:
+- id: sym:1
+  label: Shining chessboard
+  literal_form: Goll's chessboard, the Solustairtech, with gold and silver chessmen
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: powerful king's sword
+  literal_form: The king's sword, described as having great power
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:3
+  label: servant disguise
+  literal_form: The doorkeeper's clothes used by Caoilte to enter the palace
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:4
+  label: paired animals
+  literal_form: Two of each kind of wild creature gathered from Ireland
+  associated_figures:
+  - fig:3
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+  - ev:11
+- id: sym:5
+  label: fire
+  literal_form: Fields set on fire during Caoilte's destructive passage through Ireland
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: caves
+  literal_form: The Cave of the Nuts and the Cave of Cruachan named among places from
+    which paired creatures are gathered
+  associated_figures:
+  - fig:3
+  - fig:6
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:11
+- id: sym:7
+  label: waters
+  literal_form: Lakes, river places, strands, harbours, the sea, and waterfalls associated
+    with creatures in the gathering list
+  associated_figures:
+  - fig:3
+  - fig:6
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:11
+scenes:
+- id: scene:1
+  label: Naming and praising the best men of the Fianna
+  summary: The passage introduces Goll, Caoilte, and Lugaidh's Son as leading men
+    with Finn; Goll is praised for martial strength and social virtues, and his shining
+    chessboard is described.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:2
+  label: Caoilte's feats and ravaging journey
+  summary: Caoilte is described as the best runner and killer of formidable beings
+    and animals; after Finn is taken to Teamhair, Caoilte moves violently through
+    Ireland for Finn's sake.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: scene:3
+  label: Disguise at Teamhair
+  summary: Caoilte arrives at Teamhair, takes the doorkeeper's clothes, takes the
+    king's powerful sword, enters as a servant, and serves at the feast until the
+    king recognizes him.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: scene:4
+  label: Task of gathering paired creatures
+  summary: The king says Finn can only be freed if Caoilte brings a couple of all
+    the wild creatures of Ireland; Caoilte travels through the country and gathers
+    many named species in pairs from named places.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:4
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:10
+  - ev:11
+candidate_motifs:
+- id: motif:1
+  label: Impossible task for captive's release
+  taxonomy_refs:
+  - mystical_quest
+  basis: Finn's captor says there is no way to free him except by completing the task
+    of gathering a pair of all wild creatures of Ireland, which Caoilte undertakes.
+  evidence_refs:
+  - ev:10
+  - ev:11
+  confidence: medium
+  cautions: The passage frames the task as extremely difficult, but does not explicitly
+    call it magical or impossible beyond the king's statement that Caoilte can never
+    do it.
+- id: motif:2
+  label: Animal pairs gathered from the whole land
+  taxonomy_refs: []
+  basis: Caoilte gathers two of many kinds of creatures from locations across Ireland
+    after being commanded to bring a couple of all wild creatures.
+  evidence_refs:
+  - ev:10
+  - ev:11
+  confidence: high
+  cautions: Although the paired-creature pattern may resemble wider animal-pair traditions,
+    this passage contains no flood, vessel, preservation, or creation context.
+- id: motif:3
+  label: Disguised entry to free a captive lord
+  taxonomy_refs:
+  - trickster_boundary
+  basis: Caoilte changes clothes, enters the palace as a servant, serves the king,
+    and asks how to gain freedom for Finn.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+  confidence: medium
+  cautions: The disguise is tactical rather than explicitly trickster-like; taxonomy
+    fit is tentative.
+- id: motif:4
+  label: Heroic retainer's loyalty to leader
+  taxonomy_refs:
+  - culture_hero
+  basis: Caoilte acts for Finn's sake, goes to Teamhair, asks how to free his master,
+    and undertakes the king's task.
+  evidence_refs:
+  - ev:6
+  - ev:10
+  - ev:11
+  confidence: medium
+  cautions: The passage emphasizes loyalty and heroic action, but does not present
+    a broad culture-founding role.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 6278-6283
+  quote_or_summary: Finn has good men with him while Oisin is young; the best named
+    are Goll son of Morna, Caoilte son of Ronan, and Lugaidh's Son.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source; summary provided.
+- id: ev:2
+  type: summary
+  locator: lines 6284-6292
+  quote_or_summary: Goll of Connacht is described as tall and light-haired; Finn praises
+    him as hardy, brave, strong, kind, gentle, open-handed, sweet-voiced, and faithful
+    to friends.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source; summary provided.
+- id: ev:3
+  type: summary
+  locator: lines 6293-6298
+  quote_or_summary: Goll's chessboard is called the Solustairtech, the Shining Thing;
+    its gold and silver pieces are very large, and after Goll's death it is buried
+    in Slieve Baune.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source; summary provided.
+- id: ev:4
+  type: summary
+  locator: lines 6300-6301
+  quote_or_summary: Caoilte is described as a grey, thin man and the best runner of
+    the Fianna.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source; summary provided.
+- id: ev:5
+  type: summary
+  locator: lines 6301-6307
+  quote_or_summary: Caoilte kills a Fomor man, a five-headed giant in a wheeling door,
+    an enchanted boar, and a grey stag that had escaped for twenty-seven years.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source; summary provided.
+- id: ev:6
+  type: summary
+  locator: lines 6307-6312
+  quote_or_summary: Caoilte brings Finn out of Teamhair after Finn has been kept there
+    by force by the High King because of a rebellion by the Fianna.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source; summary provided.
+- id: ev:7
+  type: summary
+  locator: lines 6312-6322
+  quote_or_summary: For Finn's sake, Caoilte makes a violent rout through Ireland,
+    killing, bringing sorrow to houses, destroying what he enters, setting fire to
+    fields, and reassigning wives.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source; summary provided.
+- id: ev:8
+  type: summary
+  locator: lines 6323-6329
+  quote_or_summary: At Teamhair Caoilte takes the doorkeeper's clothes, leaves his
+    own worn sword in the king's sheath, takes the king's powerful sword, and enters
+    the palace disguised as a servant.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source; summary provided.
+- id: ev:9
+  type: summary
+  locator: lines 6330-6344
+  quote_or_summary: Caoilte holds the candle and later serves drink at the king's
+    feast; the king links him to the candlestick and later recognizes the smell or
+    quality of his lament as Caoilte's.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source; summary provided.
+- id: ev:10
+  type: summary
+  locator: lines 6344-6350
+  quote_or_summary: Caoilte asks how to get freedom for his master; the king says
+    Finn will be released if Caoilte can bring together a couple of all the wild creatures
+    of Ireland.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source; summary provided.
+- id: ev:11
+  type: summary
+  locator: lines 6351-6377
+  quote_or_summary: Caoilte goes through Ireland gathering creatures in twos from
+    named places, beginning with birds and continuing to beasts, fish, and other animals,
+    including creatures from caves, lakes, woods, mountains, rivers, strands, and
+    the sea.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source; summary provided.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based directly on the supplied passage. Motif labels are cautious
+    because the passage gives a heroic task narrative but does not explicitly state
+    broader comparative meanings.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly support a comparison beyond its own narrative pattern.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:celtic-irish-gods-and-fighting-men-gregory-gutenberg__l6278-l6377
+  passage_sha256=1588ef30ee2141396e8af0ec55b6424896ece0991a78aed69a2da517273b0a2f

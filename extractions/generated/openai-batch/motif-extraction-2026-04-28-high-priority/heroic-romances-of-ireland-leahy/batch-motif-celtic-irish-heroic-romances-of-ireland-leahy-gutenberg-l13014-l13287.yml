@@ -1,0 +1,429 @@
+---
+record_id: batch.motif.celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l13014-l13287
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+passage_locator:
+  label: LITERAL TRANSLATION / TEXT OF LEABHAR NA H-UIDHRI / INTRODUCTION / TEXT WITH
+    INTERLINEAR TRANSLATION; lines 13014-13287
+  start: '13014'
+  end: '13287'
+  translation: Heroic Romances of Ireland
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Mider comes to Eochaid in anger, challenges him to a chess game with a
+    freely chosen stake, wins, and asks for an embrace and kiss from Etain. Eochaid
+    delays fulfillment for one month. The passage then explains that Mider had been
+    wooing Etain and gives part of his address inviting the fair-haired lady to a
+    marvelous land with beauty, abundance, invisibility to outsiders, warm sweet streams,
+    mead, wine, and new milk.
+  language: Old/Middle Irish with English interlinear translation
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Mider comes to Eochaid while conversation is taking place, and Eochaid rises
+    and welcomes him.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Mider says Eochaid has caused him hardship and suffering and says his mind
+    is angry against Eochaid.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Mider proposes a chess game in which each side may choose the stake it wants.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Mider wins Eochaid's stake in the chess game.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Mider asks for two arms around Etain and a kiss from her.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Eochaid is silent and then says Mider may return in a month to receive what
+    he asked.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: The narrative states that in the preceding year Mider had been wooing Etain
+    without success.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: Mider addresses Etain as a fair-haired lady and asks whether she will come
+    with him into a marvelous land.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: The land described by Mider has music, beautiful bodies and features, no distinction
+    of 'mine' and 'thine,' and is compared favorably with the plains and ale of the
+    island of Fal.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: Mider says that in the land he describes, people see all on every side, while
+    no one sees them.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:11
+  text: The land contains warm sweet streams and choice mead and wine.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:12
+  text: The land is associated with handsome unblemished people, conception without
+    sin or crime, a golden head adornment, pork, ale, and new milk for drink.
+  category: attribute
+  evidence_refs:
+  - ev:5
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Mider
+  description: A figure who comes to Eochaid, complains of hardship, proposes chess,
+    wins the stake, asks for an embrace and kiss from Etain, and addresses Etain in
+    wooing speech.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Eochaid
+  description: A figure who welcomes Mider, answers him about the stake, loses the
+    chess stake, and delays fulfillment for one month.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Etain
+  description: The woman whom Mider had been wooing and from whom he asks an embrace
+    and kiss; he calls her a fair-haired lady.
+  role_refs:
+  - role:6
+  - role:7
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Mider's people
+  description: A people described by Mider as strong, to whom he invites the woman
+    to come.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: aggrieved visitor
+  assigned_to:
+  - fig:1
+  basis: Mider arrives and says Eochaid has imposed hardship and suffering on him.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: game challenger and winner
+  assigned_to:
+  - fig:1
+  basis: Mider proposes chess with a chosen stake and wins Eochaid's stake.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: wooer
+  assigned_to:
+  - fig:1
+  basis: The narrative states Mider had been wooing Etain and records his invitation
+    to her.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: host or welcomer
+  assigned_to:
+  - fig:2
+  basis: Eochaid rises and gives welcome to Mider.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: stake-loser and deferrer
+  assigned_to:
+  - fig:2
+  basis: Eochaid acknowledges that Mider has carried off his stake and postpones fulfillment
+    for a month.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: wooed woman
+  assigned_to:
+  - fig:3
+  basis: Mider had been wooing Etain and addresses her as a fair-haired lady.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: object of requested embrace and kiss
+  assigned_to:
+  - fig:3
+  basis: Mider's chosen stake is two arms around Etain and a kiss from her.
+  evidence_refs:
+  - ev:2
+- id: role:8
+  label: inviting other people
+  assigned_to:
+  - fig:4
+  basis: Mider says, 'if thou wilt come to my people strong.'
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: chess game with chosen stake
+  literal_form: chess game and wager
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: embrace and kiss as stake
+  literal_form: two arms about Etain and a kiss from her
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: marvelous land
+  literal_form: a land described as marvelous and musical
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: warm sweet streams
+  literal_form: streams warm and sweet through the land
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: new milk
+  literal_form: new milk for drink
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - milk
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: gold head adornment
+  literal_form: top of head of gold on the woman's head
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: mead, wine, and ale
+  literal_form: choice of mead and wine; ale of the great country; ale offered with
+    pork and milk
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:8
+  label: invisibility to outsiders
+  literal_form: we see all on every side, and yet no one sees us
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Mider's arrival and complaint
+  summary: Mider comes to Eochaid, is welcomed, and complains that Eochaid has caused
+    him hardship and suffering.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Chess wager for Etain's embrace and kiss
+  summary: Mider proposes chess with freely chosen stakes, wins, and chooses an embrace
+    and kiss from Etain; Eochaid postpones fulfillment for one month.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Wooing invitation to the marvelous land
+  summary: The passage states that Mider had been wooing Etain and gives his speech
+    inviting the fair-haired lady to a marvelous land of beauty, abundance, warm streams,
+    and special visibility.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: game wager over access to a beloved woman
+  taxonomy_refs:
+  - sacred_exchange
+  - stolen_beloved
+  basis: A chess game is played for a chosen stake; after winning, Mider asks for
+    physical access to Etain in the form of an embrace and kiss.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage records only the requested embrace and kiss, not an actual
+    abduction in this excerpt.
+- id: motif:2
+  label: wooing invitation to an otherworldly land of abundance
+  taxonomy_refs:
+  - divine_beloved
+  - afterlife_journey_map
+  basis: Mider woos Etain by inviting her to a marvelous land with music, beauty,
+    sweet streams, mead, wine, ale, new milk, and a different mode of visibility.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage does not explicitly label the land as an afterlife or divine
+    realm; the classification rests on the described qualities of the land.
+- id: motif:3
+  label: utopian land without possessive division or blemish
+  taxonomy_refs: []
+  basis: Mider describes a land where there is no 'mine' or 'thine,' where people
+    are handsome and without blemish, and where conception is without sin or crime.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: No supplied taxonomy reference precisely matches this utopian social description.
+- id: motif:4
+  label: gift of golden adornment in invitation speech
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Mider tells the woman that if she comes to his people, a golden adornment
+    will be on her head and rich food and drink will be provided.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage frames this as an inducement or promised condition, not as
+    an enacted exchange within the excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 13014-13061
+  quote_or_summary: Mider comes to Eochaid; Eochaid rises and welcomes him; Mider
+    says Eochaid has caused him hardship and suffering and that his mind is angry
+    against him.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; short summary used.
+- id: ev:2
+  type: summary
+  locator: lines 13062-13107
+  quote_or_summary: Mider proposes chess with a stake chosen by each side, wins Eochaid's
+    stake, and asks for 'two arms about Etain, and a kiss from her'; Eochaid delays
+    fulfillment for a month.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; short summary with brief quotation.
+- id: ev:3
+  type: summary
+  locator: lines 13108-13132
+  quote_or_summary: The narrative says that during the year before Mider came to Eochaid
+    for chess he had been wooing Etain; he addresses her as a fair-haired lady and
+    asks whether she will come with him into a marvelous land.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; short summary used.
+- id: ev:4
+  type: summary
+  locator: lines 13133-13225
+  quote_or_summary: Mider describes the land as musical and beautiful, with primrose
+    hair, snow-colored bodies, no 'mine' or 'thine,' beautiful features, a Great Plain
+    surpassing the plains and ale of Fal, and inhabitants who see all while no one
+    sees them.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; short summary with brief quotation.
+- id: ev:5
+  type: summary
+  locator: lines 13226-13268
+  quote_or_summary: The land has warm sweet streams, choice mead and wine, handsome
+    people without blemish, and conception without sin or crime.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; short summary used.
+- id: ev:6
+  type: summary
+  locator: lines 13269-13287
+  quote_or_summary: Mider tells the woman that if she comes to his strong people,
+    a golden head adornment will be on her head and pork, ale, and new milk will be
+    for drink.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; short summary used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The interlinear translation contains uncertain readings and editorial footnotes.
+    Motif labels are based only on the provided excerpt and should be checked by a
+    human reviewer.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly compare the material with another tradition or motif family beyond the extracted candidate motif alignments.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:celtic-irish-heroic-romances-of-ireland-leahy-gutenberg__l13014-l13287
+  passage_sha256=63eb03d76a8eca3bf6017b10b215f3c1a4e88e292000aeedf9159e8834ffa663

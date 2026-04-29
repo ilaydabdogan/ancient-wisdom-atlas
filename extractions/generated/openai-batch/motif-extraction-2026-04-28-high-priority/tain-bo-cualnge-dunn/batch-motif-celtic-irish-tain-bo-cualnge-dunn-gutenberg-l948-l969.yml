@@ -1,0 +1,116 @@
+---
+record_id: batch.motif.celtic-irish-tain-bo-cualnge-dunn-gutenberg-l948-l969
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+passage_locator:
+  label: MY MOTHER / CONTENTS / PREFACE / WORKS ON THE TAIN BO CUALNGE; lines 948-969
+  start: '948'
+  end: '969'
+  translation: The Ancient Irish Epic Tale Tain Bo Cualnge
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A prefatory note cites a German scholarly statement about the difficulty
+    of attaining continuous understanding of the Old Irish text 'The Cattle-Raid of
+    Cualnge,' adds a bibliographic note, and then opens the work with the heading
+    'Here beginneth Tain Bo Cualnge / The Cualnge Cattle-raid.'
+  language: English with a German quoted citation
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage includes a German scholarly citation about the Old Irish saga
+    text 'Der Rinderraub von Cualnge' and the difficulty of understanding its contents
+    with available aids.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage gives a bibliographic note referring to Part II, chapter lxii,
+    in a Garnier Hermanos edition, page 711.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The narrative text begins with the heading 'Here beginneth Tain Bo Cualnge'
+    followed by 'The Cualnge Cattle-raid.'
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The title identifies the work as a cattle-raid associated with Cualnge.
+  category: object
+  evidence_refs:
+  - ev:3
+figures: []
+roles: []
+symbols:
+- id: sym:1
+  label: Cattle raid
+  literal_form: The title phrase 'The Cualnge Cattle-raid'
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Opening title of the Tain Bo Cualnge
+  summary: After prefatory notes, the text announces the beginning of Tain Bo Cualnge
+    and gives the English title 'The Cualnge Cattle-raid.'
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Cattle raid as narrative frame
+  taxonomy_refs: []
+  basis: The only explicit narrative content in the passage is the opening title identifying
+    the work as a cattle-raid of Cualnge.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: This passage is mostly prefatory and titular; it does not yet narrate
+    the raid, theft, participants, or consequences.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 948-956
+  quote_or_summary: German citation stating that no living Celtic scholar could claim
+    a continuous understanding of the important Old Irish saga text 'The Cattle-Raid
+    of Cualnge' comparable to expectations once placed on German students regarding
+    Homeric poems.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summarized rather than quoted at length.
+- id: ev:2
+  type: citation
+  locator: line 958
+  quote_or_summary: 'Bibliographic note: Part II, chapter lxii, Garnier Hermanos edition,
+    page 711.'
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source.
+- id: ev:3
+  type: quote
+  locator: lines 964-969
+  quote_or_summary: '"Here beginneth Tain Bo Cualnge"; "The Cualnge Cattle-raid"'
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; short excerpt used for identification.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is largely bibliographic and titular. Literal extraction is straightforward,
+    but motif identification is limited to the title's cattle-raid frame.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No figures or plot actions are introduced in this line range beyond the opening title.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:celtic-irish-tain-bo-cualnge-dunn-gutenberg__l948-l969
+  passage_sha256=d756a7b6db24a571767f3fbc158f9000993ccef905528b22e5890add0973f2f6

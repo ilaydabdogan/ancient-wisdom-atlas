@@ -1,0 +1,441 @@
+---
+record_id: batch.motif.celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l1134-l1161
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+passage_locator:
+  label: THE COURTSHIP OF ETAIN / INTRODUCTION / PROLOGUE IN FAIRYLAND / FROM THE
+    LEABHAR NA H-UIDHRI; lines 1134-1161
+  start: '1134'
+  end: '1161'
+  translation: Heroic Romances of Ireland
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A young warrior leaves mysteriously. Mac O'c and Mider infer that Fuamnach
+    has deceived them and may harm Etain, who remains in a transformed shape. Mac
+    O'c returns to his glass bower, finds Etain absent, follows Fuamnach, beheads
+    her, and carries away her head. The passage then reports an alternate version
+    in which Manannan aids in the slaying of Fuamnach and Mider at Bri Leith, which
+    is burned.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A young warrior departs from the maidens, who do not know where he came from
+    or where he goes afterward.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: After Etain's disappearance, Mac O'c comes to the appointed meeting with Mider
+    and finds Fuamnach absent.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Mider says Fuamnach has practiced deceit and will work evil upon Etain if
+    she sees Etain in Ireland.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Mac O'c says Etain has been in his house, is still in the shape into which
+    Fuamnach transformed her, and is likely the one upon whom Fuamnach has rushed.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Mac O'c returns to his palace and finds the glass bower empty because Etain
+    is not there.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Mac O'c follows Fuamnach's track to Oenach Bodbgnai, in the house of Bressal
+    Etarlam the Druid.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Mac O'c attacks Fuamnach, strikes off her head, and carries the head toward
+    his own borders.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: A different tale says that, with Manannan's aid, both Fuamnach and Mider were
+    slain in Bri Leith.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The cited verse says that Bri Leith was burned by Manannan.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: young warrior
+  description: A young warrior who leaves the maidens mysteriously.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: maidens
+  description: The maidens from whom the young warrior departs; they do not know his
+    origin or destination.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Mac O'c
+  description: He meets Mider, returns to his palace, tracks Fuamnach, and in one
+    account beheads her.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: Etain
+  description: She has disappeared, has been in Mac O'c's house, remains in a shape
+    into which Fuamnach transformed her, and is absent from the glass bower.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: Mider
+  description: He meets Mac O'c, identifies Fuamnach's deceit, and in an alternate
+    account is slain at Bri Leith.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: fig:6
+  name_or_label: Fuamnach
+  description: She is absent from the meeting, is accused of deceit, had transformed
+    Etain, is tracked by Mac O'c, and is slain in both reported versions.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:7
+  name_or_label: Bressal Etarlam the Druid
+  description: A druid in whose house Fuamnach is overtaken at Oenach Bodbgnai.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+- id: fig:8
+  name_or_label: Manannan
+  description: In the alternate tale, he aids in the slaying of Fuamnach and Mider
+    and is named in the verse as burning Bri Leith.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:6
+- id: fig:9
+  name_or_label: Sigmall
+  description: 'A name mentioned in the cited verse: "Think on Sigmall."'
+  role_refs: []
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: mysterious departing warrior
+  assigned_to:
+  - fig:1
+  basis: The warrior leaves and the maidens do not know his origin or destination.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: uncertain witnesses
+  assigned_to:
+  - fig:2
+  basis: They observe the warrior's departure but do not know where he came from or
+    went.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: pursuer and slayer
+  assigned_to:
+  - fig:3
+  basis: Mac O'c follows Fuamnach and beheads her in the primary account.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: absent transformed woman
+  assigned_to:
+  - fig:4
+  basis: Etain is missing from the bower and is described as still in a shape imposed
+    by Fuamnach.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: deceived party and alternate victim
+  assigned_to:
+  - fig:5
+  basis: Mider says Fuamnach deceived them; a different tale says Mider was slain
+    at Bri Leith.
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: role:6
+  label: deceiver and transformer
+  assigned_to:
+  - fig:6
+  basis: Mider calls her actions deceit, and Mac O'c says she transformed Etain.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:7
+  label: druid householder
+  assigned_to:
+  - fig:7
+  basis: Fuamnach is overtaken in his house.
+  evidence_refs:
+  - ev:5
+- id: role:8
+  label: alternate helper or slayer
+  assigned_to:
+  - fig:8
+  basis: A different tale says Fuamnach and Mider were slain by Manannan's aid, and
+    the verse attributes Bri Leith's burning to him.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: glass bower
+  literal_form: bower of glass in Mac O'c's palace
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: transformed shape
+  literal_form: the shape into which Fuamnach transformed Etain
+  associated_figures:
+  - fig:4
+  - fig:6
+  taxonomy_refs:
+  - shapeshifter
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: severed head
+  literal_form: Fuamnach's head, struck off and carried by Mac O'c
+  associated_figures:
+  - fig:3
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: fire at Bri Leith
+  literal_form: Bri Leith burned by Manannan
+  associated_figures:
+  - fig:8
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Mysterious departure of the young warrior
+  summary: The young warrior leaves the maidens, who remain ignorant of his origin
+    and destination.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Mac O'c and Mider infer Fuamnach's action
+  summary: At the appointed meeting after Etain's disappearance, Mider and Mac O'c
+    discuss Fuamnach's deceit, Etain's transformed state, and likely danger to Etain.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Empty glass bower
+  summary: Mac O'c returns to his palace and finds the glass bower empty because Etain
+    is not there.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Pursuit and beheading of Fuamnach
+  summary: Mac O'c tracks Fuamnach to the house of Bressal Etarlam the Druid, attacks
+    her, cuts off her head, and carries it away.
+  figure_refs:
+  - fig:3
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Alternate death tale at Bri Leith
+  summary: The passage reports a different account in which Manannan aids in the slaying
+    of Fuamnach and Mider at Bri Leith, associated in verse with the burning of Bri
+    Leith.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: woman held in transformed state after hostile magic
+  taxonomy_refs:
+  - shapeshifter
+  basis: Etain is said to remain in the shape into which Fuamnach transformed her,
+    after her disappearance from Mac O'c's house.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage states transformation but does not describe the form in this
+    excerpt; the taxonomy reference is approximate because Fuamnach transforms Etain
+    rather than necessarily changing shape herself.
+- id: motif:2
+  label: avenging pursuit and beheading of deceiver
+  taxonomy_refs: []
+  basis: Mac O'c follows Fuamnach, attacks her, strikes off her head, and carries
+    it away after her deceit against Etain is identified.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: high
+  cautions: This is a passage-level action pattern rather than a supplied taxonomy
+    family.
+- id: motif:3
+  label: alternate traditional ending for a mythic death
+  taxonomy_refs: []
+  basis: The passage explicitly says a different tale gives another end for Fuamnach,
+    involving Manannan, Mider, Bri Leith, and burning.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The comparison is internal to the passage and does not establish historical
+    relationship beyond the stated alternate version.
+- id: motif:4
+  label: destruction by burning at a named place
+  taxonomy_refs:
+  - world_destroying_fire
+  basis: The cited verse says Bri Leith was burned by Manannan in the context of an
+    alternate slaying tale.
+  evidence_refs:
+  - ev:6
+  confidence: low
+  cautions: The fire is localized to Bri Leith, not world-destroying; the taxonomy
+    reference is only a broad thematic proximity.
+comparison_claims:
+- id: claim:1
+  claim: 'The passage preserves two variant accounts of Fuamnach''s end: one in which
+    Mac O''c beheads her after pursuit, and another in which Manannan aids in the
+    slaying of Fuamnach and Mider at Bri Leith.'
+  claim_level: same_motif
+  target: alternate account of Fuamnach's death within the same passage tradition
+  evidence_refs:
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage reports the difference but gives no external source details
+    or explanation of transmission.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 1134-1136
+  quote_or_summary: The young warrior leaves the maidens, who do not know where he
+    came from or where he went.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 1137-1143
+  quote_or_summary: After Etain's disappearance, Mac O'c meets Mider; Fuamnach is
+    absent, and Mider says she has deceived them and may harm Etain if she sees her
+    in Ireland.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 1143-1148
+  quote_or_summary: Mac O'c says Etain has been in his house, remains in the shape
+    into which Fuamnach transformed her, and is likely the one against whom Fuamnach
+    has rushed.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 1148-1150
+  quote_or_summary: Mac O'c returns to his palace and finds his bower of glass empty,
+    with Etain absent.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 1150-1154
+  quote_or_summary: Mac O'c follows Fuamnach to Oenach Bodbgnai, in the house of Bressal
+    Etarlam the Druid, attacks her, beheads her, and carries away the head.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 1155-1161
+  quote_or_summary: A different tale says Manannan aided in the slaying of Fuamnach
+    and Mider in Bri Leith; the quoted verse says Bri Leith was burned by Manannan.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Named figures and actions are explicit. Some motif-family assignments are
+    cautious because the available taxonomy only partially matches the passage-level
+    patterns.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata; no external comparisons added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:celtic-irish-heroic-romances-of-ireland-leahy-gutenberg__l1134-l1161
+  passage_sha256=562171cb0f31b525c579952f9f206572e3e8de629f99639c579b14cc0392c86e

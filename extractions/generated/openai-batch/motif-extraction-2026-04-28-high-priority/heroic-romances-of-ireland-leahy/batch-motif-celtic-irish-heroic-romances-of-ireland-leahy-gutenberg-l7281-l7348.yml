@@ -1,0 +1,461 @@
+---
+record_id: batch.motif.celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l7281-l7348
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+passage_locator:
+  label: PAGE 57 / PAGE 58 / PAGE 59 / PAGE 60; lines 7281-7348
+  start: '7281'
+  end: '7348'
+  translation: Heroic Romances of Ireland
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'Editorial notes explain terms and references in an Irish heroic romance:
+    Cuchulain''s return-stroke bird-catching technique, Ethne''s relation to Cuchulain,
+    Cuchulain''s associated strongholds and encounter with the War-Goddess/Morrigan,
+    Lugaid Red-Stripes'' appearance, an ambiguous word for chamber or couch, verses
+    addressing Cuchulain in sickness and wishing him to come to another land, and
+    the Plain of Cruach''s probable connection with the idol Cromm Cruach and human
+    sacrifice traditions.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The note glosses taithbeim as a 'return-stroke' and says the word is used
+    elsewhere for Cuchulain's method of capturing birds.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The note says Ethne appears to mean that a distribution made by Cuchulain
+    was regarded by her as done by herself through her husband.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Dun Imrith is identified as the castle where Cuchulain met the War-Goddess
+    in the Apparition of the Morrigan, also called the Tain bo Regamna.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Dun Delga or Dundalk is described as the residence usually associated with
+    Cuchulain.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The note reports a usual interpretation in which Ethne is Cuchulain's mistress
+    and Emer his wife, while also cautioning that Ethne may have been treated as Cuchulain's
+    wife in the followed form and that no opposition between Emer and Ethne is elsewhere
+    hinted.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Lugaid Red-Stripes' appearance is said to prepare for his later introduction
+    in the link between two forms of the story.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The word imda is described as uncertain, possibly meaning either room or couch;
+    the location near Cuchulain may be rendered as near the entrance of the chamber
+    or at the head of the bed.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The cited verses address Cuchulain under sickness and include a wish that
+    he would come to the speaker's land.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The Plain of Cruach is said probably to be connected with Cromm Cruach, an
+    idol traditionally destroyed by St. Patrick and described elsewhere as receiving
+    human sacrifices.
+  category: relationship
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Cuchulain
+  description: Heroic figure associated with bird-catching by return-stroke, distribution,
+    Dun Imrith, Dun Delga, sickness, and a desired journey to another land.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Ethne
+  description: Woman connected with Cuchulain; the note discusses whether she is represented
+    as mistress or wife and says she viewed Cuchulain's distribution as done by herself
+    through her husband.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Emer
+  description: Woman mentioned in the Antiquarian form; the note says the usual statement
+    represents Emer as Cuchulain's wife.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: War-Goddess / Morrigan
+  description: Divine female figure whom Cuchulain met at Dun Imrith in the Apparition
+    of the Morrigan.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Lugaid Red-Stripes
+  description: Figure whose appearance gives a reason for later introduction in a
+    linking part of the story.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Aed Abra's daughters
+  description: Daughters mentioned in relation to the poem; the note says the epithet
+    'fair' is not in the Irish.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:7
+  name_or_label: Cromm Cruach
+  description: Name of an idol, also described as a god, traditionally destroyed by
+    St. Patrick and associated in the Book of Leinster with human sacrifices.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+- id: fig:8
+  name_or_label: St. Patrick
+  description: Saint traditionally said in the Lives to have destroyed Cromm Cruach.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: Cuchulain-associated heroic protagonist
+  assigned_to:
+  - fig:1
+  basis: The notes repeatedly connect Cuchulain with action, residence, sickness,
+    and narrative relationships.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:6
+- id: role:2
+  label: woman in Cuchulain relationship tradition
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The passage discusses Ethne and Emer as mistress or wife figures associated
+    with Cuchulain, while noting uncertainty about the tradition.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: war-goddess encounter figure
+  assigned_to:
+  - fig:4
+  basis: The note identifies the War-Goddess/Morrigan as the being Cuchulain met at
+    Dun Imrith.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: later narrative entrant
+  assigned_to:
+  - fig:5
+  basis: Lugaid Red-Stripes' appearance is said to motivate his subsequent introduction.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: named female group in poem annotation
+  assigned_to:
+  - fig:6
+  basis: Aed Abra's daughters are mentioned in the note on the poem's translation.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: sacrificial idol or god
+  assigned_to:
+  - fig:7
+  basis: Cromm Cruach is described as an idol and as a god to whom human sacrifices
+    were offered.
+  evidence_refs:
+  - ev:7
+- id: role:7
+  label: destroyer of idol in tradition
+  assigned_to:
+  - fig:8
+  basis: St. Patrick is said to have traditionally destroyed Cromm Cruach in the Lives.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: return-stroke
+  literal_form: taithbeim, a return-stroke compared to the cast of a boomerang
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Cuchulain's strongholds
+  literal_form: Dun Imrith and Dun Delga / Dundalk
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: ambiguous chamber or couch
+  literal_form: imda, possibly a room/chamber or a couch/bed
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: Plain of Cruach
+  literal_form: Plain of Cruach, a place-name probably connected with Cromm Cruach
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:5
+  label: Cromm Cruach idol
+  literal_form: idol named Cromm Cruach
+  associated_figures:
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Return-stroke bird-catching gloss
+  summary: An editorial note explains that a word translated with a boomerang-like
+    image means return-stroke and is used elsewhere for Cuchulain's bird-catching
+    method.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Ethne and Cuchulain distribution note
+  summary: Ethne is said to regard Cuchulain's distribution as performed by herself
+    through her husband.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Cuchulain's residences and Morrigan encounter
+  summary: The notes identify Dun Imrith as the castle of Cuchulain's encounter with
+    the War-Goddess/Morrigan and Dun Delga as his usual residence, while discussing
+    Ethne and Emer's relationship labels.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Cuchulain lying sick
+  summary: A disputed word may describe the chamber or couch where Cuchulain lay,
+    and cited verses address him in sickness while wishing he would come to the speaker's
+    land.
+  figure_refs:
+  - fig:1
+  - fig:6
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Plain of Cruach and Cromm Cruach
+  summary: The note connects the Plain of Cruach with the idol or god Cromm Cruach,
+    associated with destruction by St. Patrick and human sacrifice in another source.
+  figure_refs:
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: return-stroke capture technique
+  taxonomy_refs: []
+  basis: The note identifies a named return-stroke technique used by Cuchulain to
+    capture birds.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage is a translator's lexical note rather than a full narrative
+    scene.
+- id: motif:2
+  label: war-goddess encounter at a stronghold
+  taxonomy_refs: []
+  basis: Dun Imrith is identified as the castle where Cuchulain met the War-Goddess/Morrigan.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The actual encounter is only referenced, not narrated in this passage.
+- id: motif:3
+  label: sick hero invited to another land
+  taxonomy_refs: []
+  basis: The quoted verse material addresses Cuchulain under sickness and wishes that
+    he would come to the speaker's land.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The identity of the speaker and the full narrative context are not provided
+    in the passage.
+- id: motif:4
+  label: human sacrifice to an idol
+  taxonomy_refs:
+  - sacrifice
+  basis: Cromm Cruach is described as an idol to whom human sacrifices were offered.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: This is a cross-reference in an editorial note, not an event narrated
+    in the romance passage itself.
+comparison_claims:
+- id: claim:1
+  claim: The note links the term taithbeim in this passage with another use in L.U.
+    for Cuchulain's bird-catching method.
+  claim_level: linguistic_similarity
+  target: L.U. 63a.4 use of taithbeim for Cuchulain's bird-catching
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a lexical comparison, not direct evidence of a shared full
+    narrative motif.
+- id: claim:2
+  claim: The note connects Dun Imrith in this passage with the Cuchulain and Morrigan
+    episode known as the Apparition of the Morrigan or Tain bo Regamna.
+  claim_level: same_motif
+  target: Apparition of the Morrigan / Tain bo Regamna
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage identifies the setting connection but does not recount
+    the other episode.
+- id: claim:3
+  claim: The note cautiously connects the Plain of Cruach with the Cromm Cruach idol
+    tradition known from the Lives and the Book of Leinster, including human sacrifice.
+  claim_level: same_motif
+  target: Cromm Cruach traditions in the Lives and Book of Leinster
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage says the place-name is 'probably connected,' so the claim
+    is tentative.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 7281-7285; PAGE 59, Line 2 note
+  quote_or_summary: The note translates taithbeim as return-stroke, compares it to
+    a boomerang cast, and says it is used elsewhere for Cuchulain's method of capturing
+    birds.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 7286-7292; PAGE 59, Line 8 note
+  quote_or_summary: The note says inserted words clarify that Ethne regarded Cuchulain's
+    distribution as done by herself through her husband.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 7295-7306; PAGE 60, Line 9 note
+  quote_or_summary: The note identifies Dun Imrith as the castle where Cuchulain met
+    the War-Goddess in the Apparition of the Morrigan, Dun Delga/Dundalk as Cuchulain's
+    usual residence, and discusses Emer and Ethne as wife or mistress figures with
+    uncertainty.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 7307-7308; PAGE 60, Line 15 note
+  quote_or_summary: The appearance of Lugaid Red-Stripes is said to explain his later
+    introduction in the link between two forms of the story.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: lines 7310-7322; PAGE 60, Line 18 note
+  quote_or_summary: The note discusses whether imda means room or couch and whether
+    the phrase means near the entrance of the chamber where Cuchulain lay or at the
+    head of the bed.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:6
+  type: summary
+  locator: lines 7324-7340; PAGE 60, Line 27 note
+  quote_or_summary: The note gives corrected verse renderings addressing Cuchulain
+    under sickness and wishing Cuchulain would come to the speaker's land; it also
+    mentions Aed Abra's daughters in the translation note.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:7
+  type: summary
+  locator: lines 7342-7348; PAGE 60, Line 32 note
+  quote_or_summary: The note says the Plain of Cruach is probably connected with Cromm
+    Cruach, an idol traditionally destroyed by St. Patrick and described in the Book
+    of Leinster as receiving human sacrifices.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is primarily editorial commentary and cross-reference, not a
+    continuous narrative. Literal extraction is strong, while motif identification
+    is limited by the indirect nature of the notes.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage text and metadata. Taxonomy reference applied only where directly supported by the stated human-sacrifice association.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:celtic-irish-heroic-romances-of-ireland-leahy-gutenberg__l7281-l7348
+  passage_sha256=82312d26756650f0b35963d8c6476ab1de723200b51259860b6d41c3e00b4d67

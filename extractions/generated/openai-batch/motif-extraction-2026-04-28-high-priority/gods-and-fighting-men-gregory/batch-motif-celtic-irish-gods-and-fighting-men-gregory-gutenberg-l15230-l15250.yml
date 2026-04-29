@@ -1,0 +1,343 @@
+---
+record_id: batch.motif.celtic-irish-gods-and-fighting-men-gregory-gutenberg-l15230-l15250
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+passage_locator:
+  label: CHAPTER I. OISIN'S STORY / CHAPTER II. OISIN IN PATRICK'S HOUSE / CHAPTER
+    III. THE ARGUMENTS / CHAPTER IV. OISIN'S LAMENTS; lines 15230-15250
+  start: '15230'
+  end: '15250'
+  translation: Gods and Fighting Men
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Oisin laments his present condition, contrasting it with his former life
+    of fighting, hunting, music, feasting, courtship, feats, and companionship. He
+    repeats that clouds are over him and identifies himself as the last of the Fianna,
+    Oisin son of Finn, now an old man listening to bells.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The speaker says he is without fighting, battles, feats, young girls, music,
+    harps, great deeds, generosity, feasting, courtship, and hunting.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker names hunting and going out to battle as trades or practices he
+    was used to.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The speaker says there is no hunting of deer or stag and no leashes or hounds.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The speaker recalls rising to do bravery, playing freely, and fighting men
+    swimming in a lake.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The speaker describes himself as an old man dragging stones.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The speaker identifies himself as the last of the Fianna, Oisin son of Finn,
+    listening to the voice of bells.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The phrase that clouds are over him tonight is repeated in the lament.
+  category: speech
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Oisin
+  description: The speaker identifies himself as great Oisin, son of Finn, and as
+    the last of the Fianna.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:2
+  name_or_label: Finn
+  description: Finn is named as Oisin's father.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:3
+  name_or_label: the Fianna
+  description: A group to which Oisin belongs; he says he is their last survivor.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: fighting men
+  description: Fighting men are recalled as swimming in the lake.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: lamenting speaker
+  assigned_to:
+  - fig:1
+  basis: The passage is voiced as a first-person lament over the loss of former activities
+    and present condition.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: role:2
+  label: last survivor
+  assigned_to:
+  - fig:1
+  basis: The speaker says, 'I am the last of the Fianna.'
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: son
+  assigned_to:
+  - fig:1
+  basis: Oisin identifies himself as son of Finn.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: father
+  assigned_to:
+  - fig:2
+  basis: Finn is named in the kinship phrase 'son of Finn.'
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: former warrior band
+  assigned_to:
+  - fig:3
+  basis: The Fianna are named as the group of which Oisin is the last, while the lament
+    recalls fighting, battles, hunting, hounds, and feats.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: role:6
+  label: remembered companions
+  assigned_to:
+  - fig:4
+  basis: The speaker recalls 'our fighting men' swimming in the lake.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: clouds over the speaker
+  literal_form: clouds over me to-night
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: bells
+  literal_form: voice of bells
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: hounds and leashes
+  literal_form: leashes for hounds; hounds
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: lake
+  literal_form: lake
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: harps
+  literal_form: harps
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:6
+  label: stones
+  literal_form: stones dragged by an old man
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Lament for former heroic life
+  summary: Oisin lists the activities now absent from his life, including fighting,
+    battles, feats, music, feasting, courtship, hunting, and generosity, and says
+    the want of them is sorrowful to him.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Memory of bravery and companions
+  summary: Oisin recalls rising to bravery, playing freely, and fighting men swimming
+    in a lake.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Old age and last survivor declaration
+  summary: Oisin describes himself as an old man dragging stones and then names himself
+    as the last of the Fianna, Oisin son of Finn, listening to bells.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: lament of the last survivor of a heroic band
+  taxonomy_refs: []
+  basis: Oisin states that he is the last of the Fianna and laments the loss of the
+    former life of battle, hunting, feasting, music, and comradeship.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  confidence: high
+  cautions: The passage supports the motif at the level of lament and survivor identity,
+    but gives no narrative account of how the Fianna ended.
+- id: motif:2
+  label: old age contrasted with heroic youth
+  taxonomy_refs: []
+  basis: The speaker contrasts his former practices of fighting, hunting, feats, and
+    feasting with his present state as an old man dragging stones.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: high
+  cautions: The passage does not narrate a transformation; it presents a retrospective
+    lament.
+- id: motif:3
+  label: loss of warrior-hunter culture
+  taxonomy_refs:
+  - departure
+  basis: The lament emphasizes absence of battles, hunting, hounds, feasts, music,
+    and great deeds from the speaker's present life.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The taxonomy reference 'departure' is only a broad fit for the expressed
+    loss or passing away; the passage does not describe a physical departure event.
+- id: motif:4
+  label: Christian soundscape replacing heroic past
+  taxonomy_refs: []
+  basis: Oisin, the last of the Fianna, is now described as listening to the voice
+    of bells after lamenting the absence of former heroic practices.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: medium
+  cautions: The passage itself mentions bells but does not explicitly identify them
+    as Christian or contrast them doctrinally with the heroic past; that reading depends
+    partly on nearby context not included here.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 15230-15235
+  quote_or_summary: Oisin says he is now without fighting, battles, feats, young girls,
+    music, harps, great deeds, learning, generosity, feasting, courtship, hunting,
+    and going out to battle, and says their absence is sorrowful.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 15236-15239
+  quote_or_summary: He says there is no hunting of deer or stag, no leashes and no
+    hounds, and repeats that clouds are over him tonight.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 15240-15243
+  quote_or_summary: He recalls rising to bravery, playing as they wished, and fighting
+    men swimming in the lake, again saying that clouds are over him tonight.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 15244-15247
+  quote_or_summary: He says no one in the world is like him, calls his condition a
+    pity, describes himself as an old man dragging stones, and repeats that clouds
+    are over him tonight.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 15248-15250
+  quote_or_summary: The speaker identifies himself as the last of the Fianna, great
+    Oisin, son of Finn, listening to the voice of bells, and repeats that clouds are
+    over him tonight.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The speaker, setting of lament, and repeated images are clear. Motif labels
+    are descriptive and passage-based; broader historical or religious interpretation
+    is limited by the short excerpt.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata. No comparison claims added because the passage itself does not explicitly support a cross-text comparison.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:celtic-irish-gods-and-fighting-men-gregory-gutenberg__l15230-l15250
+  passage_sha256=4ab90fcc2ea232a9b92d8b7fd6e14969b754efac064edb3f4260dd6cd3347718

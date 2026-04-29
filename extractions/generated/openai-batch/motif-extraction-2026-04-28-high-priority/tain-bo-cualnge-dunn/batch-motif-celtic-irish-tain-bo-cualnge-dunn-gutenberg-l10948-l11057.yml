@@ -1,0 +1,443 @@
+---
+record_id: batch.motif.celtic-irish-tain-bo-cualnge-dunn-gutenberg-l10948-l11057
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+passage_locator:
+  label: XVIII / HERE NOW IS TOLD THE MISTHROW AT BELACH EOIN. / HERE NOW FOLLOWETH
+    THE DISGUISING OF TAMON / HERE NOW COMETH THE HEAD-PLACE OF FERCHU; lines 10948-11057
+  start: '10948'
+  end: '11057'
+  translation: The Ancient Irish Epic Tale Tain Bo Cualnge
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: After a day of combat, Cuchulain and Ferdiad separate sadly without signs
+    of friendship or exchange of aid. The next morning Ferdiad arms heavily, fearing
+    the Gae Bulga, and both warriors perform extraordinary feats. Cuchulain asks Laeg
+    to taunt or praise him as needed to rouse his courage. The warriors choose the
+    Feat of the Ford, and the narrator frames their encounter as two eminent Gaelic
+    champions driven to slay one another through the incitement of Ailill and Medb.
+    They fight from morning until noon as their rage increases.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Cuchulain and Ferdiad stop fighting at evening and cast their arms to their
+    charioteers.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Their night parting is marked by sadness, absence of kiss or blessing, no
+    exchange of healing herbs, food, or drink, and separation of horses and charioteers.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Ferdiad goes alone early to the ford of combat and understands the day may
+    decide that one or both warriors will fall.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Ferdiad puts on layered battle gear, including an adamant stone or flag and
+    an iron kilt, because he fears the Gae Bulga.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Ferdiad carries a spear, a curved battle-falchion, and a shield with many
+    bosses, and performs feats said not to have been learned from named teachers.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Cuchulain tells Laeg to taunt him if he is being defeated and to praise him
+    if Ferdiad is being defeated, so that anger or courage may rise in him.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Cuchulain also girds on battle gear and performs splendid feats said not to
+    have been learned from named teachers.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Cuchulain proposes the Feat of the Ford; Ferdiad agrees, though he considers
+    it grievous because Cuchulain has destroyed other heroes in that kind of combat.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The narrator describes the two combatants with paired titles such as heroes,
+    champions, chariot-fighters, and torches of valour.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The passage states that the two warriors are brought together to slay each
+    other or one of them through the dissension and incitement of Ailill and Medb.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: They fight in deeds of arms from early morning until midday, when their rage
+    grows wilder and they draw nearer to each other.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Cuchulain
+  description: A warrior who fights Ferdiad, asks Laeg for taunts or praise, performs
+    extraordinary feats, and proposes the Feat of the Ford.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: Ferdiad son of Daman
+  description: A warrior who fights Cuchulain, arms himself heavily against the Gae
+    Bulga, performs extraordinary feats, and agrees to the Feat of the Ford.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:3
+  name_or_label: Laeg
+  description: Cuchulain's master or charioteer addressed by Cuchulain and asked to
+    taunt or praise him during the combat.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Charioteers and servants
+  description: Attendants who receive the warriors' arms, disarm horses, squires,
+    and heroes, and remain apart at night.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: Ailill
+  description: Named with Medb as one whose incitement and sowing of dissension brings
+    the two warriors into lethal encounter.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: Medb
+  description: Named with Ailill as one whose incitement and sowing of dissension
+    brings the two warriors into lethal encounter.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: mortal combatant
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Both warriors fight one another over successive days and are brought together
+    to slay each other or one of them.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:7
+- id: role:2
+  label: warrior seeking emotional provocation
+  assigned_to:
+  - fig:1
+  basis: Cuchulain asks Laeg to taunt him if he is losing and praise him if he is
+    winning, to increase anger or courage.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: armored defender against named weapon
+  assigned_to:
+  - fig:2
+  basis: Ferdiad adds special armor out of fear and dread of the Gae Bulga.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: charioteer-counsel aide
+  assigned_to:
+  - fig:3
+  basis: Laeg is addressed by Cuchulain and agrees to perform the requested verbal
+    prompting if needed.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: attendant disarmers
+  assigned_to:
+  - fig:4
+  basis: The charioteers receive arms and the servants disarm steeds, squires, and
+    heroes.
+  evidence_refs:
+  - ev:1
+- id: role:6
+  label: inciter of conflict
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: Ailill and Medb are named as causing dissension and incitement that brings
+    the heroes together to kill one another.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: ford of combat
+  literal_form: The ford where Ferdiad goes and where the Feat of the Ford is chosen
+    for combat.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:2
+  label: separate fire
+  literal_form: The charioteers are not at the same fire during the night after the
+    combatants part.
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: protective adamant stone
+  literal_form: A huge stone or flag of adamant, described as the size of a millstone
+    and impervious to points or edges, worn by Ferdiad.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: Gae Bulga
+  literal_form: A named weapon feared by Ferdiad, against which he wears special armor.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: taunt and praise
+  literal_form: Verbal prompting requested by Cuchulain to intensify anger or courage
+    during combat.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Night separation after combat
+  summary: At evening the two warriors stop fighting, surrender their arms to charioteers,
+    and pass the night separated without gestures or exchanges of friendship.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Ferdiad arms for the decisive day
+  summary: Ferdiad goes alone to the ford, expects a decisive outcome, dons elaborate
+    armor, takes weapons, and performs extraordinary feats.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Cuchulain instructs Laeg and prepares
+  summary: Cuchulain observes Ferdiad's feats, asks Laeg to taunt or praise him depending
+    on the battle's course, then arms himself and performs feats of his own.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Choice and beginning of the Feat of the Ford
+  summary: Cuchulain and Ferdiad choose the Feat of the Ford, a feared mode of combat,
+    and fight until midday as their rage increases.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: scene:5
+  label: Narratorial framing of incited heroic conflict
+  summary: The narrator presents the opponents as two eminent Gaelic champions brought
+    into lethal encounter by the dissension and incitement of Ailill and Medb.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: single combat at a ford
+  taxonomy_refs: []
+  basis: The combatants meet at the ford of combat and choose the Feat of the Ford
+    as their weapon-form for the day.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:7
+  confidence: high
+  cautions: The passage gives the combat setting and named feat, but does not explain
+    a wider ritual or cosmological meaning for the ford.
+- id: motif:2
+  label: former friendship broken before mortal duel
+  taxonomy_refs: []
+  basis: The warriors part sadly without kiss, blessing, aid, food, or drink, and
+    later are framed as brought together to slay each other.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  confidence: high
+  cautions: The passage emphasizes separation and loss of friendly signs; broader
+    backstory of their friendship is not included in this excerpt.
+- id: motif:3
+  label: arming against a feared special weapon
+  taxonomy_refs: []
+  basis: Ferdiad adds a stone of adamant and iron kilt through fear of the Gae Bulga.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage names the feared weapon but does not describe its operation
+    in this excerpt.
+- id: motif:4
+  label: verbal provocation to awaken battle fury
+  taxonomy_refs: []
+  basis: Cuchulain instructs Laeg to taunt him if he is losing so his spirit and anger
+    rise, and to praise him if Ferdiad is losing so his courage increases.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage records the instruction, but not its later execution in this
+    excerpt.
+- id: motif:5
+  label: incited conflict between paired champions
+  taxonomy_refs: []
+  basis: The narrator repeatedly pairs the warriors with parallel titles and states
+    that Ailill and Medb's dissension and incitement bring them into a lethal encounter.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The motif label abstracts from narratorial framing; the excerpt does not
+    provide the full political context of the incitement.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 10948-10959
+  quote_or_summary: After fighting until evening, Cuchulain and Ferdiad stop, give
+    arms to charioteers, part sadly without kiss or blessing, exchange no healing
+    herbs, food, or drink, and their horses and charioteers remain separated.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 10960-10968
+  quote_or_summary: Ferdiad rises early, goes alone to the ford of combat, and knows
+    it will be a decisive day when one or both warriors may fall.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 10969-10987
+  quote_or_summary: Ferdiad dons elaborate armor, including an adamant stone or flag
+    and iron kilt against the Gae Bulga, takes spear, falchion, and shield, and performs
+    unprecedented feats.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 10988-11000
+  quote_or_summary: Cuchulain observes Ferdiad's feats and asks Laeg to taunt him
+    if he is losing or praise him if Ferdiad is losing, to increase anger or courage;
+    Laeg agrees.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 11001-11011
+  quote_or_summary: Cuchulain arms himself and performs unprecedented feats; he asks
+    what weapons they will use, proposes the Feat of the Ford, and Ferdiad agrees
+    though he fears that mode of combat.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 11012-11050
+  quote_or_summary: The narrator praises the two men with parallel titles and says
+    they are brought together to slay one another or one of them through the dissension
+    and incitement of Ailill and Medb.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 11051-11057
+  quote_or_summary: The two warriors fight from early morning until midday; at midday
+    their rage becomes wild and they draw nearer to each other.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based directly on the supplied passage. Motif labels are descriptive
+    and do not assert external parallels. No comparison claims are made because the
+    excerpt itself does not establish a cross-textual comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata; taxonomy references are limited to literal fire and ford/water symbols where supported by the passage wording.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:celtic-irish-tain-bo-cualnge-dunn-gutenberg__l10948-l11057
+  passage_sha256=97cc0d2f6122e676e6731d075def892f0c1f071336e0d31e6cebeab06507b444

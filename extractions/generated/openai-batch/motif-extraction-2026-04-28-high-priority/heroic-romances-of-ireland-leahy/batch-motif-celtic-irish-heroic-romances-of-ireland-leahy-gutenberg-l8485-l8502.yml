@@ -1,0 +1,184 @@
+---
+record_id: batch.motif.celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l8485-l8502
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+passage_locator:
+  label: PAGE 138 / PAGE 141 / PAGE 144 / PAGE 146; lines 8485-8502
+  start: '8485'
+  end: '8502'
+  translation: Heroic Romances of Ireland
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage consists of editorial notes on readings and translations:
+    a variant reading concerning four jewels of carbuncle versus forty; a note on
+    O''Curry''s translation of a phrase; a cited poem line lamenting the departing
+    of the speaker''s ghost; and a quoted line about a hypothetical cutting off of
+    part of a sound leg and part of an arm.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: An editorial note gives the reading “Four jewels of carbuncle” and contrasts
+    it with “forty” in the Book of Leinster.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The note says O'Curry translates “Each one of them fit to adorn it” as “in
+    each compartment,” and discusses the Irish phrase.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A poem line is cited in which a speaker laments the departing of the speaker's
+    ghost.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A quoted line refers to someone having struck off half of the speaker's sound
+    leg and half of the speaker's arm.
+  category: action
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: O'Curry
+  description: Named translator or commentator cited in the editorial note.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: unnamed speaker
+  description: Speaker implied by the first-person references to “my ghost,” “my leg,”
+    and “my arm.”
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: unnamed striker
+  description: Unidentified figure referred to as “he” in the quoted line about striking
+    off parts of the speaker's leg and arm.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: translator or commentator
+  assigned_to:
+  - fig:1
+  basis: The editorial note says O'Curry quotes and translates variant readings.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: lamenting speaker
+  assigned_to:
+  - fig:2
+  basis: The cited lines use first-person possession in relation to a departing ghost
+    and injured limbs.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: violent actor in quoted speech
+  assigned_to:
+  - fig:3
+  basis: The quoted line says “he had struck off” and “he had smitten off.”
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: jewels of carbuncle
+  literal_form: four jewels of carbuncle
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: departing ghost
+  literal_form: the departing of my ghost
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: severed limbs
+  literal_form: half of a sound leg and half of an arm struck or smitten off
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Editorial note on variant readings and translation
+  summary: The passage comments on manuscript readings concerning jewels of carbuncle
+    and on O'Curry's translation of a phrase.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Quoted lament and bodily injury lines
+  summary: The passage cites a poem line about the departing of a ghost and a quoted
+    statement about severe injury to the speaker's leg and arm.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8485-8491
+  quote_or_summary: 'Editorial note: “Four jewels of carbuncle” is given as a reading;
+    it is contrasted with “forty” in the Book of Leinster, and O''Curry''s translation
+    of a phrase is discussed.'
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; short quotation and summary permitted.
+- id: ev:2
+  type: quote
+  locator: lines 8493-8495
+  quote_or_summary: 'Line 8 of poem: “Alas for the departing of my ghost.”'
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; short quotation permitted.
+- id: ev:3
+  type: quote
+  locator: lines 8497-8500
+  quote_or_summary: "“Though he had struck off the half of my leg that is sound, though
+    he had smitten off half my arm.”"
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; short quotation permitted.
+confidence:
+  extraction: medium
+  motif_candidates: uncertain
+  comparison_claims: uncertain
+  notes: The passage is editorial commentary and isolated quoted lines, with minimal
+    narrative context. No supported motif-family or comparison claim is extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No taxonomy motif refs assigned; available symbol taxonomy did not include the literal objects in this passage.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:celtic-irish-heroic-romances-of-ireland-leahy-gutenberg__l8485-l8502
+  passage_sha256=cf58f37bae7b49cc635f6848e4f0c0f176ed387a96459c032a62de2fe440f675

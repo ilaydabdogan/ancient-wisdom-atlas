@@ -1,0 +1,246 @@
+---
+record_id: batch.motif.celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l8372-l8394
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+passage_locator:
+  label: PAGE 124 / PAGE 126 / PAGE 127 / PAGE 128; lines 8372-8394
+  start: '8372'
+  end: '8394'
+  translation: Heroic Romances of Ireland
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage consists of editorial notes on O'Curry's rendering of lines
+    in a dialogue between Ferdia and his servant, a final stanza in which an addressee
+    is accused or questioned about praising a man and others are called cowardly for
+    praising him without attacking him, and an editorial note on a hawk simile with
+    variant translation.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: An editorial note says O'Curry's rendering of the dialogue between Ferdia
+    and his servant should read as a deed of prophecy rather than a deferred deed,
+    and gives another corrected phrase about proud sport.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The stanza addresses a person as having greatly praised another man and asks
+    why the praise has continued since the speaker left the house.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The stanza says those who extol the man while he is present do not come to
+    attack him and are called cowardly churls.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: An editorial note gives a simile of a hawk darting up from a furrow and records
+    O'Curry's variant as from the top of a cliff, with the Irish word identified as
+    claiss.
+  category: other
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: O'Curry
+  description: A named rendering authority cited in the editorial notes.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Ferdia
+  description: Named participant in the referenced dialogue.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Ferdia's servant
+  description: The servant named as Ferdia's dialogue partner.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: addressed person in the stanza
+  description: The person addressed as having praised another man.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: praised man
+  description: The man who is extolled in the stanza.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: those who extol the man
+  description: A group described as praising the man when he is in sight but not attacking
+    him.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: cited translator or renderer
+  assigned_to:
+  - fig:1
+  basis: O'Curry is explicitly named in relation to alternate renderings of lines.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: dialogue participant
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The editorial note identifies a dialogue between Ferdia and his servant.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: addressee and praiser
+  assigned_to:
+  - fig:4
+  basis: The stanza addresses 'thou' as having praised the man.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: extolled man
+  assigned_to:
+  - fig:5
+  basis: The stanza repeatedly refers to a man or him being praised or extolled.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: praisers who do not attack
+  assigned_to:
+  - fig:6
+  basis: The stanza says they extol the man in sight but do not come to attack him.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: hawk simile
+  literal_form: A hawk darting up from a furrow, with a recorded variant from the
+    top of a cliff.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: house of departure
+  literal_form: The speaker refers to having left a house.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Editorial correction to dialogue wording
+  summary: The passage notes corrected wording in O'Curry's rendering of a dialogue
+    between Ferdia and his servant.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Stanza on praise and refusal to attack
+  summary: A speaker addresses someone who has praised a man, then describes others
+    who praise the man while present but do not attack him and are labeled cowardly.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Editorial note on hawk image
+  summary: The passage records a hawk simile and a variant rendering involving a cliff,
+    with the Irish word claiss cited.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: praise contrasted with refusal to fight
+  taxonomy_refs: []
+  basis: The stanza contrasts extolling a man with failing to attack him and labels
+    the praisers cowardly.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The extracted passage is a short stanza without surrounding narrative
+    context.
+- id: motif:2
+  label: hawk as sudden-motion simile
+  taxonomy_refs: []
+  basis: An editorial note preserves a line comparing motion to a hawk darting up
+    from a furrow, with a variant cliff location.
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: The passage gives only an isolated line note, not the surrounding action
+    to which the simile applies.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8372-8376
+  quote_or_summary: 'Editorial note: O''Curry''s rendering of the dialogue between
+    Ferdia and his servant is corrected to ''a deed of prophecy'' rather than ''a
+    deferred deed,'' and another line is given as ''With his proud sport.'''
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 8378-8388
+  quote_or_summary: 'Final stanza: the speaker says the addressee seems rewarded for
+    praising him, asks why the praise has continued since the speaker left the house,
+    and says those who extol the man in sight do not attack him but are cowardly churls.'
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 8392-8394
+  quote_or_summary: 'Editorial note: line 34 is rendered as a hawk darting up from
+    the furrow; O''Curry gives a variant from the top of a cliff, and the Irish word
+    is identified as claiss.'
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: high
+  notes: Literal extraction is straightforward, but the passage is mostly editorial
+    annotation and an isolated stanza, so motif candidates are limited and require
+    human review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were made because the passage itself does not support a cautious comparison to an external motif family or tradition.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:celtic-irish-heroic-romances-of-ireland-leahy-gutenberg__l8372-l8394
+  passage_sha256=df0020510f17acf621a8dad5cf37890b3d1a994c1988025c6bde2cc1308dc966

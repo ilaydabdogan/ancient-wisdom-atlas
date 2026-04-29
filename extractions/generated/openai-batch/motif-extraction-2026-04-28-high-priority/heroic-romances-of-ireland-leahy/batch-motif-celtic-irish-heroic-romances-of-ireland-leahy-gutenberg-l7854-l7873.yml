@@ -1,0 +1,341 @@
+---
+record_id: batch.motif.celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l7854-l7873
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+passage_locator:
+  label: PAGE 81 / PAGE 82 / PAGE 83 / PAGE 85; lines 7854-7873
+  start: '7854'
+  end: '7873'
+  translation: Heroic Romances of Ireland
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: An editorial note discusses a phrase translated as a drink of forgetfulness
+    of jealousy, then introduces a compiler-added conclusion. The conclusion says
+    that a token was given to Cuchulain that he would be destroyed by the People of
+    the Mound. It explains these beings as demons before the coming of the Faith,
+    says they fought men in bodily form and showed delights and secret things, and
+    says men called them the Ignorant Folk of the Mounds or the People of the Sid
+    because of the signs they showed.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A note glosses the translated phrase as literally meaning a drink of forgetfulness
+    of her jealousy.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The editor states that the conclusion to the romance is plainly added by the
+    compiler.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A token is said to have been given to Cuchulain indicating that he should
+    be destroyed by the People of the Mound.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The People of the Mound are identified in the conclusion with demons whose
+    power was great before the advent of the Faith.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The demons are said to have warred against men in bodily form.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The demons are said to have shown delights and secret things to men.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Men are said to have called the beings the Ignorant Folk of the Mounds and
+    the People of the Sid because of the signs they showed.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Cuchulain
+  description: A named figure who receives or is associated with a token indicating
+    his future destruction by the People of the Mound.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: People of the Mound / demons / Ignorant Folk of the Mounds / People
+    of the Sid
+  description: Supernatural beings described as powerful demons before the advent
+    of the Faith, able to fight men in bodily form and show delights, secret things,
+    and signs.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: men
+  description: Human recipients or opponents of the demons; they are said to have
+    been fought by the demons and to have named them from the signs they showed.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: foretold victim
+  assigned_to:
+  - fig:1
+  basis: A token indicates that Cuchulain should be destroyed by the People of the
+    Mound.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: supernatural destroyers or antagonists
+  assigned_to:
+  - fig:2
+  basis: The People of the Mound are linked to Cuchulain's destruction and are said
+    to have warred against men.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: revealer of delights, secret things, and signs
+  assigned_to:
+  - fig:2
+  basis: The beings show delights, secret things, and signs to men.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:4
+  label: human witnesses and namers
+  assigned_to:
+  - fig:3
+  basis: Men encounter the demons and name them the Ignorant Folk of the Mounds and
+    the People of the Sid because of their signs.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: drink of forgetfulness
+  literal_form: a drink associated with forgetting jealousy
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: token of destruction
+  literal_form: token given to Cuchulain indicating his future destruction
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: mounds / Sid
+  literal_form: mounds associated with the People of the Mound, the Ignorant Folk
+    of the Mounds, and the People of the Sid
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:4
+  label: secret things
+  literal_form: secret things shown by demons to men
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: signs
+  literal_form: signs shown by the demons, prompting men to name them
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Editorial gloss on forgetfulness drink
+  summary: The note explains a translated phrase as a drink of forgetfulness of jealousy
+    and comments on a grammatical uncertainty.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Compiler-added conclusion
+  summary: The passage introduces a conclusion said to be added by the compiler, contrasting
+    it with the style of the original author.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Token foretelling Cuchulain's destruction
+  summary: A token is described as indicating that Cuchulain will be destroyed by
+    the People of the Mound.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Demons before the Faith
+  summary: The conclusion describes the People of the Mound as powerful demons before
+    the advent of the Faith, who fought men in bodily form and showed delights and
+    secret things.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:5
+  label: Naming the People of the Sid
+  summary: Men name the beings the Ignorant Folk of the Mounds and the People of the
+    Sid because of the signs they showed.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: ominous token foretelling hero's destruction
+  taxonomy_refs: []
+  basis: The conclusion says a token was given to Cuchulain indicating that he should
+    be destroyed by the People of the Mound.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage does not describe the token's form or the circumstances of
+    its giving.
+- id: motif:2
+  label: supernatural mound folk as powerful pre-Christian demons
+  taxonomy_refs: []
+  basis: The passage identifies the People of the Mound with powerful demons before
+    the advent of the Faith and also names them as the People of the Sid.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: This is explicitly presented as a compiler-added conclusion, not necessarily
+    the style or viewpoint of the original romance.
+- id: motif:3
+  label: supernatural beings reveal secret things to humans
+  taxonomy_refs:
+  - forbidden_knowledge
+  basis: The demons are said to have shown delights and secret things to men.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage does not specify the nature of the secret things or state
+    that the knowledge is forbidden; the taxonomy link is therefore cautious.
+- id: motif:4
+  label: supernatural beings fighting humans in bodily form
+  taxonomy_refs: []
+  basis: The demons are said to have warred against men in bodily form.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage gives no details about particular battles or transformations.
+comparison_claims:
+- id: claim:1
+  claim: Within the passage, the People of the Mound, the Ignorant Folk of the Mounds,
+    and the People of the Sid function as alternate labels for the same supernatural
+    group, interpreted by the compiler-added conclusion as demons.
+  claim_level: same_function
+  target: People of the Mound / Ignorant Folk of the Mounds / People of the Sid
+  evidence_refs:
+  - ev:3
+  - ev:5
+  counter_evidence_refs:
+  - ev:2
+  confidence: medium
+  limitations: The identification occurs in a conclusion described by the editor as
+    compiler-added, so it should not be generalized to the whole romance without further
+    evidence.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 7854-7858
+  quote_or_summary: '"a drink of forgetfulness of her jealousy"; the note adds that
+    the translation gives sense but comments on grammatical uncertainty.'
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; short excerpt used for extraction evidence.
+- id: ev:2
+  type: summary
+  locator: lines 7860-7863
+  quote_or_summary: The editor says the conclusion to the romance is plainly added
+    by the compiler and is reproduced to show the difference between its style and
+    the original author's style.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized for extraction evidence.
+- id: ev:3
+  type: quote
+  locator: lines 7865-7868
+  quote_or_summary: '"This then was a token given to Cuchulain that he should be destroyed
+    by the People of the Mound"; the passage adds that the demons'' power was great
+    before the advent of the Faith.'
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; short excerpt used for extraction evidence.
+- id: ev:4
+  type: summary
+  locator: lines 7868-7871
+  quote_or_summary: The demons are described as warring against men in bodily form
+    and showing delights and secret things to them.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized for extraction evidence.
+- id: ev:5
+  type: quote
+  locator: lines 7871-7873
+  quote_or_summary: Men called the beings "the Ignorant Folk of the Mounds" and "the
+    People of the Sid" because of the signs they showed.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; short excerpt used for extraction evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is clear, but its mythic content appears in a conclusion explicitly
+    described as compiler-added. Motif classification is therefore conservative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:celtic-irish-heroic-romances-of-ireland-leahy-gutenberg__l7854-l7873
+  passage_sha256=780adf0bd23d9a21439d70db2f70d67aa5d1ffe979ea569337b60568c6fd4f40

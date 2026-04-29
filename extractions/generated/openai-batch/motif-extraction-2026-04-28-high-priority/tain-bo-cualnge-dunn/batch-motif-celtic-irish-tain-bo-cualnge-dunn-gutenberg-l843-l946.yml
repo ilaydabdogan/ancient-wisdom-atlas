@@ -1,0 +1,350 @@
+---
+record_id: batch.motif.celtic-irish-tain-bo-cualnge-dunn-gutenberg-l843-l946
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+passage_locator:
+  label: MY MOTHER / CONTENTS / PREFACE / WORKS ON THE TAIN BO CUALNGE; lines 843-946
+  start: '843'
+  end: '946'
+  translation: The Ancient Irish Epic Tale Tain Bo Cualnge
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is a bibliographic and prefatory section listing studies, translations,
+    retellings, poems, ballads, and dramatic works connected with the Tain Bo Cualnge
+    and Cuchulain. It also includes footnotes on cattle-rearing in Ireland, cattle
+    as a measure of value, clan raiding customs, pronunciation notes, manuscript references,
+    and a Latin-Irish note on Cuchulain’s death and ages.
+  language: English, with some French, German, Latin, and Irish bibliographic or quoted
+    material
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage lists scholarly studies on the Tain by Heinrich Zimmer and other
+    named scholars, along with related editions and catalogues.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage mentions English translations or versions of the Tain from Scottish
+    Gaelic material recorded in Benbecula and Eigg.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage lists retellings and related prose works centered on Cuchulain
+    and other Irish heroic material, including works for younger readers.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage states that many poems have taken their theme from the Tain and
+    the deeds of Cuchulain.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage lists dramatic works or performed scenes from the Tain, including
+    works about the naming and boy-deeds of Cuchulain and the triumph of Maeve.
+  category: other
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: A footnote says Ireland’s humid climate is unfavorable to cereal cultivation
+    but favorable to cattle-raising, especially bovine cattle.
+  category: setting
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: A footnote says that a female slave was sometimes appraised at three head
+    of cattle among the ancient Gaels.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: A footnote records that Clan Mackay was known as the Clan of the creaghs and
+    says the practice was enjoined on the rising generation from the cradle.
+  category: other
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: A note gives a death notice for Cuchulain and states ages associated with
+    his taking up arms, the Tain Bo Cualnge, and his death.
+  category: other
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Cuchulain / Cuchulainn / Cuculain
+  description: A named heroic figure associated with the Tain, called the Hound of
+    Ulster, a boy hero, and a hero in cited work titles and notes.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:9
+- id: fig:2
+  name_or_label: Queen Meave / Queen Maeve
+  description: A queen named in titles connected with the Tain, including a foray,
+    old age, and triumph.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Scathach
+  description: A named figure appearing in the title The Laughter of Scathach.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Finn
+  description: A named figure appearing in the title The High Deeds of Finn.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: female slave
+  description: A generic person mentioned in a footnote as sometimes appraised at
+    three head of cattle among the ancient Gaels.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: heroic figure
+  assigned_to:
+  - fig:1
+  basis: The passage cites titles and notes that call Cuchulain a hound of Ulster,
+    a boy hero, and a hero, and refers to his deeds.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:9
+- id: role:2
+  label: queen
+  assigned_to:
+  - fig:2
+  basis: The passage names Meave/Maeve with the title Queen in cited poetic titles.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: named figure in related Irish heroic material
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The passage mentions these figures only through titles of related literary
+    works.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: appraised person
+  assigned_to:
+  - fig:5
+  basis: The footnote says a female slave could be valued at three head of cattle.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: cattle wealth
+  literal_form: cattle / bovine cattle / three head of cattle
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: sym:2
+  label: creaghs
+  literal_form: creaghs
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:3
+  label: ford
+  literal_form: ford
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Survey of studies and versions of the Tain
+  summary: The passage lists scholarly studies, translations, Gaelic versions, and
+    retellings connected with the Tain Bo Cualnge.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Poetic and dramatic reception of the Tain
+  summary: The passage lists poems, ballads, and dramatic works based on the Tain,
+    the deeds of Cuchulain, Queen Maeve, Scathach, and scenes such as naming and boy-deeds.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Cattle and social value in prefatory notes
+  summary: The footnotes present cattle-rearing as important in Ireland and mention
+    cattle as a standard for appraising a female slave among the ancient Gaels.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: heroic deeds of Cuchulain
+  taxonomy_refs:
+  - culture_hero
+  basis: The passage repeatedly frames Cuchulain through heroic titles and works about
+    his deeds, naming, boy-deeds, and death.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:9
+  confidence: medium
+  cautions: This passage is bibliographic and does not narrate Cuchulain’s deeds directly;
+    the taxonomy link is based on cited titles and descriptors.
+- id: motif:2
+  label: cattle as wealth and social measure
+  taxonomy_refs: []
+  basis: The footnotes emphasize bovine cattle-raising and state that a female slave
+    could be valued at three head of cattle among the ancient Gaels.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The passage gives cultural-economic context rather than a mythic episode.
+- id: motif:3
+  label: queen-led foray and triumph
+  taxonomy_refs: []
+  basis: Titles cited in the passage include The Foray of Queen Meave, The Old Age
+    of Queen Maeve, and The Triumph of Maeve.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: low
+  cautions: Only titles are provided; the passage does not describe the events or
+    functions of Maeve’s actions.
+comparison_claims:
+- id: claim:1
+  claim: The passage records a scholarly/literary comparison of Cuchulain to Achilles
+    through the cited title Cuchulainn, the Irish Achilles.
+  claim_level: same_function
+  target: Achilles as heroic analogue
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The comparison is present only as a cited work title; the passage does
+    not explain the basis of the analogy.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 843-856
+  quote_or_summary: The passage lists studies by Heinrich Zimmer and others, including
+    Alfred Nutt’s Cuchulainn, the Irish Achilles.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 856-864
+  quote_or_summary: The passage mentions Scottish Gaelic versions from Benbecula and
+    Eigg and their publication or translation history.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 864-876
+  quote_or_summary: The passage lists retellings and related works, including Cuchulain,
+    the Hound of Ulster, Dun Dealgan, Cuchulain’s Home Fort, The Coming of Cuculain,
+    The High Deeds of Finn, and The Boy Hero of Erin.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 878-891
+  quote_or_summary: The passage says poems have taken their theme from the Tain and
+    the deeds of Cuchulain and lists titles including The Foray of Queen Meave, The
+    Old Age of Queen Maeve, The Defenders of the Ford, The Tain-Quest, and The Laughter
+    of Scathach.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 893-899
+  quote_or_summary: The passage says scenes from the Tain have been dramatized and
+    lists The Naming of Cuchulain, The Triumph of Maeve, Cuchulain, and The Boy-Deeds
+    of Cuchulain.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: quote
+  locator: lines 901-906, note [1]
+  quote_or_summary: French note states that Ireland’s humid climate is unfavorable
+    to cereals but favorable to cattle-rearing, especially the bovine race.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summarized with brief reference.
+- id: ev:7
+  type: summary
+  locator: lines 908-910, note [2]
+  quote_or_summary: The note says that in ancient Gaelic practice a female slave was
+    sometimes appraised at three head of cattle.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 912-915, note [3]
+  quote_or_summary: The note says Clan Mackay was known as the Clan of the creaghs
+    and that their perpetuation was enjoined from the cradle.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 921-927, note [6]
+  quote_or_summary: A Latin-Irish note records the death of Cuchulain, names attackers,
+    and gives ages for taking up arms, the Tain Bo Cualnge, and death.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: low
+  notes: The passage is mainly bibliographic and prefatory rather than narrative.
+    Motif extraction is therefore limited to titles, descriptors, and contextual footnotes
+    explicitly present in the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No unsupported taxonomy IDs were added beyond the available culture_hero motif family, and only where the passage repeatedly labels Cuchulain through heroic descriptors.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:celtic-irish-tain-bo-cualnge-dunn-gutenberg__l843-l946
+  passage_sha256=26ca8f542435afafbdc27fb7ac4ca8cf1d86a18baabdd893debadf49ac097270

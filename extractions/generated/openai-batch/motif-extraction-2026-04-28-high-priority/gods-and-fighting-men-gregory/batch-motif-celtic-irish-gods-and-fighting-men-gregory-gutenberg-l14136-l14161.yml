@@ -1,0 +1,398 @@
+---
+record_id: batch.motif.celtic-irish-gods-and-fighting-men-gregory-gutenberg-l14136-l14161
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+passage_locator:
+  label: 'CHAPTER II. DEATH OF GOLL / CHAPTER III. THE BATTLE OF GABHRA / BOOK TEN:
+    THE END OF THE FIANNA. / CHAPTER I. DEATH OF BRAN; lines 14136-14161'
+  start: '14136'
+  end: '14161'
+  translation: Gods and Fighting Men
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: While Finn is hunting, Bran pursues a fawn. Finn shelters the fawn by sending
+    it through his legs, then kills Bran by squeezing her with his knees. Finn grieves
+    deeply. The passage reports conflicting explanations that the fawn may have been
+    Finn's mother or, more likely, Oisin's mother, and adds that Bran and Sceolan
+    are still said to be seen at night on the hill of Almhuin.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Finn is hunting when Bran follows after a fawn.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The fawn speaks, saying that neither the sea below nor the air above would
+    save it from Bran.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Bran is described as swift enough to overtake wild geese.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Finn tells the fawn to pass through his legs.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: When Bran passes under Finn, Finn squeezes his knees on her and she dies immediately.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Finn grieves and cries after Bran's death, as he did when Osgar died.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Some people say the fawn was Finn's mother, but the narrator rejects this
+    as unlikely and names Muirne as Finn's mother.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The narrator says it is more likely that Oisin's mother was in the fawn.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Some say Bran and Sceolan are still seen at night starting out of a thicket
+    on the hill of Almhuin.
+  category: setting
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Finn
+  description: Hunter who protects the fawn and kills Bran, then grieves for Bran.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Bran
+  description: Finn's swift hound or dog, pursuing the fawn; killed by Finn; later
+    said to be seen at night with Sceolan.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: fig:3
+  name_or_label: the fawn
+  description: A speaking fawn pursued by Bran and sheltered by Finn; identified by
+    some as Finn's mother and by the narrator as more likely connected with Oisin's
+    mother.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:4
+  name_or_label: Osgar
+  description: A prior dead figure whose death is used as the comparison for Finn's
+    grief.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Muirne
+  description: Named as Finn's mother, daughter of Tadg and descendant of Nuada of
+    the Tuatha de Danaan; the narrator says it was not heard that she was changed
+    into a fawn.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Oisin's mother
+  description: The narrator says it is more likely that Oisin's mother was in the
+    fawn.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Sceolan
+  description: Companion of Bran in the report that they are still seen at night on
+    Almhuin.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: hunter
+  assigned_to:
+  - fig:1
+  basis: Finn is hunting at the start of the passage.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: protector and killer
+  assigned_to:
+  - fig:1
+  basis: Finn directs the fawn through his legs and kills Bran as Bran follows.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: pursuer
+  assigned_to:
+  - fig:2
+  basis: Bran follows after and would overtake the fawn.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: night apparition or continuing presence
+  assigned_to:
+  - fig:2
+  - fig:7
+  basis: Some say Bran and Sceolan are still seen at night starting out of the thicket
+    on Almhuin.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: fugitive
+  assigned_to:
+  - fig:3
+  basis: The fawn flees Bran and seeks escape through sea, air, and Finn's legs.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:6
+  label: possible transformed or hidden mother
+  assigned_to:
+  - fig:3
+  - fig:6
+  basis: The passage reports explanations that a mother was in the fawn, while rejecting
+    the claim that this was Finn's mother.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: grief comparison figure
+  assigned_to:
+  - fig:4
+  basis: Finn's tears for Bran are compared with those he cried when Osgar died.
+  evidence_refs:
+  - ev:3
+- id: role:8
+  label: named mother of Finn
+  assigned_to:
+  - fig:5
+  basis: The passage names Muirne as Finn's mother and says it was not heard that
+    she was changed into a fawn.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: speaking fawn
+  literal_form: fawn
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - shapeshifter
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:2
+  label: swift hound
+  literal_form: Bran as a hound pursuing the fawn
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: sea below
+  literal_form: sea
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: air above
+  literal_form: air
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:5
+  label: thicket on the hill of Almhuin
+  literal_form: thicket on a hill
+  associated_figures:
+  - fig:2
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Bran pursues the speaking fawn
+  summary: During Finn's hunt, Bran pursues a fawn that speaks of the impossibility
+    of escaping Bran by sea or air.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Finn kills Bran to save the fawn
+  summary: Finn tells the fawn to go through his legs; Bran follows, and Finn kills
+    Bran by squeezing her with his knees.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Finn grieves for Bran
+  summary: Finn weeps for Bran with grief compared to his grief for Osgar.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Explanations of the fawn's identity
+  summary: 'The passage reports and evaluates claims that the fawn contained a mother
+    figure: not likely Finn''s mother Muirne, more likely Oisin''s mother.'
+  figure_refs:
+  - fig:3
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Night sighting of Bran and Sceolan
+  summary: Some say Bran and Sceolan are still seen at night starting from a thicket
+    on Almhuin.
+  figure_refs:
+  - fig:2
+  - fig:7
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: animal pursuit of a speaking or transformed fawn
+  taxonomy_refs:
+  - shapeshifter
+  basis: The fawn speaks while fleeing Bran, and the passage discusses whether a mother
+    figure was in or changed into the fawn.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: medium
+  cautions: The passage itself rejects the idea that Finn's mother Muirne was changed
+    into a fawn, and gives only a cautious alternative involving Oisin's mother.
+- id: motif:2
+  label: hero kills beloved hound to protect a fugitive animal
+  taxonomy_refs: []
+  basis: Finn protects the fawn and kills Bran as Bran passes under him, then grieves
+    deeply for Bran.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage gives the action and grief clearly, but does not explicitly
+    frame it as ritual or sacrifice.
+- id: motif:3
+  label: continuing night presence of dead or absent hounds
+  taxonomy_refs:
+  - return
+  basis: The passage says some still see Bran and Sceolan at night starting from the
+    thicket on Almhuin.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage does not explicitly state that the sighting is a ghost, resurrection,
+    or afterlife return; it only reports the continuing sighting tradition.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 14136-14144
+  quote_or_summary: Finn is hunting; Bran follows a fawn, and the fawn says sea or
+    air will not save it from Bran, who is swift enough to overtake wild geese.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 14146-14149
+  quote_or_summary: Finn tells the fawn to go through his legs; Bran follows, and
+    Finn squeezes his knees on Bran so that she dies immediately.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 14151-14152
+  quote_or_summary: Finn feels great grief and cries tears as he did when Osgar died.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 14154-14159
+  quote_or_summary: Some say the fawn was Finn's mother and that Finn killed Bran
+    to save her; the narrator rejects this for Muirne and says it is more likely Oisin's
+    mother was involved.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 14161-14161
+  quote_or_summary: Some say Bran and Sceolan are still seen at night starting out
+    of the thicket on the hill of Almhuin.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal events are clear. Motif identification involving transformation and
+    return is cautious because the passage reports variant explanations and does not
+    explicitly define the sightings as ghostly.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims added because the passage does not itself compare the events to another corpus or tradition.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:celtic-irish-gods-and-fighting-men-gregory-gutenberg__l14136-l14161
+  passage_sha256=55e6d7a6b7dfa8cf7a01282aa02409021aa711349f99b4ebb17124c94e6d64e2

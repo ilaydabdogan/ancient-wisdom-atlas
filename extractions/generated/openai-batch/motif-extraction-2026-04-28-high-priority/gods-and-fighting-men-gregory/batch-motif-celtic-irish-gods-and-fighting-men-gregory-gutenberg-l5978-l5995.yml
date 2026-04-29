@@ -1,0 +1,344 @@
+---
+record_id: batch.motif.celtic-irish-gods-and-fighting-men-gregory-gutenberg-l5978-l5995
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+passage_locator:
+  label: 'BOOK FIVE: THE FATE OF THE CHILDREN OF LIR / PART TWO: THE FIANNA. / BOOK
+    ONE: FINN, SON OF CUMHAL. / CHAPTER I. THE COMING OF FINN; lines 5978-5995'
+  start: '5978'
+  end: '5995'
+  translation: Gods and Fighting Men
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage praises Finn as king, seer, poet, Druid, knowledgeable man,
+    warrior, just judge, generous patron, promise-keeper, and loyal friend. It adds
+    that he is quiet in peace but angry in battle, a trait followed by Oisin and Osgar.
+    A young man of Ulster claims kinship, and Oisin and Finn connect their battle-madness
+    and angry heart with the men of Ulster.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Finn is described as a king, seer, poet, Druid, and knowledgeable man whose
+    speech is sweet-sounding to his people.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Finn is described as an unsurpassed fighting man and as better than anything
+    said of him.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Finn is said to give fair judgment even if the parties before him were his
+    enemy and his own son.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Finn is described as generous, paying men and women what is due, keeping promises,
+    and not forsaking his right-hand friend.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Finn is quiet in peace and angry in battle; Oisin and Osgar are said to follow
+    him in this trait.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: A young man of Ulster claims kinship with Finn, Oisin, and Osgar, saying they
+    are of one blood.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Oisin says their madness and angry heart in battle came from the men of Ulster,
+    and Finn confirms this.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Finn
+  description: A king, seer, poet, Druid, knowledgeable man, warrior, just judge,
+    generous patron, promise-keeper, loyal friend, and battle-angry leader.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Oisin
+  description: Finn's son, said to follow Finn in being angry in battle; he speaks
+    about the Ulster source of their battle-madness.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: Osgar
+  description: Finn's son's son, said to follow Finn in being angry in battle.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: young man of Ulster
+  description: A young man who comes and claims kinship with Finn's group, saying
+    they are of one blood.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: men of Ulster
+  description: A collective group named by Oisin as the source from whom Finn's line
+    took battle-madness and the angry heart.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: royal wise man
+  assigned_to:
+  - fig:1
+  basis: Finn is called a king, seer, poet, Druid, and knowledgeable man.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: exemplary warrior
+  assigned_to:
+  - fig:1
+  basis: Finn is described as a better fighting man than any other.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: impartial judge
+  assigned_to:
+  - fig:1
+  basis: Finn is said to judge fairly even between his enemy and his own son.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: generous patron and promise-keeper
+  assigned_to:
+  - fig:1
+  basis: Finn is said not to deny people, to give bride-price and pay, to fulfil promises,
+    and not to forsake his right-hand friend.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: battle-fury bearer
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  basis: Finn is angry in battle, and Oisin and Osgar follow him in that trait.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: speaker explaining inherited battle anger
+  assigned_to:
+  - fig:2
+  basis: Oisin says the battle-madness and angry heart came from the men of Ulster.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: kinship claimant
+  assigned_to:
+  - fig:4
+  basis: The young man of Ulster claims kinship and says they are of one blood.
+  evidence_refs:
+  - ev:6
+- id: role:8
+  label: named source of battle-madness
+  assigned_to:
+  - fig:5
+  basis: Oisin names the men of Ulster as the source of their madness and angry heart
+    in battle.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: angry heart in battle
+  literal_form: madness and the angry heart
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+scenes:
+- id: scene:1
+  label: Praise of Finn's qualities
+  summary: Finn is praised as a wise royal figure, warrior, just judge, generous provider,
+    promise-keeper, and loyal friend.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:2
+  label: Battle anger and Ulster kinship
+  summary: Finn, Oisin, and Osgar are associated with anger in battle. A young man
+    of Ulster claims common blood, and Oisin and Finn connect their battle-madness
+    with the men of Ulster.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: ideal wise heroic ruler
+  taxonomy_refs:
+  - culture_hero
+  - wisdom
+  - royal_legitimacy
+  basis: Finn combines royal status, wisdom roles, poetic and druidic knowledge, exemplary
+    fighting ability, justice, generosity, and loyalty.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage is encomiastic and descriptive; it does not narrate a full
+    culture-hero episode.
+- id: motif:2
+  label: impartial justice of the hero-king
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: Finn's justice is exemplified by the claim that he would judge fairly between
+    his enemy and his own son.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The example is proverbial or hypothetical rather than a narrated trial
+    scene.
+- id: motif:3
+  label: generous patron who keeps every promise
+  taxonomy_refs:
+  - royal_legitimacy
+  - sacred_exchange
+  basis: Finn is said to deny no one while he has the means, to give bride-price and
+    pay, to keep promises promptly, and to maintain loyalty to his right-hand friend.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage frames this as praise of generosity and reliability; the sacred-exchange
+    classification is tentative.
+- id: motif:4
+  label: kin-linked battle fury
+  taxonomy_refs: []
+  basis: Finn is angry in battle, Oisin and Osgar follow him in this, and Oisin links
+    their battle-madness and angry heart to common blood with the men of Ulster.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage supports a narrative kinship explanation but does not provide
+    a full origin account.
+comparison_claims:
+- id: claim:1
+  claim: The passage makes an intra-Irish comparison between Finn's line and the men
+    of Ulster by explaining Finn's group's battle-madness and angry heart as a trait
+    connected with claimed common blood.
+  claim_level: common_inheritance
+  target: men of Ulster / Ulster-associated battle fury
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is a claim made within the passage's dialogue, not external evidence
+    for historical inheritance or textual borrowing.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5978-5981
+  quote_or_summary: Finn is described as a king, seer, poet, Druid, knowledgeable
+    man, and sweet-sounding speaker to his people.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 5981-5983
+  quote_or_summary: Finn is praised as an unmatched fighting man and as three times
+    better than what anyone said of him.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 5984-5986
+  quote_or_summary: Finn is said to give fair judgment even between his enemy and
+    his own son.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 5986-5992
+  quote_or_summary: Finn is praised for generosity, for giving bride-price and pay,
+    for fulfilling promises by the next day or night, and for never forsaking his
+    right-hand friend.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: lines 5992-5993
+  quote_or_summary: Finn is quiet in peace and angry in battle, and Oisin and Osgar
+    follow him in that trait.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:6
+  type: summary
+  locator: lines 5993-5995
+  quote_or_summary: A young man of Ulster claims kinship and common blood; Oisin says
+    their battle-madness and angry heart came from the men of Ulster, and Finn confirms
+    it.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is a compact character encomium with one explicit intra-Irish
+    kinship comparison. Motif labels are limited to what the passage directly supports.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No objects from the provided symbol taxonomy are present in the passage; the only symbol-like entry records the literal image of the angry heart in battle.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:celtic-irish-gods-and-fighting-men-gregory-gutenberg__l5978-l5995
+  passage_sha256=8bf3294b979c1139534d6ff05af9486490d6a2bcdcefeae77b2c2594cf13960d

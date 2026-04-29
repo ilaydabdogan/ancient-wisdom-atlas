@@ -1,0 +1,243 @@
+---
+record_id: batch.motif.celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l7876-l7904
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+passage_locator:
+  label: PAGE 83 / PAGE 85 / THE EXILE OF THE SONS OF USNACH / PAGE 91; lines 7876-7904
+  start: '7876'
+  end: '7904'
+  translation: Heroic Romances of Ireland
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: '"what in the hollow of my womb cries out"'
+  summary: An editorial note discusses translated rhetorical passages at the beginning
+    of the text. The supplied second rhetoric invokes Cathbad, druid arts, Feidlimid
+    as a light of knowledge, the limits of a woman’s knowledge, and a cry from within
+    the speaker’s womb.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage is an editorial note on four rhetorical pieces at the beginning
+    of the text and comments on textual variants and alliteration.
+  category: other
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: obs:2
+  text: The second rhetoric asks that Cathbad hear and describes him with royal and
+    praised attributes.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The rhetoric mentions druid arts of the Druid.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The first-person speaker says she has no words of wisdom to oppose to Feidlimid,
+    who is called the light of knowledge.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The speaker states that the nature of woman does not know what is under her
+    body or what cries out in the hollow of her womb.
+  category: speech
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Cathbad
+  description: Addressed as the fair one, a prince, a royal diadem, and one who is
+    extolled.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: the Druid
+  description: Named in connection with druid arts.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Feidlimid
+  description: Named as the light of knowledge, against whom the speaker lacks words
+    of wisdom.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: first-person female speaker
+  description: A speaker who refers to woman’s nature and to the hollow of her womb.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: being or voice in the womb
+  description: Something in the hollow of the speaker’s womb is said to cry out.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: addressed royal figure
+  assigned_to:
+  - fig:1
+  basis: Cathbad is asked to hear and is described with princely and royal language.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: druidic figure
+  assigned_to:
+  - fig:2
+  basis: The rhetoric refers to the druid arts of the Druid.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: knowledge-bearing figure
+  assigned_to:
+  - fig:3
+  basis: Feidlimid is called the light of knowledge.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: speaker associated with a womb
+  assigned_to:
+  - fig:4
+  basis: The speaker speaks in the first person and refers to the hollow of her womb.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: unseen crying presence
+  assigned_to:
+  - fig:5
+  basis: The passage says something in the hollow of the speaker’s womb cries out.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: womb
+  literal_form: the hollow of my womb
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: knowledge and wisdom language
+  literal_form: words of wisdom; light of knowledge
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: druid arts
+  literal_form: druid arts of the Druid
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Rhetorical address concerning knowledge and the womb
+  summary: A translated rhetoric addresses Cathbad, invokes druid arts, contrasts
+    the speaker’s lack of words of wisdom with Feidlimid’s knowledge, and states that
+    a woman does not know what is beneath her body or what cries within her womb.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Druidic wisdom and limits of human knowledge
+  taxonomy_refs:
+  - wisdom
+  basis: The rhetoric explicitly invokes druid arts, words of wisdom, and Feidlimid
+    as the light of knowledge, while the speaker states a lack of knowledge about
+    what is in her womb.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage is a translated rhetoric embedded in an editorial note; the
+    surrounding narrative context is not included.
+- id: motif:2
+  label: Unseen presence in the womb
+  taxonomy_refs:
+  - sacred_birth
+  basis: The passage refers to something crying out in the hollow of the speaker’s
+    womb.
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: The passage does not identify the womb’s contents as sacred or miraculous;
+    the taxonomy reference is only a tentative motif-family fit.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 7876-7886
+  quote_or_summary: The passage introduces four translated rhetorical pieces and notes
+    differences from Thurneysen’s versions, including a possible reading from the
+    Yellow Book of Lecan.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; concise summary.
+- id: ev:2
+  type: quote
+  locator: lines 7888-7893
+  quote_or_summary: "“Let Cathbad hear, the fair one... the prince, the royal diadem...
+    by druid arts of the Druid”"
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:3
+  type: quote
+  locator: lines 7894-7902
+  quote_or_summary: "“I have no words of wisdom... to Feidlimid, the light of knowledge...
+    what in the hollow of my womb cries out.”"
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:4
+  type: summary
+  locator: lines 7903-7904
+  quote_or_summary: The editor notes that the rhetorics are remarkable for the number
+    of alliterations in the original.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; concise summary.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: Literal extraction is limited because the passage consists mainly of editorial
+    commentary and a short translated rhetoric without broader narrative context.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were made because the passage itself does not support a specific comparison beyond its own rhetorical content.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:celtic-irish-heroic-romances-of-ireland-leahy-gutenberg__l7876-l7904
+  passage_sha256=60fd43435209525ead4bd771fa100f5e6ccb2ca62eef8a1c7652ad1627a78953

@@ -1,0 +1,345 @@
+---
+record_id: batch.motif.celtic-irish-gods-and-fighting-men-gregory-gutenberg-l13680-l13694
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+passage_locator:
+  label: 'BOOK EIGHT: CNOC-AN-AIR. / CHAPTER I. TAILC, SON OF TREON / CHAPTER II.
+    MEARGACH''S WIFE / CHAPTER III. AILNE''S REVENGE; lines 13680-13694'
+  start: '13680'
+  end: '13694'
+  translation: Gods and Fighting Men
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The Grey Man returns from searching for a cup, attacks Conan with a sword,
+    and is killed by Osgar after Conan calls for help. Ailne dies from grief and dread.
+    The Fianna feast on discovered food and drink, but in the morning the dun has
+    vanished and they are lying on bare grass. Conan remains stuck with a sheepskin
+    whose wool grows again each year.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Grey Man returns after looking for a cup and sees what has happened.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Grey Man takes his sword and strikes at Conan.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Conan calls to Osgar to defend him.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Osgar attacks the Grey Man and kills him.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Ailne sees the Grey Man's death and dies from grief and dread.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The Fianna make a feast from food and drink they find and are joyful.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: In the morning there is no trace or tidings of the dun, and the Fianna are
+    lying on bare grass.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The sheepskin never leaves Conan, and its wool grows every year like wool
+    on another skin.
+  category: attribute
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: the Grey Man
+  description: A man who returns from looking for the cup, attacks Conan with a sword,
+    and is killed by Osgar.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Conan
+  description: The target of the Grey Man's sword-stroke; he calls on Osgar for defense
+    and later remains associated with the sheepskin.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: fig:3
+  name_or_label: Osgar
+  description: The defender Conan calls upon; he attacks and kills the Grey Man.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Ailne
+  description: A woman who sees what happens to the Grey Man and dies from grief and
+    dread.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: the Fianna
+  description: The group who feast on found food and drink and wake on bare grass
+    after the dun vanishes.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: attacker killed in combat
+  assigned_to:
+  - fig:1
+  basis: The Grey Man strikes at Conan with a sword and is then killed by Osgar.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: threatened person seeking defense
+  assigned_to:
+  - fig:2
+  basis: Conan is attacked and calls to Osgar to defend him.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: defender and slayer
+  assigned_to:
+  - fig:3
+  basis: Osgar responds by attacking the Grey Man and killing him.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: witness who dies from grief and dread
+  assigned_to:
+  - fig:4
+  basis: Ailne sees the death and immediately dies from grief and dread.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: feasting company
+  assigned_to:
+  - fig:5
+  basis: The Fianna make a feast and are joyful and merry.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: cup
+  literal_form: cup sought by the Grey Man
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: sword
+  literal_form: sword used by the Grey Man to strike at Conan
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: vanished dun
+  literal_form: dun that leaves no trace by morning
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: bare grass
+  literal_form: bare grass on which the Fianna are lying after the dun vanishes
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: persistent sheepskin
+  literal_form: sheepskin that never leaves Conan and grows wool every year
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: feast food and drink
+  literal_form: food and drink found by the Fianna for a feast
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: The Grey Man attacks Conan and is killed by Osgar
+  summary: After returning from looking for the cup, the Grey Man attacks Conan with
+    a sword. Conan calls Osgar for help, and Osgar kills the Grey Man.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Ailne dies on seeing the death
+  summary: Ailne sees what has happened and dies immediately from grief and dread.
+  figure_refs:
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: The Fianna feast and wake on bare grass
+  summary: The Fianna feast joyfully on food and drink they find, but by morning the
+    dun has vanished and they are lying on bare grass.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Conan's sheepskin remains and renews its wool
+  summary: The sheepskin remains on Conan, and its wool grows again every year.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Protective intervention leading to the attacker's death
+  taxonomy_refs: []
+  basis: Conan calls for defense when attacked, and Osgar intervenes by killing the
+    Grey Man.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is a local action pattern; the passage alone does not identify a
+    broader named motif family.
+- id: motif:2
+  label: Death from grief and fear after witnessing a killing
+  taxonomy_refs: []
+  basis: Ailne dies immediately after seeing the Grey Man killed, with grief and dread
+    named as the cause.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The relationship between Ailne and the Grey Man is not stated in this
+    passage excerpt.
+- id: motif:3
+  label: Vanishing dwelling after night-feast
+  taxonomy_refs: []
+  basis: The Fianna feast in the dun, but in the morning there is no trace of it and
+    they lie on bare grass.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage does not explain the cause of the disappearance.
+- id: motif:4
+  label: Inseparable animal skin with annual wool renewal
+  taxonomy_refs: []
+  basis: The sheepskin never leaves Conan and grows wool each year as if still living
+    skin.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The passage does not state whether this is punishment, enchantment, or
+    another kind of marvel.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 13680-13682
+  quote_or_summary: The Grey Man came back from looking for the cup, took his sword,
+    and made a stroke at Conan.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 13682-13684
+  quote_or_summary: Conan calls to Osgar to defend him; Osgar attacks the Grey Man
+    and soon kills him.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source.
+- id: ev:3
+  type: quote
+  locator: lines 13686-13687
+  quote_or_summary: Ailne saw this and, from grief and dread, “fell dead then and
+    there.”
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: summary
+  locator: lines 13689-13690
+  quote_or_summary: The Fianna make a feast from found food and drink and are joyful
+    and merry.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source.
+- id: ev:5
+  type: summary
+  locator: lines 13690-13692
+  quote_or_summary: In the morning there is no trace or tidings of the dun, and the
+    Fianna are lying on bare grass.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source.
+- id: ev:6
+  type: summary
+  locator: lines 13694-13695
+  quote_or_summary: The sheepskin never leaves Conan, and its wool grows on it every
+    year like on any other skin.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labels are descriptive and not
+    tied to a supplied taxonomy family. No comparison claims were made because the
+    passage itself does not support one.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Line end in supplied locator is 13694, but the final sentence may wrap to the next canonical line depending on markdown line numbering; evidence locator follows the provided passage text.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:celtic-irish-gods-and-fighting-men-gregory-gutenberg__l13680-l13694
+  passage_sha256=c5ebb03d58fde64504be7617937acd3c8639ce427daa270d7d3090f10fd5dc53

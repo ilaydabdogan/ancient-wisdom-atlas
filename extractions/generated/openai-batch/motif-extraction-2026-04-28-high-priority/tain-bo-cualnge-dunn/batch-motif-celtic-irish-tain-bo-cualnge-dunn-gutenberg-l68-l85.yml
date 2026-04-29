@@ -1,0 +1,119 @@
+---
+record_id: batch.motif.celtic-irish-tain-bo-cualnge-dunn-gutenberg-l68-l85
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+passage_locator:
+  label: The Ancient Irish Epic Tale Tain Bo Cualnge / THE ANCIENT IRISH EPIC TALE
+    / TAIN BO CUALNGE; lines 68-85
+  start: '68'
+  end: '85'
+  translation: The Ancient Irish Epic Tale Tain Bo Cualnge
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is a title-page section identifying the work as The Ancient
+    Irish Epic Tale Tain Bo Cualnge, glossed as The Cualnge Cattle-Raid, presented
+    as an English rendering from Irish manuscript sources by Joseph Dunn.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The work is identified as The Ancient Irish Epic Tale Tain Bo Cualnge.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The title is glossed as The Cualnge Cattle-Raid.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage states that the work is rendered into English from Irish sources
+    including the Book of Leinster and allied manuscripts.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Joseph Dunn is credited on the title page and identified as a professor at
+    the Catholic University in Washington.
+  category: attribute
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Joseph Dunn
+  description: Person credited on the title page; identified as Professor at the Catholic
+    University, Washington.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: credited English renderer
+  assigned_to:
+  - fig:1
+  basis: The passage says the work was done into English and then gives Joseph Dunn's
+    name under 'By'.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols: []
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: cattle raid
+  taxonomy_refs: []
+  basis: The title gloss explicitly identifies the tale as The Cualnge Cattle-Raid.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This passage is a title page, not a narrative episode; the raid is named
+    but not described.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 68-75
+  quote_or_summary: '"THE ANCIENT IRISH EPIC TALE" / "TAIN BO CUALNGE"'
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: line 77
+  quote_or_summary: '"THE CUALNGE CATTLE-RAID"'
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: summary
+  locator: lines 79-82
+  quote_or_summary: The title page says this is the first complete English rendering
+    from Irish sources, specifically the Book of Leinster and allied manuscripts.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 84-85
+  quote_or_summary: Joseph Dunn is named and identified as Professor at the Catholic
+    University, Washington.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is bibliographic title-page material. The only motif-like content
+    is the named cattle-raid in the title gloss; no narrative scene or comparative
+    claim is present.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No taxonomy references were assigned because the available taxonomy list does not include a cattle-raid motif and the passage does not support interpreting the raid as sacred theft or another listed family.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:celtic-irish-tain-bo-cualnge-dunn-gutenberg__l68-l85
+  passage_sha256=50676609f556f54090d1f21124378533c68574028293267a942900ea1a13e2ea

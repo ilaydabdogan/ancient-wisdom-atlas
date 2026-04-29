@@ -1,0 +1,259 @@
+---
+record_id: batch.motif.celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l7683-l7698
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+passage_locator:
+  label: PAGES 68, 69 / PAGE 69 / PAGE 71 / PAGE 76; lines 7683-7698
+  start: '7683'
+  end: '7698'
+  translation: Heroic Romances of Ireland
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Editorial notes compare Cuchulain's battle-frenzy being cooled with water
+    to a similar episode in his first foray; cite a translation of Faud's triumph
+    song over Cuchulain's return; and suggest that verses describing Cuchulain's appearance
+    may present him as sun-god-like, compared with a sunlike chariot seat elsewhere.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Cuchulain's battle-frenzy is described as being cooled with water.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The note compares this cooling treatment with a similar treatment in an account
+    of Cuchulain's first foray.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Faud is associated with a triumph song over Cuchulain's return.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A suggested rendering of the song's last verse mentions red blood beside trees
+    and sorrow over fiend-like frenzy.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The note says Cuchulain's appearance in verses 5 and 6 seems to point to a
+    conception of him as the sun-god.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The note compares this solar interpretation with the sunlike seat of Cuchulain's
+    chariot on another page.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Cuchulain
+  description: Hero whose battle-frenzy is cooled with water, whose return is sung
+    over by Faud, and whose appearance is interpreted as possibly sun-god-like.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: Faud
+  description: Named as the singer or source of a triumph song over Cuchulain's return.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: battle-frenzied warrior
+  assigned_to:
+  - fig:1
+  basis: The passage refers to Cuchulain's battle-frenzy and its cooling with water.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: solar-appearing hero
+  assigned_to:
+  - fig:1
+  basis: The passage says his appearance seems to point to a conception of him as
+    the sun-god and compares a sunlike chariot seat.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: triumph-song speaker
+  assigned_to:
+  - fig:2
+  basis: The passage refers to Faud's triumph song over Cuchulain's return.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: water cooling frenzy
+  literal_form: water used to cool battle-frenzy
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: red blood near trees
+  literal_form: red blood at the side of the trees
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: sunlike appearance
+  literal_form: sun-god conception and sunlike chariot seat
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Cooling of Cuchulain's battle-frenzy
+  summary: Cuchulain's battle-frenzy is cooled with water, and the note links this
+    to a similar episode in the account of his first foray.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Faud's triumph song over Cuchulain's return
+  summary: Faud's song over Cuchulain's return is cited through Thurneysen's translation,
+    with imagery of red blood, trees, sorrow, and frenzy.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Solar interpretation of Cuchulain's appearance
+  summary: The note interprets descriptions of Cuchulain's appearance as possibly
+    indicating a sun-god conception and compares a sunlike chariot seat.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Cooling battle-frenzy with water
+  taxonomy_refs: []
+  basis: The passage explicitly describes Cuchulain's battle-frenzy being cooled with
+    water and compares it to another account of a similar treatment.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage is an editorial note and does not narrate the full episode
+    here.
+- id: motif:2
+  label: Solar warrior or sunlike hero
+  taxonomy_refs: []
+  basis: The passage says Cuchulain's appearance seems to point to a conception of
+    him as the sun-god and cites a sunlike chariot seat as comparison.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The solar reading is explicitly phrased as an interpretation, not as a
+    direct narrative statement.
+- id: motif:3
+  label: Triumph song over heroic return
+  taxonomy_refs:
+  - return
+  basis: The passage refers to Faud's triumph song over Cuchulain's return.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: Only the note and a suggested rendering of part of the song are included
+    in the passage.
+comparison_claims:
+- id: claim:1
+  claim: The water-cooling of Cuchulain's battle-frenzy is compared by the note to
+    a similar treatment in the account of his first foray.
+  claim_level: same_function
+  target: Cuchulain's first foray, cited as L.U., 63a; Miss Faraday's translation,
+    p. 34
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage gives only a bibliographic comparison and does not quote
+    the parallel episode.
+- id: claim:2
+  claim: Cuchulain's appearance is cautiously compared to solar imagery, including
+    a sunlike chariot seat elsewhere in the same work.
+  claim_level: visual_similarity
+  target: Sun-god conception and sunlike seat of Cuchulain's chariot on page 79
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The note says the description 'seems to point' to this conception,
+    so the claim remains interpretive.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 7683-7685
+  quote_or_summary: '"For the cooling of Cuchulain''s battle-frenzy with water compare
+    the similar treatment in the account of his first foray"'
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:2
+  type: summary
+  locator: lines 7687-7689
+  quote_or_summary: The note directs the reader to Thurneysen's literal translation
+    of Faud's triumph song over Cuchulain's return.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized for extraction evidence.
+- id: ev:3
+  type: quote
+  locator: lines 7690-7694
+  quote_or_summary: '"Long rain of red blood at the side of the trees" and sorrow
+    for "his fiend-like frenzy."'
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:4
+  type: quote
+  locator: lines 7696-7698
+  quote_or_summary: '"Cuchulain''s appearance in verses 5 and 6 seems to point to
+    a conception of him as the sun-god"; the note also compares the "sunlike" seat
+    of his chariot.'
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is a set of editorial comparative notes rather than the full
+    narrative scene. Literal extraction is strong for the stated comparisons, but
+    motif interpretation is limited by the excerpt's brevity.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata. No external taxonomy IDs beyond supplied refs were added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:celtic-irish-heroic-romances-of-ireland-leahy-gutenberg__l7683-l7698
+  passage_sha256=7037ab73c7032c6ada0d4a66a6147971f472e82260529a051d8b9fd76c642ec1

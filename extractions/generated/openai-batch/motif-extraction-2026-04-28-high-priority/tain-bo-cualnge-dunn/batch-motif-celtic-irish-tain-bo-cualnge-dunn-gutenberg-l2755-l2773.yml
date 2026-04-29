@@ -1,0 +1,167 @@
+---
+record_id: batch.motif.celtic-irish-tain-bo-cualnge-dunn-gutenberg-l2755-l2773
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+passage_locator:
+  label: WORKS ON THE TAIN BO CUALNGE / THE PILLOW-TALK / THIS IS THE ROUTE OF THE
+    TAIN / THE MARCH OF THE HOST; lines 2755-2773
+  start: '2755'
+  end: '2773'
+  translation: The Ancient Irish Epic Tale Tain Bo Cualnge
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: '"We make not much import of him," quoth Medb.'
+  summary: Medb dismisses a young male opponent as vulnerable and immature; Fergus
+    rejects this assessment and says the lad had already done manful deeds when younger.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Medb says she and her side do not attach much importance to the unnamed male
+    opponent.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Medb describes the opponent as having a single body and as avoiding being
+    wounded or taken.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Medb says the opponent is of an age comparable to a girl to be wed, that his
+    deeds of manhood have not yet come, and calls him a young, beardless elf-man.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Fergus says Medb's assessment is not correct and states that the lad performed
+    manful deeds when younger than he is now.
+  category: speech
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Medb
+  description: Speaker who dismisses the young male opponent as not important and
+    not yet proven in manhood.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Fergus
+  description: Speaker who contradicts Medb and asserts the lad's earlier manful deeds.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: unnamed young male opponent
+  description: A young, beardless male described by Medb as avoiding wounds and capture,
+    and by Fergus as having performed manful deeds while younger.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: speaker minimizing opponent
+  assigned_to:
+  - fig:1
+  basis: Medb says they make little import of him and emphasizes his youth and lack
+    of manhood deeds.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: speaker defending the lad's prowess
+  assigned_to:
+  - fig:2
+  basis: Fergus rejects Medb's claim and states that the lad had already done manful
+    deeds when younger.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: contested young warrior
+  assigned_to:
+  - fig:3
+  basis: The passage evaluates whether the young, beardless male can withstand tried
+    men and whether he has performed manful deeds.
+  evidence_refs:
+  - ev:2
+  - ev:3
+symbols: []
+scenes:
+- id: scene:1
+  label: Medb and Fergus debate the young opponent's prowess
+  summary: Medb dismisses a young male opponent as immature and unlikely to withstand
+    experienced men; Fergus disagrees and cites his earlier manful deeds.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: youthful warrior's prowess disputed by elders
+  taxonomy_refs:
+  - initiation
+  basis: The dialogue turns on whether a young, beardless lad has achieved deeds of
+    manhood and can stand against tried men, with one speaker denying and another
+    affirming his proven prowess.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage is a brief dialogue and does not itself narrate an initiation
+    ordeal; the taxonomy link to initiation is thematic and should be reviewed.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 2755-2757
+  quote_or_summary: Medb says, "We make not much import of him," and adds that he
+    has only a single body and avoids being wounded or taken.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 2757-2760
+  quote_or_summary: Medb says his age is like that of a girl to be wed, that his deeds
+    of manhood have not yet come, and calls him a "young, beardless elf-man."
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 2760-2762
+  quote_or_summary: Fergus replies, "We say not so," and says the lad's deeds were
+    manful when he was younger than now.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward, but motif classification is limited
+    by the short argumentative passage and absence of the youth's name in the supplied
+    text.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not support a specific cross-textual comparison.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:celtic-irish-tain-bo-cualnge-dunn-gutenberg__l2755-l2773
+  passage_sha256=baaf3d76c509d47c9576a18d040f172a5153d6578dfd02d52525825ec116ea82

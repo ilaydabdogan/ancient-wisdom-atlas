@@ -1,0 +1,302 @@
+---
+record_id: batch.motif.celtic-irish-tain-bo-cualnge-dunn-gutenberg-l564-l650
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+passage_locator:
+  label: WITH TWO PAGES IN FACSIMILE OF THE MANUSCRIPTS / MY MOTHER / CONTENTS / PREFACE;
+    lines 564-650
+  start: '564'
+  end: '650'
+  translation: The Ancient Irish Epic Tale Tain Bo Cualnge
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The translator discusses the relationships among Tain manuscript versions,
+    the possibility of lost archetypes and scribal insertions, and explains the choice
+    of the Book of Leinster version as the basis for the translation. The passage
+    gives provenance details for the Book of Leinster, including notes by or concerning
+    Aed son of Crimthann, Finn macGorman, and an admirer of King Dermod, and describes
+    the editorial practice of incorporating conflate readings with footnote controls.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that manuscript versions A, B, and C share enough traits
+    to form a group, but their exact relationships and archetype remain unresolved.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage notes that disappearance of earlier drafts and redactions makes
+    a definite answer about manuscript relationships difficult or possibly impossible.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage allows that a copyist could insert a fabricated passage or episode,
+    or omit part of an original, affecting conclusions about earlier story forms.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The translator chose the Book of Leinster version as the basis for the translation;
+    the manuscript is described as a vellum book associated with Glendalough and kept
+    at Trinity College, Dublin.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage identifies Aed son of Crimthann as a writer and compiler of the
+    Book of Leinster and reports Finn macGorman’s return note to him.
+  category: relationship
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:6
+  text: A later note in the manuscript laments the banishment of King Dermod over
+    the eastern sea.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The translator argues that the Book of Leinster is the oldest complete extant
+    version of the Tain and describes it as uniform, consistent, artistically arranged,
+    colorful, imaginative, and suitable for translation.
+  category: attribute
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The translator says he incorporated conflate readings into the Book of Leinster
+    account and used footnotes to identify sources and distinguish additions from
+    the basic text.
+  category: action
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Aed son of Crimthann
+  description: Named as the person who wrote and compiled the Book of Leinster from
+    many books; also addressed by Finn as tutor, successor, chief historian, and a
+    man of sparkling intellect.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Finn macGorman
+  description: Identified as Bishop of Kildare, who had borrowed the unfinished manuscript
+    and wrote a laudatory return note to Aed.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:3
+  name_or_label: King Dermod macMurrogh
+  description: Identified in explanatory parenthesis as King Dermod macMurrogh; another
+    manuscript note laments Dermod, son of Donnoch macMurrogh, King of Leinster and
+    of the Dublin Danes, being banished eastwards over the sea.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: Unnamed admirer of King Dermod
+  description: Described as a later owner or writer of a note in the Book of Leinster
+    lamenting Dermod’s banishment.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: Translator-editor
+  description: The first-person speaker who chooses the Book of Leinster as the translation
+    basis and describes incorporating conflate readings with footnote controls.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:7
+  - ev:8
+roles:
+- id: role:1
+  label: scribe-compiler
+  assigned_to:
+  - fig:1
+  basis: The passage quotes the manuscript entry saying Aed wrote the book and compiled
+    it from many books.
+  evidence_refs:
+  - ev:4
+- id: role:2
+  label: learned historian
+  assigned_to:
+  - fig:1
+  basis: Finn’s note calls Aed chief historian of Leinster in respect of wisdom, intelligence,
+    cultivation of books, science, and learning.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: bishop and borrower-returner of manuscript
+  assigned_to:
+  - fig:2
+  basis: The passage says Finn macGorman was Bishop of Kildare and returned the unfinished
+    manuscript with a note.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: banished king
+  assigned_to:
+  - fig:3
+  basis: The manuscript note reports Dermod, King of Leinster and of the Dublin Danes,
+    being banished over the sea eastwards.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: lamenting annotator
+  assigned_to:
+  - fig:4
+  basis: The passage infers that a later owner or admirer wrote the lament over Dermod’s
+    banishment.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: editorial selector and compiler of translation
+  assigned_to:
+  - fig:5
+  basis: The speaker explains choosing the Book of Leinster version and incorporating
+    selected conflate readings.
+  evidence_refs:
+  - ev:7
+  - ev:8
+symbols: []
+scenes:
+- id: scene:1
+  label: Unresolved manuscript relationships
+  summary: The passage discusses the shared traits of manuscript versions A, B, and
+    C, the uncertain archetype behind them, and the textual problems caused by lost
+    drafts, scribal insertions, and omissions.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Book of Leinster provenance and scribal notes
+  summary: The passage describes the Book of Leinster’s location, date, partial survival,
+    and internal notes concerning Aed son of Crimthann and Finn macGorman.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Dermod lament note
+  summary: A later manuscript note laments the banishment of Dermod over the eastern
+    sea.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+- id: scene:4
+  label: Editorial basis for translation
+  summary: The translator explains why the Book of Leinster was selected as the translation
+    base and how conflate readings and footnotes are used to present a fuller text.
+  figure_refs:
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 564-573
+  quote_or_summary: Versions A, B, and C are said to share traits placing them together,
+    while their relationship and archetype remain intricate and unresolved because
+    earlier drafts and redactions have disappeared.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 573-582
+  quote_or_summary: The translator notes that copyists may have inserted fabricated
+    passages or episodes, or omitted parts of an original, which could mislead later
+    conclusions about story forms.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 584-590
+  quote_or_summary: The translator chooses the Book of Leinster version as the translation
+    basis and identifies it as a voluminous vellum manuscript, also called the Book
+    of Glendalough, kept at Trinity College, Dublin, and dating from about 1150.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 590-593
+  quote_or_summary: '"Aed son of Crimthann (Hugh macGriffin) hath written this book
+    and out of many books hath he compiled it"'
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; short quotation.
+- id: ev:5
+  type: summary
+  locator: lines 593-614
+  quote_or_summary: Finn macGorman, Bishop of Kildare, is said to have returned the
+    unfinished manuscript to Aed with a laudatory note naming Aed as tutor, successor,
+    chief historian of Leinster, and a learned man; the note asks Aed to complete
+    a tale accurately and lend macLonan’s Songbook.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 616-622
+  quote_or_summary: Another manuscript note is attributed to an admirer of King Dermod
+    and laments that Dermod, son of Donnoch macMurrogh, King of Leinster and the Dublin
+    Danes, was banished over the sea eastwards.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 624-638
+  quote_or_summary: The translator explains choosing the Book of Leinster version
+    because it is the oldest complete extant Tain version and is described as uniform,
+    consistent, artistically arranged, colorful, imaginative, and readily translatable.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 638-650
+  quote_or_summary: The translator describes incorporating conflate readings from
+    sources going back to twelfth-century or earlier redactions and using footnotes
+    to identify sources and distinguish accretions from the basic text.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: uncertain
+  comparison_claims: uncertain
+  notes: The passage is prefatory and textual-critical rather than narrative-mythic.
+    Literal extraction is strong, but no passage-level mythic motif or supported comparison
+    claim is identified.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No symbols, taxonomy motif candidates, or comparison claims were extracted because the passage does not present a mythic episode or an explicit comparative pattern.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:celtic-irish-tain-bo-cualnge-dunn-gutenberg__l564-l650
+  passage_sha256=2d8057ceed5d329e360e204b2528543597d6a53874dc29229bfd76d2f4629ca3

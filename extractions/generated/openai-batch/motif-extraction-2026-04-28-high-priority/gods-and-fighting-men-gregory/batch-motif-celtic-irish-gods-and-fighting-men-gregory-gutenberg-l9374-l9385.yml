@@ -1,0 +1,358 @@
+---
+record_id: batch.motif.celtic-irish-gods-and-fighting-men-gregory-gutenberg-l9374-l9385
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+passage_locator:
+  label: CHAPTER IV. THE HOSPITALITY OF CUANNA'S HOUSE / CHAPTER V. CAT-HEADS AND
+    DOG-HEADS / CHAPTER VI. LOMNA'S HEAD / CHAPTER VII. ILBREC OF ESS RUADH; lines
+    9374-9385
+  start: '9374'
+  end: '9385'
+  translation: Gods and Fighting Men
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'Caoilte and Cascorach say farewell, while Fermaise remains for a time.
+    The people of the hill give Caoilte valuable gifts: a crimson fringed cloak made
+    from wool of seven sheep of the Land of Promise, a fish-hook named Aicil mac Mogha
+    that catches fish wherever set, and a drink of remembrance that preserves all
+    seen places and battles in memory. Caoilte calls the gifts good help from kinsmen
+    and friends. Caoilte and Cascorach leave the hill, and its people lament after
+    them.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Caoilte and Cascorach bid farewell, while Fermaise stays with the people of
+    the hill for a while.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The people of the hill give good gifts to Caoilte.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: One gift is a fringed crimson wool cloak from the seven sheep of the Land
+    of Promise.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: One gift is a fish-hook named Aicil mac Mogha that catches fish in any river
+    or inver where it is set.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: One gift is a drink of remembrance that makes all places seen and battles
+    or fights experienced remain in Caoilte's memory.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Caoilte says the gifts are good help from kinsmen and friends.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Caoilte and Cascorach go out from the hill, and the people of the hill make
+    a great lamentation after them.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Caoilte
+  description: Recipient of gifts from the people of the hill; departs with Cascorach.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: fig:2
+  name_or_label: Cascorach
+  description: Companion who bids farewell and leaves the hill with Caoilte.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: fig:3
+  name_or_label: Fermaise
+  description: Figure who remains with the people of the hill for a while after the
+    farewell.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: people of the hill
+  description: Group who gives gifts to Caoilte and laments after Caoilte and Cascorach
+    depart.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: fig:5
+  name_or_label: seven sheep of the Land of Promise
+  description: Sheep whose wool is the source of the fringed crimson cloak.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: gift recipient
+  assigned_to:
+  - fig:1
+  basis: The people of the hill give good gifts to Caoilte.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: departing companions
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Caoilte and Cascorach leave the hill together.
+  evidence_refs:
+  - ev:6
+- id: role:3
+  label: temporary resident
+  assigned_to:
+  - fig:3
+  basis: Fermaise stays with the people of the hill for a while.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: gift-givers
+  assigned_to:
+  - fig:4
+  basis: The people of the hill give Caoilte multiple gifts.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:5
+  label: lamenting hosts
+  assigned_to:
+  - fig:4
+  basis: The people of the hill make a great lamentation after Caoilte and Cascorach
+    depart.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: source animals for cloak wool
+  assigned_to:
+  - fig:5
+  basis: The cloak is described as wool from the seven sheep of the Land of Promise.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: fringed crimson cloak
+  literal_form: A fringed crimson cloak of wool from seven sheep of the Land of Promise.
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: fish-hook Aicil mac Mogha
+  literal_form: A named fish-hook that catches fish in any river or inver where it
+    is set.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: drink of remembrance
+  literal_form: A drink after which every seen place and every battle or fight remains
+    in memory.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: hill
+  literal_form: The hill from which Caoilte and Cascorach depart and where the people
+    dwell.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: sym:5
+  label: Land of Promise
+  literal_form: Named place associated with the seven sheep whose wool forms the cloak.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Farewell at the hill
+  summary: Caoilte and Cascorach say farewell, and Fermaise remains with the hill
+    people for a while.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Gifts to Caoilte
+  summary: The people of the hill give Caoilte a crimson cloak, a magical fish-hook,
+    and a drink of remembrance.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Departure and lamentation
+  summary: Caoilte and Cascorach leave the hill, and the people of the hill lament
+    after them.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Supernatural or otherworldly hospitality gifts
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The people of the hill give Caoilte extraordinary gifts, including a cloak
+    linked to the Land of Promise, an unfailing fish-hook, and a memory-giving drink.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage describes gift-giving but does not explicitly call it ritual
+    or sacred exchange; the taxonomy link is interpretive.
+- id: motif:2
+  label: Drink conferring perfect remembrance
+  taxonomy_refs:
+  - wisdom
+  basis: The drink of remembrance causes all places seen and battles or fights experienced
+    to remain in Caoilte's memory.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage frames the effect as memory rather than broader wisdom or
+    prophecy.
+- id: motif:3
+  label: Unfailing provisioning implement
+  taxonomy_refs: []
+  basis: The fish-hook named Aicil mac Mogha is said to catch fish in any river or
+    inver where it is set.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: No supplied taxonomy reference directly matches this object motif.
+- id: motif:4
+  label: Lament at departure from other hosts
+  taxonomy_refs:
+  - departure
+  basis: After Caoilte and Cascorach leave the hill, the people of the hill make a
+    great lamentation after them.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage gives a departure scene with lament, but does not elaborate
+    a broader journey structure.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 9374-9376
+  quote_or_summary: Caoilte and Cascorach bid farewell; Fermaise remains with the
+    hill people for a while.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source text; summary generated from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 9376-9379
+  quote_or_summary: The hill people give Caoilte good gifts, including a fringed crimson
+    wool cloak from the seven sheep of the Land of Promise.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source text; summary generated from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 9379-9381
+  quote_or_summary: They give a fish-hook named Aicil mac Mogha that catches fish
+    in any river or inver where it is set.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source text; summary generated from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 9381-9384
+  quote_or_summary: They give a drink of remembrance that keeps every seen place and
+    every battle or fight in the drinker's memory.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source text; summary generated from supplied passage.
+- id: ev:5
+  type: quote
+  locator: lines 9384-9384
+  quote_or_summary: '"That is a good help from kinsmen and from friends," said Caoilte.'
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source text; short quotation from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 9385-9385
+  quote_or_summary: Caoilte and Cascorach go out from the hill, and the people of
+    the hill make a great lamentation after them.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source text; summary generated from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward from the supplied lines. Motif labels
+    are cautious and based only on objects and actions in the passage; no external
+    comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy references were limited to supplied available taxonomy where directly supportable.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:celtic-irish-gods-and-fighting-men-gregory-gutenberg__l9374-l9385
+  passage_sha256=cf137f71a24c7070aa55bbdb1c84f7e5928510bb941bc7613333a7edcd3a5ccb

@@ -1,0 +1,396 @@
+---
+record_id: batch.motif.celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l11964-l11985
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+passage_locator:
+  label: LITERAL TRANSLATION / THE DRIVING OF THE CATTLE OF FLIDAIS / INTRODUCTION
+    / THE DRIVING OF THE CATTLE OF FLIDAIS; lines 11964-11985
+  start: '11964'
+  end: '11985'
+  translation: Heroic Romances of Ireland
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'After the raid, Fergus lives with Flidais and holds lordship in part of
+    Ulster, ruling in Mag I Murthemne and land formerly ruled by Cuchulain. Flidais
+    later dies by the shore of Bali, after which Fergus''s household worsens because
+    his needs had been met from her wealth and bounty. Fergus then goes to Connaught
+    and Croghan, where cattle are promised, but the journey becomes deadly: he is
+    slain in the west by jealous Ailill. The passage closes by saying Flidais''s tale
+    is ended and Cualgne''s Raid now comes.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Fergus dwells with Flidais after the raid and holds a part in lordship over
+    Ulster.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Fergus rules in Mag I Murthemne and wins the land once ruled by Cuchulain,
+    son of Sualtam.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Flidais dies by the shore of Bali.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: After Flidais's death, Fergus's household becomes worse because his requirements
+    had come from her wealth and bounty.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: After his wife is dead, Fergus goes to Connaught and later to Croghan.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Cattle are promised to Fergus, and he intends to bring them home.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The quest to Croghan is called deadly, and Fergus finds death in the west.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Fergus is slain by jealous Ailill.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The passage says Flidais's tale is ended and Cualgne's Raid now comes.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Fergus
+  description: A man who dwells with Flidais, holds lordship, rules lands, later goes
+    to Connaught and Croghan, and is slain by Ailill.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Flidais
+  description: Fergus's wife and source of wealth and bounty; she dies by the shore
+    of Bali.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Cuchulain, Sualtam's son
+  description: Former ruler of land later won by Fergus.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Maev
+  description: A person with whom Fergus stays in Connaught for a while.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Ailill
+  description: A person with whom Fergus stays in Connaught and who later slays Fergus
+    out of jealousy.
+  role_refs:
+  - role:7
+  - role:8
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: lord and ruler
+  assigned_to:
+  - fig:1
+  basis: Fergus holds a part in lordship over Ulster and rules in Mag I Murthemne.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: traveler on a deadly quest
+  assigned_to:
+  - fig:1
+  basis: Fergus goes to Connaught and Croghan, and the quest is described as deadly.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: slain man
+  assigned_to:
+  - fig:1
+  basis: The passage says Fergus was slain and laid low.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: wife
+  assigned_to:
+  - fig:2
+  basis: The passage refers to Fergus's wife being dead in the context of Flidais's
+    prior death.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: benefactor through wealth and bounty
+  assigned_to:
+  - fig:2
+  basis: Fergus's desired goods came from Flidais's wealth and bounty.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: former ruler
+  assigned_to:
+  - fig:3
+  basis: Cuchulain is named as the earlier ruler of land Fergus wins.
+  evidence_refs:
+  - ev:1
+- id: role:7
+  label: Connaught host or companion
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: Fergus stays for a while with Maev and Ailill in Connaught.
+  evidence_refs:
+  - ev:3
+- id: role:8
+  label: jealous slayer
+  assigned_to:
+  - fig:5
+  basis: Ailill is named as the jealous killer of Fergus.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: cattle promised for homeward taking
+  literal_form: kine/cattle
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: wealth and bounty sustaining Fergus
+  literal_form: Flidais's wealth and bounty
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: shore of Bali as place of Flidais's death
+  literal_form: shore of Bali
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: west as place of Fergus's death
+  literal_form: the west
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Fergus's lordship after the raid
+  summary: After the raid, Fergus dwells with Flidais and holds lordship in part of
+    Ulster, ruling Mag I Murthemne and land formerly ruled by Cuchulain.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Death of Flidais and decline of Fergus's household
+  summary: Flidais dies by the shore of Bali; afterward Fergus's household worsens
+    because her wealth and bounty had supplied what he desired.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Fergus's journey to Connaught and Croghan
+  summary: After his wife's death, Fergus goes to Connaught, stays with Maev and Ailill,
+    hears conversation, and is promised cattle to bring home.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Fergus slain in the west
+  summary: The quest to Croghan is described as deadly; Fergus is slain in the west
+    by jealous Ailill.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Transition to Cualgne's Raid
+  summary: The passage closes by ending Flidais's tale and announcing Cualgne's Raid.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Loss of sustaining wife and benefactor brings decline
+  taxonomy_refs: []
+  basis: After Flidais dies, Fergus's household worsens because her wealth and bounty
+    had supplied his needs.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage states material and household decline, but does not elaborate
+    a broader mythic pattern.
+- id: motif:2
+  label: Deadly journey after bereavement
+  taxonomy_refs:
+  - departure
+  basis: After his wife dies, Fergus departs for Connaught and Croghan; the quest
+    is called deadly and ends in his death.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The taxonomy link to departure is limited to the literal act of going;
+    no full departure-return cycle is present.
+- id: motif:3
+  label: Promised cattle connected with a fatal expedition
+  taxonomy_refs: []
+  basis: Cattle are promised to Fergus, and the journey to Croghan where he goes is
+    described as a deadly quest.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage does not specify who promises the cattle or whether the cattle
+    directly cause the death.
+- id: motif:4
+  label: Jealous slaying of a companion or guest
+  taxonomy_refs: []
+  basis: Fergus stays with Maev and Ailill, then is slain by jealous Ailill.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The nature of Ailill's jealousy is not explained in this passage.
+- id: motif:5
+  label: Transfer or acquisition of rulership over former heroic land
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: Fergus holds lordship and rules land formerly ruled by Cuchulain.
+  evidence_refs:
+  - ev:1
+  confidence: low
+  cautions: The passage reports the acquisition of rule but gives no ritual, genealogical,
+    or divine legitimation.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly links the close of Flidais's tale to the beginning
+    of Cualgne's Raid as a narrative transition within the corpus.
+  claim_level: same_function
+  target: Cualgne's Raid
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a textual sequencing claim only; it does not establish a shared
+    motif beyond the passage's explicit transition.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 11964-11968
+  quote_or_summary: Fergus dwells with Flidais after the raid, holds part of Ulster's
+    lordship, rules in Mag I Murthemne, and wins land once ruled by Cuchulain, son
+    of Sualtam.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 11969-11972
+  quote_or_summary: Flidais dies by the shore of Bali; after her death Fergus's household
+    fares worse because his needs had come from her wealth and bounty.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 11974-11980
+  quote_or_summary: After his wife's death, Fergus goes to Connaught, stays with Maev
+    and Ailill, hears conversation, is promised cattle, and plans to bring them home.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 11981-11983
+  quote_or_summary: Fergus goes to Croghan on a deadly quest, finds death in the west,
+    and is slain by jealous Ailill.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: 11984-11985
+  quote_or_summary: "“Flidais' tale is ended: now comes Cualgne's Raid!”"
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; short quotation.
+- id: ev:6
+  type: note
+  locator: FN#92
+  quote_or_summary: The footnote gives the pronunciation of Mag I Murthemne as “Maw
+    Moortemmy.”
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized note.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward. Motif labels are cautious because
+    the passage is a brief transitional conclusion and does not elaborate symbolic
+    or comparative context.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No taxonomy symbol references were assigned because the available symbol list does not directly include cattle, shore, west, wealth, or bounty.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:celtic-irish-heroic-romances-of-ireland-leahy-gutenberg__l11964-l11985
+  passage_sha256=5e1a8d291b466d553d86346285cbc94cb0a31afb1491cc25a9c5b136043b5593

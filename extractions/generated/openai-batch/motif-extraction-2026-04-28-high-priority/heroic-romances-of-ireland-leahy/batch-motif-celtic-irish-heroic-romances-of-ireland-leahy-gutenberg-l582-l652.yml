@@ -1,0 +1,271 @@
+---
+record_id: batch.motif.celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l582-l652
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+passage_locator:
+  label: A. H. LEAHY / IN TWO VOLUMES / VOL. I / PREFACE; lines 582-652
+  start: '582'
+  end: '652'
+  translation: Heroic Romances of Ireland
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Leahy compares versions of the Irish tale of Etain with the longer version
+    of the Sick-bed, discusses love-story and supernatural elements, notes Mider's
+    invitation of Etain to Fairyland and the idea of re-birth, then praises the Combat
+    at the Ford as an account of a struggle between two friends and situates the collection
+    chronologically before several later medieval literary traditions.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The longer version of the Sick-bed is described as having its nearest parallel
+    in the Egerton version of Etain.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Egerton version of Etain is described as a complete stately romance whose
+    keynote is love and whose supernatural element is kept in the background.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Leabhar na h-Uidhri version of Etain is described as presenting the love-story
+    baldly while treating the supernatural material descriptively and poetically.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Leahy suggests that an antiquarian compiler pieced together two romances founded
+    on the same legend by different authors.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The story is said to open in Fairyland, and Mider is said to appear again
+    in the concluding part.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The version is said to have a strong supernatural flavour, an insistence on
+    re-birth, observation of nature, and a poem in which Mider invites Etain to Fairyland.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: The Combat at the Ford is described as an account of a struggle between two
+    friends.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The Combat at the Ford is praised for descriptions, changes in metre, chivalric
+    sentiments, and rapid action.
+  category: attribute
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Etain
+  description: Named figure in the Etain romance; associated with the love-story and
+    with being invited by Mider to Fairyland.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Mider
+  description: Named figure who appears again in the concluding part of the Etain
+    version and invites Etain to Fairyland in a poem.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Cuchulain
+  description: Named in the title Sick-bed of Cuchulain, used as a comparative case
+    in the preface.
+  role_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: two friends in the Combat at the Ford
+  description: Unnamed pair described as friends engaged in a struggle.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: invited figure
+  assigned_to:
+  - fig:1
+  basis: Etain is the one whom Mider invites to Fairyland.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: inviter to Fairyland
+  assigned_to:
+  - fig:2
+  basis: Mider is said to invite Etain to Fairyland in a poem.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: friend-combatants
+  assigned_to:
+  - fig:4
+  basis: The Combat at the Ford is described as a struggle between two friends.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: Fairyland
+  literal_form: Supernatural place called Fairyland
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: ford
+  literal_form: Ford named in the title Combat at the Ford
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Etain framed by Fairyland and Mider's invitation
+  summary: Leahy describes the Etain version as opening in Fairyland, later returning
+    to Mider, and containing a poem in which Mider invites Etain to Fairyland.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Combat at the Ford
+  summary: The passage identifies the Combat at the Ford as an account of a struggle
+    between two friends.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: re-birth in the Etain legend
+  taxonomy_refs:
+  - death_rebirth
+  basis: The passage explicitly says this version of the legend insists on the idea
+    of re-birth.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The preface names the motif but does not narrate the re-birth episode
+    in detail.
+- id: motif:2
+  label: invitation to Fairyland
+  taxonomy_refs:
+  - departure
+  basis: The passage states that Mider invites Etain to Fairyland.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The destination and invitation are explicit, but the passage does not
+    describe whether Etain departs or the full journey pattern.
+- id: motif:3
+  label: friend-against-friend combat
+  taxonomy_refs: []
+  basis: The passage describes the Combat at the Ford as an account of a struggle
+    between two friends.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The preface gives only a critical summary, not the narrative details of
+    the combat.
+- id: motif:4
+  label: love-story with supernatural background
+  taxonomy_refs: []
+  basis: The Egerton Etain version is described as a romance where love is the keynote
+    and the supernatural element remains essential but in the background.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: No specific supernatural love episode is narrated in this passage.
+comparison_claims:
+- id: claim:1
+  claim: The passage identifies the longer version of the Sick-bed as the nearest
+    parallel to the Egerton version of Etain within the Irish romance material under
+    discussion.
+  claim_level: same_motif
+  target: longer version of the Sick-bed and Egerton version of Etain
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The statement is a literary-critical comparison in a preface; the passage
+    does not provide a detailed side-by-side narrative motif analysis.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 582-592
+  quote_or_summary: The longer Sick-bed is called the nearest parallel to the Egerton
+    Etain; the Egerton version is described as a love-centered complete romance with
+    the supernatural kept in the background, while the Leabhar na h-Uidhri version
+    treats love baldly and supernatural material poetically.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summary used.
+- id: ev:2
+  type: summary
+  locator: lines 593-608
+  quote_or_summary: Leahy proposes that two romances on the same legend were pieced
+    together; he notes an opening in Fairyland, Mider's later appearance, a strong
+    supernatural flavour, re-birth, nature observation, and a poem where Mider invites
+    Etain to Fairyland.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summary used.
+- id: ev:3
+  type: summary
+  locator: lines 610-626
+  quote_or_summary: The Combat at the Ford is praised as old Irish work and described
+    as an account of a struggle between two friends, with brilliant descriptions,
+    chivalric sentiments, and rapid action.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summary used.
+- id: ev:4
+  type: summary
+  locator: lines 638-652
+  quote_or_summary: Leahy says the collection, with a possible exception, is in its
+    present form older than the Norman Conquest of Ireland and older than the Norse
+    Sagas, and places it near the beginning of the literature of Modern Europe.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is a critical preface rather than a direct narrative episode,
+    so motif extraction is limited to motifs and narrative patterns explicitly named
+    or summarized by Leahy.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No external sources or unsupported taxonomy mappings were added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:celtic-irish-heroic-romances-of-ireland-leahy-gutenberg__l582-l652
+  passage_sha256=71b7202c7fdc43ebc0a7bcac64786f2dc6fdeb8ee45e5e3f3af8b292ff2c0341

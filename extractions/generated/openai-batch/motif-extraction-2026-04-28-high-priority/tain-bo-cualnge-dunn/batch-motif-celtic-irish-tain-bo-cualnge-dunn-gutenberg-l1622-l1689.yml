@@ -1,0 +1,327 @@
+---
+record_id: batch.motif.celtic-irish-tain-bo-cualnge-dunn-gutenberg-l1622-l1689
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+passage_locator:
+  label: PREFACE / WORKS ON THE TAIN BO CUALNGE / THE PILLOW-TALK / THIS IS THE ROUTE
+    OF THE TAIN; lines 1622-1689
+  start: '1622'
+  end: '1689'
+  translation: The Ancient Irish Epic Tale Tain Bo Cualnge
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: "“On Monday after Summer's end they set forth and proceeded”"
+  summary: The passage gives the route and road-names of the Tain expedition. The
+    hosts of four of the five grand provinces of Erin set out from Cruachan Ai toward
+    Ulster, pass through a long sequence of named places, roads, woods, ridges, streams,
+    and other landmarks, and at Finnabair of Cualnge divide across the province in
+    pursuit of the bull.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage identifies the section as the route of the Tain, the beginning
+    of the expedition, and the names of the roads used by the hosts.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The hosts are described as those of four of the five grand provinces of Erin
+    going into the land of Ulster.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The hosts set forth on Monday after Summer's end.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The itinerary begins south-east from Cruachan Ai and proceeds through a long
+    list of named places and landmarks toward Finnabair of Cualnge.
+  category: action
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: obs:5
+  text: At Slechta, swords are said to have hewed out roads before Medb and Ailill.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: At Finnabair of Cualnge, the hosts of Erin divided over the province in pursuit
+    of the bull.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The passage includes several kinds of landmarks, including loughs, woods,
+    streams, ridges, fields, towns, and trees named as points on the route.
+  category: setting
+  evidence_refs:
+  - ev:3
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: hosts of the four of the five grand provinces of Erin
+  description: The collective hosts who take the roads into Ulster and later divide
+    across the province.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:2
+  name_or_label: Medb
+  description: A named leader before whom roads are hewed by swords at Slechta.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: Ailill
+  description: A named leader before whom roads are hewed by swords at Slechta.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: the bull
+  description: The animal pursued by the hosts after they divide at Finnabair of Cualnge.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: expeditionary host
+  assigned_to:
+  - fig:1
+  basis: The hosts set forth, travel into Ulster, and divide over the province.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: role:2
+  label: leaders preceded by road-clearing
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The passage states that swords hewed out roads before Medb and Ailill.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: pursued animal
+  assigned_to:
+  - fig:4
+  basis: The hosts divide over the province in pursuit of the bull.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: route and roads
+  literal_form: Named roads and itinerary through multiple places from Cruachan Ai
+    toward Finnabair of Cualnge
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:6
+- id: sym:2
+  label: swords clearing roads
+  literal_form: Swords hewing out roads before Medb and Ailill
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: bull
+  literal_form: The bull pursued by the hosts of Erin
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: tree place-names
+  literal_form: The little Eo Dond and the great Eo Dond, translated as Brown Tree
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: water landmarks
+  literal_form: Named water places on the route, including Dubloch, Findglassa Assail,
+    and Dub / Blackwater
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:6
+scenes:
+- id: scene:1
+  label: Opening of the expedition route
+  summary: The hosts of four of the five grand provinces of Erin begin the expedition
+    after Summer's end and take roads into Ulster.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Itinerary through named landmarks
+  summary: The passage lists the course of the expedition from Cruachan Ai through
+    many named places, with directional notes and translated place-name glosses.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: scene:3
+  label: Roads hewed before Medb and Ailill
+  summary: At Slechta, swords are described as hewing out roads before Medb and Ailill.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Division in pursuit of the bull
+  summary: At Finnabair of Cualnge, the hosts of Erin divide over the province in
+    pursuit of the bull.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: departure of an expedition
+  taxonomy_refs:
+  - departure
+  basis: The passage explicitly frames the beginning of the expedition and states
+    that the hosts set forth after Summer's end.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage is primarily an itinerary, not a developed narrative of departure
+    rites or emotional separation.
+- id: motif:2
+  label: quest-like pursuit of a prized animal
+  taxonomy_refs: []
+  basis: The hosts divide over the province in pursuit of the bull after following
+    the route into Ulster.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage names the pursuit of the bull but does not narrate capture,
+    theft, contest, or ritual significance in this excerpt.
+- id: motif:3
+  label: heroic or martial road-making
+  taxonomy_refs: []
+  basis: The passage states that swords hewed out roads before Medb and Ailill.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The wording is brief and may be formulaic or geographical; no further
+    martial action is described in the passage.
+- id: motif:4
+  label: sacred or epic itinerary through named landscape
+  taxonomy_refs: []
+  basis: The passage preserves a long sequence of place-names, directions, and landmark
+    glosses as the formal route of the expedition.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+  confidence: high
+  cautions: No explicit sacred status is assigned to the landscape in this excerpt;
+    the label is limited to the epic itinerary pattern.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1622-1628
+  quote_or_summary: The section is titled as the route of the Tain, the beginning
+    of the expedition, and the names of the roads taken by the hosts of four of the
+    five grand provinces of Erin into Ulster.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:2
+  type: quote
+  locator: lines 1627-1629
+  quote_or_summary: "“On Monday after Summer's end they set forth and proceeded”"
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 1635-1654
+  quote_or_summary: The itinerary begins south-east from Cruachan Ai and proceeds
+    by many named places, including Mag Cruimm, Tuaim Mona, Turloch Teora Crich, Dubloch,
+    Fid Dubh, the Shannon, Tethba, Slechta, and other landmarks.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:4
+  type: quote
+  locator: lines 1649-1651
+  quote_or_summary: "“by Slechta, where swords hewed out roads before Medb and Ailill”"
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 1668-1672
+  quote_or_summary: From Finnabair of Cualnge, the hosts of Erin divided over the
+    province in pursuit of the bull; the passage says they traveled by the listed
+    places until they reached Finnabair.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 1655-1668
+  quote_or_summary: The later portion of the itinerary continues through places such
+    as Ath Gabla, Ardachad, Finnabair, Druim Salfind, Druim Cain, the little and great
+    Eo Dond, Ross Mor, Fid Mor, Colbtha, Crond in Cualnge, and Druim Cain on the road
+    to Midluachar.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summary generated from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The itinerary, named figures, road-clearing detail, and bull pursuit are
+    explicit. Motif labeling beyond departure and pursuit is cautious because the
+    excerpt is mostly a route list.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata. No comparison claims were added because the passage itself does not support a specific comparison to another text or tradition.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:celtic-irish-tain-bo-cualnge-dunn-gutenberg__l1622-l1689
+  passage_sha256=08a58388986630f96302dcac8fd2bc2a26b1dc43dae5b7cb5dd1e2c82b2c72ee

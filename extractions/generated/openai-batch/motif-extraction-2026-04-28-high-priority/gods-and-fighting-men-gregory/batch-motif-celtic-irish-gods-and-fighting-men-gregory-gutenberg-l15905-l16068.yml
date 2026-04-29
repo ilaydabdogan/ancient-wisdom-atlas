@@ -1,0 +1,176 @@
+---
+record_id: batch.motif.celtic-irish-gods-and-fighting-men-gregory-gutenberg-l15905-l16068
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+passage_locator:
+  label: THE EVER-LIVING LIVING ONES / PART TWO. THE FIANNA / IV. THE PRONUNCIATION
+    / V. THE PLACE NAMES; lines 15905-16068
+  start: '15905'
+  end: '16068'
+  translation: Gods and Fighting Men
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A place-name glossary maps Irish names used in the work to modern or geographic
+    locations, including rivers, lakes, mountains, hills, islands, counties, and battle-associated
+    sites.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is headed as a section on place names and consists of entries
+    pairing names with geographic identifications.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The list includes many water features, including rivers, lochs, waves, bays,
+    and coastal inlets.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The list includes many upland or mountain features, including hills, cnocs,
+    beinns, and slieves.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: One entry identifies Magh Tuireadh with Moytura near Sligo as the scene of
+    a great battle and Moytura near Cong as the scene of a first battle.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The list includes island and offshore locations, including Tory Island, Muckinish,
+    and islands in Clew Bay.
+  category: setting
+  evidence_refs:
+  - ev:5
+figures: []
+roles: []
+symbols:
+- id: sym:1
+  label: Water places
+  literal_form: Rivers, lochs, waves, bays, and coastal waters named in the glossary
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: Mountain and hill places
+  literal_form: Mountains, hills, cnocs, beinns, paps, and slieves named in the glossary
+  associated_figures: []
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: Battle-place name
+  literal_form: Magh Tuireadh / Moytura identified as battle scenes
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: Island and offshore places
+  literal_form: Island of Toraig, Muc-inis, and the Islands of Mod
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Place-name catalogue
+  summary: The passage catalogues Irish place names and identifies their corresponding
+    modern locations or geographic descriptions.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: scene:2
+  label: Magh Tuireadh as battle landscape
+  summary: Within the glossary, Magh Tuireadh is identified with Moytura near Sligo
+    and Moytura near Cong, with the entries noting battle associations.
+  figure_refs: []
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Mythic geography preserved in place-name catalogue
+  taxonomy_refs: []
+  basis: The passage maps names from the narrative tradition onto specific Irish landscapes
+    and includes at least one site identified by battle associations.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: medium
+  cautions: This is a glossary rather than a narrative episode; the motif label describes
+    a place-name pattern, not an enacted mythic event.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 15905-16068
+  quote_or_summary: The section titled “V. THE PLACE NAMES” lists Irish place names
+    and gives corresponding modern or geographic identifications.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 15905-16068; entries including Banna, Boinn, Loch Eirne, Sionnan,
+    Cliodna's Wave, Wave of Rudraighe
+  quote_or_summary: Several entries identify named waters such as rivers, lochs, waves,
+    and bays.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 15905-16068; entries including Beinn Gulbain, Cnoc Aine, Hill of
+    Uisnech, Paps of Dana, Slieve Echtge, Slieve Mis
+  quote_or_summary: Several entries identify named uplands, hills, and mountains.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 15905-16068; entry for Magh Tuireadh
+  quote_or_summary: "“Magh Tuireadh Moytura near Sligo, scene of great battle, and
+    Moytura, near Cong, scene of first battle.”"
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:5
+  type: summary
+  locator: lines 15905-16068; entries including Island of Toraig, Muc-inis, The Islands
+    of Mod
+  quote_or_summary: The glossary includes island and offshore locations such as Tory
+    Island, Muckinish, and islands in Clew Bay.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal extraction is straightforward because the passage is a glossary.
+    Motif extraction is limited because there is no narrative action, only place-name
+    mapping and brief battle-site notes.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No figures or roles were extracted because the passage does not describe characters or actions beyond place-name identifications.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:celtic-irish-gods-and-fighting-men-gregory-gutenberg__l15905-l16068
+  passage_sha256=71e0e83b98d366ff81e196b8de09128c76cc9ef448e192ff552ba670587c41e4

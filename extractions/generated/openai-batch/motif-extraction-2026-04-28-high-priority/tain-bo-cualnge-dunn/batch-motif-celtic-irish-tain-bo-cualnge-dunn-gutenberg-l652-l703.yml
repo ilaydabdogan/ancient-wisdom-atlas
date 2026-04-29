@@ -1,0 +1,218 @@
+---
+record_id: batch.motif.celtic-irish-tain-bo-cualnge-dunn-gutenberg-l652-l703
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+passage_locator:
+  label: WITH TWO PAGES IN FACSIMILE OF THE MANUSCRIPTS / MY MOTHER / CONTENTS / PREFACE;
+    lines 652-703
+  start: '652'
+  end: '703'
+  translation: The Ancient Irish Epic Tale Tain Bo Cualnge
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The translator explains his principles for rendering the Old Irish Tain
+    Bo Cualnge into English, emphasizing faithful sense, exactness, archaic atmosphere,
+    and preservation of formal features. He describes the text as mainly prose with
+    verse passages and a third speech form called rosc, and explains his method for
+    distinguishing verse in translation.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The prefatory speaker states that a translator should generally aim at a faithful
+    rather than a literal version.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The prefatory speaker says that, for Old Irish translation, exactness in rendering
+    must currently take priority over elegance, though not at the cost of distorting
+    English idiom.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The prefatory speaker reports using deliberately archaic English to better
+    match the subject and atmosphere of the original.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The prefatory speaker values preservation of archaisms, repetitions, crudities,
+    and unattenuated grossness of speech in the translated text.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The Tain Bo Cualnge is described as chiefly prose but interspersed with verse.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage describes a third speech form, neither prose nor verse, known
+    to native Irish scholars as rosc and marked in manuscripts by the abbreviation
+    R.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Rosc is described as used for short, impetuous outbursts on occasions of triumph
+    or mourning.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The translator says he distinguishes verse from prose by arranging verse passages
+    into lines of the same syllabic length as the original, often seven syllables,
+    without imitating rhyme-system or alliteration.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: prefatory translator
+  description: The first-person speaker who explains translation principles and methods
+    for this English rendering of the Old Irish text.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: native Irish scholars
+  description: A group identified as knowing the third form of speech as rosc and
+    marking it in manuscripts with the abbreviation R.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: reader or student of the translation
+  description: The anticipated audience whose experience of the translation and its
+    formal distinctions is discussed.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+roles:
+- id: role:1
+  label: translator explaining method
+  assigned_to:
+  - fig:1
+  basis: The speaker describes aims, priorities, and concrete translation practices.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: role:2
+  label: scholarly classifiers of rosc
+  assigned_to:
+  - fig:2
+  basis: The passage says native Irish scholars knew this speech form as rosc and
+    marked it in manuscripts.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: intended readership
+  assigned_to:
+  - fig:3
+  basis: The passage refers to what the reader or student gains or would experience
+    from the translation.
+  evidence_refs:
+  - ev:2
+  - ev:4
+symbols: []
+scenes:
+- id: scene:1
+  label: Translator’s statement of principles
+  summary: The translator explains the preference for faithful sense, exactness, archaic
+    style, and retention of the original’s atmosphere and rough features.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Description of literary forms in the Tain
+  summary: The passage describes the Tain as a mixture of prose and verse, identifies
+    rosc as a third form of speech, and explains how verse passages are represented
+    in translation.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs: []
+comparison_claims:
+- id: claim:1
+  claim: The passage cautiously likens rosc to dithyrambic passages in the Old Testament
+    as a comparable kind of heightened speech.
+  claim_level: linguistic_similarity
+  target: dithyrambic passages in the Old Testament
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage says only that rosc resembles these passages 'in a way';
+    it does not establish shared origin, direct influence, or identity of function
+    beyond broad formal resemblance.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 652-665
+  quote_or_summary: The translator says faithful rendering is generally preferable
+    to literal rendering, but Old Irish translation currently requires exactness over
+    elegance while avoiding distortion of English idiom.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 666-681
+  quote_or_summary: The translator says he keeps close to the sense and form of the
+    original, uses deliberately archaic English, and preserves archaisms, repetitions,
+    crudities, and grossness of speech as part of the saga setting.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 682-695
+  quote_or_summary: The Tain is described as mostly prose with verse; another form,
+    rosc, is neither prose nor verse, rich in sound-patterning, marked R in manuscripts,
+    and used in impetuous outbursts of triumph or mourning.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 696-703
+  quote_or_summary: The translator explains that he avoids a uniform prose translation
+    and renders verse passages in lines matching the original syllabic length, often
+    seven syllables, without reproducing rhyme or alliteration.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: medium
+  notes: The passage is prefatory and technical rather than mythic narrative, so no
+    mythic symbols or motif-family candidates are extracted. The only comparison claim
+    is the passage’s own cautious formal comparison between rosc and Old Testament
+    dithyrambic passages.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No available taxonomy motif or symbol refs were applied because the passage does not narrate mythic events or present the listed symbolic objects.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:celtic-irish-tain-bo-cualnge-dunn-gutenberg__l652-l703
+  passage_sha256=90496e8a8f1d1b004cce80d0efbf8d26f2b20316511741780097f35228a57533

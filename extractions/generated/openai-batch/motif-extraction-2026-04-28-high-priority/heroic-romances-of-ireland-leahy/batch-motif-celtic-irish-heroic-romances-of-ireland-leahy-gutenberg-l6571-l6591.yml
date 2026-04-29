@@ -1,0 +1,206 @@
+---
+record_id: batch.motif.celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l6571-l6591
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+passage_locator:
+  label: PAGE 8 / PAGE 9 / PAGE 10 / PAGE 11; lines 6571-6591
+  start: '6571'
+  end: '6591'
+  translation: Heroic Romances of Ireland
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A literal translation of a quatrain says that Fuamnach, wife of Mider,
+    was ignorant; Sigmall and Bri with its trees in Bri Leth underwent a full trial
+    and were burned by means of Manannan. Editorial notes state that “Labraid the
+    Tracker” is a doubtful rendering of Labradae Luircc, and that a phrase translated
+    as seeking full knowledge has an Irish grammatical difficulty.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Fuamnach is identified as the wife of Mider and described as ignorant.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Sigmall and Bri, with its trees, are located in Bri Leth in the quatrain’s
+    wording.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Sigmall and Bri with its trees are described as undergoing a full trial and
+    being burned by means of Manannan.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The editor states that “Labraid the Tracker” is a very doubtful rendering
+    and gives the Irish text as Labradae Luircc.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The editor notes a grammatical difficulty in the Irish phrase co fessta and
+    suggests alternate forms that would mean that he or they might know.
+  category: other
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Fuamnach
+  description: Named as the wife of Mider and described as ignorant.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Mider
+  description: Named as Fuamnach’s husband.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Manannan
+  description: Named as the means or agent by whom the burning occurred.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Labraid the Tracker / Labradae Luircc
+  description: A name or rendering discussed in an editorial note as doubtful.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: wife described as ignorant
+  assigned_to:
+  - fig:1
+  basis: The quatrain calls Fuamnach the wife of Mider and says she was ignorant.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: husband named in relation
+  assigned_to:
+  - fig:2
+  basis: Mider is named only through the phrase identifying Fuamnach as his wife.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: agent or means of burning
+  assigned_to:
+  - fig:3
+  basis: The quatrain says the burning happened by means of Manannan.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: doubtfully rendered named figure
+  assigned_to:
+  - fig:4
+  basis: The note treats “Labraid the Tracker” as a doubtful rendering of Labradae
+    Luircc.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: fire / burning
+  literal_form: burned
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: trees
+  literal_form: trees in Bri Leth
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Quatrain on Fuamnach and the burning in Bri Leth
+  summary: The quatrain identifies Fuamnach as wife of Mider, names Sigmall and Bri
+    with its trees in Bri Leth, and says they were burned by means of Manannan after
+    a full trial.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Editorial notes on uncertain translation
+  summary: The editor flags uncertainty about the rendering “Labraid the Tracker”
+    and about the Irish grammar behind a phrase concerning knowledge.
+  figure_refs:
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Burning associated with trial or judgment
+  taxonomy_refs: []
+  basis: The quatrain links a “full trial” with Sigmall and Bri with its trees being
+    burned by means of Manannan.
+  evidence_refs:
+  - ev:1
+  confidence: low
+  cautions: The passage is a literal translation of a compressed quatrain; it does
+    not explain the nature of the trial, the cause of the burning, or Manannan’s exact
+    role.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 6571-6578 / PAGE 10
+  quote_or_summary: 'Literal translation of a quatrain: Fuamnach, wife of Mider, is
+    called ignorant; Sigmall and Bri with its trees in Bri Leth are said to have been
+    a full trial and to have been burned by means of Manannan.'
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 6582-6584 / PAGE 11, Line 5 note
+  quote_or_summary: "“Labraid the Tracker.” This is described as a very doubtful rendering;
+    the text gives Labradae Luircc."
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:3
+  type: summary
+  locator: lines 6586-6591 / PAGE 11, Line 25 note
+  quote_or_summary: The editor says the Irish phrase co fessta is grammatically problematic
+    and suggests forms meaning that he or they might know.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: Named figures and literal observations are extractable, but the quatrain
+    is compressed and the surrounding editorial notes emphasize translation uncertainty.
+    Motif identification is therefore tentative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not support a specific cross-textual comparison.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:celtic-irish-heroic-romances-of-ireland-leahy-gutenberg__l6571-l6591
+  passage_sha256=c6889e01678e4289a38832b0bca4793a68a65de8ee5cf08f95dcd18ea526c3c4

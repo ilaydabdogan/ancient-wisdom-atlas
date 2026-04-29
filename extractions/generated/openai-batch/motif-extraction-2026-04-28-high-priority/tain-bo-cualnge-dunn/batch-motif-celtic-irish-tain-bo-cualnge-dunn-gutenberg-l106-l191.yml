@@ -1,0 +1,319 @@
+---
+record_id: batch.motif.celtic-irish-tain-bo-cualnge-dunn-gutenberg-l106-l191
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+passage_locator:
+  label: TAIN BO CUALNGE / WITH TWO PAGES IN FACSIMILE OF THE MANUSCRIPTS / MY MOTHER
+    / CONTENTS; lines 106-191
+  start: '106'
+  end: '191'
+  translation: The Ancient Irish Epic Tale Tain Bo Cualnge
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Front matter consisting of a dedication, notices of manuscript facsimile
+    illustrations, and a table of contents listing chapters and subsection titles
+    for the Tain Bo Cualnge, including entries about Cuchulain, the Morrigan, combats,
+    slayings, rivers, battles, bulls, and the Brown Bull of Cualnge.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage includes a dedication headed “MY MOTHER.”
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage identifies facsimile illustrations from the Book of Leinster and
+    from Leabhar na h-Uidhri.
+  category: object
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: obs:3
+  text: The passage is primarily a table of contents for chapters and subsections
+    of the Tain Bo Cualnge.
+  category: other
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: obs:4
+  text: Multiple contents entries name Cuchulain in connection with youthful exploits,
+    slayings, combats, an appearance, and rivers.
+  category: relationship
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: obs:5
+  text: The contents list includes entries naming the Morrigan in a colloquy with
+    Cuchulain and in a healing episode.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The contents list includes entries concerning the finding of a bull, a battle
+    of bulls, and an account of the Brown Bull of Cualnge.
+  category: object
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: obs:7
+  text: The contents list repeatedly uses titles involving combat, slaying, slaughter,
+    rout, and battle.
+  category: action
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: obs:8
+  text: One contents entry is titled “Cuchulain and the Rivers.”
+  category: setting
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Cuchulain
+  description: Named repeatedly in contents entries involving youthful exploits, slayings,
+    combats, an appearance, and rivers.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: The Morrigan
+  description: Named in contents entries for a colloquy with Cuchulain and for healing.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: Brown Bull of Cualnge
+  description: Named in a contents entry titled as an account of the Brown Bull of
+    Cualnge.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: Men of Connacht
+  description: Named in a contents entry about their rising-out at Cruachan Ai.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Youths of Ulster
+  description: Named in a contents entry about their slaughter.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: named recurring combat figure
+  assigned_to:
+  - fig:1
+  basis: Cuchulain is named across multiple contents entries involving exploits, slayings,
+    combats, and an appearance.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:2
+  label: named interlocutor and healed figure
+  assigned_to:
+  - fig:2
+  basis: The contents list includes a colloquy of the Morrigan and Cuchulain and a
+    healing of the Morrigan.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: named bull figure
+  assigned_to:
+  - fig:3
+  basis: The contents list includes an account of the Brown Bull of Cualnge and a
+    battle of the bulls.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: named host or collective group
+  assigned_to:
+  - fig:4
+  basis: The contents list includes the rising-out of the Men of Connacht at Cruachan
+    Ai.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: named victim group in contents title
+  assigned_to:
+  - fig:5
+  basis: The contents list includes the slaughter of the Youths of Ulster.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: bull
+  literal_form: bull; Brown Bull of Cualnge
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:2
+  label: rivers
+  literal_form: rivers
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: scythed chariot
+  literal_form: scythed chariot
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Front matter and manuscript facsimiles
+  summary: The passage presents a dedication and identifies two facsimile illustrations
+    from named manuscripts.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: scene:2
+  label: Contents overview of the Tain
+  summary: The contents list chapter titles and subsections, including the occasion
+    and route of the Tain, the march of the host, Cuchulain’s youthful exploits, named
+    slayings and combats, the finding of the bull, episodes with the Morrigan, battles,
+    rivers, and the Brown Bull of Cualnge.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: recurring heroic combats and slayings
+  taxonomy_refs: []
+  basis: The contents list repeatedly names combats, slayings, slaughter, rout, and
+    battles, often involving Cuchulain.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: This passage is a table of contents, not a narrative episode; it supports
+    only a high-level contents-based motif candidate.
+- id: motif:2
+  label: bull-centered conflict
+  taxonomy_refs: []
+  basis: The contents list includes the finding of the bull, the battle of the bulls,
+    and the account of the Brown Bull of Cualnge.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The passage provides titles only and does not narrate the bull episodes.
+- id: motif:3
+  label: water or river encounter
+  taxonomy_refs: []
+  basis: One contents entry is titled “Cuchulain and the Rivers.”
+  evidence_refs:
+  - ev:5
+  confidence: low
+  cautions: The title does not describe what occurs with the rivers; the associated
+    water symbol is therefore minimal and literal.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 106-116
+  quote_or_summary: The passage begins with the dedication “MY MOTHER” and a facsimile
+    notice for page 55 from the Book of Leinster.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 117-129
+  quote_or_summary: 'The contents list includes the preface and early chapters: the
+    Pillow-talk, the Occasion of the Tain, the Rising-out of the Men of Connacht,
+    the Foretelling, the Route, the March of the Host, and the Youthful Exploits of
+    Cuchulain.'
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 130-151
+  quote_or_summary: The contents list includes Cuchulain’s slaying of the smith’s
+    hound, taking of arms, slayings of named opponents, combats, harrying, proposals,
+    violent death, finding of the bull, and the meeting of Cuchulain and Finnabair.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 152-166
+  quote_or_summary: The contents list includes the colloquy of the Morrigan and Cuchulain,
+    combat and slaying of Loch, violation of the agreement, healing of the Morrigan,
+    a great rout, slaughter of the youths of Ulster, the scythed chariot, and the
+    appearance of Cuchulain.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: lines 167-184
+  quote_or_summary: The contents list includes later combats, Cuchulain and the Rivers,
+    bloody wounds, deer-stalking, repeated warning, array of the host, decision and
+    battle, muster of the men of Erin, battle of the bulls, and account of the Brown
+    Bull of Cualnge.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:6
+  type: summary
+  locator: lines 185-191
+  quote_or_summary: The passage closes this range with a facsimile notice for page
+    55 from Leabhar na h-Uidhri.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: The passage is front matter and a contents list, so named figures, objects,
+    and recurring episode-types can be extracted literally, but narrative motif interpretation
+    is limited.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not support comparison beyond its own contents titles.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:celtic-irish-tain-bo-cualnge-dunn-gutenberg__l106-l191
+  passage_sha256=c75961731858c67b1875a02ca00133bfa10403674c9ac262fe567b77a7ca34c9

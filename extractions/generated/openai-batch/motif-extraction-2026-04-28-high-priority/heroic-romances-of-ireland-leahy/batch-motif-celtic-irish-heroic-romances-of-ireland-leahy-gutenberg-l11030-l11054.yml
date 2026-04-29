@@ -1,0 +1,174 @@
+---
+record_id: batch.motif.celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l11030-l11054
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+passage_locator:
+  label: THE RAID FOR DARTAID'S CATTLE / LITERAL TRANSLATION / THE RAID FOR THE CATTLE
+    OF REGAMON / INTRODUCTION; lines 11030-11054
+  start: '11030'
+  end: '11054'
+  translation: Heroic Romances of Ireland
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: there is not even a hint of the super-natural; the story contains no slaughter
+  summary: The introduction describes manuscript witnesses and editorial choices for
+    'The Raid for the Cattle of Regamon,' then characterizes the tale as non-tragic,
+    non-supernatural, without slaughter, involving youthful raiders, and ending well.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage states that two versions of the tale come from the Yellow Book
+    of Lecan and Egerton MS. 1782.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that the Yellow Book version is more legible, older, and
+    somewhat fuller, and that the prose rendering follows it with one addition from
+    the Egerton manuscript.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage states that the tale is unlike romances described as tragic in
+    character.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage states that the tale contains no hint of the supernatural and
+    no slaughter.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage states that the youthful raiders seem to be regarded as quite
+    irresponsible persons.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage states that the tale has what is called a good ending.
+  category: attribute
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: youthful raiders
+  description: A collective group described as youthful raiders who seem to be treated
+    as irresponsible persons.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: youthful raiders
+  assigned_to:
+  - fig:1
+  basis: The introduction explicitly calls them youthful raiders and says they are
+    regarded as irresponsible.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: cattle as object of raid
+  literal_form: cattle
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:4
+scenes:
+- id: scene:1
+  label: Introductory characterization of a cattle raid tale
+  summary: The introduction frames the tale as a cattle raid story involving youthful
+    raiders, with no supernatural element, no slaughter, and a good ending.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: cattle raid by youthful raiders
+  taxonomy_refs: []
+  basis: The title identifies a raid for cattle, and the introduction characterizes
+    the actors as youthful raiders.
+  evidence_refs:
+  - ev:5
+  - ev:4
+  confidence: high
+  cautions: The passage is an introduction rather than a narrative episode, so details
+    of the raid itself are not present.
+- id: motif:2
+  label: non-supernatural, non-lethal raid with good ending
+  taxonomy_refs: []
+  basis: The passage emphasizes that the tale has no supernatural element, no slaughter,
+    and a good ending.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: This is an editorial characterization of the whole tale, not a direct
+    scene from the story.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 11030-11038
+  quote_or_summary: Two versions of the tale are said to come from the Yellow Book
+    of Lecan and Egerton MS. 1782.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 11038-11047
+  quote_or_summary: The Yellow Book version is described as more legible, older, and
+    fuller; the prose rendering follows it, with one addition from the Egerton manuscript.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 11048-11052
+  quote_or_summary: '"there is not even a hint of the super-natural; the story contains
+    no slaughter"'
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:4
+  type: summary
+  locator: lines 11052-11054
+  quote_or_summary: The youthful raiders are described as seemingly irresponsible,
+    and the whole is said to have a good ending.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: citation
+  locator: line 11030
+  quote_or_summary: 'Title: The Raid for the Cattle of Regamon.'
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; cited.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is primarily an editorial introduction. Motif candidates are
+    based on the title and the introduction's explicit characterization, not on detailed
+    narrative action.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No taxonomy motif family was assigned because the available taxonomy does not include a precise cattle-raid or comic-raid category, and the passage does not support treating the cattle raid as sacred theft.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:celtic-irish-heroic-romances-of-ireland-leahy-gutenberg__l11030-l11054
+  passage_sha256=afac6d5283e56a50ec0c0dbfa8c2ba8ea84b474c9e1e5ac42b6af6fa232c9f2c

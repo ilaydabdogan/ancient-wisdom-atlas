@@ -10,70 +10,20 @@ summary:
   text_count: 58
   texts_with_extractions: 58
   texts_without_extractions: 0
-  texts_needing_full_extraction: 33
+  texts_needing_full_extraction: 31
   texts_needing_review_or_normalization: 58
-  extraction_record_count: 2714
-  candidate_motif_count: 12544
-  taxonomy_ref_count: 10818
-  comparison_claim_count: 2809
+  extraction_record_count: 3114
+  candidate_motif_count: 14303
+  taxonomy_ref_count: 11577
+  comparison_claim_count: 2980
   status_counts:
-    dense_draft: 25
+    dense_draft: 27
     developing: 16
-    thin: 17
+    thin: 15
   priority_counts:
-    high: 17
-    medium: 41
+    high: 15
+    medium: 43
 texts:
-- source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
-  source_text_id: celtic_irish.heroic_romances_of_ireland.leahy_gutenberg
-  title: Heroic Romances of Ireland
-  tradition: celtic_irish
-  culture: medieval_irish_later_translation
-  region: ireland
-  date_range: medieval Irish narrative material; 1905-1906 public-domain English translation
-  word_count: 101978
-  target_extraction_records: 26
-  coverage_ratio: 0.077
-  status: thin
-  priority: high
-  needs_full_extraction: true
-  needs_review_or_normalization: true
-  extraction_record_count: 2
-  generated_record_count: 0
-  needs_review_count: 2
-  reviewed_count: 0
-  candidate_motif_count: 6
-  taxonomy_ref_count: 3
-  comparison_claim_count: 4
-  empty_motif_record_count: 0
-  extraction_paths:
-  - extractions/celtic-irish/project-gutenberg/heroic-romances-of-ireland/heroic-romances-of-ireland-cuchulain-morrigan-apparition.yml
-  - extractions/celtic-irish/project-gutenberg/heroic-romances-of-ireland/heroic-romances-of-ireland-etain-transformation-rebirth.yml
-- source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
-  source_text_id: celtic_irish.tain_bo_cualnge.dunn_gutenberg
-  title: The Ancient Irish Epic Tale Tain Bo Cualnge
-  tradition: celtic_irish
-  culture: ulster_cycle_irish_epic_later_translation
-  region: ireland
-  date_range: medieval Irish epic source tradition; 1914 public-domain English translation
-  word_count: 124110
-  target_extraction_records: 32
-  coverage_ratio: 0.063
-  status: thin
-  priority: high
-  needs_full_extraction: true
-  needs_review_or_normalization: true
-  extraction_record_count: 2
-  generated_record_count: 0
-  needs_review_count: 2
-  reviewed_count: 0
-  candidate_motif_count: 6
-  taxonomy_ref_count: 2
-  comparison_claim_count: 4
-  empty_motif_record_count: 0
-  extraction_paths:
-  - extractions/celtic-irish/project-gutenberg/tain-bo-cualnge/tain-bo-cualnge-medb-bull-raid-catalyst.yml
-  - extractions/celtic-irish/project-gutenberg/tain-bo-cualnge/tain-bo-cualnge-setanta-cuchulain-naming.yml
 - source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
   source_text_id: celtic_welsh.mabinogion.guest_gutenberg
   title: The Mabinogion
@@ -1305,30 +1255,102 @@ texts:
   date_range: medieval Irish mythic material; 1905 public-domain English retelling
   word_count: 171517
   target_extraction_records: 40
-  coverage_ratio: 1.4
+  coverage_ratio: 5.0
   status: dense_draft
   priority: medium
   needs_full_extraction: false
   needs_review_or_normalization: true
-  extraction_record_count: 56
-  generated_record_count: 54
-  needs_review_count: 56
+  extraction_record_count: 200
+  generated_record_count: 198
+  needs_review_count: 200
   reviewed_count: 0
-  candidate_motif_count: 310
-  taxonomy_ref_count: 252
-  comparison_claim_count: 20
-  empty_motif_record_count: 1
+  candidate_motif_count: 1040
+  taxonomy_ref_count: 657
+  comparison_claim_count: 54
+  empty_motif_record_count: 3
   extraction_paths:
   - extractions/celtic-irish/project-gutenberg/gods-and-fighting-men/gods-and-fighting-men-oisin-country-of-young.yml
   - extractions/celtic-irish/project-gutenberg/gods-and-fighting-men/gods-and-fighting-men-tuatha-four-treasures.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l100-l191.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l10074-l10174.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l10176-l10193.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l10196-l10295.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l10297-l10305.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l10308-l10401.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l10403-l10462.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l10465-l10539.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l10542-l10615.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l10618-l10723.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l1071-l1086.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l10725-l10807.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l10809-l10863.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l10866-l10961.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l1089-l1182.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l10963-l11051.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l11053-l11154.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l11156-l11258.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l11260-l11269.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l11272-l11333.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l11336-l11426.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l11428-l11494.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l11496-l11554.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l11557-l11655.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l11657-l11730.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l11733-l11826.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l11828-l11918.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l1184-l1265.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l11920-l12019.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l12021-l12052.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l12055-l12156.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l12158-l12249.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l12251-l12323.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l12325-l12415.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l12417-l12432.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l12435-l12549.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l12552-l12675.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l1267-l1358.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l12677-l12685.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l12688-l12798.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l12801-l12890.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l12892-l12983.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l12985-l13086.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l13088-l13146.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l13149-l13246.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l13249-l13366.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l13368-l13481.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l13484-l13582.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l13584-l13678.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l1361-l1459.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l13680-l13694.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l13697-l13784.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l13786-l13882.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l13885-l13960.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l13963-l14068.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l14070-l14133.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l14136-l14161.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l14164-l14263.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l14266-l14358.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l14361-l14452.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l14454-l14544.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l14547-l14650.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l1461-l1563.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l14653-l14791.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l14793-l14932.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l14934-l15070.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l15072-l15088.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l15091-l15228.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l15230-l15250.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l15253-l15337.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l15340-l15432.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l15434-l15521.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l15523-l15540.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l15543-l15553.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l15556-l15585.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l15588-l15630.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l15633-l15803.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l1565-l1661.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l15806-l15902.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l15905-l16068.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l1663-l1764.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l1766-l1882.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l1884-l1986.yml
@@ -1364,17 +1386,395 @@ texts:
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l419-l501.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l4222-l4255.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l4258-l4356.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l4358-l4447.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l4450-l4532.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l4535-l4606.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l4609-l4694.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l4696-l4784.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l4786-l4887.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l4889-l4898.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l4901-l5032.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l503-l544.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l5034-l5139.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l5141-l5243.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l5245-l5360.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l5362-l5475.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l546-l580.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l5477-l5602.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l5604-l5666.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l5669-l5774.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l5776-l5886.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l582-l600.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l5888-l5976.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l5978-l5995.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l5998-l6089.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l603-l620.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l6092-l6153.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l6156-l6247.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l622-l645.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l6249-l6275.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l6278-l6377.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l6379-l6462.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l6464-l6554.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l648-l746.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l6557-l6658.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l6660-l6711.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l6714-l6821.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l68-l98.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l6823-l6842.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l6845-l6937.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l6939-l7029.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l7031-l7051.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l7054-l7083.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l7086-l7130.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l7133-l7235.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l7238-l7298.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l7301-l7359.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l7362-l7455.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l7458-l7504.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l748-l839.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l7507-l7589.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l7591-l7650.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l7653-l7737.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l7740-l7821.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l7824-l7919.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l7921-l7957.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l7960-l8038.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l8041-l8132.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l8134-l8219.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l8221-l8261.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l8264-l8358.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l8361-l8449.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l841-l858.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l8452-l8536.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l8539-l8634.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l861-l964.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l8636-l8735.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l8737-l8837.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l8840-l8921.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l8923-l8946.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l8949-l9047.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l9050-l9097.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l9100-l9185.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l9187-l9273.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l9275-l9372.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l9374-l9385.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l9388-l9467.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l9470-l9543.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l9545-l9644.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l9646-l9708.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l966-l1069.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l9711-l9745.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l9748-l9800.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l9803-l9904.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l9906-l9957.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/gods-and-fighting-men-gregory/batch-motif-celtic-irish-gods-and-fighting-men-gregory-gutenberg-l9960-l10071.yml
+- source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  source_text_id: celtic_irish.heroic_romances_of_ireland.leahy_gutenberg
+  title: Heroic Romances of Ireland
+  tradition: celtic_irish
+  culture: medieval_irish_later_translation
+  region: ireland
+  date_range: medieval Irish narrative material; 1905-1906 public-domain English translation
+  word_count: 101978
+  target_extraction_records: 26
+  coverage_ratio: 6.231
+  status: dense_draft
+  priority: medium
+  needs_full_extraction: false
+  needs_review_or_normalization: true
+  extraction_record_count: 162
+  generated_record_count: 160
+  needs_review_count: 162
+  reviewed_count: 0
+  candidate_motif_count: 607
+  taxonomy_ref_count: 252
+  comparison_claim_count: 120
+  empty_motif_record_count: 15
+  extraction_paths:
+  - extractions/celtic-irish/project-gutenberg/heroic-romances-of-ireland/heroic-romances-of-ireland-cuchulain-morrigan-apparition.yml
+  - extractions/celtic-irish/project-gutenberg/heroic-romances-of-ireland/heroic-romances-of-ireland-etain-transformation-rebirth.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l10095-l10225.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l10227-l10274.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l10277-l10425.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l1029-l1131.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l10427-l10468.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l10471-l10576.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l10579-l10614.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l10617-l10737.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l10739-l10807.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l10810-l10928.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l10930-l11027.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l11030-l11054.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l11057-l11194.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l11196-l11299.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l11302-l11422.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l1134-l1161.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l11425-l11461.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l11464-l11571.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l11573-l11656.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l1164-l1257.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l11659-l11807.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l11809-l11962.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l11964-l11985.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l11988-l12117.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l12119-l12210.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l12213-l12244.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l12247-l12408.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l12410-l12461.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l12464-l12580.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l12583-l12628.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l1259-l1369.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l12631-l12734.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l12736-l12758.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l12761-l13012.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l13014-l13287.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l13290-l13620.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l13622-l13657.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l1371-l1506.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l1508-l1595.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l1598-l1692.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l169-l246.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l1694-l1812.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l1814-l1914.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l1917-l1992.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l1995-l2030.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l2033-l2183.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l2185-l2315.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l2317-l2464.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l2466-l2608.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l249-l335.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l2611-l2704.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l2706-l2716.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l2719-l2811.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l2813-l2910.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l2912-l3083.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l3086-l3238.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l3241-l3435.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l337-l414.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l3437-l3584.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l3587-l3751.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l3753-l3880.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l3883-l3930.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l3933-l4078.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l4080-l4185.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l417-l501.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l4188-l4331.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l4333-l4402.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l4405-l4561.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l4563-l4635.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l4638-l4720.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l4722-l4800.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l4803-l4981.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l4983-l5163.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l503-l580.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l5166-l5287.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l5290-l5478.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l5480-l5582.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l5584-l5679.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l5681-l5824.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l582-l652.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l5826-l5896.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l5898-l6019.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l6021-l6196.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l6198-l6279.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l6282-l6370.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l6372-l6463.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l6466-l6489.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l6491-l6513.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l6516-l6568.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l655-l781.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l6571-l6591.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l6594-l6616.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l6619-l6691.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l6694-l6716.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l6719-l6763.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l6766-l6787.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l6790-l6815.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l6818-l6838.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l6841-l6925.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l69-l167.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l6928-l6950.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l6953-l6973.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l6976-l6993.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l6996-l7025.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l7028-l7052.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l7055-l7082.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l7085-l7136.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l7139-l7150.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l7153-l7169.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l7172-l7240.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l7243-l7261.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l7264-l7278.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l7281-l7348.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l7351-l7362.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l7365-l7417.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l7420-l7449.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l7452-l7462.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l7465-l7490.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l7493-l7528.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l7531-l7566.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l7569-l7680.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l7683-l7698.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l7701-l7749.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l7752-l7782.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l7785-l7805.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l7808-l7851.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l784-l797.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l7854-l7873.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l7876-l7904.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l7907-l7968.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l7971-l7986.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l7989-l8140.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l800-l886.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l8143-l8164.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l8167-l8195.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l8198-l8219.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l8222-l8284.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l8287-l8305.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l8308-l8369.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l8372-l8394.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l8397-l8439.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l8442-l8482.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l8485-l8502.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l8505-l8564.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l8567-l8587.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l8590-l8627.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l8630-l8686.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l8689-l8790.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l8793-l8824.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l8827-l8989.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l889-l991.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l8991-l9179.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l9181-l9351.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l9353-l9526.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l9528-l9700.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l9702-l9723.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l9726-l9866.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l9868-l9987.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l993-l1026.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/heroic-romances-of-ireland-leahy/batch-motif-celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l9989-l10093.yml
+- source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  source_text_id: celtic_irish.tain_bo_cualnge.dunn_gutenberg
+  title: The Ancient Irish Epic Tale Tain Bo Cualnge
+  tradition: celtic_irish
+  culture: ulster_cycle_irish_epic_later_translation
+  region: ireland
+  date_range: medieval Irish epic source tradition; 1914 public-domain English translation
+  word_count: 124110
+  target_extraction_records: 32
+  coverage_ratio: 3.063
+  status: dense_draft
+  priority: medium
+  needs_full_extraction: false
+  needs_review_or_normalization: true
+  extraction_record_count: 98
+  generated_record_count: 96
+  needs_review_count: 98
+  reviewed_count: 0
+  candidate_motif_count: 434
+  taxonomy_ref_count: 107
+  comparison_claim_count: 25
+  empty_motif_record_count: 3
+  extraction_paths:
+  - extractions/celtic-irish/project-gutenberg/tain-bo-cualnge/tain-bo-cualnge-medb-bull-raid-catalyst.yml
+  - extractions/celtic-irish/project-gutenberg/tain-bo-cualnge/tain-bo-cualnge-setanta-cuchulain-naming.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/tain-bo-cualnge-dunn/batch-motif-celtic-irish-tain-bo-cualnge-dunn-gutenberg-l10006-l10118.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/tain-bo-cualnge-dunn/batch-motif-celtic-irish-tain-bo-cualnge-dunn-gutenberg-l10120-l10221.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/tain-bo-cualnge-dunn/batch-motif-celtic-irish-tain-bo-cualnge-dunn-gutenberg-l10223-l10351.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/tain-bo-cualnge-dunn/batch-motif-celtic-irish-tain-bo-cualnge-dunn-gutenberg-l10353-l10475.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/tain-bo-cualnge-dunn/batch-motif-celtic-irish-tain-bo-cualnge-dunn-gutenberg-l10477-l10616.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/tain-bo-cualnge-dunn/batch-motif-celtic-irish-tain-bo-cualnge-dunn-gutenberg-l106-l191.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/tain-bo-cualnge-dunn/batch-motif-celtic-irish-tain-bo-cualnge-dunn-gutenberg-l10618-l10735.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/tain-bo-cualnge-dunn/batch-motif-celtic-irish-tain-bo-cualnge-dunn-gutenberg-l10737-l10825.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/tain-bo-cualnge-dunn/batch-motif-celtic-irish-tain-bo-cualnge-dunn-gutenberg-l10827-l10946.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/tain-bo-cualnge-dunn/batch-motif-celtic-irish-tain-bo-cualnge-dunn-gutenberg-l1089-l1183.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/tain-bo-cualnge-dunn/batch-motif-celtic-irish-tain-bo-cualnge-dunn-gutenberg-l10948-l11057.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/tain-bo-cualnge-dunn/batch-motif-celtic-irish-tain-bo-cualnge-dunn-gutenberg-l1186-l1316.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/tain-bo-cualnge-dunn/batch-motif-celtic-irish-tain-bo-cualnge-dunn-gutenberg-l1318-l1467.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/tain-bo-cualnge-dunn/batch-motif-celtic-irish-tain-bo-cualnge-dunn-gutenberg-l1469-l1620.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/tain-bo-cualnge-dunn/batch-motif-celtic-irish-tain-bo-cualnge-dunn-gutenberg-l1622-l1689.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/tain-bo-cualnge-dunn/batch-motif-celtic-irish-tain-bo-cualnge-dunn-gutenberg-l1691-l1817.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/tain-bo-cualnge-dunn/batch-motif-celtic-irish-tain-bo-cualnge-dunn-gutenberg-l1819-l1952.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/tain-bo-cualnge-dunn/batch-motif-celtic-irish-tain-bo-cualnge-dunn-gutenberg-l194-l276.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/tain-bo-cualnge-dunn/batch-motif-celtic-irish-tain-bo-cualnge-dunn-gutenberg-l1954-l2107.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/tain-bo-cualnge-dunn/batch-motif-celtic-irish-tain-bo-cualnge-dunn-gutenberg-l2109-l2255.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/tain-bo-cualnge-dunn/batch-motif-celtic-irish-tain-bo-cualnge-dunn-gutenberg-l2257-l2384.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/tain-bo-cualnge-dunn/batch-motif-celtic-irish-tain-bo-cualnge-dunn-gutenberg-l2386-l2514.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/tain-bo-cualnge-dunn/batch-motif-celtic-irish-tain-bo-cualnge-dunn-gutenberg-l2516-l2635.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/tain-bo-cualnge-dunn/batch-motif-celtic-irish-tain-bo-cualnge-dunn-gutenberg-l2637-l2753.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/tain-bo-cualnge-dunn/batch-motif-celtic-irish-tain-bo-cualnge-dunn-gutenberg-l2755-l2773.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/tain-bo-cualnge-dunn/batch-motif-celtic-irish-tain-bo-cualnge-dunn-gutenberg-l2775-l2894.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/tain-bo-cualnge-dunn/batch-motif-celtic-irish-tain-bo-cualnge-dunn-gutenberg-l278-l364.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/tain-bo-cualnge-dunn/batch-motif-celtic-irish-tain-bo-cualnge-dunn-gutenberg-l2896-l3005.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/tain-bo-cualnge-dunn/batch-motif-celtic-irish-tain-bo-cualnge-dunn-gutenberg-l3007-l3083.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/tain-bo-cualnge-dunn/batch-motif-celtic-irish-tain-bo-cualnge-dunn-gutenberg-l3085-l3164.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/tain-bo-cualnge-dunn/batch-motif-celtic-irish-tain-bo-cualnge-dunn-gutenberg-l3166-l3285.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/tain-bo-cualnge-dunn/batch-motif-celtic-irish-tain-bo-cualnge-dunn-gutenberg-l3288-l3410.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/tain-bo-cualnge-dunn/batch-motif-celtic-irish-tain-bo-cualnge-dunn-gutenberg-l3412-l3489.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/tain-bo-cualnge-dunn/batch-motif-celtic-irish-tain-bo-cualnge-dunn-gutenberg-l3491-l3590.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/tain-bo-cualnge-dunn/batch-motif-celtic-irish-tain-bo-cualnge-dunn-gutenberg-l3592-l3696.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/tain-bo-cualnge-dunn/batch-motif-celtic-irish-tain-bo-cualnge-dunn-gutenberg-l366-l469.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/tain-bo-cualnge-dunn/batch-motif-celtic-irish-tain-bo-cualnge-dunn-gutenberg-l3698-l3812.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/tain-bo-cualnge-dunn/batch-motif-celtic-irish-tain-bo-cualnge-dunn-gutenberg-l3814-l3941.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/tain-bo-cualnge-dunn/batch-motif-celtic-irish-tain-bo-cualnge-dunn-gutenberg-l3943-l4081.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/tain-bo-cualnge-dunn/batch-motif-celtic-irish-tain-bo-cualnge-dunn-gutenberg-l4083-l4199.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/tain-bo-cualnge-dunn/batch-motif-celtic-irish-tain-bo-cualnge-dunn-gutenberg-l4201-l4322.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/tain-bo-cualnge-dunn/batch-motif-celtic-irish-tain-bo-cualnge-dunn-gutenberg-l4325-l4466.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/tain-bo-cualnge-dunn/batch-motif-celtic-irish-tain-bo-cualnge-dunn-gutenberg-l4468-l4620.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/tain-bo-cualnge-dunn/batch-motif-celtic-irish-tain-bo-cualnge-dunn-gutenberg-l4622-l4776.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/tain-bo-cualnge-dunn/batch-motif-celtic-irish-tain-bo-cualnge-dunn-gutenberg-l472-l561.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/tain-bo-cualnge-dunn/batch-motif-celtic-irish-tain-bo-cualnge-dunn-gutenberg-l4778-l4914.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/tain-bo-cualnge-dunn/batch-motif-celtic-irish-tain-bo-cualnge-dunn-gutenberg-l4916-l5021.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/tain-bo-cualnge-dunn/batch-motif-celtic-irish-tain-bo-cualnge-dunn-gutenberg-l5023-l5158.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/tain-bo-cualnge-dunn/batch-motif-celtic-irish-tain-bo-cualnge-dunn-gutenberg-l5160-l5262.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/tain-bo-cualnge-dunn/batch-motif-celtic-irish-tain-bo-cualnge-dunn-gutenberg-l5264-l5389.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/tain-bo-cualnge-dunn/batch-motif-celtic-irish-tain-bo-cualnge-dunn-gutenberg-l5391-l5542.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/tain-bo-cualnge-dunn/batch-motif-celtic-irish-tain-bo-cualnge-dunn-gutenberg-l5544-l5695.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/tain-bo-cualnge-dunn/batch-motif-celtic-irish-tain-bo-cualnge-dunn-gutenberg-l564-l650.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/tain-bo-cualnge-dunn/batch-motif-celtic-irish-tain-bo-cualnge-dunn-gutenberg-l5697-l5824.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/tain-bo-cualnge-dunn/batch-motif-celtic-irish-tain-bo-cualnge-dunn-gutenberg-l5826-l5958.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/tain-bo-cualnge-dunn/batch-motif-celtic-irish-tain-bo-cualnge-dunn-gutenberg-l5960-l6064.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/tain-bo-cualnge-dunn/batch-motif-celtic-irish-tain-bo-cualnge-dunn-gutenberg-l6066-l6154.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/tain-bo-cualnge-dunn/batch-motif-celtic-irish-tain-bo-cualnge-dunn-gutenberg-l6156-l6289.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/tain-bo-cualnge-dunn/batch-motif-celtic-irish-tain-bo-cualnge-dunn-gutenberg-l6291-l6421.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/tain-bo-cualnge-dunn/batch-motif-celtic-irish-tain-bo-cualnge-dunn-gutenberg-l6423-l6554.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/tain-bo-cualnge-dunn/batch-motif-celtic-irish-tain-bo-cualnge-dunn-gutenberg-l652-l703.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/tain-bo-cualnge-dunn/batch-motif-celtic-irish-tain-bo-cualnge-dunn-gutenberg-l6556-l6677.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/tain-bo-cualnge-dunn/batch-motif-celtic-irish-tain-bo-cualnge-dunn-gutenberg-l6680-l6831.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/tain-bo-cualnge-dunn/batch-motif-celtic-irish-tain-bo-cualnge-dunn-gutenberg-l68-l85.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/tain-bo-cualnge-dunn/batch-motif-celtic-irish-tain-bo-cualnge-dunn-gutenberg-l6833-l6962.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/tain-bo-cualnge-dunn/batch-motif-celtic-irish-tain-bo-cualnge-dunn-gutenberg-l6964-l7119.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/tain-bo-cualnge-dunn/batch-motif-celtic-irish-tain-bo-cualnge-dunn-gutenberg-l705-l763.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/tain-bo-cualnge-dunn/batch-motif-celtic-irish-tain-bo-cualnge-dunn-gutenberg-l7121-l7265.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/tain-bo-cualnge-dunn/batch-motif-celtic-irish-tain-bo-cualnge-dunn-gutenberg-l7268-l7407.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/tain-bo-cualnge-dunn/batch-motif-celtic-irish-tain-bo-cualnge-dunn-gutenberg-l7409-l7545.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/tain-bo-cualnge-dunn/batch-motif-celtic-irish-tain-bo-cualnge-dunn-gutenberg-l7547-l7696.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/tain-bo-cualnge-dunn/batch-motif-celtic-irish-tain-bo-cualnge-dunn-gutenberg-l766-l841.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/tain-bo-cualnge-dunn/batch-motif-celtic-irish-tain-bo-cualnge-dunn-gutenberg-l7698-l7840.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/tain-bo-cualnge-dunn/batch-motif-celtic-irish-tain-bo-cualnge-dunn-gutenberg-l7842-l8043.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/tain-bo-cualnge-dunn/batch-motif-celtic-irish-tain-bo-cualnge-dunn-gutenberg-l8046-l8157.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/tain-bo-cualnge-dunn/batch-motif-celtic-irish-tain-bo-cualnge-dunn-gutenberg-l8159-l8281.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/tain-bo-cualnge-dunn/batch-motif-celtic-irish-tain-bo-cualnge-dunn-gutenberg-l8283-l8384.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/tain-bo-cualnge-dunn/batch-motif-celtic-irish-tain-bo-cualnge-dunn-gutenberg-l8386-l8455.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/tain-bo-cualnge-dunn/batch-motif-celtic-irish-tain-bo-cualnge-dunn-gutenberg-l843-l946.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/tain-bo-cualnge-dunn/batch-motif-celtic-irish-tain-bo-cualnge-dunn-gutenberg-l8457-l8532.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/tain-bo-cualnge-dunn/batch-motif-celtic-irish-tain-bo-cualnge-dunn-gutenberg-l8534-l8649.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/tain-bo-cualnge-dunn/batch-motif-celtic-irish-tain-bo-cualnge-dunn-gutenberg-l8651-l8786.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/tain-bo-cualnge-dunn/batch-motif-celtic-irish-tain-bo-cualnge-dunn-gutenberg-l87-l104.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/tain-bo-cualnge-dunn/batch-motif-celtic-irish-tain-bo-cualnge-dunn-gutenberg-l8788-l8903.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/tain-bo-cualnge-dunn/batch-motif-celtic-irish-tain-bo-cualnge-dunn-gutenberg-l8906-l8938.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/tain-bo-cualnge-dunn/batch-motif-celtic-irish-tain-bo-cualnge-dunn-gutenberg-l8940-l8986.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/tain-bo-cualnge-dunn/batch-motif-celtic-irish-tain-bo-cualnge-dunn-gutenberg-l8988-l9074.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/tain-bo-cualnge-dunn/batch-motif-celtic-irish-tain-bo-cualnge-dunn-gutenberg-l9076-l9175.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/tain-bo-cualnge-dunn/batch-motif-celtic-irish-tain-bo-cualnge-dunn-gutenberg-l9177-l9307.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/tain-bo-cualnge-dunn/batch-motif-celtic-irish-tain-bo-cualnge-dunn-gutenberg-l9309-l9432.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/tain-bo-cualnge-dunn/batch-motif-celtic-irish-tain-bo-cualnge-dunn-gutenberg-l9434-l9566.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/tain-bo-cualnge-dunn/batch-motif-celtic-irish-tain-bo-cualnge-dunn-gutenberg-l948-l969.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/tain-bo-cualnge-dunn/batch-motif-celtic-irish-tain-bo-cualnge-dunn-gutenberg-l9568-l9727.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/tain-bo-cualnge-dunn/batch-motif-celtic-irish-tain-bo-cualnge-dunn-gutenberg-l971-l1086.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/tain-bo-cualnge-dunn/batch-motif-celtic-irish-tain-bo-cualnge-dunn-gutenberg-l9729-l9882.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/tain-bo-cualnge-dunn/batch-motif-celtic-irish-tain-bo-cualnge-dunn-gutenberg-l9884-l10004.yml
 - source_text_path: texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md
   source_text_id: comparative.golden_bough.volume_1_frazer_gutenberg
   title: 'The Golden Bough: A Study in Comparative Religion (Vol. 1 of 2)'

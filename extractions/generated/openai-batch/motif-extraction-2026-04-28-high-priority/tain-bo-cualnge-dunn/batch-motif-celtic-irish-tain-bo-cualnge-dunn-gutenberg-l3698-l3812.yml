@@ -1,0 +1,466 @@
+---
+record_id: batch.motif.celtic-irish-tain-bo-cualnge-dunn-gutenberg-l3698-l3812
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+passage_locator:
+  label: THE PILLOW-TALK / THIS IS THE ROUTE OF THE TAIN / THE MARCH OF THE HOST /
+    THE YOUTHFUL EXPLOITS OF CUCHULAIN; lines 3698-3812
+  start: '3698'
+  end: '3812'
+  translation: The Ancient Irish Epic Tale Tain Bo Cualnge
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'In a youthful exploit episode, Cuchulain rejects being treated as a child
+    and seeks combat. Warned by Ibar, he confronts three sons of Necht, each described
+    as difficult to overcome: Foill, resistant to weapon points and edges; Tuachall,
+    whose craft makes him hard to defeat after the first attack; and Fandall, who
+    excels in water. Cuchulain defeats each with a suitable feat or weapon, beheads
+    them, and carries away heads and spoils.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The lad raises his face, draws his hand over it, and becomes crimson from
+    crown to ground like a wheelball.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The lad says he is not a child and has come to seek battle with a man.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The lad tells the opponent to fetch weapons, saying he does not slay charioteers,
+    grooms, or unarmed people.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Ibar warns that Foill son of Necht cannot be harmed by weapon points or edges.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Cuchulain uses the lath-trick with an iron apple against Foill, piercing shield
+    and head as foretold.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Cuchulain beheads Foill and carries away his head and spoils.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Ibar warns that Tuachall son of Necht is crafty and will not be defeated unless
+    overcome with the first blow, shot, or touch.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Cuchulain uses Conchobar's lance against Tuachall, piercing his shield, ribs,
+    and heart, then beheads him and takes his head and spoils.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Fandall son of Necht challenges Cuchulain to come down to a pool where his
+    foot cannot find bottom.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: Ibar says Fandall is called the Swallow and can course the sea beyond the
+    reach of the world's swimmers.
+  category: attribute
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: Cuchulain says that in the Callann at Emain he can carry boys on his palms
+    and shoulders without wetting his ankles.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:12
+  text: Cuchulain and Fandall meet and wrestle on the water; Cuchulain beheads Fandall
+    with Conchobar's sword, lets the body go downstream, and takes the head and spoils.
+  category: action
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Cuchulain, the little lad
+  description: A young combatant who insists he is fit for deeds, receives warnings
+    from Ibar, and defeats the three sons of Necht.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:9
+- id: fig:2
+  name_or_label: Ibar
+  description: Cuchulain's charioteer or attendant who warns him about each opponent's
+    special danger.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:7
+- id: fig:3
+  name_or_label: Foill son of Necht
+  description: First son of Necht encountered; described as unharmed by weapon points
+    and edges; killed by Cuchulain's lath-trick.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Tuachall son of Necht
+  description: Second son of Necht; described as cunning and difficult to defeat after
+    the first attack; killed by Cuchulain's lance.
+  role_refs:
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:5
+  name_or_label: Fandall son of Necht
+  description: Youngest son of Necht; called the Swallow and associated with exceptional
+    movement over water; killed by Cuchulain during combat on the water.
+  role_refs:
+  - role:3
+  - role:6
+  evidence_refs:
+  - ev:7
+  - ev:9
+roles:
+- id: role:1
+  label: youthful combatant proving martial fitness
+  assigned_to:
+  - fig:1
+  basis: Cuchulain rejects being called a child, seeks battle, and defeats three opponents
+    through martial feats.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+  - ev:9
+- id: role:2
+  label: warning companion
+  assigned_to:
+  - fig:2
+  basis: Ibar repeatedly cautions Cuchulain about the abilities of Foill, Tuachall,
+    and Fandall.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:7
+- id: role:3
+  label: successive opponent
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:5
+  basis: The three sons of Necht come forth in sequence and are each opposed by Cuchulain.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:9
+- id: role:4
+  label: weapon-resistant opponent
+  assigned_to:
+  - fig:3
+  basis: Foill is said not to be harmed by weapon points or edges.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: cunning opponent
+  assigned_to:
+  - fig:4
+  basis: Tuachall is said to evade weapons through craftiness unless overcome at the
+    first blow, shot, or touch.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: water-skilled opponent
+  assigned_to:
+  - fig:5
+  basis: Fandall is said to course the sea so well that swimmers cannot reach him.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: crimson wheelball appearance
+  literal_form: Cuchulain's body becomes crimson like one wheelball from crown to
+    ground.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: lath-trick with iron apple
+  literal_form: An apple of twice-melted iron used in the lath-trick against Foill.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: Craisech Neme, Conchobar's lance
+  literal_form: Conchobar's well-tempered lance, called the Venomous Lance, used against
+    Tuachall.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:4
+  label: Conchobar's sword
+  literal_form: The sword with which Cuchulain beheads Fandall during water combat.
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:5
+  label: pool, sea, and river water
+  literal_form: The pool where Fandall challenges Cuchulain, the sea Fandall courses,
+    and the Callann river mentioned by Cuchulain.
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+- id: sym:6
+  label: heads and spoils
+  literal_form: The heads and spoils taken by Cuchulain after defeating opponents.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:9
+scenes:
+- id: scene:1
+  label: Child warrior challenges armed combat
+  summary: Cuchulain insists he is not merely a child, declares himself fit for deeds,
+    and requires his opponent to arm himself before fighting.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Defeat of Foill son of Necht
+  summary: After Ibar warns that Foill is resistant to weapons, Cuchulain uses the
+    lath-trick with an iron apple, kills him, beheads him, and takes his spoils.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Defeat of Tuachall son of Necht
+  summary: After Ibar warns that Tuachall's craft makes him difficult to defeat unless
+    struck immediately, Cuchulain uses Conchobar's lance to pierce him, beheads him,
+    and takes his spoils.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Water combat with Fandall son of Necht
+  summary: Fandall challenges Cuchulain to the pool; after Ibar explains Fandall's
+    water prowess and Cuchulain answers with his own water feat, the two wrestle on
+    the water and Cuchulain beheads Fandall.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: youthful warrior proves fitness through combat trials
+  taxonomy_refs:
+  - initiation
+  basis: Cuchulain, repeatedly called a lad or little boy, insists he is fit for deeds
+    and proves it by defeating three successive opponents with distinct martial feats.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+  - ev:9
+  confidence: high
+  cautions: The passage presents martial proving but does not explicitly call it an
+    initiation rite.
+- id: motif:2
+  label: special opponent overcome by matching feat or weapon
+  taxonomy_refs: []
+  basis: 'Each son of Necht has a named difficulty or skill, and Cuchulain answers
+    with a specific tactic: iron apple against Foill, lance against Tuachall, and
+    water wrestling plus sword against Fandall.'
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:9
+  confidence: high
+  cautions: No supplied taxonomy family directly names this pattern.
+- id: motif:3
+  label: taking heads and spoils after victory
+  taxonomy_refs: []
+  basis: After each victory, Cuchulain beheads the defeated opponent and carries away
+    the head and spoils.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:9
+  confidence: high
+  cautions: The passage reports the repeated action but does not explain its ritual
+    or social meaning.
+- id: motif:4
+  label: combat on or in supernatural-seeming water setting
+  taxonomy_refs: []
+  basis: Fandall's challenge and ability concern deep water or the sea, while Cuchulain
+    boasts of carrying boys across water and defeats Fandall in wrestling on the water.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+  confidence: medium
+  cautions: The passage describes extraordinary water prowess but does not explicitly
+    identify the water as otherworldly or sacred.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3698-3812
+  quote_or_summary: The lad becomes crimson like a wheelball, denies being merely
+    a child, and says he has come to seek battle and is fit for deeds.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: lines 3698-3812
+  quote_or_summary: Cuchulain tells the opponent to fetch weapons because he does
+    not slay charioteers, grooms, or unarmed people.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 3698-3812
+  quote_or_summary: Ibar identifies Foill son of Necht and warns that weapon points
+    and edges cannot harm him; Cuchulain answers by naming the lath-trick with an
+    iron apple.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 3698-3812
+  quote_or_summary: Foill comes forth; Cuchulain throws the lath-trick so it strikes
+    shield and forehead, making a hole through the head, then beheads Foill and takes
+    his head and spoils.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 3698-3812
+  quote_or_summary: Tuachall son of Necht is described as cunning and not falling
+    by arms unless overcome at the first blow, shot, or touch; Cuchulain names Conchobar's
+    Venomous Lance as his answer.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: lines 3698-3812
+  quote_or_summary: Cuchulain strikes Tuachall with Conchobar's lance through shield,
+    ribs, and heart, beheads him before he reaches the ground, and carries off head
+    and spoils.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:7
+  type: summary
+  locator: lines 3698-3812
+  quote_or_summary: Fandall son of Necht challenges Cuchulain to the pool; Ibar explains
+    Fandall's name, the Swallow, by saying he courses the sea beyond the reach of
+    swimmers.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:8
+  type: summary
+  locator: lines 3698-3812
+  quote_or_summary: Cuchulain replies that in the Callann at Emain he can carry boys
+    on his palms and shoulders without wetting his ankles.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:9
+  type: summary
+  locator: lines 3698-3812
+  quote_or_summary: Cuchulain and Fandall meet on the water and wrestle there; Cuchulain
+    beheads Fandall with Conchobar's sword, lets the body go downstream, and takes
+    the head and spoils.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal action sequence and named figures are clear. Motif labels are candidate
+    abstractions and require human review, especially taxonomy assignment to initiation.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No external comparisons were added because the passage itself does not explicitly establish cross-textual or historical comparison claims.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:celtic-irish-tain-bo-cualnge-dunn-gutenberg__l3698-l3812
+  passage_sha256=655d1584a9f58b527ceedc022f0904ca04eb5ee258493f728859ffff9ed88681

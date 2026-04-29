@@ -1,0 +1,214 @@
+---
+record_id: batch.motif.celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l7971-l7986
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+passage_locator:
+  label: THE EXILE OF THE SONS OF USNACH / PAGE 91 / PAGE 93 / PAGE 95; lines 7971-7986
+  start: '7971'
+  end: '7986'
+  translation: Heroic Romances of Ireland
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A translator's note discusses the phrase translated as “Release me, O my
+    wife,” arguing that the vocative Irish word should mean “wife” rather than “woman.”
+    The note suggests that Naisi's use of this address marks acceptance of Deirdre's
+    offer and explains that modern place names such as Ballyshannon and the Mountain
+    of Howth were inserted in the translation though not present in the Irish text.
+  language: English with cited Irish terms
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage discusses the translation of the Irish vocative term “ben” in
+    the address to a wife or woman.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The note says the term occurs in seven other places in Windisch's Dictionary
+    and that six of these mean “wife.”
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Emer is mentioned as being addressed as the wife of Cuchulain in another cited
+    text.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The note suggests that Naisi's calling Deirdre “wife” accepts her offer.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The note states that no other sign of acceptance is indicated, while later
+    action shows Deirdre is regarded as Naisi's wife.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The modern place names Ballyshannon and the Mountain of Howth are said to
+    have been inserted in the translation without corresponding Irish words.
+  category: setting
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Naisi
+  description: A figure said by the note to address Deirdre as “wife” and thereby
+    accept her offer.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: Deirdre
+  description: A figure said by the note to be addressed as “wife” by Naisi and afterwards
+    regarded as his wife.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Emer
+  description: Mentioned in a comparative lexical note as addressed as wife of Cuchulain
+    in “Sick-bed.”
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Cuchulain
+  description: Mentioned in the phrase “wife of Cuchulain” in the note's lexical comparison.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: accepting husband or spouse
+  assigned_to:
+  - fig:1
+  basis: The note suggests Naisi accepts Deirdre's offer by naming her “wife.”
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: accepted wife or spouse
+  assigned_to:
+  - fig:2
+  basis: The note says Deirdre is addressed as “wife” and subsequently regarded as
+    Naisi's wife.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: wife in cited lexical parallel
+  assigned_to:
+  - fig:3
+  basis: Emer is cited as addressed as the wife of Cuchulain in another text.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: husband in cited lexical parallel
+  assigned_to:
+  - fig:4
+  basis: Cuchulain is mentioned as the figure whose wife Emer is in the cited example.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: wife-address
+  literal_form: The vocative address translated as “O my wife”
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: Mountain of Howth
+  literal_form: A modern place name inserted in translation
+  associated_figures: []
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:4
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: spousal acceptance through naming
+  taxonomy_refs: []
+  basis: The note explicitly suggests that Naisi's use of the word “wife” is the sign
+    by which he accepts Deirdre's offer, since no other sign is indicated.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: This is derived from the translator's interpretive note rather than from
+    a full narrative episode in the supplied passage.
+comparison_claims:
+- id: claim:1
+  claim: The passage compares the meaning of the vocative term “ben” with other occurrences,
+    most of which are said to mean “wife.”
+  claim_level: linguistic_similarity
+  target: Other occurrences in Windisch's Dictionary, including cited references to
+    “Sick-bed” and “Fled Bricrend.”
+  evidence_refs:
+  - ev:1
+  - ev:2
+  counter_evidence_refs:
+  - ev:2
+  confidence: medium
+  limitations: The comparison is lexical rather than a direct narrative-motif comparison,
+    and one cited case is described as abbreviated and uncertain.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 7971-7975
+  quote_or_summary: "“Release me, O my wife!” is discussed; the note suggests the
+    vocative “ben” means “wife,” not “woman,” and says six of seven other examples
+    have this meaning."
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: 7975-7978
+  quote_or_summary: Emer is cited as addressed as wife of Cuchulain in “Sick-bed”;
+    a remaining case in “Fled Bricrend” is noted as abbreviated and uncertain.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: 7978-7981
+  quote_or_summary: The note suggests that Naisi, by calling Deirdre “wife,” accepts
+    her offer, since no other sign of acceptance is indicated and later action treats
+    her as his wife.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: 7983-7986
+  quote_or_summary: The note says “Near to Ballyshannon” and “the Mountain of Howth”
+    are modern place names inserted in translation and do not correspond to words
+    in the Irish.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The supplied passage is translator commentary rather than a primary narrative
+    passage, so figures and motifs are extracted only where the note explicitly discusses
+    the underlying scene or lexical parallels.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No narrative scene was extracted because the supplied lines contain commentary, not a continuous episode.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:celtic-irish-heroic-romances-of-ireland-leahy-gutenberg__l7971-l7986
+  passage_sha256=20415d226498ec6b23a269eeab7b1b60d5567badc3d2eaa7e2ab239ea8cf41db

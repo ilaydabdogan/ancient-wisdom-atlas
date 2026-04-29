@@ -1,0 +1,236 @@
+---
+record_id: batch.motif.celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l417-l501
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+passage_locator:
+  label: A. H. LEAHY / IN TWO VOLUMES / VOL. I / PREFACE; lines 417-501
+  start: '417'
+  end: '501'
+  translation: Heroic Romances of Ireland
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The preface explains the editorial arrangement of the two volumes, the
+    treatment of Irish prose and verse forms, the use of fore-tales or preludes to
+    the Ulster cycle, the manuscript authorities for the romances, the printed and
+    manuscript sources used for translation, and acknowledgements to scholars who
+    corrected or revised parts of the work.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The first volume is described as staying close to the form and matter of the
+    Irish, while the second volume uses versified renderings that diverge from Irish
+    form but not from sense.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The second volume includes five Tana or Cattle-Forays of Fraech, Dartaid,
+    Regamon, Flidais, and Regamna.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Four of the Tana are identified as fore-tales or preludes to the story of
+    the great war of Cualnge, called the central event in the Ulster heroic cycle.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Tain bo Fraich is also described as a fore-tale to the Great Raid, though
+    of a different character from the others.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage lists manuscript authorities for the romances, including Leabhar
+    na h-Uidhri, the Book of Leinster, the Yellow Book of Lecan, and Egerton 1782.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage identifies printed or translated sources used for individual romances,
+    including works by Windisch, O'Beirne Crowe, O'Curry, and Whitley Stokes, as well
+    as a manuscript facsimile published by the Royal Irish Academy.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The editor acknowledges corrections or revision assistance from Professor
+    Kuno Meyer, Mr. E. J. Quiggin, and Professor Strachan.
+  category: relationship
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Editor-translator narrator
+  description: The first-person editor-translator who explains the arrangement, sources,
+    translations, and acknowledgements for the volumes.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Windisch
+  description: Named as the printer of Irish texts with accompanying German translations
+    in Irische Texte and as a source whose renderings are followed in translated portions.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+- id: fig:3
+  name_or_label: O'Beirne Crowe
+  description: Named in connection with the Irish and English translation used for
+    the Tain bo Fraich.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: O'Curry
+  description: Named in connection with the Irish and English translation used for
+    the Combat at the Ford.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:5
+  name_or_label: Whitley Stokes
+  description: Named as the provider of the literal translation followed for the Glenn
+    Masain version of Deirdre.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: Professor Kuno Meyer
+  description: Named as providing corrections to O'Beirne Crowe's translation of the
+    Tain bo Fraich.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+- id: fig:7
+  name_or_label: Mr. E. J. Quiggin
+  description: Named as providing similar help for O'Curry's translation of the Combat
+    at the Ford.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+- id: fig:8
+  name_or_label: Professor Strachan
+  description: Named as revising a transcript from the facsimile, supplying translations
+    of difficult passages, and revising translations of the Etain versions.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: editor-translator
+  assigned_to:
+  - fig:1
+  basis: The narrator describes arranging volumes, rendering Irish materials, following
+    sources, and acknowledging assistance.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+- id: role:2
+  label: source scholar or source translator
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  basis: These named scholars or translators are cited as sources for Irish texts,
+    German translations, English translations, or literal translations used by the
+    editor.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: reviser or scholarly helper
+  assigned_to:
+  - fig:6
+  - fig:7
+  - fig:8
+  basis: These figures are acknowledged for corrections, revisions, or translation
+    assistance.
+  evidence_refs:
+  - ev:6
+symbols: []
+scenes: []
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 417-435
+  quote_or_summary: The first volume is described as close to Irish form and matter;
+    the second volume, Versified Romances, diverges from Irish form but not sense
+    and includes five Tana or Cattle-Forays.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 425-432
+  quote_or_summary: Four short prose pieces are said to be named remscela, or fore-tales,
+    preludes to the great war of Cualnge, the central event in the Ulster heroic cycle.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 438-446
+  quote_or_summary: Tain bo Fraich is also called a fore-tale to the Great Raid, with
+    one part distinguished as containing brilliant descriptions and poetic prose.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 453-465
+  quote_or_summary: 'The passage lists manuscript authorities for the romances: Leabhar
+    na h-Uidhri, Book of Leinster, Yellow Book of Lecan, and Egerton 1782.'
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 465-484
+  quote_or_summary: 'The passage summarizes translation sources: Windisch''s Irische
+    Texte for four Preludes, Crowe and O''Curry for Tain bo Fraich and Combat at the
+    Ford, Stokes for the Glenn Masain Deirdre fragment, and Irische Texte plus a Royal
+    Irish Academy facsimile for other romances.'
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 486-501
+  quote_or_summary: The editor thanks Kuno Meyer for corrections to Crowe's Tain bo
+    Fraich translation, E. J. Quiggin for help with O'Curry's Combat at the Ford,
+    and Strachan for revising facsimile transcripts and Etain translations.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: This is a preface passage about editorial method, manuscript witnesses, and
+    translation sources rather than a mythic narrative. No passage-level symbols,
+    narrative scenes, or comparative myth motifs were extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Available taxonomy references were not applied because the passage does not present mythic-symbolic content corresponding to the supplied motif or symbol lists.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:celtic-irish-heroic-romances-of-ireland-leahy-gutenberg__l417-l501
+  passage_sha256=7de172eba9564937619f60cc3e5b9ff8d4cc7adcdd868fdcf27177583b91d6b0
