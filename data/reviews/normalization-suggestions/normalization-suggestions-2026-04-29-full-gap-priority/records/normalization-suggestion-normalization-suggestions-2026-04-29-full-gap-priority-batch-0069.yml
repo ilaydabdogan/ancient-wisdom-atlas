@@ -1,0 +1,284 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0069
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.found-writing-with-contents-suited-to-one-hearer-but-not-another
+  motif_id: found_writing_with_contents_suited_to_one_hearer_but_not_another
+  label: found writing with contents suited to one hearer but not another
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: medium
+  rationale: A found text whose message differs by recipient concerns selective or
+    transformative knowledge transmission.
+  cautions: Could be a passage-specific marvel, oracle, or literary device; verify
+    that the writing functions as meaningful revelation rather than plot mechanics.
+  suggested_aliases:
+  - selective_revelatory_writing
+  - recipient_specific_sacred_text
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.foundation-text-of-a-cultural-past
+  motif_id: foundation_text_of_a_cultural_past
+  label: foundation text of a cultural past
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: functional_variant
+  confidence: medium
+  rationale: A text that preserves or authorizes a cultural past fits narrative transmission
+    and cultural memory.
+  cautions: May be a scholarly/textual classification rather than a motif in a source
+    passage; exclude if it only describes modern reception or canon formation.
+  suggested_aliases:
+  - cultural_memory_text
+  - foundational_tradition_text
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.founding-myth-as-noble-lie
+  motif_id: founding_myth_as_noble_lie
+  label: Founding myth as noble lie
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: A founding myth used as a legitimating fiction organizes political and
+    social order.
+  cautions: This may be philosophical commentary rather than a traditional narrative
+    motif; verify whether the passage presents mythic legitimation or analytical critique.
+  suggested_aliases:
+  - legitimating_foundation_myth
+  - political_myth_of_origins
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.founding-of-a-community-from-mutual-need
+  motif_id: founding_of_a_community_from_mutual_need
+  label: Founding of a community from mutual need
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: The emergence of community from interdependence concerns the origin and
+    ordering of social obligations.
+  cautions: Could be philosophical anthropology rather than mythic narrative; if centered
+    on a founding figure, culture_hero may be a secondary fit.
+  suggested_aliases:
+  - community_founded_by_interdependence
+  - social_order_from_mutual_need
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.four-differently-colored-enchanted-fish
+  motif_id: four_differently_colored_enchanted_fish
+  label: four differently colored enchanted fish
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines number, color, animal, and enchantment, but the narrative
+    function is unclear.
+  cautions: May belong under shapeshifter, sacred_waters, otherworld, or a marvel-tale
+    object/animal pattern depending on context; too specific to map confidently from
+    the label alone.
+  suggested_aliases:
+  - enchanted_colored_fish
+  - four_colored_fish
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fragile-false-refuge
+  motif_id: fragile_false_refuge
+  label: Fragile false refuge
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The phrase suggests deceptive safety or misplaced trust, but no existing
+    group clearly captures it without passage evidence.
+  cautions: Could be ethical teaching, divine judgment, pride/downfall, or a passage-specific
+    metaphor; review source context before indexing.
+  suggested_aliases:
+  - false_refuge
+  - illusory_safety
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fragmentation-of-a-unified-authorial-work-by-skeptical-critics
+  motif_id: fragmentation_of_a_unified_authorial_work_by_skeptical_critics
+  label: fragmentation of a unified authorial work by skeptical critics
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes scholarly criticism and textual attribution rather
+    than a narrative or symbolic motif.
+  cautions: Preserve only as provenance or reception commentary if needed; do not
+    use for motif pattern queries.
+  suggested_aliases:
+  - scholarly_fragmentation_of_authorship
+  - critical_disunity_claim
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.framed-past-life-exemplum
+  motif_id: framed_past_life_exemplum
+  label: framed past-life exemplum
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: functional_variant
+  confidence: medium
+  rationale: A framed past-life tale uses narrative structure to transmit moral or
+    sacred teaching.
+  cautions: If the passage emphasizes karmic rebirth rather than narrative teaching,
+    death_and_transformation or divine_judgment may be relevant secondary mappings.
+  suggested_aliases:
+  - past_life_teaching_story
+  - jataka_exemplum_frame
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fraud-exposed-by-makers-of-the-false-treasure
+  motif_id: fraud_exposed_by_makers_of_the_false_treasure
+  label: fraud exposed by makers of the false treasure
+  occurrences: 1
+  traditions:
+  - japanese
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: low
+  rationale: Exposure of deception and false value can function as moral reckoning
+    and restoration of order.
+  cautions: May be a folktale plot detail rather than sacred judgment; if the false
+    treasure is central, sacred_treasures may be a secondary evidence group.
+  suggested_aliases:
+  - exposure_of_false_treasure_fraud
+  - deceiver_exposed_by_false_object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.freedom-preferred-to-secure-confinement
+  motif_id: freedom_preferred_to_secure_confinement
+  label: Freedom preferred to secure confinement
+  occurrences: 1
+  traditions:
+  - daoist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: duality
+  suggested_group_label: Duality and Cosmic Opposition
+  relationship: symbolic_variant
+  confidence: low
+  rationale: The motif frames a value opposition between free vulnerability and constrained
+    security, resonant with Daoist complementary contrast.
+  cautions: Likely an ethical-philosophical theme rather than a narrative motif; sacred_knowledge
+    or mystical_quest may fit if the passage uses it as teaching for liberation.
+  suggested_aliases:
+  - free_vulnerability_over_safe_confinement
+  - freedom_over_security
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are philosophical, textual, or episode-specific; source
+  context should determine whether they remain motif evidence or become commentary/provenance
+  notes.
+- No transmission or borrowing claims are implied by these placements.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review recommended for
+    low-confidence and context-dependent items.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0069
+  input_sha256: 66e5b652aade559298493012f497528526e92310a8f9357507b3cc87796b8439

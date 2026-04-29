@@ -1,0 +1,292 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0070
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.freedom-without-civic-necessity
+  motif_id: freedom_without_civic_necessity
+  label: Freedom without civic necessity
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Abstract political-philosophical theme; no clear narrative or symbolic
+    function is visible from the label alone.
+  cautions: May be commentary or ethical-political analysis rather than a motif; needs
+    passage context before mapping to sacred_law, royal_legitimacy, or wisdom.
+  suggested_aliases:
+  - freedom apart from civic duty
+  - liberty without public necessity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.friend-versus-friend-duel
+  motif_id: friend_versus_friend_duel
+  label: friend versus friend duel
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A duel between companions is a combat ordeal with social and tragic stakes,
+    fitting the broader sacred/heroic combat group.
+  cautions: If the passage emphasizes grief or tragic recognition more than combat,
+    lament_and_mourning may be a secondary placement; single occurrence may be episode-specific.
+  suggested_aliases:
+  - combat between friends
+  - duel of companions
+  - tragic friend duel
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.funeral-duty-following-lamentation
+  motif_id: funeral_duty_following_lamentation
+  label: funeral duty following lamentation
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label centers on performing mortuary duty after mourning, matching
+    funeral rites and memorial obligations.
+  cautions: Could also relate to lament_and_mourning if the emotional lament is primary;
+    verify whether this is a recurring rite or a passage sequence.
+  suggested_aliases:
+  - funeral obligation after lament
+  - mourning followed by funeral duty
+  - mortuary duty after lamentation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.funerary-body-retrieval-and-funeral-sequence
+  motif_id: funerary_body_retrieval_and_funeral_sequence
+  label: Funerary body retrieval and funeral sequence
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: ritual_variant
+  confidence: high
+  rationale: Retrieving a body and completing funeral rites fits the established funeral-rites
+    and memorialization group.
+  cautions: The label may be an over-specific episode summary; preserve body retrieval
+    and rite sequence as evidence details.
+  suggested_aliases:
+  - body retrieval for burial
+  - recovery of corpse for funeral rites
+  - funeral sequence after body recovery
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.futile-striving-against-one-s-own-shadow
+  motif_id: futile_striving_against_one_s_own_shadow
+  label: futile striving against one’s own shadow
+  occurrences: 1
+  traditions:
+  - daoist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: duality
+  suggested_group_label: Duality and Cosmic Opposition
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Shadow imagery expresses self-opposition and futile conflict with one's
+    own double, fitting duality as symbolic pairing.
+  cautions: In Daoist context this may be a teaching image about non-action rather
+    than a narrative motif; consider sacred_knowledge if the passage functions as
+    instruction.
+  suggested_aliases:
+  - striving against the shadow
+  - fighting one's own shadow
+  - shadow as futile opponent
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.futility-of-human-effort-against-decree
+  motif_id: futility_of_human_effort_against_decree
+  label: futility of human effort against decree
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: broader_label
+  confidence: medium
+  rationale: The motif frames human effort as powerless before a determining decree,
+    aligning with fate/destiny patterns.
+  cautions: If the decree is not about death, the group label is narrower than the
+    motif; may instead be a wisdom or mystical teaching on surrender to divine will.
+  suggested_aliases:
+  - human effort against divine decree
+  - futility before fate
+  - striving cannot overcome decree
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.generation-of-beings-from-a-primordial-body
+  motif_id: generation_of_beings_from_a_primordial_body
+  label: Generation of beings from a primordial body
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: primordial_sacrifice
+  suggested_group_label: Primordial Sacrifice and Dismemberment
+  relationship: narrower_than
+  confidence: high
+  rationale: Beings generated from a primordial body belongs to the creation-through-body/dismemberment
+    complex.
+  cautions: Confirm whether the body is sacrificed, killed, or simply generative;
+    if no death/dismemberment is present, cosmic_origin may be the safer parent.
+  suggested_aliases:
+  - beings born from primordial body
+  - life generated from primal body
+  - creation from primordial body
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.giants-as-makers-of-landscape-features
+  motif_id: giants_as_makers_of_landscape_features
+  label: giants as makers of landscape features
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Superhuman beings shaping landscape features is an etiological creation
+    or world-forming motif.
+  cautions: If the landscape is formed from a giant's body, primordial_sacrifice/body_as_landscape_shaper
+    is better; if this is local place legend, it may be too specific for broad queries.
+  suggested_aliases:
+  - giants shaping the landscape
+  - giant-made landscape features
+  - landscape features made by giants
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.giants-hostile-to-christian-sound
+  motif_id: giants_hostile_to_christian_sound
+  label: Giants hostile to Christian sound
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is culturally and historically specific and may describe Christianized
+    folklore rather than a stable motif group.
+  cautions: Could involve anti-sacred sound, displaced older beings, or conversion-era
+    polemic; avoid mapping without source evidence and sensitivity review.
+  suggested_aliases:
+  - giants repelled by Christian sound
+  - hostility of giants to church bells
+  - giants opposed to sacred sound
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.giants-hurl-stones-at-fleeing-humans
+  motif_id: giants_hurl_stones_at_fleeing_humans
+  label: Giants hurl stones at fleeing humans
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: This reads as a highly specific pursuit episode involving giant antagonists,
+    not a clear existing motif function.
+  cautions: May fit sacred_combat, monster pursuit, or etiological stone/landscape
+    lore depending on context; no current giant/monster group cleanly covers it.
+  suggested_aliases:
+  - stone-hurling giants
+  - giants throw stones at fugitives
+  - giant pursuit with hurled stones
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are single-occurrence and abstract or episode-specific; placements
+  should be treated as provisional until passage evidence confirms narrative function.
+- Giant-related motifs may indicate a future monster/giant or etiological-landscape
+  group, but this batch alone does not justify adding one.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0070
+  input_sha256: 96bdc574ffd0a5947d9adfc69b56390e46a019b16489dca52248398000e2ea37

@@ -6,12 +6,12 @@ This is a review artifact. It does not modify `taxonomy/motif-normalization.yml`
 
 ## Summary
 
-- Suggestions reviewed: 640
-- Accepted draft mappings: 325
-- New canonical group candidates: 17
-- Low-confidence / needs human review: 213
-- Suggested exclusions: 50
-- Already known in base normalization: 52
+- Suggestions reviewed: 700
+- Accepted draft mappings: 354
+- New canonical group candidates: 18
+- Low-confidence / needs human review: 230
+- Suggested exclusions: 54
+- Already known in base normalization: 62
 
 ## New Group Candidates
 
@@ -29,6 +29,7 @@ This is a review artifact. It does not modify `taxonomy/motif-normalization.yml`
 | `eponymous_ancestors_people_origins` | Eponymous Ancestors and People Origins | 1 | Culture_hero covers founding gifts and institutions, while royal_legitimacy covers rule; neither preserves the specific ethnogonic function of named progenitors. |
 | `false_accusation_vindication` | False Accusation and Vindication | 3 | Existing judgment and law groups cover moral reckoning but not the specific recurrent narrative mechanism of false charge, evidence manipulation, and vindication. |
 | `first_pair_spouse_origin` | First Pair and Human Spouse Origin | 1 | Existing groups cover cosmic creation, sacred union, and birth, but not the specific anthropogonic creation of the first couple or spouse as the basis for human social order. |
+| `karmic_recurrence` | Karmic Recurrence Across Lives | 1 | Existing groups cover fate, judgment, and transformation, but not recurring causality across former and present lives. |
 | `magical_compulsion` | Enchantment, Spell-Sleep, and Magical Compulsion | 1 | Existing groups cover dreams, otherworlds, and threshold lures, but not the recurring mechanism of enchantment or magical compulsion itself. |
 | `martyrdom_witness` | Martyrdom and Witness Under Persecution | 1 | Existing sacrifice and divine judgment groups cover self-surrender and moral reckoning, but do not preserve the specific religious function of steadfast witness under persecution. |
 | `miraculous_provision` | Miraculous Provision and Inexhaustible Food | 1 | Existing groups cover offering, exchange, and power objects, but not the distinct function of miraculous abundance or inexhaustible sustenance. |
@@ -250,10 +251,27 @@ This is a review artifact. It does not modify `taxonomy/motif-normalization.yml`
 | `festive_masquerade` | festive masquerade | map_to_existing_group | `shapeshifter` Shapeshifter and Transformation | low | low confidence |
 | `filial_loyalty_against_maternal_ambition` | filial loyalty against maternal ambition | needs_human_review | ``  | low | low confidence |
 | `final_prophet_after_earlier_prophets` | final prophet after earlier prophets | needs_human_review | ``  | medium | model requested human review |
+| `floral_lure_for_a_female_figure` | Floral lure for a female figure | needs_human_review | ``  | low | low confidence |
+| `fool_elevated_to_power` | fool elevated to power | map_to_existing_group | `royal_legitimacy` Royal Legitimacy and Sacred Kingship | low | low confidence |
+| `foolish_official_causes_communal_or_economic_loss` | Foolish official causes communal or economic loss | map_to_existing_group | `royal_legitimacy` Royal Legitimacy and Sacred Kingship | low | low confidence |
+| `forest_hermitage_established_in_an_auspicious_natural_setting` | forest hermitage established in an auspicious natural setting | needs_human_review | ``  | low | low confidence |
+| `foretold_conjunction_of_northern_man_and_southern_woman` | foretold conjunction of northern man and southern woman | needs_human_review | ``  | low | low confidence |
+| `forgotten_intercession_delays_release` | forgotten intercession delays release | needs_human_review | ``  | low | low confidence |
+| `former_deeds_shaping_present_fate` | Former deeds shaping present fate | map_to_existing_group | `death_by_fate` Death Attributed to Fate or Destiny | low | low confidence |
+| `former_existence_of_mankind` | Former existence of mankind | needs_human_review | ``  | low | low confidence |
+| `fortunate_removal_contrasted_with_failed_imitation` | Fortunate removal contrasted with failed imitation | needs_human_review | ``  | low | low confidence |
+| `fortune_as_unstable_wheel_or_ball` | fortune as unstable wheel or ball | map_to_existing_group | `death_by_fate` Death Attributed to Fate or Destiny | low | low confidence |
+| `four_differently_colored_enchanted_fish` | four differently colored enchanted fish | needs_human_review | ``  | low | low confidence |
+| `fragile_false_refuge` | Fragile false refuge | needs_human_review | ``  | low | low confidence |
+| `fraud_exposed_by_makers_of_the_false_treasure` | fraud exposed by makers of the false treasure | map_to_existing_group | `divine_judgment` Divine Judgment and Moral Reckoning | low | low confidence |
+| `freedom_preferred_to_secure_confinement` | Freedom preferred to secure confinement | map_to_existing_group | `duality` Duality and Cosmic Opposition | low | low confidence |
+| `freedom_without_civic_necessity` | Freedom without civic necessity | needs_human_review | ``  | low | low confidence |
+| `giants_hostile_to_christian_sound` | Giants hostile to Christian sound | needs_human_review | ``  | low | low confidence |
+| `giants_hurl_stones_at_fleeing_humans` | Giants hurl stones at fleeing humans | needs_human_review | ``  | low | low confidence |
 | `hunter_becomes_hunted` | hunter becomes hunted | needs_human_review | ``  | medium | model requested human review |
 | `recognition_by_bodily_scar` | recognition by bodily scar | needs_human_review | ``  | medium | model requested human review |
 
-_Showing first 213 of 213 review rows._
+_Showing first 230 of 230 review rows._
 
 ## Suggested Exclusions
 
@@ -309,5 +327,9 @@ _Showing first 213 of 213 review rows._
 | `false_inference_about_hidden_treasure_inside_a_living_source` | false inference about hidden treasure inside a living source | medium | The label reads as an over-specific plot inference or explanatory note rather than a reusable symbolic motif. |
 | `fatal_prognosis_punished_by_the_patient` | fatal prognosis punished by the patient | medium | The label reads as an episode-specific narrative irony or anecdotal plot detail rather than a reusable mythic motif. |
 | `figures_introduced_from_one_narrative_cycle_into_another` | Figures introduced from one narrative cycle into another | high | The label describes narrative-cycle composition or reception rather than a symbolic or narrative motif inside the story world. |
+| `folk_tradition_preserved_by_conquered_peoples_beside_aristocratic_court_literature` | Folk tradition preserved by conquered peoples beside aristocratic court literature | high | The label describes literary/social transmission and preservation rather than a narrative motif. |
+| `folktale_circulating_under_varied_guises` | Folktale circulating under varied guises | high | This is a comparative circulation/classification note, not a symbolic or narrative motif in the tale itself. |
+| `formulaic_repetition_in_epic_poetry` | Formulaic repetition in epic poetry | high | This describes poetic technique or textual form, not a narrative or symbolic motif. |
+| `fragmentation_of_a_unified_authorial_work_by_skeptical_critics` | fragmentation of a unified authorial work by skeptical critics | high | The label describes scholarly criticism and textual attribution rather than a narrative or symbolic motif. |
 
-_Showing first 50 of 50 exclusion rows._
+_Showing first 54 of 54 exclusion rows._

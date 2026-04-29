@@ -7,8 +7,8 @@ method: Counts distinct traditions for indexed motif IDs that map to canonical_m
 indexed_motif_count: 9072
 indexed_occurrence_count: 31658
 canonical_motif_group_count: 53
-mapped_motif_count: 352
-unmapped_motif_count: 8720
+mapped_motif_count: 362
+unmapped_motif_count: 8710
 canonical_motifs:
 - canonical_motif_id: death_and_transformation
   label: Death, Rebirth, and Transformation
@@ -1781,7 +1781,7 @@ canonical_motifs:
     greek: 103
     greek_roman: 13
     hindu: 28
-    indigenous_australian: 13
+    indigenous_australian: 14
     islamic: 26
     islamicate_folklore: 30
     japanese: 18
@@ -1836,9 +1836,16 @@ canonical_motifs:
     tradition_count: 1
     traditions:
       buddhist: 1
+  - motif_id: food_theft_by_feigned_helpfulness
+    label: Food theft by feigned helpfulness
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      indigenous_australian: 1
   tradition_count: 18
-  occurrence_count: 424
-  mapped_motif_count: 4
+  occurrence_count: 425
+  mapped_motif_count: 5
 - canonical_motif_id: sacred_twins
   label: Sacred Twins and Sibling Pairs
   description: 'The pair of twins or siblings # often one mortal and one divine, or
@@ -2983,7 +2990,7 @@ canonical_motifs:
   traditions:
     comparative: 12
     confucian: 1
-    islamic: 5
+    islamic: 7
     japanese: 1
     jewish_christian: 2
     sufi: 1
@@ -3121,6 +3128,20 @@ canonical_motifs:
     tradition_count: 1
     traditions:
       islamic: 1
+  - motif_id: forbidden_intoxicants_and_divinatory_objects_as_satanic_instruments
+    label: Forbidden intoxicants and divinatory objects as Satanic instruments
+    relationship: ritual_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      islamic: 1
+  - motif_id: forgiveness_preferred_over_proportionate_retaliation
+    label: Forgiveness preferred over proportionate retaliation
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      islamic: 1
   - motif_id: killed_animal_soul_or_spirit_monitors_human_treatment
     label: Killed animal soul or spirit monitors human treatment
     relationship: ethical_taboo_variant
@@ -3143,8 +3164,8 @@ canonical_motifs:
     traditions:
       jewish_christian: 1
   tradition_count: 6
-  occurrence_count: 22
-  mapped_motif_count: 22
+  occurrence_count: 24
+  mapped_motif_count: 24
 - canonical_motif_id: divine_intervention
   label: Divine Intervention and Guidance
   description: 'The direct action of gods or sacred powers in human affairs # sending
@@ -3841,7 +3862,7 @@ canonical_motifs:
   - divine_judgment
   is_meta_group: false
   traditions:
-    celtic_irish: 14
+    celtic_irish: 15
     greek: 1
     hindu: 1
     maya_quiche: 1
@@ -3930,6 +3951,13 @@ canonical_motifs:
     tradition_count: 1
     traditions:
       celtic_irish: 1
+  - motif_id: ford_duel_as_crisis_point
+    label: ford duel as crisis point
+    relationship: narrower_than
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      celtic_irish: 1
   - motif_id: household_reversal
     label: household reversal
     relationship: child
@@ -3952,8 +3980,8 @@ canonical_motifs:
     traditions:
       celtic_irish: 1
   tradition_count: 4
-  occurrence_count: 17
-  mapped_motif_count: 15
+  occurrence_count: 18
+  mapped_motif_count: 16
 - canonical_motif_id: death_by_fate
   label: Death Attributed to Fate or Destiny
   description: Death understood as fated, destined, or determined by forces beyond
@@ -3965,7 +3993,7 @@ canonical_motifs:
   - sacrifice
   is_meta_group: false
   traditions:
-    greek: 2
+    greek: 3
     greek_roman: 3
     persian: 1
     roman: 1
@@ -4012,6 +4040,13 @@ canonical_motifs:
     tradition_count: 1
     traditions:
       greek_roman: 1
+  - motif_id: foreknown_doom_disregarded_under_fate
+    label: foreknown doom disregarded under fate
+    relationship: narrower_than
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
   - motif_id: ignored_warning_leads_to_heroic_death
     label: Ignored warning leads to heroic death
     relationship: functional_variant
@@ -4020,8 +4055,8 @@ canonical_motifs:
     traditions:
       greek_roman: 1
   tradition_count: 4
-  occurrence_count: 7
-  mapped_motif_count: 7
+  occurrence_count: 8
+  mapped_motif_count: 8
 - canonical_motif_id: dream_and_vision
   label: Dream, Vision, and Altered Perception
   description: Dreams, visions, and altered states as sources of sacred knowledge,
@@ -4089,12 +4124,19 @@ canonical_motifs:
   is_meta_group: false
   traditions:
     celtic_irish: 1
-    greek_roman: 1
+    greek_roman: 2
     islamicate_folklore: 1
     jewish_christian: 1
   mapped_motifs:
   - motif_id: container_of_human_afflictions
     label: container of human afflictions
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek_roman: 1
+  - motif_id: forbidden_opening_of_a_guarded_container_releases_destructive_forces
+    label: forbidden opening of a guarded container releases destructive forces
     relationship: functional_variant
     occurrence_count: 1
     tradition_count: 1
@@ -4122,8 +4164,8 @@ canonical_motifs:
     traditions:
       islamicate_folklore: 1
   tradition_count: 4
-  occurrence_count: 4
-  mapped_motif_count: 4
+  occurrence_count: 5
+  mapped_motif_count: 5
 - canonical_motif_id: storytelling_as_power
   label: Storytelling and Narrative as Sacred Power
   description: The act of telling stories as a means of survival, transmission of
@@ -4200,7 +4242,7 @@ canonical_motifs:
   - lament_and_mourning
   is_meta_group: false
   traditions:
-    greek: 3
+    greek: 4
     greek_roman: 1
   mapped_motifs:
   - motif_id: enduring_tomb_proclamation
@@ -4231,9 +4273,54 @@ canonical_motifs:
     tradition_count: 1
     traditions:
       greek: 1
+  - motif_id: funerary_body_retrieval_and_funeral_sequence
+    label: Funerary body retrieval and funeral sequence
+    relationship: ritual_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
   tradition_count: 2
-  occurrence_count: 4
-  mapped_motif_count: 4
+  occurrence_count: 5
+  mapped_motif_count: 5
+- canonical_motif_id: sacred_craft
+  label: Sacred Craft and Divinely Aided Construction
+  description: 'Building, crafting, or constructing as a sacred act # the bridge built
+    with divine aid, the temple constructed by the gods, the weapon forged with cosmic
+    fire.'
+  related:
+  - axis_mundi
+  - culture_hero
+  - sacred_treasures
+  is_meta_group: false
+  traditions:
+    finnish_karelian: 2
+    hindu: 1
+  mapped_motifs:
+  - motif_id: divinely_inherited_bridgecraft
+    label: divinely inherited bridgecraft
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      hindu: 1
+  - motif_id: forged_abundance_object
+    label: forged abundance object
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      finnish_karelian: 1
+  - motif_id: forging_a_wondrous_object_from_small_or_unlikely_materials
+    label: Forging a wondrous object from small or unlikely materials
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      finnish_karelian: 1
+  tradition_count: 2
+  occurrence_count: 3
+  mapped_motif_count: 3
 - canonical_motif_id: soul_loss_restoration
   label: Soul Loss and Restoration
   description: A soul, life-force, or vital double is lost, stolen, wandering, or
@@ -4274,6 +4361,36 @@ canonical_motifs:
   tradition_count: 2
   occurrence_count: 3
   mapped_motif_count: 3
+- canonical_motif_id: primordial_sacrifice
+  label: Primordial Sacrifice and Dismemberment
+  description: The cosmos created through the death, sacrifice, or dismemberment of
+    a primordial being whose body becomes the world.
+  related:
+  - cosmic_origin
+  - sacrifice
+  - death_and_transformation
+  is_meta_group: false
+  traditions:
+    finnish_karelian: 1
+    norse: 1
+  mapped_motifs:
+  - motif_id: body_as_landscape_shaper
+    label: body as landscape shaper
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      finnish_karelian: 1
+  - motif_id: generation_of_beings_from_a_primordial_body
+    label: Generation of beings from a primordial body
+    relationship: narrower_than
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      norse: 1
+  tradition_count: 2
+  occurrence_count: 2
+  mapped_motif_count: 2
 - canonical_motif_id: supreme_ruler
   label: Supreme Ruler and Cosmic Sovereignty
   description: A supreme ruler figure who descends from above or emerges to rule all
@@ -4431,51 +4548,6 @@ canonical_motifs:
     tradition_count: 1
     traditions:
       greek_roman: 1
-  tradition_count: 1
-  occurrence_count: 1
-  mapped_motif_count: 1
-- canonical_motif_id: primordial_sacrifice
-  label: Primordial Sacrifice and Dismemberment
-  description: The cosmos created through the death, sacrifice, or dismemberment of
-    a primordial being whose body becomes the world.
-  related:
-  - cosmic_origin
-  - sacrifice
-  - death_and_transformation
-  is_meta_group: false
-  traditions:
-    finnish_karelian: 1
-  mapped_motifs:
-  - motif_id: body_as_landscape_shaper
-    label: body as landscape shaper
-    relationship: child
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      finnish_karelian: 1
-  tradition_count: 1
-  occurrence_count: 1
-  mapped_motif_count: 1
-- canonical_motif_id: sacred_craft
-  label: Sacred Craft and Divinely Aided Construction
-  description: 'Building, crafting, or constructing as a sacred act # the bridge built
-    with divine aid, the temple constructed by the gods, the weapon forged with cosmic
-    fire.'
-  related:
-  - axis_mundi
-  - culture_hero
-  - sacred_treasures
-  is_meta_group: false
-  traditions:
-    hindu: 1
-  mapped_motifs:
-  - motif_id: divinely_inherited_bridgecraft
-    label: divinely inherited bridgecraft
-    relationship: child
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      hindu: 1
   tradition_count: 1
   occurrence_count: 1
   mapped_motif_count: 1

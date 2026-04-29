@@ -1657,6 +1657,23 @@ canonical_motif_groups:
   draft_reason_existing_groups_insufficient: Existing groups cover cosmic creation,
     sacred union, and birth, but not the specific anthropogonic creation of the first
     couple or spouse as the basis for human social order.
+- id: karmic_recurrence
+  label: Karmic Recurrence Across Lives
+  description: Past deeds, relationships, vows, conflicts, or debts recur across rebirths
+    and shape present relationships, destiny, suffering, or liberation.
+  children:
+  - former_life_antagonist_repeats_hostility
+  aliases: []
+  related:
+  - sacred_law
+  - death_by_fate
+  - sacred_knowledge
+  draft_status: new_group_candidate
+  draft_parent_group_ids:
+  - death_and_transformation
+  - divine_judgment
+  draft_reason_existing_groups_insufficient: Existing groups cover fate, judgment,
+    and transformation, but not recurring causality across former and present lives.
 - id: miraculous_provision
   label: Miraculous Provision and Inexhaustible Food
   description: Food, drink, wealth, or sustenance is supernaturally provided, multiplied,
@@ -5494,6 +5511,151 @@ raw_motif_group_index:
     - filial piety and grateful maturity
     - filial gratitude
     - mature gratitude toward parents
+  food_theft_by_feigned_helpfulness:
+    group_id: trickster
+    relationship: functional_variant
+    confidence: high
+    review_status: model_auto_accepted_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'Deceptive helpfulness used to steal food is a classic trickster theft
+      strategy. Caution: Review cultural context carefully; if the actor is not a
+      trickster or boundary-crosser, it may be a local tale detail rather than broad
+      motif.'
+    suggested_aliases:
+    - theft by feigned aid
+    - deceptive helpfulness to steal food
+    - trickster food theft
+  forbidden_intoxicants_and_divinatory_objects_as_satanic_instruments:
+    group_id: sacred_law
+    relationship: ritual_variant
+    confidence: high
+    review_status: model_auto_accepted_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'The label centers on prohibited substances and divinatory practices framed
+      as spiritually dangerous under sacred law. Caution: The wording is tradition-specific
+      and polemical; preserve context and avoid generalizing all divination or intoxicant
+      motifs as identical.'
+    suggested_aliases:
+    - forbidden intoxicants
+    - divinatory objects as satanic instruments
+    - ritual prohibition of intoxicants and divination
+  forbidden_opening_of_a_guarded_container_releases_destructive_forces:
+    group_id: sacred_vessel
+    relationship: functional_variant
+    confidence: high
+    review_status: model_auto_accepted_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'A guarded container whose forbidden opening releases destructive powers
+      fits the sacred/dangerous vessel complex. Caution: Also indexes forbidden_knowledge
+      if the act is prohibited curiosity; do not map to flood/catastrophe unless world
+      destruction or renewal is explicit.'
+    suggested_aliases:
+    - forbidden opening of container
+    - opened vessel releases evils
+    - guarded container releases destructive forces
+  ford_duel_as_crisis_point:
+    group_id: sacred_combat
+    relationship: narrower_than
+    confidence: high
+    review_status: model_auto_accepted_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'The existing sacred_combat group explicitly includes single combat at
+      fords as ritually significant warfare. Caution: If the ford itself functions
+      as a liminal guardian threshold, secondary relation to threshold_guardian may
+      be useful.'
+    suggested_aliases:
+    - single combat at ford
+    - ford duel
+  foreknown_doom_disregarded_under_fate:
+    group_id: death_by_fate
+    relationship: narrower_than
+    confidence: high
+    review_status: model_auto_accepted_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'The label directly describes known death or doom accepted or ignored under
+      the force of fate. Caution: Could overlap with divine_judgment if doom is punitive,
+      or heroic duty if action is chosen despite fate.'
+    suggested_aliases:
+    - disregarded prophecy of doom
+    - known fate ignored
+    - foreknown death under fate
+  forged_abundance_object:
+    group_id: sacred_craft
+    relationship: functional_variant
+    confidence: high
+    review_status: model_auto_accepted_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'The motif centers on forging a wondrous productive object, matching sacred
+      craft and divinely significant construction. Caution: May also belong to sacred_treasures
+      if the object’s power or possession is more important than the forging process.'
+    suggested_aliases:
+    - forged object of abundance
+    - crafted abundance treasure
+    - magically forged abundance object
+  forging_a_wondrous_object_from_small_or_unlikely_materials:
+    group_id: sacred_craft
+    relationship: functional_variant
+    confidence: high
+    review_status: model_auto_accepted_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'A miraculous forging process from unlikely materials is a clear sacred
+      craft motif. Caution: If the resulting object confers authority, protection,
+      or abundance, add secondary review links to sacred_treasures; the material detail
+      may be over-specific.'
+    suggested_aliases:
+    - miraculous forging from unlikely materials
+    - wondrous object forged from small materials
+    - impossible forging
+  forgiveness_preferred_over_proportionate_retaliation:
+    group_id: sacred_law
+    relationship: functional_variant
+    confidence: high
+    review_status: model_auto_accepted_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'The motif is an ethical command governing justice, retaliation, and mercy,
+      fitting sacred law and social order. Caution: If presented primarily as divine
+      reward or moral accounting, divine_judgment may be a secondary mapping.'
+    suggested_aliases:
+    - mercy preferred to retaliation
+    - forgiveness over retribution
+    - ethical restraint in retaliation
+  funerary_body_retrieval_and_funeral_sequence:
+    group_id: heroic_funeral_rites
+    relationship: ritual_variant
+    confidence: high
+    review_status: model_auto_accepted_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'Retrieving a body and completing funeral rites fits the established funeral-rites
+      and memorialization group. Caution: The label may be an over-specific episode
+      summary; preserve body retrieval and rite sequence as evidence details.'
+    suggested_aliases:
+    - body retrieval for burial
+    - recovery of corpse for funeral rites
+    - funeral sequence after body recovery
+  generation_of_beings_from_a_primordial_body:
+    group_id: primordial_sacrifice
+    relationship: narrower_than
+    confidence: high
+    review_status: model_auto_accepted_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'Beings generated from a primordial body belongs to the creation-through-body/dismemberment
+      complex. Caution: Confirm whether the body is sacrificed, killed, or simply
+      generative; if no death/dismemberment is present, cosmic_origin may be the safer
+      parent.'
+    suggested_aliases:
+    - beings born from primordial body
+    - life generated from primal body
+    - creation from primordial body
   abandonment_of_the_corruptible_body:
     group_id: mystical_quest
     relationship: symbolic_variant
@@ -8674,6 +8836,292 @@ raw_motif_group_index:
       overlap with cosmic_origin, sacred_marriage, or sacred_birth depending on whether
       the passage emphasizes creation, union, lineage, or gender roles. Requires sensitive
       review of tradition-specific interpretation.'
+  flower_as_model_of_endurance_through_loss:
+    group_id: beauty_and_paradox
+    relationship: symbolic_variant
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    notes: 'Sufi floral imagery of endurance through loss fits beauty, pain, and spiritual
+      paradox. Caution: Could also be sacred_love or mystical_quest if the flower
+      figures longing for the divine beloved; preserve local metaphor.'
+  following_the_master_s_footsteps:
+    group_id: initiation
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    notes: 'Following a master suggests discipleship, imitation, and guided transformation,
+      fitting initiation. Caution: If merely a literal travel detail or philosophical
+      quotation, it may be too contextual; check whether apprenticeship or transformed
+      status is present.'
+  forced_duel_between_comrades:
+    group_id: sacred_combat
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    notes: 'A compelled duel between allied warriors fits heroic or ritualized combat
+      as a crisis within warfare narrative. Caution: Could also be lament, fate, or
+      tragic kinship depending on whether the passage emphasizes coercion, honor,
+      or doomed friendship.'
+  ford_obstruction_delaying_pursuit_or_attack:
+    group_id: threshold_guardian
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    notes: 'A ford obstruction works as a blocked passage or defended threshold that
+      delays hostile movement. Caution: May be a tactical battle detail rather than
+      a symbolic threshold motif if no liminal or supernatural function is present.'
+  foredoomed_borrowing_of_arms:
+    group_id: death_by_fate
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    notes: 'Borrowed arms marked by doom point to a fated death sequence rather than
+      merely a sacred object motif. Caution: Could also index under sacred_treasures
+      or divine_warrior if the arms themselves carry authority or warrior identity;
+      source context needed.'
+  foreign_host_invades_to_impose_tribute:
+    group_id: sacred_combat
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    notes: 'An invading host demanding tribute functions as a warfare catalyst and
+      sovereignty crisis. Caution: If the emphasis is political legitimacy or tribute
+      law rather than combat, royal_legitimacy may be a better parent; may be episode-specific.'
+  forest_beings_invoked_as_witnesses_and_protectors:
+    group_id: divine_intervention
+    relationship: role_variant
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    notes: 'Forest beings serving as invoked witnesses and protectors fit tutelary
+      or protective sacred agency in human affairs. Caution: Could belong to a future
+      nature-spirit or sacred-forest group; review whether these beings are deities,
+      ancestors, local spirits, or poetic personifications.'
+  forest_obstruction_removed_for_supernatural_sight:
+    group_id: dream_and_vision
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    notes: 'Removal of an obstruction enabling supernatural sight fits opened perception
+      or altered vision. Caution: If the forest functions as an otherworld threshold
+      rather than perception itself, otherworld or threshold_guardian may be relevant;
+      wording may be episode-specific.'
+  forest_powers_as_herd_guardians:
+    group_id: divine_intervention
+    relationship: role_variant
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    notes: 'Forest powers guarding herds fit tutelary spirit protection and sacred
+      guidance over human livelihood. Caution: May warrant a nature-spirit or animal-herd
+      guardian group if many similar labels recur; review culturally specific local-spirit
+      roles.'
+  foretelling_fulfilled_in_old_age:
+    group_id: dream_and_vision
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    notes: 'A fulfilled foretelling functions as prophecy or revealed future knowledge,
+      fitting the dream/vision and omen field. Caution: Single occurrence and age-specific
+      fulfillment may be an episode detail; if the emphasis is destiny at death, death_by_fate
+      may be secondary.'
+  foretelling_or_announcing_armed_conflict:
+    group_id: sacred_combat
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    notes: 'The label combines prophecy with the onset of armed conflict; the conflict
+      function points to sacred_combat, where doom prophecy before raids is already
+      a child. Caution: If the passage centers on prophetic speech rather than warfare,
+      dream_and_vision or sacred_knowledge may be better primary placement.'
+  foretold_dwelling_in_the_wilderness:
+    group_id: hero_journey
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    notes: 'A predicted wilderness dwelling suggests foretold exile, departure, or
+      ordeal within a journey arc. Caution: If the passage emphasizes ascetic discipline
+      rather than exile, mystical_quest or renunciation may be more appropriate; if
+      only a plot prediction, preserve as evidence detail.'
+  forgiveness_if_enemies_desist:
+    group_id: sacred_law
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    notes: 'Conditional forgiveness toward enemies is an ethical/legal norm regulating
+      conflict and social order. Caution: Could be divine_judgment if framed as divine
+      pardon, or sacred_combat if embedded in warfare rules; source context should
+      decide.'
+  former_act_produces_present_miracle:
+    group_id: divine_judgment
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    notes: 'A past act yielding a present miraculous result fits moral causality or
+      karmic consequence under divine/moral reckoning. Caution: In Buddhist context
+      this may be better described as karmic causation than divine judgment; consider
+      a future karma/moral causality group if many such labels recur.'
+  former_companions_forced_into_duel:
+    group_id: sacred_combat
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    notes: 'Forced single combat between former companions fits heroic or ritualized
+      combat as a socially charged ordeal. Caution: Could be an over-specific episode
+      detail unless the duel has ritual, heroic, or fate-bearing significance in the
+      source.'
+  former_comrades_become_mortal_opponents:
+    group_id: sacred_combat
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    notes: 'The label describes former allies transformed into lethal opponents within
+      a heroic conflict pattern. Caution: May be a plot relationship rather than a
+      durable motif; consider divine_warrior only if heroic-warrior honor is central.'
+  former_life_antagonist_repeats_hostility:
+    group_id: karmic_recurrence
+    relationship: functional_variant
+    confidence: medium
+    review_status: new_group_candidate
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    notes: 'The motif depends on hostility recurring across rebirths, a reincarnation-karma
+      pattern not held well by existing fate or transformation groups. Caution: Review
+      Buddhist source context carefully; avoid reducing rebirth causality to generic
+      fate or moral punishment.'
+  fortress_sack_with_captives_treasure_and_cattle_taken:
+    group_id: sacred_combat
+    relationship: over_specific_label
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    notes: 'Fortress sack, captives, treasure, and cattle-taking fit raiding and warfare
+      motifs already grouped under sacred combat. Caution: Highly episode-specific;
+      cattle raid, treasure seizure, and captive-taking may be evidence details rather
+      than separate motifs.'
+  fosterage_with_reciprocal_obligation:
+    group_id: sacred_exchange
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    notes: 'Fosterage framed by reciprocal duties fits obligation, exchange, and socially
+      binding relationship. Caution: If the source emphasizes kinship law or royal
+      upbringing, sacred_law, covenant, or miraculous_child may be relevant secondary
+      placements.'
+  found_writing_with_contents_suited_to_one_hearer_but_not_another:
+    group_id: sacred_knowledge
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    notes: 'A found text whose message differs by recipient concerns selective or
+      transformative knowledge transmission. Caution: Could be a passage-specific
+      marvel, oracle, or literary device; verify that the writing functions as meaningful
+      revelation rather than plot mechanics.'
+  foundation_text_of_a_cultural_past:
+    group_id: storytelling_as_power
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    notes: 'A text that preserves or authorizes a cultural past fits narrative transmission
+      and cultural memory. Caution: May be a scholarly/textual classification rather
+      than a motif in a source passage; exclude if it only describes modern reception
+      or canon formation.'
+  founding_myth_as_noble_lie:
+    group_id: royal_legitimacy
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    notes: 'A founding myth used as a legitimating fiction organizes political and
+      social order. Caution: This may be philosophical commentary rather than a traditional
+      narrative motif; verify whether the passage presents mythic legitimation or
+      analytical critique.'
+  founding_of_a_community_from_mutual_need:
+    group_id: sacred_law
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    notes: 'The emergence of community from interdependence concerns the origin and
+      ordering of social obligations. Caution: Could be philosophical anthropology
+      rather than mythic narrative; if centered on a founding figure, culture_hero
+      may be a secondary fit.'
+  framed_past_life_exemplum:
+    group_id: storytelling_as_power
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    notes: 'A framed past-life tale uses narrative structure to transmit moral or
+      sacred teaching. Caution: If the passage emphasizes karmic rebirth rather than
+      narrative teaching, death_and_transformation or divine_judgment may be relevant
+      secondary mappings.'
+  friend_versus_friend_duel:
+    group_id: sacred_combat
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    notes: 'A duel between companions is a combat ordeal with social and tragic stakes,
+      fitting the broader sacred/heroic combat group. Caution: If the passage emphasizes
+      grief or tragic recognition more than combat, lament_and_mourning may be a secondary
+      placement; single occurrence may be episode-specific.'
+  funeral_duty_following_lamentation:
+    group_id: heroic_funeral_rites
+    relationship: ritual_variant
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    notes: 'The label centers on performing mortuary duty after mourning, matching
+      funeral rites and memorial obligations. Caution: Could also relate to lament_and_mourning
+      if the emotional lament is primary; verify whether this is a recurring rite
+      or a passage sequence.'
+  futile_striving_against_one_s_own_shadow:
+    group_id: duality
+    relationship: symbolic_variant
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    notes: 'Shadow imagery expresses self-opposition and futile conflict with one''s
+      own double, fitting duality as symbolic pairing. Caution: In Daoist context
+      this may be a teaching image about non-action rather than a narrative motif;
+      consider sacred_knowledge if the passage functions as instruction.'
+  futility_of_human_effort_against_decree:
+    group_id: death_by_fate
+    relationship: broader_label
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    notes: 'The motif frames human effort as powerless before a determining decree,
+      aligning with fate/destiny patterns. Caution: If the decree is not about death,
+      the group label is narrower than the motif; may instead be a wisdom or mystical
+      teaching on surrender to divine will.'
+  giants_as_makers_of_landscape_features:
+    group_id: cosmic_origin
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    notes: 'Superhuman beings shaping landscape features is an etiological creation
+      or world-forming motif. Caution: If the landscape is formed from a giant''s
+      body, primordial_sacrifice/body_as_landscape_shaper is better; if this is local
+      place legend, it may be too specific for broad queries.'
   inescapable_chain_of_existence:
     group_id: mystical_quest
     relationship: symbolic_variant
@@ -8703,9 +9151,9 @@ normalization_suggestion_acceptance:
   latest_suggestions_path: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
   latest_review_data_path: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/auto-acceptance.yml
   latest_report_path: docs/motif-normalization-auto-accept-review.md
-  latest_suggestion_count: 640
-  latest_auto_accepted_count: 30
-  latest_review_needed_count: 610
+  latest_suggestion_count: 700
+  latest_auto_accepted_count: 10
+  latest_review_needed_count: 690
 expansion_draft:
   generated_on: '2026-04-29'
   source_suggestions_path: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
@@ -8713,12 +9161,12 @@ expansion_draft:
   purpose: Draft expansion generated from model normalization suggestions. Review
     before merging into taxonomy/motif-normalization.yml.
   include_low_confidence: false
-  suggestion_count: 640
-  accepted_mapping_count: 325
-  new_group_candidate_count: 17
-  excluded_count: 50
-  needs_review_count: 213
-  already_known_count: 52
+  suggestion_count: 700
+  accepted_mapping_count: 354
+  new_group_candidate_count: 18
+  excluded_count: 54
+  needs_review_count: 230
+  already_known_count: 62
 expansion_review_flags:
   low_confidence_or_needs_human_review:
   - motif_id: abandonment_after_rejected_aid
@@ -11970,6 +12418,266 @@ expansion_review_flags:
     cautions: Handle sensitively; may be doctrinal taxonomy or source-specific theology
       rather than a cross-tradition motif. Could relate to sacred_knowledge or divine_call
       only if the passage emphasizes revelation or mission.
+  - motif_id: floral_lure_for_a_female_figure
+    label: Floral lure for a female figure
+    occurrences: 1
+    traditions:
+    - greek
+    suggested_action: needs_human_review
+    suggested_group_id: ''
+    suggested_group_label: ''
+    relationship: uncertain
+    confidence: low
+    reason: low confidence
+    rationale: The label may describe abduction lure, erotic deception, maiden/flower
+      symbolism, or a passage-specific detail.
+    cautions: Single Greek occurrence likely depends on source context; do not collapse
+      into sacred_love or threshold_guardian without evidence of narrative function.
+  - motif_id: fool_elevated_to_power
+    label: fool elevated to power
+    occurrences: 1
+    traditions:
+    - persian
+    suggested_action: map_to_existing_group
+    suggested_group_id: royal_legitimacy
+    suggested_group_label: Royal Legitimacy and Sacred Kingship
+    relationship: functional_variant
+    confidence: low
+    reason: low confidence
+    rationale: The motif concerns elevation into rule or authority, but may be satirical
+      inversion rather than legitimate kingship.
+    cautions: Could belong with pride/downfall, trickster, or storytelling satire
+      depending on whether the fool's rule critiques power or becomes sacredly authorized.
+  - motif_id: foolish_official_causes_communal_or_economic_loss
+    label: Foolish official causes communal or economic loss
+    occurrences: 1
+    traditions:
+    - buddhist
+    suggested_action: map_to_existing_group
+    suggested_group_id: royal_legitimacy
+    suggested_group_label: Royal Legitimacy and Sacred Kingship
+    relationship: functional_variant
+    confidence: low
+    reason: low confidence
+    rationale: A foolish officeholder causing public harm relates to failed governance
+      and social order.
+    cautions: May be a moral exemplum or satire rather than mythic kingship; sacred_law
+      or pride_and_downfall may fit if ethical consequence is central.
+  - motif_id: forest_hermitage_established_in_an_auspicious_natural_setting
+    label: forest hermitage established in an auspicious natural setting
+    occurrences: 1
+    traditions:
+    - hindu
+    suggested_action: needs_human_review
+    suggested_group_id: ''
+    suggested_group_label: ''
+    relationship: uncertain
+    confidence: low
+    reason: low confidence
+    rationale: The label may describe sacred place-making, ascetic withdrawal, or
+      a contextual setting rather than a recurring motif.
+    cautions: Existing groups do not clearly cover hermitage as sacred space; avoid
+      mapping to axis_mundi or mystical_quest unless the passage shows cosmic center,
+      initiation, or interior quest function.
+  - motif_id: foretold_conjunction_of_northern_man_and_southern_woman
+    label: foretold conjunction of northern man and southern woman
+    occurrences: 1
+    traditions:
+    - celtic_irish
+    suggested_action: needs_human_review
+    suggested_group_id: ''
+    suggested_group_label: ''
+    relationship: uncertain
+    confidence: low
+    reason: low confidence
+    rationale: The label could describe prophecy, marriage alliance, geographic polarity,
+      political union, or an episode-specific omen.
+    cautions: Highly contextual and culturally specific; do not map to sacred_marriage
+      or duality without evidence that the union has cosmic, royal, or symbolic function.
+  - motif_id: forgotten_intercession_delays_release
+    label: forgotten intercession delays release
+    occurrences: 1
+    traditions:
+    - islamic
+    suggested_action: needs_human_review
+    suggested_group_id: ''
+    suggested_group_label: ''
+    relationship: uncertain
+    confidence: low
+    reason: low confidence
+    rationale: The label may involve imprisonment, memory failure, mediation, divine
+      timing, or narrative delay rather than a stable motif group.
+    cautions: Needs source context before mapping; if intercession is sacred mediation,
+      divine_intervention may fit, but if it is only plot mechanics it should be excluded
+      or preserved as evidence detail.
+  - motif_id: former_deeds_shaping_present_fate
+    label: Former deeds shaping present fate
+    occurrences: 1
+    traditions:
+    - hindu
+    suggested_action: map_to_existing_group
+    suggested_group_id: death_by_fate
+    suggested_group_label: Death Attributed to Fate or Destiny
+    relationship: broader_label
+    confidence: low
+    reason: low confidence
+    rationale: Past action determining present destiny aligns loosely with fate and
+      moral causation.
+    cautions: In Hindu context this may specifically indicate karma, which is not
+      cleanly represented by existing groups; human review should decide whether a
+      karma/moral causality group is needed.
+  - motif_id: former_existence_of_mankind
+    label: Former existence of mankind
+    occurrences: 1
+    traditions:
+    - greek
+    suggested_action: needs_human_review
+    suggested_group_id: ''
+    suggested_group_label: ''
+    relationship: uncertain
+    confidence: low
+    reason: low confidence
+    rationale: The label may refer to a prior age, preexistence, earlier humanity,
+      or philosophical anthropology.
+    cautions: Too ambiguous from label alone; could belong to cosmic_origin, death_and_transformation,
+      sacred_knowledge, or be a passage-specific doctrinal note.
+  - motif_id: fortunate_removal_contrasted_with_failed_imitation
+    label: Fortunate removal contrasted with failed imitation
+    occurrences: 1
+    traditions:
+    - japanese
+    suggested_action: needs_human_review
+    suggested_group_id: ''
+    suggested_group_label: ''
+    relationship: uncertain
+    confidence: low
+    reason: low confidence
+    rationale: The label suggests a contrastive tale pattern, but the object, action,
+      and sacred function are unclear.
+    cautions: Could be trickster imitation, etiological contrast, moral exemplum,
+      or passage artifact; source evidence is needed.
+  - motif_id: fortune_as_unstable_wheel_or_ball
+    label: fortune as unstable wheel or ball
+    occurrences: 1
+    traditions:
+    - greek_roman
+    suggested_action: map_to_existing_group
+    suggested_group_id: death_by_fate
+    suggested_group_label: Death Attributed to Fate or Destiny
+    relationship: symbolic_variant
+    confidence: low
+    reason: low confidence
+    rationale: Unstable Fortune imagery belongs broadly with destiny and forces beyond
+      human control.
+    cautions: This is a symbolic or philosophical image rather than necessarily a
+      death motif; a future fortune/fate group may be better if many labels recur.
+  - motif_id: four_differently_colored_enchanted_fish
+    label: four differently colored enchanted fish
+    occurrences: 1
+    traditions:
+    - islamicate_folklore
+    suggested_action: needs_human_review
+    suggested_group_id: ''
+    suggested_group_label: ''
+    relationship: uncertain
+    confidence: low
+    reason: low confidence
+    rationale: The label combines number, color, animal, and enchantment, but the
+      narrative function is unclear.
+    cautions: May belong under shapeshifter, sacred_waters, otherworld, or a marvel-tale
+      object/animal pattern depending on context; too specific to map confidently
+      from the label alone.
+  - motif_id: fragile_false_refuge
+    label: Fragile false refuge
+    occurrences: 1
+    traditions:
+    - islamic
+    suggested_action: needs_human_review
+    suggested_group_id: ''
+    suggested_group_label: ''
+    relationship: uncertain
+    confidence: low
+    reason: low confidence
+    rationale: The phrase suggests deceptive safety or misplaced trust, but no existing
+      group clearly captures it without passage evidence.
+    cautions: Could be ethical teaching, divine judgment, pride/downfall, or a passage-specific
+      metaphor; review source context before indexing.
+  - motif_id: fraud_exposed_by_makers_of_the_false_treasure
+    label: fraud exposed by makers of the false treasure
+    occurrences: 1
+    traditions:
+    - japanese
+    suggested_action: map_to_existing_group
+    suggested_group_id: divine_judgment
+    suggested_group_label: Divine Judgment and Moral Reckoning
+    relationship: functional_variant
+    confidence: low
+    reason: low confidence
+    rationale: Exposure of deception and false value can function as moral reckoning
+      and restoration of order.
+    cautions: May be a folktale plot detail rather than sacred judgment; if the false
+      treasure is central, sacred_treasures may be a secondary evidence group.
+  - motif_id: freedom_preferred_to_secure_confinement
+    label: Freedom preferred to secure confinement
+    occurrences: 1
+    traditions:
+    - daoist
+    suggested_action: map_to_existing_group
+    suggested_group_id: duality
+    suggested_group_label: Duality and Cosmic Opposition
+    relationship: symbolic_variant
+    confidence: low
+    reason: low confidence
+    rationale: The motif frames a value opposition between free vulnerability and
+      constrained security, resonant with Daoist complementary contrast.
+    cautions: Likely an ethical-philosophical theme rather than a narrative motif;
+      sacred_knowledge or mystical_quest may fit if the passage uses it as teaching
+      for liberation.
+  - motif_id: freedom_without_civic_necessity
+    label: Freedom without civic necessity
+    occurrences: 1
+    traditions:
+    - greek
+    suggested_action: needs_human_review
+    suggested_group_id: ''
+    suggested_group_label: ''
+    relationship: uncertain
+    confidence: low
+    reason: low confidence
+    rationale: Abstract political-philosophical theme; no clear narrative or symbolic
+      function is visible from the label alone.
+    cautions: May be commentary or ethical-political analysis rather than a motif;
+      needs passage context before mapping to sacred_law, royal_legitimacy, or wisdom.
+  - motif_id: giants_hostile_to_christian_sound
+    label: Giants hostile to Christian sound
+    occurrences: 1
+    traditions:
+    - norse
+    suggested_action: needs_human_review
+    suggested_group_id: ''
+    suggested_group_label: ''
+    relationship: uncertain
+    confidence: low
+    reason: low confidence
+    rationale: The label is culturally and historically specific and may describe
+      Christianized folklore rather than a stable motif group.
+    cautions: Could involve anti-sacred sound, displaced older beings, or conversion-era
+      polemic; avoid mapping without source evidence and sensitivity review.
+  - motif_id: giants_hurl_stones_at_fleeing_humans
+    label: Giants hurl stones at fleeing humans
+    occurrences: 1
+    traditions:
+    - islamicate_folklore
+    suggested_action: needs_human_review
+    suggested_group_id: ''
+    suggested_group_label: ''
+    relationship: over_specific_label
+    confidence: low
+    reason: low confidence
+    rationale: This reads as a highly specific pursuit episode involving giant antagonists,
+      not a clear existing motif function.
+    cautions: May fit sacred_combat, monster pursuit, or etiological stone/landscape
+      lore depending on context; no current giant/monster group cleanly covers it.
   - motif_id: hunter_becomes_hunted
     label: hunter becomes hunted
     occurrences: 2
@@ -12318,6 +13026,23 @@ expansion_review_flags:
     draft_reason_existing_groups_insufficient: Existing groups cover cosmic creation,
       sacred union, and birth, but not the specific anthropogonic creation of the
       first couple or spouse as the basis for human social order.
+  - id: karmic_recurrence
+    label: Karmic Recurrence Across Lives
+    description: Past deeds, relationships, vows, conflicts, or debts recur across
+      rebirths and shape present relationships, destiny, suffering, or liberation.
+    children:
+    - former_life_antagonist_repeats_hostility
+    aliases: []
+    related:
+    - sacred_law
+    - death_by_fate
+    - sacred_knowledge
+    draft_status: new_group_candidate
+    draft_parent_group_ids:
+    - death_and_transformation
+    - divine_judgment
+    draft_reason_existing_groups_insufficient: Existing groups cover fate, judgment,
+      and transformation, but not recurring causality across former and present lives.
   - id: miraculous_provision
     label: Miraculous Provision and Inexhaustible Food
     description: Food, drink, wealth, or sustenance is supernaturally provided, multiplied,
@@ -13094,6 +13819,67 @@ expansion_review_flags:
       than a symbolic or narrative motif inside the story world.
     cautions: Preserve as a textual/provenance note if useful; do not use as evidence
       for transmission or borrowing in motif queries.
+  - motif_id: folk_tradition_preserved_by_conquered_peoples_beside_aristocratic_court_literature
+    label: Folk tradition preserved by conquered peoples beside aristocratic court
+      literature
+    occurrences: 1
+    traditions:
+    - celtic_irish
+    suggested_action: exclude_from_pattern_queries
+    suggested_group_id: _meta_textual
+    suggested_group_label: Textual and Scholarly Artifacts
+    relationship: meta_artifact
+    confidence: high
+    reason: model suggested exclusion from pattern queries
+    rationale: The label describes literary/social transmission and preservation rather
+      than a narrative motif.
+    cautions: Keep as provenance or reception note if useful; do not use as motif
+      evidence or transmission proof in pattern queries.
+  - motif_id: folktale_circulating_under_varied_guises
+    label: Folktale circulating under varied guises
+    occurrences: 1
+    traditions:
+    - buddhist
+    suggested_action: exclude_from_pattern_queries
+    suggested_group_id: _meta_textual
+    suggested_group_label: Textual and Scholarly Artifacts
+    relationship: meta_artifact
+    confidence: high
+    reason: model suggested exclusion from pattern queries
+    rationale: This is a comparative circulation/classification note, not a symbolic
+      or narrative motif in the tale itself.
+    cautions: Do not infer historical contact from this normalization; preserve only
+      as textual or folklore-study metadata.
+  - motif_id: formulaic_repetition_in_epic_poetry
+    label: Formulaic repetition in epic poetry
+    occurrences: 1
+    traditions:
+    - hindu
+    suggested_action: exclude_from_pattern_queries
+    suggested_group_id: _meta_textual
+    suggested_group_label: Textual and Scholarly Artifacts
+    relationship: meta_artifact
+    confidence: high
+    reason: model suggested exclusion from pattern queries
+    rationale: This describes poetic technique or textual form, not a narrative or
+      symbolic motif.
+    cautions: Preserve as literary-style metadata if useful, but exclude from motif
+      pattern queries.
+  - motif_id: fragmentation_of_a_unified_authorial_work_by_skeptical_critics
+    label: fragmentation of a unified authorial work by skeptical critics
+    occurrences: 1
+    traditions:
+    - greek
+    suggested_action: exclude_from_pattern_queries
+    suggested_group_id: _meta_textual
+    suggested_group_label: Textual and Scholarly Artifacts
+    relationship: meta_artifact
+    confidence: high
+    reason: model suggested exclusion from pattern queries
+    rationale: The label describes scholarly criticism and textual attribution rather
+      than a narrative or symbolic motif.
+    cautions: Preserve only as provenance or reception commentary if needed; do not
+      use for motif pattern queries.
   already_known_in_base_normalization:
   - motif_id: abundant_food_and_drink_in_the_marvelous_land
     label: Abundant food and drink in the marvelous land
@@ -13865,6 +14651,156 @@ expansion_review_flags:
       and belongs with family ethics under sacred law/social order.
     cautions: Deduplicate with filial_piety_and_grateful_maturity if both labels derive
       from the same passage or motif extraction.
+  - motif_id: food_theft_by_feigned_helpfulness
+    label: Food theft by feigned helpfulness
+    occurrences: 1
+    traditions:
+    - indigenous_australian
+    suggested_action: map_to_existing_group
+    suggested_group_id: trickster
+    suggested_group_label: Trickster and Boundary Crosser
+    relationship: functional_variant
+    confidence: high
+    reason: already present in base normalization
+    rationale: Deceptive helpfulness used to steal food is a classic trickster theft
+      strategy.
+    cautions: Review cultural context carefully; if the actor is not a trickster or
+      boundary-crosser, it may be a local tale detail rather than broad motif.
+  - motif_id: forbidden_intoxicants_and_divinatory_objects_as_satanic_instruments
+    label: Forbidden intoxicants and divinatory objects as Satanic instruments
+    occurrences: 1
+    traditions:
+    - islamic
+    suggested_action: map_to_existing_group
+    suggested_group_id: sacred_law
+    suggested_group_label: Sacred Law and Social Order
+    relationship: ritual_variant
+    confidence: high
+    reason: already present in base normalization
+    rationale: The label centers on prohibited substances and divinatory practices
+      framed as spiritually dangerous under sacred law.
+    cautions: The wording is tradition-specific and polemical; preserve context and
+      avoid generalizing all divination or intoxicant motifs as identical.
+  - motif_id: forbidden_opening_of_a_guarded_container_releases_destructive_forces
+    label: forbidden opening of a guarded container releases destructive forces
+    occurrences: 1
+    traditions:
+    - greek_roman
+    suggested_action: map_to_existing_group
+    suggested_group_id: sacred_vessel
+    suggested_group_label: Sacred Vessel and Container
+    relationship: functional_variant
+    confidence: high
+    reason: already present in base normalization
+    rationale: A guarded container whose forbidden opening releases destructive powers
+      fits the sacred/dangerous vessel complex.
+    cautions: Also indexes forbidden_knowledge if the act is prohibited curiosity;
+      do not map to flood/catastrophe unless world destruction or renewal is explicit.
+  - motif_id: ford_duel_as_crisis_point
+    label: ford duel as crisis point
+    occurrences: 1
+    traditions:
+    - celtic_irish
+    suggested_action: map_to_existing_group
+    suggested_group_id: sacred_combat
+    suggested_group_label: Sacred Combat and Ritual Warfare
+    relationship: narrower_than
+    confidence: high
+    reason: already present in base normalization
+    rationale: The existing sacred_combat group explicitly includes single combat
+      at fords as ritually significant warfare.
+    cautions: If the ford itself functions as a liminal guardian threshold, secondary
+      relation to threshold_guardian may be useful.
+  - motif_id: foreknown_doom_disregarded_under_fate
+    label: foreknown doom disregarded under fate
+    occurrences: 1
+    traditions:
+    - greek
+    suggested_action: map_to_existing_group
+    suggested_group_id: death_by_fate
+    suggested_group_label: Death Attributed to Fate or Destiny
+    relationship: narrower_than
+    confidence: high
+    reason: already present in base normalization
+    rationale: The label directly describes known death or doom accepted or ignored
+      under the force of fate.
+    cautions: Could overlap with divine_judgment if doom is punitive, or heroic duty
+      if action is chosen despite fate.
+  - motif_id: forged_abundance_object
+    label: forged abundance object
+    occurrences: 1
+    traditions:
+    - finnish_karelian
+    suggested_action: map_to_existing_group
+    suggested_group_id: sacred_craft
+    suggested_group_label: Sacred Craft and Divinely Aided Construction
+    relationship: functional_variant
+    confidence: high
+    reason: already present in base normalization
+    rationale: The motif centers on forging a wondrous productive object, matching
+      sacred craft and divinely significant construction.
+    cautions: May also belong to sacred_treasures if the object’s power or possession
+      is more important than the forging process.
+  - motif_id: forging_a_wondrous_object_from_small_or_unlikely_materials
+    label: Forging a wondrous object from small or unlikely materials
+    occurrences: 1
+    traditions:
+    - finnish_karelian
+    suggested_action: map_to_existing_group
+    suggested_group_id: sacred_craft
+    suggested_group_label: Sacred Craft and Divinely Aided Construction
+    relationship: functional_variant
+    confidence: high
+    reason: already present in base normalization
+    rationale: A miraculous forging process from unlikely materials is a clear sacred
+      craft motif.
+    cautions: If the resulting object confers authority, protection, or abundance,
+      add secondary review links to sacred_treasures; the material detail may be over-specific.
+  - motif_id: forgiveness_preferred_over_proportionate_retaliation
+    label: Forgiveness preferred over proportionate retaliation
+    occurrences: 1
+    traditions:
+    - islamic
+    suggested_action: map_to_existing_group
+    suggested_group_id: sacred_law
+    suggested_group_label: Sacred Law and Social Order
+    relationship: functional_variant
+    confidence: high
+    reason: already present in base normalization
+    rationale: The motif is an ethical command governing justice, retaliation, and
+      mercy, fitting sacred law and social order.
+    cautions: If presented primarily as divine reward or moral accounting, divine_judgment
+      may be a secondary mapping.
+  - motif_id: funerary_body_retrieval_and_funeral_sequence
+    label: Funerary body retrieval and funeral sequence
+    occurrences: 1
+    traditions:
+    - greek
+    suggested_action: map_to_existing_group
+    suggested_group_id: heroic_funeral_rites
+    suggested_group_label: Heroic Funeral Rites and Memorialization
+    relationship: ritual_variant
+    confidence: high
+    reason: already present in base normalization
+    rationale: Retrieving a body and completing funeral rites fits the established
+      funeral-rites and memorialization group.
+    cautions: The label may be an over-specific episode summary; preserve body retrieval
+      and rite sequence as evidence details.
+  - motif_id: generation_of_beings_from_a_primordial_body
+    label: Generation of beings from a primordial body
+    occurrences: 1
+    traditions:
+    - norse
+    suggested_action: map_to_existing_group
+    suggested_group_id: primordial_sacrifice
+    suggested_group_label: Primordial Sacrifice and Dismemberment
+    relationship: narrower_than
+    confidence: high
+    reason: already present in base normalization
+    rationale: Beings generated from a primordial body belongs to the creation-through-body/dismemberment
+      complex.
+    cautions: Confirm whether the body is sacrificed, killed, or simply generative;
+      if no death/dismemberment is present, cosmic_origin may be the safer parent.
   - motif_id: life_bound_to_an_external_object
     label: Life bound to an external object
     occurrences: 2

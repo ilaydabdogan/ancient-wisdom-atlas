@@ -7,8 +7,8 @@ This report lists motif IDs that are present in the motif occurrence index but n
 ## Summary
 
 - Indexed motif IDs: 9072
-- Already mapped: 353
-- Unmapped: 8719
+- Already mapped: 363
+- Unmapped: 8709
 
 | Review Bucket | Unmapped Motifs |
 | --- | ---: |
@@ -23,7 +23,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | Conflict, Violence, Heroic Ordeal, And Victory | 1150 |
 | Objects, Places, Boundaries, And Thresholds | 249 |
 | Ethics, Psychology, Discipline, And Inner Life | 173 |
-| Needs Human Sorting | 1828 |
+| Needs Human Sorting | 1818 |
 
 ## Death, Descent, Afterlife, And Ancestors
 
@@ -7568,17 +7568,12 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `folk_tradition_preserved_by_conquered_peoples_beside_aristocratic_court_literature` | Folk tradition preserved by conquered peoples beside aristocratic court literature | 1 | celtic_irish |
 | `folktale_circulating_under_varied_guises` | Folktale circulating under varied guises | 1 | buddhist |
 | `following_the_master_s_footsteps` | following the master’s footsteps | 1 | greek |
-| `food_theft_by_feigned_helpfulness` | Food theft by feigned helpfulness | 1 | indigenous_australian |
 | `fool_elevated_to_power` | fool elevated to power | 1 | persian |
 | `foolish_official_causes_communal_or_economic_loss` | Foolish official causes communal or economic loss | 1 | buddhist |
-| `forbidden_intoxicants_and_divinatory_objects_as_satanic_instruments` | Forbidden intoxicants and divinatory objects as Satanic instruments | 1 | islamic |
-| `forbidden_opening_of_a_guarded_container_releases_destructive_forces` | forbidden opening of a guarded container releases destructive forces | 1 | greek_roman |
 | `forced_duel_between_comrades` | forced duel between comrades | 1 | celtic_irish |
-| `ford_duel_as_crisis_point` | ford duel as crisis point | 1 | celtic_irish |
 | `ford_obstruction_delaying_pursuit_or_attack` | Ford obstruction delaying pursuit or attack | 1 | celtic_irish |
 | `foredoomed_borrowing_of_arms` | foredoomed borrowing of arms | 1 | greek |
 | `foreign_host_invades_to_impose_tribute` | Foreign host invades to impose tribute | 1 | celtic_irish |
-| `foreknown_doom_disregarded_under_fate` | foreknown doom disregarded under fate | 1 | greek |
 | `forest_beings_invoked_as_witnesses_and_protectors` | forest beings invoked as witnesses and protectors | 1 | hindu |
 | `forest_hermitage_established_in_an_auspicious_natural_setting` | forest hermitage established in an auspicious natural setting | 1 | hindu |
 | `forest_obstruction_removed_for_supernatural_sight` | forest obstruction removed for supernatural sight | 1 | celtic_irish |
@@ -7587,10 +7582,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `foretelling_or_announcing_armed_conflict` | foretelling or announcing armed conflict | 1 | celtic_irish |
 | `foretold_conjunction_of_northern_man_and_southern_woman` | foretold conjunction of northern man and southern woman | 1 | celtic_irish |
 | `foretold_dwelling_in_the_wilderness` | Foretold dwelling in the wilderness | 1 | hindu |
-| `forged_abundance_object` | forged abundance object | 1 | finnish_karelian |
-| `forging_a_wondrous_object_from_small_or_unlikely_materials` | Forging a wondrous object from small or unlikely materials | 1 | finnish_karelian |
 | `forgiveness_if_enemies_desist` | forgiveness if enemies desist | 1 | islamic |
-| `forgiveness_preferred_over_proportionate_retaliation` | Forgiveness preferred over proportionate retaliation | 1 | islamic |
 | `forgotten_intercession_delays_release` | forgotten intercession delays release | 1 | islamic |
 | `former_act_produces_present_miracle` | Former act produces present miracle | 1 | buddhist |
 | `former_companions_forced_into_duel` | former companions forced into duel | 1 | celtic_irish |
@@ -7616,10 +7608,8 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `freedom_without_civic_necessity` | Freedom without civic necessity | 1 | greek |
 | `friend_versus_friend_duel` | friend versus friend duel | 1 | celtic_irish |
 | `funeral_duty_following_lamentation` | funeral duty following lamentation | 1 | hindu |
-| `funerary_body_retrieval_and_funeral_sequence` | Funerary body retrieval and funeral sequence | 1 | greek |
 | `futile_striving_against_one_s_own_shadow` | futile striving against one’s own shadow | 1 | daoist |
 | `futility_of_human_effort_against_decree` | futility of human effort against decree | 1 | sufi |
-| `generation_of_beings_from_a_primordial_body` | Generation of beings from a primordial body | 1 | norse |
 | `giants_as_makers_of_landscape_features` | giants as makers of landscape features | 1 | norse |
 | `giants_hostile_to_christian_sound` | Giants hostile to Christian sound | 1 | norse |
 | `giants_hurl_stones_at_fleeing_humans` | Giants hurl stones at fleeing humans | 1 | islamicate_folklore |

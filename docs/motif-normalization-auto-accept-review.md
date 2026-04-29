@@ -6,44 +6,24 @@ Policy: auto-accept only high-confidence `map_to_existing_group` suggestions who
 
 ## Summary
 
-- Suggestions reviewed: 640
-- Auto-accepted into main taxonomy: 30
-- Staged for review: 610
+- Suggestions reviewed: 700
+- Auto-accepted into main taxonomy: 10
+- Staged for review: 690
 
 ## Auto-Accepted
 
 | Motif ID | Label | Group | Relationship | Occurrences | Traditions |
 | --- | --- | --- | --- | ---: | --- |
-| `coercion_by_possession_of_another_s_life_container` | Coercion by possession of another’s life-container | `external_soul` External Soul and Life-Token | functional_variant | 1 | comparative |
-| `collective_lament_for_the_fallen_champion` | collective lament for the fallen champion | `lament_and_mourning` Lament, Mourning, and Tragic Recognition | narrower_than | 1 | celtic_irish |
-| `collective_lamentation_for_a_fallen_defender` | collective lamentation for a fallen defender | `lament_and_mourning` Lament, Mourning, and Tragic Recognition | narrower_than | 1 | greek |
-| `communal_female_mourning` | communal female mourning | `lament_and_mourning` Lament, Mourning, and Tragic Recognition | ritual_variant | 1 | hindu |
-| `communal_illness_transferred_to_a_scapegoat_and_expelled` | communal illness transferred to a scapegoat and expelled | `sacrifice` Sacrifice and Offering | ritual_variant | 1 | comparative |
-| `container_of_human_afflictions` | container of human afflictions | `sacred_vessel` Sacred Vessel and Container | functional_variant | 1 | greek_roman |
-| `cosmic_measurement_by_three_strides` | Cosmic measurement by three strides | `supreme_ruler` Supreme Ruler and Cosmic Sovereignty | functional_variant | 1 | hindu |
-| `cosmic_portents_at_the_last_day` | cosmic portents at the last day | `divine_judgment` Divine Judgment and Moral Reckoning | narrower_than | 1 | islamic |
-| `cosmic_witnesses_to_hidden_wrongdoing` | cosmic witnesses to hidden wrongdoing | `divine_judgment` Divine Judgment and Moral Reckoning | functional_variant | 1 | hindu |
-| `decreed_fate_delayed_but_not_annulled` | decreed fate delayed but not annulled | `death_by_fate` Death Attributed to Fate or Destiny | functional_variant | 1 | greek |
-| `defeat_by_destruction_or_possession_of_the_external_life_token` | Defeat by destruction or possession of the external life-token | `external_soul` External Soul and Life-Token | functional_variant | 1 | comparative |
-| `derisive_boast_provokes_vengeance` | derisive boast provokes vengeance | `pride_and_downfall` Pride, Hubris, and Downfall | functional_variant | 1 | celtic_irish |
-| `dietary_holiness_with_necessity_exception` | Dietary holiness with necessity exception | `sacred_law` Sacred Law and Social Order | ritual_variant | 1 | islamic |
-| `disciple_mourning_slain_teacher` | disciple mourning slain teacher | `lament_and_mourning` Lament, Mourning, and Tragic Recognition | functional_variant | 1 | hindu |
-| `esoteric_secret_doctrine` | esoteric secret doctrine | `sacred_knowledge` Sacred Knowledge and Wisdom | narrower_than | 1 | sufi |
-| `ethical_protection_of_orphan_and_beggar` | ethical protection of orphan and beggar | `sacred_law` Sacred Law and Social Order | narrower_than | 1 | islamic |
-| `exorcistic_expulsion_by_threatened_banishment` | exorcistic expulsion by threatened banishment | `sacrifice` Sacrifice and Offering | ritual_variant | 1 | finnish_karelian |
-| `expulsion_of_evil_through_visible_representatives` | expulsion of evil through visible representatives | `sacrifice` Sacrifice and Offering | ritual_variant | 1 | comparative |
-| `expulsion_or_transference_of_evils_through_scapegoat_like_means` | Expulsion or transference of evils through scapegoat-like means | `sacrifice` Sacrifice and Offering | ritual_variant | 1 | comparative |
-| `fairy_money_that_becomes_worthless_matter` | fairy money that becomes worthless matter | `otherworld` Otherworld and Enchanted Realm | symbolic_variant | 1 | celtic_welsh |
-| `fall_of_a_heavenly_being_through_refusal_of_commanded_homage` | fall of a heavenly being through refusal of commanded homage | `divine_intervention` Divine Intervention and Guidance | child | 1 | islamic |
-| `fall_of_overconfident_monumental_work` | fall of overconfident monumental work | `pride_and_downfall` Pride, Hubris, and Downfall | functional_variant | 1 | islamic |
-| `false_confidence_leads_to_disaster` | false confidence leads to disaster | `pride_and_downfall` Pride, Hubris, and Downfall | narrower_than | 1 | greek |
-| `false_external_heart_deception` | False external heart deception | `external_soul` External Soul and Life-Token | functional_variant | 1 | buddhist |
-| `familiarity_with_the_fairy_country` | familiarity with the fairy country | `otherworld` Otherworld and Enchanted Realm | narrower_than | 1 | celtic_irish |
-| `fatal_cattle_raid_and_ambush` | fatal cattle raid and ambush | `sacred_combat` Sacred Combat and Ritual Warfare | narrower_than | 1 | celtic_irish |
-| `fatal_champion_duel_at_a_ford` | fatal champion duel at a ford | `sacred_combat` Sacred Combat and Ritual Warfare | narrower_than | 1 | celtic_irish |
-| `fatal_hair_as_life_token` | fatal hair as life-token | `external_soul` External Soul and Life-Token | symbolic_variant | 1 | comparative |
-| `fate_delayed_but_not_overturned` | fate delayed but not overturned | `death_by_fate` Death Attributed to Fate or Destiny | functional_variant | 1 | roman |
-| `filial_piety_and_mature_gratitude` | Filial piety and mature gratitude | `sacred_law` Sacred Law and Social Order | alias | 1 | islamic |
+| `food_theft_by_feigned_helpfulness` | Food theft by feigned helpfulness | `trickster` Trickster and Boundary Crosser | functional_variant | 1 | indigenous_australian |
+| `forbidden_intoxicants_and_divinatory_objects_as_satanic_instruments` | Forbidden intoxicants and divinatory objects as Satanic instruments | `sacred_law` Sacred Law and Social Order | ritual_variant | 1 | islamic |
+| `forbidden_opening_of_a_guarded_container_releases_destructive_forces` | forbidden opening of a guarded container releases destructive forces | `sacred_vessel` Sacred Vessel and Container | functional_variant | 1 | greek_roman |
+| `ford_duel_as_crisis_point` | ford duel as crisis point | `sacred_combat` Sacred Combat and Ritual Warfare | narrower_than | 1 | celtic_irish |
+| `foreknown_doom_disregarded_under_fate` | foreknown doom disregarded under fate | `death_by_fate` Death Attributed to Fate or Destiny | narrower_than | 1 | greek |
+| `forged_abundance_object` | forged abundance object | `sacred_craft` Sacred Craft and Divinely Aided Construction | functional_variant | 1 | finnish_karelian |
+| `forging_a_wondrous_object_from_small_or_unlikely_materials` | Forging a wondrous object from small or unlikely materials | `sacred_craft` Sacred Craft and Divinely Aided Construction | functional_variant | 1 | finnish_karelian |
+| `forgiveness_preferred_over_proportionate_retaliation` | Forgiveness preferred over proportionate retaliation | `sacred_law` Sacred Law and Social Order | functional_variant | 1 | islamic |
+| `funerary_body_retrieval_and_funeral_sequence` | Funerary body retrieval and funeral sequence | `heroic_funeral_rites` Heroic Funeral Rites and Memorialization | ritual_variant | 1 | greek |
+| `generation_of_beings_from_a_primordial_body` | Generation of beings from a primordial body | `primordial_sacrifice` Primordial Sacrifice and Dismemberment | narrower_than | 1 | norse |
 
 ## Staged For Review
 
@@ -295,11 +275,14 @@ Policy: auto-accept only high-confidence `map_to_existing_group` suggestions who
 | `coerced_accomplice_in_a_deceptive_plot` | coerced accomplice in a deceptive plot | map_to_existing_group | `trickster` Trickster and Boundary Crosser | medium | not high-confidence existing-group placement |
 | `coerced_removal_by_magic_like_rod` | coerced removal by magic-like rod | needs_human_review | `sacred_treasures` Sacred Treasures and Power Objects | low | low confidence |
 | `coerced_supernatural_labor_turns_prosperity_into_destruction` | coerced supernatural labor turns prosperity into destruction | needs_human_review | `sacred_exchange` Sacred Exchange and Reciprocity | low | low confidence |
+| `coercion_by_possession_of_another_s_life_container` | Coercion by possession of another’s life-container | map_to_existing_group | `external_soul` External Soul and Life-Token | high | already mapped in main taxonomy |
 | `coercion_by_threat_and_blandishment` | coercion by threat and blandishment | needs_human_review | ``  | low | low confidence |
 | `coercion_of_supernatural_agents_by_magic` | Coercion of supernatural agents by magic | new_group_candidate | `` Ritual Coercion of Supernatural Agents | medium | new group candidate |
 | `coercive_cutting_of_hair_to_overcome_resistance` | Coercive cutting of hair to overcome resistance | needs_human_review | `sacred_treasures` Sacred Treasures and Power Objects | low | low confidence |
 | `collective_deliberation_under_threat` | collective deliberation under threat | needs_human_review | `royal_legitimacy` Royal Legitimacy and Sacred Kingship | low | low confidence |
 | `collective_destruction_of_the_deceiving_predator` | Collective destruction of the deceiving predator | map_to_existing_group | `trickster` Trickster and Boundary Crosser | medium | not high-confidence existing-group placement |
+| `collective_lament_for_the_fallen_champion` | collective lament for the fallen champion | map_to_existing_group | `lament_and_mourning` Lament, Mourning, and Tragic Recognition | high | already mapped in main taxonomy |
+| `collective_lamentation_for_a_fallen_defender` | collective lamentation for a fallen defender | map_to_existing_group | `lament_and_mourning` Lament, Mourning, and Tragic Recognition | high | already mapped in main taxonomy |
 | `collective_traditional_formation_of_an_epic` | Collective traditional formation of an epic | exclude_from_pattern_queries | `_meta_textual` Textual and Scholarly Artifacts | high | suggested exclusion |
 | `collector_poet_unifying_scattered_lays_into_one_poem` | collector-poet unifying scattered lays into one poem | exclude_from_pattern_queries | `_meta_textual` Textual and Scholarly Artifacts | high | suggested exclusion |
 | `color_origin_explanation_for_mulberry` | color-origin explanation for mulberry | needs_human_review | ``  | low | low confidence |
@@ -307,6 +290,8 @@ Policy: auto-accept only high-confidence `map_to_existing_group` suggestions who
 | `comic_bodily_cure_through_sneezing` | Comic bodily cure through sneezing | exclude_from_pattern_queries | ``  | medium | suggested exclusion |
 | `comic_or_cheerful_contrast_after_catastrophe` | comic or cheerful contrast after catastrophe | needs_human_review | ``  | low | low confidence |
 | `comic_reversal_of_mourning` | Comic reversal of mourning | map_to_existing_group | `lament_and_mourning` Lament, Mourning, and Tragic Recognition | medium | not high-confidence existing-group placement |
+| `communal_female_mourning` | communal female mourning | map_to_existing_group | `lament_and_mourning` Lament, Mourning, and Tragic Recognition | high | already mapped in main taxonomy |
+| `communal_illness_transferred_to_a_scapegoat_and_expelled` | communal illness transferred to a scapegoat and expelled | map_to_existing_group | `sacrifice` Sacrifice and Offering | high | already mapped in main taxonomy |
 | `communal_spouses_and_property_in_imagined_early_society` | Communal spouses and property in imagined early society | needs_human_review | ``  | low | low confidence |
 | `community_founded_from_human_need` | community founded from human need | map_to_existing_group | `sacred_law` Sacred Law and Social Order | medium | not high-confidence existing-group placement |
 | `community_refuses_aid_for_wrongful_act` | community refuses aid for wrongful act | map_to_existing_group | `sacred_law` Sacred Law and Social Order | low | low confidence |
@@ -334,6 +319,7 @@ Policy: auto-accept only high-confidence `map_to_existing_group` suggestions who
 | `construction_of_an_ideal_commonwealth` | construction of an ideal commonwealth | needs_human_review | `sacred_law` Sacred Law and Social Order | low | low confidence |
 | `consuming_power_of_time_and_old_age` | consuming power of time and old age | map_to_existing_group | `immortality_without_renewal` Immortality Without Renewal | medium | not high-confidence existing-group placement |
 | `contagious_magic_through_severed_body_parts` | contagious magic through severed body parts | needs_human_review | `external_soul` External Soul and Life-Token | low | low confidence |
+| `container_of_human_afflictions` | container of human afflictions | map_to_existing_group | `sacred_vessel` Sacred Vessel and Container | high | already mapped in main taxonomy |
 | `continuity_between_religious_traditions` | continuity between religious traditions | exclude_from_pattern_queries | `_meta_textual` Textual and Scholarly Artifacts | high | suggested exclusion |
 | `contrasting_kind_and_cruel_elders` | contrasting kind and cruel elders | needs_human_review | `duality` Duality and Cosmic Opposition | low | low confidence |
 | `corrupt_appointment_leads_to_public_humiliation` | corrupt appointment leads to public humiliation | map_to_existing_group | `divine_judgment` Divine Judgment and Moral Reckoning | medium | not high-confidence existing-group placement |
@@ -347,13 +333,16 @@ Policy: auto-accept only high-confidence `map_to_existing_group` suggestions who
 | `cosmic_cycle_used_to_explain_existence_and_non_existence` | cosmic cycle used to explain existence and non-existence | map_to_existing_group | `duality` Duality and Cosmic Opposition | medium | not high-confidence existing-group placement |
 | `cosmic_decree_of_impermanent_pleasure` | cosmic decree of impermanent pleasure | map_to_existing_group | `sacred_knowledge` Sacred Knowledge and Wisdom | low | low confidence |
 | `cosmic_dominion_praised_through_game_imagery` | cosmic dominion praised through game imagery | needs_human_review | `supreme_ruler` Supreme Ruler and Cosmic Sovereignty | low | low confidence |
+| `cosmic_measurement_by_three_strides` | Cosmic measurement by three strides | map_to_existing_group | `supreme_ruler` Supreme Ruler and Cosmic Sovereignty | high | already mapped in main taxonomy |
 | `cosmic_partition_into_bounded_regions` | Cosmic partition into bounded regions | map_to_existing_group | `cosmic_origin` Cosmic Origin and Creation | medium | not high-confidence existing-group placement |
+| `cosmic_portents_at_the_last_day` | cosmic portents at the last day | map_to_existing_group | `divine_judgment` Divine Judgment and Moral Reckoning | high | already mapped in main taxonomy |
 | `cosmic_record_and_accumulated_anguish` | cosmic record and accumulated anguish | needs_human_review | ``  | low | low confidence |
 | `cosmic_response_to_the_future_buddha_s_wish` | Cosmic response to the future Buddha’s wish | map_to_existing_group | `divine_intervention` Divine Intervention and Guidance | medium | not high-confidence existing-group placement |
 | `cosmic_scale_against_a_small_cast_object` | Cosmic scale against a small cast object | needs_human_review | ``  | low | low confidence |
 | `cosmic_stratification_of_seven_heavens` | cosmic stratification of seven heavens | map_to_existing_group | `ascent` Ascent and Heavenly Journey | medium | not high-confidence existing-group placement |
 | `cosmic_sustainer_against_collapse` | cosmic sustainer against collapse | map_to_existing_group | `divine_intervention` Divine Intervention and Guidance | medium | not high-confidence existing-group placement |
 | `cosmic_wheel_as_bondage` | cosmic wheel as bondage | map_to_existing_group | `mystical_quest` Mystical Quest and Interior Journey | medium | not high-confidence existing-group placement |
+| `cosmic_witnesses_to_hidden_wrongdoing` | cosmic witnesses to hidden wrongdoing | map_to_existing_group | `divine_judgment` Divine Judgment and Moral Reckoning | high | already mapped in main taxonomy |
 | `cosmic_writing_of_decrees` | cosmic writing of decrees | map_to_existing_group | `sacred_knowledge` Sacred Knowledge and Wisdom | medium | not high-confidence existing-group placement |
 | `counter_image_used_as_antidote_or_guarantee` | counter-image used as antidote or guarantee | needs_human_review | `sacred_law` Sacred Law and Social Order | low | low confidence |
 | `counterproductive_remedy_intensifies_the_problem` | counterproductive remedy intensifies the problem | needs_human_review | `pride_and_downfall` Pride, Hubris, and Downfall | low | low confidence |
@@ -409,7 +398,9 @@ Policy: auto-accept only high-confidence `map_to_existing_group` suggestions who
 | `decline_through_corrupted_generation` | decline through corrupted generation | map_to_existing_group | `pride_and_downfall` Pride, Hubris, and Downfall | medium | not high-confidence existing-group placement |
 | `decline_through_successive_metallic_ages` | decline through successive metallic ages | new_group_candidate | `` World Ages and Cosmic Decline | high | new group candidate |
 | `declining_ages_of_humankind` | Declining ages of humankind | new_group_candidate | `` World Ages and Cosmic Decline | high | new group candidate |
+| `decreed_fate_delayed_but_not_annulled` | decreed fate delayed but not annulled | map_to_existing_group | `death_by_fate` Death Attributed to Fate or Destiny | high | already mapped in main taxonomy |
 | `deeds_bear_delayed_consequences` | Deeds bear delayed consequences | map_to_existing_group | `divine_judgment` Divine Judgment and Moral Reckoning | medium | not high-confidence existing-group placement |
+| `defeat_by_destruction_or_possession_of_the_external_life_token` | Defeat by destruction or possession of the external life-token | map_to_existing_group | `external_soul` External Soul and Life-Token | high | already mapped in main taxonomy |
 | `defeat_of_champion_prompts_escalation` | Defeat of champion prompts escalation | map_to_existing_group | `sacred_combat` Sacred Combat and Ritual Warfare | medium | not high-confidence existing-group placement |
 | `defeated_adversary_becomes_sworn_ally` | defeated adversary becomes sworn ally | needs_human_review | `sacred_combat` Sacred Combat and Ritual Warfare | low | low confidence |
 | `defeated_demon_chief_submits_by_losing_horns` | Defeated demon chief submits by losing horns | map_to_existing_group | `divine_warrior` Divine Warrior and Sacred Combat | medium | not high-confidence existing-group placement |
@@ -451,6 +442,7 @@ Policy: auto-accept only high-confidence `map_to_existing_group` suggestions who
 | `dependent_motion_through_hidden_causes` | dependent motion through hidden causes | map_to_existing_group | `sacred_knowledge` Sacred Knowledge and Wisdom | low | low confidence |
 | `dependent_young_spared_through_intercession` | dependent young spared through intercession | map_to_existing_group | `miraculous_child` Miraculous Child and Sacred Birth | medium | not high-confidence existing-group placement |
 | `deprivation_and_restoration_of_a_shared_sense_object` | deprivation and restoration of a shared sense-object | needs_human_review | ``  | low | low confidence |
+| `derisive_boast_provokes_vengeance` | derisive boast provokes vengeance | map_to_existing_group | `pride_and_downfall` Pride, Hubris, and Downfall | high | already mapped in main taxonomy |
 | `desolate_capital_as_omen_of_disaster` | desolate capital as omen of disaster | map_to_existing_group | `dream_and_vision` Dream, Vision, and Altered Perception | medium | not high-confidence existing-group placement |
 | `destined_defeat_of_sorceresses_by_former_pupil` | destined defeat of sorceresses by former pupil | needs_human_review | ``  | low | low confidence |
 | `destiny_in_popular_pictorial_elaboration` | Destiny in popular pictorial elaboration | exclude_from_pattern_queries | `_meta_textual` Textual and Scholarly Artifacts | high | suggested exclusion |
@@ -465,11 +457,13 @@ Policy: auto-accept only high-confidence `map_to_existing_group` suggestions who
 | `development_from_inspired_prophet_to_political_founder` | development from inspired prophet to political founder | map_to_existing_group | `culture_hero` Culture Hero and Founder | low | low confidence |
 | `devil_as_betrayer_of_humanity` | Devil as betrayer of humanity | map_to_existing_group | `trickster` Trickster and Boundary Crosser | medium | not high-confidence existing-group placement |
 | `didactic_past_life_identification` | didactic past-life identification | map_to_existing_group | `sacred_knowledge` Sacred Knowledge and Wisdom | medium | not high-confidence existing-group placement |
+| `dietary_holiness_with_necessity_exception` | Dietary holiness with necessity exception | map_to_existing_group | `sacred_law` Sacred Law and Social Order | high | already mapped in main taxonomy |
 | `different_reception_of_similar_behavior` | different reception of similar behavior | needs_human_review | ``  | low | low confidence |
 | `diminished_survivor_of_a_vanished_company` | diminished survivor of a vanished company | map_to_existing_group | `lament_and_mourning` Lament, Mourning, and Tragic Recognition | medium | not high-confidence existing-group placement |
 | `diplomatic_gift_before_interview` | Diplomatic gift before interview | map_to_existing_group | `sacred_exchange` Sacred Exchange and Reciprocity | medium | not high-confidence existing-group placement |
 | `directional_guardian_deities` | directional guardian deities | map_to_existing_group | `threshold_guardian` Threshold Guardian | medium | not high-confidence existing-group placement |
 | `disarming_rivals_before_vengeance` | disarming rivals before vengeance | map_to_existing_group | `sacred_combat` Sacred Combat and Ritual Warfare | low | low confidence |
+| `disciple_mourning_slain_teacher` | disciple mourning slain teacher | map_to_existing_group | `lament_and_mourning` Lament, Mourning, and Tragic Recognition | high | already mapped in main taxonomy |
 | `discordant_object_introduced_at_a_wedding_feast` | Discordant object introduced at a wedding feast | needs_human_review | ``  | medium | model requested human review |
 | `dishonest_custodian_denies_entrusted_property_through_impossible_explanation` | dishonest custodian denies entrusted property through impossible explanation | needs_human_review | ``  | medium | model requested human review |
 | `disloyal_retainers_refuse_substitution_for_their_lord` | Disloyal retainers refuse substitution for their lord | map_to_existing_group | `royal_legitimacy` Royal Legitimacy and Sacred Kingship | medium | not high-confidence existing-group placement |
@@ -531,23 +525,9 @@ Policy: auto-accept only high-confidence `map_to_existing_group` suggestions who
 | `escape_from_fiery_iron_enclosure` | Escape from fiery iron enclosure | needs_human_review | ``  | low | low confidence |
 | `escape_plan_by_improvised_rafts` | Escape plan by improvised rafts | exclude_from_pattern_queries | ``  | medium | suggested exclusion |
 | `eschatological_trumpet_and_universal_terror` | eschatological trumpet and universal terror | needs_human_review | ``  | medium | model requested human review |
+| `esoteric_secret_doctrine` | esoteric secret doctrine | map_to_existing_group | `sacred_knowledge` Sacred Knowledge and Wisdom | high | already mapped in main taxonomy |
 | `estrangement_from_court_caused_by_insult` | estrangement from court caused by insult | needs_human_review | ``  | low | low confidence |
+| `ethical_protection_of_orphan_and_beggar` | ethical protection of orphan and beggar | map_to_existing_group | `sacred_law` Sacred Law and Social Order | high | already mapped in main taxonomy |
 | `ethnic_taunt_opposing_martial_masculinity_to_luxurious_cultic_softness` | ethnic taunt opposing martial masculinity to luxurious cultic softness | exclude_from_pattern_queries | `_meta_textual` Textual and Scholarly Artifacts | medium | suggested exclusion |
-| `etiological_color_change` | etiological color change | needs_human_review | ``  | low | low confidence |
-| `etiological_explanation_for_a_valley_of_madness` | etiological explanation for a valley of madness | needs_human_review | ``  | low | low confidence |
-| `etiological_explanation_of_bear_s_human_likeness` | Etiological explanation of bear's human likeness | map_to_existing_group | `shapeshifter` Shapeshifter and Transformation | medium | not high-confidence existing-group placement |
-| `etiological_explanation_of_galah_bald_patch_and_red_prickly_lizard` | etiological explanation of Galah bald patch and red prickly lizard | needs_human_review | ``  | medium | model requested human review |
-| `etiological_explanation_of_natural_phenomena` | etiological explanation of natural phenomena | needs_human_review | ``  | low | low confidence |
-| `etiological_naming_from_supernatural_events` | Etiological naming from supernatural events | needs_human_review | ``  | low | low confidence |
-| `etiological_naming_from_violent_event` | etiological naming from violent event | needs_human_review | ``  | low | low confidence |
-| `etiology_of_an_abundance_horn` | etiology of an abundance horn | map_to_existing_group | `sacred_treasures` Sacred Treasures and Power Objects | medium | not high-confidence existing-group placement |
-| `etiology_of_echo_as_surviving_voice` | Etiology of echo as surviving voice | map_to_existing_group | `death_and_transformation` Death, Rebirth, and Transformation | medium | not high-confidence existing-group placement |
-| `etiology_of_echoing_sound` | etiology of echoing sound | needs_human_review | ``  | low | low confidence |
-| `exceptional_booty_rule_based_on_mode_of_expedition` | exceptional booty rule based on mode of expedition | map_to_existing_group | `sacred_law` Sacred Law and Social Order | medium | not high-confidence existing-group placement |
-| `exceptional_marital_privilege_of_a_prophet` | exceptional marital privilege of a prophet | needs_human_review | ``  | low | low confidence |
-| `excess_as_cause_of_decay` | excess as cause of decay | map_to_existing_group | `pride_and_downfall` Pride, Hubris, and Downfall | medium | not high-confidence existing-group placement |
-| `excessive_response_to_exemplary_withdrawal` | excessive response to exemplary withdrawal | needs_human_review | ``  | low | low confidence |
-| `exchange_of_arms_becomes_fatal_exchange` | exchange of arms becomes fatal exchange | map_to_existing_group | `sacred_combat` Sacred Combat and Ritual Warfare | medium | not high-confidence existing-group placement |
-| `exclusive_devotion_and_rejection_of_idols` | Exclusive devotion and rejection of idols | map_to_existing_group | `covenant` Covenant and Sacred Bond | medium | not high-confidence existing-group placement |
 
-_Showing first 500 of 610 review rows._
+_Showing first 500 of 690 review rows._

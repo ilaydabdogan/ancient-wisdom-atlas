@@ -1,0 +1,310 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0065
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.floral-lure-for-a-female-figure
+  motif_id: floral_lure_for_a_female_figure
+  label: Floral lure for a female figure
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe abduction lure, erotic deception, maiden/flower
+    symbolism, or a passage-specific detail.
+  cautions: Single Greek occurrence likely depends on source context; do not collapse
+    into sacred_love or threshold_guardian without evidence of narrative function.
+  suggested_aliases:
+  - flower lure
+  - floral enticement
+  - maiden lured by flowers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_love
+    - threshold_guardian
+    - otherworld
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.flower-as-model-of-endurance-through-loss
+  motif_id: flower_as_model_of_endurance_through_loss
+  label: flower as model of endurance through loss
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: beauty_and_paradox
+  suggested_group_label: Beauty Paired with Pain and Paradox
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Sufi floral imagery of endurance through loss fits beauty, pain, and
+    spiritual paradox.
+  cautions: Could also be sacred_love or mystical_quest if the flower figures longing
+    for the divine beloved; preserve local metaphor.
+  suggested_aliases:
+  - flower enduring loss
+  - floral endurance through grief
+  - flower as spiritual endurance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.folk-tradition-preserved-by-conquered-peoples-beside-aristocratic-court-literature
+  motif_id: folk_tradition_preserved_by_conquered_peoples_beside_aristocratic_court_literature
+  label: Folk tradition preserved by conquered peoples beside aristocratic court literature
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes literary/social transmission and preservation rather
+    than a narrative motif.
+  cautions: Keep as provenance or reception note if useful; do not use as motif evidence
+    or transmission proof in pattern queries.
+  suggested_aliases:
+  - folk tradition preserved beside court literature
+  - conquered peoples preserve folk tradition
+  - parallel folk and aristocratic literary traditions
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.folktale-circulating-under-varied-guises
+  motif_id: folktale_circulating_under_varied_guises
+  label: Folktale circulating under varied guises
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This is a comparative circulation/classification note, not a symbolic
+    or narrative motif in the tale itself.
+  cautions: Do not infer historical contact from this normalization; preserve only
+    as textual or folklore-study metadata.
+  suggested_aliases:
+  - folktale in varied guises
+  - variant folktale circulation
+  - tale type circulating in different forms
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.following-the-master-s-footsteps
+  motif_id: following_the_master_s_footsteps
+  label: following the master’s footsteps
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: functional_variant
+  confidence: medium
+  rationale: Following a master suggests discipleship, imitation, and guided transformation,
+    fitting initiation.
+  cautions: If merely a literal travel detail or philosophical quotation, it may be
+    too contextual; check whether apprenticeship or transformed status is present.
+  suggested_aliases:
+  - disciple follows master
+  - following in the teacher's footsteps
+  - imitation of the master
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_knowledge
+    - mystical_quest
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.food-theft-by-feigned-helpfulness
+  motif_id: food_theft_by_feigned_helpfulness
+  label: Food theft by feigned helpfulness
+  occurrences: 1
+  traditions:
+  - indigenous_australian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: high
+  rationale: Deceptive helpfulness used to steal food is a classic trickster theft
+    strategy.
+  cautions: Review cultural context carefully; if the actor is not a trickster or
+    boundary-crosser, it may be a local tale detail rather than broad motif.
+  suggested_aliases:
+  - theft by feigned aid
+  - deceptive helpfulness to steal food
+  - trickster food theft
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_theft
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fool-elevated-to-power
+  motif_id: fool_elevated_to_power
+  label: fool elevated to power
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: low
+  rationale: The motif concerns elevation into rule or authority, but may be satirical
+    inversion rather than legitimate kingship.
+  cautions: Could belong with pride/downfall, trickster, or storytelling satire depending
+    on whether the fool's rule critiques power or becomes sacredly authorized.
+  suggested_aliases:
+  - fool made ruler
+  - fool raised to authority
+  - incompetent ruler elevated
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - pride_and_downfall
+    - storytelling_as_power
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.foolish-official-causes-communal-or-economic-loss
+  motif_id: foolish_official_causes_communal_or_economic_loss
+  label: Foolish official causes communal or economic loss
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: low
+  rationale: A foolish officeholder causing public harm relates to failed governance
+    and social order.
+  cautions: May be a moral exemplum or satire rather than mythic kingship; sacred_law
+    or pride_and_downfall may fit if ethical consequence is central.
+  suggested_aliases:
+  - foolish official harms community
+  - incompetent official causes loss
+  - bad governance causing economic loss
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_judgment
+    - pride_and_downfall
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.forbidden-intoxicants-and-divinatory-objects-as-satanic-instruments
+  motif_id: forbidden_intoxicants_and_divinatory_objects_as_satanic_instruments
+  label: Forbidden intoxicants and divinatory objects as Satanic instruments
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: The label centers on prohibited substances and divinatory practices framed
+    as spiritually dangerous under sacred law.
+  cautions: The wording is tradition-specific and polemical; preserve context and
+    avoid generalizing all divination or intoxicant motifs as identical.
+  suggested_aliases:
+  - forbidden intoxicants
+  - divinatory objects as satanic instruments
+  - ritual prohibition of intoxicants and divination
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - covenant
+    - divine_judgment
+    - forbidden_knowledge
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.forbidden-opening-of-a-guarded-container-releases-destructive-forces
+  motif_id: forbidden_opening_of_a_guarded_container_releases_destructive_forces
+  label: forbidden opening of a guarded container releases destructive forces
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_vessel
+  suggested_group_label: Sacred Vessel and Container
+  relationship: functional_variant
+  confidence: high
+  rationale: A guarded container whose forbidden opening releases destructive powers
+    fits the sacred/dangerous vessel complex.
+  cautions: Also indexes forbidden_knowledge if the act is prohibited curiosity; do
+    not map to flood/catastrophe unless world destruction or renewal is explicit.
+  suggested_aliases:
+  - forbidden opening of container
+  - opened vessel releases evils
+  - guarded container releases destructive forces
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - forbidden_knowledge
+    - divine_judgment
+    - sacred_treasures
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and should remain provisional pending passage
+  evidence.
+- Transmission or variant-circulation labels were excluded as meta-textual rather
+  than treated as motifs.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_normalization_assistant
+  reviewed_at: ''
+  notes: Provisional suggestions only; human review needed for contextual and culturally
+    specific cases.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0065
+  input_sha256: 2d5649b472b5c2dc02a67daae5d6a3d2c48ec2fbb59a4f4b2c8c7fe78c754567
