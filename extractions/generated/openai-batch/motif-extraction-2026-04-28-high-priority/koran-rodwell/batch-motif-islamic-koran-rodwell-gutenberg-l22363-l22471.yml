@@ -1,0 +1,566 @@
+---
+record_id: batch.motif.islamic-koran-rodwell-gutenberg-l22363-l22471
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+passage_locator:
+  label: PUBLIC SERVICES, / AND EMINENT LITERARY ATTAINMENTS, / THE TRANSLATOR. /
+    PREFACE; lines 22363-22471
+  start: '22363'
+  end: '22471'
+  translation: The Koran (Al-Qur'an), Rodwell translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives legal commands concerning inheritance shares, treatment
+    of orphans and the poor, punishment for wrongful taking of orphan property, obedience
+    and rebellion toward God and his messenger, sexual misconduct and repentance,
+    treatment of wives and dowries, prohibited marriages, and marriage rules involving
+    enslaved believing women.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Men and women are each assigned stated portions of what parents and kindred
+    leave.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Kin present at a division, orphans, and the poor are to receive a share and
+    be addressed kindly.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Those who wrongfully consume the substance of orphans are described as swallowing
+    fire and burning in flame.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Specific inheritance shares are assigned to children, parents, spouses, siblings,
+    and distant relations after bequests and debts.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: Obedience to God and his prophet is followed by entry into gardens with rivers,
+    while rebellion and breaking bounds is followed by placement in fire and shameful
+    torment.
+  category: sequence
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:6
+  text: Women accused of whoredom require four witnesses and may be confined until
+    death or another way is made for them.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Two men committing the same crime are to be punished, but if they turn and
+    amend they are to be left alone.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Repentance is accepted for those who do evil ignorantly and turn speedily,
+    but not for those who wait until death is close or die unbelievers.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: Believers are told not to inherit wives against their will or prevent them
+    from marrying in order to recover dowry.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: Marriage is described as involving a strict bond of union, and taking back
+    a large gift from a wife by slander is condemned.
+  category: relationship
+  evidence_refs:
+  - ev:8
+- id: obs:11
+  text: The passage lists categories of women forbidden in marriage, including close
+    kin, foster-relations, mothers-in-law, certain step-daughters, sons' wives, two
+    sisters together, and married women except those held as slaves.
+  category: relationship
+  evidence_refs:
+  - ev:9
+- id: obs:12
+  text: Men unable to marry free believing women may marry believing maidens held
+    as slaves with their masters' leave and a fair dower.
+  category: action
+  evidence_refs:
+  - ev:10
+- id: obs:13
+  text: If enslaved married women commit adultery, the penalty is half that enacted
+    for free married women.
+  category: action
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: God
+  description: The divine speaker or authority who commands, ordains, knows, judges,
+    accepts repentance, grants gardens, and prepares torment.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:7
+- id: fig:2
+  name_or_label: God's prophet / apostle
+  description: The prophet or apostle whose obedience is paired with obedience to
+    God.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Believers / addressees
+  description: The addressed community receiving commands about inheritance, marriage,
+    sexual conduct, and treatment of dependents.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:8
+  - ev:10
+- id: fig:4
+  name_or_label: Orphans
+  description: Persons whose substance must not be wrongfully consumed and who may
+    be present at a division of property.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:5
+  name_or_label: The poor
+  description: Persons present at a division who are to receive a share and kind speech.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Heirs and kin
+  description: Parents, children, spouses, siblings, distant relations, and kindred
+    assigned portions from an estate.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+- id: fig:7
+  name_or_label: Wives and women
+  description: Women addressed in rules concerning dowry, marital treatment, inheritance,
+    sexual misconduct, and prohibited marriage relations.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+  - ev:8
+  - ev:9
+  - ev:10
+- id: fig:8
+  name_or_label: Repentant wrongdoers
+  description: Those who do evil ignorantly and turn speedily to God.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:7
+- id: fig:9
+  name_or_label: Unrepentant or unbelieving wrongdoers
+  description: Those who persist in evil until death is close or die as unbelievers.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:7
+- id: fig:10
+  name_or_label: Enslaved believing maidens
+  description: Believing maidens held as slaves who may be married with their masters'
+    leave and a fair dower.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:10
+roles:
+- id: role:1
+  label: Divine lawgiver
+  assigned_to:
+  - fig:1
+  basis: The passage repeatedly presents inheritance and marriage rules as God's command,
+    precept, ordinance, or law.
+  evidence_refs:
+  - ev:1
+  - ev:9
+- id: role:2
+  label: Divine judge and rewarder
+  assigned_to:
+  - fig:1
+  basis: God brings the obedient into gardens and places rebels in fire; torment is
+    prepared for certain wrongdoers.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+- id: role:3
+  label: Messenger whose authority is obeyed or rebelled against
+  assigned_to:
+  - fig:2
+  basis: Obedience and rebellion are directed toward God and his prophet or apostle.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:4
+  label: Command recipients
+  assigned_to:
+  - fig:3
+  basis: The passage addresses believers with legal and moral instructions.
+  evidence_refs:
+  - ev:1
+  - ev:8
+  - ev:10
+- id: role:5
+  label: Protected vulnerable persons
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: Orphans and the poor are to receive consideration at property division, and
+    orphan property is protected from wrongful consumption.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:6
+  label: Estate recipients
+  assigned_to:
+  - fig:6
+  basis: Parents, children, spouses, siblings, and relations receive defined portions
+    from estates.
+  evidence_refs:
+  - ev:1
+- id: role:7
+  label: Marriage-regulated persons
+  assigned_to:
+  - fig:7
+  - fig:10
+  basis: The passage sets rules for wives, women forbidden in marriage, dowries, and
+    enslaved believing women who may be married.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+- id: role:8
+  label: Accepted repentants
+  assigned_to:
+  - fig:8
+  basis: Those who do evil ignorantly and turn speedily are said to have repentance
+    accepted.
+  evidence_refs:
+  - ev:7
+- id: role:9
+  label: Condemned wrongdoers
+  assigned_to:
+  - fig:9
+  basis: Those who delay repentance until death or die unbelievers are assigned grievous
+    torment.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: Fire of punishment
+  literal_form: fire, flame
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:9
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:2
+  label: Rivers beneath gardens
+  literal_form: rivers flowing beneath garden shades
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: Strict bond of union
+  literal_form: marital bond described as strict
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:4
+  label: Portioned inheritance
+  literal_form: specified fractional shares of an estate
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Division of inheritance and care for dependents
+  summary: The passage assigns estate portions to male and female kin and commands
+    that present kin, orphans, and the poor receive a share and kind speech.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Warning against consuming orphan property
+  summary: Wrongful consumption of orphan property is represented as swallowing fire
+    and burning in flame.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Divine reward and punishment for obedience or rebellion
+  summary: Those who obey God and his prophet are brought into gardens with rivers,
+    while those who rebel and break bounds are placed in fire forever with shameful
+    torment.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:9
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Sexual misconduct, punishment, and repentance
+  summary: The passage prescribes witnesses and confinement for women accused of whoredom,
+    punishment for two men committing the same crime, release upon amendment, and
+    limits on repentance at the approach of death.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:7
+  - fig:8
+  - fig:9
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:5
+  label: Marriage, dowry, and forbidden unions
+  summary: Believers are instructed not to inherit wives against their will, not to
+    reclaim dowry by wrongdoing, to recognize the marital bond, and to avoid listed
+    prohibited marriages.
+  figure_refs:
+  - fig:3
+  - fig:7
+  - fig:10
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: Divine judgment through afterlife reward and punishment
+  taxonomy_refs:
+  - divine_judgment
+  basis: Obedience to God and his prophet leads to everlasting gardens with rivers,
+    while rebellion and broken bounds lead to everlasting fire and shameful torment.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage is legal-exhortatory rather than a narrative mythic journey.
+- id: motif:2
+  label: Punitive fire for wrongful consumption of the vulnerable's property
+  taxonomy_refs:
+  - fire
+  - divine_judgment
+  basis: Those who wrongfully consume orphan property are described as swallowing
+    fire and burning in flame.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The fire image is attached to moral warning; the passage does not narrate
+    a separate fire-being or fire ordeal.
+- id: motif:3
+  label: Ordered sacred distribution of property
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Inheritance, bequests, debts, dowers, and shares are regulated as God's law
+    and ordinance, with repeated attention to fair allocation and non-injury.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:8
+  - ev:10
+  confidence: medium
+  cautions: The passage is primarily juridical; classification under a broader exchange
+    motif is interpretive and should be reviewed.
+- id: motif:4
+  label: Marriage as binding covenantal union
+  taxonomy_refs:
+  - covenant
+  basis: The marital relation is described as a strict bond of union, and unjust recovery
+    of dowry is condemned.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: The text uses marital bond language, but does not explicitly use the supplied
+    taxonomy term.
+- id: motif:5
+  label: Repentance accepted before final boundary of death
+  taxonomy_refs:
+  - death_rebirth
+  basis: Repentance is accepted for those who turn speedily after ignorant wrongdoing,
+    but not for those who wait until death is near or die unbelievers.
+  evidence_refs:
+  - ev:7
+  confidence: low
+  cautions: The passage concerns legal-theological repentance, not an explicit death-and-rebirth
+    narrative.
+comparison_claims:
+- id: claim:1
+  claim: 'The passage functions like a divine-judgment pattern by linking obedience
+    and rebellion to contrasting final outcomes: gardens with rivers versus fire and
+    torment.'
+  claim_level: same_function
+  target: divine_judgment motif family
+  evidence_refs:
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a functional comparison to a motif family, not a claim of historical
+    contact or narrative dependence.
+- id: claim:2
+  claim: The marital dowry and 'strict bond of union' language can be cautiously compared
+    to covenantal or sacred-exchange patterns in which relationship obligations are
+    protected by divine law.
+  claim_level: same_function
+  target: covenant / sacred_exchange motif families
+  evidence_refs:
+  - ev:8
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage is prescriptive law; the comparison should not be read
+    as identifying a full mythic covenant narrative.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 22363-22471; inheritance portions section
+  quote_or_summary: Men and women receive portions from parents and kindred; children,
+    parents, spouses, siblings, and distant relations are assigned fractional shares
+    after bequests and debts; the rules are called God's law or ordinance.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source text supplied for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 22363-22471; division with kin, orphans, and poor
+  quote_or_summary: When kin, orphans, and the poor are present at a division, they
+    are to receive a share and be addressed with kindly speech.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source text supplied for extraction.
+- id: ev:3
+  type: quote
+  locator: lines 22363-22471; warning about orphan property
+  quote_or_summary: Those who wrongfully swallow the substance of the orphan shall
+    swallow 'fire into their bellies' and burn in flame.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source text supplied for extraction.
+- id: ev:4
+  type: summary
+  locator: lines 22363-22471; obedience reward
+  quote_or_summary: Whoever obeys God and his prophet is brought into gardens beneath
+    whose shades rivers flow, to abide forever.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source text supplied for extraction.
+- id: ev:5
+  type: summary
+  locator: lines 22363-22471; rebellion punishment
+  quote_or_summary: Whoever rebels against God and his apostle and breaks His bounds
+    is placed in fire forever and receives shameful torment.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source text supplied for extraction.
+- id: ev:6
+  type: summary
+  locator: lines 22363-22471; sexual misconduct rules
+  quote_or_summary: Women accused of whoredom require four witnesses and may be confined;
+    two men committing the same crime are punished, but if they turn and amend they
+    are to be left alone.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source text supplied for extraction.
+- id: ev:7
+  type: summary
+  locator: lines 22363-22471; repentance section
+  quote_or_summary: God accepts the repentance of those who do evil ignorantly and
+    turn speedily; repentance is not available to those who wait until death is close
+    or die unbelievers, for whom grievous torment is prepared.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source text supplied for extraction.
+- id: ev:8
+  type: summary
+  locator: lines 22363-22471; wives, dowry, and bond
+  quote_or_summary: Believers may not inherit wives against their will, prevent them
+    from marrying to recover dowry, or take back a large gift by slander; marriage
+    is described as a strict bond of union.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source text supplied for extraction.
+- id: ev:9
+  type: summary
+  locator: lines 22363-22471; prohibited marriages
+  quote_or_summary: The passage forbids marriage with specified close kin, foster-relations,
+    mothers-in-law, certain step-daughters, sons' wives, two sisters together, and
+    married women except those in one's hands as slaves.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source text supplied for extraction.
+- id: ev:10
+  type: summary
+  locator: lines 22363-22471; marriage to enslaved believing women
+  quote_or_summary: A man lacking wealth to marry free believing women may marry believing
+    maidens held as slaves with the leave of their masters and a fair dower; after
+    marriage their adultery penalty is half that for free married women.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source text supplied for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Legal and moral content is explicit. Motif assignments beyond divine judgment
+    and punitive fire are more interpretive because the passage is prescriptive rather
+    than narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-29'
+notes: |-
+  Only the supplied passage and metadata were used. No historical-contact claims are made.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-rodwell-gutenberg__l22363-l22471
+  passage_sha256=86289f4a68dc22ecd0ffc9836e6b85d90c9bb2a61e4376577d9d7933b92fdf41

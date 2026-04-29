@@ -1,0 +1,263 @@
+---
+record_id: batch.motif.sufi-mystics-of-islam-nicholson-gutenberg-l1686-l1698
+source_text_path: texts/public-domain/sufi/project-gutenberg/mystics-of-islam-nicholson.md
+passage_locator:
+  label: CHAPTER I / THE PATH / CHAPTER II / ILLUMINATION AND ECSTASY; lines 1686-1698
+  start: '1686'
+  end: '1698'
+  translation: The Mystics of Islam
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: "“Men incur the reproach of wine and drugs / That they may escape for a while
+    from self-consciousness”"
+  summary: Nicholson states that a faithful account of Islamic ecstatic life must
+    include ignoble or grotesque features. He cites Jalāluddīn Rūmī on people seeking
+    wine and drugs to escape self-consciousness, because life is a snare and volitional
+    memory and thought are hell. Nicholson concludes that spiritual intoxication is
+    not always sublime and that human nature can reassert itself against attempts
+    to cast it off.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage says grotesque and ignoble features appear in a faithful delineation
+    of the ecstatic life of Islam.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage argues that concealing or minimizing these features gains nothing.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Jalāluddīn Rūmī is cited as saying that men incur reproach from wine and drugs
+    in order to escape self-consciousness for a while.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Rūmī’s quoted lines describe this life as a snare and volitional memory and
+    thought as a hell.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage states that transports of spiritual intoxication are not always
+    sublime.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage says human nature has a way of avenging itself on those who would
+    cast it off.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Jalāluddīn Rūmī
+  description: A named authority quoted in the passage regarding wine, drugs, self-consciousness,
+    life, memory, and thought.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Men
+  description: The generalized people in Rūmī’s quoted lines who incur reproach from
+    wine and drugs to escape self-consciousness.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Those who would cast off human nature
+  description: An unnamed group described as attempting to cast off human nature and
+    being subject to its reassertion.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: quoted mystical poet or authority
+  assigned_to:
+  - fig:1
+  basis: The passage introduces the quoted lines with “as Jalāluddīn Rūmī says.”
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: seekers of temporary escape from self-consciousness
+  assigned_to:
+  - fig:2
+  basis: Rūmī’s lines say men use wine and drugs to escape self-consciousness for
+    a while.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: would-be renouncers of human nature
+  assigned_to:
+  - fig:3
+  basis: The passage describes people who would cast off human nature and are avenged
+    by it.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: wine and drugs
+  literal_form: wine and drugs
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: self-consciousness
+  literal_form: self-consciousness as a state from which escape is sought
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: life as snare
+  literal_form: snare
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: memory and thought as hell
+  literal_form: hell
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: spiritual intoxication
+  literal_form: transports of spiritual intoxication
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Account of the blemished ecstatic life
+  summary: The narrator states that a faithful depiction of Islamic ecstatic life
+    must include grotesque and ignoble features and should not conceal them.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Rūmī’s explanation of intoxication as escape
+  summary: Rūmī is quoted as describing men who accept reproach from wine and drugs
+    in order to escape self-consciousness, because life is a snare and memory and
+    thought are hell.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Warning about spiritual intoxication and human nature
+  summary: The narrator concludes that spiritual intoxication is not always sublime
+    and that human nature can reassert itself against attempts to cast it off.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: temporary escape from self-consciousness through intoxication
+  taxonomy_refs:
+  - annihilation_union
+  basis: The quoted lines describe wine and drugs as means by which men try to escape
+    self-consciousness for a while; the prose frames this within spiritual intoxication
+    and attempts to cast off human nature.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The passage describes temporary escape from self-consciousness and spiritual
+    intoxication, but it does not explicitly describe mystical union.
+- id: motif:2
+  label: life as trap and thought as torment
+  taxonomy_refs: []
+  basis: Rūmī’s quoted lines characterize life as a snare and volitional memory and
+    thought as hell.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: This is a compact metaphorical pattern in the quoted lines rather than
+    a developed narrative motif.
+- id: motif:3
+  label: human nature reasserting itself after attempted renunciation
+  taxonomy_refs: []
+  basis: The narrator states that human nature has a trick of avenging itself on those
+    who would cast it off.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage gives a general interpretive statement, not a specific mythic
+    episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1686-1690
+  quote_or_summary: A faithful delineation of the ecstatic life of Islam must include
+    grotesque and ignoble features, and concealing or minimizing them is not useful.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mystics-of-islam-nicholson.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:2
+  type: quote
+  locator: lines 1691-1695
+  quote_or_summary: "“Men incur the reproach of wine and drugs / That they may escape
+    for a while from self-consciousness”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mystics-of-islam-nicholson.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+- id: ev:3
+  type: quote
+  locator: lines 1696-1697
+  quote_or_summary: "“Since all know this life to be a snare, / Volitional memory
+    and thought to be a hell”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mystics-of-islam-nicholson.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 1698-1698
+  quote_or_summary: The narrator says spiritual intoxication is not always sublime
+    and that human nature can avenge itself on those who would cast it off.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mystics-of-islam-nicholson.md
+  rights_note: Public domain source; summary generated from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based only on the supplied passage. Motif assignment to annihilation_union
+    is cautious because the passage mentions escape from self-consciousness but not
+    explicit union.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-29'
+notes: |-
+  No comparison claims were added because the passage does not itself support a specific cross-textual or historical comparison.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-mystics-of-islam-nicholson-gutenberg__l1686-l1698
+  passage_sha256=2709b664c2568d3fd29d6d7bf45a91ca8670b7c0b19b45b13f3daadd4cf2472c

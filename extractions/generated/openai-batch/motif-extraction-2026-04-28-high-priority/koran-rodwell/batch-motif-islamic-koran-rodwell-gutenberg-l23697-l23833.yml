@@ -1,0 +1,489 @@
+---
+record_id: batch.motif.islamic-koran-rodwell-gutenberg-l23697-l23833
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+passage_locator:
+  label: PUBLIC SERVICES, / AND EMINENT LITERARY ATTAINMENTS, / THE TRANSLATOR. /
+    PREFACE; lines 23697-23833
+  start: '23697'
+  end: '23833'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: Man undertook to bear it, but hath proved unjust, senseless!
+  summary: The passage exhorts believers to fear God, speak rightly, and obey God
+    and the Apostle; recalls that Moses was affronted but cleared by God; describes
+    the Faith as a burden refused by the heavens, earth, and mountains but undertaken
+    by humankind; announces punishment for hypocrites and polytheists and mercy for
+    believers. It then opens Sura LXIII by describing hypocrites who falsely testify,
+    use faith as a cloak, have sealed hearts, appear impressive but are compared to
+    leaning timbers, and refuse the Apostle’s intercession.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Believers are told not to be like those who affronted Moses; God cleared Moses
+    from what was said of him.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Believers are commanded to fear God and speak with well-guided speech.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Obedience to God and His Apostle is associated with blessed doings, forgiveness
+    of sins, and bliss.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Heavens, the Earth, and the Mountains were proposed to receive the Faith,
+    refused the burden, and feared to receive it.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Man undertook to bear the Faith and is described as unjust and senseless.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: God is said to punish hypocritical men and women and those who join gods with
+    God, while turning mercifully to believing men and women.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The Hypocrites tell the addressee that they bear witness he is the Sent One
+    of God, but God bears witness that they lie.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The Hypocrites use their faith as a cloak, turn others from God’s way, and
+    are described as having a seal set upon their hearts.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The Hypocrites’ persons and speech are outwardly impressive, yet they are
+    compared to timbers leaning against a wall and fear every shout is against them.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: When invited to come so the Apostle of God may ask pardon for them, the Hypocrites
+    turn aside and withdraw in pride.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: The text says God will not forgive the Hypocrites whether or not pardon is
+    asked for them.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: God
+  description: The divine speaker and agent who clears Moses, blesses and forgives
+    believers, judges hypocrites and polytheists, and withholds forgiveness from the
+    perverse.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:6
+- id: fig:2
+  name_or_label: Moses
+  description: A prophet who was affronted by others and cleared by God.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Believers / believing men and women
+  description: Those addressed to fear God, speak rightly, obey God and the Apostle,
+    and receive God’s mercy.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:4
+  name_or_label: God’s Apostle / the Sent One of God
+  description: The apostolic figure whose obedience is required and who may be asked
+    to seek pardon for the Hypocrites.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+- id: fig:5
+  name_or_label: Man
+  description: Humankind, represented as undertaking the burden of the Faith after
+    cosmic entities refused it.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Heavens, Earth, and Mountains
+  description: Cosmic entities to whom the Faith was proposed and who refused and
+    feared the burden.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: Hypocrites / hypocritical men and women
+  description: Persons who falsely testify, use faith as a cloak, turn others from
+    God’s way, withdraw in pride, and are denied forgiveness.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:8
+  name_or_label: Men and women who join gods with God
+  description: Those named alongside hypocrites as subject to divine punishment.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: divine clearer, judge, and forgiver
+  assigned_to:
+  - fig:1
+  basis: God clears Moses, blesses and forgives believers, punishes hypocrites and
+    polytheists, and refuses forgiveness to the perverse.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:6
+- id: role:2
+  label: affronted and vindicated prophet
+  assigned_to:
+  - fig:2
+  basis: Moses is said to have been affronted, then cleared by God and highly esteemed.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: commanded faithful recipients of mercy
+  assigned_to:
+  - fig:3
+  basis: Believers are commanded to fear God and speak rightly; believing men and
+    women receive God’s turning toward them.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:4
+  label: apostolic envoy and potential intercessor
+  assigned_to:
+  - fig:4
+  basis: The passage requires obedience to the Apostle and depicts the Apostle of
+    God as one who may ask pardon for the Hypocrites.
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: role:5
+  label: bearer of the Faith burden
+  assigned_to:
+  - fig:5
+  basis: Man undertakes the burden of the Faith after it is refused by the heavens,
+    earth, and mountains.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: cosmic refusers of the Faith burden
+  assigned_to:
+  - fig:6
+  basis: The Heavens, Earth, and Mountains refuse to receive the Faith and fear its
+    burden.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: false witnesses and enemies
+  assigned_to:
+  - fig:7
+  basis: The Hypocrites are said to lie, use faith as a cloak, turn others aside,
+    and be enemies.
+  evidence_refs:
+  - ev:5
+- id: role:8
+  label: polytheists subject to punishment
+  assigned_to:
+  - fig:8
+  basis: Men and women who join gods with God are included among those whom God will
+    punish.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Mountains
+  literal_form: Mountains included among cosmic entities offered the Faith burden
+  associated_figures:
+  - fig:6
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: Faith as burden
+  literal_form: The Faith described as a burden offered to cosmic entities and borne
+    by Man
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: Faith as cloak
+  literal_form: Faith used as a cloak by the Hypocrites
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: Seal upon hearts
+  literal_form: A seal set upon the hearts of those who believed and then became unbelievers
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: Leaning timbers
+  literal_form: The Hypocrites are compared to timbers leaning against a wall
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Moses affronted and cleared
+  summary: Believers are warned not to imitate those who affronted Moses; God clears
+    Moses and he is highly esteemed by God.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Instruction to believers
+  summary: Believers are commanded to fear God, speak rightly, and obey God and the
+    Apostle so that their deeds may be blessed and sins forgiven.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Faith burden offered to cosmos and Man
+  summary: The Faith is proposed to the heavens, earth, and mountains, which refuse
+    and fear it; Man undertakes the burden and is characterized negatively.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Judgment of hypocrites, polytheists, and believers
+  summary: God punishes hypocritical men and women and those who join gods with God,
+    while turning mercifully toward believing men and women.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:7
+  - fig:8
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Hypocrites’ false testimony and refusal of pardon
+  summary: The Hypocrites falsely testify to the Apostle’s mission, use faith as a
+    cloak, are sealed in heart, appear impressive, are likened to leaning timbers,
+    and refuse to come for the Apostle’s request for pardon.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:7
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Cosmic refusal and human acceptance of a sacred burden
+  taxonomy_refs:
+  - covenant
+  basis: The Faith is offered to the heavens, earth, and mountains, which refuse and
+    fear it, while Man undertakes to bear it.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The available taxonomy has no exact entry for a sacred trust or burden;
+    'covenant' is a cautious approximate fit because the passage frames Faith as an
+    obligation undertaken.
+- id: motif:2
+  label: Divine judgment separating hypocrites, polytheists, and believers
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage contrasts punishment of hypocrites and those who join gods with
+    God with mercy toward believing men and women; Sura LXIII also denies forgiveness
+    to the Hypocrites.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  confidence: high
+  cautions: The judgment is stated doctrinally rather than narrated as an extended
+    judgment scene.
+- id: motif:3
+  label: Hidden unbelief beneath outward profession
+  taxonomy_refs:
+  - duality
+  basis: The Hypocrites outwardly bear witness and use faith as a cloak, while God
+    declares that they lie and describes sealed hearts.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The 'duality' taxonomy fit is interpretive; the literal passage emphasizes
+    hypocrisy and false profession.
+- id: motif:4
+  label: Vindication of an affronted prophet
+  taxonomy_refs:
+  - divine_judgment
+  basis: Moses is affronted by others, but God clears him and he remains highly esteemed
+    by God.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage gives only a brief allusion, and the details of the affront
+    are supplied only by a translator’s note.
+comparison_claims:
+- id: claim:1
+  claim: The translator’s note cautiously connects the affront to Moses with rabbinic
+    material about an accusation against Moses, including references to Tractate Sanhedrin
+    and Numbers xii. 1.
+  claim_level: same_function
+  target: Rabbinic tradition concerning Korah’s charge against Moses; Numbers xii.
+    1
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: low
+  limitations: This is a translator’s explanatory note, not a comparison made in the
+    Qur'anic verse itself; the note says 'may refer,' so the link is explicitly uncertain.
+- id: claim:2
+  claim: The translator’s note reports a similar household-etiquette precept in the
+    Talmud concerning obeying the master of the house but not waiting to be asked
+    to depart.
+  claim_level: same_function
+  target: Talmudic precept quoted by Ullmann in translator’s note
+  evidence_refs:
+  - ev:8
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The Qur'anic precept being compared is only referred to by the note
+    and is not quoted in this extracted passage; no historical contact claim is established.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 23697-23699
+  quote_or_summary: '"O Believers! be not like those who affronted Moses... God cleared
+    him from what they said of him" and Moses was highly esteemed by God.'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 23700-23705
+  quote_or_summary: Believers are told to fear God, speak with well-guided speech,
+    and obey God and His Apostle so that their deeds may be blessed and sins forgiven.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: quote
+  locator: lines 23706-23709
+  quote_or_summary: The Faith is proposed to the Heavens, Earth, and Mountains; they
+    refuse and fear the burden, while Man undertakes it and is called unjust and senseless.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; short excerpt summarized for evidence.
+- id: ev:4
+  type: summary
+  locator: lines 23710-23713
+  quote_or_summary: God will punish hypocritical men and women and those who join
+    gods with God, but will turn mercifully to believing men and women.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 23800-23817
+  quote_or_summary: The Hypocrites falsely bear witness that the addressee is God’s
+    Sent One; they use faith as a cloak, turn others from God’s way, have sealed hearts,
+    appear impressive, and are likened to timbers leaning against a wall.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: lines 23818-23833
+  quote_or_summary: When told to come so the Apostle of God will ask pardon for them,
+    the Hypocrites turn aside and withdraw in pride; the passage says God will not
+    forgive them.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:7
+  type: summary
+  locator: lines 23785-23794, note 26
+  quote_or_summary: The translator says the Moses verse may refer to a rabbinic charge
+    of adultery brought by Korah against Moses, comparing Tractate Sanhedrin 110a
+    and Numbers xii. 1, and also reports a saying about Moses being wronged and patient.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; summarized translator note.
+- id: ev:8
+  type: quote
+  locator: lines 23780-23782, note 24
+  quote_or_summary: 'The translator cites a Talmudic precept: "Do all that the master
+    of the house biddeth, but wait not to be asked to depart."'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; short excerpt from translator note.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: low
+  notes: The extraction combines Qur'anic translated text with translator’s notes
+    included in the supplied line range. Motif candidates are based on explicit wording;
+    comparison claims are limited to comparisons stated by the translator and require
+    review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-29'
+notes: |-
+  No external sources were used. Taxonomy references were limited to the supplied available_taxonomy_refs.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-rodwell-gutenberg__l23697-l23833
+  passage_sha256=c1e4a24fcbcc48874c5881d5158bbdbfa1b33537df5976af6617c1f8637aaa71

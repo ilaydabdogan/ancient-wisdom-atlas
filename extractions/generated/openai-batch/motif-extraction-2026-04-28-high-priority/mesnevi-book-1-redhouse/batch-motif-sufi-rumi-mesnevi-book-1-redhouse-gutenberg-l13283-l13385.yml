@@ -1,0 +1,544 @@
+---
+record_id: batch.motif.sufi-rumi-mesnevi-book-1-redhouse-gutenberg-l13283-l13385
+source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+passage_locator:
+  label: IN THE NAME OF GOD, / THE ALL-MERCIFUL, THE VERY-COMPASSIONATE. / VIII. /
+    XIII.; lines 13283-13385
+  start: '13283'
+  end: '13385'
+  translation: The Mesnevi
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A contest is arranged between Chinese and Roman painters. The Chinese use
+    many colors and produce impressive designs, while the Romans close their gate
+    and polish their wall until it reflects the Chinese paintings perfectly. The narrator
+    identifies the Romans with mystics who polish their hearts of self and passion
+    so that divine forms are reflected in them. The passage then praises saints who
+    transcend fear of death and outward sciences. A following section has the Prophet
+    question Zeyd about his faith; Zeyd describes ascetic devotion and visionary perception
+    of heavens, paradises, hells, and human destinies.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Chinese and Roman painters dispute which group has greater artistic skill,
+    and a sovereign decrees a contest to decide the worthier party.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Chinese ask for a house and many paints, and receive colors from the sovereign’s
+    treasury.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Romans reject color and design, close their gate, and set themselves to
+    burnishing and removing soil and filth.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: When the sovereign inspects the Chinese work, he is filled with wonder at
+    their rich designs.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: When the Roman curtains are withdrawn, the Chinese paintings are reflected
+    on a highly burnished wall like a mirror.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The narrator states that the Romans represent mystics, who polish their bosoms
+    and hearts and remove stains of lust, self, pride, and hate.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The passage says the purified mirror of the heart can receive endless images
+    and that hidden forms flashed in Moses’ breast and heart.
+  category: attribute
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The passage states that the heart is with God and is boundless, while reason
+    stands aghast.
+  category: attribute
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: Saints are described as laughing at death, being tranquil, despising outward
+    sciences, and having hearts illumined beyond the scenes of eight paradises.
+  category: attribute
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: The Prophet asks Zeyd about his state and then asks him to provide a proof
+    or souvenir of his faith.
+  category: speech
+  evidence_refs:
+  - ev:10
+- id: obs:11
+  text: Zeyd reports thirst by day, night-watching, and the burning pangs of love
+    in his heart.
+  category: speech
+  evidence_refs:
+  - ev:11
+- id: obs:12
+  text: Zeyd says he sees the heavens, eight paradises, seven deep hells, and can
+    discern the destinations of individual people.
+  category: speech
+  evidence_refs:
+  - ev:12
+figures:
+- id: fig:1
+  name_or_label: Chinese painters
+  description: A group claiming superior painterly skill, given a house and many paints
+    for the contest.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Roman painters
+  description: A group claiming artistic precedence, rejecting color and design, burnishing
+    their wall until it reflects the Chinese paintings; later identified with mystics.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: Sovereign
+  description: The ruler who hears the rival claims, assigns houses and resources,
+    and inspects the completed works.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:4
+  name_or_label: Mystics
+  description: Those compared to the Romans, said to polish their bosoms and hearts
+    rather than rely on art, learning, or study.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: Moses
+  description: A figure whose breast and heart are said to receive hidden forms like
+    reflections.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:7
+- id: fig:6
+  name_or_label: Saints
+  description: Holy persons with polished hearts, said to contemplate fresh beauty,
+    mock death, and dwell in the court of divine love.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: fig:7
+  name_or_label: The Prophet
+  description: The Prophet who questions Zeyd about his faith and asks for proof.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:10
+- id: fig:8
+  name_or_label: Zeyd
+  description: A disciple who answers the Prophet, describes devotional deprivation,
+    and claims visionary perception of heavens, hells, and human destinies.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:10
+  - ev:11
+  - ev:12
+roles:
+- id: role:1
+  label: artistic contestants
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Both groups claim greater artistic skill and enter the sovereign’s contest.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: judge and patron
+  assigned_to:
+  - fig:3
+  basis: The sovereign decrees the contest, supplies resources, and inspects the works.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: role:3
+  label: mystic exemplars
+  assigned_to:
+  - fig:2
+  - fig:4
+  basis: The narrator explicitly says the Romans are mystics and explains their polishing
+    as purification of heart.
+  evidence_refs:
+  - ev:6
+- id: role:4
+  label: recipient of hidden forms
+  assigned_to:
+  - fig:5
+  basis: The passage says the formless Form and hidden forms flashed in Moses’ breast
+    and heart.
+  evidence_refs:
+  - ev:7
+- id: role:5
+  label: purified saints
+  assigned_to:
+  - fig:6
+  basis: Saints are described as having polished, cleansed hearts, laughing at death,
+    and standing beyond paradisal scenes.
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: role:6
+  label: questioning prophet
+  assigned_to:
+  - fig:7
+  basis: The Prophet asks Zeyd about his condition and requests proof of faith.
+  evidence_refs:
+  - ev:10
+- id: role:7
+  label: visionary disciple
+  assigned_to:
+  - fig:8
+  basis: Zeyd reports ascetic devotion and vision of heavenly and infernal realms
+    and human destinies.
+  evidence_refs:
+  - ev:10
+  - ev:11
+  - ev:12
+symbols:
+- id: sym:1
+  label: colors and paints
+  literal_form: A hundred paints and rich colors from the treasury used by the Chinese
+    painters.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: burnished wall or mirror
+  literal_form: A high-burnished wall that reflects the Chinese paintings perfectly.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: polished heart
+  literal_form: Bosoms and hearts polished and cleansed of stains, described as a
+    mirror of purity.
+  associated_figures:
+  - fig:4
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: sym:4
+  label: shell and pearl
+  literal_form: The shell may be injured while the pearl is unharmed.
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:5
+  label: eight paradises and seven hells
+  literal_form: Eight paradises and seven deep hells visible to Zeyd.
+  associated_figures:
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:12
+- id: sym:6
+  label: divine love court
+  literal_form: The court of divine love named as the saints’ place.
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Contest between Chinese and Roman painters
+  summary: The Chinese and Romans claim superior artistic skill; the sovereign establishes
+    a contest between them and assigns separate houses.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Different methods of making art
+  summary: The Chinese obtain many colors and paint rich designs, while the Romans
+    close their gate and burnish away soil and filth rather than using colors or designs.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Reflection of the paintings
+  summary: The sovereign admires the Chinese paintings, then sees them perfectly reflected
+    on the Romans’ burnished wall.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Allegory of mystic purification
+  summary: The narrator identifies the Romans with mystics whose hearts are polished
+    free of stains and capable of reflecting endless forms.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: scene:5
+  label: Saints beyond death and outward knowledge
+  summary: Saints are said to mock death, remain inwardly unharmed like a pearl, reject
+    outward sciences, and dwell in divine love beyond paradisal imagery.
+  figure_refs:
+  - fig:6
+  symbol_refs:
+  - sym:4
+  - sym:6
+  evidence_refs:
+  - ev:9
+- id: scene:6
+  label: The Prophet questions Zeyd
+  summary: The Prophet asks Zeyd how he is and requests proof of his claimed faith.
+  figure_refs:
+  - fig:7
+  - fig:8
+  symbol_refs: []
+  evidence_refs:
+  - ev:10
+- id: scene:7
+  label: Zeyd’s visionary proof
+  summary: Zeyd describes ascetic devotion and says he sees heavenly and infernal
+    realms and can distinguish people’s final paths.
+  figure_refs:
+  - fig:8
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:11
+  - ev:12
+candidate_motifs:
+- id: motif:1
+  label: Purification of the heart as mirror of divine forms
+  taxonomy_refs:
+  - wisdom
+  - mystical_quest
+  basis: The Romans’ polished wall is explicitly interpreted as the mystic practice
+    of polishing the heart so that it reflects hidden and divine forms.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The taxonomy does not include a specific mirror-heart motif, so broader
+    motif-family references are used.
+- id: motif:2
+  label: Inner realization surpassing outward art and learning
+  taxonomy_refs:
+  - wisdom
+  basis: The passage contrasts Chinese colors and rich designs with the Romans’ unadorned
+    burnishing, then says mystics reach their end without art, learning, or study.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+  confidence: high
+  cautions: This is an interpretive teaching within the passage rather than a narrative
+    event alone.
+- id: motif:3
+  label: Union or boundlessness of the purified heart with God
+  taxonomy_refs:
+  - annihilation_union
+  basis: The passage says the heart is with God, the heart is God, and that the mirror
+    of the heart is boundless.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The passage states unity and boundlessness but does not explicitly use
+    technical language of annihilation.
+- id: motif:4
+  label: Saints’ transcendence of death and paradise
+  taxonomy_refs:
+  - death_rebirth
+  - divine_beloved
+  basis: Saints are described as mocking death and dwelling in the court of divine
+    love beyond the scenes of eight paradises.
+  evidence_refs:
+  - ev:9
+  confidence: medium
+  cautions: The passage emphasizes spiritual transcendence, not a literal death-and-rebirth
+    sequence.
+- id: motif:5
+  label: Visionary survey of heaven, hell, and human destinies
+  taxonomy_refs:
+  - afterlife_journey_map
+  - wisdom
+  basis: Zeyd claims to see the heavens, eight paradises, seven hells, and the future
+    destinations of people.
+  evidence_refs:
+  - ev:12
+  confidence: medium
+  cautions: Zeyd describes a vision or perception, not a narrated journey through
+    the afterlife realms.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 13283-13291
+  quote_or_summary: The Chinese and Romans each claim superior artistic skill; the
+    sovereign decrees a contest and assigns houses to the two parties.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 13292-13296
+  quote_or_summary: The Chinese ask for a hundred paints and receive rich colors from
+    the sovereign’s treasury each morning.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: 13297-13299
+  quote_or_summary: The Romans say color and design are vain and that they need only
+    “banish soil and filth”; they close their gate and begin to burnish.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:4
+  type: summary
+  locator: 13305-13308
+  quote_or_summary: After the Chinese finish, the sovereign inspects their rich designs
+    and is amazed by their talent.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 13309-13313
+  quote_or_summary: The Roman curtains are withdrawn, and all the Chinese paintings
+    and designs are reflected perfectly on the high-burnished wall.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: quote
+  locator: 13314-13319
+  quote_or_summary: "“Those Romans are our mystics”; they polish their bosoms and
+    hearts and remove stains of lust, self, pride, and hate."
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:7
+  type: summary
+  locator: 13320-13327
+  quote_or_summary: The heart’s mirror is described as pure and boundless, receiving
+    endless images; hidden forms flash in Moses’ breast and heart.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: quote
+  locator: 13328-13337
+  quote_or_summary: The passage says, “The heart’s with God,--the heart is God,” and
+    describes the saint’s cleansed heart contemplating new beauty.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:9
+  type: summary
+  locator: 13338-13349
+  quote_or_summary: Saints laugh at death, remain inwardly unharmed like a pearl,
+    set rhetorical and legal arts at naught, and are placed in the court of divine
+    love beyond the scenes of eight paradises.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: 13350-13355
+  quote_or_summary: In the section titled “Zeyd’s Inspiration,” the Prophet asks Zeyd
+    how he is; Zeyd claims to be a believer, and the Prophet asks for proof.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:11
+  type: summary
+  locator: 13356-13364
+  quote_or_summary: Zeyd says he has burned with thirst by day, watched by night,
+    and experienced love’s pangs; he also describes time as collapsed in love’s view.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:12
+  type: summary
+  locator: 13365-13385
+  quote_or_summary: Zeyd says he surveys the heavens, sees eight paradises and seven
+    deep hells, and can discern who is heavenward bound and who takes the other road.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal narrative elements are explicit. Motif labels are broader than the
+    passage’s exact imagery because the available taxonomy lacks specific entries
+    for mirror, polished heart, or visionary discernment.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-29'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly compare this material to an external tradition or motif family beyond its internal allegorical interpretation.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-rumi-mesnevi-book-1-redhouse-gutenberg__l13283-l13385
+  passage_sha256=a6b46d20b6a8ba5dc794b345a6982f89deee0f13cc3f24199491ca577ce7639b

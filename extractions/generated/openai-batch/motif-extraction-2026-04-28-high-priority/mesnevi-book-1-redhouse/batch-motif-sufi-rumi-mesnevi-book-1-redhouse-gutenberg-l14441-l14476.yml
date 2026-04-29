@@ -1,0 +1,315 @@
+---
+record_id: batch.motif.sufi-rumi-mesnevi-book-1-redhouse-gutenberg-l14441-l14476
+source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+passage_locator:
+  label: THE ALL-MERCIFUL, THE VERY-COMPASSIONATE. / VIII. / XIII. / XVII.; lines
+    14441-14476
+  start: '14441'
+  end: '14476'
+  translation: The Mesnevi
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage presents a concluding reflection using images of sinful eating,
+    wheat, bread, thorn, camel, muddy water, spring, and divine purification to contrast
+    life-giving spiritual word with harmful materialized word and to counsel patient
+    waiting on God.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A poor morsel tasted through sin and a grain of wheat are said to impair thought
+    and eclipse the mind.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A green thorn eaten by a camel gives pleasure and nutriment, while the same
+    thorn when dry wounds the mouth of a starving beast and draws blood.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The word of life is identified with the green, tender, juicy thorn; when it
+    becomes material, it is dry and hard.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The addressed human flesh or human camel is described as biting at the material
+    word or hard dictum and finding it stone-like, wounding, and bloody.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Words are said to be mixed with troubling thoughts of earth, making the water
+    muddy and requiring the spring to be closed.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The speaker counsels waiting until the Lord makes the water clear and sweet,
+    purifies the inky stream, and adds patience to wish.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: speaker
+  description: The poetic voice giving admonition and counsel.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: fig:2
+  name_or_label: human addressee
+  description: Addressed as poor flesh and as a human camel seeking food from the
+    word material.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: camel or starving beast
+  description: Animal figure that eats a thorn; nourished by the green thorn but wounded
+    by the dry thorn.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: the Lord / God
+  description: Divine figure who can make the muddy water clear and sweet and purify
+    the inky stream.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: admonishing teacher
+  assigned_to:
+  - fig:1
+  basis: The voice commands the addressee to shun the harmful material word and wait
+    contentedly.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:2
+  label: vulnerable seeker of nourishment
+  assigned_to:
+  - fig:2
+  basis: The addressee expects the living word but bites at the material word and
+    is wounded.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: eater of thorn
+  assigned_to:
+  - fig:3
+  basis: The camel or beast is used to show the difference between nourishing green
+    thorn and injurious dry thorn.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: divine purifier
+  assigned_to:
+  - fig:4
+  basis: The Lord is said to make the water clear and sweet and to purify the inky
+    stream.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: sinful morsel and grain of wheat
+  literal_form: A poor morsel and one grain of wheat tasted through sin.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: eclipse of mind
+  literal_form: Sun of mind eclipsed and full moon dulled by dragon's tail.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: bread of life and material bread
+  literal_form: Bread of life gives power; material bread excites distrusts and contentions.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: green and dry thorn
+  literal_form: A thorn that is nourishing while green but wounding when dry.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:5
+  label: material word as stone or weapon
+  literal_form: The hard dictum becomes horny, flinty, stone-like, wounding, and blood-drawing.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: muddy water, spring, and inky stream
+  literal_form: Muddy water, a spring to be closed, and an inky stream to be purified.
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+  - ev:6
+scenes:
+- id: scene:1
+  label: Sinful morsel dims thought
+  summary: A small act of sinful eating is described as freezing the fountain of thought
+    and eclipsing the mind.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Thorn as nourishment or injury
+  summary: The passage contrasts a green thorn that nourishes a camel with a dry thorn
+    that wounds a starving beast.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Materialized word wounds the seeker
+  summary: The word of life is likened to the green thorn, but the material word is
+    hard and injures the human addressee who bites it.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Muddy words await divine purification
+  summary: Words mixed with earthly thoughts are compared to muddy water; the speaker
+    counsels patient waiting for God to purify the stream.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Sinful food obstructs spiritual understanding
+  taxonomy_refs:
+  - forbidden_knowledge
+  basis: A morsel tasted through sin and a grain of wheat are described as obscuring
+    thought and mind.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage is aphoristic and allusive; it does not narrate a full forbidden-food
+    myth within this excerpt.
+- id: motif:2
+  label: Life-giving word versus harmful materialized word
+  taxonomy_refs:
+  - wisdom
+  basis: The word of life is nourishing like a green thorn, while the material word
+    becomes hard, stone-like, and wounding.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is an interpretive motif candidate based on the passage's explicit
+    metaphorical contrast.
+- id: motif:3
+  label: Divine purification of muddied speech or thought
+  taxonomy_refs:
+  - wisdom
+  basis: Words are said to be muddied by earthly thoughts, and the Lord is expected
+    to make the water clear and purify the stream.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The purification is expressed through metaphor rather than a narrated
+    ritual or mythic event.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 14441-14476, XVII, opening lines
+  quote_or_summary: A sinful morsel and a grain of wheat are said to congeal thought,
+    eclipse the mind, and contrast bread of life with material bread.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain; source metadata allows full text use.
+- id: ev:2
+  type: summary
+  locator: 14441-14476, XVII, thorn and camel image
+  quote_or_summary: A green thorn gives a camel pleasure and nourishment, while a
+    dry thorn wounds a starving beast's mouth and draws blood.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain; source metadata allows full text use.
+- id: ev:3
+  type: quote
+  locator: 14441-14476, XVII, word of life image
+  quote_or_summary: '"The word of life''s the green, the tender, juicy thorn."'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain; source metadata allows quotation.
+- id: ev:4
+  type: summary
+  locator: 14441-14476, XVII, human camel admonition
+  quote_or_summary: The addressee bites at the material word and hard dictum, finds
+    it flinty and wounding, and is told to shun it as a human camel.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain; source metadata allows full text use.
+- id: ev:5
+  type: quote
+  locator: 14441-14476, XVII, muddy water image
+  quote_or_summary: '"The water''s muddy. Close the spring whence it comes forth."'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain; source metadata allows quotation.
+- id: ev:6
+  type: summary
+  locator: 14441-14476, XVII, closing counsel
+  quote_or_summary: The speaker counsels waiting until the Lord makes the water clear
+    and sweet, purifies the inky stream, and adds patience to wish.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain; source metadata allows full text use.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal images and roles are clear, but motif-family assignments are interpretive
+    because the passage is didactic and metaphorical rather than a narrative myth.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-29'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly support comparison to another text or tradition.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-rumi-mesnevi-book-1-redhouse-gutenberg__l14441-l14476
+  passage_sha256=2e454b0cefa65221b26bb5a152e5200632311e60a020feb9772d4d1b3764c6b9

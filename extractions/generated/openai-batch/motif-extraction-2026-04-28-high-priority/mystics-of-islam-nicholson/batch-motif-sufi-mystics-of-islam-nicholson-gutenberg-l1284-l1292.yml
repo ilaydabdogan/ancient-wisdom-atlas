@@ -1,0 +1,298 @@
+---
+record_id: batch.motif.sufi-mystics-of-islam-nicholson-gutenberg-l1284-l1292
+source_text_path: texts/public-domain/sufi/project-gutenberg/mystics-of-islam-nicholson.md
+passage_locator:
+  label: II. NEOPLATONISM / IV. BUDDHISM / CHAPTER I / THE PATH; lines 1284-1292
+  start: '1284'
+  end: '1292'
+  translation: The Mystics of Islam
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: '"invested by his Sheykh with the patched frock"'
+  summary: The author summarizes the preparatory training of the Sufi, imagining him
+    invested by his sheykh with a patched frock as an outward sign of having emerged
+    from the discipline of the Path and now moving uncertainly toward the Light, compared
+    to weary travelers reaching the summit of a deep gorge and glimpsing the sun.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The chapter is said to present the main lines of the preparatory training
+    of the Sufi.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Sufi is imagined as having been invested by his sheykh with the patched
+    frock, named muraqqaʿat or khirqat.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The patched frock is described as an outward sign that the Sufi has successfully
+    emerged from the discipline of the Path.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Sufi is described as advancing with uncertain steps toward the Light.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A simile compares the Sufi's condition to toil-worn travelers who have reached
+    the summit of a deep gorge, glimpse the sun, and cover their eyes.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: the Sufi
+  description: A trainee who has completed the discipline of the Path and is advancing
+    toward the Light.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: the Sheykh
+  description: The teacher or guide who invests the Sufi with the patched frock.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: toil-worn travelers
+  description: Travelers in the passage's simile who reach the summit of a deep gorge,
+    glimpse the sun, and cover their eyes.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: readers
+  description: The addressed audience whom the chapter aims to provide a clear view
+    of Sufi preparatory training.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: disciplined trainee
+  assigned_to:
+  - fig:1
+  basis: The Sufi has undergone preparatory training and emerged from the discipline
+    of the Path.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: seeker advancing toward Light
+  assigned_to:
+  - fig:1
+  basis: The Sufi is said to advance with uncertain steps toward the Light.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: initiating teacher
+  assigned_to:
+  - fig:2
+  basis: The sheykh invests the Sufi with the patched frock.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: metaphorical travelers
+  assigned_to:
+  - fig:3
+  basis: They appear in a simile for the Sufi's condition after discipline.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: addressed audience
+  assigned_to:
+  - fig:4
+  basis: The chapter is said to bring a clear view before the readers.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: patched frock
+  literal_form: muraqqaʿat or khirqat, a patched frock
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: Path
+  literal_form: the discipline of the 'Path'
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Light
+  literal_form: the Light toward which the Sufi advances
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: deep gorge and summit
+  literal_form: the summit of a deep gorge
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: sun
+  literal_form: the sun glimpsed by the travelers
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: covered eyes
+  literal_form: travelers cover their eyes after seeing the sun
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Completion of preparatory training
+  summary: The chapter is presented as having explained the main lines of Sufi preparatory
+    training.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Investiture with the patched frock
+  summary: The Sufi is imagined as being invested by his sheykh with the patched frock,
+    marking successful emergence from the discipline of the Path.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Uncertain advance toward Light
+  summary: After the discipline of the Path, the Sufi advances with uncertain steps
+    toward the Light.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Travelers glimpse the sun
+  summary: The passage compares the Sufi to tired travelers who reach a summit above
+    a deep gorge, glimpse the sun, and cover their eyes.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: initiation through investiture after discipline
+  taxonomy_refs:
+  - initiation
+  basis: The Sufi is invested by his sheykh with a patched frock as an outward sign
+    of successful emergence from the discipline of the Path.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage is expository and symbolic rather than a narrative initiation
+    episode.
+- id: motif:2
+  label: mystical quest toward Light
+  taxonomy_refs:
+  - mystical_quest
+  basis: The Sufi, after discipline, is described as advancing uncertainly toward
+    the Light.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage does not elaborate the later stages of the quest.
+- id: motif:3
+  label: ascent from gorge to vision of sun
+  taxonomy_refs:
+  - ascent
+  basis: The simile presents toil-worn travelers gaining the summit of a deep gorge
+    and suddenly glimpsing the sun.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: This is explicitly a simile, not an independent mythic ascent narrative.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1284-1287
+  quote_or_summary: The chapter is said to have shown readers the main lines of the
+    preparatory training of the Sufi.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mystics-of-islam-nicholson.md
+  rights_note: Public domain source; concise summary.
+- id: ev:2
+  type: quote
+  locator: lines 1287-1290
+  quote_or_summary: The Sufi is imagined to have been "invested by his Sheykh with
+    the patched frock" as a sign of successful emergence from the discipline of the
+    Path.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mystics-of-islam-nicholson.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:3
+  type: summary
+  locator: lines 1290-1291
+  quote_or_summary: The Sufi is described as advancing with uncertain steps toward
+    the Light.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mystics-of-islam-nicholson.md
+  rights_note: Public domain source; concise summary.
+- id: ev:4
+  type: summary
+  locator: lines 1291-1292
+  quote_or_summary: A comparison is made to weary travelers who reach the summit of
+    a deep gorge, glimpse the sun, and cover their eyes.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mystics-of-islam-nicholson.md
+  rights_note: Public domain source; concise summary.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labels are based on the passage's
+    explicit investiture, Path, Light, and travel-ascent imagery; broader comparative
+    claims are not made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-29'
+notes: |-
+  No external comparisons were added because the passage itself does not establish a specific cross-textual relationship.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-mystics-of-islam-nicholson-gutenberg__l1284-l1292
+  passage_sha256=0e6180d7a1d80d511eef242da9188a65f588b740f4a1dac8a2c3e273f3f683df

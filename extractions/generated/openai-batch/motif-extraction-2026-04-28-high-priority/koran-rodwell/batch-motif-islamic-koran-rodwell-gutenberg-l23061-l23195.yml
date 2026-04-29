@@ -1,0 +1,518 @@
+---
+record_id: batch.motif.islamic-koran-rodwell-gutenberg-l23061-l23195
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+passage_locator:
+  label: PUBLIC SERVICES, / AND EMINENT LITERARY ATTAINMENTS, / THE TRANSLATOR. /
+    PREFACE; lines 23061-23195
+  start: '23061'
+  end: '23195'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage exhorts people to believe in an apostle who has come with truth
+    from God; warns the People of the Book not to exceed bounds in religion or say
+    “Three”; identifies Jesus son of Mary as God’s apostle, Word conveyed into Mary,
+    and Spirit from God, while denying divine sonship. It states that the Messiah
+    and nearby angels are servants of God, that God will gather all, reward believers
+    and righteous actors, and chastise the proud. It describes a proof and clear light
+    sent down, guidance along a straight way, and gives an inheritance ruling for
+    childless kin. Translator notes discuss historical setting, marriage, inheritance,
+    punishments, prayer practices, and comparisons with Rabbinic rules.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: An apostle is said to have come to people with truth from their Lord, and
+    the audience is urged to believe.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that all in the heavens and the earth belongs to God, and
+    calls God knowing and wise.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The People of the Book are warned not to overstep bounds in religion and to
+    speak only truth concerning God.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Jesus, son of Mary, is described as the Messiah, an apostle of God, God’s
+    Word conveyed into Mary, and a Spirit proceeding from God.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The audience is told not to say “Three,” and the passage states that God is
+    one and has no son.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The Messiah and the angels near God are said not to disdain being servants
+    of God.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Those who disdain God’s service and are proud are said to be gathered to God
+    and punished with grievous chastisement.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Those who believe and do right are said to receive recompense and increase
+    from God’s bounty.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: A proof from the Lord and a clear light are said to have been sent down to
+    people.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: Those who believe in God and hold fast to Him are said to enter God’s mercy
+    and grace and be guided along a straight way to Him.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: A legal response is given concerning inheritance for a childless man with
+    a sister, two sisters, or both brothers and sisters.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:12
+  text: A translator note compares some Koranic prayer precepts with Rabbinic precepts
+    concerning standing prayer, shortened prayer in dangerous places, prayer forbidden
+    to the drunken or polluted, and washings with water or sand.
+  category: other
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: God
+  description: The Lord who possesses the heavens and earth, is knowing and wise,
+    is one, has no son, gathers people, rewards, chastises, protects, guides, instructs,
+    and knows all things.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Unnamed apostle
+  description: An apostle who has come to people with truth from their Lord.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: People of the Book
+  description: The addressed group warned not to overstep bounds in religion and not
+    to say “Three.”
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: The Messiah, Jesus, son of Mary
+  description: Described as an apostle of God, God’s Word conveyed into Mary, a Spirit
+    proceeding from God, and a servant of God.
+  role_refs:
+  - role:7
+  - role:8
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:5
+  name_or_label: Mary
+  description: The woman into whom God’s Word is said to have been conveyed in the
+    description of Jesus.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Angels near God
+  description: Angels who are near God and do not disdain God’s service.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: Believers and righteous actors
+  description: Those who believe and do right, receive recompense, and are brought
+    into mercy and grace.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:8
+  name_or_label: Disdainful and proud people
+  description: Those who disdain God’s service and are proud, and who receive grievous
+    chastisement.
+  role_refs:
+  - role:11
+  evidence_refs:
+  - ev:4
+- id: fig:9
+  name_or_label: Distant kindred and siblings
+  description: Relatives addressed in the inheritance ruling, including a childless
+    deceased person, a sister, two sisters, brothers, and sisters.
+  role_refs:
+  - role:12
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: divine sovereign
+  assigned_to:
+  - fig:1
+  basis: All in the heavens and earth is said to belong to God.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: judge and recompensor
+  assigned_to:
+  - fig:1
+  basis: God gathers people, rewards believers, and chastises the proud.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: guide and giver of mercy
+  assigned_to:
+  - fig:1
+  basis: God causes believers to enter mercy and grace and guides them along a straight
+    way.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: divine instructor and lawgiver
+  assigned_to:
+  - fig:1
+  basis: God instructs and teaches plainly concerning distant kindred and inheritance
+    shares.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: truth-bearing messenger
+  assigned_to:
+  - fig:2
+  basis: The apostle is said to have come with truth from the Lord.
+  evidence_refs:
+  - ev:1
+- id: role:6
+  label: admonished religious community
+  assigned_to:
+  - fig:3
+  basis: The People of the Book are directly admonished about religious bounds and
+    speech about God.
+  evidence_refs:
+  - ev:2
+- id: role:7
+  label: apostle and Word-associated figure
+  assigned_to:
+  - fig:4
+  basis: Jesus is called an apostle of God, God’s Word conveyed into Mary, and a Spirit
+    from God.
+  evidence_refs:
+  - ev:2
+- id: role:8
+  label: servant of God
+  assigned_to:
+  - fig:4
+  - fig:6
+  basis: The Messiah and the nearby angels are said not to disdain being servants
+    of God.
+  evidence_refs:
+  - ev:3
+- id: role:9
+  label: recipient of conveyed divine Word
+  assigned_to:
+  - fig:5
+  basis: The Word is said to have been conveyed into Mary.
+  evidence_refs:
+  - ev:2
+- id: role:10
+  label: rewarded faithful
+  assigned_to:
+  - fig:7
+  basis: Believers and those who do right are promised recompense, increase, mercy,
+    grace, and guidance.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:11
+  label: punished proud
+  assigned_to:
+  - fig:8
+  basis: The disdainful and proud are said to receive grievous chastisement and lack
+    protector or helper besides God.
+  evidence_refs:
+  - ev:4
+- id: role:12
+  label: inheritance parties
+  assigned_to:
+  - fig:9
+  basis: The inheritance ruling specifies shares for sisters and brothers in childless
+    cases.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: clear light
+  literal_form: A “clear light” sent down to people.
+  associated_figures:
+  - fig:1
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:2
+  label: straight way
+  literal_form: A straight way along which God guides believers to Himself.
+  associated_figures:
+  - fig:1
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: Three
+  literal_form: The formula “Three,” rejected in the admonition to the People of the
+    Book.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: inheritance portions
+  literal_form: Half, two-thirds, and a male share equal to two female shares in the
+    sibling inheritance ruling.
+  associated_figures:
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Exhortation to believe the apostle
+  summary: People are told that an apostle has come with truth from their Lord and
+    that belief is better for them; God’s ownership, knowledge, and wisdom are affirmed.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Admonition concerning Jesus and divine oneness
+  summary: The People of the Book are warned not to exceed religious bounds; Jesus
+    is described as God’s apostle, Word, and Spirit, while the idea of “Three” and
+    divine sonship is rejected.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Servanthood, gathering, reward, and chastisement
+  summary: The Messiah and nearby angels do not disdain God’s service; the proud are
+    gathered and chastised, while believers and righteous actors receive recompense
+    and bounty.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Proof, clear light, and guidance
+  summary: A proof and clear light are said to be sent down; believers who hold fast
+    to God are brought into mercy and guided along a straight way to Him.
+  figure_refs:
+  - fig:1
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Inheritance instruction for distant kindred
+  summary: God instructs concerning inheritance shares when a person dies childless
+    and has a sister, two sisters, or both brothers and sisters.
+  figure_refs:
+  - fig:1
+  - fig:9
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:6
+- id: scene:6
+  label: Translator’s comparison of prayer practices
+  summary: A note compares Koranic prayer rules with Rabbinic rules about posture,
+    danger, intoxication, pollution, and washing.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Divine judgment with reward and punishment
+  taxonomy_refs:
+  - divine_judgment
+  basis: God gathers all, recompenses believers and righteous actors, and chastises
+    the disdainful and proud.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage emphasizes judgment and recompense but does not describe a
+    full eschatological scene in detail.
+- id: motif:2
+  label: Divine guidance by light and straight path
+  taxonomy_refs:
+  - wisdom
+  basis: A clear light is sent down, and those who believe and hold fast to God are
+    guided along a straight way to Him.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The taxonomy link to wisdom is broad; the passage’s literal imagery is
+    light and path rather than a named wisdom figure.
+- id: motif:3
+  label: Divine instruction preventing error
+  taxonomy_refs:
+  - wisdom
+  basis: God is said to teach plainly concerning inheritance so that people do not
+    err, and God is called knowing and wise.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  confidence: high
+  cautions: This is primarily legal and didactic rather than mythic narrative.
+- id: motif:4
+  label: Polemic denial of divine sonship
+  taxonomy_refs:
+  - divine_parent_child
+  basis: The passage identifies Jesus as God’s apostle and servant while denying that
+    God has a son.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The available taxonomy term is applicable only as a negated or polemical
+    divine parent-child theme, not as an affirmed divine parent-child relationship.
+comparison_claims:
+- id: claim:1
+  claim: The translator’s note compares some Koranic prayer precepts to Rabbinic prayer
+    rules, including standing prayer, shortened prayer in danger, restrictions for
+    drunkenness or pollution, and preparatory washings.
+  claim_level: same_function
+  target: Rabbinic prayer precepts cited in Mischna Berachoth and related tractates
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This comparison comes from the translator’s annotation, not from the
+    Quranic verses in the passage itself; the excerpt provides cited parallels but
+    not an independent historical demonstration.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 23061-23064
+  quote_or_summary: An apostle has come with truth from the Lord; belief is urged;
+    all in heavens and earth belongs to God, who is knowing and wise.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 23066-23074
+  quote_or_summary: The People of the Book are warned not to overstep; Jesus son of
+    Mary is described as Messiah, apostle, Word conveyed into Mary, and Spirit from
+    God; “Three” and divine sonship are rejected; God is one and owns heavens and
+    earth.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 23076-23077
+  quote_or_summary: The Messiah and the angels near God are said not to disdain being
+    servants of God.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 23079-23087
+  quote_or_summary: Those who disdain God’s service and are proud are gathered to
+    God and chastised; believers and righteous actors receive recompense and bounty;
+    no protector or helper is found besides God.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 23089-23093
+  quote_or_summary: A proof and clear light have been sent down; believers who hold
+    fast to God enter mercy and grace and are guided along a straight way to God.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 23095-23102
+  quote_or_summary: 'God instructs concerning distant kindred: inheritance shares
+    are specified for a childless deceased person’s sister, two sisters, and mixed
+    brothers and sisters; God teaches plainly so that people do not err.'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 23168-23175
+  quote_or_summary: 'Translator note says Koranic prayer precepts resemble Jewish
+    or Rabbinic rules: prayer standing, shortened in dangerous places, forbidden to
+    the drunken or polluted, and preceded by washings with water or sand.'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The main figures, scenes, and legal instruction are explicit. Motif assignments
+    are conservative and mostly tied to divine judgment and wisdom/guidance. The comparison
+    claim is limited to a translator’s footnote.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-29'
+notes: |-
+  Only the provided passage text and metadata were used. No external taxonomy IDs beyond the supplied motif family names were added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-rodwell-gutenberg__l23061-l23195
+  passage_sha256=3c83793c6552d44501773b10cb46ff42af26dd2fd013792b61534402f8757177

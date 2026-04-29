@@ -1,0 +1,302 @@
+---
+record_id: batch.motif.sufi-mystics-of-islam-nicholson-gutenberg-l4637-l5019
+source_text_path: texts/public-domain/sufi/project-gutenberg/mystics-of-islam-nicholson.md
+passage_locator:
+  label: CHAPTER VI / THE UNITIVE STATE / BIBLIOGRAPHY / INDEX; lines 4637-5019
+  start: '4637'
+  end: '5019'
+  translation: The Mystics of Islam
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is an index and end matter for Nicholson's The Mystics of Islam.
+    It lists Sufi technical terms, named figures, doctrines, practices, comparative
+    references, and page references, followed by a publisher's advertisement for volumes
+    in The Quest Series.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage lists index entries for Sufi mystical states and practices, including
+    maqāmāt, maʿrifat, murāqabat, samāʿ, tawakkul, fanā-related self-annihilation,
+    and the Unitive State.
+  category: other
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: obs:2
+  text: The passage lists index entries concerning union with God, divine unity, pantheism,
+    and the unitive state.
+  category: other
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:3
+  text: The passage lists a number of named religious or legendary figures, including
+    Mohammed, Moses, Mary, Noah, Satan, Yūsuf/Joseph, and Zulaykhā.
+  category: other
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: obs:4
+  text: The passage includes comparative or contextual index entries such as Neoplatonism,
+    Nirvāṇa, Vedānta, Plotinus, Plato, St. Paul, Ruysbroeck, Tauler, and The Theology
+    of Aristotle.
+  category: relationship
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: obs:5
+  text: The passage lists symbolic or doctrinal imagery including the Path, the Great
+    Name, the seventy thousand veils, pilgrimage allegory, and mystical symbolism.
+  category: object
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: obs:6
+  text: The passage ends with a publisher's list for The Quest Series, including titles
+    on psychical research, the Holy Grail, Jewish mysticism, Islamic mysticism, Buddhist
+    psychology, personality, and Catholic mysticism.
+  category: other
+  evidence_refs:
+  - ev:11
+figures:
+- id: fig:1
+  name_or_label: Mohammed, the Prophet
+  description: Listed as an index entry with multiple page references and a cross-reference
+    to Traditions of the Prophet.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:5
+- id: fig:2
+  name_or_label: Moses
+  description: Listed as an index entry with page references.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:6
+- id: fig:3
+  name_or_label: Mary
+  description: Listed as an index entry with a page reference.
+  role_refs: []
+  evidence_refs:
+  - ev:6
+- id: fig:4
+  name_or_label: Noah
+  description: Listed as an index entry with a page reference.
+  role_refs: []
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: Satan
+  description: Listed as an index entry with a cross-reference to the Devil.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: Prophet
+  assigned_to:
+  - fig:1
+  basis: The index explicitly labels Mohammed as 'the Prophet.'
+  evidence_refs:
+  - ev:5
+- id: role:2
+  label: Prophetic figure
+  assigned_to:
+  - fig:2
+  basis: Moses appears among the indexed religious figures and is connected elsewhere
+    in the index with prophets as a category.
+  evidence_refs:
+  - ev:6
+- id: role:3
+  label: Devil/adversarial figure
+  assigned_to:
+  - fig:5
+  basis: The Satan entry cross-references 'Devil, the.'
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: Path
+  literal_form: The indexed term 'Path, the'
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:2
+  label: Great Name
+  literal_form: The indexed term 'Name, the Great'
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:3
+  label: Seventy thousand veils
+  literal_form: The indexed phrase 'Veils, the seventy thousand'
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+- id: sym:4
+  label: Pilgrimage as allegory
+  literal_form: The indexed phrase 'Pilgrimage, allegorical interpretation of the'
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: Self-annihilation and union with God
+  taxonomy_refs:
+  - annihilation_union
+  basis: The index explicitly groups self-annihilation, fanā, union with God, the
+    Unitive State, and divine unity as topics in the work.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: This passage is an index rather than an expository or narrative passage;
+    it confirms the presence of the topic but does not itself elaborate the motif.
+- id: motif:2
+  label: Mystical path or quest through stages and states
+  taxonomy_refs:
+  - mystical_quest
+  - initiation
+  basis: The index lists Path, stages, states, maqāmāt, the sālik, the tālib, repentance,
+    poverty, recollection, meditation, and other elements of Sufi progress.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:9
+  confidence: medium
+  cautions: The passage only indexes these terms; it does not narrate a quest sequence.
+- id: motif:3
+  label: Hidden or veiled divine reality
+  taxonomy_refs:
+  - wisdom
+  basis: The index lists gnosis/maʿrifat, the Great Name, spiritual vision, and the
+    doctrine of seventy thousand veils.
+  evidence_refs:
+  - ev:1
+  - ev:9
+  - ev:10
+  confidence: low
+  cautions: The relationship among these indexed entries is inferential and requires
+    consultation of the referenced pages.
+- id: motif:4
+  label: Allegorical pilgrimage
+  taxonomy_refs:
+  - mystical_quest
+  basis: The index explicitly includes 'Pilgrimage, allegorical interpretation of
+    the' along with named pilgrimage locations such as Safā, Marwa, Minā, Muzdalifa,
+    and Mecca.
+  evidence_refs:
+  - ev:10
+  confidence: medium
+  cautions: The index confirms the topic but gives no details of the allegory.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 4637-5019; index entries for mystical terms
+  quote_or_summary: Index entries include 'maqāmāt,' 'maʿrifat,' 'murāqabat,' and
+    related Sufi technical vocabulary.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mystics-of-islam-nicholson.md
+  rights_note: Public domain source text.
+- id: ev:2
+  type: quote
+  locator: lines 4637-5019; index entries for practices and states
+  quote_or_summary: Index entries include 'samāʿ,' 'tawakkul,' 'wajd,' 'sukr,' 'Stages,
+    mystical,' and 'States, mystical.'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mystics-of-islam-nicholson.md
+  rights_note: Public domain source text.
+- id: ev:3
+  type: quote
+  locator: lines 4637-5019; index entries for self-annihilation and union
+  quote_or_summary: Index entries include 'Self-annihilation... See fanā' and 'Union
+    with God... See Unitive State, the, and fanā.'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mystics-of-islam-nicholson.md
+  rights_note: Public domain source text.
+- id: ev:4
+  type: quote
+  locator: lines 4637-5019; index entries for divine unity
+  quote_or_summary: Index entries include 'Unitive State, the,' 'Unity, the divine,'
+    and 'Pantheism.'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mystics-of-islam-nicholson.md
+  rights_note: Public domain source text.
+- id: ev:5
+  type: quote
+  locator: lines 4637-5019; index entry for Mohammed
+  quote_or_summary: The index lists 'Mohammed, the Prophet' with multiple page references
+    and a cross-reference to 'Traditions of the Prophet.'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mystics-of-islam-nicholson.md
+  rights_note: Public domain source text.
+- id: ev:6
+  type: summary
+  locator: lines 4637-5019; index entries for named figures
+  quote_or_summary: The index includes entries for Mary, Moses, Noah, Satan, Yūsuf/Joseph,
+    and Zulaykhā.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mystics-of-islam-nicholson.md
+  rights_note: Public domain source text.
+- id: ev:7
+  type: summary
+  locator: lines 4637-5019; comparative intellectual entries
+  quote_or_summary: The index includes entries for Neoplatonism, Nirvāṇa, Vedānta,
+    Plato, Plotinus, Porphyry, Proclus, Philo, and Pythagoras.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mystics-of-islam-nicholson.md
+  rights_note: Public domain source text.
+- id: ev:8
+  type: summary
+  locator: lines 4637-5019; Christian and European mystical entries
+  quote_or_summary: The index includes St. Paul, Ruysbroeck, Tauler, Henry More, Underhill,
+    and Catholic Mysticism in the publisher list.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mystics-of-islam-nicholson.md
+  rights_note: Public domain source text.
+- id: ev:9
+  type: summary
+  locator: lines 4637-5019; symbolic and path entries
+  quote_or_summary: The index includes 'Path, the,' 'Name, the Great,' 'Vision, spiritual,'
+    and 'Truth, the.'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mystics-of-islam-nicholson.md
+  rights_note: Public domain source text.
+- id: ev:10
+  type: summary
+  locator: lines 4637-5019; pilgrimage, veils, and symbolism entries
+  quote_or_summary: The index includes 'Pilgrimage, allegorical interpretation of
+    the,' 'Veils, the seventy thousand,' 'Symbolism, mystical,' and pilgrimage place
+    names such as Safā, Marwa, Minā, Muzdalifa, and Mecca.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mystics-of-islam-nicholson.md
+  rights_note: Public domain source text.
+- id: ev:11
+  type: summary
+  locator: lines 4637-5019; The Quest Series publisher list
+  quote_or_summary: The end matter advertises The Quest Series, including volumes
+    on psychical research, the Holy Grail, Jewish mysticism, Mystics of Islam, Buddhist
+    psychology, personality, and Catholic mysticism.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mystics-of-islam-nicholson.md
+  rights_note: Public domain source text.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is index and publisher end matter, not a narrative or doctrinal
+    exposition. It supports identification of topics and motifs at the level of indexed
+    terms, but detailed symbolic interpretation requires the referenced pages.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-29'
+notes: |-
+  No comparison claims were recorded because the passage lists possible comparanda but does not itself make a substantive comparative argument.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-mystics-of-islam-nicholson-gutenberg__l4637-l5019
+  passage_sha256=9397676e7ba52680d87a2a034aac6dc810e9d00d79e15185f6f0878cc33726e6

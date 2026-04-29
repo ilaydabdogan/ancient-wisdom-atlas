@@ -1,0 +1,506 @@
+---
+record_id: batch.motif.islamicate-folklore-arabian-nights-lang-gutenberg-l4780-l4885
+source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+passage_locator:
+  label: The Arabian Nights Entertainments; lines 4780-4885
+  start: '4780'
+  end: '4885'
+  translation: The Arabian Nights Entertainments
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A hunchback dies accidentally at a tailor's supper after swallowing a fish
+    bone. The tailor and his wife, fearing accusation, move the body to a Jewish doctor's
+    staircase. The doctor accidentally kicks the corpse down the stairs and believes
+    he has killed the patient. He and his wife lower the corpse through the chimney
+    into a Muslim purveyor's room. The purveyor mistakes it for a thief, beats it,
+    and believes he has murdered a man. He places the corpse by a shop wall, where
+    a drunken Christian merchant collides with it near dawn and begins beating it,
+    thinking he is attacked.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The hunchback swallows a large bone while eating fish and dies of suffocation.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The tailor and his wife fear being treated as murderers and plan to shift
+    suspicion to someone else.
+  category: action
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: The tailor and his wife carry the corpse to the Jewish doctor's house and
+    prop it at the top of a dark staircase after sending payment and a message ahead.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The doctor runs toward the staircase without a light, kicks the body, and
+    the body rolls to the bottom.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The doctor believes he has killed the sick man and fears imprisonment as a
+    murderer.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The doctor and his wife carry the corpse to the roof and lower it by cords
+    through their neighbor's chimney into the purveyor's bedroom.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The purveyor, returning with a lantern, sees the corpse in dim light, mistakes
+    it for a thief, and strikes it with a stick.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The purveyor realizes the man is dead and fears he has murdered him.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The purveyor carries the corpse into the street and leans it against a shop
+    wall.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: Near dawn, a drunken Christian merchant jostles against the hunchback, believes
+    he is being attacked by a thief, knocks him down, calls for help, and continues
+    beating him.
+  category: action
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: the hunchback
+  description: A guest at the tailor's supper who dies after swallowing a large fish
+    bone; his corpse is repeatedly moved and mistaken for a living attacker or thief.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: the tailor
+  description: Host of the supper; helps carry the hunchback's corpse to the doctor's
+    house and prop it at the staircase.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: the tailor's wife
+  description: Hostess who cooked the fish; helps carry the corpse and conceal the
+    accidental death.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: the servant
+  description: A servant at the doctor's house who receives the tailor's message and
+    money and goes upstairs to tell the doctor.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: the Jewish doctor
+  description: A young doctor with few patients who kicks the corpse in the dark,
+    believes he has killed the patient, and helps move the body onward.
+  role_refs:
+  - role:3
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:6
+  name_or_label: the doctor's wife
+  description: The doctor's wife; proposes lowering the corpse through the neighbor's
+    chimney.
+  role_refs:
+  - role:4
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: the Mussulman purveyor
+  description: A supplier of oil and butter to the Sultan's table who mistakes the
+    corpse for a thief, beats it, and then moves it into the street.
+  role_refs:
+  - role:3
+  - role:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:8
+  name_or_label: the Christian merchant
+  description: A rich supplier to the palace who, while drunk near dawn, collides
+    with the corpse and attacks it as if it were a thief.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: dead victim and mistaken living assailant
+  assigned_to:
+  - fig:1
+  basis: The hunchback dies early in the passage, but later figures repeatedly treat
+    his corpse as if it were alive or threatening.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:7
+- id: role:2
+  label: concealer or mover of corpse
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:5
+  - fig:6
+  - fig:7
+  basis: These figures move or dispose of the hunchback's body to avoid blame or exposure.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+- id: role:3
+  label: mistaken killer
+  assigned_to:
+  - fig:5
+  - fig:7
+  - fig:8
+  basis: Each believes or acts as though he has killed, or is fighting, a living man,
+    though the hunchback is already dead.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:7
+- id: role:4
+  label: planner of body transfer
+  assigned_to:
+  - fig:6
+  basis: The doctor's wife proposes carrying the body to the roof and lowering it
+    through the neighbor's chimney.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: message-bearer
+  assigned_to:
+  - fig:4
+  basis: The servant takes the tailor's paid message upstairs to the doctor.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: fatal fish bone
+  literal_form: large bone in the fish eaten at supper
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: corpse passed from house to house
+  literal_form: the hunchback's body
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+  - ev:7
+- id: sym:3
+  label: dark staircase
+  literal_form: steep, dark staircase at the doctor's house
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: chimney passage
+  literal_form: neighbor's chimney used to lower the corpse into the bedroom
+  associated_figures:
+  - fig:1
+  - fig:5
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: dim lantern light
+  literal_form: lantern in the purveyor's hand casting dim light
+  associated_figures:
+  - fig:7
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: dawn and prayer time
+  literal_form: time shortly before sunrise when Muslims would be going to prayer
+  associated_figures:
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Accidental death at supper
+  summary: The tailor, his wife, and the hunchback sit down to eat fish; the hunchback
+    swallows a bone and dies, causing the couple to fear accusation.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Corpse planted at the doctor's staircase
+  summary: The tailor and his wife deceive the servant with a request for treatment,
+    then prop the corpse at the top of the doctor's staircase and flee.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Doctor's mistaken killing
+  summary: The doctor rushes without light, kicks the corpse down the stairs, and
+    concludes he has killed the sick man.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Body lowered through the chimney
+  summary: The doctor's wife proposes a new concealment plan, and she and the doctor
+    lower the corpse through the neighbor's chimney into the purveyor's bedroom.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Purveyor mistakes corpse for thief
+  summary: The purveyor enters with a lantern, mistakes the standing corpse for the
+    thief of his butter, beats it, and fears he has murdered a man.
+  figure_refs:
+  - fig:1
+  - fig:7
+  symbol_refs:
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:5
+- id: scene:6
+  label: Corpse placed by shop wall
+  summary: After recovering from fear, the purveyor carries the body into the street
+    and leans it against a shop wall.
+  figure_refs:
+  - fig:1
+  - fig:7
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:6
+- id: scene:7
+  label: Merchant collides with the corpse near dawn
+  summary: A drunken Christian merchant, hurrying before prayer time, collides with
+    the hunchback, thinks he is being attacked, and strikes him.
+  figure_refs:
+  - fig:1
+  - fig:8
+  symbol_refs:
+  - sym:2
+  - sym:6
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: accidental death concealed as crime
+  taxonomy_refs: []
+  basis: The hunchback dies by accident, but the hosts fear being accused of murder
+    and attempt to divert suspicion.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage presents the initial death and concealment clearly; no broader
+    taxonomy reference is assigned.
+- id: motif:2
+  label: corpse passed among successive households
+  taxonomy_refs: []
+  basis: The body is moved from the tailor's house to the doctor's staircase, then
+    through a chimney to the purveyor's room, and then to the street by a shop wall.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+  confidence: high
+  cautions: This is a passage-level narrative pattern rather than a supplied named
+    taxonomy item.
+- id: motif:3
+  label: mistaken killing of an already dead man
+  taxonomy_refs: []
+  basis: The doctor and purveyor each believe they have killed the hunchback after
+    acting upon his corpse; the merchant also attacks the corpse believing it to be
+    an assailant.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:7
+  confidence: high
+  cautions: The merchant's full realization is not included within the passage range.
+- id: motif:4
+  label: nighttime concealment before sunrise
+  taxonomy_refs: []
+  basis: The doctor's wife stresses that sunrise will make the body impossible to
+    hide, and later the merchant moves shortly before dawn.
+  evidence_refs:
+  - ev:4
+  - ev:7
+  confidence: medium
+  cautions: The passage uses night and dawn as plot conditions; no explicit ritual
+    or cosmological meaning is stated.
+- id: motif:5
+  label: chain of transferred blame
+  taxonomy_refs: []
+  basis: Each household or individual attempts to avoid the consequences of an apparent
+    death by moving the body onward or blaming an imagined thief or killer.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage supports a comic/legal blame-shifting pattern, but the end
+    of the chain is outside the excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4780-4792
+  quote_or_summary: At the tailor's supper the hunchback eats fish, swallows a large
+    bone, dies of suffocation, and the tailor and his wife fear they may be imprisoned
+    for murder.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 4793-4812
+  quote_or_summary: The tailor and wife choose the nearby Jewish doctor as a target
+    for suspicion, send a paid message through the servant, prop the body at the top
+    of the staircase, and run home.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 4813-4829
+  quote_or_summary: The young doctor, pleased at having a patient, runs without waiting
+    for a light, kicks the body down the stairs, sees what happened, and fears he
+    has killed the sick man and will be jailed.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 4830-4854
+  quote_or_summary: The doctor takes the corpse to his wife; she fears sunrise will
+    expose them and proposes lowering the body through their Muslim neighbor's chimney;
+    they do so with cords into the purveyor's bedroom.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 4855-4870
+  quote_or_summary: The purveyor returns from a wedding feast with a lantern, sees
+    the body in dim light, mistakes it for a thief stealing butter, beats it with
+    a stick, then realizes it is dead and fears he has murdered a man.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 4871-4875
+  quote_or_summary: The purveyor, after recovering from fear, carries the hunchback
+    into the street, leans him against a shop wall, and returns home without looking
+    back.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 4876-4885
+  quote_or_summary: A rich Christian merchant, drunk and hurrying before dawn prayer
+    traffic, collides with the hunchback, thinks a thief has attacked him, knocks
+    him down, calls for help, and keeps beating him.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The sequence of actions and figures is explicit in the passage. Motif labels
+    are descriptive and passage-level; no supplied taxonomy family is clearly warranted.
+    No comparison claims are made because the passage itself does not assert comparison
+    to another tradition or corpus.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-29'
+notes: |-
+  No taxonomy symbol refs were applied because the available symbol list does not include the main literal objects in this passage.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamicate-folklore-arabian-nights-lang-gutenberg__l4780-l4885
+  passage_sha256=7f177d970bb29f8a18f83940b30542618a6780661cc87ad0cafed3449a4c00bc

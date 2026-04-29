@@ -1,0 +1,385 @@
+---
+record_id: batch.motif.sufi-mystics-of-islam-nicholson-gutenberg-l707-l774
+source_text_path: texts/public-domain/sufi/project-gutenberg/mystics-of-islam-nicholson.md
+passage_locator:
+  label: INTRODUCTION / I. CHRISTIANITY / II. NEOPLATONISM / IV. BUDDHISM; lines 707-774
+  start: '707'
+  end: '774'
+  translation: The Mystics of Islam
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Nicholson states that definitions of Sūfism show its indefinability, illustrates
+    this with Rūmī’s elephant-in-a-dark-room story, lists several brief definitions
+    of Sūfism, and concludes that Sūfism has many divergent meanings, many paths seeking
+    God, and a Protean character best represented here by an extreme pantheistic and
+    speculative type.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Rūmī is cited as telling a story about an elephant exhibited in a dark room.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: People in the dark room touch separate parts of the elephant with their hands
+    because they cannot see it.
+  category: action
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: Different observers compare the elephant to a water-pipe, a fan, a pillar,
+    and an immense throne according to the part they touch.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The author says definitions of Sūfism express what particular definers have
+    felt and cannot comprise every personal and intimate religious feeling.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Several definitions describe Sūfism as self-discipline, non-possession, moral
+    disposition, freedom, generosity, and absence of self-constraint.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: One definition says Sūfism is that God makes a person die to self and live
+    in Him.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The Sūfī paths by which seekers seek God are said to be as numerous as human
+    souls and to vary infinitely.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The author describes Sūfism as a composite, many-sided, Protean phenomenon
+    rather than a single dogmatic system or sect.
+  category: attribute
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Jalāluddīn Rūmī
+  description: Poet-author of the Masnavī cited as telling the elephant story.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Hindus exhibiting the elephant
+  description: People described as exhibiting an elephant in a dark room.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Many people in the dark room
+  description: Observers who gather to see the elephant and touch it to form an idea
+    of it.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: Elephant
+  description: Animal in the dark room, perceived only by separate touched parts.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:5
+  name_or_label: The Sūfī
+  description: Person described in the listed definitions as undergoing actions known
+    only to God, practicing discipline, possessing nothing, and being with God.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:6
+  name_or_label: God
+  description: Divine figure in definitions of Sūfism, known to the Sūfī and described
+    as making the person die to self and live in Him.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: Cited storyteller
+  assigned_to:
+  - fig:1
+  basis: Rūmī is named as telling the illustrative story in the Masnavī.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: Exhibitors
+  assigned_to:
+  - fig:2
+  basis: They are described as exhibiting the elephant in a dark room.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: Partial observers
+  assigned_to:
+  - fig:3
+  basis: They cannot see the whole elephant and infer its nature from isolated tactile
+    contact.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: Hidden object of perception
+  assigned_to:
+  - fig:4
+  basis: The elephant is present but not visually accessible, and is known only through
+    touched parts.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:5
+  label: Mystical practitioner or seeker
+  assigned_to:
+  - fig:5
+  basis: The definitions describe the Sūfī’s discipline, dispossession, relation to
+    God, and inner transformation.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:6
+  label: Divine agent and goal
+  assigned_to:
+  - fig:6
+  basis: God is described as the one with whom the Sūfī is, the one who makes the
+    person die to self and live in Him, and the goal sought by the paths.
+  evidence_refs:
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: Elephant in darkness
+  literal_form: Elephant in a dark room
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: Dark room
+  literal_form: Dark room where the elephant cannot be seen
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Separate elephant parts
+  literal_form: Trunk, ear, leg, and back of the elephant
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: Paths seeking God
+  literal_form: Tarīqas or paths by which Sūfīs seek God
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: Dying to self and living in God
+  literal_form: A person made to die to self and live in God
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs:
+  - annihilation_union
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Elephant perceived in darkness
+  summary: An elephant is exhibited in a dark room; because the observers cannot see
+    it, they touch different parts and form conflicting descriptions from partial
+    contact.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Definitions of Sūfism
+  summary: The passage lists brief definitions that characterize Sūfism through divine
+    action, self-discipline, dispossession, moral disposition, freedom, generosity,
+    contemplation, control of faculties, and endurance.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Many paths and composite portrait
+  summary: The author says Sūfism unites divergent meanings, is not a sect or dogmatic
+    system, and includes innumerable paths by which people seek God.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Partial perception of an unseen whole
+  taxonomy_refs:
+  - wisdom
+  basis: The elephant story presents multiple observers forming incomplete accounts
+    from separate tactile experiences, and the author applies this to attempts to
+    define Sūfism.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage uses the story as an analogy for definitional limitation,
+    not as an independent mythic episode.
+- id: motif:2
+  label: Mystical path seeking God
+  taxonomy_refs:
+  - mystical_quest
+  basis: The passage states that the tarīqas or paths by which Sūfīs seek God are
+    as numerous as human souls and vary infinitely.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The motif is expressed conceptually rather than as a narrated journey.
+- id: motif:3
+  label: Dying to self and living in God
+  taxonomy_refs:
+  - annihilation_union
+  - death_rebirth
+  basis: One cited definition describes Sūfism as God making the person die to self
+    and live in Him.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The text gives a compact doctrinal definition; it does not narrate an
+    actual death or resurrection event.
+- id: motif:4
+  label: Renunciation and non-possession
+  taxonomy_refs:
+  - sacrifice
+  basis: Definitions describe Sūfism as possessing nothing, being possessed by nothing,
+    putting away what is in the head, giving what is in the hand, and not recoiling
+    from what befalls one.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The available taxonomy has no precise renunciation category; sacrifice
+    is only an approximate family reference.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 707-715
+  quote_or_summary: Rūmī in the Masnavī tells of an elephant exhibited by Hindus in
+    a dark room; people gather but cannot see it and touch it with their hands.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mystics-of-islam-nicholson.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 715-721
+  quote_or_summary: 'Observers identify the elephant differently from separate parts:
+    trunk as water-pipe, ear as fan, leg as pillar, and back as an immense throne.'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mystics-of-islam-nicholson.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 721-728
+  quote_or_summary: 'The author compares definers of Sūfism to the elephant observers:
+    each expresses what they have felt, while no formula can include every shade of
+    personal religious feeling.'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mystics-of-islam-nicholson.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 729-758
+  quote_or_summary: Definitions characterize Sūfism as self-discipline, non-possession,
+    moral disposition, freedom, generosity, absence of self-constraint, contemplation,
+    control of faculties, and endurance.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mystics-of-islam-nicholson.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:5
+  type: quote
+  locator: lines 748-750
+  quote_or_summary: "“God should make thee die to thyself and should make thee live
+    in Him.”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mystics-of-islam-nicholson.md
+  rights_note: Public domain source; short quotation from supplied passage.
+- id: ev:6
+  type: quote
+  locator: lines 762-766
+  quote_or_summary: The tarīqas or paths by which Sūfīs seek God “are in number as
+    the souls of men” and vary infinitely.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mystics-of-islam-nicholson.md
+  rights_note: Public domain source; short quotation from supplied passage.
+- id: ev:7
+  type: summary
+  locator: lines 759-774
+  quote_or_summary: The author describes Sūfism as a word uniting divergent meanings,
+    requiring a composite portrait, not a sect or dogmatic system, and as a many-sided
+    Protean phenomenon.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mystics-of-islam-nicholson.md
+  rights_note: Public domain source; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The extraction relies only on the supplied passage. Motif labels for mystical
+    path and dying to self are well supported; taxonomy mapping for renunciation to
+    sacrifice is approximate. No comparison claims were added because the passage
+    does not itself make a cross-tradition comparison beyond using Rūmī’s illustrative
+    story.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-29'
+notes: |-
+  Archaic source term for Hindus appears in the passage; normalized label used for the figure while retaining evidence context.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-mystics-of-islam-nicholson-gutenberg__l707-l774
+  passage_sha256=98cfdd459a42414aeff4661dfce39f38399b4321ef879bedab2139179267f85a

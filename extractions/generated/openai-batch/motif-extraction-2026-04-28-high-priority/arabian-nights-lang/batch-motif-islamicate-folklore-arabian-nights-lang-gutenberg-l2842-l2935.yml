@@ -1,0 +1,610 @@
+---
+record_id: batch.motif.islamicate-folklore-arabian-nights-lang-gutenberg-l2842-l2935
+source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+passage_locator:
+  label: The Arabian Nights Entertainments; lines 2842-2935
+  start: '2842'
+  end: '2935'
+  translation: The Arabian Nights Entertainments
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A king named Agib sails to distant seas, is driven off course by a storm,
+    and encounters the magnetic Black Mountain. His fleet is destroyed when the mountain
+    draws out the ships' iron. He alone survives, climbs the mountain, receives dream
+    instructions from an old man, shoots down a brass rider statue, and is taken away
+    by a metal boatman. After breaking the instruction not to speak Allah's name,
+    the boat sinks; Agib swims to an island and hides in a tree when another ship
+    approaches.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The narrator succeeds to his father's throne and sails to visit provinces
+    and islands before deciding to explore more distant seas with a fleet.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A storm lasts ten days and causes the pilot to lose his bearings.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A sailor sees only sea, sky, and a large black mass astern.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The pilot identifies the black mass as the Black Mountain, made of adamant,
+    which attracts iron and nails from ships.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The pilot says a brass dome with a brass horse and rider stands on the mountain
+    summit, and that vessels will continue to perish while the statue remains there.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: When the fleet nears the mountain, nails and iron fly out of the ships; the
+    vessels fall apart and sink with their crews.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The narrator survives by grasping a floating plank and reaches narrow steps
+    leading up the mountain.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: At the summit, the narrator sleeps under the dome and sees an old man in a
+    dream who gives instructions about buried weapons, the statue, and a boatman.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: The dream figure instructs the narrator not to take the name of Allah into
+    his mouth if he wants to see his kingdom again.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: The narrator shoots the statue, causing the horseman to fall into the sea,
+    buries the horse, and boards a boat rowed by a metal man.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:11
+  text: After nine days in the boat, the narrator sees land and cries out in praise
+    of Allah; the boat and metal man sink.
+  category: sequence
+  evidence_refs:
+  - ev:9
+- id: obs:12
+  text: The narrator swims and floats until a wave casts him onto a shore.
+  category: action
+  evidence_refs:
+  - ev:10
+- id: obs:13
+  text: On the island, the narrator sees fruit trees and streams, then hides in a
+    tree when a ship approaches.
+  category: setting
+  evidence_refs:
+  - ev:11
+figures:
+- id: fig:1
+  name_or_label: Agib, the narrator
+  description: A king who succeeds to his father's throne, leads a sea expedition,
+    survives the wreck at the Black Mountain, follows dream instructions, and later
+    breaks the spoken prohibition.
+  role_refs:
+  - role:1
+  - role:8
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:8
+  - ev:9
+- id: fig:2
+  name_or_label: The pilot
+  description: The ship's pilot who loses his bearings, recognizes the Black Mountain,
+    and explains its danger and the statue on its summit.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: The ship's crew
+  description: The sailors on the fleet who fear death near the Black Mountain and
+    sink with the ships.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: Old man in the dream
+  description: A dream figure who addresses Agib by name and instructs him how to
+    shoot the statue, bury the horse, board the boat, and avoid speaking Allah's name.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:7
+- id: fig:5
+  name_or_label: Brass rider statue
+  description: A brass horse with a rider on its back; the rider has a lead breastplate
+    engraved with signs and figures.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:8
+- id: fig:6
+  name_or_label: Metal man in the boat
+  description: A metal man seated in a boat with an oar in each hand who rows Agib
+    for nine days before sinking when Agib speaks.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:7
+  - ev:9
+- id: fig:7
+  name_or_label: Approaching ship
+  description: A ship making directly for the island after Agib has reached shore.
+  role_refs: []
+  evidence_refs:
+  - ev:11
+roles:
+- id: role:1
+  label: ruler-voyager
+  assigned_to:
+  - fig:1
+  basis: Agib succeeds to the throne and undertakes sea voyages to distant places.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: navigator
+  assigned_to:
+  - fig:2
+  basis: The pilot tracks the ship's course but admits he has lost his bearings after
+    the storm.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: danger-interpreter
+  assigned_to:
+  - fig:2
+  basis: The pilot explains the identity and deadly power of the Black Mountain.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: doomed companions
+  assigned_to:
+  - fig:3
+  basis: The crews sink with the vessels when the ships fall apart near the Black
+    Mountain.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: dream instructor
+  assigned_to:
+  - fig:4
+  basis: The old man appears in Agib's dream and gives detailed instructions for escape.
+  evidence_refs:
+  - ev:7
+- id: role:6
+  label: perilous statue
+  assigned_to:
+  - fig:5
+  basis: The pilot says vessels will continue to perish while the statue remains on
+    the dome, and Agib later shoots it down.
+  evidence_refs:
+  - ev:4
+  - ev:8
+- id: role:7
+  label: silent ferryman
+  assigned_to:
+  - fig:6
+  basis: The metal man rows Agib away without stopping and sinks after Agib speaks
+    the prohibited words.
+  evidence_refs:
+  - ev:9
+- id: role:8
+  label: taboo-breaker
+  assigned_to:
+  - fig:1
+  basis: Agib is told not to speak Allah's name but later cries out in praise, causing
+    the boat to sink.
+  evidence_refs:
+  - ev:7
+  - ev:9
+symbols:
+- id: sym:1
+  label: Black Mountain
+  literal_form: A famous black mountain composed of adamant that attracts ship iron
+    and nails.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:2
+  label: Sea and storm
+  literal_form: The sea, storm, waves, swimming, and shore that carry, wreck, and
+    later cast up the narrator.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:10
+- id: sym:3
+  label: Brass dome
+  literal_form: A brass dome on pillars standing on the mountain summit.
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: sym:4
+  label: Brass horse and rider with lead breastplate
+  literal_form: A brass horse and rider, with the rider wearing an engraved lead breastplate.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:8
+- id: sym:5
+  label: Buried bow and arrows
+  literal_form: A bow of brass and three arrows of lead hidden under the ground.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: sym:6
+  label: Boat rowed by metal man
+  literal_form: A boat carrying a metal man with an oar in each hand.
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:9
+- id: sym:7
+  label: Fruit trees and hiding tree
+  literal_form: An island covered with fruit trees; the narrator hides in the thick
+    branches of a tree.
+  associated_figures:
+  - fig:1
+  - fig:7
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:11
+scenes:
+- id: scene:1
+  label: Royal departure by sea
+  summary: Agib becomes king, visits his lands by sea, and then prepares a fleet for
+    exploration of distant seas.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Storm and recognition of the Black Mountain
+  summary: A storm drives the fleet off course; the pilot identifies the dark mass
+    as the Black Mountain and describes its magnetic danger and summit statue.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Destruction of the fleet and solitary survival
+  summary: The mountain draws the ships' iron and nails, the vessels sink with the
+    crews, and Agib survives on a plank that brings him to steps up the mountain.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Dream instructions on the summit
+  summary: Agib sleeps under the dome and receives instructions from an old man about
+    buried weapons, the statue, a rising sea, a metal boatman, and a prohibition on
+    speaking Allah's name.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:7
+- id: scene:5
+  label: Shooting the statue and boarding the boat
+  summary: Agib finds the bow and arrows, shoots down the horseman, buries the horse,
+    and boards the approaching boat rowed by a metal man.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:2
+  evidence_refs:
+  - ev:8
+- id: scene:6
+  label: Broken speech prohibition and second immersion
+  summary: After nine days in the boat, Agib sees land, praises Allah aloud, and the
+    boat and metal man sink beneath him.
+  figure_refs:
+  - fig:1
+  - fig:6
+  symbol_refs:
+  - sym:6
+  - sym:2
+  evidence_refs:
+  - ev:9
+- id: scene:7
+  label: Island refuge and concealment
+  summary: Agib reaches shore by swimming and wave action, rests, observes an island
+    with fruit trees and streams, and hides in a tree when a ship approaches.
+  figure_refs:
+  - fig:1
+  - fig:7
+  symbol_refs:
+  - sym:2
+  - sym:7
+  evidence_refs:
+  - ev:10
+  - ev:11
+candidate_motifs:
+- id: motif:1
+  label: Departure on a sea expedition
+  taxonomy_refs:
+  - departure
+  basis: The ruler leaves his kingdom by ship to explore distant seas with a fleet.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage gives a literal departure rather than an explicitly ritual
+    or mythic departure.
+- id: motif:2
+  label: Storm-driven loss of course
+  taxonomy_refs:
+  - chaos
+  basis: A terrific storm drives the fleet for ten days until the pilot loses his
+    bearings.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The taxonomy label is broad; the passage presents a maritime disaster,
+    not a full cosmogonic chaos scene.
+- id: motif:3
+  label: Deadly mountain at sea
+  taxonomy_refs:
+  - cosmic_mountain
+  basis: The Black Mountain dominates the seascape, draws ships to destruction, and
+    has a dome and statue on its summit that determine the fate of vessels.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The mountain is not explicitly called cosmic or axial in the passage;
+    the match rests on its extraordinary central danger and summit structure.
+- id: motif:4
+  label: Sole survivor of shipwreck
+  taxonomy_refs: []
+  basis: All vessels sink with their crews, while Agib alone survives by grasping
+    a plank and reaching the mountain.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: No supplied taxonomy family directly names this motif.
+- id: motif:5
+  label: Dream guide gives salvific instructions
+  taxonomy_refs:
+  - wisdom
+  basis: An old man appears in a dream and provides precise actions that enable Agib
+    to neutralize the statue and board the boat.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The passage does not identify the old man or explain the source of his
+    knowledge.
+- id: motif:6
+  label: Destruction of harmful image or statue
+  taxonomy_refs: []
+  basis: Agib shoots the statue as instructed, and the horseman falls into the sea,
+    changing the situation on the mountain.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: No supplied taxonomy family directly names icon destruction or magical
+    statue removal.
+- id: motif:7
+  label: Forbidden utterance during rescue journey
+  taxonomy_refs:
+  - forbidden_knowledge
+  basis: Agib is warned not to take Allah's name into his mouth; when he praises Allah
+    aloud, the boat and metal man sink.
+  evidence_refs:
+  - ev:7
+  - ev:9
+  confidence: medium
+  cautions: 'The taxonomy reference is approximate: the prohibition concerns speech
+    rather than knowledge acquisition.'
+- id: motif:8
+  label: Supernatural or artificial ferryman
+  taxonomy_refs:
+  - ark_vessel
+  basis: A metal man in a boat rows Agib away from the mountain for nine days before
+    the vessel sinks.
+  evidence_refs:
+  - ev:7
+  - ev:9
+  confidence: medium
+  cautions: The boat is a rescue vessel but not an ark in the strict sense; the rower
+    is described as metal, not explicitly alive or divine.
+- id: motif:9
+  label: Cast ashore after immersion
+  taxonomy_refs:
+  - return
+  basis: After the boat sinks, Agib swims until a wave casts him onto shore, beginning
+    another phase of return toward land and possible safety.
+  evidence_refs:
+  - ev:10
+  - ev:11
+  confidence: medium
+  cautions: The passage ends before actual return to the kingdom is achieved.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 2842-2851
+  quote_or_summary: Agib succeeds to his father's throne, visits provinces and islands
+    by sea, develops a taste for sailing, and equips a fleet for distant exploration.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:2
+  type: summary
+  locator: 2852-2860
+  quote_or_summary: After forty favorable days, a storm blows the fleet about for
+    ten days; the pilot loses his bearings and a sailor sees sea, sky, and a large
+    black mass astern.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:3
+  type: summary
+  locator: 2861-2874
+  quote_or_summary: The pilot says they are lost, identifies the dark mass as the
+    Black Mountain, and explains that its adamant draws iron and nails from ships
+    so that they sink.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:4
+  type: summary
+  locator: 2875-2882
+  quote_or_summary: The pilot describes a brass dome on the summit, a brass horse
+    and rider, a lead breastplate engraved with signs, and a saying that vessels will
+    perish while the statue remains.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:5
+  type: summary
+  locator: 2883-2890
+  quote_or_summary: Near the Black Mountain, the ships' nails and iron fly out and
+    strike the mountain; the vessels fall apart and sink with their crews.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:6
+  type: summary
+  locator: 2890-2897
+  quote_or_summary: Agib alone grasps a floating plank, reaches shore unharmed, and
+    finds narrow steep steps leading up the mountain.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:7
+  type: summary
+  locator: 2898-2912
+  quote_or_summary: At the summit, Agib sleeps under the dome; an old man appears
+    in a dream, tells him to dig up a brass bow and three lead arrows, shoot the statue,
+    bury the horse, board a boat rowed by a metal man, and not speak Allah's name.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:8
+  type: summary
+  locator: 2913-2919
+  quote_or_summary: Agib wakes, retrieves the bow and arrows, brings down the horseman
+    with the third shot, buries the horse as the sea rises, and boards the approaching
+    boat.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:9
+  type: summary
+  locator: 2919-2925
+  quote_or_summary: The metal man rows for nine days; when land appears, Agib joyfully
+    says, 'Allah be praised,' and the boat and man sink beneath him.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; short quotation from public domain supplied passage.
+- id: ev:10
+  type: summary
+  locator: 2925-2931
+  quote_or_summary: Agib swims and floats toward land until his strength fails; a
+    wind and large wave cast him onto a flat shore, where he dries his clothes and
+    rests.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:11
+  type: summary
+  locator: 2932-2935
+  quote_or_summary: The island seems uninhabited, has fruit trees and streams, lies
+    far from the mainland, and Agib hides in a tree when a ship approaches.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summary generated from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is well supported by the supplied passage. Motif-family
+    mappings are cautious because several available taxonomy labels are broader than
+    the passage-level motifs. No comparison claims are made because the passage itself
+    does not supply an explicit comparative target.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-29'
+notes: |-
+  Used only supplied passage text, metadata, and available taxonomy references.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamicate-folklore-arabian-nights-lang-gutenberg__l2842-l2935
+  passage_sha256=9f4f2d2764c3e7cdf497e8fe6bcf9d824bedf4257058ced96bb0ffe6bf872183

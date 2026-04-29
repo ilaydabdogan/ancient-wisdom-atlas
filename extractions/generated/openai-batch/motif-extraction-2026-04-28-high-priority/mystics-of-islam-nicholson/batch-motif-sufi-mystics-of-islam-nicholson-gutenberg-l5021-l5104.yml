@@ -1,0 +1,238 @@
+---
+record_id: batch.motif.sufi-mystics-of-islam-nicholson-gutenberg-l5021-l5104
+source_text_path: texts/public-domain/sufi/project-gutenberg/mystics-of-islam-nicholson.md
+passage_locator:
+  label: CHAPTER VI / THE UNITIVE STATE / BIBLIOGRAPHY / INDEX; lines 5021-5104
+  start: '5021'
+  end: '5104'
+  translation: The Mystics of Islam
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is a publisher-style listing of books and contents, including
+    works by J. Arthur Thomson, Evelyn Underhill, G. R. S. Mead, Minnie B. Theobald,
+    and Ralph Waldo Trine. It advertises topics in mysticism, psychology, Buddhism,
+    Chinese mystical philosophy, Hellenistic religion, and practical Christianity.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage lists a work titled The Interpretation of Nature from Aristotle
+    to Bergson by J. Arthur Thomson.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage lists a work titled Ruysbroeck by Evelyn Underhill.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage advertises Quests Old and New by G. R. S. Mead and gives a contents
+    list with topics in Chinese mystical philosophy, Buddhism, early Christendom,
+    Hellenistic religion, and modern philosophy.
+  category: object
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:4
+  text: The passage advertises The Missing Goddess, and Other Legends by Minnie B.
+    Theobald and describes the stories as allegorical and connected with experimental
+    psychology and phases of consciousness.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:5
+  text: The passage advertises Ralph Waldo Trine’s The New Alinement of Life and says
+    its aim is to identify fundamental truths of real Christianity.
+  category: object
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: J. Arthur Thomson
+  description: Named as the author of The Interpretation of Nature from Aristotle
+    to Bergson and as Regius Professor of Natural History at Aberdeen University.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Evelyn Underhill
+  description: Named as the author of Ruysbroeck, Mysticism, and The Mystic Way.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: G. R. S. Mead
+  description: Named as the author of Quests Old and New, editor of The Quest Series,
+    and author of other works.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Minnie B. Theobald
+  description: Named as the author of The Missing Goddess, and Other Legends and described
+    as a musician.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Ralph Waldo Trine
+  description: Named in connection with The New Alinement of Life.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: author
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  basis: Each named person is presented as author of a listed book or books.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+- id: role:2
+  label: academic professor
+  assigned_to:
+  - fig:1
+  basis: J. Arthur Thomson is identified as Regius Professor of Natural History at
+    Aberdeen University.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: series editor
+  assigned_to:
+  - fig:3
+  basis: G. R. S. Mead is identified as editor of The Quest Series.
+  evidence_refs:
+  - ev:3
+symbols: []
+scenes:
+- id: scene:1
+  label: Publisher listings and advertisements
+  summary: A set of book listings and advertisements presents authors, titles, prices,
+    contents, and promotional descriptions of works on mysticism, psychology, religion,
+    and philosophy.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Mystical quest topics in a contents list
+  taxonomy_refs:
+  - mystical_quest
+  basis: The title Quests Old and New and its contents list include subjects such
+    as the way of the spirit, mystical philosophy, Buddhist spirituality, gnosis,
+    and hidden mysteries.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: This is a bibliographical advertisement and contents list, not a narrative
+    passage depicting a quest.
+- id: motif:2
+  label: Hidden or esoteric knowledge as a topic
+  taxonomy_refs:
+  - wisdom
+  - forbidden_knowledge
+  basis: The contents list names gnosis in Hellenistic religion and The Book of the
+    Hidden Mysteries as topics.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: The passage only lists topics; it does not describe an episode of acquiring,
+    guarding, or transgressing knowledge.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5021-5023
+  quote_or_summary: The passage lists The Interpretation of Nature from Aristotle
+    to Bergson by J. Arthur Thomson, identified as Regius Professor of Natural History
+    at Aberdeen University.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mystics-of-islam-nicholson.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 5025-5027
+  quote_or_summary: The passage lists Ruysbroeck by Evelyn Underhill, also identifying
+    her as author of Mysticism and The Mystic Way.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mystics-of-islam-nicholson.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 5031-5040
+  quote_or_summary: The passage advertises Quests Old and New by G. R. S. Mead, editor
+    of The Quest Series and author of other named works.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mystics-of-islam-nicholson.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 5042-5068
+  quote_or_summary: The contents list for Quests Old and New includes topics such
+    as the way of the spirit in ancient China, Buddhist spirituality, reincarnation,
+    early Christendom, gnosis, hidden mysteries, Bergson, and Eucken.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mystics-of-islam-nicholson.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: lines 5070-5088
+  quote_or_summary: The passage advertises The Missing Goddess, and Other Legends
+    by Minnie B. Theobald; the stories are described as allegorical, written by a
+    musician, and concerned with experimental psychology, phases of consciousness,
+    and problems in this world and the next.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mystics-of-islam-nicholson.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:6
+  type: summary
+  locator: lines 5090-5104
+  quote_or_summary: The passage advertises Ralph Waldo Trine’s The New Alinement of
+    Life, described as a work seeking to sift out fundamental truths of real Christianity
+    and encourage better living and thinking.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mystics-of-islam-nicholson.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: The line range is primarily advertising and bibliographic material rather
+    than a mythic or mystical narrative. Motif candidates are therefore weak and based
+    only on listed titles and topics.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-29'
+notes: |-
+  No comparison claims were added because the passage itself does not support a concrete comparison beyond broad topic labels.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-mystics-of-islam-nicholson-gutenberg__l5021-l5104
+  passage_sha256=fc1d3411b1d1ba56a66974c054216bc091e47142e260bdc5f604eecc5701e890

@@ -1,0 +1,574 @@
+---
+record_id: batch.motif.sufi-rumi-mesnevi-book-1-redhouse-gutenberg-l11014-l11121
+source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+passage_locator:
+  label: PREFACE. / IN THE NAME OF GOD, / THE ALL-MERCIFUL, THE VERY-COMPASSIONATE.
+    / VIII.; lines 11014-11121
+  start: '11014'
+  end: '11121'
+  translation: The Mesnevi
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage contrasts Moses and Pharaoh as parabolic figures under divine
+    power. Pharaoh prays secretly, reflects on divine decree, and is used to discuss
+    appearance, inner state, opposition, nonbeing, cosmological balance, and the repulsion
+    of Pharaoh-like souls by saints.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage opens by presenting Moses and Pharaoh as parabolic figures, with
+    Moses associated with faith and Pharaoh with sin.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Moses is described as praying by day to the Lord of Hosts.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Pharaoh is described as praying at midnight and attributing his condition
+    to a yoke imposed by God.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Pharaoh compares Moses' illuminated countenance with his own darkened heart,
+    using images of day, moon, star, and eclipse.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Pharaoh describes both himself and Moses as servants of God, and compares
+    God's wrath against him to an axe striking a tree.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Pharaoh privately reflects that he is humble in secret but changes when he
+    meets Moses.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: 'The narrator develops a sequence of contrasts: colour and huelessness, oil
+    and water, rose and thorn, treasure and ruin, entity and nonentity.'
+  category: sequence
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: obs:8
+  text: A cosmological discussion compares the sky to an eggshell and the globe to
+    a yolk, then debates whether the earth is held by attraction or repulsion.
+  category: speech
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: obs:9
+  text: The passage concludes by applying the idea of repulsion to Pharaohs of each
+    age, who are said to be fixed in error by repulsion from the souls of saints.
+  category: relationship
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Moses
+  description: A parabolic figure associated with faith, prayer, divine illumination,
+    and Pharaoh's confrontation.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: Pharaoh
+  description: A parabolic figure associated with sin, secret prayer, complaint about
+    divine decree, eclipse imagery, and resistance to Moses.
+  role_refs:
+  - role:2
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:10
+- id: fig:3
+  name_or_label: God / Lord of Hosts / Almighty King
+  description: The divine addressee of prayer, described by Pharaoh as imposing the
+    yoke, enlightening Moses, darkening Pharaoh, and wielding power.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Saints / God's anointed ones
+  description: Figures whose souls repel the Pharaohs of each age and whose power
+    is compared to amber when chafed.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:10
+  - ev:11
+- id: fig:5
+  name_or_label: Questioner
+  description: A speaker who asks how the globe rests within the surrounding spheres
+    without falling.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:8
+- id: fig:6
+  name_or_label: Wise man
+  description: A respondent who explains the globe's suspension by equal attraction
+    on all sides.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:9
+- id: fig:7
+  name_or_label: Caviller
+  description: A respondent who objects to attraction and proposes equal repulsion
+    instead.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:9
+roles:
+- id: role:1
+  label: praying faithful figure
+  assigned_to:
+  - fig:1
+  basis: Moses is said to pray by day and to have faith described as right.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: secret suppliant and self-questioning ruler
+  assigned_to:
+  - fig:2
+  basis: Pharaoh prays at midnight, complains of an imposed yoke, and reflects privately
+    on his own changeability.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:3
+  label: servant of God
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Pharaoh says that both he and Moses are servants of God, their King.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: repelled figure fixed in error
+  assigned_to:
+  - fig:2
+  basis: The passage generalizes from Pharaoh to 'Pharaohs of each age' who are repelled
+    from saints and fixed in error.
+  evidence_refs:
+  - ev:10
+- id: role:5
+  label: divine sovereign and source of decree
+  assigned_to:
+  - fig:3
+  basis: God is addressed as Lord, King, omnipotent one, and the agent who enlightens,
+    darkens, commands, or decrees.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:6
+  label: repelling holy figures
+  assigned_to:
+  - fig:4
+  basis: The souls of saints repel Pharaoh-like figures, and their concealed or exerted
+    power affects others.
+  evidence_refs:
+  - ev:10
+  - ev:11
+- id: role:7
+  label: cosmological questioner
+  assigned_to:
+  - fig:5
+  basis: The questioner asks how the globe remains within the spheres without falling
+    or rising.
+  evidence_refs:
+  - ev:8
+- id: role:8
+  label: cosmological explainer by attraction
+  assigned_to:
+  - fig:6
+  basis: The wise man answers that equal attraction on all sides keeps the globe poised.
+  evidence_refs:
+  - ev:9
+- id: role:9
+  label: cosmological objector by repulsion
+  assigned_to:
+  - fig:7
+  basis: The caviller rejects attraction and proposes equal repulsion around the earth.
+  evidence_refs:
+  - ev:9
+symbols:
+- id: sym:1
+  label: yoke on the neck
+  literal_form: A yoke said by Pharaoh to have been placed on his neck by God.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: eclipsed moon or star
+  literal_form: Pharaoh's heart and star are compared to the moon darkened by eclipse.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: axe and tree boughs
+  literal_form: God's wrath is compared to a woodman's axe striking a tree; boughs
+    may be replanted, burned, or left to moulder.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - tree
+  - fire
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: gilded base coin in fire
+  literal_form: A base coin gilded with gold reveals its baseness when cast into fire.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: water and oil
+  literal_form: Oil is said to originate from water, yet oil and water are described
+    as foes.
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: rose and thorn
+  literal_form: The rose springs from a thorn and thorns from the rose, yet the two
+    are in open warfare.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: treasure and ruin
+  literal_form: The treasure is to be sought, while the ruin stands before the eyes;
+    apparent treasure is called vanity.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:8
+  label: sky as eggshell and globe as yolk
+  literal_form: The sky is compared to an eggshell and the globe within it to a yolk.
+  associated_figures:
+  - fig:5
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:9
+  label: lamp, iron ball, and loadstone vault
+  literal_form: The globe is compared to a lamp hung in a dome and to an iron ball
+    held by a loadstone vault.
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: sym:10
+  label: amber and mote
+  literal_form: Saints are compared to amber which, when chafed, shows power over
+    the mote of another's existence.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:11
+scenes:
+- id: scene:1
+  label: Moses and Pharaoh introduced as parables
+  summary: The passage frames Moses and Pharaoh as paired parabolic figures, distinguishing
+    Moses' faith from Pharaoh's sin and mentioning Moses' prayer.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Pharaoh's midnight prayer
+  summary: Pharaoh addresses God at midnight, saying that God imposed a yoke on him,
+    enlightened Moses, and left him darkened and eclipsed.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Pharaoh's axe and bough complaint
+  summary: Pharaoh calls both himself and Moses God's servants and asks God to withhold
+    the axe of wrath, using the image of severed boughs.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Pharaoh's private self-reflection
+  summary: Pharaoh reflects that he prays humbly in secret but changes when he meets
+    Moses, comparing himself to a gilded base coin revealed by fire and to a field
+    made green or withered by decree.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Contraries from common origins
+  summary: The narrator discusses how colour arises from huelessness and how related
+    pairs such as oil and water or rose and thorn nevertheless appear in warfare.
+  figure_refs: []
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:6
+- id: scene:6
+  label: Treasure, ruin, entity, and nonentity
+  summary: The passage says the treasure must be sought, warns that apparent treasure
+    is vanity, and describes entity and nonentity as involved in contested relation.
+  figure_refs: []
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:7
+- id: scene:7
+  label: Cosmological debate of attraction and repulsion
+  summary: A questioner asks how the globe stays within surrounding spheres; a wise
+    man explains by attraction, while a caviller proposes repulsion.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:8
+  - sym:9
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: scene:8
+  label: Repulsion from saints
+  summary: The narrator applies the repulsion model to spiritual life, saying Pharaohs
+    of each age are kept in error by repulsion from the souls of saints.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:10
+  evidence_refs:
+  - ev:10
+  - ev:11
+candidate_motifs:
+- id: motif:1
+  label: Opposed figures under one divine sovereignty
+  taxonomy_refs:
+  - duality
+  basis: Moses and Pharaoh are paired as opposites, yet Pharaoh says both are servants
+    of the same divine King.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: high
+  cautions: The passage presents the contrast doctrinally and parabolically rather
+    than as a full narrative episode.
+- id: motif:2
+  label: Contraries arising from common source
+  taxonomy_refs:
+  - duality
+  - wisdom
+  basis: 'The passage repeatedly asks how opposed things arise from related or common
+    sources: colour from huelessness, oil from water, rose from thorn, and thorns
+    from rose.'
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: This is an abstract teaching motif rather than a discrete mythic action.
+- id: motif:3
+  label: Hidden treasure in ruin
+  taxonomy_refs:
+  - mystical_quest
+  - wisdom
+  basis: The narrator says the treasure is to be sought and the ruin is before the
+    eyes, while warning against mistaking vanity for treasure.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The passage uses the image didactically; no literal quest action is narrated.
+- id: motif:4
+  label: Cosmos as egglike enclosure
+  taxonomy_refs:
+  - cosmic_egg
+  basis: Philosophic opinion is summarized as the sky being an eggshell with the globe
+    inside it as yolk.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: The image is presented as a cosmological analogy, not as a creation account.
+- id: motif:5
+  label: Spiritual repulsion of the erring by holy figures
+  taxonomy_refs:
+  - divine_judgment
+  - duality
+  basis: The passage states that Pharaohs of each age are fixed in error by repulsion
+    from the souls of saints and have no portion in either world.
+  evidence_refs:
+  - ev:10
+  confidence: medium
+  cautions: The judgment is expressed through metaphysical analogy rather than a formal
+    judgment scene.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 11014-11017
+  quote_or_summary: "“In Moses and in Pharaoh parables we see”; Moses' faith is called
+    right, Pharaoh's sin is named, and Moses prays by day to the Lord of Hosts."
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source; short excerpt used for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 11018-11022
+  quote_or_summary: At midnight Pharaoh laments his impious boasts and tells God that
+    a yoke has been laid on his neck.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 11023-11030
+  quote_or_summary: Pharaoh says God enlightened Moses, left him groping blindly,
+    lit Moses' countenance like day, and darkened Pharaoh's heart like an eclipsed
+    moon.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: lines 11037-11048
+  quote_or_summary: Pharaoh says both he and Moses are servants of God the King, compares
+    divine wrath to a woodman's axe on a tree, and asks that the axe be withheld.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:5
+  type: summary
+  locator: lines 11049-11066
+  quote_or_summary: Pharaoh reflects that he prayed all night, is humble in secret,
+    changes when meeting Moses, and is like a gilded base coin revealed by fire or
+    a field made green or withered by command.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:6
+  type: summary
+  locator: lines 11073-11086
+  quote_or_summary: The narrator asks how colour rose from huelessness, why oil and
+    water are foes though oil originates from water, and why rose and thorn are in
+    warfare despite springing from one another.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:7
+  type: summary
+  locator: lines 11087-11100
+  quote_or_summary: The passage says the treasure is to be sought, the ruin is before
+    the eyes, apparent treasure is vanity, and entity and nonentity are in a contested
+    relation.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:8
+  type: summary
+  locator: lines 11105-11112
+  quote_or_summary: Philosophic opinion is given that the sky is an eggshell and the
+    globe a yolk; a questioner asks how the ball rests within the spheres like a lamp
+    in a dome.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:9
+  type: summary
+  locator: lines 11113-11121
+  quote_or_summary: A wise man explains the globe's position by equal attraction,
+    as an iron ball held by a loadstone vault; a caviller counters that equal repulsion
+    holds the earth amid air.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:10
+  type: summary
+  locator: lines 11122-11129
+  quote_or_summary: The narrator says Pharaohs of each age are fixed in error by repulsion
+    from the souls of saints and are repelled from this world and the next.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:11
+  type: summary
+  locator: lines 11130-11137
+  quote_or_summary: God's anointed ones are compared to amber which shows power when
+    chafed; the mote of another's existence is forced to cower before them.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal figures, images, and doctrinal contrasts are explicit. Motif labels
+    are cautious because much of the passage is metaphysical exposition rather than
+    narrative myth. No comparison claims were added because the passage does not itself
+    make a cross-textual or cross-traditional comparison beyond its own parabolic
+    framing.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-29'
+notes: |-
+  Line references follow the supplied passage locator; evidence locators are approximate subranges within the provided line span.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-rumi-mesnevi-book-1-redhouse-gutenberg__l11014-l11121
+  passage_sha256=79c2d639be1a8e7269f5a60e7cb7d308a2a18f7f21dd79b410d0a2a8bf429a6c

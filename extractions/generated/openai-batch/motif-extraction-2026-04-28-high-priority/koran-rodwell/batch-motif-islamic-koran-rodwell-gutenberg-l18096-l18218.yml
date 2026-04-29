@@ -1,0 +1,658 @@
+---
+record_id: batch.motif.islamic-koran-rodwell-gutenberg-l18096-l18218
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+passage_locator:
+  label: PUBLIC SERVICES, / AND EMINENT LITERARY ATTAINMENTS, / THE TRANSLATOR. /
+    PREFACE; lines 18096-18218
+  start: '18096'
+  end: '18218'
+  translation: The Koran (Al-Qur'an), Rodwell translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage commands adherence to revelation, warns against idolatry and
+    deceptive adversaries, gives rules about invoking God's name over food, contrasts
+    guidance with darkness, and describes a future gathering and judgment of Djinn
+    and humans with recompense, punishment, and divine protection for the faithful.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The addressed recipient is commanded to follow what has been revealed by the
+    Lord and to withdraw from those who join other gods with Him.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The recipient is told that he has not been made keeper or guardian over those
+    who join other gods with God.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage forbids reviling those called upon beside God, because such reviling
+    may lead others to revile God in ignorance.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage says signs are in God's power alone and describes some people
+    as not believing even when signs are given unless God wills it.
+  category: attribute
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:5
+  text: Satans among humans and Djinn are described as enemies given to every prophet,
+    suggesting deceptive discourse to one another.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: God is named as the judge, sender of the distinguishing Book, and the one
+    whose words are perfect in truth and justice.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The passage permits eating what has had God's name pronounced over it and
+    forbids eating what has not had God's name named over it.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: A contrast is drawn between one who was dead, quickened, and given light to
+    walk among people, and one whose likeness remains in darkness.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: God is said to open the breast of one He guides to Islam and to make narrow
+    the breast of one He misleads, compared to mounting into the heavens.
+  category: attribute
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: On a day of gathering, God addresses the race of Djinn, and human votaries
+    speak of mutual services with them before being assigned the fire as abode.
+  category: sequence
+  evidence_refs:
+  - ev:9
+- id: obs:11
+  text: Apostles are said to have come to Djinn and humans, rehearsing signs and warning
+    them of the meeting of the day; the judged bear witness against themselves.
+  category: speech
+  evidence_refs:
+  - ev:10
+- id: obs:12
+  text: The passage says there are grades of recompense according to deeds and that
+    the ungodly will not prosper.
+  category: attribute
+  evidence_refs:
+  - ev:11
+figures:
+- id: fig:1
+  name_or_label: God / Lord
+  description: The revealer, judge, knower, guide, punisher, protector, and disposer
+    of signs, recompense, destruction, and succession.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:8
+  - ev:9
+  - ev:11
+- id: fig:2
+  name_or_label: Addressed recipient
+  description: The person addressed by commands such as following revelation, withdrawing
+    from idolaters, and saying specified statements.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:11
+- id: fig:3
+  name_or_label: Those who join other gods with God / unbelievers / transgressors
+  description: People described as joining other gods with God, rejecting signs, being
+    misled, committing transgression, or facing punishment and recompense.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:6
+  - ev:8
+  - ev:11
+- id: fig:4
+  name_or_label: Satans among humans and Djinn
+  description: Adversarial beings or persons described as enemies to every prophet
+    who suggest deceptive speech and stir wrangling.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: fig:5
+  name_or_label: Apostles
+  description: Messengers who rehearse God's signs and warn Djinn and humans of the
+    meeting of the day.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:10
+- id: fig:6
+  name_or_label: Race of Djinn
+  description: A collective addressed by God at the gathering and associated with
+    having exacted much from humankind.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: fig:7
+  name_or_label: Mankind / human votaries
+  description: Humans, including votaries of the Djinn, who speak of mutual services
+    and bear witness against themselves.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: fig:8
+  name_or_label: Quickened person with light
+  description: A person described as formerly dead, then quickened and given light
+    by which to walk among people.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+- id: fig:9
+  name_or_label: Person in darkness
+  description: A contrasting likeness of one in darkness who will not come forth from
+    it.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: divine revealer and judge
+  assigned_to:
+  - fig:1
+  basis: God reveals, controls signs, judges, guides or misleads, gathers beings,
+    assigns recompense, and threatens or grants protection.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:8
+  - ev:9
+  - ev:11
+- id: role:2
+  label: commanded proclaimer
+  assigned_to:
+  - fig:2
+  basis: The figure is instructed to follow revelation, withdraw from idolaters, and
+    speak formulaic declarations beginning with SAY.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:11
+- id: role:3
+  label: deceptive adversaries
+  assigned_to:
+  - fig:4
+  basis: Satans among humans and Djinn are called enemies to every prophet and are
+    said to suggest deceptive discourses and wrangling.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:4
+  label: warned and judged moral agents
+  assigned_to:
+  - fig:3
+  - fig:6
+  - fig:7
+  basis: These groups receive warning, respond to signs, act, and face recompense,
+    punishment, or self-witness at judgment.
+  evidence_refs:
+  - ev:3
+  - ev:9
+  - ev:10
+  - ev:11
+- id: role:5
+  label: messenger-warners
+  assigned_to:
+  - fig:5
+  basis: Apostles are described as coming to Djinn and humans, rehearsing signs and
+    warning of the meeting of the day.
+  evidence_refs:
+  - ev:10
+- id: role:6
+  label: revived guided exemplar
+  assigned_to:
+  - fig:8
+  basis: The figure is described as dead, then quickened, and given light to walk
+    among people.
+  evidence_refs:
+  - ev:7
+- id: role:7
+  label: darkness-bound contrast figure
+  assigned_to:
+  - fig:9
+  basis: The figure is defined by remaining in darkness and not coming forth.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: distinguishing Book
+  literal_form: Book sent down from the Lord with truth
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:2
+  label: signs
+  literal_form: divine signs requested, detailed, rehearsed, or rejected
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:8
+  - ev:10
+- id: sym:3
+  label: name of God over food
+  literal_form: food over which God's name has or has not been pronounced
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: light for walking among people
+  literal_form: light ordained for the quickened person
+  associated_figures:
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:5
+  label: darkness
+  literal_form: darkness from which the contrasting figure does not come forth
+  associated_figures:
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: fire as abode
+  literal_form: the fire assigned as an abode for the judged
+  associated_figures:
+  - fig:3
+  - fig:6
+  - fig:7
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:9
+- id: sym:7
+  label: right way / path of God
+  literal_form: the path or right way associated with the Lord and guidance
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:8
+- id: sym:8
+  label: dwelling of peace
+  literal_form: a dwelling of peace with the Lord
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:9
+  label: opened or narrowed breast
+  literal_form: the breast opened to Islam or made strait and narrow
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Command to follow revelation and avoid idolatrous opponents
+  summary: The passage commands the addressed recipient to follow revelation, acknowledge
+    that there is no god but God, and withdraw from those who associate other gods
+    with Him, while noting that he is not their guardian.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Signs, reviling, and unbelief
+  summary: The passage prohibits reviling other objects of worship, says return and
+    disclosure of deeds belong to the Lord, and states that signs are in God's power
+    while some remain unbelieving unless God wills otherwise.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Deceptive Satans and vain imaginings
+  summary: Satans among humans and Djinn are described as enemies to prophets who
+    exchange deceptive discourse, while unbelieving hearts incline toward such imaginings.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Book, judgment, and right guidance
+  summary: God is presented as the proper judge, sender of the distinguishing Book,
+    source of perfect words, and knower of those who err or are rightly guided.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:7
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Food pronounced with God's name
+  summary: The passage instructs believers to eat what has God's name pronounced over
+    it, avoid what lacks that naming, and resist satanic prompting to dispute the
+    rule.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:6
+- id: scene:6
+  label: Quickened light and confining darkness
+  summary: A person made alive and given light to walk among people is contrasted
+    with a person in darkness who does not come forth.
+  figure_refs:
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:7
+- id: scene:7
+  label: Guidance as opened breast and punishment as constriction
+  summary: God's guidance is described as opening a person's breast to Islam, while
+    misguidance is described as making the breast narrow, like mounting into the heavens;
+    the right way and dwelling of peace are then named.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:7
+  - sym:8
+  - sym:9
+  evidence_refs:
+  - ev:8
+- id: scene:8
+  label: Gathering and judgment of Djinn and humans
+  summary: God gathers beings, addresses the Djinn, hears human votaries acknowledge
+    mutual service with them, and declares the fire as their abode unless God wills
+    otherwise.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:9
+- id: scene:9
+  label: Apostolic warning, self-witness, and recompense
+  summary: Apostles are said to have warned Djinn and humans of the day; the judged
+    bear witness against themselves, and the passage concludes with graded recompense,
+    threat, and the failure of the ungodly to prosper.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:10
+  - ev:11
+candidate_motifs:
+- id: motif:1
+  label: divine judgment with self-witness and graded recompense
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage describes a day of gathering, addresses Djinn and humans, records
+    self-witness against themselves, assigns fire as abode, and states that recompense
+    comes in grades according to deeds.
+  evidence_refs:
+  - ev:9
+  - ev:10
+  - ev:11
+  confidence: high
+  cautions: The passage is exhortative and doctrinal rather than a narrative trial
+    scene.
+- id: motif:2
+  label: revivification from death into guided light
+  taxonomy_refs:
+  - resurrection
+  - death_rebirth
+  basis: A figure is described as dead, then quickened, and given light for walking
+    among people, contrasted with a figure remaining in darkness.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The immediate form may be metaphorical or analogical; the passage does
+    not narrate a physical resurrection episode.
+- id: motif:3
+  label: light and darkness as moral-spiritual contrast
+  taxonomy_refs:
+  - duality
+  basis: The quickened person with light is explicitly contrasted with a likeness
+    in darkness; the larger passage contrasts guidance and error.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The taxonomy reference is broad; the passage uses the contrast for guidance
+    and unbelief rather than a dualistic cosmology.
+- id: motif:4
+  label: deceptive adversaries opposing prophetic mission
+  taxonomy_refs: []
+  basis: Satans among humans and Djinn are described as enemies assigned to every
+    prophet, exchanging deceptive discourse and prompting disputes.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  confidence: high
+  cautions: No available taxonomy reference precisely matches this adversarial deception
+    pattern.
+- id: motif:5
+  label: revealed book as source of judgment and truth
+  taxonomy_refs:
+  - wisdom
+  basis: The passage names the distinguishing Book sent down with truth, associates
+    God's words with truth and justice, and contrasts this with human conceit and
+    lying.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The motif is doctrinal revelation and guidance; 'wisdom' is a broad taxonomy
+    label.
+- id: motif:6
+  label: food made licit by divine naming
+  taxonomy_refs: []
+  basis: The passage centers a rule about eating only what has God's name pronounced
+    over it and avoiding what has not been named with God's name.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: No available taxonomy motif directly covers food law or divine naming
+    over food.
+comparison_claims:
+- id: claim:1
+  claim: The passage fits the broad divine judgment motif family through its gathering
+    of Djinn and humans, warning by apostles, self-witness, fire, and graded recompense.
+  claim_level: same_motif
+  target: divine_judgment motif family
+  evidence_refs:
+  - ev:9
+  - ev:10
+  - ev:11
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a taxonomy-level comparison only; the passage does not provide
+    a detailed courtroom narrative.
+- id: claim:2
+  claim: The passage uses a recurring light-versus-darkness guidance pattern, with
+    light linked to life and walking among people and darkness linked to remaining
+    confined.
+  claim_level: same_function
+  target: 'duality motif family: light/darkness contrast'
+  evidence_refs:
+  - ev:7
+  - ev:8
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage supports a functional comparison within this text; no historical
+    contact or broader intertextual claim is made.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 18096-18103
+  quote_or_summary: The recipient is told to follow what has been revealed by the
+    Lord, affirm no god but He, withdraw from those who join other gods with Him,
+    and is told he is not their keeper or guardian.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 18104-18116
+  quote_or_summary: The passage forbids reviling those called upon beside God, says
+    all return to their Lord, and states that signs are in God's power alone.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 18117-18124
+  quote_or_summary: God says hearts and eyes will be turned away because of earlier
+    unbelief; even angels, speaking dead, or all things gathered would not make them
+    believe unless God willed it.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 18125-18133
+  quote_or_summary: Every prophet is said to have enemies, Satans among humans and
+    Djinn, who suggest deceptive discourse to one another; unbelieving hearts incline
+    toward this.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 18134-18145
+  quote_or_summary: God is presented as the judge who sent down the distinguishing
+    Book; His words are perfect in truth and justice, and He knows those who err and
+    those rightly guided.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 18146-18159
+  quote_or_summary: The passage instructs eating what has God's name pronounced over
+    it, avoiding wickedness, not eating what lacks God's name, and resisting satanic
+    suggestions to dispute.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 18160-18165
+  quote_or_summary: A formerly dead person quickened and given light to walk among
+    people is contrasted with one whose likeness is in darkness and who will not come
+    forth.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 18166-18176
+  quote_or_summary: Those demanding a sign are threatened with punishment; God opens
+    the guided person's breast to Islam and makes the unbeliever's breast narrow,
+    like mounting into the heavens; the right way and dwelling of peace are named.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 18177-18188
+  quote_or_summary: On a day of gathering, God addresses the race of Djinn; human
+    votaries mention mutual services with them, and God declares the fire their abode,
+    unless He wills otherwise.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: lines 18189-18199
+  quote_or_summary: Apostles came to Djinn and humans, rehearsed signs, and warned
+    of the meeting of the day; the judged bear witness against themselves, and worldly
+    life deceived them.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; summarized.
+- id: ev:11
+  type: summary
+  locator: lines 18200-18218
+  quote_or_summary: The Lord is compassionate and able to destroy and replace people;
+    the threatened event will come, and all will know whose is the recompense of the
+    abode; the ungodly will not prosper.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is strong because the passage is explicit. Motif assignment
+    is partly interpretive, especially for revivification and wisdom, and should be
+    reviewed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-29'
+notes: |-
+  Only the supplied passage and metadata were used. The passage label appears to refer to prefatory material, but the supplied passage text is Qur'anic discourse; the provided locator label was preserved.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-rodwell-gutenberg__l18096-l18218
+  passage_sha256=151fbf6aaea844e71ee78a4a279c99ae2bcb07f9e33576653f8d8cf006ca61f5

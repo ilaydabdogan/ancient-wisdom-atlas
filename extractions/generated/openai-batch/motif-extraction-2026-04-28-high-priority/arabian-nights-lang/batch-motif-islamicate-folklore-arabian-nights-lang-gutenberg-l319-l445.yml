@@ -1,0 +1,640 @@
+---
+record_id: batch.motif.islamicate-folklore-arabian-nights-lang-gutenberg-l319-l445
+source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+passage_locator:
+  label: The Arabian Nights Entertainments; lines 319-445
+  start: '319'
+  end: '445'
+  translation: The Arabian Nights Entertainments
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Scheherazade arranges with Dinarzade to request a story before dawn on
+    her wedding night to the Sultan. With the Sultan's permission she begins the story
+    of a merchant confronted by a wrathful genius who claims the merchant accidentally
+    killed his son with a date-stone and demands the merchant's death. Scheherazade
+    stops at daybreak, and the Sultan postpones her execution in order to hear the
+    continuation. The next morning she resumes, and the merchant asks the genius for
+    a delay to return home, take leave of his family, and make his will.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Scheherazade instructs Dinarzade to wake her before dawn and ask for a story
+    before sunrise.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Scheherazade states that her plan is intended to deliver the people from the
+    terror over them.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Sultan allows Dinarzade to sleep in the same room as Scheherazade on the
+    wedding night.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Before daybreak Dinarzade asks Scheherazade to tell a story, and Scheherazade
+    asks the Sultan's permission.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Scheherazade begins the story of a wealthy merchant who journeys through the
+    desert with biscuits and dates.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The merchant rests under trees at a large walnut-tree beside a fountain of
+    clear running water.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: An enormous enraged genius approaches the merchant with a scimitar and accuses
+    him of killing his son.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The genius says the merchant's thrown date-stones struck his son in the eye
+    and killed him.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: The merchant says the killing was unintentional and asks to be spared.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: The genius seizes the merchant, throws him down, and raises a weapon to behead
+    him.
+  category: action
+  evidence_refs:
+  - ev:9
+- id: obs:11
+  text: Scheherazade stops speaking when day arrives because the Sultan must rise
+    early for council.
+  category: sequence
+  evidence_refs:
+  - ev:10
+- id: obs:12
+  text: The Sultan decides to wait until the next day before having Scheherazade killed
+    because he wants to hear the end of the story.
+  category: action
+  evidence_refs:
+  - ev:11
+- id: obs:13
+  text: The passage states that each morning the Sultana told a story and the Sultan
+    let her live to finish it.
+  category: sequence
+  evidence_refs:
+  - ev:12
+- id: obs:14
+  text: The merchant asks the genius for a short delay to go home, bid farewell to
+    his wife and children, and make his will, promising to return.
+  category: speech
+  evidence_refs:
+  - ev:13
+figures:
+- id: fig:1
+  name_or_label: Scheherazade
+  description: A woman brought to the Sultan for marriage who plans to tell stories
+    before dawn and begins the embedded tale.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:10
+  - ev:12
+- id: fig:2
+  name_or_label: Dinarzade
+  description: Scheherazade's sister, instructed to wake her and request a story before
+    sunrise.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:3
+  name_or_label: Sultan Schahriar
+  description: The ruler who receives Scheherazade, grants the request for Dinarzade's
+    presence, listens to the story, and postpones killing Scheherazade.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:11
+  - ev:12
+- id: fig:4
+  name_or_label: Grand-vizir
+  description: The official who conducts Scheherazade to the palace and anxiously
+    waits for the Sultan's command.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:11
+- id: fig:5
+  name_or_label: Merchant
+  description: A wealthy merchant traveling through the desert who rests by a fountain
+    and is accused by a genius of killing the genius's son.
+  role_refs:
+  - role:7
+  - role:8
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:13
+- id: fig:6
+  name_or_label: Genius
+  description: An enormous enraged being who carries a scimitar, accuses the merchant,
+    and threatens to kill him.
+  role_refs:
+  - role:9
+  - role:10
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:9
+  - ev:13
+- id: fig:7
+  name_or_label: Son of the genius
+  description: The genius's son, said to have been killed when a date-stone struck
+    him in the eye.
+  role_refs:
+  - role:11
+  evidence_refs:
+  - ev:7
+- id: fig:8
+  name_or_label: Merchant's wife and children
+  description: The merchant's family, whom he wishes to bid farewell before returning
+    to be killed.
+  role_refs:
+  - role:12
+  evidence_refs:
+  - ev:13
+roles:
+- id: role:1
+  label: storyteller
+  assigned_to:
+  - fig:1
+  basis: Scheherazade begins and continues the story at Dinarzade's request and with
+    the Sultan's permission.
+  evidence_refs:
+  - ev:3
+  - ev:12
+- id: role:2
+  label: planner seeking to avert public terror
+  assigned_to:
+  - fig:1
+  basis: She gives Dinarzade precise instructions and says she hopes by this means
+    to deliver the people from terror.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: prompting sister
+  assigned_to:
+  - fig:2
+  basis: Dinarzade agrees to wake Scheherazade and ask for a story before sunrise.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:4
+  label: ruler with power over execution
+  assigned_to:
+  - fig:3
+  basis: The Sultan can allow Scheherazade to live another day or have her killed.
+  evidence_refs:
+  - ev:11
+  - ev:12
+- id: role:5
+  label: listener moved by curiosity
+  assigned_to:
+  - fig:3
+  basis: He listens with pleasure and delays the killing to hear the story's end.
+  evidence_refs:
+  - ev:11
+  - ev:12
+- id: role:6
+  label: anxious court official
+  assigned_to:
+  - fig:4
+  basis: The grand-vizir is anxious until the Sultan enters council without issuing
+    the expected command.
+  evidence_refs:
+  - ev:11
+- id: role:7
+  label: traveler
+  assigned_to:
+  - fig:5
+  basis: The merchant takes journeys for business and travels through the desert.
+  evidence_refs:
+  - ev:4
+- id: role:8
+  label: accused accidental killer
+  assigned_to:
+  - fig:5
+  basis: The genius says the merchant killed his son with a thrown date-stone, while
+    the merchant claims it was unintentional.
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: role:9
+  label: supernatural accuser
+  assigned_to:
+  - fig:6
+  basis: The genius arrives enraged and accuses the merchant of killing his son.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:10
+  label: would-be executioner
+  assigned_to:
+  - fig:6
+  basis: The genius seizes the merchant, throws him down, and raises a weapon to cut
+    off his head.
+  evidence_refs:
+  - ev:9
+- id: role:11
+  label: dead child prompting vengeance
+  assigned_to:
+  - fig:7
+  basis: The genius grounds his demand for the merchant's death in the death of his
+    son.
+  evidence_refs:
+  - ev:7
+- id: role:12
+  label: family awaiting farewell
+  assigned_to:
+  - fig:8
+  basis: The merchant asks to return home to bid his wife and children farewell.
+  evidence_refs:
+  - ev:13
+symbols:
+- id: sym:1
+  label: pre-dawn storytelling
+  literal_form: A requested story told before sunrise and stopped at daybreak
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:10
+  - ev:12
+- id: sym:2
+  label: veil
+  literal_form: Scheherazade's veil, which the Sultan orders her to raise
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: desert journey
+  literal_form: A long journey through a desert where no food was to be got
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: walnut-tree
+  literal_form: A large walnut-tree at the place where the merchant rests
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: running fountain
+  literal_form: A fountain of clear and running water
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: date-stones
+  literal_form: Stones from dates thrown by the merchant while eating
+  associated_figures:
+  - fig:5
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:7
+  label: scimitar or sabre
+  literal_form: A cutting weapon held and raised by the genius
+  associated_figures:
+  - fig:6
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:9
+scenes:
+- id: scene:1
+  label: Scheherazade's plan with Dinarzade
+  summary: Scheherazade asks Dinarzade to wake her before dawn and request a story,
+    explaining that this may deliver the people from terror.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Wedding-night request in the Sultan's chamber
+  summary: The grand-vizir brings Scheherazade to the palace; the Sultan grants her
+    request that Dinarzade sleep in the room for their last night together.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: First pre-dawn story request
+  summary: Dinarzade wakes before daybreak and asks for a story; Scheherazade asks
+    the Sultan's permission and begins.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Merchant rests at the oasis-like stopping place
+  summary: In the embedded tale, the merchant travels through the desert, stops under
+    trees by a walnut-tree and a running fountain, eats dates and biscuits, and washes.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:5
+  label: Genius accuses the merchant
+  summary: An enraged genius with a scimitar appears, says the merchant killed his
+    son with thrown date-stones, and demands the merchant's life.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+- id: scene:6
+  label: Story interrupted at daybreak
+  summary: Scheherazade stops speaking at daybreak; Dinarzade praises the story, Scheherazade
+    says the rest is more wonderful, and the Sultan delays the execution to hear the
+    end.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:10
+  - ev:11
+- id: scene:7
+  label: Narrative continuation and merchant's plea for delay
+  summary: The next morning the Sultan asks for the story's ending; Scheherazade resumes,
+    and the merchant asks the genius for time to say farewell to his family and make
+    his will.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  - fig:6
+  - fig:8
+  symbol_refs:
+  - sym:1
+  - sym:7
+  evidence_refs:
+  - ev:12
+  - ev:13
+candidate_motifs:
+- id: motif:1
+  label: death delayed by unfinished storytelling
+  taxonomy_refs:
+  - wisdom
+  - trickster_boundary
+  basis: Scheherazade times the story before dawn, stops at daybreak before the ending,
+    and the Sultan lets her live in order to hear the continuation.
+  evidence_refs:
+  - ev:1
+  - ev:10
+  - ev:11
+  - ev:12
+  confidence: medium
+  cautions: The passage presents strategic storytelling clearly, but the available
+    taxonomy labels are broad rather than exact matches.
+- id: motif:2
+  label: sisterly prompting of a saving tale
+  taxonomy_refs:
+  - sibling_pair
+  basis: Scheherazade and Dinarzade coordinate the pre-dawn request that enables the
+    story to begin before the Sultan.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: The sisters function as a pair in this passage, though the taxonomy term
+    may imply a wider motif family not fully evidenced here.
+- id: motif:3
+  label: traveler encounters supernatural avenger at a desert resting place
+  taxonomy_refs:
+  - departure
+  basis: A merchant on a journey stops by a tree and fountain in the desert and is
+    confronted by a wrathful genius demanding his death.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The passage supports the journey and encounter; it does not establish
+    a complete quest or return pattern within this excerpt.
+- id: motif:4
+  label: unintentional killing punished as blood vengeance
+  taxonomy_refs:
+  - divine_judgment
+  basis: The genius treats the merchant's accidental killing of his son with date-stones
+    as grounds for execution, despite the merchant's plea of lack of intent.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+  confidence: low
+  cautions: The genius is supernatural, but the passage does not explicitly frame
+    his action as divine or lawful judgment.
+- id: motif:5
+  label: condemned person requests a temporary reprieve to settle household obligations
+  taxonomy_refs: []
+  basis: Facing beheading, the merchant asks for a short delay to say farewell to
+    his wife and children and make his will, promising to return.
+  evidence_refs:
+  - ev:13
+  confidence: high
+  cautions: The excerpt ends before showing whether the reprieve is granted or fulfilled.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 319-331
+  quote_or_summary: Scheherazade asks Dinarzade to wake her an hour before dawn and
+    request one of her stories; she hopes this will deliver the people from terror.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 333-342
+  quote_or_summary: The grand-vizir conducts Scheherazade to the palace; the Sultan
+    asks her to raise her veil, sees her tears, and grants her request for Dinarzade
+    to sleep in the room.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 344-353
+  quote_or_summary: Before daybreak Dinarzade asks for a story; Scheherazade asks
+    the Sultan's permission, and he willingly grants it.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 355-366
+  quote_or_summary: Scheherazade begins the story of a wealthy merchant who travels
+    for business through the desert carrying biscuits and dates.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 367-374
+  quote_or_summary: On the fourth day of his return journey the merchant rests under
+    trees at a large walnut-tree beside a clear running fountain, eats dates and biscuits,
+    and washes.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 376-383
+  quote_or_summary: An enormous genius, white with rage and holding a scimitar, approaches
+    and says he will kill the merchant for killing his son.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 385-399
+  quote_or_summary: The genius asks about the merchant's date-stones and says one
+    struck his son in the eye and killed him.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 401-406
+  quote_or_summary: The merchant begs forgiveness and says he killed the son unintentionally;
+    the genius refuses mercy.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 407-415
+  quote_or_summary: The genius says he will kill the merchant, seizes him by the arm,
+    throws him down, and lifts his weapon to cut off his head; the merchant protests
+    and bewails his family.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: lines 417-419
+  quote_or_summary: Scheherazade stops speaking when day arrives, knowing the Sultan
+    rises early for council.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+- id: ev:11
+  type: summary
+  locator: lines 421-431
+  quote_or_summary: Dinarzade praises the story; Scheherazade says the rest is more
+    wonderful if she lives another day; the Sultan decides to wait until tomorrow
+    before having her killed, and the grand-vizir is relieved when no command is given.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+- id: ev:12
+  type: summary
+  locator: lines 433-441
+  quote_or_summary: Before daybreak Dinarzade asks Scheherazade to continue; the Sultan
+    asks for the end of the story; the passage says this happened every morning, with
+    the Sultan letting her live to finish each story.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+- id: ev:13
+  type: summary
+  locator: lines 443-445
+  quote_or_summary: The merchant asks for a short delay to go home, bid farewell to
+    his wife and children, make his will, and then return to be killed; the genius
+    doubts he will come back.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Passage-level figures, actions, and symbols are explicit. Motif labels are
+    candidate interpretations from the provided taxonomy and should be reviewed, especially
+    broad mappings such as wisdom, trickster_boundary, and divine_judgment. No external
+    comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-29'
+notes: |-
+  Used only the supplied passage text and metadata. Comparisons are left empty because the passage itself does not establish an external comparative claim.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamicate-folklore-arabian-nights-lang-gutenberg__l319-l445
+  passage_sha256=79eac35abf66a5856350d78eeab85e0f0cf78e7b5b880154d42f1af319072f56

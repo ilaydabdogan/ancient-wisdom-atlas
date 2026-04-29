@@ -1,0 +1,380 @@
+---
+record_id: batch.motif.sufi-rumi-mesnevi-book-1-redhouse-gutenberg-l14407-l14438
+source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+passage_locator:
+  label: IN THE NAME OF GOD, / THE ALL-MERCIFUL, THE VERY-COMPASSIONATE. / VIII. /
+    XIII.; lines 14407-14438
+  start: '14407'
+  end: '14438'
+  translation: The Mesnevi
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: "“The sword of wisdom’s sharper than the finest steel; / Its words more efficacious
+    than an army’s wheel.”"
+  summary: The Prince of all Believers explains that he withheld violence after being
+    spat upon because his anger had mixed with zeal for God. The Magian chief is inwardly
+    illuminated, praises the prince as a just guide, asks to learn his creed, and
+    his household embraces Islam. The narrator concludes that wisdom averts death
+    and breaks fetters more effectively than weapons.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The Prince of all Believers addresses the chief calmly after a brief contest.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker says the chief spat upon him, arousing his anger and disrupting
+    his patience.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The speaker says his zeal for God was partly mixed with personal anger.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The speaker says the chief belongs to God and was fashioned by a divine hand,
+    so defacing God's work should occur only by God's decree.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Magian experiences light flashing on his heart and soul, and misbelief
+    is described as rolling away like fog.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The Magian praises the prince as equitable, kin, brother, ray of light, and
+    guide.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The Magian asks the prince to teach him the motto of his creed.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Fifty members of the Magian's household embrace the law of Islam.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: The narrator says the hero's decisive wisdom averts death, breaks slavery's
+    fetters, and is sharper and more effective than steel or an army.
+  category: speech
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Prince of all Believers
+  description: A calm speaker in a contest who restrains violence after his anger
+    is aroused and is later praised as guide and source of light-derived instruction.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:8
+- id: fig:2
+  name_or_label: Magian chief
+  description: The chief and former opponent who spat on the prince, hears his explanation,
+    undergoes inward illumination, praises him, and asks to learn his creed.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: God
+  description: The divine being to whom the chief belongs, by whose hand he is fashioned,
+    and by whose decree defacement of God's work should occur.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Fifty members of the Magian's household
+  description: Members of the Magian's household, stock, and race who embrace Islam
+    with zealous love.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: restrained combatant
+  assigned_to:
+  - fig:1
+  basis: He withholds destructive action because anger has mixed with zeal for God.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: former opponent
+  assigned_to:
+  - fig:2
+  basis: He spat upon the prince during the contest and is addressed afterward.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: spiritual guide
+  assigned_to:
+  - fig:1
+  basis: The Magian asks him to teach the creed and calls him the guide he needs.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:4
+  label: converts
+  assigned_to:
+  - fig:2
+  - fig:4
+  basis: The Magian asks for instruction in the creed, and fifty of his household
+    embrace Islam.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:5
+  label: divine maker and authority
+  assigned_to:
+  - fig:3
+  basis: The passage says the chief was fashioned by a divine hand, belongs to God,
+    and should only be defaced by God's decree.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: anger's fire
+  literal_form: fire used as an image for anger
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: divine light
+  literal_form: light, ray, beam, and Source of light imagery
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: just balance
+  literal_form: balance and balance-bowl imagery for equity
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: glorious sea and pearls
+  literal_form: Sea casting pearls ashore
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: God's pitcher
+  literal_form: pitcher as image for God's work that should not be broken except by
+    God's decree
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: sword of wisdom
+  literal_form: sword compared with wisdom and steel
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Explanation after provocation
+  summary: The Prince of all Believers explains to the chief that the chief's spit
+    aroused anger in him, creating an improper mixture of zeal for God and personal
+    anger; therefore he does not act destructively against God's work except by divine
+    decree.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Illumination and request for guidance
+  summary: The Magian hears the explanation, experiences inner illumination, repudiates
+    his previous wrongfulness, praises the prince through images of balance, kinship,
+    light, sea, and pearls, and asks to learn his creed.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:3
+  label: Household conversion and wisdom conclusion
+  summary: Fifty members of the Magian's household embrace Islam, and the narrator
+    concludes that the hero's wisdom averts death and breaks fetters more effectively
+    than weapons or armies.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: wisdom stronger than weapons
+  taxonomy_refs:
+  - wisdom
+  basis: The passage explicitly states that decisive wisdom averts death, breaks fetters,
+    and is sharper and more effective than steel or an army.
+  evidence_refs:
+  - ev:8
+  confidence: high
+  cautions: This is a passage-level motif candidate; broader placement in the Mesnevi
+    requires review.
+- id: motif:2
+  label: restraint after provocation transforms an enemy
+  taxonomy_refs:
+  - wisdom
+  basis: The prince restrains action after being spat upon because anger would corrupt
+    zeal for God; the opponent then undergoes inward change and seeks instruction.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+  confidence: medium
+  cautions: The label summarizes the local narrative pattern and is not a supplied
+    taxonomy ID.
+- id: motif:3
+  label: spiritual conversion through just conduct
+  taxonomy_refs:
+  - initiation
+  basis: The Magian is moved by the prince's equitable conduct, asks to learn the
+    creed, and his household embraces Islam.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The passage shows conversion and instruction, but fuller initiation details
+    are not present.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 14407-14411
+  quote_or_summary: The Prince of all Believers addresses the chief calmly and says
+    that when the chief spat upon him, his anger was aroused and his patience was
+    wrecked.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source; brief summary used.
+- id: ev:2
+  type: quote
+  locator: 14412-14414
+  quote_or_summary: "“Half warmed with zeal for God, half stirred with anger’s fire,
+    / Unholy partnership was formed ’twixt truth and ire.”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source; brief quotation used.
+- id: ev:3
+  type: summary
+  locator: 14415-14418
+  quote_or_summary: The prince says the chief was fashioned by a divine hand, belongs
+    to God, and that breaking God's pitcher requires seeing a stone of God by God's
+    decree.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source; summary used.
+- id: ev:4
+  type: summary
+  locator: 14419-14421
+  quote_or_summary: The Magian hears; light flashes on his heart and soul, and clouds
+    of misbelief roll away like fog.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source; summary used.
+- id: ev:5
+  type: summary
+  locator: 14422-14431
+  quote_or_summary: The Magian says he has sown wrongfulness, praises the prince as
+    a just balance, brother, ray lighting his path, and one deriving a beam from a
+    Source of light and billows from a glorious Sea.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source; summary used.
+- id: ev:6
+  type: quote
+  locator: 14432-14433
+  quote_or_summary: "“Teach me to formulate the motto of thy creed; / For, henceforth
+    thou’rt my guide, of whom I stand in need.”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source; brief quotation used.
+- id: ev:7
+  type: summary
+  locator: 14434-14435
+  quote_or_summary: Fifty members of the Magian's household, stock, and race embrace
+    the noble law of Islam with zealous love.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source; summary used.
+- id: ev:8
+  type: quote
+  locator: 14436-14438
+  quote_or_summary: The hero's decisive wisdom averts death and breaks slavery's fetters;
+    “The sword of wisdom’s sharper than the finest steel.”
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source; brief quotation used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal narrative elements are clear in the supplied passage. Motif candidates
+    are limited to local evidence and available taxonomy references; no explicit cross-tradition
+    comparison is made in the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-29'
+notes: |-
+  Used only the supplied passage and metadata; no external identification of the Prince of all Believers was added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-rumi-mesnevi-book-1-redhouse-gutenberg__l14407-l14438
+  passage_sha256=a8fbad6bb505ce4e08c1859f6035b6d71b717521a0a459cf8efb1d8b22b8a011

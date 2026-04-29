@@ -1,0 +1,603 @@
+---
+record_id: batch.motif.islamic-koran-rodwell-gutenberg-l20834-l20983
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+passage_locator:
+  label: PUBLIC SERVICES, / AND EMINENT LITERARY ATTAINMENTS, / THE TRANSLATOR. /
+    PREFACE; lines 20834-20983
+  start: '20834'
+  end: '20983'
+  translation: The Koran (Al-Qur'an), Rodwell translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage includes translator notes on the battle of Bedr and then Sura
+    XLVII, which contrasts believers and infidels, commands warfare and treatment
+    of captives, promises divine help and Paradise to believers, threatens destruction
+    and fire to unbelievers, describes Paradise with rivers of water, milk, wine,
+    and honey, warns of the sudden Hour, and rebukes those with diseased or locked
+    hearts.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A note states that Muhammad planned to attack an unarmed Koreisch caravan
+    and that Abu Sofian sought armed assistance from Mecca.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A note explains a miracle in which gravelstones and sand were cast into the
+    eyes of the Meccans at Bedr, with the casting attributed to God.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage says God causes the works of unbelievers who obstruct God's way
+    to fail, while canceling the sins of believers and setting their hearts aright.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage commands fighting against infidels, including striking them, binding
+    captives, and later freeing or ransoming them until war ends.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Those who fight for the cause of God are promised that their works will not
+    fail, that they will receive guidance, and that they will be brought into Paradise.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Believers are told that if they help God, God will help them and set their
+    feet firm.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The passage points to earlier, stronger cities or peoples destroyed by God
+    as a warning to infidels.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Paradise is pictured as gardens with rivers of incorruptible water, unchanged
+    milk, delicious wine, clarified honey, and all kinds of fruit.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The contrasting lot of others is to dwell forever in fire and to drink boiling
+    water that rends their bowels.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: Some hear Muhammad, leave, and mockingly ask those given knowledge what he
+    said; these are described as having sealed hearts and following their lusts.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: The passage says the Hour will come suddenly, that its signs have already
+    come, and that warning will no longer avail when it arrives.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:12
+  text: When a peremptory Sura about war is revealed, people described as diseased
+    in heart look toward Muhammad like one under the shadows of death.
+  category: attribute
+  evidence_refs:
+  - ev:8
+- id: obs:13
+  text: The passage asks whether locks are upon the hearts of those who will not meditate
+    on the Koran.
+  category: object
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: God
+  description: The divine speaker or agent who cancels sins, guides, destroys, protects
+    believers, judges unbelievers, and promises Paradise or fire.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:7
+- id: fig:2
+  name_or_label: Muhammad
+  description: Named prophet addressed in the Sura and mentioned in notes connected
+    with Bedr and Medin.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:8
+- id: fig:3
+  name_or_label: Believers
+  description: Those who believe, do right, follow the truth, may fight for God's
+    cause, and are promised guidance and Paradise.
+  role_refs:
+  - role:5
+  - role:7
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: Infidels / unbelievers
+  description: Those who disbelieve, obstruct God's way, follow vanity or lusts, have
+    no protector, and are threatened with destruction and fire.
+  role_refs:
+  - role:6
+  - role:8
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:7
+- id: fig:5
+  name_or_label: Those who flourished before / former cities
+  description: Earlier powerful communities or cities whose destructive end is cited
+    as a warning.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: People with diseased hearts
+  description: Those who react fearfully to a revealed Sura whose burden is war and
+    are associated with disorder and violation of kinship ties.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:8
+- id: fig:7
+  name_or_label: Abu Sofian
+  description: The person said in a note to have charge of the Koreisch caravan and
+    to have sent to Mecca for help.
+  role_refs:
+  - role:11
+  evidence_refs:
+  - ev:1
+- id: fig:8
+  name_or_label: Gabriel and angels
+  description: Translator notes mention Gabriel's mission to Muhammad with promise
+    of victory and angels fighting for the Muslims.
+  role_refs:
+  - role:12
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: divine judge
+  assigned_to:
+  - fig:1
+  basis: God rewards believers, nullifies unbelievers' works, destroys earlier peoples,
+    and assigns Paradise or fire.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: role:2
+  label: protector and helper
+  assigned_to:
+  - fig:1
+  basis: God is called protector of believers and is said to help those who help God.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: giver of guidance
+  assigned_to:
+  - fig:1
+  basis: God sets hearts aright, gives guidance, and increases guidance for those
+    who have it.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+- id: role:4
+  label: recipient and preacher of revelation
+  assigned_to:
+  - fig:2
+  basis: The passage refers to what has been sent down to Muhammad and to people listening
+    to him or reacting to a revealed Sura.
+  evidence_refs:
+  - ev:2
+  - ev:6
+  - ev:8
+- id: role:5
+  label: righteous recipients of reward
+  assigned_to:
+  - fig:3
+  basis: Believers are described as doing right and receiving canceled sins, guidance,
+    firm footing, and Paradise.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:6
+  label: opponents of God's way
+  assigned_to:
+  - fig:4
+  basis: Unbelievers prevent others from God's way, follow vanity, and are the object
+    of battle commands.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:7
+  label: fighters for God's cause
+  assigned_to:
+  - fig:3
+  basis: Those who fight for God's cause are promised that their works will not miscarry.
+  evidence_refs:
+  - ev:3
+- id: role:8
+  label: recipients of punishment
+  assigned_to:
+  - fig:4
+  basis: Unbelievers are threatened with perishing, destroyed works, no protector,
+    and dwelling in fire.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:9
+  label: exemplary destroyed predecessors
+  assigned_to:
+  - fig:5
+  basis: Earlier strong cities or peoples are cited as having been destroyed by God.
+  evidence_refs:
+  - ev:4
+- id: role:10
+  label: fearful or hypocritical hearers
+  assigned_to:
+  - fig:6
+  basis: Those with diseased hearts react to war revelation with a death-like look
+    and are linked to disorder and broken blood ties.
+  evidence_refs:
+  - ev:8
+- id: role:11
+  label: caravan guardian
+  assigned_to:
+  - fig:7
+  basis: The note says Abu Sofian had charge of the Koreisch caravan.
+  evidence_refs:
+  - ev:1
+- id: role:12
+  label: heavenly auxiliaries
+  assigned_to:
+  - fig:8
+  basis: Notes mention Gabriel bringing promise of victory and angels fighting for
+    the Muslims.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: Paradisal rivers
+  literal_form: Rivers of water, milk, wine, and clarified honey in Paradise.
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - water
+  - milk
+  evidence_refs:
+  - ev:5
+- id: sym:2
+  label: Fire
+  literal_form: The dwelling-place of those contrasted with the God-fearing; described
+    as an everlasting fire.
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: Boiling water
+  literal_form: Draughts of boiling water forced upon those in fire.
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: Sealed or locked hearts
+  literal_form: Hearts sealed by God and hearts imagined as having locks upon them.
+  associated_figures:
+  - fig:4
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: sym:5
+  label: The Hour
+  literal_form: A sudden eschatological Hour whose signs have already come.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: Fetters
+  literal_form: Fetters made fast upon captives after slaughter in war.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:7
+  label: Shadows of death
+  literal_form: A look like that of one on whom the shadows of death have fallen.
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Bedr-related notes
+  summary: Translator notes describe a planned attack on a Koreisch caravan, Meccan
+    armed assistance, and miraculous or angelic aid associated with Bedr.
+  figure_refs:
+  - fig:2
+  - fig:7
+  - fig:8
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Contrast of belief and unbelief
+  summary: The passage contrasts unbelievers who follow vanity and obstruct God's
+    way with believers who receive forgiveness, truth, and corrected hearts.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: War, captives, and divine testing
+  summary: The passage commands fighting, binding captives, later release or ransom,
+    and says God tests people through one another while preserving the works of those
+    who fight for God's cause.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Destroyed predecessors as warning
+  summary: The passage asks whether unbelievers have seen the end of earlier peoples
+    and says God destroyed stronger cities with none to help them.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Paradise and fire contrasted
+  summary: The promised Paradise of the God-fearing is described with rivers and fruit,
+    while the opposing lot is eternal fire and boiling water.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:5
+- id: scene:6
+  label: Hearing, mockery, and sealed hearts
+  summary: Some hear Muhammad and then mockingly ask what he said; the passage says
+    their hearts are sealed, while those guided receive increased guidance.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:6
+- id: scene:7
+  label: The sudden Hour
+  summary: The passage warns that the Hour may come suddenly and that its signs have
+    already appeared.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:7
+- id: scene:8
+  label: War revelation and locked hearts
+  summary: When a Sura with the burden of war is revealed, the diseased of heart look
+    death-stricken; the passage urges obedience and asks whether locks are on hearts
+    that do not meditate on the Koran.
+  figure_refs:
+  - fig:2
+  - fig:6
+  symbol_refs:
+  - sym:4
+  - sym:7
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Divine judgment and recompense
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage repeatedly contrasts the fate of believers and unbelievers through
+    canceled sins, failed works, destruction, Paradise, fire, and the sudden Hour.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:7
+  confidence: high
+  cautions: The extraction is limited to this translated passage and its notes.
+- id: motif:2
+  label: Afterlife contrast of garden and fire
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage pictures Paradise as gardens with rivers and fruit and contrasts
+    it with eternal fire and boiling water.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage gives a vivid destination contrast but not a detailed journey
+    map.
+- id: motif:3
+  label: Sacred reciprocal aid
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Believers are told that if they help God, God will help them and make their
+    feet firm.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The wording supports reciprocity, but the passage does not describe an
+    exchange of material offerings.
+- id: motif:4
+  label: Guidance and closed hearts
+  taxonomy_refs:
+  - wisdom
+  basis: The passage opposes divine guidance and meditation on the Koran to sealed
+    or locked hearts and following lusts.
+  evidence_refs:
+  - ev:2
+  - ev:6
+  - ev:8
+  confidence: medium
+  cautions: The taxonomy reference is broad; the passage emphasizes obedience and
+    receptivity as much as wisdom.
+- id: motif:5
+  label: Destroyed predecessors as warning
+  taxonomy_refs:
+  - divine_judgment
+  basis: Earlier stronger communities or cities are cited as having been destroyed
+    by God, and their fate is made a warning for present unbelievers.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: No specific earlier people are named in this passage segment.
+- id: motif:6
+  label: Heavenly aid in battle
+  taxonomy_refs: []
+  basis: Translator notes mention Gabriel's promise of victory, angels fighting for
+    the Muslims, and a miracle at Bedr involving sand or gravel cast into enemy eyes.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: This motif is drawn from notes in the passage rather than from the main
+    Sura text included here.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 20834-20860, translator notes 4, 7, 14-16
+  quote_or_summary: Notes describe Muhammad's design against a Koreisch caravan, Abu
+    Sofian's request for Meccan aid, the miracle of sand or gravel at Bedr, Gabriel's
+    promise of victory, and angels fighting for Muslims.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source metadata; summarized rather than extensively quoted.
+- id: ev:2
+  type: summary
+  locator: Sura XLVII, opening verses
+  quote_or_summary: God causes the works of unbelievers who obstruct God's way to
+    miscarry; believers who do right and believe what was sent down to Muhammad have
+    sins canceled and hearts set right.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source metadata; summarized rather than extensively quoted.
+- id: ev:3
+  type: summary
+  locator: Sura XLVII, war and captives passage
+  quote_or_summary: The passage commands fighting infidels, binding captives, then
+    freeing or ransoming them until war ends; those who fight for God's cause are
+    promised preserved works, guidance, and Paradise.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source metadata; summarized rather than extensively quoted.
+- id: ev:4
+  type: summary
+  locator: Sura XLVII, divine help and destroyed cities passage
+  quote_or_summary: Believers are told that if they help God, God will help them;
+    unbelievers' works are brought to nothing; earlier stronger peoples and cities
+    were destroyed, and God is protector of believers.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source metadata; summarized rather than extensively quoted.
+- id: ev:5
+  type: quote
+  locator: Sura XLVII, Paradise and fire description
+  quote_or_summary: Paradise contains rivers of water, milk, wine, and clarified honey,
+    with fruits; the contrasted lot is dwelling forever in fire and drinking boiling
+    water.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source metadata; short excerpt summarized.
+- id: ev:6
+  type: summary
+  locator: Sura XLVII, hearers and guidance passage
+  quote_or_summary: Some hear Muhammad and then ask mockingly what he said; their
+    hearts are sealed, while those with guidance receive increased guidance and instruction
+    in fear.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source metadata; summarized rather than extensively quoted.
+- id: ev:7
+  type: summary
+  locator: Sura XLVII, Hour and pardon passage
+  quote_or_summary: The passage says the Hour will come suddenly, that its signs have
+    already come, and commands knowledge of God's oneness and asking pardon for sin
+    and for believers.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source metadata; summarized rather than extensively quoted.
+- id: ev:8
+  type: summary
+  locator: Sura XLVII, war Sura and locked hearts passage
+  quote_or_summary: Believers wish for a Sura; when one with the burden of war is
+    revealed, the diseased of heart look death-stricken. The passage mentions disorder
+    in the land, violation of blood ties, deafness, blindness, and locks upon hearts.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source metadata; summarized rather than extensively quoted.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied line range. Some Bedr-related elements
+    come from translator notes rather than the main Sura text. No comparison claims
+    were made because the passage does not itself establish a specific cross-textual
+    comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-29'
+notes: |-
+  All observations and motif candidates are tied to evidence from the supplied passage only.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-rodwell-gutenberg__l20834-l20983
+  passage_sha256=5e3ec0517df970c04da68390589dc9e02769dfb372b54c3238b5574c2a6ab3f7

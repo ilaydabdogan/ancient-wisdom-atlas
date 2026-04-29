@@ -1,0 +1,455 @@
+---
+record_id: batch.motif.sufi-rumi-mesnevi-book-1-redhouse-gutenberg-l10932-l11012
+source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+passage_locator:
+  label: PREFACE. / IN THE NAME OF GOD, / THE ALL-MERCIFUL, THE VERY-COMPASSIONATE.
+    / VIII.; lines 10932-11012
+  start: '10932'
+  end: '11012'
+  translation: The Mesnevi
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A wife pleads with her husband for pardon, renounces contention, and fears
+    separation. Her tears and supplication move him. The narrator reflects on love
+    between man and woman, citing scriptural and prophetic examples, and develops
+    images of fire, water, and a cauldron. The husband then repents, asks forgiveness,
+    and praises his wife's mercy and transforming power.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The woman asks pardon, renounces contention, professes repentance, and asks
+    that the word of separation be recalled.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The woman says she falls at her lord's feet with sword and winding-sheet,
+    and that death would be sweet if he decapitated her.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The woman weeps and sighs; her tears are described as streams and as a shower
+    preceding lightning.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Her weeping and supplication soften the husband's heart and stir pity in him.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The narrator states that Adam's love for Eve survived the loss of Eden.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: 'The narrator compares fire, water, and a cauldron: water quenches fire, but
+    water boils when set over fire in a cauldron, and the cauldron acts like a veil
+    between lovers.'
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The narrator states that fair woman is a ray from the sun of Truth.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The husband feels contrition for what he has said and thinks he has hurt his
+    wife.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The husband addresses his wife, admits shame and trespass, asks pardon, and
+    asks her not to take vengeance.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The husband says confession and amendment can open God's sheepfold even to
+    an old infidel.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: The husband praises the wife's heart as full of pity, goodness, kindness,
+    and grace, and compares her influence to an elixir turning all to gold.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: the wife / woman
+  description: The woman who pleads for pardon, weeps, and is praised by the husband
+    as merciful and gracious.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: the husband / lord
+  description: The woman's husband, initially the addressee of her plea and later
+    repentant for his speech against her.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: fig:3
+  name_or_label: God
+  description: Divine authority invoked in scriptural sayings and in the husband's
+    statement about God's sheepfold.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: fig:4
+  name_or_label: Adam
+  description: Named as loving Eve after the loss of Eden.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Eve
+  description: Named as the beloved of Adam after the loss of Eden.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: the Prophet
+  description: Cited as declaring women's power over sages and as calling to Humayra
+    to speak to him.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:7
+  name_or_label: Humayra
+  description: Named in the quoted prophetic address, 'Humayra, speak to me.'
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: supplicant seeking pardon
+  assigned_to:
+  - fig:1
+  basis: She asks pardon, renounces contention, and pleads against separation.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: repentant husband
+  assigned_to:
+  - fig:2
+  basis: He feels contrition, admits trespass, and asks forgiveness from his wife.
+  evidence_refs:
+  - ev:6
+- id: role:3
+  label: divine source of decree and mercy
+  assigned_to:
+  - fig:3
+  basis: God is cited as decreeing and as opening the sheepfold to a sinner who confesses
+    and amends.
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: role:4
+  label: merciful and transforming beloved
+  assigned_to:
+  - fig:1
+  basis: The husband praises her pity, goodness, kindness, grace, and elixir-like
+    transformative power.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: exemplary lovers in cited tradition
+  assigned_to:
+  - fig:4
+  - fig:5
+  - fig:7
+  basis: Adam and Eve are invoked as an example of enduring love, and Humayra is invoked
+    in the Prophet's address.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: prophetic authority
+  assigned_to:
+  - fig:6
+  basis: The Prophet is cited as an authority on the power of woman over sages and
+    older men.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: sword and winding-sheet
+  literal_form: Sword and burial shroud brought to the lord's feet in the woman's
+    speech.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: tears as streams and shower
+  literal_form: Tears rolling down in streams; a shower preceding lightning.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: lightning and breast-fire of pity
+  literal_form: Lightning flash lighting a fire in the husband's breast with pity.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: fire and water in a cauldron
+  literal_form: Fire, water, and cauldron used as an analogy for lovers kept apart
+    by a veil-like vessel.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - fire
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: cauldron as veil
+  literal_form: The cauldron is described as a veil keeping the lovers apart.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: sun of Truth and ray
+  literal_form: Fair woman is called a ray from the sun of Truth.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:7
+  label: God's sheepfold
+  literal_form: God's sheepfold opens and takes in the confessing, amending sinner.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:8
+  label: elixir turning all to gold
+  literal_form: An elixir by which all turns instantly to gold.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Wife pleads for pardon
+  summary: The woman addresses her husband, confesses fault, asks pardon, renounces
+    contention, and begs him to withdraw the word of separation.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Tears move the husband's heart
+  summary: The woman's tears and sighs are described as overwhelming; her beauty and
+    entreaty exert a double influence, and pity is kindled in the husband's breast.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Didactic reflection on love and woman
+  summary: The narrator cites divine, Adamic, and prophetic examples to describe the
+    power of woman and love over men.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: scene:4
+  label: Fire, water, and cauldron analogy
+  summary: The narrator uses fire, water, and a cauldron to explain apparent and hidden
+    relations of power and attachment between husband and wife.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Husband repents and praises the wife
+  summary: The husband recognizes his fault, asks his wife for pardon, invokes God's
+    mercy for confessing sinners, and praises her grace as transformative.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: repentance and pardon between lovers
+  taxonomy_refs: []
+  basis: Both the wife and then the husband confess fault and seek pardon within a
+    marital conflict.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  confidence: high
+  cautions: This is a passage-level relational and ethical motif rather than a named
+    taxonomy family in the supplied list.
+- id: motif:2
+  label: beloved as merciful transforming power
+  taxonomy_refs:
+  - divine_beloved
+  basis: The wife is praised as full of pity, goodness, kindness, and grace, and her
+    influence is compared to an elixir that turns all to gold; the narrator also calls
+    fair woman a ray from the sun of Truth.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage applies elevated language to the wife/woman; whether this
+    is a fully mystical 'divine beloved' instance requires broader context beyond
+    the passage.
+- id: motif:3
+  label: opposites of fire and water mediated by a vessel
+  taxonomy_refs:
+  - duality
+  basis: The narrator contrasts fire and water, their reversal of influence in a cauldron,
+    and the cauldron as a veil between lovers.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The available taxonomy has 'duality' but not a specific fire-water union
+    motif; assignment is based on explicit contrast of paired elements.
+- id: motif:4
+  label: wisdom teaching through marital example
+  taxonomy_refs:
+  - wisdom
+  basis: The passage moves from the wife's plea and husband's repentance into general
+    instruction about love, humanity, bestiality, and the relation of man and woman.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The motif is didactic rather than narrative-only; the taxonomy assignment
+    is broad.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 10932-10946
+  quote_or_summary: The woman says she has sinned, professes faith, asks pardon, renounces
+    contention, and begs that the word of separation be recalled; she imagines falling
+    at her lord's feet with sword and winding-sheet.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 10947-10955
+  quote_or_summary: The woman's coaxing plea is followed by tears and sighs; her tears
+    are likened to streams and to a shower before lightning, and pity is kindled in
+    the husband's breast.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 10956-10969
+  quote_or_summary: The narrator reflects that supplication increases attraction,
+    cites divine wording about man dwelling with woman, says Adam's love for Eve survived
+    lost Eden, and invokes a prophetic address to Humayra.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 10970-10975
+  quote_or_summary: "“Of fire and water, fire is quelled through water’s wet; / Still,
+    water boils through fire, when in a cauldron set.”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source; short quotation.
+- id: ev:5
+  type: summary
+  locator: lines 10976-10985
+  quote_or_summary: The narrator says the Prophet declared woman has power over sages
+    and older men, contrasts humanity with bestial harshness, and calls fair woman
+    a ray from the sun of Truth.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 10986-11012
+  quote_or_summary: The husband repents for hurting his wife, admits shame and trespass,
+    asks pardon, invokes God's acceptance of a confessing sinner, and praises the
+    wife's mercy and elixir-like power.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal passage structure and imagery are clear. Motif taxonomy assignments
+    are cautious because the passage is didactic and metaphorical, and no external
+    comparison is made within the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-29'
+notes: |-
+  No comparison claims were added because the provided passage does not itself establish a comparison to another text, tradition, or motif family beyond internal scriptural and prophetic references.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-rumi-mesnevi-book-1-redhouse-gutenberg__l10932-l11012
+  passage_sha256=0a08a83cbb07d04429442234be5d92ed8ecb1946a4bd37a7a7a15fc34627d17b

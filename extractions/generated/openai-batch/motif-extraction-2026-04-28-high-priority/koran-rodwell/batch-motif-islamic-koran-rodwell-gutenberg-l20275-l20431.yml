@@ -1,0 +1,573 @@
+---
+record_id: batch.motif.islamic-koran-rodwell-gutenberg-l20275-l20431
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+passage_locator:
+  label: PUBLIC SERVICES, / AND EMINENT LITERARY ATTAINMENTS, / THE TRANSLATOR. /
+    PREFACE; lines 20275-20431
+  start: '20275'
+  end: '20431'
+  translation: The Koran (Al-Qur'an), Rodwell translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage contains translator notes on pilgrimage, Jewish law, Jewish
+    historical parallels, ark-associated relics, Ozair/Esdras, and related biblical
+    or rabbinic comparisons. It then gives Sura XCVIII, where a messenger brings clear
+    evidence and pure pages, true religion is defined as sincere worship, prayer,
+    and alms, unbelievers are assigned to Gehenna, and believers are rewarded with
+    gardens of Eden beneath which rivers flow. The excerpt from Sura LXIV praises
+    God as creator and knower, recalls earlier peoples rejecting apostles, affirms
+    resurrection and final gathering, and contrasts gardens for believers with fire
+    for unbelievers.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The notes state that pilgrims move rapidly when near the Holy Places and identify
+    Mina as a valley.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A note says certain Muslims wished to observe parts of Jewish law.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A note explains the term for limits or fences by comparison with Talmudic
+    sayings about making a fence for the law.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A note compares a resurrection-related passage with Ezekiel 37:1-10 and Talmud
+    Sanhedrin 92.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A note lists objects associated with Moses, Aaron, manna, and the tablets
+    of the law as contents connected with the ark tradition.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A note says Ozair or Esdras doubted whether Jerusalem could be rebuilt after
+    destruction by Nebuchadnezzar and that a miracle was performed for his assurance.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Sura XCVIII presents a messenger from God reciting pure pages containing true
+    Scriptures.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Sura XCVIII says people were enjoined to worship God sincerely, observe prayer,
+    and pay stated alms.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Sura XCVIII contrasts unbelievers who go into Gehenna with believers who receive
+    gardens of Eden with rivers beneath them.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: Sura LXIV states that God created the heavens and earth, fashioned humans,
+    knows hidden and manifest things, and that all return to Him.
+  category: attribute
+  evidence_refs:
+  - ev:8
+- id: obs:11
+  text: Sura LXIV recalls earlier disbelievers who rejected apostles with clear tokens
+    and suffered consequences.
+  category: sequence
+  evidence_refs:
+  - ev:9
+- id: obs:12
+  text: Sura LXIV affirms that the dead will be raised, told of their deeds, and gathered
+    for the day of mutual gathering.
+  category: sequence
+  evidence_refs:
+  - ev:10
+- id: obs:13
+  text: Sura LXIV says believers who do right will have evil deeds cancelled and enter
+    gardens with rivers, while unbelievers who deny signs remain in fire.
+  category: sequence
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: God
+  description: The divine creator, knower, ruler, judge, sender of clear evidence,
+    and giver of recompense.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:10
+- id: fig:2
+  name_or_label: messenger from God
+  description: A messenger reciting pure pages containing true Scriptures.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+- id: fig:3
+  name_or_label: unbelievers among the people of the Book and the Polytheists
+  description: Those described in Sura XCVIII as rejecting or remaining unbelieving
+    after clear evidence.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: fig:4
+  name_or_label: believers who do right
+  description: Those described as the best of creatures and as recipients of gardens
+    of Eden or gardens with rivers.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:7
+  - ev:10
+- id: fig:5
+  name_or_label: earlier apostles
+  description: Apostles who came to earlier peoples with clear tokens.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:9
+- id: fig:6
+  name_or_label: earlier disbelievers
+  description: Earlier people who disbelieved, rejected their apostles, and tasted
+    the consequences of their deeds.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:9
+- id: fig:7
+  name_or_label: Ozair or Esdras
+  description: A figure in the translator note who doubted whether Jerusalem could
+    be rebuilt after its destruction and received assurance through a miracle.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: creator and knower
+  assigned_to:
+  - fig:1
+  basis: Sura LXIV says God created the heavens and earth, fashioned humans, and knows
+    hidden and manifest things.
+  evidence_refs:
+  - ev:8
+- id: role:2
+  label: divine judge and rewarder
+  assigned_to:
+  - fig:1
+  basis: The passage assigns Gehenna or fire to unbelievers and gardens with rivers
+    to believers, with recompense from God.
+  evidence_refs:
+  - ev:7
+  - ev:10
+- id: role:3
+  label: bearer of revelation or warning
+  assigned_to:
+  - fig:2
+  - fig:5
+  basis: The messenger recites pure pages, and earlier apostles come with clear tokens.
+  evidence_refs:
+  - ev:6
+  - ev:9
+- id: role:4
+  label: rejecters of signs or clear evidence
+  assigned_to:
+  - fig:3
+  - fig:6
+  basis: Both present unbelievers and earlier disbelievers are described as rejecting
+    signs, clear evidence, or apostles.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:9
+  - ev:10
+- id: role:5
+  label: righteous recipients of reward
+  assigned_to:
+  - fig:4
+  basis: Believers who do right receive gardens beneath which rivers flow and divine
+    pleasure.
+  evidence_refs:
+  - ev:7
+  - ev:10
+- id: role:6
+  label: doubter reassured by miracle
+  assigned_to:
+  - fig:7
+  basis: The note says Ozair or Esdras doubted Jerusalem's rebuilding and that a miracle
+    was performed for his assurance.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: clear evidence and pure pages
+  literal_form: A messenger reciting pure pages containing true Scriptures.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - wisdom
+  evidence_refs:
+  - ev:6
+- id: sym:2
+  label: fire of Gehenna
+  literal_form: Gehenna or fire where unbelievers remain.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:7
+  - ev:10
+- id: sym:3
+  label: gardens with rivers
+  literal_form: Gardens of Eden or gardens beneath whose shades rivers flow.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:7
+  - ev:10
+- id: sym:4
+  label: light sent down
+  literal_form: The light which God has sent down.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+- id: sym:5
+  label: ark-associated relics
+  literal_form: Shoes and rod of Moses, mitre of Aaron, vase of manna, and fragments
+    of the two tables of the law listed in a note.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Arrival of clear evidence
+  summary: A messenger from God brings clear evidence by reciting pure pages containing
+    true Scriptures, after which division among scripture-holders is mentioned.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:6
+- id: scene:2
+  label: Definition of true religion
+  summary: The passage states that people were enjoined to worship God sincerely,
+    be sound in faith, observe prayer, and pay stated alms.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:6
+- id: scene:3
+  label: Afterlife recompense in Sura XCVIII
+  summary: Unbelievers are assigned to Gehenna, while believers who do right receive
+    gardens of Eden with rivers beneath and divine pleasure.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:7
+- id: scene:4
+  label: Creation, knowledge, and return
+  summary: Sura LXIV presents God as creator of heaven, earth, and humans, as knower
+    of all hidden and manifest things, and as the one to whom all return.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:8
+- id: scene:5
+  label: Earlier rejection of apostles
+  summary: Earlier disbelievers reject apostles who come with clear tokens and suffer
+    consequences, with further punishment awaiting them.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:9
+- id: scene:6
+  label: Resurrection and mutual gathering
+  summary: The passage affirms that those denying resurrection will be raised, told
+    of their deeds, and gathered for a day of mutual gathering; believers enter gardens
+    and unbelievers remain in fire.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:10
+- id: scene:7
+  label: Editorial parallels to Jewish and biblical traditions
+  summary: Translator notes compare several surrounding Qur'anic materials with Talmudic,
+    Ezekiel, Nehemiah, and Genesis passages and identify ark-associated relics.
+  figure_refs:
+  - fig:7
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Revelation as clear evidence
+  taxonomy_refs:
+  - wisdom
+  basis: The passage centers Sura XCVIII on clear evidence brought by a messenger
+    who recites pure pages with true Scriptures.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The taxonomy reference to wisdom is broad; the passage itself emphasizes
+    revelation and evidence rather than wisdom as an explicit term.
+- id: motif:2
+  label: Divine judgment by contrasting fire and garden
+  taxonomy_refs:
+  - divine_judgment
+  basis: Both Sura XCVIII and Sura LXIV contrast unbelievers assigned to Gehenna or
+    fire with believers rewarded in gardens with rivers.
+  evidence_refs:
+  - ev:7
+  - ev:10
+  confidence: high
+  cautions: The passage gives destinations and recompense but does not narrate a detailed
+    trial scene.
+- id: motif:3
+  label: Resurrection and final gathering
+  taxonomy_refs:
+  - resurrection
+  basis: Sura LXIV directly denies the claim that the dead will not be raised and
+    states that people will be raised, told of their deeds, and gathered.
+  evidence_refs:
+  - ev:10
+  confidence: high
+  cautions: The excerpt gives a doctrinal assertion rather than an extended resurrection
+    narrative.
+- id: motif:4
+  label: Return to God
+  taxonomy_refs:
+  - return
+  basis: Sura LXIV states that God fashioned humans and that to Him all must return.
+  evidence_refs:
+  - ev:8
+  confidence: high
+  cautions: The motif is expressed theologically, not as a travel narrative.
+- id: motif:5
+  label: Paradisal garden with flowing rivers
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The righteous receive gardens of Eden or gardens beneath whose shades rivers
+    flow and abide there forever.
+  evidence_refs:
+  - ev:7
+  - ev:10
+  confidence: medium
+  cautions: The passage describes an afterlife destination, but not a full journey
+    map.
+- id: motif:6
+  label: Rejected messengers and punishment of former peoples
+  taxonomy_refs:
+  - divine_judgment
+  basis: Sura LXIV recalls earlier peoples who rejected apostles bearing clear tokens
+    and then suffered the evil consequences of their deeds.
+  evidence_refs:
+  - ev:9
+  confidence: high
+  cautions: This is a compressed warning example rather than a full narrative of a
+    specific people.
+- id: motif:7
+  label: Miraculous assurance of a city's restoration
+  taxonomy_refs:
+  - resurrection
+  basis: A translator note says Ozair or Esdras doubted whether Jerusalem could be
+    rebuilt and that a miracle was performed for his assurance.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: This motif is present in an editorial note summarizing surrounding material,
+    not in the translated sura text excerpted here.
+comparison_claims:
+- id: claim:1
+  claim: The translator explicitly compares a resurrection-related Qur'anic passage
+    with Ezekiel 37:1-10 and Talmud Sanhedrin 92.
+  claim_level: same_motif
+  target: Ezekiel's valley of dry bones and Talmud Sanhedrin 92
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is editorial; the actual Qur'anic verses being annotated
+    are not included in full in this passage range.
+- id: claim:2
+  claim: The translator identifies the language of legal limits or fences as Talmudic
+    and compares it with Pirke Aboth's sayings about making a fence for the law.
+  claim_level: linguistic_similarity
+  target: Pirke Aboth legal-fence formula
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a lexical and legal-language comparison, not a narrative motif
+    comparison.
+- id: claim:3
+  claim: The translator links the Ozair or Esdras rebuilding miracle to Nehemiah's
+    circuit around ruined Jerusalem.
+  claim_level: same_function
+  target: Nehemiah 2:13 and the ruined-city inspection motif
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The wording asserts an origin, but the provided passage gives no supporting
+    historical argument beyond the note.
+- id: claim:4
+  claim: The translator notes a comparison with Genesis 15:9 near material concerning
+    a miracle of assurance.
+  claim_level: same_motif
+  target: Genesis 15:9 sacrificial-animal passage
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The note supplies only a brief cross-reference; the specific Qur'anic
+    wording being compared is not included in this excerpt.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 20275-20288, notes 82-86
+  quote_or_summary: Notes mention rapid pilgrim movement near the Holy Places, Mina
+    as a valley, Sohaib leaving property when joining Muhammad, and Muslims wishing
+    to observe parts of Jewish law.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: quote
+  locator: lines 20294-20297, note 90
+  quote_or_summary: The note says the word for limits or fences is Talmudic and cites
+    sayings such as “Make a fence for the law” and “Tradition is a fence to the law.”
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:3
+  type: summary
+  locator: lines 20308-20320, notes 95-99
+  quote_or_summary: Notes compare a passage with Ezekiel 37:1-10 and Talmud Sanhedrin
+    92, discuss Jewish-history examples, identify Shechinah and ark-related Rabbinic
+    forms, and list relics associated with Moses, Aaron, manna, and the tablets.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 20328-20334, notes 104-107
+  quote_or_summary: Notes identify Nimrod, summarize Ozair or Esdras doubting Jerusalem's
+    rebuilding after Nebuchadnezzar, say a miracle assured him, link the story to
+    Nehemiah's circuit of the ruined city, and cross-reference Genesis 15:9.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: lines 20336-20340, notes 108-110
+  quote_or_summary: Notes explain Satan's discouragement of charity through fear of
+    poverty, compare a charity saying with Matthew 6:3-4, and note a contradiction
+    with another verse.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:6
+  type: summary
+  locator: Sura XCVIII, opening through true religion; lines 20342-20358
+  quote_or_summary: 'Unbelievers among the People of the Book and Polytheists do not
+    waver until clear evidence comes: a messenger from God reciting pure pages containing
+    true Scriptures; sincere worship, prayer, and alms are named as true religion.'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:7
+  type: summary
+  locator: Sura XCVIII, recompense verses; lines 20360-20370
+  quote_or_summary: Unbelievers among the People of the Book and Polytheists go into
+    Gehenna; believers who do right are rewarded with gardens of Eden beneath which
+    rivers flow, where they abide forever, with mutual divine pleasure.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:8
+  type: summary
+  locator: Sura LXIV, opening creation and knowledge verses; lines 20372-20388
+  quote_or_summary: All in heaven and earth praise God; God has kingdom, glory, and
+    power, created people, created heavens and earth in truth, fashioned humans, knows
+    what is hidden and manifest, and all return to Him.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:9
+  type: summary
+  locator: Sura LXIV, former disbelievers and apostles; lines 20390-20400
+  quote_or_summary: Earlier disbelievers tasted evil consequences and await punishment
+    because apostles came with clear tokens but were rejected as merely human guides.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:10
+  type: summary
+  locator: Sura LXIV, resurrection, gathering, reward, and fire; lines 20402-20431
+  quote_or_summary: The passage affirms that deniers will be raised and told of their
+    deeds, commands belief in God, the apostle, and sent-down light, describes the
+    day of mutual gathering, and contrasts gardens with rivers for believers against
+    fire for those who deny signs.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Extraction is strongest for Sura XCVIII and LXIV doctrinal motifs. Some motif
+    and comparison entries rely on translator notes that summarize or cross-reference
+    material outside the immediately quoted sura text, so those are marked with cautions.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-29'
+notes: |-
+  Used only supplied passage text and metadata. Taxonomy references are limited to the provided motif families and symbol list.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-rodwell-gutenberg__l20275-l20431
+  passage_sha256=c60e8d727ff3c1ec274bc5d44d61d31c50eaadf86a6421c967535abaae018805

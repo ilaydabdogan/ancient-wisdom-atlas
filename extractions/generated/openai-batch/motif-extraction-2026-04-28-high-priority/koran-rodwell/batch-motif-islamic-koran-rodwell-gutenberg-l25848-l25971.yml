@@ -1,0 +1,543 @@
+---
+record_id: batch.motif.islamic-koran-rodwell-gutenberg-l25848-l25971
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+passage_locator:
+  label: PUBLIC SERVICES, / AND EMINENT LITERARY ATTAINMENTS, / THE TRANSLATOR. /
+    PREFACE; lines 25848-25971
+  start: '25848'
+  end: '25971'
+  translation: The Koran (Al-Qur'an), Rodwell translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage contains translator's notes on Ark relic traditions, events
+    around Tabouk and Medina mosques, and the opening of Sura V, which commands believers
+    to keep engagements, respect sacred rites and pilgrimage restrictions, observe
+    dietary and sacrificial prohibitions, accept some lawful foods and marriages with
+    People of Scripture, and perform washing before prayer.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A note reports traditions about collecting pitch from the Ark's wood for amulets,
+    the continued existence of Ark fragments, and their removal from mountain al Djoudi
+    to a mosque.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A note says the Beni Ganim built a mosque, invited Muhammad to dedicate it,
+    and were described as motivated by jealousy and by an understanding with Abu Amir
+    against the Muslims and their mosque.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The believers are commanded to be faithful to their engagements.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The believers are told not to violate the rites of God, the sacred month,
+    offerings, ornaments, or people going to the sacred house; hunting is allowed
+    after the pilgrimage restriction is over.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage forbids carrion, blood, swine's flesh, animals sacrificed under
+    another name than God, animals killed by strangling, blow, fall, goring, or beasts
+    of prey, sacrifices on stone blocks, and division of the slain by consulting arrows.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: God is represented as saying that the religion has been perfected and divine
+    favour completed, with Islam chosen as the believers' religion.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Good things and prey caught by trained hunting beasts are declared lawful,
+    with mention of God's name over what is caught.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The meats of those who have received the Scriptures are allowed to believers,
+    and believers' meats are allowed to them.
+  category: relationship
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: Marriage is permitted with virtuous believing women and virtuous women among
+    those who previously received the Scriptures, under specified conditions of chastity
+    and provision.
+  category: relationship
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: Before prayer, believers are instructed to wash their faces and hands to the
+    elbow and to wipe their heads and feet to the ankles.
+  category: action
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Muhammad
+  description: The prophetic figure named in notes concerning his informants, attempted
+    killing, migration, Tabouk, and mosque dedication.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: God
+  description: The divine speaker and authority who ordains, prohibits, permits, punishes,
+    reckons, and commands fear of God.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:9
+- id: fig:3
+  name_or_label: Believers
+  description: The addressed community commanded to keep engagements, observe rites,
+    avoid prohibited foods and acts, and wash before prayer.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:9
+- id: fig:4
+  name_or_label: Beni Ganim
+  description: A tribe said in a note to have built a mosque and invited Muhammad
+    to dedicate it, while allegedly acting from jealousy and alliance with Abu Amir.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Abu Amir
+  description: A monk described as Muhammad's enemy, then in Syria, connected in the
+    note with efforts to urge Greeks to attack the Muslims and their mosque.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Those who have received the Scriptures
+  description: A community whose meats are permitted to believers and whose virtuous
+    women may be married under stated conditions.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:8
+- id: fig:7
+  name_or_label: Virtuous women
+  description: Women described as believers or from those who received the Scriptures,
+    permitted as marriage partners under conditions of provision and chastity.
+  role_refs: []
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: divine lawgiver and judge
+  assigned_to:
+  - fig:2
+  basis: God ordains what he pleases, defines lawful and forbidden acts, is severe
+    in punishing, and is swift to reckon.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:7
+- id: role:2
+  label: addressed covenant community
+  assigned_to:
+  - fig:3
+  basis: The passage repeatedly addresses 'O Believers' and gives them obligations
+    concerning engagements, rites, food, and prayer preparation.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:9
+- id: role:3
+  label: prophetic recipient and historical actor
+  assigned_to:
+  - fig:1
+  basis: Notes describe Muhammad in relation to Jewish informants, Tabouk, Medina,
+    and an invitation to dedicate a mosque.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: rival mosque builders
+  assigned_to:
+  - fig:4
+  basis: The Beni Ganim are said to have built a mosque and to have invited Muhammad
+    to dedicate it, while their motive is described as jealousy.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: external enemy allied with plotters
+  assigned_to:
+  - fig:5
+  basis: Abu Amir is named as Muhammad's enemy and linked with urging Greeks to attack
+    Muslims and their mosque.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: scripture-receiving community in lawful exchange
+  assigned_to:
+  - fig:6
+  basis: Their meats are allowed to believers, believers' meats are allowed to them,
+    and marriage with their virtuous women is permitted.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: Ark relics
+  literal_form: Pitch and wood fragments from the Ark, used for amulets or carried
+    from one place to another in reported traditions.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - ark_vessel
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: mountain al Djoudi
+  literal_form: The mountain from which Ark fragments are said to have been carried
+    away.
+  associated_figures: []
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: sacred house
+  literal_form: The sacred house toward which people press seeking favour from their
+    Lord.
+  associated_figures:
+  - fig:3
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: sacred offerings and ornaments
+  literal_form: Offerings and their ornaments named among rites not to be violated.
+  associated_figures:
+  - fig:3
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: forbidden sacrificial foods
+  literal_form: Blood, swine's flesh, carrion, and animals killed or sacrificed in
+    prohibited ways.
+  associated_figures:
+  - fig:3
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: stone blocks and divining arrows
+  literal_form: Blocks of stone for sacrifice and arrows consulted to divide the slain,
+    both condemned in the passage.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:7
+  label: prayer washing
+  literal_form: Washing the face and hands and wiping the head and feet before prayer.
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:9
+- id: sym:8
+  label: mosque of Kuba and rival mosque
+  literal_form: Mosques in Medina-area notes, including the mosque at Kuba and a mosque
+    built by the Beni Ganim.
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:10
+scenes:
+- id: scene:1
+  label: Ark relic tradition
+  summary: A translator's note relates traditions that pitch and wood from the Ark
+    were collected or preserved, and that fragments were moved from mountain al Djoudi
+    to a mosque.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Rival mosque and hostile alliance
+  summary: A note says the Beni Ganim built a mosque and invited Muhammad to dedicate
+    it, but Muhammad discovered jealousy and an understanding with Abu Amir, who was
+    connected with a plan against the Muslims and their mosque.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:8
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Command to keep engagements and sacred rites
+  summary: Believers are instructed to keep engagements, respect divine rites and
+    pilgrimage-related restrictions, avoid transgression, and cooperate in goodness
+    and piety.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Dietary and sacrificial prohibitions
+  summary: The passage lists forbidden foods, prohibited sacrificial circumstances,
+    and condemned divination by arrows, with warnings to fear God.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Lawful food and relations with People of Scripture
+  summary: Good things, properly caught game, meats of the scripture-receiving community,
+    and certain marriages with virtuous women are declared lawful under conditions.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:6
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: scene:6
+  label: Washing before prayer
+  summary: Believers preparing for prayer are told to wash or wipe specified body
+    parts.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: Ark relic preservation and transfer
+  taxonomy_refs:
+  - ark_vessel
+  basis: The note reports traditions concerning pitch and wood of the Ark used for
+    amulets, surviving fragments, and transport from a mountain to a mosque.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: This appears in a translator's historical note, not in the quoted Qur'anic
+    verses within this passage.
+- id: motif:2
+  label: Covenantal obedience through engagements and sacred law
+  taxonomy_refs:
+  - covenant
+  basis: The opening command tells believers to be faithful to engagements and then
+    sets out sacred obligations and restrictions.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage uses legal and devotional language; the taxonomy label is
+    applied at motif-family level.
+- id: motif:3
+  label: Sacrifice regulated by divine name and sacred boundaries
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage distinguishes forbidden sacrifices under another name, sacrifice
+    on stone blocks, and permitted food when God's name is mentioned.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  confidence: high
+  cautions: The focus is legal regulation rather than a narrative sacrificial episode.
+- id: motif:4
+  label: Divine judgment through punishment and reckoning
+  taxonomy_refs:
+  - divine_judgment
+  basis: The text warns that God is severe in punishing, swift to reckon, and that
+    one who renounces faith will be lost in the next world.
+  evidence_refs:
+  - ev:4
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: Judgment is expressed as warning and doctrine, not as a narrated judgment
+    scene.
+- id: motif:5
+  label: Ritual purification before prayer
+  taxonomy_refs: []
+  basis: Believers are instructed to wash and wipe specified body parts when addressing
+    themselves to prayer.
+  evidence_refs:
+  - ev:9
+  confidence: high
+  cautions: No explicit taxonomy motif family for purification is provided; symbol
+    reference to water is inferred from the washing action.
+- id: motif:6
+  label: Sacred precinct and pilgrimage restriction
+  taxonomy_refs: []
+  basis: The passage names rites, sacred month, offerings, the sacred house, a temporary
+    hunting prohibition, and the requirement not to transgress after conflict over
+    the sacred mosque.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: No directly matching available motif-family taxonomy item is supplied.
+comparison_claims:
+- id: claim:1
+  claim: The note asserts that traditions about Ark pitch, wood, and fragments reached
+    Muhammad through Jewish informants.
+  claim_level: historical_contact
+  target: Jewish traditions concerning surviving Ark materials or relics
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is a translator's historical assertion within a note; the passage
+    itself does not provide independent evidence for the transmission route.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 25848-25853
+  quote_or_summary: A note compares Sura liv. 15 and says traditions about pitch and
+    wood from the Ark, used for amulets or preserved as fragments, reached Muhammad
+    through Jewish informants; fragments are said to have been moved from mountain
+    al Djoudi to a mosque.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 25879-25888
+  quote_or_summary: A note says the Beni Ganim built a mosque, invited Muhammad to
+    dedicate it, and that Muhammad discovered their motive was jealousy of another
+    tribe and mosque, with an understanding involving Abu Amir to urge Greeks against
+    Muslims and their mosque.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 25924-25926
+  quote_or_summary: '"O BELIEVERS! be faithful to your engagements."'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: summary
+  locator: lines 25928-25937
+  quote_or_summary: Believers are told not to violate God's rites, the sacred month,
+    offerings, ornaments, or those going to the sacred house; after the restriction
+    is over they may hunt, but must not transgress from ill will and must cooperate
+    in goodness and piety.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 25939-25947
+  quote_or_summary: The passage forbids carrion, blood, swine's flesh, animals sacrificed
+    under any name other than God, animals killed in specified improper ways, prey
+    already eaten by beasts unless properly killed, sacrifices on stone blocks, and
+    division by consulting arrows.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 25948-25952
+  quote_or_summary: God says the religion has been perfected, divine favours completed,
+    and Islam chosen as religion; forced hunger without wrongful inclination is met
+    with divine indulgence and mercy.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 25954-25960
+  quote_or_summary: Good things are declared lawful, including prey caught by trained
+    hunting beasts taught as God taught; believers are to mention God's name over
+    it and fear God, who is swift to reckon.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 25962-25969
+  quote_or_summary: Healthful things and the meats of those who received the Scriptures
+    are legalized; marriage with virtuous believing women and virtuous women among
+    those who received the Scriptures is permitted under conditions, while renouncing
+    faith makes works vain and leads to loss in the next world.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 25971-25971
+  quote_or_summary: Believers addressing themselves to prayer are instructed to wash
+    faces and hands to the elbow and wipe heads and feet to the ankles.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: lines 25894-25898
+  quote_or_summary: A note identifies the mosque of Kuba near Medina, says Muhammad
+    laid the first brick, and calls it the first place of public prayer in Islam.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Most extraction is based on explicit legal and note material. Motif assignment
+    is strongest for covenant, sacrifice, divine judgment, and purification; the Ark
+    comparison and transmission claim rely on a translator's note rather than the
+    Qur'anic passage itself.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-29'
+notes: |-
+  All observations and claims are limited to the supplied line range and metadata.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-rodwell-gutenberg__l25848-l25971
+  passage_sha256=2b28cfa3fbc50345db4019283fb23d72f2f120385bece6e83832a26bc5a86132

@@ -1,0 +1,185 @@
+---
+record_id: batch.motif.sufi-mystics-of-islam-nicholson-gutenberg-l5107-l5152
+source_text_path: texts/public-domain/sufi/project-gutenberg/mystics-of-islam-nicholson.md
+passage_locator:
+  label: THE UNITIVE STATE / BIBLIOGRAPHY / INDEX / OTHER BOOKS BY RALPH WALDO TRINE.;
+    lines 5107-5152
+  start: '5107'
+  end: '5152'
+  translation: The Mystics of Islam
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A publisher advertisement lists books by Ralph Waldo Trine, gives edition
+    and price details, and includes brief endorsements for In Tune with the Infinite.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is headed as a list of other books by Ralph Waldo Trine.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: In Tune with the Infinite is advertised as Mr. Trine’s greatest work, with
+    subtitle The Fulness of Peace, Power, and Plenty.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A pocket edition is described as printed on Japon paper with a portrait of
+    Mr. Trine and specially designed binding and end-papers.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Two quoted endorsements praise the book and its teachings.
+  category: speech
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:5
+  text: Additional Trine titles are listed with edition counts, formats, and prices.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:6
+  text: The Land of Living Men is described as dealing with political and social subjects
+    and the individual’s relationship to the state and nation.
+  category: attribute
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Ralph Waldo Trine / Mr. Trine
+  description: Author whose other books are being advertised and whose portrait is
+    included in a pocket edition.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Mrs. J. A. J.
+  description: Quoted endorser who says the book lifts her soul up to the Divine and
+    creates better thoughts and aspirations.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: Rev. W. H. M.
+  description: Quoted endorser who says the book will carry blessings to multitudes
+    and presents a profound theme simply.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: advertised author
+  assigned_to:
+  - fig:1
+  basis: The heading identifies the advertised books as by Ralph Waldo Trine.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: testimonial speaker
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: Both named figures are attached to quoted endorsements in the advertisement.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols: []
+scenes:
+- id: scene:1
+  label: Advertisement for Ralph Waldo Trine books
+  summary: The passage presents an advertisement naming Trine’s works, giving format
+    and price information, and including testimonials for In Tune with the Infinite.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: '5107'
+  quote_or_summary: "“OTHER BOOKS BY RALPH WALDO TRINE.”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mystics-of-islam-nicholson.md
+  rights_note: Public domain source; short excerpt used for identification.
+- id: ev:2
+  type: quote
+  locator: 5109-5111
+  quote_or_summary: "“Mr. TRINE’S GREATEST WORK: IN TUNE with THE INFINITE OR, THE
+    FULNESS OF PEACE, POWER, AND PLENTY.”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mystics-of-islam-nicholson.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: summary
+  locator: 5115-5116
+  quote_or_summary: A pocket edition is advertised as printed on Japon paper, with
+    a portrait of Mr. Trine, special binding, end-papers, and a price.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mystics-of-islam-nicholson.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 5118-5122
+  quote_or_summary: Mrs. J. A. J. praises the book as lifting her soul to the Divine
+    and inspiring better thoughts, aspirations, and conduct.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mystics-of-islam-nicholson.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 5124-5127
+  quote_or_summary: Rev. W. H. M. says the book will bless multitudes and presents
+    a profound theme simply.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mystics-of-islam-nicholson.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 5129-5152
+  quote_or_summary: 'The advertisement lists other Trine titles, including What all
+    the World’s A-Seeking, This Mystical Life of Ours, The Wayfarer on the Open Road,
+    The Winning of the Best, The Greatest Thing ever Known, Every Living Creature,
+    and Character-Building: Thought Power, with edition and price details.'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mystics-of-islam-nicholson.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: quote
+  locator: 5135-5137
+  quote_or_summary: "“Dealing with political and social subjects, and the individual’s
+    relationship towards the state and the nation.”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mystics-of-islam-nicholson.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is a publisher advertisement rather than a mythic or narrative
+    passage; no supported motif candidates or comparison claims were identified.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-29'
+notes: |-
+  No available taxonomy symbols or motif families were applied because the passage contains advertising and bibliographic material, not a mythological episode.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-mystics-of-islam-nicholson-gutenberg__l5107-l5152
+  passage_sha256=5f17504b7fee0cb088383db4a5bd38469e1027dbc0c4e54c3ba69b712e424012

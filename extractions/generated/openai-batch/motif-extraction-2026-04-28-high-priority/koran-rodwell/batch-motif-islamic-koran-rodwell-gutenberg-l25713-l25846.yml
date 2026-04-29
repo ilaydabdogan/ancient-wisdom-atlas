@@ -1,0 +1,496 @@
+---
+record_id: batch.motif.islamic-koran-rodwell-gutenberg-l25713-l25846
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+passage_locator:
+  label: PUBLIC SERVICES, / AND EMINENT LITERARY ATTAINMENTS, / THE TRANSLATOR. /
+    PREFACE; lines 25713-25846
+  start: '25713'
+  end: '25846'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage exhorts the people around Medina not to abandon God's Apostle,
+    states that hardships and actions on God's path are recorded as good works, orders
+    some believers to remain for religious instruction, commands warfare against neighboring
+    infidels, contrasts believers whose faith increases when a Sura is sent down with
+    doubters whose doubt increases, and ends with a declaration of trust in God, possessor
+    of the Glorious Throne. The remainder consists of translator notes on the Sura
+    and related historical or interpretive points.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The people of Medina and Arabs of the surrounding desert are told they have
+    no cause to abandon God's Apostle or prefer their own lives to his.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Thirst, labor, hunger, steps that anger unbelievers, and damage from the enemy
+    on God's path are said to be written down as good works.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Alms, whether small or great, and traversing a torrent are said to be reckoned
+    so that God may reward the actors with better than they have wrought.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The faithful are instructed not to march forth all together, so that a party
+    may learn religion and warn their people when they return.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Believers are commanded to wage war against neighboring infidels and to be
+    rigorous toward them.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: When a Sura is sent down, it is said to increase the faith of believers and
+    add doubt to those whose hearts contain disease.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Those whose hearts contain disease are said to die as infidels.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Some people are described as tested once or twice each year, yet they do not
+    turn back or receive warning.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: When a Sura is sent down, some look at one another, ask whether anyone sees
+    them, and turn aside; God is said to turn their hearts aside because they lack
+    understanding.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: An Apostle from among the addressees is described as heavily burdened by their
+    iniquities, careful over them, and compassionate and merciful toward the faithful.
+  category: attribute
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: The speaker is instructed to say that God suffices him, that there is no God
+    but God, that he trusts in God, and that God possesses the Glorious Throne.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: God
+  description: The deity who records good works, rewards the righteous, is with those
+    who fear him, turns hearts aside, suffices the speaker, and possesses the Glorious
+    Throne.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: God's Apostle
+  description: The apostolic figure whom the people of Medina and nearby desert Arabs
+    are told not to abandon; he is described as from among the addressees and compassionate
+    toward the faithful.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: fig:3
+  name_or_label: People of Medina and Arabs of the desert around them
+  description: A local community addressed in relation to loyalty toward God's Apostle
+    and endurance on God's path.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: The faithful / believers
+  description: Those whose faith is increased by a sent-down Sura, who are instructed
+    in conduct, and toward whom the Apostle is compassionate and merciful.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:7
+- id: fig:5
+  name_or_label: Infidels / unbelievers / enemy
+  description: Opposing figures who may be angered by the believers' steps, cause
+    damage, and are identified as neighboring targets of warfare.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:6
+  name_or_label: Those whose hearts contain disease
+  description: People whose doubt increases when a Sura is sent down and who are said
+    to die as infidels.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: Those devoid of understanding
+  description: People who look at one another when a Sura is sent down, ask whether
+    anyone sees them, turn aside, and have their hearts turned aside by God.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: divine recorder and rewarder
+  assigned_to:
+  - fig:1
+  basis: God is said to have good works written down and not to let the reward of
+    the righteous perish.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: divine protector and sovereign
+  assigned_to:
+  - fig:1
+  basis: God is said to be with those who fear him, to suffice the speaker, and to
+    possess the Glorious Throne.
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: role:3
+  label: apostolic mediator and compassionate leader
+  assigned_to:
+  - fig:2
+  basis: The Apostle is to be followed rather than abandoned and is described as careful,
+    compassionate, and merciful toward the faithful.
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: role:4
+  label: local obligated community
+  assigned_to:
+  - fig:3
+  basis: The people of Medina and nearby desert Arabs are directly addressed about
+    loyalty to God's Apostle and endurance on God's path.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: faithful recipients of instruction
+  assigned_to:
+  - fig:4
+  basis: The faithful are commanded in matters of marching, instruction, warning,
+    warfare, and response to revelation.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:6
+  label: opposing outsiders
+  assigned_to:
+  - fig:5
+  basis: Unbelievers or infidels are described as enemies who may be angered and against
+    whom warfare is commanded.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:7
+  label: doubting or uncomprehending group
+  assigned_to:
+  - fig:6
+  - fig:7
+  basis: These people respond to a sent-down Sura with increased doubt or evasive
+    turning aside, and are described as lacking understanding.
+  evidence_refs:
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: path of God
+  literal_form: path of God
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: written good works
+  literal_form: actions and sufferings written down as a good work
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: torrent
+  literal_form: torrent traversed by almsgivers or travelers
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: sent-down Sura
+  literal_form: Sura sent down
+  associated_figures:
+  - fig:4
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:5
+  label: diseased heart
+  literal_form: hearts containing disease
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: hearts turned aside
+  literal_form: hearts turned aside by God
+  associated_figures:
+  - fig:1
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: Glorious Throne
+  literal_form: Glorious Throne possessed by God
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Hardship and merit on God's path
+  summary: The local community is told not to abandon God's Apostle, and hardships
+    or enemy damage endured on God's path are recorded as good works whose reward
+    does not perish.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Alms and traversal reckoned for reward
+  summary: Small and great alms, and the traversing of a torrent, are said to be reckoned
+    so that God may reward the actors beyond their deeds.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Division of the faithful for warfare and instruction
+  summary: The faithful are told not all to march to war; some are to remain or return
+    with religious instruction and warning for their people.
+  figure_refs:
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Command to fight neighboring infidels
+  summary: Believers are commanded to wage war against neighboring infidels and are
+    told that God is with those who fear him.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Divergent response to revelation
+  summary: A sent-down Sura increases believers' faith and joy, but adds doubt to
+    those whose hearts contain disease.
+  figure_refs:
+  - fig:4
+  - fig:6
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+- id: scene:6
+  label: Testing and turning aside
+  summary: Some are described as tested annually without repentance; when a Sura is
+    sent down, they look around, ask if anyone sees them, and turn aside, after which
+    God turns their hearts aside.
+  figure_refs:
+  - fig:1
+  - fig:7
+  symbol_refs:
+  - sym:4
+  - sym:6
+  evidence_refs:
+  - ev:6
+- id: scene:7
+  label: Compassionate Apostle and trust in God
+  summary: The Apostle is described as from among the addressees and merciful toward
+    the faithful; if others turn away, the speaker is to declare trust in God, possessor
+    of the Glorious Throne.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: divine recording and reward of deeds
+  taxonomy_refs:
+  - divine_judgment
+  basis: Hardships, alms, and traversals are reckoned or written down as good works,
+    and God is said to reward the righteous and repay better than the deeds performed.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage emphasizes reward more than a full judgment scene.
+- id: motif:2
+  label: revelation as test dividing faithful from doubters
+  taxonomy_refs:
+  - wisdom
+  basis: The sent-down Sura increases believers' faith but increases doubt among those
+    with diseased hearts, and another group fails to respond to repeated testing.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The taxonomy reference to wisdom is broad; the passage presents revealed
+    instruction and discernment rather than a narrative wisdom quest.
+- id: motif:3
+  label: divine sovereignty represented by throne
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: God is declared sufficient, uniquely divine, the object of trust, and possessor
+    of the Glorious Throne.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The available taxonomy lacks a specific divine throne or cosmic kingship
+    category; royal_legitimacy is an approximate fit.
+- id: motif:4
+  label: loyalty to apostolic leader amid hardship
+  taxonomy_refs:
+  - covenant
+  basis: The people are told not to abandon God's Apostle or prefer their lives to
+    his while enduring hardship on God's path.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage does not explicitly name a covenant, but it frames communal
+    obligation and loyalty to the Apostle under God.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 25713-25720
+  quote_or_summary: People of Medina and nearby desert Arabs are told not to abandon
+    God's Apostle; hardships on God's path, steps angering unbelievers, and damage
+    from the enemy are written as good works, and God does not let the righteous reward
+    perish.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 25722-25724
+  quote_or_summary: Small or great alms and traversing a torrent are reckoned so that
+    God may reward them with better than they have wrought.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 25726-25729
+  quote_or_summary: The faithful must not all march to war; a party is to instruct
+    themselves in religion and warn their people on returning.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 25731-25732
+  quote_or_summary: Believers are commanded to wage war against neighboring infidels,
+    be rigorous, and know that God is with those who fear him.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 25734-25740
+  quote_or_summary: When a Sura is sent down, believers' faith increases and they
+    rejoice, while those with diseased hearts have doubt added to doubt and die infidels.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 25742-25748
+  quote_or_summary: Some are proved once or twice yearly but do not turn or heed warning;
+    when a Sura is sent down they look around, ask if anyone sees them, and turn aside;
+    God turns their hearts aside because they lack understanding.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 25750-25755
+  quote_or_summary: An Apostle from among the addressees is burdened by their iniquities
+    and is compassionate toward the faithful; if others turn away, the speaker is
+    to declare that God suffices him, he trusts in God, and God possesses the Glorious
+    Throne.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based on the supplied English passage and its immediate wording.
+    Motif taxonomy assignments are cautious because the passage is exhortative and
+    doctrinal rather than a mythic narrative. No comparison claims were added because
+    the passage itself does not support a specific comparison beyond available internal
+    motifs.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-29'
+notes: |-
+  Translator footnotes in the supplied range were not used for motif extraction except insofar as the main passage itself supplied evidence; no external identifications were added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-rodwell-gutenberg__l25713-l25846
+  passage_sha256=aa16a0925b0f550df0b9f09a414f99de4df2dbf2786e400e9a3919c4efffc3ec

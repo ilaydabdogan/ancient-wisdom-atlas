@@ -1,0 +1,571 @@
+---
+record_id: batch.motif.islamicate-folklore-arabian-nights-lang-gutenberg-l4109-l4187
+source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+passage_locator:
+  label: The Arabian Nights Entertainments; lines 4109-4187
+  start: '4109'
+  end: '4187'
+  translation: The Arabian Nights Entertainments
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Sindbad, buried alive in a cavern with bread and water, survives among
+    the dead, kills newly lowered victims to obtain their provisions, follows a small
+    animal through a crack to the seashore, gathers jewels from the cavern, is rescued
+    by a ship, returns wealthy to Bagdad, gives money to the poor and mosques, and
+    closes the fourth voyage before beginning the frame for the fifth.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The narrator is lowered into a gloomy pit with seven loaves and a pitcher
+    of water, and a stone is rolled over the opening above him.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The pit is a vast vault or cavern containing bones and bodies of the dead.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: When food and water are exhausted, the narrator kills a terrified woman lowered
+    with a male corpse and takes the provisions supplied with her.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The narrator repeats the same expedient several times to obtain provisions
+    from later burials.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The narrator notices a breathing shadowy form, follows it through a cranny
+    and narrow crack in the rocks, and emerges at the seashore.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The narrator identifies the creature as probably a small animal that had entered
+    the cavern from the sea and unintentionally showed him an escape route.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The mountains slope directly down to the sea, with no road across them.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The narrator returns to the cavern, collects diamonds, rubies, emeralds, and
+    other jewels, and stores them in bales on the beach.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: A vessel appears; the narrator attracts the crew by waving and shouting, and
+    a boat takes him to the ship.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The narrator tells the sailors he was shipwrecked and came ashore with the
+    bales; they believe him.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: The captain welcomes the narrator and refuses jewels offered as payment for
+    passage.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:12
+  text: After prosperous travel and trade, the narrator returns to Bagdad with great
+    riches, gives money to the poor, enriches mosques, and rejoins friends and relations.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:13
+  text: Sindbad pauses after the fourth voyage; Hindbad receives one hundred sequins
+    and is invited with the others to return for the fifth voyage.
+  category: sequence
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Sindbad / first-person narrator
+  description: The speaker of the voyage narrative who is buried alive, escapes, gains
+    jewels, and returns to Bagdad.
+  role_refs:
+  - role:1
+  - role:2
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: King
+  description: The king whom the narrator tries unsuccessfully to move to pity before
+    being lowered into the pit.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Bystanders
+  description: Those standing by during the entombment who do not speak to the narrator
+    and hasten the task.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Lowered woman
+  description: A woman who follows a male corpse into the cavern, is insensible from
+    terror, and is killed by the narrator.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Male corpse on bier
+  description: A dead man lowered into the cavern on a bier before the woman descends.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Small animal / shadowy form
+  description: A breathing shadowy form, later understood by the narrator as a small
+    animal from the sea, which flees through a cranny and reveals the escape path.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Sailors and ship crew
+  description: The crew who see the narrator’s signals, question him, take up his
+    bundles, and row him back to the ship.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:6
+- id: fig:8
+  name_or_label: Captain
+  description: The captain who welcomes the narrator aboard and refuses jewels as
+    payment for passage.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:6
+- id: fig:9
+  name_or_label: Hindbad
+  description: A listener who receives one hundred sequins and is invited to return
+    for the next voyage story.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:8
+- id: fig:10
+  name_or_label: Hearers
+  description: The audience who praise the fourth voyage and are invited back for
+    the fifth.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: entombed survivor
+  assigned_to:
+  - fig:1
+  basis: He is lowered alive into a sealed cavern among the dead and later escapes.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: role:2
+  label: resourceful but violent prisoner
+  assigned_to:
+  - fig:1
+  basis: He kills newly lowered victims to obtain bread and water for survival.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: agents or witnesses of entombment
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The king and bystanders ignore his appeal and proceed with lowering him into
+    the pit.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: living burial victim
+  assigned_to:
+  - fig:4
+  basis: The woman descends alive after a corpse and expects a lingering death in
+    the cavern.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: dead spouse or burial corpse
+  assigned_to:
+  - fig:5
+  basis: A male corpse on a bier is lowered before the woman.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: wealth-bearing returnee
+  assigned_to:
+  - fig:1
+  basis: He gathers jewels, travels prosperously, and returns to Bagdad with riches.
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: role:7
+  label: unintentional guide to escape
+  assigned_to:
+  - fig:6
+  basis: The animal flees through a cranny, and following it leads the narrator out
+    to the seashore.
+  evidence_refs:
+  - ev:4
+- id: role:8
+  label: maritime rescuers
+  assigned_to:
+  - fig:7
+  - fig:8
+  basis: The crew and captain bring the narrator aboard and carry him away by ship.
+  evidence_refs:
+  - ev:6
+- id: role:9
+  label: frame-story listeners
+  assigned_to:
+  - fig:9
+  - fig:10
+  basis: They listen to Sindbad, depart, and are invited to return for another tale.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: sealed pit or cavern
+  literal_form: A gloomy pit, vast vault, and cavern sealed by a stone.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: bread and water provisions
+  literal_form: Seven loaves and a pitcher of water, later repeated as provisions
+    lowered with the buried living.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:3
+  label: bones and bodies of the dead
+  literal_form: Bones and bodies scattered through the vault.
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: cranny and narrow crack
+  literal_form: A cranny in the wall and a narrow crack among the rocks leading out
+    of the cavern.
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: glimmer of light
+  literal_form: A glimmer of light that grows clearer as the narrator nears the exit.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: sea shore and sea route
+  literal_form: The seashore reached after leaving the cavern, and the nearby sea
+    from which the animal may have entered.
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:7
+  label: mountains blocking pursuit
+  literal_form: Mountains sloping sheer down to the sea, with no road across them.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:5
+- id: sym:8
+  label: jewels in the cavern
+  literal_form: Diamonds, rubies, emeralds, and jewels of all kinds scattered on the
+    ground.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:9
+  label: rescue vessel
+  literal_form: A ship or vessel seen from shore, reached by boat after the crew sees
+    the narrator’s signals.
+  associated_figures:
+  - fig:1
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Burial alive in the cavern
+  summary: The narrator appeals for mercy, is lowered into a gloomy pit with bread
+    and water, and is sealed beneath a stone in a vault of bones and bodies.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Survival through taking provisions
+  summary: After his own provisions run out, the narrator kills a woman lowered with
+    a corpse and takes her bread and water, later repeating this action to survive.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Animal-led escape to the sea
+  summary: The narrator hears and sees a shadowy breathing form, follows it through
+    a cranny and long rocky crack, and emerges at the seashore.
+  figure_refs:
+  - fig:1
+  - fig:6
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Treasure gathering at the inaccessible shore
+  summary: Seeing the mountains block pursuit, the narrator returns to the cavern,
+    gathers jewels, makes them into bales, and stores them on the beach.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Ship rescue and return to Bagdad
+  summary: The narrator signals a passing vessel, is taken aboard with his bundles
+    after giving a shipwreck story, travels prosperously, returns rich to Bagdad,
+    and gives gifts to the poor and mosques.
+  figure_refs:
+  - fig:1
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:8
+  - sym:9
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:6
+  label: Frame close of the fourth voyage
+  summary: Sindbad pauses, the hearers praise the tale, Hindbad receives money, and
+    all are invited back for the fifth voyage.
+  figure_refs:
+  - fig:1
+  - fig:9
+  - fig:10
+  symbol_refs: []
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: descent into a death-filled underground enclosure
+  taxonomy_refs:
+  - hero_descent
+  basis: The narrator descends alive into a sealed pit or cavern filled with the dead
+    and must endure there before escaping.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: The passage presents involuntary burial rather than a voluntary ritual
+    or heroic descent.
+- id: motif:2
+  label: emergence from tomb-like confinement into renewed life
+  taxonomy_refs:
+  - death_rebirth
+  basis: The narrator is left for dead in a sealed cavern among corpses and later
+    emerges alive into light and the seashore.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The text does not explicitly describe rebirth; the motif is inferred from
+    the literal sequence of entombment and emergence.
+- id: motif:3
+  label: animal inadvertently reveals escape route
+  taxonomy_refs: []
+  basis: A small animal flees through a hidden cranny, and following it leads the
+    narrator to freedom.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The animal is not portrayed as supernatural or intentionally helpful.
+- id: motif:4
+  label: treasure obtained from a perilous underworld-like place
+  taxonomy_refs: []
+  basis: After escaping the cavern of the dead, the narrator returns to collect scattered
+    jewels and carries them away.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  confidence: medium
+  cautions: The passage does not name the cavern an underworld; it is literally a
+    burial vault or cave.
+- id: motif:5
+  label: departure, ordeal, and wealthy return
+  taxonomy_refs:
+  - departure
+  - return
+  basis: Within the voyage frame, the narrator survives a severe ordeal, is rescued
+    by ship, travels, and returns to Bagdad with great wealth.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The initial departure is outside this excerpt; only the end of the fourth
+    voyage and return are shown here.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 4109-4117
+  quote_or_summary: The narrator appeals unsuccessfully to the king and bystanders,
+    is lowered into a gloomy pit with seven loaves and a pitcher of water, and is
+    sealed in by a stone.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 4117-4124
+  quote_or_summary: Inside the cavern, a faint ray of light reveals a vast vault strewn
+    with bones and bodies of the dead; the narrator cries out in rage and despair.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 4127-4140
+  quote_or_summary: After his provisions run out, a male corpse and terrified living
+    woman are lowered; the narrator kills the woman with a bone, takes her bread and
+    water, and repeats this method several times.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 4140-4154
+  quote_or_summary: The narrator hears a breathing form, follows it through a cranny
+    and narrow rock passage, sees increasing light, emerges at the seashore, and concludes
+    a small animal showed the escape route.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 4156-4164
+  quote_or_summary: Mountains slope directly into the sea with no road over them;
+    the narrator returns to the cavern, gathers diamonds, rubies, emeralds, and other
+    jewels, and stores bales on the beach.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 4164-4176
+  quote_or_summary: A vessel appears; the narrator signals, is questioned by sailors,
+    claims shipwreck, has his bales taken aboard, and is welcomed by a captain who
+    refuses jewel payment.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 4176-4181
+  quote_or_summary: The voyage is prosperous; after visiting many lands and trading,
+    the narrator returns to Bagdad very rich, gives money to the poor, enriches mosques,
+    and feasts with friends and relations.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: 4182-4187
+  quote_or_summary: Sindbad pauses; his listeners praise the fourth voyage, Hindbad
+    receives one hundred sequins, and the audience is invited to return next day for
+    the fifth voyage.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal sequence and symbols are clear. Motif labels involving descent and
+    death-rebirth are interpretive and should be reviewed; no cross-text comparison
+    claims were made because the passage itself does not support them.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-29'
+notes: |-
+  Used only the supplied passage and metadata; taxonomy refs limited to the available lists.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamicate-folklore-arabian-nights-lang-gutenberg__l4109-l4187
+  passage_sha256=177ff430b342e27e7f7a5f5d579a83db0d7100315b353acc076ee24a1b2cef72

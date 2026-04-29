@@ -1,0 +1,549 @@
+---
+record_id: batch.motif.islamicate-folklore-arabian-nights-lang-gutenberg-l4687-l4778
+source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+passage_locator:
+  label: The Arabian Nights Entertainments; lines 4687-4778
+  start: '4687'
+  end: '4778'
+  translation: The Arabian Nights Entertainments
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Sindbad returns from the elephants' Ivory Hill to his master's house, reveals
+    the source of ivory, gains freedom and reward, travels by ship and caravan back
+    to Bagdad, reports to the Caliph, and ends his seventh voyage by rewarding Hindbad.
+    The next tale begins in Kashgar, where a tailor invites a singing hunchback home
+    to entertain his wife.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Sindbad returns to the city after concluding that the elephants have withdrawn
+    into the forest and left the way to the Ivory Hill open.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Sindbad's master finds an uprooted tree and arrows and fears Sindbad has died.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Sindbad and his master go to the Ivory Hill and load an elephant with tusks.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The master frees Sindbad, says the elephants have killed many slaves, and
+    attributes Sindbad's escape to the special protection of Heaven.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Sindbad asks for liberty to return to his own country.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: During the monsoon season, ivory ships arrive, and Sindbad sails with provisions,
+    ivory, and costly curiosities supplied by his master.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Sindbad leaves the ship at the first port, sells ivory for gold, buys presents,
+    and joins a merchant caravan to Bagdad.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: Sindbad reports his embassy and elephant adventure to the Caliph, who orders
+    the stories written in letters of gold and stored among his treasures.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Sindbad ends the story of his seventh and last voyage and asks Hindbad whether
+    he has heard of anyone who suffered more narrow escapes.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: Hindbad respectfully kisses Sindbad's hand, acknowledges Sindbad's greater
+    perils, and praises his generous use of wealth.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: Sindbad gives Hindbad one hundred sequins, counts him among his friends, and
+    has him eat daily at his table.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:12
+  text: In Kashgar, a tailor and his wife live together, and a little hunchback comes
+    to the shop entrance singing and playing a tambourine.
+  category: setting
+  evidence_refs:
+  - ev:6
+- id: obs:13
+  text: The tailor is amused by the hunchback and invites him home to entertain his
+    wife.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Sindbad the Sailor
+  description: Narrator of the seventh voyage who returns from the Ivory Hill, gains
+    freedom, travels back to Bagdad, reports to the Caliph, and rewards Hindbad.
+  role_refs:
+  - role:1
+  - role:7
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Sindbad's master
+  description: The master who receives Sindbad, learns about the Ivory Hill, frees
+    him, rewards him, and sends him away with goods.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Wild elephants
+  description: Animals described as sagacious; they withdraw from the road, have killed
+    slaves, and are connected to the Ivory Hill and its tusks.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: Caliph
+  description: Ruler before whom Sindbad reports his embassy and adventure; he orders
+    the stories written and stored among his treasures.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Caliph's scribes
+  description: Scribes who write Sindbad's stories in letters of gold by the Caliph's
+    order.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Hindbad
+  description: Listener who responds respectfully to Sindbad's account and receives
+    money, friendship, and daily hospitality.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: Tailor
+  description: A man in Kashgar who is working in his shop and invites the singing
+    hunchback home.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:6
+- id: fig:8
+  name_or_label: Tailor's wife
+  description: The tailor's beloved wife, whom the tailor hopes the hunchback will
+    entertain.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:6
+- id: fig:9
+  name_or_label: Little hunchback
+  description: A little hunchback who sits at the shop entrance, sings, plays a tambourine,
+    and agrees to go with the tailor.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: freed traveler and returning narrator
+  assigned_to:
+  - fig:1
+  basis: Sindbad receives liberty, returns toward his country, reaches Bagdad, and
+    narrates the conclusion of his seventh voyage.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:2
+  label: master turned patron
+  assigned_to:
+  - fig:2
+  basis: The master says he can no longer treat Sindbad as a slave, grants liberty,
+    and provides goods for his voyage.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: sagacious dangerous animals
+  assigned_to:
+  - fig:3
+  basis: Sindbad admires the elephants' sagacity, while the master says they have
+    killed many slaves.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: royal recipient of report
+  assigned_to:
+  - fig:4
+  basis: Sindbad presents himself before the Caliph and gives an account of his embassy
+    and adventure.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: record keepers
+  assigned_to:
+  - fig:5
+  basis: The Caliph orders scribes to write Sindbad's stories in letters of gold.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: respectful beneficiary
+  assigned_to:
+  - fig:6
+  basis: Hindbad praises Sindbad, receives sequins, is counted among Sindbad's friends,
+    and eats at his table.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: generous host
+  assigned_to:
+  - fig:1
+  basis: Sindbad gives Hindbad money, friendship, and daily hospitality.
+  evidence_refs:
+  - ev:5
+- id: role:8
+  label: inviting householder
+  assigned_to:
+  - fig:7
+  basis: The tailor proposes taking the hunchback home to divert his wife.
+  evidence_refs:
+  - ev:6
+- id: role:9
+  label: intended audience for entertainment
+  assigned_to:
+  - fig:8
+  basis: The tailor wants the hunchback to entertain his wife.
+  evidence_refs:
+  - ev:6
+- id: role:10
+  label: musical entertainer
+  assigned_to:
+  - fig:9
+  basis: The hunchback sings, plays a tambourine, and is invited for his amusing antics.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: Ivory Hill
+  literal_form: hill associated with elephant tusks
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: ivory tusks
+  literal_form: elephant tusks and ivory stores
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: monsoon and ivory ships
+  literal_form: seasonal monsoon and ships carrying ivory trade
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: caravan route
+  literal_form: pack animals and merchant caravan to Bagdad
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: serpents as recalled peril
+  literal_form: serpents mentioned among previous dangers
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: letters of gold
+  literal_form: stories written in letters of gold and stored among treasures
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:7
+  label: hundred sequins
+  literal_form: money given by Sindbad to Hindbad
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:8
+  label: tambourine
+  literal_form: musical instrument played by the hunchback
+  associated_figures:
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Return from the Ivory Hill
+  summary: Sindbad returns to his master's house after the elephants leave the road
+    open, and the master questions him about his survival.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Discovery of ivory and manumission
+  summary: Sindbad and his master collect tusks at the Ivory Hill; the master frees
+    Sindbad and promises reward because the discovery will enrich the town without
+    further deaths.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Trade departure and overland return
+  summary: Sindbad waits for the monsoon, sails with ivory and goods, leaves the sea
+    route, sells ivory, buys gifts, and travels by caravan to Bagdad.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Report to the Caliph and golden record
+  summary: Sindbad reports his adventure to the Caliph, who has the stories written
+    in gold and stored among his treasures.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Sindbad rewards Hindbad
+  summary: After ending the seventh voyage, Sindbad receives Hindbad's respectful
+    praise and gives him money, friendship, and daily hospitality.
+  figure_refs:
+  - fig:1
+  - fig:6
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:5
+- id: scene:6
+  label: Opening of the Little Hunchback tale
+  summary: In Kashgar, a tailor hears a little hunchback singing and playing tambourine
+    and invites him home to entertain his wife.
+  figure_refs:
+  - fig:7
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:8
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: return after perilous journey
+  taxonomy_refs:
+  - return
+  basis: Sindbad gains freedom, leaves by ship and caravan, reaches Bagdad, and concludes
+    his seventh and last voyage.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The passage is the conclusion of a larger voyage; only the return phase
+    appears here.
+- id: motif:2
+  label: freedom and reward after useful discovery
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Sindbad reveals access to ivory that enriches the town without further loss
+    of life and receives liberty, goods, and rewards.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The exchange is social and economic; the taxonomy reference is approximate
+    because the passage frames the reward partly through Heaven's protection but not
+    an explicit ritual exchange.
+- id: motif:3
+  label: animal wisdom reveals hidden resource
+  taxonomy_refs:
+  - wisdom
+  basis: The elephants are described as sagacious and are linked to leaving open the
+    way to the Ivory Hill, which supplies tusks.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage reports Sindbad's interpretation of elephant behavior; it
+    does not include direct animal speech.
+- id: motif:4
+  label: royal preservation of wondrous tale
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The Caliph hears the adventure, trusts Sindbad's truthfulness, and orders
+    the stories written in gold and kept among treasures.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage shows royal authorization and preservation, not succession
+    or dynastic legitimation.
+- id: motif:5
+  label: generous redistribution of wealth
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Sindbad gives Hindbad money, friendship, and daily meals after Hindbad acknowledges
+    his sufferings and generosity.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage presents patronage and hospitality; any sacred dimension is
+    not explicit.
+- id: motif:6
+  label: invited entertainer enters household
+  taxonomy_refs: []
+  basis: The tailor invites the singing, tambourine-playing hunchback home to amuse
+    his wife.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: This is only the opening setup of the next tale; later consequences are
+    outside the supplied passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 4687-4696
+  quote_or_summary: Sindbad returns toward the city, sees no elephants, infers they
+    have left the way to the Ivory Hill open, reaches his master's house, and is asked
+    how he escaped after the master found the uprooted tree and arrows.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 4698-4719
+  quote_or_summary: Sindbad and his master visit the Ivory Hill and load tusks; the
+    master says wild elephants have killed many slaves, calls Sindbad protected by
+    Heaven, grants him liberty, and promises fortune; Sindbad asks to return home.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 4721-4743
+  quote_or_summary: Sindbad waits for the monsoon, gathers ivory, boards an ivory
+    ship with provisions and curiosities, leaves at the first port, sells ivory for
+    gold, buys presents, joins a caravan, reflects on avoided sea perils including
+    tempests, pirates, and serpents, and reaches Bagdad.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 4743-4754
+  quote_or_summary: Sindbad reports to the Caliph, who marvels at the elephant adventure,
+    trusts Sindbad's truthfulness, orders the stories written by scribes in letters
+    of gold, and stores them among his treasures.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 4756-4771
+  quote_or_summary: Sindbad ends his seventh and last voyage, asks Hindbad to judge
+    his sufferings, receives Hindbad's respectful praise, gives him one hundred sequins,
+    counts him among his friends, and provides daily meals at his table.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 4773-4778
+  quote_or_summary: 'The next tale begins in Kashgar: a loving tailor and wife live
+    there; a little hunchback sings and plays tambourine at the shop entrance; the
+    tailor invites him home to entertain his wife, and the hunchback agrees.'
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labels are candidate-level and
+    constrained to the supplied passage; no comparison claims were added because the
+    passage itself does not explicitly support cross-text comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-29'
+notes: |-
+  The supplied range includes the close of Sindbad's seventh voyage and the opening lines of a separate tale, so scenes and motifs are separated accordingly.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamicate-folklore-arabian-nights-lang-gutenberg__l4687-l4778
+  passage_sha256=d71d057a34fb83bdab419afc7dbc64fbe247b6800a958f529a95c33bf36bbb5b

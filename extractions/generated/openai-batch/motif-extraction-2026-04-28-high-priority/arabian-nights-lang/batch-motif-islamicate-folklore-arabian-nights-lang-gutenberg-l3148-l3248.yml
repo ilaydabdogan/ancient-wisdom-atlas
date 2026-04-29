@@ -1,0 +1,500 @@
+---
+record_id: batch.motif.islamicate-folklore-arabian-nights-lang-gutenberg-l3148-l3248
+source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+passage_locator:
+  label: The Arabian Nights Entertainments; lines 3148-3248
+  start: '3148'
+  end: '3248'
+  translation: The Arabian Nights Entertainments
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: "“The Golden Door, alone, forbear to open, as you value your own peace, and
+    the happiness of your life.”"
+  summary: After escaping the roc, the narrator finds a magnificent castle with a
+    hundred doors and is welcomed by forty princesses. Before leaving for forty days,
+    they give him keys but forbid him to open the Golden Door. He explores the other
+    rooms, then opens the forbidden door, enters a perfumed vaulted chamber, finds
+    a black horse with golden tack, mounts it, and is carried into the sky before
+    being thrown down and losing his right eye.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The narrator cuts the threads binding him after reaching the ground, and the
+    roc flies away when it sees him in his proper clothes.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The castle has a square court with one hundred doors, ninety-nine of rare
+    woods and one of gold.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Forty beautifully dressed young ladies welcome the narrator, seat him above
+    themselves, wash his hands with scented water, provide clothes, food, wine, music,
+    dancing, and a prepared room.
+  category: action
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:4
+  text: The ladies say they are princesses, each a king’s daughter, and that secret
+    duties call them away for forty days at the end of every year.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:5
+  text: The princesses leave the narrator their keys and forbid him to open the Golden
+    Door, warning that opening it will mean farewell forever.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:6
+  text: During their absence, the narrator opens many doors and finds orchards, flower
+    courts, an aviary, and a treasury.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:7
+  text: After thirty-nine days, the narrator stands before the Golden Door, reasons
+    that unlocking it need not mean entering, and turns the key.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:8
+  text: A pleasant smell from beyond the door overcomes the narrator and he faints
+    across the threshold.
+  category: action
+  evidence_refs:
+  - ev:9
+- id: obs:9
+  text: The forbidden room is large and vaulted, lit by tapers, scented with aloes
+    and ambergris, and contains gold and silver lamps.
+  category: setting
+  evidence_refs:
+  - ev:10
+- id: obs:10
+  text: A great black horse stands in the room, with a saddle and bridle of massive
+    gold; its trough contains barley and sesame on one side and rose water on the
+    other.
+  category: object
+  evidence_refs:
+  - ev:11
+- id: obs:11
+  text: When struck lightly, the horse spreads previously unnoticed wings, flies into
+    the sky with the narrator, then returns to earth, throws him from the saddle,
+    and knocks out his right eye with its tail.
+  category: action
+  evidence_refs:
+  - ev:12
+figures:
+- id: fig:1
+  name_or_label: Narrator / prince
+  description: The first-person speaker, addressed by the ladies as “Prince,” who
+    arrives at the castle, receives hospitality and keys, opens the Golden Door, mounts
+    the black horse, and loses his right eye.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:8
+  - ev:12
+- id: fig:2
+  name_or_label: Roc
+  description: A great bird from which the narrator escapes after cutting his bindings;
+    it flies away when alarmed by his appearance.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Forty princesses
+  description: Forty young ladies, each a king’s daughter, who live together in the
+    castle, welcome and host the narrator, then depart for forty days on secret duties
+    after giving him keys and a warning.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: Great black winged horse
+  description: A handsome black horse in the forbidden chamber, equipped with golden
+    saddle and bridle, that reveals wings after being struck and carries the narrator
+    into the sky before throwing and injuring him.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:11
+  - ev:12
+roles:
+- id: role:1
+  label: Guest and recipient of hospitality
+  assigned_to:
+  - fig:1
+  basis: The narrator is welcomed, seated, washed, clothed, fed, entertained, and
+    given a room.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:2
+  label: Keeper and violator of a prohibition
+  assigned_to:
+  - fig:1
+  basis: He receives keys with an explicit command not to open the Golden Door, then
+    later unlocks it and enters.
+  evidence_refs:
+  - ev:6
+  - ev:8
+  - ev:9
+  - ev:10
+- id: role:3
+  label: Departing bird that had carried or bound the narrator
+  assigned_to:
+  - fig:2
+  basis: The narrator cuts threads that bound him and the roc flies away when alarmed.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: Princess hosts
+  assigned_to:
+  - fig:3
+  basis: They welcome the narrator, provide hospitality, and identify themselves as
+    princesses.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:5
+  label: Givers of keys and warning
+  assigned_to:
+  - fig:3
+  basis: They leave their keys and forbid the narrator to open the Golden Door.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: Winged carrier and injurer
+  assigned_to:
+  - fig:4
+  basis: The horse flies into the sky with the narrator, returns to a terrace, throws
+    him down, and knocks out his right eye.
+  evidence_refs:
+  - ev:12
+symbols:
+- id: sym:1
+  label: Golden Door
+  literal_form: A single golden door among one hundred castle doors, explicitly forbidden
+    to the narrator.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:6
+  - ev:8
+- id: sym:2
+  label: Keys
+  literal_form: Keys left by the princesses so the narrator may use the castle’s rooms
+    during their absence.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:3
+  label: Castle of one hundred doors
+  literal_form: A glorious castle court opening onto one hundred doors, with gardens,
+    storerooms, orchards, flower courts, an aviary, a treasury, and the Golden Door.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: sym:4
+  label: Perfumed forbidden chamber
+  literal_form: A large vaulted room beyond the Golden Door, lit by tapers, scented
+    with aloes and ambergris, and filled with rich objects.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+  - ev:10
+  - ev:11
+- id: sym:5
+  label: Black winged horse with golden tack
+  literal_form: A great black horse with massive gold saddle and bridle and hidden
+    wings.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:11
+  - ev:12
+scenes:
+- id: scene:1
+  label: Escape from the roc and search for the castle
+  summary: The narrator reaches the ground, cuts his bindings, alarms the roc into
+    flight, and sets out to find the castle.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Welcome in the marvelous castle
+  summary: The narrator finds the castle of one hundred doors and is welcomed by forty
+    ladies who provide elaborate hospitality and entertainment.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Departure of the princesses and the prohibition
+  summary: The princesses explain their yearly forty-day absence, leave the narrator
+    their keys, and forbid him to open the Golden Door.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Exploration of the permitted rooms
+  summary: The narrator opens many doors during the princesses’ absence and sees orchards,
+    flowers, birds, and precious stones.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:7
+- id: scene:5
+  label: Opening the Golden Door
+  summary: Near the end of the forty days, the narrator unlocks the forbidden door,
+    is overcome by perfume, recovers, and enters the chamber.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+- id: scene:6
+  label: Flight and injury by the winged horse
+  summary: The narrator finds the black horse, leads it out, mounts it, strikes it
+    lightly, and is carried into the sky before being thrown down and blinded in one
+    eye.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:11
+  - ev:12
+candidate_motifs:
+- id: motif:1
+  label: Forbidden door or chamber opened despite warning
+  taxonomy_refs:
+  - forbidden_knowledge
+  basis: The princesses explicitly forbid the Golden Door and warn of permanent separation;
+    the narrator nevertheless unlocks it and enters the room.
+  evidence_refs:
+  - ev:6
+  - ev:8
+  - ev:9
+  - ev:10
+  confidence: high
+  cautions: The passage frames the act as disobedience and curiosity, but does not
+    explicitly describe the contents as knowledge in doctrinal terms.
+- id: motif:2
+  label: Marvelous many-roomed castle with hidden wonders
+  taxonomy_refs:
+  - mystical_quest
+  basis: The narrator wanders into a glorious castle of one hundred doors, each opening
+    onto gardens, storehouses, orchards, an aviary, a treasury, or the forbidden chamber.
+  evidence_refs:
+  - ev:2
+  - ev:7
+  - ev:10
+  confidence: medium
+  cautions: The passage presents a wondrous setting rather than an explicitly spiritual
+    quest.
+- id: motif:3
+  label: Ascent on a winged animal followed by violent return
+  taxonomy_refs:
+  - ascent
+  basis: The black horse spreads hidden wings and flies straight into the sky with
+    the narrator, then returns to earth and throws him down.
+  evidence_refs:
+  - ev:12
+  confidence: high
+  cautions: The ascent is involuntary after the horse is struck and ends as punishment
+    or injury; the passage does not state a celestial destination.
+- id: motif:4
+  label: Temporary absence of supernatural or royal women with a test of restraint
+  taxonomy_refs:
+  - initiation
+  basis: The forty princesses depart for forty days, leave the narrator keys, and
+    impose a single restriction that he fails to keep.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:8
+  confidence: medium
+  cautions: The passage does not explicitly call the episode an initiation; the label
+    is based on the test-like structure.
+comparison_claims:
+- id: claim:1
+  claim: 'The episode fits a forbidden-chamber pattern: a guest receives access to
+    many marvels but is warned not to open one door and suffers consequences after
+    opening it.'
+  claim_level: same_motif
+  target: forbidden door / forbidden chamber motif pattern
+  evidence_refs:
+  - ev:2
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:12
+  counter_evidence_refs: []
+  confidence: high
+  limitations: No external parallel or historical relationship is established by the
+    passage alone.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3148-3152
+  quote_or_summary: The narrator reaches the ground, cuts the threads binding him,
+    alarms the roc, and sets out to seek the castle.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summary provided.
+- id: ev:2
+  type: summary
+  locator: lines 3154-3158
+  quote_or_summary: 'The castle has a square court with one hundred doors: ninety-nine
+    of rare woods and one of gold, opening toward gardens or storehouses.'
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summary provided.
+- id: ev:3
+  type: summary
+  locator: lines 3160-3170
+  quote_or_summary: Forty magnificently dressed young ladies welcome the narrator,
+    seat him above themselves, bring garments, wash his hands with scented water,
+    prepare refreshments, and ask for his story.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summary provided.
+- id: ev:4
+  type: summary
+  locator: lines 3172-3182
+  quote_or_summary: At night the ladies light the castle with many tapers, share supper,
+    sing and dance, and later conduct the narrator to his prepared room.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summary provided.
+- id: ev:5
+  type: summary
+  locator: lines 3184-3199
+  quote_or_summary: After thirty-nine days, the ladies weep and say they must leave;
+    one explains that they are princesses, each a king’s daughter, and must go away
+    for forty days each year because of secret duties.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summary provided.
+- id: ev:6
+  type: quote
+  locator: lines 3199-3204
+  quote_or_summary: 'They will leave their keys, but ask him: “The Golden Door, alone,
+    forbear to open,” warning that if it is unlocked they must bid him farewell forever.'
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; short quotation from public domain text.
+- id: ev:7
+  type: summary
+  locator: lines 3208-3217
+  quote_or_summary: The narrator opens two or three new doors each day and sees orchards
+    with enormous fruit, flower courts, an aviary of singing birds, and a treasury
+    of precious stones.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summary provided.
+- id: ev:8
+  type: summary
+  locator: lines 3219-3227
+  quote_or_summary: After thirty-nine days, with only the Golden Door unexplored,
+    the narrator gazes at it and reasons that he may unlock it without entering.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summary provided.
+- id: ev:9
+  type: summary
+  locator: lines 3228-3231
+  quote_or_summary: When the narrator turns the key, a pleasant smell rushes out,
+    overcomes him, and he faints across the threshold.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summary provided.
+- id: ev:10
+  type: summary
+  locator: lines 3231-3236
+  quote_or_summary: After recovering, the narrator enters a large vaulted room lit
+    by tapers, scented with aloes and ambergris, with gold candlesticks and gold and
+    silver lamps.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summary provided.
+- id: ev:11
+  type: summary
+  locator: lines 3238-3243
+  quote_or_summary: The narrator notices a great black horse, handsome and well-shaped,
+    with massive gold saddle and bridle; its trough contains barley and sesame on
+    one side and rose water on the other.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summary provided.
+- id: ev:12
+  type: summary
+  locator: lines 3243-3248
+  quote_or_summary: The narrator mounts the horse and lightly strikes it; the horse
+    spreads hidden wings, flies high into the sky, returns to earth, throws him onto
+    a castle terrace, and knocks out his right eye with its tail.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summary provided.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is well supported by the supplied passage. Motif labels
+    are cautious and based only on the available taxonomy and the passage’s internal
+    sequence.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-29'
+notes: |-
+  No external parallels or historical-contact claims were added; comparison is limited to a generic forbidden-chamber pattern supported by the passage.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamicate-folklore-arabian-nights-lang-gutenberg__l3148-l3248
+  passage_sha256=7f50f4509533e8df126eb93e265bec8e9e2704c1b069e122df5a266e18347bbc

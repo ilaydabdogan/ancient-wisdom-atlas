@@ -1,0 +1,314 @@
+---
+record_id: batch.motif.sufi-mystics-of-islam-nicholson-gutenberg-l4242-l4635
+source_text_path: texts/public-domain/sufi/project-gutenberg/mystics-of-islam-nicholson.md
+passage_locator:
+  label: CHAPTER VI / THE UNITIVE STATE / BIBLIOGRAPHY / INDEX; lines 4242-4635
+  start: '4242'
+  end: '4635'
+  translation: The Mystics of Islam
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is an index listing Sufi persons, technical terms, practices,
+    doctrines, places, book titles, and cross-references. It includes entries related
+    to annihilation and persistence, deification and union, mystical journeys, divine
+    love, gnosis, illumination, the heart, the Kaʿba, Heaven and Hell, and comparative
+    religious traditions such as Buddhism, Christianity, and Gnosticism.
+  language: English with Arabic and Persian technical terms
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage identifies itself as an index and states that book titles and
+    Arabic and Persian technical terms are printed in italics.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The index lists technical terms associated with annihilation, persistence,
+    absence, and ecstasy, including fanā, fanā al-fanā, baqā, fānī, ghaybat, hāl,
+    jadhbat, and ecstasy.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The index lists terms and topics associated with deification and union, including
+    Ana ’l-Haqq, Deification, hulūl, Incarnation, and ittihād.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The index includes an entry for mystical journeys and directs the reader to
+    Path.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The index includes entries for divine love, Laylā, Majnūn, and related poetic
+    or devotional figures.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The index includes entries for gnosis, illumination, knowledge of God, and
+    the heart as a spiritual organ.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The index includes entries for the Kaʿba and for Heaven and Hell described
+    as subjective.
+  category: setting
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The index lists comparative religious and philosophical traditions or figures,
+    including Buddhism, Nirvāṇa, Christianity, Gnosticism, Buddha, Jesus or Christ,
+    Dionysius the Areopagite, and John Scotus Erigena.
+  category: relationship
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: Several named Sufi or Islamic figures are indexed with page references, including
+    Hallāj, Bāyazīd of Bistām, Jalāluddīn Rūmī, Khadir or Khizr, and ʿAlī the Caliph.
+  category: other
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Hallāj
+  description: Indexed named figure with page references; also cross-referenced under
+    Husayn ibn Mansūr.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: fig:2
+  name_or_label: Bāyazīd of Bistām
+  description: Indexed named figure with multiple page references.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:9
+- id: fig:3
+  name_or_label: Jalāluddīn Rūmī
+  description: Indexed named figure with multiple page references.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:9
+- id: fig:4
+  name_or_label: Khadir / Khizr
+  description: Indexed named figure with a cross-reference from Khizr to Khadir.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:9
+- id: fig:5
+  name_or_label: ʿAlī
+  description: Indexed as ʿAlī, the Caliph, with page references.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:9
+roles:
+- id: role:1
+  label: indexed named figure
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  basis: The passage lists these names as index entries with page references.
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: role:2
+  label: Caliph
+  assigned_to:
+  - fig:5
+  basis: The index entry explicitly identifies ʿAlī as the Caliph.
+  evidence_refs:
+  - ev:9
+symbols:
+- id: sym:1
+  label: Heart as spiritual organ
+  literal_form: Heart
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:2
+  label: Kaʿba
+  literal_form: Kaʿba
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:3
+  label: Heaven and Hell
+  literal_form: Heaven and Hell
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:4
+  label: Path of mystical journeys
+  literal_form: Journeys, mystical; Path
+  associated_figures: []
+  taxonomy_refs:
+  - mystical_quest
+  evidence_refs:
+  - ev:4
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: Annihilation and union
+  taxonomy_refs:
+  - annihilation_union
+  basis: The index includes repeated entries for fanā, fanā al-fanā, baqā, fānī, Ana
+    ’l-Haqq, Deification, hulūl, Incarnation, and ittihād.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage is an index; it confirms topic presence and page references
+    but does not itself explain the doctrine.
+- id: motif:2
+  label: Mystical quest or path
+  taxonomy_refs:
+  - mystical_quest
+  basis: The index includes an entry for mystical journeys and directs the reader
+    to Path; it also indexes spiritual directors and dervish orders.
+  evidence_refs:
+  - ev:4
+  - ev:11
+  confidence: medium
+  cautions: The index does not narrate a journey or describe stages in this excerpt.
+- id: motif:3
+  label: Divine love and beloved imagery
+  taxonomy_refs:
+  - divine_beloved
+  basis: The index includes a substantial entry for divine love and also lists Laylā
+    and Majnūn, figures often connected in the book’s index to love imagery.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage does not provide the actual love imagery or a narrative of
+    the beloved; it only indexes relevant entries.
+- id: motif:4
+  label: Gnosis, illumination, and inner knowledge
+  taxonomy_refs:
+  - wisdom
+  basis: The index includes gnosis, illumination, knowledge of God, mystical knowledge
+    opposed to religious knowledge, and the heart as a spiritual organ.
+  evidence_refs:
+  - ev:6
+  - ev:12
+  confidence: medium
+  cautions: The excerpt is an index and does not present a mythic or doctrinal argument
+    beyond topic listings.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 4242-4246
+  quote_or_summary: "“INDEX” and the note that titles of books and Arabic and Persian
+    technical terms are printed in italics."
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mystics-of-islam-nicholson.md
+  rights_note: Public domain source; short quotation used for identification.
+- id: ev:2
+  type: summary
+  locator: lines 4324-4331, 4381-4384
+  quote_or_summary: Index entries include baqā, Ecstasy, fanā, fanā al-fanā, fānī,
+    ghaybat, hāl, and jadhbat with page references.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mystics-of-islam-nicholson.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 4277, 4314, 4396-4399, 4430-4433, 4450
+  quote_or_summary: Index entries include Ana ’l-Haqq, Deification, hulūl, Incarnation,
+    and ittihād with page references.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mystics-of-islam-nicholson.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 4468-4469
+  quote_or_summary: "“Journeys, mystical, 163, 164. See Path, the.”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mystics-of-islam-nicholson.md
+  rights_note: Public domain source; short quotation.
+- id: ev:5
+  type: summary
+  locator: lines 4504-4509, 4520, 4524
+  quote_or_summary: Index entries include Love, divine; Laylā; Lubnā; and Majnūn with
+    page references.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mystics-of-islam-nicholson.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 4370-4371, 4397-4398, 4427-4428, 4496-4497
+  quote_or_summary: Index entries include Gnosis, Illumination, Heart as a spiritual
+    organ, and Knowledge of God with cross-reference to Gnosis.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mystics-of-islam-nicholson.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 4400, 4471-4472
+  quote_or_summary: Index entries include Heaven and Hell, subjective, and Kaʿba with
+    page references.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mystics-of-islam-nicholson.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 4298-4306, 4336-4337, 4353-4355, 4436-4437
+  quote_or_summary: Index entries include Buddha, Buddhism with a cross-reference
+    to Nirvāṇa, Christ or Christianity, Dionysius the Areopagite, Gnosticism, Jesus,
+    and John Scotus Erigena.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mystics-of-islam-nicholson.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 4272, 4293-4294, 4326-4327, 4392, 4464-4466, 4478-4482
+  quote_or_summary: Index entries include ʿAlī the Caliph, Bāyazīd of Bistām, Hallāj,
+    Jalāluddīn Rūmī, and Khadir / Khizr with page references.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mystics-of-islam-nicholson.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: lines 4404-4405
+  quote_or_summary: The index lists Husayn ibn Mansūr and directs the reader to Hallāj.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mystics-of-islam-nicholson.md
+  rights_note: Public domain source; summarized.
+- id: ev:11
+  type: summary
+  locator: lines 4319-4321, 4348-4349
+  quote_or_summary: Index entries include Dervish Orders, dervishes, and spiritual
+    directors with page references.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mystics-of-islam-nicholson.md
+  rights_note: Public domain source; summarized.
+- id: ev:12
+  type: summary
+  locator: lines 4458-4460, 4495-4498
+  quote_or_summary: Index entries distinguish religious knowledge from mystical knowledge
+    and refer knowledge of God to gnosis.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mystics-of-islam-nicholson.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is an index rather than a narrative or doctrinal passage. Topic
+    presence is clear, but motif interpretation is limited to indexed terms and cross-references.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-29'
+notes: |-
+  No comparison claims were extracted because the index lists comparative traditions but does not itself state a motif-level comparison or historical relationship.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-mystics-of-islam-nicholson-gutenberg__l4242-l4635
+  passage_sha256=ce765290dd6dbe33b451a18bbc8165c9d3f97ddb1436469f088564ef23b4d917

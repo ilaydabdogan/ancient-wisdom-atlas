@@ -1,0 +1,598 @@
+---
+record_id: batch.motif.islamic-koran-rodwell-gutenberg-l10353-l10500
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+passage_locator:
+  label: PUBLIC SERVICES, / AND EMINENT LITERARY ATTAINMENTS, / THE TRANSLATOR. /
+    PREFACE; lines 10353-10500
+  start: '10353'
+  end: '10500'
+  translation: The Koran (Al-Qur'an), Rodwell translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage closes one sura with instructions about invoking God by excellent
+    names, moderation in prayer volume, and proclaiming God's greatness and uniqueness.
+    Notes discuss interpretations and comparisons including the night journey, seven
+    heavens, Zakkoum, Talmudic parallels, and Gabriel. The next sura opens with the
+    Koran as guidance, warnings about unbelief and the afterlife, and the beginning
+    of the Moses fire episode, where Moses perceives fire, approaches it, hears a
+    divine call, and is told to throw down his staff, which moves like a serpent.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The addressee is instructed to call upon God either as Allah or as the God
+    of Mercy, Arrahman.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage instructs that prayer should be neither too loud nor too low,
+    but should follow a middle way.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage states that God has not begotten a son, has no partner in the
+    Kingdom, and has no protector due to weakness.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A note describes a night-journey to Jerusalem and through the seven heavens
+    to the throne of God, with Borak and Gabriel in some traditions; other traditions
+    treat it as a vision or dream.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A note identifies the tree as Zakkoum and associates bitter food with punishments
+    of Hell in rabbinic teaching.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The opening of Sura XXVII identifies the verses as signs of the Koran and
+    the lucid Book, giving guidance and glad tidings to believers.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Those who do not believe in the life to come are described as having their
+    deeds made fair-seeming and as being bewildered.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The passage says that chastisement awaits unbelievers and that they will suffer
+    greatest loss in the next life.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Moses tells his family that he has perceived a fire and will bring tidings
+    from it or a blazing brand so they may warm themselves.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: When Moses comes to the fire, he is called to with a blessing on the one in
+    the fire and the one about it, followed by divine self-identification as God,
+    the Mighty, the Wise.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:11
+  text: Moses is commanded to throw down his staff; when it moves as though it were
+    a serpent, he retreats backward and does not return.
+  category: sequence
+  evidence_refs:
+  - ev:9
+- id: obs:12
+  text: Moses is told not to fear because the Sent Ones do not fear in God's presence.
+  category: speech
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: God / Allah / Arrahman
+  description: The deity invoked by excellent names, described as without son, partner,
+    or protector from weakness, and self-identified to Moses as God, the Mighty, the
+    Wise.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:8
+- id: fig:2
+  name_or_label: Moses
+  description: A figure who perceives a fire, speaks to his family, approaches the
+    fire, hears the divine call, and throws down his staff.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+- id: fig:3
+  name_or_label: Moses' family
+  description: The group addressed by Moses when he says he has perceived a fire and
+    will bring tidings or a blazing brand.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:7
+- id: fig:4
+  name_or_label: Borak
+  description: In a note, Borak is named as the being on whose back the night-journey
+    through the heavens is made in some traditions.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Gabriel
+  description: In a note, Gabriel accompanies the night-journey in some traditions;
+    another note says the word spirit is probably to be understood as the Angel Gabriel.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+  - ev:10
+- id: fig:6
+  name_or_label: Believers
+  description: Those who observe prayer, pay stated alms, and believe firmly in the
+    life to come.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: Unbelievers in the life to come
+  description: Those whose deeds are made fair-seeming, who are bewildered, and whom
+    chastisement and greatest loss await.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: deity invoked by multiple names
+  assigned_to:
+  - fig:1
+  basis: The passage instructs calling upon God as Allah or Arrahman and says he has
+    most excellent names.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: divine speaker to Moses
+  assigned_to:
+  - fig:1
+  basis: At the fire, the voice addresses Moses and says, 'I am God, the Mighty, the
+    Wise.'
+  evidence_refs:
+  - ev:8
+- id: role:3
+  label: recipient of divine call
+  assigned_to:
+  - fig:2
+  basis: Moses comes to the fire and is directly addressed by the divine voice.
+  evidence_refs:
+  - ev:8
+- id: role:4
+  label: staff bearer
+  assigned_to:
+  - fig:2
+  basis: Moses is commanded to throw down his staff, which then moves like a serpent.
+  evidence_refs:
+  - ev:9
+- id: role:5
+  label: journey companions or household addressed by Moses
+  assigned_to:
+  - fig:3
+  basis: Moses speaks to his family before approaching the fire.
+  evidence_refs:
+  - ev:7
+- id: role:6
+  label: heavenly journey mount in cited tradition
+  assigned_to:
+  - fig:4
+  basis: The note says the journey is made on the back of Borak according to some
+    traditions.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: angelic companion in cited tradition
+  assigned_to:
+  - fig:5
+  basis: The notes identify Gabriel as accompanying the journey in some traditions
+    and as a possible meaning of 'spirit.'
+  evidence_refs:
+  - ev:3
+  - ev:10
+- id: role:8
+  label: righteous recipients of guidance
+  assigned_to:
+  - fig:6
+  basis: Believers who pray, give alms, and believe in the life to come receive guidance
+    and glad tidings.
+  evidence_refs:
+  - ev:5
+- id: role:9
+  label: warned recipients of chastisement
+  assigned_to:
+  - fig:7
+  basis: Unbelievers in the life to come are said to await chastisement and greatest
+    loss.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: excellent divine names
+  literal_form: names Allah and Arrahman / God of Mercy
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: middle way in prayer
+  literal_form: prayer neither loud nor too low
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: seven heavens
+  literal_form: seven heavens traversed in the night-journey note
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: throne of God
+  literal_form: throne of God reached in the night-journey note
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: Zakkoum tree
+  literal_form: tree identified as Zakkoum in a note
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: fire perceived by Moses
+  literal_form: fire seen by Moses and approached for tidings or a blazing brand
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: sym:7
+  label: blazing brand
+  literal_form: brand Moses says he may bring so the family may warm themselves
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:7
+- id: sym:8
+  label: staff moving like a serpent
+  literal_form: Moses' staff, thrown down, moving as though it were a serpent
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Invocation and moderated prayer
+  summary: The passage instructs invocation of God by either Allah or Arrahman and
+    prescribes a middle way in the volume of prayer.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Proclamation of divine uniqueness
+  summary: The passage praises God as without son, partner, or protector due to weakness
+    and commands proclamation of his greatness.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Night-journey tradition in a note
+  summary: A note recounts traditions of a journey to Jerusalem and through the seven
+    heavens to God's throne on Borak, accompanied by Gabriel, while also noting alternative
+    interpretations as vision or dream.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Guidance and warning at the opening of Sura XXVII
+  summary: The Koran is presented as guidance and glad tidings for believers, while
+    unbelievers in the life to come are warned of chastisement and greatest loss.
+  figure_refs:
+  - fig:6
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Moses perceives the fire
+  summary: Moses tells his family he has perceived a fire and will bring either tidings
+    from it or a blazing brand for warmth.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:7
+- id: scene:6
+  label: Divine call at the fire and serpent-like staff
+  summary: At the fire Moses is addressed by a divine voice, told that the speaker
+    is God, commanded to throw down his staff, and frightened when the staff moves
+    as though it were a serpent.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:6
+  - sym:8
+  evidence_refs:
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: heavenly ascent or night journey
+  taxonomy_refs:
+  - ascent
+  - afterlife_journey_map
+  basis: A note describes a night-journey to Jerusalem and through the seven heavens
+    to the throne of God, with Borak and Gabriel in some traditions.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage presents this chiefly in a translator's note and explicitly
+    reports disagreement over whether it was a literal journey, vision, or dream.
+- id: motif:2
+  label: divine encounter at a fire
+  taxonomy_refs: []
+  basis: Moses perceives a fire, approaches it, and receives a divine call in which
+    God identifies himself.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: No available taxonomy reference exactly matches a divine call from fire,
+    so no taxonomy motif is assigned.
+- id: motif:3
+  label: serpent-like transformation of a staff
+  taxonomy_refs:
+  - serpent
+  - shapeshifter
+  basis: Moses' staff, after being thrown down, moves as though it were a serpent,
+    causing Moses to retreat.
+  evidence_refs:
+  - ev:9
+  confidence: medium
+  cautions: The text says the staff moved as though it were a serpent; it does not
+    explicitly say here that it became a serpent.
+- id: motif:4
+  label: divine judgment in the next life
+  taxonomy_refs:
+  - divine_judgment
+  basis: The opening of Sura XXVII warns that unbelievers in the life to come await
+    chastisement and greatest loss in the next life.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The passage gives a general warning rather than a detailed judgment scene.
+- id: motif:5
+  label: wisdom as source of revelation
+  taxonomy_refs:
+  - wisdom
+  basis: The passage says the Koran has been received from the Wise, the Knowing.
+  evidence_refs:
+  - ev:11
+  confidence: medium
+  cautions: The motif is abstract and based on an attribute of the divine source rather
+    than a narrative episode.
+- id: motif:6
+  label: punitive infernal tree
+  taxonomy_refs:
+  - sacred_tree_axis
+  basis: A note identifies a tree as Zakkoum and links bitter herbs or food with punishments
+    of Hell.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: This is in a note referring to another verse and the available taxonomy
+    has only a broad tree-axis category; the fit is uncertain.
+comparison_claims:
+- id: claim:1
+  claim: The note compares the seven-heavens motif with a Talmudic passage listing
+    seven heavens.
+  claim_level: same_motif
+  target: Talmud, Tractate Chagiga, fol. 9b, as cited in the translator's note
+  evidence_refs:
+  - ev:12
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage reports a translator's comparison and does not establish
+    historical dependence.
+- id: claim:2
+  claim: The note compares the instruction against loud prayer with a Talmudic prohibition
+    of loudness in prayer using Hannah as an example.
+  claim_level: same_function
+  target: Talmud, Tractate Berachoth 31:2, as cited in the translator's note
+  evidence_refs:
+  - ev:13
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is limited to prayer etiquette and is supplied by the
+    translator's note.
+- id: claim:3
+  claim: The note links bitter infernal food with rabbinic teaching about bitter herbs
+    as one of the punishments of Hell.
+  claim_level: same_motif
+  target: Rabbinic and Talmudic teaching as cited by the translator's note
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The comparison concerns a note on Zakkoum and rabbinic punishment imagery,
+    not a fully narrated parallel in the passage.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 10353-10357
+  quote_or_summary: "“Call upon God (Allah), or call upon the God of Mercy (Arrahman)
+    ... He hath most excellent names” and prayer should be neither loud nor too low,
+    but follow “a middle way.”"
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain Rodwell translation via Project Gutenberg; short excerpt
+    used.
+- id: ev:2
+  type: quote
+  locator: lines 10358-10361
+  quote_or_summary: "“Praise be to God who hath not begotten a son, who hath no partner
+    in the Kingdom, nor any protector on account of weakness.”"
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain Rodwell translation via Project Gutenberg; short excerpt
+    used.
+- id: ev:3
+  type: summary
+  locator: note 3 within lines 10353-10500
+  quote_or_summary: The note describes Jerusalem and a journey through the seven heavens
+    to God's throne on Borak with Gabriel in some traditions, while other early traditions
+    regard it as vision or dream.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: note 20 within lines 10353-10500
+  quote_or_summary: The note identifies the tree as Zakkoum and says rabbinic teaching
+    treats bitter herbs or food as a punishment of Hell.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: Sura XXVII opening within lines 10353-10500
+  quote_or_summary: The verses are called signs of the Koran and lucid Book, offering
+    guidance and glad tidings to believers who pray, give alms, and believe in the
+    life to come.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: Sura XXVII opening within lines 10353-10500
+  quote_or_summary: Those who do not believe in the life to come have their own deeds
+    made fair-seeming, are bewildered, and await chastisement and greatest loss in
+    the next life.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: quote
+  locator: Sura XXVII, Moses fire episode within lines 10353-10500
+  quote_or_summary: Moses says to his family, “I have perceived a fire” and will bring
+    tidings from it or a blazing brand so they may warm themselves.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain Rodwell translation via Project Gutenberg; short excerpt
+    used.
+- id: ev:8
+  type: quote
+  locator: Sura XXVII, Moses fire episode within lines 10353-10500
+  quote_or_summary: 'At the fire Moses is called to: “O Moses! verily, I am God, the
+    Mighty, the Wise!”'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain Rodwell translation via Project Gutenberg; short excerpt
+    used.
+- id: ev:9
+  type: summary
+  locator: Sura XXVII, Moses staff episode within lines 10353-10500
+  quote_or_summary: Moses is commanded to throw down his staff; when it moves as though
+    it were a serpent, he retreats, and is told not to fear.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: note 27 within lines 10353-10500
+  quote_or_summary: The note says the word spirit is probably to be understood as
+    the Angel Gabriel, though others understand it as the immaterial human soul.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; summarized.
+- id: ev:11
+  type: quote
+  locator: Sura XXVII opening within lines 10353-10500
+  quote_or_summary: "“Thou hast certainly received the Koran from the Wise, the Knowing.”"
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain Rodwell translation via Project Gutenberg; short excerpt
+    used.
+- id: ev:12
+  type: summary
+  locator: note 17 within lines 10353-10500
+  quote_or_summary: The note cites Tractate Chagiga, fol. 9b, for seven heavens, listing
+    named heavens such as veil, firmament, clouds, habitation, abode, fixed seat,
+    and araboth.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; summarized.
+- id: ev:13
+  type: summary
+  locator: note 29 within lines 10353-10500
+  quote_or_summary: The note says Talmud Tractate Berachoth 31:2 forbids loudness
+    in prayer by the example of Hannah.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The main narrative items are clear. Some motif candidates and comparison
+    claims depend on translator notes rather than the sura text itself and therefore
+    require review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-29'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy references were limited to the provided lists.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-rodwell-gutenberg__l10353-l10500
+  passage_sha256=64e87f7118acc3e8832a661ebcb9ec41fa59cb953630d97c128290fbfbfa3af2

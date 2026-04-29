@@ -1,0 +1,483 @@
+---
+record_id: batch.motif.islamicate-folklore-arabian-nights-lang-gutenberg-l1552-l1647
+source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+passage_locator:
+  label: The Arabian Nights Entertainments; lines 1552-1647
+  start: '1552'
+  end: '1647'
+  translation: The Arabian Nights Entertainments
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A porter carries provisions for a lady to a palace inhabited by three beautiful
+    women. Inside, he sees a richly furnished court with a throne and a water basin.
+    The women allow him to dine and later remain overnight, but only on conditions
+    of politeness, secrecy, and asking no questions. Three one-eyed, shaven Calenders
+    then request admittance, and they too are admitted only under a warning not to
+    meddle in matters that do not concern them.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A lady buys fruit, flowers, provisions, scents, and spices while a porter
+    carries the goods.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The porter is brought to a magnificent palace and admitted by a beautiful
+    porteress who is not a slave.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The palace court contains an open-work gallery, a platform, an amber throne
+    on four ebony columns, and a marble basin filled with water from a golden lion's
+    mouth.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Three women are identified as Zobeida, Sadie, and Amina; Zobeida is treated
+    as the eldest.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Sadie and Amina remove and empty the porter's basket, and the porter is paid
+    for its use.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The porter asks to remain and dine with the women, saying a company of women
+    without men is dull.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Zobeida permits the porter to stay only if he behaves politely and keeps secret
+    the women's way of living.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Amina serves food and wine; the porter sings in praise of the wine; the three
+    ladies also sing.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: At sunset Sadie tells the porter to leave, but he asks to remain until morning
+    because of wine and pleasure.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: Zobeida allows the porter to remain overnight only if he promises to ask no
+    questions about anything he may see.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: Three Calenders arrive after nightfall; all are blind in the right eye and
+    have their heads, faces, and eyebrows shaved.
+  category: attribute
+  evidence_refs:
+  - ev:7
+- id: obs:12
+  text: Zobeida permits the Calenders to enter only after they are warned not to make
+    remarks about what does not concern them and are made to read the golden inscription
+    over the door.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:13
+  text: The inscription over the door warns that whoever meddles in affairs that are
+    not his business will hear displeasing truths.
+  category: object
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: The porter
+  description: A male porter carrying the purchased goods who asks to stay for dinner
+    and then overnight.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+- id: fig:2
+  name_or_label: Amina
+  description: The housekeeper who buys provisions, helps remove the basket, serves
+    food and wine, and supports the porter's staying.
+  role_refs:
+  - role:2
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: Sadie / Sadia
+  description: The porteress who opens the palace door, later tells the porter to
+    leave, and opens the door to the Calenders.
+  role_refs:
+  - role:3
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+  - ev:7
+- id: fig:4
+  name_or_label: Zobeida
+  description: The eldest of the three ladies, seated on the throne and making the
+    conditions for guests.
+  role_refs:
+  - role:4
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:8
+- id: fig:5
+  name_or_label: Three Calenders
+  description: Three newly arrived Calenders in Bagdad, each blind in the right eye
+    and clean-shaven on head, face, and eyebrows.
+  role_refs:
+  - role:7
+  - role:8
+  evidence_refs:
+  - ev:7
+  - ev:8
+roles:
+- id: role:1
+  label: porter
+  assigned_to:
+  - fig:1
+  basis: He carries the lady's purchases and is called the porter.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: housekeeper and purchaser
+  assigned_to:
+  - fig:2
+  basis: Amina is identified as the housekeeper and is the lady who bought the food
+    set on the table.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: porteress
+  assigned_to:
+  - fig:3
+  basis: Sadie is identified as the porteress who opens the palace door.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:4
+  label: eldest woman and household authority
+  assigned_to:
+  - fig:4
+  basis: Zobeida is seated on the throne, is judged the eldest, and gives the conditions
+    for admittance or remaining.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:8
+- id: role:5
+  label: conditional guest
+  assigned_to:
+  - fig:1
+  basis: The porter is allowed to stay only under conditions of politeness, secrecy,
+    and asking no questions.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:6
+  label: sisters
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:4
+  basis: The women address each other as sisters and act together in the palace household.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+- id: role:7
+  label: marked strangers seeking shelter
+  assigned_to:
+  - fig:5
+  basis: The Calenders arrive at night in Bagdad and ask for admittance; they share
+    the same distinctive bodily marks.
+  evidence_refs:
+  - ev:7
+- id: role:8
+  label: conditional entrants
+  assigned_to:
+  - fig:5
+  basis: They may be brought in only after being warned not to comment on matters
+    that do not concern them.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: rich palace interior
+  literal_form: Magnificent palace, large court, open-work gallery, platform, amber
+    throne, ebony columns, pearls, and diamonds
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: water basin with golden lion
+  literal_form: Marble basin filled with water from the mouth of a golden lion
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: golden cup of wine
+  literal_form: Wine poured into a golden cup and shared during the meal
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: door inscription
+  literal_form: Gold-lettered inscription warning against meddling in others' affairs
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:5
+  label: one-eyed shaven Calenders
+  literal_form: Three Calenders, each blind in the right eye and with head, face,
+    and eyebrows shaved
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Purchases and arrival at the palace
+  summary: Amina buys many goods while the porter carries them, then brings him to
+    a magnificent palace where Sadie admits them.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Revealing the household interior
+  summary: Inside the palace, the porter sees a decorated court with throne, columns,
+    and a water basin; the three women are identified, with Zobeida as eldest.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Conditional dinner invitation
+  summary: The porter lingers and asks to dine with the women; Zobeida permits it
+    only on conditions of politeness and secrecy.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Wine, song, and evening request
+  summary: The company eats, drinks wine, sings, and recites; at sunset the porter
+    asks to stay overnight, and Zobeida adds the condition that he ask no questions.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Arrival of the three Calenders
+  summary: After nightfall three one-eyed, shaven Calenders seek admittance, and Zobeida
+    agrees only if they are warned not to meddle and read the door inscription.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Question taboo in a secret household
+  taxonomy_refs:
+  - forbidden_knowledge
+  basis: The porter is warned that he must ask no questions about what he may see,
+    and the door inscription generalizes the warning against meddling in others' affairs.
+  evidence_refs:
+  - ev:6
+  - ev:8
+  confidence: medium
+  cautions: The passage states a prohibition on inquiry and disclosure, but does not
+    yet show the taboo being broken or the consequences unfolding.
+- id: motif:2
+  label: Conditional hospitality to strangers
+  taxonomy_refs: []
+  basis: The porter and later the three Calenders are allowed to remain or enter only
+    after accepting behavioral restrictions imposed by Zobeida.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:8
+  confidence: high
+  cautions: This is a social-narrative pattern in the passage; no explicit sacred
+    or ritual hospitality framework is stated.
+- id: motif:3
+  label: Three marked wandering mendicants
+  taxonomy_refs: []
+  basis: Three Calenders arrive together at night, newly come to Bagdad, all sharing
+    blindness in the right eye and complete shaving of head, face, and eyebrows.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: The passage gives their shared marks but not yet their backstories or
+    the meaning of those marks.
+- id: motif:4
+  label: Female-governed hidden household
+  taxonomy_refs: []
+  basis: The palace household is occupied and governed by three women, with Zobeida
+    on a throne and setting rules for male guests.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:8
+  confidence: medium
+  cautions: The passage describes household authority and separateness, but any broader
+    symbolic meaning would require later context.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 1552-1570
+  quote_or_summary: Amina buys fruits, flowers, provisions, scents, and spices while
+    the porter carries them; she brings him to a magnificent palace where a beautiful
+    porteress opens the door.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:2
+  type: summary
+  locator: 1571-1578
+  quote_or_summary: The palace interior includes a large court, open-work gallery,
+    platform, amber throne on four ebony columns, jewels, and a marble basin filled
+    with water from a golden lion's mouth.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:3
+  type: summary
+  locator: 1579-1589
+  quote_or_summary: The porter notices a third woman on the throne; the women are
+    named Zobeida, Sadie, and Amina, and Sadie and Amina relieve the porter of the
+    basket and pay him.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:4
+  type: summary
+  locator: 1589-1605
+  quote_or_summary: The porter explains that he is astonished to see the women by
+    themselves and asks to make a fourth at dinner; Zobeida agrees only if he behaves
+    politely and keeps secret their way of living.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:5
+  type: summary
+  locator: 1606-1615
+  quote_or_summary: Amina brings food and wine in a golden cup; the porter kisses
+    her hand and sings in praise of the wine; the women also sing, and the meal becomes
+    merry.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:6
+  type: summary
+  locator: 1616-1631
+  quote_or_summary: At sunset Sadie tells the porter to go; he asks to stay until
+    morning, and Zobeida permits it only if he promises to ask no questions about
+    anything he may see.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:7
+  type: summary
+  locator: 1632-1640
+  quote_or_summary: During supper a knock comes at the outer door; Sadie reports that
+    three newly arrived Calenders in Bagdad, all blind in the right eye and clean-shaven,
+    ask for admittance.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:8
+  type: quote
+  locator: 1641-1647
+  quote_or_summary: 'The door inscription reads: "Whoso meddles in affairs that are
+    no business of his, will hear truths that will not please him."'
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; short quotation from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal sequence, figures, and conditions are explicit in the supplied
+    passage. Motif labels are candidate-level and should be reviewed against later
+    narrative context.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-29'
+notes: |-
+  The passage uses both 'Sadie' and 'Sadia' for the porteress; the figure label preserves the variant spelling.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamicate-folklore-arabian-nights-lang-gutenberg__l1552-l1647
+  passage_sha256=fb1c51e3012dea0664c41c267de875ff2518ce7d9b0e8b30dde36e1373772dd1

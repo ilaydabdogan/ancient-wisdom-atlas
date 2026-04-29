@@ -1,0 +1,546 @@
+---
+record_id: batch.motif.islamicate-folklore-arabian-nights-lang-gutenberg-l573-l688
+source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+passage_locator:
+  label: The Arabian Nights Entertainments; lines 573-688
+  start: '573'
+  end: '688'
+  translation: The Arabian Nights Entertainments
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A man recounts how his enchanted son, appearing as a calf, was spared from
+    sacrifice, restored to human form by a steward’s magic-knowing daughter using
+    water and words, and how the wife who caused the transformations was changed into
+    a hind. The genius grants part of the merchant’s punishment in exchange for the
+    tale. A second old man then begins a story identifying two black dogs as his brothers
+    and describing their mercantile misfortunes and his aid to them.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A fat calf is brought for sacrifice and behaves as if pleading for its life
+    at the old man’s feet.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The old man refuses to sacrifice the calf despite his wife’s insistence that
+    this particular calf be killed.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The steward reports that his daughter knows magic and recognized the calf
+    as the master’s son, while identifying the previously sacrificed cow as the son’s
+    mother.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The steward’s daughter says the master’s wife caused the mother and son to
+    be changed because she hated them.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The steward’s daughter agrees to restore the son on condition that he marry
+    her and that she be allowed to punish the woman who transformed him.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The young woman uses a vessel of water and words the narrator does not understand,
+    throws the water over the calf, and the calf becomes a young man again.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Before the marriage, the young woman changes the old man’s wife into a hind.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The genius grants the first old man a third part of the merchant’s punishment
+    because of the tale.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: The second old man says the two black dogs are his brothers and begins recounting
+    their inheritance, trade, travel, losses, and his financial aid to them.
+  category: sequence
+  evidence_refs:
+  - ev:8
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: first old man
+  description: Narrator of the calf, hind, wife, and son episode; master and father
+    of the transformed son.
+  role_refs:
+  - role:1
+  - role:7
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: calf / son
+  description: The old man’s son, appearing first as a calf and later restored to
+    the form of a young man.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: wife / hind
+  description: The old man’s wife, accused of causing transformations; later changed
+    into a hind.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+- id: fig:4
+  name_or_label: steward
+  description: Servant who brings and leads away the calf, then reports his daughter’s
+    knowledge to the old man.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:5
+  name_or_label: steward’s daughter
+  description: A young woman who knows magic, identifies the enchantment, restores
+    the son, and changes the wife into a hind.
+  role_refs:
+  - role:6
+  - role:8
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:6
+  name_or_label: son’s mother / cow
+  description: The son’s mother, described as having been changed into a cow and sacrificed
+    the previous day.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: genius
+  description: Listener and judge who grants portions of the merchant’s punishment
+    in response to the old men’s tales.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: fig:8
+  name_or_label: merchant
+  description: Person whose punishment is being apportioned by the genius.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: fig:9
+  name_or_label: second old man
+  description: Man leading two black dogs who begins a tale about himself and his
+    two brothers.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: fig:10
+  name_or_label: eldest brother / black dog
+  description: One of the second old man’s brothers, identified with one of the black
+    dogs; he travels for merchandise and returns destitute.
+  role_refs:
+  - role:11
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: fig:11
+  name_or_label: second brother / black dog
+  description: Another brother of the second old man, associated with the two black
+    dogs; he later travels and returns in the same destitute state.
+  role_refs:
+  - role:11
+  evidence_refs:
+  - ev:8
+  - ev:9
+roles:
+- id: role:1
+  label: father and master
+  assigned_to:
+  - fig:1
+  basis: He calls the restored young man his son and is called master by the steward’s
+    daughter.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:2
+  label: transformed family member
+  assigned_to:
+  - fig:2
+  - fig:6
+  basis: The son is identified as a calf, and his mother is said to have been sacrificed
+    as a cow.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: accused transformer
+  assigned_to:
+  - fig:3
+  basis: The steward’s daughter says the master’s wife wrought the changes.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: punished transformed wife
+  assigned_to:
+  - fig:3
+  basis: The wife is changed into a hind after the son is restored.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: informer and servant
+  assigned_to:
+  - fig:4
+  basis: The steward handles the calf and privately brings news from his daughter
+    to the master.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:6
+  label: magic-knowing rescuer
+  assigned_to:
+  - fig:5
+  basis: She knows magic, identifies the enchantment, and restores the son by water
+    and words.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:7
+  label: storyteller petitioner
+  assigned_to:
+  - fig:1
+  - fig:9
+  basis: The first old man’s tale wins part of the punishment; the second old man
+    asks for the same after telling his story.
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: role:8
+  label: punisher
+  assigned_to:
+  - fig:5
+  basis: She requests permission to punish the woman and later changes her into a
+    hind.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:9
+  label: supernatural judge
+  assigned_to:
+  - fig:7
+  basis: The genius decides whether a tale merits granting part of the merchant’s
+    punishment.
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: role:10
+  label: punishment subject
+  assigned_to:
+  - fig:8
+  basis: The genius grants portions of the merchant’s punishment to the old men.
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: role:11
+  label: brother transformed or associated with black dog form
+  assigned_to:
+  - fig:10
+  - fig:11
+  basis: The second old man identifies the two black dogs as his brothers.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: water used in restoration
+  literal_form: vessel of water thrown over the calf after spoken words
+  associated_figures:
+  - fig:2
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+- id: sym:2
+  label: animal transformation forms
+  literal_form: calf, cow, hind, and black dogs as forms connected to human family
+    members
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:6
+  - fig:10
+  - fig:11
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:8
+- id: sym:3
+  label: sacrifice animal
+  literal_form: calf selected for sacrifice and cow sacrificed the previous day
+  associated_figures:
+  - fig:2
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+scenes:
+- id: scene:1
+  label: The calf pleads and is spared
+  summary: A calf, later identified as the old man’s son, is brought for sacrifice,
+    acts pitiably, and is spared by the old man despite the wife’s objections.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: The enchantment is revealed
+  summary: The steward reports that his magic-knowing daughter recognized the calf
+    as the master’s son and the sacrificed cow as the son’s mother, attributing the
+    changes to the master’s wife.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Restoration by water and words
+  summary: The steward’s daughter sets conditions, uses water and unintelligible words,
+    and restores the calf to young-man form.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: The wife becomes a hind
+  summary: Before the marriage, the steward’s daughter changes the wife into a hind,
+    and the old man keeps her with the family in that form.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: Tale exchanged for mitigation
+  summary: The genius judges the first tale marvelous and grants a third part of the
+    merchant’s punishment; the second old man asks for the same condition before beginning
+    his own tale.
+  figure_refs:
+  - fig:1
+  - fig:7
+  - fig:8
+  - fig:9
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: scene:6
+  label: The second old man’s brothers and losses
+  summary: The second old man identifies the two black dogs as his brothers and describes
+    how his brothers entered trade, traveled, lost their goods, and were helped by
+    him.
+  figure_refs:
+  - fig:9
+  - fig:10
+  - fig:11
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: human changed into animal and restored by magic
+  taxonomy_refs:
+  - shapeshifter
+  basis: The son is a calf, his mother was a cow, the wife becomes a hind, and the
+    second old man identifies black dogs as brothers; the son is restored to human
+    form through magical action.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:8
+  confidence: high
+  cautions: The passage depicts imposed enchantment and restoration rather than voluntary
+    shapeshifting.
+- id: motif:2
+  label: sacrificial animal revealed as kin
+  taxonomy_refs:
+  - sacrifice
+  basis: The calf chosen for sacrifice is identified as the old man’s son, and the
+    cow sacrificed the previous day is identified as the son’s mother.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: The taxonomy ref is broad; the passage’s specific pattern is enchanted
+    kin in sacrificial animal form.
+- id: motif:3
+  label: rescue granted through conditional marriage and punishment
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The magic-knowing daughter restores the son only after the father agrees
+    that the son will marry her and that she may punish the transformer.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The exchange is explicit but not described as sacred; taxonomy fit is
+    functional and should be reviewed.
+- id: motif:4
+  label: story wins mitigation from a supernatural judge
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The old man’s marvelous tale causes the genius to grant a third part of the
+    merchant’s punishment, and the second old man requests a similar grant for his
+    tale.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The passage supports tale-for-mercy exchange, but the taxonomy ref is
+    broad.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 573-579
+  quote_or_summary: A fat calf is brought; it tries to break its cord, comes to the
+    narrator, and throws itself at his feet as if begging for its life.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:2
+  type: summary
+  locator: 583-594
+  quote_or_summary: The narrator tells the steward to spare the calf and bring another;
+    his wife insists that only this calf be sacrificed, but he refuses.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:3
+  type: summary
+  locator: 596-617
+  quote_or_summary: The steward says his daughter knows magic; she recognized the
+    calf as the master’s son, said the son’s mother had been sacrificed as a cow,
+    and attributed the changes to the master’s wife.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:4
+  type: summary
+  locator: 619-630
+  quote_or_summary: 'The steward’s daughter says she can restore the son on two conditions:
+    marriage to him and permission to punish the woman who transformed him; the father
+    agrees but asks that the woman’s life be spared.'
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:5
+  type: summary
+  locator: 632-638
+  quote_or_summary: The young woman takes a vessel of water, speaks words the narrator
+    does not understand, throws the water over the calf, and he immediately becomes
+    a young man again.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:6
+  type: summary
+  locator: 640-647
+  quote_or_summary: The restored son agrees to marry the maiden; before the marriage
+    she changes the narrator’s wife into a hind, which remains with the family.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:7
+  type: summary
+  locator: 649-653
+  quote_or_summary: The narrator says he is searching for his widowed son and traveling
+    with his wife as a hind; the genius calls the tale marvelous and grants a third
+    part of the merchant’s punishment.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:8
+  type: summary
+  locator: 655-668
+  quote_or_summary: The second old man, leading two black dogs, asks the genius to
+    grant him a third part of the merchant’s punishment if his story is more astonishing;
+    he begins by saying the two black dogs are his brothers.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:9
+  type: summary
+  locator: 668-688
+  quote_or_summary: The second old man recounts that three brothers inherited money
+    and became merchants; the eldest traveled, returned destitute, and was given half
+    the narrator’s doubled capital; later the second brother also traveled, returned
+    ruined, and received money to reopen his shop.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summary supplied.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is strongly supported by the passage. Motif taxonomy assignments
+    are broad and require review, especially where the available taxonomy does not
+    include a precise ‘enchanted animal kin’ category.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-29'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly support comparison to another named text, tradition, or motif family beyond the supplied taxonomy labels used as candidate motifs.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamicate-folklore-arabian-nights-lang-gutenberg__l573-l688
+  passage_sha256=05ea4bcdc763d975656b71f2cd5483ab2f881fcad969b21747986143bbb85567

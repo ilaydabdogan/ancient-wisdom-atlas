@@ -1,0 +1,567 @@
+---
+record_id: batch.motif.islamicate-folklore-arabian-nights-lang-gutenberg-l4190-l4274
+source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+passage_locator:
+  label: The Arabian Nights Entertainments; lines 4190-4274
+  start: '4190'
+  end: '4274'
+  translation: The Arabian Nights Entertainments
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The narrator leaves home again in his own ship, lands with merchants on
+    an unknown island, and witnesses the killing and roasting of a young roc found
+    in its egg. The parent rocs retaliate by dropping stones on the ship, destroying
+    it; the narrator survives by clinging to driftwood and reaches another island.
+    There he finds trees, fruit, and a stream, then encounters a seemingly feeble
+    old man who tricks him into carrying him across the river and thereafter grips
+    his neck and forces him to carry him continually. Later the narrator makes wine
+    in a gourd from grape juice and drinks it while still carrying the old man.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The narrator becomes restless with quiet life and sets out again in a ship
+    that he owns and equips.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The ship lands at an unknown, uninhabited island, where the party explores
+    inland.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The party finds a roc's egg that is nearly hatched, with the young bird's
+    beak already piercing the shell.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The accompanying merchants break the shell with hatchets, kill the young roc,
+    light a fire, and roast pieces of the bird despite the narrator's objections.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Two parent rocs return, cry over the remains of their young, and each carries
+    an immense rock over the ship.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: One falling stone misses the ship because the helmsman turns it aside; the
+    second stone strikes and smashes the ship, throwing passengers and crew into the
+    sea.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The narrator survives by rising from the sea, clinging to driftwood, swimming,
+    and being washed ashore on an island.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The new island has steep rocky shores, green turf, trees, flowers, fruit,
+    and a crystal stream.
+  category: setting
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: obs:9
+  text: The narrator sees an old, bent, feeble man sitting by the river bank and initially
+    thinks he may be another shipwrecked mariner.
+  category: attribute
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: The old man communicates by nods and signs rather than by speech, indicating
+    that he wants the narrator to carry him across the river to gather fruit.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: After being carried across the stream, the old man leaps onto the narrator's
+    shoulders, grips his neck with his legs, and nearly chokes him.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:12
+  text: The old man forces the narrator to carry him among the trees while he gathers
+    and eats fruit, and continues holding him even at night.
+  category: action
+  evidence_refs:
+  - ev:9
+- id: obs:13
+  text: The narrator finds dry gourds, hollows one out, fills it with grape juice,
+    leaves it in a tree fork, and later drinks wine from it.
+  category: action
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Narrator
+  description: The first-person speaker who sets out in his own ship, survives the
+    shipwreck, reaches an island, and is forced to carry the old man.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:8
+  - ev:9
+- id: fig:2
+  name_or_label: Merchants of different nations
+  description: Merchants invited by the narrator to sail with him; they kill and roast
+    the young roc.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Young roc
+  description: A young bird inside a nearly hatched roc's egg, killed by the merchants.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Two parent rocs
+  description: Mighty birds that return to the despoiled nest, cry over the young
+    roc's remains, and drop rocks at the ship.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: Captain
+  description: The captain recognizes the approach of the parent birds and urges everyone
+    to board quickly.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Helmsman
+  description: The ship's helmsman turns the vessel aside so that one falling rock
+    misses it.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Old man by the river
+  description: A bent and apparently feeble old man who signals for help crossing
+    the river, then grips the narrator's neck and compels him to carry him.
+  role_refs:
+  - role:8
+  - role:9
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+roles:
+- id: role:1
+  label: restless voyager
+  assigned_to:
+  - fig:1
+  basis: He tires of quiet life and sets out again by sea in his own ship.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: violators of the roc nest
+  assigned_to:
+  - fig:2
+  basis: They break the roc's egg, kill the young bird, and roast pieces of it despite
+    the narrator's attempt to stop them.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: slain offspring
+  assigned_to:
+  - fig:3
+  basis: The young roc is killed in its shell by the merchants.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: shipwreck survivor
+  assigned_to:
+  - fig:1
+  basis: After the ship is destroyed, he rises unhurt, clings to driftwood, swims,
+    and reaches shore.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: avenging parent birds
+  assigned_to:
+  - fig:4
+  basis: They return to the damaged nest, discover the remains of their young, and
+    drop huge stones toward the ship.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:6
+  label: experienced warning figure
+  assigned_to:
+  - fig:5
+  basis: He knows by experience what the shadows mean and urges everyone to board
+    quickly.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: rescuer by navigation
+  assigned_to:
+  - fig:6
+  basis: His quick turn of the ship causes one rock to fall into the sea instead of
+    striking the ship.
+  evidence_refs:
+  - ev:4
+- id: role:8
+  label: deceptive supplicant
+  assigned_to:
+  - fig:7
+  basis: He appears bent and feeble and gestures for help, but then leaps onto the
+    narrator and refuses to get down.
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: role:9
+  label: coercive rider
+  assigned_to:
+  - fig:7
+  basis: He grips the narrator's neck with his legs and forces him to carry him day
+    and night.
+  evidence_refs:
+  - ev:8
+  - ev:9
+symbols:
+- id: sym:1
+  label: roc's egg
+  literal_form: A huge nearly hatched egg containing a young roc whose beak has pierced
+    the shell.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: fire for roasting
+  literal_form: A fire lit on the ground to roast pieces of the young roc.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: immense rocks
+  literal_form: Two huge stones carried in the parent rocs' claws and dropped toward
+    the ship.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: sea and tide
+  literal_form: The sea into which the narrator and others are thrown, and the tide
+    that washes the narrator onto an island.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:5
+  label: garden-like island trees
+  literal_form: Trees laden with flowers and fruit on the island where the narrator
+    is stranded.
+  associated_figures:
+  - fig:1
+  - fig:7
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:6
+  - ev:9
+- id: sym:6
+  label: crystal stream or river
+  literal_form: A stream wandering under the trees, later crossed by the narrator
+    while carrying the old man.
+  associated_figures:
+  - fig:1
+  - fig:7
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: sym:7
+  label: gourd of wine
+  literal_form: A dry gourd hollowed out and filled with grape juice, later producing
+    wine that the narrator drinks.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+scenes:
+- id: scene:1
+  label: Renewed sea departure
+  summary: The narrator, dissatisfied with staying at home, outfits his own ship,
+    invites merchants to join him, and sails until they reach an unknown uninhabited
+    island.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Killing of the young roc
+  summary: On the island, the merchants find a nearly hatched roc's egg, break it
+    open, kill the young bird, and roast it over a fire while the narrator objects.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Vengeance of the parent rocs
+  summary: The parent rocs return to the nest, see the remains of their young, and
+    attack the departing ship by dropping huge stones; the second stone destroys the
+    ship.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Survival and arrival on another island
+  summary: The narrator survives the wreck by clinging to driftwood and swimming until
+    the tide carries him to a steep rocky island with green turf, trees, fruit, and
+    a stream.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: The old man at the river
+  summary: The narrator encounters a seemingly feeble old man by the river, carries
+    him across out of pity, and is seized around the neck and forced to bear him onward.
+  figure_refs:
+  - fig:1
+  - fig:7
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+- id: scene:6
+  label: Gourd wine during captivity
+  summary: While still burdened by the old man, the narrator hollows a gourd, fills
+    it with grape juice, leaves it to ferment, and later drinks the resulting wine.
+  figure_refs:
+  - fig:1
+  - fig:7
+  symbol_refs:
+  - sym:5
+  - sym:7
+  evidence_refs:
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: restless departure for renewed adventure
+  taxonomy_refs:
+  - departure
+  basis: The narrator explicitly tires of quiet life and sets out once more by sea.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage provides the departure episode but not the full narrative
+    arc of return.
+- id: motif:2
+  label: desecrated giant bird nest brings avian vengeance
+  taxonomy_refs: []
+  basis: The merchants kill and roast the young roc, after which the parent rocs return
+    and destroy the ship with stones.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: No supplied taxonomy family directly names this giant-bird vengeance pattern.
+- id: motif:3
+  label: shipwreck survivor reaches strange island
+  taxonomy_refs: []
+  basis: After the ship is smashed, the narrator survives in the sea and is washed
+    ashore on another island.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is a narrative situation rather than a specific supplied taxonomy
+    motif.
+- id: motif:4
+  label: deceptive helpless stranger becomes captor
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The old man appears feeble and requests help crossing a river, then leaps
+    onto the narrator and coerces him by gripping his neck.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+  confidence: medium
+  cautions: The passage supports deception and boundary crossing, but does not explicitly
+    identify the old man as a trickster or supernatural being.
+- id: motif:5
+  label: ordeal of coerced carrying
+  taxonomy_refs:
+  - initiation
+  basis: The narrator is forced into a prolonged bodily ordeal, carrying the old man
+    day and night under the trees.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  confidence: medium
+  cautions: The text presents an ordeal but does not explicitly frame it as initiation.
+- id: motif:6
+  label: improvised intoxicating drink as relief during captivity
+  taxonomy_refs: []
+  basis: The narrator makes wine in a gourd from grape juice and drinks it, briefly
+    forgetting his burden.
+  evidence_refs:
+  - ev:10
+  confidence: medium
+  cautions: The passage excerpt stops before showing the full narrative function of
+    the wine.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 4190-4202
+  quote_or_summary: The narrator tires of quiet life, builds and outfits his own ship,
+    invites merchants, sails with a favorable wind, and lands on an unknown uninhabited
+    island.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 4202-4212
+  quote_or_summary: The explorers find a nearly hatched roc's egg; despite the narrator's
+    protests, the merchants break the shell with hatchets, kill the young roc, light
+    a fire, and roast pieces of it.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 4213-4224
+  quote_or_summary: Two shadows darken the air; the captain says the parent birds
+    are coming. The rocs reach their despoiled nest, cry over the remains, then return
+    overhead, each holding an immense rock.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 4224-4235
+  quote_or_summary: One rock falls into the sea beside the ship after the helmsman
+    turns the vessel; the other strikes the ship, shattering it and throwing passengers
+    and crew into the sea.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 4235-4241
+  quote_or_summary: The narrator rises unhurt, holds driftwood with one hand while
+    swimming with the other, and is washed by the tide onto an island with steep rocky
+    shores and green turf.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 4242-4251
+  quote_or_summary: The narrator describes the island as garden-like, with trees bearing
+    flowers and fruit and a crystal stream winding under their shade; he sleeps there
+    but fears being alone in a strange land.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 4251-4260
+  quote_or_summary: While exploring, the narrator sees an old bent feeble man seated
+    on the river bank, greets him, receives only nods, and understands his signs as
+    a request to be carried across to gather fruit.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: 4260-4268
+  quote_or_summary: After being carried across the stream, the old man leaps onto
+    the narrator's shoulders, hooks his legs around the narrator's neck, grips tightly,
+    and causes the narrator to fall insensible.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: 4268-4274
+  quote_or_summary: The old man loosens his grip only enough to let the narrator breathe,
+    prods him with his feet, forces him to walk under the trees while he eats fruit,
+    and remains on his neck through the night and next morning.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: '4274'
+  quote_or_summary: The narrator finds dry gourds, hollows one, fills it with grape
+    juice, leaves it in a tree fork, and later drinks excellent wine from it while
+    carrying the old man.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based only on the supplied passage. Motif labels beyond the
+    supplied taxonomy are descriptive and should be reviewed; no comparison claims
+    were added because the passage itself does not support cross-textual comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-29'
+notes: |-
+  Line locator for ev:10 is approximate within the supplied range because the passage excerpt continues through the gourd-and-wine episode at the end of the provided text.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamicate-folklore-arabian-nights-lang-gutenberg__l4190-l4274
+  passage_sha256=08773ef846fd5d2f1d15e154cc3df0599b856d5ae0199f6308920274b47cd1ed

@@ -1,0 +1,571 @@
+---
+record_id: batch.motif.islamic-koran-rodwell-gutenberg-l13030-l13160
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+passage_locator:
+  label: PUBLIC SERVICES, / AND EMINENT LITERARY ATTAINMENTS, / THE TRANSLATOR. /
+    PREFACE; lines 13030-13160
+  start: '13030'
+  end: '13160'
+  translation: The Koran (Al-Qur'an), Rodwell translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage closes one sura with statements about divine mercy, human religious
+    difference, hell, the histories of apostles as warning, return to God, worship,
+    and trust. It then opens Sura XIV, Abraham, describing the Book as sent to bring
+    people from darkness into light, apostles speaking in their people's language,
+    Moses sent with signs, Israel's rescue from Pharaoh's family, and a divine statement
+    about gratitude and chastisement. Translator notes compare some earlier sura details
+    with Jewish and Islamic reports.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that the Lord could have made mankind one religion, but
+    that people differ except those granted mercy, and that hell will be filled with
+    Djinn and men.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The histories of the Apostles are said to have been related to confirm the
+    addressed recipient's heart and to provide truth, monition, and warning for believers.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage says that the secret things of the heavens and earth belong to
+    God, that all things return to him, and that he should be worshipped and trusted.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Book is described as sent down so that, by the Lord's permission, people
+    may be brought out of darkness into light and into God's path.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:5
+  text: The passage states that every Apostle was sent with the speech of his own
+    people, and that God misleads whom he wills and guides whom he wills.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:6
+  text: Moses is said to have been sent with signs and instructed to bring his people
+    from darkness into light and remind them of the days of God.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:7
+  text: Moses tells his people to remember God's kindness when he rescued them from
+    Pharaoh's family, who imposed cruel affliction, slaughtered male children, and
+    allowed females to live.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:8
+  text: A divine statement says that thankfulness will bring increase, while thanklessness
+    is linked with terrible chastisement.
+  category: speech
+  evidence_refs:
+  - ev:9
+- id: obs:9
+  text: A translator note reports a comparative tradition in which the throne of God's
+    glory stood above the waters at the first creation of heaven and earth.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:10
+  text: A translator note reports an anecdote in which Muhammad attributed his gray
+    or white hairs to the effect of Sura Hud and related suras.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: God / Lord
+  description: The divine figure who grants mercy, owns the hidden things of heaven
+    and earth, sends down the Book, guides or misleads, rescues Moses' people, and
+    threatens chastisement.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+- id: fig:2
+  name_or_label: Djinn and men
+  description: Beings named as those with whom hell will be filled.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Apostles
+  description: Figures whose histories are related as warning and who are sent with
+    the speech of their own people.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: fig:4
+  name_or_label: Addressed recipient / Muhammad
+  description: The recipient addressed as receiving histories and the Book; a translator
+    note identifies Muhammad in an anecdote about Sura Hud and white hairs.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+- id: fig:5
+  name_or_label: Infidels / those who believe not
+  description: Opponents or unbelievers warned to act and wait; they are described
+    as loving the present life, misleading from God's way, and being in error.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: fig:6
+  name_or_label: Moses
+  description: A messenger sent with signs who speaks to his people about God's rescue
+    from Pharaoh's family.
+  role_refs:
+  - role:2
+  - role:6
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: fig:7
+  name_or_label: Moses' people
+  description: The people whom Moses is told to bring from darkness into light and
+    whom God rescued from Pharaoh's family.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:8
+- id: fig:8
+  name_or_label: Family of Pharaoh
+  description: The group described as imposing cruel affliction on Moses' people,
+    slaughtering male children, and sparing females.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:8
+- id: fig:9
+  name_or_label: Abu Bekr and Omar
+  description: Companions named in the translator note as sitting in the mosque at
+    Medina when Muhammad appeared in the white-hair anecdote.
+  role_refs: []
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: divine sovereign and judge
+  assigned_to:
+  - fig:1
+  basis: God owns hidden things, receives the return of all things, sends revelation,
+    guides or misleads, and threatens hell or chastisement.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+  - ev:7
+  - ev:9
+- id: role:2
+  label: messenger or recipient of revelation
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:6
+  basis: Apostles are sent with the speech of their people; the addressed recipient
+    receives histories and the Book; Moses is sent with signs.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:7
+  - ev:8
+- id: role:3
+  label: rescued afflicted community
+  assigned_to:
+  - fig:7
+  basis: Moses' people are remembered as rescued from Pharaoh's family after cruel
+    affliction.
+  evidence_refs:
+  - ev:8
+- id: role:4
+  label: persecuting oppressor group
+  assigned_to:
+  - fig:8
+  basis: Pharaoh's family is described as afflicting Moses' people and killing their
+    male children.
+  evidence_refs:
+  - ev:8
+- id: role:5
+  label: warned or judged beings
+  assigned_to:
+  - fig:2
+  - fig:5
+  basis: Djinn and men are named in relation to hell; unbelievers are warned and associated
+    with punishment and error.
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: role:6
+  label: prophetic liberator
+  assigned_to:
+  - fig:6
+  basis: Moses is commanded to bring his people from darkness into light and recalls
+    their rescue from Pharaoh's family.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: darkness and light
+  literal_form: The paired image of being brought out of darkness into light.
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: sym:2
+  label: Book
+  literal_form: The Book sent down to the addressed recipient.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:3
+  label: signs
+  literal_form: The signs with which Moses is sent.
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:4
+  label: hell
+  literal_form: Hell as the place to be filled with Djinn and men.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:5
+  label: waters beneath the divine throne
+  literal_form: Waters beneath the throne of glory in the translator's cited comparison
+    about first creation.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: white hairs
+  literal_form: Gray or white hairs attributed in a note to the effect of Sura Hud
+    and related suras on Muhammad.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Closing warning and trust in God
+  summary: The passage states that human difference, mercy, hell, the histories of
+    Apostles, warning, waiting, divine knowledge, return to God, worship, and trust
+    are all framed under God's authority.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: The Book brings people from darkness to light
+  summary: At the opening of Sura Abraham, the Book is described as sent down so the
+    addressed recipient may bring people from darkness into light by God's permission.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:6
+- id: scene:3
+  label: Apostles speak in their people's language
+  summary: The passage says that every Apostle is sent with the speech of his own
+    people so that he may speak plainly to them, while God guides or misleads whom
+    he wills.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+- id: scene:4
+  label: Moses recalls rescue from Pharaoh's family
+  summary: Moses is sent with signs and speaks to his people about God's rescue of
+    them from Pharaoh's family, who afflicted them and killed their male children.
+  figure_refs:
+  - fig:1
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:8
+- id: scene:5
+  label: Gratitude and chastisement
+  summary: A divine statement links thankfulness with increase and thanklessness with
+    severe chastisement; Moses adds that God remains rich and praiseworthy even if
+    all on earth are thankless.
+  figure_refs:
+  - fig:1
+  - fig:6
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:9
+- id: scene:6
+  label: Translator note on throne above waters
+  summary: A note compares a creation statement with Jewish sources describing the
+    throne of God's glory above the waters at the first creation.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:7
+  label: Translator note on Muhammad's white hairs
+  summary: A note recounts Muhammad appearing near Abu Bekr and Omar and attributing
+    his white hairs to Sura Hud and related suras.
+  figure_refs:
+  - fig:4
+  - fig:9
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: divine judgment and retribution
+  taxonomy_refs:
+  - divine_judgment
+  basis: Hell is to be filled with Djinn and men; infidels are warned of terrible
+    punishment; thanklessness is linked with terrible chastisement.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:9
+  confidence: high
+  cautions: The passage states judgment themes directly, but does not elaborate an
+    afterlife journey.
+- id: motif:2
+  label: revelation as guidance from darkness to light
+  taxonomy_refs:
+  - wisdom
+  basis: The Book is sent down to bring people from darkness into light, and Moses
+    is similarly commanded to bring his people from darkness into light with signs.
+  evidence_refs:
+  - ev:6
+  - ev:8
+  confidence: high
+  cautions: The darkness-light image is metaphorical in translation; the available
+    taxonomy has no exact darkness/light category.
+- id: motif:3
+  label: prophetic deliverance from an oppressive ruler
+  taxonomy_refs:
+  - departure
+  basis: Moses' people are rescued from Pharaoh's family after affliction and the
+    killing of male children.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: The passage recalls rescue but does not narrate the full departure or
+    exodus sequence in this excerpt.
+- id: motif:4
+  label: messenger speaks in the language of the people
+  taxonomy_refs:
+  - wisdom
+  basis: The passage states that no Apostle is sent except with the speech of his
+    own people so he may speak plainly to them.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: Classifying this as a wisdom motif is approximate; the passage frames
+    it as communication and guidance.
+- id: motif:5
+  label: gratitude rewarded and thanklessness punished
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The divine statement says thankfulness will bring increase, while thanklessness
+    is associated with terrible chastisement.
+  evidence_refs:
+  - ev:9
+  confidence: medium
+  cautions: The passage presents a conditional divine statement, but not a formal
+    ritual exchange.
+- id: motif:6
+  label: divine throne above primordial waters
+  taxonomy_refs:
+  - chaos
+  basis: A translator note cites traditions in which the throne of God's glory stands
+    above the waters at the first creation of heaven and earth.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: This motif is present in a translator note comparing traditions, not in
+    the Qur'anic lines quoted in this excerpt.
+comparison_claims:
+- id: claim:1
+  claim: The translator note explicitly compares a creation statement with Jewish
+    traditions in Raschi on Genesis 1:2, a later catechism, and Psalm 104:3, all involving
+    God's throne or glory above waters.
+  claim_level: same_motif
+  target: Jewish creation traditions about the divine throne above the waters
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is supplied by the translator; the relevant Qur'anic
+    verse is not itself fully present in the selected excerpt, only the note is.
+- id: claim:2
+  claim: The translator note relates the Qur'anic Noah episode to rabbinic traditions
+    in which Noah is mocked or questioned about the ark.
+  claim_level: same_function
+  target: Rabbinic Noah flood traditions in Midrash Tanchuma, Sanhedrin, and Midrash
+    Rabbah
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The note references a prior narrative outside the selected canonical
+    lines; the claim should be checked against the full surrounding sura.
+- id: claim:3
+  claim: The translator note cautiously links the expression about the oven or reservoir
+    boiling up with a rabbinic idea that the generation of the Deluge was punished
+    by hot water.
+  claim_level: same_motif
+  target: Rabbinic Deluge punishment by hot water
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The note itself attributes the idea to Geiger's interpretation and
+    uses cautious wording, so the comparison is speculative.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 13030-13038
+  quote_or_summary: The Lord could have made mankind one religion; hell will be filled
+    with Djinn and men; histories of Apostles confirm the addressed heart and warn
+    believers; unbelievers are told to act and wait.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source text; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 13040-13041
+  quote_or_summary: '"To God belong the secret things of the Heavens and of the Earth:
+    all things return to him"; the passage commands worship and trust.'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source text; short quotation.
+- id: ev:3
+  type: summary
+  locator: footnote 3, lines 13051-13056
+  quote_or_summary: The note compares a pre-creation statement with Raschi on Genesis
+    1:2 and a later catechism, citing a tradition that the throne of God's glory stood
+    above the waters at the first creation.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source text; summarized.
+- id: ev:4
+  type: summary
+  locator: footnotes 6-7, lines 13068-13079
+  quote_or_summary: The notes compare a Noah episode with Midrashic material about
+    people scorning Noah and asking about the ark, and discuss an oven or reservoir
+    boiling up in relation to rabbinic hot-water punishment traditions.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source text; summarized.
+- id: ev:5
+  type: summary
+  locator: footnote 20, lines 13104-13116
+  quote_or_summary: The note recounts Muhammad appearing where Abu Bekr and Omar sat,
+    and attributing his white hairs to Sura Hud and its sister suras.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source text; summarized.
+- id: ev:6
+  type: quote
+  locator: Sura XIV opening, lines 13122-13129
+  quote_or_summary: The Book is sent down so that the addressed recipient may "bring
+    men out of darkness into light"; infidels are warned for loving the present life
+    and misleading from God's way.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source text; short quotation.
+- id: ev:7
+  type: summary
+  locator: lines 13131-13134
+  quote_or_summary: No Apostle is sent except with the speech of his own people, so
+    he may speak plainly; God misleads whom he wills and guides whom he wills.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source text; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 13136-13142
+  quote_or_summary: Moses is sent with signs to bring his people from darkness into
+    light, and he tells them to remember God's rescue from Pharaoh's family, who afflicted
+    them, slaughtered male children, and spared females.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source text; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 13144-13150
+  quote_or_summary: A divine statement promises increase for thankfulness and terrible
+    chastisement for thanklessness; Moses says God remains rich and praiseworthy even
+    if all on earth are thankless.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source text; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Core Qur'anic motifs are clear in translation. Some comparison claims and
+    symbols come from translator footnotes rather than the canonical verse text in
+    this selected range, so they require human review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-29'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy references were limited to the provided motif-family and symbol lists.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-rodwell-gutenberg__l13030-l13160
+  passage_sha256=b174a3bf42679508bf5b30ca773969c4fe758de942f1b60eb6ae8b71378e50bc

@@ -1,0 +1,627 @@
+---
+record_id: batch.motif.islamicate-folklore-arabian-nights-lang-gutenberg-l2739-l2840
+source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+passage_locator:
+  label: The Arabian Nights Entertainments; lines 2739-2840
+  start: '2739'
+  end: '2840'
+  translation: The Arabian Nights Entertainments
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A princess and a genius fight a magical duel through repeated animal transformations,
+    ending in fire. The genius is reduced to ashes, but the princess is mortally burned
+    after restoring an enchanted prince from monkey form to human form with magic
+    water. The princess dies and is mourned; the restored prince is exiled, becomes
+    a calender, and travels to Bagdad. The passage then begins the Third Calender's
+    story, identifying him as Agib, son of King Cassib.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The genius, in lion form, tries to swallow the princess; she turns a hair
+    from his mane into a sword and cuts the lion body in two.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The remaining lion head changes into a scorpion, and the princess assumes
+    serpent form to fight it.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The combatants continue changing forms, including eagle, cat, wolf, worm,
+    pomegranate, cock, seed, fish, and pike.
+  category: sequence
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:4
+  text: The combatants chase each other under water for two hours and then emerge
+    in their proper forms, breathing flames.
+  category: sequence
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:5
+  text: Fire from the combat burns the Sultan, kills the chief eunuch, and blinds
+    one of the narrator's eyes.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The princess defeats the genius, who lies at her feet as a heap of ashes.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The princess uses a cup of water and magic words to restore the narrator from
+    monkey form to his former human form.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The princess says the fire has reached her heart and that she has only a few
+    moments to live.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The princess dies after crying that she burns.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The nation mourns for seven days, the princess's ashes are buried, and a tomb
+    is raised over her.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: The Sultan orders the narrator to leave the kingdom and never return on pain
+    of death.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:12
+  text: The narrator shaves his beard and eyebrows, dresses as a calender, wanders,
+    and resolves to go to Bagdad.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:13
+  text: A new speaker, the Third Calender, says his name is Agib and that he is the
+    son of King Cassib.
+  category: speech
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: the princess
+  description: The Sultan's daughter, a magic-working combatant who fights the genius,
+    restores the narrator, and dies from burns after the battle.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: the genius
+  description: A magical adversary who repeatedly changes shape during combat with
+    the princess and is finally reduced to ashes.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: the narrator / restored prince
+  description: A prince previously enchanted as a monkey, restored to human form by
+    the princess, left blind in one eye, and later exiled.
+  role_refs:
+  - role:6
+  - role:7
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:7
+- id: fig:4
+  name_or_label: the Sultan
+  description: The princess's father, whose beard and face are burned; he mourns his
+    daughter and orders the narrator to leave the kingdom.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:7
+- id: fig:5
+  name_or_label: chief of the eunuchs
+  description: A court official burned to a cinder during the fiery combat.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:6
+  name_or_label: little slave
+  description: The only uninjured attendant, ordered by the princess to bring a cup
+    of water.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Agib, the Third Calender
+  description: A new narrator who identifies himself as Agib, son of King Cassib,
+    and says his right eye was lost by his own folly.
+  role_refs:
+  - role:11
+  evidence_refs:
+  - ev:8
+- id: fig:8
+  name_or_label: King Cassib
+  description: Agib's father, described as a king over a large kingdom with a fine
+    seaport capital.
+  role_refs:
+  - role:12
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: magical defender
+  assigned_to:
+  - fig:1
+  basis: She counters the genius's attacks through magic and transformations.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: restorer of enchanted human form
+  assigned_to:
+  - fig:1
+  basis: She uses magic words and water to make the monkey resume his human form.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: dying benefactress
+  assigned_to:
+  - fig:1
+  basis: She wins the battle and saves the narrator but dies from fire after the combat.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:4
+  label: magical adversary
+  assigned_to:
+  - fig:2
+  basis: He attacks the princess and repeatedly changes form during the duel.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:5
+  label: defeated shapeshifter
+  assigned_to:
+  - fig:2
+  basis: After many transformations, he is left as a heap of ashes at the princess's
+    feet.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: enchanted beneficiary
+  assigned_to:
+  - fig:3
+  basis: He is restored from monkey form to human form by the princess.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: exiled wanderer
+  assigned_to:
+  - fig:3
+  basis: After the princess's death, he is ordered to leave and later wanders as a
+    calender.
+  evidence_refs:
+  - ev:7
+- id: role:8
+  label: grieving father and ruler
+  assigned_to:
+  - fig:4
+  basis: He mourns his daughter and exercises royal authority by exiling the narrator.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:9
+  label: casualty of magical fire
+  assigned_to:
+  - fig:5
+  basis: He is burned to a cinder during the fiery episode.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:10
+  label: uninjured attendant
+  assigned_to:
+  - fig:6
+  basis: She alone is uninjured and brings the princess water.
+  evidence_refs:
+  - ev:4
+- id: role:11
+  label: new first-person narrator
+  assigned_to:
+  - fig:7
+  basis: He begins the Third Calender's story and identifies himself.
+  evidence_refs:
+  - ev:8
+- id: role:12
+  label: royal father
+  assigned_to:
+  - fig:8
+  basis: He is named as Agib's father and as a king.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: serpent form
+  literal_form: The princess becomes a serpent to fight the scorpion-form genius.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: fire
+  literal_form: Flames from the combatants' mouths burn bystanders, reduce the genius
+    to ashes, and mortally burn the princess.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+- id: sym:3
+  label: water
+  literal_form: A canal contains the fish-and-pike chase; a cup of water is used in
+    the restoration spell.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:4
+  label: tree
+  literal_form: A pomegranate has fallen from a tree and becomes part of the transformation
+    sequence.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: pomegranate seed
+  literal_form: The cat-form combatant hides in a pomegranate; the cock-form combatant
+    swallows its seeds, but one seed becomes a fish.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:6
+  label: ashes
+  literal_form: The genius becomes a heap of ashes, and the princess's ashes are later
+    buried.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:6
+scenes:
+- id: scene:1
+  label: Opening transformation duel
+  summary: The genius attacks in lion form; the princess magically makes a sword,
+    cuts the lion body, and the duel continues through scorpion, serpent, and eagle
+    forms.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Pomegranate and water chase
+  summary: The combatants reappear as cat and wolf, then pass through worm, pomegranate,
+    cock, seed, fish, and pike forms, including a chase beneath the canal water.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Fiery victory and injuries
+  summary: The combatants return to their proper forms breathing fire; bystanders
+    are burned, the narrator loses one eye, and the princess defeats the genius, who
+    becomes ashes.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:6
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Restoration from enchantment
+  summary: The princess orders water brought, speaks magic words over it, and dashes
+    it into the narrator's face so he resumes human form.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:6
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Princess's explanation and death
+  summary: The princess explains that missing the last pomegranate seed forced her
+    to use fire, announces that she is dying, and then dies from burning.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:6
+  label: Mourning, tomb, and exile
+  summary: The nation mourns the princess, her ashes are buried with ceremony, a tomb
+    is raised, and the Sultan orders the narrator to leave the kingdom; he becomes
+    a wandering calender.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:7
+  label: Beginning of the Third Calender's story
+  summary: The passage shifts to the Third Calender, who says his name is Agib, that
+    he is son of King Cassib, and that his lost eye resulted from his own folly.
+  figure_refs:
+  - fig:7
+  - fig:8
+  symbol_refs: []
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: magical shapeshifting duel
+  taxonomy_refs:
+  - shapeshifter
+  basis: 'The princess and the genius repeatedly assume animal and other forms while
+    fighting: lion, scorpion, serpent, eagle, cat, wolf, worm, pomegranate, cock,
+    seed, fish, and pike.'
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage presents the sequence as magical combat, but does not name
+    a formal motif.
+- id: motif:2
+  label: enchanted animal restored to human form
+  taxonomy_refs:
+  - return
+  basis: The narrator, enchanted as a monkey, is restored to his former human form
+    when the princess uses magic words and water.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The taxonomy reference 'return' is approximate; the passage describes
+    restoration rather than a journey return.
+- id: motif:3
+  label: victory at cost of rescuer's life
+  taxonomy_refs:
+  - sacrifice
+  basis: The princess defeats the genius and saves the narrator, but explains that
+    the fire has reached her heart and dies shortly afterward.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage does not state that she intentionally offers herself as a
+    sacrifice; the death is a consequence of combat.
+- id: motif:4
+  label: magical fire causing death and transformation to ashes
+  taxonomy_refs:
+  - fire
+  basis: Fire burns the bystanders, kills the eunuch, reduces the genius to ashes,
+    and causes the princess's death.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: Available taxonomy lists fire as a symbol rather than a motif family.
+- id: motif:5
+  label: one-eyed survivor of supernatural encounter
+  taxonomy_refs: []
+  basis: The narrator survives the magical battle but loses the sight of one eye;
+    the next narrator also introduces the loss of his right eye.
+  evidence_refs:
+  - ev:3
+  - ev:8
+  confidence: medium
+  cautions: The passage juxtaposes two one-eyed calenders, but the full explanation
+    for Agib's loss lies outside this passage.
+- id: motif:6
+  label: exile leading to wandering holy-man disguise
+  taxonomy_refs:
+  - departure
+  basis: After being ordered to leave the kingdom, the narrator shaves his beard and
+    eyebrows, dresses as a calender, wanders, and travels to Bagdad.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The passage frames the departure as exile rather than a voluntary quest.
+comparison_claims:
+- id: claim:1
+  claim: The duel belongs cautiously to a shapeshifter motif pattern because both
+    opponents repeatedly change bodies during combat.
+  claim_level: same_motif
+  target: shapeshifter motif family
+  evidence_refs:
+  - ev:1
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a motif-family classification based only on the passage; no
+    historical-contact claim is made.
+- id: claim:2
+  claim: The use of magic water to restore the monkey to human form has the same narrative
+    function as restoration or return-from-enchantment patterns.
+  claim_level: same_function
+  target: return / restoration from enchantment pattern
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The available taxonomy does not include a precise 'disenchantment'
+    category; 'return' is only approximate.
+- id: claim:3
+  claim: The princess's fatal victory resembles a sacrifice pattern in which a rescuer's
+    success is followed by her own death.
+  claim_level: same_function
+  target: sacrifice motif family
+  evidence_refs:
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The passage describes a costly outcome of battle, not an explicit ritual
+    or intentional sacrificial act.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2739-2750
+  quote_or_summary: The genius in lion form advances to swallow the princess; she
+    transforms a mane hair into a sword, cuts the lion body, and the combat continues
+    through scorpion, serpent, and eagle forms.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 2751-2773
+  quote_or_summary: The combatants reappear through cat, wolf, worm, pomegranate,
+    cock, seed, fish, and pike forms, including a chase in the canal.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 2773-2784
+  quote_or_summary: The combatants rise in proper forms breathing fire; the Sultan
+    is burned, the eunuch is killed, the narrator loses one eye, and the princess
+    wins, leaving the genius as ashes.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 2785-2791
+  quote_or_summary: The princess orders water brought, speaks magic words over it,
+    dashes it into the narrator's face, and tells him to resume his former human form
+    if he is only a monkey by enchantment.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 2792-2807
+  quote_or_summary: The princess says she won the battle but will die because fire
+    has penetrated her heart; she explains the missed final pomegranate seed and mentions
+    the eunuch's death and the prince's lost eye.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 2808-2818
+  quote_or_summary: The princess cries that she burns and dies; the Sultan and nation
+    mourn, her ashes are buried with pomp, and a tomb is raised.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 2819-2828
+  quote_or_summary: After recovering, the Sultan orders the narrator to leave the
+    kingdom permanently; the narrator shaves, dresses as a calender, wanders, and
+    resolves to go to Bagdad.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 2830-2840
+  quote_or_summary: The Third Calender begins his story, says his eye was lost by
+    his own folly, and identifies himself as Agib, son of King Cassib.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is well supported by the supplied passage. Motif labels
+    are cautious and limited to available taxonomy where appropriate.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-29'
+notes: |-
+  No external sources or comparisons were used beyond the supplied passage and available taxonomy references.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamicate-folklore-arabian-nights-lang-gutenberg__l2739-l2840
+  passage_sha256=2662de81a3cfd1f966fbb506afa5d91cb7edde3f8b6a1ee061509cde48890c93

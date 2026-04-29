@@ -1,0 +1,558 @@
+---
+record_id: batch.motif.sufi-rumi-mesnevi-book-1-redhouse-gutenberg-l11645-l11740
+source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+passage_locator:
+  label: PREFACE. / IN THE NAME OF GOD, / THE ALL-MERCIFUL, THE VERY-COMPASSIONATE.
+    / VIII.; lines 11645-11740
+  start: '11645'
+  end: '11740'
+  translation: The Mesnevi
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes an Arab man arriving safely at Baghdad, where general
+    beneficence is shown to various kinds of people. It develops teachings about beggars
+    as mirrors of bounty and divine grace, distinguishes true spiritual poverty from
+    false mendicancy for wealth, criticizes attachment to self-made fancy and prejudice,
+    and uses images of painted fish, portraits, bath-house effigies, clothes, body,
+    and soul to contrast mere appearance with living inward reality. The passage ends
+    with guards at Baghdad’s gate kindly receiving the Arab man before he asks for
+    food.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A pot reaches Baghdad safely, protected from robbers, stones, falls, and slips.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Baghdad is described as a city filled with blessings, where people practice
+    many arts and some obtain desired benefits from court.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Grace is described as being distributed equally to Muslims and Unbelievers,
+    like rain and sunshine.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A voice calls all needy people to come forward.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage compares beneficence seeking beggars to beauty seeking a mirror.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: A beggar is described as a mirror in which bounty and the Almighty’s grace
+    shine.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Love for anything other than the Lord is described as being dead at heart,
+    while sincere adoption of God’s poverty secures divine pleasure.
+  category: attribute
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: A person who only pretends to poverty is said to deserve no bread and to seek
+    money rather than God’s love.
+  category: attribute
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: The false mendicant is compared to a fish in form that will not enter water
+    and to domestic fowl rather than an eagle.
+  category: attribute
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: Old prejudice is described as purblind and as conjuring many phantoms.
+  category: attribute
+  evidence_refs:
+  - ev:10
+- id: obs:11
+  text: Painted or depicted figures can look sorrowful or happy without actually feeling
+    sorrow or joy.
+  category: attribute
+  evidence_refs:
+  - ev:11
+- id: obs:12
+  text: Effigies in a bath-house are described as draped dolls that deceive blind
+    fools; entry to the bath requires undressing.
+  category: object
+  evidence_refs:
+  - ev:12
+- id: obs:13
+  text: The Arab man reaches the walls of Baghdad from the desert, and the guards
+    and officers at the gate receive him kindly before he asks for food.
+  category: sequence
+  evidence_refs:
+  - ev:13
+figures:
+- id: fig:1
+  name_or_label: Arab man
+  description: A man from the desert who arrives at the walls of Baghdad and is received
+    by gate officials.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:13
+- id: fig:2
+  name_or_label: sons of want
+  description: Needy people addressed by a voice calling them forward.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: beggar
+  description: A figure of need described as a mirror in which bounty and divine grace
+    are displayed.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: charitable man
+  description: A person who relieves wants and thereby manifests charity.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: false mendicant
+  description: A poverty-claiming figure who seeks money rather than God’s love and
+    is compared to a fish that will not take to water.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: fig:6
+  name_or_label: man of prejudice
+  description: A sightless or eyeless figure associated with old prejudice and phantoms.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:10
+- id: fig:7
+  name_or_label: guards and officers
+  description: Officials at Baghdad’s gate who receive the Arab man with politeness
+    and kindness.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:13
+- id: fig:8
+  name_or_label: God / Lord
+  description: The divine figure whose grace, pleasure, love, essence, attributes,
+    and scripture are invoked in the teaching.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+roles:
+- id: role:1
+  label: traveler arriving at city gate
+  assigned_to:
+  - fig:1
+  basis: The Arab man comes from the desert and reaches the walls of Baghdad.
+  evidence_refs:
+  - ev:13
+- id: role:2
+  label: recipient of beneficence
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The needy are called forward, and beggars are sought by beneficence.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:3
+  label: mirror of bounty and divine grace
+  assigned_to:
+  - fig:3
+  basis: The beggar is explicitly called a mirror in which bounty and Almighty grace
+    shine.
+  evidence_refs:
+  - ev:6
+- id: role:4
+  label: giver of charity
+  assigned_to:
+  - fig:4
+  basis: The charitable man relieves wants because the beggar shows what charity achieves.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: inauthentic seeker of wealth
+  assigned_to:
+  - fig:5
+  basis: The false mendicant seeks pelf and wealth rather than God’s love or grace.
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: role:6
+  label: blind adherent of prejudice
+  assigned_to:
+  - fig:6
+  basis: The man of prejudice is described as sightless and eyeless, with prejudice
+    conjuring phantoms.
+  evidence_refs:
+  - ev:10
+- id: role:7
+  label: kind gate officials
+  assigned_to:
+  - fig:7
+  basis: The guards and officers receive the Arab man with politeness and kindness
+    at Baghdad’s gate.
+  evidence_refs:
+  - ev:13
+- id: role:8
+  label: source of grace and spiritual aim
+  assigned_to:
+  - fig:8
+  basis: The passage speaks of Almighty grace, love for God, God’s pleasure, and God’s
+    attributes.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:9
+symbols:
+- id: sym:1
+  label: mirror
+  literal_form: mirror
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:2
+  label: rain and sunshine
+  literal_form: rain and sunshine
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: water refused by fish-form
+  literal_form: water
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:9
+- id: sym:4
+  label: painted fish
+  literal_form: painted fish
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+- id: sym:5
+  label: portrait with simulated emotion
+  literal_form: depicted portrait showing grief or joy
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:11
+- id: sym:6
+  label: bath-house effigies and draperies
+  literal_form: effigies in a bath-house disguised in draperies
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:12
+- id: sym:7
+  label: undressing before the bath
+  literal_form: removing clothes before entering a bath
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:12
+- id: sym:8
+  label: Baghdad gate
+  literal_form: walls and gate of Baghdad
+  associated_figures:
+  - fig:1
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:13
+scenes:
+- id: scene:1
+  label: Safe arrival of the pot at Baghdad
+  summary: The pot arrives at Baghdad safely after being protected from robbers, stones,
+    falls, and slips.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: City of general beneficence
+  summary: Baghdad is portrayed as full of blessing, with grace distributed broadly
+    and people of different conditions seen in varied states.
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Call to the needy and teaching on the beggar
+  summary: A voice summons the needy, and the passage explains the beggar as the mirror
+    through which beneficence, charity, and divine grace become visible.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:8
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: True and false poverty contrasted
+  summary: The passage distinguishes sincere God-oriented poverty from sham poverty
+    pursued for wealth, using animal and water imagery for the false mendicant.
+  figure_refs:
+  - fig:5
+  - fig:8
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+- id: scene:5
+  label: Prejudice and lifeless appearance
+  summary: Prejudice is described as blind and phantom-producing, while painted or
+    depicted forms are said to show appearances without inner feeling or life.
+  figure_refs:
+  - fig:6
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:10
+  - ev:11
+- id: scene:6
+  label: Bath-house image of outer form and inner reality
+  summary: Draped bath-house effigies are called dolls that deceive; the speaker says
+    that one must undress and enter the bath to see the nude, and that clothes, body,
+    and soul otherwise remain unguessed.
+  figure_refs: []
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:12
+- id: scene:7
+  label: Arab man received at Baghdad gate
+  summary: The Arab man arrives from the sandy desert at Baghdad’s walls, where guards
+    and officers receive him kindly and ask him to state his wish.
+  figure_refs:
+  - fig:1
+  - fig:7
+  symbol_refs:
+  - sym:8
+  evidence_refs:
+  - ev:13
+candidate_motifs:
+- id: motif:1
+  label: Needy person as mirror of divine bounty
+  taxonomy_refs:
+  - wisdom
+  basis: The passage explicitly states that the beggar mirrors bounty and Almighty
+    grace, making need the site where charity and divine generosity appear.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The taxonomy reference is broad; the passage gives a didactic image rather
+    than a narrative myth.
+- id: motif:2
+  label: Spiritual poverty versus false mendicancy
+  taxonomy_refs:
+  - wisdom
+  - mystical_quest
+  basis: The text contrasts sincere adoption of God’s poverty with sham poverty for
+    money and wealth.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: The motif is ethical-mystical and not presented as a discrete mythic episode.
+- id: motif:3
+  label: Outer form without inner life
+  taxonomy_refs:
+  - wisdom
+  basis: Painted fish, portraits, and bath-house dolls are used to distinguish lifeless
+    appearance from inward reality.
+  evidence_refs:
+  - ev:10
+  - ev:11
+  - ev:12
+  confidence: high
+  cautions: Several images support the same didactic pattern, but they remain metaphorical
+    examples.
+- id: motif:4
+  label: Undressing as entry beyond appearances
+  taxonomy_refs:
+  - initiation
+  - mystical_quest
+  basis: The bath-house passage says admission is not granted while dressed and urges
+    undressing to come in and see the nude, the free.
+  evidence_refs:
+  - ev:12
+  confidence: medium
+  cautions: The passage supports an initiatory reading only through metaphor; no formal
+    ritual initiation is narrated.
+- id: motif:5
+  label: Divine beneficence extended like natural elements
+  taxonomy_refs:
+  - wisdom
+  basis: Grace is compared to rain and sunshine distributed equally to Muslims and
+    Unbelievers.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: This is a theological comparison rather than a full narrative motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 11645-11648
+  quote_or_summary: The prayers and care are rewarded as the pot reaches Baghdad safely,
+    protected from robbers, stones, falls, and slips.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source; concise summary.
+- id: ev:2
+  type: summary
+  locator: lines 11649-11654
+  quote_or_summary: The man sees a city full of blessings, where skilled people pursue
+    arts and some obtain desired things from court.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source; concise summary.
+- id: ev:3
+  type: quote
+  locator: lines 11655-11656
+  quote_or_summary: "“To Muslims, Unbelievers, equal grace is doled, / Like rain and
+    sunshine.”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: quote
+  locator: line 11663
+  quote_or_summary: "“A voice proclaimed: ‘Come forward, all ye sons of want!’”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source; short quotation.
+- id: ev:5
+  type: summary
+  locator: lines 11664-11668
+  quote_or_summary: Beneficence is said to seek beggars and need as beauty seeks its
+    mirror.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source; concise summary.
+- id: ev:6
+  type: summary
+  locator: lines 11671-11676
+  quote_or_summary: The beggar is described as a mirror in which bounty, charity,
+    and the Almighty’s grace shine, and in which one with the Lord sees the Lord’s
+    face.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source; concise summary.
+- id: ev:7
+  type: summary
+  locator: lines 11677-11680
+  quote_or_summary: Love for other than the Lord is called death of the heart; sincere
+    adoption of God’s poverty is said to secure God’s rich pleasure.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source; concise summary.
+- id: ev:8
+  type: summary
+  locator: lines 11681-11684
+  quote_or_summary: A sham of poverty is rejected; such a person seeks pelf rather
+    than the love of God, and bounty should not be laid at the feet of one too sleek.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source; concise summary.
+- id: ev:9
+  type: summary
+  locator: lines 11685-11694
+  quote_or_summary: The mendicant for mere pelf is compared to a fish in form that
+    will not enter water and to domestic fowl rather than an eagle; he loves God only
+    if wealth is granted.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source; concise summary.
+- id: ev:10
+  type: summary
+  locator: lines 11701-11710
+  quote_or_summary: Old prejudice is called purblind and phantom-conjuring; not every
+    person hears the still small voice, and a man of prejudice is described as sightless
+    and eyeless.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source; concise summary.
+- id: ev:11
+  type: summary
+  locator: lines 11713-11718
+  quote_or_summary: A depicted portrait may look grieving or happy, but the picture
+    feels neither sorrow nor joy; the emotion is simulated.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source; concise summary.
+- id: ev:12
+  type: summary
+  locator: lines 11719-11730
+  quote_or_summary: Lugubrious and beaming faces are useful if they turn viewers from
+    form to hidden sense; bath-house effigies in draperies are dolls, and one must
+    undress to enter the bath and see the nude.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source; concise summary.
+- id: ev:13
+  type: summary
+  locator: lines 11731-11740
+  quote_or_summary: The Arab man reaches Baghdad’s walls from the sandy desert; guards
+    and officers at the gate receive him with politeness and kindness, understand
+    his case, and ask his wish.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source; concise summary.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is strong because the passage is explicit. Motif labels
+    are interpretive and should be reviewed, especially broad taxonomy mappings to
+    wisdom, mystical_quest, and initiation. No comparison claims were added because
+    the passage does not itself make a comparative claim to another corpus or tradition.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-29'
+notes: |-
+  Used only the supplied passage and metadata; no external comparisons added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-rumi-mesnevi-book-1-redhouse-gutenberg__l11645-l11740
+  passage_sha256=3698d15ceaf762e7302d57f1207c17a29d79223efddf5bc856d5c7c1b262d50e

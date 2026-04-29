@@ -1,0 +1,439 @@
+---
+record_id: batch.motif.islamicate-folklore-arabian-nights-lang-gutenberg-l5939-l6063
+source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+passage_locator:
+  label: The Arabian Nights Entertainments; lines 5939-6063
+  start: '5939'
+  end: '6063'
+  translation: The Arabian Nights Entertainments
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A princess awakens beside the magically sleeping Prince Camaralzaman, admires
+    him, notices her ring on his finger, kisses him, and falls asleep. Maimoune claims
+    victory in a comparison between prince and princess and orders Caschcasch and
+    Danhasch to return the princess home. The next morning Camaralzaman seeks the
+    vanished lady. His slave, then the grand-vizir, deny that any woman could have
+    entered the tower; the prince responds violently. The king finally hears Camaralzaman's
+    account, sees the ring, believes his son, and acknowledges the affair as mysterious.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The princess wakes beside a young man, admires him, urges him to wake, and
+    says she will love him.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Camaralzaman remains asleep because of Maimoune's spells.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The princess finds her own ring on Camaralzaman's finger, kisses his cheek,
+    and falls asleep.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Maimoune orders Caschcasch and Danhasch to carry the princess back to her
+    home, and then returns to her well.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: On waking, Camaralzaman looks for the lady and questions the slave who attended
+    him.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The slave says he knows nothing of any lady entering the tower; Camaralzaman
+    beats him and ducks him in the well.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The slave reports to the king that the prince has lost his senses because
+    he claims to have seen a lady sleeping on his couch.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The grand-vizir tells Camaralzaman that a woman could not have entered the
+    room and suggests he was impressed by a dream.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Camaralzaman attacks the grand-vizir and sends a message that he consents
+    to marry the lady he believes the king sent or brought.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: The king questions Camaralzaman, hears his account, sees the ring, and concludes
+    he can no longer doubt his son's word, though the event remains unexplained.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Princess
+  description: A princess who wakes beside Camaralzaman, admires him, sees her ring
+    on his finger, kisses him, and is later carried home by genii.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Prince Camaralzaman
+  description: A prince kept asleep by Maimoune's spells, later seeking the vanished
+    lady and showing a ring as evidence.
+  role_refs:
+  - role:1
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: Maimoune
+  description: A supernatural being whose spells prevent Camaralzaman from waking
+    and who orders the princess's return home.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: Danhasch
+  description: A genie ordered with Caschcasch to bear the princess back home.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Caschcasch
+  description: A genie thanked by Maimoune and ordered with Danhasch to bear the princess
+    home.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Slave
+  description: The attendant at Camaralzaman's door who denies knowledge of the lady
+    and reports the prince's behavior to the king.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: King
+  description: Camaralzaman's father, who receives reports, questions his son, and
+    accepts that the affair is mysterious after seeing the ring.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:8
+  name_or_label: Grand-vizir
+  description: The king's minister who investigates Camaralzaman's claim, denies that
+    a woman could have entered the room, and is beaten by the prince.
+  role_refs:
+  - role:6
+  - role:7
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: sleeping lovers
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Both figures are shown asleep in the same room after the princess interacts
+    with the prince.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: supernatural transport agents
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:5
+  basis: Maimoune controls the magical sleep and commands the genii to return the
+    princess home.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: seeker of vanished beloved
+  assigned_to:
+  - fig:2
+  basis: Camaralzaman wakes and immediately looks for the lady, then asks others where
+    she is.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:4
+  label: vanished beloved
+  assigned_to:
+  - fig:1
+  basis: The princess is present at night but removed before Camaralzaman wakes and
+    searches for her.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:5
+  label: bearer of recognition token
+  assigned_to:
+  - fig:2
+  basis: Camaralzaman has the princess's ring on his finger and later shows it to
+    his father.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:6
+  label: skeptical witness or investigator
+  assigned_to:
+  - fig:6
+  - fig:8
+  basis: The slave and grand-vizir deny knowledge or possibility of the lady's presence
+    and treat the claim as madness or dream.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:7
+  label: royal authority responding to mystery
+  assigned_to:
+  - fig:7
+  - fig:8
+  basis: The king orders inquiry through the vizir and then personally questions Camaralzaman.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: ring as token
+  literal_form: The princess's ring on Camaralzaman's finger
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: sym:2
+  label: tower room
+  literal_form: Camaralzaman's room in the tower
+  associated_figures:
+  - fig:2
+  - fig:6
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: well
+  literal_form: Maimoune's well and the well in which the slave is ducked
+  associated_figures:
+  - fig:3
+  - fig:6
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: magical sleep
+  literal_form: Sleep maintained by Maimoune's spells
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Princess awakens beside sleeping prince
+  summary: The princess wakes, admires Camaralzaman, notices her ring on his finger,
+    kisses him, and falls asleep while he remains under Maimoune's spells.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Genii return the princess
+  summary: Maimoune claims her prince surpasses the princess and orders Caschcasch
+    and Danhasch to carry the princess home before returning to her well.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Camaralzaman interrogates the slave
+  summary: Camaralzaman wakes, searches for the lady, questions his slave, and violently
+    punishes him when the slave denies knowledge.
+  figure_refs:
+  - fig:2
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Vizir investigates and is forced to carry a marriage message
+  summary: The grand-vizir suggests the prince's experience was a dream; Camaralzaman
+    angrily insists the lady existed, beats the vizir, and sends word that he consents
+    to marry her.
+  figure_refs:
+  - fig:2
+  - fig:8
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: King hears the prince's account
+  summary: The king questions Camaralzaman, who recounts the encounter, shows the
+    ring, asks for help finding the bride, and gains his father's belief that the
+    matter is mysterious.
+  figure_refs:
+  - fig:2
+  - fig:7
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: supernatural nocturnal encounter with sleeping beloved
+  taxonomy_refs: []
+  basis: A princess and prince are placed together at night while the prince is magically
+    asleep; the princess sees and loves him before both sleep.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage excerpt does not show the earlier supernatural setup in full,
+    only its immediate effects and reversal.
+- id: motif:2
+  label: recognition token proving an otherwise denied encounter
+  taxonomy_refs: []
+  basis: The ring found on Camaralzaman's finger supports his account after others
+    deny that the lady could have entered the tower.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The ring's exchange mechanism is not fully described within this excerpt.
+- id: motif:3
+  label: vanished beloved sought after magical removal
+  taxonomy_refs:
+  - stolen_beloved
+  basis: The princess is carried away by genii before Camaralzaman wakes; he searches
+    for her and asks his father to help find and marry her.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The taxonomy reference is approximate because the princess is returned
+    home by supernatural agents rather than explicitly abducted as a hostile theft.
+- id: motif:4
+  label: true magical event mistaken for dream or madness
+  taxonomy_refs: []
+  basis: The slave reports the prince has lost his senses, and the vizir suggests
+    the lady was a dream, though the ring later persuades the king.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The interpretation as a true magical event rests on the passage's references
+    to spells, genii, and the ring.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 5939-5960
+  quote_or_summary: The princess wakes beside Camaralzaman, admires him, says she
+    will love him, shakes him without waking him because of Maimoune's spells, notices
+    her ring on his finger, kisses him, and falls asleep.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 5961-5968
+  quote_or_summary: Maimoune asserts that her prince surpasses the princess, thanks
+    Caschcasch, orders Caschcasch and Danhasch to bear the princess home, and returns
+    to her well.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 5969-5991
+  quote_or_summary: Camaralzaman wakes, looks for the lady, questions the slave, beats
+    him and ducks him in the well; the slave reports to the king that the prince claims
+    to have seen a lady and has lost his senses.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 5992-6030
+  quote_or_summary: The grand-vizir investigates, tells Camaralzaman that no woman
+    could have entered and that it must have been a dream; Camaralzaman beats him
+    and sends the king a message that he consents to marry the lady.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 6031-6063
+  quote_or_summary: The king questions Camaralzaman, hears that he wants to marry
+    the lovely girl, receives his full account, sees the ring, accepts that he cannot
+    doubt his son, and calls the affair mysterious.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is strongly supported by the provided passage. Motif labels
+    are candidate abstractions and should be reviewed, especially the approximate
+    use of 'stolen_beloved'.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-29'
+notes: |-
+  No comparison claims were added because the passage itself does not make a comparison to another tradition or motif family beyond the supplied taxonomy candidates.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamicate-folklore-arabian-nights-lang-gutenberg__l5939-l6063
+  passage_sha256=4bbd5961dac666e5cbabb71153197e12eeba5b107035234e36bd5f6d261a779d

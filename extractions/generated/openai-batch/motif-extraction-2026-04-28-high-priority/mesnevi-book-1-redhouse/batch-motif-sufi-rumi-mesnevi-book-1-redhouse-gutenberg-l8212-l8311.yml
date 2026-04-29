@@ -1,0 +1,529 @@
+---
+record_id: batch.motif.sufi-rumi-mesnevi-book-1-redhouse-gutenberg-l8212-l8311
+source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+passage_locator:
+  label: OF QONYA. / PREFACE. / IN THE NAME OF GOD, / THE ALL-MERCIFUL, THE VERY-COMPASSIONATE.;
+    lines 8212-8311
+  start: '8212'
+  end: '8311'
+  translation: The Mesnevi
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A crow accuses the hoopoe before Solomon of false boasting; Solomon questions
+    the hoopoe, who defends himself and invokes divine providence. The passage then
+    reflects on providence, Adam's knowledge of names, divine naming versus human
+    appearances, Adam's transgression involving the prohibition and wheat, and finally
+    returns to the narrative of the lion and hare approaching a well.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The crow, jealous after hearing the hoopoe, tells Solomon that the hoopoe
+    has lied and boasts falsely.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Solomon addresses the hoopoe and questions whether vanity has led him to speak
+    beyond measure.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The hoopoe asks Solomon not to believe his foes and offers his life if his
+    claim is untrue.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage states that snares may be detected in bodily lusts unless divine
+    decree causes one to fall into them.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Adam, called the Father of Mankind and first nomenclator, is described as
+    knowing the names of all things.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The passage contrasts human naming with divine naming, citing Moses' staff
+    as called a rod by Moses but a dragon by its Creator.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: When the human mind gains strength through light, it perceives the soul and
+    the mysteries of names and falls in worship.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Adam encounters a single prohibition, reasons about it, and his appetites
+    prefer tasting the wheat.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: After the transgression image, the speaker says Adam sobbed that he had sinned
+    and turned aside from the road in darkness.
+  category: speech
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: The passage returns to the story of the lion and hare; they reach the well,
+    where the lion notices the hare slowing and drawing back.
+  category: action
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: crow
+  description: A jealous bird who accuses the hoopoe before Solomon.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Solomon
+  description: A king addressed by the crow and the hoopoe; he questions the hoopoe's
+    claim.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: hoopoe
+  description: A bird accused of false boasting; he defends himself before Solomon.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: God / Providence
+  description: The divine ruler whose decree and naming determine perception, blindness,
+    rescue, and final states.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:11
+- id: fig:5
+  name_or_label: Adam
+  description: The Father of Mankind and first nomenclator, knowledgeable in names,
+    yet harmed by one prohibition and the tasting of wheat.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+  - ev:8
+  - ev:9
+- id: fig:6
+  name_or_label: Moses
+  description: A prophet whose staff is humanly called a rod but divinely named a
+    dragon.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+- id: fig:7
+  name_or_label: "'Umer"
+  description: A person said to be classed by others as an idolater while God called
+    him a believer.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+- id: fig:8
+  name_or_label: lion
+  description: A narrative figure returning at the end of the passage, approaching
+    a well with the hare and seeking an enemy.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:10
+- id: fig:9
+  name_or_label: hare
+  description: The lion's companion or friend who slackens pace and draws backward
+    near the well.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:10
+roles:
+- id: role:1
+  label: accuser
+  assigned_to:
+  - fig:1
+  basis: The crow charges the hoopoe with lying and false boasting before Solomon.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: king and examiner
+  assigned_to:
+  - fig:2
+  basis: Solomon is addressed as king and directly questions the hoopoe's speech.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: accused defender
+  assigned_to:
+  - fig:3
+  basis: The hoopoe answers the charge, denies falsehood, and submits to judgment
+    if unable to prove his claim.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: divine decreer and namer
+  assigned_to:
+  - fig:4
+  basis: The passage attributes blindness, rescue, final states, and true naming to
+    divine decree and God.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:11
+- id: role:5
+  label: primordial knower who transgresses
+  assigned_to:
+  - fig:5
+  basis: Adam knows the names of all things but suffers from one prohibition and the
+    tasting of wheat.
+  evidence_refs:
+  - ev:5
+  - ev:8
+- id: role:6
+  label: prophet with transformed staff
+  assigned_to:
+  - fig:6
+  basis: Moses' staff is described as a rod by Moses but as a dragon by God.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: humanly misclassified believer
+  assigned_to:
+  - fig:7
+  basis: "'Umer is said to be called an idolater by others but a believer by God."
+  evidence_refs:
+  - ev:6
+- id: role:8
+  label: seeker of enemy
+  assigned_to:
+  - fig:8
+  basis: The lion urges the hare forward, saying they must find the enemy.
+  evidence_refs:
+  - ev:10
+- id: role:9
+  label: reluctant companion
+  assigned_to:
+  - fig:9
+  basis: The hare slows and draws backward at the well while accompanying the lion.
+  evidence_refs:
+  - ev:10
+symbols:
+- id: sym:1
+  label: snare
+  literal_form: traps, springes, and snares hidden from sight
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:2
+  label: names
+  literal_form: the names of all things and the mystery of the symbol that God taught
+    Adam the names
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:3
+  label: staff and dragon
+  literal_form: Moses' staff, called a rod by Moses and a dragon by God
+  associated_figures:
+  - fig:4
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: wheat under prohibition
+  literal_form: the wheat tasted after a prohibition
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:5
+  label: cloud veiling the sun
+  literal_form: a cloud that veils the sun as an image of divine decree
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:11
+- id: sym:6
+  label: light of mind
+  literal_form: light strengthening the mind so it perceives soul and mysteries
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:7
+  label: well
+  literal_form: the well reached by the lion and hare
+  associated_figures:
+  - fig:8
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+- id: sym:8
+  label: Zion's holy mount
+  literal_form: a holy mount prepared as a safe destination
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:11
+scenes:
+- id: scene:1
+  label: Crow accuses hoopoe before Solomon
+  summary: A jealous crow tells Solomon that the hoopoe has lied, arguing that a bird
+    with such claimed insight would not be caught in nearby traps.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Solomon questions and hoopoe defends
+  summary: Solomon challenges the hoopoe's apparent vanity; the hoopoe asks Solomon
+    not to believe hostile accusations and offers to die if his claim is false.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Reflection on providence, snares, and blindness
+  summary: The passage states that divine decree governs whether reason sees clearly,
+    whether snares are avoided, and whether denial of providence results in blindness.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:11
+- id: scene:4
+  label: Adam and divine naming
+  summary: Adam is described as knowing the names of all things; the passage explains
+    that human names reflect appearances while divine names reflect God's judgment
+    of what things are.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Adam, prohibition, and wheat
+  summary: Despite Adam's knowledge, one prohibition costs him dearly when his appetites
+    incline to taste the wheat; he later confesses sin and deviation from the road.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: scene:6
+  label: Lion and hare reach the well
+  summary: The narrative returns to the lion and hare; as they arrive at a well, the
+    hare slows and the lion urges him forward to locate the enemy.
+  figure_refs:
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: Divine providence overriding ordinary perception
+  taxonomy_refs:
+  - wisdom
+  basis: The passage repeatedly says that divine decree can blind reason, determine
+    final states, and also set a person right.
+  evidence_refs:
+  - ev:4
+  - ev:11
+  confidence: medium
+  cautions: The available taxonomy has no exact providence category; 'wisdom' is a
+    broad fit due to the passage's didactic reflection on divine knowledge.
+- id: motif:2
+  label: True names known by divine wisdom
+  taxonomy_refs:
+  - wisdom
+  basis: Adam's knowledge of names and the distinction between human and divine naming
+    are central to the passage's teaching.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: This is a conceptual and didactic motif rather than a narrative action
+    motif.
+- id: motif:3
+  label: Forbidden food and transgression
+  taxonomy_refs:
+  - forbidden_knowledge
+  basis: The passage describes a single prohibition and Adam's appetite leading him
+    to taste the wheat, followed by confession of sin.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  confidence: medium
+  cautions: The passage emphasizes providence and appetite more than a quest for forbidden
+    knowledge; the taxonomy reference is approximate.
+- id: motif:4
+  label: Cunning animal leading powerful animal to a well
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The lion and hare approach a well; the hare slows and the lion urges him
+    toward the enemy, suggesting a trickster-animal narrative context within this
+    passage segment.
+  evidence_refs:
+  - ev:10
+  confidence: low
+  cautions: This line range only resumes the animal story and does not yet show the
+    trick itself or its outcome.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8212-8220
+  quote_or_summary: The crow, stung by jealousy, tells Solomon that the hoopoe has
+    lied and argues that a truly insightful bird would not be caught by hidden traps.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 8221-8224
+  quote_or_summary: Solomon addresses the hoopoe, asking whether vanity has made him
+    speak wildly and excessively.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 8225-8229
+  quote_or_summary: The hoopoe asks the king not to believe hostile accusations and
+    says he should be killed if he has spoken untruthfully.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 8232-8237
+  quote_or_summary: The text says a person may detect snares in lusts unless divine
+    decree causes him to fall; by divine decree reason may cease to see clearly.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 8238-8245
+  quote_or_summary: Adam, called the Father of Mankind and first nomenclator, is said
+    to possess knowledge and to know the names of all things from first to last.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 8246-8259
+  quote_or_summary: The passage explains the mystery of 'God taught him the names,'
+    contrasting human appearances with God's naming; it cites Moses' staff as a rod
+    to Moses but a dragon to God, and 'Umer as humanly called idolater but divinely
+    called believer.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 8264-8267
+  quote_or_summary: When the mind gains strength with light, it perceives the soul
+    and mysteries of names, sees truth's rays, and falls in worship.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 8270-8275
+  quote_or_summary: Divine decree wills that one prohibition costs Adam dearly; after
+    reasoning about the prohibition, his appetites incline to taste the wheat.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 8276-8279
+  quote_or_summary: The passage says Adam's amazement passes and he sobs, confessing
+    that he has sinned and turned aside from the road in darkness.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: lines 8298-8311
+  quote_or_summary: The discourse turns back to the lion and his friend; they come
+    to the well, the hare slows and draws back, and the lion urges him forward to
+    find the enemy.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:11
+  type: summary
+  locator: lines 8280-8297
+  quote_or_summary: God's decree is compared to a cloud veiling the sun; the passage
+    says providence may threaten or protect life and can prepare a home, bringing
+    one safely to Zion's holy mount.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The main narrative and didactic elements are clear, but some images are allegorical
+    and the line range resumes a larger lion-and-hare story without its outcome.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-29'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly support a cross-text or cross-tradition comparison beyond its internal scriptural and didactic references.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-rumi-mesnevi-book-1-redhouse-gutenberg__l8212-l8311
+  passage_sha256=94ec428c5e8293e71b33b82b62ec858ac97ae0f05e39c1f9c323e3a4ca723e01

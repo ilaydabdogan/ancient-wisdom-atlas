@@ -1,0 +1,524 @@
+---
+record_id: batch.motif.sufi-rumi-mesnevi-book-1-redhouse-gutenberg-l8425-l8533
+source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+passage_locator:
+  label: OF QONYA. / PREFACE. / IN THE NAME OF GOD, / THE ALL-MERCIFUL, THE VERY-COMPASSIONATE.;
+    lines 8425-8533
+  start: '8425'
+  end: '8533'
+  translation: The Mesnevi
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: The lion saw himself reflected in the well.
+  summary: A lion mistakes his own reflection in a well for an enemy and destroys
+    himself. The narrator draws moral lessons about projection, sin, faith, divine
+    mercy, and deliverance. The hare returns to the other beasts, announces the lion’s
+    death, and is praised for saving them through stratagem granted by God.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The lion sees himself reflected in a well and, in rage, mistakes the reflection
+    for a hated foe.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The lion kills himself while trying to harm the apparent enemy in the well.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The narrator says that a tyrant who sees injustice in the world should behold
+    himself and his own deeds.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The narrator likens believers to mirrors in which each sees himself in the
+    other.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The narrator compares distorted judgment to looking through colored spectacles
+    or colored glass.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The narrator contrasts hell-fire in the heart with holy light and prays for
+    mercy’s stream to change the fire of sin into the light of faith.
+  category: speech
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:7
+  text: The hare returns jubilantly to the other beasts after seeing the lion prone
+    at the bottom of the well.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The hare’s joy is compared to a plant sprouting from underground confinement
+    and growing into a tree.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Souls enclosed in clay bodies are said to break into rapture when called away
+    and to dance for love of God.
+  category: other
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: The lion is described as lodged in a safe dungeon by the hare.
+  category: setting
+  evidence_refs:
+  - ev:8
+- id: obs:11
+  text: The hare announces to the beasts that the lion, described as a foe and tyrant,
+    is dead through divine grace.
+  category: speech
+  evidence_refs:
+  - ev:9
+- id: obs:12
+  text: The beasts gather around the hare, praise him, attribute his skill and their
+    deliverance to God, and ask him to recount how he deceived the lion.
+  category: action
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: lion
+  description: A powerful tyrannical beast who mistakes his reflection for a foe,
+    attacks, and dies at the bottom of the well.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:9
+- id: fig:2
+  name_or_label: hare
+  description: A weaker animal who uses stratagem against the lion, returns to the
+    beasts, and announces their deliverance.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:6
+  - ev:8
+  - ev:9
+  - ev:10
+- id: fig:3
+  name_or_label: beasts
+  description: The animals formerly oppressed by the lion who gather joyfully around
+    the hare and praise him.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: fig:4
+  name_or_label: God / Lord / Maker
+  description: The divine source addressed in prayer and credited with mercy, command
+    over fire and water, and the beasts’ deliverance.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+  - ev:9
+  - ev:10
+- id: fig:5
+  name_or_label: tyrant
+  description: A moral addressee used by the narrator to interpret the lion’s self-destruction
+    as self-condemnation through injustice, rage, greed, and lust.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: believers
+  description: Persons described as mirrors who see themselves in one another and
+    with the eye of faith.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: self-destroying tyrant
+  assigned_to:
+  - fig:1
+  - fig:5
+  basis: The lion destroys himself while attacking his reflection; the narrator applies
+    this to tyrants whose own acts condemn them.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: strategist or deceiver of the oppressor
+  assigned_to:
+  - fig:2
+  basis: The hare is said to have lodged the lion in the well and the beasts ask how
+    he deceived the lion.
+  evidence_refs:
+  - ev:8
+  - ev:10
+- id: role:3
+  label: deliverer of the oppressed beasts
+  assigned_to:
+  - fig:2
+  basis: The hare brings good news of the lion’s death and is praised by the beasts
+    for deliverance.
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: role:4
+  label: oppressor of weaker beings
+  assigned_to:
+  - fig:1
+  basis: The lion is described as one who crushed many with a paw of tyranny and threatened
+    the lives and peace of the beasts.
+  evidence_refs:
+  - ev:9
+- id: role:5
+  label: delivered community
+  assigned_to:
+  - fig:3
+  basis: The beasts hold a convocation, rejoice, and say they have been delivered
+    by God’s will.
+  evidence_refs:
+  - ev:10
+- id: role:6
+  label: divine source of mercy and deliverance
+  assigned_to:
+  - fig:4
+  basis: The prayer attributes mercy and command over fire and water to God; the beasts
+    credit God with the hare’s skill and their deliverance.
+  evidence_refs:
+  - ev:5
+  - ev:10
+- id: role:7
+  label: faithful perceivers
+  assigned_to:
+  - fig:6
+  basis: Believers are said to be mirrors and to see with the eye of faith, the light
+    of God.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: well as reflective trap and moral depth
+  literal_form: well containing the lion’s reflection; later called the moral well
+    and bottom/dungeon
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:8
+- id: sym:2
+  label: reflection or mirror
+  literal_form: the lion’s reflection in the well; believers as mirrors
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:3
+  label: colored spectacles and colored glass
+  literal_form: blue, red, or green spectacles and a window glazed with colored glass
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: fire transformed by holy light or mercy
+  literal_form: hell-fire in the heart, fire of sin, fire of wrath, holy light, light
+    of faith
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:5
+  label: mercy as water or stream
+  literal_form: mercy’s cleansing stream, ocean waters, streams of mercy, pleasant
+    stream, lake
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: sprouting plant becoming tree
+  literal_form: plant sprouts from earth, breaks prison underground, grows stalk,
+    leaves, flowers, fruit, and tree
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: soul in clay prison
+  literal_form: souls shut up in frames of clay, breaking forth into rapture when
+    called away
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:8
+  label: death’s broom
+  literal_form: the lion swept away by death’s broom like rubbish
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Lion’s fatal attack on his reflection
+  summary: The lion sees his own reflection in a well, mistakes it for an enemy, and
+    kills himself by attacking it.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Moral teaching on projection and distorted sight
+  summary: The narrator interprets the lion’s error as a lesson for tyrants and sinners,
+    using images of mirrors, colored lenses, hell-fire, holy light, and divine mercy.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Hare’s return and image of growth
+  summary: The hare, joyful after the lion’s death, returns to his fellows; his joy
+    is compared to a plant breaking from underground prison and growing into a tree
+    of praise.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:6
+- id: scene:4
+  label: Soul’s release from clay body
+  summary: The passage generalizes the sprouting image to souls enclosed in clay bodies,
+    which rejoice and dance when called away by God.
+  figure_refs: []
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:7
+- id: scene:5
+  label: Beasts celebrate deliverance
+  summary: The hare announces the tyrant lion’s death, and the beasts gather around
+    him, praise him, attribute his skill to God, and ask him to tell the story.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:8
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: self-destruction through mistaken reflection
+  taxonomy_refs: []
+  basis: The lion treats his own reflection as an enemy and dies while attacking it;
+    the narrator makes this an image of a tyrant attacking himself through his own
+    injustice.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage provides an explicit moral interpretation, but no formal taxonomy
+    reference for reflection is available in the supplied list.
+- id: motif:2
+  label: weak trickster defeats tyrannical stronger beast
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The hare, a weaker animal, uses stratagem to destroy the lion who oppressed
+    the beasts, then is praised for deceiving him.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+  confidence: medium
+  cautions: The supplied taxonomy has no exact animal-fable trickster category; 'trickster_boundary'
+    is a broad fit.
+- id: motif:3
+  label: mirror as moral self-knowledge
+  taxonomy_refs:
+  - wisdom
+  basis: The narrator uses the lion’s reflection and believers as mirrors to teach
+    that perceived evil may reveal the observer’s own condition.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: This is a moral-symbolic teaching rather than a narrative episode by itself.
+- id: motif:4
+  label: distorted perception by inner state
+  taxonomy_refs:
+  - wisdom
+  basis: Colored spectacles, colored glass, and hell-fire in the heart are used to
+    explain how perception of good and evil is altered by the viewer’s condition.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The motif is extracted from didactic imagery rather than from a discrete
+    mythic action.
+- id: motif:5
+  label: divine transformation of fire and water
+  taxonomy_refs: []
+  basis: The prayer says God can change the fire of sin to the light of faith, make
+    fire a pleasant stream, and make a lake appear as a fiery pit.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: Available taxonomy includes fire and water as symbols but no exact motif
+    family for divine element-transformation.
+- id: motif:6
+  label: release from confinement as plant growth and soul’s rapture
+  taxonomy_refs:
+  - death_rebirth
+  basis: The hare’s joy is compared to a plant breaking from underground prison and
+    growing, followed by an analogy of souls leaving clay bodies and rising in glory.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The passage is analogical and devotional; the 'death_rebirth' reference
+    is broad and should be reviewed.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 8425-8428
+  quote_or_summary: The lion sees himself reflected in the well, mistakes the reflection
+    for a foe, and slays himself while seeking to harm it.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source; short excerpt summarized.
+- id: ev:2
+  type: summary
+  locator: 8429-8443
+  quote_or_summary: The narrator addresses a tyrant, saying that perceived injustice
+    reveals the tyrant’s own deeds and that attacking evil in this way is an attack
+    on oneself, like the lion’s error.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: 8444-8448
+  quote_or_summary: "“Believers are as mirrors; each sees self in each.”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: summary
+  locator: 8449-8458
+  quote_or_summary: The narrator compares biased judgment to colored spectacles or
+    glass, says believers see by the light of God, and urges the sinner to drown inner
+    hell-fire in holy light.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 8459-8466
+  quote_or_summary: A prayer asks the Lord to pour mercy’s cleansing stream, transform
+    sin’s fire into faith’s light, and commands images of ocean, streams, fire, and
+    lake under divine will.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 8467-8477
+  quote_or_summary: The hare leaves joyfully after seeing the lion at the bottom of
+    the well and returns to his fellows; his exuberance is compared to a plant sprouting,
+    growing leaves, flowers, fruit, and a tree praising the Giver.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 8478-8482
+  quote_or_summary: Souls imprisoned in clay bodies are said to break forth in rapture
+    when called away, dancing for love of God and rising like the full moon.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: 8483-8488
+  quote_or_summary: The hare is said to have lodged the lion in a safe dungeon; the
+    passage also applies the image to Fakhru-’d-Dīn, pride, and a lion at the bottom
+    of a well.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: 8489-8498
+  quote_or_summary: The hare runs to his friends with good news, declaring that the
+    lion, enemy of their lives and peace, is dead through the Maker’s grace and swept
+    away by death’s broom.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: 8499-8533
+  quote_or_summary: All the beasts gather in joy around the hare, compare themselves
+    to moths around a candle, praise him as heaven-sent, attribute his skill and their
+    deliverance to God, and ask how he deceived the lion.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal sequence and didactic imagery are clear in the provided passage.
+    Motif-family mapping is partly broad because the supplied taxonomy lacks exact
+    categories for reflection, projection, and animal fable.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-29'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly compare this material to another named text, tradition, or motif family beyond its internal moral analogies.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-rumi-mesnevi-book-1-redhouse-gutenberg__l8425-l8533
+  passage_sha256=9267c1714a2f9ac34d94f035231182a48b7dce8dbd18a0d78919e3d97dca80cd

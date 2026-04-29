@@ -1,0 +1,577 @@
+---
+record_id: batch.motif.sufi-rumi-mesnevi-book-1-redhouse-gutenberg-l15639-l15771
+source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+passage_locator:
+  label: XIII. / XVII. / THE END. / FOOTNOTES:; lines 15639-15771
+  start: '15639'
+  end: '15771'
+  translation: The Mesnevi
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A sequence of translator footnotes cites Qur’anic passages and Islamic
+    traditions, explains names and terms, and briefly recounts episodes involving
+    Solomon’s lost seal, Muhammad’s sayings, Ali as the portal of science, Umar’s
+    conversion, the Christian Arabs of Najran, and the Islamic identification of the
+    forbidden fruit as wheat.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Michael and Gabriel are identified as angels mentioned by name in the Qur’an.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Solomon is said to have been robbed of his seal by a genie and temporarily
+    deprived of his kingdom.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: When deprived of his kingdom, Solomon is said to have become a fisherman.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Muhammad is reported to have said that the prince of a people is their servant.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Ali is described with exalted titles and as the portal of the City of Science
+    in a reported saying attributed to Muhammad.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Umar is described as intending to kill Muhammad, hearing Qur’an recitation
+    at his sister’s house, converting, and publicly professing the faith.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Shooting stars are mentioned in a footnote gloss.
+  category: object
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The translator notes that Muslim poets speak of wounds as flowers.
+  category: attribute
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: The translator explains a pun involving the Arabic for “swerved” and the Persian
+    word for “crow,” and notes that Muhammad has been called the nightingale of a
+    garden in related poetic language.
+  category: speech
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: The “Limner” is identified as God, and the intoxication described is said
+    to be love rather than wine.
+  category: attribute
+  evidence_refs:
+  - ev:10
+- id: obs:11
+  text: The Christian Arabs of Najran are described as facing Muhammad’s proposed
+    trial by invoking God’s curse on liars, their wives, and children; they declined
+    and submitted on tribute terms.
+  category: sequence
+  evidence_refs:
+  - ev:11
+- id: obs:12
+  text: The “canda draconis” is identified as the descending node, and the forbidden
+    fruit in Islam is said to be wheat.
+  category: attribute
+  evidence_refs:
+  - ev:12
+figures:
+- id: fig:1
+  name_or_label: Michael
+  description: Angel named in the Qur’an according to the note.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Gabriel
+  description: Angel named in the Qur’an according to the note.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Solomon
+  description: A ruler who is said to have been robbed of his seal, temporarily deprived
+    of his kingdom, and later to have become a fisherman.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: genie
+  description: The being said to have robbed Solomon of his seal.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Muhammad
+  description: Figure to whom sayings and actions are attributed, including the servant-prince
+    saying, entrusting secrets to Ali, and proposing a curse trial to the Najran Christians.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:11
+- id: fig:6
+  name_or_label: Ali
+  description: Recipient of heavenly secrets and described as the portal of the City
+    of Science in a reported saying.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: Umar
+  description: A figure described as converting after hearing Qur’an recitation at
+    his sister’s house.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+- id: fig:8
+  name_or_label: Umar’s sister
+  description: A secret Muslim whose house Umar reached before his conversion.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+- id: fig:9
+  name_or_label: God
+  description: Identified as the “Limner” and invoked in the curse trial described
+    in the notes.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:10
+  - ev:11
+- id: fig:10
+  name_or_label: Christian Arabs of Najran
+  description: An embassy to Muhammad at Medina who declined the curse trial and accepted
+    submission on tribute terms.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:11
+roles:
+- id: role:1
+  label: named angel
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage notes that Michael and Gabriel are angels mentioned by name in
+    the Qur’an.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: dispossessed ruler
+  assigned_to:
+  - fig:3
+  basis: Solomon is said to lose his seal and kingdom and to become a fisherman.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: supernatural thief
+  assigned_to:
+  - fig:4
+  basis: The genie is said to rob Solomon of his seal.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: prophetic authority
+  assigned_to:
+  - fig:5
+  basis: The notes attribute sayings and communal-religious actions to Muhammad.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:11
+- id: role:5
+  label: keeper or portal of knowledge
+  assigned_to:
+  - fig:6
+  basis: Ali is described as the portal of the City of Science and as entrusted with
+    heavenly secrets.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: convert after hearing scripture
+  assigned_to:
+  - fig:7
+  basis: Umar hears Qur’an recitation and is immediately converted.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: secret believer
+  assigned_to:
+  - fig:8
+  basis: Umar’s sister is described as already a secret Muslim.
+  evidence_refs:
+  - ev:6
+- id: role:8
+  label: divine source or judge
+  assigned_to:
+  - fig:9
+  basis: God is identified as the Limner and is invoked in a proposed curse trial.
+  evidence_refs:
+  - ev:10
+  - ev:11
+- id: role:9
+  label: submitting embassy
+  assigned_to:
+  - fig:10
+  basis: The Najran Christians are described as shrinking from the curse trial and
+    accepting submission with tribute.
+  evidence_refs:
+  - ev:11
+symbols:
+- id: sym:1
+  label: Solomon’s seal
+  literal_form: seal
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: kingdom temporarily lost
+  literal_form: kingdom
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: fisherman state
+  literal_form: fisherman
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: City of Science and Portal
+  literal_form: city and portal metaphor
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: shooting stars
+  literal_form: shooting stars
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: wounds as flowers
+  literal_form: wounds described as flowers
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:7
+  label: nightingale and crow wordplay
+  literal_form: nightingale, garden, crow wordplay
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:8
+  label: divine limner
+  literal_form: Limner
+  associated_figures:
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+- id: sym:9
+  label: forbidden fruit as wheat
+  literal_form: wheat
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:12
+- id: sym:10
+  label: canda draconis
+  literal_form: descending node
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:12
+scenes:
+- id: scene:1
+  label: Solomon’s seal and lost kingdom
+  summary: Solomon is said to be robbed of his seal by a genie, temporarily lose his
+    kingdom, and become a fisherman during that loss.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Ali as portal of knowledge
+  summary: A reported saying presents Muhammad as the City of Science and Ali as its
+    portal, with Ali entrusted to communicate heavenly secrets to the worthy.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+- id: scene:3
+  label: Umar’s conversion
+  summary: Umar sets out to kill Muhammad, hears Qur’an recited at his sister’s house,
+    converts, and publicly professes the faith.
+  figure_refs:
+  - fig:5
+  - fig:7
+  - fig:8
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+- id: scene:4
+  label: Najran curse trial proposal
+  summary: Muhammad proposes a trial invoking God’s curse against liars and their
+    families; the Najran Christian embassy declines and submits with tribute.
+  figure_refs:
+  - fig:5
+  - fig:9
+  - fig:10
+  symbol_refs: []
+  evidence_refs:
+  - ev:11
+- id: scene:5
+  label: Poetic and doctrinal glosses
+  summary: The footnotes explain poetic images including wounds as flowers, Muhammad
+    as nightingale in a punning garden phrase, God as Limner, and wheat as the forbidden
+    fruit in Islam.
+  figure_refs:
+  - fig:5
+  - fig:9
+  symbol_refs:
+  - sym:6
+  - sym:7
+  - sym:8
+  - sym:9
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+  - ev:12
+candidate_motifs:
+- id: motif:1
+  label: stolen royal seal and loss of kingship
+  taxonomy_refs:
+  - sacred_theft
+  - royal_legitimacy
+  basis: Solomon’s seal is stolen by a genie, and this theft is linked to temporary
+    loss of his kingdom.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage is a brief footnote, not a full narrative episode.
+- id: motif:2
+  label: knowledge transmitted through a chosen portal
+  taxonomy_refs:
+  - wisdom
+  basis: Muhammad is reported as the City of Science, while Ali is the portal entrusted
+    with heavenly secrets for worthy recipients.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The image appears in a note explaining a saying rather than in a narrative
+    scene.
+- id: motif:3
+  label: conversion through hearing sacred recitation
+  taxonomy_refs:
+  - initiation
+  basis: Umar hears Qur’an recitation and is described as immediately converting and
+    publicly professing the faith.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The motif is inferred from a concise biographical note.
+- id: motif:4
+  label: curse trial as divine adjudication
+  taxonomy_refs:
+  - divine_judgment
+  basis: Muhammad proposes invoking God’s curse on liars and their families as a test
+    before the Najran Christians decline and submit.
+  evidence_refs:
+  - ev:11
+  confidence: medium
+  cautions: The note summarizes a historical-religious episode rather than a mythic
+    trial in detail.
+- id: motif:5
+  label: forbidden fruit identified as wheat
+  taxonomy_refs:
+  - forbidden_knowledge
+  basis: The footnote states that the forbidden fruit in Islam is held to have been
+    wheat.
+  evidence_refs:
+  - ev:12
+  confidence: medium
+  cautions: The note gives only an identification and does not narrate the broader
+    forbidden-fruit episode.
+- id: motif:6
+  label: wounds figured as flowers
+  taxonomy_refs: []
+  basis: The translator states that Muslim poets speak of wounds as flowers.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: This is a poetic convention noted by the translator, not a narrated event.
+comparison_claims:
+- id: claim:1
+  claim: The reported saying that a people’s prince is their servant is explicitly
+    compared by the translator with Matthew 20:26-27.
+  claim_level: same_function
+  target: Matthew 20:26-27 servant-leadership saying
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage provides only the translator’s brief comparison and does
+    not analyze dependence, contact, or shared origin.
+- id: claim:2
+  claim: The note identifies the Islamic forbidden fruit with wheat, linking the passage
+    to the wider forbidden-fruit motif family while specifying an Islamic form.
+  claim_level: same_motif
+  target: forbidden fruit tradition
+  evidence_refs:
+  - ev:12
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The broader narrative is not included in the passage; only the identification
+    of the fruit is given.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 15644-15646
+  quote_or_summary: Michael and Gabriel are noted as angels mentioned by name in the
+    Qur’an.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 15648-15649
+  quote_or_summary: "“Solomon was robbed of his seal by a genie, and temporarily deprived
+    of his kingdom.”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: summary
+  locator: line 15666
+  quote_or_summary: Solomon, during deprivation of his kingdom, is said to have become
+    a fisherman.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 15672-15674
+  quote_or_summary: Muhammad is reported to have said that the prince of a people
+    is their servant; the translator compares this with Matthew 20:26-27.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 15708-15714
+  quote_or_summary: Ali is given exalted titles; Muhammad is reported to have said
+    he is the City of Science and Ali its Portal, alluding to secrets entrusted to
+    Ali.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 15720-15723
+  quote_or_summary: Umar intends to kill Muhammad, hears Qur’an recitation at his
+    sister’s house, converts, and publicly professes the faith.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: quote
+  locator: line 15725
+  quote_or_summary: "“The shooting stars.”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source; short quotation.
+- id: ev:8
+  type: quote
+  locator: line 15747
+  quote_or_summary: "“All Muslim poets speak of wounds as ‘flowers.’”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source; short quotation.
+- id: ev:9
+  type: summary
+  locator: lines 15749-15753
+  quote_or_summary: A pun is explained between Arabic “swerved” and Persian “crow,”
+    and Muhammad is noted as called the nightingale of a garden in that poetic context.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: line 15755
+  quote_or_summary: The “Limner” is identified as God; the intoxication mentioned
+    is love, not wine.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:11
+  type: summary
+  locator: lines 15759-15763
+  quote_or_summary: The Christian Arabs of Najran send an embassy to Muhammad; he
+    proposes a curse trial, and they shrink from it and accept submission with tribute.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:12
+  type: summary
+  locator: line 15765
+  quote_or_summary: The canda draconis is glossed as the descending node; the forbidden
+    fruit in Islam is held to have been wheat.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage consists of translator footnotes rather than continuous narrative.
+    Extraction is limited to explicitly stated figures, objects, glosses, and comparisons.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-29'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy references were limited to the available motif families; no symbol taxonomy reference was assigned because the listed symbol terms do not directly match the extracted literal symbols.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-rumi-mesnevi-book-1-redhouse-gutenberg__l15639-l15771
+  passage_sha256=226a0ba1f93290a7cdd7f209c80130878128530da051666cc447c2a870cdefdb
