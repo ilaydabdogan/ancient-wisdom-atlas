@@ -1,0 +1,365 @@
+---
+record_id: batch.motif.greek-hesiod-homeric-hymns-evelyn-white-gutenberg-l7165-l7180
+source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+passage_locator:
+  label: XV. TO HERACLES THE LION-HEARTED / XVI. TO ASCLEPIUS / XVII. TO THE DIOSCURI
+    / XVIII. TO HERMES; lines 7165-7180
+  start: '7165'
+  end: '7180'
+  translation: Hesiod, the Homeric Hymns, and Homerica
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The hymn invokes Hermes of Cyllene and Arcadia as Slayer of Argus, messenger
+    of the deathless gods, son of Zeus and Maia, and giver of grace and good things.
+    It recounts Maia's secluded cave dwelling and Zeus's secret nighttime visits while
+    Hera sleeps, unknown to gods or mortals.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Hermes is addressed as Cyllenian, Slayer of Argus, lord of Cyllene and Arcadia,
+    and luck-bringing messenger of the deathless gods.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Hermes is said to have been born of Maia, daughter of Atlas, and Zeus.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Maia is described as a shy goddess who avoided the throng of the blessed gods.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Maia lived in a shadowy cave.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Zeus visited Maia at dead of night while Hera slept, and neither god nor mortal
+    knew it.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Hermes is hailed as son of Zeus and Maia, giver of grace, guide, and giver
+    of good things.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Hermes
+  description: Cyllenian Hermes, Slayer of Argus, lord of Cyllene and Arcadia, luck-bringing
+    messenger of the deathless gods, son of Zeus and Maia.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: Maia
+  description: Daughter of Atlas, shy goddess, mother of Hermes, rich-tressed nymph
+    who lived in a shadowy cave.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Zeus / Son of Cronos
+  description: Father of Hermes; he lay with Maia at dead of night.
+  role_refs:
+  - role:6
+  - role:7
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Atlas
+  description: Named as the father of Maia.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Hera
+  description: White-armed Hera lay bound in sweet sleep during Zeus's nighttime visits
+    to Maia.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Deathless gods and mortal men
+  description: Groups said not to have known of Zeus's visits to Maia.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: Argus
+  description: Named only in Hermes's epithet, Slayer of Argus.
+  role_refs:
+  - role:11
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: divine messenger
+  assigned_to:
+  - fig:1
+  basis: Hermes is called the luck-bringing messenger of the deathless gods.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: guide and giver
+  assigned_to:
+  - fig:1
+  basis: Hermes is hailed as guide, giver of grace, and giver of good things.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: divine child
+  assigned_to:
+  - fig:1
+  basis: Hermes is identified as son of Zeus and Maia.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:4
+  label: mother of Hermes
+  assigned_to:
+  - fig:2
+  basis: Hermes is said to have been born of Maia.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: secluded goddess or nymph
+  assigned_to:
+  - fig:2
+  basis: Maia avoids the blessed gods and lives in a shadowy cave.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: father of Hermes
+  assigned_to:
+  - fig:3
+  basis: Hermes is identified as son of Zeus and Maia.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:7
+  label: night visitor
+  assigned_to:
+  - fig:3
+  basis: The Son of Cronos is said to lie with Maia at dead of night.
+  evidence_refs:
+  - ev:3
+- id: role:8
+  label: father of Maia
+  assigned_to:
+  - fig:4
+  basis: Maia is called daughter of Atlas.
+  evidence_refs:
+  - ev:2
+- id: role:9
+  label: sleeping spouse or goddess
+  assigned_to:
+  - fig:5
+  basis: Hera is described as lying in sweet sleep while Zeus visits Maia.
+  evidence_refs:
+  - ev:3
+- id: role:10
+  label: unaware witnesses
+  assigned_to:
+  - fig:6
+  basis: Neither deathless god nor mortal man knew of Zeus's visits to Maia.
+  evidence_refs:
+  - ev:3
+- id: role:11
+  label: slain figure in epithet
+  assigned_to:
+  - fig:7
+  basis: Argus appears only in the title Slayer of Argus applied to Hermes.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: shadowy cave
+  literal_form: cave
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: dead of night
+  literal_form: nighttime setting
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: sweet sleep
+  literal_form: sleep
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Invocation of Hermes
+  summary: The speaker sings of Hermes with titles linking him to Cyllene, Arcadia,
+    Argus, and the gods' messenger role.
+  figure_refs:
+  - fig:1
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Hermes's divine birth and Maia's seclusion
+  summary: Hermes is introduced as born from Maia, daughter of Atlas, and Zeus; Maia
+    avoids the gods and lives in a shadowy cave.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Secret nighttime union
+  summary: Zeus visits Maia at night while Hera sleeps, and the visits are unknown
+    to gods and mortals.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Closing hail to Hermes
+  summary: Hermes is hailed as son of Zeus and Maia, giver of grace, guide, and giver
+    of good things, before the singer turns to another song.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: divine parent and child
+  taxonomy_refs:
+  - divine_parent_child
+  basis: Hermes is repeatedly identified as the son of Zeus and Maia.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: The passage gives genealogy but does not narrate Hermes's childhood or
+    later familial interactions.
+- id: motif:2
+  label: sacred or divine birth
+  taxonomy_refs:
+  - sacred_birth
+  basis: A god, Hermes, is born from the union of Zeus and the goddess Maia.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The birth is stated briefly rather than narrated with miraculous details.
+- id: motif:3
+  label: secluded divine beloved in a cave
+  taxonomy_refs:
+  - divine_beloved
+  basis: Maia, a shy goddess or nymph, lives apart in a shadowy cave where Zeus visits
+    her secretly at night.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage does not explicitly use a beloved formula; the motif label
+    is inferred from the described relationship.
+- id: motif:4
+  label: divine guide and messenger
+  taxonomy_refs:
+  - trickster_boundary
+  basis: Hermes is called messenger of the gods and guide.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: medium
+  cautions: The passage supports a boundary-crossing messenger or guide role, but
+    does not narrate trickster action here.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 7165-7168; Hymn XVIII, ll. 1-4
+  quote_or_summary: Hermes is invoked as Cyllenian, Slayer of Argus, lord of Cyllene
+    and Arcadia, and luck-bringing messenger of the deathless gods.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:2
+  type: summary
+  locator: 7168-7170; Hymn XVIII, ll. 4-6
+  quote_or_summary: Hermes is said to have been born of Maia, daughter of Atlas, and
+    Zeus.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:3
+  type: summary
+  locator: 7170-7174; Hymn XVIII, ll. 6-9
+  quote_or_summary: Maia avoids the blessed gods and lives in a shadowy cave; Zeus
+    lies with her at night while Hera sleeps, and neither gods nor mortals know.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:4
+  type: summary
+  locator: 7176-7180; Hymn XVIII, ll. 10-12
+  quote_or_summary: The hymn hails Hermes as son of Zeus and Maia, giver of grace,
+    guide, and giver of good things, then turns to another song.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source; summary generated from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based only on the supplied lines. Motif labels beyond genealogy
+    and messenger roles are cautious because the hymn excerpt is brief.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  The supplied passage text contains only Hymn XVIII to Hermes, despite the broader passage label naming Hymns XV-XVIII.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-hesiod-homeric-hymns-evelyn-white-gutenberg__l7165-l7180
+  passage_sha256=582c0f536016050198a5139b6a662c3b0cd1f3733f26ad8e2af835953b49f0ca

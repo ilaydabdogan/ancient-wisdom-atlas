@@ -1,0 +1,495 @@
+---
+record_id: batch.motif.celtic-welsh-mabinogion-guest-gutenberg-l3608-l3676
+source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+passage_locator:
+  label: C. E. G. / THE LADY OF THE FOUNTAIN / PEREDUR THE SON OF EVRAWC / GERAINT
+    THE SON OF ERBIN; lines 3608-3676
+  start: '3608'
+  end: '3676'
+  translation: The Mabinogion
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Geraint and Enid travel along a high road toward a fair valley with a river,
+    bridge, and fortified town. A knight warns that the Little King, Gwiffert Petit,
+    customarily combats every knight entering his lands. Geraint proceeds, is overtaken
+    by Gwiffert Petit, fights him on horseback and on foot, defeats him, grants mercy
+    on condition of alliance, refuses rest at the Little King's court, and continues
+    wounded toward a wood with Enid going first.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Geraint travels along a high road while the maiden goes first.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The travelers see a valley with a large river, a bridge, and a fortified town
+    beyond the river.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: An approaching mounted knight identifies the valley and walled town as belonging
+    to Gwiffert Petit, called the Little King by the Cymry.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The mounted knight says that a traveler cannot pass the Little King's tower
+    unless intending combat, because the Little King customarily encounters every
+    knight on his lands.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Geraint declares that he will continue by that way despite the warning.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Gwiffert Petit overtakes Geraint fully armed on a strong warhorse and challenges
+    him for infringing his rules.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Geraint and Gwiffert Petit charge one another and fight with lances, then
+    continue fighting on foot after their horses are brought down.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Geraint wounds Gwiffert Petit on the head, causing the Little King's sword
+    to fly from his hand.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Gwiffert Petit asks for mercy, and Geraint grants it on condition that he
+    become Geraint's ally and aid him in future trouble.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: Gwiffert Petit pledges his faith and invites Geraint to his court to recover
+    from weariness and fatigue.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: Gwiffert Petit sees Enid afflicted and urges Geraint to rest, but Geraint
+    continues his journey wounded and blood-covered toward a wood, with the maiden
+    going first.
+  category: sequence
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Geraint
+  description: A traveling knight who proceeds by the bridge road, fights Gwiffert
+    Petit, grants him mercy, and continues wounded.
+  role_refs:
+  - role:1
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: Enid / the maiden
+  description: The maiden traveling with Geraint, going before him; Gwiffert Petit
+    sees her noble mien and deep affliction.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:8
+- id: fig:3
+  name_or_label: Mounted informing knight
+  description: A man on a large, lofty, tractable steed who tells Geraint about the
+    valley, town, and Little King's custom.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Gwiffert Petit / the Little King
+  description: Owner of the valley and walled town; a very small armed knight on a
+    strong warhorse who customarily encounters knights on his lands and is defeated
+    by Geraint.
+  role_refs:
+  - role:4
+  - role:6
+  - role:7
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:5
+  name_or_label: Squire of Gwiffert Petit
+  description: A squire who serves Gwiffert Petit with lances as they break during
+    combat.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: Arthur
+  description: Named in speech by Geraint and Gwiffert Petit as a lord or authority,
+    but not present in the scene.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: journeying knight
+  assigned_to:
+  - fig:1
+  basis: Geraint proceeds along the high road and continues his journey after the
+    combat.
+  evidence_refs:
+  - ev:1
+  - ev:8
+- id: role:2
+  label: traveling maiden companion
+  assigned_to:
+  - fig:2
+  basis: The maiden goes first with Geraint and is later identified as Enid standing
+    nearby.
+  evidence_refs:
+  - ev:1
+  - ev:8
+- id: role:3
+  label: local informant
+  assigned_to:
+  - fig:3
+  basis: The mounted knight answers Geraint's questions about the valley, town, and
+    Little King's custom.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: local ruler and landholder
+  assigned_to:
+  - fig:4
+  basis: Gwiffert Petit is identified as owner of the valley and walled town and is
+    called the Little King.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: challenged trespasser
+  assigned_to:
+  - fig:1
+  basis: Gwiffert Petit challenges Geraint for infringing his rules after Geraint
+    takes the road.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: combatant knight
+  assigned_to:
+  - fig:1
+  - fig:4
+  basis: Geraint and Gwiffert Petit charge one another and fight on horseback and
+    on foot.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: defeated opponent turned ally
+  assigned_to:
+  - fig:4
+  basis: After being wounded and asking mercy, Gwiffert Petit accepts Geraint's condition
+    to become his ally and aid him.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:8
+  label: weapon-serving squire
+  assigned_to:
+  - fig:5
+  basis: The squire supplies Gwiffert Petit with lances during the combat.
+  evidence_refs:
+  - ev:5
+- id: role:9
+  label: invoked authority
+  assigned_to:
+  - fig:6
+  basis: Arthur is invoked in the disputing speech before the combat.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: river crossing
+  literal_form: A large river running through the valley, with a bridge over it and
+    the high road leading to the bridge.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: fortified town and tower
+  literal_form: A fair fortified or walled town beyond the bridge, with the Little
+    King's tower on the other side of the bridge.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: forbidden road
+  literal_form: The road by the bridge and beneath the town that the Little King treats
+    as subject to his rules.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: disarmed sword
+  literal_form: The Little King's sword flies from his hand to the furthest end of
+    the plain after Geraint strikes him.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: blood-covered body
+  literal_form: Geraint mounts in pain, covered with blood, and continues traveling.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:6
+  label: wood ahead
+  literal_form: The wood seen before Geraint and Enid as they proceed after the combat.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Approach to the valley crossing
+  summary: Geraint and Enid travel along the high road and see a fair valley, river,
+    bridge, and fortified town.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Warning about the Little King's custom
+  summary: A mounted knight tells Geraint that Gwiffert Petit owns the valley and
+    town and that passage by the tower entails combat with him.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Challenge on the road
+  summary: Geraint proceeds and is overtaken by the armed Little King, who accuses
+    him of infringing his rules and demands satisfaction.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:6
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Combat and defeat of Gwiffert Petit
+  summary: Geraint and Gwiffert Petit fight with lances and then on foot until Geraint
+    wounds the Little King and disarms him.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Mercy, alliance, and continued journey
+  summary: Gwiffert Petit asks mercy; Geraint grants it in exchange for alliance and
+    future aid, refuses rest, and continues toward the wood with Enid.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: guarded passage requiring combat
+  taxonomy_refs: []
+  basis: A road by a bridge and tower is said to be impassable unless the traveler
+    intends to fight the local ruler, who customarily encounters knights on his lands.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage states a local custom of combat but does not frame it as supernatural
+    or ritual.
+- id: motif:2
+  label: defeated adversary becomes sworn ally
+  taxonomy_refs: []
+  basis: After Geraint wounds and disarms the Little King, he grants mercy on condition
+    that the defeated opponent become his ally and assist him in future trouble; the
+    Little King pledges his faith.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The alliance is conditional and oath-like, but the passage does not elaborate
+    later fulfillment here.
+- id: motif:3
+  label: wounded hero refuses rest and continues journey
+  taxonomy_refs: []
+  basis: Although Gwiffert Petit urges Geraint to rest and recover, Geraint refuses
+    and rides on in pain and covered with blood.
+  evidence_refs:
+  - ev:8
+  confidence: high
+  cautions: This is a narrative pattern within the passage; broader significance requires
+    context outside the supplied lines.
+- id: motif:4
+  label: threshold encounter during journey
+  taxonomy_refs:
+  - initiation
+  basis: Geraint's journey brings him to a river bridge, a town boundary, a warning,
+    and a combat challenge before he can continue.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The taxonomy reference is tentative; the passage presents a martial travel
+    obstacle, not an explicitly named initiation rite.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 3608-3614
+  quote_or_summary: Geraint travels on a high road with the maiden going first; they
+    see a fair valley with a large river, bridge, and fortified town beyond it.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 3615-3622
+  quote_or_summary: A mounted man from the valley tells Geraint that Gwiffert Petit,
+    called the Little King by the Cymry, owns the valley and walled town.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 3622-3629
+  quote_or_summary: The mounted knight says one cannot pass the Little King's tower
+    unless intending combat, because the Little King encounters every knight on his
+    lands; Geraint says he will continue that way.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 3630-3643
+  quote_or_summary: Geraint takes the road, is followed by a very small fully armed
+    knight on a strong warhorse, and is accused of insulting the knight's dignity
+    and infringing his rules; Arthur is invoked in their exchange.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 3644-3655
+  quote_or_summary: The two knights charge, break lances supplied by a squire, damage
+    their shields, bring their horses to their knees, and then fight on foot with
+    severe blows.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 3656-3664
+  quote_or_summary: Geraint gathers his strength, strikes Gwiffert Petit on the head
+    through his armour, and the Little King's sword flies from his hand.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 3664-3671
+  quote_or_summary: Gwiffert Petit asks mercy; Geraint grants it if he becomes Geraint's
+    ally and future helper, and Gwiffert Petit pledges his faith and invites Geraint
+    to his court to recover.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: 3672-3676
+  quote_or_summary: Gwiffert Petit sees Enid afflicted and urges rest; Geraint refuses,
+    mounts in pain covered with blood, and proceeds toward the wood with the maiden
+    going first.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based only on the supplied public-domain passage. Motif labels
+    are descriptive; only the tentative initiation taxonomy link needs review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly support cross-tradition comparison.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:celtic-welsh-mabinogion-guest-gutenberg__l3608-l3676
+  passage_sha256=528e4a0b743f41f7f9b6c1edb70ee2df968b72b7520a5110fd1230fd19e4c260

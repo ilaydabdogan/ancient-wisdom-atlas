@@ -1,0 +1,394 @@
+---
+record_id: batch.motif.greek-hesiod-homeric-hymns-evelyn-white-gutenberg-l7271-l7287
+source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+passage_locator:
+  label: XXII. TO POSEIDON / XXIII. TO THE SON OF CRONOS, MOST HIGH / XXIV. TO HESTIA
+    / XXV. TO THE MUSES AND APOLLO; lines 7271-7287
+  start: '7271'
+  end: '7287'
+  translation: Hesiod, the Homeric Hymns, and Homerica
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The speaker invokes Hestia, who tends Apollo's holy house at Pytho, asking
+    her to enter the house with Zeus and grant grace to the song. The speaker then
+    begins with the Muses, Apollo, and Zeus, saying that singers and lyre-players
+    come through the Muses and Apollo, kings come from Zeus, and those loved by the
+    Muses speak sweetly. The passage closes with a hail to the children of Zeus and
+    a request that they honor the song.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Hestia is addressed as tending the holy house of Apollo at Pytho.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Hestia is described with soft oil dripping from her locks.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The speaker asks Hestia to come into the house, to come with one mind with
+    Zeus, and to bestow grace on the speaker's song.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The speaker begins with the Muses, Apollo, and Zeus.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage states that singers on earth and lyre-players exist through the
+    Muses and Apollo.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The passage states that kings are from Zeus.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: A person loved by the Muses is called happy, and sweet speech flows from that
+    person's lips.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:8
+  text: The speaker hails the children of Zeus and asks them to give honor to the
+    speaker's song.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: The speaker says another song will also be remembered.
+  category: sequence
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Hestia
+  description: Goddess addressed as tending Apollo's holy house at Pytho and asked
+    to enter the house and grace the song.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Apollo
+  description: Called lord Apollo and the Far-shooter at Pytho; named with the Muses
+    as a source of singers and lyre-players.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Zeus
+  description: Called all-wise; named with Hestia in the invocation and identified
+    as the source of kings.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: The Muses
+  description: Named with Apollo and Zeus; identified with Apollo as the source of
+    singers and lyre-players; those they love have sweet speech.
+  role_refs:
+  - role:4
+  - role:7
+  - role:8
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:5
+  name_or_label: Singers and lyre-players
+  description: Human performers said to exist through the Muses and Apollo.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Kings
+  description: Rulers said to be from Zeus.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:2
+- id: fig:7
+  name_or_label: Speaker or singer
+  description: The first-person speaker asks for divine grace and honor for the song
+    and says another song will be remembered.
+  role_refs:
+  - role:11
+  evidence_refs:
+  - ev:1
+  - ev:3
+roles:
+- id: role:1
+  label: tender of Apollo's holy house
+  assigned_to:
+  - fig:1
+  basis: Hestia is addressed as tending the holy house of Apollo at Pytho.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: invoked granter of grace to song
+  assigned_to:
+  - fig:1
+  basis: The speaker asks Hestia to come into the house and bestow grace on the song.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: lord and Far-shooter at Pytho
+  assigned_to:
+  - fig:2
+  basis: Apollo is called the lord Apollo and the Far-shooter at goodly Pytho.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: divine source of singers and lyre-players
+  assigned_to:
+  - fig:2
+  - fig:4
+  basis: The passage says singers and lyre-players are through the Muses and Apollo.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: all-wise deity
+  assigned_to:
+  - fig:3
+  basis: Zeus is called all-wise in the Hestia invocation.
+  evidence_refs:
+  - ev:1
+- id: role:6
+  label: source of kings
+  assigned_to:
+  - fig:3
+  basis: The passage says kings are from Zeus.
+  evidence_refs:
+  - ev:2
+- id: role:7
+  label: bestowers of sweet speech through love
+  assigned_to:
+  - fig:4
+  basis: The passage says the person whom the Muses love has sweet speech flowing
+    from his lips.
+  evidence_refs:
+  - ev:2
+- id: role:8
+  label: children of Zeus
+  assigned_to:
+  - fig:4
+  basis: The speaker hails the children of Zeus after addressing the Muses and Apollo.
+  evidence_refs:
+  - ev:3
+- id: role:9
+  label: human musical and poetic performers
+  assigned_to:
+  - fig:5
+  basis: Singers and lyre-players are named as earthly performers deriving through
+    the Muses and Apollo.
+  evidence_refs:
+  - ev:2
+- id: role:10
+  label: rulers derived from Zeus
+  assigned_to:
+  - fig:6
+  basis: Kings are said to be from Zeus.
+  evidence_refs:
+  - ev:2
+- id: role:11
+  label: invoking singer
+  assigned_to:
+  - fig:7
+  basis: The speaker asks deities to grace and honor the song and says another song
+    will be remembered.
+  evidence_refs:
+  - ev:1
+  - ev:3
+symbols:
+- id: sym:1
+  label: holy house at Pytho
+  literal_form: The holy house of lord Apollo at goodly Pytho.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: oil on Hestia's locks
+  literal_form: Soft oil dripping ever from Hestia's locks.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: song
+  literal_form: The speaker's song, for which grace and honor are requested.
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:4
+  label: lyre
+  literal_form: The lyre played by earthly performers.
+  associated_figures:
+  - fig:2
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: sweet speech from lips
+  literal_form: Sweet speech flowing from the lips of one loved by the Muses.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Invocation to Hestia
+  summary: The speaker addresses Hestia as attendant of Apollo's holy house at Pytho
+    and asks her to enter the house with Zeus and grant grace to the song.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Divine sources of song and kingship
+  summary: The speaker begins with the Muses, Apollo, and Zeus, stating that singers
+    and lyre-players come through the Muses and Apollo, while kings come from Zeus.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Closing hail and transition
+  summary: The speaker hails the children of Zeus, asks them to honor the song, and
+    says another song will be remembered.
+  figure_refs:
+  - fig:4
+  - fig:7
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: deity invoked to enter and bless a song
+  taxonomy_refs: []
+  basis: Hestia is asked to come into the house and bestow grace on the speaker's
+    song.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is a local hymnic invocation pattern; no broader taxonomy reference
+    is asserted.
+- id: motif:2
+  label: divine patronage of singers and music
+  taxonomy_refs: []
+  basis: Singers and lyre-players are said to exist through the Muses and Apollo,
+    and the Muses' love gives sweet speech.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage states patronage directly but does not narrate a mythic episode.
+- id: motif:3
+  label: divine origin of kingship
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The passage states that kings are from Zeus.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The statement supports a royal-legitimacy association, but it is brief
+    and formulaic rather than a developed kingship narrative.
+- id: motif:4
+  label: honor requested for poetic offering
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The speaker asks the children of Zeus to give honor to the song and asks
+    Hestia to grant grace to it.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: The exchange is implicit in hymnic request language; the passage does
+    not describe a material offering or reciprocal outcome.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: XXIV. To Hestia, ll. 1-5; source lines 7271-7276
+  quote_or_summary: Hestia tends Apollo's holy house at Pytho, has soft oil dripping
+    from her locks, and is asked to enter the house with Zeus and bestow grace on
+    the speaker's song.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source; concise summary.
+- id: ev:2
+  type: summary
+  locator: XXV. To the Muses and Apollo, ll. 1-5; source lines 7278-7284
+  quote_or_summary: The speaker begins with the Muses, Apollo, and Zeus; singers and
+    lyre-players come through the Muses and Apollo, kings are from Zeus, and those
+    loved by the Muses have sweet speech.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source; concise summary.
+- id: ev:3
+  type: summary
+  locator: XXV. To the Muses and Apollo, ll. 6-7; source lines 7286-7287
+  quote_or_summary: The speaker hails the children of Zeus, asks them to honor the
+    song, and says another song will also be remembered.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source; concise summary.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based only on the supplied English passage. Motif labels are
+    cautious because the passage is a brief hymnic invocation and contains little
+    narrative development. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  The source locator label mentions XXII-XXV, but the supplied passage text includes only XXIV and XXV; extraction is limited to the supplied passage.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-hesiod-homeric-hymns-evelyn-white-gutenberg__l7271-l7287
+  passage_sha256=7cb937f8caa75e323c36d23af34d010fc9a43a4b12ecf71b2ca8f1e612fc6530

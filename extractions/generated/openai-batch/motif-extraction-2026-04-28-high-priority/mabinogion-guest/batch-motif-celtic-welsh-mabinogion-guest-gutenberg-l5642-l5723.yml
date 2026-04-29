@@ -1,0 +1,500 @@
+---
+record_id: batch.motif.celtic-welsh-mabinogion-guest-gutenberg-l5642-l5723
+source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+passage_locator:
+  label: THE LADY OF THE FOUNTAIN / PEREDUR THE SON OF EVRAWC / GERAINT THE SON OF
+    ERBIN / THE DREAM OF RHONABWY; lines 5642-5723
+  start: '5642'
+  end: '5723'
+  translation: The Mabinogion
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Arthur and Owain play chess while a series of youths from decorated tents
+    report that Arthur's attendants are harassing and killing Owain's Ravens. After
+    repeated refusals to interrupt the game, Owain sends the third youth back to raise
+    a banner at the thickest fighting. The Ravens rise into the air, regain force,
+    and attack the men who harmed them.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Arthur sits within the carpet while Owain stands before him, and Arthur asks
+    Owain to play chess.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The chess set has golden pieces and a silver board.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A white tent with a red canopy bears the figure of a jet-black serpent with
+    red eyes and a red flaming tongue.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A young page from the white tent salutes Owain and asks whether Arthur's pages
+    and attendants are harassing Owain's Ravens with Owain's permission.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Arthur tells Owain to continue playing rather than interrupting the game after
+    the first complaint.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: A second youth comes from a bright yellow tent topped with the figure of a
+    bright red lion.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The second youth reports that attendants of the Emperor are harassing Owain's
+    Ravens, killing some and worrying others.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: A third youth comes from a large speckled yellow tent topped with a golden
+    eagle bearing a precious stone on its head.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The third youth carries a mighty speckled yellow lance with a displayed banner.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: The third youth reports that the chief part of Owain's Ravens have been killed
+    and the rest are too wounded or bruised to raise their wings.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:11
+  text: Owain sends the third youth back to the thickest part of the strife and tells
+    him to lift up the banner.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:12
+  text: When the banner is raised, the Ravens rise into the air, shake off weariness,
+    recover energy and courage, and descend on the men.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:13
+  text: The Ravens seize men by heads, eyes, ears, and arms, carry them into the air,
+    wound them, and slay some of them.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Arthur
+  description: Called Arthur and the Emperor; he plays chess with Owain and is asked
+    to forbid his men from harming the Ravens.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Owain son of Urien
+  description: Arthur's chess opponent; the youths address him as lord and identify
+    the Ravens as his.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Red youth who brings the chess
+  description: A red youth brings the chess set for Arthur and Owain.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Young page from the white tent
+  description: A yellow-haired, blue-eyed page richly dressed and carrying a three-edged
+    sword; he reports harassment of Owain's Ravens.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Ruddy youth from the bright yellow tent
+  description: A ruddy, auburn-haired youth in yellow satin, carrying a huge three-edged
+    sword; he reports that some Ravens are killed and others worried.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Youth from the speckled yellow tent
+  description: A fair, noble-bearing youth with yellow hair, a blue satin scarf, and
+    a mighty lance with a displayed banner; he reports severe harm to the Ravens and
+    later raises the banner.
+  role_refs:
+  - role:4
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:7
+  name_or_label: Owain's Ravens
+  description: Ravens belonging to Owain; they are harassed, killed, wounded, then
+    rise after the banner is lifted and attack the men.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:8
+  name_or_label: Arthur's young pages, attendants, and men
+  description: The young pages and attendants of Arthur are said to harass, torment,
+    worry, kill, and wound Owain's Ravens; later men are attacked by the Ravens.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+roles:
+- id: role:1
+  label: chess player
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Arthur and Owain begin and continue games of chess during the passage.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:2
+  label: lord of the Ravens
+  assigned_to:
+  - fig:2
+  basis: Multiple youths refer to the birds as Owain's Ravens.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:3
+  label: chess bearer
+  assigned_to:
+  - fig:3
+  basis: The red youth brings the chess set for Arthur and Owain.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: complaining messenger
+  assigned_to:
+  - fig:4
+  - fig:5
+  - fig:6
+  basis: Each youth comes to Owain and reports harm being done to the Ravens.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:5
+  label: commander asked to restrain his men
+  assigned_to:
+  - fig:1
+  basis: Owain repeatedly asks Arthur to forbid his men or attendants from harming
+    the Ravens.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:6
+  label: banner lifter
+  assigned_to:
+  - fig:6
+  basis: Owain instructs the third youth to lift the banner, and the youth does so
+    at the place where the strife is hardest.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:7
+  label: injured and retaliating bird host
+  assigned_to:
+  - fig:7
+  basis: The Ravens are reported harmed and later rise together to attack the men.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:8
+  label: harassers of the Ravens
+  assigned_to:
+  - fig:8
+  basis: The attendants and men are described as harassing, worrying, killing, and
+    wounding the Ravens.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+symbols:
+- id: sym:1
+  label: gold and silver chess set
+  literal_form: Golden chess pieces and silver chess board
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: serpent-topped white tent
+  literal_form: White tent with red canopy and jet-black serpent figure with red eyes
+    and flaming tongue
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: lion-topped yellow tent
+  literal_form: Bright yellow tent with the figure of a bright red lion on its summit
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: eagle-topped speckled tent
+  literal_form: Large speckled yellow tent with a golden eagle and a precious stone
+    on the eagle's head
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: displayed battle banner
+  literal_form: Banner displayed on a mighty speckled yellow lance
+  associated_figures:
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:6
+  label: Owain's Ravens
+  literal_form: Ravens belonging to Owain
+  associated_figures:
+  - fig:2
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: Arthur and Owain begin chess
+  summary: Arthur asks Owain to play chess, a red youth brings a gold-and-silver chess
+    set, and the game begins.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: First complaint from the serpent-topped tent
+  summary: A page from a white tent marked by a serpent asks whether Arthur's pages
+    and attendants are tormenting Owain's Ravens with Owain's permission; Arthur tells
+    Owain to play on.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:2
+  - sym:6
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Second complaint from the lion-topped tent
+  summary: A ruddy youth from a yellow tent marked by a red lion reports that some
+    Ravens are being killed and others worried; Arthur again tells Owain to continue
+    the game.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:3
+  - sym:6
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Third complaint from the eagle-topped tent
+  summary: A youth from a large speckled tent marked by a golden eagle reports that
+    most of the Ravens are killed and the rest badly wounded; Owain orders him to
+    raise the banner where the fighting is thickest.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Banner raised and Ravens counterattack
+  summary: The youth raises the banner, the Ravens rise with renewed force, and they
+    attack, wound, carry off, and kill some of the men who had harmed them.
+  figure_refs:
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Restorative banner rallying fallen or wounded birds
+  taxonomy_refs:
+  - resurrection
+  - death_rebirth
+  basis: After reports that the chief part of the Ravens have been killed and the
+    rest are unable to raise their wings, the lifting of the banner is followed by
+    the Ravens rising, shaking off weariness, and recovering energy and courage.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage does not explicitly explain the banner as magical or individually
+    describe dead Ravens returning to life; the restoration is inferred from the sequence.
+- id: motif:2
+  label: Escalating messenger petitions during an uninterrupted game
+  taxonomy_refs: []
+  basis: Three richly described youths arrive in succession during chess games to
+    report increasing harm to Owain's Ravens, while Arthur repeatedly tells Owain
+    to continue playing.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is a narrative pattern in the passage rather than a mapped taxonomy
+    motif.
+- id: motif:3
+  label: Animal host retaliates against human attackers
+  taxonomy_refs: []
+  basis: The Ravens, after being harassed and wounded by men, rise together and attack
+    those men, seizing, carrying, wounding, and killing some of them.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: No broader comparative identification is made from the passage alone.
+- id: motif:4
+  label: Heraldic animal tents precede messengers
+  taxonomy_refs:
+  - serpent
+  basis: 'Each of the three messengers emerges from a vividly described tent marked
+    by an animal figure: serpent, lion, and eagle.'
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: Only the serpent matches an available symbol taxonomy reference; the lion
+    and eagle are recorded without taxonomy IDs.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5642-5647
+  quote_or_summary: Arthur asks Owain to play chess; a red youth brings golden pieces
+    and a silver board, and Arthur and Owain begin the game.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source text; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 5648-5670
+  quote_or_summary: A white tent with red canopy and jet-black serpent appears; a
+    young page reports that Arthur's pages and attendants are harassing Owain's Ravens;
+    Arthur tells Owain to play his game.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source text; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 5671-5689
+  quote_or_summary: A ruddy youth comes from a bright yellow tent topped by a red
+    lion and reports that Arthur's attendants are killing some of Owain's Ravens and
+    worrying others; Arthur again tells Owain to play.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source text; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 5690-5709
+  quote_or_summary: A youth from a large speckled yellow tent topped by a golden eagle
+    carries a lance with a banner; he reports that most Ravens are killed and the
+    rest badly wounded; Owain tells him to raise the banner at the thickest fighting.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source text; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 5710-5723
+  quote_or_summary: The youth raises the banner; the Ravens rise into the air, shake
+    off weariness, regain courage, and descend on the men, carrying, wounding, and
+    killing some.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source text; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is strong because the passage is explicit. Motif classification
+    is more cautious where restoration of dead Ravens or banner efficacy is implied
+    by sequence rather than explained.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata; comparison claims left empty because the passage itself does not make an explicit cross-tradition comparison.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:celtic-welsh-mabinogion-guest-gutenberg__l5642-l5723
+  passage_sha256=1c64ea3938f7fde07a51cad2ac792920002ff1afb3bcf581ecfd894b8411fa26

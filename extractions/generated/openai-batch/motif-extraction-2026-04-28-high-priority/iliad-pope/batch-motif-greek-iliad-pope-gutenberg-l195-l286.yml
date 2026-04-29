@@ -1,0 +1,441 @@
+---
+record_id: batch.motif.greek-iliad-pope-gutenberg-l195-l286
+source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+passage_locator:
+  label: The Iliad / CONCLUDING NOTE. / INTRODUCTION.; lines 195-286
+  start: '195'
+  end: '286'
+  translation: The Iliad
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage argues that skepticism and knowledge mutually produce one another,
+    that modern historical and literary criticism tests tradition and authorial motives,
+    and that the lives or authorship of major figures such as Homer, Socrates, and
+    Shakespeare remain uncertain and disputed. It then applies this skeptical climate
+    especially to Homeric biography and the authorship of the Iliad and Odyssey.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that skepticism is a result of knowledge and that knowledge
+    is a result of skepticism.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says learning requires setting aside old notions and embracing
+    fresh ones.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage describes history and tradition as being subjected to stricter
+    handling than in former ages.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage presents probability and consistency as tests applied to historical
+    evidence.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage names Homer, Socrates, and Shakespeare as major contributors to
+    intellectual enlightenment whose histories have produced extensive discussion.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage says knowledge of Socrates is limited by contradictions between
+    Plato and Xenophon.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The passage says recent theorists have found it easy and popular to deny the
+    real existence of people and things considered difficult to believe.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The passage states that skepticism has reached a culminating point with respect
+    to Homer.
+  category: other
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: The passage says the professed biographies of Homer are partly forgeries and
+    partly products of ingenuity and imagination.
+  category: attribute
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: The passage says a treatise on the Life of Homer has been attributed to Herodotus.
+  category: relationship
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Homer
+  description: Named as one of three writers who contributed greatly to intellectual
+    enlightenment; his biography and authorship are described as disputed.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:4
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: Socrates
+  description: Named as a major contributor to intellectual enlightenment whose known
+    history is uncertain because of contradictory portrayals.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Shakespeare
+  description: Named as a major contributor to intellectual enlightenment whose authorship
+    and other matters are described as debated.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Plato
+  description: Named as one of the writers whose account affects what can be known
+    about Socrates.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Xenophon
+  description: Named as one of the writers whose account affects what can be known
+    about Socrates.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: Alexander the Great
+  description: Named as a historical figure whose existence would be less excusable
+    to question than the existence of Romulus.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:7
+  name_or_label: Romulus
+  description: Named as a figure whose existence the passage presents as less credible
+    than that of Alexander the Great.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+- id: fig:8
+  name_or_label: Herodotus
+  description: Named in relation to historical testimony and to a treatise on the
+    Life of Homer attributed to him.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: fig:9
+  name_or_label: Numa Pompilius
+  description: Named as an old king idealized by Florian's pen.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: intellectual exemplar
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  basis: The passage says Homer, Socrates, and Shakespeare contributed greatly to
+    intellectual enlightenment.
+  evidence_refs:
+  - ev:4
+- id: role:2
+  label: contested author or biography
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: The passage describes controversy around Shakespearean authorship and Homeric
+    authorship or biography.
+  evidence_refs:
+  - ev:4
+  - ev:7
+  - ev:8
+- id: role:3
+  label: contradictorily transmitted teacher
+  assigned_to:
+  - fig:2
+  basis: The passage says Socrates is known through contradictory accounts by Plato
+    and Xenophon.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: transmitter or attributed authority
+  assigned_to:
+  - fig:4
+  - fig:5
+  - fig:8
+  basis: Plato and Xenophon are described as transmitters of Socrates; Herodotus is
+    cited as a historical source and as the attributed author of a Life of Homer.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:8
+- id: role:5
+  label: historical comparison figure
+  assigned_to:
+  - fig:6
+  basis: Alexander is used as a comparative example in a statement about denying existence.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: doubtful or idealized traditional figure
+  assigned_to:
+  - fig:7
+  - fig:9
+  basis: Romulus and Numa Pompilius are invoked as examples of figures whose traditional
+    accounts are difficult to believe or idealized.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: touchstone of skepticism
+  literal_form: touchstone image used for the testing effect of skepticism
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: sifting of evidence
+  literal_form: sifting image for applying probability to historical evidence
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: ocean of discussion
+  literal_form: boundless ocean image for the scale of debate about Homer, Socrates,
+    and Shakespeare
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: throwing written tradition overboard
+  literal_form: overboard image for rejecting written tradition about the Iliad and
+    Odyssey
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:5
+  label: circular argument
+  literal_form: circle image for self-confirming denial of testimony
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Skepticism and learning
+  summary: The passage opens by linking skepticism with knowledge and describing learning
+    as a process of unlearning old ideas and accepting new ones.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Critical testing of history and tradition
+  summary: The passage describes modern criticism as stripping away superstition,
+    testing writers' motives, and applying probability and consistency to historical
+    evidence.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Uncertain lives of major intellectual figures
+  summary: The passage presents Homer, Socrates, and Shakespeare as influential figures
+    whose histories or received accounts are uncertain and heavily debated.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Skepticism about traditional existence and authority
+  summary: The passage describes a tendency to deny the existence of difficult traditional
+    figures and uses Alexander, Romulus, Herodotus, and Numa Pompilius as examples
+    in this argument.
+  figure_refs:
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:9
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: Homeric skepticism and disputed biography
+  summary: The passage applies the climate of skepticism to Homer, saying written
+    tradition about the authorship of the Iliad and Odyssey is often rejected and
+    that Homeric biographies are unreliable.
+  figure_refs:
+  - fig:1
+  - fig:8
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: wisdom through skepticism and unlearning
+  taxonomy_refs:
+  - wisdom
+  basis: The passage explicitly connects skepticism, knowledge, and the need to unlearn
+    previously acquired notions as part of education.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: This is an argumentative literary-critical passage, not a mythic narrative;
+    the motif is conceptual rather than narrative.
+- id: motif:2
+  label: testing inherited tradition
+  taxonomy_refs: []
+  basis: The passage repeatedly describes tradition, testimony, and historical evidence
+    as subjected to skeptical tests such as probability, consistency, and scrutiny
+    of motives.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:7
+  confidence: medium
+  cautions: No supplied taxonomy family directly covers historical-critical testing;
+    label is a local pattern extracted from the passage.
+- id: motif:3
+  label: uncertain founder or author figure
+  taxonomy_refs: []
+  basis: The passage treats Homer, Socrates, and Shakespeare as major cultural figures
+    whose lives, transmitted opinions, or authorship are uncertain and contested.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: This is a historiographical pattern rather than a traditional myth motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 195-204
+  quote_or_summary: "“Scepticism is as much the result of knowledge, as knowledge
+    is of scepticism”; the passage adds that learners must set aside old notions and
+    embrace fresh ones."
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:2
+  type: summary
+  locator: lines 205-222
+  quote_or_summary: The passage says progress is stripping away abuses and superstitions,
+    and that skeptical critics test the credulity or partiality of writers.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 223-244
+  quote_or_summary: The passage says history and tradition are examined by the motives
+    of writers, by probability, by consistency, and by views of human nature and human
+    experience.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 245-257
+  quote_or_summary: Homer, Socrates, and Shakespeare are said to have contributed
+    greatly to intellectual enlightenment, while their histories have produced a “boundless
+    ocean of discussion.”
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:5
+  type: summary
+  locator: lines 258-269
+  quote_or_summary: The passage says Socrates is known through Plato and Xenophon,
+    whose accounts are contradictory and leave the reader uncertain.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 270-282
+  quote_or_summary: The passage describes a tendency to deny the existence of difficult
+    traditional figures, comparing Alexander the Great, Romulus, Herodotus, and Numa
+    Pompilius in examples of belief and skepticism.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 283-286 and following sentences in supplied range
+  quote_or_summary: The passage says skepticism has culminated with Homer and that
+    Homeric knowledge often permits any theory if written tradition about the author
+    or authors of the Iliad and Odyssey is rejected.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: end of supplied passage
+  quote_or_summary: The passage says professed biographies of Homer are partly forgeries
+    and partly imaginative works, and mentions a Life of Homer attributed to Herodotus.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is a critical introduction rather than a mythic episode; extraction
+    emphasizes historiographical and symbolic patterns explicitly present in the prose.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not establish a cautious comparison to another mythic tradition or motif family beyond its own discussion of historical criticism.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-iliad-pope-gutenberg__l195-l286
+  passage_sha256=3324d30df8355283cf6bb4a771f990765b4721c03d9658d9c32521b5bd246e47

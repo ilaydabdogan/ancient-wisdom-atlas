@@ -1,0 +1,297 @@
+---
+record_id: batch.motif.greek-hesiod-homeric-hymns-evelyn-white-gutenberg-l7624-l7636
+source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+passage_locator:
+  label: HOMERS EPIGRAMS2601 / FRAGMENTS OF THE EPIC CYCLE / THE WAR OF THE TITANS
+    / THE STORY OF OEDIPUS; lines 7624-7636
+  start: '7624'
+  end: '7636'
+  translation: Hesiod, the Homeric Hymns, and Homerica
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'Three fragments concerning the Epic Cycle work called the Story of Oedipus:
+    one attributes a six-thousand-six-hundred-verse poem to Cinaethon; one reports
+    that Oedipus'' sons were born from Euryganeia rather than Iocasta; and one says
+    that the Sphinx killed Haemon, son of Creon.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A work called the Story of Oedipus is attributed to Cinaethon and described
+    as having six thousand six hundred verses.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Pausanias reports a judgment that Oedipus did not have children by Iocasta.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The same report says Oedipus' sons were born of Euryganeia, according to the
+    Epic called the Story of Oedipus.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The authors of the Story of Oedipus are reported to say that the Sphinx killed
+    Haemon.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Haemon is described as the dear son of blameless Creon and as the comeliest
+    and loveliest of boys.
+  category: attribute
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Cinaethon
+  description: Named as the author of the Story of Oedipus in the cited fragment.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Oedipus
+  description: Named figure whose children and sons are discussed.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Iocasta
+  description: Named as the woman by whom Pausanias says Oedipus did not have children.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Euryganeia
+  description: Named as the mother of Oedipus' sons in the Story of Oedipus according
+    to Pausanias.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Sphinx
+  description: Being said by the authors of the Story of Oedipus to have killed Haemon.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Haemon
+  description: Noble boy killed by the Sphinx; described as the dear son of Creon.
+  role_refs:
+  - role:6
+  - role:7
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: Creon
+  description: Named as the blameless father of Haemon.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:3
+- id: fig:8
+  name_or_label: Pausanias
+  description: Cited source who judges that Oedipus did not have children by Iocasta.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:2
+- id: fig:9
+  name_or_label: Homer
+  description: Named as the basis by which Pausanias judges the parentage claim.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: attributed poet
+  assigned_to:
+  - fig:1
+  basis: The fragment names the Story of Oedipus as by Cinaethon.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: father whose children's mother is disputed
+  assigned_to:
+  - fig:2
+  basis: The passage discusses whether Oedipus' children were by Iocasta and says
+    his sons were born of Euryganeia.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: rejected mother of Oedipus' children
+  assigned_to:
+  - fig:3
+  basis: Pausanias says he does not believe Oedipus had children by Iocasta.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: mother of Oedipus' sons
+  assigned_to:
+  - fig:4
+  basis: The passage says Oedipus' sons were born of Euryganeia.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: killer
+  assigned_to:
+  - fig:5
+  basis: The Sphinx is said to have killed Haemon.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: victim
+  assigned_to:
+  - fig:6
+  basis: Haemon is said to have been killed by the Sphinx.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: beloved noble youth
+  assigned_to:
+  - fig:6
+  basis: Haemon is called noble, dear, comely, and lovely.
+  evidence_refs:
+  - ev:3
+- id: role:8
+  label: father of the victim
+  assigned_to:
+  - fig:7
+  basis: Haemon is called the dear son of Creon.
+  evidence_refs:
+  - ev:3
+- id: role:9
+  label: citing authority
+  assigned_to:
+  - fig:8
+  basis: The fragment is introduced as Pausanias' judgment about the parentage claim.
+  evidence_refs:
+  - ev:2
+- id: role:10
+  label: authority invoked for judgment
+  assigned_to:
+  - fig:9
+  basis: Pausanias says he judges by Homer.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: Sphinx
+  literal_form: Sphinx
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Attribution of the Story of Oedipus
+  summary: A fragment identifies the Story of Oedipus as a poem by Cinaethon with
+    six thousand six hundred verses.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Alternative parentage for Oedipus' sons
+  summary: Pausanias, judging by Homer, rejects Iocasta as the mother of Oedipus'
+    children and states that Euryganeia bore Oedipus' sons according to the Story
+    of Oedipus.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:8
+  - fig:9
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Sphinx kills Haemon
+  summary: The authors of the Story of Oedipus are reported to say that the Sphinx
+    killed noble Haemon, the dear son of Creon.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: disputed or alternative heroic genealogy
+  taxonomy_refs: []
+  basis: The passage presents a disagreement over whether Oedipus' children were by
+    Iocasta and gives Euryganeia as the mother of his sons in the epic tradition cited.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage is a fragmentary scholarly report rather than a continuous
+    narrative episode.
+- id: motif:2
+  label: monstrous being kills noble youth
+  taxonomy_refs: []
+  basis: The Sphinx is said to have killed Haemon, who is described as noble, dear,
+    comely, and lovely.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage gives only a brief report of the killing and does not describe
+    circumstances or symbolic meaning.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 7624-7627
+  quote_or_summary: Fragment 1 reports the Story of Oedipus by Cinaethon in six thousand
+    six hundred verses.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source; brief summary.
+- id: ev:2
+  type: summary
+  locator: lines 7628-7632
+  quote_or_summary: Pausanias says, judging by Homer, that Oedipus did not have children
+    by Iocasta; his sons were born of Euryganeia according to the Epic called the
+    Story of Oedipus.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source; brief summary.
+- id: ev:3
+  type: summary
+  locator: lines 7633-7636
+  quote_or_summary: A scholion reports that the authors of the Story of Oedipus said
+    the Sphinx killed noble Haemon, dear son of blameless Creon, described as very
+    comely and lovely.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source; brief summary.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based on a short public-domain English passage. Motif identification
+    is cautious because the source consists of fragmentary reports rather than extended
+    narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly support a comparison beyond the cited internal epic and scholastic traditions.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-hesiod-homeric-hymns-evelyn-white-gutenberg__l7624-l7636
+  passage_sha256=907bcc17ff261504458cd45de96027abf0b7e9413af1d8cfffdba801e2d3b913

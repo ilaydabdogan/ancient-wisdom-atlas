@@ -1,0 +1,363 @@
+---
+record_id: batch.motif.greek-hesiod-homeric-hymns-evelyn-white-gutenberg-l8328-l8340
+source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+passage_locator:
+  label: THE TAKING OF OECHALIA / THE PHOCAIS / THE MARGITES / THE CERCOPES; lines
+    8328-8340
+  start: '8328'
+  end: '8340'
+  translation: Hesiod, the Homeric Hymns, and Homerica
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: Liars and cheats, skilled in deeds irremediable, accomplished knaves.
+  summary: The passage identifies the Cercopes as two brother knaves, Passalus and
+    Acmon, known for cunning and deception. Their mother warns them to avoid Heracles,
+    called Black-bottom. They are also described as sons of Theia and Ocean and as
+    having been turned to stone for trying to deceive Zeus. A verse fragment says
+    they roamed widely, deceiving men continually.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The Cercopes are described as two brothers living upon the earth.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The two brothers practiced every kind of knavery and were named for cunning
+    deeds.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: One brother was named Passalus and the other Acmon.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Their mother, described as a daughter of Memnon, warned them to keep clear
+    of Black-bottom, identified in the passage as Heracles.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The Cercopes are called sons of Theia and Ocean.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: They are said to have been turned to stone for trying to deceive Zeus.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: They are called liars, cheats, and accomplished knaves.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: They roamed far over the world and deceived men as they wandered continually.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Cercopes
+  description: A pair of brothers described as knavish, cunning deceivers who wandered
+    the world.
+  role_refs:
+  - role:1
+  - role:2
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: Passalus
+  description: One of the two Cercopes brothers.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Acmon
+  description: One of the two Cercopes brothers.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Mother of the Cercopes
+  description: A daughter of Memnon who warns the Cercopes to avoid Heracles.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Memnon
+  description: Named as the father of the mother of the Cercopes.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Heracles / Black-bottom
+  description: The figure whom the Cercopes' mother warns them to avoid; the passage
+    glosses Black-bottom as Heracles.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:7
+  name_or_label: Theia
+  description: Named as a parent of the Cercopes.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+- id: fig:8
+  name_or_label: Ocean
+  description: Named as a parent of the Cercopes.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+- id: fig:9
+  name_or_label: Zeus
+  description: The god whom the Cercopes tried to deceive before being turned to stone.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:3
+- id: fig:10
+  name_or_label: Men
+  description: Human targets whom the Cercopes deceived while roaming the world.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: brother pair
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  basis: The passage says the Cercopes were two brothers and names Passalus and Acmon.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: deceivers and knaves
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  basis: The passage describes them as practicing knavery, cunning deeds, lies, cheating,
+    and deception.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:3
+  label: warning mother
+  assigned_to:
+  - fig:4
+  basis: She tells the brothers to keep clear of Heracles.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: maternal ancestor
+  assigned_to:
+  - fig:5
+  basis: The mother of the Cercopes is described as a daughter of Memnon.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: dangerous figure to avoid
+  assigned_to:
+  - fig:6
+  basis: The mother warns the Cercopes to keep clear of Black-bottom, identified as
+    Heracles.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: punished deceivers
+  assigned_to:
+  - fig:1
+  basis: They are said to have been turned to stone for trying to deceive Zeus.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: parents of the Cercopes
+  assigned_to:
+  - fig:7
+  - fig:8
+  basis: The passage says the Cercopes were sons of Theia and Ocean.
+  evidence_refs:
+  - ev:3
+- id: role:8
+  label: attempted divine target of deception
+  assigned_to:
+  - fig:9
+  basis: The Cercopes tried to deceive Zeus.
+  evidence_refs:
+  - ev:3
+- id: role:9
+  label: human targets of deception
+  assigned_to:
+  - fig:10
+  basis: The fragment says the Cercopes roamed the world deceiving men.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: stone transformation
+  literal_form: being turned to stone
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: world roaming
+  literal_form: far over the world they roamed
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Identification of the Cercopes
+  summary: The Cercopes are introduced as two brothers named Passalus and Acmon, known
+    for knavery and cunning deeds.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Maternal warning about Heracles
+  summary: Their mother, a daughter of Memnon, warns them to keep clear of Black-bottom,
+    identified as Heracles.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Attempted deception of Zeus and petrification
+  summary: The Cercopes are described as sons of Theia and Ocean and are said to have
+    been turned to stone after trying to deceive Zeus.
+  figure_refs:
+  - fig:1
+  - fig:7
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Wandering deception of men
+  summary: The fragment describes the Cercopes as liars and cheats who roamed far
+    over the world, continually deceiving men.
+  figure_refs:
+  - fig:1
+  - fig:10
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: trickster brother-pair
+  taxonomy_refs:
+  - trickster_boundary
+  - sibling_pair
+  basis: The passage presents the Cercopes as two brothers whose defining actions
+    are knavery, cunning, lies, cheating, and deception of men and Zeus.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage emphasizes deception and brotherhood but does not describe
+    boundary-crossing in detail beyond wandering and deceiving.
+- id: motif:2
+  label: deceivers punished by petrification
+  taxonomy_refs:
+  - divine_judgment
+  basis: The Cercopes are said to have been turned to stone for trying to deceive
+    Zeus.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage reports the punishment briefly and does not narrate the judgment
+    process.
+- id: motif:3
+  label: warning to avoid a dangerous hero
+  taxonomy_refs: []
+  basis: The mother of the Cercopes warns them to keep clear of Heracles.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage gives only the warning and does not narrate a subsequent encounter
+    with Heracles.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 8328-8332
+  quote_or_summary: The Cercopes are introduced as two brothers on earth who practiced
+    every kind of knavery; they are associated with cunning deeds and named Passalus
+    and Acmon.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source; concise summary.
+- id: ev:2
+  type: summary
+  locator: 8332-8334
+  quote_or_summary: Their mother, a daughter of Memnon, tells them to keep clear of
+    Black-bottom, glossed as Heracles.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source; concise summary.
+- id: ev:3
+  type: summary
+  locator: 8334-8336
+  quote_or_summary: The Cercopes are called sons of Theia and Ocean and are said to
+    have been turned to stone for trying to deceive Zeus.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source; concise summary.
+- id: ev:4
+  type: quote
+  locator: 8338-8340
+  quote_or_summary: '"Liars and cheats, skilled in deeds irremediable, accomplished
+    knaves. Far over the world they roamed deceiving men as they wandered continually."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source; short quotation from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward from the supplied passage. Motif labeling
+    is limited by the fragmentary nature of the notice and should be reviewed by a
+    human editor.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly compare the Cercopes to another text or tradition.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-hesiod-homeric-hymns-evelyn-white-gutenberg__l8328-l8340
+  passage_sha256=ca46981c1c1e8c40c5e5e3085a1eea85b111680f1978851b4a63a9e8b34e807a

@@ -1,0 +1,514 @@
+---
+record_id: batch.motif.celtic-irish-tain-bo-cualnge-dunn-gutenberg-l15754-l15900
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+passage_locator:
+  label: THE ADVENTURES OF CUROI SON OF DARE FOLLOW NOW / THE REPEATED WARNING OF
+    SUALTAIM / XXVII / XXVIII; lines 15754-15900
+  start: '15754'
+  end: '15900'
+  translation: The Ancient Irish Epic Tale Tain Bo Cualnge
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: After defeating the Whitehorned of Ai, the Brown Bull of Cualnge carries
+    and scatters the other bull's remains across Ireland, producing several place-name
+    explanations. Fergus prevents an attack on the Brown Bull. The Brown Bull returns
+    toward Cualnge, kills women, youths, and children in rage, then dies. The passage
+    closes with peace between Ailill, Medb, Ulster, and Cuchulain.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Brown Bull carries the remains of the Whitehorned to the loch by Cruachan
+    and appears with fragments hanging on his ears and horns.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The seven Mane rise to avenge the Brown Bull's violence, but Fergus warns
+    that worse will happen unless the bull is allowed to leave with his spoils and
+    victory.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Brown Bull gives three bellowings, and the men of Erin do not attack him
+    because of fear of Fergus.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Brown Bull leaves parts of the Whitehorned at named locations, and the
+    narration explains several place names from those body parts or actions.
+  category: action
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: obs:5
+  text: At several rivers the Brown Bull drinks so that no water flows past while
+    he drinks.
+  category: action
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:6
+  text: When the Brown Bull sees the land of Cualnge, he becomes greatly agitated
+    and goes toward it.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Women, youths, and children of Cualnge are lamenting the Brown Bull and see
+    his forehead approaching.
+  category: setting
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: In fury and rage the Brown Bull slaughters people of Cualnge, his heart breaks,
+    he belches out his heart, and he dies at Druim Tairb.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: After the account of the Brown Bull ends, Ailill and Medb make peace with
+    Ulster and Cuchulain, and there is no killing among them in Ireland for seven
+    years.
+  category: sequence
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Brown Bull of Cualnge
+  description: The victorious bull who carries the Whitehorned's remains, moves through
+    named places, returns toward Cualnge, kills people in rage, and dies.
+  role_refs:
+  - role:1
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: Whitehorned of Ai
+  description: The defeated bull whose torn fragments, liver, shoulder-blades, haunches,
+    loin, hind leg, and ribs are carried or scattered by the Brown Bull.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Fergus
+  description: A speaker who tells the men to leave the bull alone and warns against
+    attacking the Brown Bull.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: Seven Mane
+  description: A group who rise to take vengeance on the Brown Bull of Cualnge.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Men of Erin
+  description: The assembled men who see the Brown Bull at Cruachan and are held back
+    from attacking him.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:6
+  name_or_label: Women, youths, and children of Cualnge
+  description: People of Cualnge who lament the Brown Bull and are then slaughtered
+    by him.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: fig:7
+  name_or_label: Ailill and Medb
+  description: Rulers associated with the Tain's conclusion who make peace with Ulster
+    and Cuchulain.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:8
+- id: fig:8
+  name_or_label: Cuchulain
+  description: Named party to the peace made by Ailill and Medb.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:8
+- id: fig:9
+  name_or_label: Men of Ulster
+  description: Named party to the peace; they return to Emain Macha with triumph.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: victorious returning animal
+  assigned_to:
+  - fig:1
+  basis: The Brown Bull carries the defeated bull's remains, bellows in triumph, and
+    moves back toward his own land.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: role:2
+  label: defeated animal and trophy remains
+  assigned_to:
+  - fig:2
+  basis: The Whitehorned appears only as torn remains carried and scattered by the
+    Brown Bull.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:3
+  label: restraining adviser
+  assigned_to:
+  - fig:3
+  basis: Fergus tells the men to leave the bull alone and warns of consequences if
+    they attack.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: would-be avengers
+  assigned_to:
+  - fig:4
+  basis: The seven Mane rise to take vengeance on the Brown Bull.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: witnessing army
+  assigned_to:
+  - fig:5
+  basis: The men of Erin see the bull and are kept from attacking him.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:6
+  label: destructive dying figure
+  assigned_to:
+  - fig:1
+  basis: The Brown Bull slaughters people, suffers a broken heart, belches out his
+    heart, and dies.
+  evidence_refs:
+  - ev:7
+- id: role:7
+  label: mourners and victims
+  assigned_to:
+  - fig:6
+  basis: They lament the Brown Bull and are later killed by him.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:8
+  label: peace participants
+  assigned_to:
+  - fig:7
+  - fig:8
+  - fig:9
+  basis: Ailill and Medb make peace with Ulster and Cuchulain, ending the conflict
+    for seven years.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: trophy remains
+  literal_form: Torn fragments and body parts of the Whitehorned carried or cast off
+    by the Brown Bull.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: watercourse halted by drinking
+  literal_form: Rivers and waters from which the Brown Bull drinks while no water
+    flows past him.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: mountain and high-place viewing
+  literal_form: Cruachan and the summit of Sliab Breg, from which the Brown Bull's
+    movement and recognition of Cualnge are narrated.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+- id: sym:4
+  label: black heart-stone
+  literal_form: The Brown Bull's heart belched out like a black stone of dark blood.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:5
+  label: right-side gesture
+  literal_form: The Brown Bull turns his right side toward Cruachan, with a note that
+    this is a sign of friendliness.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Victorious arrival at Cruachan
+  summary: The Brown Bull arrives near Cruachan carrying the Whitehorned's remains,
+    and the men of Erin see him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Fergus prevents attack
+  summary: The seven Mane prepare to attack the Brown Bull, but Fergus warns the assembly
+    to let him go; the bull bellows and is not attacked.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Scattering of remains and place-name explanations
+  summary: As the Brown Bull travels, drinks rivers, and casts off body parts of the
+    Whitehorned, the narrative explains multiple place names from these events.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Return toward Cualnge and death
+  summary: The Brown Bull sees Cualnge, approaches lamenting people, kills many in
+    rage, and dies after his heart breaks.
+  figure_refs:
+  - fig:1
+  - fig:6
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:5
+  label: Peace after the Tain
+  summary: The account closes with peace between Ailill and Medb, Ulster, and Cuchulain,
+    followed by seven years without killing among them.
+  figure_refs:
+  - fig:7
+  - fig:8
+  - fig:9
+  symbol_refs: []
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Victorious animal carries enemy remains as trophy
+  taxonomy_refs: []
+  basis: The Brown Bull arrives with the Whitehorned's torn fragments hanging from
+    his ears and horns, and Fergus calls the remains his trophy.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage presents this as an episode of animal combat within the epic
+    rather than as a general mythic type.
+- id: motif:2
+  label: Place-name etiology from scattered body parts and actions
+  taxonomy_refs: []
+  basis: The passage repeatedly derives place names from body parts of the Whitehorned
+    or actions of the Brown Bull, including liver, shoulder-blade, loin, ribs, brow,
+    trench, and back.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: These are local etymological explanations embedded in the narrative; linguistic
+    accuracy is not assessed.
+- id: motif:3
+  label: Return to homeland before death
+  taxonomy_refs:
+  - return
+  basis: The Brown Bull sees and recognizes the land of Cualnge, goes toward it, and
+    soon afterward dies at Druim Tairb.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The return is literal and geographical; no broader ritual or spiritual
+    return is stated.
+- id: motif:4
+  label: Overwhelming beast halts flowing water by drinking
+  taxonomy_refs: []
+  basis: At more than one river, the Brown Bull drinks so that no drop flows past
+    while he drinks.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage does not explicitly call this supernatural, though the action
+    is extraordinary.
+- id: motif:5
+  label: Peace following catastrophic conflict
+  taxonomy_refs: []
+  basis: After the Brown Bull's death and the close of the Tain, Ailill and Medb make
+    peace with Ulster and Cuchulain, and killing ceases for seven years.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: The peace is stated briefly as an aftermath rather than developed as a
+    central symbolic episode.
+comparison_claims:
+- id: claim:1
+  claim: The passage functions as a place-name etiological sequence, because it repeatedly
+    explains named locations by linking them to the Brown Bull's movements and the
+    Whitehorned's body parts.
+  claim_level: same_function
+  target: place-name etiology pattern
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a functional pattern comparison only; the passage itself does
+    not compare the episode to another text or tradition.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 15754-15766
+  quote_or_summary: The Brown Bull carries the Whitehorned's remains to the loch by
+    Cruachan and is seen with torn fragments hanging about his ears and horns.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 15767-15782
+  quote_or_summary: The seven Mane rise to avenge the Brown Bull's violence; Fergus
+    warns against attacking him; the Brown Bull gives three bellowings and the men
+    do not attack.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 15783-15796
+  quote_or_summary: The Brown Bull turns his right side to Cruachan, leaves a heap
+    of the Whitehorned's liver, drinks at Finnglas so no water flows past, and the
+    shoulder-blades fall there, producing place-name explanations.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 15797-15814
+  quote_or_summary: At the Shannon, Ath Mor, Athlone, Ath Truim, and Tromma, the bull
+    drinks and leaves haunches, loin, or liver of the Whitehorned, with names explained
+    from these remains.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 15815-15824
+  quote_or_summary: The Brown Bull shakes the Whitehorned's remains over Ireland,
+    sending the hind leg to Port Large and ribs to Dublin/Ath Cliath.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 15825-15837
+  quote_or_summary: The bull turns north, sees Cualnge from Sliab Breg, is agitated
+    at seeing his own land, approaches lamenting women, youths, and children, and
+    tears up the earth at Cuib.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 15838-15848
+  quote_or_summary: In fury the Brown Bull slaughters women, youths, and children
+    of Cualnge; his heart breaks, he belches it out like a black stone of dark blood,
+    and he dies at Druim Tairb.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: 15849-15900
+  quote_or_summary: The account ends; Ailill and Medb make peace with Ulster and Cuchulain,
+    there is no killing among them for seven years, and the armies return home.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal events and place-name explanations are explicit. Motif labeling is
+    cautious because the passage itself does not provide abstract motif categories,
+    and comparison is limited to functional pattern recognition.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy references are limited to available provided entries where directly supported.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:celtic-irish-tain-bo-cualnge-dunn-gutenberg__l15754-l15900
+  passage_sha256=1b4b936b05556207930563ae3a63ff6bf9c2ce935b29e726142aec45675b4af0

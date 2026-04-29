@@ -1,0 +1,337 @@
+---
+record_id: batch.motif.daoist-zhuangzi-giles-gutenberg-l7443-l7488
+source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+passage_locator:
+  label: CHAPTER XVI. / EXERCISE OF FACULTIES. / CHAPTER XVII. / AUTUMN FLOODS.; lines
+    7443-7488
+  start: '7443'
+  end: '7488'
+  translation: 'Chuang Tzu: Mystic, Moralist, and Social Reformer'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Hui Tzŭ searches for Chuang Tzŭ in fear. Chuang Tzŭ visits him and tells
+    a parable of a phoenix-like bird that accepts only pure perches and food, while
+    an owl holding a rotten rat screeches at it; he applies the image to Hui Tzŭ and
+    the kingdom of Liang. In a later scene on a bridge over the Hao, Chuang Tzŭ says
+    darting minnows show the pleasure of fishes, and Hui Tzŭ challenges how he can
+    know this. Chuang Tzŭ responds with a dialectical argument and says he knows from
+    his own feelings on the bridge.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Hui Tzŭ is afraid and searches all over the State for Chuang Tzŭ for three
+    days and three nights, using warrants.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Chuang Tzŭ visits Hui Tzŭ and describes a southern phoenix-like bird flying
+    from the south sea to the north sea.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The phoenix-like bird will alight only on the wu-t'ung tree, eat only bamboo
+    fruit, and drink only the purest spring water.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: An owl holding the rotten carcass of a rat looks up as the phoenix-like bird
+    passes and screeches.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Chuang Tzŭ asks Hui Tzŭ whether he is screeching at him over the kingdom of
+    Liang.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Chuang Tzŭ and Hui Tzŭ stroll to the bridge over the Hao.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Chuang Tzŭ observes minnows darting about and says this is the pleasure of
+    fishes.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: Hui Tzŭ argues that Chuang Tzŭ, not being a fish, cannot know the pleasure
+    of fishes.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Chuang Tzŭ replies that Hui Tzŭ, not being Chuang Tzŭ, cannot know that Chuang
+    Tzŭ does not know.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: Chuang Tzŭ concludes that he knew the fishes' pleasure from his own feelings
+    on the bridge.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Hui Tzŭ
+  description: A person who fears and searches for Chuang Tzŭ, then later debates
+    with him about knowing the pleasure of fishes.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: Chuang Tzŭ
+  description: A person who visits Hui Tzŭ, tells the phoenix-and-owl parable, observes
+    the minnows, and argues that he knows their pleasure from his own feelings on
+    the bridge.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: southern phoenix-like bird
+  description: A bird described as a kind of phoenix, flying from the south sea to
+    the north sea, selective in perch, food, and water.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: owl
+  description: An owl that has obtained the rotten carcass of a rat and screeches
+    as the phoenix-like bird flies by.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: minnows / fishes
+  description: Minnows darting about beneath or near the bridge over the Hao, described
+    by Chuang Tzŭ as experiencing pleasure.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: fearful searcher
+  assigned_to:
+  - fig:1
+  basis: Hui Tzŭ is afraid and searches all over the State with warrants.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: parable speaker
+  assigned_to:
+  - fig:2
+  basis: Chuang Tzŭ tells Hui Tzŭ the story of the phoenix-like bird and the owl,
+    then applies it to Hui Tzŭ and Liang.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: selective noble bird
+  assigned_to:
+  - fig:3
+  basis: The bird alights only on the wu-t'ung tree, eats only bamboo fruit, and drinks
+    only pure spring water.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: carrion-guarding screecher
+  assigned_to:
+  - fig:4
+  basis: The owl possesses a rotten rat carcass and screeches as the phoenix-like
+    bird passes.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: philosophical interlocutor
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Hui Tzŭ and Chuang Tzŭ exchange arguments about whether one can know the
+    pleasure of fishes.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: observed animals whose pleasure is debated
+  assigned_to:
+  - fig:5
+  basis: The minnows' darting movement is interpreted by Chuang Tzŭ as pleasure and
+    then debated by Hui Tzŭ.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: wu-t'ung tree
+  literal_form: tree on which the phoenix-like bird alone will alight
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: pure spring water
+  literal_form: purest spring water drunk by the phoenix-like bird
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: rotten rat carcass
+  literal_form: rotten carcass of a rat held by the owl
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: bridge over the Hao
+  literal_form: bridge setting from which Chuang Tzŭ observes the minnows
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Fearful search and phoenix-owl parable
+  summary: After Hui Tzŭ searches for Chuang Tzŭ, Chuang Tzŭ visits him and tells
+    of a pure-feeding phoenix-like bird passing an owl guarding a rotten rat; he asks
+    whether Hui Tzŭ is similarly screeching over Liang.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Debate over the pleasure of fishes
+  summary: On the bridge over the Hao, Chuang Tzŭ says the darting minnows show the
+    pleasure of fishes. Hui Tzŭ questions how he can know this, and Chuang Tzŭ replies
+    by turning the question back on Hui Tzŭ and grounding his claim in his own feelings
+    on the bridge.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: wisdom through animal parable
+  taxonomy_refs:
+  - wisdom
+  basis: Chuang Tzŭ uses the contrast between a pure-feeding phoenix-like bird and
+    an owl guarding carrion to comment on Hui Tzŭ's fear concerning Liang.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage does not explicitly name the parable as a wisdom motif; the
+    label reflects its evident argumentative use in dialogue.
+- id: motif:2
+  label: knowledge of another being debated through dialogue
+  taxonomy_refs:
+  - wisdom
+  basis: Chuang Tzŭ and Hui Tzŭ debate whether one being can know another being's
+    experience, using the fishes' pleasure as the test case.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The motif is philosophical rather than narrative-adventure oriented; no
+    broader cross-text comparison is asserted.
+- id: motif:3
+  label: pure sustenance contrasted with carrion possession
+  taxonomy_refs: []
+  basis: The phoenix-like bird accepts only pure perch, food, and water, while the
+    owl possesses a rotten rat carcass and reacts defensively.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This is a candidate pattern within the parable; its symbolic valuation
+    is implied by contrast but not formally explained in the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 7443-7450
+  quote_or_summary: Hui Tzŭ is afraid and searches all over the State with warrants
+    for three days and three nights to find Chuang Tzŭ.
+  source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 7451-7469
+  quote_or_summary: Chuang Tzŭ tells Hui Tzŭ of a southern phoenix-like bird that
+    flies from the south sea to the north sea, alights only on the wu-t'ung tree,
+    eats bamboo fruit, and drinks pure spring water; an owl with a rotten rat carcass
+    screeches at it, and Chuang Tzŭ applies the image to Hui Tzŭ and Liang.
+  source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 7471-7474
+  quote_or_summary: Chuang Tzŭ and Hui Tzŭ stroll to the bridge over the Hao, where
+    Chuang Tzŭ observes darting minnows and says this is the pleasure of fishes.
+  source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 7475-7488
+  quote_or_summary: Hui Tzŭ challenges how Chuang Tzŭ can know the pleasure of fishes;
+    Chuang Tzŭ counters that Hui Tzŭ cannot know what Chuang Tzŭ knows and concludes
+    that he knew from his own feelings on the bridge.
+  source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+  rights_note: Public domain source; summary generated from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied English passage. Motif labels are
+    cautious and limited to evident parable/dialogue patterns; no external comparison
+    claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage does not itself support a specific cross-text or cross-tradition comparison.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:daoist-zhuangzi-giles-gutenberg__l7443-l7488
+  passage_sha256=a8a872687b3befec21904c829903b4b2671d2c5f62c1017833a0063e9dbde208

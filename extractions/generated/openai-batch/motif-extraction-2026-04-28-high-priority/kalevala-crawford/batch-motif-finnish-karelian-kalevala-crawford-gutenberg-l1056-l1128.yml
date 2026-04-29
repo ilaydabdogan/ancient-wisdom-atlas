@@ -1,0 +1,345 @@
+---
+record_id: batch.motif.finnish-karelian-kalevala-crawford-gutenberg-l1056-l1128
+source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+passage_locator:
+  label: DR. J.D. BUCK, / AN ENCOURAGING AND UNSELFISH FRIEND, AND TO HIS AFFECTIONATE
+    FAMILY, / THESE PAGES ARE GRATEFULLY INSCRIBED. / PREFACE; lines 1056-1128
+  start: '1056'
+  end: '1128'
+  translation: 'Kalevala: The Epic Poem of Finland'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The preface quotes Finnish lines from Rune 2 of the Kalevala in which Louhi,
+    mistress of Pohjola, asks old Wainamoinen what he will give if she conveys him
+    back to his own lands. Wainamoinen asks what she wants; Louhi calls him wise and
+    asks whether he can forge the Sampo with a decorated lid from a swan feather,
+    wool, a barley grain, and a spindle fragment. The passage then comments on the
+    Kalevala's literary architecture, oral transmission by minstrels, and the sources
+    and advisers used for the English translation.
+  language: English with a Finnish quoted excerpt
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage presents a Finnish quotation said to begin at line 150 of the
+    2nd Rune in the first Finnish edition of the Kalevala, collated by Dr. Lonnrot
+    and published in 1835 at Helsingfors.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Louhi, mistress of Pohjola, asks what she will be given if she brings Wainamoinen
+    to his own lands, field border, yard, cuckoo-call, rooster-call, and warm sauna.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Old Wainamoinen replies by asking what is requested from him if he is brought
+    home.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The mistress of Pohjola calls Wainamoinen wise and asks whether he can forge
+    the Sampo with a decorated lid.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The requested Sampo is to be made from a swan feather, wool, a barley grain,
+    and a spindle fragment.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The preface says the Kalevala is a continuous whole but contains several almost
+    independent parts, naming the contest of Youkahainen, the Kullervo episode, and
+    the legend of Mariatta.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The preface describes the epic of Suomi as having descended unwritten from
+    a mythical age and as having been kept alive from generation to generation by
+    minstrels or song-men.
+  category: other
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Louhi / mistress of Pohjola
+  description: Female figure identified in the Finnish excerpt as the mistress of
+    Pohjola who speaks to Wainamoinen.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Wainamoinen
+  description: Male figure addressed as old and wise Wainamoinen in the Finnish excerpt.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Youkahainen
+  description: Named in the preface as associated with a contest forming one almost
+    independent part of the Kalevala.
+  role_refs: []
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Kullervo
+  description: Named in the preface as associated with an episode forming one almost
+    independent part of the Kalevala.
+  role_refs: []
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Mariatta
+  description: Named in the preface as associated with a legend forming one almost
+    independent part of the Kalevala.
+  role_refs: []
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: Mistress of Pohjola
+  assigned_to:
+  - fig:1
+  basis: The excerpt explicitly calls Louhi the mistress of Pohjola.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: Requester of a return-payment
+  assigned_to:
+  - fig:1
+  basis: She asks what Wainamoinen will give if she conveys him back to his own lands,
+    and then specifies the forging of the Sampo.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: Old Wainamoinen
+  assigned_to:
+  - fig:2
+  basis: The excerpt identifies him as old Wainamoinen.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: Wise figure addressed with a task
+  assigned_to:
+  - fig:2
+  basis: The mistress of Pohjola calls him wise and asks whether he can forge the
+    Sampo.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: Sampo
+  literal_form: An object to be forged, described with a decorated lid.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: Swan feather
+  literal_form: One swan feather listed as a material for forging the Sampo.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Wool
+  literal_form: One portion of wool listed as a material for forging the Sampo.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: Barley grain
+  literal_form: One barley grain listed as a material for forging the Sampo.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: Spindle fragment
+  literal_form: A fragment of a spindle listed as a material for forging the Sampo.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:6
+  label: Own lands and home precinct
+  literal_form: Own lands, field border, yard, cuckoo-call, rooster-call, and warm
+    sauna as the destination to which Wainamoinen may be conveyed.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Louhi proposes return in exchange for forging the Sampo
+  summary: Louhi asks what Wainamoinen will give if she brings him back to his own
+    lands. Wainamoinen asks what she wants. Louhi asks whether wise Wainamoinen can
+    forge the Sampo with a decorated lid from small listed materials.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Preface frames the Kalevala's structure and transmission
+  summary: The preface describes the Kalevala as structurally between Serbian epical
+    ballads and the Iliad, as a continuous whole with independent parts, and as an
+    unwritten epic preserved by minstrels across generations.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Conditional aid in return for a demanded task or object
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Louhi's assistance in returning Wainamoinen to his own lands is framed as
+    dependent on what he will give, and she asks for the forging of the Sampo.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The quoted excerpt states the proposed exchange but does not show whether
+    Wainamoinen agrees or completes the task.
+- id: motif:2
+  label: Forging a wondrous object from small or unlikely materials
+  taxonomy_refs: []
+  basis: Louhi asks whether Wainamoinen can forge the Sampo with a decorated lid from
+    a swan feather, wool, a barley grain, and a spindle fragment.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage presents the request only; it does not narrate the actual
+    forging or define the Sampo's powers.
+- id: motif:3
+  label: Return to one's own land
+  taxonomy_refs:
+  - return
+  basis: The dialogue centers on Louhi conveying Wainamoinen back to his own lands
+    and home precinct.
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: The passage does not narrate the journey or completed return, only the
+    condition under which return may occur.
+- id: motif:4
+  label: Oral preservation by singers across generations
+  taxonomy_refs:
+  - wisdom
+  basis: The preface says the epic descended unwritten and was kept alive from generation
+    to generation by minstrels or song-men.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: This is a statement about textual transmission in the preface rather than
+    an internal mythic episode.
+comparison_claims:
+- id: claim:1
+  claim: The preface compares the Kalevala's architecture to Serbian epical ballads
+    and to the Iliad, saying it stands midway between them while remaining a continuous
+    whole with nearly independent parts.
+  claim_level: same_function
+  target: Serbian epical ballads and the Iliad as literary-structural comparanda
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is explicitly about epic architecture, not about a shared
+    mythic motif or historical contact.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1056-1061
+  quote_or_summary: The preface introduces the quoted Finnish lines as copied from
+    the first Finnish Kalevala edition, collated by Dr. Lonnrot and published in 1835
+    at Helsingfors, beginning with line 150 of the 2nd Rune.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1063-1083
+  quote_or_summary: In the Finnish excerpt, Louhi of Pohjola asks Wainamoinen what
+    he will give if she brings him to his own lands and home precinct. Wainamoinen
+    asks what she wants. Louhi calls him wise and asks whether he can forge the Sampo
+    with a decorated lid from a swan feather, wool, a barley grain, and a spindle
+    fragment.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 1085-1090
+  quote_or_summary: 'The preface says the Kalevala''s architecture stands midway between
+    Serbian epical ballads and the Iliad, and that it is continuous while containing
+    almost independent parts: the contest of Youkahainen, the Kullervo episode, and
+    the legend of Mariatta.'
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 1092-1096
+  quote_or_summary: The preface describes the epic of Suomi as unwritten in descent
+    from the mythical age and preserved from generation to generation by minstrels
+    or song-men.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 1098-1128
+  quote_or_summary: The preface acknowledges scholarly sources, translators, linguistic
+    advisers, and reviewers used in preparing the English translation, and closes
+    by offering the first English translation to the public.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The narrative material in this passage is a short quoted excerpt embedded
+    in a preface. Motif candidates are therefore based mainly on a proposed exchange
+    and requested forging task, not on a complete episode.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata. No external taxonomy identifiers were added beyond the provided motif-family list.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:finnish-karelian-kalevala-crawford-gutenberg__l1056-l1128
+  passage_sha256=5f26bdde75d22b0a7634c9e924184aecdfb5912832bc16261609606f16a32af3

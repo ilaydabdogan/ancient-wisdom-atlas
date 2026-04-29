@@ -1,0 +1,606 @@
+---
+record_id: batch.motif.finnish-karelian-kalevala-crawford-gutenberg-l13133-l13316
+source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+passage_locator:
+  label: PREFACE / JOHN MARTIN CRAWFORD. / THE KALEVALA. / PROEM; lines 13133-13316
+  start: '13133'
+  end: '13316'
+  translation: 'Kalevala: The Epic Poem of Finland'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A female speaker recounts leaving for her husband’s home, passing through
+    a hostile forest, entering a wealthy but hostile household, serving her husband’s
+    mother, receiving poor food and heavy labor, enduring verbal abuse, lamenting
+    her marriage and lost childhood home, and finally being attacked by her angry
+    husband with a willow branch and alder club.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The speaker journeys to her husband’s dwelling and is conducted to his mother
+    after passing through a forest described as hostile.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The husband’s household is described as materially abundant, with many chambers,
+    grain, gold, silver, and other treasures.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The speaker seeks kindness and favor in the husband’s household but finds
+    hostility, envy, and unkind words.
+  category: relationship
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:4
+  text: The speaker grinds flour and barley to feed the husband’s mother.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:5
+  text: The speaker herself receives inferior food, including siftings, moss loaves,
+    river water, and poor fish, and does not receive food from the second mother’s
+    hands.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:6
+  text: The speaker performs heavy seasonal and agricultural labor with the heaviest
+    implements.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:7
+  text: The household blames and derides the speaker with unkind words compared to
+    hail and lightning.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:8
+  text: The speaker weeps, remembers her childhood home, and addresses her mother
+    in a lament about being placed in a bad marriage.
+  category: speech
+  evidence_refs:
+  - ev:9
+- id: obs:9
+  text: 'The speaker describes her husband with animal imagery: raven, jackdaw, black-wolf,
+    and wild-bear.'
+  category: attribute
+  evidence_refs:
+  - ev:10
+- id: obs:10
+  text: The speaker imagines that, had she known the marriage would bring pain, she
+    would have gone to a hillside and become a pine-tree, linden, earth, loam, and
+    tree-limbed being.
+  category: speech
+  evidence_refs:
+  - ev:11
+- id: obs:11
+  text: The husband hears the speaker’s lament, comes angrily to her chamber, and
+    holds a willow branch and alder club.
+  category: sequence
+  evidence_refs:
+  - ev:12
+- id: obs:12
+  text: The husband strikes or aims at the speaker with the cudgel.
+  category: action
+  evidence_refs:
+  - ev:12
+figures:
+- id: fig:1
+  name_or_label: female speaker / hapless daughter / youthful housewife
+  description: The first-person female speaker who journeys to her husband’s home,
+    labors there, laments her treatment, and is attacked.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:7
+  - ev:9
+  - ev:12
+- id: fig:2
+  name_or_label: husband / hero
+  description: The speaker’s husband, whose dwelling she enters and who later hears
+    her lament and attacks her while angry.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:10
+  - ev:12
+- id: fig:3
+  name_or_label: husband’s mother / second mother / old-one
+  description: The mother in the husband’s household for whom the speaker grinds flour
+    and barley; she is also called the second mother and old-one.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:8
+- id: fig:4
+  name_or_label: second father
+  description: A hostile figure in the husband’s household, associated with unkind
+    eyes and sparks or fire from the mouth and tongue.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: household / strangers / evil heroes
+  description: Persons in the husband’s household who watch, envy, blame, and deride
+    the speaker.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:8
+- id: fig:6
+  name_or_label: speaker’s mother
+  description: The speaker’s mother, recalled in the lament as one who knew how to
+    train a tender shoot but placed it badly.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:9
+- id: fig:7
+  name_or_label: speaker’s father
+  description: The speaker’s father, remembered through the image of joyful firesides
+    in childhood.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:9
+roles:
+- id: role:1
+  label: mistreated wife in affinal household
+  assigned_to:
+  - fig:1
+  basis: The speaker is married into the husband’s household, labors there, receives
+    poor food, and is blamed and derided.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: role:2
+  label: violent husband
+  assigned_to:
+  - fig:2
+  basis: The husband hears the lament, comes in anger, carries a willow branch and
+    alder club, and strikes or aims at the speaker.
+  evidence_refs:
+  - ev:12
+- id: role:3
+  label: hostile mother-in-law / second mother
+  assigned_to:
+  - fig:3
+  basis: The speaker grinds grain for the mother’s nourishment but later says she
+    never ate from the second mother’s fingers and names the old-one as worsening
+    her temper.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:8
+- id: role:4
+  label: lamenting daughter
+  assigned_to:
+  - fig:1
+  basis: The speaker weeps, remembers childhood at her parents’ home, and addresses
+    her mother about her unhappy placement.
+  evidence_refs:
+  - ev:9
+- id: role:5
+  label: hostile affinal household figures
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: The household is represented by strangers, evil heroes, the second father,
+    and those who blame and deride the speaker.
+  evidence_refs:
+  - ev:4
+  - ev:8
+- id: role:6
+  label: remembered natal family
+  assigned_to:
+  - fig:6
+  - fig:7
+  basis: The speaker recalls her father’s firesides and mother’s cottage during her
+    lament.
+  evidence_refs:
+  - ev:9
+symbols:
+- id: sym:1
+  label: hostile forest and trees
+  literal_form: elm-trees, aspens, willows, forest, bushes, glens, walks
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: wealthy many-chambered household
+  literal_form: six pine-wood compartments, twelve chambers, garrets, grain, gold,
+    silver, treasures
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: fire from mouths and tongues
+  literal_form: fire streaming from each mouth and sparks flying from each tongue
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: millstone and grain grinding
+  literal_form: heavy millstone, flour, barley-grains
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: poor food and river water
+  literal_form: siftings, birchen ladle, moss loaves, river water, dipper, smelts,
+    boat of birch-bark
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: heavy labor implements
+  literal_form: flail, lever, beater, rake
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:7
+  label: plant-scion image of misplacement
+  literal_form: sweet bud, tender shootlet, scion, unproductive hillock, hard cherry
+    limb
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:9
+- id: sym:8
+  label: husband as predatory or carrion animals
+  literal_form: raven, jackdaw, black-wolf, wild-bear
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+- id: sym:9
+  label: imagined transformation into trees and earth
+  literal_form: pine-tree, linden, black-earth, loam head, birch knots, aspen trunks
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:11
+- id: sym:10
+  label: assault weapons of wood
+  literal_form: branch of willow and club of alder
+  associated_figures:
+  - fig:2
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:12
+scenes:
+- id: scene:1
+  label: Journey to husband’s household through hostile forest
+  summary: The speaker travels to her husband’s dwelling and his mother while the
+    forest and trees are described as wounding, cutting, seizing, and slaying.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Arrival at abundant but unfriendly household
+  summary: The husband’s home is described as wealthy and spacious, but the surrounding
+    bushes, glens, walks, and forests are angry or disfavoring, and unkind words are
+    present.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Hostile watching inside the house
+  summary: At the door and partition are strangers’ eyes, envy, evil heroes, and fiery
+    mouths and tongues, including the second father’s unkind eyes.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Service to mother-in-law and deprivation of the wife
+  summary: The speaker grinds grain for the mother’s food, while she herself eats
+    inferior food, drinks water from the river, and lacks food from the second mother’s
+    hands.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Heavy work and household derision
+  summary: The speaker performs seasonal and threshing work with the heaviest tools
+    and is blamed and derided by the household.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: scene:6
+  label: Lament over lost childhood and bad marriage
+  summary: The speaker weeps, remembers her parents’ home, addresses her mother, compares
+    herself to a badly planted shoot, and describes the husband through animal imagery.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:7
+  - sym:8
+  - sym:9
+  evidence_refs:
+  - ev:9
+  - ev:10
+  - ev:11
+- id: scene:7
+  label: Husband’s violent response to the lament
+  summary: The husband hears the lament, enters angrily with disordered hair and rolling
+    eyes, carries a willow branch and alder club, and strikes or aims at the speaker.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:10
+  evidence_refs:
+  - ev:12
+candidate_motifs:
+- id: motif:1
+  label: mistreated bride or wife in husband’s household
+  taxonomy_refs: []
+  basis: The speaker is taken to her husband’s home, seeks favor, performs service
+    and heavy labor, receives inferior food, and is verbally abused by the household.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The passage presents the pattern as a first-person lament; no external
+    motif index is supplied.
+- id: motif:2
+  label: affinal household as hostile environment
+  taxonomy_refs: []
+  basis: The husband’s home and kin are surrounded by images of hostile trees, angry
+    bushes, envious eyes, fiery mouths, and unkind speech.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:8
+  confidence: high
+  cautions: Some hostile landscape elements may be poetic personification rather than
+    separate mythic agents.
+- id: motif:3
+  label: daughter lamenting bad marital placement by mother
+  taxonomy_refs: []
+  basis: The speaker addresses her mother and compares herself to a tender shoot or
+    scion planted in a barren or hard place.
+  evidence_refs:
+  - ev:9
+  confidence: high
+  cautions: This is a passage-level motif candidate based on imagery within the lament.
+- id: motif:4
+  label: wish for transformation into tree or earth to avoid marriage
+  taxonomy_refs:
+  - shapeshifter
+  basis: The speaker says that had she known her betrothed was a source of pain, she
+    would have gone to a hillside and become a pine-tree, linden, earth, loam-headed
+    being, and tree-limbed figure.
+  evidence_refs:
+  - ev:11
+  confidence: medium
+  cautions: The wording may express a lamenting wish or counterfactual image rather
+    than an actual transformation event.
+- id: motif:5
+  label: husband figured as bear and wolf
+  taxonomy_refs:
+  - shapeshifter
+  basis: The speaker says the husband grew a wild-bear and a savage wolf of Hisi,
+    and later describes his body and features using raven, jackdaw, wolf, and bear
+    imagery.
+  evidence_refs:
+  - ev:8
+  - ev:10
+  confidence: medium
+  cautions: The animal description may be metaphorical abuse imagery, not literal
+    metamorphosis.
+- id: motif:6
+  label: violent retaliation after overheard lament
+  taxonomy_refs: []
+  basis: The husband hears the speaker’s song of displeasure, enters her chamber in
+    anger with a willow branch and alder club, and strikes or aims at her.
+  evidence_refs:
+  - ev:12
+  confidence: high
+  cautions: No broader comparative claim is made beyond the passage-level pattern.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 13133-13143
+  quote_or_summary: The speaker hastens to other fields, compares herself to berries,
+    says elm, aspen, willow, and the forest try to harm her, and journeys to her husband
+    and his mother.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain; Project Gutenberg source metadata indicates full text
+    allowed.
+- id: ev:2
+  type: summary
+  locator: lines 13144-13156
+  quote_or_summary: The husband’s place is described with six pine compartments, twelve
+    chambers, garrets, flowers, grain, rye, gold, silver, and many treasures.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain; Project Gutenberg source metadata indicates full text
+    allowed.
+- id: ev:3
+  type: summary
+  locator: lines 13157-13174
+  quote_or_summary: After the speaker’s hand is given, the cabin has six supports
+    and seven fence poles; bushes, glens, walks, and forests show anger or trouble,
+    and the speaker seeks favor but hits her head on the low doorway.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain; Project Gutenberg source metadata indicates full text
+    allowed.
+- id: ev:4
+  type: summary
+  locator: lines 13175-13195
+  quote_or_summary: At the door and partition are strangers’ eyes, envy, evil heroes,
+    fiery mouths and tongues, and the second father’s unkind eyes; the speaker tries
+    to live humbly but wins no kindness or honor.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain; Project Gutenberg source metadata indicates full text
+    allowed.
+- id: ev:5
+  type: summary
+  locator: lines 13196-13203
+  quote_or_summary: The speaker turns the heavy millstone and grinds flour and barley
+    so the mother may be nourished and pleased from her platters and table.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain; Project Gutenberg source metadata indicates full text
+    allowed.
+- id: ev:6
+  type: summary
+  locator: lines 13205-13218
+  quote_or_summary: The speaker eats siftings from near the oven with a birchen ladle,
+    bakes moss into loaves, brings river water, eats poor fish, and never eats fish
+    or biscuit from the second mother’s fingers.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain; Project Gutenberg source metadata indicates full text
+    allowed.
+- id: ev:7
+  type: summary
+  locator: lines 13220-13233
+  quote_or_summary: The speaker gathers blades, twists barley-stalks, is compared
+    to laborers or servants in bondage, and is given the heaviest flail, longest lever,
+    strongest beater, and largest rake.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain; Project Gutenberg source metadata indicates full text
+    allowed.
+- id: ev:8
+  type: summary
+  locator: lines 13235-13256
+  quote_or_summary: The speaker performs all duties while sweating, knows no rest,
+    is blamed and derided by the household, and unkind words fall on her like hail
+    and lightning; the old-one angers her, and the husband grows like a wild-bear
+    and wolf of Hisi.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain; Project Gutenberg source metadata indicates full text
+    allowed.
+- id: ev:9
+  type: summary
+  locator: lines 13258-13281
+  quote_or_summary: The speaker weeps, remembers childhood, her father’s firesides
+    and mother’s cottage, and addresses her mother, comparing herself to a sweet bud,
+    tender shootlet, and scion placed in a barren or hard place.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain; Project Gutenberg source metadata indicates full text
+    allowed.
+- id: ev:10
+  type: summary
+  locator: lines 13282-13289
+  quote_or_summary: The speaker says a better fate would have been living with a loving
+    husband; she describes her own husband with images of a birch-bark or Laplander’s
+    shoe, raven, jackdaw, black-wolf, and wild-bear.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain; Project Gutenberg source metadata indicates full text
+    allowed.
+- id: ev:11
+  type: summary
+  locator: lines 13290-13299
+  quote_or_summary: The speaker says that if she had known her betrothed was a source
+    of pain, she would have gone to a hillside, been a pine-tree or linden, and taken
+    on earth, loam, birch-knot, and aspen-trunk features.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain; Project Gutenberg source metadata indicates full text
+    allowed.
+- id: ev:12
+  type: summary
+  locator: lines 13301-13316
+  quote_or_summary: The speaker sings her cares within hearing of her husband; he
+    hears, comes to her chamber in anger with hair standing, rolling eyes, a willow
+    branch in one hand and alder club in the other, and strikes or aims at her forehead.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain; Project Gutenberg source metadata indicates full text
+    allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based directly on the supplied English passage. Motif labels
+    are passage-level candidates; taxonomy mappings to shapeshifter are cautious because
+    the animal and plant language may be metaphorical or counterfactual.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly support historical, linguistic, or cross-tradition comparison.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:finnish-karelian-kalevala-crawford-gutenberg__l13133-l13316
+  passage_sha256=c5f4fa1193f50cc3777d4191fd65258168d42b4d78ba46f4cd7e58b575b92189

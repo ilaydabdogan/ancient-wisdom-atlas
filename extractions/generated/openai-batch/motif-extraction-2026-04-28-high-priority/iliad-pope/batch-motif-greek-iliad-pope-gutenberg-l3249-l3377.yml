@@ -1,0 +1,457 @@
+---
+record_id: batch.motif.greek-iliad-pope-gutenberg-l3249-l3377
+source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+passage_locator:
+  label: THE CONTENTION OF ACHILLES AND AGAMEMNON. / BOOK II. / ARGUMENT. / THE TRIAL
+    OF THE ARMY, AND CATALOGUE OF THE FORCES.; lines 3249-3377
+  start: '3249'
+  end: '3377'
+  translation: The Iliad
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: To one sole monarch Jove commits the sway;
+  summary: Ulysses restores order among the Greeks, silences common soldiers, confronts
+    Thersites after his attack on Agamemnon, strikes him with the sceptre, and is
+    praised by the army; Pallas, in herald form, calls the crowd to attend as Ulysses
+    prepares to speak.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Ulysses tells the troops that the chief is loved by Jove and that Jove commits
+    rule to one monarch.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Ulysses silences loud and fierce troops and the crowd returns from the ships
+    to the assembly on the plain.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The crowd's movement and noise are compared to the roaring ocean and surges
+    against shores and rocks.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Thersites alone continues clamoring in the throng and is described as loquacious,
+    loud, turbulent, malicious, and hostile to monarchs.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Thersites is physically described with a blinking eye, a lame leg, broad shoulders,
+    thin hair, and a misshapen head.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Thersites accuses Agamemnon of greed, taking spoils and captive women, and
+    wronging Achilles by taking his prize.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Ulysses springs from his seat, rebukes Thersites, warns him not to profane
+    the king, and threatens to strip and scourge him if he offends again.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Ulysses strikes Thersites on the back with a weighty sceptre, causing bloody
+    swellings and tears.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The surrounding Greeks praise Ulysses for defending the crown and silencing
+    sedition.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: Ulysses raises the imperial sceptre, and Pallas, in the form of a herald,
+    bids the crowds attend.
+  category: action
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Ulysses
+  description: A Greek leader who rules the troops with words, rebukes Thersites,
+    strikes him with the sceptre, and prepares to address the assembly.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+  - ev:8
+- id: fig:2
+  name_or_label: Agamemnon / Atrides
+  description: The monarch and chief whose authority is defended by Ulysses and attacked
+    by Thersites.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:7
+- id: fig:3
+  name_or_label: Thersites
+  description: A clamorous Greek speaker who attacks Agamemnon and is rebuked and
+    struck by Ulysses.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: Greek troops / host
+  description: The assembled warriors who move from the ships to the plain, become
+    silent, and later praise Ulysses.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:7
+  - ev:8
+- id: fig:5
+  name_or_label: Jove
+  description: A god said to love the chief and to commit rule to one monarch.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+- id: fig:6
+  name_or_label: Pallas
+  description: The blue-eyed celestial friend of Ulysses who appears in the form of
+    a herald and calls the crowds to attend.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:8
+- id: fig:7
+  name_or_label: Achilles
+  description: A hero mentioned by Thersites as having had a prize forced from him
+    by Agamemnon.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: restorer of order
+  assigned_to:
+  - fig:1
+  basis: Ulysses silences the loudest troops, cools the fiercest, rebukes Thersites,
+    and is praised for silencing sedition.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:7
+- id: role:2
+  label: speaker of counsel
+  assigned_to:
+  - fig:1
+  basis: The passage presents Ulysses as ruling with words and preparing to speak
+    with wisdom before the assembly.
+  evidence_refs:
+  - ev:1
+  - ev:8
+- id: role:3
+  label: divinely sanctioned monarch
+  assigned_to:
+  - fig:2
+  basis: Ulysses says Jove loves the chief and commits sway to one monarch; the army
+    later praises defense of the crown and throne.
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: role:4
+  label: seditious accuser
+  assigned_to:
+  - fig:3
+  basis: Thersites reviles monarchs, attacks Agamemnon with accusations, and is called
+    factious by Ulysses.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:5
+  label: assembled army
+  assigned_to:
+  - fig:4
+  basis: The troops return to the assembly, fall silent, and voice praise after Thersites
+    is punished.
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: role:6
+  label: divine source of kingship
+  assigned_to:
+  - fig:5
+  basis: Jove is named as the one from whom the chief's honor springs and who commits
+    the sway to one monarch.
+  evidence_refs:
+  - ev:1
+- id: role:7
+  label: divine helper in disguise
+  assigned_to:
+  - fig:6
+  basis: Pallas is described as Ulysses' celestial friend appearing in the form of
+    a herald to command attention.
+  evidence_refs:
+  - ev:8
+- id: role:8
+  label: wronged hero invoked in accusation
+  assigned_to:
+  - fig:7
+  basis: Thersites cites Achilles as a brave warrior from whom Agamemnon forced a
+    prize.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: sceptre
+  literal_form: weighty or imperial sceptre
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: sym:2
+  label: throne
+  literal_form: the throne named as the target of Thersites' attack and defended by
+    Ulysses
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:7
+- id: sym:3
+  label: ships and plain
+  literal_form: the ships deserted by the troops and the plain where the assembly
+    gathers
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: ocean tumult simile
+  literal_form: old ocean, huge surges, trembling shores, groaning banks, rocks, and
+    deeps
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: herald form
+  literal_form: Pallas appearing in the form of a herald
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Ulysses recalls the troops to obedience
+  summary: Ulysses argues that the chief is favored by Jove, that kingship belongs
+    to one monarch, and he silences the troops while they return from the ships to
+    the assembly.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Thersites attacks Agamemnon
+  summary: Thersites is described as a disruptive and malformed speaker who accuses
+    Agamemnon of greed, lust, exploitation of the army, and the wrongful seizure of
+    Achilles' prize.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:7
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Ulysses rebukes and strikes Thersites
+  summary: Ulysses rebukes Thersites as factious, threatens further punishment, and
+    strikes him with the sceptre, after which Thersites trembles and weeps.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Army praises Ulysses and Pallas calls attention
+  summary: The Greeks praise Ulysses for defending the crown and silencing sedition;
+    Ulysses raises the sceptre while Pallas, in herald form, commands the crowd's
+    attention.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: divinely sanctioned monarchy
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The passage explicitly states that Jove loves the chief, that the chief's
+    honor springs from Jove, and that Jove commits rule to one monarch.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The motif is framed through Ulysses' speech rather than through a separate
+    divine decree narrated directly in this passage.
+- id: motif:2
+  label: wise counselor restores order
+  taxonomy_refs:
+  - wisdom
+  basis: Ulysses uses speech and discipline to quiet the army, oppose Thersites, and
+    prepare the assembly to hear his counsel; the crowd praises his conduct and courage.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The passage praises Ulysses' wisdom, but the episode also includes coercive
+    punishment.
+- id: motif:3
+  label: divine helper in assumed form
+  taxonomy_refs:
+  - shapeshifter
+  basis: Pallas is said to be Ulysses' celestial friend and to appear in the form
+    of a herald while directing the crowd's attention.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: The passage gives only a brief notice of Pallas' form and does not narrate
+    a full transformation scene.
+- id: motif:4
+  label: punishment of the seditious speaker
+  taxonomy_refs: []
+  basis: Thersites publicly attacks the monarch and is rebuked and beaten with the
+    sceptre; the army interprets this as silencing sedition and defending the throne.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: No supplied taxonomy reference directly names this social-control motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3249-3264
+  quote_or_summary: Ulysses tells the warriors that Agamemnon is loved by Jove, warns
+    them of kingly wrath, and says Jove commits rule to one monarch.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 3265-3274
+  quote_or_summary: Ulysses rules the troops with words; they leave the ships, gather
+    on the plain, roar like the ocean, and then fall silent.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 3275-3294
+  quote_or_summary: Thersites alone keeps shouting; he is described as shameless,
+    malicious, hostile to rulers, physically misshapen, and hated by the Greeks.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 3295-3322
+  quote_or_summary: Thersites accuses Agamemnon of taking wealth and women, urges
+    the Achaeans to leave, and recalls Agamemnon's seizure of Achilles' prize.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 3323-3346
+  quote_or_summary: Ulysses rises angrily, calls Thersites a factious monster, forbids
+    him to shame the Greeks or profane the king, and threatens to strip and scourge
+    him.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 3347-3354
+  quote_or_summary: Ulysses strikes the cowering Thersites with the sceptre; bloody
+    swellings rise, and Thersites sits trembling and weeping.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 3355-3364
+  quote_or_summary: The Greeks praise Ulysses as great in council and field, saying
+    he defended the crown, curbed insolence, silenced sedition, and asserted the throne.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 3365-3377
+  quote_or_summary: Ulysses rises with the imperial sceptre; blue-eyed Pallas, in
+    herald form, tells the crowds to attend as they wait to hear his wisdom.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The main actions and figures are explicit in the passage. Motif assignments
+    use only supplied taxonomy references where directly supportable; comparison claims
+    are omitted because the passage itself does not provide an external comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Line references follow the user-supplied stable range. Public-domain passage was summarized except for one short excerpt.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-iliad-pope-gutenberg__l3249-l3377
+  passage_sha256=eca57658fa4c34510089144b01f449ec6ce119d21796eccff1f852c65d894650

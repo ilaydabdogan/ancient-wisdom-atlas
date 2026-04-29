@@ -1,0 +1,292 @@
+---
+record_id: batch.motif.greek-iliad-pope-gutenberg-l2033-l2057
+source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+passage_locator:
+  label: CONCLUDING NOTE. / INTRODUCTION. / THEODORE ALOIS BUCKLEY. / POPES PREFACE
+    TO THE ILIAD OF HOMER; lines 2033-2057
+  start: '2033'
+  end: '2057'
+  translation: The Iliad
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: In short, I have found more patrons than ever Homer wanted.
+  summary: The speaker thanks patrons and friends who supported the undertaking, contrasts
+    his received favor with Homer’s, notes honors Homer received after death, and
+    describes the work as useful and agreeable.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The speaker says he was distinguished by the Earl of Carnarvon and describes
+    the Earl’s life as a series of generous actions.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker states that Mr. Stanhope promoted the affair.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The speaker says Mr. Harcourt’s zeal showed the honor of sharing his friendship.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The speaker says he has found more patrons than Homer wanted.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The speaker contrasts favor shown to him by the University of Oxford with
+    favor Homer would have been happy to receive at Athens.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The speaker refers to pompous honors received by Homer after death.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: The speaker says his pen has not gratified particular parties or particular
+    men.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The speaker hopes to spend youthful years on the undertaking in a way useful
+    to others and agreeable to himself.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: speaker
+  description: First-person speaker acknowledging support for the undertaking.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: Earl of Carnarvon
+  description: Person by whom the speaker says he was distinguished; characterized
+    as generous.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Mr. Stanhope
+  description: Present secretary of state who, according to the speaker, promoted
+    the affair.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Mr. Harcourt
+  description: Son of the late Lord Chancellor, whose zeal is presented as proof of
+    friendship.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: friends of the speaker
+  description: Several unnamed friends whose motives are associated with friendship
+    and familiar correspondence.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:6
+  name_or_label: Homer
+  description: Poet used as a point of comparison for patronage and posthumous honors.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:7
+  name_or_label: University of Oxford
+  description: Institution described as showing favor to the speaker.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: recipient of patronage and friendship
+  assigned_to:
+  - fig:1
+  basis: The speaker recounts support, favor, and friendship received from named and
+    unnamed persons and from Oxford.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: patron or supporter
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:7
+  basis: The Earl is linked with generous distinction, Stanhope with promotion of
+    the affair, and Oxford with favor shown to the speaker.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: friend
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: Mr. Harcourt and others are explicitly associated with friendship and familiar
+    correspondence.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: undertaker of literary work
+  assigned_to:
+  - fig:1
+  basis: The speaker refers to an undertaking in which he has experienced candor and
+    friendship and hopes to spend years of youth.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: poetic comparison figure
+  assigned_to:
+  - fig:6
+  basis: Homer is invoked as a comparison for patronage at Athens and honors after
+    death.
+  evidence_refs:
+  - ev:2
+symbols: []
+scenes:
+- id: scene:1
+  label: Acknowledgment of patrons and friends
+  summary: The speaker names or alludes to several supporters and friends, emphasizing
+    generosity, promotion, zeal, and familiar correspondence.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Comparison with Homer’s honors
+  summary: The speaker claims to have more patrons than Homer wanted, contrasts Oxford’s
+    favor with Athens, and mentions Homer’s honors after death.
+  figure_refs:
+  - fig:1
+  - fig:6
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Statement on independence and useful labor
+  summary: The speaker says his writing has not served party prejudice or personal
+    vanity and frames the undertaking as a worthwhile use of youth.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: patronage of the poet or translator
+  taxonomy_refs: []
+  basis: The passage centers on a speaker receiving support, favor, friendship, and
+    promotion from patrons and institutions.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is a literary-paratextual pattern, not a mythic narrative motif.
+- id: motif:2
+  label: posthumous honor contrasted with living favor
+  taxonomy_refs: []
+  basis: The speaker contrasts his living enjoyment of obligations and friendships
+    with Homer’s pompous honors after death.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage mentions the pattern only briefly and rhetorically.
+- id: motif:3
+  label: literary labor as useful discipline of youth
+  taxonomy_refs: []
+  basis: The speaker hopes to spend youthful years on the undertaking rather than
+    in follies, making it useful to others and agreeable to himself.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: This is an ethical-literary theme rather than a mythological motif.
+comparison_claims:
+- id: claim:1
+  claim: The speaker explicitly compares his own patronage and honors with Homer’s,
+    presenting Oxford’s favor as analogous to favor Homer would have welcomed at Athens.
+  claim_level: same_function
+  target: Homer as honored poet and recipient or would-be recipient of civic favor
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison concerns literary reception and patronage, not a mythic
+    episode or shared narrative structure.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2033-2046
+  quote_or_summary: The speaker acknowledges the Earl of Carnarvon’s generosity, Mr.
+    Stanhope’s promotion, Mr. Harcourt’s zeal and friendship, and other friends connected
+    by familiar correspondence.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 2047-2053
+  quote_or_summary: "“I have found more patrons than ever Homer wanted”; the speaker
+    also says Homer would have been happy with favor at Athens like that shown by
+    Oxford, and mentions Homer’s honors after death."
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:3
+  type: summary
+  locator: lines 2053-2055
+  quote_or_summary: The speaker says the distinction is notable because his pen has
+    not gratified particular parties’ prejudices or particular men’s vanities.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 2055-2057
+  quote_or_summary: The speaker says he will not regret the undertaking and hopes
+    to pass some years of youth in a way useful to others and agreeable to himself.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is an authorial preface/acknowledgment rather than a mythic narrative.
+    Extracted motifs are literary and social patterns directly supported by the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No available taxonomy refs were applied; the passage contains no serpent, tree, water, fire, cave, mountain, milk, or listed mythic motif family in a direct way.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-iliad-pope-gutenberg__l2033-l2057
+  passage_sha256=df5d96f58089113716a890af6159fc6c56159eda42d0304572858658ada15ac8

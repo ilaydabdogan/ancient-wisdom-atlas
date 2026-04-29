@@ -1,0 +1,464 @@
+---
+record_id: batch.motif.celtic-welsh-mabinogion-guest-gutenberg-l3551-l3606
+source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+passage_locator:
+  label: C. E. G. / THE LADY OF THE FOUNTAIN / PEREDUR THE SON OF EVRAWC / GERAINT
+    THE SON OF ERBIN; lines 3551-3606
+  start: '3551'
+  end: '3606'
+  translation: The Mabinogion
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: At night Enid prepares Geraint's armour and warns him of Earl Dwnn's intentions.
+    Geraint gives the host eleven horses and eleven suits of armour and is guided
+    out of town by another route, with Enid going before him. Earl Dwnn arrives with
+    fourscore armed knights, follows the tracks, and pursues. At dawn Enid sees dust
+    and a knight through the mist and warns Geraint despite his order for silence.
+    Geraint defeats each knight at the first onset, then overthrows Earl Dwnn, who
+    asks mercy; Geraint grants it, while the defeated knights are grievously wounded
+    by their falls and his blows.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Enid wakes at midnight and gathers Geraint's armour so it will be ready to
+    put on.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Enid warns Geraint softly about the Earl's words and intentions concerning
+    her.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Geraint is angry with Enid but takes warning and clothes himself.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Enid lights a candle to give Geraint light while he dresses.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: Geraint gives the man of the house eleven horses and eleven suits of armour,
+    though the host says he spent far less.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The man of the lodgings guides Geraint out of the town by a different way
+    from the way he entered.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: Geraint sends Enid ahead of him after they leave the town.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:8
+  text: Earl Dwnn comes to the house with fourscore knights in complete armour and
+    asks where the knight has gone.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: The pursuers follow the tracks of the horses along the high road.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:10
+  text: At dawn Enid sees clouds of dust approaching and thinks the Earl and his host
+    are pursuing them.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:11
+  text: Enid sees a knight through the mist and decides it is better to risk death
+    by warning Geraint than to see him killed unwarned.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:12
+  text: Geraint reproaches Enid for not keeping silence after she warns him of the
+    approaching men.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:13
+  text: Geraint throws down the first pursuing knight with one thrust and then overthrows
+    every one of the fourscore knights at the first onset.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:14
+  text: Earl Dwnn attacks last; after breaking lances, Geraint splits the Earl's shield,
+    breaks his armour, and throws him to the ground.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:15
+  text: Earl Dwnn asks Geraint for mercy, and Geraint grants it.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:16
+  text: The passage states that none of the knights escaped without a severe and grievous
+    fall or wound from Geraint.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Enid
+  description: A woman accompanying Geraint; she prepares his armour, warns him, walks
+    ahead of him, and speaks despite his order for silence.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: Geraint
+  description: A knight who receives Enid's warning, leaves town, defeats the pursuing
+    knights and Earl Dwnn, and grants mercy to the Earl.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: fig:3
+  name_or_label: Earl Dwnn
+  description: The Earl who leads fourscore armed knights in pursuit and is overthrown
+    by Geraint before asking for mercy.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:4
+  name_or_label: man of the house / man of the lodgings / host
+  description: The host receives horses and armour from Geraint and guides him out
+    of the town.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:5
+  name_or_label: fourscore knights
+  description: Eighty knights in complete armour who accompany Earl Dwnn and are each
+    overthrown by Geraint.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:3
+  - ev:5
+roles:
+- id: role:1
+  label: warner
+  assigned_to:
+  - fig:1
+  basis: Enid tells Geraint what passed and later warns him of the approaching pursuers.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: companion sent ahead
+  assigned_to:
+  - fig:1
+  basis: Geraint tells the maiden to go before him, and she does so.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: pursued knight
+  assigned_to:
+  - fig:2
+  basis: Geraint leaves town at night and is pursued by Earl Dwnn and the armed knights.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: victorious combatant
+  assigned_to:
+  - fig:2
+  basis: Geraint overthrows all the pursuing knights and defeats Earl Dwnn.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: pursuer
+  assigned_to:
+  - fig:3
+  basis: Earl Dwnn leads the armed group seeking the knight who left the house.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: defeated supplicant
+  assigned_to:
+  - fig:3
+  basis: After being thrown down and endangered, Earl Dwnn asks Geraint for mercy.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: host and guide
+  assigned_to:
+  - fig:4
+  basis: The host receives payment and accompanies Geraint out of town as far as desired.
+  evidence_refs:
+  - ev:2
+- id: role:8
+  label: armed pursuing retinue
+  assigned_to:
+  - fig:5
+  basis: The fourscore knights arrive in complete armour with Earl Dwnn and pursue
+    Geraint.
+  evidence_refs:
+  - ev:3
+  - ev:5
+symbols:
+- id: sym:1
+  label: candle
+  literal_form: A candle lit by Enid so Geraint has light to dress.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: armour
+  literal_form: Geraint's armour prepared for him; eleven suits of armour given to
+    the host; complete armour worn by the pursuing knights.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: eleven horses and eleven suits of armour
+  literal_form: Payment or gift given by Geraint to the man of the house.
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: horse tracks on the high road
+  literal_form: Tracks that the Earl's party sees and follows.
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: clouds of dust and mist
+  literal_form: Dawn dust clouds and mist through which Enid sees the pursuer approaching.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: split shield and broken armour
+  literal_form: Earl Dwnn's shield is split and his armour broken by Geraint's lance
+    thrust.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Midnight warning and arming
+  summary: Enid rises at midnight, prepares Geraint's armour, warns him of Earl Dwnn's
+    intention, and lights a candle while he dresses.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Payment to the host and alternate departure
+  summary: Geraint gives the host eleven horses and eleven suits of armour, asks for
+    guidance out of town, and leaves by another way with Enid ahead of him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Earl Dwnn's pursuit
+  summary: Earl Dwnn arrives with fourscore armed knights, questions the host, and
+    follows the horse tracks along the high road.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Enid warns at dawn
+  summary: At dawn Enid sees dust, mist, and approaching pursuers; she chooses to
+    warn Geraint despite the danger and despite his command for silence.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Single-handed rout and mercy
+  summary: Geraint defeats the pursuing knights one by one, overthrows Earl Dwnn with
+    a lance thrust, and grants mercy when the Earl asks for it.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: night escape after warning
+  taxonomy_refs:
+  - departure
+  basis: Enid warns Geraint at night, he arms himself, pays the host, and leaves the
+    town by a different route.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage presents a tactical departure from danger, not a formal exile
+    or quest departure.
+- id: motif:2
+  label: warning despite command to be silent
+  taxonomy_refs: []
+  basis: Enid decides to warn Geraint of the pursuing knight and host even though
+    Geraint reproaches her for disobeying his orders to keep silence.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage gives the command only through Geraint's reproach; the earlier
+    command itself is not contained in this excerpt.
+- id: motif:3
+  label: outnumbered hero defeats pursuing host
+  taxonomy_refs: []
+  basis: Geraint alone overthrows each of the fourscore knights and then defeats Earl
+    Dwnn.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: No supernatural cause for the victory is stated in the passage.
+- id: motif:4
+  label: mercy to a defeated enemy
+  taxonomy_refs: []
+  basis: After Earl Dwnn is brought to the ground and asks for mercy, Geraint grants
+    it.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage does not describe terms of reconciliation or later consequences.
+- id: motif:5
+  label: lavish payment to host before departure
+  taxonomy_refs: []
+  basis: Geraint gives the host eleven horses and eleven suits of armour, more than
+    the host says he spent.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage frames this as recompense and enrichment, not explicitly as
+    ritual exchange.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 3551-3564
+  quote_or_summary: At midnight Enid prepares Geraint's armour, warns him of the Earl's
+    words and intentions, and lights a candle while Geraint dresses.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:2
+  type: summary
+  locator: 3564-3577
+  quote_or_summary: Geraint summons the man of the house, gives him eleven horses
+    and eleven suits of armour, asks him to guide him out by a different route, and
+    sends Enid ahead.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:3
+  type: summary
+  locator: 3577-3590
+  quote_or_summary: After the host returns, Earl Dwnn arrives with fourscore knights
+    in complete armour, questions the host, and follows the horse tracks on the high
+    road.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:4
+  type: summary
+  locator: 3590-3600
+  quote_or_summary: At dawn Enid sees dust and a knight through the mist, fears pursuit,
+    and warns Geraint despite expecting blame or death for speaking.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:5
+  type: summary
+  locator: 3600-3606
+  quote_or_summary: Geraint defeats the pursuing knights one by one, overthrows Earl
+    Dwnn by a lance thrust that splits shield and breaks armour, and grants mercy
+    when the Earl asks.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; summarized rather than quoted.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The action sequence and figures are clear in the passage. Motif labels are
+    descriptive and should be reviewed for alignment with project taxonomy. No comparison
+    claims were made because the passage itself does not support an explicit cross-textual
+    comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  All observations and interpretations are limited to the supplied passage and metadata.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:celtic-welsh-mabinogion-guest-gutenberg__l3551-l3606
+  passage_sha256=990b4a7619fcb601a248271ffff97976cebc8353061de07c336e2efb4cb55deb

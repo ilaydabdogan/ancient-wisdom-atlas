@@ -1,0 +1,571 @@
+---
+record_id: batch.motif.finnish-karelian-kalevala-crawford-gutenberg-l16516-l16685
+source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+passage_locator:
+  label: JOHN MARTIN CRAWFORD. / THE KALEVALA. / PROEM / BOOK II; lines 16516-16685
+  start: '16516'
+  end: '16685'
+  translation: 'Kalevala: The Epic Poem of Finland'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Lemminkainen spends three summers on an island where many maidens welcome
+    him, but he neglects one spinster. As he prepares to return home, the slighted
+    woman curses his vessel and later burns it. He discovers armed men preparing to
+    kill him, leaves without farewells, rebuilds a magic vessel from small fragments
+    by secret knowledge, launches it with sung words, asks eagle and raven for feathers
+    to protect the ship, and sails homeward while the maidens lament his departure.
+    He explains that he leaves from longing for his homeland, his mother’s cabins,
+    and the people of his childhood.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Lemminkainen roams island hamlets and is greeted by many maidens, but one
+    maiden is not greeted with pleasure.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: He spends three summers in refuge on the island among the hamlets and maidens.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: One neglected woman is described as a poor spinster living on the remotest
+    border in the smallest hamlet.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: When Lemminkainen thinks of going homeward over the ocean, the slighted spinster
+    speaks a curse that winds may destroy his vessel on ocean rocks and ledges.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Before leaving, Lemminkainen sees dwellings where armed heroes are grinding
+    swords, spears, and battle-axes for his death.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Lemminkainen leaves the island maidens ungreeted and goes to the harbor.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: He finds his magic bark burned to ashes, and the burning is attributed to
+    the slighted spinster’s revenge.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: He rebuilds a new magic sailing vessel from very small fragments of lumber,
+    board, spool, and distaff.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The vessel is completed by three blows made with wondrous power and secret
+    knowledge.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: He launches and sings the vessel to the ocean, asking eagle and raven for
+    feathers to protect it from floundering.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: He sails homeward dejected because he cannot remain on the island among the
+    daughters.
+  category: attribute
+  evidence_refs:
+  - ev:8
+- id: obs:12
+  text: He says he must leave the island’s pleasures and predicts that all the maidens
+    except the slighted spinster will mourn his loss.
+  category: speech
+  evidence_refs:
+  - ev:9
+- id: obs:13
+  text: The island maidens weep and call after him, asking why he departs.
+  category: speech
+  evidence_refs:
+  - ev:10
+- id: obs:14
+  text: He answers that he is not leaving from lack of pleasure or women, but because
+    he longs for his homeland, his mother’s cabins, Northland berries, Kalew, and
+    the people of his childhood.
+  category: speech
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Lemminkainen / Kaukomieli
+  description: A minstrel, sailor, handsome hero, wisdom-bard, and magic singer who
+    lives in refuge on the island and then sails homeward.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:7
+  - ev:8
+  - ev:10
+- id: fig:2
+  name_or_label: Island maidens / daughters
+  description: Many maidens of the island hamlets and castles who welcome Lemminkainen,
+    later lamenting his departure.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:9
+  - ev:10
+- id: fig:3
+  name_or_label: Slighted spinster
+  description: The one neglected maiden, described as a poor and graceless spinster
+    in the remotest border hamlet, who curses and burns Lemminkainen’s vessel.
+  role_refs:
+  - role:6
+  - role:7
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:9
+- id: fig:4
+  name_or_label: Armed island heroes
+  description: Heroes in the dwellings who grind swords, spears, and battle-axes for
+    the death of Lemminkainen.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Mother of Lemminkainen
+  description: Lemminkainen’s mother is not present in the scene but is named as part
+    of the homeward destination and longing.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:3
+  - ev:10
+- id: fig:6
+  name_or_label: Eagle
+  description: A bird addressed by Lemminkainen for magic feathers to protect the
+    vessel.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:7
+- id: fig:7
+  name_or_label: Raven
+  description: A bird addressed by Lemminkainen for magic feathers to protect the
+    vessel.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: hero-minstrel
+  assigned_to:
+  - fig:1
+  basis: The passage calls Lemminkainen a minstrel and hero.
+  evidence_refs:
+  - ev:1
+  - ev:8
+- id: role:2
+  label: magic singer and wisdom-bard
+  assigned_to:
+  - fig:1
+  basis: He is addressed as a wisdom-bard and magic singer, and he sings the vessel
+    to the ocean.
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: role:3
+  label: homeward voyager
+  assigned_to:
+  - fig:1
+  basis: He prepares for and undertakes a journey homeward over the ocean.
+  evidence_refs:
+  - ev:3
+  - ev:8
+  - ev:10
+- id: role:4
+  label: welcoming women
+  assigned_to:
+  - fig:2
+  basis: The island maidens greet and welcome Lemminkainen in the hamlets.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:5
+  label: lamenting women
+  assigned_to:
+  - fig:2
+  basis: The maidens weep, call after him, and ask why he leaves.
+  evidence_refs:
+  - ev:10
+- id: role:6
+  label: neglected woman
+  assigned_to:
+  - fig:3
+  basis: She is the one maiden left neglected and not greeted with pleasure.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:7
+  label: curser and avenger
+  assigned_to:
+  - fig:3
+  basis: She curses his vessel and later burns it as revenge.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:8
+  label: hostile armed watchers
+  assigned_to:
+  - fig:4
+  basis: They are seen preparing weapons for Lemminkainen’s death.
+  evidence_refs:
+  - ev:4
+- id: role:9
+  label: absent maternal home figure
+  assigned_to:
+  - fig:5
+  basis: Lemminkainen thinks of his mother and later says he longs for his mother’s
+    cabins.
+  evidence_refs:
+  - ev:3
+  - ev:10
+- id: role:10
+  label: invoked protective birds
+  assigned_to:
+  - fig:6
+  - fig:7
+  basis: Lemminkainen asks eagle and raven for feathers to protect his vessel.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: ocean waters
+  literal_form: The ocean crossed by Lemminkainen and the waters into which the vessel
+    is launched.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:7
+  - ev:8
+- id: sym:2
+  label: burning of the vessel
+  literal_form: The magic bark is found burned to ashes by the slighted spinster’s
+    revenge.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: magic vessel
+  literal_form: A sailing vessel rebuilt from fragments by magic virtue, secret knowledge,
+    and three powerful blows.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - ark_vessel
+  - wisdom
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: sym:4
+  label: bird feathers for protection
+  literal_form: Three eagle feathers and four raven feathers requested for protection
+    of the vessel.
+  associated_figures:
+  - fig:1
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:5
+  label: weapons prepared for death
+  literal_form: Swords, spears, and battle-axes ground by hostile heroes.
+  associated_figures:
+  - fig:4
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: home foods and places
+  literal_form: Strawberries of Northland, raspberries of Kalew, mother’s cabins,
+    and childhood companions named as objects of longing.
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+scenes:
+- id: scene:1
+  label: Refuge among island maidens
+  summary: Lemminkainen lives for three summers among island hamlets where many maidens
+    welcome him, while one remote spinster is neglected.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Curse at the planned departure
+  summary: As Lemminkainen thinks of returning home over the ocean, the slighted spinster
+    curses his vessel to be broken by winds on ocean rocks.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Hostile island preparations
+  summary: Before leaving, Lemminkainen walks through the hamlets and discovers armed
+    heroes preparing weapons for his death.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Burned bark and magical rebuilding
+  summary: At the harbor, Lemminkainen finds his vessel burned to ashes and rebuilds
+    a magic ship from fragments by secret knowledge and three blows.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Launch with protective bird-feathers
+  summary: Lemminkainen launches and sings the vessel onto the ocean, asking eagle
+    and raven for feathers to keep it from floundering.
+  figure_refs:
+  - fig:1
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:7
+- id: scene:6
+  label: Homeward sailing and island lament
+  summary: Lemminkainen sails homeward dejected; he says he leaves despite the island’s
+    pleasures because he longs for homeland, mother, Kalew, and childhood people,
+    while the maidens mourn his departure.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:6
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: hero departs a pleasurable refuge
+  taxonomy_refs:
+  - departure
+  - return
+  basis: After three summers in refuge among welcoming maidens, Lemminkainen resolves
+    to leave the island and sail homeward.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:8
+  - ev:10
+  confidence: high
+  cautions: The passage frames both departure from refuge and return toward home;
+    broader narrative context is not used here.
+- id: motif:2
+  label: slighted woman’s curse and revenge
+  taxonomy_refs: []
+  basis: The neglected spinster curses Lemminkainen’s vessel and later burns it before
+    he departs.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: No supplied taxonomy family directly names this pattern.
+- id: motif:3
+  label: magical construction of a ship from fragments
+  taxonomy_refs:
+  - ark_vessel
+  - wisdom
+  basis: Lemminkainen rebuilds a magic sailing vessel from small fragments using secret
+    knowledge and three powerful blows.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The vessel is not an ark in a flood-renewal sense in this passage; the
+    taxonomy reference is limited to the vessel motif.
+- id: motif:4
+  label: song or speech empowers travel over water
+  taxonomy_refs:
+  - wisdom
+  - water
+  basis: Lemminkainen sings the vessel to the ocean and speaks protective words over
+    it before sailing.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The passage gives the spoken formula but does not fully explain its mechanism
+    beyond magic singing and protection.
+- id: motif:5
+  label: protective aid requested from birds
+  taxonomy_refs: []
+  basis: Lemminkainen asks eagle and raven for feathers to protect the vessel on the
+    ocean.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The passage records the request but not whether the birds grant it.
+- id: motif:6
+  label: longing for mother and homeland motivates return
+  taxonomy_refs:
+  - return
+  - divine_parent_child
+  basis: Lemminkainen explains that he leaves because he longs for his homeland, his
+    mother’s cabins, Kalew, and childhood companions.
+  evidence_refs:
+  - ev:10
+  confidence: medium
+  cautions: The mother is not divine in this passage, so the parent-child taxonomy
+    reference is tentative and should be reviewed.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 16516-16534
+  quote_or_summary: Lemminkainen roams island hamlets; maidens greet and welcome him
+    everywhere, except one maiden whom he does not greet with pleasure.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summary only.
+- id: ev:2
+  type: summary
+  locator: 16535-16546
+  quote_or_summary: He spends three summers in refuge on the island among the maidens;
+    one poor and graceless spinster in the remotest small hamlet is left neglected.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summary only.
+- id: ev:3
+  type: summary
+  locator: 16547-16561
+  quote_or_summary: He thinks of a journey over the ocean to his mother and father’s
+    cottage; the slighted spinster curses him, wishing winds to destroy his vessel
+    on ocean rocks and ledges.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summary only.
+- id: ev:4
+  type: summary
+  locator: 16562-16594
+  quote_or_summary: As he prepares to depart and walks through the hamlets, he sees
+    armed heroes in dwellings grinding swords, spears, and battle-axes for his death.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summary only.
+- id: ev:5
+  type: summary
+  locator: 16595-16607
+  quote_or_summary: He leaves the maidens ungreeted and goes to the harbor, where
+    he finds his magic bark burned to ashes by the slighted spinster’s revenge.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summary only.
+- id: ev:6
+  type: summary
+  locator: 16608-16625
+  quote_or_summary: He rebuilds a new magic sailing vessel from small fragments of
+    lumber, board, spool, and distaff, completing it with three powerful blows and
+    secret knowledge.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summary only.
+- id: ev:7
+  type: summary
+  locator: 16626-16636
+  quote_or_summary: He launches and sings the vessel to the ocean, asking eagle and
+    raven for magic feathers to protect the vessel from floundering.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summary only.
+- id: ev:8
+  type: summary
+  locator: 16637-16646
+  quote_or_summary: Lemminkainen sits in the vessel and sails homeward, dejected because
+    he cannot remain among the island daughters.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summary only.
+- id: ev:9
+  type: summary
+  locator: 16647-16666
+  quote_or_summary: He says he must leave the island’s pleasures and daughters, but
+    believes all the maidens except the slighted spinster will mourn his departure.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summary only.
+- id: ev:10
+  type: summary
+  locator: 16667-16685
+  quote_or_summary: The maidens weep and ask why he leaves; he answers that he does
+    not leave from lack of pleasure or women, but from longing for homeland, mother’s
+    cabins, Northland berries, Kalew, and childhood companions.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summary only.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is well supported by the supplied passage. Motif taxonomy
+    assignments involving vessel, return, and wisdom are plausible but should be reviewed;
+    no comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata. Line subranges are approximate subdivisions within the supplied stable locator.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:finnish-karelian-kalevala-crawford-gutenberg__l16516-l16685
+  passage_sha256=80c9df11295cc0487de13a065786aaa4a3c66eafc78bd487c0281c1957b8f92f

@@ -1,0 +1,560 @@
+---
+record_id: batch.motif.finnish-karelian-kalevala-crawford-gutenberg-l19654-l19843
+source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+passage_locator:
+  label: JOHN MARTIN CRAWFORD. / THE KALEVALA. / PROEM / BOOK II; lines 19654-19843
+  start: '19654'
+  end: '19843'
+  translation: 'Kalevala: The Epic Poem of Finland'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Ilmarinen mourns the death of his wife, the Maiden of the Rainbow, then
+    gathers gold, silver, birch-wood, and other metals to forge a new bride. After
+    repeated furnace workings, a lamb and a colt emerge and are rejected. A golden-silver
+    maiden finally emerges, but her body cannot walk, embrace, hear, speak, see, or
+    breathe. Ilmarinen bathes the image, sleeps beside it, finds it cold, and decides
+    to take it to Wainola as a bride for Wainamoinen.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Ilmarinen weeps for three days and later for three months over the death of
+    his companion, the Maiden of the Rainbow.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: During his mourning, Ilmarinen does not work with his hammer, smithy, or anvil.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Ilmarinen gathers gold from the ocean, silver from the mountains, and birch-wood
+    for the furnace work.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Servants and workmen are placed at the bellows to fan the furnace flames.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Ilmarinen attempts to mould a bride from gold and silver and other magic metals.
+  category: action
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: obs:6
+  text: A lambkin with gold and copper hair and silver threads rises from the furnace
+    and is rejected by Ilmarinen.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: A colt with a golden mane, silver head, and copper hoofs rises from the furnace
+    and is rejected by Ilmarinen.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: A virgin with golden hair and a silver head rises from the fire.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Ilmarinen forges feet, hands, arms, ears, mouth, and eyes for the maiden,
+    but these parts do not perform their expected living functions.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: Ilmarinen says the maiden would be priceless if she could speak in wisdom
+    and breathe the breath of Ukko.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: Ilmarinen bathes the golden maiden with crystal water and lays her on a couch
+    with wrappings, bear-skins, and lambs-wool blankets.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:12
+  text: When Ilmarinen sleeps beside the golden image, the side near the blankets
+    is warm, but the side near the maiden is cold and lifeless.
+  category: attribute
+  evidence_refs:
+  - ev:7
+- id: obs:13
+  text: Ilmarinen decides the virgin was not born for him and plans to give her to
+    Wainamoinen in Wainola.
+  category: speech
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Ilmarinen
+  description: A mourning blacksmith, metal-worker, magician, and wonder-forger who
+    attempts to make a bride from metals.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: Maiden of the Rainbow
+  description: Ilmarinen's deceased companion and faithful life-companion, said to
+    have been slaughtered by witchcraft.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Servants and workmen
+  description: Laborers placed at the bellows to fan the furnace flames, though the
+    passage also says they fail their master.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Lambkin from the furnace
+  description: A lambkin rising from the magic fire, with gold and copper hair and
+    many silver threads.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Colt from the furnace
+  description: A colt rising from the flames, golden-maned, silver-headed, and copper-hoofed.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Golden maiden
+  description: A virgin or bride of molten gold and silver, beautiful in form, but
+    unable to walk, embrace, hear, speak, see, or breathe.
+  role_refs:
+  - role:7
+  - role:8
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:7
+  name_or_label: Ukko
+  description: Named as the source of the breath that Ilmarinen wishes the maiden
+    could breathe.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:6
+- id: fig:8
+  name_or_label: Wainamoinen
+  description: An old figure in Wainola to whom Ilmarinen plans to give the golden
+    maiden as a bride and life-companion.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: mourning widower
+  assigned_to:
+  - fig:1
+  basis: Ilmarinen mourns the death of his wife or life-companion for an extended
+    time.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: magic blacksmith and creator
+  assigned_to:
+  - fig:1
+  basis: Ilmarinen uses furnace, metals, bellows, and magic power to make images and
+    a bride.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:3
+  label: rejecter of unsuitable creations
+  assigned_to:
+  - fig:1
+  basis: He rejects the lambkin and colt because he seeks a bride.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: deceased companion
+  assigned_to:
+  - fig:2
+  basis: She is described as Ilmarinen's departed wife and life-companion.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: furnace assistants
+  assigned_to:
+  - fig:3
+  basis: They are assigned to work the bellows and fan the flames.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: rejected furnace creation
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: Each rises from the furnace and is sent back or rejected by Ilmarinen.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:7
+  label: crafted bride
+  assigned_to:
+  - fig:6
+  basis: The maiden is forged as a bride from molten gold and silver.
+  evidence_refs:
+  - ev:5
+- id: role:8
+  label: beautiful but inert image
+  assigned_to:
+  - fig:6
+  basis: Her body is beautiful but lacks movement, embrace, hearing, speech, sight,
+    warmth, and breath.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:9
+  label: named source of desired breath
+  assigned_to:
+  - fig:7
+  basis: Ilmarinen wishes the maiden could breathe the breath of Ukko.
+  evidence_refs:
+  - ev:6
+- id: role:10
+  label: intended recipient of the golden maiden
+  assigned_to:
+  - fig:8
+  basis: Ilmarinen plans to give the maiden to Wainamoinen as bride and life-companion.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: furnace fire
+  literal_form: Furnace, fire, flames, and embers used to melt and transform metals.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: gold and silver metals
+  literal_form: Gold from the ocean, silver from the mountains, and additional magic
+    metals used to form animals and a maiden.
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: bellows
+  literal_form: Bellows operated by servants and later by Ilmarinen to fan the furnace
+    flames.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: crystal water
+  literal_form: Three cans of crystal water used to lave the golden image.
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:7
+- id: sym:5
+  label: cold golden body
+  literal_form: The golden-silver bride is cold and lifeless when Ilmarinen sleeps
+    beside her.
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: breath of Ukko
+  literal_form: The breath Ilmarinen says the maiden would need in order to be truly
+    valuable or alive.
+  associated_figures:
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Ilmarinen mourns the Maiden of the Rainbow
+  summary: Ilmarinen weeps and ceases smith work after the death of his life-companion.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Preparation of the furnace and metals
+  summary: Ilmarinen gathers gold, silver, birch-wood, and magic metals, burns wood
+    to ashes, and sets servants at the bellows.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: 'First rejected creation: lambkin'
+  summary: After Ilmarinen and the workers fan the furnace, a decorated lambkin emerges
+    from the magic fire, but Ilmarinen rejects it because he wants a bride.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: 'Second rejected creation: colt'
+  summary: After further metal and furnace work, a golden-maned, silver-headed, copper-hoofed
+    colt emerges and is rejected by Ilmarinen.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Golden maiden emerges but lacks life functions
+  summary: A beautiful golden-silver virgin rises from the fire; Ilmarinen forges
+    body parts for her, but they cannot walk, embrace, hear, speak, see, or breathe.
+  figure_refs:
+  - fig:1
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:6
+  label: Bathing and cold bridal bed
+  summary: Ilmarinen bathes the image with crystal water and sleeps beside the golden
+    bride, but the side near her becomes cold and lifeless.
+  figure_refs:
+  - fig:1
+  - fig:6
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:7
+- id: scene:7
+  label: Ilmarinen decides to give the maiden to Wainamoinen
+  summary: Ilmarinen concludes the maiden was not born for him and says he will take
+    her to Wainola for Wainamoinen.
+  figure_refs:
+  - fig:1
+  - fig:6
+  - fig:8
+  symbol_refs:
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Mourning spouse attempts to replace the dead beloved with an artificial bride
+  taxonomy_refs: []
+  basis: Ilmarinen mourns his dead life-companion and then forges a bride from gold
+    and silver.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The passage presents creation of a replacement bride, not the resurrection
+    of the dead Maiden of the Rainbow.
+- id: motif:2
+  label: Repeated furnace creation produces unsuitable beings before the desired form
+  taxonomy_refs: []
+  basis: A lambkin and then a colt rise from the furnace and are rejected before the
+    golden maiden appears.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage does not explicitly state a broader trial formula beyond these
+    repeated episodes.
+- id: motif:3
+  label: Crafted human image lacks animation or vital functions
+  taxonomy_refs: []
+  basis: The golden maiden is beautiful and has forged limbs and senses, but cannot
+    walk, embrace, hear, speak, see, or breathe.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: No successful animation occurs in the passage.
+- id: motif:4
+  label: Divine breath desired for animation
+  taxonomy_refs: []
+  basis: Ilmarinen says the maiden would be priceless if she could speak in wisdom
+    and breathe the breath of Ukko.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The breath is wished for, but Ukko does not act in the passage.
+- id: motif:5
+  label: Cold metallic bride as failed life-companion
+  taxonomy_refs: []
+  basis: Ilmarinen sleeps beside the golden bride, but the side near her becomes cold
+    and lifeless, leading him to reject her as his own bride.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The passage emphasizes physical coldness and lifelessness rather than
+    an explicit moral explanation.
+- id: motif:6
+  label: Transfer of an unsuitable bride to an elder hero
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Ilmarinen says he will take the golden maiden to Wainola and give her to
+    old Wainamoinen as a bride and life-companion.
+  evidence_refs:
+  - ev:8
+  confidence: low
+  cautions: The taxonomy reference is tentative; the passage states a proposed gift
+    or transfer, but does not show a completed exchange or reciprocal obligation.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 19654-19689
+  quote_or_summary: Ilmarinen mourns the death of his companion, the Maiden of the
+    Rainbow, stops smith work, and laments the loss of his wife and life-companion.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:2
+  type: summary
+  locator: 19690-19713
+  quote_or_summary: Ilmarinen gathers ocean gold, mountain silver, birch-wood, ashes,
+    and metal pieces, sets servants at the bellows, and has the furnace flames fanned.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:3
+  type: summary
+  locator: 19714-19747
+  quote_or_summary: Ilmarinen works to mould a bride from gold and silver; a lambkin
+    with gold, copper, and silver features rises from the furnace, and Ilmarinen rejects
+    it, saying he desires a bride.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:4
+  type: summary
+  locator: 19748-19791
+  quote_or_summary: Ilmarinen returns the lambkin to the furnace, adds metals, and
+    later a colt emerges, golden-maned, silver-headed, and copper-hoofed; he rejects
+    it because he desires a bride.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:5
+  type: summary
+  locator: 19792-19824
+  quote_or_summary: After further forging, a virgin rises from the fire, golden-haired
+    and silver-headed; Ilmarinen forges her limbs, ears, mouth, and eyes, but they
+    do not walk, embrace, hear, speak, or see.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:6
+  type: quote
+  locator: 19825-19828
+  quote_or_summary: '"Could she only speak in wisdom, / Could she breathe the breath
+    of Ukko!"'
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; short quotation from supplied passage.
+- id: ev:7
+  type: summary
+  locator: 19829-19839
+  quote_or_summary: Ilmarinen lays the virgin on a couch, heats the bath-room, washes
+    the image with three cans of crystal water, wraps the bed with furs and blankets,
+    sleeps beside her, and finds the side near her cold and lifeless.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:8
+  type: summary
+  locator: 19840-19843
+  quote_or_summary: Ilmarinen says the virgin was not born for him and that he will
+    take her to Wainola and give her to old Wainamoinen as bride and life-companion.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summary generated from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is explicit about figures, actions, repeated creations, and the
+    inert golden maiden. Motif taxonomy mapping is limited because the available taxonomy
+    does not include a direct artificial-bride or animated-statue category.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the supplied passage itself does not support a cautious comparison to another text or tradition beyond internal repeated-pattern motifs.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:finnish-karelian-kalevala-crawford-gutenberg__l19654-l19843
+  passage_sha256=0bb9ab99365aa07d876fce322a2cc4762d859139209428499539b6fae7a33dd7

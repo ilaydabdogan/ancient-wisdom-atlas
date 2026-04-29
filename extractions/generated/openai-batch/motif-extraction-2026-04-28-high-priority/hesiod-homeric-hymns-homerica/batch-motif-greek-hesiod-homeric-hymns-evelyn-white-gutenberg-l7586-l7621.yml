@@ -1,0 +1,602 @@
+---
+record_id: batch.motif.greek-hesiod-homeric-hymns-evelyn-white-gutenberg-l7586-l7621
+source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+passage_locator:
+  label: XXXIII. TO THE DIOSCURI / HOMERS EPIGRAMS2601 / FRAGMENTS OF THE EPIC CYCLE
+    / THE WAR OF THE TITANS; lines 7586-7621
+  start: '7586'
+  end: '7621'
+  translation: Hesiod, the Homeric Hymns, and Homerica
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'A series of fragments attributed to or concerning the War of the Titans
+    gives compressed mythic notices: Heaven and Earth unite and produce hundred-handed
+    sons and Cyclopes; Heaven is said to be the son of Aether; Aegaeon is born of
+    Earth and Sea and allies with the Titans; a shield bears fish with golden faces
+    in heavenly water; Zeus dances among others; Cronos takes horse form and fathers
+    the centaur Cheiron with Philyra; Heracles crosses the sea in a cauldron; and
+    the apples of the Hesperides are guarded.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Epic Cycle is said to begin with the union of Heaven and Earth, after
+    which three hundred-handed sons and three Cyclopes are born to Heaven.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Heaven is reported to be the son of Aether.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Aegaeon is described as the son of Earth and Sea, dwelling in the sea, and
+    being an ally of the Titans.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A shield is described as bearing dumb fish with golden faces, afloat and swimming
+    through heavenly water.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Zeus is introduced dancing in the midst of others and is called the Father
+    of men and gods.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Cronos takes the shape of a horse and lies with Philyra, daughter of Ocean.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Cheiron is born a centaur as a result of Cronos lying with Philyra; Chariclo
+    is named as Cheiron's wife.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Heracles is said to have sailed across the sea in a cauldron.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: The apples of the Hesperides are said to have been guarded.
+  category: object
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Heaven
+  description: A primordial figure united with Earth; also reported as the son of
+    Aether.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Earth
+  description: A primordial figure united with Heaven; mother of Aegaeon with Sea.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:3
+  name_or_label: Hundred-handed sons
+  description: Three sons born from the union of Heaven and Earth.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Cyclopes
+  description: Three Cyclopes born from the union of Heaven and Earth.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: Aether
+  description: Named as the father of Heaven in one fragment.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Aegaeon
+  description: Son of Earth and Sea, dwelling in the sea, and an ally of the Titans.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: Sea
+  description: Parent of Aegaeon with Earth.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:8
+  name_or_label: Titans
+  description: Group for whom Aegaeon is named as an ally.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:9
+  name_or_label: Zeus
+  description: Introduced dancing and called the Father of men and gods.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+- id: fig:10
+  name_or_label: Cronos
+  description: Takes the shape of a horse and lies with Philyra.
+  role_refs:
+  - role:7
+  - role:8
+  evidence_refs:
+  - ev:6
+- id: fig:11
+  name_or_label: Philyra
+  description: Daughter of Ocean; lies with Cronos when he has taken horse form.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:6
+- id: fig:12
+  name_or_label: Ocean
+  description: Named as the father of Philyra.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+- id: fig:13
+  name_or_label: Cheiron
+  description: Born a centaur after Cronos lies with Philyra; husband of Chariclo.
+  role_refs:
+  - role:9
+  - role:10
+  evidence_refs:
+  - ev:6
+- id: fig:14
+  name_or_label: Chariclo
+  description: Named as the wife of Cheiron.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:6
+- id: fig:15
+  name_or_label: Heracles
+  description: Sails across the sea in a cauldron.
+  role_refs:
+  - role:11
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: primordial union partners
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Heaven and Earth are joined in a fabled union that precedes the birth of
+    their children.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: offspring of Heaven and Earth
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The fragment states that hundred-handed sons and Cyclopes are born from Heaven
+    and Earth's union.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: named parent
+  assigned_to:
+  - fig:1
+  - fig:5
+  - fig:12
+  basis: 'Aether is named as father of Heaven, and Ocean is named as father of Philyra;
+    Heaven is also a parent in Fragment #1.'
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: role:4
+  label: parents and child of Aegaeon
+  assigned_to:
+  - fig:2
+  - fig:6
+  - fig:7
+  basis: Aegaeon is explicitly called the son of Earth and Sea.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: Titan ally relationship
+  assigned_to:
+  - fig:6
+  - fig:8
+  basis: Aegaeon is described as an ally of the Titans.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: dancing divine father
+  assigned_to:
+  - fig:9
+  basis: Zeus is introduced dancing and called the Father of men and gods.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: shapeshifter
+  assigned_to:
+  - fig:10
+  basis: Cronos is said to take the shape of a horse.
+  evidence_refs:
+  - ev:6
+- id: role:8
+  label: parents of Cheiron
+  assigned_to:
+  - fig:10
+  - fig:11
+  basis: Cheiron is born through Cronos lying with Philyra.
+  evidence_refs:
+  - ev:6
+- id: role:9
+  label: centaur offspring
+  assigned_to:
+  - fig:13
+  basis: Cheiron is born a centaur.
+  evidence_refs:
+  - ev:6
+- id: role:10
+  label: spouses
+  assigned_to:
+  - fig:13
+  - fig:14
+  basis: Chariclo is named as Cheiron's wife.
+  evidence_refs:
+  - ev:6
+- id: role:11
+  label: cauldron voyager
+  assigned_to:
+  - fig:15
+  basis: Heracles is said to sail across the sea in a cauldron.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: Heaven and Earth union
+  literal_form: Union of Heaven and Earth
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: hundred-handed sons
+  literal_form: Three hundred-handed sons
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Cyclopes
+  literal_form: Three Cyclopes
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: sea dwelling
+  literal_form: Sea as the dwelling place of Aegaeon
+  associated_figures:
+  - fig:6
+  - fig:7
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: shield with fish
+  literal_form: Shield bearing dumb fish with golden faces
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: divine dance
+  literal_form: Zeus dancing in the midst of others
+  associated_figures:
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:7
+  label: horse form
+  literal_form: Cronos in the shape of a horse
+  associated_figures:
+  - fig:10
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:8
+  label: centaur birth
+  literal_form: Cheiron born as a centaur
+  associated_figures:
+  - fig:10
+  - fig:11
+  - fig:13
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:9
+  label: cauldron vessel
+  literal_form: Cauldron used by Heracles to cross the sea
+  associated_figures:
+  - fig:15
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:7
+- id: sym:10
+  label: guarded apples
+  literal_form: Apples of the Hesperides under guard
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Cosmic union and births
+  summary: Heaven and Earth unite, producing three hundred-handed sons and three Cyclopes.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Genealogy of Heaven
+  summary: Heaven is reported to be the son of Aether.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Aegaeon and the Titans
+  summary: Aegaeon, son of Earth and Sea, dwells in the sea and is an ally of the
+    Titans.
+  figure_refs:
+  - fig:2
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Shield with heavenly water
+  summary: A shield is described with fish of golden faces swimming in heavenly water.
+  figure_refs: []
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Zeus dancing
+  summary: Zeus dances in the midst of others as Father of men and gods.
+  figure_refs:
+  - fig:9
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:5
+- id: scene:6
+  label: Cronos as horse and birth of Cheiron
+  summary: Cronos assumes horse form and lies with Philyra; Cheiron is consequently
+    born a centaur, and Chariclo is named as his wife.
+  figure_refs:
+  - fig:10
+  - fig:11
+  - fig:12
+  - fig:13
+  - fig:14
+  symbol_refs:
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:6
+- id: scene:7
+  label: Heracles crossing the sea in a cauldron
+  summary: Heracles sails across the sea in a cauldron.
+  figure_refs:
+  - fig:15
+  symbol_refs:
+  - sym:9
+  evidence_refs:
+  - ev:7
+- id: scene:8
+  label: Guarded apples of the Hesperides
+  summary: The apples of the Hesperides are said to be guarded.
+  figure_refs: []
+  symbol_refs:
+  - sym:10
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Primordial Heaven-Earth union producing divine or monstrous offspring
+  taxonomy_refs:
+  - sacred_marriage
+  - divine_parent_child
+  basis: The passage states that Heaven and Earth unite and thereby produce hundred-handed
+    sons and Cyclopes.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The fragment is brief and does not elaborate ritual, marital, or cosmological
+    interpretation beyond the union and births.
+- id: motif:2
+  label: Genealogy of cosmic beings
+  taxonomy_refs:
+  - divine_parent_child
+  basis: Heaven is named as son of Aether, and Aegaeon is named as son of Earth and
+    Sea.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The data are fragmentary genealogical notices rather than full narratives.
+- id: motif:3
+  label: Sea-dwelling ally of the Titans
+  taxonomy_refs:
+  - water
+  basis: Aegaeon is described as born of Earth and Sea, living in the sea, and allied
+    with the Titans.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The available taxonomy provides water as a symbol, but no exact motif
+    family for a sea-dwelling Titan ally.
+- id: motif:4
+  label: Divine dancing figure
+  taxonomy_refs: []
+  basis: Zeus is described as dancing in the midst of others while called the Father
+    of men and gods.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The fragment preserves a single action and gives no surrounding ritual
+    or narrative context.
+- id: motif:5
+  label: Shapeshifting divine sexual encounter leading to hybrid offspring
+  taxonomy_refs:
+  - shapeshifter
+  - miraculous_child
+  basis: Cronos takes horse form and lies with Philyra; Cheiron is then born a centaur.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The passage gives no motive for the transformation and only a compressed
+    account of the birth.
+- id: motif:6
+  label: Sea crossing in an unusual vessel
+  taxonomy_refs:
+  - ark_vessel
+  - water
+  basis: Heracles is said to sail across the sea in a cauldron.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The cauldron functions as a vessel in the notice, but the passage does
+    not describe an ark, preservation episode, or flood context.
+- id: motif:7
+  label: Guarded mythic fruit
+  taxonomy_refs: []
+  basis: The passage states that the apples of the Hesperides were guarded.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: The guard, tree, theft, or quest context is not specified in this fragment.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 'Fragment #1; lines 7586-7621'
+  quote_or_summary: The Epic Cycle begins with the union of Heaven and Earth, producing
+    three hundred-handed sons and three Cyclopes.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain; source metadata states full text and training use allowed.
+- id: ev:2
+  type: summary
+  locator: 'Fragment #2; lines 7586-7621'
+  quote_or_summary: The writer of the War of the Titans says Heaven was the son of
+    Aether.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain; source metadata states full text and training use allowed.
+- id: ev:3
+  type: summary
+  locator: 'Fragment #3; lines 7586-7621'
+  quote_or_summary: Eumelus says Aegaeon was the son of Earth and Sea, dwelt in the
+    sea, and was an ally of the Titans.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain; source metadata states full text and training use allowed.
+- id: ev:4
+  type: quote
+  locator: 'Fragment #4; lines 7586-7621'
+  quote_or_summary: "“Upon the shield were dumb fish afloat, with golden faces, swimming
+    and sporting through the heavenly water.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain; source metadata states full text and training use allowed.
+- id: ev:5
+  type: quote
+  locator: 'Fragment #5; lines 7586-7621'
+  quote_or_summary: "“In the midst of them danced the Father of men and gods.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain; source metadata states full text and training use allowed.
+- id: ev:6
+  type: summary
+  locator: 'Fragment #6; lines 7586-7621'
+  quote_or_summary: Cronos takes horse shape and lies with Philyra, daughter of Ocean;
+    Cheiron is born a centaur, and Chariclo is named as his wife.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain; source metadata states full text and training use allowed.
+- id: ev:7
+  type: summary
+  locator: 'Fragment #7; lines 7586-7621'
+  quote_or_summary: The author of the War of the Titans is said to be the first to
+    tell that Heracles sailed across the sea in a cauldron.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain; source metadata states full text and training use allowed.
+- id: ev:8
+  type: summary
+  locator: 'Fragment #8; lines 7586-7621'
+  quote_or_summary: The author of the War of the Titans says that the apples of the
+    Hesperides were guarded.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain; source metadata states full text and training use allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward, but motif assignments are limited
+    by the fragmentary, citation-like nature of the passage. No comparison claims
+    were made because the passage itself does not argue a comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used. The heading references surrounding works, but extraction focuses on the provided War of the Titans fragments.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-hesiod-homeric-hymns-evelyn-white-gutenberg__l7586-l7621
+  passage_sha256=177996d8f39aed81e56f71a539a17f049d06b3936a9bb9fccb73597f767a0dba

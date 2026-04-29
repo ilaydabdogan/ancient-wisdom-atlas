@@ -1,0 +1,571 @@
+---
+record_id: batch.motif.finnish-karelian-kalevala-crawford-gutenberg-l72-l152
+source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+passage_locator:
+  label: INTO ENGLISH / DR. J.D. BUCK, / AN ENCOURAGING AND UNSELFISH FRIEND, AND
+    TO HIS AFFECTIONATE FAMILY, / THESE PAGES ARE GRATEFULLY INSCRIBED.; lines 72-152
+  start: '72'
+  end: '152'
+  translation: 'Kalevala: The Epic Poem of Finland'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: Kalevala THE EPIC POEM OF FINLAND ... Contents
+  summary: The passage consists of the title page, translator attribution, dedication
+    to Dr. J.D. Buck and his family, and a table of contents listing the preface,
+    proem, fifty rune headings, epilogue, and glossary.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage identifies the work as Kalevala, an epic poem of Finland, translated
+    into English by John Martin Crawford.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage dedicates the pages to Dr. J.D. Buck and his family.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The contents list a preface, proem, fifty numbered rune headings, an epilogue,
+    and a glossary.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Several rune headings name Wainamoinen and associate him with birth, sowing,
+    lamentation, rescue, boat-building, finding a lost word, sailing, harp-songs,
+    wedding-songs, and departure.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The contents include headings concerning origins or births, including the
+    birth of Wainamoinen, origin of iron, origin of the serpent, birth of the harp,
+    birth of the second harp, and birth of the nine diseases.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: 'The contents include headings concerning the Sampo: Ilmarinen forges the
+    Sampo, capture of the Sampo, and the Sampo lost in the sea.'
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: 'The contents include headings concerning theft, capture, loss, and restoration
+    involving celestial lights and fire: Louhi steals Sun, Moon, and Fire; capture
+    of the Fire-fish; restoration of the Sun and Moon.'
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The contents include headings concerning wooing, bridal counsel, wedding-feast,
+    bride’s farewells, and wedding-songs.
+  category: sequence
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: John Martin Crawford
+  description: Named as the translator into English.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Dr. J.D. Buck
+  description: Named as the dedicatee of the pages, along with his family.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Wainamoinen
+  description: Named in multiple rune headings, including birth, sowing, lamentation,
+    rescue, boat-building, lost word, sailing, harp-songs, wedding-songs, and departure.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Youkahainen
+  description: Named in the rune heading 'Wainamoinen and Youkahainen.'
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:9
+- id: fig:5
+  name_or_label: Aino
+  description: Named in the rune heading 'The Fate of Aino.'
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:9
+- id: fig:6
+  name_or_label: Ilmarinen
+  description: Named in headings concerning the forging of the Sampo, wooing, wedding-feast,
+    bride of gold, and fruitless wooing.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+  - ev:8
+  - ev:10
+- id: fig:7
+  name_or_label: Lemminkainen
+  description: Named in headings concerning lament, second wooing, death, and restoration.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:11
+- id: fig:8
+  name_or_label: Kyllikki
+  description: Named in the rune heading 'Kyllikkis Broken Vow.'
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:11
+- id: fig:9
+  name_or_label: Osmotar
+  description: Named in the heading 'Osmotar, the Bride-adviser.'
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:12
+- id: fig:10
+  name_or_label: Kullerwoinen / Kullervo
+  description: Named in headings as 'Kullerwoinen, Son of Evil,' 'Kullervo as a Shepherd,'
+    and in headings concerning his deeds, victory, and death.
+  role_refs:
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:13
+- id: fig:11
+  name_or_label: Louhi
+  description: Named in the heading 'Louhi steals Sun, Moon, and Fire.'
+  role_refs:
+  - role:3
+  - role:6
+  evidence_refs:
+  - ev:7
+- id: fig:12
+  name_or_label: Mariatta
+  description: Named in the heading 'MariattaWainamoinens Departure.'
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:14
+- id: fig:13
+  name_or_label: Otso
+  description: Named in the heading 'Otso the Honey-eater.'
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:14
+roles:
+- id: role:1
+  label: translator
+  assigned_to:
+  - fig:1
+  basis: The title page says the work is 'Into English By John Martin Crawford.'
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: dedicatee
+  assigned_to:
+  - fig:2
+  basis: The dedication names Dr. J.D. Buck and his family as recipients of the inscription.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: named subject in rune heading
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:9
+  - fig:10
+  - fig:11
+  - fig:12
+  - fig:13
+  basis: These figures are named in the table of contents as subjects of one or more
+    rune headings.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+  - ev:9
+  - ev:10
+  - ev:11
+  - ev:12
+  - ev:13
+  - ev:14
+- id: role:4
+  label: bride-adviser
+  assigned_to:
+  - fig:9
+  basis: The heading identifies Osmotar as 'the Bride-adviser.'
+  evidence_refs:
+  - ev:12
+- id: role:5
+  label: son of evil / shepherd in headings
+  assigned_to:
+  - fig:10
+  basis: The headings call Kullerwoinen 'Son of Evil' and list 'Kullervo as a Shepherd.'
+  evidence_refs:
+  - ev:13
+- id: role:6
+  label: thief of celestial lights and fire in heading
+  assigned_to:
+  - fig:11
+  basis: The heading says Louhi steals Sun, Moon, and Fire.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: serpent
+  literal_form: Serpent named in the heading 'Origin of the Serpent.'
+  associated_figures: []
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:5
+- id: sym:2
+  label: fire
+  literal_form: Fire named in headings concerning Louhi stealing Sun, Moon, and Fire
+    and the capture of the Fire-fish.
+  associated_figures:
+  - fig:11
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:7
+- id: sym:3
+  label: sea
+  literal_form: Sea named in the heading 'The Sampo lost in the Sea.'
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: Sampo
+  literal_form: Sampo named in headings concerning forging, capture, and loss in the
+    sea.
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: harp
+  literal_form: Harp named in headings concerning its birth, Wainamoinen’s harp-songs,
+    and the birth of a second harp.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:15
+- id: sym:6
+  label: sun and moon
+  literal_form: Sun and Moon named in headings concerning theft and restoration.
+  associated_figures:
+  - fig:11
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:7
+  label: boat
+  literal_form: Boat-building named in the heading 'Wainainoinens Boat-building.'
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:8
+  label: rainbow
+  literal_form: Rainbow named in the heading 'Maiden of the Rainbow.'
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:16
+scenes:
+- id: scene:1
+  label: Title page and dedication
+  summary: The passage presents the title, English translator, and dedication to Dr.
+    J.D. Buck and his family.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Table of contents
+  summary: The passage lists the work’s prefatory sections, fifty rune headings, epilogue,
+    and glossary.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:9
+  - fig:10
+  - fig:11
+  - fig:12
+  - fig:13
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:10
+  - ev:11
+  - ev:12
+  - ev:13
+  - ev:14
+  - ev:15
+  - ev:16
+candidate_motifs:
+- id: motif:1
+  label: birth or origin episodes listed in contents
+  taxonomy_refs:
+  - sacred_birth
+  basis: The contents include headings such as 'Birth of Wainamoinen,' 'Origin of
+    Iron,' 'Origin of the Serpent,' and several other birth headings.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage is a table of contents; it does not narrate the episodes or
+    establish their sacred status in detail.
+- id: motif:2
+  label: serpent origin
+  taxonomy_refs:
+  - serpent
+  basis: A rune heading is titled 'Origin of the Serpent.'
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: Only the title is present; no narrative details of the serpent’s origin
+    appear in this passage.
+- id: motif:3
+  label: theft of celestial lights and fire
+  taxonomy_refs:
+  - sacred_theft
+  basis: A rune heading states that Louhi steals Sun, Moon, and Fire.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: The contents heading supports a theft motif, but the passage gives no
+    narrative context or motive.
+- id: motif:4
+  label: loss in sea and recovery sequence around the Sampo
+  taxonomy_refs:
+  - water
+  basis: The contents list the forging and capture of the Sampo, followed by 'The
+    Sampo lost in the Sea.'
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The Sampo’s nature and the narrative sequence are not explained in this
+    passage.
+- id: motif:5
+  label: death and restoration of a named figure
+  taxonomy_refs:
+  - death_rebirth
+  - resurrection
+  basis: The contents list 'Death of Lemminkainen' and 'Lemminkainens Restoration.'
+  evidence_refs:
+  - ev:11
+  confidence: medium
+  cautions: The heading pair suggests death and restoration, but the passage does
+    not narrate the restoration or clarify whether it is resurrection.
+- id: motif:6
+  label: departure of Wainamoinen
+  taxonomy_refs:
+  - departure
+  basis: The contents include the heading 'MariattaWainamoinens Departure.'
+  evidence_refs:
+  - ev:14
+  confidence: medium
+  cautions: Only a heading is present; the circumstances and function of the departure
+    are not given.
+- id: motif:7
+  label: wooing and wedding sequence
+  taxonomy_refs:
+  - sacred_marriage
+  basis: The contents include multiple headings about wooing, bride’s farewell, wedding-feast,
+    and wedding-songs.
+  evidence_refs:
+  - ev:8
+  confidence: low
+  cautions: The passage does not establish that these marriage-related episodes are
+    sacred or divine; the taxonomy link is tentative.
+- id: motif:8
+  label: lost word and wisdom quest
+  taxonomy_refs:
+  - wisdom
+  - mystical_quest
+  basis: The contents include 'Wainamoinen finds the Lost Word.'
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: The title suggests a quest for a word or knowledge, but no details are
+    provided in this passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 72-82
+  quote_or_summary: '"Kalevala THE EPIC POEM OF FINLAND ... INTO ENGLISH BY JOHN MARTIN
+    CRAWFORD"'
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; short excerpt used for extraction evidence.
+- id: ev:2
+  type: quote
+  locator: lines 84-90
+  quote_or_summary: '"TO DR. J.D. BUCK ... THESE PAGES ARE GRATEFULLY INSCRIBED."'
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; short excerpt used for extraction evidence.
+- id: ev:3
+  type: summary
+  locator: lines 92-152
+  quote_or_summary: The contents list the preface, proem, runes I-L, epilogue, and
+    glossary.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summary used.
+- id: ev:4
+  type: summary
+  locator: lines 96-145
+  quote_or_summary: Rune headings name Wainamoinen in connection with birth, sowing,
+    lamentation, rescue, boat-building, finding the lost word, sailing, harp-songs,
+    wedding-songs, and departure.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summary used.
+- id: ev:5
+  type: summary
+  locator: lines 96, 104, 121, 136, 140, 141
+  quote_or_summary: The contents include headings for the birth of Wainamoinen, origin
+    of iron, origin of the serpent, birth of the harp, birth of the second harp, and
+    birth of the nine diseases.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summary used.
+- id: ev:6
+  type: summary
+  locator: lines 105, 138-139
+  quote_or_summary: The contents include 'Ilmarinen forges the Sampo,' 'Capture of
+    the Sampo,' and 'The Sampo lost in the Sea.'
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summary with brief title excerpts.
+- id: ev:7
+  type: summary
+  locator: lines 142-144
+  quote_or_summary: The contents include headings in which Louhi steals Sun, Moon,
+    and Fire, the Fire-fish is captured, and the Sun and Moon are restored.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summary used.
+- id: ev:8
+  type: summary
+  locator: lines 108, 112, 114-120
+  quote_or_summary: The contents include headings concerning second wooing, rival
+    suitors, Ilmarinen’s wooing, wedding-feast, bride’s farewell, bride-adviser, and
+    wedding-songs.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summary used.
+- id: ev:9
+  type: summary
+  locator: lines 98-100
+  quote_or_summary: The contents list 'Wainamoinen and Youkahainen,' 'The Fate of
+    Aino,' and 'Wainamoinens Lamentation.'
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summary with brief title excerpts.
+- id: ev:10
+  type: summary
+  locator: lines 105, 115, 117, 132-133
+  quote_or_summary: The contents name Ilmarinen in headings about forging the Sampo,
+    wooing, wedding-feast, a bride of gold, and fruitless wooing.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summary used.
+- id: ev:11
+  type: summary
+  locator: lines 106-111
+  quote_or_summary: The contents list headings for Lemminkainen’s lament, Kyllikki’s
+    broken vow, Lemminkainen’s second wooing, death, and restoration.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summary used.
+- id: ev:12
+  type: quote
+  locator: line 118
+  quote_or_summary: '"RUNE XXIII. Osmotar, the Bride-adviser"'
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; short excerpt used for extraction evidence.
+- id: ev:13
+  type: summary
+  locator: lines 126-131
+  quote_or_summary: The contents include headings for Kullerwoinen as son of evil,
+    Kullervo as a shepherd, Kullervo and the cheat-cake, finding tribe-folk, evil
+    deeds, victory, and death.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summary used.
+- id: ev:14
+  type: summary
+  locator: lines 142, 145-146
+  quote_or_summary: The contents include headings for Otso the Honey-eater and 'MariattaWainamoinens
+    Departure.'
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summary used.
+- id: ev:15
+  type: summary
+  locator: lines 136-137, 140
+  quote_or_summary: The contents include headings for birth of the harp, Wainamoinen’s
+    harp-songs, and birth of the second harp.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summary used.
+- id: ev:16
+  type: quote
+  locator: line 103
+  quote_or_summary: '"RUNE VIII. Maiden of the Rainbow"'
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; short excerpt used for extraction evidence.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: The passage is front matter and a table of contents rather than a narrative
+    passage. Literal extraction of names, headings, and title-level motifs is reliable,
+    but motif interpretation is limited by the absence of narrative detail.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not support comparisons beyond title-level motif categorization.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:finnish-karelian-kalevala-crawford-gutenberg__l72-l152
+  passage_sha256=ea81cd90c8f4de4da4f467db6920ade42c0cf5a95cc39b8702b27402aaafe1de

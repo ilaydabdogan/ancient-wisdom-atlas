@@ -1,0 +1,552 @@
+---
+record_id: batch.motif.greek-hesiod-homeric-hymns-evelyn-white-gutenberg-l6343-l6445
+source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+passage_locator:
+  label: II. TO DEMETER / III. TO DELIAN APOLLO / TO PYTHIAN APOLLO / IV. TO HERMES;
+    lines 6343-6445
+  start: '6343'
+  end: '6445'
+  translation: Hesiod, the Homeric Hymns, and Homerica
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Apollo follows an omen and strange tracks while seeking his stolen cattle,
+    reaches Hermes' cave on Cyllene, confronts the newborn Hermes, threatens him with
+    Tartarus, and receives crafty denials. Apollo identifies Hermes as a rogue and
+    future prince of robbers. Hermes uses a bodily omen and sneeze to make Apollo
+    drop him, then again denies the theft and calls for judgment before Zeus.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Apollo hears a report, sees a long-winged bird, and interprets it as an omen
+    that the thief is the child of Zeus.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Apollo observes ox tracks that are turned backwards toward the meadow and
+    additional non-human, monstrous footprints.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Apollo comes to the forested mountain of Cyllene and enters a deep-shadowed
+    cave in the rock where the nymph bore the child of Zeus.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Hermes lies wrapped like a newborn child, awake but pretending to sleep, with
+    his lyre under his armpit.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Apollo searches the dwelling and opens closets containing nectar, ambrosia,
+    gold, silver, and garments.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Apollo threatens to cast Hermes into Tartarus and hopeless darkness if he
+    does not tell about the cattle.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Hermes denies knowledge of the cattle, claims concern only for sleep, milk,
+    wrappings, and warm baths, and says he was born yesterday.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Apollo calls Hermes a rogue, deceiver, and crafty in heart, predicts he will
+    trouble herdsmen, and says he will be called prince of robbers among the gods.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: Apollo takes up Hermes, but Hermes sends forth a rude bodily omen and sneezes,
+    causing Apollo to drop him.
+  category: action
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: Hermes asks to give and take right before Zeus while again denying that he
+    stole the cows.
+  category: speech
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Apollo / Phoebus Apollo / Far-Shooter / Son of Leto
+  description: A son of Zeus and Leto who seeks his stolen cattle, follows omens and
+    tracks, enters Hermes' cave, confronts Hermes, and threatens him.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:6
+  - ev:8
+  - ev:9
+- id: fig:2
+  name_or_label: Hermes / Cyllenian Hermes / Son of Zeus and Maia / Slayer of Argus
+  description: A newborn divine child in swaddling clothes, awake while feigning sleep,
+    accused of stealing Apollo's cattle, speaking craftily, and associated with a
+    lyre.
+  role_refs:
+  - role:2
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:10
+- id: fig:3
+  name_or_label: Maia / divine mountain-nymph
+  description: The nymph and mother of Hermes in the cave on Cyllene.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+- id: fig:4
+  name_or_label: Zeus, son of Cronos
+  description: Father of Hermes and Apollo; invoked by Hermes as the authority before
+    whom right should be given and taken.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+  - ev:10
+- id: fig:5
+  name_or_label: Long-winged bird
+  description: A bird seen by Apollo and read by him as an omen concerning the thief.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:1
+- id: fig:6
+  name_or_label: Apollo's cattle / shambling oxen / cows
+  description: The missing cattle sought by Apollo and repeatedly denied by Hermes.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+  - ev:7
+  - ev:10
+roles:
+- id: role:1
+  label: seeker and accuser
+  assigned_to:
+  - fig:1
+  basis: Apollo seeks his cattle, follows tracks, confronts Hermes, and demands information.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: role:2
+  label: accused cattle-thief
+  assigned_to:
+  - fig:2
+  basis: The omen identifies the thief as Zeus' child, and Apollo accuses Hermes in
+    connection with the missing cattle.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:8
+- id: role:3
+  label: newborn divine child
+  assigned_to:
+  - fig:2
+  basis: Hermes is swaddled like a newborn and says he was born yesterday.
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: role:4
+  label: crafty deceiver and future robber figure
+  assigned_to:
+  - fig:2
+  basis: Apollo calls him a rogue, deceiver, crafty in heart, and future prince of
+    robbers.
+  evidence_refs:
+  - ev:8
+- id: role:5
+  label: interpreter of omens and tracks
+  assigned_to:
+  - fig:1
+  basis: Apollo interprets the bird as an omen and comments on the strange cattle
+    tracks and footprints.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:6
+  label: divine mother in cave setting
+  assigned_to:
+  - fig:3
+  basis: The cave is described as the place where the divine nymph bore the child
+    of Zeus.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: divine father and judicial authority
+  assigned_to:
+  - fig:4
+  basis: Zeus is named as Hermes' father and the authority before whom Hermes proposes
+    judgment.
+  evidence_refs:
+  - ev:6
+  - ev:10
+- id: role:8
+  label: omen-bird
+  assigned_to:
+  - fig:5
+  basis: Apollo reads the long-winged bird as an omen identifying the thief.
+  evidence_refs:
+  - ev:1
+- id: role:9
+  label: stolen or missing herd
+  assigned_to:
+  - fig:6
+  basis: Apollo is seeking his cattle, and Hermes denies stealing them.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:7
+  - ev:10
+symbols:
+- id: sym:1
+  label: omen bird
+  literal_form: long-winged bird
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: reversed cattle tracks
+  literal_form: tracks of straight-horned oxen turned backwards, with strange non-human
+    footprints nearby
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Cyllene mountain
+  literal_form: forest-clad mountain of Cyllene
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: shadowed cave
+  literal_form: deep-shadowed cave in the rock
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: lyre hidden with infant
+  literal_form: lyre kept under Hermes' armpit while he lies swaddled
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: milk of the mother
+  literal_form: milk of my mother's breast
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - milk
+  evidence_refs:
+  - ev:7
+- id: sym:7
+  label: Tartarus and hopeless darkness
+  literal_form: dusty Tartarus and awful hopeless darkness under the earth
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:8
+  label: bodily omen and sneeze
+  literal_form: a rude bodily messenger followed by a sneeze
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Apollo follows omen and tracks
+  summary: Apollo interprets a long-winged bird as an omen identifying the thief as
+    a child of Zeus, then follows reversed cattle tracks and strange footprints while
+    seeking his oxen.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Arrival at Hermes' cave
+  summary: Apollo reaches the forested mountain of Cyllene and enters the shadowed
+    cave where the nymph bore Hermes.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Hermes feigns infancy
+  summary: Hermes sees Apollo enraged over the cattle and curls up in swaddling clothes
+    like a sleeping newborn while hiding his lyre.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Confrontation and denial
+  summary: Apollo searches the dwelling, threatens Hermes with Tartarus, and Hermes
+    denies knowledge of the cattle while emphasizing his newborn condition and infant
+    needs.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:6
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: scene:5
+  label: Apollo names Hermes as robber
+  summary: Apollo laughs at Hermes' innocent speech and calls him a rogue, deceiver,
+    and future prince of robbers.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:8
+- id: scene:6
+  label: Bodily omen and appeal to Zeus
+  summary: Apollo lifts Hermes, but Hermes produces a rude omen and sneezes, leading
+    Apollo to drop him; Hermes then repeats his denial and proposes judgment before
+    Zeus.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:6
+  symbol_refs:
+  - sym:8
+  evidence_refs:
+  - ev:9
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: divine cattle theft by a newborn trickster
+  taxonomy_refs:
+  - sacred_theft
+  - trickster_boundary
+  basis: The passage centers on Apollo's stolen cattle, an omen identifying the thief
+    as a child of Zeus, Hermes' crafty denial, and Apollo's naming of Hermes as prince
+    of robbers.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:10
+  confidence: high
+  cautions: The actual theft is not narrated in this passage, only investigated and
+    denied.
+- id: motif:2
+  label: miraculous newborn with adult powers
+  taxonomy_refs:
+  - miraculous_child
+  basis: Hermes is described as a newly born swaddled child but is awake, speaks craftily,
+    keeps a lyre hidden, and is accused of extraordinary cattle theft.
+  evidence_refs:
+  - ev:4
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The passage presents the contrast between infancy and capability, but
+    some prior deeds are inferred through accusation rather than directly shown here.
+- id: motif:3
+  label: divine parentage and appeal to divine authority
+  taxonomy_refs:
+  - divine_parent_child
+  basis: Hermes is repeatedly identified as the child of Zeus and Maia, and he proposes
+    that the dispute be judged before Zeus.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+  - ev:10
+  confidence: medium
+  cautions: The passage uses parentage to identify Hermes and frame authority, not
+    as the main narrative action.
+- id: motif:4
+  label: underworld punishment threat
+  taxonomy_refs: []
+  basis: Apollo threatens to cast Hermes into Tartarus and hopeless darkness under
+    the earth if he does not reveal the cattle.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: This is a threat within dialogue, not an enacted descent or afterlife
+    journey.
+- id: motif:5
+  label: omens guiding pursuit
+  taxonomy_refs: []
+  basis: Apollo reads a bird as an omen identifying the thief and later says he will
+    find the cattle by omens after Hermes' bodily sign and sneeze.
+  evidence_refs:
+  - ev:1
+  - ev:9
+  confidence: medium
+  cautions: No available taxonomy reference exactly matches omen-guided detection.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: ll. 212-218
+  quote_or_summary: Apollo hears the old man's report, sees a long-winged bird, interprets
+    it as an omen that the thief is the child of Zeus, and hurries to Pylos seeking
+    his oxen.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain translation; summarized.
+- id: ev:2
+  type: summary
+  locator: ll. 219-226
+  quote_or_summary: Apollo marvels at ox tracks turned backwards toward the meadow
+    and at other footprints unlike those of humans, beasts, or Centaurs.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain translation; summarized.
+- id: ev:3
+  type: summary
+  locator: ll. 227-234
+  quote_or_summary: Apollo comes to forest-clad Cyllene and the deep-shadowed cave
+    in the rock where the divine nymph bore Zeus' child, then enters the cave.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain translation; summarized.
+- id: ev:4
+  type: summary
+  locator: ll. 235-244
+  quote_or_summary: Hermes sees Apollo angry about the cattle, curls up in fragrant
+    swaddling clothes like a newborn seeking sleep, though awake, and keeps his lyre
+    under his armpit.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain translation; summarized.
+- id: ev:5
+  type: summary
+  locator: ll. 244-253
+  quote_or_summary: Apollo perceives the mountain-nymph and her child, searches the
+    dwelling, and opens closets containing nectar, ambrosia, gold, silver, and garments.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain translation; summarized.
+- id: ev:6
+  type: summary
+  locator: ll. 254-259
+  quote_or_summary: Apollo tells the child in the cradle to tell him of the cattle
+    or be cast into Tartarus and hopeless darkness under the earth.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain translation; summarized.
+- id: ev:7
+  type: summary
+  locator: ll. 260-277
+  quote_or_summary: Hermes answers craftily, denies seeing or hearing of the cattle,
+    says he cares for sleep, his mother's milk, wrappings, and baths, claims he was
+    born yesterday, and offers an oath by his father's head.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain translation; summarized.
+- id: ev:8
+  type: summary
+  locator: ll. 281-292
+  quote_or_summary: Apollo laughs and calls Hermes a rogue, deceiver, crafty in heart,
+    predicts he will plague herdsmen, and says he will be called prince of robbers
+    among the deathless gods.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain translation; summarized.
+- id: ev:9
+  type: summary
+  locator: ll. 293-303
+  quote_or_summary: Apollo carries Hermes; Hermes sends forth a rude bodily omen and
+    sneezes, causing Apollo to drop him; Apollo says he will find the cattle by these
+    omens.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain translation; summarized.
+- id: ev:10
+  type: summary
+  locator: ll. 304-312
+  quote_or_summary: Hermes springs up, asks why Apollo is carrying and harassing him
+    over cattle, denies stealing or seeing the theft, and proposes giving and taking
+    right before Zeus.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain translation; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The narrative actions and roles are explicit in the passage. Motif labels
+    are limited to the supplied taxonomy and to patterns directly supported by this
+    excerpt. No comparison claims were added because the passage itself does not compare
+    this episode with another tradition or text.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  All evidence is summarized from the supplied public-domain passage; no external material was used.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-hesiod-homeric-hymns-evelyn-white-gutenberg__l6343-l6445
+  passage_sha256=ff3520e5134bd9b57d7bceb73e18f6c2a73586b9ef7dceec4aed8a0f286f4891

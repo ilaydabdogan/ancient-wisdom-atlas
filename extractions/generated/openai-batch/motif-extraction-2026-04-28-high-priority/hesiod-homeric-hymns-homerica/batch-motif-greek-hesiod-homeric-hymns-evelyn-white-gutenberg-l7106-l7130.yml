@@ -1,0 +1,422 @@
+---
+record_id: batch.motif.greek-hesiod-homeric-hymns-evelyn-white-gutenberg-l7106-l7130
+source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+passage_locator:
+  label: XI. TO ATHENA / XII. TO HERA / XIII. TO DEMETER / XIV. TO THE MOTHER OF THE
+    GODS; lines 7106-7130
+  start: '7106'
+  end: '7130'
+  translation: Hesiod, the Homeric Hymns, and Homerica
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage contains short hymnic invocations to Hera, Demeter, and the
+    Mother of the Gods. Hera is described as Rhea's daughter, queen of the immortals,
+    sister and wife of Zeus, beautiful, and honored on Olympus. Demeter is invoked
+    with her daughter Persephone and asked to protect the city and govern the singer's
+    song. The Muse is asked to sing of the mother of all gods and men, who delights
+    in musical instruments, animal cries, and wild landscapes.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Hera is sung as golden-throned and as a daughter borne by Rhea.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Hera is described as queen of the immortals and surpassing all in beauty.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Hera is identified as both sister and wife of Zeus.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The blessed ones throughout high Olympus reverence and honor Hera as they
+    do Zeus.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: Demeter is described as rich-haired and awful, and she is named together with
+    her daughter Persephone.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The speaker asks Demeter to keep the city safe and govern the song.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: The Muse, daughter of mighty Zeus, is asked to sing of the mother of all gods
+    and men.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The mother of all gods and men is pleased by rattles, timbrels, flutes, wolves,
+    lions, echoing hills, and wooded coombes.
+  category: attribute
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Hera
+  description: Golden-throned goddess, daughter of Rhea, queen of the immortals, sister
+    and wife of Zeus.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Rhea
+  description: Named as the one who bore Hera.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Zeus
+  description: Loud-thundering Zeus, brother and husband of Hera, honored by the blessed
+    on Olympus.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: The blessed throughout high Olympus
+  description: Collective divine group that reverences and honors Hera and Zeus.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: Demeter
+  description: Rich-haired, awful goddess invoked by the singer.
+  role_refs:
+  - role:8
+  - role:9
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Persephone
+  description: Lovely daughter of Demeter.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:2
+- id: fig:7
+  name_or_label: Muse
+  description: Clear-voiced daughter of mighty Zeus, invoked to sing.
+  role_refs:
+  - role:11
+  - role:12
+  evidence_refs:
+  - ev:3
+- id: fig:8
+  name_or_label: Mother of all gods and men
+  description: A divine mother figure pleased by instruments, animal outcries, hills,
+    and wooded coombes.
+  role_refs:
+  - role:13
+  evidence_refs:
+  - ev:3
+- id: fig:9
+  name_or_label: Wolves and bright-eyed lions
+  description: Animals whose outcry is pleasing to the mother of all gods and men.
+  role_refs: []
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: queen of the immortals
+  assigned_to:
+  - fig:1
+  basis: Hera is explicitly called queen of the immortals.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: sister and wife of Zeus
+  assigned_to:
+  - fig:1
+  basis: Hera is named as the sister and wife of loud-thundering Zeus.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: honored Olympian goddess
+  assigned_to:
+  - fig:1
+  basis: The blessed throughout high Olympus reverence and honor her.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: divine mother of Hera
+  assigned_to:
+  - fig:2
+  basis: Rhea is said to have borne Hera.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: thundering god
+  assigned_to:
+  - fig:3
+  basis: Zeus is described as loud-thundering and as delighting in thunder.
+  evidence_refs:
+  - ev:1
+- id: role:6
+  label: brother and husband of Hera
+  assigned_to:
+  - fig:3
+  basis: Zeus is identified through his sibling and marital relationship to Hera.
+  evidence_refs:
+  - ev:1
+- id: role:7
+  label: divine worshippers or honorers
+  assigned_to:
+  - fig:4
+  basis: The blessed ones on Olympus are said to reverence and honor Hera and Zeus.
+  evidence_refs:
+  - ev:1
+- id: role:8
+  label: goddess invoked in song
+  assigned_to:
+  - fig:5
+  basis: The speaker begins to sing of Demeter and addresses her with a hail.
+  evidence_refs:
+  - ev:2
+- id: role:9
+  label: mother of Persephone
+  assigned_to:
+  - fig:5
+  basis: Persephone is named as Demeter's daughter.
+  evidence_refs:
+  - ev:2
+- id: role:10
+  label: daughter of Demeter
+  assigned_to:
+  - fig:6
+  basis: The passage calls Persephone Demeter's daughter.
+  evidence_refs:
+  - ev:2
+- id: role:11
+  label: daughter of Zeus
+  assigned_to:
+  - fig:7
+  basis: The Muse is addressed as daughter of mighty Zeus.
+  evidence_refs:
+  - ev:3
+- id: role:12
+  label: inspired singer invoked
+  assigned_to:
+  - fig:7
+  basis: The speaker asks the Muse to sing of the mother of all gods and men.
+  evidence_refs:
+  - ev:3
+- id: role:13
+  label: universal mother figure
+  assigned_to:
+  - fig:8
+  basis: She is called the mother of all gods and men.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: golden throne
+  literal_form: Golden-throned epithet of Hera.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: high Olympus
+  literal_form: High Olympus, where the blessed reverence and honor Hera and Zeus.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: city under divine protection
+  literal_form: The city that Demeter is asked to keep safe.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: rattles and timbrels
+  literal_form: Percussive instruments pleasing to the mother of all gods and men.
+  associated_figures:
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: flutes
+  literal_form: Flutes whose voice pleases the mother of all gods and men.
+  associated_figures:
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: wolves and bright-eyed lions
+  literal_form: Wild animals whose outcry pleases the mother of all gods and men.
+  associated_figures:
+  - fig:8
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:7
+  label: echoing hills and wooded coombes
+  literal_form: Wild landscape pleasing to the mother of all gods and men.
+  associated_figures:
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Hymnic praise of Hera
+  summary: The speaker sings of Hera, naming her lineage, rank, beauty, relationship
+    to Zeus, and honor among the blessed on Olympus.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Hymnic invocation of Demeter and Persephone
+  summary: The speaker begins to sing of Demeter and her daughter Persephone, then
+    asks the goddess to protect the city and govern the song.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Invocation to the Mother of the Gods
+  summary: The speaker asks the Muse to sing of the mother of all gods and men and
+    lists sounds, animals, and landscapes that please her.
+  figure_refs:
+  - fig:7
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: mother goddess
+  taxonomy_refs:
+  - mother_goddess
+  basis: The passage names Demeter with her daughter Persephone and separately invokes
+    the mother of all gods and men.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage is hymnic and descriptive; it does not narrate a full mythic
+    episode.
+- id: motif:2
+  label: divine parent and child
+  taxonomy_refs:
+  - divine_parent_child
+  basis: Rhea bears Hera; Demeter is linked with her daughter Persephone; the Muse
+    is called daughter of Zeus; and the mother of all gods and men is invoked.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The parent-child relations are stated briefly without narrative development.
+- id: motif:3
+  label: divine sibling pair
+  taxonomy_refs:
+  - sibling_pair
+  basis: Hera and Zeus are explicitly identified as sister and brother through the
+    phrase that Hera is Zeus's sister and wife.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The sibling relation is mentioned only as part of Hera's epithet and is
+    combined with a marital relationship.
+- id: motif:4
+  label: sacred marriage of deities
+  taxonomy_refs:
+  - sacred_marriage
+  basis: Hera is identified as the wife of Zeus, and both are honored by the blessed
+    throughout high Olympus.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: No marriage ritual or narrative is described; the motif is inferred only
+    from the divine spousal relationship.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 7106-7112; XII. To Hera, ll. 1-5
+  quote_or_summary: Hera is sung as golden-throned, daughter of Rhea, queen of the
+    immortals, sister and wife of loud-thundering Zeus, and honored throughout high
+    Olympus.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source; summary only.
+- id: ev:2
+  type: summary
+  locator: lines 7114-7119; XIII. To Demeter, ll. 1-3
+  quote_or_summary: The speaker sings of rich-haired Demeter and her daughter Persephone,
+    then asks the goddess to keep the city safe and govern the song.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source; summary only.
+- id: ev:3
+  type: summary
+  locator: lines 7121-7130; XIV. To the Mother of the Gods, ll. 1-6
+  quote_or_summary: The speaker asks the clear-voiced Muse, daughter of Zeus, to sing
+    of the mother of all gods and men, who is pleased by rattles, timbrels, flutes,
+    wolves, lions, echoing hills, and wooded coombes.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source; summary only.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is short and primarily descriptive, so figures and relationships
+    are clear, while motif identification is limited by the absence of extended narrative
+    action.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only provided passage text and metadata were used. Comparison claims are omitted because the passage itself does not support a specific cross-text comparison.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-hesiod-homeric-hymns-evelyn-white-gutenberg__l7106-l7130
+  passage_sha256=222de93a89940fc007143dfe7ebb9dc09823c4b3ab5b619fdce4b7015df8516b

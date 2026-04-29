@@ -1,0 +1,503 @@
+---
+record_id: batch.motif.celtic-welsh-mabinogion-guest-gutenberg-l7301-l7377
+source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+passage_locator:
+  label: PEREDUR THE SON OF EVRAWC / GERAINT THE SON OF ERBIN / THE DREAM OF RHONABWY
+    / PWYLL PRINCE OF DYVED; lines 7301-7377
+  start: '7301'
+  end: '7377'
+  translation: The Mabinogion
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Manawyddan watches a croft at midnight and sees an innumerable host of
+    mice cut and carry away ears of wheat. He catches one sluggish mouse, brings it
+    to the palace, and tells Kicva he will hang it as a thief. Kicva cautions that
+    such an act may be unseemly but does not prevent him. Manawyddan takes the mouse
+    to the Gorsedd of Narberth and prepares a gallows. A poor scholar and then a mounted
+    priest arrive separately, each urging him to release the mouse and offering payment;
+    Manawyddan refuses to sell or free it.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: At midnight, Manawyddan watches the croft and sees an innumerable host of
+    mice enter it.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The mice climb the straw, bend it down, cut off ears of wheat, and carry them
+    away, leaving stalks behind.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Manawyddan pursues the mice in anger but can catch only one sluggish mouse.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Manawyddan puts the captured mouse in his glove, ties the glove shut, and
+    returns to the palace.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Kicva asks what Manawyddan has, and he identifies the captured creature as
+    a thief that robbed him.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Manawyddan says he intends to hang the captured mouse and would hang all the
+    mice if he had them.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Kicva says it would be unseemly for a man of dignity to hang such a reptile
+    and advises letting it go, while also saying he may do as he wishes.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Manawyddan takes the mouse to the Gorsedd of Narberth and sets up two forks
+    on its highest part.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The passage states that Manawyddan had seen no man or beast in that place
+    for seven years except the remaining companions.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: A poor, tattered scholar arrives, greets Manawyddan, and says he comes from
+    singing in Lloegyr.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: The scholar urges Manawyddan to let the mouse go free and offers him a pound
+    in alms to release it.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:12
+  text: Manawyddan refuses to free or sell the mouse and insists that it will be hanged
+    as a thief.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:13
+  text: A priest on a horse with trappings arrives while Manawyddan is placing the
+    crossbeam on the two forks.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:14
+  text: The priest asks Manawyddan to release the mouse, offers three pounds for its
+    freedom, and Manawyddan refuses any price.
+  category: speech
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Manawyddan
+  description: The man who watches the croft, catches the mouse, calls it a thief,
+    and prepares to hang it.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Kicva
+  description: A woman in the hall who questions Manawyddan about the captured creature
+    and advises that hanging it would be unseemly.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: host of mice
+  description: An innumerable group of mice that enter the croft and carry away ears
+    of wheat.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: captured mouse
+  description: A less nimble mouse caught by Manawyddan, enclosed in his glove, and
+    treated as a thief to be hanged.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:7
+- id: fig:5
+  name_or_label: scholar
+  description: A man in old, poor, and tattered garments who arrives at the Gorsedd
+    and offers a pound for the mouse's release.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: fig:6
+  name_or_label: priest
+  description: A priest riding a horse covered with trappings who offers three pounds
+    for the mouse's release.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:8
+  - ev:9
+roles:
+- id: role:1
+  label: croft watcher and pursuer
+  assigned_to:
+  - fig:1
+  basis: He watches the croft, sees the mice, and pursues them.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: would-be executioner of thief
+  assigned_to:
+  - fig:1
+  basis: He declares the captured mouse a thief and sets up an apparatus to hang it.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+- id: role:3
+  label: counselor against unseemly action
+  assigned_to:
+  - fig:2
+  basis: Kicva advises that it would be unseemly for a dignified man to hang the creature.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: crop thieves
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The mice carry away wheat, and Manawyddan identifies the captured mouse as
+    one of the robbers.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: role:5
+  label: captive condemned as thief
+  assigned_to:
+  - fig:4
+  basis: The mouse is kept in a glove and Manawyddan repeatedly says he will hang
+    it as a thief.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:7
+- id: role:6
+  label: intercessor offering ransom
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: Both the scholar and priest urge release of the mouse and offer money for
+    its freedom.
+  evidence_refs:
+  - ev:7
+  - ev:9
+symbols:
+- id: sym:1
+  label: mice stealing wheat
+  literal_form: Innumerable mice cutting and carrying away ears of wheat from a croft.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: capturing glove
+  literal_form: A glove tied shut with a string, containing the captured mouse.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: makeshift gallows
+  literal_form: Two forks and a crossbeam set up on the highest part of the Gorsedd
+    of Narberth.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:8
+- id: sym:4
+  label: Gorsedd of Narberth
+  literal_form: The place where Manawyddan takes the mouse and prepares the hanging;
+    described as deserted of man and beast for seven years apart from the companions.
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:8
+- id: sym:5
+  label: ransom offers
+  literal_form: A pound offered by the scholar and three pounds offered by the priest
+    for the mouse's freedom.
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:9
+- id: sym:6
+  label: fire in the hall
+  literal_form: A fire lighted by Manawyddan in the hall where Kicva is present.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Midnight theft in the croft
+  summary: Manawyddan watches the croft at midnight and sees countless mice cut and
+    carry away the ears of wheat.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Capture and confinement of the mouse
+  summary: Manawyddan angrily pursues the mice, catches one sluggish mouse, confines
+    it in a tied glove, and brings it to the palace.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Kicva counsels release
+  summary: In the hall, Kicva questions Manawyddan and advises that hanging the small
+    creature would be beneath his dignity, while Manawyddan insists on destroying
+    it.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Gallows prepared at the Gorsedd
+  summary: Manawyddan takes the mouse to the Gorsedd of Narberth and sets up forks
+    on the highest part to hang it.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Scholar's failed intercession
+  summary: A poor scholar arrives, urges Manawyddan to release the mouse, and offers
+    a pound, but Manawyddan refuses.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:6
+  label: Priest's failed intercession
+  summary: A priest on a richly trapped horse arrives, offers three pounds for the
+    mouse's freedom, and Manawyddan refuses to sell or free it.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:6
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: supernatural or anomalous crop theft by animal host
+  taxonomy_refs: []
+  basis: An innumerable host of mice appears at midnight and systematically cuts and
+    carries away the remaining wheat crop.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage itself presents the mice literally in this excerpt; any supernatural
+    identity beyond anomalous behavior is not established here.
+- id: motif:2
+  label: captured animal treated as criminal culprit
+  taxonomy_refs: []
+  basis: Manawyddan captures one mouse, calls it a thief, and plans to hang it under
+    the doom of a thief.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:7
+  confidence: high
+  cautions: The passage does not yet reveal whether the mouse has another identity
+    or motive.
+- id: motif:3
+  label: ransom attempts for condemned captive
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Two successive visitors offer money for the mouse's freedom, but Manawyddan
+    refuses to accept payment or release it.
+  evidence_refs:
+  - ev:7
+  - ev:9
+  confidence: medium
+  cautions: The available taxonomy reference is broad; the passage shows negotiated
+    release rather than a completed exchange.
+- id: motif:4
+  label: sequential intercessors test the captor's resolve
+  taxonomy_refs: []
+  basis: Kicva, the scholar, and the priest each urge Manawyddan not to hang the mouse,
+    while he repeatedly refuses.
+  evidence_refs:
+  - ev:4
+  - ev:7
+  - ev:9
+  confidence: medium
+  cautions: The passage does not explicitly call the encounters a test; the label
+    describes the repeated narrative structure only.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 7301-7310
+  quote_or_summary: At midnight Manawyddan sees an innumerable host of mice enter
+    the croft, climb the straw, cut off ears of wheat, and carry them away.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: 7311-7318
+  quote_or_summary: Manawyddan pursues the mice, catches one sluggish mouse, puts
+    it in his glove, ties the glove shut, and returns to the palace.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: 7318-7325
+  quote_or_summary: In the hall with Kicva, Manawyddan lights a fire, hangs up the
+    glove, and tells Kicva it contains a thief that he found robbing him.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: 7325-7342
+  quote_or_summary: Manawyddan says he will hang the mouse and would hang all the
+    mice if he had them; Kicva says hanging such a creature would be unseemly for
+    a man of dignity and advises letting it go, though she tells him to do as he wishes.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: 7343-7349
+  quote_or_summary: Manawyddan takes the mouse to the Gorsedd of Narberth and sets
+    up two forks on the highest part; the passage notes that for seven years he had
+    seen no man or beast there except the remaining companions.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:6
+  type: summary
+  locator: 7350-7359
+  quote_or_summary: A scholar in old, poor, tattered garments arrives, greets Manawyddan,
+    and says he comes from singing in Lloegyr and is passing through the land.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:7
+  type: summary
+  locator: 7359-7368
+  quote_or_summary: The scholar asks about the mouse, says it is unfit for a man of
+    Manawyddan's rank to touch such a reptile, offers a pound for its freedom, and
+    Manawyddan refuses to free or sell it.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:8
+  type: summary
+  locator: 7369-7372
+  quote_or_summary: As Manawyddan places the crossbeam on the forks, a priest arrives
+    on a horse covered with trappings and greets him.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:9
+  type: summary
+  locator: 7372-7377
+  quote_or_summary: The priest asks what Manawyddan is doing, offers three pounds
+    to let the mouse go, and Manawyddan refuses to sell or free it, insisting it shall
+    be hanged.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied English passage. Motif labels describe
+    local narrative patterns; broader comparative claims are withheld because the
+    excerpt itself does not support them.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage does not itself support a comparison to another tradition or motif family beyond local pattern extraction.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:celtic-welsh-mabinogion-guest-gutenberg__l7301-l7377
+  passage_sha256=7fb05e84dfb9390368b24f0c630d9ef89de3de25944f626041a079fe661fe313

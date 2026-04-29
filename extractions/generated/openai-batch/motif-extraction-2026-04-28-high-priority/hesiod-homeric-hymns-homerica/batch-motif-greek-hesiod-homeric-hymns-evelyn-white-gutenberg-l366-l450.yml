@@ -1,0 +1,455 @@
+---
+record_id: batch.motif.greek-hesiod-homeric-hymns-evelyn-white-gutenberg-l366-l450
+source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+passage_locator:
+  label: ENDNOTES / PREPARERS NOTE / PREFACE / INTRODUCTION; lines 366-450
+  start: '366'
+  end: '450'
+  translation: Hesiod, the Homeric Hymns, and Homerica
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage summarizes traditions and scholarly arguments about Hesiod’s
+    family origin, his quarrel with his brother Perses over inheritance, his poetic
+    instruction by the Muses on Mt. Helicon, and his victory at funeral games in Chalcis.
+    It also discusses doubts and defenses concerning the historicity of these autobiographical
+    notices and later elaborations of the contest story involving Homer, Apollo, and
+    Delos.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Hesiod’s father is described as a native of Cyme in Aeolis who left because
+    of poverty and settled at Ascra near Thespiae in Boeotia.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Hesiod and Perses are described as two sons who divided their father’s farm
+    after his death.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Perses is represented as obtaining and keeping the larger share by bribing
+    corrupt lords.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Hesiod is described as living a farmer’s life before the tradition in which
+    the Muses met him while he tended sheep on Mt. Helicon and taught him a glorious
+    song.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Hesiod is said to have won a poetical contest at the funeral games of Amphidamas
+    at Chalcis in Euboea.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The prize for the contest is described as a tripod that Hesiod dedicated to
+    the Muses of Helicon.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The passage states that the appearance of the Muses must be treated as a graceful
+    fiction, while also noting it as an early tradition about Hesiod.
+  category: other
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Later versions are said to have elaborated the Chalcis contest by making Homer
+    Hesiod’s opponent and by transferring a contest involving hymns to Apollo to Delos.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Hesiod
+  description: Poet represented as one of two sons of the settler, a farmer or shepherd,
+    instructed by the Muses, and victor in a poetical contest.
+  role_refs:
+  - role:1
+  - role:3
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Perses
+  description: Hesiod’s brother, represented as an idler and spendthrift who received
+    a larger share of the farm through bribery.
+  role_refs:
+  - role:1
+  - role:6
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Hesiod’s father
+  description: Unnamed father of Hesiod and Perses, described as a native of Cyme,
+    a seafaring trader and perhaps farmer, who settled at Ascra.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: Muses of Helicon
+  description: Divine figures in the tradition who met Hesiod on Mt. Helicon, taught
+    him song, and later received his dedicated tripod.
+  role_refs:
+  - role:7
+  - role:8
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: Amphidamas
+  description: Person whose funeral games at Chalcis are connected with Hesiod’s poetical
+    contest.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: fig:6
+  name_or_label: Homer
+  description: Named in later elaborations as the opponent whom Hesiod conquered.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:6
+- id: fig:7
+  name_or_label: Apollo
+  description: Named in the later elaborated contest in which the two poets contended
+    with hymns to Apollo.
+  role_refs:
+  - role:11
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: brother pair
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage identifies Hesiod and Perses as two sons of the same father.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: migrating father and settler
+  assigned_to:
+  - fig:3
+  basis: Hesiod’s father leaves Cyme because of poverty and settles in Boeotia.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: farmer or shepherd
+  assigned_to:
+  - fig:1
+  basis: Hesiod is described as living a farmer’s life and tending sheep on Mt. Helicon
+    in the tradition.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: recipient of Muse-taught song
+  assigned_to:
+  - fig:1
+  basis: The Muses are said to have met Hesiod and taught him a glorious song.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:5
+  label: contest victor and dedicator
+  assigned_to:
+  - fig:1
+  basis: Hesiod wins a poetical contest and dedicates the tripod prize to the Muses.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: disputed inheritance holder
+  assigned_to:
+  - fig:2
+  basis: Perses is represented as obtaining and keeping the larger share of the divided
+    farm by bribery.
+  evidence_refs:
+  - ev:2
+- id: role:7
+  label: divine instructors of song
+  assigned_to:
+  - fig:4
+  basis: The Muses teach Hesiod a glorious song in the reported tradition.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:8
+  label: recipients of dedication
+  assigned_to:
+  - fig:4
+  basis: Hesiod dedicates the tripod prize to the Muses of Helicon.
+  evidence_refs:
+  - ev:4
+- id: role:9
+  label: funeral-games honoree
+  assigned_to:
+  - fig:5
+  basis: The contest is located at the funeral games of Amphidamas.
+  evidence_refs:
+  - ev:4
+- id: role:10
+  label: later legendary opponent
+  assigned_to:
+  - fig:6
+  basis: Later versions make Homer the opponent whom Hesiod conquered.
+  evidence_refs:
+  - ev:6
+- id: role:11
+  label: recipient of contest hymns in later version
+  assigned_to:
+  - fig:7
+  basis: A later account has the two poets contending with hymns to Apollo.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: Mt. Helicon
+  literal_form: mountain
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:2
+  label: tripod prize
+  literal_form: tripod
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: divided farm
+  literal_form: farm inheritance
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: funeral games
+  literal_form: poetical contest at funeral games
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Migration from Cyme to Ascra
+  summary: Hesiod’s father leaves his native Cyme because of poverty and settles at
+    Ascra in Boeotia.
+  figure_refs:
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Inheritance division and brotherly quarrel
+  summary: After their father’s death, Hesiod and Perses divide the farm, and Perses
+    is said to keep the larger share through bribery.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Muses instruct Hesiod on Helicon
+  summary: In an early tradition, the Muses meet Hesiod while he is tending sheep
+    on Mt. Helicon and teach him a glorious song.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: scene:4
+  label: Contest victory and dedication
+  summary: Hesiod wins a poetical contest at Amphidamas’s funeral games in Chalcis
+    and dedicates the tripod prize to the Muses of Helicon.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Later elaboration of the contest story
+  summary: The passage reports that later versions made Homer Hesiod’s opponent, included
+    hymns to Apollo, and transferred the contest to Delos.
+  figure_refs:
+  - fig:1
+  - fig:6
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: divine instruction in song on a mountain
+  taxonomy_refs:
+  - wisdom
+  basis: The Muses meet Hesiod on Mt. Helicon and teach him a glorious song; the passage
+    frames this as an early tradition but also as a graceful fiction.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The passage is introductory and critical rather than a primary narrative;
+    it explicitly cautions that the appearance of the Muses should be treated as fiction.
+- id: motif:2
+  label: quarrel between brothers over inheritance
+  taxonomy_refs:
+  - sibling_pair
+  basis: Hesiod and Perses are brothers who divide a farm, with Perses represented
+    as obtaining the larger share by bribery.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage discusses whether Perses and the quarrel are historical rather
+    than presenting an extended mythic narrative.
+- id: motif:3
+  label: poetic contest with prize dedication
+  taxonomy_refs: []
+  basis: Hesiod wins a poetical contest at funeral games and dedicates the tripod
+    prize to the Muses.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: No supplied taxonomy family directly matches poetic contest or dedication;
+    later elaborations are distinguished from the modest version.
+- id: motif:4
+  label: migration and resettlement caused by poverty
+  taxonomy_refs:
+  - departure
+  basis: Hesiod’s father leaves Cyme because of poverty and settles in Boeotia.
+  evidence_refs:
+  - ev:1
+  confidence: low
+  cautions: This is biographical movement rather than a developed mythic departure
+    episode.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself contrasts a modest report of Hesiod’s contest with later
+    elaborations in which Homer becomes his opponent, hymns to Apollo are included,
+    and the setting is transferred to Delos.
+  claim_level: same_motif
+  target: later Greek traditions of the Contest of Homer and Hesiod
+  evidence_refs:
+  - ev:4
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage only summarizes later developments and does not provide
+    the full later narrative.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 366-373
+  quote_or_summary: Hesiod’s father, a native of Cyme in Aeolis and a seafaring trader,
+    is said to have left because of poverty and settled at Ascra near Thespiae in
+    Boeotia.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source; concise summary.
+- id: ev:2
+  type: summary
+  locator: lines 373-379
+  quote_or_summary: Hesiod and Perses are described as the settler’s sons; after their
+    father’s death they divided the farm, and Perses is represented as bribing corrupt
+    lords to obtain and keep the larger share.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source; concise summary.
+- id: ev:3
+  type: summary
+  locator: lines 379-383
+  quote_or_summary: Hesiod lives a farmer’s life until, according to an early tradition,
+    the Muses meet him while he tends sheep on Mt. Helicon and teach him a glorious
+    song.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source; concise summary.
+- id: ev:4
+  type: summary
+  locator: lines 383-386
+  quote_or_summary: Hesiod’s other personal reference is to victory in a poetical
+    contest at Amphidamas’s funeral games at Chalcis, where he wins a tripod and dedicates
+    it to the Muses of Helicon.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source; concise summary.
+- id: ev:5
+  type: summary
+  locator: lines 421-430
+  quote_or_summary: The passage treats Theogony 22-23 as early tradition about Hesiod
+    and says the appearance of the Muses should be treated as a graceful fiction,
+    while noting that a later writer believed in Hesiod’s actuality and his life as
+    farmer or shepherd.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source; concise summary.
+- id: ev:6
+  type: summary
+  locator: lines 431-438
+  quote_or_summary: Later versions elaborate the contest story by making Homer the
+    opponent Hesiod conquered, developing the contest narrative, and transferring
+    a contest with hymns to Apollo to Delos.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source; concise summary.
+- id: ev:7
+  type: summary
+  locator: lines 438-450
+  quote_or_summary: The passage reports criticism of the Works and Days contest lines
+    based on identifying Amphidamas with a figure of the Lelantine War, then argues
+    that the name may have belonged to an earlier Chalcidian.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source; concise summary.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward, but the passage is a modern introduction
+    evaluating biographical traditions rather than a primary mythic episode. Motif
+    candidates are therefore cautious.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No external sources or unprovided taxonomy IDs were used.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-hesiod-homeric-hymns-evelyn-white-gutenberg__l366-l450
+  passage_sha256=53fd6b0e8ecca54d8cf401c0a9052375087029bbebbbf30eb41b9fa4d5f24184

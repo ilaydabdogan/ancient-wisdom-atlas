@@ -1,0 +1,330 @@
+---
+record_id: batch.motif.greek-hesiod-homeric-hymns-evelyn-white-gutenberg-l5637-l5648
+source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+passage_locator:
+  label: DOUBTFUL FRAGMENTS / THE HOMERIC HYMNS / I. TO DIONYSUS 2501 / II. TO DEMETER;
+    lines 5637-5648
+  start: '5637'
+  end: '5648'
+  translation: Hesiod, the Homeric Hymns, and Homerica
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: '"giver of good gifts, bringer of seasons"'
+  summary: The passage describes goddesses dwelling beside Zeus on Olympus, sending
+    Plutus to favored mortals, and closes with an invocation to Deo and her daughter
+    Persephone for favor and sustenance in return for the song.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A bright goddess had taught an unspecified group, after which they went to
+    Olympus to the gathering of the gods.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The goddesses dwell beside Zeus, who is described as delighting in thunder.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Mortals freely loved by the goddesses are called blessed.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The goddesses send Plutus as a guest to the great house of the favored mortal.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Plutus is described as giving wealth to mortal men.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The speaker invokes Deo as queen, lady, giver of good gifts, and bringer of
+    seasons.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The speaker invokes Persephone as Deo's all-beauteous daughter.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The speaker asks Deo and Persephone to grant heart-cheering substance for
+    the song.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: awful and reverend goddesses
+  description: Goddesses who dwell beside Zeus, freely love certain mortals, and send
+    Plutus to them.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Zeus
+  description: The god beside whom the goddesses dwell, described as delighting in
+    thunder.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Plutus
+  description: A guest sent to a favored mortal's house, described as giving wealth
+    to mortal men.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Deo
+  description: Invoked as queen of sweet Eleusis, sea-girt Paros, and rocky Antron;
+    called lady, giver of good gifts, and bringer of seasons.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: Persephone
+  description: Invoked as the all-beauteous daughter of Deo.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:6
+  name_or_label: favored mortal man
+  description: A mortal on earth whom the goddesses freely love and to whose house
+    Plutus is sent.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: divine benefactors
+  assigned_to:
+  - fig:1
+  basis: They freely love certain mortals and send Plutus to their houses.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: thundering god beside whom goddesses dwell
+  assigned_to:
+  - fig:2
+  basis: The goddesses dwell beside Zeus, who delights in thunder.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: wealth-giving guest
+  assigned_to:
+  - fig:3
+  basis: Plutus is sent as guest and gives wealth to mortal men.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: queen and giver of gifts
+  assigned_to:
+  - fig:4
+  basis: Deo is invoked as queen, lady, and giver of good gifts.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: bringer of seasons
+  assigned_to:
+  - fig:4
+  basis: Deo is explicitly called bringer of seasons.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: divine daughter
+  assigned_to:
+  - fig:5
+  basis: Persephone is addressed as Deo's daughter.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: recipient of divine favor
+  assigned_to:
+  - fig:6
+  basis: The blessed mortal is loved by the goddesses and receives Plutus as a guest.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: Olympus
+  literal_form: Olympus as the place of the gods' gathering and divine dwelling
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Plutus as wealth
+  literal_form: Plutus, the guest who gives wealth to mortal men
+  associated_figures:
+  - fig:3
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: seasons
+  literal_form: seasons brought by Deo
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: song-offering and requested substance
+  literal_form: The speaker's song and request for heart-cheering substance
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Goddesses at Olympus and mortal blessing
+  summary: After teaching an unspecified group, the goddesses go to Olympus, dwell
+    beside Zeus, and bless favored mortals by sending Plutus to their houses.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Closing invocation to Deo and Persephone
+  summary: The speaker invokes Deo and Persephone, naming places associated with Deo
+    and asking them to grant sustenance for the song.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: divine parent and child invoked together
+  taxonomy_refs:
+  - divine_parent_child
+  basis: Deo is invoked together with her daughter Persephone.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage names the parent-child relation but does not narrate a parent-child
+    episode within this excerpt.
+- id: motif:2
+  label: season-bringing goddess
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: Deo is called "bringer of seasons."
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage mentions seasons as an epithet but does not narrate a full
+    seasonal cycle.
+- id: motif:3
+  label: mother goddess as giver of good gifts
+  taxonomy_refs:
+  - mother_goddess
+  basis: Deo is invoked with her daughter and called giver of good gifts.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The term mother is not used directly in the excerpt; the inference rests
+    on the explicit daughter relationship.
+- id: motif:4
+  label: divine favor brings wealth to mortals
+  taxonomy_refs: []
+  basis: Mortals loved by the goddesses receive Plutus, who gives wealth.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: No specific named mortal recipient is identified in the excerpt.
+- id: motif:5
+  label: hymnic request for divine favor in relation to song
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The speaker asks Deo and Persephone to grant heart-cheering substance for
+    the song.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage contains a request linked to song, but it does not explicitly
+    state a negotiated exchange.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5637-5641 / ll. 483-489
+  quote_or_summary: A bright goddess had taught an unspecified group; they went to
+    Olympus, to the gathering of the gods, and dwell beside Zeus who delights in thunder.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source; concise summary.
+- id: ev:2
+  type: summary
+  locator: lines 5641-5643 / ll. 483-489
+  quote_or_summary: The goddesses bless mortals whom they freely love by sending Plutus
+    as a guest to the great house; Plutus gives wealth to mortal men.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source; concise summary.
+- id: ev:3
+  type: quote
+  locator: lines 5644-5647 / ll. 490-495
+  quote_or_summary: '"queen of the land of sweet Eleusis and sea-girt Paros and rocky
+    Antron, lady, giver of good gifts, bringer of seasons, queen Deo" and "your daughter
+    all beauteous Persephone"'
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:4
+  type: summary
+  locator: lines 5647-5648 / ll. 490-495
+  quote_or_summary: The speaker asks Deo and Persephone to be gracious and to grant
+    heart-cheering substance for the song, then says another song will also be remembered.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source; concise summary.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied passage. Some pronouns in the first
+    paragraph are context-dependent, so the goddesses there are kept as a plural figure
+    rather than conclusively identified with Deo and Persephone.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly compare this material to another tradition or corpus.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-hesiod-homeric-hymns-evelyn-white-gutenberg__l5637-l5648
+  passage_sha256=1de3f8ffb782f67d09a441bf4e4ac92fc3a446f51c613e565937dba385207fa1

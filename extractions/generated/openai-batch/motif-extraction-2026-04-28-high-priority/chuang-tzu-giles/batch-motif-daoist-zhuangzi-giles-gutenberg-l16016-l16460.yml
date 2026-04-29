@@ -1,0 +1,388 @@
+---
+record_id: batch.motif.daoist-zhuangzi-giles-gutenberg-l16016-l16460
+source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+passage_locator:
+  label: THE OLD FISHERMAN. / CHAPTER XXXII. / CHAPTER XXXIII. / THE EMPIRE.; lines
+    16016-16460
+  start: '16016'
+  end: '16460'
+  translation: 'Chuang Tzu: Mystic, Moralist, and Social Reformer'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: An alphabetical index segment lists topics, named figures, animals, places,
+    concepts, and textual references from Smell through Yeh Ch'üeh, with page references
+    and brief parenthetical descriptors. Entries include Snake, Spirit of the Clouds/Ocean/River,
+    Tao, Tao-Tê-Ching, Sun and Moon, Water, mountains, trees, tortoise/turtle, wisdom,
+    emperors, and many named persons.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The supplied passage is formatted as an alphabetical index with entry headings,
+    parenthetical descriptors, and page references.
+  category: other
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:11
+- id: obs:2
+  text: A snake is indexed with descriptors concerning movement without legs and shoulders.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage lists Spirit of the Clouds, Spirit of Ocean, and Spirit of River
+    as indexed entries.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Tao is indexed with subentries including axis, perfection, giving form,
+    presence in everything, relation to God and man, eternity, reaching it, and being
+    everywhere.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Celestial and cosmological topics such as Space, Stars, Sun and Moon, Time,
+    and Universe appear as index entries.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Water, mountains, and useless trees appear as indexed topics.
+  category: object
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: obs:7
+  text: Wisdom appears in several indexed forms, including wisdom of the swallow,
+    wisdom as a curse, and wisdom-tricks.
+  category: other
+  evidence_refs:
+  - ev:8
+- id: obs:8
+  text: Tortoise and turtle entries are present, including an entry for Chuang Tzŭ
+    and the tortoise and an entry for a turtle of the eastern sea.
+  category: object
+  evidence_refs:
+  - ev:9
+- id: obs:9
+  text: The Emperor T'ang and the Emperor Yao are listed as named imperial figures.
+  category: other
+  evidence_refs:
+  - ev:10
+- id: obs:10
+  text: The Tao-Tê-Ching is listed as an indexed textual reference with many page
+    citations.
+  category: other
+  evidence_refs:
+  - ev:11
+- id: obs:11
+  text: Umbra and Penumbra are listed together as an index entry.
+  category: relationship
+  evidence_refs:
+  - ev:12
+figures:
+- id: fig:1
+  name_or_label: Spirit of the Clouds
+  description: Indexed figure labelled as a spirit associated with clouds.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Spirit of Ocean
+  description: Indexed figure labelled as a spirit associated with ocean.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Spirit of River
+  description: Indexed figure labelled as a spirit associated with river.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: T'ang
+  description: Named as 'The Emperor' in the index.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:10
+- id: fig:5
+  name_or_label: Yao
+  description: Named as 'The Emperor' in the index.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:10
+- id: fig:6
+  name_or_label: Chuang Tzŭ
+  description: Named in index entries involving the stickleback and the tortoise.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:9
+  - ev:13
+roles:
+- id: role:1
+  label: spirit personification
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  basis: Each figure is introduced by the index wording 'Spirit of' followed by a
+    natural domain.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: emperor
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: Both names are explicitly labelled 'The Emperor' in index entries.
+  evidence_refs:
+  - ev:10
+- id: role:3
+  label: named anecdotal figure
+  assigned_to:
+  - fig:6
+  basis: Chuang Tzŭ is named in index headings for anecdotes involving animals.
+  evidence_refs:
+  - ev:9
+  - ev:13
+symbols:
+- id: sym:1
+  label: Snake / serpent
+  literal_form: Snake
+  associated_figures: []
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Water
+  literal_form: Water; river and ocean domains
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:3
+  label: Mountain
+  literal_form: Mount T'ai, Mount Tsung, Wei-lei Mountains
+  associated_figures: []
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: Trees
+  literal_form: Useless trees
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:7
+- id: sym:5
+  label: Celestial bodies
+  literal_form: Sun and Moon; Stars
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: Tortoise / turtle
+  literal_form: Tortoise; turtle of eastern sea
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:7
+  label: Umbra and Penumbra
+  literal_form: Umbra and Penumbra
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:12
+scenes:
+- id: scene:1
+  label: Alphabetical index catalogue segment
+  summary: The passage catalogues indexed topics and figures with page references
+    rather than narrating a mythic episode.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:11
+candidate_motifs:
+- id: motif:1
+  label: Wisdom as indexed theme
+  taxonomy_refs:
+  - wisdom
+  basis: The index explicitly includes multiple wisdom-related entries, including
+    wisdom of the swallow, wisdom as a curse, and wisdom-tricks.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: The passage is an index, so it confirms the presence of wisdom-related
+    topics in the source but does not provide the underlying narrative or argument.
+- id: motif:2
+  label: Serpent / snake as indexed animal motif
+  taxonomy_refs:
+  - serpent
+  basis: The index includes a snake entry with distinctive descriptors.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The index does not supply the full passage in which the snake appears,
+    so symbolic or mythic function cannot be established from this excerpt alone.
+- id: motif:3
+  label: Water as indexed natural theme
+  taxonomy_refs: []
+  basis: The passage indexes water directly and also lists river and ocean spirits.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: medium
+  cautions: Available taxonomy lists water as a symbol rather than a motif family;
+    the index does not provide narrative context.
+- id: motif:4
+  label: Useless tree theme
+  taxonomy_refs: []
+  basis: The index includes the entry 'Trees Useless' with page references.
+  evidence_refs:
+  - ev:7
+  confidence: low
+  cautions: The motif function cannot be determined from the index entry alone, and
+    the available taxonomy only provides 'tree' as a symbol reference.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 16016-16024
+  quote_or_summary: '"Snake, The (moves without legs) 211; (its shoulders) 82"'
+  source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+  rights_note: Public domain; short excerpt used.
+- id: ev:2
+  type: quote
+  locator: lines 16050-16056
+  quote_or_summary: '"Spirit of the Clouds, 129"; "Ocean, 200"; "River, 200"'
+  source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+  rights_note: Public domain; short excerpt used.
+- id: ev:3
+  type: summary
+  locator: lines 16120-16143
+  quote_or_summary: The Tao entry lists subtopics such as axis, perfect Tao, giving
+    form, presence in everything, Tao of God and man, capacity, eternity, how to reach
+    Tao, and Tao everywhere.
+  source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+  rights_note: Public domain; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 16042-16246
+  quote_or_summary: The index segment includes entries for Space, Stars, Sun and Moon,
+    Time, and Universe.
+  source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+  rights_note: Public domain; summarized.
+- id: ev:5
+  type: quote
+  locator: lines 16303-16308
+  quote_or_summary: '"Water, (Fluidity of) 268; (to men and fishes) 227"'
+  source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+  rights_note: Public domain; short excerpt used.
+- id: ev:6
+  type: summary
+  locator: lines 16113-16237
+  quote_or_summary: The index lists mountain entries including T'ai, Mt.; Tsung, Mt.;
+    and Wei-lei Mountains.
+  source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+  rights_note: Public domain; summarized.
+- id: ev:7
+  type: quote
+  locator: lines 16232-16235
+  quote_or_summary: '"Trees Useless, 10, 51, 52, 245"'
+  source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+  rights_note: Public domain; short excerpt used.
+- id: ev:8
+  type: summary
+  locator: lines 16104-16342
+  quote_or_summary: Wisdom-related entries include 'Swallow, Wisdom of the,' 'Wisdom
+    a curse,' and 'Wisdom-tricks.'
+  source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+  rights_note: Public domain; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 16210-16226
+  quote_or_summary: The index includes entries for 'Tortoise,' 'Chuang Tzŭ and the'
+    tortoise, and 'Turtle of eastern sea.'
+  source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+  rights_note: Public domain; summarized.
+- id: ev:10
+  type: summary
+  locator: lines 16119-16460
+  quote_or_summary: The index lists 'T'ang, The Emperor' and 'Yao, The Emperor.'
+  source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+  rights_note: Public domain; summarized.
+- id: ev:11
+  type: quote
+  locator: lines 16145-16150
+  quote_or_summary: '"Tao-Tê-Ching, The, 19, 34, 56, 71, 111, 115..."'
+  source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+  rights_note: Public domain; short excerpt used.
+- id: ev:12
+  type: quote
+  locator: lines 16249-16252
+  quote_or_summary: '"Umbra and Penumbra, 32, 367"'
+  source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+  rights_note: Public domain; short excerpt used.
+- id: ev:13
+  type: quote
+  locator: lines 16072-16074
+  quote_or_summary: '"Stickleback, Chuang Tzŭ and the, 353"'
+  source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+  rights_note: Public domain; short excerpt used.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: The excerpt is an index segment, not a narrative passage. Literal index entries
+    can be extracted with moderate confidence, but motif function and symbolic interpretation
+    require the referenced passages and therefore remain tentative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Selective extraction of prominent motif- and symbol-relevant index entries; the passage contains many additional names not exhaustively modeled as figures.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:daoist-zhuangzi-giles-gutenberg__l16016-l16460
+  passage_sha256=ab23625fbf88f2cb99c125fdc7aa8aa13d9ce4be9dd518cff8385abfe6515fbb

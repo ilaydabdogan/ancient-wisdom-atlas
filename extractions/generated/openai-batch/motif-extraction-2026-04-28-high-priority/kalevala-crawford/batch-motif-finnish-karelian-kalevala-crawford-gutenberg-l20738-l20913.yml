@@ -1,0 +1,557 @@
+---
+record_id: batch.motif.finnish-karelian-kalevala-crawford-gutenberg-l20738-l20913
+source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+passage_locator:
+  label: JOHN MARTIN CRAWFORD. / THE KALEVALA. / PROEM / BOOK II; lines 20738-20913
+  start: '20738'
+  end: '20913'
+  translation: 'Kalevala: The Epic Poem of Finland'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Wainamoinen steers a vessel through dangerous waters until it becomes fixed
+    on the back of the mighty pike of Northland. Lemminkainen and Ilmarinen fail to
+    free or slay the creature. Wainamoinen kills and cuts up the pike, enabling the
+    ship to move. The fish is cooked and eaten; Wainamoinen then makes a magic harp
+    from the remaining jaw-bones, teeth, and other materials, and the people come
+    to view it.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Wainamoinen steers the boat through winds, waters, rocky channels, surges,
+    a sacred stream, and a whirlpool before it reaches open water and stops on an
+    unseen object.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Ilmarinen, aided by Lemminkainen, plunges the rudder into the lake and uses
+    magic but cannot move the vessel.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: At Wainamoinen's request, Lemminkainen looks beneath the vessel and says it
+    rests on the back, shoulders, and fin-bones of the mighty pike of Northland.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Wainamoinen instructs Lemminkainen to strike the pike with his broadsword;
+    Lemminkainen draws the weapon, strikes, falls into the water, and is lifted out
+    by Ilmarinen.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Ilmarinen tries to slay the pike with a forged sword, but the sword breaks
+    and the water-monster is unharmed.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Wainamoinen draws a fire-sword, strikes the pike beneath the vessel, impales
+    and cuts it into pieces; the tail falls into the water, the head and body fall
+    to the ship, and the ship moves onward.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Wainamoinen anchors the boat at shore, gathers the pike fragments, slices
+    the fish, and asks the youngest maidens to cook it; the assembled old magicians,
+    young heroes, men, and maidens feast, leaving fish-bones on the rocks.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Wainamoinen considers that wondrous things might be constructed from the fish-bones,
+    jaws, and teeth; Ilmarinen says nothing fine can be made from fish bones and teeth.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: After finding no fish-bone artist, Wainamoinen makes a magic harp whose arches
+    are from the pike's jaw-bones, pins from its teeth, and strings from the tail
+    of Lempo's stallion.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: Young men, aged people with children, mothers with daughters, maidens, and
+    island people come to view the harp of joyance.
+  category: action
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Wainamoinen
+  description: Old, truthful, trusty, faithful, and wise magician/minstrel who steers
+    the vessel, commands his companions, slays the pike, slices it, and makes the
+    magic harp.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+  - ev:8
+- id: fig:2
+  name_or_label: Ilmarinen
+  description: Young blacksmith of Wainola and companion of Wainamoinen; he attempts
+    to move the vessel, rescues Lemminkainen, tries unsuccessfully to slay the pike,
+    and comments on the fish-bones.
+  role_refs:
+  - role:4
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:7
+- id: fig:3
+  name_or_label: Lemminkainen / Ahti
+  description: Hero and reckless wizard who assists Ilmarinen, looks beneath the vessel,
+    identifies the pike, and unsuccessfully attacks it before falling into the water.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Mighty pike of Northland
+  description: Water-monster whose back, shoulders, and fin-bones hold the vessel;
+    it is slain and cut apart by Wainamoinen, eaten, and its remains become materials
+    for the harp.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+  - ev:8
+- id: fig:5
+  name_or_label: Maidens and virgins
+  description: Young women who assent that Wainamoinen should slice the pike, compete
+    in cooking it, feast, and later appear among those viewing the harp.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: fig:6
+  name_or_label: Men, heroes, magicians, and island people
+  description: Collective human audience who respond to Wainamoinen, feast on the
+    pike, and come to view the harp.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: fig:7
+  name_or_label: Lempo's stallion
+  description: Stallion named as the source of the harp's singing strings, specifically
+    from its tail.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: vessel leader and wise magician
+  assigned_to:
+  - fig:1
+  basis: Wainamoinen steers the vessel and directs the companions' actions.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: successful monster-slayer
+  assigned_to:
+  - fig:1
+  basis: He strikes, impales, raises, and cuts up the pike, after others fail.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: maker of the magic harp
+  assigned_to:
+  - fig:1
+  basis: He becomes the fish-bone artist and fashions the harp of magic.
+  evidence_refs:
+  - ev:8
+- id: role:4
+  label: blacksmith and forger-artist
+  assigned_to:
+  - fig:2
+  basis: The passage calls Ilmarinen a blacksmith and refers to his forged weapon
+    and skill as forger-artist.
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: role:5
+  label: underwater observer and identifier
+  assigned_to:
+  - fig:3
+  basis: Lemminkainen looks beneath the vessel and identifies the pike as the obstruction.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: unsuccessful attacker
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: Lemminkainen falls into the water after striking; Ilmarinen breaks his sword
+    and does not harm the monster.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:7
+  label: water-monster obstruction and source material
+  assigned_to:
+  - fig:4
+  basis: The pike anchors the vessel and later provides body parts used for food and
+    harp-making.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+  - ev:8
+- id: role:8
+  label: cooks of the pike
+  assigned_to:
+  - fig:5
+  basis: The maidens and virgins compete in cooking the pike until it is rendered
+    toothsome.
+  evidence_refs:
+  - ev:6
+- id: role:9
+  label: feasters and witnesses
+  assigned_to:
+  - fig:6
+  basis: The assembled people feast on the pike and later view the harp.
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: role:10
+  label: animal source of harp strings
+  assigned_to:
+  - fig:7
+  basis: The harp's strings are said to come from the tail of Lempo's stallion.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: vessel or war-ship
+  literal_form: Boat, craft, magic vessel, and war-ship carrying Wainamoinen and companions
+    through the waters.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: dangerous waters
+  literal_form: Winds, waters, rocky channels, surges, sacred stream, whirlpool, lake,
+    and broad waters.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: mighty pike of Northland
+  literal_form: Large pike or water-monster whose back and fin-bones stop the vessel.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:4
+  label: fire-sword
+  literal_form: Wainamoinen's fire-sword and mighty magic blade used to strike the
+    pike.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: fish-bones, jaws, and teeth
+  literal_form: Relics of the pike left after the feast, including jaw-bones and teeth.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: sym:6
+  label: magic harp of joyance
+  literal_form: Harp made by Wainamoinen from pike jaw-bones, pike-teeth, and the
+    tail of Lempo's stallion.
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:7
+  label: tail of Lempo's stallion
+  literal_form: Material named as the source of the sweetly singing harp-strings.
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Vessel stopped in the lake
+  summary: Wainamoinen steers through dangerous waters, but the vessel stops in open
+    water and cannot be moved by Ilmarinen and Lemminkainen.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Discovery of the pike beneath the vessel
+  summary: Wainamoinen asks Lemminkainen to look beneath the ship; Lemminkainen reports
+    that it rests on the mighty pike of Northland rather than on sand, rock, or a
+    tree-snag.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Failed attacks by companions
+  summary: Lemminkainen attacks with a broadsword and falls into the water; Ilmarinen
+    rescues him and then tries to slay the pike, but his sword breaks without harming
+    it.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Wainamoinen slays the pike
+  summary: After rebuking his companions, Wainamoinen uses his fire-sword to strike
+    and cut up the pike, freeing the ship to move onward.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Feast on the pike
+  summary: At shore, Wainamoinen gathers and slices the pike; maidens cook it, and
+    the gathered magicians, heroes, men, and maidens feast, leaving bones on the rocks.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:6
+- id: scene:6
+  label: Making and viewing the magic harp
+  summary: Wainamoinen ponders the fish remains, finds no suitable artist, becomes
+    the artist himself, and makes a magic harp from the pike's jaws and teeth and
+    Lempo's stallion's tail; the people come to view it.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: hero frees vessel by slaying water-monster
+  taxonomy_refs:
+  - culture_hero
+  basis: The vessel is immobilized by a water-monster; after companions fail, Wainamoinen
+    slays and cuts up the pike, and the ship moves onward.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The available taxonomy lacks a specific water-monster-slaying or obstructed-voyage
+    category; culture_hero is used because Wainamoinen's act resolves a communal journey
+    obstacle.
+- id: motif:2
+  label: wise magician succeeds where heroic companions fail
+  taxonomy_refs:
+  - wisdom
+  basis: Lemminkainen and Ilmarinen fail to overcome the pike, while Wainamoinen,
+    described as wise and magical, uses his fire-sword successfully.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is a passage-level pattern rather than an explicit named motif in
+    the text.
+- id: motif:3
+  label: wondrous object made from monster remains
+  taxonomy_refs:
+  - culture_hero
+  - wisdom
+  basis: After the pike is eaten, Wainamoinen transforms its jaw-bones and teeth into
+    a magic harp, with strings from Lempo's stallion's tail.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: No exact taxonomy reference for magical instrument creation is available;
+    assigned refs are broader functional categories.
+- id: motif:4
+  label: communal feast followed by artistic creation
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The slain pike is shared in a feast, and its remaining bones are then converted
+    into a treasured harp viewed by the community.
+  evidence_refs:
+  - ev:6
+  - ev:8
+  confidence: medium
+  cautions: The passage does not explicitly frame the feast as sacred exchange; the
+    taxonomy reference is broad and should be reviewed.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 20738-20758
+  quote_or_summary: Wainamoinen steers the boat through dangerous waters; it reaches
+    broad water, stops on an object, and Ilmarinen with Lemminkainen cannot move it
+    by rudder or magic.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain; source metadata says full text allowed.
+- id: ev:2
+  type: summary
+  locator: 20759-20786
+  quote_or_summary: Wainamoinen asks Lemminkainen to look beneath the war-ship; Lemminkainen
+    reports that it is not on sand, rock, or tree-snag, but on the back, shoulders,
+    and fin-bones of the mighty pike of Northland.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain; source metadata says full text allowed.
+- id: ev:3
+  type: summary
+  locator: 20787-20810
+  quote_or_summary: Wainamoinen tells Lemminkainen to cut the monster; Lemminkainen
+    draws his broadsword, strikes, falls into the water, and Ilmarinen lifts him out.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain; source metadata says full text allowed.
+- id: ev:4
+  type: summary
+  locator: 20811-20821
+  quote_or_summary: Ilmarinen draws his sword of honor, tries to slay the pike of
+    Northland with his forged weapon, breaks the sword, and does not harm the water-monster.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain; source metadata says full text allowed.
+- id: ev:5
+  type: summary
+  locator: 20822-20849
+  quote_or_summary: Wainamoinen rebukes the others, draws his fire-sword, strikes
+    and impales the pike, cuts it into pieces, and the ship moves onward.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain; source metadata says full text allowed.
+- id: ev:6
+  type: summary
+  locator: 20850-20887
+  quote_or_summary: At shore, Wainamoinen gathers the pike fragments, is urged to
+    slice the fish because his hands are sacred, asks the maidens to cook it, and
+    all gathered people feast, leaving fish-bones on the rocks.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain; source metadata says full text allowed.
+- id: ev:7
+  type: summary
+  locator: 20888-20909
+  quote_or_summary: Wainamoinen ponders that wondrous things might be made from the
+    monster's bones, jaws, and teeth; Ilmarinen says nothing fine can be made from
+    fish bones and teeth; Wainamoinen says a magic harp might be fashioned if an artist
+    could be found.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain; source metadata says full text allowed.
+- id: ev:8
+  type: summary
+  locator: 20910-20913
+  quote_or_summary: Wainamoinen finds no fish-bone artist, makes a beautiful magic
+    harp himself, with arches from the monster's jaw-bones, pins from pike-teeth,
+    and strings from the tail of Lempo's stallion; the people come to view it.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain; source metadata says full text allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is well supported by the supplied passage. Motif labels
+    are broader than the exact events because the available taxonomy has no specific
+    entry for magical harp creation from monster remains. No comparison claims were
+    added because the passage itself does not explicitly compare this episode to another
+    tradition or corpus.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  All observations and motif candidates are based only on the supplied passage and metadata.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:finnish-karelian-kalevala-crawford-gutenberg__l20738-l20913
+  passage_sha256=a8c911db2663eb1aa64f96d7a6952280b1688770551e9669af43885a7a3323cb

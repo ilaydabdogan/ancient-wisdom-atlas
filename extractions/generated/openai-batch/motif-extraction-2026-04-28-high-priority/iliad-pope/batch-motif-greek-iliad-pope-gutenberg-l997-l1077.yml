@@ -1,0 +1,466 @@
+---
+record_id: batch.motif.greek-iliad-pope-gutenberg-l997-l1077
+source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+passage_locator:
+  label: The Iliad / CONCLUDING NOTE. / INTRODUCTION.; lines 997-1077
+  start: '997'
+  end: '1077'
+  translation: The Iliad
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A prose critical passage argues for belief in Homer as the single authorial
+    power behind the Iliad while allowing that he drew from existing traditions and
+    songs. It presents Homer as a revered bard, even imagined as a ghostly patron
+    of poets, and describes the Iliad as requiring a unifying imaginative principle.
+    It also states that readers of heroic poetry should imaginatively become heroes
+    such as Achilles or Hector.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The speaker states a belief that Peisistratus's labours concerning Homer were
+    purely editorial.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker rejects theories that deny Homer's name and existence or reduce
+    the author of the Iliad to a mere compiler.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The speaker says that Ennius believed in Homer as a ghost who hovers around
+    the poet's bed like a patron saint and bestows rare gifts from imaginative wealth.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The speaker allows that the author of the poems drew subject and embellishment
+    from a rich fund of tradition and a mythical storehouse.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage distinguishes using existing romances and bardic songs from patching
+    a poem together out of them.
+  category: speech
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:6
+  text: The passage says a poem like the Iliad requires a grand pervading principle
+    or archetypus in order to come to birth as a whole.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The passage says readers of heroic poetry should imaginatively transform themselves
+    into heroes, fighting the same battles, wooing the same loves, and feeling the
+    same injuries as Achilles or Hector.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The passage connects faith, divinely willed ignorance, and sacredness attached
+    to the memory of great and good persons.
+  category: speech
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Peisistratus
+  description: A figure whose Homer-related labours are described by the speaker as
+    editorial.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Homer / blind bard of Chios / author of the Iliad
+  description: The revered poet whose name, existence, authorship, and imaginative
+    power are defended in the passage.
+  role_refs:
+  - role:2
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:9
+- id: fig:3
+  name_or_label: Ennius
+  description: An older poet cited as believing in Homer as a ghostly presence around
+    the poet's bed.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Poet
+  description: A generalized poet imagined as receiving rare gifts from Homer's ghostly
+    presence.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: God
+  description: Mentioned in relation to the idea that ignorance on some matters may
+    be divinely willed.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:8
+- id: fig:6
+  name_or_label: Achilles
+  description: A heroic figure named as an example whose battles, loves, and injuries
+    the reader should imaginatively share.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:7
+- id: fig:7
+  name_or_label: Hector
+  description: A heroic figure named as an example whose battles, loves, and injuries
+    the reader should imaginatively share.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:7
+- id: fig:8
+  name_or_label: Reader of heroic poetry
+  description: A generalized reader who is urged to imagine becoming a hero while
+    reading Homer.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: editorial reviser
+  assigned_to:
+  - fig:1
+  basis: The passage says Peisistratus's labours were of a purely editorial character.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: revered bard
+  assigned_to:
+  - fig:2
+  basis: The passage calls Homer the blind bard of Chios and describes love and admiration
+    for him.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: single authorial genius
+  assigned_to:
+  - fig:2
+  basis: The speaker defends the author of the Iliad against being treated as a mere
+    compiler and affirms unity of authorship.
+  evidence_refs:
+  - ev:2
+  - ev:9
+- id: role:4
+  label: ghostly patron of poets
+  assigned_to:
+  - fig:2
+  basis: The passage cites belief in Homer as a ghost like a patron saint who hovers
+    near a poet and bestows gifts.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: witness to belief in Homer
+  assigned_to:
+  - fig:3
+  basis: Ennius is cited as believing in Homer as a ghostly patron-like presence.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: recipient of poetic gifts
+  assigned_to:
+  - fig:4
+  basis: The poet is imagined as receiving rare gifts from Homer's imaginative wealth.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: divine source of permitted ignorance
+  assigned_to:
+  - fig:5
+  basis: The passage asks why God willed ignorance on any matter if faith were not
+    a virtue.
+  evidence_refs:
+  - ev:8
+- id: role:8
+  label: heroic exemplar
+  assigned_to:
+  - fig:6
+  - fig:7
+  basis: Achilles and Hector are named as examples whose heroic experiences the reader
+    imagines sharing.
+  evidence_refs:
+  - ev:7
+- id: role:9
+  label: imaginative participant in heroic action
+  assigned_to:
+  - fig:8
+  basis: The reader is told to transform into heroes for the time being while reading
+    heroic poetry.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: ghostly patron at the poet's bed
+  literal_form: Homer imagined as a ghost hovering round the bed of the poet like
+    a patron saint
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: mythical storehouse
+  literal_form: A rich fund of tradition and well-stocked mythical storehouse from
+    which poetic subject and embellishment may be derived
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: archetypal whole coming to birth
+  literal_form: A grand pervading principle or archetypus by which a poem like the
+    Iliad can come to birth
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: reader transformed into hero
+  literal_form: The reader imaginatively fights battles, woos loves, and burns with
+    injury as Achilles or Hector
+  associated_figures:
+  - fig:6
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Defense of Homeric authorship
+  summary: The speaker argues against theories that erase Homer or reduce the author
+    of the Iliad to a compiler, presenting such theories as diminishing poetic invention.
+  figure_refs:
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Ghostly Homer as poetic patron
+  summary: The passage cites Ennius's belief in Homer as a ghost-like patron saint
+    who hovers near the poet's bed and grants imaginative gifts.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Poet drawing from tradition to create a whole
+  summary: The passage says the poet may draw from traditions, romances, and bardic
+    songs, but that the Iliad requires a unifying creative principle rather than mere
+    compilation.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Reader's heroic identification
+  summary: The passage says readers of heroic poetry should imaginatively become heroes,
+    sharing the battles, loves, and injuries of Achilles or Hector.
+  figure_refs:
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:7
+- id: scene:5
+  label: Faith and sacred memory
+  summary: The passage says human beings are not intended to know all things and associates
+    faith, divinely willed ignorance, and sacredness around the memory of great and
+    good persons.
+  figure_refs:
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: ghostly patron bestowing poetic inspiration
+  taxonomy_refs:
+  - sacred_exchange
+  - wisdom
+  basis: The passage explicitly describes Homer as a ghost like a patron saint who
+    hovers by a poet's bed and bestows rare gifts from imaginative wealth.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: This is a critical or rhetorical image in an introduction, not a mythic
+    narrative episode.
+- id: motif:2
+  label: poet drawing from inherited mythic tradition
+  taxonomy_refs:
+  - wisdom
+  basis: The author of the poems is said to find a rich fund of tradition and a mythical
+    storehouse from which to derive subject and embellishment.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage discusses literary composition and tradition rather than narrating
+    a myth.
+- id: motif:3
+  label: unified creation emerging from an archetypal whole
+  taxonomy_refs: []
+  basis: The passage says a poem like the Iliad can come to birth only through a grand
+    pervading principle or archetypus of the whole.
+  evidence_refs:
+  - ev:6
+  confidence: low
+  cautions: The birth and archetypus language is metaphorical literary criticism,
+    so motif extraction is tentative.
+- id: motif:4
+  label: imaginative initiation into heroic identity
+  taxonomy_refs:
+  - initiation
+  basis: The passage says that in reading heroic poetry one must transform into heroes
+    for the time being and share the experiences of Achilles or Hector.
+  evidence_refs:
+  - ev:7
+  confidence: low
+  cautions: The transformation is explicitly imaginative and readerly, not a narrated
+    ritual or mythic initiation.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares Homer's ghostly inspirational role to that
+    of a patron saint.
+  claim_level: same_function
+  target: patron saint as supernatural patron and giver of gifts
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is a simile within literary criticism and does not establish
+    historical contact or a shared mythic tradition.
+- id: claim:2
+  claim: The passage presents Achilles and Hector as exemplary heroic figures whose
+    experiences the reader is urged to imaginatively reenact.
+  claim_level: same_function
+  target: heroic exemplar pattern in the reading of epic poetry
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim concerns reception of epic poetry, not a mythic episode within
+    the Iliad itself.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 997-1000
+  quote_or_summary: '"the labours of Peisistratus were of a purely editorial character"'
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: lines 1003-1013
+  quote_or_summary: The passage criticizes theories that rob readers of Homer's name
+    and existence, calls him the blind bard of Chios, and says treating the Iliad's
+    author as a mere compiler degrades human invention.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 1017-1023
+  quote_or_summary: Homer is described as "the ghost, who, like some patron saint,
+    hovers round the bed of the poet" and bestows rare gifts from imaginative wealth.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:4
+  type: summary
+  locator: lines 1023-1028
+  quote_or_summary: The speaker says the author found a rich fund of tradition and
+    a well-stocked mythical storehouse from which to derive subject and embellishment.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 1028-1038
+  quote_or_summary: The passage distinguishes using popular legends and bardic songs
+    from patching the poem itself together out of such materials, while affirming
+    that such blending can coexist with originality.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: quote
+  locator: lines 1041-1045
+  quote_or_summary: A poem like the Iliad requires "some grand pervading principle"
+    or "archetypus of the great whole" in order to "come to the birth."
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:7
+  type: summary
+  locator: lines 1067-1073
+  quote_or_summary: The speaker says that in reading heroic poetry, readers must transform
+    themselves into heroes for the time being and imaginatively fight the same battles,
+    woo the same loves, and feel the same injuries as Achilles or Hector.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 1053-1064
+  quote_or_summary: The passage says humans are not intended to know all things, asks
+    why God would will ignorance if faith were not a virtue, and speaks of sacredness
+    attached to the memory of the great and good.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: quote
+  locator: lines 1073-1076
+  quote_or_summary: The poems of Homer are called "the work of one writer" and of
+    "the greatest writer that ever touched the hearts of men by the power of song."
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; short excerpt used.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: medium
+  notes: The passage is literary-critical prose rather than a mythic narrative. Motifs
+    are extracted mainly from rhetorical images and statements about epic authorship,
+    inspiration, tradition, and readerly identification.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No figures, objects, or comparisons were added beyond those explicitly present in the supplied passage. Available taxonomy refs were used only where cautiously supported by the passage wording.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-iliad-pope-gutenberg__l997-l1077
+  passage_sha256=8dfbc2fa0b9a0aa667aa7c2ecc02df7a9c6164548da2a7b7cc60707fa2d28848

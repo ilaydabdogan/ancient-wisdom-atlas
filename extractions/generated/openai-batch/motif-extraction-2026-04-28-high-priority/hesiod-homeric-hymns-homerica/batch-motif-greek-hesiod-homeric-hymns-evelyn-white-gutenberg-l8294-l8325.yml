@@ -1,0 +1,453 @@
+---
+record_id: batch.motif.greek-hesiod-homeric-hymns-evelyn-white-gutenberg-l8294-l8325
+source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+passage_locator:
+  label: THE EXPEDITION OF AMPHIARAUS / THE TAKING OF OECHALIA / THE PHOCAIS / THE
+    MARGITES; lines 8294-8325
+  start: '8294'
+  end: '8325'
+  translation: Hesiod, the Homeric Hymns, and Homerica
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage gives fragmentary testimonia about the Phocais and Margites:
+    attributions of poems to Homer or Pigres; a description of an old divine singer
+    serving the Muses and Apollo with a lyre; statements that Margites knew many things
+    badly, lacked practical skills, did not understand his own birth, avoided his
+    wife, and a proverb contrasting the fox''s many wiles with the hedgehog''s single
+    effective trick.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Homer is said to have composed the Lesser Iliad and the Phocais while living
+    with Thestorides, while Phocaeans say he composed the Phocais among them.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Pigres is identified as a Carian of Halicarnassus and brother of Artemisia,
+    and is said to have written works attributed to Homer.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: An old man and divine singer came to Colophon carrying a sweet-toned lyre.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The divine singer is described as a servant of the Muses and of far-shooting
+    Apollo.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Margites is said to have known many things but to have known them all badly.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The gods are said not to have taught Margites digging, ploughing, or any other
+    skill, and he failed in every craft.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Margites, though grown up, did not know whether his father or mother gave
+    him birth.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Margites would not lie with his wife because he feared she might give a bad
+    account of him to her mother.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: A proverb says that the fox knows many wiles, but the hedgehog's one trick
+    can beat them all.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Homer
+  description: Poet to whom the Lesser Iliad, Phocais, and other works are attributed
+    in the testimonia.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Thestorides
+  description: Person with whom Homer is said to have been living when he composed
+    the Lesser Iliad and the Phocais.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Phocaeans
+  description: Community said to claim that Homer composed the Phocais among them.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Pigres
+  description: A Carian of Halicarnassus, brother of Artemisia, associated with authorship
+    of works attributed to Homer.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Old divine singer
+  description: An old man and divine singer who came to Colophon with a sweet-toned
+    lyre.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Muses
+  description: Divine figures whom the old singer serves.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: Far-shooting Apollo
+  description: Divine figure whom the old singer serves.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:8
+  name_or_label: Margites
+  description: A grown man characterized by bad knowledge, lack of craft skills, ignorance
+    about his birth, and avoidance of his wife.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:9
+  name_or_label: Gods
+  description: Divine beings said not to have taught Margites practical skills.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:5
+- id: fig:10
+  name_or_label: Fox
+  description: Animal in the proverb that knows many wiles.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:7
+- id: fig:11
+  name_or_label: Hedgehogs
+  description: Animals in the proverb whose one trick can beat the fox's many wiles.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: Attributed poet
+  assigned_to:
+  - fig:1
+  basis: The passage reports works attributed to or composed by Homer.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: Host or companion in residence
+  assigned_to:
+  - fig:2
+  basis: Homer is said to have been living with Thestorides.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: Local claimants of poetic composition
+  assigned_to:
+  - fig:3
+  basis: The Phocaeans say the Phocais was composed among them.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: Alternative attributed author
+  assigned_to:
+  - fig:4
+  basis: Pigres is said to have written the Margites attributed to Homer and the Battle
+    of the Frogs and Mice.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: Divine singer
+  assigned_to:
+  - fig:5
+  basis: The figure is called an old man and divine singer with a lyre.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: Divine patron served by singer
+  assigned_to:
+  - fig:6
+  - fig:7
+  basis: The singer is described as a servant of the Muses and Apollo.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: Foolish or unskilled man
+  assigned_to:
+  - fig:8
+  basis: Margites knows many things badly, lacks practical skills, misunderstands
+    birth, and avoids his wife from fear of report.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:8
+  label: Withholding or absent teachers of skill
+  assigned_to:
+  - fig:9
+  basis: The gods are said to have taught Margites neither digging, ploughing, nor
+    other skill.
+  evidence_refs:
+  - ev:5
+- id: role:9
+  label: Many-wiled animal
+  assigned_to:
+  - fig:10
+  basis: The fox is said to know many wiles.
+  evidence_refs:
+  - ev:7
+- id: role:10
+  label: Single-trick victor animal
+  assigned_to:
+  - fig:11
+  basis: The hedgehog's one trick is said to beat the fox's many wiles.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: Sweet-toned lyre
+  literal_form: lyre
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: Many wiles
+  literal_form: fox's many wiles
+  associated_figures:
+  - fig:10
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:3
+  label: One effective trick
+  literal_form: hedgehog's one trick
+  associated_figures:
+  - fig:11
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:4
+  label: Practical crafts not learned
+  literal_form: digging, ploughing, and other skills
+  associated_figures:
+  - fig:8
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Attribution of the Phocais
+  summary: The passage reports that Homer composed the Lesser Iliad and Phocais while
+    living with Thestorides, while Phocaeans claim the Phocais was composed among
+    them.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Pigres and Homeric attribution
+  summary: Pigres is identified and linked to the authorship of the Margites attributed
+    to Homer and the Battle of the Frogs and Mice.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Divine singer arrives at Colophon
+  summary: An old divine singer, servant of the Muses and Apollo, comes to Colophon
+    carrying a sweet-toned lyre.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Margites characterized by failed knowledge and skill
+  summary: Margites is described as knowing many things badly and as lacking divine
+    instruction in practical crafts.
+  figure_refs:
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:5
+  label: Margites' ignorance of birth and marriage avoidance
+  summary: Margites is said not to know which parent gave him birth and to avoid lying
+    with his wife because of fear she might report badly of him to her mother.
+  figure_refs:
+  - fig:8
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+- id: scene:6
+  label: Fox and hedgehog proverb
+  summary: A proverb contrasts the fox's many wiles with the hedgehog's single trick
+    that can defeat them.
+  figure_refs:
+  - fig:10
+  - fig:11
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Divinely affiliated singer with lyre
+  taxonomy_refs: []
+  basis: The passage presents an old divine singer, servant of the Muses and Apollo,
+    holding a sweet-toned lyre.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The fragment is brief and does not narrate a full mythic episode.
+- id: motif:2
+  label: Fool who knows many things badly
+  taxonomy_refs:
+  - wisdom
+  basis: Margites is described as knowing many things but badly and as failing in
+    every craft because the gods did not teach him practical skills.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The taxonomy reference is inverse or negative, since the passage emphasizes
+    failed knowledge rather than wisdom attained.
+- id: motif:3
+  label: Adult ignorance about birth and marriage
+  taxonomy_refs: []
+  basis: Margites, though grown up, does not know whether father or mother gave him
+    birth and avoids sexual relations with his wife from fear of her report.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The fragment supplies comic characterization but little narrative context.
+- id: motif:4
+  label: Many tricks overcome by one effective trick
+  taxonomy_refs: []
+  basis: The proverb contrasts the fox's many wiles with the hedgehog's one trick
+    that can beat them all.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: The passage gives a proverb without a surrounding fable narrative.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8294-8298
+  quote_or_summary: Pseudo-Herodotus reports that Homer composed the Lesser Iliad
+    and the Phocais while living with Thestorides; the Phocaeans claim the Phocais
+    was composed among them.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source text; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 8300-8305
+  quote_or_summary: Suidas identifies Pigres as a Carian of Halicarnassus, brother
+    of Artemisia, and says he wrote the Margites attributed to Homer and the Battle
+    of the Frogs and Mice.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source text; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 8307-8310
+  quote_or_summary: '"There came to Colophon an old man and divine singer, a servant
+    of the Muses and of far-shooting Apollo. In his dear hands he held a sweet-toned
+    lyre."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source text; short quotation.
+- id: ev:4
+  type: quote
+  locator: lines 8312-8313
+  quote_or_summary: '"He knew many things but knew all badly..."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source text; short quotation.
+- id: ev:5
+  type: summary
+  locator: lines 8315-8317
+  quote_or_summary: Aristotle reports that the gods taught Margites neither digging,
+    ploughing, nor any other skill, and that he failed in every craft.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source text; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 8319-8323
+  quote_or_summary: A scholion says Margites, though grown, did not know whether his
+    father or mother gave him birth and would not lie with his wife because he feared
+    she might speak badly of him to her mother.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source text; summarized.
+- id: ev:7
+  type: quote
+  locator: lines 8325
+  quote_or_summary: '"The fox knows many a wile; but the hedge-hogs one trick can
+    beat them all."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source text; short quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based on short fragmentary testimonia. Motif labels are cautious
+    because the passage contains isolated notices and proverbs rather than full narrative
+    contexts.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly support a cross-textual or historical comparison beyond the provided fragmentary attributions.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-hesiod-homeric-hymns-evelyn-white-gutenberg__l8294-l8325
+  passage_sha256=01adde483503359808566228996eaa3866ee227c86676bc05be7bec38736830e

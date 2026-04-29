@@ -1,0 +1,495 @@
+---
+record_id: batch.motif.greek-hesiod-homeric-hymns-evelyn-white-gutenberg-l7183-l7226
+source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+passage_locator:
+  label: XVI. TO ASCLEPIUS / XVII. TO THE DIOSCURI / XVIII. TO HERMES / XIX. TO PAN;
+    lines 7183-7226
+  start: '7183'
+  end: '7226'
+  translation: Hesiod, the Homeric Hymns, and Homerica
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The hymn invokes the Muse to tell of Pan, son of Hermes, describing his
+    goat feet, horns, mountain roaming, hunting, reed-pipe music, dances with nymphs,
+    and delight in song. The nymphs sing of Hermes, his coming to Arcadia, his marriage
+    to the daughter of Dryops, Pan's unusual birth, the nurse's fear, Hermes carrying
+    the child to the gods, and the gods' delight and naming of Pan.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Pan is described as the dear son of Hermes, with goat feet and two horns,
+    and as a lover of merry noise.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Pan wanders through wooded glades, snowy crests, mountain peaks, rocky crests,
+    thickets, streams, crags, and high peaks overlooking flocks.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Dancing nymphs accompany Pan near cliff edges, springs of dark water, and
+    mountain-top song and dance.
+  category: action
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:4
+  text: Pan hunts wild beasts in the mountains and returns at evening to play sweetly
+    on reed pipes.
+  category: action
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:5
+  text: Pan wears a spotted lynx-pelt and delights in high-pitched songs in a meadow
+    with crocuses and hyacinths.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The nymphs sing of the blessed gods, Olympus, and especially Hermes as swift
+    messenger of all the gods.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Hermes came to Arcadia, served a mortal man as a shepherd, desired to wed
+    the daughter of Dryops, and brought about the marriage.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The daughter of Dryops bore Hermes a son who was marvellous from birth, goat-footed,
+    two-horned, noisy, and merry-laughing.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The nurse feared the child's uncouth face and full beard, fled, and left him.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: Hermes took the child in his arms, carried him wrapped in mountain-hare skins
+    to the gods, and showed him to Zeus and the other gods.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: The immortals, especially Dionysus, were glad, and they called the child Pan
+    because he delighted all their hearts.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Pan
+  description: Son of Hermes; goat-footed, two-horned shepherd-god, hunter, reed-pipe
+    player, dancer, and child named because he delighted the gods.
+  role_refs:
+  - role:1
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Hermes
+  description: Luck-bringing swift messenger of the gods; father of Pan; served as
+    shepherd in Arcadia, married the daughter of Dryops, and presented Pan to the
+    gods.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: Dancing nymphs
+  description: Clear-voiced nymphs who dance and sing with Pan in mountain and spring
+    settings.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Echo
+  description: A figure or voice said to wail about the mountain-top while the nymphs
+    and Pan sing and dance.
+  role_refs: []
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Daughter of Dryops
+  description: Rich-tressed woman desired and wed by Hermes; mother of Pan.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:6
+  name_or_label: Nurse
+  description: Caretaker who saw the newborn Pan's uncouth face and full beard, became
+    afraid, and fled.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Zeus
+  description: God beside whom Hermes set the child Pan when showing him to the deathless
+    gods.
+  role_refs: []
+  evidence_refs:
+  - ev:5
+- id: fig:8
+  name_or_label: Dionysus
+  description: One of the immortals, especially glad at the sight of Pan.
+  role_refs: []
+  evidence_refs:
+  - ev:5
+- id: fig:9
+  name_or_label: Immortals / deathless gods
+  description: The gods who receive the child Pan, rejoice in him, and name him Pan.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: goat-footed horned deity
+  assigned_to:
+  - fig:1
+  basis: Pan is repeatedly described with goat feet and two horns.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: mountain shepherd-god and hunter
+  assigned_to:
+  - fig:1
+  basis: Pan is called shepherd-god, ranges mountain terrain, overlooks flocks, and
+    slays wild beasts.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: divine father
+  assigned_to:
+  - fig:2
+  basis: The hymn calls Pan the son of Hermes and recounts Hermes receiving and carrying
+    the child.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:4
+  label: swift divine messenger
+  assigned_to:
+  - fig:2
+  basis: The nymphs sing of Hermes as the swift messenger of all the gods.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: marvellous child
+  assigned_to:
+  - fig:1
+  basis: Pan is said to be marvellous from birth, with unusual bodily features and
+    behavior.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: choric companions
+  assigned_to:
+  - fig:3
+  basis: The nymphs dance, sing, and accompany Pan in the mountain setting.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:7
+  label: mortal mother
+  assigned_to:
+  - fig:5
+  basis: The daughter of Dryops bears Hermes a son in the house.
+  evidence_refs:
+  - ev:4
+- id: role:8
+  label: fearful caretaker
+  assigned_to:
+  - fig:6
+  basis: The nurse sees the newborn child's appearance, is afraid, flees, and leaves
+    him.
+  evidence_refs:
+  - ev:4
+- id: role:9
+  label: divine naming assembly
+  assigned_to:
+  - fig:9
+  basis: The immortals rejoice in the child and call him Pan.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: mountain landscape
+  literal_form: snowy crests, mountain peaks, rocky crests, towering crags, high mountains,
+    mountain-top
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: spring or stream water
+  literal_form: soft streams and a spring of dark water
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: reed pipes
+  literal_form: pipes of reed played by Pan at evening
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: goat feet and horns
+  literal_form: goat feet and two horns
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:5
+  label: spotted lynx-pelt
+  literal_form: spotted lynx-pelt worn on Pan's back
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:6
+  label: mountain-hare skins
+  literal_form: warm skins of mountain hares wrapping the child Pan
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:7
+  label: flowering meadow
+  literal_form: soft meadow with crocuses and sweet-smelling hyacinths
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Pan ranges the mountain wilds
+  summary: Pan moves through wooded, rocky, watery, and high mountain places connected
+    with flocks and wild beasts.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Evening music and dance
+  summary: After hunting, Pan plays reed pipes while nymphs sing and dance by dark
+    water, with Echo on the mountain-top.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:5
+  - sym:7
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Nymphs sing Hermes' story
+  summary: The nymphs sing of the gods and especially of Hermes, his arrival in Arcadia,
+    his shepherd service, and his marriage to the daughter of Dryops.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Birth of Pan and nurse's flight
+  summary: The daughter of Dryops bears Hermes a remarkable goat-footed, horned child;
+    the nurse is frightened by his appearance and leaves him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Presentation and naming among the gods
+  summary: Hermes joyfully carries the child wrapped in hare skins to the gods, sets
+    him beside Zeus, and the immortals rejoice and name him Pan.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:7
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: divine parent and child
+  taxonomy_refs:
+  - divine_parent_child
+  basis: Pan is explicitly the son of Hermes, and Hermes receives, carries, and presents
+    him to the gods.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: high
+  cautions: The passage focuses on praise and origin rather than a developed parent-child
+    conflict or instruction pattern.
+- id: motif:2
+  label: marvellous child with unusual body
+  taxonomy_refs:
+  - miraculous_child
+  basis: Pan is marvellous from birth, goat-footed, two-horned, bearded, noisy, and
+    merry-laughing, frightening the nurse.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage emphasizes unusual appearance more than a miracle narrative.
+- id: motif:3
+  label: god and mortal marriage leading to divine offspring
+  taxonomy_refs:
+  - sacred_marriage
+  - sacred_birth
+  basis: Hermes desires and weds the daughter of Dryops, who bears him Pan.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The text calls the marriage merry but gives limited ritual or social detail.
+- id: motif:4
+  label: divine beloved desired by a god
+  taxonomy_refs:
+  - divine_beloved
+  basis: Hermes is said to feel strong desire to wed the rich-tressed daughter of
+    Dryops.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The mortal woman's perspective is not described, and the passage quickly
+    moves to marriage and birth.
+- id: motif:5
+  label: mountain-roaming wild deity
+  taxonomy_refs: []
+  basis: Pan's domain includes snowy crests, peaks, crags, thickets, springs, and
+    high mountains where he hunts, dances, and plays music.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: No supplied motif-family taxonomy directly names this pattern; mountain
+    is available only as a symbol reference.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: XIX. To Pan, ll. 1-11
+  quote_or_summary: The Muse is asked to tell of Pan, son of Hermes, goat-footed and
+    horned; he wanders with nymphs across wooded glades, cliffs, snowy crests, mountain
+    peaks, streams, crags, and hunting grounds.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain translation; summarized.
+- id: ev:2
+  type: summary
+  locator: XIX. To Pan, ll. 12-26
+  quote_or_summary: At evening Pan returns from the chase and plays reed pipes; nymphs
+    sing and dance by dark water, Echo wails on the mountain-top, and Pan wears a
+    lynx-pelt in a flowering meadow.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain translation; summarized.
+- id: ev:3
+  type: summary
+  locator: XIX. To Pan, ll. 27-37
+  quote_or_summary: The nymphs sing of the gods and especially Hermes, the swift messenger,
+    who came to Arcadia, tended sheep for a mortal, desired the daughter of Dryops,
+    and brought about their marriage.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain translation; summarized.
+- id: ev:4
+  type: summary
+  locator: XIX. To Pan, ll. 38-42
+  quote_or_summary: The daughter of Dryops bore Hermes a son marvellous from birth,
+    with goat feet and two horns; the nurse feared his uncouth face and full beard,
+    fled, and left him.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain translation; summarized.
+- id: ev:5
+  type: summary
+  locator: XIX. To Pan, ll. 43-47
+  quote_or_summary: Hermes joyfully took the child, carried him wrapped in mountain-hare
+    skins to the deathless gods, set him beside Zeus, and the immortals, especially
+    Dionysus, rejoiced and named him Pan.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain translation; summarized.
+- id: ev:6
+  type: summary
+  locator: XIX. To Pan, ll. 48-49
+  quote_or_summary: The hymn closes with a greeting to Pan and a request for favor
+    through song.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain translation; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based directly on the supplied English passage. Motif labels
+    use only supplied taxonomy where clearly supported; no broader comparison claims
+    are made because the passage itself does not establish cross-textual parallels.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  The supplied locator label mentions multiple hymns, but the provided passage text is Hymn XIX to Pan only; extraction is limited to the supplied passage.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-hesiod-homeric-hymns-evelyn-white-gutenberg__l7183-l7226
+  passage_sha256=fd7e8f252173486eb7cfe21d27babbfe1ce5febc8aee2f284b15e71f14714d51

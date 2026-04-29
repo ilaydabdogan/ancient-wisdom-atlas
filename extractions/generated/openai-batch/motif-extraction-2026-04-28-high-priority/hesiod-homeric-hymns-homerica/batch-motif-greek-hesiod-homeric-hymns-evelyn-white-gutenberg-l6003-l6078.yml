@@ -1,0 +1,481 @@
+---
+record_id: batch.motif.greek-hesiod-homeric-hymns-evelyn-white-gutenberg-l6003-l6078
+source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+passage_locator:
+  label: I. TO DIONYSUS 2501 / II. TO DEMETER / III. TO DELIAN APOLLO / TO PYTHIAN
+    APOLLO; lines 6003-6078
+  start: '6003'
+  end: '6078'
+  translation: Hesiod, the Homeric Hymns, and Homerica
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Apollo chooses Cretan sailors as future ministers for his rites at Pytho,
+    boards their ship in dolphin form, frightens them, and divinely guides the unwilling
+    vessel to Crisa. He then reveals himself with fiery radiance, enters his shrine,
+    returns in the form of a young man, questions the Cretans, and receives their
+    account that a god has brought them there against their will.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Apollo considers what men he should bring to serve as ministers in sacrifice
+    at rocky Pytho.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Apollo notices a swift ship carrying Cretan men from Cnossos who were sailing
+    for trade and profit toward Pylos.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Apollo boards the ship in the shape of a dolphin and lies on it as a great,
+    awe-inspiring monster.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The sailors try to throw the dolphin overboard, but the being shakes the ship
+    and makes its timbers quiver, causing the men to sit silently in fear.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The ship does not obey the helm when the sailors wish to land, and Apollo
+    guides it onward with the breeze.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A strong west wind, said to come by ordinance of Zeus, drives the ship toward
+    Crisa, where it grounds on the sands.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Apollo leaps from the ship like a star at noonday, with flashes of fire and
+    brightness reaching heaven.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Apollo enters his shrine among tripods, causes a bright flame, and fills Crisa
+    with radiance, frightening the local women and daughters.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Apollo returns to the ship in the form of a brisk, sturdy young man and speaks
+    to the Cretans.
+  category: action
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:10
+  text: The Cretan master says they came from Crete toward Pylos but were brought
+    to this place unwillingly by one of the deathless gods.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Phoebus Apollo
+  description: A god who selects Cretans for sacrificial service, appears as a dolphin,
+    guides their ship, manifests with fire, enters his shrine, and speaks in human
+    form.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Cretan sailors from Cnossos
+  description: Men from Cnossos sailing in a black ship from Crete toward Pylos for
+    trade and profit; they become afraid and arrive unwillingly at Crisa.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: fig:3
+  name_or_label: Master of the Cretans
+  description: The spokesman who answers Apollo, asks what land they have reached,
+    and says a god brought them there against their will.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+- id: fig:4
+  name_or_label: Zeus
+  description: A divine authority whose ordinance is associated with the strong west
+    wind that drives the ship toward Crisa.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Helios
+  description: Lord of the sea-garlanded country of Taenarum, where his sheep feed
+    continually.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:7
+- id: fig:6
+  name_or_label: Crisaean wives and daughters
+  description: Local women and daughters who cry out when Apollo’s fiery radiance
+    fills Crisa.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: deity seeking ritual ministers
+  assigned_to:
+  - fig:1
+  basis: Apollo ponders which men he should bring to be ministers in sacrifice and
+    to serve him at Pytho.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: shape-changing divine actor
+  assigned_to:
+  - fig:1
+  basis: Apollo boards the ship in dolphin shape and later appears in the form of
+    a young man.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:3
+  label: divine navigator or controller of voyage
+  assigned_to:
+  - fig:1
+  basis: The ship does not obey the helm, and Apollo guides it with the breeze until
+    it reaches Crisa.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: fiery epiphanic deity
+  assigned_to:
+  - fig:1
+  basis: Apollo leaps from the ship with flashes of fire and makes flame and radiance
+    fill Crisa.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: sailors and unwilling travelers
+  assigned_to:
+  - fig:2
+  basis: The Cretans are sailing for Pylos but later state they arrived by another
+    path unwillingly.
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: role:6
+  label: fearful witnesses
+  assigned_to:
+  - fig:2
+  basis: The sailors sit silent in fear after the dolphin shakes the ship.
+  evidence_refs:
+  - ev:2
+- id: role:7
+  label: spokesman
+  assigned_to:
+  - fig:3
+  basis: The master of the Cretans answers the stranger and describes their origin
+    and unwilling arrival.
+  evidence_refs:
+  - ev:6
+- id: role:8
+  label: divine ordainer of wind
+  assigned_to:
+  - fig:4
+  basis: The west wind comes upon the ship by ordinance of Zeus.
+  evidence_refs:
+  - ev:3
+- id: role:9
+  label: local divine lord
+  assigned_to:
+  - fig:5
+  basis: Taenarum is described as the country of Helios, where his sheep feed continually.
+  evidence_refs:
+  - ev:7
+- id: role:10
+  label: local witnesses to divine radiance
+  assigned_to:
+  - fig:6
+  basis: The Crisaean wives and daughters cry out at Apollo’s outburst of radiance.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: dolphin form
+  literal_form: Dolphin-shaped monster lying on the ship
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: black ship
+  literal_form: Swift black ship or hollow dark-prowed vessel carrying the Cretans
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: sea voyage
+  literal_form: Wine-like sea, briny water, and coastal route to Crisa
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:4
+  label: divine fire and radiance
+  literal_form: Flashes of fire, bright flame, and radiance filling Crisa
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: shrine and tripods
+  literal_form: Apollo’s shrine containing priceless tripods
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: laurel tree below Parnassus
+  literal_form: Laurel tree below the dells of Parnassus from which Apollo gives answers
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  - mountain
+  evidence_refs:
+  - ev:8
+- id: sym:7
+  label: divinely sent wind
+  literal_form: Rushing south wind and strong clear west wind driving the ship
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Apollo selects Cretans and boards their ship
+  summary: Apollo seeks ministers for his rites, sees a Cretan trading ship, and comes
+    aboard in dolphin form.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Compelled voyage to Crisa
+  summary: The Cretan ship cannot be steered to shore and is carried by divinely guided
+    winds around the coast until it reaches Crisa.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:7
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: scene:3
+  label: Fiery manifestation at Apollo’s shrine
+  summary: Apollo leaps from the ship with heavenly fire, enters the shrine among
+    tripods, and fills Crisa with radiance that frightens local women.
+  figure_refs:
+  - fig:1
+  - fig:6
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Apollo questions the Cretans
+  summary: Apollo appears in youthful human form, asks the sailors who they are and
+    why they remain afraid, and the Cretan master answers that a god brought them
+    there unwillingly.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: deity changes shape to intervene in human voyage
+  taxonomy_refs:
+  - shapeshifter
+  basis: Apollo first appears on the ship as a dolphin-shaped monster and later returns
+    in the form of a young man.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: The passage explicitly gives the two forms, but does not frame the transformation
+    as a general mythic category.
+- id: motif:2
+  label: divinely compelled journey to an unintended destination
+  taxonomy_refs:
+  - departure
+  basis: The Cretans sail toward Pylos, but their ship does not obey the helm and
+    is guided to Crisa; their spokesman says they came unwillingly by another path.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+  confidence: medium
+  cautions: The taxonomy reference is approximate because the passage emphasizes diversion
+    and divine guidance rather than a voluntary departure.
+- id: motif:3
+  label: fiery divine epiphany at a sanctuary
+  taxonomy_refs: []
+  basis: Apollo leaves the ship with flashes of fire, makes a flame in his shrine,
+    and fills Crisa with radiance.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: No specific available motif-family reference directly matches this epiphany
+    pattern.
+- id: motif:4
+  label: foundation of ritual service through divine selection
+  taxonomy_refs:
+  - culture_hero
+  basis: Apollo seeks men to become ministers in sacrifice and brings the Cretans
+    to the place of his shrine and oracle.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage shows selection and conveyance of ministers, but the broader
+    cult foundation is only partly contained in this excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: ll. 388-395
+  quote_or_summary: Apollo ponders which men to bring as ministers in sacrifice at
+    Pytho and notices a swift ship of Cretans from Cnossos sailing toward Pylos for
+    trade.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain translation; summarized.
+- id: ev:2
+  type: summary
+  locator: ll. 395-405
+  quote_or_summary: Apollo springs onto the Cretan ship in dolphin shape; the men
+    try to cast the dolphin overboard, but it shakes the ship and they sit silent
+    in fear.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain translation; summarized.
+- id: ev:3
+  type: summary
+  locator: ll. 405-439
+  quote_or_summary: The ship continues under divine winds, will not obey the helm,
+    is guided by Apollo, and finally grounds on the sands at Crisa after a west wind
+    sent by ordinance of Zeus.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain translation; summarized.
+- id: ev:4
+  type: summary
+  locator: ll. 440-451
+  quote_or_summary: Apollo leaps from the ship like a noonday star with fire and brightness,
+    enters his shrine among tripods, makes flame and radiance fill Crisa, frightens
+    local women, and returns in youthful human form.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain translation; summarized.
+- id: ev:5
+  type: summary
+  locator: ll. 452-461
+  quote_or_summary: Apollo asks the strangers who they are, whether they sail for
+    trade or as pirates, and why they remain afraid instead of landing and stowing
+    the ship’s gear.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain translation; summarized.
+- id: ev:6
+  type: summary
+  locator: ll. 462-473
+  quote_or_summary: The master of the Cretans says the stranger resembles the gods,
+    asks what land they have reached, and explains that they sailed from Crete toward
+    Pylos but were brought there unwillingly by a deathless god.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain translation; summarized.
+- id: ev:7
+  type: summary
+  locator: ll. 409-414
+  quote_or_summary: The ship passes Taenarum, described as a sea-garlanded town and
+    country of Helios, where Helios’ thick-fleeced sheep feed continually.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain translation; summarized.
+- id: ev:8
+  type: summary
+  locator: ll. 391-394
+  quote_or_summary: Apollo is described as speaking answers from his laurel tree below
+    the dells of Parnassus.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain translation; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is strongly supported by the passage. Motif labels are
+    cautious, with some taxonomy matches approximate. No comparison claims were made
+    because the passage itself does not explicitly support cross-text or cross-tradition
+    comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used; no external parallels or unsupported taxonomy IDs were added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-hesiod-homeric-hymns-evelyn-white-gutenberg__l6003-l6078
+  passage_sha256=dd1a2b8db15e1d3dd36087c50bb9e4cd65052d35a4a743d065ec8165074e5c5b

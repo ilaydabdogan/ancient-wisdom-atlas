@@ -1,0 +1,551 @@
+---
+record_id: batch.motif.finnish-karelian-kalevala-crawford-gutenberg-l19126-l19285
+source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+passage_locator:
+  label: JOHN MARTIN CRAWFORD. / THE KALEVALA. / PROEM / BOOK II; lines 19126-19285
+  start: '19126'
+  end: '19285'
+  translation: 'Kalevala: The Epic Poem of Finland'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A maiden recounts being lost in the woods while gathering berries, calling
+    from a mountain, and receiving no help. She wishes she had died and become part
+    of vegetation. She then leaps from Kullervo's sledge into a river, cataract, fiery
+    stream, and whirlpool, dying and finding peace in Tuonela/Mana. Kullervo laments
+    that he has shamed and slain his sister, returns to his mother, confesses that
+    he unknowingly sinned with his long-lost sister, asks where he should die, rejects
+    his mother's counsel to hide his transgression, and chooses to hasten toward death,
+    battle, and vengeance against Untamoinen.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The maiden says that as a child she lived in plenty in her mother's dwellings.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The maiden went into woods, uplands, and mountains to gather berries and could
+    not find the path home on the third day.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The maiden climbed a lofty mountain, called out, and the woodlands and distant
+    hills answered that her calls and tears were useless and that her home and people
+    were far away.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The maiden says she repeatedly sought to perish but could not die on the mountains.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The maiden imagines that, had she died, she would have fed earth's vegetation
+    and blossomed as a flower.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Kullervo's sister bounded from the snow-sledge and rushed to the river, cataract,
+    fiery stream, and whirlpool.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The passage states that Kullervo's sister died by fire and water and found
+    peace in Tuonela, in the sacred stream of Mana.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: Kullervo wept and said that he had slain his virgin-sister and shamed his
+    mother's daughter.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Kullervo tells his mother that it would have been better if she had killed
+    him as an infant after seven nights.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: Kullervo confesses to his mother that he met her long-lost daughter, did not
+    recognize her as his sister, and committed a fatal sin.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: Kullervo asks where he may end his life and proposes death among a wolf, bear,
+    shark, or sea-dog.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:12
+  text: Kullervo's mother tells him not to seek death from wolf, bear, shark, or sea-dog,
+    and says there is room in Suomi and Sawa to hide transgression until time brings
+    consolation.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:13
+  text: Kullervo refuses to hide from sorrow or misconduct and says he will hasten
+    to death, Kalma, Pohya, and battlefields because Untamoinen and his own wrongs
+    remain unavenged.
+  category: speech
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Kullerwoinen / Kullervo
+  description: Called wicked Kullerwoinen, wizard-son, grieving son, and brother who
+    confesses that he unknowingly sinned with his long-lost sister.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:8
+- id: fig:2
+  name_or_label: Kullervo's sister / long-lost maiden
+  description: A maiden, called Kullervo's lovely sister and the mother's long-lost
+    daughter, who had been lost in the woods as a child and later rushed to her destruction
+    in water and fire.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+- id: fig:3
+  name_or_label: Kullervo's mother
+  description: The aged, faithful, all-forgiving mother who questions Kullervo, hears
+    his confession, and counsels him not to seek death.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:4
+  name_or_label: Woodlands and distant hills
+  description: The woodlands and hills echo an answer to the lost maiden's call from
+    the mountain.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: Untamoinen
+  description: Named by Kullervo as still living, wicked, and unavenged.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: lost and self-destroying sister
+  assigned_to:
+  - fig:2
+  basis: The maiden is lost from home, identified as Kullervo's sister, and rushes
+    to her own destruction.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+- id: role:2
+  label: remorseful offender and confessor
+  assigned_to:
+  - fig:1
+  basis: Kullervo laments that he has slain and shamed his sister and confesses the
+    fatal unrecognized kinship to his mother.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:3
+  label: maternal counselor against suicide
+  assigned_to:
+  - fig:3
+  basis: The mother tells Kullervo not to seek death from beasts or sea-creatures
+    and says his transgression can be hidden until consolation comes.
+  evidence_refs:
+  - ev:7
+- id: role:4
+  label: answering landscape
+  assigned_to:
+  - fig:4
+  basis: The woodlands and distant hills respond to the maiden's calls from the mountain.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: avenger choosing death and battle
+  assigned_to:
+  - fig:1
+  basis: Kullervo refuses to hide and says he will hasten toward death, Kalma, Pohya,
+    and battlefields because wrongs remain unavenged.
+  evidence_refs:
+  - ev:8
+- id: role:6
+  label: unavenged enemy
+  assigned_to:
+  - fig:5
+  basis: Kullervo says Untamoinen is still living, wicked, and unavenged.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: lofty mountain
+  literal_form: A mountain climbed by the lost maiden as the place from which she
+    calls out.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: river, cataract, and whirlpool
+  literal_form: Rolling river, roaring waters, cataract, and whirlpool into which
+    the maiden rushes.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: sym:3
+  label: fiery stream
+  literal_form: A fiery stream named with the cataract and whirlpool as the place
+    of the maiden's destruction.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - fire
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: sym:4
+  label: Tuonela, Mana, Manala, and Kalma
+  literal_form: 'Named places or powers of death and the afterlife: Tuonela, the sacred
+    stream of Mana, castles of Manala, and courts or border-land of Kalma.'
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:7
+  - ev:8
+- id: sym:5
+  label: forest-cavern of the bear
+  literal_form: The black-bear's forest-cavern mentioned by the mother while warning
+    Kullervo not to seek death there.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: burned cradle and fire-dogs
+  literal_form: Kullervo imagines his infant cradle burned and the infant cast to
+    the fire-dogs.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:5
+- id: sym:7
+  label: body feeding vegetation and blossoming flower
+  literal_form: The maiden imagines that if she had died, she would have fed earth's
+    vegetation and blossomed as a flower.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:8
+  label: death by devouring animals
+  literal_form: Wolf, bear, shark, and sea-dog are named as possible beings or places
+    for Kullervo's death.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Lost maiden calls from the mountain
+  summary: The maiden recalls gathering berries, losing the way home, weeping, climbing
+    a mountain, and receiving an answer from the woodlands and hills that help will
+    not come.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Wished-for death and flowering body
+  summary: The maiden says she tried and failed to die on the mountains and imagines
+    that death would have turned her into nourishment for vegetation and a flower.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:7
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Sister's leap into fire and water
+  summary: Kullervo's sister leaps from the snow-sledge and hastens to the river,
+    cataract, fiery stream, and whirlpool, dying and finding peace in Tuonela/Mana.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Kullervo's lament
+  summary: Kullervo weeps, curses his birth, and says he has slain his virgin-sister
+    and shamed his mother's daughter.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Return to mother and confession
+  summary: Kullervo rides home, speaks to his mother about wished-for infant death,
+    and confesses that he unknowingly sinned with her long-lost daughter, his sister.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:6
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:6
+  label: Mother counsels against self-destruction
+  summary: Kullervo asks where he should die, naming wolf, bear, shark, and sea-dog;
+    his mother tells him not to seek such deaths and says there is space to hide sin
+    until time consoles him.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:5
+  - sym:8
+  - sym:4
+  evidence_refs:
+  - ev:7
+- id: scene:7
+  label: Kullervo chooses vengeance and death
+  summary: Kullervo refuses concealment, says he will go to death, Kalma, Pohya, and
+    battlefields, and names Untamoinen and his family's wrongs as unavenged.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: lost child in the wilderness unable to return home
+  taxonomy_refs: []
+  basis: The maiden recounts going to gather berries, losing the homeward path, and
+    hearing that her home and people are far away.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage gives a personal recollection, not a full separate tale-cycle.
+- id: motif:2
+  label: answering landscape denying help
+  taxonomy_refs: []
+  basis: The woodlands and distant hills echo a reply to the maiden's calls, telling
+    her that her cries are useless.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The answer may be poetic echo rather than a personified supernatural speaker.
+- id: motif:3
+  label: death imagined as nourishment and flowering
+  taxonomy_refs:
+  - death_rebirth
+  basis: The maiden imagines that if she had died she would have fed vegetation and
+    blossomed as a flower without sorrow.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This is hypothetical speech, not an enacted transformation in the passage.
+- id: motif:4
+  label: self-destruction by fire and water with afterlife peace
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The sister rushes into river, cataract, fiery stream, and whirlpool; the
+    passage says she dies by fire and water and finds peace in Tuonela/Mana.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The afterlife is named, but no detailed journey map is described.
+- id: motif:5
+  label: unrecognized kinship leading to fatal sin and remorse
+  taxonomy_refs: []
+  basis: Kullervo confesses that he met his mother's long-lost daughter, did not recognize
+    her as his sister, and committed a fatal sin; he laments that he has shamed and
+    slain her.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  confidence: high
+  cautions: The precise act is referred to indirectly as sin and dishonor rather than
+    narrated in detail in this passage.
+- id: motif:6
+  label: wished-for infant killing to avert later evil
+  taxonomy_refs: []
+  basis: Kullervo repeatedly says it would have been better if death, sickness, or
+    his mother had killed him in infancy, including by fire or water.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is retrospective lament, not an actual infant-exposure scene.
+- id: motif:7
+  label: suicidal appeal to beasts and sea-creatures
+  taxonomy_refs: []
+  basis: Kullervo asks to stop the wolf's howling, satisfy the bear, or become the
+    dwelling-place of shark or sea-dog, while seeking a place to die.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: The animals are proposed in speech and not encountered in action.
+- id: motif:8
+  label: maternal counsel to hide transgression until time consoles
+  taxonomy_refs: []
+  basis: The mother rejects Kullervo's proposed deaths and says Suomi and Sawa are
+    large enough to hide misdeeds until years bring consolation.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: The counsel is specific to Kullervo's situation and may not indicate a
+    broader formal motif without comparison.
+- id: motif:9
+  label: revenge quest chosen over concealment
+  taxonomy_refs:
+  - departure
+  basis: Kullervo refuses to hide from sorrow or misconduct and says he will hasten
+    toward death and battle because Untamoinen and family wrongs remain unavenged.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: The departure itself is announced but not carried out within this passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 19126-19144
+  quote_or_summary: The maiden recalls childhood plenty, berry-gathering in woods,
+    uplands, and mountains, losing the homeward path, weeping, climbing a lofty mountain,
+    and hearing the woods and hills answer that no help will come and home is far
+    away.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; short neutral summary.
+- id: ev:2
+  type: summary
+  locator: 19145-19156
+  quote_or_summary: From the third through seventh days the maiden sought to perish
+    but could not die on the mountains; she says that if she had died she would have
+    fed vegetation and blossomed as a flower.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; short neutral summary.
+- id: ev:3
+  type: summary
+  locator: 19157-19167
+  quote_or_summary: The maiden leaps from the snow-sledge and rushes to the river,
+    cataract, fiery stream, and whirlpool; she dies by fire and water and finds peace
+    in Tuonela, in the sacred stream of Mana.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; short neutral summary.
+- id: ev:4
+  type: summary
+  locator: 19168-19190
+  quote_or_summary: Kullervo weeps, says he has slain his virgin-sister and shamed
+    his mother's daughter, curses his birth, and says death or sickness should have
+    killed him in the cradle after seven days.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; short neutral summary.
+- id: ev:5
+  type: summary
+  locator: 19191-19217
+  quote_or_summary: Kullervo rides home to his father's cabin, addresses his mother,
+    and says it would have been worthy if she had slain him as an infant, thrown him
+    to the cataract or whirlpool, burned his cradle, or cast him to the fire-dogs.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; short neutral summary.
+- id: ev:6
+  type: summary
+  locator: 19218-19241
+  quote_or_summary: The mother asks what has happened and whether Kullervo comes from
+    Tuoni or Manala; Kullervo confesses that he met her long-lost daughter, did not
+    recognize his sister, committed a fatal sin, and that she rushed to the roaring
+    waters and fiery stream.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; short neutral summary.
+- id: ev:7
+  type: summary
+  locator: 19242-19263
+  quote_or_summary: Kullervo asks where he should die and names wolf, bear, shark,
+    and sea-dog; his mother tells him not to seek such deaths and says Suomi and Sawa
+    can hide transgression until years bring consolation.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; short neutral summary.
+- id: ev:8
+  type: summary
+  locator: 19264-19284
+  quote_or_summary: Kullervo answers that he will not hide from sorrow or misconduct,
+    but hastens to death, Kalma, Pohya, and battlefields because Untamoinen lives
+    and his family's wrongs remain unavenged.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; short neutral summary.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is explicit about the main actions, figures, and named death-places.
+    Motif-family assignments are cautious where the taxonomy does not directly include
+    incest, suicide, or revenge categories.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage does not itself establish a comparison to another text or tradition.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:finnish-karelian-kalevala-crawford-gutenberg__l19126-l19285
+  passage_sha256=d5a269f0feea9af48deba07ace0c538c3d2ebec9c398d88e7648de3496745468

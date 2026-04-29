@@ -1,0 +1,402 @@
+---
+record_id: batch.motif.greek-iliad-pope-gutenberg-l489-l584
+source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+passage_locator:
+  label: The Iliad / CONCLUDING NOTE. / INTRODUCTION.; lines 489-584
+  start: '489'
+  end: '584'
+  translation: The Iliad
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage surveys uncertainty about Homer and the Homeric poems: Homer’s
+    origins are described as obscure and hidden; critics debate whether Homer was
+    an individual author or whether the Iliad and Odyssey were assembled from earlier
+    fragments; ancient testimony is presented as largely accepting Homer, while modern
+    theories from Bentley, Vico, Wolf, and Grote are introduced as challenging unity
+    of authorship.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Homer’s history and works are described as lost in doubtful obscurity.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Homer’s song is compared to a stream like the Nile, blessing and fertilizing
+    many lands, while its sources remain concealed.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage states that the period of tradition in history is a region of
+    twilight and that perfect light should not be expected there.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The origin of the Iliad and the Odyssey is described as something that could
+    not be wholly explained even with all historical testimonies, because its essential
+    origin remained the poet’s secret.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage explicitly asks whether Homer was an individual or whether the
+    Iliad and Odyssey resulted from an arrangement of fragments by earlier poets.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Landor is quoted as saying that some claim there were twenty Homers while
+    others deny that there was ever one, and he states his veneration for Homer.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The narrator asks the reader to prefer judgment to imagination while considering
+    doubts and difficulties surrounding the Homeric question.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Ancient testimony is represented as not raising suspicion of Homer’s personal
+    non-existence, while later modern investigations are said to make new claims.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Bentley is reported as saying Homer composed songs and rhapsodies later collected
+    into epic form around the time of Peisistratus.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: Vico is named as containing the germ of a theory later defended by Wolf, with
+    Grote’s formulation about to be detailed.
+  category: sequence
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Homer
+  description: Poet whose history, works, personal existence, and authorship of the
+    Homeric poems are discussed as uncertain or debated.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: Unnamed German critic
+  description: A critic quoted as describing the uncertainty of the Homeric question
+    and the limits of historical explanation.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Landor
+  description: Commentator quoted as rejecting excessive disturbance of admiration
+    for Homer and affirming veneration for him.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Narrator or editor
+  description: The editorial voice that turns from admiration to analysis and asks
+    the reader to consider the Homeric question.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Ancient authors and witnesses
+  description: Ancient authorities, including Thucydides and Longinus, presented as
+    not suspecting Homer’s personal non-existence.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: Bentley
+  description: Modern critic reported as doubting epic unity and proposing that Homeric
+    songs and rhapsodies were later collected into an epic poem.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:7
+- id: fig:7
+  name_or_label: Vico, Wolf, and Grote
+  description: Modern theorists or transmitters associated with the development and
+    statement of a theory about Homeric composition.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: disputed poet or authorial source
+  assigned_to:
+  - fig:1
+  basis: The passage debates whether Homer was an individual and whether the poems
+    came from him or from arranged fragments.
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: role:2
+  label: commentator on Homeric uncertainty or admiration
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The German critic comments on obscurity and limits of knowledge; Landor comments
+    on claims about multiple or nonexistent Homers and his veneration.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: role:3
+  label: editorial guide into scholarly inquiry
+  assigned_to:
+  - fig:4
+  basis: The narrator says the editorial office must attend to doubts and asks the
+    reader to prefer judgment to imagination.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: ancient witness to Homeric acceptance
+  assigned_to:
+  - fig:5
+  basis: Ancient authorities are described as not raising suspicion about Homer’s
+    personal non-existence.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: modern skeptical or analytical theorist
+  assigned_to:
+  - fig:6
+  - fig:7
+  basis: Bentley, Vico, Wolf, and Grote are linked with modern doubts or hypotheses
+    about Homeric composition.
+  evidence_refs:
+  - ev:7
+  - ev:8
+symbols:
+- id: sym:1
+  label: concealed source of song
+  literal_form: The song compared to the Nile, with hidden fountains or sources.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: twilight of tradition
+  literal_form: The period of tradition in history described as a region of twilight
+    rather than perfect light.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: vase disturbed by analysis
+  literal_form: A vase whose contents are shaken in an attempt to make them settle.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: body examined by critical microscope
+  literal_form: The critic’s eye as a microscope examining hairs and pores rather
+    than the body’s harmony and soul.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Obscure emergence of Homeric song
+  summary: Homer appears as a poet whose biography and works are obscure, while his
+    song is imagined as a fertile river whose sources cannot be found.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Limits of historical explanation
+  summary: The passage argues that tradition belongs to twilight and that the essential
+    origin of the Iliad and Odyssey remains the poet’s secret.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Formulation of the Homeric question
+  summary: The narrator frames the question of whether Homer was one individual or
+    whether the poems were arranged from earlier poetic fragments.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: scene:4
+  label: Admiration versus analysis
+  summary: Landor and the editorial voice contrast reverent admiration for Homer with
+    the need to examine doubts and details.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:5
+  label: Ancient acceptance and modern skepticism
+  summary: Ancient authors are presented as accepting Homer’s existence, while modern
+    critics such as Bentley and later theorists are introduced as developing fragmentary
+    or skeptical theories of composition.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: hidden origin of inspired song
+  taxonomy_refs: []
+  basis: The passage repeatedly treats Homeric poetry as emerging from obscurity,
+    with its source concealed and its essential origin remaining the poet’s secret.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: This is a critical-literary image in an introduction, not a narrative
+    mythic event.
+- id: motif:2
+  label: single creator versus many fragments
+  taxonomy_refs: []
+  basis: The passage poses the question whether Homer was one individual or whether
+    the Iliad and Odyssey were arranged from fragments by earlier poets; Bentley’s
+    reported view develops the latter pattern.
+  evidence_refs:
+  - ev:3
+  - ev:7
+  confidence: high
+  cautions: This is a motif of authorship theory rather than a mythological motif
+    within the Iliad’s narrative.
+- id: motif:3
+  label: holistic admiration opposed to dissecting analysis
+  taxonomy_refs: []
+  basis: The passage contrasts reverence for Homer and perception of unity with minute
+    analytical criticism, using images of a shaken vase, anatomy, and a microscope
+    examining parts.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The pattern is rhetorical and scholarly; it should not be confused with
+    a mythic symbol system in the epic itself.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 489-494
+  quote_or_summary: Homer’s history and works are said to be obscure; his song is
+    compared to the Nile flowing through many lands while its sources remain concealed.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 500-511
+  quote_or_summary: A quoted critic says tradition is a twilight region, genius seems
+    miraculous, and the origins of the Iliad and Odyssey remain the secret of the
+    poet.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 513-516
+  quote_or_summary: The passage asks whether Homer was an individual or whether the
+    Iliad and Odyssey were arranged from fragments by earlier poets.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 518-525
+  quote_or_summary: 'Landor is quoted: some say there were twenty Homers and some
+    deny one; he criticizes restless analysis and declares his veneration for Homer.'
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: lines 527-558
+  quote_or_summary: The narrator says editorial duty requires attention to doubts;
+    the passage contrasts poetic perception of unity with grammarian analysis and
+    cites Pope’s image of the critic’s microscope.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:6
+  type: summary
+  locator: lines 560-571
+  quote_or_summary: The passage says ancient authors, including Thucydides and Longinus,
+    did not raise suspicion of Homer’s personal non-existence, and that antiquity
+    favors early ideas on the subject.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:7
+  type: summary
+  locator: lines 573-579
+  quote_or_summary: Bentley is reported as saying Homer wrote songs and rhapsodies
+    for performance, later collected into epic form around Peisistratus’ time.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:8
+  type: summary
+  locator: lines 581-584
+  quote_or_summary: Hedelin and Perrault are mentioned as skeptical; Vico’s Scienza
+    Nuova is said to contain the germ of the theory later defended by Wolf and about
+    to be detailed through Grote.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is a scholarly introduction on Homeric authorship rather than
+    a myth narrative. Extracted motifs are rhetorical and critical patterns present
+    in the passage, not mythological episodes from the Iliad.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage does not itself support a specific comparative mythology claim beyond internal debate over Homeric authorship and composition.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-iliad-pope-gutenberg__l489-l584
+  passage_sha256=667e32f0f942e164527a071a49a7ff727ed48aa7f44ee86b56305d433b5ab88b

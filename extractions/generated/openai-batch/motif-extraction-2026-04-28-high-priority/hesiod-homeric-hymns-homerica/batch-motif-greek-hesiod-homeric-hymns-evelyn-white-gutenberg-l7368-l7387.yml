@@ -1,0 +1,366 @@
+---
+record_id: batch.motif.greek-hesiod-homeric-hymns-evelyn-white-gutenberg-l7368-l7387
+source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+passage_locator:
+  label: XXVII. TO ARTEMIS / XXVIII. TO ATHENA / XXIX. TO HESTIA / XXX. TO EARTH THE
+    MOTHER OF ALL; lines 7368-7387
+  start: '7368'
+  end: '7387'
+  translation: Hesiod, the Homeric Hymns, and Homerica
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: I will sing of well-founded Earth, mother of all, eldest of all beings.
+  summary: A hymn praises Earth as the mother and feeder of all creatures, giver and
+    remover of mortal livelihood, source of harvests, cattle, prosperity, orderly
+    rule, and flourishing children. The speaker hails her as Mother of the gods and
+    wife of starry Heaven and asks her to bestow substance for the song.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The speaker announces a song to well-founded Earth, described as mother of
+    all and eldest of all beings.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Earth feeds creatures on land, in the seas, and in the air from her store.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Earth is addressed as a queen through whom men are blessed in children and
+    harvests.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage says Earth can give means of life to mortal men and take it away.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A man whom Earth delights to honor has abundant goods, fruitful land, corn,
+    cattle, and a well-filled house.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Men honored by Earth rule orderly in their cities, are followed by riches
+    and wealth, and have joyful sons and daughters.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Earth is hailed as Mother of the gods and wife of starry Heaven.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The speaker asks Earth to bestow heart-cheering substance for the song.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Earth
+  description: Well-founded Earth, mother of all, eldest of all beings, queen, holy
+    goddess, bountiful spirit, Mother of the gods, wife of starry Heaven.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: Mortal men honored by Earth
+  description: Men blessed in children and harvests, given means of life, and, when
+    honored by Earth, possessing abundance and orderly rule.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Creatures of land, sea, and air
+  description: All creatures in the world, including those on land, in the paths of
+    the seas, and those that fly, are fed by Earth.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Starry Heaven
+  description: Starry Heaven is named as the wife’s counterpart of Earth.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Speaker of the hymn
+  description: The first-person hymn speaker sings to Earth and asks her to bestow
+    substance for the song.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:1
+  - ev:4
+roles:
+- id: role:1
+  label: Mother of all
+  assigned_to:
+  - fig:1
+  basis: Earth is explicitly called mother of all and eldest of all beings.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: Universal nourisher
+  assigned_to:
+  - fig:1
+  basis: Earth feeds creatures of land, sea, and air from her store.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: Giver and remover of livelihood
+  assigned_to:
+  - fig:1
+  basis: The hymn says Earth gives means of life to mortal men and takes it away.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: Divine spouse and mother of gods
+  assigned_to:
+  - fig:1
+  basis: Earth is hailed as Mother of the gods and wife of starry Heaven.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: Recipients of divine honor and prosperity
+  assigned_to:
+  - fig:2
+  basis: Those whom Earth honors receive abundance, wealth, children’s joy, and orderly
+    rule.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: Fed creatures
+  assigned_to:
+  - fig:3
+  basis: All creatures are described as fed by Earth’s store.
+  evidence_refs:
+  - ev:1
+- id: role:7
+  label: Divine spouse of Earth
+  assigned_to:
+  - fig:4
+  basis: The passage calls Earth wife of starry Heaven.
+  evidence_refs:
+  - ev:4
+- id: role:8
+  label: Hymnic petitioner
+  assigned_to:
+  - fig:5
+  basis: The speaker sings to Earth and petitions her for substance in connection
+    with the song.
+  evidence_refs:
+  - ev:1
+  - ev:4
+symbols:
+- id: sym:1
+  label: Earth as mother
+  literal_form: Well-founded Earth addressed as mother of all and Mother of the gods.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:2
+  label: Harvest abundance
+  literal_form: Harvests, fruitful land laden with corn, and a house filled with good
+    things.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: Cattle in pastures
+  literal_form: Pastures covered with cattle as a sign of abundance for the honored
+    man.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: Flowering field play
+  literal_form: Daughters in flower-laden bands play and skip over soft flowers of
+    the field.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: Starry Heaven
+  literal_form: Starry Heaven named as Earth’s spouse.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Praise of Earth as universal mother and nourisher
+  summary: The hymn begins by naming Earth as mother of all and eldest of beings,
+    and states that she feeds creatures on land, in the seas, and in the air.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Earth grants or removes mortal livelihood
+  summary: Earth is addressed as queen; through her men receive children and harvests,
+    and she gives or takes away the means of life.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Prosperity of those honored by Earth
+  summary: A man honored by Earth enjoys abundant land, corn, cattle, household goods,
+    orderly civic rule, wealth, and joyful children.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Closing hail and petition
+  summary: The speaker hails Earth as Mother of the gods and wife of starry Heaven,
+    asks her to bestow heart-cheering substance for the song, and promises remembrance
+    in another song.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Mother goddess as universal nourisher
+  taxonomy_refs:
+  - mother_goddess
+  basis: Earth is called mother of all and Mother of the gods, feeds all creatures,
+    and is the source of mortal livelihood and fertility.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: The passage is a hymn of praise rather than a narrative myth episode.
+- id: motif:2
+  label: Divine bestowal of fertility and prosperity
+  taxonomy_refs: []
+  basis: Earth blesses men with children, harvests, fruitful land, cattle, household
+    abundance, wealth, and joyful descendants.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: No specific taxonomy reference is available for agricultural prosperity
+    apart from the broader mother-goddess pattern.
+- id: motif:3
+  label: Reciprocal hymn petition for divine favor
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The speaker offers song and asks Earth to bestow heart-cheering substance
+    for it.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The exchange is implied by hymnic petition language; the passage does
+    not narrate an explicit completed transaction.
+- id: motif:4
+  label: Earth and Heaven divine pair
+  taxonomy_refs:
+  - sacred_marriage
+  basis: Earth is named as wife of starry Heaven.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage only states the spousal relation and does not narrate a marriage
+    or union scene.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 7368-7374; internal ll. 1-6
+  quote_or_summary: Earth is invoked as “mother of all” and said to feed all creatures
+    on land, in the seas, and in the air.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source; short quotation used for identification.
+- id: ev:2
+  type: summary
+  locator: lines 7374-7377; internal ll. 6-9
+  quote_or_summary: Earth is addressed as queen; through her men are blessed in children
+    and harvests, and she gives or takes away the means of life.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 7377-7385; internal ll. 9-16
+  quote_or_summary: The man whom Earth honors has abundant goods, fruitful land with
+    corn, cattle-filled pastures, a full house, orderly rule, wealth, and joyful sons
+    and daughters.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: quote
+  locator: lines 7386-7387; internal ll. 17-19
+  quote_or_summary: Earth is hailed as “Mother of the gods, wife of starry Heaven,”
+    and asked to bestow heart-cheering substance for the song.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source; short quotation used for identification.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif assignments beyond mother_goddess
+    are cautious because the passage is a short hymnic praise and petition, not an
+    extended narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the provided Hymn XXX passage text was used; the broader locator label names adjacent hymns, but they are not present in the supplied passage text.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-hesiod-homeric-hymns-evelyn-white-gutenberg__l7368-l7387
+  passage_sha256=6f813be194546a655eb204d10276c58101ef38b7f5dcf1798bee0e342c5b8ed4

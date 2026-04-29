@@ -1,0 +1,511 @@
+---
+record_id: batch.motif.greek-iliad-pope-gutenberg-l288-l380
+source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+passage_locator:
+  label: The Iliad / CONCLUDING NOTE. / INTRODUCTION.; lines 288-380
+  start: '288'
+  end: '380'
+  translation: The Iliad
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'A biographical introduction recounts traditions about Homer as Melesigenes:
+    his birth near the river Meles, orphaned mother, adoption and education by Phemius,
+    travels with Mentes, illness of the eyes and reported blindness, association with
+    Ithacan legends of Ulysses, poetic recitations, failed request for public support
+    at Cuma, acquisition of the name Homer, and exploitation by Thestorides.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Crithes, an orphan under Cleanax's guardianship, gave birth to Homer, first
+    named Melesigenes because he was born near the river Meles.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Phemius employed Crithes, married her, and agreed to adopt her son, expecting
+    the child would become clever if carefully raised.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Melesigenes was educated and came to surpass his schoolfellows and rival his
+    preceptor in wisdom.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Mentes persuaded Melesigenes to close his school and travel while young so
+    he could see countries and cities that might later become subjects of discourse.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: At Ithaca, Melesigenes' eye condition worsened, and he was left with Mentor
+    for care.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Under Mentor, Melesigenes learned legends concerning Ulysses, later associated
+    with the Odyssey.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: 'The passage reports rival local claims about where Melesigenes became blind:
+    Ithaca according to its inhabitants, Colophon according to Colophonians.'
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: At Neon Teichos, Melesigenes' misfortunes and poetic talent won him the friendship
+    of Tychias the armourer.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The inhabitants showed and honored the place where Melesigenes recited verses,
+    and said a poplar had grown there since his arrival.
+  category: setting
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: At Cuma, Melesigenes asked for public maintenance in exchange for making the
+    city renowned through poetry.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: A Cuman speaker objected that feeding Homers would burden the city with useless
+    people, and the passage says this led Melesigenes to acquire the name Homer because
+    Cumans called blind men Homers.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:12
+  text: After being denied a pension, the poet wished that Cuma would never produce
+    a poet able to give it renown and glory.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:13
+  text: At Phoca, Thestorides kept Homer in his house and gave him a small allowance
+    on condition that Homer's verses pass under Thestorides' name.
+  category: relationship
+  evidence_refs:
+  - ev:8
+- id: obs:14
+  text: After gathering enough poetry to profit from, Thestorides neglected and left
+    Homer.
+  category: action
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Crithes
+  description: Daughter of Menapolus, orphaned young, mother of Melesigenes/Homer.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Melesigenes / Homer
+  description: Child born near the river Meles, later poet, traveller, teacher, and
+    blind man according to the Cuman naming explanation.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:7
+- id: fig:3
+  name_or_label: Phemius
+  description: Teacher of literature and music at Smyrna who married Crithes, adopted
+    her son, and served as preceptor.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Mentes
+  description: Visitor from Leucadia who persuaded Melesigenes to travel and acted
+    as patron for the journey.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: Mentor, son of Alcinor
+  description: Friend of Mentes at Ithaca who provided medical superintendence and
+    hospitality to Melesigenes.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: Tychias
+  description: Armourer at Neon Teichos who befriended Melesigenes because of his
+    misfortunes and poetic talent.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+- id: fig:7
+  name_or_label: Cumans / Cuman council
+  description: Community and assembly before whom Melesigenes requested public maintenance;
+    they ultimately denied the pension.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:7
+- id: fig:8
+  name_or_label: Thestorides
+  description: A man at Phoca seeking poetic reputation who kept Homer and claimed
+    his verses as his own.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: poet-protagonist
+  assigned_to:
+  - fig:2
+  basis: Melesigenes/Homer is the central figure whose birth, education, travels,
+    blindness, recitations, and poetic production are narrated.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: role:2
+  label: mother of the poet
+  assigned_to:
+  - fig:1
+  basis: Crithes is described as giving birth to Homer/Melesigenes.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: adoptive father and preceptor
+  assigned_to:
+  - fig:3
+  basis: Phemius marries Crithes, adopts her son, and educates him as a teacher.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: travel patron
+  assigned_to:
+  - fig:4
+  basis: Mentes pays expenses, promises a stipend, and persuades Melesigenes to travel.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: hospitable medical host
+  assigned_to:
+  - fig:5
+  basis: Mentor receives Melesigenes for medical care and hospitality at Ithaca.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: local patron-friend
+  assigned_to:
+  - fig:6
+  basis: Tychias befriends Melesigenes at Neon Teichos.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: public patrons who refuse support
+  assigned_to:
+  - fig:7
+  basis: The Cuman assembly hears the poet's proposal for maintenance and denies the
+    pension.
+  evidence_refs:
+  - ev:7
+- id: role:8
+  label: exploitative literary claimant
+  assigned_to:
+  - fig:8
+  basis: Thestorides keeps Homer on a pittance while passing Homer's verses as his
+    own.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: river-associated birth name
+  literal_form: the river Meles, near which Melesigenes was born and from which his
+    name is derived
+  associated_figures:
+  - fig:2
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: honored poplar at recitation place
+  literal_form: a poplar said to have sprung up at the place honored as Melesigenes'
+    recitation spot
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:6
+- id: sym:3
+  label: blindness and the name Homer
+  literal_form: the Cuman term Homers for blind men, used to explain Melesigenes'
+    acquired name
+  associated_figures:
+  - fig:2
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Birth and naming near the river Meles
+  summary: Crithes gives birth to Homer, called Melesigenes because the birth occurs
+    near the river Meles.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Adoption and education under Phemius
+  summary: Phemius marries Crithes, adopts her son, and the child's talents are cultivated
+    until he surpasses schoolfellows and rivals his teacher.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Youthful departure for travel and learning
+  summary: Mentes persuades Melesigenes to close his school and travel to observe
+    countries and cities for future discourse.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Ithaca illness and Ulysses legends
+  summary: At Ithaca Melesigenes' eye trouble worsens; Mentor hosts him, and he learns
+    legends about Ulysses later linked to the Odyssey.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Honored recitation place at Neon Teichos
+  summary: At Neon Teichos, Tychias befriends Melesigenes, and later inhabitants honor
+    the spot where he recited verses, with a poplar said to have grown there.
+  figure_refs:
+  - fig:2
+  - fig:6
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:6
+- id: scene:6
+  label: Petition and refusal at Cuma
+  summary: Melesigenes asks the Cumans for public support in exchange for poetic renown;
+    an objection leads to refusal and to the explanation of his name Homer from blindness.
+  figure_refs:
+  - fig:2
+  - fig:7
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:7
+- id: scene:7
+  label: Exploitation by Thestorides at Phoca
+  summary: Thestorides houses Homer on a pittance while claiming his verses, then
+    leaves him after collecting enough poetry to profit.
+  figure_refs:
+  - fig:2
+  - fig:8
+  symbol_refs: []
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: birth by a named river with name derived from place
+  taxonomy_refs: []
+  basis: The passage explains Melesigenes' original name through his birth near the
+    river Meles.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is an etymological birth-name motif in the biographical tradition,
+    not a divine or miraculous birth.
+- id: motif:2
+  label: adopted gifted child educated into wisdom
+  taxonomy_refs:
+  - wisdom
+  basis: Phemius adopts Melesigenes, careful cultivation develops his talents, and
+    he becomes exceptionally accomplished and wise.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage frames the development as education and natural talent rather
+    than supernatural wisdom.
+- id: motif:3
+  label: departure for travel as preparation for poetic knowledge
+  taxonomy_refs:
+  - departure
+  - wisdom
+  basis: Mentes urges the young Melesigenes to see countries and cities firsthand
+    so they can later become subjects of his discourse.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The journey is educational and biographical; no explicit initiation rite
+    is described.
+- id: motif:4
+  label: blind poet receives identity through blindness
+  taxonomy_refs: []
+  basis: The passage states that Melesigenes acquired the name Homer because Cumans
+    called blind men Homers.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: This is an etymological account within the cited narrative, not verified
+    historical fact.
+- id: motif:5
+  label: honored performance place marked by a tree
+  taxonomy_refs: []
+  basis: The place where Melesigenes recited is honored, and a poplar is said to have
+    grown there after his arrival.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The tree is reported as a local commemorative sign; the passage does not
+    call it sacred or cosmological.
+- id: motif:6
+  label: poet's work appropriated by false claimant
+  taxonomy_refs: []
+  basis: Thestorides keeps Homer on condition that Homer's verses pass under Thestorides'
+    name, then abandons him after collecting enough poetry.
+  evidence_refs:
+  - ev:8
+  confidence: high
+  cautions: The theft is literary and economic; no sacred-theft taxonomy is applied.
+comparison_claims:
+- id: claim:1
+  claim: The passage preserves rival local traditions assigning the poet's blindness
+    to different places, Ithaca and Colophon.
+  claim_level: same_motif
+  target: Ithacan and Colophonian local claims about the site of Homer/Melesigenes'
+    blindness
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is internal to this passage and concerns competing local
+    assertions, not an external historical conclusion.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 288-297
+  quote_or_summary: Menapolus' daughter Crithes is left an orphan; Homer is described
+    as her first child and named Melesigenes because he was born near the river Meles.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 298-309
+  quote_or_summary: Phemius, a teacher of literature and music at Smyrna, employs
+    Crithes, marries her, and offers to adopt her son, saying the boy would become
+    clever if carefully brought up.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 310-317
+  quote_or_summary: Education ripens Melesigenes' talents; he surpasses his schoolfellows,
+    rivals Phemius in wisdom, and later inherits Phemius' property.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 317-332
+  quote_or_summary: Mentes persuades Melesigenes to close his school and travel, promising
+    expenses and stipend, so he may see places that could become subjects of later
+    discourse.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 332-344
+  quote_or_summary: At Ithaca, Melesigenes' eye trouble worsens; Mentes leaves him
+    with Mentor. He learns Ulysses legends, and the passage notes rival Ithacan and
+    Colophonian claims about where he became blind.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 345-355
+  quote_or_summary: At Neon Teichos, Tychias the armourer befriends Melesigenes. Inhabitants
+    later show and honor his recitation place and say a poplar grew there after his
+    arrival.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 361-377
+  quote_or_summary: At Cuma, Melesigenes asks for public maintenance in exchange for
+    glorifying the city. A speaker objects to feeding Homers; the pension is denied,
+    and the passage explains Homer as a Cuman term for blind men.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 378-380
+  quote_or_summary: At Phoca, Thestorides houses Homer on a pittance on condition
+    that Homer's verses pass under Thestorides' name, then neglects and leaves him
+    after gathering enough poetry.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based only on the supplied biographical introduction. Motif
+    identification is cautious because the passage is literary-biographical rather
+    than a mythic episode.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No external taxonomy IDs or historical claims were added beyond the available motif and symbol references.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-iliad-pope-gutenberg__l288-l380
+  passage_sha256=6a2c0e199b6a1a7724dee33f98bee8b78c6559ad18e39c9183313b2b7c19d8a0

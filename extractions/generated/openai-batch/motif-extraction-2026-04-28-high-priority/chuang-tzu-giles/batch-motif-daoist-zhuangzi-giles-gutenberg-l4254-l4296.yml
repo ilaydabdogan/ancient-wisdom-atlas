@@ -1,0 +1,373 @@
+---
+record_id: batch.motif.daoist-zhuangzi-giles-gutenberg-l4254-l4296
+source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+passage_locator:
+  label: CHAPTER IX. / HORSES' HOOFS. / CHAPTER X. / OPENING TRUNKS.; lines 4254-4296
+  start: '4254'
+  end: '4296'
+  translation: 'Chuang Tzu: Mystic, Moralist, and Social Reformer'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage argues that artificial precautions such as cords, bolts, and
+    locks, commonly praised as wit, can help a strong thief carry away secured containers.
+    It extends this critique to worldly wit and wisdom, then describes the prosperous
+    and closely settled State of Ch'i, where land use and governance conform to rules
+    laid down by the Sages.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: People take precautions against thieves by securing trunks, bags, and tills
+    with cords, bolts, and locks.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says the world calls such securing of property 'wit'.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A strong thief carries off the till along with the box and bag.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The strong thief fears only that the cords and locks may not be strong enough.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage states that what the world calls wit assists strong thieves, and
+    what the world calls wisdom protects strong thieves.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: In the State of Ch'i, towns are described as close enough for one to see from
+    one town to the next and hear dogs and cocks.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: A translator's note says the sentence about nearby towns, dogs, and cocks
+    was incorporated in chapter 80 of the Tao-Tê-Ching.
+  category: other
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The area is described as covered by fishermen's and fowlers' nets and pricked
+    by the plough over more than two thousand li square.
+  category: setting
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Within the four boundaries, temples, shrines, districts, and hamlets are said
+    to be arranged or governed according to rules laid down by the Sages.
+  category: relationship
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: thieves who open trunks
+  description: Generic thieves who open trunks, search bags, or ransack tills.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: strong thief
+  description: A strong thief who carries off the till with the box and bag.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: the world
+  description: The collective social voice that calls securing property 'wit' and
+    distinguishes worldly wit and wisdom.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:4
+  name_or_label: fishermen and fowlers
+  description: People whose nets cover the described area.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: Sages
+  description: Authorities whose rules are followed in temples, shrines, districts,
+    and hamlets.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: ordinary thieves
+  assigned_to:
+  - fig:1
+  basis: They are described as opening trunks, searching bags, and ransacking tills.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: strong thief
+  assigned_to:
+  - fig:2
+  basis: He carries away secured containers and benefits from strong cords and locks.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: conventional evaluator
+  assigned_to:
+  - fig:3
+  basis: The passage attributes judgments about 'wit' and 'wisdom' to 'the world'.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:4
+  label: land users
+  assigned_to:
+  - fig:4
+  basis: Their nets are part of the description of the occupied and productive area.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: rule-giving authorities
+  assigned_to:
+  - fig:5
+  basis: Their rules govern religious and administrative arrangements within Ch'i.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: secured containers
+  literal_form: trunks, bags, tills, box
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: fastenings
+  literal_form: cords, bolts, locks
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: nets
+  literal_form: nets of fishermen and fowlers
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: plough
+  literal_form: plough pricking the land
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: temples and shrines
+  literal_form: temple or shrine
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: dogs and cocks
+  literal_form: barking dogs and crowing cocks
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: Security measures assist the thief
+  summary: The passage presents property fastened against thieves, then describes
+    a strong thief carrying away the secured property and benefiting from the strength
+    of the fastenings.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Close-settled Ch'i
+  summary: The State of Ch'i is described as having towns close enough to see and
+    hear signs of neighboring habitation.
+  figure_refs: []
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Ordered and cultivated territory
+  summary: Ch'i's territory is described as extensively used by nets and ploughs,
+    with religious and administrative institutions following the rules of the Sages.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: worldly wisdom benefiting thieves
+  taxonomy_refs:
+  - wisdom
+  basis: The passage explicitly reverses conventional praise of wit and wisdom by
+    saying they assist or protect strong thieves.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage is philosophical and argumentative rather than a mythic narrative;
+    the taxonomy link is to a broad wisdom motif family.
+- id: motif:2
+  label: artificial restrictions as deceptive protections
+  taxonomy_refs:
+  - wisdom
+  basis: The argument heading and the trunk example present artificial restrictions
+    as deceptive and counterproductive.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:8
+  confidence: medium
+  cautions: This motif is inferred from the supplied chapter argument and example;
+    it is not named as a formal motif in the passage.
+- id: motif:3
+  label: ordered prosperity under sage rules
+  taxonomy_refs:
+  - wisdom
+  basis: The State of Ch'i is described as prosperous, closely settled, cultivated,
+    and governed according to rules laid down by the Sages.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The passage fragment ends before the following consequence is given, so
+    the function of this description remains incomplete.
+comparison_claims:
+- id: claim:1
+  claim: A translator's note states that the sentence about seeing from one town to
+    the next and hearing dogs and cocks was incorporated in chapter 80 of the Tao-Tê-Ching.
+  claim_level: linguistic_similarity
+  target: Tao-Tê-Ching, chapter 80
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim relies only on the translator's note in the provided passage
+    and does not compare the external text directly.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4254-4266
+  quote_or_summary: Precautions against thieves who open trunks, search bags, or ransack
+    tills consist of securing them with cords, bolts, and locks; the world calls this
+    wit.
+  source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 4268-4271
+  quote_or_summary: A strong thief carries off the till on his shoulders with box
+    and bag, fearing only that the cords and locks are not strong enough.
+  source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 4273-4280
+  quote_or_summary: The passage says worldly wit assists strong thieves and worldly
+    wisdom protects strong thieves.
+  source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 4282-4284
+  quote_or_summary: In Ch'i, one could see from one town to the next and hear the
+    barking and crowing of dogs and cocks.
+  source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: note
+  locator: lines 4286-4288
+  quote_or_summary: 'Translator''s note: the sentence on nearby towns, dogs, and cocks
+    has been incorporated in chapter 80 of the Tao-Tê-Ching.'
+  source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 4290-4295
+  quote_or_summary: The area covered by fishermen's and fowlers' nets and pricked
+    by the plough was more than two thousand li square; the note says this conveys
+    prosperity.
+  source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 4296
+  quote_or_summary: Within the four boundaries, temples, shrines, districts, and hamlets
+    are said to follow rules laid down by the Sages.
+  source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: chapter argument
+  quote_or_summary: The chapter argument states that restrictions are artificial and
+    deceptive, and that one must shake off such fetters and revert to the natural.
+  source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is a philosophical argument with illustrative social examples,
+    not a complete mythic episode. The supplied text ends mid-sentence, limiting interpretation
+    of the Ch'i example.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the provided passage and metadata were used. Taxonomy references were limited to the supplied available taxonomy list.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:daoist-zhuangzi-giles-gutenberg__l4254-l4296
+  passage_sha256=9bc3a11a2829c09881d673c4868a4629a90a5602f2a252e56ef0ee548243befa

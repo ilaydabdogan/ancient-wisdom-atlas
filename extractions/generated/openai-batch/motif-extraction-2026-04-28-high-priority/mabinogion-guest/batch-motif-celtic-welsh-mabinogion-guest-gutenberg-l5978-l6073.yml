@@ -1,0 +1,594 @@
+---
+record_id: batch.motif.celtic-welsh-mabinogion-guest-gutenberg-l5978-l6073
+source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+passage_locator:
+  label: PEREDUR THE SON OF EVRAWC / GERAINT THE SON OF ERBIN / THE DREAM OF RHONABWY
+    / PWYLL PRINCE OF DYVED; lines 5978-6073
+  start: '5978'
+  end: '6073'
+  translation: The Mabinogion
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Pwyll, acting in Arawn's form, meets Havgan at a ford in single combat,
+    defeats him, receives homage, and gains control of both kingdoms of Annwvyn. Pwyll
+    and Arawn then restore their own forms and return to their respective realms.
+    Pwyll learns that Arawn ruled Dyved with exceptional wisdom and generosity, and
+    the two rulers strengthen their friendship with gifts. Pwyll receives the name
+    Chief of Annwvyn. The passage then begins a new episode at Narberth, where Pwyll
+    sits on Gorsedd Arberth, a mound associated with wounds, blows, or wonders, and
+    sees an unknown lady in gold on a white horse who cannot be overtaken on foot.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The appointed meeting at the ford is declared to be a conflict between two
+    kings only, with others ordered to stand aside.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The two kings meet in the middle of the ford and fight.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The man in Arawn's stead strikes Havgan through shield and armor and brings
+    him to the ground with a deadly blow.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Havgan asks that the killing be completed, but the victor refuses to strike
+    again.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: After Havgan's defeat, the nobles state that there is no king over the whole
+    of Annwvyn except the victor, and homage is received.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: By the next day at noon, the two kingdoms are in the victor's power.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Arawn gives Pwyll his proper form and semblance again, and Arawn takes back
+    his own.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Pwyll's nobles report that his rule during the year was wiser, kinder, freer
+    in gifts, and more just than before.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Pwyll and Arawn strengthen their friendship by sending one another horses,
+    greyhounds, hawks, and jewels.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: At Gorsedd Arberth, Pwyll is told that anyone who sits on the mound cannot
+    leave without receiving wounds or blows, or else seeing a wonder.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:11
+  text: Pwyll sees an unknown lady on a large pure white horse, wearing a shining
+    gold garment, moving at a slow and even pace.
+  category: object
+  evidence_refs:
+  - ev:9
+- id: obs:12
+  text: A man pursuing the lady on foot finds that the faster he goes, the farther
+    away she becomes.
+  category: action
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Pwyll Prince of Dyved / Pwyll Chief of Annwvyn
+  description: Ruler of Dyved who has lived for a year in Annwvyn in Arawn's form,
+    defeats Havgan, returns to Dyved, and later sits on Gorsedd Arberth.
+  role_refs:
+  - role:1
+  - role:4
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: Arawn, King of Annwvyn
+  description: King of Annwvyn who meets Pwyll after the conflict, restores Pwyll's
+    proper form, takes back his own form, and returns to his court.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:3
+  name_or_label: Havgan
+  description: Opposing king who is struck down in single combat at the ford and declares
+    that his death has come.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Nobles and men of Annwvyn
+  description: Followers who are told to decide who should be subjects, declare the
+    victor king over all Annwvyn, and give homage.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Nobles of Dyved
+  description: Nobles who tell Pwyll that his rule during the past year was exceptionally
+    wise, generous, kind, and just.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: Unnamed knight at the ford
+  description: A knight who announces that the meeting is between the two kings only
+    and commands others to stand aside.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:1
+- id: fig:7
+  name_or_label: Unknown lady on the white horse
+  description: A lady unknown to Pwyll's men, wearing a shining gold garment and riding
+    a large pure white horse at a slow, even pace while remaining unreachable by a
+    pursuer on foot.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: fig:8
+  name_or_label: Unnamed pursuer from Pwyll's court
+  description: A man sent to meet the unknown lady, who follows her on foot but cannot
+    overtake her.
+  role_refs:
+  - role:11
+  evidence_refs:
+  - ev:10
+roles:
+- id: role:1
+  label: substitute combatant in another king's form
+  assigned_to:
+  - fig:1
+  basis: The victor is described as the man in Arawn's stead and later receives his
+    proper form back from Arawn.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:2
+  label: king of Annwvyn
+  assigned_to:
+  - fig:2
+  basis: Arawn is explicitly named King of Annwvyn.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: defeated rival king
+  assigned_to:
+  - fig:3
+  basis: Havgan is opposed in a meeting between two kings and is fatally struck down.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:4
+  label: newly acknowledged ruler over Annwvyn
+  assigned_to:
+  - fig:1
+  basis: The nobles declare there is no king over the whole of Annwvyn but him, and
+    he receives homage.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: restorer of forms
+  assigned_to:
+  - fig:2
+  basis: Arawn gives Pwyll his proper form and semblance and takes his own.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: witness of mound wonder
+  assigned_to:
+  - fig:1
+  basis: Pwyll sits on Gorsedd Arberth after hearing that a sitter must receive harm
+    or see a wonder, and then sees the lady.
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: role:7
+  label: homage-giving subjects
+  assigned_to:
+  - fig:4
+  basis: The men and nobles accept the victor's rule and homage is received.
+  evidence_refs:
+  - ev:4
+- id: role:8
+  label: evaluators of substituted rule
+  assigned_to:
+  - fig:5
+  basis: They compare Pwyll's rule during the past year with his prior rule and praise
+    its wisdom, generosity, kindness, and justice.
+  evidence_refs:
+  - ev:6
+- id: role:9
+  label: duel herald
+  assigned_to:
+  - fig:6
+  basis: The knight publicly defines the conflict as one between the two kings only.
+  evidence_refs:
+  - ev:1
+- id: role:10
+  label: wondrous unreachable rider
+  assigned_to:
+  - fig:7
+  basis: The lady appears after Pwyll sits on the wonder-associated mound and cannot
+    be overtaken on foot despite her horse's slow pace.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+- id: role:11
+  label: failed messenger-pursuer
+  assigned_to:
+  - fig:8
+  basis: He is sent to meet the lady and returns after failing to overtake her.
+  evidence_refs:
+  - ev:10
+symbols:
+- id: sym:1
+  label: ford as place of royal combat
+  literal_form: The middle of the ford where the two kings meet and fight.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:6
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: exchanged form and semblance
+  literal_form: Arawn gives Pwyll his proper form and semblance, and Arawn takes his
+    own.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: reciprocal prestige gifts
+  literal_form: Horses, greyhounds, hawks, and jewels exchanged between Pwyll and
+    Arawn.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:4
+  label: Gorsedd Arberth mound
+  literal_form: A mound above the palace at Narberth, said to bring wounds, blows,
+    or a wonder to anyone who sits on it.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:5
+  label: white horse
+  literal_form: A pure white horse of large size ridden by the unknown lady.
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:6
+  label: shining gold garment
+  literal_form: A garment of shining gold worn by the unknown lady.
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:7
+  label: unreachable slow rider
+  literal_form: The lady's horse appears to move slowly, but a pursuer cannot gain
+    on her.
+  associated_figures:
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+  - ev:10
+scenes:
+- id: scene:1
+  label: Single combat at the ford
+  summary: A herald states that the meeting is only between two kings. The combatants
+    meet in the ford, and the man in Arawn's stead fatally defeats Havgan but refuses
+    a second blow.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:6
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Homage and conquest of Annwvyn
+  summary: After Havgan's defeat, the nobles acknowledge the victor as king over all
+    Annwvyn; he receives homage and gains the two kingdoms by the next day at noon.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Arawn and Pwyll restore their own forms
+  summary: At Glyn Cuch, Arawn thanks Pwyll. Arawn restores Pwyll's proper form and
+    takes back his own, then returns to his court where his absence has not been noticed.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Pwyll learns of Arawn's rule in Dyved
+  summary: Pwyll asks his nobles how his rule was during the past year, and they praise
+    the wisdom, generosity, kindness, and justice shown during that time. Pwyll explains
+    what occurred.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: Friendship gifts and new title
+  summary: Pwyll and Arawn strengthen their friendship by exchanging valued animals
+    and jewels. Pwyll is thereafter called Pwyll Chief of Annwvyn because of his year
+    there and his success in uniting the kingdoms.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:7
+- id: scene:6
+  label: Pwyll sits on Gorsedd Arberth and sees a wonder
+  summary: At Narberth, Pwyll sits on the mound Gorsedd Arberth after hearing its
+    danger or wonder condition. He and his men see an unknown lady in gold riding
+    a white horse.
+  figure_refs:
+  - fig:1
+  - fig:7
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: scene:7
+  label: Failed pursuit of the lady
+  summary: A man from Pwyll's court tries to follow the lady on foot, but the faster
+    he goes, the farther away she is. He returns and says no one can follow her on
+    foot; Pwyll orders that a swift horse be used.
+  figure_refs:
+  - fig:1
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:5
+  - sym:7
+  evidence_refs:
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: single combat determines royal dominion
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The conflict is restricted to two kings; after Havgan is defeated, homage
+    is given and the two kingdoms come under the victor's power.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: The passage presents political outcome and homage, but does not explicitly
+    frame the duel as a formal legal ordeal beyond the herald's statement.
+- id: motif:2
+  label: ruler lives and rules in another's form
+  taxonomy_refs:
+  - shapeshifter
+  - sacred_exchange
+  basis: Pwyll acts in Arawn's stead and later Arawn restores Pwyll's proper form
+    and takes back his own; the substituted rule affects both kingdoms.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage gives the restoration of forms but does not describe the initial
+    exchange within this excerpt.
+- id: motif:3
+  label: prosperous otherworld sojourn grants new title
+  taxonomy_refs:
+  - initiation
+  - royal_legitimacy
+  basis: Pwyll dwells a year in Annwvyn, rules there successfully, unites the kingdoms,
+    and receives the title Chief of Annwvyn.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The broader significance of Annwvyn as otherworldly is not explained in
+    this passage, though Annwvyn is named.
+- id: motif:4
+  label: reciprocal gift exchange seals royal friendship
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The friendship between Pwyll and Arawn is strengthened by mutual gifts of
+    horses, greyhounds, hawks, and jewels.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: The passage describes friendship and exchange but does not state ritual
+    obligations.
+- id: motif:5
+  label: perilous mound produces a wonder
+  taxonomy_refs:
+  - mystical_quest
+  - initiation
+  basis: Pwyll sits on Gorsedd Arberth after hearing that a sitter cannot leave without
+    wounds, blows, or seeing a wonder; the lady on the white horse appears immediately
+    afterward.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: The passage begins the wonder episode but does not complete its outcome
+    in the excerpt.
+- id: motif:6
+  label: unreachable wondrous rider
+  taxonomy_refs:
+  - mystical_quest
+  basis: The lady's horse seems to move slowly, yet a pursuer on foot falls farther
+    behind the faster he runs.
+  evidence_refs:
+  - ev:9
+  - ev:10
+  confidence: high
+  cautions: The lady's identity and purpose are not revealed in this excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5978-5988
+  quote_or_summary: On the appointed night, a knight at the ford says the meeting
+    is between two kings only and tells others to stand aside.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source text; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 5989-5996
+  quote_or_summary: The two kings fight in the ford; the man in Arawn's stead strikes
+    Havgan through shield and armor and brings him to the ground with a deadly blow.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source text; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 5996-6004
+  quote_or_summary: Havgan asks why he is being killed and asks the victor to complete
+    the killing; the victor refuses to strike him again.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source text; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 6004-6015
+  quote_or_summary: Havgan says his death has come; the nobles declare the victor
+    king over all Annwvyn, homage is received, and by the next day at noon the two
+    kingdoms are in his power.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source text; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 6016-6030
+  quote_or_summary: Arawn meets Pwyll at Glyn Cuch, thanks him, restores Pwyll's proper
+    form and semblance, takes his own form, and returns to his court.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source text; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 6034-6049
+  quote_or_summary: Pwyll returns to Dyved and asks about the past year's rule; the
+    nobles praise its wisdom, generosity, kindness, and justice, and Pwyll explains
+    the matter to them.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source text; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 6050-6059
+  quote_or_summary: Pwyll and Arawn strengthen their friendship with gifts of horses,
+    greyhounds, hawks, and jewels; because Pwyll dwelt in Annwvyn, ruled prosperously,
+    and united two kingdoms, he is called Pwyll Chief of Annwvyn.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source text; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 6063-6073
+  quote_or_summary: At Narberth, Pwyll goes to the mound Gorsedd Arberth and is told
+    that whoever sits on it cannot leave without wounds or blows, or else seeing a
+    wonder; Pwyll chooses to sit there.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source text; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 6074-6081
+  quote_or_summary: While Pwyll sits on the mound, he and his men see an unknown lady
+    on a large pure white horse, wearing a shining gold garment and moving at a slow,
+    even pace.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source text; summarized.
+- id: ev:10
+  type: summary
+  locator: lines 6081-6090
+  quote_or_summary: A man sent to meet the lady follows her on foot, but the faster
+    he goes, the farther away she becomes; he returns, and Pwyll orders that the fleetest
+    horse be taken after her.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source text; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The narrative actions and figures are explicit. Motif labels are cautious
+    and limited to the supplied taxonomy. No comparison claims are made beyond candidate
+    motif classification.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Evidence locators follow the supplied line range approximately; the provided passage text extends slightly beyond the stated end line for the mound-rider episode.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:celtic-welsh-mabinogion-guest-gutenberg__l5978-l6073
+  passage_sha256=4a0d4a4c5cfe6153abad6d2740bb44e49ce9d269d7560ec62bf476d18e959dc1

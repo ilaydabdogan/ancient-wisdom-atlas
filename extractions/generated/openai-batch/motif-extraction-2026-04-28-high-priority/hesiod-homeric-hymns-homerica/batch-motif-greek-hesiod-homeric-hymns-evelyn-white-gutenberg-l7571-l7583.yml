@@ -1,0 +1,297 @@
+---
+record_id: batch.motif.greek-hesiod-homeric-hymns-evelyn-white-gutenberg-l7571-l7583
+source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+passage_locator:
+  label: XXXI. TO HELIOS / XXXII. TO SELENE / XXXIII. TO THE DIOSCURI / HOMERS EPIGRAMS2601;
+    lines 7571-7583
+  start: '7571'
+  end: '7583'
+  translation: Hesiod, the Homeric Hymns, and Homerica
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: I come, and I come yearly, like the swallow...
+  summary: 'The passage contains brief epigrammatic fragments: a speaker describes
+    an annual arrival like a swallow at the front of a house; petitioners say they
+    will accept a gift but not remain if none is given; Homer asks fishermen whether
+    they have caught anything; a fisherman replies with a paradoxical answer; Homer
+    comments on their poor fathers.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A speaker says he comes yearly and compares himself to a light-footed swallow
+    perched at the front of a house.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The same fragment includes an urgent request to bring something, though the
+    object is not preserved in the provided text.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A group of speakers says that if something is given to them, that is well,
+    but if not, they will not wait because they have not come to dwell there.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Homer addresses hunters of deep sea prey and asks whether anything has been
+    caught.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A fisherman answers that everything caught was left behind and everything
+    not caught is carried home.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Homer says the fishermen are descended from fathers who neither possess rich
+    lands nor tend many sheep.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: annual speaker
+  description: First-person speaker who says he comes yearly like a swallow.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: addressed householder or household
+  description: The addressee associated with the front part of a house and asked to
+    bring something.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: petitioning group
+  description: Speakers who ask whether anything will be given and state they will
+    not remain if nothing is given.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Homer
+  description: Named speaker who questions the fishermen and comments on their lineage
+    and poverty.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: fisherman
+  description: Speaker who answers Homer with a paradoxical statement about what was
+    caught and not caught.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: hunters of deep sea prey
+  description: People addressed by Homer as hunters of deep sea prey.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: annual visitor
+  assigned_to:
+  - fig:1
+  basis: The speaker says he comes yearly and compares the arrival to a swallow.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: addressee at a house
+  assigned_to:
+  - fig:2
+  basis: The speech locates the addressee in relation to the fore-part of a house
+    and asks for something to be brought.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: gift-seeking visitors
+  assigned_to:
+  - fig:3
+  basis: The speakers condition their staying on whether something is given to them.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: questioner and commentator
+  assigned_to:
+  - fig:4
+  basis: Homer asks about the catch and then comments on the fishermen's fathers.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: riddle-like respondent
+  assigned_to:
+  - fig:5
+  basis: The fisherman gives a paradoxical reply about leaving what was caught and
+    carrying what was not caught.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: deep-sea hunters
+  assigned_to:
+  - fig:6
+  basis: Homer directly addresses them as hunters of deep sea prey.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: swallow
+  literal_form: swallow perched light-footed at the fore-part of a house
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: house-front perch
+  literal_form: fore-part of a house where the swallow perches
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: deep sea prey
+  literal_form: prey from the deep sea sought by hunters or fishermen
+  associated_figures:
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: yearly arrival at a house
+  summary: A first-person speaker describes an annual arrival like a swallow at the
+    front of a house and asks that something be brought quickly.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: conditional request for a gift
+  summary: A group says that a gift would be acceptable, but if no gift is given they
+    will not wait or stay with the addressee.
+  figure_refs:
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Homer and the fishermen
+  summary: Homer asks fishermen whether they have caught anything; a fisherman gives
+    a paradoxical answer, and Homer comments on their poor lineage.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: annual return compared to a bird
+  taxonomy_refs:
+  - seasonal_cycle
+  - return
+  basis: The speaker explicitly says he comes yearly and likens the arrival to a swallow,
+    a recurrent annual movement in the passage.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The fragment is brief and does not explicitly frame the yearly return
+    as a full seasonal mythic cycle.
+- id: motif:2
+  label: gift-seeking visit without staying
+  taxonomy_refs: []
+  basis: The speakers ask for something to be given and say they will not wait or
+    dwell if nothing is given.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage does not specify the occasion, gift, or ritual context.
+- id: motif:3
+  label: paradoxical catch riddle
+  taxonomy_refs:
+  - wisdom
+  basis: 'The fisherman’s reply reverses ordinary expectations: what was caught was
+    left behind, while what was not caught is carried home.'
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The text does not explicitly identify the exchange as a riddle or wisdom
+    contest; this is inferred from the paradoxical form of the answer.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 7571-7572
+  quote_or_summary: "“I come, and I come yearly, like the swallow that perches light-footed
+    in the fore-part of your house. But quickly bring....”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain translation; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 7574-7576
+  quote_or_summary: Speakers say that if the addressee gives anything, that is well;
+    if not, they will not wait because they have not come to dwell there.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain translation; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 7578-7581
+  quote_or_summary: Homer asks hunters of deep sea prey whether anything has been
+    caught; a fisherman replies that what was caught was left behind and what was
+    not caught is carried home.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain translation; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 7582-7583
+  quote_or_summary: Homer says they are descended from fathers who neither hold rich
+    lands nor tend countless sheep.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain translation; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is fragmentary and epigrammatic. Literal speakers and exchanges
+    are clear, but motif classification is limited by missing context.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used. No external explanation of the fisherman’s paradox has been added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-hesiod-homeric-hymns-evelyn-white-gutenberg__l7571-l7583
+  passage_sha256=755c851637ea14dbb1257f2903a7af3266990428f7d7ba8012b403755ba20f18

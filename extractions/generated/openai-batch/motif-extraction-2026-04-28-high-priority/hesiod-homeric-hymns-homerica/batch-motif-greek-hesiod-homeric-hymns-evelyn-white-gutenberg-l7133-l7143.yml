@@ -1,0 +1,352 @@
+---
+record_id: batch.motif.greek-hesiod-homeric-hymns-evelyn-white-gutenberg-l7133-l7143
+source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+passage_locator:
+  label: XII. TO HERA / XIII. TO DEMETER / XIV. TO THE MOTHER OF THE GODS / XV. TO
+    HERACLES THE LION-HEARTED; lines 7133-7143
+  start: '7133'
+  end: '7143'
+  translation: Hesiod, the Homeric Hymns, and Homerica
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The hymn announces praise of Heracles, identifies him as son of Zeus and
+    Alcmena, recalls his wandering and violent deeds under Eurystheus, states that
+    he now lives happily on snowy Olympus with Hebe as wife, and ends with a prayer
+    for success and prosperity.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The speaker says he will sing of Heracles.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Heracles is identified as the son of Zeus and as the mightiest of men on earth.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Alcmena bore Heracles in Thebes after the Son of Cronos had lain with her.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Heracles once wandered over land and sea at the bidding of King Eurystheus.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Heracles did many deeds of violence and endured many things.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Heracles now lives happily in the glorious home of snowy Olympus.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Heracles has neat-ankled Hebe for his wife.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The hymn closes by addressing Heracles as lord and son of Zeus and asking
+    him to give success and prosperity.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Heracles
+  description: Son of Zeus, born of Alcmena in Thebes, formerly a wanderer under Eurystheus,
+    now living on Olympus with Hebe as wife.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Zeus / Son of Cronos
+  description: Divine father of Heracles; described as dark-clouded and as having
+    lain with Alcmena.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: fig:3
+  name_or_label: Alcmena
+  description: Woman who bore Heracles in Thebes after Zeus had lain with her.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: King Eurystheus
+  description: King at whose bidding Heracles wandered over land and sea.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Hebe
+  description: Neat-ankled wife of Heracles in the home of snowy Olympus.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: hymn subject
+  assigned_to:
+  - fig:1
+  basis: The speaker opens by saying he will sing of Heracles.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: divine son
+  assigned_to:
+  - fig:1
+  basis: Heracles is named as son of Zeus.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:3
+  label: wandering hero under command
+  assigned_to:
+  - fig:1
+  basis: Heracles wandered over land and sea at the bidding of King Eurystheus.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: divine father
+  assigned_to:
+  - fig:2
+  basis: Zeus is named as Heracles' father, and the Son of Cronos lay with Alcmena
+    before Heracles' birth.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:5
+  label: Olympian husband
+  assigned_to:
+  - fig:1
+  basis: Heracles now lives on Olympus and has Hebe for his wife.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: mortal mother
+  assigned_to:
+  - fig:3
+  basis: Alcmena bore Heracles in Thebes.
+  evidence_refs:
+  - ev:2
+- id: role:7
+  label: commanding king
+  assigned_to:
+  - fig:4
+  basis: Eurystheus is called king and Heracles acts at his bidding.
+  evidence_refs:
+  - ev:3
+- id: role:8
+  label: wife
+  assigned_to:
+  - fig:5
+  basis: Hebe is described as Heracles' wife.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: snowy Olympus
+  literal_form: glorious home of snowy Olympus
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: land and sea wandering
+  literal_form: unmeasured tracts of land and sea
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Heracles' divine-human birth
+  summary: Heracles is presented as born from Alcmena in Thebes after Zeus had lain
+    with her.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Wandering and deeds under Eurystheus
+  summary: Heracles once wandered over land and sea by Eurystheus' command, performing
+    and enduring many violent deeds.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Happy Olympian dwelling and marriage
+  summary: Heracles now lives happily in the home of snowy Olympus with Hebe as his
+    wife.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Closing invocation
+  summary: The speaker hails Heracles as lord and son of Zeus and asks for success
+    and prosperity.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: divine parent and heroic child
+  taxonomy_refs:
+  - divine_parent_child
+  basis: Heracles is repeatedly identified as son of Zeus, with Alcmena as the mother
+    who bore him.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  confidence: high
+  cautions: The passage gives only a brief genealogy and does not narrate a full parent-child
+    episode.
+- id: motif:2
+  label: sacred or divine-human birth
+  taxonomy_refs:
+  - sacred_birth
+  basis: Heracles' birth follows the union of the dark-clouded Son of Cronos with
+    Alcmena.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage states conception and birth briefly, without miraculous birth
+    details.
+- id: motif:3
+  label: heroic wandering and commanded labors
+  taxonomy_refs:
+  - culture_hero
+  - departure
+  basis: Heracles wanders over land and sea at the bidding of Eurystheus and performs
+    many deeds.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The specific deeds are not named here, and 'culture hero' is inferred
+    from Heracles' heroic deeds rather than explicitly developed in the passage.
+- id: motif:4
+  label: hero's Olympian exaltation
+  taxonomy_refs:
+  - ascent
+  basis: The passage contrasts Heracles' former wandering and suffering with his present
+    happy life in snowy Olympus.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage states Heracles' present Olympian residence but does not narrate
+    the ascent or apotheosis.
+- id: motif:5
+  label: divine marriage after heroic suffering
+  taxonomy_refs:
+  - sacred_marriage
+  basis: After the account of wandering and endured violence, Heracles is said to
+    live on Olympus with Hebe as wife.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: low
+  cautions: The marriage is only mentioned; no wedding scene, ritual context, or mythic
+    function is described.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 7133-7135 / Hymn XV, ll. 1-2
+  quote_or_summary: '"I will sing of Heracles, the son of Zeus and much the mightiest
+    of men on earth."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain translation; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 7135-7137 / Hymn XV, ll. 2-4
+  quote_or_summary: Alcmena bore Heracles in Thebes after the dark-clouded Son of
+    Cronos had lain with her.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain translation; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 7137-7140 / Hymn XV, ll. 4-7
+  quote_or_summary: Heracles formerly wandered over unmeasured land and sea at Eurystheus'
+    command, doing and enduring many violent deeds.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain translation; summarized evidence.
+- id: ev:4
+  type: quote
+  locator: lines 7140-7142 / Hymn XV, ll. 7-8
+  quote_or_summary: '"now he lives happily in the glorious home of snowy Olympus,
+    and has neat-ankled Hebe for his wife."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain translation; short excerpt used for evidence.
+- id: ev:5
+  type: summary
+  locator: line 7143 / Hymn XV, l. 9
+  quote_or_summary: The speaker hails Heracles as lord and son of Zeus and asks him
+    to give success and prosperity.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain translation; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based on a short hymn passage. Motif candidates are limited
+    because the passage alludes to well-known Heracles material but does not narrate
+    the labors or apotheosis in detail. No comparison claims were added because the
+    passage itself does not support a specific cross-text comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage text was used; locator label includes adjacent hymns, but the passage content supplied is Hymn XV to Heracles.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-hesiod-homeric-hymns-evelyn-white-gutenberg__l7133-l7143
+  passage_sha256=f9da7126d5b6c9cf7999afdf0b0e5d85fbd73f3d3701c514adc5ad7b17e199cd

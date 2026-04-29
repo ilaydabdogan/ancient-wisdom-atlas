@@ -1,0 +1,451 @@
+---
+record_id: batch.motif.daoist-zhuangzi-giles-gutenberg-l4087-l4137
+source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+passage_locator:
+  label: CHAPTER VII. / HOW TO GOVERN. / CHAPTER VIII. / JOINED TOES.; lines 4087-4137
+  start: '4087'
+  end: '4137'
+  translation: 'Chuang Tzu: Mystic, Moralist, and Social Reformer'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: Robber Chê died for gain on Mount T'ai.
+  summary: The passage contrasts deaths for gain and deaths for charity or duty, arguing
+    that both injure life and nature alike. It rejects external moral, sensory, and
+    social standards as perfection, defining perfection instead as cultivation of
+    TAO, yielding to natural conditions, and seeing or hearing oneself rather than
+    others. It warns that taking possession of others rather than oneself makes a
+    person become someone else, a fatal error applicable to both Robber Chê and Poh
+    I.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Robber Chê is said to have died for gain on Mount T'ai.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that different kinds of death may cause the same injury
+    to life and nature.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The world calls a person who dies for charity and duty noble, and a person
+    who dies for gain low.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage equates Robber Chê and Poh I in respect to injury to life and
+    nature.
+  category: relationship
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:5
+  text: The speaker says that perfection is not defined by charity and duty to one's
+    neighbour, nor by mastery of flavours, sounds, or colours.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The speaker defines perfection as cultivation of TAO and yielding to the natural
+    conditions of things.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The passage says perfect hearing is hearing oneself, and perfect vision is
+    seeing oneself.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The passage says that one who sees others rather than himself and takes possession
+    of others rather than himself becomes someone else.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: The speaker describes becoming someone else instead of oneself as a fatal
+    error of which both Robber Chê and Poh I can be guilty.
+  category: attribute
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Robber Chê
+  description: A robber said to have died for gain on Mount T'ai; later paired with
+    Poh I as equally injuring life and nature.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:7
+- id: fig:2
+  name_or_label: Poh I
+  description: A figure paired with Robber Chê in the argument that both can injure
+    life and nature and be guilty of fatal error.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:7
+- id: fig:3
+  name_or_label: Tsêng
+  description: An exemplar invoked as someone a man might equal through charity and
+    duty toward his neighbour.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Shih
+  description: An exemplar invoked with Tsêng in relation to charity and duty toward
+    one's neighbour.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Yü Erh
+  description: An exemplar invoked in relation to flavours.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Shih K'uang
+  description: An exemplar invoked in relation to sounds.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Li Chu
+  description: An exemplar invoked in relation to colours.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:8
+  name_or_label: Speaker
+  description: The first-person voice who defines perfection as cultivation of TAO
+    and states a personal caution about charity, duty, and fatal error.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+  - ev:8
+- id: fig:9
+  name_or_label: A man who sees others rather than himself
+  description: A generalized person who takes possession of others instead of himself
+    and becomes someone else.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: death-for-gain example
+  assigned_to:
+  - fig:1
+  basis: Robber Chê is explicitly said to have died for gain.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: contrasted moral example
+  assigned_to:
+  - fig:2
+  basis: Poh I is contrasted with Robber Chê in the discussion of noble and low deaths.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: example of equal injury to life and nature
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage says Robber Chê and Poh I are one in point of injury to life
+    and nature.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: exemplar of charity and duty
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: Tsêng and Shih are named as figures one might equal by applying oneself to
+    charity and duty.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: sensory-skill exemplar
+  assigned_to:
+  - fig:5
+  - fig:6
+  - fig:7
+  basis: Yü Erh, Shih K'uang, and Li Chu are named as standards for flavours, sounds,
+    and colours respectively.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: teacher of TAO-perfection
+  assigned_to:
+  - fig:8
+  basis: The speaker defines perfection as cultivation of TAO and yielding to natural
+    conditions.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: self-alienated person
+  assigned_to:
+  - fig:9
+  basis: The generalized person sees and possesses others rather than himself and
+    becomes someone else.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: Mount T'ai
+  literal_form: mountain
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: TAO
+  literal_form: named principle or way
+  associated_figures:
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:8
+- id: sym:3
+  label: hearing oneself
+  literal_form: act of hearing directed toward oneself
+  associated_figures:
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: seeing oneself
+  literal_form: act of vision directed toward oneself
+  associated_figures:
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Death for gain on Mount T'ai
+  summary: Robber Chê is reported to have died for gain at Mount T'ai.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Comparison of noble and low deaths
+  summary: The passage contrasts deaths for charity and duty with deaths for gain,
+    then argues that the injury to life and nature is the same and that Robber Chê
+    and Poh I are one in this respect.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Rejection of external standards of perfection
+  summary: The passage rejects perfection based on charity, duty, flavours, sounds,
+    and colours, even when measured by named exemplars.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Perfection as cultivation of TAO and self-perception
+  summary: The speaker defines perfection as cultivation of TAO, yielding to natural
+    conditions, hearing oneself, and seeing oneself.
+  figure_refs:
+  - fig:8
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Fatal error of becoming someone else
+  summary: A person who sees and takes possession of others rather than himself becomes
+    someone else; the speaker identifies this as a fatal error that can apply to both
+    Robber Chê and Poh I.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:9
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: equal self-injury behind opposed moral labels
+  taxonomy_refs: []
+  basis: The passage says that deaths judged noble or low by the world are alike in
+    their injury to life and nature, using Robber Chê and Poh I as examples.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is an ethical-philosophical pattern rather than a narrative myth
+    motif with a conventional taxonomy reference.
+- id: motif:2
+  label: self-knowledge as perfection
+  taxonomy_refs:
+  - wisdom
+  basis: The passage defines perfection through cultivation of TAO and through hearing
+    and seeing oneself rather than others.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The available taxonomy supports a broad wisdom classification, but the
+    passage frames it specifically as Taoist cultivation and self-possession.
+- id: motif:3
+  label: becoming another through external orientation
+  taxonomy_refs: []
+  basis: The passage warns that seeing and possessing others instead of oneself causes
+    a person to become someone else, a fatal error.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The motif is abstract and philosophical; no supernatural transformation
+    is described.
+- id: motif:4
+  label: yielding to natural conditions
+  taxonomy_refs:
+  - wisdom
+  basis: Cultivators of TAO are identified as those who yield to the natural conditions
+    of things.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The wisdom taxonomy is broad; the passage does not present a separate
+    mythic episode for this idea.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly links its statement about seeing oneself with a saying
+    attributed to Lao Tzŭ, suggesting a nearby Daoist textual parallel for self-vision
+    as clarity.
+  claim_level: same_function
+  target: 'Saying attributed to Lao Tzŭ: seeing oneself as being clear of sight'
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage provides only an editorial note and does not establish
+    historical dependence beyond the attributed parallel.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 4087-4093
+  quote_or_summary: "“Robber Chê died for gain on Mount T'ai.” The notes add that
+    Robber Chê has a separate chapter and that Mount T'ai was mentioned earlier."
+  source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:2
+  type: summary
+  locator: 4095-4097
+  quote_or_summary: The passage says the deaths under discussion were not the same,
+    but that the injury to life and nature was the same in each case.
+  source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 4099-4107
+  quote_or_summary: A person dying for charity and duty is called noble, while one
+    dying for gain is called low; the passage says that in injury to life and nature,
+    Robber Chê and Poh I are one.
+  source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 4109-4117
+  quote_or_summary: The passage lists exemplars for charity and duty, flavours, sounds,
+    and colours, and says that such attainments are not what the speaker means by
+    perfection.
+  source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 4117-4123
+  quote_or_summary: The speaker says perfection is found in cultivation of TAO and
+    that cultivators of TAO yield to the natural conditions of things.
+  source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 4123-4128
+  quote_or_summary: The speaker defines perfect hearing as hearing oneself and perfect
+    vision as seeing oneself; an editorial note compares this to a saying attributed
+    to Lao Tzŭ about seeing oneself.
+  source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 4130-4135
+  quote_or_summary: A person who sees and takes possession of others rather than himself
+    becomes someone else; this is called a fatal error that both Robber Chê and Poh
+    I can commit.
+  source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: 4135-4137
+  quote_or_summary: The speaker, conscious of deficiency in regard to TAO, says he
+    does not venture either to practise charity and duty at his best or to fall into
+    the fatal error at his worst.
+  source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward. Motif labels are cautious because
+    the passage is philosophical argument rather than narrative myth. The single comparison
+    claim is based on an editorial note within the supplied passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage text and metadata. Taxonomy references are limited to available refs and only applied where directly supportable.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:daoist-zhuangzi-giles-gutenberg__l4087-l4137
+  passage_sha256=e04bbd013cdf66a42619f8740fb9b710fa50230f36ffbb40911f6413e911a8fe

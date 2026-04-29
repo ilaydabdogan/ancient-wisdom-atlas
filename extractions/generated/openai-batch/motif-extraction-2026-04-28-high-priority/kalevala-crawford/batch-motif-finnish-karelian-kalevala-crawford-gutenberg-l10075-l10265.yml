@@ -1,0 +1,529 @@
+---
+record_id: batch.motif.finnish-karelian-kalevala-crawford-gutenberg-l10075-l10265
+source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+passage_locator:
+  label: PREFACE / JOHN MARTIN CRAWFORD. / THE KALEVALA. / PROEM; lines 10075-10265
+  start: '10075'
+  end: '10265'
+  translation: 'Kalevala: The Epic Poem of Finland'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'Wainamoinen sails by magic vessel and Ilmarinen travels by horse and sledge
+    toward Pohyola. The dogs of Northland bark fiercely; the master of Pohyola investigates
+    and sees the incoming vessel and sledge. The hostess orders a branch burned as
+    an omen: scarlet would mean war, water peace, but honey appears, which Suowakko
+    interprets as a sign that the strangers are friends and suitors. The hostess and
+    daughter view the arriving heroes, and the hostess identifies Wainamoinen as a
+    treasure-bearing suitor and Ilmarinen as a blacksmith bringing wisdom-sayings,
+    instructing the daughter to give food and drink to the man she would follow.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Wainamoinen travels northward by a magic vessel aided by South-winds, while
+    Ilmarinen travels toward Sariola/Pohyola with a fleet-footed racer and magic sledge.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The watch-dogs and black-dog of the Northland court bark and growl unusually,
+    signaling danger or disturbance.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The master of Pohyola asks his daughter, consort, and son to investigate the
+    dogs, but each answers that domestic or work duties prevent them.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The master of Pohyola investigates personally and sees a scarlet-colored vessel
+    entering the bay of Lempo and a magic-colored sledge moving over the Pohyola snow-fields.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: 'The hostess proposes an omen test using a branch burned with magic fire:
+    scarlet drops would signify war and bloodshed; water would signify peace and plenty.'
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The daughter burns a sorb-branch with magic fire; it produces neither scarlet
+    drops nor water, but honey.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Suowakko says that honey dripping from the wand means the arriving strangers
+    are worthy friends and suitors.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The hostess and daughter see a magic-colored vessel with an ancient hero at
+    the helm and a red magic sledge with birds and a young hero holding the reins.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The hostess identifies the sailor as old Wainamoinen bringing treasures and
+    the sledge-rider as the blacksmith Ilmarinen bringing wisdom-sayings, and instructs
+    the daughter to give honeyed food and a two-handled pitcher to the one she would
+    follow.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Wainamoinen
+  description: An old hero sailing in a magic vessel; the hostess says he brings countless
+    treasures and costly presents from Wainola/Kalevala.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: Ilmarinen
+  description: A blacksmith and magic hero traveling in a snow-sledge with cuckoos
+    and bluebirds; the hostess says he comes empty-handed and brings wisdom-sayings.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:7
+- id: fig:3
+  name_or_label: Master of Pohyola / master of the Northland
+  description: The household head who responds to the dogs’ barking, investigates
+    the source, and reports that strangers are arriving.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Hostess of Pohyola
+  description: The woman who proposes the branch-and-fire omen and later instructs
+    the daughter about the suitors and the selection offering.
+  role_refs:
+  - role:4
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: fig:5
+  name_or_label: Daughter of the hostess / Northland maiden
+  description: A fair and slender maiden who burns the sorb-branch and is asked whether
+    she wishes a noble suitor.
+  role_refs:
+  - role:5
+  - role:7
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:6
+  name_or_label: Suowakko
+  description: A wizard speaking from the corner who interprets the honey omen as
+    meaning the strangers are friends and suitors.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: Watch-dogs and black-dog of Northland
+  description: Dogs at the court of Louhi/Pohyola whose fierce barking and growling
+    alert the household to the approaching strangers.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: arriving traveler
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Both heroes are described traveling toward Pohyola, one by vessel and one
+    by horse or sledge.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: suitor
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Suowakko interprets the honey omen as signifying friends and suitors, and
+    the hostess asks the daughter whether she would become bride to one of the heroes.
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: role:3
+  label: household investigator
+  assigned_to:
+  - fig:3
+  basis: After others refuse, the master goes himself to learn why the dogs bark and
+    sees the vessel and sledge.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: omen interpreter
+  assigned_to:
+  - fig:4
+  - fig:6
+  basis: The hostess defines the possible meanings of the branch omen; Suowakko interprets
+    the actual honey result.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:5
+  label: omen performer
+  assigned_to:
+  - fig:5
+  basis: The daughter lays the sorb-branch on the fireplace and lights it with magic
+    fire.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: courtship adviser
+  assigned_to:
+  - fig:4
+  basis: The hostess identifies the suitors and instructs the daughter how to signal
+    her choice with food and drink.
+  evidence_refs:
+  - ev:7
+- id: role:7
+  label: prospective bride / chooser
+  assigned_to:
+  - fig:5
+  basis: The hostess asks whether the daughter wishes a noble suitor and tells her
+    to give the bowl and pitcher to the man she would follow.
+  evidence_refs:
+  - ev:7
+- id: role:8
+  label: animal alarm signal
+  assigned_to:
+  - fig:7
+  basis: The dogs’ unusual barking prompts investigation and is treated as signaling
+    danger.
+  evidence_refs:
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: magic vessel
+  literal_form: A scarlet or magic-colored ship sailing to the bay of Lempo/Pohyola,
+    associated with Wainamoinen.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+  - ev:7
+- id: sym:2
+  label: magic sledge with birds
+  literal_form: A red or magic sledge guided by Ilmarinen, with six golden cuckoos
+    and seven bluebirds singing or calling from its parts.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:7
+- id: sym:3
+  label: watch-dog warning
+  literal_form: The Northland dogs and black-dog barking and growling unusually before
+    the arrivals are seen.
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: sorb-branch or wand
+  literal_form: A sorb-branch laid on the fireplace and treated as a wand whose drops
+    reveal the strangers’ purpose.
+  associated_figures:
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:5
+  label: magic fire
+  literal_form: Fire of magic used to burn the branch for the omen.
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:6
+  label: scarlet drops / blood omen
+  literal_form: Scarlet drops from the branch, explained as a sign of war and bloodshed;
+    this result does not occur.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:7
+  label: water drops / peace omen
+  literal_form: Water drops from the branch, explained as a sign of peace and plenty;
+    this result does not occur.
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:8
+  label: honey drops
+  literal_form: Honey dripping from the branch or wand, interpreted by Suowakko as
+    signifying worthy friends and suitors.
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:9
+  label: bowl of honeyed viands and two-handled pitcher
+  literal_form: Food and drink objects the daughter is told to give to the man she
+    would follow.
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Two heroes travel toward Pohyola
+  summary: Wainamoinen sails north in a magic vessel aided by winds, while Ilmarinen
+    advances toward Sariola/Pohyola with a racer and magic sledge.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Dogs alarm the Northland household
+  summary: The watch-dogs bark fiercely; the master asks household members to investigate,
+    but daughter, wife, and son each decline because of work.
+  figure_refs:
+  - fig:3
+  - fig:5
+  - fig:7
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Master sees the arriving vessel and sledge
+  summary: The master goes outside, follows the dogs’ indication, and sees a scarlet
+    vessel and magic sledge approaching Pohyola.
+  figure_refs:
+  - fig:3
+  - fig:7
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Branch omen at the fireplace
+  summary: The hostess orders a branch burned to test the strangers’ purpose; the
+    daughter performs the act, honey appears, and Suowakko interprets it as a favorable
+    suitor omen.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:5
+  label: Viewing and choosing among suitors
+  summary: The hostess and daughter view Wainamoinen’s vessel and Ilmarinen’s sledge.
+    The hostess identifies both men and instructs the daughter to offer honeyed food
+    and a pitcher to the one she would follow.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:9
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: wooing journey to a northern bride’s household
+  taxonomy_refs: []
+  basis: Two named heroes arrive at Pohyola, and the hostess explicitly frames them
+    as possible suitors for her daughter.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:7
+  confidence: high
+  cautions: The passage presents the courtship situation but does not complete a marriage
+    or selection within this excerpt.
+- id: motif:2
+  label: divination by burning branch
+  taxonomy_refs: []
+  basis: The hostess prescribes a branch burned with magic fire as a test of whether
+    the strangers bring war, peace, or another outcome; the resulting honey is interpreted
+    by a wizard.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The exact ritual status of the sorb-branch beyond this omen is not stated
+    in the passage.
+- id: motif:3
+  label: animal alarm before strangers arrive
+  taxonomy_refs: []
+  basis: The unusual barking and growling of the dogs precedes the master’s discovery
+    of the approaching vessel and sledge.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The animals are treated as warning signals, but no supernatural speech
+    or transformation is attributed to them here.
+- id: motif:4
+  label: courtship choice marked by offering food and drink
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The daughter is told to bring honeyed viands and a two-handled pitcher and
+    give them to the man she would follow.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The exchange is explicit, but the passage does not itself call the act
+    sacred; the taxonomy reference should be reviewed.
+- id: motif:5
+  label: gifts contrasted with wisdom in suitor evaluation
+  taxonomy_refs:
+  - wisdom
+  basis: The hostess contrasts Wainamoinen, who brings treasures and gems, with Ilmarinen,
+    who comes empty-handed but brings wisdom-sayings.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The passage states the contrast but does not yet show the daughter’s decision
+    or the practical value of the wisdom-sayings.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 10075-10089
+  quote_or_summary: Wainamoinen sails northward in a magic vessel aided by South-winds;
+    Ilmarinen’s racer and journey toward Sariola/Pohyola are also described.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 10090-10150
+  quote_or_summary: The Northland watch-dogs bark fiercely. The master asks daughter,
+    wife, and son to investigate, but each refuses because of household or work tasks.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 10151-10180
+  quote_or_summary: The master investigates the barking, sees the dog pointing toward
+    a distant hill, and observes a scarlet vessel entering the bay of Lempo and a
+    magic sledge moving over Pohyola’s snow-fields.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 10181-10190
+  quote_or_summary: "“Lay a branch upon the fire-place, / Let it burn with fire of
+    magic; / If it trickle drops of scarlet, / War and bloodshed do they bring us;
+    / If it trickle drops of water, / Peace and plenty bring the strangers.”"
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:5
+  type: summary
+  locator: lines 10191-10202
+  quote_or_summary: The maiden burns a sorb-branch with magic fire; it produces honey
+    rather than blood or water. Suowakko the wizard interprets the honey as showing
+    that the strangers are worthy friends and suitors.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 10203-10227
+  quote_or_summary: The hostess and daughter see the magic-colored vessel with an
+    ancient hero at the helm, and a red magic sledge guided by a young hero, accompanied
+    by golden cuckoos and bluebirds.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 10228-10265
+  quote_or_summary: The hostess asks whether the daughter wants a noble suitor, identifies
+    the sailor as Wainamoinen with treasures and the sledge-rider as Ilmarinen with
+    wisdom-sayings, and tells her to give honeyed viands and a two-handled pitcher
+    to the one she would follow.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is strongly supported by the passage. Motif labels are
+    descriptive and should be reviewed for taxonomy alignment, especially sacred_exchange
+    and wisdom.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not make or support a specific cross-tradition comparison.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:finnish-karelian-kalevala-crawford-gutenberg__l10075-l10265
+  passage_sha256=eebfcd87dfa292535ca59205e2a9db85e6e44b63ee94dacc3863c095338c3c9a

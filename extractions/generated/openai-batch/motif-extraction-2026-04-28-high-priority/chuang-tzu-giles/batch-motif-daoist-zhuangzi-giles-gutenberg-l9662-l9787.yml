@@ -1,0 +1,446 @@
+---
+record_id: batch.motif.daoist-zhuangzi-giles-gutenberg-l9662-l9787
+source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+passage_locator:
+  label: MOUNTAIN TREES. / CHAPTER XXI. / CHAPTER XXII. / KNOWLEDGE TRAVELS NORTH.;
+    lines 9662-9787
+  start: '9662'
+  end: '9787'
+  translation: 'Chuang Tzu: Mystic, Moralist, and Social Reformer'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage presents several brief teachings: an aged sword-forger attributes
+    faultless work to concentrated attention; Confucius answers questions about time
+    before the universe, life and death, and Tao; Confucius advises Yen Yüan on adapting
+    externally while remaining internally constant; and the passage closes with reflections
+    on limited human knowledge, joy and sorrow, non-spoken language, and action without
+    deeds.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: An eighty-year-old sword-forger never makes a slip in his work and explains
+    his success as concentration on swords to the exclusion of other things.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Jen Ch'iu asks Confucius whether one can know about the time before the universe
+    existed.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Confucius says there is no past, no present, no beginning, and no end.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Confucius says Tao existed before the universe, makes things what they are,
+    is not itself a thing, cannot be produced, and is within everything.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Yen Yüan asks how to get along if there is no eagerness to conform and no
+    effort to adapt.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Confucius contrasts ancient physical modification with modern moral modification
+    and advises external modification with internal constancy.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Confucius says the perfect Sage injures nothing in relation to the external
+    world and is not injured by anything.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Mountain forests and loamy fields cause joy, but sorrow follows after the
+    joy has not yet passed.
+  category: setting
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Human life is described as a stoppage at an inn.
+  category: attribute
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: The best language is described as unspoken, and the best action as without
+    deeds.
+  category: speech
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: eighty-year-old sword-forger
+  description: A man who forged swords for the Minister of War and never made a slip
+    in his work.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Minister of War
+  description: An official who questions the sword-forger about whether his work comes
+    from skill or method.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Jen Ch'iu
+  description: A questioner who asks Confucius about knowing the time before the universe
+    existed.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Confucius
+  description: A teacher who answers Jen Ch'iu and Yen Yüan on time, Tao, life and
+    death, adaptation, and knowledge.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:8
+- id: fig:5
+  name_or_label: Yen Yüan
+  description: A questioner who asks Confucius how to get along without eagerness
+    to conform or effort to adapt.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: perfect Sage
+  description: A figure described as injuring nothing and not being injured by anything
+    in relation to the external world.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: master craftsman
+  assigned_to:
+  - fig:1
+  basis: The sword-forger is aged, faultless in work, and attributes skill to concentration.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: questioning patron
+  assigned_to:
+  - fig:2
+  basis: The Minister of War asks the sword-forger whether his work is due to skill
+    or method.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: disciple-questioner
+  assigned_to:
+  - fig:3
+  - fig:5
+  basis: Jen Ch'iu and Yen Yüan each pose doctrinal questions to Confucius.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:4
+  label: teacher of Tao and adaptation
+  assigned_to:
+  - fig:4
+  basis: Confucius provides explanations about time, Tao, life and death, modification,
+    and knowledge.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:8
+- id: role:5
+  label: unharmed and non-harming sage
+  assigned_to:
+  - fig:6
+  basis: The perfect Sage is described as injuring nothing and not being injured.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: sword
+  literal_form: sword
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Tao before the universe
+  literal_form: Tao described as existing before the universe and as being within
+    everything
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: mountain forests
+  literal_form: mountain forests
+  associated_figures: []
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: loamy fields
+  literal_form: loamy fields
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: inn
+  literal_form: life of man compared to a stoppage at an inn
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: unspoken language
+  literal_form: language that is not spoken
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:7
+  label: action without deeds
+  literal_form: action described as without deeds
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: The sword-forger explains faultless craft
+  summary: The Minister of War questions an aged sword-forger, who says his flawless
+    work comes from concentration and exclusive attention to swords.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Jen Ch'iu questions Confucius about time before the universe
+  summary: Jen Ch'iu asks whether the time before the universe can be known; Confucius
+    responds with teachings on time, life and death, and Tao.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Yen Yüan asks about conformity and adaptation
+  summary: Yen Yüan asks how to live without eagerness to conform or effort to adapt,
+    and Confucius teaches external adaptation with internal constancy.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: The perfect Sage and the external world
+  summary: Confucius describes the perfect Sage as one who injures nothing and is
+    not injured, and therefore can be trusted to conform and adapt.
+  figure_refs:
+  - fig:4
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Limits of joy, knowledge, speech, and action
+  summary: The passage reflects on joy and sorrow in natural settings, human life
+    as temporary lodging, limited knowledge, unspoken language, and deedless action.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: wisdom through concentrated craft
+  taxonomy_refs:
+  - wisdom
+  basis: The sword-forger's faultless work is explained as exclusive concentration
+    and conservation of energy for one required direction.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage frames the craft example philosophically, but does not explicitly
+    call it a mythic episode.
+- id: motif:2
+  label: primordial Tao beyond time and thinghood
+  taxonomy_refs:
+  - wisdom
+  basis: Confucius teaches that there is no past, present, beginning, or end, and
+    that Tao existed before the universe while not being a thing.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: Available taxonomy contains no specific Tao or primordial principle reference;
+    classified under the broader wisdom family.
+- id: motif:3
+  label: external adaptation with inward constancy
+  taxonomy_refs:
+  - wisdom
+  basis: Confucius advises modification only in relation to the external, while internally
+    remaining constant and not admitting division.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: This is a philosophical pattern rather than a narrative mythic action.
+- id: motif:4
+  label: non-harming sage beyond injury
+  taxonomy_refs:
+  - wisdom
+  basis: The perfect Sage is described as injuring nothing and as being immune from
+    injury in relations with the external world.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The figure is typological and didactic, not developed as a narrative character.
+- id: motif:5
+  label: human knowledge as transient and limited
+  taxonomy_refs:
+  - wisdom
+  basis: Human life is likened to a temporary inn-stop, and expanded knowledge is
+    said to remain shallow against what can be known.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: This is a reflective motif rather than an event sequence.
+comparison_claims:
+- id: claim:1
+  claim: A supplied note explicitly relates this chapter's teaching to the Tripitaka
+    and the Mahayana, supporting only a cautious comparison of philosophical function
+    rather than a demonstrated source relationship.
+  claim_level: same_function
+  target: Tripitaka and Mahayana wisdom literature
+  evidence_refs:
+  - ev:9
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The note is a brief commentator or translator remark, not an argument
+    for historical contact or shared origin; the passage itself does not develop the
+    comparison.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 9666-9687, sword-forger episode within supplied range
+  quote_or_summary: An eighty-year-old sword-forger for the Minister of War never
+    slips; asked whether this is skill or method, he replies that it is concentration
+    and that he noticed nothing not a sword.
+  source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 9691-9712, Jen Ch'iu questions Confucius within supplied range
+  quote_or_summary: Jen Ch'iu asks whether one can know about the time before the
+    universe; Confucius replies that time was of old as it is now and later says there
+    is no past, present, beginning, or end.
+  source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 9713-9726, Confucius on life, death, and Tao within supplied range
+  quote_or_summary: Confucius says life and death are correlates, that before the
+    universe there was Tao, and that Tao makes things what they are while not itself
+    being a thing.
+  source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 9730-9759, Yen Yüan asks Confucius within supplied range
+  quote_or_summary: Yen Yüan asks about living without eagerness to conform or effort
+    to adapt; Confucius contrasts ancient and present modification and advises external
+    modification with internal constancy.
+  source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 9760-9764, perfect Sage within supplied range
+  quote_or_summary: The perfect Sage, in relation to the external world, injures nothing
+    and is not injured by anything; only such a one can conform and adapt.
+  source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: quote
+  locator: lines 9765-9771, mountain forests and fields within supplied range
+  quote_or_summary: '"Mountain forests and loamy fields swell my heart with joy. But
+    ere the joy be passed, sorrow is upon me again."'
+  source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+  rights_note: Public domain source; short quotation.
+- id: ev:7
+  type: quote
+  locator: lines 9772-9780, human life within supplied range
+  quote_or_summary: '"Alas! the life of man is but as a stoppage at an inn."'
+  source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+  rights_note: Public domain source; short quotation.
+- id: ev:8
+  type: summary
+  locator: lines 9781-9787, language, action, and knowledge within supplied range
+  quote_or_summary: The passage says the best language is unspoken, the best action
+    is without deeds, and spread-out knowledge will be found shallow.
+  source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: quote
+  locator: lines 9785-9787, supplied closing note within supplied range
+  quote_or_summary: A critic is quoted as saying that reading this chapter makes the
+    Tripitaka and the Mahayana open out as beneath a sharp-edged blade.
+  source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+  rights_note: Public domain source; summarized from note.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: low
+  notes: Passage-level figures, scenes, and symbols are explicit. Motif labels are
+    broad because the available taxonomy provides only general categories for this
+    philosophical material. The single comparison claim relies on an embedded note
+    and is therefore low confidence.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No unsupported historical-contact claims added. Taxonomy references are limited to supplied references.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:daoist-zhuangzi-giles-gutenberg__l9662-l9787
+  passage_sha256=bf0ae7a323247a797b2041a75f87356ea7405321770c838a7a7a0cde0cda452f

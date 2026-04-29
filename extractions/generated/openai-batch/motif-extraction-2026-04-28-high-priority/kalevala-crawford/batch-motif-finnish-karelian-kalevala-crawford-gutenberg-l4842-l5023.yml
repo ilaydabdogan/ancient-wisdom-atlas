@@ -1,0 +1,575 @@
+---
+record_id: batch.motif.finnish-karelian-kalevala-crawford-gutenberg-l4842-l5023
+source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+passage_locator:
+  label: PREFACE / JOHN MARTIN CRAWFORD. / THE KALEVALA. / PROEM; lines 4842-5023
+  start: '4842'
+  end: '5023'
+  translation: 'Kalevala: The Epic Poem of Finland'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Ilmarinen quenches iron in water mixed with poisons, thinking it is honey,
+    and steel is formed. The hardened iron breaks its oath and wounds Wainamoinen.
+    A gray-bearded speaker recounts iron's origins, curses and accuses it, commands
+    Wainamoinen's blood to stop flowing, threatens stronger magical measures, and
+    invokes Ukko to heal the wound.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Ilmarinen is named as a skilful blacksmith and first of the iron-workers.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Ilmarinen thinks a bee has brought honey from flowers to help water form steel
+    from iron.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Ilmarinen dips iron into water mixed with poisons while believing it is wild
+    bees' honey.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The hardened iron grows angry, breaks its vow, and wounds man and hero.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A gray-bearded speaker says he knows the source of iron, steel, and their
+    evils, and curses iron and steel.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Iron is described as having once rested in the form of milk in the breasts
+    of three daughters of God near the clouds and heavens.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Iron is also described as having rested like water on marshes and mountain
+    slopes, and as formless rusty dust.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The speaker recounts that animals trampled iron before Ilmarinen brought it
+    from swamp-lands to his smithy and furnace.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Iron is said to have sworn an oath by the furnace, anvil, tongs, hammer, blacksmith's
+    dwelling, and fire within the furnace.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The speaker addresses Wainamoinen's blood as a crimson streamlet and commands
+    it to cease flowing from the wound.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: The blood is ordered to remain within Wainamoinen's veins, bones, muscles,
+    lungs, heart, and liver rather than staining the landscape.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:12
+  text: If the blood does not obey, the speaker says he will use Hisi irons to boil
+    and roast it.
+  category: speech
+  evidence_refs:
+  - ev:9
+- id: obs:13
+  text: The speaker invokes Ukko, master of the heavens, to touch and bind the wound
+    and save Wainamoinen.
+  category: speech
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Ilmarinen
+  description: A skilful ancient blacksmith and first of the iron-workers who forms
+    steel from iron.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: fig:2
+  name_or_label: bee
+  description: A bee is mentioned as the supposed bringer of honey from flowers.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: personified iron / steel
+  description: Iron and steel are addressed as agents that make vows, break pledges,
+    do mischief, and cause wounds.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+- id: fig:4
+  name_or_label: gray-bearded speaker
+  description: A gray-beard rises from the hearth, recounts iron's source, curses
+    iron, and performs or speaks the blood-staunching charm.
+  role_refs:
+  - role:6
+  - role:7
+  evidence_refs:
+  - ev:3
+  - ev:7
+  - ev:9
+  - ev:10
+- id: fig:5
+  name_or_label: Gods' three daughters
+  description: Three daughters of God are described as having held iron in milk-form
+    in their breasts near the clouds and heavens.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Wainamoinen
+  description: A wounded hero, magician, sage, and singer whose blood flows from a
+    wound of hatchet.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:10
+- id: fig:7
+  name_or_label: Ukko
+  description: Invoked as omniscient, mightiest of creators, God of love and mercy,
+    and master of the heavens who can heal the wound.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:10
+roles:
+- id: role:1
+  label: blacksmith
+  assigned_to:
+  - fig:1
+  basis: Ilmarinen is directly called a skilful and ancient blacksmith.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: maker of steel
+  assigned_to:
+  - fig:1
+  basis: He dips iron into water and thus forms steel from iron.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: supposed honey-bringer
+  assigned_to:
+  - fig:2
+  basis: Ilmarinen thinks the bee has brought honey from flowers.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: oath-breaking harmful agent
+  assigned_to:
+  - fig:3
+  basis: Iron breaks its vow and cuts its brother and kindred, causing blood to flow.
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: role:5
+  label: cursed material with recounted origin
+  assigned_to:
+  - fig:3
+  basis: The speaker curses iron and recounts its former forms and locations.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:6
+  label: origin-knower
+  assigned_to:
+  - fig:4
+  basis: The gray-bearded speaker says he knows the source of iron and steel's evils.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: blood-staunching incantation speaker
+  assigned_to:
+  - fig:4
+  basis: The speaker commands Wainamoinen's blood to cease flowing and invokes further
+    powers.
+  evidence_refs:
+  - ev:7
+  - ev:9
+  - ev:10
+- id: role:8
+  label: divine holders of iron in milk-form
+  assigned_to:
+  - fig:5
+  basis: Iron is said to have been hidden in the breasts of God's three daughters
+    in milk-form.
+  evidence_refs:
+  - ev:3
+- id: role:9
+  label: wounded hero-magician
+  assigned_to:
+  - fig:6
+  basis: Wainamoinen is named as wounded, and as magician, sage, singer, and hero.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:10
+- id: role:10
+  label: invoked divine healer
+  assigned_to:
+  - fig:7
+  basis: Ukko is called on to check the blood-flow and heal the hatchet wound.
+  evidence_refs:
+  - ev:10
+symbols:
+- id: sym:1
+  label: water
+  literal_form: Water used in quenching iron; water mixed with poisons; iron also
+    compared to water resting on marshes and mountains.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: milk
+  literal_form: Iron in an earlier form is described as milk hidden in the breasts
+    of God's three daughters.
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs:
+  - milk
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: fire and furnace
+  literal_form: The smithy's fiery furnace, the fire within it, and the furnace by
+    which iron swears.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: mountain slopes
+  literal_form: Iron is said to have rested on steep declines of mountains.
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: forge tools
+  literal_form: Anvil, tongs, and hammer named as objects by which iron swore its
+    oath.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: blood as crimson streamlet
+  literal_form: Wainamoinen's blood is addressed as a crimson streamlet, current,
+    and lakelets.
+  associated_figures:
+  - fig:4
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: sym:7
+  label: Hisi irons
+  literal_form: Irons called as stronger measures to boil and roast the blood if it
+    does not cease.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:8
+  label: healing leaflets and flowers
+  literal_form: Ukko is asked to bind the wound with tender leaflets and healing flowers.
+  associated_figures:
+  - fig:7
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+scenes:
+- id: scene:1
+  label: Mistaken honey and formation of steel
+  summary: Ilmarinen believes honey has been brought to help the water and uses water
+    mixed with poisons while forming steel from iron.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Angered iron wounds the hero
+  summary: After quenching and furnace-work, iron grows angry, breaks its vow, and
+    causes blood to flow from human and heroic wounds.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Recounting and cursing iron's origin
+  summary: The gray-bearded speaker curses iron and recounts its earlier states as
+    milk in divine daughters, water or dust in marshes and mountains, and matter trampled
+    by animals.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Iron's oath and accusation
+  summary: The speaker recalls iron's oath by forge objects and accuses it of breaking
+    pledges and causing its own mischief.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Command to stop Wainamoinen's blood
+  summary: The speaker commands Wainamoinen's blood to stop flowing outward and return
+    to its proper circuit within his body.
+  figure_refs:
+  - fig:4
+  - fig:6
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: scene:6
+  label: Escalation to stronger healing powers
+  summary: The speaker threatens to use Hisi irons if the blood disobeys, then invokes
+    Ukko to heal the hatchet wound and save Wainamoinen.
+  figure_refs:
+  - fig:4
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:9
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: origin of dangerous iron and steel
+  taxonomy_refs:
+  - culture_hero
+  basis: The passage explicitly calls the account the origin of iron and steel, links
+    the material to Ilmarinen's smith-work, and explains its harmful quality through
+    poisoned quenching and broken vows.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  confidence: medium
+  cautions: The available taxonomy has no specific 'origin of iron' category; 'culture_hero'
+    is applied only because Ilmarinen is the first iron-worker and maker of steel
+    in this passage.
+- id: motif:2
+  label: personified material breaks a solemn oath
+  taxonomy_refs:
+  - covenant
+  basis: Iron is said to have taken an oath by forge objects and then broken its vows,
+    becoming a harmful agent.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The covenant is between a personified material and the forge context,
+    not an explicit divine-human covenant.
+- id: motif:3
+  label: healing by knowledge of origin and command over blood
+  taxonomy_refs:
+  - wisdom
+  basis: The gray-bearded speaker first states knowledge of iron's source and then
+    uses verbal commands to stop the blood and direct it back into Wainamoinen's body.
+  evidence_refs:
+  - ev:3
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The taxonomy reference 'wisdom' is broad; the passage presents a healing
+    charm rather than a general wisdom tale.
+- id: motif:4
+  label: divine aid invoked for wound healing
+  taxonomy_refs: []
+  basis: When other measures may fail, the speaker calls Ukko, master of the heavens,
+    to stop the blood and heal the hatchet wound.
+  evidence_refs:
+  - ev:10
+  confidence: high
+  cautions: No more specific available taxonomy reference fits the healing invocation.
+- id: motif:5
+  label: material's prior divine and natural states
+  taxonomy_refs: []
+  basis: Iron is described in earlier states as milk in divine daughters, water on
+    marshes and mountains, rusty dust, and matter trampled by wild animals before
+    smithing.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is an etiological sequence within the passage; no specific available
+    taxonomy label covers it.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4842-4852
+  quote_or_summary: Ilmarinen, called a skilful blacksmith and first of iron-workers,
+    thinks a bee has brought flower-honey to aid water in forming steel from iron.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain Project Gutenberg text; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 4854-4870
+  quote_or_summary: Ilmarinen dips iron into water mixed with poisons, thinking it
+    is honey; steel is formed, and hardened iron grows angry, breaks its vow, cuts
+    brother and kindred, and causes blood to flow. The passage names this the origin
+    of iron and blue steel.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain Project Gutenberg text; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 4872-4891
+  quote_or_summary: A gray-beard rises from the hearth, says he knows the source of
+    iron and steel's evils, curses iron and steel, and says iron was once hidden as
+    milk in the breasts of God's three daughters near the clouds and heavens.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain Project Gutenberg text; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 4893-4901
+  quote_or_summary: Iron is described as formerly like water resting on marshes and
+    mountain slopes, and as formless rusty dust.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain Project Gutenberg text; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 4903-4925
+  quote_or_summary: Iron was trampled by moose, roebuck, wolves, and bear-paws before
+    Ilmarinen brought it from blackened swamp-lands to his smithy and furnace; iron
+    then swore by the furnace, anvil, tongs, hammer, blacksmith's dwelling, and fire.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain Project Gutenberg text; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 4927-4959
+  quote_or_summary: The speaker says iron has grown mighty, broken pledges, acted
+    shamefully, and caused mischief by itself rather than through father, mother,
+    siblings, or kindred.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain Project Gutenberg text; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 4961-4970
+  quote_or_summary: The speaker commands the crimson streamlet and blood of ages to
+    cease flowing from Wainamoinen's wounds and stand still by mighty magic.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain Project Gutenberg text; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 4972-4995
+  quote_or_summary: The blood is told to flow in its circuit through Wainamoinen's
+    body, to stop flowing outward, to stop staining grass and hilltops, and to return
+    to its rightful home in the magician's veins and heart.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain Project Gutenberg text; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 4997-5011
+  quote_or_summary: The speaker commands the flow to cease by magic, compares this
+    to halted falls and rivers during drought and famine, and threatens to call Hisi
+    irons to boil and roast the blood if it disobeys.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain Project Gutenberg text; summarized.
+- id: ev:10
+  type: summary
+  locator: lines 5013-5023
+  quote_or_summary: The speaker says that, if other measures fail, he will call omniscient
+    Ukko; Ukko is invoked as God of love and mercy and master of the heavens to touch
+    the wound, bind it with leaflets and healing flowers, stop the blood, and save
+    Wainamoinen.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain Project Gutenberg text; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is based only on the supplied passage. Motif taxonomy
+    mapping is cautious because the available taxonomy lacks exact labels for origin
+    of iron, smithing charms, or blood-staunching incantations. No comparison claims
+    were added because the passage itself does not explicitly compare traditions or
+    corpora.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  All figures, roles, symbols, scenes, and candidate motifs cite internal evidence IDs. Personification of iron is recorded because the passage directly addresses iron as an oath-breaking agent with kin.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:finnish-karelian-kalevala-crawford-gutenberg__l4842-l5023
+  passage_sha256=af21163efa8dfec6e2fbb88ebb7d2939f27b3ff1fba57a95946f4110655c33af

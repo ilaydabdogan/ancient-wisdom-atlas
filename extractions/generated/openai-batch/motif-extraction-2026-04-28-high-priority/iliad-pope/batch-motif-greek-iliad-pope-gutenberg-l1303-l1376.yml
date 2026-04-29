@@ -1,0 +1,487 @@
+---
+record_id: batch.motif.greek-iliad-pope-gutenberg-l1303-l1376
+source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+passage_locator:
+  label: CONCLUDING NOTE. / INTRODUCTION. / THEODORE ALOIS BUCKLEY. / POPES PREFACE
+    TO THE ILIAD OF HOMER; lines 1303-1376
+  start: '1303'
+  end: '1376'
+  translation: The Iliad
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage classifies epic fable as probable, allegorical, and marvellous;
+    presents the Iliad's central action as Achilles' anger; argues that later poets
+    imitate Homeric episodes; describes Homeric allegory as clothing knowledge and
+    qualities in persons; and treats the gods as supernatural poetic machinery.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage divides fable into probable, allegorical, and marvellous kinds.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The probable fable is described as a recital of actions that either might
+    have happened in nature or became fables through added episodes and manner of
+    telling.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The main story of the Iliad is identified as the anger of Achilles.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Iliad is said to include councils, speeches, battles, and episodes within
+    a duration of less than fifty days.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Later epic poets are described as following Homer in episodes such as army
+    catalogues, funeral games, visits to the shades, detention from return, absence
+    from the army, and celestial armor.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The allegorical fable is described as containing knowledge, secrets of nature,
+    physical philosophy, qualities of mind, virtues, and vices clothed in forms and
+    persons.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The marvellous fable is described as including the supernatural, especially
+    the machines of the gods.
+  category: other
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Homer is presented as bringing deities into a poetic system of machinery,
+    even if he was not first to introduce them into Greek religion.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Homer
+  description: Poet treated as the chief model for epic invention, allegory, and divine
+    machinery.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Achilles
+  description: Hero whose anger is identified as the central subject of the Iliad
+    and whose absence from the army is used as an imitated episode.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Ulysses
+  description: Hero associated with return, a visit to the shades, and detention from
+    return by Calypso.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:4
+  name_or_label: Virgil
+  description: Later epic poet described as adapting or imitating Homeric designs
+    and episodes.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: Aeneas
+  description: Hero in Virgil associated with a visit to the shades and detention
+    by Dido.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Calypso
+  description: Figure whose allurements detain Ulysses from his return.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: Dido
+  description: Figure by whom Aeneas is said to be detained in a parallel to Ulysses
+    and Calypso.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:8
+  name_or_label: the gods
+  description: Deities treated as supernatural machinery within poetry.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: epic model and inventor
+  assigned_to:
+  - fig:1
+  basis: The passage says later poets followed Homer in episodes and that he brought
+    the gods into a poetic system of machinery.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:2
+  label: angry absent hero
+  assigned_to:
+  - fig:2
+  basis: Achilles' anger is named as the Iliad's subject, and his absence from the
+    army because of a quarrel is cited as an imitated episode.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: returning hero and shade-visitor
+  assigned_to:
+  - fig:3
+  basis: Ulysses is associated with return, visiting the shades, and being detained
+    from return.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:4
+  label: later imitator or adapter
+  assigned_to:
+  - fig:4
+  basis: Virgil is described as taking a more extensive subject, contracting both
+    Homeric poems into one, and repeating Homeric episodes.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: later parallel hero
+  assigned_to:
+  - fig:5
+  basis: Aeneas is named as a later hero sent to the shades and detained by Dido in
+    parallels to Ulysses.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: detaining beloved or alluring figure
+  assigned_to:
+  - fig:6
+  - fig:7
+  basis: Calypso detains Ulysses from return; Dido is given as a parallel detaining
+    figure for Aeneas.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: supernatural poetic agents
+  assigned_to:
+  - fig:8
+  basis: The marvellous fable is said to include the supernatural and especially the
+    machines of the gods.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: celestial armor
+  literal_form: a suit of celestial armour given to a hero
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: the shades
+  literal_form: realm or company of the dead visited by heroic figures
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: forms and persons embodying qualities
+  literal_form: qualities, virtues, vices, and elements clothed in forms and persons
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: machines of the gods
+  literal_form: supernatural divine machinery in poetry
+  associated_figures:
+  - fig:8
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: classification of fable
+  summary: The passage defines probable fable and distinguishes it from allegorical
+    and marvellous fable.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Iliad as the anger of Achilles
+  summary: The Iliad's action is summarized as Achilles' anger, expanded with many
+    incidents despite a short time span.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: later epic imitation of Homeric episodes
+  summary: Later poets are said to repeat Homeric patterns including funeral games,
+    visits to the shades, detention from return, hero absence, and celestial armor.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: allegorical clothing of knowledge
+  summary: Homeric allegory is described as clothing natural knowledge, mental qualities,
+    virtues, and vices in forms and persons.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: marvellous divine machinery
+  summary: The marvellous fable is described as supernatural, with Homeric gods forming
+    a poetic machinery that later poetry continued to follow.
+  figure_refs:
+  - fig:1
+  - fig:8
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: returning hero delayed by alluring figure
+  taxonomy_refs:
+  - return
+  basis: The passage identifies Ulysses' return as an epic subject and says he is
+    detained from return by Calypso, with Aeneas and Rinaldo given as parallels.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: The passage is literary criticism and gives only summarized examples,
+    not the narrative episodes themselves.
+- id: motif:2
+  label: heroic visit to the shades
+  taxonomy_refs:
+  - hero_descent
+  - afterlife_journey_map
+  basis: The passage says Ulysses visits the shades and that Aeneas and Scipio are
+    sent after him in later works.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage names the pattern but does not narrate the underworld journey
+    details.
+- id: motif:3
+  label: angry hero absent from the army
+  taxonomy_refs:
+  - departure
+  basis: Achilles is described as absent from the army because of a quarrel through
+    half the poem, with Rinaldo given as an imitation.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The taxonomy reference is broad; the passage frames the episode as absence
+    rather than a full departure cycle.
+- id: motif:4
+  label: celestial armor for the hero
+  taxonomy_refs: []
+  basis: The passage says Homer gives his hero a suit of celestial armor and that
+    Virgil and Tasso make the same present to their heroes.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: No supplied taxonomy family directly matches this object motif.
+- id: motif:5
+  label: allegorical embodiment of knowledge and qualities
+  taxonomy_refs:
+  - wisdom
+  basis: The passage describes secrets of nature, physical philosophy, mental qualities,
+    virtues, and vices being clothed in forms and persons.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage discusses allegorical interpretation rather than a single
+    narrative episode.
+- id: motif:6
+  label: divine machinery in epic action
+  taxonomy_refs: []
+  basis: The marvellous fable is said to include the supernatural, especially the
+    machines of the gods, and Homer is credited with a poetic system of divine machinery.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: No supplied taxonomy family directly matches divine machinery as a motif.
+comparison_claims:
+- id: claim:1
+  claim: The passage presents later funeral games for Anchises and Archemorus as patterned
+    after Homer's funeral games for Patroclus.
+  claim_level: same_motif
+  target: funeral games in Homer, Virgil, and Statius
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is the passage author's literary comparison; the underlying episodes
+    are not quoted or narrated here.
+- id: claim:2
+  claim: The passage treats visits to the shades by Aeneas and Scipio as following
+    Ulysses' visit to the shades.
+  claim_level: same_motif
+  target: heroic visits to the shades in Homer, Virgil, and Silius
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage supports a motif comparison, but provides no detailed episode-by-episode
+    evidence.
+- id: claim:3
+  claim: The passage compares Ulysses' detention by Calypso with Aeneas' detention
+    by Dido and Rinaldo's by Armida.
+  claim_level: same_function
+  target: detention from return by an alluring figure across epic traditions
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is stated in broad literary-critical terms without narrative
+    details.
+- id: claim:4
+  claim: The passage treats Rinaldo's absence from the army because of a quarrel as
+    an imitation of Achilles' absence.
+  claim_level: same_motif
+  target: angry or quarrelling hero absent from army in Homer and Tasso
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage gives the duration and cause only in general terms.
+- id: claim:5
+  claim: The passage presents celestial armor given to heroes in Virgil and Tasso
+    as following Homer's example.
+  claim_level: same_motif
+  target: celestial armor gift in Homer, Virgil, and Tasso
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage does not identify all recipients by name or describe the
+    armor scenes in detail.
+- id: claim:6
+  claim: The passage explicitly characterizes later epic poets as following Homer
+    in episodes and parts of story.
+  claim_level: historical_contact
+  target: Homeric influence on later epic poets
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim reflects the prefatory author's assessment and should be
+    checked against historical and textual evidence.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 1303-1311
+  quote_or_summary: Fable is divided into probable, allegorical, and marvellous; probable
+    fable includes actions that might have happened or that became fables through
+    added episodes and narration. Examples include the return of Ulysses and Trojan
+    settlement in Italy.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 1311-1324
+  quote_or_summary: The Iliad's subject is said to be the anger of Achilles, expanded
+    with many incidents, councils, speeches, battles, and episodes in a duration of
+    less than fifty days; Virgil is compared as using a more extensive subject and
+    time span.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 1325-1348
+  quote_or_summary: Later epic poets are described as following Homer in army catalogues,
+    funeral games, visits to the shades, detention from return by Calypso/Dido/Armida-like
+    figures, absence from the army, and celestial armor; other Greek-source borrowings
+    are also mentioned.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 1349-1366
+  quote_or_summary: The allegorical fable is described as Homer wrapping knowledge,
+    secrets of nature, physical philosophy, elements, mental qualities, virtues, and
+    vices in forms and persons suited to what they shadowed.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 1367-1376
+  quote_or_summary: The marvellous fable includes the supernatural, especially the
+    machines of the gods; Homer is said to have brought deities into a poetic system
+    of machinery and to have set limits later poetry continued to follow.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is an English public-domain prefatory critical discussion, not
+    a primary myth narrative. Motifs are extracted from the examples and comparisons
+    explicitly named in the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No external sources were used. Taxonomy references are limited to supplied available taxonomy terms.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-iliad-pope-gutenberg__l1303-l1376
+  passage_sha256=3d5bed6aa4cded63985280c64b6d3c2e5dd2b4ecac408efe801495e19b4e4b3c

@@ -1,0 +1,425 @@
+---
+record_id: batch.motif.greek-iliad-pope-gutenberg-l1209-l1300
+source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+passage_locator:
+  label: CONCLUDING NOTE. / INTRODUCTION. / THEODORE ALOIS BUCKLEY. / POPES PREFACE
+    TO THE ILIAD OF HOMER; lines 1209-1300
+  start: '1209'
+  end: '1300'
+  translation: The Iliad
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage opens Pope's preface by praising Homer's invention as unrivalled,
+    contrasting invention with judgment and art, comparing Homer’s work to a wild
+    paradise and nursery, and developing repeated images of poetic fire, animation,
+    star-like force, vortex, and world-creation through fable. It also compares Homer’s
+    poetic fire with that of Virgil, Lucan, Statius, Milton, and Shakespeare.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage attributes the greatest poetic invention to Homer and says Virgil
+    may contest the praise of judgment with him.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Invention is described as the foundation of poetry and as furnishing art with
+    its materials.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Homer's work is compared to a wild paradise, an ordered garden, and a nursery
+    containing seeds and first productions.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Homer's writing is described as animated, with everything moving, living,
+    and being put into action.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The reader of Homer is described as becoming, in different places, a hearer
+    and a spectator.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage uses several fire images for Homeric poetic force, including a
+    sweeping fire, a chariot-wheel becoming fire, and poetic fire burning irresistibly.
+  category: object
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:7
+  text: Virgil, Lucan, Statius, Milton, Shakespeare, and Homer are compared through
+    different descriptions of poetic fire.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Homer's ruling faculty is compared to a powerful star drawing all things within
+    its vortex.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The passage says Homer opened a new and boundless walk for imagination and
+    created a world for himself in the invention of fable.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: Aristotle is cited as calling fable the soul of poetry, which the passage
+    says was first breathed into poetry by Homer.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Homer
+  description: Poet credited with unrivalled invention, animated writing, poetic fire,
+    and the creation of a world through fable.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Virgil
+  description: Poet said to contest the praise of judgment with Homer and to display
+    poetic fire reflected from Homer.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:3
+  name_or_label: Lucan
+  description: Poet whose poetic fire is described as appearing in sudden, short,
+    interrupted flashes.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Statius
+  description: Poet whose poetic fire is grouped with Lucan's as sudden, short, and
+    interrupted flashes.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Milton
+  description: Poet whose poetic fire is described as glowing like a furnace sustained
+    by art.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Shakespeare
+  description: Poet whose poetic force is compared to accidental fire from heaven.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Reader
+  description: General reader described as being carried out of himself and turned
+    into a hearer or spectator of Homeric scenes.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:8
+  name_or_label: Aristotle
+  description: Authority cited for calling fable the soul of poetry.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: unrivalled poetic inventor
+  assigned_to:
+  - fig:1
+  basis: The passage repeatedly attributes the greatest invention, animated poetic
+    force, and fable-world creation to Homer.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: role:2
+  label: comparative poet of judgment and reflected fire
+  assigned_to:
+  - fig:2
+  basis: Virgil is presented as contesting judgment with Homer and as showing fire
+    reflected from Homer.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:3
+  label: comparative example of poetic fire
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  basis: These poets are named in a sequence comparing different manifestations of
+    poetic fire.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: transported audience participant
+  assigned_to:
+  - fig:7
+  basis: The reader is said to be hurried out of himself and turned into hearer or
+    spectator.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: cited authority on fable
+  assigned_to:
+  - fig:8
+  basis: Aristotle is cited for calling fable the soul of poetry.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: poetic fire
+  literal_form: 'Fire images: sweeping fire, chariot-wheel on fire, furnace, fire
+    from heaven, and Homeric fire burning irresistibly.'
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: wild paradise and nursery
+  literal_form: Homer's work compared to a wild paradise and copious nursery containing
+    seeds and first productions.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: powerful star and vortex
+  literal_form: A ruling faculty compared to a powerful star drawing all things within
+    its vortex.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: created world of fable
+  literal_form: A new and boundless imaginative sphere and a world created through
+    the invention of fable.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: breath into poetry
+  literal_form: Fable as the soul of poetry first breathed into it by Homer.
+  associated_figures:
+  - fig:1
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Praise of Homeric invention
+  summary: The preface describes invention as the foundation of poetry and presents
+    Homer as the supreme inventor, while distinguishing invention from judgment and
+    art.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Homer's work as generative landscape
+  summary: Homer's poetry is likened to a wild paradise and nursery whose abundance
+    provides materials later poets select and cultivate.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Animated Homeric reading experience
+  summary: The passage says Homer’s writing makes things move and live, so that a
+    reader becomes a hearer or spectator of councils and battles.
+  figure_refs:
+  - fig:1
+  - fig:7
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Comparative fire among poets
+  summary: The passage compares poetic fire in Virgil, Lucan, Statius, Milton, Shakespeare,
+    and Homer, presenting Homer’s fire as uniquely clear and irresistible.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: World-making through fable
+  summary: Homeric invention is compared to a star and vortex, and Homer is said to
+    create a world through fable, which Aristotle calls the soul of poetry.
+  figure_refs:
+  - fig:1
+  - fig:8
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: poetic fire as animating force
+  taxonomy_refs: []
+  basis: Repeated fire images describe poetic power as sweeping, burning, flashing,
+    glowing, and animating the reader's experience.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The fire is a literary-critical metaphor in a preface, not a narrated
+    mythic fire episode.
+- id: motif:2
+  label: creative imagination as world-making
+  taxonomy_refs: []
+  basis: The passage says Homer opened a boundless sphere for imagination and created
+    a world for himself in the invention of fable.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The world-creation language is metaphorical praise of poetic invention
+    rather than a cosmogonic narrative.
+- id: motif:3
+  label: poetry as fertile garden or nursery
+  taxonomy_refs: []
+  basis: Homer's work is compared to a wild paradise and a nursery containing seeds
+    and first productions from which later poets cultivate selected plants.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The plant and garden imagery is an analogy for literary influence and
+    abundance, not a literal sacred garden scene.
+- id: motif:4
+  label: transported spectator or hearer
+  taxonomy_refs: []
+  basis: The reader is described as being hurried out of himself and becoming a hearer
+    or spectator of the poetic action.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: This is an account of readerly effect, not a ritual or mythic transformation
+    in the story-world.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly uses fire imagery as a shared way to compare poetic
+    force in Homer, Virgil, Lucan, Statius, Milton, and Shakespeare, while distinguishing
+    the intensity and continuity of each poet's fire.
+  claim_level: same_function
+  target: poetic fire imagery across named poets in Pope's literary comparison
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is a literary-critical comparison within the preface and does
+    not by itself establish a mythological motif transmission or historical contact
+    claim.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1209-1236
+  quote_or_summary: The passage praises Homer as having the greatest invention, contrasts
+    this with Virgil's claim to judgment, and describes invention as the foundation
+    that supplies art with materials.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1237-1246
+  quote_or_summary: Homer's work is compared to a wild paradise and copious nursery
+    containing seeds and first productions later poets select and cultivate.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 1247-1261
+  quote_or_summary: Homer's invention is said to produce fire and rapture; everything
+    moves and lives; the reader becomes hearer or spectator; his verse is compared
+    to an army and to fire sweeping the earth, and his fancy to a chariot-wheel becoming
+    fire by rapidity.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 1262-1274
+  quote_or_summary: Poetic fire is compared among Virgil, Lucan, Statius, Milton,
+    Shakespeare, and Homer, with Homer alone said to burn everywhere clearly and irresistibly.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 1275-1300
+  quote_or_summary: Homer's invention is compared to a powerful star drawing things
+    into its vortex; he is said to range over arts, nature, passions, forms, and images,
+    and to create a world through the invention of fable, which Aristotle calls the
+    soul of poetry.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is a literary preface rather than a mythic narrative. Extraction
+    is strong for imagery and symbolic language, but motif candidates should be reviewed
+    for relevance to comparative mythology.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy reference was assigned only for the explicit fire symbol.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-iliad-pope-gutenberg__l1209-l1300
+  passage_sha256=adb5eec46c3e5920dc31c7a08a318418807bef2b7459a21cb7e245a000900ea9

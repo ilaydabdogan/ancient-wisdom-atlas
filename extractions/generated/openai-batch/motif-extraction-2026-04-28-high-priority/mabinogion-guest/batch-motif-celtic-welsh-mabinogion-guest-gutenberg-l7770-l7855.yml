@@ -1,0 +1,491 @@
+---
+record_id: batch.motif.celtic-welsh-mabinogion-guest-gutenberg-l7770-l7855
+source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+passage_locator:
+  label: PEREDUR THE SON OF EVRAWC / GERAINT THE SON OF ERBIN / THE DREAM OF RHONABWY
+    / PWYLL PRINCE OF DYVED; lines 7770-7855
+  start: '7770'
+  end: '7855'
+  translation: The Mabinogion
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: "“with a steady hand did the lion aim at it.”"
+  summary: Gwydion brings Arianrod’s unnamed son to her court. Arianrod places a destiny
+    on the boy that he will receive no name except from her. Gwydion later uses magical
+    transformations, disguise, and a shoemaking ruse to draw Arianrod to a boat, where
+    the boy shoots a wren and Arianrod’s remark gives him the name Llew Llaw Gyffes.
+    Arianrod then places a second destiny on him, denying arms and armour unless she
+    invests him. Gwydion raises Llew and later returns with him in altered form as
+    bards from Glamorgan.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Gwydion brings the boy to Arianrod’s castle and identifies him as her son.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Arianrod says the boy has no name and lays a destiny that he will not have
+    a name until he receives one from her.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Gwydion turns sedges and seaweed into a boat, makes Cordovan leather from
+    dry sticks and sedges, and makes a sail for the boat.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Gwydion changes the appearance of himself and the boy so that they are not
+    recognized at Arianrod’s castle.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Arianrod requests shoes; Gwydion makes one pair too large and another too
+    small, leading her to come to the boat so he can see her foot.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A wren stands on the deck, and the boy shoots it in the leg between the sinew
+    and the bone.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Arianrod remarks that the lion aimed steadily, and Gwydion declares that the
+    boy has now received the name Llew Llaw Gyffes.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The shoemaking work disappears into seaweed and sedges, and Gwydion restores
+    the boy to his own form.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Arianrod lays a second destiny on the boy, saying he will not have arms and
+    armour until she invests him with them.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: Gwydion raises Llew at Dinas Dinllev until he can manage any horse and is
+    perfect in features, strength, and stature.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: Gwydion and Llew change form and approach Arianrod’s castle in the semblance
+    of two youths, presenting themselves as bards from Glamorgan.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Gwydion
+  description: He accompanies the boy, confronts Arianrod, performs transformations,
+    disguises himself and the boy, arranges the shoemaking ruse, and later raises
+    Llew.
+  role_refs:
+  - role:1
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: the boy / Llew Llaw Gyffes
+  description: Arianrod’s son, initially unnamed; he follows Gwydion, shoots the wren,
+    receives the name Llew Llaw Gyffes, and is later raised and trained by Gwydion.
+  role_refs:
+  - role:3
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: Arianrod
+  description: She receives Gwydion at her castle, lays destinies on the boy concerning
+    his name and arms, and inadvertently names him after his shot at the wren.
+  role_refs:
+  - role:4
+  - role:7
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: wren
+  description: A bird standing on the deck of the boat, shot by the boy in the leg.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: porter
+  description: Gatekeeper at Arianrod’s castle who carries the message that bards
+    from Glamorgan have arrived.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: magical transformer
+  assigned_to:
+  - fig:1
+  basis: Gwydion transforms natural materials into a boat and leather and later makes
+    the work disappear.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:2
+  label: disguiser and strategist
+  assigned_to:
+  - fig:1
+  basis: Gwydion changes appearances, uses a cordwainer disguise, manipulates the
+    shoe fitting, and later returns in the semblance of a bard.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+- id: role:3
+  label: unnamed child who receives a name
+  assigned_to:
+  - fig:2
+  basis: The boy has no name until Arianrod’s remark after the wren shot gives him
+    the name Llew Llaw Gyffes.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:4
+  label: destiny-layer
+  assigned_to:
+  - fig:3
+  basis: Arianrod lays destinies on the boy concerning his name and his arms and armour.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:5
+  label: fosterer or guardian
+  assigned_to:
+  - fig:1
+  basis: Gwydion brings up Llew at Dinas Dinllev and prepares to act on his need for
+    horses and arms.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: skilled youthful archer
+  assigned_to:
+  - fig:2
+  basis: The boy shoots the wren in the leg, prompting Arianrod’s statement about
+    his steady aim.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: inadvertent name-giver
+  assigned_to:
+  - fig:3
+  basis: Arianrod’s remark after the shot is treated by Gwydion as the boy’s name.
+  evidence_refs:
+  - ev:4
+- id: role:8
+  label: animal target
+  assigned_to:
+  - fig:4
+  basis: The wren appears on the boat deck and is hit by the boy’s shot.
+  evidence_refs:
+  - ev:4
+- id: role:9
+  label: gate messenger
+  assigned_to:
+  - fig:5
+  basis: The porter announces the visitors described as bards from Glamorgan.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: withheld name
+  literal_form: The boy’s absent name and Arianrod’s condition that only she may give
+    it.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: seaweed and sedge boat
+  literal_form: A boat made from sedges and seaweed.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: crafted shoes
+  literal_form: Shoes made from magically produced Cordovan leather, first too large
+    and then too small.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: wren on the deck
+  literal_form: A wren standing on the boat deck and struck in the leg.
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: spoken name
+  literal_form: The name Llew Llaw Gyffes given after Arianrod’s remark.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: withheld arms and armour
+  literal_form: Arms and armour denied to the boy unless Arianrod invests him with
+    them.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:7
+  label: changed forms
+  literal_form: Altered semblances used by Gwydion and the boy to avoid recognition.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:6
+scenes:
+- id: scene:1
+  label: Arianrod denies the unnamed boy a name
+  summary: Gwydion brings the boy to Arianrod’s court; she identifies the situation
+    as shameful and lays a destiny that the boy will not have a name until she gives
+    it.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Magical cordwainer ruse at the shore
+  summary: Gwydion creates a boat and leather from shore materials, disguises himself
+    and the boy as cordwainers, and uses ill-fitting shoes to draw Arianrod down to
+    the boat.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:7
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: The wren shot and the naming of Llew
+  summary: A wren appears on the boat deck; the boy shoots it, Arianrod praises the
+    steady aim of the lion, and Gwydion declares that the boy has obtained the name
+    Llew Llaw Gyffes.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Second destiny concerning arms
+  summary: The magical shoemaking work disappears, Gwydion restores the boy’s form,
+    and Arianrod lays a new destiny that he will not have arms and armour unless she
+    invests him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Llew’s upbringing and disguised return as bards
+  summary: Gwydion raises Llew until he is skilled and strong; seeing Llew’s need
+    for horses and arms, he returns with him to Arianrod’s castle in altered form
+    as bards from Glamorgan.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Destiny or taboo blocks a youth’s name
+  taxonomy_refs:
+  - initiation
+  basis: Arianrod places a condition on the boy’s naming, and the subsequent episode
+    centers on overcoming that condition.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: medium
+  cautions: The passage presents the condition as a destiny; classing it under initiation
+    is interpretive and should be reviewed.
+- id: motif:2
+  label: Trickster wins a forbidden or withheld benefit through disguise
+  taxonomy_refs:
+  - trickster_boundary
+  - shapeshifter
+  basis: Gwydion changes forms, poses as a cordwainer, and engineers circumstances
+    under which Arianrod gives the boy a name despite her destiny.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The text does not explicitly call Gwydion a trickster in this passage;
+    the label is based on his deceptive actions.
+- id: motif:3
+  label: Skill-display produces a name
+  taxonomy_refs:
+  - initiation
+  basis: The boy’s precise shot at the wren prompts the utterance that becomes his
+    name.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage links the shot and naming, but broader initiatory meaning
+    is not stated explicitly.
+- id: motif:4
+  label: Withheld arms as a youth’s next threshold
+  taxonomy_refs:
+  - initiation
+  basis: After the naming, Arianrod lays a second condition preventing the boy from
+    receiving arms and armour unless she invests him; the next movement of the passage
+    concerns his need for horses and arms.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage sets up the armament condition but does not complete its resolution
+    within the supplied range.
+- id: motif:5
+  label: Magical making from natural materials
+  taxonomy_refs: []
+  basis: Gwydion creates a boat from sedges and seaweed and leather from dry sticks
+    and sedges, then the work later disappears back into seaweed and sedges.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: high
+  cautions: No specific supplied motif-family taxonomy exactly matches this material
+    transformation motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 7770-7786
+  quote_or_summary: Gwydion brings the boy to Arianrod’s castle; she asks who he is,
+    is told he is her son, and lays a destiny that he will never have a name until
+    he receives one from her.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 7787-7802
+  quote_or_summary: Gwydion walks by the seashore, turns sedges and seaweed into a
+    boat, makes fine Cordovan leather from dry sticks and sedges, begins shoemaking
+    by Arianrod’s port, and disguises himself and the boy.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 7803-7825
+  quote_or_summary: Arianrod sends for shoes; Gwydion makes pairs too large and too
+    small, then refuses to make more unless he sees her foot, so she comes down to
+    the boat.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: quote
+  locator: lines 7826-7832
+  quote_or_summary: A wren stands on the boat deck; the boy shoots it in the leg,
+    and Arianrod says, “with a steady hand did the lion aim at it”; Gwydion says he
+    now has a name, Llew Llaw Gyffes.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:5
+  type: summary
+  locator: lines 7833-7838
+  quote_or_summary: The shoemaking work disappears into seaweed and sedges; Gwydion
+    restores the boy to his own form; Arianrod lays a destiny that he will not have
+    arms and armour until she invests him with them.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:6
+  type: summary
+  locator: lines 7839-7855
+  quote_or_summary: Gwydion raises Llew at Dinas Dinllev until he is skilled with
+    horses and strong; he sees Llew languish for want of horses and arms, then returns
+    with him in changed form as bards from Glamorgan and is welcomed by Arianrod.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward from the supplied passage. Motif-family
+    assignments are cautious because the taxonomy does not include exact categories
+    for Welsh geis-like destinies, naming formulas, or magical craft transformations.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not make an explicit comparison to another text, tradition, or motif family beyond internally supported pattern extraction.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:celtic-welsh-mabinogion-guest-gutenberg__l7770-l7855
+  passage_sha256=9ae7ba586c81e703609db5c63b4ffd8486665255ceb30b758de11bb2b8a3834b

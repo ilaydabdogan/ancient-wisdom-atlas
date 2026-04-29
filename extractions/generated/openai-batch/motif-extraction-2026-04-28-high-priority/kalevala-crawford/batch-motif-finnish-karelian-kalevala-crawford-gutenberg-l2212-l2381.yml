@@ -1,0 +1,512 @@
+---
+record_id: batch.motif.finnish-karelian-kalevala-crawford-gutenberg-l2212-l2381
+source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+passage_locator:
+  label: PREFACE / JOHN MARTIN CRAWFORD. / THE KALEVALA. / PROEM; lines 2212-2381
+  start: '2212'
+  end: '2381'
+  translation: 'Kalevala: The Epic Poem of Finland'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Youkahainen answers Wainamoinen with a catalogue of natural facts and claims
+    about primeval creation. Wainamoinen rejects his claims as lies. Youkahainen challenges
+    him to sword combat and threatens magical transformation. Wainamoinen responds
+    by singing powerful enchantments that shake mountains and sea, transform Youkahainen's
+    gear and animals into natural forms, and sink Youkahainen into quicksand and mud
+    until he realizes the folly of contesting him.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Youkahainen lists facts and origins concerning birds, serpents, fish, metals,
+    fire, water, mountains, trees, houses, and kettles.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Youkahainen claims to have taken part in primeval acts including shaping seas,
+    islands, caverns, lakes, mountains, rocks, heavens, sky, rainbow, moon, sun, Bear,
+    and stars.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Wainamoinen calls Youkahainen a liar and denies that he was present at the
+    creation events he names.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Youkahainen, after failing in wisdom, offers sword battle to Wainamoinen.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Wainamoinen refuses to measure broadswords with Youkahainen and calls him
+    a puny braggart.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Youkahainen threatens to transform anyone who fears sword combat into a wild
+    boar or swine and to cast such cowards into mire and stable refuse.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Wainamoinen begins wondrous singing, and the mountains, rocks, ocean, and
+    hills respond with trembling, breaking, heaving, and echoing.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Wainamoinen's singing transforms Youkahainen's sledge, harness, whip, horse,
+    sword, bow, arrows, dog, cap, gauntlets, clothing, and girdle into natural or
+    celestial forms.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: Wainamoinen sings Youkahainen into quicksand, mud, and water, where he sinks
+    deeper and cannot move his feet; one foot is said to have turned to flint-stone.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: Youkahainen realizes that his journey to contest Wainamoinen was folly.
+  category: sequence
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Youkahainen
+  description: A youthful challenger who answers Wainamoinen, claims primeval knowledge,
+    offers sword battle, threatens magical transformation, and is sung into quicksand.
+  role_refs:
+  - role:1
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:8
+- id: fig:2
+  name_or_label: Wainamoinen
+  description: An ancient bard, minstrel, and wonder-singer who tests Youkahainen's
+    wisdom, refuses sword combat, and overcomes him through magical singing.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:3
+  name_or_label: Creator / God
+  description: Named in Youkahainen's catalogue as first physician and first and best
+    adviser.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: youthful challenger
+  assigned_to:
+  - fig:1
+  basis: Youkahainen is introduced as youthful and engages Wainamoinen in a contest
+    of wisdom and then proposes sword battle.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: ancient wonder-singer
+  assigned_to:
+  - fig:2
+  basis: The passage calls Wainamoinen ancient, famous bard and minstrel, and ancient
+    wonder-singer; his singing produces transformations.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+- id: role:3
+  label: boastful claimant of primeval knowledge
+  assigned_to:
+  - fig:1
+  basis: Youkahainen claims presence at creation events, and Wainamoinen calls him
+    a liar for those claims.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: victorious singer-enchanter
+  assigned_to:
+  - fig:2
+  basis: Wainamoinen's song shakes the landscape, transforms objects, and sinks Youkahainen
+    in quicksand.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: role:5
+  label: defeated wizard
+  assigned_to:
+  - fig:1
+  basis: The passage says the wizard sinks deeper in torture and understands the folly
+    of contesting Wainamoinen.
+  evidence_refs:
+  - ev:8
+- id: role:6
+  label: first physician and adviser
+  assigned_to:
+  - fig:3
+  basis: Youkahainen states that the Creator is the first physician and God the first
+    and best adviser.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: water
+  literal_form: water, brackish waters, rivers, sea-foam, mountain waters, ocean,
+    mud and water
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+  - ev:8
+- id: sym:2
+  label: fire
+  literal_form: fire described as dangerous and as first descended from heaven
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: serpent
+  literal_form: green viper named as a serpent
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: mountain
+  literal_form: mountains from which waters gush, mountains heaped around lakes, and
+    copper-bearing mountains trembling at Wainamoinen's song
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: sym:5
+  label: tree and plant forms
+  literal_form: willow as first tree, fir-trees as first houses, reed-grass, willow
+    twigs, shrubs, fir-boughs, rushes
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: sym:6
+  label: celestial transformations
+  literal_form: sword becomes lightning; cross-bow becomes a rainbow; vesture becomes
+    white clouds; girdle becomes twinkling stars
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:7
+  label: quicksand and flint-stone confinement
+  literal_form: deeps of quick-sand, mud and water, and a foot turned to flint-stone
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Catalogue of wisdom and origins
+  summary: Youkahainen replies to Wainamoinen with sayings about natural beings, substances,
+    remedies, divine advice, and first origins of trees, houses, and vessels.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Boast of primeval creation and rebuke
+  summary: Youkahainen claims heroic presence when seas, islands, caverns, lakes,
+    mountains, heavens, luminaries, and stars were made; Wainamoinen rejects the claim
+    as false.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Challenge to sword combat
+  summary: After failing in wisdom, Youkahainen proposes a test with broadswords,
+    but Wainamoinen refuses to fight him with blades.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Threatened transformation into swine
+  summary: Youkahainen threatens by song to transform blade-fearers into wild-boar
+    or swine and cast them into mire and stable refuse.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Wainamoinen's world-shaking song
+  summary: Wainamoinen sings powerful enchantments that make mountains, rocks, ocean,
+    and hills respond and that place Youkahainen in silent wonder.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:6
+- id: scene:6
+  label: Transformation of gear, animals, and garments
+  summary: Wainamoinen's song changes Youkahainen's sledge and equipment, horse, sword,
+    bow, arrows, dog, cap, gauntlets, clothing, and girdle into reeds, willow, shrubs,
+    water-side reeds, a watery statue, fir-boughs, lightning, rainbow, birds, stone,
+    vapor, rushes, clouds, and stars.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:7
+- id: scene:7
+  label: Youkahainen sunk and immobilized
+  summary: Wainamoinen sings Youkahainen into quicksand, mud, and water; Youkahainen
+    sinks to his belt, recognizes the folly of the contest, and finds his feet unable
+    to move, with one turned to flint-stone.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: contest of wisdom between old singer and young challenger
+  taxonomy_refs:
+  - wisdom
+  basis: The passage frames the encounter as a test of what Youkahainen knows, followed
+    by Wainamoinen's rebuke of false primeval knowledge.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The taxonomy reference is broad; the passage is specifically a verbal
+    contest rather than an abstract wisdom teaching.
+- id: motif:2
+  label: magical song as overpowering force
+  taxonomy_refs: []
+  basis: Wainamoinen's singing affects mountains, rocks, ocean, and hills and subdues
+    Youkahainen without sword combat.
+  evidence_refs:
+  - ev:6
+  - ev:8
+  confidence: high
+  cautions: No specific supplied taxonomy ID names magical song, so no taxonomy reference
+    is assigned.
+- id: motif:3
+  label: transformation by enchantment
+  taxonomy_refs:
+  - shapeshifter
+  basis: Youkahainen threatens transformation into swine, and Wainamoinen actually
+    sings objects, animals, garments, and Youkahainen's condition into other forms.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The supplied taxonomy term 'shapeshifter' usually implies a being changing
+    form; this passage mainly shows transformation caused by another's song, including
+    many objects.
+- id: motif:4
+  label: boast of presence at creation
+  taxonomy_refs:
+  - wisdom
+  basis: Youkahainen claims to have helped create or shape primeval seas, islands,
+    caverns, lakes, mountains, heavens, luminaries, and stars, but Wainamoinen denies
+    it.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage treats the claim as false within the dialogue, so the motif
+    is a boast or contested cosmogonic claim, not an affirmed creation account.
+- id: motif:5
+  label: immobilization and sinking into earth-water substance
+  taxonomy_refs: []
+  basis: Youkahainen is sung into quicksand, sinks in mud and water, and cannot move
+    his feet, one of which turns to flint-stone.
+  evidence_refs:
+  - ev:8
+  confidence: high
+  cautions: No supplied taxonomy ID directly matches enchanted sinking or immobilization.
+comparison_claims:
+- id: claim:1
+  claim: The passage supports comparison with a wisdom-contest pattern in which verbal
+    knowledge is tested before physical combat is refused or superseded.
+  claim_level: same_function
+  target: wisdom contest motif family
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim is functional and internal to the passage; no external parallel
+    or historical relationship is established by the provided text.
+- id: claim:2
+  claim: The passage supports comparison with transformation-by-magic patterns, because
+    song changes persons' surroundings, objects, animals, and bodily condition into
+    other forms.
+  claim_level: same_function
+  target: transformation or shapeshifter motif family
+  evidence_refs:
+  - ev:5
+  - ev:7
+  - ev:8
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The transformations are mostly imposed by an enchanter rather than
+    voluntary shapeshifting, so the match to 'shapeshifter' is only partial.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2212-2234
+  quote_or_summary: 'Youkahainen lists natural facts and origins: titmouse, viper-serpent,
+    fish, rusting iron, fire''s danger, water as remedy, sea-foam as source of magic,
+    divine advice, mountain waters, heavenly fire, metals, marshes, willow, fir houses,
+    and stone kettles.'
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:2
+  type: summary
+  locator: lines 2236-2259
+  quote_or_summary: Youkahainen claims to tell of primeval times when he plowed seas,
+    shaped islands, dug grottoes and caverns, created lakes, heaped mountains and
+    rocks, and was among ancient heroes when heavens, sky, rainbow, moon, sun, Bear,
+    and stars were established.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:3
+  type: summary
+  locator: lines 2260-2277
+  quote_or_summary: Wainamoinen says Youkahainen is a prince and lord of liars and
+    denies he existed or was present when the seas, islands, caverns, lakes, mountains,
+    earth, ether, air, moon, sun, Bear, and stars were made.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:4
+  type: summary
+  locator: lines 2279-2292
+  quote_or_summary: Youkahainen says that since he fails in wisdom he offers sword
+    battle; Wainamoinen replies that he does not fear his sword or wisdom and will
+    not measure broadswords with a vain braggart.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:5
+  type: summary
+  locator: lines 2294-2307
+  quote_or_summary: Youkahainen sneers and threatens to sing anyone who fears sword
+    combat into a wild boar or swine, hurling such cowards into mire and stable refuse.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:6
+  type: summary
+  locator: lines 2309-2330
+  quote_or_summary: Wainamoinen grows angry and begins wondrous singing of heroic
+    songs; copper-bearing mountains, flinty rocks, ocean, and distant hills tremble,
+    break, heave, and echo, while Youkahainen is transfixed in wonder.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:7
+  type: summary
+  locator: lines 2331-2364
+  quote_or_summary: Wainamoinen sings Youkahainen's sledge parts, whip, horse gear,
+    sword, cross-bow, arrows, dog, cap, gauntlets, vesture, and girdle into reeds,
+    willow twigs, shrubs, a water-side reed, a watery statue, fir-boughs, lightning,
+    rainbow, hawks and eagles, stone, vapor, rushes, clouds, and stars.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:8
+  type: summary
+  locator: lines 2365-2381
+  quote_or_summary: Wainamoinen sings Youkahainen into quicksand, where he sinks deeper
+    in mud and water to his belt; Youkahainen recognizes the folly of contesting Wainamoinen
+    and cannot move his feet, one of which has turned to flint-stone.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summarized from provided passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The main actions and transformations are explicit in the passage. Motif taxonomy
+    matches are partly broad because the supplied taxonomy lacks a specific category
+    for magical song or enchanted immobilization.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata; line locators are approximate within the provided stable range.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:finnish-karelian-kalevala-crawford-gutenberg__l2212-l2381
+  passage_sha256=014a28db39c457c42125c49117121abb5a0a072992e7b50eef6878d5f73d982b

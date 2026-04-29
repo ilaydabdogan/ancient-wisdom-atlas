@@ -1,0 +1,260 @@
+---
+record_id: batch.motif.greek-hesiod-homeric-hymns-evelyn-white-gutenberg-l9935-l9961
+source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+passage_locator:
+  label: THE CERCOPES / THE BATTLE OF FROGS AND MICE / OF THE ORIGIN OF HOMER AND
+    HESIOD, AND OF THEIR CONTEST / ENDNOTES; lines 9935-9961
+  start: '9935'
+  end: '9961'
+  translation: Hesiod, the Homeric Hymns, and Homerica
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage consists of editorial endnotes glossing terms, identifying
+    intrusive lines, explaining references in The Battle of Frogs and Mice and the
+    Homer-Hesiod contest, noting a possible parody of Orion's threat in a Hesiodic
+    fragment, and giving citations or verse counts for Greek epic texts.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: An endnote glosses a referenced group as monkey-men.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: An endnote states that lines 42-52 are intrusive and that a list of vegetables
+    the Mouse cannot eat should follow immediately after the dishes he does eat.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: An endnote glosses a phrase as literally meaning those unable to swim.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: An endnote says a passage may be a parody of Orion's threat in Hesiod's Astronomy,
+    fragment 4.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: An endnote identifies a referenced riddle as the riddle of the fisher-boys
+    at the end of the work.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: An endnote says verses of Hesiod are called doubtful in meaning because, taken
+    alone, they are incomplete or absurd.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Endnotes cite passages from Works and Days, the Iliad, and the Homeric Hymns,
+    and give accepted verse totals for the Iliad and Odyssey.
+  category: other
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:10
+  - ev:11
+figures:
+- id: fig:1
+  name_or_label: monkey-men
+  description: A group glossed by the editor as monkey-men.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Mouse
+  description: A Mouse whose edible and inedible foods are discussed in an editorial
+    note.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Orion
+  description: A figure whose threat in a Hesiodic fragment is mentioned as a possible
+    model for parody.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Hesiod
+  description: Named in notes referring to Hesiod's Astronomy, Hesiodic verses, and
+    Works and Days.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+- id: fig:5
+  name_or_label: fisher-boys
+  description: A group associated with a riddle at the end of the work.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: glossed group
+  assigned_to:
+  - fig:1
+  basis: The note defines the referenced group as monkey-men.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: dietary subject
+  assigned_to:
+  - fig:2
+  basis: The note discusses what the Mouse cannot eat and what he does eat.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: threatening figure in possible source passage
+  assigned_to:
+  - fig:3
+  basis: The note refers to Orion's threat in a Hesiodic fragment as a possible parody
+    target.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: cited poet or attributed source
+  assigned_to:
+  - fig:4
+  basis: The notes cite Hesiod's Astronomy, verses of Hesiod, and Works and Days.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+- id: role:5
+  label: riddle-associated group
+  assigned_to:
+  - fig:5
+  basis: The note identifies the riddle as that of the fisher-boys.
+  evidence_refs:
+  - ev:5
+symbols: []
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: parodic reuse of a threat
+  taxonomy_refs: []
+  basis: The editor notes that a passage may parody Orion's threat in Hesiod's Astronomy,
+    fragment 4.
+  evidence_refs:
+  - ev:4
+  confidence: uncertain
+  cautions: The passage is an editorial note and does not quote the threatened speech
+    or the proposed parody; the motif label is limited to the note's stated relationship.
+comparison_claims:
+- id: claim:1
+  claim: The passage contains an editorial suggestion that a line or episode may parody
+    Orion's threat in Hesiod's Astronomy, fragment 4.
+  claim_level: same_function
+  target: Orion's threat in Hesiod, Astronomy, fragment 4
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: uncertain
+  limitations: The note uses cautious language, and the passage provides no quoted
+    wording from either the parody or the proposed source.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 9935-9935
+  quote_or_summary: "“i.e. monkey-men.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:2
+  type: summary
+  locator: lines 9937-9939
+  quote_or_summary: The note says lines 42-52 are intrusive and that the list of vegetables
+    the Mouse cannot eat should follow the dishes he does eat.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: quote
+  locator: line 9941
+  quote_or_summary: "“lit. those unable to swim.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:4
+  type: summary
+  locator: lines 9943-9944
+  quote_or_summary: The note says the passage may be a parody of Orion's threat in
+    Hesiod, Astronomy, fragment 4.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 9946-9947
+  quote_or_summary: The note identifies the reference as the riddle of the fisher-boys
+    at the end of the work.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: lines 9949-9950
+  quote_or_summary: The note explains that Hesiod's verses are called doubtful in
+    meaning because taken alone they are incomplete or absurd.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:7
+  type: citation
+  locator: line 9952
+  quote_or_summary: Works and Days, lines 383-392, is cited.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source; citation evidence.
+- id: ev:8
+  type: citation
+  locator: line 9954
+  quote_or_summary: Iliad xiii, lines 126-133 and 339-344, is cited.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source; citation evidence.
+- id: ev:9
+  type: summary
+  locator: lines 9956-9957
+  quote_or_summary: The note gives the accepted text verse counts for the Iliad and
+    Odyssey.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:10
+  type: citation
+  locator: line 9959
+  quote_or_summary: Iliad ii, lines 559-568, with two additional verses, is cited.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source; citation evidence.
+- id: ev:11
+  type: citation
+  locator: line 9961
+  quote_or_summary: Homeric Hymns iii is cited.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source; citation evidence.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: The passage is chiefly editorial endnotes, so extraction of figures and motifs
+    is limited. The only explicit comparative statement is the note about a possible
+    parody of Orion's threat.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No taxonomy references were assigned because the passage does not provide enough narrative content to support the listed motif-family or symbol categories.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-hesiod-homeric-hymns-evelyn-white-gutenberg__l9935-l9961
+  passage_sha256=d551e4f09155d9f8f1703ed7b17afcf567a13dc2aba4624a9d0a32bca441ede4

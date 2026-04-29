@@ -1,0 +1,423 @@
+---
+record_id: batch.motif.celtic-welsh-mabinogion-guest-gutenberg-l1315-l1346
+source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+passage_locator:
+  label: INTRODUCTION / C. E. G. / THE LADY OF THE FOUNTAIN / PEREDUR THE SON OF EVRAWC;
+    lines 1315-1346
+  start: '1315'
+  end: '1346'
+  translation: The Mabinogion
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Peredur rides through wilderness without food or drink, enters a tent in
+    a glade that he first mistakes for a church, is welcomed by a richly adorned maiden,
+    eats from the provisions, takes her ring with her assent, and leaves. The lord
+    of the tent returns, disbelieves the maiden's statement that she was not harmed,
+    imposes wandering on her, and sets out to seek Peredur.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Peredur mounts a horse, carries sharp-pointed forks, and rides away.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Peredur travels for two days and two nights through woody wildernesses and
+    desert places without food or drink.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: In a wild wood, Peredur sees a glade with a tent and initially treats the
+    tent as if it were a church by saying his Paternoster to it.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The tent contains a golden chair near the door, occupied by an auburn-haired
+    maiden wearing a golden frontlet with sparkling stones and a large gold ring.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The maiden welcomes Peredur into the tent.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Food, wine, wheaten loaves, and wild boar meat are present at the entrance
+    of the tent.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Peredur says his mother told him to take meat and drink wherever he saw them;
+    the maiden tells him to take the meat and welcome.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Peredur takes half of the food and drink for himself and leaves the rest to
+    the maiden.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Peredur kneels before the maiden and says his mother told him to take a fair
+    jewel wherever he saw one; the maiden assents, and he takes the ring.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: After Peredur leaves, the knight who owns the tent, called the Lord of the
+    Glade, returns and sees the horse track.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: The maiden tells the lord that a man of wonderful demeanour had been there
+    and says that the man harmed her not.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:12
+  text: The lord disbelieves the maiden, vows vengeance on Peredur, says she shall
+    not remain two nights in the same house, and goes to seek Peredur.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Peredur
+  description: A rider who travels through wilderness, enters the tent, eats provisions,
+    takes the maiden's ring, and continues his journey.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Auburn-haired maiden
+  description: A lovely maiden seated on a golden chair in the tent, wearing a golden
+    frontlet with sparkling stones and a gold ring; she welcomes Peredur and says
+    he may take food and the ring.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Lord of the Glade
+  description: The knight to whom the tent belongs; he returns, questions the maiden,
+    disbelieves her, vows revenge, and sets out to seek Peredur.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:4
+  name_or_label: Peredur's mother
+  description: A figure referred to in Peredur's reported explanation of rules about
+    taking food, drink, and a fair jewel.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: traveler in wilderness
+  assigned_to:
+  - fig:1
+  basis: Peredur rides through woody wildernesses and desert places without food or
+    drink.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: taker of provisions and ring
+  assigned_to:
+  - fig:1
+  basis: Peredur eats half the provisions and takes the ring after citing his mother's
+    instructions.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:3
+  label: welcoming maiden in tent
+  assigned_to:
+  - fig:2
+  basis: The maiden welcomes Peredur and assents to his taking food and the ring.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:4
+  label: owner of the tent
+  assigned_to:
+  - fig:3
+  basis: The knight who comes after Peredur is identified as the one to whom the tent
+    belonged and as Lord of the Glade.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: avenger and pursuer
+  assigned_to:
+  - fig:3
+  basis: The lord vows to revenge the insult and sets forth to seek Peredur.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: source of behavioral instructions
+  assigned_to:
+  - fig:4
+  basis: Peredur attributes his actions concerning meat, drink, and a jewel to instructions
+    from his mother.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: woody wilderness and desert places
+  literal_form: wilderness and desert route traversed for two days and nights without
+    food or drink
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: tent mistaken for church
+  literal_form: tent in a glade, first approached as a church by Peredur
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: golden chair
+  literal_form: golden chair near the tent door
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: gold frontlet with sparkling stones
+  literal_form: golden frontlet on the maiden's forehead, set with sparkling stones
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: gold ring
+  literal_form: large gold ring on the maiden's hand, later taken by Peredur
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:6
+  label: tent provisions
+  literal_form: food, two flasks of wine, two wheaten loaves, and wild boar meat
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:7
+  label: horse track
+  literal_form: track of Peredur's horse seen by the returning lord
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Peredur's deprivation journey
+  summary: Peredur rides out with sharp-pointed forks and travels two days and nights
+    through wilderness and desert without food or drink.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Encounter at the tent in the glade
+  summary: Peredur sees a tent in a glade, mistakes it for a church, enters, and is
+    welcomed by a richly adorned maiden seated on a golden chair.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Food and ring taken under maternal instructions
+  summary: Peredur explains his mother's instructions, eats half the provisions with
+    the maiden's permission, kneels, and takes the maiden's ring after her assent.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: The Lord of the Glade's return and pursuit
+  summary: The lord returns, questions the maiden, rejects her denial of harm, imposes
+    a penalty on her, and sets out to find Peredur.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:1
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: wilderness journey before an encounter
+  taxonomy_refs:
+  - departure
+  basis: Peredur leaves on horseback and undergoes a two-day-and-two-night passage
+    through wilderness and desert without food or drink before reaching the tent in
+    the glade.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage gives a journey episode but does not explicitly frame it as
+    a ritual departure or initiation.
+- id: motif:2
+  label: sacred-looking shelter mistaken for church
+  taxonomy_refs: []
+  basis: Peredur sees a tent in the wood and, because it seems to him to be a church,
+    says his Paternoster to it before entering.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage states the mistaken identification but does not explain its
+    symbolic meaning.
+- id: motif:3
+  label: hospitality provisions in an isolated dwelling
+  taxonomy_refs: []
+  basis: The maiden welcomes Peredur, food and wine are available at the tent entrance,
+    and he eats half while leaving the rest to her.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage presents welcome and provisions, but not a formal feast or
+    exchange obligation.
+- id: motif:4
+  label: taking a woman's ring after permission
+  taxonomy_refs: []
+  basis: Peredur kneels, cites his mother's rule about taking a fair jewel, receives
+    the maiden's assent, and takes her ring.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The subsequent lord treats the episode as an insult, but the maiden's
+    speech reports no harm and permits the act.
+- id: motif:5
+  label: jealous or offended lord pursues visitor
+  taxonomy_refs: []
+  basis: The Lord of the Glade returns, sees evidence of a visitor, disbelieves the
+    maiden's denial of harm, vows vengeance, and sets out to seek Peredur.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The passage does not yet narrate the encounter between the lord and Peredur.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1315-1319
+  quote_or_summary: Peredur mounts a horse, takes sharp-pointed forks, and journeys
+    two days and nights through woody wildernesses and desert places without food
+    or drink.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1319-1323
+  quote_or_summary: In a wild wood, Peredur sees a glade and a tent; the tent seems
+    to him to be a church, so he repeats his Paternoster to it before approaching
+    the open door.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 1323-1327
+  quote_or_summary: Near the tent door is a golden chair on which sits a lovely auburn-haired
+    maiden wearing a golden frontlet with sparkling stones and a large gold ring;
+    she welcomes Peredur.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 1327-1332
+  quote_or_summary: At the tent entrance are food, two flasks of wine, two wheaten
+    loaves, and wild boar meat; Peredur says his mother told him to take meat and
+    drink, the maiden welcomes him to take it, and he takes half.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 1332-1336
+  quote_or_summary: After eating, Peredur kneels before the maiden, says his mother
+    told him to take any fair jewel he saw, receives her assent, takes the ring, mounts,
+    and leaves.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 1337-1346
+  quote_or_summary: The knight who owns the tent, the Lord of the Glade, returns,
+    sees the horse track, questions the maiden, hears that Peredur harmed her not,
+    disbelieves her, vows vengeance, forbids her to remain two nights in the same
+    house, and goes to seek Peredur.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is well supported by the supplied passage. Motif labels
+    are candidate-level and should be reviewed, especially taxonomy assignment to
+    departure.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not support an explicit comparison to another tradition or motif family beyond local candidate motifs.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:celtic-welsh-mabinogion-guest-gutenberg__l1315-l1346
+  passage_sha256=76533d22559571fb2dc46a31c75ab3a4cd4e1d1b03e4b87dfa1d189ded2243f0

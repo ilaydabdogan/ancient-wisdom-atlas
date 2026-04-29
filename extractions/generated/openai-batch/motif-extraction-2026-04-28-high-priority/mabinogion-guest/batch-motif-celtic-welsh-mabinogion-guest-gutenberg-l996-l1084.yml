@@ -1,0 +1,670 @@
+---
+record_id: batch.motif.celtic-welsh-mabinogion-guest-gutenberg-l996-l1084
+source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+passage_locator:
+  label: CONTENTS / INTRODUCTION / C. E. G. / THE LADY OF THE FOUNTAIN; lines 996-1084
+  start: '996'
+  end: '1084'
+  translation: The Mabinogion
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Owain is healed with a costly balsam by a maiden, recovers at a widowed
+    Countess's castle, captures the hostile Earl who has dispossessed her, departs
+    despite requests to stay, and later rescues a black lion from a serpent in a rock
+    cleft. The lion follows him and helps by bringing fuel and a roebuck near his
+    campfire.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A maiden pours all of a balsam upon Owain, leaves a horse and garments nearby,
+    hides, and watches him begin to move and rise.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Owain clothes himself, mounts the horse with difficulty, and is greeted by
+    the maiden.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The maiden says a widowed Countess owns the nearby castle and has lost most
+    of her lands to a neighboring young Earl because she refused to marry him.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Countess objects that seven-score pounds worth of precious ointment has
+    been spent on an unknown stranger but orders the maiden to care for him until
+    recovery.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The maiden supplies Owain with food, drink, fire, lodging, and medicines until
+    he is well; after three months he is restored and more comely than before.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: A hostile Earl arrives with a numerous army to subdue the Countess.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The Countess gives Owain a black steed and armour, and Owain rides out with
+    two equipped pages.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Owain identifies the Earl by four yellow standards, seizes him from his saddle,
+    and brings him to the castle portal.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: Owain presents the captured Earl to the Countess as repayment for the balsam.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: The Earl restores the two Earldoms, gives half his dominions and valuables,
+    and provides hostages as ransom and for freedom.
+  category: action
+  evidence_refs:
+  - ev:9
+- id: obs:11
+  text: Owain departs and chooses to wander through distant lands and deserts rather
+    than remain with the Countess and her subjects.
+  category: action
+  evidence_refs:
+  - ev:10
+- id: obs:12
+  text: In a wood, Owain hears repeated yelling and sees a craggy mound, grey rock,
+    rock cleft, a serpent in the cleft, and a black lion nearby.
+  category: setting
+  evidence_refs:
+  - ev:11
+- id: obs:13
+  text: The serpent attacks whenever the lion tries to leave; Owain cuts the serpent
+    in two with his sword.
+  category: action
+  evidence_refs:
+  - ev:12
+- id: obs:14
+  text: The lion follows Owain and behaves playfully like a reared greyhound.
+  category: relationship
+  evidence_refs:
+  - ev:13
+- id: obs:15
+  text: At evening Owain kindles a fire in a wooded meadow; the lion brings enough
+    fuel for three nights and later brings a large roebuck.
+  category: action
+  evidence_refs:
+  - ev:14
+figures:
+- id: fig:1
+  name_or_label: Owain
+  description: A man healed by balsam, later armed, mounted, and acting as warrior
+    and wanderer.
+  role_refs:
+  - role:1
+  - role:5
+  - role:8
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:7
+  - ev:10
+- id: fig:2
+  name_or_label: maiden / damsel
+  description: A female attendant who applies the balsam, hides to watch Owain, conducts
+    him to the castle, and cares for him during recovery.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: widowed Countess
+  description: Owner of the castle; her lands have been taken by a neighboring Earl
+    after she refused to marry him.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:9
+- id: fig:4
+  name_or_label: young Earl / hostile Earl
+  description: A neighboring Earl who has taken the Countess's lands, comes with an
+    army, is captured by Owain, and pays ransom.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:7
+  - ev:9
+- id: fig:5
+  name_or_label: two pages
+  description: Two fully equipped attendants with horses and arms who accompany Owain
+    partway toward the Earl's army and wait near the castle portal.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: fig:6
+  name_or_label: black lion
+  description: A black lion trapped near a rock cleft by a serpent; after Owain kills
+    the serpent, it follows him and brings fuel and game.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:11
+  - ev:12
+  - ev:13
+  - ev:14
+- id: fig:7
+  name_or_label: serpent
+  description: A serpent within a rock cleft that attacks the lion when it tries to
+    leave and is cut in two by Owain.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:11
+  - ev:12
+roles:
+- id: role:1
+  label: wounded or debilitated recipient of healing
+  assigned_to:
+  - fig:1
+  basis: Owain initially can barely move, clothes himself with difficulty, and later
+    recovers through care and balsam.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: healing helper
+  assigned_to:
+  - fig:2
+  basis: The maiden applies the balsam and provides care until Owain recovers.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:3
+  label: mediator to castle household
+  assigned_to:
+  - fig:2
+  basis: The maiden conducts Owain to the castle, speaks with the Countess, and requests
+    horse and arms for him.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+- id: role:4
+  label: dispossessed widowed ruler
+  assigned_to:
+  - fig:3
+  basis: The Countess has lost two Earldoms and nearly all dwellings to the neighboring
+    Earl.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: warrior rescuer and requiter
+  assigned_to:
+  - fig:1
+  basis: Owain captures the attacking Earl and offers him to the Countess as recompense
+    for the balsam.
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: role:6
+  label: coercive suitor and aggressor
+  assigned_to:
+  - fig:4
+  basis: The Earl takes the Countess's lands after her refusal to marry him and comes
+    with an army to subdue her.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:7
+  label: armed attendants
+  assigned_to:
+  - fig:5
+  basis: The pages accompany Owain equipped with horses and arms and wait near the
+    portal.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:8
+  label: wandering hero
+  assigned_to:
+  - fig:1
+  basis: Owain chooses to depart and wander through distant lands and deserts.
+  evidence_refs:
+  - ev:10
+- id: role:9
+  label: rescued animal companion and provider
+  assigned_to:
+  - fig:6
+  basis: After being freed from the serpent, the lion follows Owain and brings him
+    fuel and a roebuck.
+  evidence_refs:
+  - ev:13
+  - ev:14
+- id: role:10
+  label: animal antagonist
+  assigned_to:
+  - fig:7
+  basis: The serpent prevents the lion from leaving and attacks before Owain kills
+    it.
+  evidence_refs:
+  - ev:12
+symbols:
+- id: sym:1
+  label: precious balsam
+  literal_form: balsam / precious ointment in a flask
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:8
+- id: sym:2
+  label: horse and garments
+  literal_form: horse and garments placed near Owain after the balsam is applied
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: castle
+  literal_form: the Countess's castle and portal
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: sym:4
+  label: fire
+  literal_form: fire kindled in Owain's chamber and later at his evening rest
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:6
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:14
+- id: sym:5
+  label: black steed and armour
+  literal_form: beautiful black steed, beechen saddle, and armour for man and horse
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: yellow standards
+  literal_form: four yellow standards marking the Earl's troop
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:7
+  label: rock cleft in wood
+  literal_form: cleft in a grey rock on a huge craggy mound in the middle of the wood
+  associated_figures:
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:11
+- id: sym:8
+  label: serpent
+  literal_form: serpent within the rock cleft
+  associated_figures:
+  - fig:7
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:11
+  - ev:12
+- id: sym:9
+  label: sword
+  literal_form: Owain's sword used to cut the serpent in two
+  associated_figures:
+  - fig:1
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:12
+- id: sym:10
+  label: roebuck
+  literal_form: fine large roebuck brought by the lion
+  associated_figures:
+  - fig:6
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:14
+scenes:
+- id: scene:1
+  label: Owain revived and clothed after balsam
+  summary: The maiden applies all of the balsam to Owain, leaves clothing and a horse,
+    watches him revive, and greets him after he dresses and mounts.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Hospitality and healing at the Countess's castle
+  summary: Owain is brought to the Countess's castle, where the Countess complains
+    about the costly balsam but orders care for him until he recovers over three months.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Threat from the Earl's army
+  summary: A hostile Earl arrives with a large army to subdue the Countess; Owain
+    asks for and receives a horse and arms.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Capture of the Earl and restoration of lands
+  summary: Owain locates the Earl by the yellow standards, captures him, presents
+    him to the Countess as repayment, and the Earl restores lands and pays ransom.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+- id: scene:5
+  label: Owain's departure
+  summary: Owain leaves despite requests that he remain and chooses wandering through
+    distant lands and deserts.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:10
+- id: scene:6
+  label: Lion rescued from serpent
+  summary: In a wood, Owain finds a black lion prevented from leaving by a serpent
+    in a rock cleft and kills the serpent with his sword.
+  figure_refs:
+  - fig:1
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:7
+  - sym:8
+  - sym:9
+  evidence_refs:
+  - ev:11
+  - ev:12
+- id: scene:7
+  label: Lion becomes camp companion and provider
+  summary: The rescued lion follows Owain; at evening, after Owain kindles a fire,
+    the lion brings fuel and a roebuck.
+  figure_refs:
+  - fig:1
+  - fig:6
+  symbol_refs:
+  - sym:4
+  - sym:10
+  evidence_refs:
+  - ev:13
+  - ev:14
+candidate_motifs:
+- id: motif:1
+  label: healing by costly magical ointment
+  taxonomy_refs: []
+  basis: Owain's movement and recovery begin after the maiden pours all the balsam
+    on him, and three months of care restore him to better appearance than before.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: high
+  cautions: The passage calls the substance precious balsam or ointment, but does
+    not explicitly define it as magical.
+- id: motif:2
+  label: healing repaid by martial rescue
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Owain presents the captured Earl to the Countess as a requital for the balsam,
+    after the Countess's resources were used to heal him.
+  evidence_refs:
+  - ev:3
+  - ev:8
+  - ev:9
+  confidence: medium
+  cautions: The exchange is explicitly phrased as requital, but the broader sacred-exchange
+    classification is interpretive.
+- id: motif:3
+  label: dispossessed lady rescued from coercive aggressor
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The widowed Countess has lost lands after refusing marriage; Owain captures
+    the aggressor and her lands are restored by ransom.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:8
+  - ev:9
+  confidence: medium
+  cautions: Royal legitimacy is approximate; the passage concerns earldoms and territorial
+    restoration rather than explicit kingship.
+- id: motif:4
+  label: hero departs to wander after victory
+  taxonomy_refs:
+  - departure
+  basis: After restoring the Countess's position, Owain refuses to remain and chooses
+    to wander through distant lands and deserts.
+  evidence_refs:
+  - ev:10
+  confidence: high
+  cautions: The passage gives departure clearly, but not a stated quest objective.
+- id: motif:5
+  label: rescue of animal companion from serpent
+  taxonomy_refs:
+  - serpent
+  basis: Owain kills the serpent that traps and attacks the lion, after which the
+    lion follows him.
+  evidence_refs:
+  - ev:11
+  - ev:12
+  - ev:13
+  confidence: high
+  cautions: The available taxonomy ref identifies the serpent element; no separate
+    animal-helper taxonomy ref is provided.
+- id: motif:6
+  label: grateful animal helper provides for hero
+  taxonomy_refs: []
+  basis: After being rescued, the lion behaves like a companion and brings Owain fuel
+    and a roebuck at his camp.
+  evidence_refs:
+  - ev:13
+  - ev:14
+  confidence: high
+  cautions: Gratitude is implied by the sequence of rescue and service, not directly
+    stated.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 996-1007
+  quote_or_summary: The maiden pours all the balsam on Owain, leaves horse and garments
+    nearby, hides, sees him begin to move and rise, and later greets him after he
+    clothes himself and mounts.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1007-1015
+  quote_or_summary: The maiden tells Owain that a widowed Countess owns the castle
+    and has lost most of her lands to a neighboring Earl because she refused to marry
+    him; Owain is conducted to a chamber with fire.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 1017-1024
+  quote_or_summary: The Countess says it is sad to have wasted “seven-score pounds
+    worth of precious ointment upon a stranger whom I know not,” but tells the maiden
+    to wait on him until recovered.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:4
+  type: summary
+  locator: lines 1026-1029
+  quote_or_summary: The maiden provides meat, drink, fire, lodging, and medicines
+    until Owain is well; after three months he is restored to his former guise and
+    becomes more comely than before.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 1031-1037
+  quote_or_summary: Owain hears tumult and learns that the Earl has come before the
+    castle with a numerous army to subdue the Countess.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 1037-1050
+  quote_or_summary: Owain asks for horse and arms; the Countess gives him a beautiful
+    black steed, beechen saddle, and armour for man and horse; he rides out with two
+    equipped pages.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 1050-1060
+  quote_or_summary: The Earl's troop is identified by four yellow standards; Owain
+    sends the pages back to the portal, meets the Earl, pulls him from the saddle,
+    and brings him to the portal.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: quote
+  locator: lines 1060-1062
+  quote_or_summary: Owain presents the Earl to the Countess and says, “Behold a requital
+    to thee for thy blessed balsam.”
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:9
+  type: summary
+  locator: lines 1064-1068
+  quote_or_summary: The Earl restores the two Earldoms as ransom for his life and
+    gives half his own dominions, valuables, and hostages for freedom.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: lines 1070-1072
+  quote_or_summary: Owain departs despite requests from the Countess and her subjects,
+    choosing to wander through distant lands and deserts.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; summarized.
+- id: ev:11
+  type: summary
+  locator: lines 1074-1079
+  quote_or_summary: Owain hears repeated yelling in a wood and sees a craggy mound,
+    a grey rock with a cleft, a serpent within the cleft, and a black lion nearby.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; summarized.
+- id: ev:12
+  type: summary
+  locator: lines 1079-1082
+  quote_or_summary: Whenever the lion tries to leave, the serpent darts to attack;
+    Owain approaches with his sword and cuts the serpent in two as it springs out.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; summarized.
+- id: ev:13
+  type: summary
+  locator: lines 1082-1084
+  quote_or_summary: After Owain kills the serpent and continues on, the lion follows
+    him and plays about him like a greyhound he had reared.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; summarized.
+- id: ev:14
+  type: summary
+  locator: lines 1084
+  quote_or_summary: At evening, Owain rests in a wooded meadow, kindles a fire, and
+    the lion brings enough fuel for three nights, then returns bearing a large roebuck.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is strongly supported by the supplied passage. Motif labels
+    are candidate classifications and should be reviewed, especially where available
+    taxonomy refs are approximate.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly compare this episode with another text, tradition, or motif family beyond candidate motif classification.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:celtic-welsh-mabinogion-guest-gutenberg__l996-l1084
+  passage_sha256=c00cd80e7225cfe70ccc777450a8bb903609d2665a76fb8b974595e75bc63699

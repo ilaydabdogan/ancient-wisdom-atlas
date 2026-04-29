@@ -1,0 +1,599 @@
+---
+record_id: batch.motif.finnish-karelian-kalevala-crawford-gutenberg-l18735-l18931
+source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+passage_locator:
+  label: JOHN MARTIN CRAWFORD. / THE KALEVALA. / PROEM / BOOK II; lines 18735-18931
+  start: '18735'
+  end: '18931'
+  translation: 'Kalevala: The Epic Poem of Finland'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Kullervo, intending to avenge his family against Untamo, meets an aged
+    woodland woman who tells him his parents are still alive and gives him directions
+    to their dwelling. Kullervo follows the route, reaches a fishermen’s cottage,
+    and identifies himself to his parents. His mother recounts the loss of his sister
+    and her own search for the missing daughter, answered only by the echoes of hills
+    and valleys. The next rune begins by saying Kullervo remains with his parents
+    but cannot gain better judgment; when sent fishing, he rows with magical strength
+    and damages the boat.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Kullervo plans to travel to Untamo’s village to avenge his father’s murder,
+    his mother’s tortures, and the troubles of his people.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: An aged woman dressed in blue meets Kullervo on the highway and questions
+    where he is going.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The woman tells Kullervo that his tribe has not perished and that his mother
+    and father live with old Kalervo in Northland.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The woman gives Kullervo a route through forest, river-border, mountain, river,
+    three waterfalls, headland, and a fishermen’s cottage.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Kullervo follows the route north-west, passes the mountain and river landmarks,
+    and finds the cottage on the headland.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Kullervo enters the cottage and finds his long-lost kindred, who do not at
+    first recognize him.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Kullervo identifies himself as the child carried away by the heroes of Untamo
+    when he was very small.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Kullervo’s mother says she had mourned him as dead and supposed him to be
+    in Manala.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: Kullervo’s mother recounts that his elder sister went for berries in the woodlands
+    and mountains and vanished.
+  category: speech
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: The mother describes searching for her daughter through forest and glens up
+    to a mountain summit, where echoes answer that the daughter will not return to
+    her kindred.
+  category: action
+  evidence_refs:
+  - ev:10
+- id: obs:11
+  text: The new rune states that Kullervo remains with his parents but cannot change
+    his nature or gain better wisdom and judgment.
+  category: attribute
+  evidence_refs:
+  - ev:11
+- id: obs:12
+  text: When sent fishing, Kullervo asks whether to row with full strength; a gray-beard
+    tells him to row with youthful vigor, and Kullervo rows with magical force until
+    parts of the vessel and oars break.
+  category: sequence
+  evidence_refs:
+  - ev:12
+figures:
+- id: fig:1
+  name_or_label: Kullervo / Kullerwoinen
+  description: A wayward youth and magician who seeks revenge, journeys to his surviving
+    parents, and later damages a fishing vessel by rowing with magical force.
+  role_refs:
+  - role:1
+  - role:2
+  - role:7
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:7
+  - ev:12
+- id: fig:2
+  name_or_label: Untamo / Untamoinen
+  description: Named by Kullervo as the destroyer of his people and the intended target
+    of revenge.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Aged woodland woman
+  description: An aged woman dressed in blue who meets Kullervo on the highway, corrects
+    his belief that his family has perished, and gives directions to his parents.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Kullervo’s mother
+  description: Kullervo’s living mother, found in the cottage; she had mourned Kullervo
+    as dead and recounts the disappearance of his sister.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+  - ev:8
+  - ev:9
+  - ev:10
+- id: fig:5
+  name_or_label: Kullervo’s father / old Kalervo
+  description: Kullervo’s living father, said to dwell with his mother in Northland
+    and found in the cottage.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: fig:6
+  name_or_label: Kullervo’s missing elder sister
+  description: The elder daughter who went for berries in the woodlands and mountains
+    and vanished; the echoes say she will not return to her kindred.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: fig:7
+  name_or_label: Kullervo’s maiden sisters
+  description: Daughters living with Kullervo’s parents in the cottage, described
+    as beautiful maiden sisters.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:4
+- id: fig:8
+  name_or_label: Gray-beard in the stern
+  description: A gray-bearded man who tells Kullervo to row with all his youthful
+    vigor and says the vessel cannot be destroyed by rowing.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:12
+roles:
+- id: role:1
+  label: avenger
+  assigned_to:
+  - fig:1
+  basis: Kullervo declares his intention to avenge wrongs done to his parents and
+    tribe and to slay Untamo and his kindred.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: returning lost son
+  assigned_to:
+  - fig:1
+  basis: Kullervo reaches the family cottage and identifies himself to his mother
+    and father as the child taken by Untamo’s heroes.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:3
+  label: enemy destroyer of kin
+  assigned_to:
+  - fig:2
+  basis: Kullervo calls Untamo the destroyer of his people and vows revenge against
+    him.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: route-giving informant
+  assigned_to:
+  - fig:3
+  basis: The aged woman tells Kullervo that his family lives and gives detailed directions
+    to find them.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: mourning mother
+  assigned_to:
+  - fig:4
+  basis: The mother says she mourned Kullervo as dead and describes searching for
+    her missing daughter.
+  evidence_refs:
+  - ev:8
+  - ev:10
+- id: role:6
+  label: surviving father
+  assigned_to:
+  - fig:5
+  basis: The father is reported alive with Kullervo’s mother in Northland and is among
+    the kindred found in the cottage.
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: role:7
+  label: destructive laborer
+  assigned_to:
+  - fig:1
+  basis: Kullervo’s attempt to fish by rowing with magical strength damages the boat
+    and oars.
+  evidence_refs:
+  - ev:12
+- id: role:8
+  label: lost daughter
+  assigned_to:
+  - fig:6
+  basis: The sister disappears after going for berries, and the echoes say she will
+    not return.
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: role:9
+  label: remaining sisters
+  assigned_to:
+  - fig:7
+  basis: The directions mention daughters and beautiful maiden sisters living with
+    the parents in the cottage.
+  evidence_refs:
+  - ev:4
+- id: role:10
+  label: boat advisor
+  assigned_to:
+  - fig:8
+  basis: The gray-beard instructs Kullervo how strongly to row.
+  evidence_refs:
+  - ev:12
+symbols:
+- id: sym:1
+  label: forest route
+  literal_form: forest traversed on the way to the family dwelling
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: mountain landmark
+  literal_form: mountain that Kullervo must go around; also the summit where the mother
+    calls for her daughter
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:6
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:10
+- id: sym:3
+  label: river and waterfalls
+  literal_form: river-border, eastward-flowing river, streams, rapids, and three waterfalls
+    on the route
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: headland cottage
+  literal_form: cottage on a headland where fishermen assemble and where Kullervo’s
+    parents live
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:5
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: sym:5
+  label: boat and oars
+  literal_form: fishing vessel, row-locks, bindings, ribs, and aspen-oars broken by
+    Kullervo’s rowing
+  associated_figures:
+  - fig:1
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:12
+- id: sym:6
+  label: Manala
+  literal_form: realm where Kullervo’s mother had supposed the lost Kullervo to be
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Kullervo vows revenge against Untamo
+  summary: Kullervo reflects on his service and plans to travel to Untamo’s village
+    to avenge injuries to his family and tribe.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Woodland woman reveals the family is alive and gives directions
+  summary: An aged blue-clad woman meets Kullervo, tells him his parents and tribe
+    still live, and describes the route to his father’s cottage.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Kullervo follows the landmark route
+  summary: Kullervo travels north-west, goes around the mountain, follows river landmarks
+    and waterfalls, and reaches the cottage on the headland.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Recognition of the lost son
+  summary: Kullervo enters the cottage, is not recognized at first, then declares
+    himself to his mother and father as the child taken by Untamo’s people.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:4
+  - sym:6
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: scene:5
+  label: Mother recounts the vanished sister
+  summary: Kullervo’s mother explains that his elder sister went berry-picking and
+    disappeared; she searched through wild places and heard only echoes saying the
+    daughter would not return.
+  figure_refs:
+  - fig:4
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: scene:6
+  label: Kullervo damages the fishing vessel
+  summary: After remaining with his parents, Kullervo goes fishing, asks how hard
+    to row, receives advice from a gray-beard, and rows with magical force until the
+    boat and oars break.
+  figure_refs:
+  - fig:1
+  - fig:8
+  symbol_refs:
+  - sym:5
+  - sym:3
+  evidence_refs:
+  - ev:11
+  - ev:12
+candidate_motifs:
+- id: motif:1
+  label: revenge departure
+  taxonomy_refs:
+  - departure
+  basis: Kullervo sets out toward Untamo’s village with the stated aim of avenging
+    wrongs done to his family and people.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The taxonomy term is broad; the passage frames the movement specifically
+    as revenge rather than a generic heroic departure.
+- id: motif:2
+  label: guided return to surviving kin
+  taxonomy_refs:
+  - return
+  basis: A guide corrects Kullervo’s false belief that his family has perished, gives
+    him directions, and he reaches the family dwelling and identifies himself as the
+    lost son.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: This is a family return scene, not necessarily a completed social restoration.
+- id: motif:3
+  label: lost child mourned as dead
+  taxonomy_refs:
+  - death_rebirth
+  basis: Kullervo’s mother says she had mourned him as one dead and supposed him to
+    be in Manala before his return to the household.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: The passage does not narrate an actual death and rebirth; the motif candidate
+    rests on social perception of death and unexpected return.
+- id: motif:4
+  label: missing daughter who cannot return
+  taxonomy_refs: []
+  basis: The mother describes the elder sister’s disappearance in the berrying landscape
+    and the echoes’ statement that she will never again join her kindred.
+  evidence_refs:
+  - ev:9
+  - ev:10
+  confidence: high
+  cautions: No available taxonomy reference precisely matches this local lost-daughter
+    pattern.
+- id: motif:5
+  label: failure to gain wisdom or right judgment
+  taxonomy_refs:
+  - wisdom
+  basis: The passage explicitly says Kullervo could not gain higher wisdom or better
+    judgment after returning to his parents.
+  evidence_refs:
+  - ev:11
+  confidence: medium
+  cautions: This is a negative wisdom motif and is tied to character evaluation rather
+    than a successful acquisition of wisdom.
+- id: motif:6
+  label: magical strength misapplied in ordinary labor
+  taxonomy_refs: []
+  basis: Kullervo rows with youthful and magical force during a fishing task and breaks
+    the boat’s bindings, ribs, and oars.
+  evidence_refs:
+  - ev:12
+  confidence: high
+  cautions: No supplied taxonomy family directly names this destructive-labor pattern.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 18735-18755
+  quote_or_summary: Kullervo intends to journey to Untamo’s village to avenge his
+    father’s murder, his mother’s tortures, and the troubles of his tribe; he threatens
+    to slay Untamo and burn his homes.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 18756-18761
+  quote_or_summary: An aged mother-like woman dressed in blue comes on the highway
+    and asks Kullervo where he is going.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 18762-18777
+  quote_or_summary: Kullervo repeats his revenge purpose; the gray-haired woman answers
+    that his tribe has not perished and that his mother and father live with old Kalervo
+    in Northland.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 18778-18813
+  quote_or_summary: The woodland mother directs Kullervo through forest, river-border,
+    three days’ travel, a mountain to go around, an eastward-flowing river, three
+    waterfalls, and a headland cottage where his parents and sisters are.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 18814-18830
+  quote_or_summary: Kullervo travels northward and north-west, walks three days, goes
+    around the mountain, reaches the river and three waterfalls, and sees the cottage
+    on the headland.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 18831-18839
+  quote_or_summary: Kullervo enters the headland cottage, finds his long-lost kindred,
+    and is initially unknown to them.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 18840-18847
+  quote_or_summary: Kullervo asks whether his mother and father know him and identifies
+    himself as Kullerwoinen, taken by Untamo’s heroes when he was only hand-breadth
+    high.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: 18848-18857
+  quote_or_summary: His mother calls him beloved, asks whether he wandered Northland
+    searching for home and kindred, and says she had mourned him as dead and thought
+    him in Manala.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: 18858-18878
+  quote_or_summary: The mother explains she once had two sons and two daughters; the
+    elder son and daughter were absent, and the daughter vanished after going to gather
+    berries in woodlands and mountains.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: 18879-18908
+  quote_or_summary: The mother describes mourning and searching for the daughter through
+    forest and glens, calling from a mountain summit; the hills and valleys echo that
+    the daughter will never again join her kindred or return to her father’s dwelling.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summarized.
+- id: ev:11
+  type: summary
+  locator: 18909-18920
+  quote_or_summary: At the start of Rune XXXV, Kullervo remains with his parents but
+    cannot change his nature or gain higher wisdom or better judgment, being described
+    as ill-nurtured from childhood.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summarized.
+- id: ev:12
+  type: summary
+  locator: 18921-18931
+  quote_or_summary: Kullervo goes fishing, asks whether to row with full youthful
+    force or aged weakness; a gray-beard advises full vigor, and Kullervo rows with
+    magical strength until the vessel’s bindings, juniper ribs, and aspen oars break.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The main actions, figures, and route markers are explicit. Motif classification
+    is more interpretive, especially where available taxonomy categories are broad
+    or do not exactly match the local pattern.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly support a comparison beyond internal motif classification.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:finnish-karelian-kalevala-crawford-gutenberg__l18735-l18931
+  passage_sha256=9b9c9531ba1bd1c18a798527c23eaa740d63be80429988564d92a11187487857

@@ -1,0 +1,437 @@
+---
+record_id: batch.motif.finnish-karelian-kalevala-crawford-gutenberg-l2383-l2571
+source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+passage_locator:
+  label: PREFACE / JOHN MARTIN CRAWFORD. / THE KALEVALA. / PROEM; lines 2383-2571
+  start: '2383'
+  end: '2571'
+  translation: 'Kalevala: The Epic Poem of Finland'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Youkahainen, trapped by Wainamoinen's enchantment in mud, water, and quicksand,
+    repeatedly begs for release and offers various ransoms. Wainamoinen rejects magic
+    bows, boats, stallions, wealth, and grain, but accepts the offer of Youkahainen's
+    sister Aino as a bride. Wainamoinen breaks the spell; Youkahainen frees himself,
+    returns home sorrowfully, damages his sledge, and weeps without answering his
+    father's questions.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Youkahainen addresses Wainamoinen in supplication and asks him to cease his
+    enchantment and free him from mud, water, and a stony prison.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Wainamoinen asks what ransom Youkahainen will give if the enchantment is stopped.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Youkahainen offers magic cross-bows, magic shallops, magic stallions, gold
+    and silver, and corn-fields or stored corn; Wainamoinen rejects these offers.
+  category: sequence
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: obs:4
+  text: As offers are rejected, Wainamoinen continues singing and Youkahainen sinks
+    deeper into mud, water, quicksand, and torment.
+  category: action
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: obs:5
+  text: Youkahainen offers his sister Aino to Wainamoinen as a permanent bride who
+    will perform household tasks.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Wainamoinen accepts Aino as the desired ransom and sings three times to break
+    or lessen the enchantment.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: After the spell is broken, Youkahainen pulls himself from the quicksand and
+    water, recovers his horse, sledge, and whip, and travels home sorrowfully.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: At home, Youkahainen damages his sledge near the house; his father questions
+    him, and Youkahainen weeps without answering.
+  category: sequence
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Wainamoinen
+  description: An ancient, wise, truthful minstrel and magician who sings enchantments
+    and accepts Aino as ransom.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: fig:2
+  name_or_label: Youkahainen
+  description: A youthful, sad, reckless Lapland minstrel trapped by enchantment,
+    who offers ransoms and later returns home sorrowfully.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:7
+  - ev:8
+- id: fig:3
+  name_or_label: Aino
+  description: Youkahainen's sister, described as the fairest daughter of his mother
+    and offered as Wainamoinen's bride.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: Youkahainen's father
+  description: At home, he asks Youkahainen why he has broken his snow-sledge and
+    come home behaving strangely.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:8
+- id: fig:5
+  name_or_label: Youkahainen's mother / Aino's mother
+  description: An aged mother at home; the passage says she quickly guesses and would
+    have chided Youkahainen before the father speaks.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: enchanting magician
+  assigned_to:
+  - fig:1
+  basis: Wainamoinen is asked to cease his enchantment and is said to sing in order
+    to break the spell.
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: role:2
+  label: ransom recipient
+  assigned_to:
+  - fig:1
+  basis: Wainamoinen asks for a ransom, rejects several offers, and accepts Aino as
+    the desired ransom.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:3
+  label: enchanted captive
+  assigned_to:
+  - fig:2
+  basis: Youkahainen is trapped in mud, water, quicksand, and torment until Wainamoinen
+    breaks the spell.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+  - ev:7
+- id: role:4
+  label: ransom offerer
+  assigned_to:
+  - fig:2
+  basis: Youkahainen offers possessions, wealth, land, grain, and finally Aino for
+    his release.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:5
+  label: bride offered as ransom
+  assigned_to:
+  - fig:3
+  basis: Aino is offered by Youkahainen to be Wainamoinen's bride forever and is accepted
+    as the wished-for ransom.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:6
+  label: questioning father
+  assigned_to:
+  - fig:4
+  basis: The father asks Youkahainen why he has broken his sledge and come home strangely.
+  evidence_refs:
+  - ev:8
+- id: role:7
+  label: concerned mother
+  assigned_to:
+  - fig:5
+  basis: The mother is said to guess quickly and to be ready to chide him before the
+    father interrupts.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: mud, water, and quicksand
+  literal_form: slough, mud, water, quicksand, mire
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:7
+- id: sym:2
+  label: magic singing and enchantment
+  literal_form: songs, incantations, spell, charm, magic
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:6
+- id: sym:3
+  label: rejected ransom goods
+  literal_form: magic cross-bows, magic shallops, magic stallions, gold, silver, corn-fields,
+    corn in garners
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: Aino as bride-ransom
+  literal_form: sister Aino offered as a bride forever
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:5
+  label: sledge and homecoming
+  literal_form: golden sledge, broken shafts, broken sledge pieces, return to home
+  associated_figures:
+  - fig:2
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+scenes:
+- id: scene:1
+  label: Initial plea and proposed ransom
+  summary: Youkahainen begs Wainamoinen to stop the enchantment and Wainamoinen asks
+    what ransom he will give.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Rejected material ransoms
+  summary: Youkahainen offers magic bows, boats, stallions, wealth, and grain, but
+    Wainamoinen rejects each offer while Youkahainen sinks deeper.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Aino offered and accepted
+  summary: Youkahainen offers his sister Aino as Wainamoinen's permanent bride, and
+    Wainamoinen accepts this as the desired ransom.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Spell broken and departure
+  summary: Wainamoinen sings to break the spell; Youkahainen frees himself from the
+    mire and returns home heavy-hearted.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:5
+  label: Troubled homecoming
+  summary: Youkahainen arrives home recklessly, breaks his sledge, is questioned by
+    his father, and weeps without answering.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Wisdom-singer overcomes rival through enchantment
+  taxonomy_refs:
+  - wisdom
+  basis: Wainamoinen is called wise and a true magician; his singing traps and releases
+    Youkahainen.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+  confidence: medium
+  cautions: The passage presents magical singing and wisdom but does not provide a
+    broader explanatory frame beyond this encounter.
+- id: motif:2
+  label: Release obtained through escalating ransom offers
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Youkahainen offers a sequence of valuables for release, and the accepted
+    exchange is Aino as bride-ransom.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The taxonomy label is approximate; the passage is a coerced ransom exchange
+    rather than an explicitly sacred ritual exchange.
+- id: motif:3
+  label: Ordeal in mire followed by chastened return
+  taxonomy_refs:
+  - initiation
+  basis: Youkahainen endures sinking in mud and water, is released after ransom, and
+    is described as sad but wiser on return.
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: low
+  cautions: The passage says he is wiser after the ordeal, but it does not explicitly
+    describe an initiation rite.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2383-2401
+  quote_or_summary: Youkahainen begs Wainamoinen to cease the enchantment and free
+    him; Wainamoinen asks what ransom he will give.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 2402-2415
+  quote_or_summary: Youkahainen offers two magic cross-bows; Wainamoinen rejects them,
+    saying he already has bows in abundance.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: subsequent lines in passage, after first rejected ransom
+  quote_or_summary: Wainamoinen sings Youkahainen deeper into mud and water. Youkahainen
+    offers magic boats and magic stallions, and Wainamoinen rejects both offers.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: middle of passage, gold/silver and corn-field offers
+  quote_or_summary: Youkahainen, sunk to his shoulders and then to his chin, offers
+    gold, silver, corn-fields, and stored corn; Wainamoinen rejects these as well.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: middle-late passage, Aino offer
+  quote_or_summary: Youkahainen begs Wainamoinen to restore his life and offers his
+    sister Aino, fairest daughter of his mother, as Wainamoinen's bride forever, with
+    household duties described.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: late passage, acceptance and spell-breaking
+  quote_or_summary: Wainamoinen finds the wished-for ransom in Aino, rejoices, and
+    sings three times to break, lessen, and banish the magic spell.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: late passage, release and departure
+  quote_or_summary: When the spell is broken, Youkahainen frees his feet and beard
+    from quicksand and water, recovers his horse, sledge, and whip, and hurries home
+    heavy-hearted.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: closing lines of passage
+  quote_or_summary: Youkahainen reaches home recklessly, breaks his sledge, is questioned
+    by his father about the strange behavior, and weeps without answering.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal sequence and roles are clear in the supplied passage. Motif labels
+    are cautious because the passage does not explicitly identify a formal motif family.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata. No comparison claims were added because the passage itself does not support an explicit cross-text or cross-tradition comparison.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:finnish-karelian-kalevala-crawford-gutenberg__l2383-l2571
+  passage_sha256=43d519e706377ecb0de79a520ab09f88b143e0ed5f980e4ce3b2c7a1ba394c39

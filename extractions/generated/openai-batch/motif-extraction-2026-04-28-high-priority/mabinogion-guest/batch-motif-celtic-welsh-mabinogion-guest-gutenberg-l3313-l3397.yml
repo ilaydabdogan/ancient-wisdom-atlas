@@ -1,0 +1,464 @@
+---
+record_id: batch.motif.celtic-welsh-mabinogion-guest-gutenberg-l3313-l3397
+source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+passage_locator:
+  label: C. E. G. / THE LADY OF THE FOUNTAIN / PEREDUR THE SON OF EVRAWC / GERAINT
+    THE SON OF ERBIN; lines 3313-3397
+  start: '3313'
+  end: '3397'
+  translation: The Mabinogion
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Geraint announces a quest, commands Enid to ride ahead in silence, and
+    chooses a dangerous road. Armed horsemen twice attempt to seize their horses,
+    armor, and Enid. Enid breaks silence to warn Geraint both times; Geraint rebukes
+    her, defeats the attackers, and gathers their horses and armor.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Geraint tells Erbin that he is going on a quest and is uncertain when he will
+    return.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Erbin questions Geraint's sudden departure and his ability to travel Lloegyr
+    alone, then gives him a blessing.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Geraint orders Enid to ride a long way before him, not to turn back, and not
+    to speak unless he speaks first.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Geraint chooses the wildest road, described as beset by thieves, robbers,
+    and venomous animals.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Four armed horsemen emerge from a vast forest and discuss capturing two horses,
+    armor, and a lady from a single knight.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Enid hears the plan, fears Geraint's command of silence, but chooses to warn
+    him rather than watch his death.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Geraint rebukes Enid for speaking and says he wants silence rather than warning.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Geraint kills the four attacking horsemen in succession.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: After the first combat, Geraint takes the dead men's arms, places them on
+    their saddles, ties their horses together, and orders Enid to drive them forward.
+  category: action
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:10
+  text: After leaving the forest, Geraint and Enid come to a vast plain with thick
+    tangled copse-wood at its center.
+  category: setting
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: Three armored horsemen come from the copse and discuss taking the horses,
+    armor, and the maiden.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:12
+  text: Enid again warns Geraint because she fears the attackers will surprise him
+    while he is tired from combat.
+  category: action
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: obs:13
+  text: Geraint again rebukes Enid for not keeping silence.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:14
+  text: Geraint defeats the three horsemen and fastens the captured armor and horses
+    together, leaving him with seven horses.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:15
+  text: Enid is distressed by the danger to Geraint but joyful when he is victorious.
+  category: attribute
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Geraint
+  description: A knight who goes on a quest, commands Enid's conduct, and defeats
+    two groups of armed horsemen.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:7
+- id: fig:2
+  name_or_label: Erbin
+  description: Geraint's father or elder addressed by Geraint before departure; he
+    is asked to take heed of Geraint's possessions and blesses him.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Enid / the maiden
+  description: Geraint's companion, ordered to ride ahead in silence; she twice warns
+    him of attackers despite his command.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+  - ev:7
+- id: fig:4
+  name_or_label: Four armed horsemen
+  description: A group emerging from the forest who plan to seize horses, armor, and
+    the lady, then attack Geraint and are killed.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: Three armored horsemen
+  description: A group emerging from tangled copse-wood who plan to seize the horses,
+    armor, and maiden, then attack Geraint and are defeated.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+  - ev:7
+roles:
+- id: role:1
+  label: questing knight
+  assigned_to:
+  - fig:1
+  basis: Geraint states that he is going upon a quest and travels into danger.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: victorious combatant
+  assigned_to:
+  - fig:1
+  basis: Geraint defeats the four horsemen and later the three horsemen.
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: role:3
+  label: guardian of possessions and paternal counselor
+  assigned_to:
+  - fig:2
+  basis: Geraint asks Erbin to take heed of his possessions, and Erbin questions and
+    blesses his departure.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: commanded companion
+  assigned_to:
+  - fig:3
+  basis: Enid is ordered to ride ahead, not turn back, and not speak unless Geraint
+    speaks first.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: warning speaker
+  assigned_to:
+  - fig:3
+  basis: Enid twice breaks silence to warn Geraint about hostile horsemen.
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:7
+- id: role:6
+  label: hostile armed raiders
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: Both groups plan to take horses, armor, and the woman, then attack Geraint.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+symbols:
+- id: sym:1
+  label: quest
+  literal_form: Geraint's announced journey away from home with uncertain return
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: dangerous road
+  literal_form: The wild road beset by thieves, robbers, and venomous animals
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: forest
+  literal_form: A vast forest from which four armed horsemen emerge
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: captured horses and armor
+  literal_form: Horses and suits of armor taken from defeated attackers and driven
+    forward by Enid
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+- id: sym:5
+  label: tangled copse in a plain
+  literal_form: Thickly tangled copse-wood in the center of a vast plain, from which
+    three armored horsemen come
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: commanded silence
+  literal_form: Geraint's repeated command that Enid not speak unless spoken to
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:7
+scenes:
+- id: scene:1
+  label: Departure for the quest
+  summary: Geraint tells Erbin he is leaving on a quest, asks him to guard his possessions,
+    receives a blessing, equips his horse, and sets Enid under a command of silence
+    while riding ahead.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: First ambush at the forest
+  summary: On a dangerous road near a vast forest, four armed horsemen plan to seize
+    Geraint and Enid's horses, armor, and Enid. Enid warns Geraint; he rebukes her,
+    defeats all four attackers, and takes their horses and arms.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Second ambush at the plain and copse
+  summary: After leaving the forest, Geraint and Enid encounter three armored horsemen
+    from tangled copse-wood in a plain. Enid warns Geraint again; he rebukes her,
+    defeats the attackers, and adds their horses and armor to the captured spoil.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: hero departs on uncertain quest
+  taxonomy_refs:
+  - departure
+  basis: Geraint announces that he is going on a quest and does not know when he will
+    return.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage names a quest but does not yet state its larger goal.
+- id: motif:2
+  label: chosen dangerous road as ordeal
+  taxonomy_refs:
+  - initiation
+  basis: Geraint deliberately avoids the pleasant frequented road and takes the wildest
+    road, where repeated armed challenges follow.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The passage presents danger and testing-like encounters, but it does not
+    explicitly call them an initiation.
+- id: motif:3
+  label: companion under silence command warns hero
+  taxonomy_refs: []
+  basis: Enid is commanded not to speak, yet twice breaks silence to warn Geraint
+    of attackers, and is rebuked both times.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: No supplied taxonomy reference directly matches this pattern.
+- id: motif:4
+  label: sequential ambushes defeated by single knight
+  taxonomy_refs: []
+  basis: Two groups of armed horsemen attempt to seize property and the woman; Geraint
+    defeats each group despite being alone.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: This is a narrative combat pattern rather than a supplied named motif
+    family.
+- id: motif:5
+  label: spoils accumulated after ordeal combats
+  taxonomy_refs: []
+  basis: After each victory, Geraint gathers the attackers' horses and armor, increasing
+    the train of captured horses to seven.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+  confidence: high
+  cautions: The passage does not explain the later function of the accumulated horses
+    and armor.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 3313-3321
+  quote_or_summary: Geraint tells Erbin he is going on a quest and is uncertain of
+    his return; Erbin questions the sudden departure and blesses him.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 3321-3331
+  quote_or_summary: Geraint equips his horse, orders Enid to ride ahead and keep silent
+    unless spoken to, and chooses the wildest road with thieves, robbers, and venomous
+    animals.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 3331-3341
+  quote_or_summary: Four armed horsemen emerge from the forest and plan to capture
+    horses, armor, and the lady; Enid hears them and decides to warn Geraint despite
+    his command.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 3342-3359
+  quote_or_summary: Enid warns Geraint; he rebukes her, then kills the four attacking
+    horsemen and gathers their arms and horses.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 3360-3367
+  quote_or_summary: Geraint orders Enid to drive the four captured horses forward
+    and again commands her not to speak unless he speaks first.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 3368-3378
+  quote_or_summary: After the forest, Geraint and Enid reach a vast plain with tangled
+    copse-wood; three armored horsemen come forth and plan to seize the horses, armor,
+    and maiden.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 3379-3397
+  quote_or_summary: Enid warns Geraint a second time; he rebukes her, defeats the
+    three horsemen, and binds the captured armor and horses so that he has seven horses.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is strong for the supplied passage. Motif labels beyond
+    the explicit quest/departure are interpretive and should be reviewed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly support a cross-text or historical comparison.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:celtic-welsh-mabinogion-guest-gutenberg__l3313-l3397
+  passage_sha256=2996f9bfc2425aba10bfc3fe63dcb155f4aec1caec77d10a52bf45ef0421d5de

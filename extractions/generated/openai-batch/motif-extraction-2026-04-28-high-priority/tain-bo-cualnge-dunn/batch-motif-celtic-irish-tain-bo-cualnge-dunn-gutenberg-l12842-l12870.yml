@@ -1,0 +1,303 @@
+---
+record_id: batch.motif.celtic-irish-tain-bo-cualnge-dunn-gutenberg-l12842-l12870
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+passage_locator:
+  label: THE RED-SHAME OF MENN FOLLOWETH HERE / HERE FOLLOWETH THE ACCOUTREMENT OF
+    THE CHARIOTEERS / HERE FOLLOWETH ILIACH'S CLUMP-FIGHT / HERE NOW THE DEER-STALKING
+    OF AMARGIN IN TALTIU; lines 12842-12870
+  start: '12842'
+  end: '12870'
+  translation: The Ancient Irish Epic Tale Tain Bo Cualnge
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: he began to pelt the men of Erin till the end of three days and three nights
+  summary: Amargin, identified by genealogy, encounters warriors crossing Taltiu,
+    forces them to turn northward, takes a hostile posture, receives rocks, boulders,
+    and earth-clumps from his people, and pelts the men of Erin for three days and
+    nights, causing slaughter so that no man can face him there.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: 'Amargin is introduced through a genealogy: son of Cass, grandson of Bacc,
+    descendant of Ross Ruad and Rudraige, with Rudraige identified as father of Conall
+    Cernach.'
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Amargin comes upon warriors going westward over Taltiu and makes them turn
+    northward over Taltiu.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Amargin puts his left elbow under him in Taltiu; the passage note explains
+    this as a challenge or sign of hostility.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Amargin's people supply him with rocks, boulders, and great clumps of earth.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Amargin pelts the men of Erin for three days and three nights.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The pelting causes great slaughter, and no man can show his face to Amargin
+    in Taltiu.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Amargin
+  description: Son of Cass and descendant of Rudraige; he confronts and attacks the
+    warriors in Taltiu.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: fig:2
+  name_or_label: warriors / men of Erin
+  description: Warriors crossing Taltiu who are turned northward and later pelted
+    by Amargin.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:3
+  name_or_label: Amargin's people
+  description: People who furnish Amargin with rocks, boulders, and clumps of earth.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Cass, Bacc, Ross Ruad, Rudraige, and Conall Cernach
+  description: Named figures in Amargin's genealogy; Rudraige is identified as father
+    of Conall Cernach.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: single hostile attacker
+  assigned_to:
+  - fig:1
+  basis: Amargin challenges or shows hostility, receives projectiles, and pelts the
+    men of Erin for three days and nights.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:2
+  label: opposing warriors
+  assigned_to:
+  - fig:2
+  basis: The warriors are forced to change direction and are the targets of Amargin's
+    pelting.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:3
+  label: projectile suppliers
+  assigned_to:
+  - fig:3
+  basis: Amargin's people furnish him with rocks, boulders, and earth-clumps.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: genealogical ancestors and kin-reference
+  assigned_to:
+  - fig:4
+  basis: These figures are named only in the lineage used to identify Amargin.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: rocks, boulders, and earth-clumps
+  literal_form: Rocks, boulders, and great clumps of earth used as missiles.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: left-elbow hostile posture
+  literal_form: Amargin puts his left elbow under him; the note glosses it as a challenge
+    or sign of hostility.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: Taltiu
+  literal_form: Place where the warriors cross, Amargin takes position, and the attack
+    occurs.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: sym:4
+  label: three days and three nights
+  literal_form: The duration of Amargin's pelting of the men of Erin.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Amargin turns the warriors at Taltiu
+  summary: Amargin encounters warriors traveling west over Taltiu and makes them turn
+    northward.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Hostile posture and supplied missiles
+  summary: In Taltiu, Amargin assumes a hostile posture and his people provide rocks,
+    boulders, and earth-clumps.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Three-day pelting of the men of Erin
+  summary: Amargin pelts the men of Erin for three days and nights, causing great
+    slaughter and preventing any man from facing him in Taltiu.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: single warrior halts or redirects an armed group
+  taxonomy_refs: []
+  basis: One named warrior, Amargin, encounters a body of warriors and makes them
+    turn from westward to northward across Taltiu.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage does not explain how he compels the turn, only that he makes
+    them turn.
+- id: motif:2
+  label: champion's missile assault with stones and earth
+  taxonomy_refs: []
+  basis: Amargin is supplied with rocks, boulders, and earth-clumps and uses them
+    to pelt the men of Erin.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is a descriptive motif candidate; no supplied taxonomy reference
+    directly matches it.
+- id: motif:3
+  label: three-day combat ordeal or assault
+  taxonomy_refs: []
+  basis: The attack continues for three days and three nights and results in great
+    slaughter.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage gives the duration but does not frame it as a formal ordeal.
+- id: motif:4
+  label: gesture of challenge before battle
+  taxonomy_refs: []
+  basis: Amargin places his left elbow under him, with the note glossing the gesture
+    as a challenge or sign of hostility.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The meaning depends on the translator/editorial note rather than narrative
+    explanation alone.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 12844-12847
+  quote_or_summary: Amargin is identified as son of Cass, son of Bacc, descendant
+    of Ross Ruad and Rudraige; Rudraige is linked to Conall Cernach.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; concise summary.
+- id: ev:2
+  type: summary
+  locator: 12847-12849
+  quote_or_summary: Amargin encounters warriors going westward over Taltiu and makes
+    them turn northward.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; concise summary.
+- id: ev:3
+  type: summary
+  locator: 12849 and note [a]
+  quote_or_summary: Amargin puts his left elbow under him in Taltiu; the note describes
+    this as a challenge or sign of hostility.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; concise summary.
+- id: ev:4
+  type: quote
+  locator: 12849-12851
+  quote_or_summary: his people furnished him with rocks and boulders and great clumps
+    of earth
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:5
+  type: summary
+  locator: 12851-12853
+  quote_or_summary: Amargin pelts the men of Erin for three days and three nights,
+    does great slaughter among them, and no man can show his face to him in Taltiu.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; concise summary.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The narrative actions and objects are explicit. Motif labels are descriptive
+    and not tied to supplied taxonomy families. No comparison claims were made because
+    the passage itself does not provide a comparative frame.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Heading mentions deer-stalking, but the provided passage itself describes Amargin confronting and pelting warriors in Taltiu rather than an actual deer hunt.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:celtic-irish-tain-bo-cualnge-dunn-gutenberg__l12842-l12870
+  passage_sha256=104068221be4d582086b0332ef97561c2d6237f96aa5cddccca61cdcad109ab9

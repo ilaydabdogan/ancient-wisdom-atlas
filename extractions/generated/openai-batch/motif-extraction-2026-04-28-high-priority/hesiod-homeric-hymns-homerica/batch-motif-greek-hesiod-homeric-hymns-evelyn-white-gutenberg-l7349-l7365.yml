@@ -1,0 +1,322 @@
+---
+record_id: batch.motif.greek-hesiod-homeric-hymns-evelyn-white-gutenberg-l7349-l7365
+source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+passage_locator:
+  label: XXVI. TO DIONYSUS / XXVII. TO ARTEMIS / XXVIII. TO ATHENA / XXIX. TO HESTIA;
+    lines 7349-7365
+  start: '7349'
+  end: '7365'
+  translation: Hesiod, the Homeric Hymns, and Homerica
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The hymn praises Hestia as honored in the dwellings of gods and humans,
+    states that mortals pour sweet wine to her first and last at banquets, invokes
+    Hermes with his divine titles, asks Hermes and Hestia to dwell in the house as
+    friendly helpers, and closes with a hail to Hestia and Hermes.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Hestia is addressed as having an everlasting abode and highest honour in the
+    dwellings of gods and humans.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Mortals are said not to hold a banquet without pouring sweet wine in offering
+    to Hestia first and last.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Hermes is addressed as slayer of Argus, son of Zeus and Maia, messenger of
+    the blessed gods, bearer of the golden rod, and giver of good.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The speaker asks Hermes and Hestia to be favourable, help, and dwell together
+    in the glorious house in friendship.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Hermes and Hestia are said to know the noble actions of men and to aid their
+    wisdom and strength.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The hymn closes by hailing the Daughter of Cronos and Hermes, bearer of the
+    golden rod.
+  category: speech
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Hestia
+  description: A divine figure addressed as possessing highest honour and receiving
+    first-and-last wine offerings; also called Daughter of Cronos.
+  role_refs:
+  - role:1
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Hermes
+  description: A divine figure addressed as slayer of Argus, son of Zeus and Maia,
+    messenger of the blessed gods, bearer of the golden rod, and giver of good.
+  role_refs:
+  - role:3
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Mortals / men who walk on earth
+  description: Humans who hold banquets, pour wine offerings to Hestia, and are aided
+    in wisdom and strength.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: Deathless gods / blessed gods
+  description: Divine beings whose high dwellings are mentioned and among whom Hermes
+    serves as messenger.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:1
+  - ev:2
+roles:
+- id: role:1
+  label: honored household deity
+  assigned_to:
+  - fig:1
+  basis: Hestia is said to have an everlasting abode, highest honour, portion, and
+    right in the high dwellings of gods and humans.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: recipient of banquet offering
+  assigned_to:
+  - fig:1
+  basis: Mortals pour sweet wine to Hestia first and last at banquets.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: divine messenger
+  assigned_to:
+  - fig:2
+  basis: Hermes is called messenger of the blessed gods.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: bearer of the golden rod
+  assigned_to:
+  - fig:2
+  basis: Hermes is twice called bearer of the golden rod.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: divine helper
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The speaker asks Hermes and Hestia to be favourable and help, and says they
+    aid human wisdom and strength.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: human worshippers
+  assigned_to:
+  - fig:3
+  basis: Mortals pour wine offerings to Hestia at banquets and are described as receiving
+    aid in wisdom and strength.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:7
+  label: divine community
+  assigned_to:
+  - fig:4
+  basis: The passage mentions deathless gods in high dwellings and blessed gods for
+    whom Hermes is messenger.
+  evidence_refs:
+  - ev:1
+  - ev:2
+symbols:
+- id: sym:1
+  label: sweet wine offering
+  literal_form: Sweet wine poured in offering to Hestia first and last at banquets.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: golden rod
+  literal_form: The golden rod borne by Hermes.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: glorious house
+  literal_form: A house in which Hermes and Hestia are invited to dwell together in
+    friendship.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: first and last offering order
+  literal_form: The repeated ritual position of Hestia receiving wine first and last.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Praise and offering to Hestia
+  summary: Hestia is praised for her honoured place in divine and human dwellings,
+    and the hymn states that mortals pour wine to her first and last at banquets.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Invocation of Hermes and Hestia as household helpers
+  summary: Hermes is invoked by titles and asked, together with Hestia, to dwell in
+    the house in friendship and aid human wisdom and strength.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Closing hail
+  summary: The hymn hails Hestia as Daughter of Cronos and Hermes as bearer of the
+    golden rod before announcing another song.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: ritual first-and-last offering at banquet
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The passage describes mortals pouring sweet wine to Hestia first and last
+    at banquets, presenting a ritual offering to a deity.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The taxonomy label is approximate; the passage states the offering but
+    does not explicitly frame it as an exchange.
+- id: motif:2
+  label: divine household indwelling and aid
+  taxonomy_refs:
+  - wisdom
+  basis: Hermes and Hestia are invited to dwell in the house in friendship and are
+    said to aid human wisdom and strength.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The wisdom motif is limited to a brief statement of divine aid; no extended
+    teaching or wisdom quest appears.
+- id: motif:3
+  label: divine genealogy by epithet
+  taxonomy_refs:
+  - divine_parent_child
+  basis: Hermes is named son of Zeus and Maia, and Hestia is hailed as Daughter of
+    Cronos.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: low
+  cautions: The passage uses genealogical epithets but does not narrate a parent-child
+    episode.
+comparison_claims:
+- id: claim:1
+  claim: The description of wine poured to Hestia at every banquet, first and last,
+    can be cautiously compared to a sacred-exchange pattern in which human ritual
+    offering establishes proper divine honour.
+  claim_level: same_function
+  target: sacred_exchange motif family
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage emphasizes honour and ritual order more than reciprocal
+    bargaining; comparison is functional rather than historical.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 7349-7355; Hymn XXIX, ll. 1-6
+  quote_or_summary: Hestia is praised as honoured in the dwellings of gods and humans;
+    mortals pour sweet wine to her first and last at banquets.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain translation; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 7356-7363; Hymn XXIX, ll. 7-10
+  quote_or_summary: Hermes is invoked with titles including son of Zeus and Maia,
+    messenger, bearer of the golden rod, and giver of good; Hermes and Hestia are
+    asked to dwell in the house and aid wisdom and strength.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain translation; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 7364-7365; Hymn XXIX, ll. 12-13
+  quote_or_summary: The closing hails the Daughter of Cronos and Hermes, bearer of
+    the golden rod, before turning to another song.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain translation; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Extraction is based only on the supplied English passage. Motif taxonomy
+    assignments are cautious because the hymn is brief and mostly invocatory.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No external information about Hestia as hearth goddess or Hermes outside the supplied passage was used.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-hesiod-homeric-hymns-evelyn-white-gutenberg__l7349-l7365
+  passage_sha256=8c100da362237d2df1d3176829ce8e5123018a31e7fdf9c2ed51603020fa1672

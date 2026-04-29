@@ -1,0 +1,158 @@
+---
+record_id: batch.motif.greek-hesiod-homeric-hymns-evelyn-white-gutenberg-l70-l149
+source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+passage_locator:
+  label: Hesiod, the Homeric Hymns, and Homerica / BIBLIOGRAPHY; lines 70-149
+  start: '70'
+  end: '149'
+  translation: Hesiod, the Homeric Hymns, and Homerica
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is a contents page for the volume, listing introductory sections,
+    a bibliography, Hesiodic works and fragments, and the numbered Homeric Hymns with
+    their addressees.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage gives the work title and attributes the volume to Homer and Hesiod.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The contents list preparatory and introductory sections, including a preface,
+    general introduction topics, and literary-historical topics such as the Boeotian
+    School, the Ionic School, and the Trojan Cycle.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Hesiod section lists works and fragment categories, including Works and
+    Days, Theogony, Catalogues of Women and Eoiae, The Shield of Heracles, and doubtful
+    fragments.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The Homeric Hymns section lists numbered hymns addressed to named divine or
+    heroic figures, including Dionysus, Demeter, Apollo, Hermes, Aphrodite, Ares,
+    Artemis, Athena, Hera, the Mother of the Gods, Heracles, Asclepius, the Dioscuri,
+    Pan, Hephaestus, Poseidon, Hestia, the Muses, Earth the Mother of All, Helios,
+    and Selene.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage functions as a table of contents rather than as a narrative episode.
+  category: other
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Homer
+  description: Named in the title attribution as one of the authors associated with
+    the volume.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Hesiod
+  description: Named in the title attribution and as a major contents section heading.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:3
+  name_or_label: Homeric Hymn addressees
+  description: Collective label for the named recipients or subjects of hymns in the
+    contents list, such as Dionysus, Demeter, Apollo, Hermes, Aphrodite, and others.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: attributed author
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The title page states the work is by Homer and Hesiod.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: contents section subject
+  assigned_to:
+  - fig:2
+  basis: A main contents heading is labeled HESIOD and is followed by Hesiodic works
+    and fragments.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: hymn addressee or section subject
+  assigned_to:
+  - fig:3
+  basis: The Homeric Hymns contents entries are formatted as hymns 'TO' named figures.
+  evidence_refs:
+  - ev:4
+symbols: []
+scenes: []
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 70-75
+  quote_or_summary: The title is given as Hesiod, The Homeric Hymns, and Homerica,
+    followed by the attribution 'by Homer and Hesiod.'
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 76-94
+  quote_or_summary: The contents list preparers note, preface, introduction, and introduction
+    subtopics such as the Boeotian School, Life of Hesiod, the Homeric Hymns, and
+    the Contest of Homer and Hesiod.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 96-119
+  quote_or_summary: The Hesiod contents section lists works and fragment categories
+    including Works and Days, Divination by Birds, Theogony, Catalogues of Women and
+    Eoiae, Shield of Heracles, and doubtful fragments.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 121-149
+  quote_or_summary: The Homeric Hymns contents section lists numbered hymns to divine
+    or heroic figures, from Dionysus, Demeter, Apollo, Hermes, and Aphrodite through
+    Helios, Selene, and the Dioscuri.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is a contents list with named works and hymn addressees, not
+    a narrative myth passage; no motif candidates or comparison claims are extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No taxonomy motif or symbol references were assigned because the passage provides headings and titles only, without mythic actions, objects, or scenes.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-hesiod-homeric-hymns-evelyn-white-gutenberg__l70-l149
+  passage_sha256=0317d4662a96f3ce7af62948892d5a2cc2a4c9df9790eae4d61f84c0a7bd2a57

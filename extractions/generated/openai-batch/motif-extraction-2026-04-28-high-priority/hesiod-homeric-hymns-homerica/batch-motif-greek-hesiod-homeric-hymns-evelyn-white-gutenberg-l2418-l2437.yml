@@ -1,0 +1,398 @@
+---
+record_id: batch.motif.greek-hesiod-homeric-hymns-evelyn-white-gutenberg-l2418-l2437
+source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+passage_locator:
+  label: HESIODS WORKS AND DAYS / THE DIVINATION BY BIRDS / THE ASTRONOMY / THE PRECEPTS
+    OF CHIRON; lines 2418-2437
+  start: '2418'
+  end: '2437'
+  translation: Hesiod, the Homeric Hymns, and Homerica
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Four cited fragments from the Precepts of Chiron give maxims about sacrificing
+    to the gods when returning home, hearing both sides before deciding a suit, a
+    chain of comparative lifespans from crow to Nymphs, and a report about the age
+    at which children should receive literary education and the attribution of the
+    Precepts to Hesiod.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A speaker instructs the listener to mark the teachings in a wise heart.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The listener is told to offer good sacrifices to the eternal gods whenever
+    coming to the house.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A legal maxim says not to decide a suit until both sides have spoken.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: 'The passage gives a sequence of lifespans: a crow outlives nine generations
+    of aged men; a stag lives four times as long as a crow; a raven lives as long
+    as three stags; a phoenix outlives nine ravens; and the Nymphs outlive ten phoenixes.'
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Nymphs are described as rich-haired daughters of Zeus the aegis-holder.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A later report says some held that children under seven should not receive
+    literary education, and that many earlier writers attributed this opinion to Hesiod
+    through the Precepts.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The report says Aristophanes was the first to reject the Precepts as a work
+    of Hesiod.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: listener or addressee
+  description: The person addressed by the instructional maxims.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: eternal gods
+  description: Divine recipients of good sacrifices when the listener comes to the
+    house.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: crow
+  description: A chattering crow whose lifespan is measured against nine generations
+    of aged men.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: aged men
+  description: Human generations used as the first measure in the lifespan comparison.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: stag
+  description: An animal whose life is said to be four times that of a crow.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: raven
+  description: A bird whose life is said to make three stags old.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: phoenix
+  description: A bird that outlives nine ravens.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:8
+  name_or_label: Nymphs
+  description: Rich-haired daughters of Zeus the aegis-holder who outlive ten phoenixes.
+  role_refs:
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:9
+  name_or_label: Zeus the aegis-holder
+  description: Father of the Nymphs in the lifespan fragment.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:10
+  name_or_label: children under seven
+  description: Children described in a maxim about literary education.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+- id: fig:11
+  name_or_label: Hesiod
+  description: Poet to whom the educational maxim in the Precepts was attributed by
+    many earlier writers.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:4
+- id: fig:12
+  name_or_label: Aristophanes
+  description: Critic said to have been the first to reject the Precepts as Hesiodic.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: recipient of instruction
+  assigned_to:
+  - fig:1
+  basis: The precepts are phrased as instructions to a listener.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: divine recipients of sacrifice
+  assigned_to:
+  - fig:2
+  basis: The gods are to receive good sacrifices.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: member of comparative longevity sequence
+  assigned_to:
+  - fig:3
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  basis: Each is placed in the chain of increasing lifespans.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: human lifespan measure
+  assigned_to:
+  - fig:4
+  basis: Generations of aged men serve as the measure for the crow's lifespan.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: divine daughters
+  assigned_to:
+  - fig:8
+  basis: The Nymphs are called daughters of Zeus.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: divine father
+  assigned_to:
+  - fig:9
+  basis: Zeus is named as the father of the Nymphs.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: children in educational maxim
+  assigned_to:
+  - fig:10
+  basis: Children under seven are the subject of the reported educational precept.
+  evidence_refs:
+  - ev:4
+- id: role:8
+  label: attributed authorial authority
+  assigned_to:
+  - fig:11
+  basis: Many earlier writers are said to have affirmed that Hesiod held the educational
+    opinion.
+  evidence_refs:
+  - ev:4
+- id: role:9
+  label: critic of attribution
+  assigned_to:
+  - fig:12
+  basis: Aristophanes is said to have rejected the Precepts as a work of Hesiod.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: household sacrifice
+  literal_form: good sacrifices offered to the eternal gods when coming to the house
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: comparative lifespan chain
+  literal_form: crow, aged men, stag, raven, phoenix, and Nymphs ordered by increasing
+    longevity
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: wise heart
+  literal_form: a wise heart in which the listener is told to mark the teachings
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Instruction to sacrifice at homecoming
+  summary: The addressee is told to keep the precepts in a wise heart and to offer
+    sacrifices to the eternal gods whenever coming to the house.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Judicial maxim
+  summary: A rule is given that a suit should not be decided until both sides have
+    spoken.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Chain of lifespans
+  summary: A sequence compares the lifespans of aged men, crow, stag, raven, phoenix,
+    and Nymphs, ending with the Nymphs as longest-lived.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Report on education and attribution
+  summary: A later report discusses a maxim that children under seven should not receive
+    literary education, its attribution to Hesiod, and Aristophanes' rejection of
+    the Precepts as Hesiodic.
+  figure_refs:
+  - fig:10
+  - fig:11
+  - fig:12
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: instructional wisdom precepts
+  taxonomy_refs:
+  - wisdom
+  basis: The passage consists of concise maxims about piety, judgment, lifespan knowledge,
+    and education, introduced as teachings to be kept in a wise heart.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The fragments are excerpted testimonia and do not form a continuous narrative.
+- id: motif:2
+  label: ritual offering to gods at household return
+  taxonomy_refs: []
+  basis: The addressee is instructed to offer good sacrifices to the eternal gods
+    whenever coming to the house.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage gives a prescriptive maxim only, without a narrated ritual
+    scene.
+- id: motif:3
+  label: graded longevity of animals and divine beings
+  taxonomy_refs: []
+  basis: The passage presents an ascending sequence of lifespans from human generations
+    through birds and stag to phoenix and Nymphs.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: No broader mythic episode is narrated; the motif is limited to comparative
+    lifespan lore.
+- id: motif:4
+  label: fair judgment by hearing both sides
+  taxonomy_refs:
+  - wisdom
+  basis: The legal maxim says not to decide a suit until both sides have spoken.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is an ethical or judicial maxim rather than a narrative motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 'lines 2418-2423; Fragment #1'
+  quote_or_summary: The addressee is told to mark the teachings in a wise heart and,
+    whenever coming to the house, to offer good sacrifices to the eternal gods.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: 'lines 2424-2426; Fragment #2'
+  quote_or_summary: "“Decide no suit until you have heard both sides speak.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:3
+  type: summary
+  locator: 'lines 2427-2432; Fragment #3'
+  quote_or_summary: A lifespan sequence states that a crow lives nine generations
+    of aged men, a stag four crows, a raven three stags, a phoenix nine ravens, and
+    the rich-haired Nymphs, daughters of Zeus, ten phoenixes.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 'lines 2434-2437; Fragment #4'
+  quote_or_summary: A report says some held that children under seven should not receive
+    literary education; many earlier writers attributed the view to Hesiod, while
+    Aristophanes first rejected the Precepts as Hesiodic.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied fragments. Motif labels are cautious
+    because the passage is a set of maxims and testimonia rather than a continuous
+    mythic narrative. No comparison claims are made because the passage itself does
+    not support a specific cross-textual comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No available symbol taxonomy refs apply directly to the passage.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-hesiod-homeric-hymns-evelyn-white-gutenberg__l2418-l2437
+  passage_sha256=a2a7e42f6ef845d58b1b06173d3c044e415f43b06585f23a330337152d8249d5

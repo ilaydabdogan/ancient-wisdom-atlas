@@ -1,0 +1,336 @@
+---
+record_id: batch.motif.greek-hesiod-homeric-hymns-evelyn-white-gutenberg-l2439-l2460
+source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+passage_locator:
+  label: THE ASTRONOMY / THE PRECEPTS OF CHIRON / THE GREAT WORKS / THE IDAEAN DACTYLS;
+    lines 2439-2460
+  start: '2439'
+  end: '2460'
+  translation: Hesiod, the Homeric Hymns, and Homerica
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage preserves brief testimonia and fragments attributed to Hesiodic
+    works. One fragment states a principle of reciprocal justice: one who sows evil
+    reaps evil. Another reports that silver is of the family of Earth. The Idaean
+    Dactyls are credited with teaching iron smelting and tempering in Crete; Celmis
+    and Damnameneus are named as discovering iron in Cyprus, and Delas, also called
+    Scythes by Hesiod, is associated with the discovery of bronze smelting.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A fragment from the Great Works states that a man who sows evil will reap
+    evil increase, and that receiving treatment like one's own deeds is true justice.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A testimony reports that Hesiod in the Great Works makes silver to be of the
+    family of Earth.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A testimony reports that the Idaean Dactyls taught smelting and tempering
+    of iron in Crete.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Celmis and Damnameneus are named as the first of the Idaean Dactyls and as
+    discoverers of iron in Cyprus.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Delas, another Idaean, is credited with discovering bronze smelting; the passage
+    notes that Hesiod calls him Scythes.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Rhadamanthys
+  description: Named in a parenthetical note referring to a verse on the slaying of
+    Rhadamanthys.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Silver Race
+  description: A collective race said by some to be attributed to the earth and described
+    as of the family of Earth.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Earth
+  description: Named as the family to which silver belongs in the reported Hesiodic
+    statement.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Idaean Dactyls
+  description: A named group credited with teaching the smelting and tempering of
+    iron in Crete.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Celmis
+  description: Named as one of the first Idaean Dactyls and as a discoverer of iron
+    in Cyprus.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Damnameneus
+  description: Named as one of the first Idaean Dactyls and as a discoverer of iron
+    in Cyprus.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Delas / Scythes
+  description: Named as another Idaean who discovered bronze smelting; the passage
+    says Hesiod calls him Scythes.
+  role_refs:
+  - role:4
+  - role:6
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: victim named in cited verse
+  assigned_to:
+  - fig:1
+  basis: The passage parenthetically identifies the verse as concerning the slaying
+    of Rhadamanthys.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: collective race with earth-related kinship
+  assigned_to:
+  - fig:2
+  basis: The Silver Race is reported to be attributed to earth and made of the family
+    of Earth.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: kinship source
+  assigned_to:
+  - fig:3
+  basis: Earth is named as the family to which silver belongs.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: Idaean metallurgical figure
+  assigned_to:
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  basis: The Idaean Dactyls, including named individuals, are credited with teaching
+    or discovering metalworking practices.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: discoverer of iron
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: Celmis and Damnameneus are said to have discovered iron in Cyprus.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: discoverer of bronze smelting
+  assigned_to:
+  - fig:7
+  basis: Delas is said to have discovered bronze smelting, with Scythes given as Hesiod's
+    name for him.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: iron
+  literal_form: iron
+  associated_figures:
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: bronze smelting
+  literal_form: bronze smelting
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: silver
+  literal_form: silver
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: Crete
+  literal_form: Crete
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: Cyprus
+  literal_form: Cyprus
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Reciprocal justice maxim
+  summary: A fragment states that evil actions yield evil returns and that equivalent
+    treatment constitutes true justice.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Silver linked to Earth
+  summary: A testimony reports that Hesiod connects silver with the family of Earth.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Idaean Dactyls teach ironworking
+  summary: The Idaean Dactyls are credited with teaching the smelting and tempering
+    of iron in Crete.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Named Idaeans discover metals
+  summary: Celmis and Damnameneus are credited with discovering iron in Cyprus, while
+    Delas, also called Scythes, is credited with discovering bronze smelting.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: reciprocal justice for wrongdoing
+  taxonomy_refs:
+  - divine_judgment
+  basis: The fragment formulates justice as evil returning to the one who does evil.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage states a moral-legal maxim but does not explicitly name a
+    god or divine judge.
+- id: motif:2
+  label: primordial or earth-related lineage of a race or substance
+  taxonomy_refs: []
+  basis: The Silver Race or silver is reported as belonging to the family of Earth.
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: The fragment is brief and its wording is mediated by Proclus; the exact
+    relation between the Silver Race, silver, and Earth is compressed.
+- id: motif:3
+  label: culture figures transmit or discover metallurgy
+  taxonomy_refs:
+  - culture_hero
+  - wisdom
+  basis: The Idaean Dactyls and named Idaeans are credited with teaching or discovering
+    ironworking and bronze smelting.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage concerns technical discovery and instruction; it does not
+    provide a full narrative of the discovery.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 2439-2445
+  quote_or_summary: "“If a man sow evil, he shall reap evil increase; if men do to
+    him as he has done, it will be true justice.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain translation; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 2446-2449
+  quote_or_summary: Proclus reports that some attribute the Silver Race to earth and
+    say Hesiod makes silver of the family of Earth in the Great Works.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain translation summarized.
+- id: ev:3
+  type: summary
+  locator: lines 2452-2455
+  quote_or_summary: Pliny reports that Hesiod says the Idaean Dactyls taught the smelting
+    and tempering of iron in Crete.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain translation summarized.
+- id: ev:4
+  type: summary
+  locator: lines 2456-2460
+  quote_or_summary: Clement reports that Celmis and Damnameneus discovered iron in
+    Cyprus, and that Delas, another Idaean whom Hesiod calls Scythes, discovered bronze
+    smelting.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain translation summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage consists of short fragmentary testimonia, so roles and motifs
+    are limited to explicit attributions and cautious motif labels.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used. No comparison claims were added because the passage does not itself make an explicit cross-traditional comparison.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-hesiod-homeric-hymns-evelyn-white-gutenberg__l2439-l2460
+  passage_sha256=7fc8ee9f04d57fe9f7d49e7ea7313f935d414150faa49d5cbfd6035f719f7579

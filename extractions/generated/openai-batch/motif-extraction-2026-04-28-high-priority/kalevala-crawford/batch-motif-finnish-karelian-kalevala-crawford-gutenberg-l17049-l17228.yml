@@ -1,0 +1,470 @@
+---
+record_id: batch.motif.finnish-karelian-kalevala-crawford-gutenberg-l17049-l17228
+source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+passage_locator:
+  label: JOHN MARTIN CRAWFORD. / THE KALEVALA. / PROEM / BOOK II; lines 17049-17228
+  start: '17049'
+  end: '17228'
+  translation: 'Kalevala: The Epic Poem of Finland'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Louhi sends the personified Frost to freeze Lemminkainen and his magic
+    vessel on the sea. Frost freezes waters, snow, and the hero's ship, then threatens
+    Lemminkainen's body. Lemminkainen counters with magic, fire, commands, and knowledge
+    of Frost's evil origin and upbringing, threatening to banish Frost to fiery, northern,
+    forge, or summer realms unless he leaves the hero free.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Louhi commands Frost to freeze Lemminkainen's magic bark and Lemminkainen
+    himself on the ocean, so that he will not wander or awaken unless Louhi frees
+    him.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Frost travels toward the ocean and, while journeying, removes leaves, meadow
+    verdure, and flower colors.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: On the first night Frost freezes lakes, rivers, and the ocean shore, but does
+    not freeze the ocean billows or currents; a finch remains on the sea without frozen
+    feet or endangered head.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: On the second night Frost becomes more forceful, turns the boundless waters
+    to ice, deepens snow on fields and forests, freezes Ahti's ship, and seeks to
+    freeze Lemminkainen's body parts and life-blood.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Lemminkainen becomes angry and filled with magic, hurls the black-frost to
+    the fire-god, throws him into a fiery furnace, and holds him in an iron forge.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Lemminkainen commands Frost not to stiffen his members, head, ears, feet,
+    fingers, or locks, and redirects Frost toward swamps, lakes, rivers, forests,
+    stones, trees, mountains, and waters.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Lemminkainen says he knows Frost's origin, power, destination, and ancestry;
+    he describes Frost as born on an aspen, conceived on willows, and parented by
+    Sin and Dishonor near Pohyola and Northland.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Lemminkainen describes Frost's infancy as nourished by adders and serpents,
+    rocked by north winds, and cradled in marshes and flowing springs.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: Lemminkainen threatens to keep Frost away with fire in stockings, shoes, garments,
+    and rigging, and to banish him to Northland, Hisi's carbon-piles, Lempo's hearth,
+    a forge, or summer if he does not obey.
+  category: speech
+  evidence_refs:
+  - ev:8
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Louhi
+  description: The wicked hostess who sends Frost and gives him directions against
+    Lemminkainen.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Frost
+  description: A personified black-frost, called Louhi's son and hero, who freezes
+    waters, vegetation, the ship, and attempts to freeze Lemminkainen.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Lemminkainen / Ahti
+  description: The hero, wizard, and minstrel in the magic bark, targeted by Frost
+    and later resisting Frost through magic and speech.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: fire-god
+  description: A named divine figure to whom Lemminkainen hurls the black-frost before
+    throwing him into a fiery furnace.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Hisi
+  description: Named in the phrase identifying carbon-piles as belonging to Hisi,
+    a possible destination for Frost's banishment.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:9
+- id: fig:6
+  name_or_label: Lempo
+  description: Named in the phrase identifying a chimney-hearth and fiery furnace
+    as belonging to Lempo, a possible destination for Frost's banishment.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:9
+roles:
+- id: role:1
+  label: hostile sender
+  assigned_to:
+  - fig:1
+  basis: Louhi sends Frost and commands him to freeze Lemminkainen and his vessel.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: personified freezing adversary
+  assigned_to:
+  - fig:2
+  basis: Frost freezes waters and the hero's ship and seeks to freeze the hero's body.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: targeted hero-voyager
+  assigned_to:
+  - fig:3
+  basis: Lemminkainen is on the ocean in a magic bark and is the target of the freezing
+    attack.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:4
+  label: magical counter-speaker
+  assigned_to:
+  - fig:3
+  basis: Lemminkainen responds with magic, commands, threats, and declarations of
+    knowledge about Frost's origin.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:8
+  - ev:9
+- id: role:5
+  label: fiery divine recipient
+  assigned_to:
+  - fig:4
+  basis: Lemminkainen hurls Frost to the fire-god and into fiery containment.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: named destination-owner in banishment threat
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: Hisi and Lempo are named through places to which Frost may be banished.
+  evidence_refs:
+  - ev:9
+symbols:
+- id: sym:1
+  label: frost and ice
+  literal_form: black-frost, frozen waters, ice, snow, stiffened body parts
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: sym:2
+  label: fire
+  literal_form: fire-god, fiery furnace, forge of iron, flaming faggots, coals of
+    fire, hearth, heated stones
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:6
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+  - ev:8
+  - ev:9
+- id: sym:3
+  label: water
+  literal_form: waters of Pohyola, sea-plains, ocean, lakes, rivers, currents, sacred
+    stream and whirlpool
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: sym:4
+  label: serpents and adders
+  literal_form: adders and foul slimy serpents nursing Frost in infancy
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:7
+- id: sym:5
+  label: trees and forest vegetation
+  literal_form: aspen, willows, birch-trees, pines, lindens, alder-branches, leaves,
+    grasses, blossoms, bark
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+  - ev:7
+scenes:
+- id: scene:1
+  label: Louhi dispatches Frost
+  summary: Louhi addresses Frost as her son and commands him to freeze Lemminkainen's
+    vessel and the hero himself on the ocean.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Frost freezes the route and ship
+  summary: Frost travels to the sea, damages vegetation, freezes inland and coastal
+    waters, then on the second night freezes the boundless waters, snow, and Ahti's
+    ship while threatening Lemminkainen's body.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Lemminkainen counters with fire and commands
+  summary: Lemminkainen uses magic to force Frost into fiery places and commands him
+    to spare the hero while freezing other landscapes and waters instead.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Origin recital and banishment threats
+  summary: Lemminkainen recites Frost's evil origin and nurture, then threatens defensive
+    fire and banishment to Northland, Hisi, Lempo, a forge, or summer if Frost does
+    not release him.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: hostile weather spirit immobilizes a voyager
+  taxonomy_refs: []
+  basis: Louhi sends Frost to freeze Lemminkainen's magic vessel and the hero on the
+    ocean; Frost freezes waters and the ship and tries to freeze the hero's body.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: The passage presents this as Frost's attack in this episode; broader classification
+    would require comparison with other passages.
+- id: motif:2
+  label: knowledge of a being's origin used as magical control
+  taxonomy_refs:
+  - wisdom
+  basis: Lemminkainen threatens to sing Frost's origin and states that he knows Frost's
+    nature, power, ancestry, birth, and upbringing while resisting him.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The passage implies efficacy through the threat and recital, but does
+    not explicitly state a completed submission within the excerpt.
+- id: motif:3
+  label: fire opposed to frost as protective counter-force
+  taxonomy_refs:
+  - duality
+  basis: Lemminkainen hurls Frost to fire, furnace, and forge, and later threatens
+    to use fire in his clothing and rigging to keep Frost away.
+  evidence_refs:
+  - ev:4
+  - ev:8
+  confidence: medium
+  cautions: The opposition of fire and frost is literal in the passage; interpreting
+    it as a broader duality motif should be reviewed.
+- id: motif:4
+  label: personified natural force with evil genealogy
+  taxonomy_refs: []
+  basis: Frost is addressed as a person with parents, infancy, nurture, name, growth,
+    dwelling places, and destructive habits.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The genealogy is reported in Lemminkainen's speech, not by an external
+    narrator within this excerpt.
+- id: motif:5
+  label: banishment of a harmful spirit to remote or contrary realms
+  taxonomy_refs: []
+  basis: Lemminkainen threatens to banish Frost to Northland borders, Hisi's carbon-piles,
+    Lempo's hearth and furnace, an anvil under the blacksmith's sledges, or summer
+    and warmer climates.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: The excerpt records threats of banishment rather than narrating their
+    completion.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 17049-17067
+  quote_or_summary: Louhi sends the black-frost to the waters of Pohyola and commands
+    him to freeze Lemminkainen's magic bark and the hero himself until Louhi frees
+    him.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:2
+  type: summary
+  locator: 17068-17088
+  quote_or_summary: Frost goes to freeze the ocean, stripping forest leaves, meadow
+    verdure, and flower colors; on the first night he freezes lakes, rivers, and shore,
+    but not ocean billows or currents, and a finch remains unfrozen.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:3
+  type: summary
+  locator: 17089-17105
+  quote_or_summary: On the second night Frost grows fierce, freezes the boundless
+    waters, deepens snow, freezes Ahti's ship, and seeks Lemminkainen's life-blood,
+    ears, feet, and fingers.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:4
+  type: summary
+  locator: 17106-17111
+  quote_or_summary: Lemminkainen grows angry and magical, hurls the black-frost to
+    the fire-god, throws him into a fiery furnace, and holds him in an iron forge
+    before speaking to him.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:5
+  type: summary
+  locator: 17112-17129
+  quote_or_summary: Lemminkainen commands Frost not to freeze his body and tells Frost
+    to freeze swamps, lakes, rivers, forests, hills, valleys, stones, willows, aspens,
+    birches, and pines instead.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:6
+  type: summary
+  locator: 17130-17151
+  quote_or_summary: Lemminkainen tells Frost to freeze other extreme objects and waters,
+    then threatens to sing his origin, saying he knows Frost's evil nature, origin,
+    power, and ancestry; Frost was born on aspen and conceived on willows, with Sin
+    as father and Dishonor as mother.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:7
+  type: summary
+  locator: 17152-17178
+  quote_or_summary: Lemminkainen says Frost was fed by adders, nursed by serpents,
+    rocked by north winds, cradled in marshes and springs, named Frost, and later
+    lived in hedges, weeds, springs, marshes, and forests while damaging trees and
+    plants.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:8
+  type: summary
+  locator: 17179-17200
+  quote_or_summary: Lemminkainen warns Frost not to benumb him, says he will kindle
+    fire in stockings, shoes, garments, and rigging, and threatens to banish Frost
+    to Northland, where Frost may freeze caldrons, hearth-coal, women at dough, an
+    infant, and a colt.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:9
+  type: summary
+  locator: 17201-17228
+  quote_or_summary: Lemminkainen further threatens to banish Frost to Hisi's carbon-piles,
+    Lempo's chimney-hearth and fiery furnace, the blacksmith's anvil and hammer, or
+    to summer and warmer climates as a prisoner until released.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summarized from provided passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied passage. Motif labels are candidate
+    descriptions and require human review, especially taxonomy alignment for wisdom
+    and duality.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly compare this episode with another tradition or corpus.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:finnish-karelian-kalevala-crawford-gutenberg__l17049-l17228
+  passage_sha256=0fab39ce3ff9c0de630a42f299f9b4dcdc48dbe84ec02e282cf2a40ed92df3c4

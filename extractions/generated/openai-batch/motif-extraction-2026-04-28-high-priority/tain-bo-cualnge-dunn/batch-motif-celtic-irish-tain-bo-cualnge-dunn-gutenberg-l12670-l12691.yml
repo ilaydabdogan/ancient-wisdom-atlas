@@ -1,0 +1,307 @@
+---
+record_id: batch.motif.celtic-irish-tain-bo-cualnge-dunn-gutenberg-l12670-l12691
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+passage_locator:
+  label: XXIII / HERE FOLLOWETH THE TOOTH-FIGHT OF FINTAN / THE RED-SHAME OF MENN
+    FOLLOWETH HERE / HERE FOLLOWETH THE ACCOUTREMENT OF THE CHARIOTEERS; lines 12670-12691
+  start: '12670'
+  end: '12691'
+  translation: The Ancient Irish Epic Tale Tain Bo Cualnge
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Finnabair, daughter of Ailill and Medb, learns that many men of Erin have
+    fallen for her sake. Overcome by shame and disgrace, she dies and is buried at
+    the place named Finnabair Slebe. The men of Erin then call Rochad's battle a white
+    battle, because eight hundred brave warriors fell for him while Rochad himself
+    returned home safe, whole, and unstained by blood; hence the event is called the
+    White-fight of Rochad.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Finnabair is identified as the daughter of Ailill and Medb.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Finnabair receives news that many of the men of Erin have fallen for her sake
+    and on her account.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Finnabair's heart breaks in her breast through shame and disgrace, and she
+    dies.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The place where Finnabair fell, died, and was buried is named Finnabair Slebe,
+    glossed as Finnabair of the Mount.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The men of Erin state that eight hundred very brave warriors fell for Rochad
+    son of Fathemon and on his account.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Rochad son of Fathemon goes safely and whole to his own country and land,
+    without blood-shedding or reddening on him.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The event is called the White-fight of Rochad.
+  category: attribute
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Finnabair
+  description: Daughter of Ailill and Medb; dies from shame after learning that many
+    men of Erin fell for her sake.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Ailill
+  description: Named as Finnabair's father.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Medb
+  description: Named as Finnabair's mother.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Men of Erin
+  description: Group whose members have fallen for Finnabair; later they comment on
+    Rochad's battle.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:5
+  name_or_label: Rochad son of Fathemon
+  description: Warrior for whose sake eight hundred brave warriors fell; he returns
+    safe and unstained by blood.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:6
+  name_or_label: Eight hundred brave warriors
+  description: Warriors said to have fallen for Rochad son of Fathemon and on his
+    account.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: daughter
+  assigned_to:
+  - fig:1
+  basis: Finnabair is explicitly called the daughter of Ailill and Medb.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: shame-stricken woman who dies
+  assigned_to:
+  - fig:1
+  basis: Her heart breaks through shame and disgrace, and she dies.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: parent of Finnabair
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: Ailill and Medb are named as Finnabair's parents.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: fallen men
+  assigned_to:
+  - fig:4
+  basis: Many men of Erin are said to have fallen for Finnabair's sake.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: collective speakers
+  assigned_to:
+  - fig:4
+  basis: The men of Erin speak about Rochad's battle.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: unstained survivor
+  assigned_to:
+  - fig:5
+  basis: Rochad returns safe and whole without blood-shedding or reddening on him.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: fallen warriors
+  assigned_to:
+  - fig:6
+  basis: Eight hundred brave warriors are said to have fallen for Rochad.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: mount
+  literal_form: Finnabair Slebe, glossed as Finnabair of the Mount
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: white battle
+  literal_form: A battle called white because Rochad returns without blood-shedding
+    or reddening on him
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: heart breaking like a nut
+  literal_form: Finnabair's heart breaks in her breast even as a nut
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Finnabair learns of deaths and dies from shame
+  summary: Finnabair hears that many men of Erin have fallen for her sake; overcome
+    by shame and disgrace, she dies and is buried at the place called Finnabair Slebe.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: The White-fight of Rochad is explained
+  summary: The men of Erin describe Rochad's battle as white because eight hundred
+    brave warriors fell for him while he returned safe, whole, and unstained by blood.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: death from shame after others die on one's account
+  taxonomy_refs: []
+  basis: Finnabair dies through shame and disgrace after learning that many men of
+    Erin fell for her sake.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage gives the immediate cause as shame and disgrace, without further
+    ritual or theological interpretation.
+- id: motif:2
+  label: place-name origin from a death and burial
+  taxonomy_refs: []
+  basis: The place where Finnabair fell, died, and was buried is said to bear the
+    name Finnabair Slebe.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage supplies an etiological naming statement but no broader mythic
+    explanation.
+- id: motif:3
+  label: battle named by color from absence of blood on survivor
+  taxonomy_refs: []
+  basis: The men of Erin call the battle white because many warriors fell for Rochad
+    while Rochad returned safe and without reddening from blood.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The color symbolism is explicitly linked to being unreddened, but the
+    passage does not develop a broader color-symbol system.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 12670-12673
+  quote_or_summary: Finnabair, daughter of Ailill and Medb, learns that a great number
+    of the men of Erin have fallen for her sake and on her account.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 12673-12675
+  quote_or_summary: Finnabair's heart breaks in her breast like a nut through shame
+    and disgrace; she falls, dies, and is buried at the place called Finnabair Slebe,
+    Finnabair of the Mount.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 12679-12685
+  quote_or_summary: The men of Erin say the battle is white for Rochad son of Fathemon
+    because eight hundred brave warriors fell for him, while he goes safe and whole
+    to his own country and land without blood-shedding or reddening on him.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 12685-12686
+  quote_or_summary: The passage states that this is the White-fight of Rochad.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is brief and explicit about deaths, naming, and the explanation
+    of the White-fight. Motif labels are descriptive rather than tied to a formal
+    external taxonomy. No comparison claims are made because the passage itself does
+    not support cross-tradition comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:celtic-irish-tain-bo-cualnge-dunn-gutenberg__l12670-l12691
+  passage_sha256=806811fe7f049d757ae53b59b14cdd2ee989b55aced830fcf24fdcc971a1a07a

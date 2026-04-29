@@ -1,0 +1,455 @@
+---
+record_id: batch.motif.greek-iliad-pope-gutenberg-l1555-l1630
+source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+passage_locator:
+  label: CONCLUDING NOTE. / INTRODUCTION. / THEODORE ALOIS BUCKLEY. / POPES PREFACE
+    TO THE ILIAD OF HOMER; lines 1555-1630
+  start: '1555'
+  end: '1630'
+  translation: The Iliad
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: Homer was the greater genius, Virgil the better artist.
+  summary: The passage contrasts Homer and Virgil as poets, assigning Homer preeminence
+    in invention and Virgil preeminence in judgment. It develops analogies involving
+    rivers, heroes, Jupiter, marvellous fictions, and rich similes to describe their
+    respective poetic qualities.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The speaker says that Homer's principal striking quality is invention, which
+    shapes the fable, manners, speeches, sentiments, images, descriptions, expression,
+    and numbers of his work.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker says Homer excels in invention and Virgil in judgment, while also
+    saying both authors possess more of both qualities than most others.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Homer is likened to the Nile pouring riches in a boundless overflow, while
+    Virgil is likened to a river flowing within its banks.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: When their battles are considered, Homer is compared to Achilles and Virgil
+    to neas.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: When their machines are considered, Homer is compared to Jupiter in terrors,
+    and Virgil to the same power in benevolence.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage says great virtues may border on imperfections, and that objections
+    against Homer arise from excess of invention.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The passage lists speaking horses and myrtles distilling blood as examples
+    of marvellous fictions criticized for surpassing probability.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The passage says Homer's similes have been thought too exuberant and circumstantial,
+    comparing them to pictures with a principal figure and additional ornaments and
+    prospects.
+  category: attribute
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Homer
+  description: Poet described as chiefly marked by invention, greater genius, commanding
+    impetuosity, and compared to the Nile, Achilles, and Jupiter in terrors.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+- id: fig:2
+  name_or_label: Virgil
+  description: Poet described as chiefly marked by judgment, better artist, attractive
+    majesty, and compared to a river in its banks, neas, and Jupiter in benevolence.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: Achilles
+  description: Hero used as a comparison for Homer, described as boundless and resistless
+    and bearing all before him.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: neas
+  description: Hero used as a comparison for Virgil, described as calmly daring and
+    undisturbed in the midst of action.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Jupiter
+  description: 'Divine power invoked in two aspects: in terrors shaking Olympus, scattering
+    lightnings, and firing the heavens; and in benevolence counselling with the gods,
+    planning empires, and ordering creation.'
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: speaking horses
+  description: Example of Homer's marvellous fictions.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: myrtles distilling blood
+  description: Example of Virgil's marvellous fiction, noted as lacking the intervention
+    of a deity to save probability.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: poet or author under comparison
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage explicitly compares Homer and Virgil as eminent writers and assigns
+    each a distinguishing excellence.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: celebrated hero used for analogy
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The passage says the poets resemble the heroes they celebrate when their
+    battles are considered.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: divine power used for analogy
+  assigned_to:
+  - fig:5
+  basis: Jupiter is presented as a divine power in terror and benevolence to characterize
+    poetic machinery.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: marvellous fiction example
+  assigned_to:
+  - fig:6
+  - fig:7
+  basis: Speaking horses and blood-distilling myrtles are given as examples of marvellous
+    fictions surpassing probability.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: Nile overflow
+  literal_form: the Nile pouring out riches with a boundless overflow
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: river within banks
+  literal_form: a river in its banks with a gentle and constant stream
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Olympus shaken by Jupiter
+  literal_form: Olympus shaken by Jupiter in his terrors
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: lightning and fired heavens
+  literal_form: lightnings scattered and heavens fired
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: speaking horses
+  literal_form: horses that speak
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: blood-distilling myrtles
+  literal_form: myrtles distilling blood
+  associated_figures:
+  - fig:7
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:5
+- id: sym:7
+  label: similes as pictures
+  literal_form: pictures with a principal figure, ornaments, and prospects
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Critical comparison of Homer and Virgil
+  summary: The speaker sets Homer and Virgil side by side, emphasizing invention in
+    Homer and judgment in Virgil while cautioning against reducing their merits to
+    isolated passage comparisons.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: River and hero analogies
+  summary: Homer is described through images of overflowing water and Achilles-like
+    force; Virgil is described through images of a contained stream and neas-like
+    calm in action.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Jupiter analogy for poetic machinery
+  summary: Homer's poetic machinery is associated with Jupiter's terrors, Olympus,
+    lightning, and fiery heavens, while Virgil's is associated with Jupiter's benevolent
+    counsel and ordering of creation.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Excess invention and marvellous fictions
+  summary: The passage explains criticisms of Homer as effects of excessive invention
+    and gives speaking horses and blood-distilling myrtles as examples of marvellous
+    fictions.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:5
+  label: Exuberant similes
+  summary: The passage describes Homer's similes as richly circumstantial, pictorial,
+    and capable of gathering several comparisons together in one breath.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: marvellous nonhuman speech
+  taxonomy_refs: []
+  basis: The passage names Homer's speaking horses as a marvellous fiction criticized
+    for exceeding probability.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage is literary criticism and does not narrate the episode itself.
+- id: motif:2
+  label: bleeding or blood-distilling plant
+  taxonomy_refs: []
+  basis: Virgil's myrtles distilling blood are cited as a marvellous fiction.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The example is mentioned only briefly and comparatively, without narrative
+    context.
+- id: motif:3
+  label: divine storm power and cosmic ordering
+  taxonomy_refs: []
+  basis: Jupiter is described both as shaking Olympus, scattering lightnings, and
+    firing the heavens, and as counselling with gods and ordering creation.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage uses Jupiter as a rhetorical analogy for poetic machinery,
+    not as a full mythic episode.
+- id: motif:4
+  label: heroic force contrasted with calm heroic control
+  taxonomy_refs: []
+  basis: Homer is likened to Achilles bearing all before him, while Virgil is likened
+    to neas disposing all around him and conquering with tranquillity.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This is an evaluative literary comparison rather than a narrated heroic
+    action.
+- id: motif:5
+  label: abundant pictorial simile
+  taxonomy_refs: []
+  basis: The passage describes Homer's similes as like pictures with a principal figure
+    plus ornaments and prospects, and as heaping comparisons together.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: This is a poetic technique pattern, not a mythic narrative motif.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares Homer's poetic force to Achilles' heroic
+    force.
+  claim_level: same_function
+  target: Achilles as boundless and resistless hero
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is rhetorical and evaluative; it does not claim shared
+    origin or a mythic identity between Homer and Achilles.
+- id: claim:2
+  claim: The passage explicitly compares Virgil's poetic control to neas' calm daring
+    in battle.
+  claim_level: same_function
+  target: neas as calm heroic actor
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is rhetorical and depends on the passage's brief characterization
+    of the hero.
+- id: claim:3
+  claim: 'The passage contrasts Homer and Virgil through two functions of Jupiter:
+    terrifying storm-like power and benevolent cosmic governance.'
+  claim_level: same_function
+  target: Jupiter as terrifying divine power and benevolent ordering power
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage uses Jupiter analogically for poetic machinery and does
+    not narrate a specific myth.
+- id: claim:4
+  claim: The passage compares Homer's similes to visual pictures with a main figure
+    and surrounding ornaments or prospects.
+  claim_level: visual_similarity
+  target: pictorial composition as an analogy for poetic simile
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a literary-form comparison rather than a mythological comparison.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 1555-1576
+  quote_or_summary: The passage says Homer's principal quality is invention and contrasts
+    it with Virgil's judgment, calling Homer the greater genius and Virgil the better
+    artist.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: 1577-1588
+  quote_or_summary: Homer is likened to the Nile's boundless overflow and to Achilles;
+    Virgil is likened to a river in its banks and to neas, calm amid action.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; short excerpt summarized.
+- id: ev:3
+  type: summary
+  locator: 1589-1594
+  quote_or_summary: Homer's machines are compared to Jupiter in terrors, shaking Olympus,
+    scattering lightnings, and firing the heavens; Virgil's are compared to Jupiter
+    in benevolence, counselling with the gods and ordering creation.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 1596-1605
+  quote_or_summary: The passage argues that great virtues may border on imperfections,
+    and that objections to Homer arise from excess of invention.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: 1606-1617
+  quote_or_summary: The passage cites Homer's speaking horses and Virgil's myrtles
+    distilling blood as marvellous fictions that exceed probability.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; short excerpt summarized.
+- id: ev:6
+  type: summary
+  locator: 1619-1630
+  quote_or_summary: The passage describes Homer's similes as exuberant, pictorial,
+    ornamented, and capable of heaping several comparisons together.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is a literary-critical preface rather than a mythic narrative.
+    Extracted motifs and symbols are therefore mostly analogies or cited examples
+    rather than full episodes.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  The name 'neas' is retained as it appears in the provided passage text.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-iliad-pope-gutenberg__l1555-l1630
+  passage_sha256=13a49a8b3a53177a1809e7f5245428f616e0fbd8e2412b21987016bd6b178804

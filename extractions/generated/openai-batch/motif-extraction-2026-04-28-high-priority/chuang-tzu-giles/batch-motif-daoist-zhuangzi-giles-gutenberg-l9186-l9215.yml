@@ -1,0 +1,318 @@
+---
+record_id: batch.motif.daoist-zhuangzi-giles-gutenberg-l9186-l9215
+source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+passage_locator:
+  label: THE SECRET OF LIFE. / CHAPTER XX. / MOUNTAIN TREES. / CHAPTER XXI.; lines
+    9186-9215
+  start: '9186'
+  end: '9215'
+  translation: 'Chuang Tzu: Mystic, Moralist, and Social Reformer'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'An editorial note discusses words attributed to Confucius and their relation
+    to the Tao-Tê-Ching. A short anecdote follows: the Prince of Ch''u sits with the
+    Prince of Fan; a Ch''u official mentions signs of Fan''s destruction; the Prince
+    of Fan replies that Fan''s destruction has not harmed his existence because of
+    Tao, while Ch''u''s preservation will not preserve the Prince of Ch''u, who lacks
+    Tao.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage opens with an editorial note stating that the preceding words
+    occur in chapter lxxxi of the Tao-Tê-Ching and are placed in the mouth of Confucius.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The editorial explanation says that when the episode was written, the Tao-Tê-Ching
+    had not yet been pieced together.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Prince of Ch'u is seated with the Prince of Fan.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: An official of Ch'u says there were three indications of the destruction of
+    the Fan State.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The Prince of Fan says that the destruction of the Fan State did not injure
+    his existence.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: A gloss explains the Prince of Fan's existence as already beyond mundane influences
+    by virtue of Tao.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The Prince of Fan says that preserving the Ch'u State will not be enough to
+    preserve the Prince of Ch'u.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: A gloss characterizes the Prince of Ch'u as being without Tao.
+  category: attribute
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: The Prince of Fan concludes that the Fans have not begun to be destroyed and
+    the Ch'us have not begun to exist.
+  category: speech
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Prince of Ch'u
+  description: Ruler seated with the Prince of Fan; addressed by implication as one
+    whose state is preserved but whose existence is not secured.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: Prince of Fan
+  description: Ruler who replies that the destruction of Fan does not harm his existence
+    and contrasts Tao-grounded existence with Ch'u's preservation.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:9
+- id: fig:3
+  name_or_label: official of Ch'u
+  description: An official who states that there were three indications of the destruction
+    of the Fan State.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Confucius
+  description: Mentioned in the editorial note as the mouth in which earlier words
+    are placed.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: political ruler
+  assigned_to:
+  - fig:1
+  basis: Identified as the Prince of Ch'u.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: political ruler
+  assigned_to:
+  - fig:2
+  basis: Identified as the Prince of Fan.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: speaker of Tao-based paradox
+  assigned_to:
+  - fig:2
+  basis: The Prince of Fan speaks of destruction not injuring existence and of Fans
+    not beginning to be destroyed.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:9
+- id: role:4
+  label: person lacking Tao
+  assigned_to:
+  - fig:1
+  basis: A gloss states that the Ch'u addressee is without Tao.
+  evidence_refs:
+  - ev:8
+- id: role:5
+  label: announcer of political destruction
+  assigned_to:
+  - fig:3
+  basis: The official announces indications of the destruction of the Fan State.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: attributed speaker in editorial note
+  assigned_to:
+  - fig:4
+  basis: The note says earlier words appear in the mouth of Confucius.
+  evidence_refs:
+  - ev:1
+symbols: []
+scenes:
+- id: scene:1
+  label: Editorial framing of textual attribution
+  summary: 'The passage notes a textual issue: words found in the Tao-Tê-Ching are
+    said to appear here as spoken by Confucius, with an explanation about compilation
+    chronology.'
+  figure_refs:
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Princes discuss destruction and existence
+  summary: The Prince of Ch'u and Prince of Fan sit together; after a Ch'u official
+    mentions signs of Fan's destruction, the Prince of Fan says Tao keeps his existence
+    beyond political ruin and that Ch'u's preservation cannot secure one who lacks
+    Tao.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: Wisdom that transcends political destruction
+  taxonomy_refs:
+  - wisdom
+  basis: The Prince of Fan answers news of Fan's destruction by distinguishing state
+    destruction from Tao-grounded existence, framed as beyond mundane influence.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:9
+  confidence: medium
+  cautions: The passage is philosophical dialogue rather than mythic narrative; the
+    taxonomy assignment is broad.
+- id: motif:2
+  label: Paradox of destruction and existence
+  taxonomy_refs:
+  - duality
+  basis: 'The reply contrasts destruction with non-destruction and preservation with
+    non-existence: Fan is destroyed yet not harmed, while Ch''u is preserved yet not
+    truly existent.'
+  evidence_refs:
+  - ev:5
+  - ev:7
+  - ev:9
+  confidence: medium
+  cautions: The passage itself labels the argument as an amphiboly; the duality motif
+    is interpretive and should be reviewed.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself links the preceding wording to chapter lxxxi of the Tao-Tê-Ching
+    and notes a Taoistic source issue, suggesting a nearby Daoist textual parallel
+    rather than establishing direct borrowing within the anecdote.
+  claim_level: linguistic_similarity
+  target: Tao-Tê-Ching chapter lxxxi
+  evidence_refs:
+  - ev:1
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The actual preceding words are not included in this passage excerpt,
+    so the wording cannot be compared here; the claim rests only on the editorial
+    note.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 9186-9188
+  quote_or_summary: 'Editorial note: the last words occur in chapter lxxxi of the
+    Tao-Tê-Ching and are found here in the mouth of Confucius without a Taoistic-source
+    hint.'
+  source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 9190-9192
+  quote_or_summary: 'Editorial explanation: when the episode was penned, the treatise
+    later called the Tao-Tê-Ching had not yet been pieced together.'
+  source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 9196-9197
+  quote_or_summary: '"The Prince of Ch''u was sitting with the Prince of Fan."'
+  source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: summary
+  locator: lines 9197-9199
+  quote_or_summary: One official of Ch'u says there were three indications of the
+    destruction of the Fan State.
+  source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: lines 9201-9202
+  quote_or_summary: '"The destruction of the Fan State ... did not suffice to injure
+    my existence."'
+  source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+  rights_note: Public domain source; short quotation.
+- id: ev:6
+  type: summary
+  locator: lines 9204-9205
+  quote_or_summary: 'Gloss: the Prince of Fan''s existence was already, by virtue
+    of Tao, beyond mundane influences.'
+  source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 9207-9209
+  quote_or_summary: The Prince of Fan says the preservation of the Ch'u State will
+    not be enough to preserve the Prince of Ch'u.
+  source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: quote
+  locator: line 9211
+  quote_or_summary: '"You being without TAO."'
+  source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+  rights_note: Public domain source; short quotation.
+- id: ev:9
+  type: summary
+  locator: lines 9213-9215
+  quote_or_summary: From this view, the Fans have not begun to be destroyed and the
+    Ch'us have not begun to exist.
+  source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal dialogue and figures are clear. Motif labels are broad because the
+    passage is philosophical and political rather than a mythic episode. The comparison
+    claim is limited to the editorial note supplied in the excerpt.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No concrete taxonomy-listed symbols such as mountain, tree, water, fire, serpent, cave, or milk appear in this excerpt; Tao is treated as a philosophical attribute rather than a symbol entry.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:daoist-zhuangzi-giles-gutenberg__l9186-l9215
+  passage_sha256=4d61ebf6277e53a29ac94d340ae8bc4e124b13a94b40e650f133f4c15d0db4d0

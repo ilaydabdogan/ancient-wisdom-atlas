@@ -1,0 +1,133 @@
+---
+record_id: batch.motif.greek-iliad-pope-gutenberg-l68-l115
+source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+passage_locator:
+  label: The Iliad; lines 68-115
+  start: '68'
+  end: '115'
+  translation: The Iliad
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The supplied passage is front matter for Alexander Pope's translation of
+    the Iliad, naming the work, translator, note-writer, date, and table of contents
+    listing the introduction, preface, and Books I-XXIV.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage identifies the work as the Iliad of Homer.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage identifies Alexander Pope as translator.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage states that notes and an introduction are by Rev. Theodore Alois
+    Buckley.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The contents list includes an introduction, Pope's preface, and Books I through
+    XXIV of the Iliad.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Homer
+  description: Named in the title attribution as associated with the Iliad.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Alexander Pope
+  description: Named as translator of the work.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Rev. Theodore Alois Buckley
+  description: Named as provider of notes and introduction.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: attributed authorial figure
+  assigned_to:
+  - fig:1
+  basis: The title states the work is the Iliad of Homer.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: translator
+  assigned_to:
+  - fig:2
+  basis: The passage says the work was translated by Alexander Pope.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: editorial contributor
+  assigned_to:
+  - fig:3
+  basis: The passage says notes and introduction are by Rev. Theodore Alois Buckley.
+  evidence_refs:
+  - ev:3
+symbols: []
+scenes: []
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 68-115
+  quote_or_summary: '"The Iliad of Homer"'
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; short excerpt used for identification.
+- id: ev:2
+  type: quote
+  locator: lines 68-115
+  quote_or_summary: '"Translated by Alexander Pope"'
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; short excerpt used for identification.
+- id: ev:3
+  type: summary
+  locator: lines 68-115
+  quote_or_summary: The passage attributes notes and introduction to Rev. Theodore
+    Alois Buckley, M.A., F.S.A.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 68-115
+  quote_or_summary: The contents list an introduction, Pope's preface, and Books I
+    through XXIV of the Iliad.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is front matter and contents only; it contains no narrative myth
+    episode, symbol pattern, or supported comparative claim.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No candidate motifs or symbolic scenes were extracted because the supplied passage contains title-page and contents material rather than narrative content.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-iliad-pope-gutenberg__l68-l115
+  passage_sha256=0196bb8ed56dfe9dbcab0df655378c47f93b0b8db6faacf6d195dcc5d0b50fba

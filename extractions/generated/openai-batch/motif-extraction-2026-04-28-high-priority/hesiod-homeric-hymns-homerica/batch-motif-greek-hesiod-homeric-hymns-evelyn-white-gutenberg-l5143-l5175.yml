@@ -1,0 +1,368 @@
+---
+record_id: batch.motif.greek-hesiod-homeric-hymns-evelyn-white-gutenberg-l5143-l5175
+source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+passage_locator:
+  label: FRAGMENTS OF UNKNOWN POSITION / DOUBTFUL FRAGMENTS / THE HOMERIC HYMNS /
+    I. TO DIONYSUS 2501; lines 5143-5175
+  start: '5143'
+  end: '5175'
+  translation: Hesiod, the Homeric Hymns, and Homerica
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: The Father of men and gods gave you birth remote from men and secretly from
+    white-armed Hera.
+  summary: The hymn reports disputed birthplaces for Dionysus, rejects them, and locates
+    his secret birth by Zeus at remote Nysa. It also states that mortals will make
+    offerings and three-yearly hecatombs, describes Zeus ordaining this with a nod,
+    and closes with an invocation to Dionysus and his mother Semele/Thyone.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Several locations are named as places where some say Dionysus was born, including
+    Dracanum, Icarus, Naxos, the river Alpheus, and Thebes.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage rejects the disputed birth-location claims as false.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Zeus is said to have given Dionysus birth remotely from men and secretly from
+    Hera.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Nysa is described as a very high, wooded mountain far off in Phoenice near
+    the streams of Aegyptus.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Mortals are said to lay up many offerings in shrines and to sacrifice perfect
+    hecatombs to Dionysus at feasts every three years.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Zeus speaks, nods with dark brows, his divine locks flow from his head, and
+    Olympus reels.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The hymn addresses Dionysus as Insewn and Inspirer of frenzied women, and
+    names Semele/Thyone as his mother.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Dionysus / Insewn
+  description: A heaven-born lord addressed as Insewn and Inspirer of frenzied women;
+    the subject of the birth account and recipient of future sacrifices and song.
+  role_refs:
+  - role:1
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: Zeus / Father of men and gods / Son of Cronos
+  description: The divine father who is said to have given Dionysus birth secretly
+    and who ordains matters with a nod that makes Olympus reel.
+  role_refs:
+  - role:2
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: Semele / Thyone
+  description: Named as the pregnant mother who bore Dionysus to Zeus and as Dionysus'
+    mother at the hymn's close.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:4
+  name_or_label: Hera
+  description: White-armed Hera, from whom Dionysus' birth is kept secret.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Mortals / men
+  description: Humans who will make offerings and sacrifices to Dionysus.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Singers
+  description: The hymn-speakers who sing of Dionysus at the beginning and end of
+    a strain.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: secretly born divine child
+  assigned_to:
+  - fig:1
+  basis: Dionysus is the one whom Zeus gives birth remote from men and secretly from
+    Hera.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: divine father and birth-giver
+  assigned_to:
+  - fig:2
+  basis: Zeus is called the Father of men and gods and is said to have given Dionysus
+    birth.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: mother of Dionysus
+  assigned_to:
+  - fig:3
+  basis: Semele is named as pregnant and as the mother of Dionysus, also called Thyone.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:4
+  label: recipient of sacrifice
+  assigned_to:
+  - fig:1
+  basis: Mortals will sacrifice hecatombs to Dionysus at his feasts.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: hymnic addressee
+  assigned_to:
+  - fig:1
+  basis: The singers address Dionysus and say they sing of him.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: divine ordainer
+  assigned_to:
+  - fig:2
+  basis: Zeus speaks and ordains with a nod.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: excluded divine observer
+  assigned_to:
+  - fig:4
+  basis: The birth is said to occur secretly from Hera.
+  evidence_refs:
+  - ev:2
+- id: role:8
+  label: human worshippers
+  assigned_to:
+  - fig:5
+  basis: Mortals will lay offerings in shrines and sacrifice hecatombs.
+  evidence_refs:
+  - ev:3
+- id: role:9
+  label: hymn performers
+  assigned_to:
+  - fig:6
+  basis: The singers say they sing of Dionysus as they begin and end a strain.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: Nysa mountain
+  literal_form: A very high wooded mountain, remote in Phoenice near the streams of
+    Aegyptus.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: offerings and hecatombs
+  literal_form: Many offerings in shrines and perfect hecatombs at three-year feasts.
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: Zeus' nod
+  literal_form: Zeus nods with dark brows; his locks flow and Olympus reels.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Disputed and secret birth of Dionysus
+  summary: The hymn lists multiple reported birthplaces for Dionysus, rejects them,
+    and states that Zeus gave him birth secretly and remotely at Nysa.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Institution of offerings and three-year sacrifices
+  summary: The passage says mortals will make offerings in shrines and sacrifice hecatombs
+    to Dionysus at his feasts every three years.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Zeus ordains with a nod
+  summary: Zeus speaks, nods, and ordains, while his divine movement causes Olympus
+    to reel.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Closing invocation to Dionysus
+  summary: The singers call on Dionysus as Insewn and Inspirer of frenzied women,
+    state that they sing of him, and farewell him with his mother Semele/Thyone.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: secret divine birth
+  taxonomy_refs:
+  - sacred_birth
+  basis: Dionysus' birth is attributed to Zeus and described as remote from men and
+    secret from Hera.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage gives only a brief fragmentary account and does not narrate
+    the full circumstances of the birth.
+- id: motif:2
+  label: divine parent and child
+  taxonomy_refs:
+  - divine_parent_child
+  basis: Dionysus is linked to Zeus as birth-giver/father and to Semele/Thyone as
+    mother.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  confidence: high
+  cautions: The exact relationship between Zeus' birth-giving and Semele's pregnancy
+    is not explained in this fragment.
+- id: motif:3
+  label: divinely ordained cult sacrifice
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage states that mortals will make offerings and sacrifice hecatombs
+    to Dionysus at recurring feasts.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage does not describe the ritual performance beyond offerings,
+    shrines, hecatombs, and the three-year interval.
+- id: motif:4
+  label: remote sacred mountain birthplace
+  taxonomy_refs:
+  - sacred_birth
+  basis: Nysa is described as a remote, high, wooded mountain associated with Dionysus'
+    true birth.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The available taxonomy has a mountain symbol but no separate mountain-birth
+    motif; classification rests on the birth setting.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: ll. 1-9
+  quote_or_summary: Some say Dionysus was born at Dracanum, Icarus, Naxos, near Alpheus,
+    or Thebes; Semele is said to have borne him to Zeus, but the hymn says these location
+    claims lie.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain translation; summarized for extraction.
+- id: ev:2
+  type: quote
+  locator: ll. 1-9
+  quote_or_summary: "“The Father of men and gods gave you birth remote from men and
+    secretly from white-armed Hera”; Nysa is “a mountain most high and richly grown
+    with woods” far off in Phoenice near Aegyptus' streams."
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain translation; brief quotation used.
+- id: ev:3
+  type: summary
+  locator: ll. 10-12
+  quote_or_summary: Men will store many offerings in shrines, and mortals will sacrifice
+    perfect hecatombs to Dionysus at feasts every three years.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain translation; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: ll. 13-16
+  quote_or_summary: The Son of Cronos speaks and nods with dark brows; his divine
+    locks flow from his immortal head, Olympus reels, and wise Zeus ordains it with
+    a nod.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain translation; summarized for extraction.
+- id: ev:5
+  type: summary
+  locator: ll. 17-21
+  quote_or_summary: The singers ask Dionysus, called Insewn and Inspirer of frenzied
+    women, to be favourable; they sing of him and farewell him with his mother Semele,
+    called Thyone.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain translation; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied fragment. Motif candidates are limited
+    to explicit birth, parentage, mountain setting, and sacrifice language; no external
+    mythic context is added.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not make a comparative claim beyond its internal dispute over birth locations.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-hesiod-homeric-hymns-evelyn-white-gutenberg__l5143-l5175
+  passage_sha256=80055629513e27d52da1eed82477a822d5cf8c3d75e594c37e5ff1e9f66883ec

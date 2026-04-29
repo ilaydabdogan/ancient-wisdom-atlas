@@ -1,0 +1,486 @@
+---
+record_id: batch.motif.daoist-zhuangzi-giles-gutenberg-l13540-l13651
+source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+passage_locator:
+  label: CHAPTER XXX. / ON SWORDS. / CHAPTER XXXI. / THE OLD FISHERMAN.; lines 13540-13651
+  start: '13540'
+  end: '13651'
+  translation: 'Chuang Tzu: Mystic, Moralist, and Social Reformer'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: An old fisherman rebukes Confucius for failing to understand his misfortunes,
+    tells a parable about a man who dies while fleeing his shadow and footsteps, teaches
+    that original purity is prior to human ceremony, then leaves by boat. Confucius
+    reverently waits after the fisherman departs and later explains to Tzŭ Lu that
+    one must honour a Sage and humble oneself to attain original purity.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Confucius reports that he was driven from Lu, tabooed in Wei, had his tree
+    cut down in Sung, and was surrounded by the Ch'êns and the Ts'ais.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The old man tells a parable about a man who tries to run away from his shadow
+    and footsteps, runs harder, exhausts himself, and dies.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: In the parable, the old man says the man could have avoided his shadow by
+    going into shade and stopped his footsteps by keeping still.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The old man tells Confucius to care for his body, preserve natural purity,
+    and leave externals to others.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The fisherman defines original purity as unalloyed truth and contrasts real
+    emotions with emotions performed for display.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The fisherman says ceremonial is human invention while original purity is
+    given from God and cannot be changed.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Confucius prostrates himself twice and asks to follow the old man as a servant
+    in order to learn from him.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The old man refuses continued company, pushes off his boat, and disappears
+    among the reeds.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: Confucius waits until the water ripples smooth and the punt-pole sound dies
+    away before getting up.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: Tzŭ Lu questions Confucius's unusually humble conduct before the old fisherman.
+  category: speech
+  evidence_refs:
+  - ev:9
+- id: obs:11
+  text: Confucius tells Tzŭ Lu that failing to honour a Sage and humble oneself prevents
+    attainment of original purity.
+  category: speech
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Confucius
+  description: A named teacher who is rebuked by the old fisherman, prostrates himself,
+    asks to learn, and later instructs Tzŭ Lu.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:10
+- id: fig:2
+  name_or_label: old fisherman / old man
+  description: An old man associated with a punt-pole and boat who rebukes Confucius,
+    teaches about original purity, and departs among reeds.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:7
+  - ev:9
+- id: fig:3
+  name_or_label: man afraid of his shadow and footsteps
+  description: A parable figure who tries to flee his shadow and footsteps and dies
+    from exhaustion.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Yen Yüan
+  description: A disciple or attendant who brings up the chariot after the fisherman
+    departs.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:8
+- id: fig:5
+  name_or_label: Tzŭ Lu / Yu
+  description: A disciple who offers the hand-cord, questions Confucius, and is admonished
+    by him.
+  role_refs:
+  - role:6
+  - role:7
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+roles:
+- id: role:1
+  label: wisdom teacher
+  assigned_to:
+  - fig:2
+  basis: The old fisherman instructs Confucius through rebuke, parable, and doctrinal
+    explanation.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:2
+  label: humbled learner
+  assigned_to:
+  - fig:1
+  basis: Confucius prostrates himself and asks to follow the fisherman as a servant
+    to learn the great doctrine.
+  evidence_refs:
+  - ev:6
+- id: role:3
+  label: departing boatman
+  assigned_to:
+  - fig:2
+  basis: The old man pushes off his boat and disappears among reeds.
+  evidence_refs:
+  - ev:7
+- id: role:4
+  label: admonishing master
+  assigned_to:
+  - fig:1
+  basis: Confucius rebukes Tzŭ Lu and explains reverence toward elders and sages.
+  evidence_refs:
+  - ev:10
+- id: role:5
+  label: parable fool
+  assigned_to:
+  - fig:3
+  basis: The parable figure misreads the cause of his shadow and footsteps and dies
+    from running.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: disciple or attendant
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: Yen Yüan brings the chariot and Tzŭ Lu offers the hand-cord to Confucius.
+  evidence_refs:
+  - ev:8
+- id: role:7
+  label: questioning disciple
+  assigned_to:
+  - fig:5
+  basis: Tzŭ Lu questions why Confucius behaves so humbly toward the fisherman.
+  evidence_refs:
+  - ev:9
+symbols:
+- id: sym:1
+  label: shadow
+  literal_form: The shadow from which the parable figure tries to run away.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: footsteps
+  literal_form: The footsteps that increase whenever the parable figure raises his
+    feet.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: shade
+  literal_form: The shade that would have removed the parable figure's shadow.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: stillness
+  literal_form: Keeping still as the way to put an end to footsteps in the parable.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: boat and reeds
+  literal_form: The fisherman's boat departing among reeds.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: water
+  literal_form: Water whose ripples smooth down after the fisherman leaves.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:8
+- id: sym:7
+  label: prostration
+  literal_form: Confucius twice prostrates himself before speaking to the fisherman.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Confucius names his persecutions
+  summary: Confucius sighs, prostrates himself, and asks why he has suffered four
+    persecutions.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Parable of fleeing shadow and footsteps
+  summary: The old man tells of a man who tries to escape his own shadow and footsteps
+    by running until he dies, though shade and stillness would have solved the problem.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Teaching on original purity
+  summary: The fisherman tells Confucius to preserve natural purity and explains original
+    purity as unalloyed truth beyond performed emotion and human ceremony.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Confucius asks to become a servant
+  summary: Confucius bows again and requests to follow the old man as a servant to
+    benefit from his teaching.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: Fisherman departs by boat
+  summary: The old man refuses continued company, leaves in his boat, and vanishes
+    among reeds; Confucius waits until the water and sound settle.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: scene:6
+  label: Tzŭ Lu questions Confucius
+  summary: Tzŭ Lu asks why Confucius showed such humility toward the old fisherman,
+    and Confucius answers that one must respect elders and honour a Sage to approach
+    original purity.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:9
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: humble reception of hidden wisdom teacher
+  taxonomy_refs:
+  - wisdom
+  basis: An apparently low-status old fisherman instructs Confucius, who prostrates
+    himself and seeks to become his servant for teaching.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+  - ev:9
+  - ev:10
+  confidence: high
+  cautions: The taxonomy reference is broad; the passage presents didactic wisdom
+    rather than a mythic initiation sequence in explicit terms.
+- id: motif:2
+  label: futile flight from oneself
+  taxonomy_refs:
+  - wisdom
+  basis: The parable figure tries to flee his own shadow and footsteps, intensifies
+    the problem by running, and dies because he does not use shade or stillness.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: Classified as a wisdom motif because the passage itself uses the story
+    as moral instruction; no narrower supplied taxonomy term is available.
+- id: motif:3
+  label: inner purity over external ceremony
+  taxonomy_refs:
+  - wisdom
+  basis: The fisherman contrasts original purity with externals, performed emotions,
+    and human ceremony, and Confucius later links humility and charity with attaining
+    original purity.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:10
+  confidence: high
+  cautions: This is a doctrinal-philosophical pattern rather than a narrative motif
+    in the strictest sense.
+- id: motif:4
+  label: sage departs across water
+  taxonomy_refs:
+  - wisdom
+  basis: After delivering instruction, the old fisherman refuses continued company
+    and departs by boat, leaving Confucius waiting reverently as the water ripples
+    smooth.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The passage gives a literal departure; any symbolic reading of water or
+    disappearance requires review.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 13543-13550
+  quote_or_summary: 'Confucius sighs, prostrates himself twice, and lists four persecutions:
+    driven from Lu, tabooed in Wei, tree cut down in Sung, and surrounded by the Ch''êns
+    and Ts''ais.'
+  source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: 13553-13565
+  quote_or_summary: The old man tells of a man who fears his shadow and dislikes his
+    footsteps, runs from them until he dies, and did not know that shade and stillness
+    would end them.
+  source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: 13567-13576
+  quote_or_summary: The old man says Confucius occupies himself with charity, duty,
+    distinctions, emotions, and restraints but cannot avoid calamities; he tells him
+    to care for the body, preserve natural purity, and leave externals to others.
+  source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: 13578-13593
+  quote_or_summary: The fisherman defines original purity as unalloyed truth and says
+    performed mourning, anger, and friendship lack real grief, awe, or unison; genuine
+    emotions depend on original purity.
+  source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:5
+  type: summary
+  locator: 13603-13616
+  quote_or_summary: The fisherman says ceremony is human invention, original purity
+    is given from God and cannot be changed, and the true Sage models himself upon
+    God while fools fall back on man.
+  source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:6
+  type: summary
+  locator: 13618-13624
+  quote_or_summary: Confucius prostrates himself twice, calls the meeting a godsend,
+    and asks to follow the old man as a servant to learn the great doctrine.
+  source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:7
+  type: summary
+  locator: 13626-13633
+  quote_or_summary: The old man says one may travel with a fit companion into the
+    depths of TAO but must avoid the unfit; he then pushes off his boat and disappears
+    among the reeds.
+  source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:8
+  type: summary
+  locator: 13635-13640
+  quote_or_summary: Yen Yüan brings the chariot and Tzŭ Lu offers the hand-cord; Confucius
+    waits until water ripples smooth and the punt-pole sound dies before getting up.
+  source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:9
+  type: summary
+  locator: 13641-13650
+  quote_or_summary: Tzŭ Lu says he has never seen Confucius treat anyone like this
+    and asks why he bows and prostrates himself before an old fisherman leaning on
+    a punt-pole.
+  source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:10
+  type: summary
+  locator: 13652-13664
+  quote_or_summary: Confucius tells Yu that one must respect elders, honour a Sage,
+    humble oneself before a fellow-creature, and thereby attain original purity; otherwise
+    the body suffers.
+  source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is strong. Motif labels are broad because the available
+    taxonomy offers only general categories suited to this didactic passage. No comparison
+    claims were added because the supplied passage does not itself support a comparison
+    beyond its internal teaching pattern.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the provided passage and metadata. Evidence locator ev:10 extends slightly beyond the supplied end label as represented by the provided passage text; verify canonical line alignment during review.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:daoist-zhuangzi-giles-gutenberg__l13540-l13651
+  passage_sha256=244ecafa858f8eaf3f18b776b8b286f68c637faa029f98267df1a85eb0ff9bac

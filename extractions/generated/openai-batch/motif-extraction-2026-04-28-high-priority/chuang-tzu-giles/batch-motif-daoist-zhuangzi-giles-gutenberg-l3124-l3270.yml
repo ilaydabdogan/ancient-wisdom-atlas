@@ -1,0 +1,416 @@
+---
+record_id: batch.motif.daoist-zhuangzi-giles-gutenberg-l3124-l3270
+source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+passage_locator:
+  label: CHAPTER V. / THE EVIDENCE OF VIRTUE COMPLETE. / CHAPTER VI. / THE GREAT SUPREME.;
+    lines 3124-3270
+  start: '3124'
+  end: '3270'
+  translation: 'Chuang Tzu: Mystic, Moralist, and Social Reformer'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes the conduct of pure men, their relation to unity,
+    destiny, life and death, and TAO as the ultimate source before heaven and earth.
+    It uses images of fish needing rivers and lakes, a boat hidden but still removable,
+    and the whole universe concealed in the whole universe. It then lists figures
+    and celestial or sacred features that obtained TAO and thereby ordered, established,
+    governed, or maintained parts of the cosmos.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The pure men of old did their duty to neighbors but did not associate with
+    them, appearing to live in the world while beyond its limits.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says pure men reduced what they cared for and what they did not
+    care for to ONE, so that no conflict arose between the human and the divine.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Life and death are described as belonging to Destiny and as having a sequence
+    like day and night.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A dried pond and fish left on dry ground are contrasted with fish remaining
+    in their native rivers and lakes.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: TAO is said to give form, toil in manhood, repose in old age, and rest in
+    death.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: A boat hidden in a creek or bog can still be carried away by a strong man
+    at midnight.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The whole universe concealed in the whole universe is described as having
+    no place where it may be lost.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: TAO is described as without action or form, transmissible but not visible,
+    and existing before heaven and earth.
+  category: attribute
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: Spiritual beings, the visible universe, legendary rulers, celestial bodies,
+    mountains, streams, and named beings are said to derive order, principles, courses,
+    or offices from obtaining TAO.
+  category: relationship
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: pure men of old
+  description: Exemplary persons whose conduct, silence, independence, and unity with
+    the divine are described.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: TAO
+  description: The ultimate principle described as greater than God, source of form,
+    life and death, and existent before heaven and earth.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+  - ev:8
+- id: fig:3
+  name_or_label: Hsi Wei
+  description: A legendary ruler who obtained TAO and set the universe in order.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:9
+- id: fig:4
+  name_or_label: Fu Hsi
+  description: A ruler who obtained TAO and established eternal principles.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:9
+- id: fig:5
+  name_or_label: Great Bear
+  description: A celestial figure said to have obtained TAO and never erred from its
+    course.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:9
+- id: fig:6
+  name_or_label: sun and moon
+  description: Celestial bodies said to have obtained TAO and never ceased to revolve.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:9
+- id: fig:7
+  name_or_label: K'an P'i
+  description: A being said to have obtained TAO and established the K'un-lun mountains.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:9
+- id: fig:8
+  name_or_label: P'ing I
+  description: A being said to have obtained TAO and to rule over the streams.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:9
+- id: fig:9
+  name_or_label: Chien Wu
+  description: A being said to have obtained TAO and to dwell on Mount T'ai.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:9
+roles:
+- id: role:1
+  label: pure exemplar
+  assigned_to:
+  - fig:1
+  basis: The passage describes the pure men as acting without conflict between the
+    human and divine.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: ultimate source and arbiter
+  assigned_to:
+  - fig:2
+  basis: TAO is described as the source of form, life, death, spirituality, and the
+    visible universe.
+  evidence_refs:
+  - ev:5
+  - ev:8
+- id: role:3
+  label: obtainer of TAO
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:9
+  basis: Each named figure or celestial entity is explicitly said to have obtained
+    TAO, followed by an ordering, governing, dwelling, or cosmic function.
+  evidence_refs:
+  - ev:9
+symbols:
+- id: sym:1
+  label: ONE
+  literal_form: The repeated term ONE applied to what the pure men cared for and did
+    not care for.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: water places for fish
+  literal_form: Dried pond, dry ground, native rivers and lakes.
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: hidden boat
+  literal_form: A boat hidden in a creek or bog and carried away by a strong man at
+    midnight.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: universe within universe
+  literal_form: The whole universe concealed in the whole universe.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:5
+  label: K'un-lun mountains and Mount T'ai
+  literal_form: Sacred mountains associated with figures who obtained TAO.
+  associated_figures:
+  - fig:7
+  - fig:9
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: conduct of the pure men
+  summary: The pure men act dutifully toward others while remaining inwardly independent,
+    silent, and beyond ordinary social limits.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: acceptance of life, death, and Destiny
+  summary: Life and death are presented as an inevitable sequence under Destiny, and
+    TAO is described as giving human form, labor, old age, and death.
+  figure_refs:
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: scene:3
+  label: fish, boat, and universe analogies
+  summary: The passage uses the images of fish outside water, a hidden boat that can
+    be taken away, and the universe hidden within itself to discuss loss and what
+    cannot be lost.
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+- id: scene:4
+  label: cosmic beings obtaining TAO
+  summary: TAO is described as prior to heaven and earth and as obtained by named
+    rulers, celestial bodies, mountain-establishing and stream-ruling beings, each
+    with a cosmic or sacred function.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: wise exemplar aligned with ultimate unity
+  taxonomy_refs:
+  - wisdom
+  - annihilation_union
+  basis: The pure men are described as wise or exemplary persons who reduce cared-for
+    and uncared-for things to ONE, preventing conflict between the human and the divine.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage uses philosophical language rather than a narrative of literal
+    merger or annihilation.
+- id: motif:2
+  label: acceptance of death within cosmic order
+  taxonomy_refs:
+  - death_rebirth
+  basis: Life and death are described as belonging to Destiny, and TAO is said to
+    give form, aging, and rest in death, followed by countless transitions and the
+    infinite.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:7
+  confidence: medium
+  cautions: The passage mentions transitions and death but does not narrate a concrete
+    death-and-return episode.
+- id: motif:3
+  label: ultimate principle preceding heaven and earth
+  taxonomy_refs:
+  - wisdom
+  basis: TAO is described as without action or form, existing before heaven and earth,
+    and giving spirituality and visible form to the universe.
+  evidence_refs:
+  - ev:8
+  confidence: high
+  cautions: The available taxonomy has no exact entry for impersonal cosmic principle;
+    wisdom is the closest supported family.
+- id: motif:4
+  label: sacred mountains ordered through cosmic principle
+  taxonomy_refs:
+  - cosmic_mountain
+  basis: K'an P'i is said to establish the K'un-lun mountains after obtaining TAO,
+    and Chien Wu dwells on Mount T'ai.
+  evidence_refs:
+  - ev:9
+  confidence: medium
+  cautions: The passage names mountains and divine associations but does not elaborate
+    a full mountain-axis narrative.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3124-3154
+  quote_or_summary: The pure men of old do their duty to neighbors without association,
+    appear among others but beyond the world, and have dispensed with language.
+  source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 3169-3175
+  quote_or_summary: What they cared for and did not care for is reduced to ONE; in
+    ONE they are of God, in not-ONE of Man, and no conflict arises between human and
+    divine.
+  source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 3177-3178
+  quote_or_summary: "“Life and Death belong to Destiny. Their sequence, like day and
+    night, is of God.”"
+  source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: summary
+  locator: lines 3192-3197
+  quote_or_summary: When a pond dries and fish are on dry ground, moistening them
+    is inferior to leaving them in native rivers and lakes; attending to TAO is preferred
+    over praising Yao and blaming Chieh.
+  source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 3199-3201
+  quote_or_summary: TAO gives the speaker form, toil in manhood, repose in old age,
+    and rest in death, and is called the best arbiter of life and death.
+  source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 3203-3221
+  quote_or_summary: A boat may be hidden in a creek or bog, but at midnight a strong
+    man may carry it away; small things hidden in larger things can still be lost.
+  source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 3225-3238
+  quote_or_summary: If the whole universe is concealed in the whole universe, there
+    is nowhere for it to be lost; the wise rejoice in what cannot be lost and endures
+    always.
+  source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 3244-3255
+  quote_or_summary: TAO has laws and evidences, lacks action and form, can be transmitted
+    but not seen, existed before heaven and earth, and is source of spiritual beings
+    and the visible universe.
+  source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 3259-3270
+  quote_or_summary: Hsi Wei, Fu Hsi, the Great Bear, the sun and moon, K'an P'i, P'ing
+    I, and Chien Wu obtained TAO and thereby order the universe, establish principles,
+    keep courses, establish mountains, rule streams, or dwell on Mount T'ai.
+  source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based only on the supplied passage. Motif labeling is cautious
+    because much of the passage is philosophical exposition rather than narrative
+    myth.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly compare these motifs with another tradition or motif family beyond the provided taxonomy mapping.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:daoist-zhuangzi-giles-gutenberg__l3124-l3270
+  passage_sha256=1aa261a61161dcae38915b121018a6231c37fa450252c9f7e8c894fadf16dd7e

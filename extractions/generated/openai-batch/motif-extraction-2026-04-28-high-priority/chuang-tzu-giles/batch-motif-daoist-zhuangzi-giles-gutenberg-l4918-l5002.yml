@@ -1,0 +1,435 @@
+---
+record_id: batch.motif.daoist-zhuangzi-giles-gutenberg-l4918-l5002
+source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+passage_locator:
+  label: OPENING TRUNKS. / B.C. 481. / CHAPTER XI. / ON LETTING ALONE.; lines 4918-5002
+  start: '4918'
+  end: '5002'
+  translation: 'Chuang Tzu: Mystic, Moralist, and Social Reformer'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage criticizes rulers who seek to govern for ambition and risk
+    destroying kingdoms. It contrasts managing people as things with letting them
+    be, describes the perfect man and true Sage as free, responsive, spiritually perceptive,
+    and aligned with Tao. It distinguishes the Tao of God, marked by inaction and
+    compliance, from the Tao of man, marked by action and entanglement.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Those who desire to govern kingdoms are said to clutch at the advantages of
+    the Three Princes while ignoring the troubles involved.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says the chances of preserving a kingdom by trusting to luck are
+    extremely small, while the chances of destroying it are extremely great.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Man is described as the great thing within territory and is not to be managed
+    as a mere thing.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Those who understand non-management may wander between the six limits of space
+    or travel over the continent of earth, unrestrained in coming and going.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The doctrine of the perfect man is compared to shadow with form and echo with
+    sound, responding when asked.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The perfect man's doctrine is described as noiseless in repose, objectless
+    in motion, and free to come and go without end.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The perfect man's body is said to accord with the usual standard and not be
+    distinguished in any way.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Perfect men of old are associated with seeing what is to be seen, while the
+    chosen of the universe are associated with seeing what is not to be seen.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The passage lists matter, mankind, affairs, law, duty to one's neighbour,
+    charity, ceremony, virtue, Tao, and God as things to be followed, attended to,
+    set forth, extended, modified, or acted through in different ways.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The true Sage looks up to God, perfects virtue, guides himself by Tao, identifies
+    with charity, responds to ceremony, undertakes affairs, metes out law, relies
+    on fellow-men, and accommodates himself to matter.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: The action of the Sage is characterized as inaction, while the passage also
+    says there should be neither action nor inaction of a positive, premeditated character.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:12
+  text: 'The passage distinguishes the Tao of God from the Tao of man: inaction and
+    compliance belong to the former, action and entanglement to the latter.'
+  category: relationship
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: rulers
+  description: Those who desire to govern kingdoms and trust to luck in doing so.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: man
+  description: Human beings described as not to be managed as mere things.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: perfect man
+  description: An ideal figure whose doctrine responds like shadow to form and echo
+    to sound, and who is associated with freedom of coming and going.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: true Sage
+  description: A sage who looks up to God, guides himself by Tao, and acts through
+    inaction while engaging virtue, charity, ceremony, law, fellow-men, and matter.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: God
+  description: Named as spiritual yet not devoid of action, and as that to which the
+    true Sage looks up.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+roles:
+- id: role:1
+  label: ambitious governors
+  assigned_to:
+  - fig:1
+  basis: They desire to govern kingdoms, seek advantages, and risk destruction through
+    ignorance and trust in luck.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: not-to-be-managed humanity
+  assigned_to:
+  - fig:2
+  basis: Man is described as not to be managed as if he were a mere thing.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: ideal responsive human
+  assigned_to:
+  - fig:3
+  basis: The doctrine of the perfect man responds like shadow to form and echo to
+    sound.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: spiritually perceptive chosen one
+  assigned_to:
+  - fig:3
+  basis: The passage links perfect men of old and the chosen of the universe with
+    forms of seeing, including seeing what is not to be seen.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: sage of non-interfering action
+  assigned_to:
+  - fig:4
+  basis: The Sage acts through inaction and avoids premeditated action or inaction
+    while responding to circumstances.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: Tao-guided practitioner
+  assigned_to:
+  - fig:4
+  basis: The true Sage guides himself by Tao and attends to virtue, charity, ceremony,
+    law, people, and matter without relying on them as controlling plans.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: divine reference point
+  assigned_to:
+  - fig:5
+  basis: God is named as spiritual yet not devoid of action; the true Sage looks up
+    to God; the Tao of God is fundamental.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+symbols:
+- id: sym:1
+  label: shadow and echo
+  literal_form: shadow to form; echo to sound
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: six limits of space
+  literal_form: six limits of space
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: continent of earth
+  literal_form: continent of earth
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: sun's eternity
+  literal_form: eternity of the sun
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: Tao of God and Tao of man
+  literal_form: 'two named forms of Tao: Tao of God and Tao of man'
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: spiritual sight
+  literal_form: seeing what is not to be seen; spiritual sight beyond the horizon
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: critique of ambitious government
+  summary: The passage condemns those who seek to govern kingdoms for advantage and
+    says such trust in luck is overwhelmingly likely to destroy the kingdom.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: non-management of human beings
+  summary: Human beings are described as not to be managed as mere things; those who
+    understand this can move freely through the limits of space and the earth.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: description of the perfect man
+  summary: The perfect man's doctrine is described through images of shadow, echo,
+    freedom of movement, and the sun's eternity; his body is ordinary while his distinction
+    is not bodily.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: spiritual sight beyond ordinary vision
+  summary: The passage contrasts seeing what is visible with seeing what is not visible
+    and says spiritual sight goes beyond the horizon of natural vision.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: conduct of the true Sage
+  summary: The true Sage relates to God, Tao, virtue, charity, ceremony, affairs,
+    law, fellow-men, and matter without intrusive planning, so that his action is
+    characterized as inaction.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:6
+  label: distinction between two forms of Tao
+  summary: The passage defines the Tao of God as inaction and compliance and the Tao
+    of man as action and entanglement, emphasizing a great distance between them.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: wisdom through non-interference
+  taxonomy_refs:
+  - wisdom
+  basis: The passage presents the true Sage and perfect man as models of understanding
+    who avoid intrusive management, guide themselves by Tao, and act through inaction.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The motif is philosophical and ethical rather than narrative; it is inferred
+    from repeated descriptions of sage conduct.
+- id: motif:2
+  label: duality of divine and human ways
+  taxonomy_refs:
+  - duality
+  basis: The passage explicitly distinguishes the Tao of God from the Tao of man,
+    assigning inaction and compliance to one and action and entanglement to the other.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: The duality is conceptual, not a mythic pair of characters or beings.
+- id: motif:3
+  label: spiritual sight beyond ordinary vision
+  taxonomy_refs:
+  - wisdom
+  basis: The passage contrasts natural vision with seeing what is not to be seen and
+    says spiritual sight carries one beyond the horizon.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage does not narrate a visionary journey; the motif is an abstract
+    description of insight.
+- id: motif:4
+  label: free wandering beyond ordinary limits
+  taxonomy_refs: []
+  basis: Those who understand non-management are said to wander at will between the
+    six limits of space and over the continent of earth, unrestrained in coming and
+    going.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This may be metaphorical philosophical language rather than a literal
+    travel motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 4918-4930
+  quote_or_summary: The passage condemns ambitious rulers who seek the advantages
+    of the Three Princes, trust to luck, and are far more likely to destroy than preserve
+    a kingdom.
+  source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 4931-4941
+  quote_or_summary: Man is not to be managed as a mere thing; those who understand
+    this may wander among the six limits of space and over the continent of earth,
+    free in coming and going.
+  source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 4942-4949
+  quote_or_summary: The doctrine of the perfect man is likened to shadow and echo,
+    responds when asked, guides toward the goal, and is free to come and go without
+    end, rivaling the sun's eternity.
+  source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 4950-4960
+  quote_or_summary: The perfect man's body is ordinary; perfect men of old see what
+    is to be seen, while the chosen see what is not to be seen, with spiritual sight
+    beyond natural vision's horizon.
+  source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 4961-4975
+  quote_or_summary: The passage lists matter, mankind, affairs, law, duty, charity,
+    ceremony, virtue, Tao, and God, including the statements that Tao is one but modified
+    and God is spiritual yet active.
+  source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 4976-4991
+  quote_or_summary: The true Sage looks up to God, perfects virtue, guides himself
+    by Tao, responds to ceremony, handles affairs and law, relies on fellow-men, accommodates
+    matter, and acts through inaction.
+  source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 4992-5002
+  quote_or_summary: The passage says divine enlightenment and Tao are needed, then
+    distinguishes the Tao of God, made of inaction and compliance, from the Tao of
+    man, made of action and entanglement.
+  source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is strong for the supplied passage. Motif labels are cautious
+    because the passage is philosophical exposition with limited narrative action.
+    No comparison claims were added because the passage itself does not support a
+    specific cross-text or cross-tradition comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the provided passage and metadata. Indented translator/editorial comments within the supplied passage were treated as part of the available text but not emphasized as independent doctrine.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:daoist-zhuangzi-giles-gutenberg__l4918-l5002
+  passage_sha256=76921fb4315b55fb2fc9979776b3cb0926b3cb99d3ca53c7c1d335027138e75d

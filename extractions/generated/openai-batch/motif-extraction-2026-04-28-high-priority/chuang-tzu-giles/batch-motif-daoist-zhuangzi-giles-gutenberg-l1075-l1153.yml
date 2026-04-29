@@ -1,0 +1,521 @@
+---
+record_id: batch.motif.daoist-zhuangzi-giles-gutenberg-l1075-l1153
+source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+passage_locator:
+  label: HERBERT A. GILES. / A. L. M. / CHAPTER I. / TRANSCENDENTAL BLISS.; lines
+    1075-1153
+  start: '1075'
+  end: '1153'
+  translation: 'Chuang Tzu: Mystic, Moralist, and Social Reformer'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage opens with the vast northern-ocean fish Leviathan transforming
+    into the immense bird Rukh, which rises and journeys south to the Celestial Lake.
+    It then develops analogies of scale and relativity: water sufficient for vessels,
+    air sufficient for large birds, small creatures mocking great journeys, travelers
+    needing different provisions, and beings with short and long spans of knowledge
+    or years.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A fish called the Leviathan lives in the northern ocean and is described as
+    many thousand li in size.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Leviathan changes into a bird called the Rukh, whose back and wings are
+    immense.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Rukh rises with a mighty effort, and its wings obscure the sky like clouds.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: At the equinox, the Rukh prepares to start for the southern ocean, identified
+    as the Celestial Lake.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The cited Record of Marvels says the Rukh’s southward flight smites the water
+    over three thousand li, mounts on a typhoon to ninety thousand li, and lasts six
+    months.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Motes in a sunbeam are said to be blown aloft by God, and the passage compares
+    the sky’s appearance from great distance to the bird’s viewpoint.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The passage states that insufficient depth of water cannot float large ships
+    and illustrates this with a cupful of water, a small hole, a mustard-seed, and
+    a cup.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The passage applies the same principle to air, saying insufficient depth of
+    air cannot support large birds.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: A cicada and a young dove laugh at the idea of going up ninety thousand li
+    before starting south, contrasting it with their own short flights between trees.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The passage contrasts journeys of different distances by the different amounts
+    of food preparation required.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: The passage says small knowledge does not have the compass of great knowledge,
+    just as a short year does not have the length of a long year.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:12
+  text: The morning mushroom and the chrysalis are examples of beings that do not
+    know longer alternations of time.
+  category: attribute
+  evidence_refs:
+  - ev:8
+- id: obs:13
+  text: A tortoise in Ch'u and an ancient large tree are described as having very
+    long springs and autumns, while P'êng Tsu is mentioned as an object of envy for
+    longevity.
+  category: attribute
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Leviathan
+  description: A many-thousand-li fish in the northern ocean that changes into the
+    Rukh.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Rukh
+  description: A vast bird with a back many thousand li broad; it rises, obscures
+    the sky, and journeys south.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: fig:3
+  name_or_label: God
+  description: Named as the agent by whom motes in a sunbeam are blown aloft.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: cicada
+  description: A small creature that laughs and compares its short flight with the
+    Rukh’s ascent.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: young dove
+  description: A small bird addressed with the cicada in the criticism of the Rukh’s
+    vast ascent.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: morning mushroom
+  description: A being said not to know the alternation of day and night.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:8
+- id: fig:7
+  name_or_label: chrysalis
+  description: A being said not to know the alternation of spring and autumn.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:8
+- id: fig:8
+  name_or_label: tortoise of Ch'u
+  description: A tortoise whose spring and autumn are each five hundred years long.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:9
+- id: fig:9
+  name_or_label: large ancient tree
+  description: A tree whose spring and autumn are each eight thousand years long.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:9
+- id: fig:10
+  name_or_label: P'êng Tsu
+  description: A long-lived figure identified in the note as the Methusaleh of China
+    and an object of envy.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:9
+roles:
+- id: role:1
+  label: transforming sea-being
+  assigned_to:
+  - fig:1
+  basis: The fish in the northern ocean changes into a bird.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: vast sky-bird
+  assigned_to:
+  - fig:2
+  basis: The Rukh has immense size, obscures the sky, and requires great depth of
+    air.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:3
+  label: southward traveler
+  assigned_to:
+  - fig:2
+  basis: The Rukh prepares to start for the southern ocean and flies southward for
+    six months.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: mover of motes
+  assigned_to:
+  - fig:3
+  basis: The motes in a sunbeam are said to be blown aloft by God.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: small-scope critic
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: The cicada and young dove mock the need for the Rukh’s vast ascent from the
+    perspective of their short flights.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: short-lived exemplar
+  assigned_to:
+  - fig:6
+  - fig:7
+  basis: The mushroom and chrysalis are used as examples of beings that do not know
+    longer cycles.
+  evidence_refs:
+  - ev:8
+- id: role:7
+  label: long-lived exemplar
+  assigned_to:
+  - fig:8
+  - fig:9
+  - fig:10
+  basis: The tortoise, ancient tree, and P'êng Tsu are presented in relation to exceptional
+    longevity.
+  evidence_refs:
+  - ev:9
+symbols:
+- id: sym:1
+  label: northern ocean
+  literal_form: Ocean where the Leviathan lives before its transformation.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: southern ocean / Celestial Lake
+  literal_form: Destination of the Rukh’s southward journey.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: deep water supporting vessels
+  literal_form: Water depth needed to float large ships, contrasted with a cupful
+    of water in a small hole.
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: tree-to-tree flight
+  literal_form: Trees marking the short flight range described by the cicada.
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: large ancient tree
+  literal_form: A tree with spring and autumn each lasting eight thousand years.
+  associated_figures:
+  - fig:9
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:9
+- id: sym:6
+  label: ninety thousand li ascent
+  literal_form: The Rukh’s required height or depth of air before its southward journey.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+- id: sym:7
+  label: motes in a sunbeam
+  literal_form: Small airborne particles used to compare relative distance and perspective.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Leviathan transforms and Rukh departs
+  summary: The northern-ocean Leviathan changes into the Rukh, which rises with immense
+    wings and prepares for a southward journey to the Celestial Lake.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Relativity of scale and support
+  summary: The passage compares motes seen in relation to the sky with the need for
+    sufficient depth of water or air to support vessels or great birds.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Small creatures question the great journey
+  summary: The cicada and young dove mock the idea of ascending ninety thousand li,
+    measuring it against their own limited tree-to-tree flight.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:4
+  - sym:6
+  evidence_refs:
+  - ev:6
+- id: scene:4
+  label: Distances, provisions, and scales of knowledge
+  summary: Different journeys require different provisions, and the passage states
+    that small knowledge does not encompass great knowledge.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+- id: scene:5
+  label: Short and long measures of time
+  summary: The mushroom and chrysalis illustrate short awareness of time, while the
+    tortoise, large tree, and P'êng Tsu illustrate exceptional longevity.
+  figure_refs:
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:9
+  - fig:10
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: fish-to-bird transformation
+  taxonomy_refs:
+  - shapeshifter
+  basis: The Leviathan fish changes into the bird Rukh.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The transformation is stated directly, but the passage does not elaborate
+    a broader shapeshifter cycle.
+- id: motif:2
+  label: vast ascent before journey
+  taxonomy_refs:
+  - ascent
+  basis: The Rukh rises and mounts a typhoon to ninety thousand li before flying south.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  confidence: high
+  cautions: The ascent functions as an illustration of scale and support rather than
+    as an explicit ritual or salvific ascent.
+- id: motif:3
+  label: departure to a far southern water realm
+  taxonomy_refs:
+  - departure
+  basis: At the equinox the Rukh prepares to start for the southern ocean, the Celestial
+    Lake, on a six-month flight.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: Only the departure and flight are present in this excerpt; no return is
+    included.
+- id: motif:4
+  label: small knowledge versus great knowledge
+  taxonomy_refs:
+  - wisdom
+  basis: The passage contrasts small creatures and short-lived beings with larger
+    scales of travel, support, lifespan, and understanding.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: The wisdom teaching is philosophical and analogical rather than a narrative
+    quest for wisdom.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself cites the Record of Marvels as preserving the Rukh’s southward
+    flight, water-smiting, typhoon ascent, and six-month duration, indicating a related
+    version or source for the same Rukh flight episode.
+  claim_level: same_motif
+  target: Record of Marvels account of the Rukh’s southward flight
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison depends only on the passage’s citation and does not
+    provide the independent text of the Record of Marvels.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1075-1153, opening paragraph on northern ocean fish and Rukh
+  quote_or_summary: A many-thousand-li fish called Leviathan in the northern ocean
+    changes into the bird Rukh, whose back is many thousand li broad and whose wings
+    obscure the sky like clouds.
+  source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1075-1153, paragraph citing Record of Marvels
+  quote_or_summary: At the equinox the Rukh starts for the southern ocean, the Celestial
+    Lake; the Record of Marvels says its southward flight strikes the water for three
+    thousand li, mounts on a typhoon to ninety thousand li, and lasts six months.
+  source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 1075-1153, paragraph on motes and sky
+  quote_or_summary: Motes in a sunbeam are said to be blown aloft by God, and the
+    blue sky’s appearance is discussed as relative to distance and viewpoint.
+  source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 1075-1153, water and vessel analogy
+  quote_or_summary: Insufficient water depth will not float large ships; in a small
+    hole, a cupful of water can float a mustard-seed but not the cup itself.
+  source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 1075-1153, air and bird analogy
+  quote_or_summary: 'The same principle is applied to air: large birds require sufficient
+    depth of air, and the Rukh needs ninety thousand li before starting south under
+    clear sky.'
+  source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 1075-1153, cicada and young dove speech
+  quote_or_summary: A cicada speaks to a young dove, saying its strongest flight barely
+    reaches from tree to tree and asking what use there is in ascending ninety thousand
+    li to start south.
+  source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 1075-1153, travel provisions and knowledge comparison
+  quote_or_summary: Short, hundred-li, and thousand-li journeys require different
+    provisions; the passage concludes that small knowledge lacks the compass of great
+    knowledge, as a short year lacks a long year’s length.
+  source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 1075-1153, mushroom and chrysalis examples
+  quote_or_summary: The mushroom of a morning does not know day and night, and the
+    chrysalis does not know spring and autumn; these are called short years.
+  source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 1075-1153, long-lived tortoise, tree, and P'êng Tsu
+  quote_or_summary: A tortoise in Ch'u has spring and autumn of five hundred years
+    each; a former large tree had spring and autumn of eight thousand years each;
+    P'êng Tsu is noted as a long-lived object of envy.
+  source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+  rights_note: Public domain source metadata; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is strong for the supplied excerpt. Motif labels use only
+    available taxonomy where directly supported. The comparison claim is limited to
+    the passage’s own citation of the Record of Marvels.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used; the excerpt ends mid-sentence after mentioning the Emperor T'ang, so no extraction was made from the incomplete continuation.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:daoist-zhuangzi-giles-gutenberg__l1075-l1153
+  passage_sha256=0de5dd1f5ce586a2c8862cb348874c4ecc97e46dc7f70b221934c713e62642af

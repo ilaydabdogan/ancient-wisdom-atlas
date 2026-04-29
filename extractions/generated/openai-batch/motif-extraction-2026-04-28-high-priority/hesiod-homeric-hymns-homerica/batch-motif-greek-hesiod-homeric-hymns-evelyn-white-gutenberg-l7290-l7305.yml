@@ -1,0 +1,352 @@
+---
+record_id: batch.motif.greek-hesiod-homeric-hymns-evelyn-white-gutenberg-l7290-l7305
+source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+passage_locator:
+  label: XXIII. TO THE SON OF CRONOS, MOST HIGH / XXIV. TO HESTIA / XXV. TO THE MUSES
+    AND APOLLO / XXVI. TO DIONYSUS; lines 7290-7305
+  start: '7290'
+  end: '7305'
+  translation: Hesiod, the Homeric Hymns, and Homerica
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The hymn names Dionysus as ivy-crowned, loud-crying, son of Zeus and Semele.
+    Nymphs receive, foster, and nurture him in Nysa, where he grows in a sweet-smelling
+    cave and is counted among the immortals. After being raised, he wanders through
+    wooded places wreathed with ivy and laurel, followed by Nymphs whose cries fill
+    the forest. The hymn closes with a greeting and a request for joyful return to
+    the season for many years.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Dionysus is described as ivy-crowned, loud-crying, and a god.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Dionysus is identified as the son of Zeus and Semele.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Nymphs receive Dionysus from his father and foster and nurture him in the
+    dells of Nysa.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Dionysus grows up in a sweet-smelling cave by the will of his father and is
+    reckoned among the immortals.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: After being brought up by the goddesses, Dionysus wanders continually through
+    woody coombes wreathed with ivy and laurel.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The Nymphs follow Dionysus as their leader, and the forest is filled with
+    their outcry.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: The speaker greets Dionysus as god of abundant clusters and asks for joyful
+    return to the season for many years.
+  category: speech
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Dionysus
+  description: Ivy-crowned, loud-crying god; son of Zeus and Semele; nurtured by Nymphs
+    in Nysa; later wandering with Nymphs following him.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Zeus
+  description: Father of Dionysus, called the lord his father in the passage.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Semele
+  description: Glorious Semele, named as mother of Dionysus.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Nymphs
+  description: Rich-haired Nymphs who receive, foster, and nurture Dionysus; later
+    follow him in his train.
+  role_refs:
+  - role:6
+  - role:7
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:5
+  name_or_label: Hymnic speaker
+  description: The speaker who begins to sing of Dionysus and asks the god for return
+    to the season.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:1
+  - ev:3
+roles:
+- id: role:1
+  label: praised deity
+  assigned_to:
+  - fig:1
+  basis: The hymn begins by singing of Dionysus and ends by hailing him.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: divine child fostered by nymphs
+  assigned_to:
+  - fig:1
+  basis: Dionysus is received, fostered, and nurtured by the Nymphs in Nysa.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: leader of nymphic train
+  assigned_to:
+  - fig:1
+  basis: The Nymphs follow in his train with him as their leader.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: divine father
+  assigned_to:
+  - fig:2
+  basis: Zeus is named as Dionysus's father, and Dionysus grows by the father's will.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: divine mother named in parentage
+  assigned_to:
+  - fig:3
+  basis: Semele is named as the glorious mother in Dionysus's parentage.
+  evidence_refs:
+  - ev:1
+- id: role:6
+  label: foster-nurturers
+  assigned_to:
+  - fig:4
+  basis: The Nymphs receive, foster, and nurture Dionysus.
+  evidence_refs:
+  - ev:1
+- id: role:7
+  label: followers
+  assigned_to:
+  - fig:4
+  basis: The Nymphs follow Dionysus in his train.
+  evidence_refs:
+  - ev:2
+- id: role:8
+  label: singer-supplicant
+  assigned_to:
+  - fig:5
+  basis: The speaker says that they begin to sing and asks Dionysus to grant seasonal
+    return.
+  evidence_refs:
+  - ev:1
+  - ev:3
+symbols:
+- id: sym:1
+  label: sweet-smelling cave
+  literal_form: cave
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: ivy crown and wreathing
+  literal_form: ivy
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: laurel wreathing
+  literal_form: laurel
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: dells of Nysa
+  literal_form: Nysa dells
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:5
+  label: boundless forest
+  literal_form: forest
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:6
+  label: abundant clusters
+  literal_form: clusters
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:7
+  label: returning season
+  literal_form: season
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Dionysus named and fostered in Nysa
+  summary: The hymn identifies Dionysus by epithets and parentage, then recounts that
+    Nymphs received and nurtured him in Nysa, where he grew in a cave by his father's
+    will.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Wandering with the Nymphs
+  summary: After being raised, Dionysus wanders through wooded places with ivy and
+    laurel, while the Nymphs follow him and their outcry fills the forest.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Closing salutation and seasonal request
+  summary: The speaker greets Dionysus as god of abundant clusters and asks for joyful
+    return to the season for many years.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: divine parent and child
+  taxonomy_refs:
+  - divine_parent_child
+  basis: Dionysus is explicitly presented as son of Zeus and Semele, and his growth
+    is said to occur by his father's will.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage gives parentage and paternal will but does not narrate the
+    full birth story.
+- id: motif:2
+  label: divine child nurtured in hidden or special place
+  taxonomy_refs:
+  - miraculous_child
+  basis: Dionysus is received by Nymphs, carefully fostered and nurtured in Nysa,
+    and grows in a cave while being counted among immortals.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage does not explicitly call the child miraculous; the motif label
+    is inferred from divine status, special nurture, and cave setting.
+- id: motif:3
+  label: seasonal return requested from a deity
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The closing prayer asks Dionysus to grant that the worshippers may come again
+    rejoicing to the season and continue for many years.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage mentions a recurring season but does not describe a full mythic
+    cycle of seasonal death, return, or agricultural renewal.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: ll. 1-6 / source lines 7290-7296
+  quote_or_summary: The hymn begins to sing of ivy-crowned Dionysus, son of Zeus and
+    Semele; Nymphs receive him from his father, foster him in Nysa, and he grows in
+    a sweet-smelling cave by the father's will.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain translation; summarized.
+- id: ev:2
+  type: summary
+  locator: ll. 7-9 / source lines 7297-7302
+  quote_or_summary: After the goddesses bring him up, Dionysus wanders through woody
+    coombes wreathed with ivy and laurel; the Nymphs follow him as leader and their
+    outcry fills the forest.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain translation; summarized.
+- id: ev:3
+  type: summary
+  locator: ll. 10-13 / source lines 7303-7305
+  quote_or_summary: The hymn hails Dionysus as god of abundant clusters and asks him
+    to grant joyful return to this season for many years.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain translation; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is direct from the supplied passage. Motif candidates
+    are limited to available taxonomy references and are strongest for divine parent-child;
+    seasonal and miraculous-child labels require caution because the passage is brief.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not support a specific cross-textual or cross-traditional comparison.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-hesiod-homeric-hymns-evelyn-white-gutenberg__l7290-l7305
+  passage_sha256=67cec0a8b677e0177b3ed228853dcd5202f982658fb7ffdc9b07ef623d7cc44d

@@ -1,0 +1,344 @@
+---
+record_id: batch.motif.daoist-zhuangzi-giles-gutenberg-l14656-l15101
+source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+passage_locator:
+  label: THE OLD FISHERMAN. / CHAPTER XXXII. / CHAPTER XXXIII. / THE EMPIRE.; lines
+    14656-15101
+  start: '14656'
+  end: '15101'
+  translation: 'Chuang Tzu: Mystic, Moralist, and Social Reformer'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: An alphabetical index segment lists topics, figures, animals, objects,
+    places, and concepts in the translated Chuang Tzu, with page references and occasional
+    parenthetical subentries such as Chuang Tzŭ as a butterfly, Lao Tzŭ as a dragon,
+    dreams, body and soul parted, divine figures, water and mountain place names,
+    skulls, corpses, and death-related entries.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is an alphabetical index excerpt with topic headings and page
+    references rather than a narrative episode.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The index names Chuang Tzŭ and lists several subentries connected to him,
+    including the butterfly, fishes, death of his wife, the skull, Tao, Confucius,
+    and his own death.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The index names Confucius and lists interactions or contexts involving Lao
+    Tzŭ, danger, concentration, the cataract, Robber Chê, and other topics.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The index includes entries for dreams, dreamless sleep, and Chuang Tzŭ as
+    a butterfly.
+  category: object
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:5
+  text: The index includes entries for body and soul parted, corpse, coffins, death,
+    Chuang Tzŭ's wife's death, skull, and Chuang Tzŭ's own death.
+  category: object
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: obs:6
+  text: The index includes entries for Lao Tzŭ as a dragon, dragons, and dragon-power.
+  category: object
+  evidence_refs:
+  - ev:8
+- id: obs:7
+  text: The index includes water and mountain place entries such as Black Water, Chou
+    River, Ch'i Mountain, Dark-Steep Mountain, and Chü Tzŭ Mountain.
+  category: setting
+  evidence_refs:
+  - ev:9
+- id: obs:8
+  text: The index includes entries titled Divine Man and Divine Teacher.
+  category: attribute
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Chuang Tzŭ
+  description: A named figure in the index with subentries including butterfly, fishes,
+    death of wife, skull, Tao, uselessness, Confucius, and death.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:7
+- id: fig:2
+  name_or_label: Confucius
+  description: A named figure in the index with subentries involving Lao Tzŭ, danger,
+    concentration, a cataract, changed opinions, and Robber Chê.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Lao Tzŭ
+  description: A named figure appearing in index subentries with Confucius and in
+    an entry stating Lao Tzŭ as a dragon.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:8
+- id: fig:4
+  name_or_label: Divine Man
+  description: An index entry labeled Divine Man with multiple page references.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:10
+- id: fig:5
+  name_or_label: Divine Teacher
+  description: An index entry labeled Divine Teacher.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:10
+roles:
+- id: role:1
+  label: indexed named teacher or sage figure
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  basis: The figures are named in the index and associated with multiple topics or
+    encounters.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:8
+- id: role:2
+  label: figure associated with animal-form or animal comparison entry
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: The index includes Chuang Tzŭ as a butterfly and Lao Tzŭ as a dragon.
+  evidence_refs:
+  - ev:5
+  - ev:8
+- id: role:3
+  label: divine or idealized personage entry
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: The passage lists entries titled Divine Man and Divine Teacher.
+  evidence_refs:
+  - ev:10
+symbols:
+- id: sym:1
+  label: butterfly
+  literal_form: Butterfly
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:2
+  label: dream
+  literal_form: Dream / dreamless sleep
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: dragon
+  literal_form: Dragon / dragons / dragon-power
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:4
+  label: body and soul parted
+  literal_form: Body and soul parted
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: skull
+  literal_form: Skull
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: water places
+  literal_form: Black Water and Chou River
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:9
+- id: sym:7
+  label: mountain places
+  literal_form: Ch'i Mountain, Dark-Steep Mountain, and Chü Tzŭ Mountain
+  associated_figures: []
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:9
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: human-butterfly dream or identity shift
+  taxonomy_refs:
+  - shapeshifter
+  basis: The index includes both Chuang Tzŭ as a butterfly and dream-related entries.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The supplied passage is an index; it does not provide the narrative details
+    of the butterfly episode.
+- id: motif:2
+  label: life as dream reflection
+  taxonomy_refs:
+  - wisdom
+  basis: The index explicitly lists 'Dream, Life a' and 'Dreamless sleep.'
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: Only the index headings are supplied, so the philosophical argument is
+    not present in this passage.
+- id: motif:3
+  label: death contemplation through corpse, skull, and soul separation entries
+  taxonomy_refs:
+  - wisdom
+  basis: The index includes body and soul parted, corpse, coffins, death, Chuang Tzŭ's
+    wife's death, skull, and Chuang Tzŭ's own death.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The index supports recurrence of death-related topics but not a single
+    continuous narrative motif in this excerpt.
+- id: motif:4
+  label: sage associated with dragon image or dragon-power
+  taxonomy_refs:
+  - shapeshifter
+  basis: The index includes 'Dragon, Lao Tzŭ a,' along with entries for dragons and
+    dragon-power.
+  evidence_refs:
+  - ev:8
+  confidence: low
+  cautions: The index wording may indicate metaphor, comparison, or narrative image;
+    the excerpt does not clarify the function.
+- id: motif:5
+  label: divine or perfected teacher figure
+  taxonomy_refs:
+  - wisdom
+  basis: The index lists Divine Man and Divine Teacher entries.
+  evidence_refs:
+  - ev:10
+  confidence: medium
+  cautions: The index provides titles and page references only, without doctrinal
+    or narrative elaboration.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 14656-15101
+  quote_or_summary: Alphabetical index entries from 'Ants and Mutton' through 'Fên-yang,'
+    with topic headings and page references.
+  source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+  rights_note: Public domain source metadata supplied; short summary only.
+- id: ev:2
+  type: quote
+  locator: 14656-15101
+  quote_or_summary: '"Chuang Tzŭ ... (and the butterfly) 32 ... (and the fishes) 218
+    ... (death of wife) 223 ... (and the skull) 224 ... (death of) 434"'
+  source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+  rights_note: Public domain source metadata supplied; short excerpt.
+- id: ev:3
+  type: summary
+  locator: 14656-15101
+  quote_or_summary: The index entry for Confucius lists many subentries, including
+    encounters with Lao Tzŭ, danger, concentration, a cataract, changed opinions,
+    and Robber Chê.
+  source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+  rights_note: Public domain source metadata supplied; summary.
+- id: ev:4
+  type: quote
+  locator: 14656-15101
+  quote_or_summary: '"Dream, Life a, 30, 86" and "Dreamless sleep, 82, 192"'
+  source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+  rights_note: Public domain source metadata supplied; short excerpt.
+- id: ev:5
+  type: quote
+  locator: 14656-15101
+  quote_or_summary: '"Butterfly, Chuang Tzŭ a, 32"'
+  source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+  rights_note: Public domain source metadata supplied; short excerpt.
+- id: ev:6
+  type: quote
+  locator: 14656-15101
+  quote_or_summary: '"Body and soul parted, 12, 324"'
+  source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+  rights_note: Public domain source metadata supplied; short excerpt.
+- id: ev:7
+  type: summary
+  locator: 14656-15101
+  quote_or_summary: Death-related index entries include corpse, coffins, Death, Chuang
+    Tzŭ's wife's death, Chuang Tzŭ and the skull, and Chuang Tzŭ's death.
+  source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+  rights_note: Public domain source metadata supplied; summary.
+- id: ev:8
+  type: quote
+  locator: 14656-15101
+  quote_or_summary: '"Dragon, Lao Tzŭ a, 185"; "Dragons, 214, 263"; "Dragon-power,
+    122, 185"'
+  source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+  rights_note: Public domain source metadata supplied; short excerpt.
+- id: ev:9
+  type: summary
+  locator: 14656-15101
+  quote_or_summary: The index lists Black Water, Chou River, Ch'i Mountain, Dark-Steep
+    Mountain, and Chü Tzŭ Mountain.
+  source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+  rights_note: Public domain source metadata supplied; summary.
+- id: ev:10
+  type: quote
+  locator: 14656-15101
+  quote_or_summary: '"Divine Man, 7, 85, 151, 193, 331, 361" and "Divine Teacher,
+    The, 317"'
+  source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+  rights_note: Public domain source metadata supplied; short excerpt.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: The extraction is limited because the supplied passage is an index, not the
+    underlying narrative or philosophical text. Motif candidates are based only on
+    index headings and should be checked against the referenced passages.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were made because the index excerpt itself does not support cross-tradition or historical comparison.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:daoist-zhuangzi-giles-gutenberg__l14656-l15101
+  passage_sha256=ae03a0bd018247c95248fb1be3d2ac5d0f7971b7c4d3838ecf54787a78213290

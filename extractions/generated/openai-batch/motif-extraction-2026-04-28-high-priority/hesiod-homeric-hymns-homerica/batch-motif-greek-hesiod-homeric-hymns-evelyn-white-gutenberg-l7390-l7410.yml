@@ -1,0 +1,445 @@
+---
+record_id: batch.motif.greek-hesiod-homeric-hymns-evelyn-white-gutenberg-l7390-l7410
+source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+passage_locator:
+  label: XXVIII. TO ATHENA / XXIX. TO HESTIA / XXX. TO EARTH THE MOTHER OF ALL / XXXI.
+    TO HELIOS; lines 7390-7410
+  start: '7390'
+  end: '7410'
+  translation: Hesiod, the Homeric Hymns, and Homerica
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The hymn invokes Calliope to sing of Helios, gives his divine parentage
+    through Euryphaessa and Hyperion, names his siblings Eos and Selene, describes
+    his radiant appearance and chariot journey through heaven to Ocean, and closes
+    with a prayer for prosperity and a transition to heroic song.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The speaker asks Muse Calliope, daughter of Zeus, to begin singing of Helios.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Euryphaessa is described as mild-eyed and far-shining, and as the mother of
+    Helios by the Son of Earth and starry Heaven.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Hyperion is said to have married his own sister Euryphaessa.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: 'Euryphaessa bore Hyperion three children: Eos, Selene, and Helios.'
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Helios rides in a chariot and shines upon mortal men and deathless gods.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Helios is described with a golden helmet, bright rays, bright locks, a far-seen
+    face, and a glowing fine-spun garment.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Stallions carry Helios and his chariot.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: After staying his golden-yoked chariot and horses, Helios rests at the highest
+    point of heaven.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Helios then drives the chariot and horses down through heaven to Ocean.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The speaker hails Helios as lord and asks him to bestow heart-cheering substance.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Calliope
+  description: Muse and daughter of Zeus, invoked to begin the song of Helios.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Zeus
+  description: Named as the father of Calliope.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Helios
+  description: Glowing, tireless divine figure like the deathless gods, radiant and
+    riding a chariot through heaven to Ocean.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: Euryphaessa
+  description: Mild-eyed, far-shining mother of Helios; sister and wife of Hyperion.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:5
+  name_or_label: Hyperion
+  description: Son of Earth and starry Heaven; husband and brother of Euryphaessa;
+    father of Eos, Selene, and Helios.
+  role_refs:
+  - role:6
+  - role:7
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:6
+  name_or_label: Eos
+  description: Rosy-armed child of Hyperion and Euryphaessa.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:2
+- id: fig:7
+  name_or_label: Selene
+  description: Rich-tressed child of Hyperion and Euryphaessa.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:2
+- id: fig:8
+  name_or_label: Earth and starry Heaven
+  description: Named as the parents of Hyperion through the phrase 'Son of Earth and
+    starry Heaven.'
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:1
+- id: fig:9
+  name_or_label: mortal men and deathless gods
+  description: Those upon whom Helios shines from his chariot.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:3
+- id: fig:10
+  name_or_label: stallions
+  description: Horses that carry Helios and his chariot.
+  role_refs:
+  - role:11
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: invoked Muse
+  assigned_to:
+  - fig:1
+  basis: Calliope is asked to begin the song of Helios.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: divine parent of Muse
+  assigned_to:
+  - fig:2
+  basis: Zeus is named as Calliope's father.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: radiant chariot-rider
+  assigned_to:
+  - fig:3
+  basis: Helios shines while riding in his chariot and is described with rays and
+    golden brightness.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:4
+  label: lord addressed in prayer
+  assigned_to:
+  - fig:3
+  basis: The hymn hails Helios as lord and asks him to bestow substance.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: divine mother
+  assigned_to:
+  - fig:4
+  basis: Euryphaessa bears Helios and other children.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:6
+  label: sibling-spouse
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: Hyperion wedded Euryphaessa, his own sister.
+  evidence_refs:
+  - ev:2
+- id: role:7
+  label: divine father
+  assigned_to:
+  - fig:5
+  basis: Hyperion fathers Eos, Selene, and Helios with Euryphaessa.
+  evidence_refs:
+  - ev:2
+- id: role:8
+  label: divine sibling
+  assigned_to:
+  - fig:6
+  - fig:7
+  basis: Eos and Selene are named among the children of Hyperion and Euryphaessa,
+    alongside Helios.
+  evidence_refs:
+  - ev:2
+- id: role:9
+  label: ancestral parents
+  assigned_to:
+  - fig:8
+  basis: Hyperion is identified as Son of Earth and starry Heaven.
+  evidence_refs:
+  - ev:1
+- id: role:10
+  label: recipients of sunlight
+  assigned_to:
+  - fig:9
+  basis: Helios shines upon men and deathless gods.
+  evidence_refs:
+  - ev:3
+- id: role:11
+  label: chariot bearers
+  assigned_to:
+  - fig:10
+  basis: Stallions carry Helios and his chariot.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: chariot of Helios
+  literal_form: chariot
+  associated_figures:
+  - fig:3
+  - fig:10
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:2
+  label: golden helmet and bright rays
+  literal_form: golden helmet, bright rays, bright locks
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: highest point of heaven
+  literal_form: highest point of heaven
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: Ocean
+  literal_form: Ocean
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: golden-yoked horses
+  literal_form: golden-yoked chariot and horses
+  associated_figures:
+  - fig:3
+  - fig:10
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Invocation and genealogy of Helios
+  summary: The speaker asks Calliope to sing of Helios and recounts his birth from
+    Euryphaessa and Hyperion, with Eos and Selene named as siblings.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Radiant chariot course through heaven
+  summary: Helios rides in a chariot, shines upon men and gods, appears with golden
+    and radiant features, rests at the highest point of heaven, and drives down through
+    heaven to Ocean.
+  figure_refs:
+  - fig:3
+  - fig:9
+  - fig:10
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Prayer to Helios and transition
+  summary: The speaker hails Helios, asks him to grant substance that cheers the heart,
+    and states an intention to celebrate the race of half-divine mortal men.
+  figure_refs:
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: solar ascent and descent by chariot
+  taxonomy_refs:
+  - ascent
+  basis: Helios rides a chariot, rests at the highest point of heaven, and then drives
+    down through heaven to Ocean.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The taxonomy term 'ascent' is only partially applicable; the passage describes
+    a full heavenly course including descent, not a quest ascent.
+- id: motif:2
+  label: divine parent-child genealogy
+  taxonomy_refs:
+  - divine_parent_child
+  basis: The hymn names Helios as a child of Euryphaessa and Hyperion, and also identifies
+    Calliope as daughter of Zeus.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is genealogical rather than narrative conflict or succession.
+- id: motif:3
+  label: sibling-spouse divine union
+  taxonomy_refs:
+  - sibling_pair
+  - sacred_marriage
+  basis: Hyperion is said to wed Euryphaessa, his own sister, and their children include
+    Eos, Selene, and Helios.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage presents the marriage briefly as genealogy; it does not elaborate
+    ritual, social, or cosmological meaning.
+- id: motif:4
+  label: radiant solar deity blessing worshipper
+  taxonomy_refs: []
+  basis: Helios is described with light, gold, rays, and chariot movement, and the
+    speaker asks him to bestow heart-cheering substance.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  confidence: high
+  cautions: No available taxonomy reference exactly matches solar radiance or prosperity
+    prayer.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: ll. 1-4
+  quote_or_summary: The speaker asks Muse Calliope, daughter of Zeus, to sing of glowing
+    Helios, whom Euryphaessa bore to the Son of Earth and starry Heaven.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: ll. 4-7
+  quote_or_summary: Hyperion wed his sister Euryphaessa, who bore Eos, Selene, and
+    tireless Helios.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: ll. 7-9
+  quote_or_summary: Helios rides in his chariot, shines upon men and gods, and gazes
+    from his golden helmet.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: ll. 9-13
+  quote_or_summary: Bright rays beam from Helios; his locks frame his face, and a
+    fine-spun garment glows and flutters on his body.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: ll. 13-16
+  quote_or_summary: Stallions carry Helios; he stays his golden-yoked chariot and
+    horses at the highest point of heaven, then drives them down through heaven to
+    Ocean.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: ll. 17-19
+  quote_or_summary: The speaker hails Helios as lord, asks him to bestow heart-cheering
+    substance, and turns toward celebrating half-divine mortal men.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based directly on the supplied public-domain passage. Motif
+    assignments are cautious because several available taxonomy categories only partly
+    fit the hymn's solar imagery and genealogy.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No external comparisons were added because the passage itself does not explicitly support a comparison beyond its own hymn pattern and available taxonomy categories.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-hesiod-homeric-hymns-evelyn-white-gutenberg__l7390-l7410
+  passage_sha256=9935ffc14eda15c7036f0c1a5056dd15059e0b32c7915deb3ad64f8063f6ef97

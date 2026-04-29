@@ -1,0 +1,393 @@
+---
+record_id: batch.motif.greek-hesiod-homeric-hymns-evelyn-white-gutenberg-l6969-l6988
+source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+passage_locator:
+  label: TO PYTHIAN APOLLO / IV. TO HERMES / V. TO APHRODITE / VI. TO APHRODITE; lines
+    6969-6988
+  start: '6969'
+  end: '6988'
+  translation: Hesiod, the Homeric Hymns, and Homerica
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The hymn invokes Aphrodite, describes her dominion over sea-set Cyprus,
+    her arrival over the sea in foam by the western wind, her joyful welcome and adornment
+    by the Hours, her presentation to the gods, and the gods' desire to marry her.
+    It closes with a prayer for victory in a contest and a transition to another song.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Aphrodite is described as stately, gold-crowned, beautiful, sweetly-winning,
+    coy-eyed, and violet-crowned.
+  category: attribute
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: obs:2
+  text: Aphrodite's dominion is identified with the walled cities of sea-set Cyprus.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The moist breath of the western wind wafts Aphrodite over the waves of the
+    loud-moaning sea in soft foam.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The gold-filleted Hours welcome Aphrodite joyously.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The Hours clothe Aphrodite in heavenly garments and adorn her with a gold
+    crown, ear ornaments, and golden necklaces.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: After Aphrodite is fully adorned, the Hours bring her to the gods.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The gods welcome Aphrodite, give her their hands, and each prays to lead her
+    home as a wedded wife because of her beauty.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The speaker asks Aphrodite to grant victory in a contest and to order the
+    song.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Aphrodite
+  description: A goddess addressed as stately, gold-crowned, beautiful, sweetly-winning,
+    coy-eyed, and violet-crowned Cytherea; she is wafted to Cyprus, adorned, and brought
+    to the gods.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: the gold-filleted Hours
+  description: Figures who joyously welcome Aphrodite, clothe and adorn her, and bring
+    her to the gods.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: the gods
+  description: Divine recipients who welcome Aphrodite, give her their hands, and
+    each wishes to take her home as wife.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: western wind
+  description: The moist breath of the western wind wafts Aphrodite over the waves
+    in foam.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: speaker of the hymn
+  description: The hymnic speaker asks Aphrodite for victory in a contest and says
+    he will remember her and another song.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: praised goddess
+  assigned_to:
+  - fig:1
+  basis: The hymn opens by declaring that the speaker will sing of Aphrodite and closes
+    by hailing her as a goddess.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:2
+  label: desired bride
+  assigned_to:
+  - fig:1
+  basis: The gods each pray that they may lead Aphrodite home as a wedded wife.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: welcoming adorners
+  assigned_to:
+  - fig:2
+  basis: The Hours welcome Aphrodite, dress her, ornament her, and bring her to the
+    gods.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:4
+  label: divine suitors and hosts
+  assigned_to:
+  - fig:3
+  basis: The gods welcome Aphrodite and each desires to take her as wife.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: conveying natural force
+  assigned_to:
+  - fig:4
+  basis: The western wind's moist breath wafts Aphrodite over the sea.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: hymnic petitioner
+  assigned_to:
+  - fig:5
+  basis: The speaker asks Aphrodite to grant contest victory and order the song.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: sea, waves, and foam
+  literal_form: waves of the loud-moaning sea and soft foam through which Aphrodite
+    is wafted
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: sea-set Cyprus and walled cities
+  literal_form: the walled cities of all sea-set Cyprus, named as Aphrodite's dominion
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: gold crown and ornaments
+  literal_form: fine well-wrought crown of gold, ear ornaments of orichalc and precious
+    gold, and golden necklaces
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: heavenly garments
+  literal_form: garments placed on Aphrodite by the Hours
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: joined hands of welcome
+  literal_form: the gods give Aphrodite their hands when they welcome her
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Invocation and Aphrodite's realm
+  summary: The hymn announces praise of Aphrodite and identifies Cyprus as her dominion.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Sea-borne arrival in foam
+  summary: Aphrodite is carried by the moist breath of the western wind over the sea
+    in soft foam to Cyprus.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Welcome and adornment by the Hours
+  summary: The Hours joyfully welcome Aphrodite and outfit her with heavenly clothing
+    and golden ornaments.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:4
+  label: Presentation to the gods
+  summary: The Hours bring the adorned Aphrodite to the gods, who welcome her and
+    desire her as a wife.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Closing prayer
+  summary: The speaker hails Aphrodite and asks her to grant victory in a contest
+    and direct the song.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: sea-foam arrival of a goddess
+  taxonomy_refs:
+  - sacred_birth
+  basis: Aphrodite is described as being wafted over the sea in soft foam to Cyprus,
+    where the Hours welcome her.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage describes a foam-borne arrival but does not explicitly narrate
+    conception or birth.
+- id: motif:2
+  label: divine adornment before presentation
+  taxonomy_refs: []
+  basis: The Hours dress Aphrodite in heavenly garments and decorate her with gold
+    ornaments before taking her to the gods.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: No supplied taxonomy reference directly matches ritual adornment or presentation.
+- id: motif:3
+  label: goddess desired as bride by the gods
+  taxonomy_refs:
+  - divine_beloved
+  - sacred_marriage
+  basis: When Aphrodite is brought to the gods, each desires to lead her home as his
+    wedded wife.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage expresses desire for marriage, not an actual completed marriage.
+- id: motif:4
+  label: hymnic petition for contest victory
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The speaker praises and addresses Aphrodite, then asks her to grant victory
+    in a contest and order the song.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The exchange is implied by praise and petition; no explicit reciprocal
+    bargain is stated.
+comparison_claims:
+- id: claim:1
+  claim: The passage can be cautiously grouped with a sacred-birth motif family because
+    it presents Aphrodite's foam-borne arrival over the sea, though it does not explicitly
+    state a birth event.
+  claim_level: same_motif
+  target: sacred_birth
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage supplies arrival imagery rather than a full birth narrative.
+- id: claim:2
+  claim: The passage can be grouped with divine-beloved and sacred-marriage patterns
+    because multiple gods desire Aphrodite as a wedded wife after seeing her beauty.
+  claim_level: same_motif
+  target: divine_beloved; sacred_marriage
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage does not narrate the selection of a spouse or the performance
+    of a marriage.
+evidence:
+- id: ev:1
+  type: summary
+  locator: ll. 1-4
+  quote_or_summary: The hymn says it will sing of Aphrodite, described as stately,
+    gold-crowned, beautiful, and ruling the walled cities of sea-set Cyprus.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain translation; summary used.
+- id: ev:2
+  type: summary
+  locator: ll. 4-7
+  quote_or_summary: The moist breath of the western wind carries Aphrodite over the
+    waves of the sea in soft foam, and the gold-filleted Hours welcome her joyfully.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain translation; summary used.
+- id: ev:3
+  type: summary
+  locator: ll. 7-14
+  quote_or_summary: The Hours clothe Aphrodite in heavenly garments and adorn her
+    with a well-wrought gold crown, ear ornaments of orichalc and gold, and golden
+    necklaces over her neck and breasts.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain translation; summary used.
+- id: ev:4
+  type: summary
+  locator: ll. 14-18
+  quote_or_summary: After Aphrodite is fully decked, the Hours bring her to the gods;
+    the gods welcome her, give her their hands, and each wishes to take her home as
+    his wedded wife because of her beauty.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain translation; summary used.
+- id: ev:5
+  type: summary
+  locator: ll. 19-21
+  quote_or_summary: The speaker hails the sweetly-winning, coy-eyed goddess and asks
+    her to grant victory in a contest and order the song, then says he will remember
+    her and another song.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain translation; summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward from the supplied passage. Motif labels
+    involving sacred birth and sacred exchange require caution because the passage
+    gives abbreviated hymnic imagery rather than full narrative development.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy references are limited to supplied motif families and symbols.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-hesiod-homeric-hymns-evelyn-white-gutenberg__l6969-l6988
+  passage_sha256=bad9bd54549d7f7b7e6c18a42a562c8bd329766443a01c76c33799aa2b8bbea8

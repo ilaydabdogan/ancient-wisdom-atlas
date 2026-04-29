@@ -8,10 +8,10 @@
 - Canonical texts checked: 58
 - Texts with extraction records: 58
 - Texts without extraction records: 0
-- Texts needing full extraction: 31
+- Texts needing full extraction: 26
 - Texts needing review or normalization: 58
-- Extraction records counted: 3114
-- Candidate motifs counted: 14303
+- Extraction records counted: 3714
+- Candidate motifs counted: 17400
 
 ## Status Logic
 
@@ -27,11 +27,6 @@ The target is intentionally rough: about one extraction record per 4,000 words, 
 
 | Status | Records | Target | Motifs | Tradition | Text |
 | --- | ---: | ---: | ---: | --- | --- |
-| `thin` | 2 | 27 | 7 | celtic_welsh | [The Mabinogion](../texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md) |
-| `thin` | 2 | 29 | 4 | daoist | [Chuang Tzu: Mystic, Moralist, and Social Reformer](../texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md) |
-| `thin` | 2 | 35 | 6 | finnish_karelian | [Kalevala: The Epic Poem of Finland](../texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md) |
-| `thin` | 2 | 23 | 6 | greek | [Hesiod, the Homeric Hymns, and Homerica](../texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md) |
-| `thin` | 2 | 40 | 7 | greek | [The Iliad](../texts/public-domain/greek/project-gutenberg/iliad-pope.md) |
 | `thin` | 2 | 13 | 6 | hindu | [Maha-bharata](../texts/public-domain/hindu/project-gutenberg/mahabharata-dutt.md) |
 | `thin` | 4 | 40 | 13 | hindu | [The Ramayan of Valmiki](../texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md) |
 | `thin` | 2 | 9 | 4 | indigenous_australian | [Australian Legendary Tales: folk-lore of the Noongahburrahs as told to the Piccaninnies](../texts/public-domain/indigenous-australian/project-gutenberg/australian-legendary-tales-parker.md) |
@@ -58,10 +53,14 @@ The target is intentionally rough: about one extraction record per 4,000 words, 
 | `dense_draft` | 162 | 160 | 607 | celtic_irish | [Heroic Romances of Ireland](../texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md) |
 | `dense_draft` | 157 | 157 | 749 | comparative | [The Golden Bough: A Study in Comparative Religion (Vol. 1 of 2)](../texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md) |
 | `dense_draft` | 154 | 154 | 781 | sufi | [The Sufistic Quatrains of Omar Khayyam](../texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md) |
+| `dense_draft` | 149 | 147 | 815 | finnish_karelian | [Kalevala: The Epic Poem of Finland](../texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md) |
+| `dense_draft` | 144 | 142 | 649 | celtic_irish | [The Ancient Irish Epic Tale Tain Bo Cualnge](../texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md) |
+| `dense_draft` | 136 | 134 | 766 | greek | [Hesiod, the Homeric Hymns, and Homerica](../texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md) |
 | `dense_draft` | 132 | 132 | 703 | greek | [The Odyssey](../texts/public-domain/greek/project-gutenberg/odyssey-butler.md) |
+| `dense_draft` | 128 | 126 | 584 | daoist | [Chuang Tzu: Mystic, Moralist, and Social Reformer](../texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md) |
 | `dense_draft` | 121 | 121 | 632 | roman | [The Aeneid of Virgil](../texts/public-domain/roman/project-gutenberg/aeneid-mackail.md) |
 | `dense_draft` | 117 | 117 | 795 | norse | [Myths of the Norsemen: From the Eddas and Sagas](../texts/public-domain/norse/project-gutenberg/myths-of-the-norsemen-guerber.md) |
-| `dense_draft` | 98 | 96 | 434 | celtic_irish | [The Ancient Irish Epic Tale Tain Bo Cualnge](../texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md) |
+| `dense_draft` | 114 | 112 | 595 | celtic_welsh | [The Mabinogion](../texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md) |
 | `dense_draft` | 80 | 80 | 331 | persian | [The Persian Literature, Volume 2, The Gulistan](../texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md) |
 | `dense_draft` | 72 | 72 | 330 | japanese | [Japanese Fairy Tales](../texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md) |
 | `dense_draft` | 57 | 57 | 229 | sufi | [The Persian Mystics: Jalálu'd-dín Rúmí](../texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md) |
@@ -69,6 +68,7 @@ The target is intentionally rough: about one extraction record per 4,000 words, 
 | `dense_draft` | 49 | 49 | 172 | sufi | [The Persian Mystics: Jámí](../texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md) |
 | `dense_draft` | 43 | 43 | 197 | greek | [Phaedrus](../texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md) |
 | `dense_draft` | 37 | 37 | 175 | greek | [Symposium](../texts/public-domain/greek/project-gutenberg/symposium-jowett.md) |
+| `dense_draft` | 37 | 35 | 152 | greek | [The Iliad](../texts/public-domain/greek/project-gutenberg/iliad-pope.md) |
 | `dense_draft` | 34 | 34 | 122 | buddhist | [The Giant Crab, and Other Tales from Old India](../texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md) |
 | `dense_draft` | 26 | 26 | 150 | ainu | [Aino Folk-Tales](../texts/public-domain/ainu/project-gutenberg/aino-folk-tales-chamberlain.md) |
 | `dense_draft` | 26 | 26 | 79 | buddhist | [Jataka tales](../texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md) |
@@ -84,21 +84,16 @@ The target is intentionally rough: about one extraction record per 4,000 words, 
 | `thin` | 4 | 0 | 13 | hindu | [The Ramayan of Valmiki](../texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md) |
 | `developing` | 3 | 1 | 6 | mesopotamian | [An Old Babylonian Version of the Gilgamesh Epic](../texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md) |
 | `developing` | 2 | 0 | 4 | buddhist | [Dhammapada, a Collection of Verses](../texts/public-domain/buddhist/project-gutenberg/dhammapada-max-muller.md) |
-| `thin` | 2 | 0 | 7 | celtic_welsh | [The Mabinogion](../texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md) |
 | `developing` | 2 | 0 | 4 | confucian | [The Analects of Confucius](../texts/public-domain/confucian/project-gutenberg/analects-legge.md) |
 | `developing` | 2 | 0 | 6 | confucian | [The Sayings of Confucius](../texts/public-domain/confucian/project-gutenberg/sayings-of-confucius-giles.md) |
-| `thin` | 2 | 0 | 4 | daoist | [Chuang Tzu: Mystic, Moralist, and Social Reformer](../texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md) |
 | `developing` | 2 | 0 | 6 | daoist | [The Tao Teh King, or the Tao and its Characteristics](../texts/public-domain/daoist/project-gutenberg/tao-teh-king-legge.md) |
 | `developing` | 2 | 0 | 7 | egyptian | [The Book of the Dead](../texts/public-domain/egyptian/project-gutenberg/book-of-the-dead-budge.md) |
-| `thin` | 2 | 0 | 6 | finnish_karelian | [Kalevala: The Epic Poem of Finland](../texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md) |
-| `thin` | 2 | 0 | 6 | greek | [Hesiod, the Homeric Hymns, and Homerica](../texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md) |
-| `thin` | 2 | 0 | 7 | greek | [The Iliad](../texts/public-domain/greek/project-gutenberg/iliad-pope.md) |
 | `thin` | 2 | 0 | 6 | hindu | [Maha-bharata](../texts/public-domain/hindu/project-gutenberg/mahabharata-dutt.md) |
 | `developing` | 2 | 0 | 7 | hindu | [The Song Celestial; Or, Bhagavad-Gita](../texts/public-domain/hindu/project-gutenberg/song-celestial-bhagavad-gita.md) |
 | `developing` | 2 | 0 | 5 | hindu | [The Upanishads](../texts/public-domain/hindu/project-gutenberg/upanishads-paramananda.md) |
 | `thin` | 2 | 0 | 4 | indigenous_australian | [Australian Legendary Tales: folk-lore of the Noongahburrahs as told to the Piccaninnies](../texts/public-domain/indigenous-australian/project-gutenberg/australian-legendary-tales-parker.md) |
-| `thin` | 2 | 0 | 8 | islamic | [The Koran (Al-Qur'an)](../texts/public-domain/islamic/project-gutenberg/koran-sale.md) |
 | `thin` | 2 | 0 | 6 | islamic | [The Koran (Al-Qur'an)](../texts/public-domain/islamic/project-gutenberg/koran-rodwell.md) |
+| `thin` | 2 | 0 | 8 | islamic | [The Koran (Al-Qur'an)](../texts/public-domain/islamic/project-gutenberg/koran-sale.md) |
 | `thin` | 2 | 0 | 6 | islamicate_folklore | [The Arabian Nights Entertainments](../texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md) |
 | `developing` | 2 | 0 | 8 | maya_quiche | [The Popol Vuh](../texts/public-domain/mesoamerican/project-gutenberg/popol-vuh-spence.md) |
 | `thin` | 1 | 0 | 2 | sufi | [Mystics and Saints of Islam](../texts/public-domain/sufi/project-gutenberg/mystics-and-saints-of-islam-field.md) |
@@ -138,11 +133,6 @@ ruby scripts/batch_prepare_motif_requests.rb \
 
 | Priority | Status | Records | Target | Needs Review | Tradition | Text |
 | --- | --- | ---: | ---: | ---: | --- | --- |
-| high | `thin` | 2 | 27 | 2 | celtic_welsh | [The Mabinogion](../texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md) |
-| high | `thin` | 2 | 29 | 2 | daoist | [Chuang Tzu: Mystic, Moralist, and Social Reformer](../texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md) |
-| high | `thin` | 2 | 35 | 2 | finnish_karelian | [Kalevala: The Epic Poem of Finland](../texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md) |
-| high | `thin` | 2 | 23 | 2 | greek | [Hesiod, the Homeric Hymns, and Homerica](../texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md) |
-| high | `thin` | 2 | 40 | 2 | greek | [The Iliad](../texts/public-domain/greek/project-gutenberg/iliad-pope.md) |
 | high | `thin` | 2 | 13 | 2 | hindu | [Maha-bharata](../texts/public-domain/hindu/project-gutenberg/mahabharata-dutt.md) |
 | high | `thin` | 4 | 40 | 4 | hindu | [The Ramayan of Valmiki](../texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md) |
 | high | `thin` | 2 | 9 | 2 | indigenous_australian | [Australian Legendary Tales: folk-lore of the Noongahburrahs as told to the Piccaninnies](../texts/public-domain/indigenous-australian/project-gutenberg/australian-legendary-tales-parker.md) |
@@ -176,12 +166,17 @@ ruby scripts/batch_prepare_motif_requests.rb \
 | medium | `dense draft` | 34 | 6 | 34 | buddhist | [The Giant Crab, and Other Tales from Old India](../texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md) |
 | medium | `dense draft` | 200 | 40 | 200 | celtic_irish | [Gods and Fighting Men](../texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md) |
 | medium | `dense draft` | 162 | 26 | 162 | celtic_irish | [Heroic Romances of Ireland](../texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md) |
-| medium | `dense draft` | 98 | 32 | 98 | celtic_irish | [The Ancient Irish Epic Tale Tain Bo Cualnge](../texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md) |
+| medium | `dense draft` | 144 | 32 | 144 | celtic_irish | [The Ancient Irish Epic Tale Tain Bo Cualnge](../texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md) |
+| medium | `dense draft` | 114 | 27 | 114 | celtic_welsh | [The Mabinogion](../texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md) |
 | medium | `dense draft` | 157 | 33 | 157 | comparative | [The Golden Bough: A Study in Comparative Religion (Vol. 1 of 2)](../texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md) |
 | medium | `dense draft` | 167 | 37 | 167 | comparative | [The Golden Bough: A Study in Comparative Religion (Vol. 2 of 2)](../texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md) |
+| medium | `dense draft` | 128 | 29 | 128 | daoist | [Chuang Tzu: Mystic, Moralist, and Social Reformer](../texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md) |
+| medium | `dense draft` | 149 | 35 | 149 | finnish_karelian | [Kalevala: The Epic Poem of Finland](../texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md) |
 | medium | `dense draft` | 246 | 11 | 246 | greek | [Aesop's Fables; a new translation](../texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md) |
+| medium | `dense draft` | 136 | 23 | 136 | greek | [Hesiod, the Homeric Hymns, and Homerica](../texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md) |
 | medium | `dense draft` | 43 | 10 | 43 | greek | [Phaedrus](../texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md) |
 | medium | `dense draft` | 37 | 9 | 37 | greek | [Symposium](../texts/public-domain/greek/project-gutenberg/symposium-jowett.md) |
+| medium | `dense draft` | 37 | 40 | 37 | greek | [The Iliad](../texts/public-domain/greek/project-gutenberg/iliad-pope.md) |
 | medium | `dense draft` | 132 | 33 | 132 | greek | [The Odyssey](../texts/public-domain/greek/project-gutenberg/odyssey-butler.md) |
 | medium | `dense draft` | 228 | 40 | 228 | greek | [The Republic](../texts/public-domain/greek/project-gutenberg/republic-jowett.md) |
 | medium | `dense draft` | 198 | 27 | 198 | greek_roman | [Myths and Legends of Ancient Greece and Rome](../texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md) |

@@ -1,0 +1,496 @@
+---
+record_id: batch.motif.finnish-karelian-kalevala-crawford-gutenberg-l20039-l20220
+source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+passage_locator:
+  label: JOHN MARTIN CRAWFORD. / THE KALEVALA. / PROEM / BOOK II; lines 20039-20220
+  start: '20039'
+  end: '20220'
+  translation: 'Kalevala: The Epic Poem of Finland'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Ilmarinen carries away the Northland maiden. She threatens to escape by
+    changing into fish, ermine, or lark, and Ilmarinen answers that he would pursue
+    her as predatory animals or bird. On the road she sees animal tracks in the snow
+    and says she would rather follow hare, fox, or wolf than remain with Ilmarinen.
+    After returning home, Ilmarinen considers killing or enchanting her; his sword
+    refuses to kill a helpless maiden. He then sings magical incantations and transforms
+    her into a sea-gull. Later Wainamoinen asks about Pohyola, the Sampo, and the
+    Northland daughter, and Ilmarinen reports the Sampo's prosperity-making work and
+    the maiden's transformation.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Northland maiden weeps, wrings her hands, and asks Ilmarinen to free her.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The maiden says that if she is not freed she will become an ocean salmon,
+    an ermine among rocks in the forest, or a lark in the air and storm-clouds.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Ilmarinen replies that he would pursue the maiden as a pike, a serpent, or
+    an eagle.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: On the snowy road, the horse repeatedly halts, and the maiden sees footprints
+    in the snow.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Ilmarinen identifies the tracks as those of a hare, a fox, and a wolf.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The maiden says she would be happier following the hare, fox, or wolf than
+    staying with Ilmarinen.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: After the journey, Ilmarinen sleeps, and the maiden laughs in derision.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: Ilmarinen considers enchanting the maiden into a black wolf or ocean salmon,
+    or killing her with his sword.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: The sword perceives Ilmarinen's intention and says it was not made to drink
+    the life-blood of a fair, helpless maiden.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: Ilmarinen sings with such force that rocks split and hills echo, then changes
+    the maiden into a sea-gull on the ocean.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: Wainamoinen meets Ilmarinen and asks about Pohyola and the Northland daughter.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:12
+  text: Ilmarinen says the Sampo in Northland grinds flour for eating, selling, and
+    keeping, bringing prosperity and welfare.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:13
+  text: Ilmarinen tells Wainamoinen that he changed the hateful virgin into a sea-gull
+    on the ocean.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Ilmarinen
+  description: A magician, blacksmith, metal-worker, minstrel, and wizard who carries
+    the Northland maiden away, threatens punishment, and transforms her by singing.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:7
+- id: fig:2
+  name_or_label: Northland maiden / maiden of Pohyola
+  description: A weeping stolen maiden from Pohyola/Northland who asks to be freed,
+    threatens transformations, rejects Ilmarinen, and is transformed into a sea-gull.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:7
+- id: fig:3
+  name_or_label: Ilmarinen's courser / steed
+  description: The horse drawing or carrying Ilmarinen halts and shies at passing
+    objects or tracks on the snowy highway.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:4
+  name_or_label: Ilmarinen's sword
+  description: A sword that perceives Ilmarinen's intention and speaks against killing
+    a helpless maiden.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Wainamoinen
+  description: An old and truthful figure who meets Ilmarinen and questions him about
+    Pohyola, the Sampo, and the Northland daughter.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+  - ev:7
+roles:
+- id: role:1
+  label: magician-blacksmith
+  assigned_to:
+  - fig:1
+  basis: The passage calls Ilmarinen a magician, blacksmith, metal-worker, wizard,
+    and minstrel, and shows him using incantatory singing.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:2
+  label: captor and enchanter
+  assigned_to:
+  - fig:1
+  basis: He refuses to free the maiden, says he may enchant or kill her, and finally
+    transforms her into a sea-gull.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:7
+- id: role:3
+  label: stolen maiden
+  assigned_to:
+  - fig:2
+  basis: The passage calls her the stolen maiden and shows her pleading for release
+    from Ilmarinen.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: transformed victim
+  assigned_to:
+  - fig:2
+  basis: Ilmarinen's magic changes her into a sea-gull on the ocean.
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: role:5
+  label: journey animal
+  assigned_to:
+  - fig:3
+  basis: The courser repeatedly halts during the return journey and later draws Ilmarinen's
+    sledge.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:6
+  label: speaking moral weapon
+  assigned_to:
+  - fig:4
+  basis: The sword understands Ilmarinen's purpose and refuses the role of killing
+    a helpless maiden.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: questioning elder or brother
+  assigned_to:
+  - fig:5
+  basis: Wainamoinen is described as old and truthful and addresses Ilmarinen as brother
+    while asking what happened.
+  evidence_refs:
+  - ev:6
+  - ev:7
+symbols:
+- id: sym:1
+  label: threatened animal transformations
+  literal_form: salmon, ermine, lark
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - shapeshifter
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: predatory pursuit forms
+  literal_form: pike, serpent, eagle
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - serpent
+  - shapeshifter
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: animal tracks in snow
+  literal_form: tracks of hare, fox, and wolf on the snowy pathway
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: speaking sword
+  literal_form: Ilmarinen's sword that refuses to drink a maiden's life-blood
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: sea-gull transformation
+  literal_form: the maiden changed into a sea-gull calling from ocean-ledges, islands,
+    rocks, and sea-coast
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - shapeshifter
+  - water
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: sym:6
+  label: Sampo
+  literal_form: a prosperity-grinding object in Northland that produces flour for
+    eating, selling, and keeping
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: ocean and waters
+  literal_form: ocean, waters, ocean-ledges, ocean-islands, sandy sea-coast
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:7
+scenes:
+- id: scene:1
+  label: Maiden threatens escape transformations
+  summary: The captive Northland maiden asks Ilmarinen to free her and names animal
+    forms she could take; Ilmarinen answers with forms in which he would follow her.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:7
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Tracks on the snowy road
+  summary: As Ilmarinen travels homeward with the maiden, the horse halts at tracks;
+    Ilmarinen identifies hare, fox, and wolf tracks, and the maiden says she would
+    prefer those animals to him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Threat of enchantment or killing
+  summary: After returning, Ilmarinen considers enchanting the maiden or killing her,
+    but the sword speaks against killing a helpless maiden.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Transformation into sea-gull
+  summary: Ilmarinen sings powerful magic and changes the maiden into a sea-gull associated
+    with ocean rocks, islands, and sea-coast.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:5
+  - sym:7
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Report to Wainamoinen
+  summary: Wainamoinen questions Ilmarinen about Pohyola, the Sampo, and the Northland
+    daughter; Ilmarinen reports the Sampo's prosperity and the maiden's sea-gull transformation.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: captured or stolen maiden seeking escape
+  taxonomy_refs:
+  - stolen_beloved
+  basis: The passage calls the woman a stolen maiden and depicts her pleading for
+    release and wishing to escape Ilmarinen.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage does not describe the original abduction event, only the aftermath
+    and return journey.
+- id: motif:2
+  label: shapeshifting pursuit between captive and captor
+  taxonomy_refs:
+  - shapeshifter
+  basis: The maiden proposes several animal escape forms, and Ilmarinen answers with
+    animal forms of pursuit.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: In this section the proposed escape and pursuit forms are spoken threats
+    rather than enacted transformations.
+- id: motif:3
+  label: magical transformation as punishment
+  taxonomy_refs:
+  - shapeshifter
+  basis: Ilmarinen uses magic singing to transform the maiden into a sea-gull after
+    rejecting the sword's refusal to kill her.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+  confidence: high
+  cautions: The taxonomy reference captures transformation but not the punitive or
+    coercive context.
+- id: motif:4
+  label: sentient weapon refuses unjust killing
+  taxonomy_refs: []
+  basis: The sword understands Ilmarinen's intent and states that it was not born
+    to drink the blood of a helpless maiden.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: No available taxonomy reference directly matches a speaking or morally
+    refusing weapon.
+- id: motif:5
+  label: wonder-working abundance object
+  taxonomy_refs: []
+  basis: Ilmarinen describes the Sampo as grinding flour on successive days for eating,
+    selling, and keeping, and as the basis of Pohyola's prosperity.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage reports the Sampo's function but does not narrate its making
+    or theft in this excerpt.
+- id: motif:6
+  label: ocean-bird exile or transformation
+  taxonomy_refs:
+  - shapeshifter
+  - water
+  basis: The maiden is changed into a sea-gull who calls and screeches from ocean-ledges,
+    islands, rocks, and coasts.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  confidence: high
+  cautions: The passage gives the result of transformation but not the later fate
+    of the sea-gull.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 20039-20069
+  quote_or_summary: The maiden weeps, asks Ilmarinen to free her, and says she could
+    become salmon, ermine, or lark; Ilmarinen says he would follow as pike, serpent,
+    or eagle.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:2
+  type: summary
+  locator: 20070-20131
+  quote_or_summary: On the snowy road the horse halts at tracks; Ilmarinen identifies
+    hare, fox, and wolf tracks, and the maiden laments that she would rather follow
+    these animals than remain with him.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:3
+  type: summary
+  locator: 20132-20152
+  quote_or_summary: Ilmarinen returns home, sleeps, is mocked by the maiden, and on
+    waking considers using incantations to change her into a black wolf or salmon,
+    or killing her with his sword.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:4
+  type: summary
+  locator: 20153-20159
+  quote_or_summary: The sword perceives Ilmarinen's intention and says it was not
+    born to drink the life-blood of a pure, fair, helpless maiden.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:5
+  type: summary
+  locator: 20160-20175
+  quote_or_summary: Ilmarinen sings in rage, splitting rocks and making hills echo,
+    and sings the maiden into a sea-gull calling from ocean-ledges, islands, rocks,
+    and sea-coast.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:6
+  type: summary
+  locator: 20176-20208
+  quote_or_summary: Wainamoinen meets Ilmarinen, asks why he is heavy-hearted and
+    whether Pohyola prospers; Ilmarinen says the Sampo grinds flour for eating, selling,
+    and keeping and gives Northland welfare.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:7
+  type: summary
+  locator: 20209-20220
+  quote_or_summary: Wainamoinen asks where the Northland daughter is; Ilmarinen says
+    he changed the hateful virgin into a sea-gull on the ocean, where she calls from
+    waters, islands, and rocks.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summary generated from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied passage. Motif labels are cautious
+    mappings to the supplied taxonomy where available; comparison claims are omitted
+    because the passage itself does not support external comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Line subranges are approximate divisions within the supplied locator range.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:finnish-karelian-kalevala-crawford-gutenberg__l20039-l20220
+  passage_sha256=d7beda8206e990b386396d28912c29c49e5a5fc3697aa0fe76099b7e0d97889f

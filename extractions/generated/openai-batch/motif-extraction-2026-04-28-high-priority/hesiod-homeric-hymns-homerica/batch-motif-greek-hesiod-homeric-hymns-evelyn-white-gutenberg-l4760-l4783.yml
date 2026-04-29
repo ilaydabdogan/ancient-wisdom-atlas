@@ -1,0 +1,285 @@
+---
+record_id: batch.motif.greek-hesiod-homeric-hymns-evelyn-white-gutenberg-l4760-l4783
+source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+passage_locator:
+  label: THE CATALOGUES OF WOMEN AND EOIAE1701 / II. 1745 / THE SHIELD OF HERACLES
+    / THE MARRIAGE OF CEYX; lines 4760-4783
+  start: '4760'
+  end: '4783'
+  translation: Hesiod, the Homeric Hymns, and Homerica
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage presents fragments attributed to Hesiod''s Marriage of Ceyx:
+    Heracles lands from the Argo to seek water and is left behind near Aphetae in
+    Magnesia; he repeatedly visits Ceyx of Trachis and speaks a proverb about good
+    people going to feasts of the good; Ceyx is called horse-driving; tables are called
+    tripods; and a feast scene describes dry wood from the forest being brought to
+    be burned in flames through a figurative expression.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Heracles lands from the Argo to look for water.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Heracles is left behind in Magnesia near the place called Aphetae, with the
+    fragment explaining this in relation to his desertion there.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Heracles is represented as repeatedly visiting the house of Ceyx of Trachis.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Heracles speaks the saying that the good go of themselves to the feasts of
+    the good.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Ceyx is described in a fragment as horse-driving and beholding something not
+    preserved in the excerpt.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A fragment says that the poem calls tables tripods.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: After desire for an equal-shared feast is finished, dry parched wood is brought
+    from the forest to be burned in flames, expressed figuratively as a mother of
+    a mother slain by her own children.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Heracles
+  description: Heracles lands from the Argo, is left behind in Magnesia, and is represented
+    as visiting the house of Ceyx of Trachis and speaking a proverb.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Ceyx of Trachis
+  description: Ceyx is the householder visited by Heracles and is also called horse-driving
+    in a separate fragment.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Unspecified participants at the feast
+  description: The fragment refers to people who finish with desire for the equal-shared
+    feast and then bring dry wood from the forest.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: water-seeking voyager left behind
+  assigned_to:
+  - fig:1
+  basis: Heracles lands from the Argo to look for water and is left behind near Aphetae
+    in Magnesia.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: guest or visitor to Ceyx's house
+  assigned_to:
+  - fig:1
+  basis: Heracles is represented as constantly visiting the house of Ceyx of Trachis.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: host or householder of Trachis
+  assigned_to:
+  - fig:2
+  basis: The house is identified as the house of Ceyx of Trachis, visited by Heracles.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: feast participants who gather fuel
+  assigned_to:
+  - fig:3
+  basis: After the equal-shared feast, unnamed participants bring dry wood from the
+    forest.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: water sought by Heracles
+  literal_form: water
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: flames consuming wood
+  literal_form: flames
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: forest wood for burning
+  literal_form: dry parched wood from the forest
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: tripods as tables
+  literal_form: tables called tripods
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: equal-shared feast
+  literal_form: equal-shared feast
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Heracles left behind after seeking water
+  summary: Heracles lands from the Argo to seek water and is left behind in Magnesia
+    near Aphetae because of his desertion there.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Heracles at the house of Ceyx
+  summary: Heracles repeatedly visits the house of Ceyx of Trachis and speaks a proverb
+    about the good attending feasts of the good.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Fuel brought after the feast
+  summary: After the equal-shared feast, unnamed participants bring dry, parched wood
+    from the forest to be burned in flames, in a figurative expression about kinship
+    and slaying.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: voyager left behind after landing for water
+  taxonomy_refs:
+  - departure
+  basis: Heracles leaves the Argo temporarily to seek water and the sequence results
+    in his being left behind in Magnesia.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The fragment is brief and reports a cause involving desertion; it does
+    not narrate a full departure cycle.
+- id: motif:2
+  label: recurring guest at a noble house and feast proverb
+  taxonomy_refs: []
+  basis: Heracles repeatedly visits Ceyx's house and speaks a proverb linking good
+    people with feasts of the good.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage preserves only a reported proverb and does not provide a full
+    hospitality narrative.
+- id: motif:3
+  label: post-feast gathering and burning of forest wood
+  taxonomy_refs: []
+  basis: The fragment describes participants after an equal-shared feast bringing
+    dry wood from the forest to be burned in flames.
+  evidence_refs:
+  - ev:5
+  confidence: low
+  cautions: The language is partly figurative and the broader ritual or narrative
+    context is not preserved.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 'lines 4761-4765, Fragment #1'
+  quote_or_summary: Hesiod's Marriage of Ceyx says Heracles landed from the Argo to
+    look for water and was left behind in Magnesia near Aphetae because of his desertion
+    there.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source; short summary used.
+- id: ev:2
+  type: summary
+  locator: 'lines 4766-4770, Fragment #2'
+  quote_or_summary: Heracles is represented as constantly visiting the house of Ceyx
+    of Trachis and saying that the good go of themselves to the feasts of the good.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source; short summary used.
+- id: ev:3
+  type: quote
+  locator: 'lines 4771-4772, Fragment #3'
+  quote_or_summary: '"And horse-driving Ceyx beholding..."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source; brief quotation used.
+- id: ev:4
+  type: summary
+  locator: 'lines 4773-4777, Fragment #4'
+  quote_or_summary: Athenaeus reports that Hesiod in the Marriage of Ceyx calls the
+    tables tripods.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source; short summary used.
+- id: ev:5
+  type: summary
+  locator: 'lines 4778-4783, Fragment #5'
+  quote_or_summary: After the equal-shared feast, dry parched wood is brought from
+    the forest and is to be burned in flames, expressed as a mother of a mother slain
+    by her own children.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source; short summary used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage consists of short testimonia and fragments with limited narrative
+    context. Literal extraction is fairly secure, while motif identification is tentative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the supplied passage does not itself support a specific cross-textual or cross-traditional comparison.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-hesiod-homeric-hymns-evelyn-white-gutenberg__l4760-l4783
+  passage_sha256=8ab145bead26d2ddf45554be032f21394b5e487999552c6fc437716ff31f6ff1

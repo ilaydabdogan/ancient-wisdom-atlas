@@ -1,0 +1,125 @@
+---
+record_id: batch.motif.daoist-zhuangzi-giles-gutenberg-l16593-l16642
+source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+passage_locator:
+  label: CHAPTER XXXIII. / THE EMPIRE. / THE END. / WYMAN AND SONS, PRINTERS GREAT
+    QUEEN STREET, LONDON, W.C.; lines 16593-16642
+  start: '16593'
+  end: '16642'
+  translation: 'Chuang Tzu: Mystic, Moralist, and Social Reformer'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage consists of closing book matter: an end marker, a printer
+    statement for Wyman and Sons in London, and an advertising list of other works
+    by the same author concerning Chinese literature, language, history, travel, and
+    translation.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage begins with an end marker for the volume.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage identifies Wyman and Sons as printers at Great Queen Street, London,
+    W.C.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage lists other works by the same author, including titles on Chinese
+    sketches, Chinese stories, Chinese literature, dialects, Chinese poems, travel,
+    and Lao Tzŭ.
+  category: object
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Wyman and Sons
+  description: A printing firm named in the printer statement.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: same author
+  description: An unnamed author associated with the advertised list of works.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: printer
+  assigned_to:
+  - fig:1
+  basis: The passage gives Wyman and Sons in the printer line.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: author of listed works
+  assigned_to:
+  - fig:2
+  basis: The list is headed as works by the same author.
+  evidence_refs:
+  - ev:3
+symbols: []
+scenes:
+- id: scene:1
+  label: closing publication matter
+  summary: The book ends with an end marker, printer information, and a list of other
+    publications by the same author.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: '16593'
+  quote_or_summary: THE END.
+  source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+  rights_note: Public domain source; short excerpt used for identification.
+- id: ev:2
+  type: summary
+  locator: '16595'
+  quote_or_summary: Printer statement naming Wyman and Sons, Great Queen Street, London,
+    W.C.
+  source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 16597-16640
+  quote_or_summary: Advertising section headed as works by the same author, listing
+    titles on Chinese literature, language, history, travel, translation, and related
+    subjects.
+  source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is publication end matter rather than narrative or doctrinal
+    content; no mythological motifs, symbols, or supported comparison claims are present
+    in the supplied lines.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No available taxonomy references were applied because the passage contains only closing and advertising material.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:daoist-zhuangzi-giles-gutenberg__l16593-l16642
+  passage_sha256=7b96fe0344a4601b9f348c2c4d375e283593621ec151bb5a2e57a593c7851b24

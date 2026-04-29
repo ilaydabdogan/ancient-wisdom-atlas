@@ -1,0 +1,348 @@
+---
+record_id: batch.motif.daoist-zhuangzi-giles-gutenberg-l15103-l15555
+source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+passage_locator:
+  label: THE OLD FISHERMAN. / CHAPTER XXXII. / CHAPTER XXXIII. / THE EMPIRE.; lines
+    15103-15555
+  start: '15103'
+  end: '15555'
+  translation: 'Chuang Tzu: Mystic, Moralist, and Social Reformer'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The supplied passage is an alphabetical index segment listing names, topics,
+    animals, places, natural objects, and concepts with page references and occasional
+    parenthetical descriptions, including entries for fire, fishes, government, happiness,
+    knowledge, Lao Tzŭ, Lieh Tzŭ, mountains, a sacred Li tree, and a magic circle.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is arranged as an alphabetical index with headwords followed by
+    page references and occasional explanatory parenthetical notes.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Several entries concern natural elements or beings, including fire, fishes,
+    foxes, geese, horses, mountains, a river, a cataract, and a sacred Li tree.
+  category: object
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: obs:3
+  text: The index includes abstract concepts such as government, happiness, inaction,
+    knowledge, law, liberty, life and death, and likes and dislikes.
+  category: other
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: obs:4
+  text: The entry for knowledge lists multiple subtopics, including great knowledge,
+    knowledge of the ancients, limit to knowledge, perfection of knowledge, knowledge
+    as a curse, knowledge from repose, shallowness of knowledge, personified knowledge,
+    and knowledge of the wherefore.
+  category: other
+  evidence_refs:
+  - ev:8
+- id: obs:5
+  text: The passage lists Lao Tzŭ with multiple cross-references to encounters or
+    associations, including No-toes, Confucius, Kêng Sang Ch'u, Nan Yung, Poh Chü,
+    Yang Tzŭ Chü, and the death of Lao Tzŭ.
+  category: relationship
+  evidence_refs:
+  - ev:9
+- id: obs:6
+  text: The passage lists Lieh Tzŭ with parenthetical references to supernatural power,
+    the magician, the skull, the perfect man, archery, and declining food.
+  category: relationship
+  evidence_refs:
+  - ev:10
+- id: obs:7
+  text: The passage includes entries for personified abstractions, including knowledge
+    and light.
+  category: attribute
+  evidence_refs:
+  - ev:8
+  - ev:11
+figures:
+- id: fig:1
+  name_or_label: Lao Tzŭ
+  description: Named index figure associated with several encounters and with a death
+    entry.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:9
+- id: fig:2
+  name_or_label: Lieh Tzŭ
+  description: Named index figure associated with supernatural power, a magician,
+    a skull, a perfect man, archery, and declining food.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:10
+- id: fig:3
+  name_or_label: Knowledge
+  description: Abstract concept indexed with several subtopics and explicitly listed
+    as personified.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:8
+- id: fig:4
+  name_or_label: Light
+  description: Abstract concept indexed as personified and also associated with the
+    light of Nature.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:11
+- id: fig:5
+  name_or_label: Fire Spirit
+  description: 'Named index entry: “Fire Spirit, The.”'
+  role_refs: []
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Hsi Wang Mu
+  description: Named index entry with page reference.
+  role_refs: []
+  evidence_refs:
+  - ev:12
+- id: fig:7
+  name_or_label: Yellow Emperor / Huang Ti
+  description: The index points from Huang Ti to Yellow Emperor.
+  role_refs: []
+  evidence_refs:
+  - ev:13
+roles:
+- id: role:1
+  label: indexed sage or teacher figure
+  assigned_to:
+  - fig:1
+  basis: The index lists Lao Tzŭ in multiple named associations and conversations.
+  evidence_refs:
+  - ev:9
+- id: role:2
+  label: indexed figure associated with extraordinary ability
+  assigned_to:
+  - fig:2
+  basis: Lieh Tzŭ is indexed with “his supernatural power” and other episodes.
+  evidence_refs:
+  - ev:10
+- id: role:3
+  label: personified abstraction
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The index explicitly marks knowledge and light as personified.
+  evidence_refs:
+  - ev:8
+  - ev:11
+symbols:
+- id: sym:1
+  label: fire
+  literal_form: Fire, Fire eternal, Fire Spirit, and production of fire are listed
+    as index entries.
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: mountain
+  literal_form: Several mountain entries appear, including Hua as a mountain, Ku-chüeh
+    Mountain, K'un-lun Mountains, and K'ung-t'ung.
+  associated_figures: []
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: sacred tree
+  literal_form: The index includes “Li tree, Sacred.”
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: water setting
+  literal_form: Water-related entries include fishes, the Liao River, and the Lü-liang
+    cataract.
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:14
+- id: sym:5
+  label: magic circle
+  literal_form: The index includes “Magic Circle, The.”
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:15
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: wisdom and limits of knowledge
+  taxonomy_refs:
+  - wisdom
+  basis: The index devotes a detailed entry to knowledge, including great knowledge,
+    ancient knowledge, limits to knowledge, perfection of knowledge, knowledge as
+    a curse, and personified knowledge.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: The supplied passage is an index, not a narrative or doctrinal exposition;
+    the motif is inferred only from indexed topic headings.
+- id: motif:2
+  label: sacred natural object
+  taxonomy_refs: []
+  basis: The index includes a sacred Li tree and multiple natural-symbol entries such
+    as fire, mountains, fishes, river, and cataract.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:14
+  confidence: low
+  cautions: The index confirms the presence of these topics elsewhere in the source
+    but gives no passage-level narrative context.
+- id: motif:3
+  label: extraordinary or supernatural ability of a sage figure
+  taxonomy_refs: []
+  basis: Lieh Tzŭ is indexed with “his supernatural power” and related episodes.
+  evidence_refs:
+  - ev:10
+  confidence: low
+  cautions: Only an index phrase is supplied; no episode details are present.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 15103-15555
+  quote_or_summary: Alphabetical index entries from Fêng Mêng through Magic Circle,
+    each with page references and occasional explanatory notes.
+  source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+  rights_note: Public domain source metadata; quotation avoided except for short index
+    phrases.
+- id: ev:2
+  type: quote
+  locator: 15103-15555
+  quote_or_summary: "“Fire eternal”; “Fire Spirit, The”; “Fire, Production of” appear
+    as index entries."
+  source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+  rights_note: Public domain; short quotation from supplied passage.
+- id: ev:3
+  type: quote
+  locator: 15103-15555
+  quote_or_summary: "“Fishes”; “Liao, River”; “Li tree, Sacred” appear as index entries."
+  source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+  rights_note: Public domain; short quotation from supplied passage.
+- id: ev:4
+  type: summary
+  locator: 15103-15555
+  quote_or_summary: The index lists several mountains or mountain-related entries,
+    including Hua, Ku-chüeh, K'un-lun Mountains, and K'ung-t'ung.
+  source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+  rights_note: Public domain source metadata.
+- id: ev:5
+  type: summary
+  locator: 15103-15555
+  quote_or_summary: The index includes abstract or doctrinal entries for government,
+    happiness, inaction, and law.
+  source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+  rights_note: Public domain source metadata.
+- id: ev:6
+  type: summary
+  locator: 15103-15555
+  quote_or_summary: The index includes entries for liberty, life with life-and-death
+    subtopics, and likes and dislikes.
+  source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+  rights_note: Public domain source metadata.
+- id: ev:7
+  type: summary
+  locator: 15103-15555
+  quote_or_summary: The index includes entries for great truths, language, the best
+    language, and law.
+  source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+  rights_note: Public domain source metadata.
+- id: ev:8
+  type: summary
+  locator: 15103-15555
+  quote_or_summary: The knowledge entry lists great knowledge, knowledge of the ancients,
+    limits and perfection of knowledge, knowledge as a curse, knowledge from repose,
+    shallowness, personified knowledge, and knowledge of the wherefore.
+  source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+  rights_note: Public domain source metadata.
+- id: ev:9
+  type: summary
+  locator: 15103-15555
+  quote_or_summary: Lao Tzŭ is indexed with No-toes, Confucius, Kêng Sang Ch'u, Nan
+    Yung, Poh Chü, Yang Tzŭ Chü, and death of Lao Tzŭ.
+  source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+  rights_note: Public domain source metadata.
+- id: ev:10
+  type: summary
+  locator: 15103-15555
+  quote_or_summary: Lieh Tzŭ is indexed with his supernatural power, the magician,
+    the skull, the perfect man, archery, and declining food.
+  source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+  rights_note: Public domain source metadata.
+- id: ev:11
+  type: summary
+  locator: 15103-15555
+  quote_or_summary: The light entry includes light as personified and the light of
+    Nature.
+  source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+  rights_note: Public domain source metadata.
+- id: ev:12
+  type: citation
+  locator: 15103-15555
+  quote_or_summary: Index entry for Hsi Wang Mu with page reference 78.
+  source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+  rights_note: Public domain source metadata.
+- id: ev:13
+  type: citation
+  locator: 15103-15555
+  quote_or_summary: 'Index entry: Huang Ti, see Yellow Emperor.'
+  source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+  rights_note: Public domain source metadata.
+- id: ev:14
+  type: citation
+  locator: 15103-15555
+  quote_or_summary: Index entry for “Lü-liang, Cataract at.”
+  source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+  rights_note: Public domain source metadata.
+- id: ev:15
+  type: citation
+  locator: 15103-15555
+  quote_or_summary: Index entry for “Magic Circle, The.”
+  source_text_path: texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md
+  rights_note: Public domain source metadata.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: The supplied text is an index excerpt rather than the chapter passages indicated
+    by the label, so literal extraction is possible but narrative scene and motif
+    interpretation are limited.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the index excerpt itself does not support cautious cross-tradition comparison.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:daoist-zhuangzi-giles-gutenberg__l15103-l15555
+  passage_sha256=daf99124b15c2fa99f268b8262eb28eb5bcb38af6821b801afbcc4431dad9200

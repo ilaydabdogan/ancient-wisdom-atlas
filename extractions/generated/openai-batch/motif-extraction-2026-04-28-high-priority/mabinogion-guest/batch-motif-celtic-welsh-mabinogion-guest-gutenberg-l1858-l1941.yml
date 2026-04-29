@@ -1,0 +1,518 @@
+---
+record_id: batch.motif.celtic-welsh-mabinogion-guest-gutenberg-l1858-l1941
+source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+passage_locator:
+  label: INTRODUCTION / C. E. G. / THE LADY OF THE FOUNTAIN / PEREDUR THE SON OF EVRAWC;
+    lines 1858-1941
+  start: '1858'
+  end: '1941'
+  translation: The Mabinogion
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Peredur travels along a mountain ridge into a circular valley, passes a
+    chained lion above a bone-filled pit, enters a castle ruled by a huge grey man,
+    and is warned by the grey man’s daughter that the valley’s giant vassals will
+    attack him. After arranging to keep his horse and arms with him overnight, Peredur
+    fights the host, kills many of them and the grey man’s two sons, then grants mercy
+    on condition that the grey man and his people do homage to Arthur and receive
+    baptism. They go to Arthur’s court, are baptized, and receive the valley from
+    Arthur to hold under him.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Peredur travels by a high road along a mountain ridge and sees a circular
+    valley with rocky and wooded confines.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Within the wood, Peredur sees black houses, a rocky ledge carrying the road,
+    a chained sleeping lion on the ledge, and a large pit beneath it full of human
+    and animal bones.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Peredur strikes the lion, breaks its chain with a second blow, and the lion
+    falls into the pit.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The grey man identifies the lion as his porter after Peredur reaches the castle.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: At the castle, Peredur is seated with a maiden who says she loves him and
+    warns that her father’s giant vassals will attack and kill him the next day.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The maiden arranges for Peredur’s horse and arms to be lodged with him overnight.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: In the morning, the aged woman and maiden ask the grey man to accept Peredur’s
+    word that he will not disclose what he has seen, but the grey man refuses.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: Peredur fights the host and by evening has slain one third of them without
+    being hurt.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: After the grey man refuses mercy, Peredur kills the yellow-haired youth and
+    the auburn-haired youth, described as the grey man’s two sons.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: The grey man yields, and the maiden asks Peredur for mercy for her father
+    and surviving vassals.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:11
+  text: Peredur grants mercy on condition that the grey man and his people render
+    homage to Arthur and receive baptism.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:12
+  text: The grey man and his company go to Arthur’s court, do homage, are baptized,
+    and receive the Round Valley from Arthur to hold under him.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Peredur
+  description: The travelling youth who enters the Round Valley, defeats the lion,
+    fights the host, and imposes conditions of homage and baptism.
+  role_refs:
+  - role:1
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Chained lion
+  description: A sleeping lion bound by a chain on the rocky ledge above a pit; later
+    identified by the grey man as his porter.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Grey man
+  description: A huge grey man, larger than any man Peredur had seen, father of the
+    maiden and ruler over giant vassals in the Round Valley.
+  role_refs:
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: Maiden
+  description: The grey man’s daughter, seated with Peredur at the meal; she warns
+    him, arranges his horse and arms, and later asks mercy for her father and surviving
+    vassals.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: Aged woman / tall woman
+  description: An aged woman, later called a tall woman, who sits by the grey man
+    and joins the maiden in asking that Peredur be spared.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:6
+  name_or_label: Two young pages / two sons
+  description: Two youths first serving as pages, one described as red-haired and
+    the other auburn; later Peredur kills the yellow-haired youth and the auburn-haired
+    youth, identified as the grey man’s two sons.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:7
+  name_or_label: Giant vassals / host
+  description: The inhabitants of the black houses belonging to the grey man; the
+    maiden says they are all giants and will attack Peredur.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:8
+  name_or_label: Arthur
+  description: The ruler to whom Peredur requires the defeated grey man and company
+    to render homage; Arthur has them baptized and grants them the valley.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: travelling combatant
+  assigned_to:
+  - fig:1
+  basis: Peredur enters the valley, arms himself, and fights the host.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: porter or threshold guardian
+  assigned_to:
+  - fig:2
+  basis: The lion is chained on the road-bearing ledge above the pit and is called
+    the grey man’s porter.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: valley lord and father
+  assigned_to:
+  - fig:3
+  basis: The maiden identifies the grey man as her father, and the black houses belong
+    to his vassals.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: intercessor
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: The maiden and aged woman ask for mercy or safety at several points in the
+    episode.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: opposing giant ruler and host
+  assigned_to:
+  - fig:3
+  - fig:7
+  basis: The grey man refuses to spare Peredur while his giant vassals fight him.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:6
+  label: victor granting conditional mercy
+  assigned_to:
+  - fig:1
+  basis: Peredur accepts the surrender on conditions of homage to Arthur and baptism.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: sons of the defeated ruler
+  assigned_to:
+  - fig:6
+  basis: After Peredur kills the two youths, the maiden says the grey man’s two sons
+    have been slain.
+  evidence_refs:
+  - ev:4
+- id: role:8
+  label: overlord receiving homage
+  assigned_to:
+  - fig:8
+  basis: The grey man and company render homage to Arthur, who has them baptized and
+    grants them the valley.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: mountain ridge
+  literal_form: high road along a mountain-ridge
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Round Valley
+  literal_form: circular valley later named the Round Valley
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: sym:3
+  label: chained lion
+  literal_form: lion bound by a chain and sleeping on a rocky ledge
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:4
+  label: pit of bones
+  literal_form: deep pit of immense size full of bones of men and animals
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:5
+  label: central castle
+  literal_form: fair castle in the centre of the valley
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:6
+  label: baptism
+  literal_form: the grey man and his company embrace the faith and are baptized
+  associated_figures:
+  - fig:3
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: Approach to the Round Valley and defeat of the chained lion
+  summary: Peredur enters a rocky, wooded circular valley by a road on a ledge, strikes
+    down a chained lion above a bone-filled pit, and passes onward.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Castle meal and warning
+  summary: Peredur is received at the grey man’s castle; the maiden warns him that
+    the grey man’s giant vassals will attack him the next day and identifies the place
+    as the Round Valley.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Night preparation and morning battle
+  summary: The maiden ensures that Peredur’s horse and arms are lodged with him; in
+    the morning, pleas for a non-disclosure promise are refused, and Peredur fights
+    the host.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:7
+  symbol_refs:
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Killing of the sons and surrender
+  summary: Peredur kills the grey man’s two sons, after which the grey man yields
+    and the maiden asks mercy for him and the surviving vassals.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Homage, baptism, and Arthurian grant
+  summary: Peredur makes mercy conditional on homage to Arthur and baptism; the grey
+    man and company go to Arthur’s court, are baptized, and receive the valley from
+    Arthur to hold under him.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:2
+  - sym:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Hero passes a dangerous guarded threshold
+  taxonomy_refs:
+  - initiation
+  basis: Peredur must pass a chained lion on a narrow ledge above a pit of bones before
+    entering the valley and castle.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage presents the event literally as combat with a chained porter;
+    an initiatory reading is a motif-family classification rather than an explicit
+    statement.
+- id: motif:2
+  label: Single hero subdues a giant lord’s realm
+  taxonomy_refs:
+  - culture_hero
+  basis: Peredur fights the giant host without injury, kills many opponents and the
+    lord’s sons, and brings about the surrender of the grey man and his surviving
+    vassals.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage does not call Peredur a culture hero; the label is based on
+    the social result of defeating and reorganizing the hostile valley.
+- id: motif:3
+  label: Conditional mercy exchanged for homage and baptism
+  taxonomy_refs:
+  - sacred_exchange
+  - royal_legitimacy
+  basis: Peredur grants mercy only if the defeated group renders homage to Arthur
+    and receives baptism; Arthur then grants them the valley to hold under him.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The exchange and political-religious incorporation are explicit, but broader
+    historical or theological interpretation is not established by this passage alone.
+- id: motif:4
+  label: Non-disclosure condition around a perilous place
+  taxonomy_refs:
+  - forbidden_knowledge
+  basis: The aged woman and maiden propose that Peredur promise never to disclose
+    what he has seen in the place; Peredur later thanks Heaven that he did not break
+    his vow not to speak to any Christian.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage includes secrecy and a speech vow, but it does not frame the
+    seen material as forbidden knowledge in explicit terms.
+comparison_claims:
+- id: claim:1
+  claim: 'The episode functions within the passage as an Arthurian incorporation pattern:
+    a hostile valley is defeated through Peredur, its ruler and people do homage to
+    Arthur, and Arthur grants the valley back under his authority.'
+  claim_level: same_function
+  target: royal_legitimacy motif family / Arthurian homage-and-grant pattern
+  evidence_refs:
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This claim is limited to functional patterning inside the provided
+    passage; it does not assert a historical source relationship or external parallel.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1858-1873
+  quote_or_summary: Peredur travels along a mountain ridge into a circular rocky and
+    wooded valley, sees black houses, a ledge-road, a chained sleeping lion, and a
+    deep pit full of bones; he strikes the lion and breaks its chain so it falls into
+    the pit.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1874-1894
+  quote_or_summary: Peredur reaches a central castle, meets a huge grey man, two pages,
+    an aged woman, and a maiden; the grey man calls the lion his porter, and the maiden
+    warns Peredur that her father’s giant vassals in the black houses will attack
+    him in the Round Valley.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 1895-1908
+  quote_or_summary: The maiden places Peredur’s horse and arms in his lodging; in
+    the morning the women ask the grey man to accept Peredur’s promise of secrecy,
+    he refuses, and Peredur fights the host, killing one third without injury.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 1909-1925
+  quote_or_summary: After further refusals of mercy, Peredur kills the grey man’s
+    two sons; the grey man yields, and Peredur grants mercy on condition of homage
+    to Arthur and baptism, then gives thanks for not breaking his speech vow.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 1926-1941
+  quote_or_summary: The grey man and company go to Arthur’s court, do homage, are
+    baptized, tell Arthur that Peredur vanquished them, and receive the valley from
+    Arthur to hold under him before returning.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Narrative actions, figures, and settings are explicit in the supplied passage.
+    Motif-family assignments are cautious and based only on the passage and supplied
+    taxonomy labels.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No external comparisons or taxonomy IDs beyond the supplied available references were introduced.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:celtic-welsh-mabinogion-guest-gutenberg__l1858-l1941
+  passage_sha256=5951f321e6b4c831bfaa171b0fe402208c5fea05df8c5ec7b6748ee8e5c8c9c4

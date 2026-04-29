@@ -1,0 +1,347 @@
+---
+record_id: batch.motif.greek-iliad-pope-gutenberg-l1939-l2031
+source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+passage_locator:
+  label: CONCLUDING NOTE. / INTRODUCTION. / THEODORE ALOIS BUCKLEY. / POPES PREFACE
+    TO THE ILIAD OF HOMER; lines 1939-2031
+  start: '1939'
+  end: '2031'
+  translation: The Iliad
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The preface speaker discusses Dryden's incomplete translation of the Iliad,
+    gives principles for translating Homer, recommends studying Homer alongside major
+    epic and critical works, submits the translation to public judgment, and acknowledges
+    advisers, patrons, and supporters.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The speaker says Dryden translated only the first book and a small part of
+    the sixth book of the Iliad, and criticizes some dependence on Chapman while praising
+    Dryden's Virgil.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker says a translator of Homer should preserve the poet's spirit and
+    fire, variations of style, numbers, speeches, sentences, word-turns, periods,
+    rites, and customs of antiquity.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The speaker recommends studying Homer from his own text and comparing him
+    especially with Virgil among ancient writers and Milton among modern writers.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The speaker says the work is submitted to the public and distinguishes the
+    judgments of good poets from those of hostile writers.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The speaker names several people who advised, recommended, promoted, criticized,
+    encouraged, or patronized the translation.
+  category: relationship
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: obs:6
+  text: A quoted passage attributed to the Duke of Buckingham praises Homer as making
+    other books seem poor and unnecessary by comparison.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: preface speaker / translator
+  description: The first-person speaker who has undertaken and submitted the translation
+    of Homer.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+- id: fig:2
+  name_or_label: Homer
+  description: The author whose text and poetic character the translator seeks to
+    preserve and study.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: Mr. Dryden
+  description: A prior translator who left only part of the Iliad translated and whose
+    Virgil is praised.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Chapman
+  description: A prior translator whose wording Dryden is said sometimes to copy and
+    whose deviations from the original Dryden is said sometimes to follow.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: Virgil
+  description: An ancient author recommended as the chief ancient comparison for Homer;
+    Dryden's translation of Virgil is also praised.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:6
+  name_or_label: Milton
+  description: A modern author recommended as the chief modern comparison for Homer.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: named advisers and patrons
+  description: Addison, Steele, Swift, Garth, Congreve, Rowe, Parnell, the Duke of
+    Buckingham, the Earl of Halifax, Lord Bolingbroke, and the noble author of Heroic
+    Love are named as supporters, critics, patrons, or encouragers.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:6
+roles:
+- id: role:1
+  label: translator and preface speaker
+  assigned_to:
+  - fig:1
+  basis: The speaker describes undertaking the translation, submitting it to the public,
+    and receiving advice and corrections.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:2
+  label: source poet and epic authority
+  assigned_to:
+  - fig:2
+  basis: The speaker treats Homer as the author whose spirit, style, rites, customs,
+    and design should guide the translator.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: prior translator
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: Dryden and Chapman are discussed in relation to previous translation of Homeric
+    material.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: comparative epic model
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: The speaker recommends comparing Homer with Virgil above ancient writers
+    and Milton above modern writers.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: adviser, patron, or supporter
+  assigned_to:
+  - fig:7
+  basis: The named figures are described as advising, recommending, promoting, criticizing,
+    encouraging, or patronizing the undertaking.
+  evidence_refs:
+  - ev:4
+  - ev:6
+symbols:
+- id: sym:1
+  label: poetic fire
+  literal_form: the phrase "spirit and fire" used for Homer's chief character
+  associated_figures:
+  - fig:2
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Assessment of earlier translators
+  summary: The speaker laments that Dryden did not complete the Iliad, notes faults
+    caused by haste and dependence on Chapman, and praises Dryden's Virgil.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Principles for translating Homer
+  summary: The speaker outlines how a translator should preserve Homer's poetic force,
+    style, formal qualities, and ancient rites and customs, while studying the primary
+    text and major comparators.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Submission and acknowledgment of support
+  summary: The speaker submits the work to public judgment and acknowledges poets,
+    critics, friends, patrons, and noble supporters who advised, corrected, or encouraged
+    the translation.
+  figure_refs:
+  - fig:1
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: scene:4
+  label: Praise of Homer attributed to Buckingham
+  summary: A quoted verse passage praises Homer as so complete a reading experience
+    that other books appear poor by comparison.
+  figure_refs:
+  - fig:2
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: preservation of an authoritative poet's animating force
+  taxonomy_refs:
+  - wisdom
+  basis: The passage presents translation as an effort to preserve Homer's spirit,
+    style, rites, customs, and poetic character through study and judgment.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: This is a literary-critical pattern in a preface, not a mythic narrative
+    episode.
+- id: motif:2
+  label: lineage of poetic authority and patronage
+  taxonomy_refs: []
+  basis: The passage situates the translation among prior translators, epic comparators,
+    critics, advisers, and patrons.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:6
+  confidence: medium
+  cautions: The motif is social and literary rather than mythological; no direct mythic
+    action is narrated.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly recommends comparing Homer with Virgil as the foremost
+    ancient comparator and Milton as the foremost modern comparator for translation
+    practice.
+  claim_level: same_function
+  target: Virgil and Milton as epic comparators for Homer
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison concerns literary study and epic style, not a shared
+    mythic motif.
+- id: claim:2
+  claim: The passage presents Telemachus and Bossu's Treatise of the Epic Poem as
+    works useful for understanding Homer's spirit, design, and conduct.
+  claim_level: same_function
+  target: Telemachus and Bossu's Treatise of the Epic Poem as interpretive guides
+    to epic form
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim is limited to critical guidance named in the passage and
+    does not establish historical dependence or shared narrative motifs.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1939-1953
+  quote_or_summary: The speaker says Dryden left only the first Iliad book and a small
+    part of the sixth, sometimes followed Chapman away from the original, and nevertheless
+    produced a noble and spirited Virgil translation.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: quote
+  locator: lines 1954-1972
+  quote_or_summary: The translator should "keep alive that spirit and fire" and preserve
+    Homer's style, numbers, speeches, sentences, turns of words, periods, rites, and
+    customs of antiquity.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: summary
+  locator: lines 1973-1987
+  quote_or_summary: The speaker recommends studying Homer from his own text, comparing
+    him with Virgil and Milton, and consulting Telemachus and Bossu's Treatise for
+    spirit, turn, design, and conduct.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 1988-2015
+  quote_or_summary: The speaker submits the translation to the public, contrasts good
+    poets and hostile writers, and acknowledges Addison, Steele, Swift, Garth, Congreve,
+    Rowe, and Parnell.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: quote
+  locator: lines 2016-2023
+  quote_or_summary: '"Read Homer once, and you can read no more; / For all books else
+    appear so mean, so poor"'
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:6
+  type: summary
+  locator: lines 2024-2031
+  quote_or_summary: The speaker names Halifax, Bolingbroke, and the noble author of
+    Heroic Love as favoring, criticizing, patronizing, advising, or correcting the
+    translation.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is a literary preface rather than a mythic narrative. Figures,
+    roles, and literary comparison claims are directly supported; motif labeling is
+    necessarily cautious.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No direct mythic episode is narrated in this line range. The only taxonomy symbol used is fire, appearing as a metaphorical image in the phrase "spirit and fire."
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-iliad-pope-gutenberg__l1939-l2031
+  passage_sha256=ab54c83df4a836fff790259fc193c207071e42d89e1b881493d967e75da36a2b

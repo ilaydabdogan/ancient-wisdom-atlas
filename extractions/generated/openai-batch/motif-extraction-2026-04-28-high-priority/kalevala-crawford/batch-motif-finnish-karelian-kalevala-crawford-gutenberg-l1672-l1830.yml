@@ -1,0 +1,595 @@
+---
+record_id: batch.motif.finnish-karelian-kalevala-crawford-gutenberg-l1672-l1830
+source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+passage_locator:
+  label: PREFACE / JOHN MARTIN CRAWFORD. / THE KALEVALA. / PROEM; lines 1672-1830
+  start: '1672'
+  end: '1830'
+  translation: 'Kalevala: The Epic Poem of Finland'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A small copper-clad hero rises from the ocean and identifies himself as
+    a divine oceanic hero come to fell a mighty oak. After Wainamoinen doubts him,
+    the small figure becomes a giant, cuts down the oak, and its fragments scatter
+    across the world and sea. A Northland maiden gathers chips to make enchanted arrows.
+    With the oak fallen, light and vegetation return, but barley does not grow until
+    Wainamoinen finds and sows kernels; a titmouse warns that the soil must first
+    be prepared by clearing and burning the forest.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A form or hero rises from the ocean and waters, described as very small and
+    equipped with copper cap, boots, gloves, belt, and hatchet.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Wainamoinen asks whether the sea-born figure is divine or human and asks for
+    his name and station.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Wainamoinen calls the sea-born figure human and associates him with pigmy-heroes,
+    judging him unfit and likely to perish.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The small sea-born figure replies that he is a god and hero from tribes ruling
+    the ocean and that he has come to fell the oak-tree with his hatchet.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Wainamoinen says the figure lacks sufficient strength to uproot or lop the
+    mighty oak-tree, which he calls a thing of evil.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The pigmy-hero unfolds into a mighty giant whose head reaches the clouds and
+    whose beard and hair extend to his knees and ankles.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The giant sharpens his axe with six hard blocks of sandstone and seven softer
+    whetstones.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The giant strikes the oak with his sharpened hatchet; sparks fly upward, fire
+    shoots from the oak, and the tree falls before a fourth blow.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The fallen oak extends and scatters its trunk, top, leaves, and branches toward
+    the four directions.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: Those who take a branch, tree-top, or foliage of the fallen oak obtain welfare,
+    master magic, or unceasing delight.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: Chips and splinters from the oak float on the ocean and are carried toward
+    Northland by winds and currents.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:12
+  text: A Northland maiden, washing garments at the shore, sees the chips and splinters,
+    gathers them in a bag, and takes them to make enchanted arrows and weapons.
+  category: action
+  evidence_refs:
+  - ev:9
+- id: obs:13
+  text: After the oak falls, the North can see sunshine and moonlight, clouds can
+    keep their courses, and the vault of heaven extends over waters and islands.
+  category: sequence
+  evidence_refs:
+  - ev:10
+- id: obs:14
+  text: Forests, vines, flowers, birds, berries, herbs, and varied vegetation appear
+    or return, but barley is not growing.
+  category: sequence
+  evidence_refs:
+  - ev:11
+- id: obs:15
+  text: Wainamoinen finds six golden barley seeds and seven ripened kernels on the
+    seashore, stores them in pouches of squirrel and marten skin, and sows them by
+    Kalew-waters and the Osma hills and lowlands.
+  category: action
+  evidence_refs:
+  - ev:12
+- id: obs:16
+  text: A titmouse speaks from an aspen, saying that Osma's or Wainola's barley will
+    not flourish unless the soil is prepared, the forest is leveled, and branches
+    are burned to ashes.
+  category: speech
+  evidence_refs:
+  - ev:13
+figures:
+- id: fig:1
+  name_or_label: Wainamoinen
+  description: Old and trusty Wainamoinen questions the sea-born figure, doubts his
+    strength, later finds and sows barley kernels.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:12
+- id: fig:2
+  name_or_label: sea-born pigmy-hero / mighty giant
+  description: A small copper-clad form rises from the ocean, says he is a god and
+    hero from ocean-ruling tribes, then becomes a giant and fells the oak.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: Northland maiden
+  description: A fair and slender maiden of Northland washing garments at the shore
+    gathers oak chips and splinters to make enchanted arrows and weapons.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:9
+- id: fig:4
+  name_or_label: titmouse
+  description: A titmouse cries from an aspen and states conditions for barley to
+    flourish.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:13
+- id: fig:5
+  name_or_label: great magician / skilful archer
+  description: An unnamed recipient or user for whom the enchanted arrows and weapons
+    are to be made.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:9
+roles:
+- id: role:1
+  label: questioner and evaluator
+  assigned_to:
+  - fig:1
+  basis: Wainamoinen asks whether the sea-born form is divine or human and later denies
+    that the small figure has strength to fell the oak.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:2
+  label: sea-born tree-feller and shape-changing hero
+  assigned_to:
+  - fig:2
+  basis: The figure rises from the ocean, identifies as a god and hero, grows from
+    pigmy size to giant size, and cuts down the oak.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:6
+- id: role:3
+  label: gatherer and maker of enchanted arrows
+  assigned_to:
+  - fig:3
+  basis: The Northland maiden gathers the oak chips and splinters to make enchanted
+    arrows and weapons.
+  evidence_refs:
+  - ev:9
+- id: role:4
+  label: speaking bird adviser
+  assigned_to:
+  - fig:4
+  basis: The titmouse speaks from the aspen about what must happen before barley will
+    flourish.
+  evidence_refs:
+  - ev:13
+- id: role:5
+  label: barley finder and sower
+  assigned_to:
+  - fig:1
+  basis: Wainamoinen finds barley seeds and kernels and sows them on named shores,
+    hills, and lowlands.
+  evidence_refs:
+  - ev:12
+- id: role:6
+  label: intended weapon-user
+  assigned_to:
+  - fig:5
+  basis: The arrows and weapons are said to be for the great magician and skilful
+    archer.
+  evidence_refs:
+  - ev:9
+symbols:
+- id: sym:1
+  label: ocean and waters
+  literal_form: Ocean, waters, sea-shore, Kalew-waters, and waters of Pohyola.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:8
+  - ev:9
+  - ev:12
+- id: sym:2
+  label: mighty oak-tree
+  literal_form: A mighty oak-tree with a hundred branches, called a thing of evil,
+    whose fall shakes earth and heaven.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+  - ev:10
+- id: sym:3
+  label: copper attire and copper hatchet
+  literal_form: Copper cap, boots, gloves, belt, and hatchet worn or carried by the
+    small sea-born hero.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: axe or hatchet
+  literal_form: Hatchet or axe used by the sea-born hero to cut the oak after sharpening
+    it on whetstones.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+- id: sym:5
+  label: fire from the oak and burning branches
+  literal_form: Sparks fly from the axe, fire shoots from the oak, and later branches
+    must be burned to ashes for barley to flourish.
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:6
+  - ev:13
+- id: sym:6
+  label: oak chips and splinters
+  literal_form: Chips and splinters of the felled oak floating on the ocean and gathered
+    for enchanted arrows.
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: sym:7
+  label: enchanted arrows and weapons
+  literal_form: Arrows and weapons made from the oak chips and splinters for a great
+    magician and skilful archer.
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:8
+  label: barley seeds and kernels
+  literal_form: Six golden barley seeds and seven ripened kernels found on the seashore
+    and sown by Wainamoinen.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:12
+- id: sym:9
+  label: aspen
+  literal_form: An aspen tree from which the titmouse speaks.
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:13
+scenes:
+- id: scene:1
+  label: sea-born hero appears and is questioned
+  summary: A small copper-clad figure rises from the ocean. Wainamoinen questions
+    whether he is divine or human and doubts his worth.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: pigmy-hero becomes giant and fells the oak
+  summary: The sea-born figure identifies himself as a divine oceanic hero, becomes
+    a cloud-reaching giant, sharpens his axe, and fells the hundred-branched oak with
+    sparks and fire.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:3
+  label: fallen oak scatters benefits and fragments
+  summary: The oak falls across the directions. Its branches, tree-top, and foliage
+    confer benefits, while chips and splinters float on the sea and are carried north.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:6
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: scene:4
+  label: Northland maiden gathers oak fragments
+  summary: A Northland maiden washing garments at the shore sees the floating oak
+    fragments, gathers them, and takes them to make enchanted arrows and weapons.
+  figure_refs:
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:9
+- id: scene:5
+  label: light and vegetation return, but barley is absent
+  summary: With the oak fallen, sunshine, moonlight, cloud courses, and the vault
+    of heaven are restored; forests, flowers, birds, berries, and herbs appear, but
+    barley is still not growing.
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:10
+  - ev:11
+- id: scene:6
+  label: Wainamoinen sows barley and receives the titmouse's warning
+  summary: Wainamoinen finds barley seeds and kernels on the seashore and sows them,
+    after which a titmouse says the barley will not flourish without clearing and
+    burning the forest.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:5
+  - sym:8
+  - sym:9
+  evidence_refs:
+  - ev:12
+  - ev:13
+candidate_motifs:
+- id: motif:1
+  label: sea-born helper or hero emerges from water
+  taxonomy_refs: []
+  basis: The passage begins with a hero-like form rising from the ocean and later
+    identifying himself as a god and hero from ocean-ruling tribes.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: No available motif-family taxonomy entry exactly names emergence from
+    water.
+- id: motif:2
+  label: small figure expands into giant hero
+  taxonomy_refs:
+  - shapeshifter
+  basis: The pigmy-hero quickly unfolds from a very small figure into a mighty giant
+    with head in the clouds.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: high
+  cautions: The passage describes change of size, not a change into another species
+    or identity.
+- id: motif:3
+  label: obstructing world-oak felled to restore light and sky order
+  taxonomy_refs:
+  - sacred_tree_axis
+  basis: A mighty hundred-branched oak called evil is felled; its fall shakes earth
+    and heaven, its parts spread to the directions, and afterward sunshine, moonlight,
+    cloud courses, and the vault of heaven are restored.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+  - ev:10
+  confidence: medium
+  cautions: The passage does not explicitly call the oak sacred or an axis; the taxonomy
+    reference is based on its cosmic scale and effect.
+- id: motif:4
+  label: tree fragments confer magic and welfare
+  taxonomy_refs: []
+  basis: Taking parts of the fallen oak grants eternal welfare, master magic, or unceasing
+    delight.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: The mechanism of the benefits is not explained in the passage.
+- id: motif:5
+  label: enchanted weapons made from fragments of a felled tree
+  taxonomy_refs: []
+  basis: The Northland maiden gathers oak chips and splinters carried by water and
+    takes them to make enchanted arrows and weapons.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: The passage does not describe the completed weapon-making process, only
+    the intention to make them.
+- id: motif:6
+  label: culture hero initiates barley cultivation after cosmic clearing
+  taxonomy_refs:
+  - culture_hero
+  - seasonal_cycle
+  basis: After vegetation returns but barley is absent, Wainamoinen finds and sows
+    barley kernels; the titmouse states agricultural preparation requirements involving
+    clearing and burning.
+  evidence_refs:
+  - ev:11
+  - ev:12
+  - ev:13
+  confidence: medium
+  cautions: The passage presents sowing and cultivation conditions, but does not yet
+    show a successful harvest.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 1672-1686
+  quote_or_summary: A small form or hero rises from the ocean, wearing copper gear
+    and carrying a copper hatchet.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 1687-1704
+  quote_or_summary: Wainamoinen questions whether the figure is divine or human and
+    then judges him a human pigmy-hero of little worth.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 1705-1711
+  quote_or_summary: The pigmy-hero says he is a god and hero from the tribes ruling
+    the ocean and has come to fell the oak-tree.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 1712-1718
+  quote_or_summary: Wainamoinen answers that the sea-born hero lacks strength to uproot
+    or lop the mighty oak-tree, called a thing of evil.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 1719-1735
+  quote_or_summary: The pigmy unfolds into a mighty giant, leaves the ocean, reaches
+    the clouds, and sharpens his axe with six hard sandstones and seven softer whetstones.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 1736-1748
+  quote_or_summary: The giant reaches the oak, strikes it with his hatchet, sparks
+    and fire appear, and the oak falls, shaking earth and heaven.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 1749-1757
+  quote_or_summary: The oak's trunk, tree-tops, leaves, and branches scatter toward
+    the directions; people who take parts gain welfare, master magic, or unceasing
+    delight.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: 1758-1764
+  quote_or_summary: Oak chips and splinters scatter on the ocean, rock on the waters
+    like a boat, and are carried north by winds and currents.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: 1765-1777
+  quote_or_summary: A Northland maiden washing garments at the shore sees the chips
+    and splinters, gathers them in a bag, and takes them to make enchanted arrows
+    and weapons for a magician or archer.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: 1778-1785
+  quote_or_summary: Because the mighty oak has fallen, the North can see sunshine
+    and moonlight, clouds can keep their courses, and heaven extends over waters and
+    islands.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summarized.
+- id: ev:11
+  type: summary
+  locator: 1786-1797
+  quote_or_summary: Groves, forests, vines, flowers, birds, berries, herbs, and vegetation
+    appear, but barley is not growing.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summarized.
+- id: ev:12
+  type: summary
+  locator: 1798-1815
+  quote_or_summary: Wainamoinen finds six golden barley seeds and seven kernels on
+    the seashore, puts them in animal-skin pouches, and sows them by Kalew-waters
+    and Osma hills and lowlands.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summarized.
+- id: ev:13
+  type: summary
+  locator: 1816-1830
+  quote_or_summary: A titmouse speaks from an aspen, saying barley will not flourish
+    unless the soil is prepared, the forest leveled, and branches burned to ashes.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is strong from the supplied passage. Motif labels involving
+    cosmic or culture-hero functions require human review because the passage itself
+    does not name those categories.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage does not itself provide an explicit comparison to another text, tradition, or external motif family beyond candidate motif classification.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:finnish-karelian-kalevala-crawford-gutenberg__l1672-l1830
+  passage_sha256=c6c87e655dff6c1f3fd3746cf554729457a0436e060a9db1df062351d9c53915

@@ -1,0 +1,460 @@
+---
+record_id: batch.motif.greek-iliad-pope-gutenberg-l1471-l1552
+source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+passage_locator:
+  label: CONCLUDING NOTE. / INTRODUCTION. / THEODORE ALOIS BUCKLEY. / POPES PREFACE
+    TO THE ILIAD OF HOMER; lines 1471-1552
+  start: '1471'
+  end: '1552'
+  translation: The Iliad
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage praises Homer's expression, diction, compound epithets, and
+    versification. It describes him as the father of poetical diction, the first to
+    teach a divine language to humans, a maker of vivid metaphors and epithets, and
+    a poet whose Greek verse harmonizes sound and sense. It compares his poetic sound
+    with Virgil's and ends with images of the Muses dictating, a trumpet awakening
+    hearers, and verse flowing like a river and tide.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Homer is described as having a bright imagination and as the father of poetical
+    diction.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Homer is said to have taught the language of the gods to men.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Aristotle is cited as saying that Homer was the only poet who had found out
+    living words.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: 'The passage gives examples of animated poetic expression: an arrow is impatient
+    to fly, and a weapon thirsts for an enemy''s blood.'
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: Homer's expression is compared to glass in a furnace that enlarges and clears
+    with breath and heat.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Homer's compound epithets are described as short descriptions or supernumerary
+    pictures attached to persons or things.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The passage mentions Hector's plumes and the landscape of Mount Neritus as
+    images conveyed by epithets.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: Homer is described as drawing on different Greek dialects to beautify and
+    perfect his verse.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Homer's verse is said to correspond in sound to what it signifies.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: Virgil is described as diligently working with Latin and bringing the sound
+    of his line into agreement with its sense.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: Homer's numbers are imagined as if he transcribed while the Muses dictated.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:12
+  text: Homer's verse is compared to the sound of a trumpet and to a plentiful river
+    or tide.
+  category: object
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Homer
+  description: Poet praised for imagination, diction, metaphors, epithets, and versification.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:6
+- id: fig:2
+  name_or_label: Aristotle
+  description: Authority cited for the statement that Homer found out living words.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Hector
+  description: Epic figure whose plumes are mentioned as an image conveyed by an epithet.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Virgil
+  description: Roman poet compared with Homer regarding the beauty of poetic numbers
+    and sound-sense agreement.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Dionysius of Halicarnassus
+  description: Critic said to have pointed out beauties in Homer's composition of
+    words.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: Muses
+  description: Divine figures imagined as dictating while Homer transcribes.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: poet of divine diction
+  assigned_to:
+  - fig:1
+  basis: Homer is called the first to teach the language of the gods to men.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: inventive maker of vivid expression
+  assigned_to:
+  - fig:1
+  basis: The passage attributes daring metaphors, compound epithets, and living words
+    to Homer.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: master of harmonic verse
+  assigned_to:
+  - fig:1
+  basis: Homer is said to have the finest ear and to create sound that corresponds
+    to meaning.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:4
+  label: literary critic or authority
+  assigned_to:
+  - fig:2
+  - fig:5
+  basis: Aristotle and Dionysius are cited as authorities on Homeric poetic qualities.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:5
+  label: image within poetic epithet
+  assigned_to:
+  - fig:3
+  basis: Hector's plumes are mentioned as seen through an epithet.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: comparative Roman poet
+  assigned_to:
+  - fig:4
+  basis: Virgil is compared with Homer in relation to poetic sound and verse.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: divine inspirers of poetry
+  assigned_to:
+  - fig:6
+  basis: The passage imagines Homer transcribing as the Muses dictated.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: language of the gods
+  literal_form: divine language taught to men
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - wisdom
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: living words
+  literal_form: words described as living
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: animated weapons
+  literal_form: arrow impatient to fly and weapon thirsting for blood
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: furnace glass
+  literal_form: glass in the furnace enlarged and clarified by breath and heat
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: Mount Neritus landscape
+  literal_form: Mount Neritus named as a landscape contained in an epithet
+  associated_figures: []
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: Muses' dictation
+  literal_form: Muses dictating while Homer transcribes
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs:
+  - wisdom
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: trumpet sound
+  literal_form: sound of a trumpet that awakens and raises hearers
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:8
+  label: river and tide of verse
+  literal_form: verse rolling like a plentiful river and bearing hearers away like
+    a tide
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Praise of Homeric diction
+  summary: The passage presents Homer as the originator of elevated poetic diction,
+    vivid metaphors, and living words.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Explanation of figurative expression
+  summary: Homer's expression is described as proportionate to the sentiment and compared
+    to glass forming in a furnace under breath and heat.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Compound epithets as compressed images
+  summary: The passage explains Homeric compound epithets as short descriptions that
+    add images such as Hector's plumes and Mount Neritus.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Homeric versification and dialect mixture
+  summary: Homer is said to use multiple Greek dialects and poetic licenses to achieve
+    harmony, sound-sense correspondence, and varied verse.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Comparison with Virgil and Latin verse
+  summary: The passage states that Virgil faintly copied Homer's numbers and worked
+    to make Latin verse agree in sound and sense.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+- id: scene:6
+  label: Inspired and flowing verse
+  summary: Homer's verse is imagined as dictated by the Muses, awakening like a trumpet,
+    and flowing like a river or tide.
+  figure_refs:
+  - fig:1
+  - fig:6
+  symbol_refs:
+  - sym:6
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: divine poetic language transmitted to humans
+  taxonomy_refs:
+  - wisdom
+  basis: Homer is described as the first who taught the language of the gods to men.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: This is a literary-critical metaphor in Pope's preface, not a narrative
+    episode from the Iliad itself.
+- id: motif:2
+  label: divine inspiration of poetry
+  taxonomy_refs:
+  - wisdom
+  basis: The passage imagines Homer transcribing as the Muses dictated.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The wording presents an analogy for poetic ease rather than a literal
+    mythic event.
+- id: motif:3
+  label: living or animated speech
+  taxonomy_refs: []
+  basis: Aristotle is cited for Homer's living words, and the passage gives examples
+    of inanimate objects animated by poetic language.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The motif is derived from rhetorical description, not from a mythic plot.
+- id: motif:4
+  label: flowing waters as figure for inspired verse
+  taxonomy_refs:
+  - water
+  basis: Homer's verse is compared to a plentiful river and a tide that bears the
+    hearer away.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: This is a simile for poetic movement and sound, not a water episode in
+    the story world.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares Homeric and Virgilian versification, stating
+    that Virgil copied the beauty of Homer's numbers only faintly while also bringing
+    Latin sound into agreement with sense.
+  claim_level: same_function
+  target: Virgilian Latin epic versification
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is literary-critical and concerns poetic technique,
+    not a shared mythic narrative motif.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 1471-1484
+  quote_or_summary: Homer is praised for bright imagination, called father of poetical
+    diction and first teacher of the language of the gods to men; Aristotle is cited
+    on his living words, and examples include an impatient arrow and blood-thirsting
+    weapon.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 1484-1492
+  quote_or_summary: Homer's diction is said to rise with sentiment and is compared
+    to glass in a furnace growing larger and clearer through stronger breath and more
+    intense heat.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 1493-1508
+  quote_or_summary: The passage explains Homeric compound epithets as poetic compositions
+    that heighten diction and add short images, including Hector's plumes and Mount
+    Neritus.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 1509-1534
+  quote_or_summary: Homer is described as drawing on Ionic, Attic, Doric, and Aeolic
+    forms to perfect his verse, producing harmony, sweetness, variety, majesty, and
+    sound corresponding to sense.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 1534-1547
+  quote_or_summary: Critics are said to judge Virgil's copying of Homer's numbers
+    as faint; the passage discusses Greek advantages over Latin and says Virgil worked
+    to make Latin sound agree with sense. Dionysius of Halicarnassus is mentioned
+    as noting beauties in composition.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 1547-1552
+  quote_or_summary: Homer's verse is described as easy as if transcribed from the
+    Muses' dictation, vigorous like a trumpet, and rolling like a plentiful river
+    or tide.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is literary preface material rather than mythic narrative; extracted
+    motifs are mostly metaphors of poetic inspiration and diction.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used. Some Greek epithet text appears omitted or blank in the provided passage, so no missing Greek forms were reconstructed.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-iliad-pope-gutenberg__l1471-l1552
+  passage_sha256=506b7a384a953731ab0a161ae7be5f2ae13aa00c2070c24e95720e70cd89b5d3

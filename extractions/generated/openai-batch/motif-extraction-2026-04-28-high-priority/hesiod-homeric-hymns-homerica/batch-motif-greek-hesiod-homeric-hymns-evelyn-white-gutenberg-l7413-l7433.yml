@@ -1,0 +1,390 @@
+---
+record_id: batch.motif.greek-hesiod-homeric-hymns-evelyn-white-gutenberg-l7413-l7433
+source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+passage_locator:
+  label: XXIX. TO HESTIA / XXX. TO EARTH THE MOTHER OF ALL / XXXI. TO HELIOS / XXXII.
+    TO SELENE; lines 7413-7433
+  start: '7413'
+  end: '7433'
+  translation: Hesiod, the Homeric Hymns, and Homerica
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The hymn invokes the Muses to sing of Selene, the Moon, whose radiance
+    lights earth and air. Selene bathes in Ocean, dons a shining team, and drives
+    long-maned horses at evening near mid-month, when her orbit is full and her beams
+    are brightest. She is described as a sign to mortals. The hymn also says the Son
+    of Cronos was joined with her in love, and she bore Pandia. It closes with a salutation
+    to Selene and a transition to songs of half-divine men.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The speaker calls on the Muses, daughters of Zeus, to tell of the long-winged
+    Moon.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Radiance from the Moon's immortal head is shown from heaven and embraces earth.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Previously unlit air glows with the light of the Moon's golden crown.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Selene bathes her body in the waters of Ocean before driving her shining team.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Selene drives long-maned horses at full speed at evening around mid-month.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: At mid-month her orbit is full, her beams shine brightest, and she increases.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: Selene is called a sure token and sign to mortal men.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:8
+  text: The Son of Cronos was joined with Selene in love.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: Selene conceived and bore Pandia, described as exceedingly lovely among the
+    deathless gods.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:10
+  text: The hymn hails Selene as white-armed, bright, mild, bright-tressed, and queen.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Muses
+  description: Sweet-voiced daughters of Zeus, skilled in song, addressed by the speaker.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Selene / Moon
+  description: Long-winged Moon and goddess whose radiance lights earth and air; she
+    bathes in Ocean, drives horses, and is hailed as a queen.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: Mortal men
+  description: Human recipients for whom Selene is a sure token and sign.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Son of Cronos
+  description: Divine figure joined with Selene in love.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Pandia
+  description: Daughter born from Selene after union with the Son of Cronos; exceedingly
+    lovely among the deathless gods.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: invoked singers
+  assigned_to:
+  - fig:1
+  basis: The speaker asks the Muses to tell of the Moon.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: lunar goddess and light-giver
+  assigned_to:
+  - fig:2
+  basis: Selene's radiance is said to shine from heaven, embrace earth, and light
+    the air.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: mortal observers
+  assigned_to:
+  - fig:3
+  basis: Selene is called a sure token and sign to mortal men.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: divine lover
+  assigned_to:
+  - fig:4
+  basis: The Son of Cronos is said to have been joined with Selene in love.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: divine mother
+  assigned_to:
+  - fig:2
+  basis: Selene conceived and bore Pandia.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: divine child
+  assigned_to:
+  - fig:5
+  basis: Pandia is described as the daughter born to Selene after union with the Son
+    of Cronos.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: Moon
+  literal_form: Long-winged Moon / Selene as a luminous celestial body
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: radiance and beams
+  literal_form: Radiance from Selene's immortal head and bright beams
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: golden crown
+  literal_form: Golden crown whose light makes the air glow
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: Ocean waters
+  literal_form: Waters of Ocean in which Selene bathes her lovely body
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: shining team and horses
+  literal_form: Far-gleaming shining team and long-maned horses driven by Selene
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:6
+  label: full orbit at mid-month
+  literal_form: Selene's full orbit and brightest beams as she increases at mid-month
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:7
+  label: sign to mortals
+  literal_form: Selene as a sure token and sign to mortal men
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Invocation to sing of Selene
+  summary: The hymn asks the Muses, daughters of Zeus, to tell of the long-winged
+    Moon.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Selene's radiant evening course
+  summary: Selene's radiance lights heaven, earth, and air; after bathing in Ocean
+    she drives her shining team and horses at evening, with fullest brightness at
+    mid-month.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:3
+  label: Union and birth of Pandia
+  summary: The Son of Cronos is joined with Selene in love, and Selene conceives and
+    bears Pandia.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Closing salutation
+  summary: The speaker hails Selene with epithets and turns to sing of half-divine
+    men.
+  figure_refs:
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: lunar cycle as divine sign
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage marks Selene's increase, full orbit, and brightest beams at mid-month,
+    and says she is a sure token and sign to mortal men.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The available taxonomy has seasonal_cycle but not a specific lunar-cycle
+    category; the passage concerns a monthly lunar phase rather than seasons.
+- id: motif:2
+  label: divine union producing a divine child
+  taxonomy_refs:
+  - divine_parent_child
+  basis: The Son of Cronos is joined with Selene in love, and Selene conceives and
+    bears Pandia.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage gives only a brief genealogical notice and no extended birth
+    narrative.
+- id: motif:3
+  label: goddess as mother
+  taxonomy_refs:
+  - mother_goddess
+  basis: Selene is represented as conceiving and bearing Pandia, a daughter lovely
+    among the gods.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: Motherhood is present, but the hymn's main focus is Selene's lunar radiance
+    and course.
+- id: motif:4
+  label: divine beloved
+  taxonomy_refs:
+  - divine_beloved
+  basis: Selene is joined in love with the Son of Cronos.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The relationship is mentioned briefly without narrative elaboration.
+comparison_claims:
+- id: claim:1
+  claim: The passage can be cautiously grouped with lunar or celestial-cycle patterns
+    because it emphasizes Selene's increase, full mid-month orbit, and function as
+    a sign for mortals.
+  claim_level: same_function
+  target: seasonal_cycle motif family, broadly understood as cyclical celestial time-marking
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage describes a monthly lunar cycle, while the available motif
+    family label is broader and season-oriented.
+- id: claim:2
+  claim: The passage can be cautiously grouped with divine parent-child motifs because
+    it presents a divine union followed by the birth of Pandia.
+  claim_level: same_motif
+  target: divine_parent_child motif family
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The genealogy is brief and does not provide a detailed child-rearing
+    or succession episode.
+evidence:
+- id: ev:1
+  type: summary
+  locator: XXXII. To Selene, ll. 1-13
+  quote_or_summary: The Muses, daughters of Zeus, are asked to tell of the long-winged
+    Moon; radiance from her immortal head shines from heaven, embraces earth, and
+    lights the air through her golden crown.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: XXXII. To Selene, ll. 1-13
+  quote_or_summary: Selene bathes in Ocean, dons a shining team, drives long-maned
+    horses at evening, reaches full orbit and brightest beams at mid-month, and is
+    a sure token and sign to mortal men.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: XXXII. To Selene, ll. 14-16
+  quote_or_summary: The Son of Cronos was joined with Selene in love; she conceived
+    and bore Pandia, described as exceedingly lovely among the deathless gods.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: XXXII. To Selene, ll. 17-20
+  quote_or_summary: The hymn hails Selene as white-armed, bright, mild, bright-tressed
+    queen, then turns to songs of half-divine men.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Extraction is based only on the supplied Selene hymn passage. Motif mapping
+    is strongest for divine parent-child; lunar-cycle mapping is approximate because
+    the provided taxonomy lacks a specific lunar-cycle category.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Although the supplied locator label mentions multiple hymns, the provided passage text contains only Hymn XXXII, To Selene; extraction is limited to that text.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-hesiod-homeric-hymns-evelyn-white-gutenberg__l7413-l7433
+  passage_sha256=efd5b32da1beabd9fcc30a86bfdacceb2a354111aecd74ab7e8ae7cd796786cd

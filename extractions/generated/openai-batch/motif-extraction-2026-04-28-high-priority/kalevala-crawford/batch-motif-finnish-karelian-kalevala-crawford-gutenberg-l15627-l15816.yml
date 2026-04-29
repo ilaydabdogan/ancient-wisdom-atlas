@@ -1,0 +1,522 @@
+---
+record_id: batch.motif.finnish-karelian-kalevala-crawford-gutenberg-l15627-l15816
+source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+passage_locator:
+  label: JOHN MARTIN CRAWFORD. / THE KALEVALA. / PROEM / BOOK II; lines 15627-15816
+  start: '15627'
+  end: '15816'
+  translation: 'Kalevala: The Epic Poem of Finland'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Lemminkainen angrily complains that he was not invited or properly served
+    at Pohyola's wedding feast despite having sent barley. The hostess orders food
+    and beer brought, but a servant gives him poor scraps and inferior beer. Lemminkainen
+    finds serpents and other creatures in the pitchers, hooks them out, kills the
+    serpents, and drinks the remaining beer. The landlord challenges his presence
+    and conjures a lakelet as drink for him. Lemminkainen refuses, conjures a bull
+    to drink it, and then he and the landlord conduct a contest of conjured animals.
+    The landlord orders him to leave; Lemminkainen refuses to be driven away.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Lemminkainen is angry because the feast is over, the vessels are empty, and
+    he says he alone was not invited despite sending barley.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Ilpotar, the hostess, orders a servant-maiden to broil salmon and bring beer
+    for the stranger.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The servant-maiden serves food made of fish bones, turnip-stalks, withered
+    cabbage, crusts, and biscuit bits, and brings very poor beer.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Lemminkainen examines the pitchers and sees serpents, adders, worms, and lizards
+    in the beer vessels.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Lemminkainen curses the creatures and the bearer, then says he will drink
+    the dishonored beer after removing the rubbish.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Lemminkainen takes a fishing hook from his leather pouch, catches serpents,
+    adders, frogs, and worms from the pitcher, throws them on the floor, draws his
+    sword, and decapitates the serpents.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: After drinking the remaining beer, Lemminkainen says he is an unwelcome guest
+    because he has not been given beer or food worthy of a hero.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The landlord asks why Lemminkainen came and who invited him; Lemminkainen
+    replies that an invited guest is happy and an unexpected one happier, and asks
+    for beer or drink for payment.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: The landlord conjures a lakelet at Lemminkainen's feet and tells him to quench
+    his thirst there.
+  category: action
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: Lemminkainen refuses to drink the lakelet water, saying he is not a bear or
+    roebuck.
+  category: speech
+  evidence_refs:
+  - ev:10
+- id: obs:11
+  text: 'Lemminkainen and the landlord alternate conjuring animals: bull, wolf, rabbit,
+    dog, squirrel, marten, fox, hen, and hawk.'
+  category: sequence
+  evidence_refs:
+  - ev:11
+- id: obs:12
+  text: The landlord orders Lemminkainen to leave the feast and cease his conjurings;
+    Lemminkainen says no hero or courageous son will be driven away.
+  category: speech
+  evidence_refs:
+  - ev:12
+figures:
+- id: fig:1
+  name_or_label: Lemminkainen / Kaukomieli / Ahti / Island-hero
+  description: A named hero, minstrel, and wizard-like guest who arrives unwelcome
+    at the feast, complains, removes creatures from the beer, conjures animals, and
+    refuses expulsion.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:10
+  - ev:11
+  - ev:12
+- id: fig:2
+  name_or_label: Ilpotar, ancient hostess of Pohyola
+  description: The hostess addressed by Lemminkainen and later named as giving orders
+    to servants to provide food and beer.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Servant-maiden / maiden-waiter
+  description: A small-statured servant who handles banquet dishes and serves poor
+    food and inferior beer to Lemminkainen.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Landlord of Pohyola / master of Northland
+  description: The host who challenges Lemminkainen's presence, conjures a lakelet
+    and several animals, and orders him to leave the feast.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:11
+  - ev:12
+- id: fig:5
+  name_or_label: Conjured animals
+  description: Animals created during the magical contest, including a bull, wolf,
+    rabbit, dog, squirrel, marten, fox, hen, and hawk.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:11
+roles:
+- id: role:1
+  label: uninvited or unwelcome guest
+  assigned_to:
+  - fig:1
+  basis: Lemminkainen says he alone was not invited and later calls himself unwelcome
+    because proper beer and food are not given to him.
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: role:2
+  label: feast host
+  assigned_to:
+  - fig:2
+  - fig:4
+  basis: Ilpotar is the hostess who orders service, while the landlord challenges
+    and expels the guest as host of the feast.
+  evidence_refs:
+  - ev:2
+  - ev:8
+  - ev:12
+- id: role:3
+  label: server of inferior food and drink
+  assigned_to:
+  - fig:3
+  basis: The servant-maiden serves scraps and the vilest common drink to Lemminkainen.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: magical contestant
+  assigned_to:
+  - fig:1
+  basis: Lemminkainen removes creatures from the beer by use of a hook and later conjures
+    animals in response to the landlord.
+  evidence_refs:
+  - ev:6
+  - ev:11
+- id: role:5
+  label: magical opponent
+  assigned_to:
+  - fig:4
+  basis: The landlord conjures a lakelet and animals in opposition to Lemminkainen.
+  evidence_refs:
+  - ev:9
+  - ev:11
+- id: role:6
+  label: conjured agents in contest
+  assigned_to:
+  - fig:5
+  basis: The animals are created and set against one another during the exchange of
+    conjurations.
+  evidence_refs:
+  - ev:11
+symbols:
+- id: sym:1
+  label: beer vessels
+  literal_form: goblets, pitchers, larger vessels, and beer pitchers at the feast
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: serpents and other creatures in drink
+  literal_form: writhing serpents, adders, worms, lizards, frogs
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: sym:3
+  label: fishing hook
+  literal_form: a hook for fishing taken from Lemminkainen's leather pouch
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: broad sword
+  literal_form: Lemminkainen's heavy broad sword used to decapitate serpents
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: conjured lakelet
+  literal_form: a lakelet conjured in the earth at Lemminkainen's feet
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: sym:6
+  label: conjured animal chain
+  literal_form: bull, wolf, rabbit, dog, squirrel, marten, fox, hen, and hawk
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:11
+- id: sym:7
+  label: gold and silver horns
+  literal_form: the conjured bull's horns of gold and silver
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:11
+scenes:
+- id: scene:1
+  label: Complaint over failed hospitality
+  summary: Lemminkainen denounces the wedding feast because vessels are empty, he
+    was not invited, and he has received no beer, food, or welcome despite sending
+    barley.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Inferior service to the stranger
+  summary: Ilpotar orders food and beer brought, but the servant-maiden provides scraps
+    and poor beer while addressing Lemminkainen as a mighty hero.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Contaminated beer and serpent killing
+  summary: Lemminkainen discovers serpents and other creatures in the pitchers, catches
+    them with a fishing hook, casts them down, and decapitates the serpents with his
+    sword before drinking the remaining beer.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: scene:4
+  label: Host-guest challenge and conjured water
+  summary: The landlord questions Lemminkainen's presence. Lemminkainen asks for drink
+    for payment, and the landlord conjures a lakelet as the drink he deserves. Lemminkainen
+    refuses the water.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+- id: scene:5
+  label: Contest of conjured animals
+  summary: Lemminkainen and the landlord answer each other by creating animals that
+    drink, threaten, distract, drive away, eat, flutter, or tear one another.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:11
+- id: scene:6
+  label: Attempted expulsion from the feast
+  summary: The landlord orders the evil stranger and wicked wizard to leave and stop
+    conjuring; Lemminkainen replies that a hero will not be driven from the banquet.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:12
+candidate_motifs:
+- id: motif:1
+  label: violated hospitality at a feast
+  taxonomy_refs:
+  - sacred_exchange
+  basis: 'The passage centers on expected exchange between guest and host: Lemminkainen
+    says he sent abundant barley, complains of no invitation or worthy food, and later
+    asks for beer or drink for payment.'
+  evidence_refs:
+  - ev:1
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The taxonomy label is broad; the passage presents social and feast exchange
+    rather than an explicitly sacred transaction.
+- id: motif:2
+  label: serpents or vermin hidden in drink
+  taxonomy_refs:
+  - serpent
+  basis: Lemminkainen sees serpents, adders, worms, lizards, and frogs in the beer
+    pitchers, removes them, and kills the serpents.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  confidence: high
+  cautions: The passage does not explicitly explain who placed the creatures in the
+    drink or whether they are poison, insult, or magical attack.
+- id: motif:3
+  label: magical contest by successive animal conjuration
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The landlord and Lemminkainen repeatedly conjure animals in response to each
+    other, with each new creature countering or distracting the previous one.
+  evidence_refs:
+  - ev:9
+  - ev:11
+  confidence: medium
+  cautions: The available taxonomy has no exact 'magical contest' category; 'trickster_boundary'
+    is used cautiously because the passage names mischief and centers on an uninvited
+    guest crossing host boundaries.
+- id: motif:4
+  label: uninvited hero refuses expulsion
+  taxonomy_refs:
+  - departure
+  basis: The landlord orders Lemminkainen to leave the banquet, but Lemminkainen declares
+    that no hero or courageous son will be driven away.
+  evidence_refs:
+  - ev:12
+  confidence: low
+  cautions: The motif is localized to this scene and does not present a full departure
+    cycle.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 15627-15675
+  quote_or_summary: Lemminkainen angrily says the vessels are empty, the feast is
+    over, many others were invited but he alone was not, and he sent a large measure
+    of barley yet receives no food, beer, or welcome.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 15676-15682
+  quote_or_summary: Ilpotar, the ancient hostess, orders a servant-maiden to broil
+    salmon and bring beer for the stranger.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 15683-15701
+  quote_or_summary: The small servant-maiden, who washes platters and polishes spoons,
+    puts scraps in kettles and brings the vilest common drink to satisfy Lemminkainen's
+    hunger and thirst.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 15702-15708
+  quote_or_summary: Lemminkainen handles the pitchers, looks to their bottoms, and
+    sees writhing serpents, adders, worms, and lizards in and around them.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 15709-15722
+  quote_or_summary: Lemminkainen orders the evil things to go to Tuonela with the
+    bearer of the pitchers before evening, then says the barley beer is dishonored
+    but he will drink it after casting away the rubbish.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 15723-15737
+  quote_or_summary: Lemminkainen draws a fishing hook from his pouch, drops it into
+    the beer, catches serpents, adders, frogs, and worms, throws them down, draws
+    his broad sword, and cuts off the serpents' heads.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 15738-15747
+  quote_or_summary: After drinking the beer that remains, Lemminkainen says that as
+    a guest he is unwelcome because he receives no beer worthy of a hero and no slaughtered
+    ram or calf.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: 15748-15761
+  quote_or_summary: The landlord asks why Lemminkainen came and who asked for his
+    presence. Lemminkainen replies that an unexpected guest is happier than an invited
+    one and asks the host for beer or worthy drink for payment.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: 15762-15768
+  quote_or_summary: The angry landlord conjures a lakelet in the earth at Kaukomieli's
+    feet and tells him to quench his thirst from it as the beer he deserves.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: 15769-15775
+  quote_or_summary: Lemminkainen answers that he is neither bear nor roebuck and should
+    not drink the filthy lakelet water.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summarized.
+- id: ev:11
+  type: summary
+  locator: 15776-15803
+  quote_or_summary: Ahti conjures a gold- and silver-horned bull to drink from the
+    lakelet. The landlord conjures a wolf against the bull. Lemminkainen conjures
+    a white rabbit, then the landlord a dog, Lemminkainen a squirrel, the landlord
+    a golden marten, Lemminkainen a scarlet fox, the landlord a hen, and Lemminkainen
+    a hawk to tear the hen.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summarized.
+- id: ev:12
+  type: summary
+  locator: 15804-15816
+  quote_or_summary: The landlord says the feast will not improve until there are fewer
+    guests and orders Lemminkainen, called an evil stranger and wicked wizard, to
+    leave and cease conjuring; Lemminkainen replies that no hero will be driven from
+    the banquet.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage gives clear actions, figures, and objects. Motif assignments
+    are cautious because the available taxonomy does not include an exact category
+    for feast insult or magical duel by conjured animals. No comparison claims are
+    made because the passage itself does not explicitly compare this scene to another
+    tradition or motif family.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  All evidence is summarized from the provided public-domain passage; no external comparisons or unprovided taxonomy identifiers were added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:finnish-karelian-kalevala-crawford-gutenberg__l15627-l15816
+  passage_sha256=566c91159978c5c272022b20fa1670f34f1c108f5cc14e618c529f0b1455549a

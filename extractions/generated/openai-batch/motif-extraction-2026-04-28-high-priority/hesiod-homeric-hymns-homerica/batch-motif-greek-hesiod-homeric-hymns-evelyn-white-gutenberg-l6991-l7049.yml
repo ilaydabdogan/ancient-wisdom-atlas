@@ -1,0 +1,515 @@
+---
+record_id: batch.motif.greek-hesiod-homeric-hymns-evelyn-white-gutenberg-l6991-l7049
+source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+passage_locator:
+  label: IV. TO HERMES / V. TO APHRODITE / VI. TO APHRODITE / VII. TO DIONYSUS; lines
+    6991-7049
+  start: '6991'
+  end: '7049'
+  translation: Hesiod, the Homeric Hymns, and Homerica
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Dionysus appears as a youthful figure by the sea. Tyrsenian pirates seize
+    him and bring him onto their ship, but their bonds fail. The helmsman recognizes
+    that the captive is divine and warns the crew to release him, while the master
+    refuses. Miraculous wine, vine, ivy, flowers, and garlands appear on the ship.
+    Dionysus manifests as a lion and creates a bear; the master is seized, the sailors
+    jump into the sea and become dolphins, and the helmsman is spared. Dionysus identifies
+    himself as the son of Semele and Zeus.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Dionysus appears on a jutting headland by the shore, seeming like a young
+    man with dark hair and a purple robe.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Tyrsenian pirates arrive in a well-decked ship, seize Dionysus, and put him
+    aboard because they think he is the son of kings.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The pirates try to bind Dionysus, but the bonds do not hold and fall away
+    from his hands and feet.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The helmsman says the captive must be a god rather than a mortal and urges
+    the crew to set him free.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The master rejects the helmsman’s warning and expects the captive to reveal
+    his destination, friends, wealth, and brothers.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Wine streams through the ship, a vine spreads along the sail, ivy twines around
+    the mast, and garlands cover the thole-pins.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The god changes into a dreadful lion in the bow and creates a shaggy bear
+    amidships.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The lion springs on the master and seizes him.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The sailors leap overboard into the sea and are changed into dolphins.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: Dionysus has mercy on the helmsman, holds him back, and makes him happy.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: Dionysus names himself as loud-crying Dionysus, born to Semele through union
+    with Zeus.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Dionysus
+  description: A god appearing as a young man by the shore; later manifests powers
+    on the ship and identifies himself as the son of Semele and Zeus.
+  role_refs:
+  - role:1
+  - role:2
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Tyrsenian pirates / sailors
+  description: A group who seize Dionysus, attempt to bind him, witness the portents,
+    leap into the sea, and are changed into dolphins.
+  role_refs:
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Helmsman
+  description: A sailor who recognizes that the captive is divine, advises release,
+    and is spared by Dionysus.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: fig:4
+  name_or_label: Master
+  description: The ship’s master rejects the helmsman’s warning and is seized by the
+    lion-form Dionysus.
+  role_refs:
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:5
+  name_or_label: Semele
+  description: Named by Dionysus as his mother.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: Zeus
+  description: Named by Dionysus as the divine partner in his birth from Semele.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: disguised or unrecognized deity
+  assigned_to:
+  - fig:1
+  basis: Dionysus appears as a youth; the pirates think he is a king’s son, while
+    the helmsman recognizes he is a god.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: wonder-working deity
+  assigned_to:
+  - fig:1
+  basis: Miraculous wine, vines, ivy, animal manifestations, and transformations occur
+    on the ship in connection with Dionysus.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:3
+  label: seizers of the divine figure
+  assigned_to:
+  - fig:2
+  - fig:4
+  basis: The pirates seize Dionysus, try to bind him, and keep him aboard despite
+    warning.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:4
+  label: right-minded recognizer
+  assigned_to:
+  - fig:3
+  basis: The helmsman perceives the captive is divine, counsels release, and is spared.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:5
+  label: punished offenders
+  assigned_to:
+  - fig:2
+  - fig:4
+  basis: The master is seized by the lion, and the sailors leap into the sea and become
+    dolphins.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: merciful protector
+  assigned_to:
+  - fig:1
+  basis: Dionysus spares the helmsman and tells him to take courage.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:7
+  label: divine parentage figures
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: Dionysus states that Semele bore him from union with Zeus.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: sea
+  literal_form: The fruitless, sparkling, bright sea surrounding the headland and
+    ship.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: sym:2
+  label: ship
+  literal_form: A well-decked black ship carrying the pirates and the seized god.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:3
+  label: failed bonds
+  literal_form: Rude bonds and withes that fall away from Dionysus’s hands and feet.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: wine
+  literal_form: Sweet, fragrant wine streaming throughout the ship with a heavenly
+    smell.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: vine and ivy
+  literal_form: A vine with clusters spreads along the sail, and dark ivy with flowers
+    and berries twines around the mast.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: garlands
+  literal_form: Garlands cover all the thole-pins.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:7
+  label: lion manifestation
+  literal_form: Dionysus changes into a dreadful roaring lion in the bows of the ship.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:8
+  label: bear apparition
+  literal_form: A shaggy bear stands ravening amidships as one of the god’s wonders.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:9
+  label: dolphin transformation
+  literal_form: The sailors who leap into the sea are changed into dolphins.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:10
+  label: purple robe
+  literal_form: A purple robe worn by Dionysus on his strong shoulders.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Appearance and seizure by the sea
+  summary: Dionysus appears as a young man on a headland by the sea. Tyrsenian pirates
+    arrive, seize him, bring him aboard, and attempt unsuccessfully to bind him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:10
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Helmsman’s warning and master’s refusal
+  summary: The helmsman identifies the captive as divine and urges release, but the
+    master dismisses him and plans to keep the captive for gain.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Dionysian wonders on the ship
+  summary: Wine streams through the ship; vine, ivy, flowers, berries, and garlands
+    appear on the rigging and fittings. The pirates ask the helmsman to put the ship
+    to land.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Animal manifestation and punishment
+  summary: Dionysus becomes a lion and produces a bear. The sailors crowd near the
+    helmsman; the lion seizes the master, and the sailors leap into the sea and become
+    dolphins.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:7
+  - sym:8
+  - sym:9
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Mercy and self-identification
+  summary: Dionysus spares the helmsman and identifies himself as the son of Semele
+    and Zeus.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: unrecognized deity seized by mortals
+  taxonomy_refs: []
+  basis: The pirates mistake Dionysus for a king’s son, seize him, and attempt to
+    bind him before his divine nature is revealed by failed bonds and wonders.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: The passage does not name a formal motif category; label is descriptive.
+- id: motif:2
+  label: divine shapeshifting and animal manifestation
+  taxonomy_refs:
+  - shapeshifter
+  basis: Dionysus changes into a lion and creates or displays a bear on the ship.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: Only the lion form is explicitly a transformation of Dionysus; the bear
+    is described as a wonder he created.
+- id: motif:3
+  label: divine judgment with punishment and mercy
+  taxonomy_refs:
+  - divine_judgment
+  basis: The master is seized, the sailors are changed into dolphins, and the right-minded
+    helmsman is spared and favored.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage presents outcomes but does not use an abstract term for judgment.
+- id: motif:4
+  label: failed binding of a divine being
+  taxonomy_refs: []
+  basis: The pirates attempt to bind Dionysus, but the bonds do not hold and fall
+    away.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: No available taxonomy reference directly matches failed bonds.
+- id: motif:5
+  label: recognition of hidden divinity
+  taxonomy_refs: []
+  basis: The helmsman recognizes that the captive is not mortal and counsels the others
+    to release him.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is a passage-level pattern rather than a supplied taxonomy family.
+- id: motif:6
+  label: piratical seizure of a sacred figure
+  taxonomy_refs:
+  - sacred_theft
+  basis: The pirates seize Dionysus and carry him onto their ship, treating the divine
+    figure as a captive of potential profit.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: The passage describes seizure/abduction rather than theft of an object;
+    mapping to sacred_theft is approximate.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: VII. To Dionysus, ll. 1-16
+  quote_or_summary: Dionysus appears by the sea as a young man in a purple robe; Tyrsenian
+    pirates seize him, bring him onto their ship, and try to bind him, but the bonds
+    fall away; the helmsman understands something is wrong.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain translation; summarized.
+- id: ev:2
+  type: summary
+  locator: VII. To Dionysus, ll. 17-24
+  quote_or_summary: The helmsman calls the crew mad, says the captive must be a god
+    such as Zeus, Apollo, or Poseidon, and warns that they should release him lest
+    he stir up dangerous winds and squalls.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain translation; summarized.
+- id: ev:3
+  type: summary
+  locator: VII. To Dionysus, ll. 25-31
+  quote_or_summary: The master rebukes the helmsman, orders the sailing work to continue,
+    and says the captive will eventually reveal his destination, friends, wealth,
+    and brothers.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain translation; summarized.
+- id: ev:4
+  type: summary
+  locator: VII. To Dionysus, ll. 32-44
+  quote_or_summary: After the sail is raised, fragrant wine streams through the ship;
+    a vine with clusters spreads along the sail, ivy twines around the mast with flowers
+    and berries, and garlands cover the thole-pins; the pirates ask to put the ship
+    to land.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain translation; summarized.
+- id: ev:5
+  type: summary
+  locator: VII. To Dionysus, ll. 44-54
+  quote_or_summary: The god becomes a roaring lion in the bow and creates a shaggy
+    bear amidships; the sailors crowd by the helmsman, the lion seizes the master,
+    the sailors jump into the sea and become dolphins, and Dionysus spares the helmsman.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain translation; summarized.
+- id: ev:6
+  type: summary
+  locator: VII. To Dionysus, ll. 55-57
+  quote_or_summary: Dionysus tells the helmsman to take courage and identifies himself
+    as Dionysus, born of Semele’s union with Zeus.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain translation; summarized.
+- id: ev:7
+  type: summary
+  locator: VII. To Dionysus, ll. 58-59
+  quote_or_summary: The hymn closes by hailing the child of Semele and saying that
+    one who forgets him cannot order sweet song.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain translation; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal narrative elements are explicit. Motif labels are descriptive and
+    should be reviewed, especially the approximate mapping to sacred_theft.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the supplied passage does not itself support a comparison beyond its own narrative pattern.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-hesiod-homeric-hymns-evelyn-white-gutenberg__l6991-l7049
+  passage_sha256=45eefefd5c19530b8f46d9cfd993199c1adb81815dfead84f882ae19d12d454c
