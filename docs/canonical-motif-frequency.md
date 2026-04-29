@@ -9,17 +9,17 @@ This report counts only motif IDs that already map to a canonical normalization 
 - Indexed motif IDs: 9072
 - Indexed motif occurrences: 31658
 - Canonical motif groups: 53
-- Mapped motif IDs counted: 3564
-- Unmapped motif IDs excluded: 5508
+- Mapped motif IDs counted: 3593
+- Unmapped motif IDs excluded: 5479
 
 ## Ranked Canonical Motifs
 
 | Rank | Canonical Motif | Distinct Traditions | Occurrences | Mapped Motif IDs | Top Traditions |
 | ---: | --- | ---: | ---: | ---: | --- |
-| 1 | `death_and_transformation` Death, Rebirth, and Transformation | 22 | 1429 | 74 | islamic (418), comparative (252), sufi (246), roman (118), greek (63) |
+| 1 | `death_and_transformation` Death, Rebirth, and Transformation | 22 | 1431 | 76 | islamic (418), comparative (252), sufi (247), roman (118), greek (63) |
 | 2 | `initiation` Initiation and Transformative Ordeal | 22 | 734 | 48 | sufi (146), greek (109), hindu (77), comparative (64), celtic_irish (60) |
-| 3 | `sacred_knowledge` Sacred Knowledge and Wisdom | 21 | 4228 | 95 | sufi (938), greek (933), islamic (599), daoist (366), buddhist (346) |
-| 4 | `divine_judgment` Divine Judgment and Moral Reckoning | 21 | 2380 | 183 | islamic (1292), greek (296), sufi (217), roman (213), hindu (116) |
+| 3 | `sacred_knowledge` Sacred Knowledge and Wisdom | 21 | 4229 | 96 | sufi (938), greek (933), islamic (600), daoist (366), buddhist (346) |
+| 4 | `divine_judgment` Divine Judgment and Moral Reckoning | 21 | 2383 | 186 | islamic (1295), greek (296), sufi (217), roman (213), hindu (116) |
 | 5 | `sacred_exchange` Sacred Exchange and Reciprocity | 20 | 1348 | 87 | greek (234), islamic (176), hindu (174), comparative (132), celtic_irish (108) |
 | 6 | `ascent` Ascent and Heavenly Journey | 20 | 482 | 5 | greek (95), sufi (95), islamic (67), hindu (59), roman (54) |
 | 7 | `hero_journey` The Hero's Journey | 19 | 1694 | 50 | greek (314), hindu (297), celtic_irish (175), sufi (140), islamic (131) |
@@ -28,37 +28,37 @@ This report counts only motif IDs that already map to a canonical normalization 
 | 10 | `serpent_guardian` Serpent and Serpent Guardian | 19 | 341 | 1 | roman (80), hindu (49), greek (37), greek_roman (30), norse (28) |
 | 11 | `flood_and_renewal` Flood, Fire, and Cosmic Renewal | 19 | 293 | 10 | islamic (101), roman (50), hindu (30), greek (22), norse (19) |
 | 12 | `cosmic_origin` Cosmic Origin and Creation | 19 | 242 | 58 | islamic (64), hindu (34), greek (30), norse (25), roman (22) |
-| 13 | `descent` Descent and Underworld Journey | 19 | 179 | 16 | roman (34), greek (28), hindu (18), finnish_karelian (16), norse (12) |
+| 13 | `descent` Descent and Underworld Journey | 19 | 180 | 17 | roman (34), greek (29), hindu (18), finnish_karelian (16), norse (12) |
 | 14 | `sacrifice` Sacrifice and Offering | 18 | 1075 | 64 | comparative (376), hindu (173), greek (130), roman (106), islamic (79) |
 | 15 | `miraculous_child` Miraculous Child and Sacred Birth | 18 | 1038 | 19 | greek (228), roman (191), hindu (147), islamic (113), greek_roman (92) |
 | 16 | `shapeshifter` Shapeshifter and Transformation | 18 | 824 | 26 | roman (351), greek (83), celtic_irish (80), hindu (79), norse (41) |
 | 17 | `trickster` Trickster and Boundary Crosser | 18 | 465 | 45 | greek (118), buddhist (43), celtic_irish (42), roman (35), islamicate_folklore (33) |
 | 18 | `sacred_twins` Sacred Twins and Sibling Pairs | 18 | 196 | 9 | hindu (71), greek (32), roman (28), greek_roman (14), islamic (11) |
-| 19 | `mystical_quest` Mystical Quest and Interior Journey | 17 | 1943 | 76 | sufi (1129), celtic_irish (121), greek (116), roman (102), hindu (94) |
-| 20 | `sacred_time` Sacred Time and Ritual Cycle | 17 | 817 | 53 | comparative (501), sufi (66), norse (53), islamic (44), greek (39) |
+| 19 | `mystical_quest` Mystical Quest and Interior Journey | 17 | 1945 | 78 | sufi (1131), celtic_irish (121), greek (116), roman (102), hindu (94) |
+| 20 | `sacred_time` Sacred Time and Ritual Cycle | 17 | 818 | 54 | comparative (502), sufi (66), norse (53), islamic (44), greek (39) |
 | 21 | `sacred_love` Sacred Love and Longing | 17 | 694 | 57 | hindu (193), roman (96), greek (91), celtic_irish (80), greek_roman (45) |
 | 22 | `duality` Duality and Cosmic Opposition | 17 | 458 | 11 | greek (163), sufi (103), islamic (71), daoist (51), norse (14) |
 | 23 | `culture_hero` Culture Hero and Founder | 17 | 275 | 10 | finnish_karelian (42), roman (42), celtic_irish (38), greek_roman (35), greek (31) |
 | 24 | `covenant` Covenant and Sacred Bond | 16 | 366 | 40 | islamic (215), hindu (30), greek (27), celtic_irish (23), roman (22) |
 | 25 | `sacred_law` Sacred Law and Social Order | 16 | 239 | 236 | islamic (105), comparative (56), greek (22), hindu (22), greek_roman (6) |
 | 26 | `sacred_waters` Sacred Waters and Passage Through Water | 16 | 154 | 55 | roman (27), hindu (25), greek (19), islamic (16), celtic_irish (11) |
-| 27 | `lament_and_mourning` Lament, Mourning, and Tragic Recognition | 16 | 110 | 110 | celtic_irish (32), greek (24), hindu (15), roman (12), greek_roman (4) |
-| 28 | `sacred_treasures` Sacred Treasures and Power Objects | 15 | 170 | 170 | celtic_irish (28), greek (24), roman (20), hindu (20), norse (13) |
+| 27 | `lament_and_mourning` Lament, Mourning, and Tragic Recognition | 16 | 117 | 117 | celtic_irish (37), greek (25), hindu (15), roman (12), sufi (4) |
+| 28 | `sacred_treasures` Sacred Treasures and Power Objects | 15 | 171 | 171 | celtic_irish (28), greek (24), roman (21), hindu (20), norse (13) |
 | 29 | `sacred_fire` Sacred Fire and Divine Light | 14 | 110 | 45 | islamic (17), hindu (16), comparative (14), roman (12), greek (11) |
 | 30 | `storytelling_as_power` Storytelling and Narrative as Sacred Power | 14 | 53 | 53 | greek (16), celtic_irish (7), islamicate_folklore (7), finnish_karelian (5), islamic (4) |
-| 31 | `afterlife_passage` Afterlife Navigation and Passage | 13 | 453 | 17 | islamic (117), greek (75), sufi (53), roman (53), hindu (42) |
+| 31 | `afterlife_passage` Afterlife Navigation and Passage | 13 | 454 | 18 | islamic (117), greek (75), sufi (53), roman (53), hindu (42) |
 | 32 | `divine_intervention` Divine Intervention and Guidance | 13 | 368 | 365 | islamic (135), greek (89), roman (27), hindu (26), sufi (22) |
-| 33 | `dream_and_vision` Dream, Vision, and Altered Perception | 13 | 86 | 86 | greek (21), celtic_irish (16), hindu (15), roman (9), sufi (5) |
-| 34 | `divine_warrior` Divine Warrior and Sacred Combat | 12 | 293 | 288 | greek (93), celtic_irish (70), hindu (69), roman (18), islamic (13) |
+| 33 | `dream_and_vision` Dream, Vision, and Altered Perception | 13 | 87 | 87 | greek (21), celtic_irish (17), hindu (15), roman (9), sufi (5) |
+| 34 | `divine_warrior` Divine Warrior and Sacred Combat | 12 | 296 | 291 | greek (93), celtic_irish (71), hindu (70), roman (18), islamic (13) |
 | 35 | `pride_and_downfall` Pride, Hubris, and Downfall | 12 | 61 | 61 | greek (28), roman (8), islamic (6), sufi (4), hindu (4) |
 | 36 | `threshold_guardian` Threshold Guardian | 12 | 58 | 58 | celtic_irish (19), roman (10), greek (7), hindu (5), greek_roman (4) |
-| 37 | `sacred_combat` Sacred Combat and Ritual Warfare | 11 | 418 | 408 | celtic_irish (240), hindu (64), greek (48), roman (29), celtic_welsh (11) |
+| 37 | `sacred_combat` Sacred Combat and Ritual Warfare | 11 | 421 | 411 | celtic_irish (242), hindu (64), greek (49), roman (29), celtic_welsh (11) |
 | 38 | `theophany` Theophany and Divine Manifestation | 11 | 50 | 50 | islamic (12), hindu (9), greek (8), sufi (7), roman (4) |
 | 39 | `heroic_funeral_rites` Heroic Funeral Rites and Memorialization | 10 | 103 | 101 | greek (55), celtic_irish (16), roman (15), greek_roman (5), hindu (4) |
 | 40 | `mother_goddess` Sacred Feminine and Mother Goddess | 10 | 90 | 11 | greek_roman (21), greek (19), roman (14), comparative (13), finnish_karelian (11) |
 | 41 | `death_by_fate` Death Attributed to Fate or Destiny | 10 | 85 | 85 | greek (24), celtic_irish (15), sufi (12), roman (12), hindu (8) |
-| 42 | `sacred_craft` Sacred Craft and Divinely Aided Construction | 9 | 31 | 31 | norse (7), finnish_karelian (7), islamic (4), greek_roman (4), greek (3) |
-| 43 | `external_soul` External Soul and Life-Token | 8 | 68 | 65 | comparative (57), islamicate_folklore (2), norse (2), roman (2), greek_roman (2) |
+| 42 | `sacred_craft` Sacred Craft and Divinely Aided Construction | 9 | 32 | 32 | norse (7), finnish_karelian (7), islamic (5), greek_roman (4), greek (3) |
+| 43 | `external_soul` External Soul and Life-Token | 8 | 69 | 66 | comparative (57), roman (3), islamicate_folklore (2), norse (2), greek_roman (2) |
 | 44 | `otherworld` Otherworld and Enchanted Realm | 8 | 44 | 44 | celtic_irish (21), greek (5), hindu (5), greek_roman (4), celtic_welsh (4) |
 | 45 | `ancestor_rites` Ancestor Rites and Feeding the Dead | 8 | 16 | 16 | sufi (4), hindu (3), comparative (2), islamic (2), japanese (2) |
 | 46 | `sacred_vessel` Sacred Vessel and Container | 7 | 17 | 17 | islamicate_folklore (5), roman (4), celtic_irish (3), greek_roman (2), celtic_welsh (1) |
@@ -66,7 +66,7 @@ This report counts only motif IDs that already map to a canonical normalization 
 | 48 | `immortality_without_renewal` Immortality Without Renewal | 4 | 11 | 11 | roman (4), greek_roman (3), norse (3), persian (1) |
 | 49 | `primordial_sacrifice` Primordial Sacrifice and Dismemberment | 3 | 5 | 5 | finnish_karelian (2), norse (2), roman (1) |
 | 50 | `beauty_and_paradox` Beauty Paired with Pain and Paradox | 3 | 4 | 4 | sufi (2), greek (1), persian (1) |
-| 51 | `soul_loss_restoration` Soul Loss and Restoration | 2 | 4 | 4 | comparative (3), greek (1) |
+| 51 | `soul_loss_restoration` Soul Loss and Restoration | 2 | 5 | 5 | comparative (4), greek (1) |
 | 52 | `divine_race` Divine Race and Arrival of the Gods | 1 | 2 | 2 | celtic_irish (2) |
 | 53 | `_meta_textual` Textual and Scholarly Artifacts [meta] | 4 | 6 | 6 | greek_roman (2), norse (2), comparative (1), japanese (1) |
 
@@ -74,8 +74,8 @@ This report counts only motif IDs that already map to a canonical normalization 
 
 - Canonical motif ID: `death_and_transformation`
 - Distinct traditions: 22
-- Occurrences: 1429
-- Mapped motif IDs: 74
+- Occurrences: 1431
+- Mapped motif IDs: 76
 
 | Mapped Motif ID | Relationship | Traditions | Occurrences |
 | --- | --- | ---: | ---: |
@@ -131,6 +131,8 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `human_interruption_of_divine_rite_prevents_immortality` | functional_variant | 1 | 1 |
 | `immortalization_after_death_and_transport` | functional_variant | 1 | 1 |
 | `imperfect_restoration_corrected_by_further_intervention` | functional_variant | 1 | 1 |
+| `inevitable_descent_into_earth_and_dust` | symbolic_variant | 1 | 1 |
+| `landscape_stones_as_remains_of_the_dead` | symbolic_variant | 1 | 1 |
 | `life_and_death_dependent_on_human_will` | agency_variant | 1 | 1 |
 | `marvels_generated_from_slain_being_s_blood` | functional_variant | 1 | 1 |
 | `miraculous_emergence_from_a_slain_body` | functional_variant | 1 | 1 |
@@ -216,8 +218,8 @@ This report counts only motif IDs that already map to a canonical normalization 
 
 - Canonical motif ID: `sacred_knowledge`
 - Distinct traditions: 21
-- Occurrences: 4228
-- Mapped motif IDs: 95
+- Occurrences: 4229
+- Mapped motif IDs: 96
 
 | Mapped Motif ID | Relationship | Traditions | Occurrences |
 | --- | --- | ---: | ---: |
@@ -310,6 +312,7 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `sacred_utterance_of_a_deity` | functional_variant | 1 | 1 |
 | `scriptural_succession_and_confirmation` | functional_variant | 1 | 1 |
 | `secret_withheld_because_allies_may_become_enemies` | functional_variant | 1 | 1 |
+| `spiritual_incapacity_figured_as_deadness_deafness_and_blindness` | symbolic_variant | 1 | 1 |
 | `supernatural_beings_converted_by_sacred_recitation` | functional_variant | 1 | 1 |
 | `supernatural_conversion_through_sacred_recitation` | functional_variant | 1 | 1 |
 | `unused_hoarded_wealth_is_equivalent_to_worthless_substitute` | over_specific_label | 1 | 1 |
@@ -321,8 +324,8 @@ This report counts only motif IDs that already map to a canonical normalization 
 
 - Canonical motif ID: `divine_judgment`
 - Distinct traditions: 21
-- Occurrences: 2380
-- Mapped motif IDs: 183
+- Occurrences: 2383
+- Mapped motif IDs: 186
 
 | Mapped Motif ID | Relationship | Traditions | Occurrences |
 | --- | --- | ---: | ---: |
@@ -423,6 +426,7 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `insult_remembered_and_repaid` | functional_variant | 1 | 1 |
 | `judge_washes_hands_of_blood_guilt` | symbolic_variant | 1 | 1 |
 | `knight_vindicates_a_falsely_blamed_woman_through_combat` | functional_variant | 1 | 1 |
+| `late_repentance_or_charity_sought_at_death` | functional_variant | 1 | 1 |
 | `madness_caused_mistaken_killing` | functional_variant | 1 | 1 |
 | `maternal_intercession_secures_pardon` | functional_variant | 1 | 1 |
 | `merciful_forgiveness_after_confession_of_wrongdoing` | functional_variant | 1 | 1 |
@@ -488,6 +492,8 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `signs_in_destroyed_predecessors_and_revived_land` | functional_variant | 1 | 1 |
 | `slayer_immediately_slain_by_avenger` | functional_variant | 1 | 1 |
 | `solemn_mutual_invocation_to_expose_liars` | ritual_variant | 1 | 1 |
+| `spiritual_blindness_and_deafness_after_covenant_violation` | functional_variant | 1 | 1 |
+| `spiritual_obstruction_through_sealed_faculties` | functional_variant | 1 | 1 |
 | `succession_on_earth_as_divine_test` | functional_variant | 1 | 1 |
 | `supernatural_avenger_emerging_from_smoke` | role_variant | 1 | 1 |
 | `supernatural_hound_as_avenging_agent` | role_variant | 1 | 1 |
@@ -911,8 +917,8 @@ This report counts only motif IDs that already map to a canonical normalization 
 
 - Canonical motif ID: `descent`
 - Distinct traditions: 19
-- Occurrences: 179
-- Mapped motif IDs: 16
+- Occurrences: 180
+- Mapped motif IDs: 17
 
 | Mapped Motif ID | Relationship | Traditions | Occurrences |
 | --- | --- | ---: | ---: |
@@ -932,6 +938,7 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `music_that_moves_infernal_powers` | functional_variant | 1 | 1 |
 | `premature_descent_to_tartarus_after_family_affliction` | narrower_than | 1 | 1 |
 | `sacred_cave_as_hiding_place_and_shrine` | symbolic_variant | 1 | 1 |
+| `supernatural_descent_and_emergence_at_cosmic_or_natural_boundaries` | functional_variant | 1 | 1 |
 
 ## Sacrifice and Offering
 
@@ -1150,8 +1157,8 @@ This report counts only motif IDs that already map to a canonical normalization 
 
 - Canonical motif ID: `mystical_quest`
 - Distinct traditions: 17
-- Occurrences: 1943
-- Mapped motif IDs: 76
+- Occurrences: 1945
+- Mapped motif IDs: 78
 
 | Mapped Motif ID | Relationship | Traditions | Occurrences |
 | --- | --- | ---: | ---: |
@@ -1218,6 +1225,8 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `sacred_song` | child | 1 | 1 |
 | `self_knowledge` | child | 1 | 1 |
 | `sensory_entanglement_as_confinement` | symbolic_variant | 1 | 1 |
+| `spiritual_entrapment_by_a_tempter` | functional_variant | 1 | 1 |
+| `spiritual_father_and_son_adoption` | role_variant | 1 | 1 |
 | `submission_to_inscrutable_divine_will` | functional_variant | 1 | 1 |
 | `teacher_s_approval_as_access_to_heaven` | functional_variant | 1 | 1 |
 | `temporary_embodied_dwelling` | symbolic_variant | 1 | 1 |
@@ -1236,8 +1245,8 @@ This report counts only motif IDs that already map to a canonical normalization 
 
 - Canonical motif ID: `sacred_time`
 - Distinct traditions: 17
-- Occurrences: 817
-- Mapped motif IDs: 53
+- Occurrences: 818
+- Mapped motif IDs: 54
 
 | Mapped Motif ID | Relationship | Traditions | Occurrences |
 | --- | --- | ---: | ---: |
@@ -1291,6 +1300,7 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `sacred_time_surpassing_ordinary_duration` | symbolic_variant | 1 | 1 |
 | `sacred_time_violated_by_human_alteration` | functional_variant | 1 | 1 |
 | `solar_timed_prayer_with_repeated_prostrations` | ritual_variant | 1 | 1 |
+| `stranger_as_crop_spirit_embodiment` | symbolic_variant | 1 | 1 |
 | `taboo_on_eating_new_fruits_before_ritual_permission` | ritual_variant | 1 | 1 |
 | `women_only_sacred_festival` | ritual_variant | 1 | 1 |
 | `women_s_annual_festival_for_a_guardian_goddess` | ritual_variant | 1 | 1 |
@@ -1768,8 +1778,8 @@ This report counts only motif IDs that already map to a canonical normalization 
 
 - Canonical motif ID: `lament_and_mourning`
 - Distinct traditions: 16
-- Occurrences: 110
-- Mapped motif IDs: 110
+- Occurrences: 117
+- Mapped motif IDs: 117
 
 | Mapped Motif ID | Relationship | Traditions | Occurrences |
 | --- | --- | ---: | ---: |
@@ -1831,10 +1841,14 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `keening_and_memorialization_after_tragic_error` | functional_variant | 1 | 1 |
 | `killing_and_lament_of_a_cherished_hound` | functional_variant | 1 | 1 |
 | `lament_after_killing_a_friend_or_opponent` | narrower_than | 1 | 1 |
+| `lament_after_tragic_death` | alias | 1 | 1 |
 | `lament_for_a_fallen_warrior` | narrower_than | 1 | 1 |
 | `lament_for_a_fallen_warrior_kinsman` | narrower_than | 1 | 1 |
 | `lament_for_a_lost_heroic_age` | symbolic_variant | 1 | 1 |
+| `lament_for_dead_heroic_companions` | narrower_than | 1 | 1 |
 | `lament_for_slain_friend_opponent` | narrower_than | 1 | 1 |
+| `lament_for_the_dead_beloved` | narrower_than | 1 | 1 |
+| `lament_for_the_dead_hero_by_his_wife` | narrower_than | 1 | 1 |
 | `lament_for_the_fallen_hero` | narrower_than | 1 | 1 |
 | `lament_for_the_land_defending_hero` | narrower_than | 1 | 1 |
 | `lament_of_guilt_and_future_infamy` | functional_variant | 1 | 1 |
@@ -1842,8 +1856,10 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `lament_over_a_slain_opponent` | narrower_than | 1 | 1 |
 | `lament_over_a_slain_sworn_companion` | narrower_than | 1 | 1 |
 | `lament_over_being_left_behind` | functional_variant | 1 | 1 |
+| `lament_over_the_dead_companion` | narrower_than | 1 | 1 |
 | `lament_voiced_through_natural_material_and_instrument` | symbolic_variant | 1 | 1 |
 | `last_survivor_lamenting_a_vanished_heroic_company` | functional_variant | 1 | 1 |
+| `life_s_transience_and_irreversible_death` | symbolic_variant | 1 | 1 |
 | `loyal_servant_mourns_the_absent_master` | functional_variant | 1 | 1 |
 | `messenger_announces_the_death_of_a_beloved_companion` | functional_variant | 1 | 1 |
 | `misinterpreted_lament_provokes_jealous_suspicion` | functional_variant | 1 | 1 |
@@ -1878,6 +1894,7 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `ritual_procession_of_mourners` | ritual_variant | 1 | 1 |
 | `shared_epitaph_as_marital_memorial` | over_specific_label | 1 | 1 |
 | `slayer_laments_slain_opponent` | functional_variant | 1 | 1 |
+| `spouse_dies_of_grief_beside_the_dead_beloved` | functional_variant | 1 | 1 |
 | `suicide_after_catastrophic_loss` | functional_variant | 1 | 1 |
 | `supernatural_female_lament_for_a_hero` | role_variant | 1 | 1 |
 | `victor_laments_the_slain_friend` | child | 1 | 1 |
@@ -1888,8 +1905,8 @@ This report counts only motif IDs that already map to a canonical normalization 
 
 - Canonical motif ID: `sacred_treasures`
 - Distinct traditions: 15
-- Occurrences: 170
-- Mapped motif IDs: 170
+- Occurrences: 171
+- Mapped motif IDs: 171
 
 | Mapped Motif ID | Relationship | Traditions | Occurrences |
 | --- | --- | ---: | ---: |
@@ -1977,6 +1994,7 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `idol` | child | 1 | 1 |
 | `immortality_substance_withheld_and_destroyed` | functional_variant | 1 | 1 |
 | `indistinguishable_combatants_require_a_recognition_token` | functional_variant | 1 | 1 |
+| `infallible_returning_weapon_with_fatal_consequences` | functional_variant | 1 | 1 |
 | `inherited_named_treasures_of_a_hero_sire` | narrower_than | 1 | 1 |
 | `instrument_of_victory_becomes_instrument_of_control` | functional_variant | 1 | 1 |
 | `invisible_killer_under_a_magical_concealment` | functional_variant | 1 | 1 |
@@ -2186,8 +2204,8 @@ This report counts only motif IDs that already map to a canonical normalization 
 
 - Canonical motif ID: `afterlife_passage`
 - Distinct traditions: 13
-- Occurrences: 453
-- Mapped motif IDs: 17
+- Occurrences: 454
+- Mapped motif IDs: 18
 
 | Mapped Motif ID | Relationship | Traditions | Occurrences |
 | --- | --- | ---: | ---: |
@@ -2203,6 +2221,7 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `fear_that_a_dead_wrongdoer_may_be_rejected_at_death_s_gate_and_return` | functional_variant | 1 | 1 |
 | `funerary_deity_as_administrator_of_death_rites` | role_variant | 1 | 1 |
 | `hell_as_burning_pit` | symbolic_variant | 1 | 1 |
+| `living_person_invisible_to_the_dead_but_visible_to_dogs` | functional_variant | 1 | 1 |
 | `moral_purification_before_blessed_entry` | ritual_variant | 1 | 1 |
 | `paradise_as_inherited_gardens_for_the_pious` | narrower_than | 1 | 1 |
 | `paradise_as_reward_for_the_godly` | functional_variant | 1 | 1 |
@@ -2588,8 +2607,8 @@ This report counts only motif IDs that already map to a canonical normalization 
 
 - Canonical motif ID: `dream_and_vision`
 - Distinct traditions: 13
-- Occurrences: 86
-- Mapped motif IDs: 86
+- Occurrences: 87
+- Mapped motif IDs: 87
 
 | Mapped Motif ID | Relationship | Traditions | Occurrences |
 | --- | --- | ---: | ---: |
@@ -2676,6 +2695,7 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `prophetic_night_apparition_directs_conflict` | functional_variant | 1 | 1 |
 | `ritual_frenzy_overcoming_a_sacred_singer` | functional_variant | 1 | 1 |
 | `shadow_or_illusion_mistaken_for_reality` | symbolic_variant | 1 | 1 |
+| `supernatural_foreknowledge_of_battlefield_death` | functional_variant | 1 | 1 |
 | `supernatural_scale_sign_accompanies_heroic_deed` | symbolic_variant | 1 | 1 |
 | `temporary_divine_possession_producing_prophecy_or_divination` | functional_variant | 1 | 1 |
 | `victory_confirmed_by_celestial_signs` | functional_variant | 1 | 1 |
@@ -2684,8 +2704,8 @@ This report counts only motif IDs that already map to a canonical normalization 
 
 - Canonical motif ID: `divine_warrior`
 - Distinct traditions: 12
-- Occurrences: 293
-- Mapped motif IDs: 288
+- Occurrences: 296
+- Mapped motif IDs: 291
 
 | Mapped Motif ID | Relationship | Traditions | Occurrences |
 | --- | --- | ---: | ---: |
@@ -2876,6 +2896,7 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `kin_linked_battle_fury` | role_variant | 1 | 1 |
 | `last_act_of_a_mortally_wounded_warrior` | functional_variant | 1 | 1 |
 | `last_stand_of_the_outnumbered_warrior` | functional_variant | 1 | 1 |
+| `leaderless_army_after_champion_s_death` | over_specific_label | 1 | 1 |
 | `lone_hero_against_overwhelming_demon_host` | functional_variant | 1 | 1 |
 | `lone_hero_defeats_overwhelming_hostile_host` | functional_variant | 1 | 1 |
 | `lone_hero_overthrows_a_demon_army` | functional_variant | 1 | 1 |
@@ -2935,9 +2956,11 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `small_faithful_army_defeats_greater_force_by_divine_will` | functional_variant | 1 | 1 |
 | `small_faithful_host_defeats_a_numerous_host_by_divine_will` | alias | 1 | 1 |
 | `steadfast_sacred_warriors_against_overwhelming_force` | role_variant | 1 | 1 |
+| `storm_deity_with_thunder_weapons_combating_evil_spirits` | role_variant | 1 | 1 |
 | `storm_god_defending_cultivation_against_frost_and_mountain_giants` | functional_variant | 1 | 1 |
 | `stripping_armor_from_the_fallen` | functional_variant | 1 | 1 |
 | `supernatural_amplification_of_heroic_dread` | functional_variant | 1 | 1 |
+| `supernatural_battle_terror_causing_death_within_a_host` | functional_variant | 1 | 1 |
 | `supernatural_beings_manifesting_in_combat` | functional_variant | 1 | 1 |
 | `supernatural_war_terror_surrounding_the_hero` | functional_variant | 1 | 1 |
 | `supplication_to_war_goddess_for_victory` | ritual_variant | 1 | 1 |
@@ -3121,8 +3144,8 @@ This report counts only motif IDs that already map to a canonical normalization 
 
 - Canonical motif ID: `sacred_combat`
 - Distinct traditions: 11
-- Occurrences: 418
-- Mapped motif IDs: 408
+- Occurrences: 421
+- Mapped motif IDs: 411
 
 | Mapped Motif ID | Relationship | Traditions | Occurrences |
 | --- | --- | ---: | ---: |
@@ -3333,6 +3356,7 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `incited_conflict_between_paired_champions` | functional_variant | 1 | 1 |
 | `inherited_enmity_against_father_s_foe` | functional_variant | 1 | 1 |
 | `inherited_feud_and_vengeance_across_generations` | functional_variant | 1 | 1 |
+| `inherited_feud_reopened_by_account_of_father_s_death` | functional_variant | 1 | 1 |
 | `injured_figure_flees_to_powerful_kin_or_ally_and_reports_wrong` | functional_variant | 1 | 1 |
 | `institution_of_sacred_games_after_a_divine_victory` | ritual_variant | 1 | 1 |
 | `insult_escalating_into_factional_combat` | functional_variant | 1 | 1 |
@@ -3344,8 +3368,10 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `kin_rescue_that_turns_the_battle` | functional_variant | 1 | 1 |
 | `kin_vengeance_after_mass_killing` | functional_variant | 1 | 1 |
 | `king_killed_as_suppliant_at_an_altar` | over_specific_label | 1 | 1 |
+| `kinsman_s_death_triggers_feud_and_revenge_threats` | functional_variant | 1 | 1 |
 | `kinsmen_fighting_in_a_civil_war` | functional_variant | 1 | 1 |
 | `lament_leading_to_revenge_battle` | functional_variant | 1 | 1 |
+| `leader_drawn_into_combat_by_the_death_of_a_beloved_younger_kinsman` | functional_variant | 1 | 1 |
 | `liminal_combat_at_a_ford` | functional_variant | 1 | 1 |
 | `lone_warrior_destroys_an_advance_detachment` | over_specific_label | 1 | 1 |
 | `lone_warrior_holding_a_ford_against_a_host` | functional_variant | 1 | 1 |
@@ -3826,8 +3852,8 @@ This report counts only motif IDs that already map to a canonical normalization 
 
 - Canonical motif ID: `sacred_craft`
 - Distinct traditions: 9
-- Occurrences: 31
-- Mapped motif IDs: 31
+- Occurrences: 32
+- Mapped motif IDs: 32
 
 | Mapped Motif ID | Relationship | Traditions | Occurrences |
 | --- | --- | ---: | ---: |
@@ -3857,6 +3883,7 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `sacred_object_assisting_temple_construction` | functional_variant | 1 | 1 |
 | `smith_s_crafted_revenge` | functional_variant | 1 | 1 |
 | `subterranean_dwarf_smiths_make_magical_divine_gifts` | narrower_than | 1 | 1 |
+| `supernatural_construction_by_spirits` | functional_variant | 1 | 1 |
 | `supernatural_smiths_forge_divine_or_magical_objects` | narrower_than | 1 | 1 |
 | `supernatural_smiths_make_magic_weapons` | functional_variant | 1 | 1 |
 | `temple_built_to_avert_plague` | ritual_variant | 1 | 1 |
@@ -3867,8 +3894,8 @@ This report counts only motif IDs that already map to a canonical normalization 
 
 - Canonical motif ID: `external_soul`
 - Distinct traditions: 8
-- Occurrences: 68
-- Mapped motif IDs: 65
+- Occurrences: 69
+- Mapped motif IDs: 66
 
 | Mapped Motif ID | Relationship | Traditions | Occurrences |
 | --- | --- | ---: | ---: |
@@ -3916,6 +3943,7 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `life_bound_tree_spirit` | symbolic_variant | 1 | 1 |
 | `life_index_plant` | functional_variant | 1 | 1 |
 | `life_object_as_death_object` | child | 1 | 1 |
+| `life_of_spirit_bound_to_tree` | functional_variant | 1 | 1 |
 | `life_or_consciousness_controlled_by_handling_an_external_soul_object` | child | 1 | 1 |
 | `life_or_death_bound_to_an_animal_receptacle` | symbolic_variant | 1 | 1 |
 | `life_or_soul_deposited_in_an_external_object` | child | 1 | 1 |
@@ -4126,8 +4154,8 @@ This report counts only motif IDs that already map to a canonical normalization 
 
 - Canonical motif ID: `soul_loss_restoration`
 - Distinct traditions: 2
-- Occurrences: 4
-- Mapped motif IDs: 4
+- Occurrences: 5
+- Mapped motif IDs: 5
 
 | Mapped Motif ID | Relationship | Traditions | Occurrences |
 | --- | --- | ---: | ---: |
@@ -4135,6 +4163,7 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `healing_of_the_fallen_soul` | healing_variant | 1 | 1 |
 | `hunting_and_restoring_a_lost_soul` | functional_variant | 1 | 1 |
 | `lost_soul_recovered_in_visible_or_material_form` | functional_variant | 1 | 1 |
+| `stolen_soul_used_as_substitute_cure` | ritual_variant | 1 | 1 |
 
 ## Divine Race and Arrival of the Gods
 

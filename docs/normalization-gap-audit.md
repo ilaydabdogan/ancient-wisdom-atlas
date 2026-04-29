@@ -7,12 +7,12 @@ This report lists motif IDs that are present in the motif occurrence index but n
 ## Summary
 
 - Indexed motif IDs: 9072
-- Already mapped: 3565
-- Unmapped: 5507
+- Already mapped: 3594
+- Unmapped: 5478
 
 | Review Bucket | Unmapped Motifs |
 | --- | ---: |
-| Death, Descent, Afterlife, And Ancestors | 435 |
+| Death, Descent, Afterlife, And Ancestors | 406 |
 | Journey, Quest, Exile, And Homecoming | 437 |
 | Divine Presence, Ritual, Sacrifice, And Purity | 378 |
 | Wisdom, Speech, Dream, Vision, And Revelation | 396 |
@@ -146,26 +146,10 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `hunter_caught_by_the_grave` | Hunter caught by the grave | 1 | sufi |
 | `ignored_warning_before_collective_water_death` | ignored warning before collective water death | 1 | indigenous_australian |
 | `imprisoned_woman_awaiting_rescue_by_a_named_knight_before_a_deadline` | Imprisoned woman awaiting rescue by a named knight before a deadline | 1 | celtic_welsh |
-| `inevitable_descent_into_earth_and_dust` | Inevitable descent into earth and dust | 1 | sufi |
-| `infallible_returning_weapon_with_fatal_consequences` | infallible returning weapon with fatal consequences | 1 | roman |
-| `inherited_feud_reopened_by_account_of_father_s_death` | Inherited feud reopened by account of father's death | 1 | celtic_irish |
 | `jealous_spiritual_master_leaves_the_assembly` | jealous spiritual master leaves the assembly | 1 | sufi |
 | `king_s_death_by_fire` | king’s death by fire | 1 | celtic_irish |
-| `kinsman_s_death_triggers_feud_and_revenge_threats` | Kinsman's death triggers feud and revenge threats | 1 | celtic_irish |
-| `lament_after_tragic_death` | lament after tragic death | 1 | celtic_irish |
-| `lament_for_dead_heroic_companions` | lament for dead heroic companions | 1 | celtic_irish |
-| `lament_for_the_dead_beloved` | lament for the dead beloved | 1 | celtic_irish |
-| `lament_for_the_dead_hero_by_his_wife` | lament for the dead hero by his wife | 1 | celtic_irish |
-| `lament_over_the_dead_companion` | lament over the dead companion | 1 | greek |
 | `landscape_made_alive_by_ancestral_memory` | landscape made alive by ancestral memory | 1 | celtic_irish |
-| `landscape_stones_as_remains_of_the_dead` | landscape stones as remains of the dead | 1 | indigenous_australian |
-| `late_repentance_or_charity_sought_at_death` | late repentance or charity sought at death | 1 | islamic |
-| `leader_drawn_into_combat_by_the_death_of_a_beloved_younger_kinsman` | leader drawn into combat by the death of a beloved younger kinsman | 1 | greek |
-| `leaderless_army_after_champion_s_death` | Leaderless army after champion's death | 1 | hindu |
-| `life_of_spirit_bound_to_tree` | life of spirit bound to tree | 1 | roman |
-| `life_s_transience_and_irreversible_death` | life's transience and irreversible death | 1 | sufi |
 | `liminal_sorceress_blood_required_from_a_hell_bordering_place` | liminal sorceress blood required from a hell-bordering place | 1 | celtic_welsh |
-| `living_person_invisible_to_the_dead_but_visible_to_dogs` | Living person invisible to the dead but visible to dogs | 1 | ainu |
 | `loss_of_a_beloved_spiritual_companion_amid_communal_conflict` | Loss of a beloved spiritual companion amid communal conflict | 1 | sufi |
 | `loss_of_tradition_through_death_near_chroniclers` | loss of tradition through death near chroniclers | 1 | celtic_irish |
 | `lost_child_in_the_wilderness_unable_to_return_home` | lost child in the wilderness unable to return home | 1 | finnish_karelian |
@@ -353,26 +337,13 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `spirit_demon_or_soul_manifested_in_a_dust_column` | Spirit, demon, or soul manifested in a dust column | 1 | comparative |
 | `spiritual_authority_defeats_martial_power` | Spiritual authority defeats martial power | 1 | hindu |
 | `spiritual_authority_overcoming_royal_martial_power` | Spiritual authority overcoming royal martial power | 1 | hindu |
-| `spiritual_blindness_and_deafness_after_covenant_violation` | spiritual blindness and deafness after covenant violation | 1 | islamic |
 | `spiritual_danger_during_sleep_or_sloth` | Spiritual danger during sleep or sloth | 1 | sufi |
-| `spiritual_entrapment_by_a_tempter` | Spiritual entrapment by a tempter | 1 | sufi |
-| `spiritual_father_and_son_adoption` | spiritual father and son adoption | 1 | sufi |
 | `spiritual_goods_stolen_or_spoiled_by_hidden_pests` | Spiritual goods stolen or spoiled by hidden pests | 1 | sufi |
-| `spiritual_incapacity_figured_as_deadness_deafness_and_blindness` | spiritual incapacity figured as deadness, deafness, and blindness | 1 | islamic |
-| `spiritual_obstruction_through_sealed_faculties` | Spiritual obstruction through sealed faculties | 1 | islamic |
 | `spiritual_order_centered_on_a_master_s_work` | spiritual order centered on a master’s work | 1 | sufi |
-| `spouse_dies_of_grief_beside_the_dead_beloved` | spouse dies of grief beside the dead beloved | 1 | celtic_irish |
 | `spouse_secretly_followed_to_a_nocturnal_graveyard_rite` | spouse secretly followed to a nocturnal graveyard rite | 1 | islamicate_folklore |
 | `steadfast_community_after_possible_death_of_its_prophet` | Steadfast community after possible death of its prophet | 1 | islamic |
-| `stolen_soul_used_as_substitute_cure` | stolen soul used as substitute cure | 1 | comparative |
-| `storm_deity_with_thunder_weapons_combating_evil_spirits` | storm deity with thunder weapons combating evil spirits | 1 | finnish_karelian |
-| `stranger_as_crop_spirit_embodiment` | stranger as crop-spirit embodiment | 1 | comparative |
 | `sudden_bodily_affliction_in_a_liminal_tomb_setting` | Sudden bodily affliction in a liminal tomb setting | 1 | daoist |
 | `sun_assisted_stilling_of_the_death_realm` | Sun-assisted stilling of the death realm | 1 | finnish_karelian |
-| `supernatural_battle_terror_causing_death_within_a_host` | Supernatural battle-terror causing death within a host | 1 | celtic_irish |
-| `supernatural_construction_by_spirits` | Supernatural construction by spirits | 1 | islamic |
-| `supernatural_descent_and_emergence_at_cosmic_or_natural_boundaries` | Supernatural descent and emergence at cosmic or natural boundaries | 1 | greek |
-| `supernatural_foreknowledge_of_battlefield_death` | Supernatural foreknowledge of battlefield death | 1 | celtic_irish |
 | `supernatural_washerwoman_foretells_battlefield_death` | supernatural washerwoman foretells battlefield death | 1 | celtic_irish |
 | `supplication_for_burial_of_the_war_dead` | Supplication for burial of the war dead | 1 | roman |
 | `taboo_against_touching_the_ground_during_return` | taboo against touching the ground during return | 1 | celtic_irish |

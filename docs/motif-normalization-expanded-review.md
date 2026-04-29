@@ -6,12 +6,12 @@ This is a review artifact. It does not modify `taxonomy/motif-normalization.yml`
 
 ## Summary
 
-- Suggestions reviewed: 5000
+- Suggestions reviewed: 5040
 - Accepted draft mappings: 154
 - New canonical group candidates: 78
-- Low-confidence / needs human review: 1303
-- Suggested exclusions: 279
-- Already known in base normalization: 3264
+- Low-confidence / needs human review: 1313
+- Suggested exclusions: 280
+- Already known in base normalization: 3293
 
 ## New Group Candidates
 
@@ -601,7 +601,7 @@ This is a review artifact. It does not modify `taxonomy/motif-normalization.yml`
 | `fragile_false_refuge` | Fragile false refuge | needs_human_review | ``  | low | low confidence |
 | `fraud_exposed_by_makers_of_the_false_treasure` | fraud exposed by makers of the false treasure | map_to_existing_group | `divine_judgment` Divine Judgment and Moral Reckoning | low | low confidence |
 
-_Showing first 500 of 1303 review rows._
+_Showing first 500 of 1313 review rows._
 
 ## Suggested Exclusions
 
@@ -846,6 +846,7 @@ _Showing first 500 of 1303 review rows._
 | `sleeping_women_after_royal_revelry` | sleeping women after royal revelry | medium | This reads as a scene detail after courtly revelry rather than a symbolic or narrative motif. |
 | `solar_interpretation_of_a_deity_s_epithet` | solar interpretation of a deity's epithet | high | The label describes interpretation of an epithet, not a narrative or symbolic motif in the source world. |
 | `solar_zodiacal_interpretation_of_a_hero_s_labors` | solar-zodiacal interpretation of a hero's labors | high | The label describes an interpretive reading of heroic labors rather than a mythic action or symbolic motif in the narrative. |
+| `spiritual_order_centered_on_a_master_s_work` | spiritual order centered on a master’s work | medium | The label sounds like an organizational or commentary note about a Sufi order and a master’s corpus rather than a mythic motif. |
 | `story_narrated_as_true_event` | story narrated as true event | high | The label describes narrative framing or truth-claim status rather than a symbolic or narrative motif. |
 | `structured_eighteen_day_war` | structured eighteen-day war | medium | The exact eighteen-day structure appears source-specific rather than a reusable motif. |
 | `suppression_and_execution_of_sectarian_chiefs` | Suppression and execution of sectarian chiefs | medium | The label reads as a specific historical-political event summary rather than a reusable symbolic motif. |
@@ -887,4 +888,4 @@ _Showing first 500 of 1303 review rows._
 | `woman_enters_domestic_meal_with_textile_tool` | woman enters domestic meal with textile tool | medium | The label reads as an episode-specific domestic staging detail rather than a reusable symbolic motif. |
 | `wound_catalogue_reveals_sequence_of_attackers` | wound catalogue reveals sequence of attackers | medium | The label sounds like a narrative or analytic cataloguing device rather than a symbolic motif. |
 
-_Showing first 279 of 279 exclusion rows._
+_Showing first 280 of 280 exclusion rows._
