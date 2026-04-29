@@ -7,12 +7,12 @@ This report lists motif IDs that are present in the motif occurrence index but n
 ## Summary
 
 - Indexed motif IDs: 3462
-- Already mapped: 140
-- Unmapped: 3322
+- Already mapped: 300
+- Unmapped: 3162
 
 | Review Bucket | Unmapped Motifs |
 | --- | ---: |
-| Death, Descent, Afterlife, And Ancestors | 392 |
+| Death, Descent, Afterlife, And Ancestors | 232 |
 | Journey, Quest, Exile, And Homecoming | 156 |
 | Divine Presence, Ritual, Sacrifice, And Purity | 583 |
 | Wisdom, Speech, Dream, Vision, And Revelation | 114 |
@@ -29,236 +29,76 @@ This report lists motif IDs that are present in the motif occurrence index but n
 
 | Motif ID | Label | Occurrences | Traditions |
 | --- | --- | ---: | --- |
-| `external_or_detachable_soul` | External or detachable soul | 2 | comparative |
-| `external_soul_located_outside_the_body` | External soul located outside the body | 2 | comparative |
 | `accidental_death_by_received_weapon` | accidental death by received weapon | 1 | roman |
-| `after_death_reunion_of_a_purified_pair` | after-death reunion of a purified pair | 1 | greek |
 | `afterlife_continuation_of_earthly_fixation` | afterlife continuation of earthly fixation | 1 | roman |
 | `aged_champion_returns_under_provocation` | aged champion returns under provocation | 1 | roman |
-| `ancestors_or_dead_persons_embodied_in_trees` | Ancestors or dead persons embodied in trees | 1 | comparative |
-| `ancestral_exemplars_judging_later_imitators` | Ancestral exemplars judging later imitators | 1 | greek |
-| `ancestral_inheritance_overcome_by_conscious_action` | ancestral inheritance overcome by conscious action | 1 | greek |
 | `ancestral_or_heroic_weapons_carrying_memory_of_prior_combat` | ancestral or heroic weapons carrying memory of prior combat | 1 | roman |
-| `animal_body_as_temporary_location_of_a_living_person_s_soul` | Animal body as temporary location of a living person's soul | 1 | comparative |
-| `animal_body_explained_by_ancestral_punishment` | Animal body explained by ancestral punishment | 1 | japanese |
-| `animal_or_lizard_form_of_the_soul_as_a_variant_marker` | animal or lizard form of the soul as a variant marker | 1 | comparative |
-| `animal_pleads_usefulness_to_avoid_death` | animal pleads usefulness to avoid death | 1 | greek |
-| `animal_taboo_based_on_mythic_death` | animal taboo based on mythic death | 1 | comparative |
-| `apotropaic_mirror_repels_spirits` | Apotropaic mirror repels spirits | 1 | comparative |
-| `apotropaic_plant_against_evil_spirits` | apotropaic plant against evil spirits | 1 | comparative |
-| `apotropaic_removal_of_death_and_disease_from_village_or_house` | Apotropaic removal of death and disease from village or house | 1 | comparative |
 | `appeal_to_hostile_divinity_for_death_as_relief` | appeal to hostile divinity for death as relief | 1 | roman |
 | `appointed_day_of_death` | appointed day of death | 1 | roman |
-| `assimilation_of_local_underworld_to_greek_hades` | Assimilation of local underworld to Greek Hades | 1 | greek_roman |
 | `attachment_to_a_beloved_followed_by_mourning_at_the_tomb` | Attachment to a beloved followed by mourning at the tomb | 1 | persian |
-| `authorship_as_public_immortality` | authorship as public immortality | 1 | greek |
 | `avenger_from_the_dead_person_s_dust` | avenger from the dead person's dust | 1 | roman |
 | `avenging_father_mobilizes_war_after_son_s_death` | Avenging father mobilizes war after son's death | 1 | roman |
-| `avoidance_of_raw_flesh_or_blood_to_prevent_spirit_contact` | Avoidance of raw flesh or blood to prevent spirit contact | 1 | comparative |
-| `avoidance_of_sharp_instruments_near_the_dead_or_the_soul` | Avoidance of sharp instruments near the dead or the soul | 1 | comparative |
-| `bear_nursed_first_ancestor` | Bear-nursed first ancestor | 1 | comparative |
 | `beloved_s_pursuit_leads_to_unintended_death` | beloved’s pursuit leads to unintended death | 1 | roman |
 | `beloved_s_self_death_and_placement_beside_dead_hero_with_sword_boundary` | Beloved's self-death and placement beside dead hero with sword boundary | 1 | norse |
 | `benevolent_aerial_nature_spirits_tending_plants_and_animals` | benevolent aerial nature spirits tending plants and animals | 1 | norse |
-| `bestowal_of_immortality` | bestowal of immortality | 1 | greek_roman |
-| `birth_or_generation_as_access_to_immortality` | birth or generation as access to immortality | 1 | greek |
 | `bleeding_plant_reveals_a_murdered_dead_person` | Bleeding plant reveals a murdered dead person | 1 | roman |
-| `blessed_island_with_painless_divine_death_in_old_age` | Blessed island with painless divine death in old age | 1 | greek |
-| `blood_contains_the_animal_s_life_or_soul` | Blood contains the animal's life or soul | 1 | comparative |
 | `blood_stained_token_falsely_indicating_death` | blood-stained token falsely indicating death | 1 | roman |
-| `body_as_tomb_or_shell_imprisoning_soul` | body as tomb or shell imprisoning soul | 1 | greek |
-| `body_part_of_the_dead_transformed_into_stars` | Body part of the dead transformed into stars | 1 | norse |
-| `boundary_preventing_return_of_expelled_harms` | boundary preventing return of expelled harms | 1 | comparative |
-| `breaking_or_burning_the_token_causes_death` | breaking or burning the token causes death | 1 | comparative |
-| `breath_caught_as_departing_soul` | breath caught as departing soul | 1 | comparative |
-| `calling_back_the_soul` | calling back the soul | 1 | comparative |
 | `captive_royal_woman_preserves_dignity_before_death` | Captive royal woman preserves dignity before death | 1 | roman |
-| `capture_and_confinement_of_the_separable_soul` | capture and confinement of the separable soul | 1 | comparative |
-| `caravan_lost_in_deadly_desert_through_failed_navigation` | Caravan lost in deadly desert through failed navigation | 1 | buddhist |
 | `catalogue_of_named_combat_deaths` | catalogue of named combat deaths | 1 | roman |
-| `child_taken_by_wood_spirits_and_recovered_in_a_tree` | Child taken by wood spirits and recovered in a tree | 1 | comparative |
-| `chthonic_wealth_divinity_confused_with_underworld_god` | chthonic wealth divinity confused with underworld god | 1 | greek_roman |
-| `civic_or_communal_tutelary_spirit` | civic or communal tutelary spirit | 1 | greek_roman |
-| `clinging_spirit_contagion_after_contact_with_death_or_persons` | Clinging spirit contagion after contact with death or persons | 1 | comparative |
-| `closing_boundaries_after_expelling_spirits` | Closing boundaries after expelling spirits | 1 | comparative |
-| `coercing_a_rain_god_spirit_fetish_animal_or_substitute` | coercing a rain-god, spirit, fetish, animal, or substitute | 1 | comparative |
-| `coin_payment_accompanying_death_registration` | coin payment accompanying death registration | 1 | greek_roman |
 | `commemorative_games_for_a_dead_father` | Commemorative games for a dead father | 1 | roman |
-| `communal_expulsion_of_misfortune_causing_spirits` | Communal expulsion of misfortune-causing spirits | 1 | comparative |
-| `community_clearance_of_harmful_spiritual_beings` | community clearance of harmful spiritual beings | 1 | comparative |
-| `community_restored_after_deceiver_s_death` | community restored after deceiver's death | 1 | buddhist |
-| `compelled_gaze_at_death` | Compelled gaze at death | 1 | greek |
-| `completion_of_duty_before_death` | completion of duty before death | 1 | buddhist |
 | `contest_for_a_dead_hero_s_arms` | contest for a dead hero's arms | 1 | roman |
 | `contest_for_the_arms_of_a_dead_hero` | Contest for the arms of a dead hero | 1 | roman |
 | `contest_over_a_dead_hero_s_arms` | contest over a dead hero's arms | 1 | roman |
-| `contest_over_a_dead_hero_s_arms_leads_to_a_warrior_s_suicide` | contest over a dead hero's arms leads to a warrior's suicide | 1 | greek_roman |
-| `corn_spirit_embodied_in_harvest_animal` | corn-spirit embodied in harvest animal | 1 | comparative |
 | `corpse_devouring_animal_below_a_murder_precipice` | corpse-devouring animal below a murder precipice | 1 | roman |
-| `cosmic_disturbance_caused_by_spiritual_mastery` | Cosmic disturbance caused by spiritual mastery | 1 | buddhist |
 | `cosmic_mourning_after_a_divine_death` | cosmic mourning after a divine death | 1 | norse |
-| `cosmic_omens_confirming_spiritual_destiny` | Cosmic omens confirming spiritual destiny | 1 | buddhist |
-| `covered_mouth_or_face_blocks_spiritual_danger` | covered mouth or face blocks spiritual danger | 1 | comparative |
-| `covering_mirrors_after_death_to_prevent_soul_capture` | covering mirrors after death to prevent soul capture | 1 | comparative |
-| `danger_of_a_sacred_or_spirit_bearing_substance_over_a_tabooed_head` | danger of a sacred or spirit-bearing substance over a tabooed head | 1 | comparative |
-| `dangerous_hybrid_singers_lure_seafarers_to_death` | dangerous hybrid singers lure seafarers to death | 1 | greek_roman |
 | `dead_beloved_s_grave_affected_by_the_living_beloved_s_emotions` | Dead beloved's grave affected by the living beloved's emotions | 1 | norse |
 | `dead_companions_linked_by_facing_mounds_across_water` | dead companions linked by facing mounds across water | 1 | norse |
-| `dead_father_seeks_news_of_living_son` | dead father seeks news of living son | 1 | greek |
 | `dead_god_or_ruler_preserved_in_mound_to_maintain_prosperity` | dead god or ruler preserved in mound to maintain prosperity | 1 | norse |
-| `dead_hero_rejects_glory_in_death` | dead hero rejects glory in death | 1 | greek |
-| `dead_or_ancestors_detain_the_souls_of_the_living` | dead or ancestors detain the souls of the living | 1 | comparative |
-| `dead_or_departed_agent_mediating_rain` | Dead or departed agent mediating rain | 1 | comparative |
 | `dead_ruler_still_looking_toward_lost_possessions` | Dead ruler still looking toward lost possessions | 1 | persian |
-| `deadly_marriage_race` | deadly marriage race | 1 | greek_roman |
-| `deadly_object_in_a_courtship_contest` | deadly object in a courtship contest | 1 | greek |
 | `deadly_siren_seascape` | Deadly Siren seascape | 1 | roman |
-| `death_answers_a_summons` | Death answers a summons | 1 | greek |
-| `death_as_release_from_cursed_misery` | Death as release from cursed misery | 1 | greek_roman |
-| `death_as_release_from_immortal_suffering` | death as release from immortal suffering | 1 | greek_roman |
-| `death_by_a_weapon_made_partly_from_oneself_or_one_s_kind` | death by a weapon made partly from oneself or one's kind | 1 | greek |
-| `death_by_destruction_of_an_external_animal_soul` | Death by destruction of an external animal-soul | 1 | comparative |
 | `death_by_one_s_own_hunting_dogs` | death by one's own hunting dogs | 1 | roman |
 | `death_by_pyre_as_omen_to_departing_enemy` | death by pyre as omen to departing enemy | 1 | roman |
-| `death_caused_by_damage_to_external_life_object` | Death caused by damage to external life-object | 1 | comparative |
 | `death_figure_riding_through_plague_and_famine` | Death figure riding through plague and famine | 1 | norse |
 | `death_god_as_wild_hunt_rider_or_leader` | death god as Wild Hunt rider or leader | 1 | norse |
-| `death_of_a_tyrant_celebrated_by_the_people` | Death of a tyrant celebrated by the people | 1 | buddhist |
 | `death_of_the_father_at_the_journey_s_goal` | death of the father at the journey's goal | 1 | roman |
-| `death_omen_produced_by_ritual_failure_or_contact_with_the_death_figure` | Death omen produced by ritual failure or contact with the Death figure | 1 | comparative |
-| `death_or_misfortune_apparition` | death-or-misfortune apparition | 1 | norse |
 | `death_pollution_transmitted_through_spouse` | death pollution transmitted through spouse | 1 | roman |
 | `death_pursuing_the_wealth_seeker` | death pursuing the wealth-seeker | 1 | persian |
-| `death_through_loss_of_shadow` | Death through loss of shadow | 1 | comparative |
-| `deathlike_sleep_during_passage` | Deathlike sleep during passage | 1 | greek |
 | `defeated_enemy_requests_burial` | defeated enemy requests burial | 1 | roman |
-| `deity_with_absolute_power_over_life_and_death` | deity with absolute power over life and death | 1 | greek_roman |
 | `denial_of_burial_to_the_defeated_enemy` | denial of burial to the defeated enemy | 1 | roman |
-| `departed_spirits_return_to_warn_the_living` | Departed spirits return to warn the living | 1 | greek_roman |
-| `desecration_of_defeated_enemy_s_corpse` | Desecration of defeated enemy's corpse | 1 | greek_roman |
 | `destructive_passion_kindled_by_underworld_fire_and_serpents` | destructive passion kindled by underworld fire and serpents | 1 | roman |
-| `destructive_passion_leading_to_death` | destructive passion leading to death | 1 | buddhist |
-| `detained_sleeper_s_soul_causing_illness` | detained sleeper’s soul causing illness | 1 | comparative |
-| `discarded_object_spirit_causes_child_deaths_until_ritually_honoured` | Discarded object spirit causes child deaths until ritually honoured | 1 | ainu |
 | `dismembered_bard_and_ritual_burial_in_note` | dismembered bard and ritual burial in note | 1 | roman |
-| `divine_helper_counsels_returning_hero` | Divine helper counsels returning hero | 1 | greek |
 | `divine_made_equipment_linked_to_the_hero_s_death_by_fire` | divine-made equipment linked to the hero's death by fire | 1 | roman |
 | `divine_or_underworld_tempered_weapon` | divine or underworld-tempered weapon | 1 | roman |
 | `divine_protection_of_warrior_s_corpse_and_arms` | divine protection of warrior’s corpse and arms | 1 | roman |
-| `divinely_aided_passage_of_a_unique_vessel_through_deadly_rocks` | Divinely aided passage of a unique vessel through deadly rocks | 1 | greek |
 | `dream_apparition_announces_death` | dream apparition announces death | 1 | roman |
 | `dream_messenger_announces_death` | Dream messenger announces death | 1 | roman |
-| `dying_animal_laments_the_manner_of_its_death` | dying animal laments the manner of its death | 1 | greek |
 | `dying_curse_creates_hereditary_enmity` | dying curse creates hereditary enmity | 1 | roman |
 | `dying_enemy_foretells_victor_s_imminent_equal_fate` | Dying enemy foretells victor's imminent equal fate | 1 | roman |
-| `dying_mother_addresses_daughter` | dying mother addresses daughter | 1 | japanese |
-| `dying_mother_s_moral_injunction_to_child` | Dying mother’s moral injunction to child | 1 | japanese |
-| `dying_parent_gives_a_remembrance_token` | dying parent gives a remembrance token | 1 | japanese |
 | `dying_spouse_s_last_invocation_of_beloved` | dying spouse’s last invocation of beloved | 1 | roman |
 | `dying_swan_song_as_image_for_lament` | Dying-swan song as image for lament | 1 | roman |
-| `dying_warrior_foretells_conqueror_s_death` | Dying warrior foretells conqueror's death | 1 | greek_roman |
 | `dying_warrior_s_last_command_to_a_trusted_companion` | dying warrior's last command to a trusted companion | 1 | roman |
 | `empty_tomb_and_ritual_address_to_absent_dead` | empty tomb and ritual address to absent dead | 1 | roman |
-| `enchantment_of_the_soul_by_speech` | enchantment of the soul by speech | 1 | greek |
 | `enduring_fame_after_heroic_death` | enduring fame after heroic death | 1 | roman |
-| `enduring_tomb_proclamation` | Enduring tomb proclamation | 1 | greek |
-| `ensouled_trees_and_vegetation_spirits` | Ensouled trees and vegetation spirits | 1 | comparative |
-| `entombed_beloved_followed_by_suicide` | entombed beloved followed by suicide | 1 | greek_roman |
-| `exorcism_of_evil_spirits_attached_to_persons` | Exorcism of evil spirits attached to persons | 1 | comparative |
-| `expulsion_of_disease_devils_or_evil_spirits` | Expulsion of disease, devils, or evil spirits | 1 | comparative |
-| `external_life_or_soul_hidden_in_hair` | External life or soul hidden in hair | 1 | comparative |
-| `external_life_or_soul_hidden_outside_the_body` | external life or soul hidden outside the body | 1 | comparative |
-| `external_life_soul_fate_safety_or_strength_kept_outside_the_body` | External life, soul, fate, safety, or strength kept outside the body | 1 | comparative |
-| `external_or_vulnerable_soul` | External or vulnerable soul | 1 | comparative |
-| `external_soul_harmed_to_kill_its_owner` | external soul harmed to kill its owner | 1 | comparative |
-| `external_soul_hidden_outside_the_body` | External soul hidden outside the body | 1 | comparative |
-| `external_soul_kept_outside_the_body` | external soul kept outside the body | 1 | comparative |
-| `external_soul_or_external_life_kept_in_an_object` | external soul or external life kept in an object | 1 | comparative |
-| `external_soul_or_external_life_token` | external soul or external life-token | 1 | comparative |
-| `external_soul_or_life_bound_to_another_object` | external soul or life bound to another object | 1 | comparative |
-| `external_soul_or_life_bound_to_external_object` | external soul or life bound to external object | 1 | comparative |
-| `external_soul_or_life_placed_outside_the_body` | external soul or life placed outside the body | 1 | comparative |
-| `external_soul_or_life_stored_outside_the_body` | External soul or life stored outside the body | 1 | comparative |
-| `external_soul_or_separable_soul` | External soul or separable soul | 1 | comparative |
-| `external_soul_secured_in_a_totemic_object` | External soul secured in a totemic object | 1 | comparative |
-| `external_soul_soul_recall_and_soul_transfer` | External soul, soul recall, and soul transfer | 1 | comparative |
-| `externalized_life_or_soul_stored_outside_the_body` | Externalized life or soul stored outside the body | 1 | comparative |
-| `externalized_life_strength_or_soul` | externalized life, strength, or soul | 1 | comparative |
 | `fading_youth_and_rejected_return` | Fading youth and rejected return | 1 | persian |
 | `failed_embrace_of_the_dead_beloved_relative` | failed embrace of the dead beloved relative | 1 | roman |
 | `false_death_report_leading_to_mistaken_mourning_rites` | false death report leading to mistaken mourning rites | 1 | roman |
-| `false_noble_ancestry_claim_in_a_place_of_the_dead` | False noble ancestry claim in a place of the dead | 1 | greek |
-| `fatal_loss_or_capture_of_reflection_soul_in_water` | fatal loss or capture of reflection-soul in water | 1 | comparative |
-| `fate_goddesses_present_at_birth_and_death` | fate goddesses present at birth and death | 1 | greek_roman |
 | `fated_warrior_exposed_to_death_after_protective_concealment_ends` | fated warrior exposed to death after protective concealment ends | 1 | roman |
 | `fear_of_bloodless_death_and_preference_for_violent_death_to_reach_a_better_afterlife` | Fear of bloodless death and preference for violent death to reach a better afterlife | 1 | norse |
-| `fear_that_a_dead_wrongdoer_may_be_rejected_at_death_s_gate_and_return` | Fear that a dead wrongdoer may be rejected at Death's gate and return | 1 | buddhist |
-| `feeding_and_dismissing_the_souls_of_the_dead` | Feeding and dismissing the souls of the dead | 1 | comparative |
-| `feigned_death_to_escape_a_predator` | feigned death to escape a predator | 1 | greek |
-| `feigning_death_to_escape_captivity` | Feigning death to escape captivity | 1 | buddhist |
 | `first_love_before_a_deadly_trial` | first love before a deadly trial | 1 | roman |
-| `food_placed_on_corpse_as_possible_sin_eating_survival` | food placed on corpse as possible sin-eating survival | 1 | comparative |
-| `fright_causing_sudden_death` | fright causing sudden death | 1 | buddhist |
-| `funeral_games_after_heroic_death` | Funeral games after heroic death | 1 | greek_roman |
 | `funeral_provision_for_possible_battlefield_death` | Funeral provision for possible battlefield death | 1 | roman |
-| `funeral_rites_and_memorial_if_the_missing_father_is_dead` | funeral rites and memorial if the missing father is dead | 1 | greek |
-| `funeral_rites_for_a_dead_companion` | Funeral rites for a dead companion | 1 | greek |
 | `funeral_ship_with_costly_grave_goods` | funeral ship with costly grave goods | 1 | norse |
-| `funerary_deity_as_administrator_of_death_rites` | funerary deity as administrator of death rites | 1 | greek_roman |
-| `future_life_or_renewed_discourse_after_death` | future life or renewed discourse after death | 1 | greek |
-| `generic_crop_mother_or_maiden_spirit_without_individualized_myth` | generic crop-mother or maiden spirit without individualized myth | 1 | comparative |
-| `goat_formed_woodland_spirit` | Goat-formed woodland spirit | 1 | comparative |
-| `goat_like_woodland_spirit_race` | goat-like woodland spirit race | 1 | greek_roman |
-| `goddess_aided_survival_at_the_edge_of_death` | goddess-aided survival at the edge of death | 1 | greek |
 | `grief_at_body_ashes_tomb_and_name` | grief at body, ashes, tomb, and name | 1 | roman |
 | `grief_driven_death_at_a_beloved_s_tomb` | grief-driven death at a beloved’s tomb | 1 | roman |
-| `grief_for_absent_kin_leading_to_decline_or_death` | Grief for absent kin leading to decline or death | 1 | greek |
-| `grieving_parent_mourns_absent_son_as_dead` | grieving parent mourns absent son as dead | 1 | greek |
 | `grieving_parent_returns_to_battle_seeking_death_or_vengeance` | grieving parent returns to battle seeking death or vengeance | 1 | roman |
 | `guardian_spirit_attending_a_person_through_life` | guardian spirit attending a person through life | 1 | norse |
-| `healing_of_the_fallen_soul` | healing of the fallen soul | 1 | greek |
-| `healing_or_protection_by_the_spirit_that_causes_injury` | healing or protection by the spirit that causes injury | 1 | comparative |
 | `hero_honored_as_demigod_after_death` | hero honored as demigod after death | 1 | roman |
 | `hero_restored_from_wound_and_returned_to_battle` | hero restored from wound and returned to battle | 1 | roman |
 | `hero_turns_toward_fated_death` | hero turns toward fated death | 1 | roman |
 | `heroic_death_catalogue_in_battle` | Heroic death catalogue in battle | 1 | roman |
-| `heroic_death_or_farewell` | Heroic death or farewell | 1 | norse |
 | `heroic_hunt_against_a_deadly_beast` | heroic hunt against a deadly beast | 1 | roman |
 | `heroic_lament_and_escorted_return_of_a_fallen_youth` | Heroic lament and escorted return of a fallen youth | 1 | roman |
-| `hidden_external_soul` | hidden external soul | 1 | comparative |
-| `hidden_token_of_the_dead_mother_misunderstood_as_evidence_of_wrongdoing` | hidden token of the dead mother misunderstood as evidence of wrongdoing | 1 | japanese |
-| `honored_hero_cremation_with_precious_container_and_companion_burial` | honored hero cremation with precious container and companion burial | 1 | greek_roman |
-| `human_animal_identity_through_transferred_soul` | human-animal identity through transferred soul | 1 | comparative |
-| `human_interruption_of_divine_rite_prevents_immortality` | human interruption of divine rite prevents immortality | 1 | greek_roman |
-| `human_mariner_beholds_dancing_sea_spirits` | human mariner beholds dancing sea spirits | 1 | greek_roman |
-| `hunting_and_restoring_a_lost_soul` | Hunting and restoring a lost soul | 1 | comparative |
-| `ideal_realized_in_death_and_misery` | ideal realized in death and misery | 1 | greek |
-| `ignored_warning_leads_to_heroic_death` | Ignored warning leads to heroic death | 1 | greek_roman |
-| `illness_or_misfortune_attributed_to_harmful_spirits_and_treated_by_expulsion` | Illness or misfortune attributed to harmful spirits and treated by expulsion | 1 | comparative |
-| `immanent_spirit_becoming_external_deity` | immanent spirit becoming external deity | 1 | comparative |
-| `immortal_soul_as_source_of_motion` | Immortal soul as source of motion | 1 | greek |
-| `immortality_and_unity_of_the_created_state` | Immortality and unity of the created state | 1 | greek |
-| `immortality_experienced_as_lamentation` | immortality experienced as lamentation | 1 | greek_roman |
-| `immortality_substance_withheld_and_destroyed` | immortality substance withheld and destroyed | 1 | japanese |
-| `immortality_without_eternal_youth` | Immortality without eternal youth | 1 | greek_roman |
-| `impermanence_of_glory_after_a_great_teacher_s_death` | Impermanence of glory after a great teacher’s death | 1 | buddhist |
-| `indestructible_immortal_soul` | indestructible immortal soul | 1 | greek |
 | `infallible_returning_weapon_with_fatal_consequences` | infallible returning weapon with fatal consequences | 1 | roman |
-| `inner_division_of_the_soul` | inner division of the soul | 1 | greek |
-| `intermediary_spirits_carry_prayers_and_divine_gifts` | intermediary spirits carry prayers and divine gifts | 1 | greek_roman |
-| `intoxication_as_spirit_possession_or_inspiration` | intoxication as spirit possession or inspiration | 1 | comparative |
-| `invulnerability_through_externalized_soul` | Invulnerability through externalized soul | 1 | comparative |
-| `invulnerability_through_soul_removal_and_guarded_soul_box` | invulnerability through soul removal and guarded soul-box | 1 | comparative |
-| `iron_as_apotropaic_protection_against_spirits` | Iron as apotropaic protection against spirits | 1 | comparative |
-| `killed_animal_soul_or_spirit_monitors_human_treatment` | Killed animal soul or spirit monitors human treatment | 1 | comparative |
-| `life_and_death_dependent_on_human_will` | life and death dependent on human will | 1 | greek |
-| `life_bound_tree_spirit` | life-bound tree spirit | 1 | greek_roman |
-| `life_object_as_death_object` | Life-object as death-object | 1 | comparative |
 | `life_of_spirit_bound_to_tree` | life of spirit bound to tree | 1 | roman |
-| `life_or_consciousness_controlled_by_handling_an_external_soul_object` | Life or consciousness controlled by handling an external soul-object | 1 | comparative |
-| `life_or_death_bound_to_an_animal_receptacle` | life or death bound to an animal receptacle | 1 | comparative |
-| `life_or_soul_deposited_in_an_external_object` | Life or soul deposited in an external object | 1 | comparative |
-| `life_or_soul_kept_outside_the_body` | life or soul kept outside the body | 1 | comparative |
 | `living_person_invisible_to_the_dead_but_visible_to_dogs` | Living person invisible to the dead but visible to dogs | 1 | ainu |
 | `lost_soul_recovered_in_visible_or_material_form` | Lost soul recovered in visible or material form | 1 | comparative |
 | `love_extending_into_the_realm_of_death` | love extending into the realm of death | 1 | greek_roman |
